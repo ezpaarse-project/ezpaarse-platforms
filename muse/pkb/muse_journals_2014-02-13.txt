@@ -1,0 +1,602 @@
+publication_title	print_identifier	online_identifier	date_first_issue_online	num_first_vol_online	num_first_issue_online	date_last_issue_online	num_last_vol_online	num_last_issue_online	title_url	first_author	title_id	embargo_info	coverage_depth	coverage_notes	publisher_name
+a/b: Auto/Biography Studies	0898-9575	2151-7290									ab_autobiography_studies				
+Ab Imperio	2166-4072	2164-9731									ab_imperio				
+Advertising & Society Review		1534-7311									advertising_and_society_review				
+Africa: The Journal of the International African Institute	0001-9720	1750-0184									africa_the_journal_of_the_international_african_institute				
+Africa Today	0001-9887	1527-1978									africa_today				
+African American Review	1062-4783	1945-6182									african_american_review				
+African Conflict & Peacebuilding Review	2156-695X	2156-7263									african_conflict_and_peacebuilding_review				
+African Economic History	0145-2258	2163-9108									african_economic_history				
+African Studies Review	0002-0206	1555-2462									african_studies_review				
+Alabama Review	0002-4341	2166-9961									alabama_review				
+Aleph: Historical Studies in Science and Judaism	1565-1525	1565-5423									aleph_historical_studies_in_science_and_judaism				
+American Annals of the Deaf	0002-726X	1543-0375									american_annals_of_the_deaf				
+American Book Review	0149-9408	2153-4578									american_book_review				
+American Catholic Studies	2161-8542	2161-8534									american_catholic_studies				
+American Imago	0065-860X	1085-7931									american_imago				
+The American Indian Quarterly	0095-182X	1534-1828									american_indian_quarterly				
+American Jewish History	0164-0178	1086-3141									american_jewish_history				
+The American Journal of Bioethics	1526-5161	1536-0075									american_journal_of_bioethics				
+American Journal of Mathematics	0002-9327	1080-6377									american_journal_of_mathematics				
+American Journal of Philology	0002-9475	1086-3168									american_journal_of_philology				
+American Journal of Theology & Philosophy	0194-3448	2156-4795									american_journal_of_theology_and_philosophy				
+American Literary History	0896-7148	1468-4365									american_literary_history				
+American Literary Realism	1540-3084	1940-5103									american_literary_realism				
+American Literary Scholarship	0065-9142	1527-2125									american_literary_scholarship				
+American Literature	0002-9831	1527-2117									american_literature				
+American Music	0734-4392	1945-2349									american_music				
+American Periodicals: A Journal of History, Criticism, and Bibliography	1054-7479	1548-4238									american_periodicals				
+American Quarterly	0003-0678	1080-6490									american_quarterly				
+American Speech	0003-1283	1527-2133									american_speech				
+American Studies	0026-3079	2153-6856									american_studies				
+The Americas	0003-1615	1533-6247									the_americas				
+An Sionnach: A Journal of Literature, Culture, and the Arts	1554-8953	1944-6535									an_sionnach				
+Anales Galdosianos	0569-9924	2161-301X									anales_galdosianos				
+Anthropological Linguistics	0003-5483	1944-6527									anthropological_linguistics				
+Anthropological Quarterly	0003-5491	1534-1518									anthropological_quarterly				
+Appalachian Heritage	0363-2318	1940-5081									appalachian_heritage				
+Archives of Asian Art	0066-6637	1944-6497									archives_of_asian_art				
+Arctic Anthropology	0066-6939	1933-8139									arctic_anthropology				
+Arethusa	0004-0975	1080-6504									arethusa				
+Arizona Journal of Hispanic Cultural Studies	1096-2492	1934-9009									arizona_journal_of_hispanic_cultural_studies				
+Arizona Quarterly: A Journal of American Literature, Culture, and Theory	0004-1610	1558-9595									arizona_quarterly_a_journal_of_american_literature_culture_and_theory				
+Arthuriana	1078-6279	1934-1539									arthuriana				
+Asia Policy	1559-0968	1559-2960									asia_policy				
+Asian Bioethics Review	1793-8759	1793-9453									asian_bioethics_review				
+Asian Music	0044-9202	1553-5630									asian_music				
+Asian Perspectives	0066-8435	1535-8283									asian_perspectives				
+Asian Theatre Journal	0742-5457	1527-2109									asian_theatre_journal				
+AUDEM: The International Journal of Higher Education and Democracy	2157-8583	2157-8591									audem				
+Azalea: Journal of Korean Literature & Culture	1939-6120	1944-6500									azalea				
+Biography	0162-4962	1529-1456									biography				
+Black Camera	1536-3155	1947-4237									black_camera				
+Black Music Research Journal	0276-3605	1946-1615									black_music_research_journal				
+Black Women, Gender & Families	1935-2743	1944-6462									black_women_gender_and_families				
+Book History	1098-7371	1529-1499									book_history				
+Bookbird: A Journal of International Children's Literature	0006-7377	1918-6983									bookbird				
+boundary 2	0190-3659	1527-2141									boundary				
+Bridges: A Jewish Feminist Journal	1046-8358	1558-9552									bridges_a_jewish_feminists_journal				
+Brookings Papers on Economic Activity	0007-2303	1533-4465									brookings_papers_on_economic_activity				
+Brookings Papers on Education Policy	1096-2719	1533-4457									brookings_papers_on_education_policy				
+Brookings Trade Forum	1520-5479	1534-0635									brookings_trade_forum				
+Brookings-Wharton Papers on Financial Services	1098-3651	1533-4430									brookings-wharton_papers_on_financial_services				
+Brookings-Wharton Papers on Urban Affairs	1528-7084	1533-4449									brookings-wharton_papers_on_urban_affairs				
+Buddhist-Christian Studies	0882-0945	1527-9472									buddhist-christian_studies				
+Buildings & Landscapes: Journal of the Vernacular Architecture Forum	1936-0886	1934-6832									buildings_and_landscapes				
+The Bulletin of Hispanic Studies	1475-3839	1478-3398									bulletin_of_hispanic_studies				
+Bulletin of the Center for Children's Books	0008-9036	1558-6766									bulletin_of_the_center_for_childrens_books				
+Bulletin of the Comediantes	0007-5108	1944-0928									bulletin_of_the_comediantes				
+Bulletin of the History of Medicine	0007-5140	1086-3176									bulletin_of_the_history_of_medicine				
+The Byron Journal	0301-7257	1757-0263									byron_journal				
+Callaloo	0161-2492	1080-6512									callaloo				
+The Cambridge Quarterly	0008-199X	1471-6836									cambridge_quarterly				
+Camera Obscura	0270-5346	1529-1510									camera_obscura				
+Canadian Ethnic Studies	0008-3496	1913-8253									canadian_ethnic_studies				
+The Canadian Historical Review	0008-3755	1710-1093									canadian_historical_review				
+Canadian Journal of Criminology and Criminal Justice	1707-7753	1911-0219									canadian_journal_of_criminology_and_criminal_justice				
+Canadian Journal of Information and Library Science	1195-096X	1920-7239									canadian_journal_of_information_and_library_science				
+Canadian Journal of Law and Society	0829-3201	1911-0227									canadian_journal_of_law_and_society				
+The Canadian Journal of Linguistics / La revue canadienne de linguistique	0008-4131	1710-1115									canadian_journal_of_linguistics				
+Canadian Journal of Philosophy	0045-5091	1911-0820									canadian_journal_of_philosophy				
+The Canadian Journal of Sociology	0318-6431	1710-1123									canadian_journal_of_sociology				
+Canadian Journal of Women and the Law	0832-8781	1911-0235									canadian_journal_of_women_and_the_law				
+Canadian Journal on Aging / La Revue canadienne du vieillissement	0714-9808	1710-1107									canadian_journal_on_aging				
+The Canadian Modern Language Review / La revue canadienne des langues vivantes	0008-4506	1710-1131									canadian_modern_language_review				
+Canadian Public Policy	0317-0861	1911-9917									canadian_public_policy				
+Canadian Review of American Studies	0007-7720	1710-114X									canadian_review_of_american_studies				
+Canadian Theatre Review	0315-0836	1920-941X									canadian_theatre_review				
+Caribbean Studies	0008-6533	1940-9095									caribbean_studies				
+Cartographica: The International Journal for Geographic Information and Geovisualization	0317-7173	1911-9925									cartographica				
+The Catholic Historical Review	0008-8080	1534-0708									catholic_historical_review				
+CEA Critic	0007-8069	2327-5898									cea_critic				
+Change Over Time	2153-053x	2153-0548									change_over_time				
+The Chaucer Review	0009-2002	1528-4204									chaucer_review				
+Children's Literature	0092-8208	1543-3374									childrens_literature				
+Children's Literature Association Quarterly	0885-0429	1553-1201									childrens_literature_association_quarterly				
+China: An International Journal	0219-7472	0219-8614									china				
+China Review	1680-2012	1015-6607									china_review				
+China Review International	1069-5834	1527-9367									china_review_international				
+Cinema Journal	0009-7101	1527-2087									cinema_journal				
+Civil War History	0009-8078	1533-6271									civil_war_history				
+Classical World	0009-8418	1558-9234									classical_world				
+Collaborative Anthropologies	1943-2550	2152-4009									collaborative_anthropologies				
+College Literature	0093-3139	1542-4286									college_literature				
+Colorado Review	1046-3348	2325-730X									colorado_review				
+Comitatus: A Journal of Medieval and Renaissance Studies	0069-6412	1557-0290									comitatus				
+Common Knowledge	0961-754X	1538-4578									common_knowledge				
+Community Literacy Journal	1555-9734	2162-6324									community_literacy_journal				
+The Comparatist	0195-7678	1559-0887									the_comparatist				
+Comparative Critical Studies	1744-1854	1750-0109									comparative_critical_studies				
+Comparative Drama	0010-4078	1936-1637									comparative_drama				
+Comparative Literature Studies	0010-4132	1528-4212									comparative_literature_studies				
+Comparative Studies of South Asia, Africa and the Middle East	1089-201X	1548-226X									comparative_studies_of_south_asia_africa_and_the_middle_east				
+Comparative Technology Transfer and Society	1542-0132	1543-3404									comparative_technology_transfer_and_society				
+Computer Music Journal	0148-9267	1531-5169									computer_music_journal				
+Configurations	1063-1801	1080-6520									configurations				
+Conradiana	0010-6356	1935-0252									conradiana				
+Conservative Judaism	0010-6542	1947-4717									conservative_judaism				
+Contagion: Journal of Violence, Mimesis, and Culture	1075-7201	1930-1200									contagion				
+Contemporary Literature	0010-7484	1548-9949									contemporary_literature				
+The Contemporary Pacific	1043-898X	1527-9464									contemporary_pacific				
+Contemporary Southeast Asia: A Journal of International and Strategic Affairs	0129-797X	1793-284X									contemporary_southeast_asia_a_journal_of_international_and_strategic_affairs				
+La corónica: A Journal of Medieval Hispanic Languages, Literatures, and Cultures	0193-3892	1947-4261									la_coronica				
+CR: The New Centennial Review	1532-687x	1539-6630									new_centennial_review				
+Cream City Review	0884-3457	2166-014x									cream_city_review				
+Critical Philosophy of Race	2165-8684	2165-8692									critical_philosophy_of_race				
+Criticism	0011-1589	1536-0342									criticism				
+Cross-Currents: East Asian History and Culture Review	2158-9666	2158-9674									cross_currents_east_asian_history_and_culture_review				
+Cuban Studies	0361-4441	1548-2464									cuban_studies				
+Cultural Critique	0882-4371	1534-5203									cultural_critique				
+Cultural Politics	1743-2197	1751-7435									cultural_politics				
+Dance Research	0264-2875	1750-0095									dance_research				
+Dance Research Journal	0149-7677	1940-509X									dance_research_journal				
+Dante Studies	0070-2862										dante_studies				
+Demography	0070-3370	1533-7790									demography				
+diacritics	0300-7162	1080-6539									diacritics				
+Diaspora: A Journal of Transnational Studies	1044-2057	1911-1568									diaspora_a_journal_of_transnational_studies				
+Dictionaries: Journal of the Dictionary Society of North America	0197-6745	2160-5076									dictionaries				
+differences: A Journal of Feminist Cultural Studies	1040-7391	1527-1986									differences				
+Digital Philology: A Journal of Medieval Cultures	2162-9544	2162-9552									digital_philology				
+Discourse	1522-5321	1536-1810									discourse				
+Dissent	0012-3846	1946-0910									dissent				
+Dublin James Joyce Journal	2009-1850	2009-4507									dublin_james_joyce_journal				
+e-Service Journal	1528-8226	1528-8234									eservice_journal				
+Early American Literature	0012-8163	1534-147X									early_american_literature				
+Early American Studies: An Interdisciplinary Journal	1543-4273	1559-0895									early_american_studies_an_interdisciplinary_journal				
+Early Music	0306-1078	1741-7260									early_music				
+East Asian Science, Technology and Society: an International Journal	1875-2160	1875-2152									east_asian_science_technology_and_society				
+Eastern Africa Social Science Research Review	1027-1775	1684-4173									eastern_africa_social_science_research_review				
+Ecological Restoration	1543-4060	1543-4079									ecological_restoration				
+Economía	1529-7470	1533-6239									economia				
+Ecotone	1553-1775	2165-2651									ecotone				
+The Edgar Allan Poe Review	2150-0428	2166-2932									the_edgar_allan_poe_review				
+Education and Culture	1085-4908	1559-1786									education_and_culture				
+Education and Treatment of Children	0748-8491	1934-8924									education_and_treatment_of_children				
+The Eighteenth Century	0193-5380	1935-0201									the_eighteenth_century				
+Eighteenth-Century Fiction	0840-6286	1911-0243									eighteenth_century_fiction				
+Eighteenth-Century Life	0098-2601	1086-3192									eighteenth-century_life				
+Eighteenth-Century Studies	0013-2586	1086-315X									eighteenth-century_studies				
+Éire-Ireland	0013-2683	1550-5162									eire-ireland				
+ELH	0013-8304	1080-6547									elh				
+The Emily Dickinson Journal	1059-6879	1096-858X									emily_dickinson_journal				
+English Literature in Transition, 1880-1920	0013-8339	1559-2715									english_literature_in_transition				
+Enterprise & Society	1467-2227	1467-2235									enterprise_and_society				
+Episteme: A Journal of Social Epistemology	1742-3600	1750-0117									episteme				
+ESC: English Studies in Canada	0317-0802	1913-4835									esc_english_studies_in_canada				
+L'Esprit Créateur	0014-0767	1931-0234									lesprit_createur				
+ESQ: A Journal of the American Renaissance	0093-8297	1935-021X									esq				
+Essays in Criticism	0014-0856	1471-6852									essays_in_criticism				
+Essays in Medieval Studies	1043-2213	1538-4608									essays_in_medieval_studies				
+Ethics & the Environment	1085-6633	1535-5306									ethics_and_the_environment				
+Ethnohistory	0014-1801	1527-5477									ethnohistory				
+Eudora Welty Review	1947-3370	2165-266x									eudora_welty_review				
+Eugene O'Neill Review	1040-9483	2161-4318									eugene_oneill_review				
+The F. Scott Fitzgerald Review	1543-3951	1755-6333									f_scott_fitzgerald_review				
+Feminist Formations	2151-7363	2151-7371									feminist_formations				
+Feminist Teacher	0882-4843	1934-6034									feminist_teacher				
+Film & History: An Interdisciplinary Journal of Film and Television Studies	0360-3695	1548-9922									film_and_history				
+Film History: An International Journal	0892-2160	1553-3905									film_history				
+Forum Journal	1536-1012	2325-7296									forum_journal				
+Forum Modernes Theater	0930-5874	2196-3517									forum_modernes_theater				
+Fourth Genre: Explorations in Nonfiction	1522-3868	1544-1733									fourth_genre_explorations_in_nonfiction				
+Framework: The Journal of Cinema and Media	0306-7661	1559-7989									framework_the_journal_of_cinema_and_media				
+Franciscan Studies	0080-5459	1945-9718									franciscan_studies				
+Francophonies d'Amérique	1183-2487	1710-1158									francophonies_damerique				
+French Colonial History	1539-3402	1543-7787									french_colonial_history				
+French Forum	0098-9355	1534-1836									french_forum				
+French Historical Studies	0016-1071	1527-5493									french_historical_studies				
+French Studies: A Quarterly Review	0016-1128	1468-2931									french_studies_a_quarterly_review				
+Frontiers: A Journal of Women Studies	0160-9009	1536-0334									frontiers				
+Future Anterior	1549-9715	1934-6026									future_anterior				
+The Future of Children	1054-8289	1550-1558									future_of_children				
+Genocide Studies and Prevention	1911-0359	1911-9933									genocide_studies_and_prevention				
+Geographical Analysis	0016-7363	1538-4632									geographical_analysis				
+George Herbert Journal	0161-7435	1931-1192									george_herbert_journal				
+German Studies Review	0149-7952	2164-8646									german_studies_review				
+Global Environmental Politics	1526-3800	1536-0091									global_environmental_politics				
+The Global South	1932-8648	1932-8656									the_global_south				
+GLQ: A Journal of Lesbian and Gay Studies	1064-2684	1527-9375									journal_of_lesbian_and_gay_studies				
+Goethe Yearbook	0734-3329	1940-9087									goethe_yearbook				
+The Good Society	1089-0017	1538-9731									good_society				
+The Harvard International Journal of Press/Politics	1081-180X	1531-328x									harvard_international_journal_of_press_politics				
+Harvard Journal of Asiatic Studies	0073-0548	1944-6454									harvard_journal_of_asiatic_studies				
+Hastings Center Report	0093-0334	1552-146X									hastings_center_report				
+Hebrew Studies	0146-4094	2158-1681									hebrew_studies				
+Helios	0160-0923	1935-0228									helios				
+The Hemingway Review	0276-3362	1548-4815									hemingway_review				
+The Henry James Review	0273-0340	1080-6555									henry_james_review				
+Hesperia	0018-098X	1553-5622									hesperia				
+The High School Journal	0018-1498	1534-5157									high_school_journal				
+Hispania	0018-2133	2153-6414									hispania				
+Hispanic American Historical Review	0018-2168	1527-1900									hispanic_american_historical_review				
+Hispanic Review	0018-2176	1553-0639									hispanic_review				
+Hispanófila	0018-2206	2165-6185									hispanofila				
+Histoire sociale/Social history	0018-2257	1918-6576									histoire_sociale_social_history				
+Historically Speaking	1941-4188	1944-6438									historically_speaking				
+Histories of Anthropology Annual	1557-637X	1940-5138									histories_of_anthropology_annual				
+History & Memory	0935-560X	1527-1994									history_and_memory				
+History in Africa	0361-5413	1558-2744									history_in_africa				
+History of Political Economy	0018-2702	1527-1919									history_of_political_economy				
+History Workshop Journal	1363-3554	1477-4569									history_workshop_journal				
+Holocaust and Genocide Studies	8756-6583	1476-7937									holocaust_and_genocide_studies				
+Holy Land Studies: A Multidisciplinary Journal	1474-9475	1750-0125									holy_land_studies				
+The Hopkins Review	1939-6589	1939-9774									the_hopkins_review				
+Hopscotch: A Cultural Review	1098-6995	1527-800x									hopscotch				
+Human Biology	0018-7143	1534-6617									human_biology				
+Human Rights Quarterly	0275-0392	1085-794X									human_rights_quarterly				
+Humanity: An International Journal of Human Rights, Humanitarianism, and Development	2151-4364	2151-4372									humanity				
+Hume Studies	0319-7336	1947-9921									hume_studies				
+Hypatia	0887-5367	1527-2001									hypatia				
+IEEE Annals of the History of Computing	1058-6180	1934-1547									ieee_annals_of_the_history_of_computing				
+Imagine	1071-605x	1086-3230									imagine				
+Indiana Journal of Global Legal Studies	1080-0727	1543-0367									indiana_journal_of_global_legal_studies				
+Indonesia	0019-7289	2164-8654									indonesia				
+Information & Culture: A Journal of History	2164-8034	2166-3033									libraries_and_culture				
+The Innes Review	0020-157X	1745-5219									the_innes_review				
+Innovations: Technology, Governance, Globalization	1558-2477	1558-2485									innovations				
+Interdisciplinary Literary Studies	1524-8429	2161-427X									interdisciplinary_literary_studies				
+International Journal of Feminist Approaches to Bioethics	1937-4585	1937-4577									international_journal_of_feminist_approaches_to_bioethics				
+International Organization	0020-8183	1531-5088									international_organization				
+International Security	0162-2889	1531-4804									international_security				
+Intertexts	1092-0625	2156-5465									intertexts				
+Israel Studies	1084-9513	1527-201x									israel_studies				
+Italian Culture	0161-4622	1559-0909									italian_culture				
+J19: The Journal of Nineteenth-Century Americanists	2166-742X	2166-7438									the_journal_of_nineteenth_century_americanists				
+James Joyce Quarterly	0021-4183	1938-6036									james_joyce_quarterly				
+JEGP, Journal of English and Germanic Philology	0363-6941	1945-662X									journal_of_english_and_germanic_philology				
+Jeunesse: Young People, Texts, Cultures	1920-2601	1920-261X									jeunesse				
+Jewish Quarterly Review	0021-6682	1553-0604									jewish_quarterly_review				
+Jewish Social Studies	0021-6704	1527-2028									jewish_social_studies				
+Journal for Early Modern Cultural Studies	1531-0485	1553-3786									journal_for_early_modern_cultural_studies				
+Journal for the Psychoanalysis of Culture and Society	1088-0763	1543-3390									journal_for_the_psychoanalysis_of_culture_and_society				
+Journal for the Study of Radicalism	1930-1189	1930-1197									journal_for_the_study_of_radicalism				
+The Journal of Aesthetic Education	0021-8510	1543-7809									the_journal_of_aesthetic_education				
+Journal of Africana Religions	2165-5405	2165-5413									journal_of_africana_religions				
+Journal of American Folklore	0021-8715	1535-1882									journal_of_american_folklore				
+Journal of Asian American Studies	1097-2129	1096-8598									journal_of_asian_american_studies				
+Journal of Assessment and Institutional Effectiveness	2160-6757	2160-6757									the_journal_of_assessment_and_institutional_effectiveness				
+Journal of Austrian Studies	2165-669X	2327-1809									journal_of_austrian_studies				
+Journal of Biblical Literature	0021-9231	1934-3876									journal_of_biblical_literature				
+Journal of Burma Studies	1094-799X	2010-314X									journal_of_burma_studies				
+Journal of Canadian Studies/Revue d'études canadiennes	0021-9495	1911-0251									journal_of_canadian_studies				
+Journal of Chinese Overseas	1793-0391	1793-2548									journal_of_chinese_overseas				
+Journal of Cold War Studies	1520-3972	1531-3298									journal_of_cold_war_studies				
+Journal of College Student Development	0897-5264	1543-3382									journal_of_college_student_development				
+Journal of Colonialism and Colonial History		1532-5768									journal_of_colonialism_and_colonial_history				
+Journal of Democracy	1045-5736	1086-3214									journal_of_democracy				
+The Journal of Developing Areas	0022-037X	1548-2278									journal_of_developing_areas				
+Journal of Dramatic Theory and Criticism	0888-3203	2165-2686									journal_of_dramatic_theory_and_criticism				
+Journal of Early Christian Studies	1067-6341	1086-3184									journal_of_early_christian_studies				
+Journal of Eastern Mediterranean Archaeology and Heritage Studies	2166-3548	2166-3556									journal_of_eastern_mediterranean_archaeology_and_heritage_studies				
+Journal of Education Finance	0098-9495	1944-6470									journal_of_education_finance				
+Journal of Feminist Studies in Religion	8755-4178	1553-3913									journal_of_feminist_studies_in_religion				
+Journal of Film and Video	0742-4671	1934-6018									journal_of_film_and_video				
+Journal of Folklore Research	0737-7037	1543-0413									journal_of_folklore_research				
+The Journal of General Education	0021-3667	1527-2060									journal_of_general_education				
+Journal of Health Care for the Poor and Underserved	1049-2089	1548-6869									journal_of_health_care_for_the_poor_and_underserved				
+Journal of Health Politics, Policy and Law	0361-6878	1527-1927									journal_of_health_politics_policy_and_law				
+The Journal of Higher Education	0022-1546	1538-4640									journal_of_higher_education				
+Journal of Human Resources	0022-166X	1548-8004									journal_of_human_resources				
+Journal of Interdisciplinary History	0022-1953	1530-9169									journal_of_interdisciplinary_history				
+The Journal of Japanese Studies	0095-6848	1549-4721									journal_of_japanese_studies				
+Journal of Jewish Identities	1939-7941	1946-2522									journal_of_jewish_identities				
+Journal of Korean Religions	2093-7288	2167-2040									journal_of_korean_religions				
+Journal of Korean Studies	0731-1613	2158-1665									journal_of_korean_studies				
+Journal of Late Antiquity	1939-6716	1942-1273									journal_of_late_antiquity				
+Journal of Latin American Geography	1545-2476	1548-5811									journal_of_latin_american_geography				
+Journal of Literary & Cultural Disability Studies	1757-6458	1757-6466									journal_of_literary_and_cultural_disability_studies				
+Journal of Literature and Trauma Studies	2162-3627	2045-4740									journal_of_literature_and_trauma_studies				
+Journal of Medieval and Early Modern Studies	1082-9636	1527-8263									journal_of_medieval_and_early_modern_studies				
+The Journal of Medieval Religious Cultures	1947-6566	2153-9650									journal_of_medieval_religious_cultures				
+Journal of Middle East Women's Studies	1552-5864	1558-9579									journal_of_middle_east_womens_studies				
+The Journal of Military History	0899-3718	1543-7795									journal_of_military_history				
+Journal of Modern Greek Studies	0738-1727	1086-3265									journal_of_modern_greek_studies				
+Journal of Modern Literature	0022-281X	1529-1464									journal_of_modern_literature				
+The Journal of Modern Periodical Studies	1947-6574	2152-9272									journal_of_modern_periodical_studies				
+Journal of Money, Credit, and Banking	0022-2879	1538-4616									journal_of_money_credit_and_banking				
+Journal of Moravian History	1933-6632	2161-6310									journal_of_moravian_history				
+Journal of Narrative Theory	1549-0815	1548-9248									journal_of_narrative_theory				
+The Journal of Nietzsche Studies	0968-8005	1538-4594									journal_of_nietzsche_studies				
+Journal of Policy History	0898-0306	1528-4190									journal_of_policy_history				
+Journal of Religion and Popular Culture	1703-289X	1703-289X									journal_of_religion_and_popular_culture				
+Journal of Scholarly Publishing	1198-9742	1710-1166									journal_of_scholarly_publishing				
+Journal of Shi'a Islamic Studies	1748-9423	2051-557X									journal_of_shia_islamic_studies				
+Journal of Slavic Linguistics	1068-2090	1543-0391									journal_of_slavic_linguistics				
+Journal of Social History	0022-4529	1527-1897									journal_of_social_history				
+Journal of Song-Yuan Studies	1059-3152	2154-6665									journal_of_song_yuan_studies				
+Journal of Southeast Asian Economies (JSEAE)	2339-5095	2339-5206									asean_economic_bulletin				
+The Journal of Speculative Philosophy	0891-625X	1527-9383									journal_of_speculative_philosophy				
+Journal of Sport History	0094-1700	#2155-8455									journal_of_sport_history				
+Journal of Sports Media	1558-4313	1940-5073									journal_of_sports_media				
+Journal of the American Academy of Religion	0002-7189	1477-4585									journal_of_the_american_academy_of_religion				
+The Journal of the Civil War Era	2154-4727	2159-9807									journal_of_the_civil_war_era				
+Journal of the Early Republic	0275-1275	1553-0620									journal_of_the_early_republic				
+Journal of the History of Ideas	0022-5037	1086-3222									journal_of_the_history_of_ideas				
+Journal of the History of Medicine and Allied Sciences	0022-5045	1468-4373									journal_of_the_history_of_medicine_and_allied_sciences				
+Journal of the History of Philosophy	0022-5053	1538-4586									journal_of_the_history_of_philosophy				
+Journal of the History of Sexuality	1043-4070	1535-3605									journal_of_the_history_of_sexuality				
+The Journal of the History of Childhood and Youth	1939-6724	1941-3599									journal_of_the_history_of_childhood_and_youth				
+Journal of the Malaysian Branch of the Royal Asiatic Society	0128-5483	2180-4338									journal_of_the_malaysian_branch_of_the_royal_asiatic_society				
+Journal of the Midwest Modern Language Association	0742-5562										journal_of_the_midwest_modern_language_association				
+Journal of the Royal Musical Association	0269-0403	1471-6933									journal_of_the_royal_musical_association				
+Journal of the Society of Christian Ethics	1540-7942	2326-2176									journal_of_the_society_of_christian_ethics				
+Journal of the Southwest	0894-8410	2158-1371									journal_of_the_southwest				
+Journal of Victorian Culture	1355-5502	1750-0133									journal_of_victorian_culture				
+Journal of Women's History	1042-7961	1527-2036									journal_of_womens_history				
+Journal of World History	1045-6007	1527-8050									journal_of_world_history				
+Joyce Studies Annual	1049-0809	1538-4241									joyce_studies_annual				
+The Jurist: Studies in Church Law and Ministry	0022-6858	2326-6236									the_jurist				
+Ka Ho'oilina/The Legacy	1535-3133	1542-4243									ka_hooilina_the_legacy				
+Keats-Shelley Journal	0453-4387										keats-shelley_journal				
+Kennedy Institute of Ethics Journal	1054-6863	1086-3249									kennedy_institute_of_ethics_journal				
+Korean Studies	0145-840X	1529-1529									korean_studies				
+Kritika: Explorations in Russian and Eurasian History	1531-023x	1538-5000									kritika				
+Labor Studies Journal	0160-449X	1538-9758									labor_studies_journal				
+Labour / Le Travail	0700-3862	1911-4842									labour_le_travail				
+Land Economics	0023-7639	1543-8325									land_economics				
+Landscape Journal: design, planning, and management of the land	0277-2426	1553-2704									landscape_journal				
+Language	0097-8507	1535-0665									language				
+Late Imperial China	0884-3236	1086-3257									late_imperial_china				
+Latin American Music Review	0163-0350	1536-0199									latin_american_music_review				
+Latin American Politics & Society	1531-426X	1548-2456									latin_american_politics_and_society				
+Latin American Research Review	0023-8791	1542-4278									latin_american_research_review				
+Latin American Theatre Review	0023-8813	2161-0576									latin_american_theatre_review				
+Le mouvement social	0027-2671	1961-8646									le_mouvement_social				
+Legacy: A Journal of American Women Writers	0748-4321	1534-0643									legacy				
+Leonardo	0024-094X	1530-9282									leonardo				
+Leonardo Music Journal	0961-1215	1531-4812									leonardo_music_journal				
+Leviathan	1525-6995	1750-1849									leviathan				
+Levinas Studies	1554-7000	2153-8433									levinas_studies				
+The Library: The Transactions of the Bibliographical Society	0024-2160	1744-8581									the_library_the_transactions_of_the_bibliographical_society				
+Library Trends	0024-2594	1559-0682									library_trends				
+Linguistic Inquiry	0024-3892	1530-9150									linguistic_inquiry				
+The Lion and the Unicorn	0147-2593	1080-6563									lion_and_the_unicorn				
+Literature and Medicine	0278-9671	1080-6571									literature_and_medicine				
+Logos: A Journal of Catholic Thought and Culture	1091-6687	1533-791X									logos				
+Luso-Brazilian Review	0024-7413	1548-9957									luso-brazilian_review				
+Magic, Ritual, and Witchcraft	1556-8547	1940-5111									magic_ritual_and_witchcraft				
+Manoa	1045-7909	1527-943x									manoa				
+The Mark Twain Annual	1553-0981	1756-2597									the_mark_twain_annual				
+Marvels & Tales	1521-4281	1536-1802									marvels_and_tales				
+Mechademia	1934-2489	2152-6648									mechademia				
+Mediaevalia	0361-946x	2161-8046									mediaevalia				
+Mediterranean Quarterly	1047-4552	1527-1935									mediterranean_quarterly				
+Mediterranean Studies	1074-164X	2161-4741									mediterranean_studies				
+MELUS: Multi-Ethnic Literature of the U.S.	0163-755X	1946-3170									melus				
+Meridians: feminism, race, transnationalism	1536-6936	1547-8424									meridians				
+Merrill-Palmer Quarterly	0272-930X	1535-0266									merrill-palmer_quarterly				
+MFS Modern Fiction Studies	0026-7724	1080-658X									modern_fiction_studies				
+The Middle East Journal	0026-3141	1940-3461									the_middle_east_journal				
+Milton Quarterly	0026-4326	1094-348X									milton_quarterly				
+Milton Studies	#0022-6860	2330-796X									milton_studies				
+Minnesota Review	0026-5667	2157-4189									minnesota_review				
+The Missouri Review	0191-1961	1548-9930									missouri_review				
+MLN	0026-7910	1080-6598									mln				
+MLQ: Modern Language Quarterly	0026-7929	1527-1943									modern_language_quarterly				
+Modern Drama	0026-7694	1712-5286									modern_drama				
+Modern Judaism	0276-1114	1086-3273									modern_judaism				
+Modernism/modernity	1071-6068	1080-6601									modernism-modernity				
+Monatshefte	0026-9271	1934-2810									monatshefte				
+Monumenta Nipponica	0027-0741	1880-1390									monumenta_nipponica				
+Mosaic: a journal for the interdisciplinary study of literature	0027-1276	1925-5683									mosaic				
+Mouseion: Journal of the Classical Association of Canada	1496-9343	1913-5416									mouseion_journal_of_the_classical_association_of_canada				
+The Moving Image	1532-3978	1542-4235									the_moving_image				
+Music and Letters	0027-4224	1477-4631									music_and_letters				
+Music, Sound, and the Moving Image	1753-0768	1753-0776									music_sound_and_the_moving_image				
+Nabokov Studies	1080-1219	1548-9965									nabokov_studies				
+Narrative	1063-3685	1538-974X									narrative				
+Narrative Inquiry in Bioethics	2157-1732	2157-1740									narrative_inquiry_in_bioethics				
+Nashim: A Journal of Jewish Women's Studies & Gender Issues	0793-8934	1565-5288									nashim				
+Native Plants Journal	1522-8339	1548-4785									native_plants_journal				
+Native South	1943-2569	2152-4025									native_south				
+Nepantla: Views from South	1527-0858	1529-1650									nepantla				
+New England Review	1053-1297	2161-9131									new_england_review				
+new formations: a journal of culture/theory/politics	0950-2378	1741-0789									new_formations				
+New Hibernia Review	1092-3977	1534-5815									new_hibernia_review				
+New Labor Forum	1095-7960	1557-2978									new_labor_forum				
+New Literary History	0028-6087	1080-661X									new_literary_history				
+NINE: A Journal of Baseball History and Culture	1188-9330	1534-1844									nine				
+Nineteenth-Century French Studies	0146-7891	1536-0172									nineteenth_century_french_studies				
+Nka: Journal of Contemporary African Art	1075-7163	2152-7792									nka				
+Northeast African Studies	0740-9133	1535-6574									northeast_african_studies				
+Notes	0027-4380	1534-150X									notes				
+Nouvelles Études Francophones	1552-3152	2156-9428									nouvelles_tudes_francophones				
+Nuevo Texto Crítico	1048-6380	1940-9079									nuevo_texto_critico				
+Oceanic Linguistics	0029-8115	1527-9421									oceanic_linguistics				
+Ohio History	0030-0934	1934-6042									ohio_history				
+The Opera Quarterly	0736-0053	1476-2870									opera_quarterly				
+Oral History Review	0094-0798	1533-8592									oral_history_review				
+Oral Tradition	0883-5365	1542-4308									oral_tradition				
+Pacific Science	0030-8870	1534-6188									pacific_science				
+PAJ: A Journal of Performance and Art	1520-281X	1537-9477									performing_arts_journal				
+Palimpsest: A Journal on Women, Gender, and the Black International	2165-1604	2165-1612									palimpsest				
+Paragraph	0264-8334	1750-0176									paragraph				
+Parergon	0313-6221	1832-8334									parergon				
+Parliamentary History	0264-2824	1750-0206									parliamentary_history				
+Partial Answers: Journal of Literature and the History of Ideas	1565-3668	1936-9247									partial_answers				
+Past & Present	0031-2746	1477-464X									past_and_present				
+Pedagogy	1531-4200	1533-6255									pedagogy				
+Pennsylvania History: A Journal of Mid-Atlantic Studies	0031-4528	2153-2109									pennsylvania_history				
+Perspectives in Biology and Medicine	0031-5982	1529-8795									perspectives_in_biology_and_medicine				
+Perspectives on Science	1063-6145	1530-9274									perspectives_on_science				
+Philip Roth Studies	1547-3929	1940-5278									philip_roth_studies				
+Philippine Studies: Historical and Ethnographic Viewpoints	2244-1093	2244-1638									philippine_studies				
+philoSOPHIA	2155-0891	2155-0905									philosophia				
+Philosophical Topics	0276-2080	2154-154X									philosophical_topics				
+Philosophy and Literature	0190-0013	1086-329X									philosophy_and_literature				
+Philosophy & Public Affairs	0048-3915	1088-4963									philosophy_and_public_affairs				
+Philosophy and Rhetoric	0031-8213	1527-2079									philosophy_and_rhetoric				
+Philosophy East and West	0031-8221	1529-1898									philosophy_east_and_west				
+Philosophy of Music Education Review	1063-5734	1543-3412									philosophy_of_music_education_review				
+Philosophy, Psychiatry, & Psychology	1071-6076	1086-3303									philosophy_psychiatry_and_psychology				
+Ploughshares	0048-4474	2162-0903									ploughshares				
+The Pluralist	1930-7365	1944-6489									the_pluralist				
+Poe Studies	1947-4644	1754-6095									poe_studies				
+Poetics Today	0333-5372	1527-5507									poetics_today				
+Population, English edition	1634-2941	1958-9190									population				
+Population Review	0032-471X	1549-0955									population_review				
+portal: Libraries and the Academy	1531-2542	1530-7131									portal_libraries_and_the_academy				
+positions: east asia cultures critique	1067-9847	1527-8271									positions				
+Postmodern Culture		1053-1920									postmodern_culture				
+Prairie Schooner	0032-6682	1542-426X									prairie_schooner				
+Preternature: Critical and Historical Studies on the Preternatural	2161-2196	2161-2188									preternature				
+Progress in Community Health Partnerships: Research, Education, and Action	1557-0541	1557-055X									progress_in_community_health_partnerships_research_education_and_action				
+Prooftexts	0272-9601	1086-3311									prooftexts				
+Public Culture	0899-2363	1527-8018									public_culture				
+Pushkin Review	1526-1476	2165-0683									pushkin_review				
+Quaker History	0033-5053	1934-1504									quaker_history				
+Qui Parle: Critical Humanities and Social Sciences	1041-8385	1938-8020									qui_parle				
+Race/Ethnicity: Multidisciplinary Global Contexts	1935-8644	1935-8652									race_ethnicity				
+Radical History Review	0163-6545	1534-1453									radical_history_review				
+Radical Teacher	0191-4847	1941-0832									radical_teacher				
+Reception: Texts, Readers, Audiences, History	2155-7888	2155-7888									reception_texts_readers_audiences_history				
+Red Cedar Review	0034-1967	1554-6721									red_cedar_review				
+Region: Regional Studies of Russia, Eastern Europe, and Central Asia	2166-4307	2165-0659									region				
+Register of the Kentucky Historical Society	0023-0243	2161-0355									register_of_the_kentucky_historical_society				
+Renaissance Drama	0486-3739	2164-3415									renaissance_drama				
+Renaissance Quarterly	0034-4338	1935-0236									renaissance_quarterly				
+Research in African Literatures	0034-5210	1527-2044									research_in_african_literatures				
+Resources for American Literary Study	0048-7384	1529-1502									resources_for_american_literary_study				
+Restoration: Studies in English Literary Culture, 1660-1700	0162-9905	1941-952X									restoration				
+The Review of Higher Education	0162-5748	1090-7009									review_of_higher_education				
+Review of Japanese Culture and Society	0913-4700	2329-9770									review_of_japanese_culture_and_society				
+Reviews in American History	0048-7511	1080-6628									reviews_in_american_history				
+Revista de Estudios Hispánicos	0034-818X	2164-9308									revista_de_estudios_hispanicos				
+Revista Hispánica Moderna	0034-9593	1944-6446									revista_hispanica_moderna				
+Rhetoric & Public Affairs	1094-8392	1534-5238									rhetoric_and_public_affairs				
+River Teeth: A Journal of Nonfiction Narrative	1544-1849	1548-3339									river_teeth				
+Rocky Mountain Review	1948-2825	1948-2833									rocky_mountain_review				
+Romance Notes	0035-7995	2165-7599									romance_notes				
+Romani Studies	1528-0748	1757-2274									romani_studies				
+Romanticism	1354-991X	1750-0192									romanticism				
+SAIS Review of International Affairs	1945-4716	1945-4724									sais_review				
+Scandinavian Studies	0036-5637	2163-8195									scandinavian_studies				
+Science Fiction Film and Television	1754-3770	1754-3789									science_fiction_film_and_television				
+The Scottish Historical Review	0036-9241	1750-0222									scottish_historical_review				
+Scottish Literary Review	1756-5634	2050-6678									scottish_literary_review				
+The Scriblerian and the Kit-Cats	0190-731X	2165-0624									the_scriblerian_and_the_kit-cats				
+SEL Studies in English Literature 1500-1900	0039-3657	1522-9270									studies_in_english_literature				
+Seminar: A Journal of Germanic Studies	0037-1939	1911-026X									seminar_a_journal_of_germanic_studies				
+Seoul Journal of Korean Studies	1225-0201										seoul_journal_of_korean_studies				
+Serbian Studies: Journal of the North American Society for Serbian Studies	0742-3330	1941-9511									serbian_studies				
+Sewanee Review	0037-3052	1934-421X									sewanee_review				
+Shakespeare Bulletin	0748-2558	1931-1427									shakespeare_bulletin				
+Shakespeare Quarterly	0037-3222	1538-3555									shakespeare_quarterly				
+SHAW The Annual of Bernard Shaw Studies	0741-5842	1529-1480									annual_of_bernard_shaw_studies				
+Shofar: An Interdisciplinary Journal of Jewish Studies	0882-8539	1534-5165									shofar				
+Sign Language Studies	0302-1475	1533-6263									sign_language_studies				
+Sirena: poesia, arte y critica	1548-6400	1554-7655									sirena_poesia_arte_y_critica				
+Small Axe	0799-0537	1534-6714									small_axe				
+Social Forces	0037-7732	1534-7605									social_forces				
+Social Politics: International Studies in Gender, State and Society	1072-4745	1468-2893									social_politics				
+Social Science History	0145-5532	1527-8034									social_science_history				
+Social Text	0164-2472	1527-1951									social_text				
+Sojourn: Journal of Social Issues in Southeast Asia	0217-9520	1793-2858									sojourn_journal_of_social_issues_in_southeast_asia				
+Soundings: A journal of politics and culture	1362-6620	1741-0797									soundings_a_journal_of_politics_and_culture				
+Soundings: An Interdisciplinary Journal	0038-1861	2161-6302									soundings				
+The South Atlantic Quarterly	0038-2876	1527-8026									south_atlantic_quarterly				
+South Central Review	0743-6831	1549-3377									south_central_review				
+Southeast Asian Affairs	0377-5437	1793-9135									southeast_asian_affairs				
+Southeastern Geographer	0038-366X	1549-6929									southeastern_geographer				
+Southern Cultures	1068-8218	1534-1488									southern_cultures				
+The Southern Literary Journal	0038-4291	1534-1461									southern_literary_journal				
+Southern Review	0038-4534	2168-5541									southern_review				
+Southwestern Historical Quarterly	0038-478X	1558-9560									southwestern_historical_quarterly				
+Spectrum: A Journal on Black Men	2162-3244	2162-3252									spectrum				
+Spiritus: A Journal of Christian Spirituality	1533-1709	1535-3117									spiritus				
+Steinbeck Review	1546-007x	1938-6214									steinbeck_review				
+Steinbeck Studies	0898-7734	1551-6903									steinbeck_studies				
+StoryWorlds: A Journal of Narrative Studies	1946-2204	2156-7204									storyworlds				
+Studies in American Fiction	0091-8083	2158-415X									studies_in_american_fiction				
+Studies in American Indian Literatures	0730-3238	1548-9590									studies_in_american_indian_literatures				
+Studies in American Jewish Literature	0271-9274	1948-5077									studies_in_american_jewish_literature				
+Studies in American Naturalism	1931-2555	1944-6519									studies_in_american_naturalism				
+Studies in Bibliography	0081-7600	1553-3891									studies_in_bibliography				
+Studies in Eighteenth Century Culture	0360-2370	1938-6133									studies_in_eighteenth_century_culture				
+Studies in Latin American Popular Culture	0730-9139	2157-2941									studies_in_latin_american_popular_culture				
+Studies in Philology	0039-3738	1543-0383									studies_in_philology				
+Studies in the Age of Chaucer	0190-2407	1949-0755									studies_in_the_age_of_chaucer				
+Studies in the Literary Imagination	0039-3819	2165-2678									studies_in_the_literary_imagination				
+Studies in the Novel	0039-3827	1934-1512									studies_in_the_novel				
+Studies in World Christianity	1354-9901	1750-0230									studies_in_world_christianity				
+SubStance	0049-2426	1527-2095									substance				
+Syllecta Classica	1040-3612	2160-5157									syllecta_classica				
+symploke	1069-0697	1534-0627									symploke				
+Tampa Review	0896-064X	2326-4101									tampa_review				
+TDR: The Drama Review	1054-2043	1531-4715									the_drama_review				
+Teaching and Learning Inquiry: The ISSOTL Journal	2167-4779	2167-4787									teaching_and_learning_inquiry__the_issotl_journal				
+Technology and Culture	0040-165X	1097-3729									technology_and_culture				
+Tenso	0890-3352	1944-0146									tenso				
+Texas Studies in Literature and Language	0040-4691	1534-7303									texas_studies_in_literature_and_language				
+Textual Cultures: Texts, Contexts, Interpretation	1559-2936	1933-7418									textual_cultures				
+Theater	0161-0775	1527-196X									theater				
+Theatre History Studies	0733-2033	2166-9953									theatre_history_studies				
+Theatre Journal	0192-2882	1086-332X									theatre_journal				
+Theatre Notebook	0040-5523	2051-8358									theatre_notebook				
+Theatre Symposium	1065-4917	2166-9937									theatre_symposium				
+Theatre Topics	1054-8378	1086-3346									theatre_topics				
+Theoretical & Applied Ethics	2156-7174										theoretical_and_applied_ethics				
+Theory & Event		1092-311X									theory_and_event				
+Theory Into Practice	0040-5841	1543-0421									theory_into_practice				
+Tikkun	0887-9982	2164-0041									tikkun				
+The Tocqueville Review/La revue Tocqueville	0730-479X	1918-6649									tocqueville_reviewla_revue_tocqueville				
+Tolkien Studies	1547-3155	1547-3163									tolkien_studies				
+Toronto Journal of Theology	0826-9831	1918-6371									toronto_journal_of_theology				
+Traditio	0362-1529	2166-5508									traditio				
+Transactions of the American Philological Association	0360-5949	1533-0699									transactions_of_the_american_philological_association				
+Transactions of the Charles S. Peirce Society: A Quarterly Journal in American Philosophy	0009-1774	1558-9587									transactions_of_the_charles_s_peirce_society				
+Transformation: Critical Perspectives on Southern Africa	0258-7696	1726-1368									transformation				
+Transition	0041-1191	1527-8042									transition				
+Translation and Literature	0968-1361	1750-0214									translation_and_literature				
+Transportation Journal	0041-1612	2157-328X									transportation_journal				
+Tulsa Studies in Women's Literature	0732-7730	1936-1645									tulsa_studies_in_womens_literature				
+Twentieth-Century China	1521-5385	1940-5065									twentiethcentury_china				
+University of Toronto Law Journal	0042-0220	1710-1174									university_of_toronto_law_journal				
+University of Toronto Quarterly	0042-0247	1712-5278									university_of_toronto_quarterly				
+U.S. Catholic Historian	0735-8318	1947-8224									us_catholic_historian				
+U.S.-Japan Women's Journal	1059-9770	2330-5029									us_japan_womens_journal				
+Utopian Studies	1045-991X	2154-9648									utopian_studies				
+The Velvet Light Trap	0149-1830	1542-4251									the_velvet_light_trap				
+Victorian Periodicals Review	0709-4698	1712-526X									victorian_periodicals_review				
+Victorian Poetry	0042-5206	1530-7190									victorian_poetry				
+Victorian Review	0848-1512	1923-3280									victorian_review				
+Victorian Studies	0042-5222	1527-2052									victorian_studies				
+Visual Arts Research	0736-0770	2151-8009									visual_arts_research				
+Wallace Stevens Journal	0148-7132	2160-0570									wallace_stevens_journal				
+The Washington Quarterly	0163-660X	1530-9177									washington_quarterly				
+West Virginia History: A Journal of Regional Studies	0043-325X	1940-5057									west_virginia_history				
+Western American Literature	0043-3462	1948-7142									western_american_literature				
+Wicazo Sa Review	0749-6427	1533-7901									wicazo_sa_review				
+Wide Angle	0160-6840	1086-3354									wide_angle				
+William Carlos Williams Review	0196-6286	1935-0244									william_carlos_williams_review				
+Women and Music: A Journal of Gender and Culture	1090-7505	1553-0612									women_and_music				
+Women, Gender, and Families of Color	2326-0939	2326-0947									women_gender_and_families_of_color				
+Women in French Studies	1077-825x	2166-5486									women_in_french_studies				
+Women in German Yearbook: Feminist Studies in German Literature & Culture	1058-7446	1940-512X									women_in_german_yearbook				
+World Policy Journal	0740-2775	1936-0924									world_policy_journal				
+World Politics	0043-8871	1086-3338									world_politics				
+WSQ: Women's Studies Quarterly	0732-1562	1934-1520									wsq				
+The Yale Journal of Criticism	0893-5378	1080-6636									yale_journal_of_criticism				
+The Yearbook of Comparative Literature	0084-3695	1947-2978									yearbook_of_comparative_and_general_literature				
+Yearbook of the Association of Pacific Coast Geographers	0066-9628	1551-3211									yearbook_of_the_association_of_pacific_coast_geographers				
+Annales Histoire, Sciences Sociales	0395-2649										annales_histoire_sciences_sociales				
+Anthropologica	0003-5459										anthropologica				
+ARIEL: A Review of International English Literature	0004-1327										ariel_a_review_of_international_english_literature				
+British Journal of Canadian Studies	0269-9222	1757-8078									british_journal_of_canadian_studies				
+Bulletin of Medieval Canon Law	0146-2989										bulletin_of_medieval_canon_law				
+Canadian Review of Comparative Literature / Revue Canadienne de Littérature Comparée	0319-051X										canadian_review_of_comparative_literature				
+Cervantes: Bulletin of the Cervantes Society of America	0277-6995	1943-3840									cervantes				
+Ghana Studies	1536-5514										ghana_studies				
+Great Plains Quarterly	0275-7664										great_plains_quarterly				
+Great Plains Research	1052-5165										great_plains_research				
+International Journal of Canadian Studies	1180-3991										international_journal_of_canadian_studies				
+Islamic Africa	2154-0993										islamic_africa				
+Jewish Film & New Media: An International Journal	2169-0324	2169-0332									jewish_film_new_media_an_international_journal				
+Journal of Ayn Rand Studies	1526-1018										journal_of_ayn_rand_studies				
+Journal of Haitian Studies	1090-3488										journal_of_haitian_studies				
+The Journal of Individual Psychology	1522-2527										the_journal_of_individual_psychology				
+Journal of Japanese Philosophy	2327-0195	2327-0209									journal_of_japanese_philosophy				
+Pacific Coast Philology	0078-7469	2326-067X									pacific_coast_philology				
+QED: A Journal of GLBTQ Worldmaking	2327-1574	2327-1590									qed_a_journal_of_glbtq_worldmaking_				
+Social Research: An International Quarterly	0037-783X	1944-768X									social_research				
+The Undecidable Unconscious: A Journal of Deconstruction and Psychoanalysis	2328-4048										the_undecidable_unconscious_a_journal_of_deconstruction_and_psychoanalysis				

@@ -1,0 +1,30 @@
+{
+  "name": "jstor",
+  "version": "2013-10-03",
+  "status": "beta",
+  "longname": "JSTOR",
+  "describe": "Identifie les consultations de la plateforme JSTOR",
+  "docurl": "http://analogist.couperin.org/platforms/jstor/",
+  "contact": "karine.delvert at univ-paris1 point fr",
+  "pkb": true,
+	"domains": [
+    "www.jstor.org"
+	],
+  "recognize": {
+    "rid": [
+      "title_id",
+      "doi",
+      "unitid"
+    ],
+    "rtype": [
+      "TOC",
+      "ARTICLE",
+      "ABS"
+    ],
+    "mime": [
+      "HTML",
+      "PDF",
+      "MISC"
+    ]
+  }
+}

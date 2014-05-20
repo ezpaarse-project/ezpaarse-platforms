@@ -1,0 +1,31 @@
+{
+  "name": "bioone",
+  "version": "2013-11-28",
+  "status": "beta",
+  "longname": "BioOne",
+  "describe": "Identifie les consultations de BioOne",
+  "docurl": "http://analogist.couperin.org/platforms/bioone/",
+  "contact": "sylvie.franck at inist point fr",
+	"domains": [
+    "www.bioone.org"
+	],
+  "pkb": true,
+  "recognize": {
+    "rid": [
+      "title_id",
+      "unitid",
+      "print_identifier"
+    ],
+    "rtype": [
+      "TOC",
+      "ABS",
+      "ARTICLE",
+      "SUPPL"
+    ],
+    "mime": [
+      "MISC",
+      "PDF",
+      "HTML"
+    ]
+  }
+}

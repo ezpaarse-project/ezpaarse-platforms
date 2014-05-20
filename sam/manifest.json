@@ -1,0 +1,25 @@
+{
+  "name": "sam",
+  "version": "2014-02-20",
+  "status": "beta",
+  "longname": "Sam",
+  "describe": "Identifie les consultations de l'archive ouverte SAM Art et Metier ParisTech (ENSAM)",
+  "docurl": "http://analogist.couperin.org/platforms/sam/",
+  "contact": "dominique.lechaudel at inist point fr",
+	"domains": [
+    "sam.ensam.eu"
+	],
+  "pkb": true,
+  "recognize": {
+    "rid": [
+      "title_id",
+      "unitid"
+    ],
+    "rtype": [
+      "ARTICLE"
+    ],
+    "mime": [
+      "PDF"
+    ]
+  }
+}

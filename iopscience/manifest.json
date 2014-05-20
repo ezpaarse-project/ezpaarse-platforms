@@ -1,0 +1,29 @@
+{
+  "name": "iopscience",
+  "version": "2014-04-22",
+  "status": "beta",
+  "longname": "IOP Science",
+  "describe": "Identifie les consultations Institute of Physics (IOP)",
+  "docurl": "http://analogist.couperin.org/platforms/iopscience/",
+  "contact": "celia.lentretien at univ-lorraine point fr",
+  "pkb": true,
+	"domains": [
+    "iopscience.iop.org"
+	],
+  "recognize": {
+    "rid": [
+      "title_id",
+      "unitid"
+    ],
+    "rtype": [
+      "TOC",
+      "ABS",
+      "ARTICLE"
+    ],
+    "mime": [
+      "MISC",
+      "PDF",
+      "HTML"
+    ]
+  }
+}

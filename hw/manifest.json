@@ -1,0 +1,26 @@
+{
+  "name": "hw",
+  "version": "2014-02-20",
+  "status": "version beta",
+  "longname": "HighWire",
+  "describe": "Identifie les consultations du site HighWire",
+  "docurl": "http://analogist.couperin.org/platforms/hw/",
+  "contact": "dominique.rouger at univ-st-etienne.fr",
+  "pkb": true,
+  "pkb-domains": "title_id",
+  "recognize": {
+    "rid": [
+      "title_id",
+      "print_identifier",
+      "online_identifier",
+      "unitid"
+    ],
+    "rtype": [
+      "ARTICLE"
+    ],
+    "mime": [
+      "HTML",
+      "PDF"
+    ]
+  }
+}

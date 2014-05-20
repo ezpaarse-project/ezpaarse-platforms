@@ -1,0 +1,37 @@
+[
+  {
+    "code": "title_id",
+    "description":  "reconnaissance de l'identifiant éditeur",
+    "comment": "L'identifiant éditeur est ensuite utilisé avec la pkb (base de connaissance éditeur associée)"
+  },
+  {
+    "code": "print_identifier",
+    "description":  "reconnaissance de l'ISSN papier",
+    "comment": ""
+  },
+  {
+    "code": "doi",
+    "description":  "reconnaissance du DOI",
+    "comment": "Le DOI est ensuite utilisé pour retrouver un ISSN"
+  },
+  {
+    "code": "pisbn",
+    "description":  "reconnaissance de l'ISBN papier",
+    "comment": ""
+  },
+  {
+    "code": "online_identifier",
+    "description":  "reconnaissance de l'ISSN électronique",
+    "comment": ""
+  },
+  {
+    "code": "eisbn",
+    "description":  "reconnaissance de l'ISBN électronique",
+    "comment": ""
+  },
+  {
+    "code": "unitid",
+    "description":  "reconnaissance de l'unitid",
+    "comment": "unitid est l'identification la plus précise d'un événement de consultation"
+  }
+]

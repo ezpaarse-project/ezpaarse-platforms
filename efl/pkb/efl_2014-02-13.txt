@@ -1,0 +1,277 @@
+publication_title	print_identifier	online_identifier	date_first_issue_online	num_first_vol_online	num_first_issue_online	date_last_issue_online	num_last_vol_online	num_last_issue_online	title_url	first_author	title_id	embargo_info	coverage_depth	coverage_notes	publisher_name	ezp-jtype	ezp-issn
+Mémento Assemblées générales 2012-2013											MASGE					Mémento	undefined
+Mémento Baux Commerciaux 2013-2014											MBC					Mémento	undefined
+Mémento Cessions de parts et actions 2013-2014											MCPA					Mémento	undefined
+Mémento Comptes Consolidés 											CCONSO					Mémento	undefined
+Mémento Concurrence consommation 2013-2014											MCC					Mémento	undefined
+Mémento Droit commercial 											MDC					Mémento	undefined
+Fiches complémentaires au Mémento Droit commercial											ANALYSE					Mémento	undefined
+Mémento Express Réformes fiscales 											MXF					Mémento	undefined
+Mémento Fiscal 											MF					Mémento	undefined
+Bulletin du patrimoine 2013/5											BPAT1305					Revues	undefined
+Bulletin fiscal											BF1311					Revues	0242-5912
+Bulletin pratique immobilier											BM1305					Revues	undefined
+Bulletin rapide de droit des affaires											BRDA1320					Revues	0395-451X
+Bulletin social											BS1311					Revues	0242-5874
+Feuillet Rapide Fiscal Social											FR1347					Revues	0150-5467
+Feuillet Rapide Comptable											FRC1311					Revues	undefined
+Feuillet Rapide Social											FRS1321					Revues	0753-5732
+Bulletin comptable et financier France jusqu'au 3-4/2008											BCFF0804					Revues	0220-2352
+Bulletin comptable et financier IFRS jusqu'au 11-12/2008											BCFI0812					Revues	0220-2352
+Bulletins des conclusions fiscales											BDCF13					Revues de jurisprudence	undefined
+Revue de jurisprudence de droit des affaires											RJDA13					Revues de jurisprudence	1156-2935
+Revue de jurisprudence fiscale											RHF13					Revues de jurisprudence	0337-7393
+Revue de jurisprudence sociale											RJS13					Revues de jurisprudence	0997-7422
+Documentation pratique Affaires SARL											SARL					Documentation experte	undefined
+Documentation pratique Fiscale - ASS (Taxes assimilées aux impôts directs locaux)											ASS					Documentation experte	undefined
+Documentation pratique Fiscale - BA (Bénéfices agricoles)											BA					Documentation experte	undefined
+Documentation pratique Fiscale - BIC (Bénéfices industriels et commerciaux)											BIC					Documentation experte	undefined
+Documentation pratique Fiscale - BNC (Bénéfices non commerciaux)											BNC					Documentation experte	undefined
+Documentation pratique Fiscale - CET (Contribution économique territoriale)											CET					Documentation experte	undefined
+Documentation pratique Fiscale - CF (Contrôle fiscal)											CF					Documentation experte	undefined
+Documentation pratique Fiscale - CONT (Contentieux)											CONT					Documentation experte	undefined
+Documentation pratique Fiscale - DC (Dispositions communes)											DC					Documentation experte	undefined
+Documentation pratique Fiscale - DIR (Rémunérations des dirigeants de sociétés)											DIRIG					Documentation experte	undefined
+Documentation pratique Fiscale - ENR (Enregistrement)											ENR					Documentation experte	undefined
+Documentation pratique Fiscale - FB (Taxe foncière sur les propriétés bâties)											FB					Documentation experte	undefined
+Documentation pratique Fiscale - FNB (Taxe foncière sur les propriétés non bâties)											FNB					Documentation experte	undefined
+Documentation pratique Fiscale - FONC (Revenus fonciers)											FONC					Documentation experte	undefined
+Documentation pratique Fiscale - HAB (Taxe d'habitation)											HAB					Documentation experte	undefined
+Documentation pratique Fiscale - IMMO (Fiscalité immobilière)											IMMO					Documentation experte	undefined
+Documentation pratique Fiscale - INT (Conventions internationales)											INT					Documentation experte	undefined
+Documentation pratique Fiscale - IRPP (Impôt sur le revenu des personnes physiques)											IRPP					Documentation experte	undefined
+Documentation pratique Fiscale - IS (Impôt sur les sociétés)											IS					Documentation experte	undefined
+Documentation pratique Fiscale - LOC (Impôts directs locaux)											LOC					Documentation experte	undefined
+Documentation pratique Fiscale - PRO (Taxe professionnelle)											PRO					Documentation experte	undefined
+Documentation pratique Fiscale - REC (Recouvrement des impôts)											REC					Documentation experte	undefined
+Documentation pratique Fiscale - RIE (Régime d'imposition des entreprises)											RIE					Documentation experte	undefined
+Documentation pratique Fiscale - RM (Revenus des capitaux mobiliers)											RM					Documentation experte	undefined
+Documentation pratique Fiscale - TD (Taxes diverses)											TD					Documentation experte	undefined
+Documentation pratique Fiscale - TPS (Taxes et participations sur les salaires)											TPS					Documentation experte	undefined
+Documentation pratique Fiscale - TS (Traitements, salaires, pensions et rentes viagères)											TS					Documentation experte	undefined
+Documentation pratique Fiscale - TVA (Taxe sur la valeur ajoutée)											TVA					Documentation experte	undefined
+Documentation pratique Sociale - A - Organisation administrative											A					Documentation experte	undefined
+Documentation pratique Sociale - B - Champ d'application du régime général de sécurité sociale											B					Documentation experte	undefined
+Documentation pratique Sociale - C - Cotisations du régime général de sécurité sociale											C					Documentation experte	undefined
+Documentation pratique Sociale - D - Prestations du régime général de sécurité sociale											D					Documentation experte	undefined
+Documentation pratique Sociale - E - Contentieux de la sécurité sociale											E					Documentation experte	undefined
+Documentation pratique Sociale - F - Protection sociale des non-salariés											F					Documentation experte	undefined
+Documentation pratique Sociale - G - Protection sociale agricole											G					Documentation experte	undefined
+Documentation pratique Sociale - H - Régimes particuliers et spéciaux											H					Documentation experte	undefined
+Documentation pratique Sociale - I - Protection sociale complémentaire d'entreprise											I					Documentation experte	undefined
+Documentation pratique Sociale - J - Retraites											J					Documentation experte	undefined
+Documentation pratique Sociale - K - Droit du travail											K					Documentation experte	undefined
+Documentation pratique Sociale - KA - Conventions et accords collectifs											KA					Documentation experte	undefined
+Documentation pratique Sociale - L - Représentation du personnel											L					Documentation experte	undefined
+Documentation pratique Sociale - M - Litiges entre employeurs et salariés											M					Documentation experte	undefined
+Documentation pratique Sociale - MA - Inspection du travail											MA					Documentation experte	undefined
+Documentation pratique Sociale - N - Contrat de travail											N					Documentation experte	undefined
+Documentation pratique Sociale - NA - Rupture du contrat de travail											NA					Documentation experte	undefined
+Documentation pratique Sociale - NB - Licenciement											NB					Documentation experte	undefined
+Documentation pratique Sociale - NC - Mise à disposition de personnel											NC					Documentation experte	undefined
+Documentation pratique Sociale - ND - Transfert d'entreprise											ND					Documentation experte	undefined
+Documentation pratique Sociale - O - Salaire											O					Documentation experte	undefined
+Documentation pratique Sociale - OA - Durée du travail											OA					Documentation experte	undefined
+Documentation pratique Sociale - P - Hygiène et sécurité											P					Documentation experte	undefined
+Documentation pratique Sociale - PA - Congés											PA					Documentation experte	undefined
+Documentation pratique Sociale - PB - Participation des salariés											PB					Documentation experte	undefined
+Documentation pratique Sociale - Q - Emploi											Q					Documentation experte	undefined
+Documentation pratique Sociale - QA - Chômage											QA					Documentation experte	undefined
+Documentation pratique Sociale - R - Apprentissage et formation professionnelle											R					Documentation experte	undefined
+Documentation pratique Sociale - S - Travailleurs étrangers											S					Documentation experte	undefined
+Documentation pratique Sociale - T - Statuts particuliers											T					Documentation experte	undefined
+Documentation pratique Sociale - TA - Dirigeants et associés de sociétés											TA					Documentation experte	undefined
+Documentation pratique Sociale - TB - Représentants de commerce											TB					Documentation experte	undefined
+Documentation pratique Sociale - TC - Travail hors de France											TC					Documentation experte	undefined
+Documentation pratique Sociale - U - Dispositions communes											U					Documentation experte	undefined
+Abus de biens sociaux											XJ001					Thèmexpress	undefined
+Abus de majorité et de minorité											XJ053					Thèmexpress	undefined
+Aides entre entreprises : régime fiscal											XF005					Thèmexpress	undefined
+Aide fiscale à l'investissement outre-mer											XF019					Thèmexpress	undefined
+Allégements fiscaux : impacts de la réglementation européenne											XF036					Thèmexpress	undefined
+Apports partiels d'actifs soumis au régime des scissions											XJ110					Thèmexpress	undefined
+Associés de SAS											XJ101					Thèmexpress	undefined
+Assurance-vie											XF011					Thèmexpress	undefined
+Attribution gratuite d'actions											XJ099					Thèmexpress	undefined
+Auto-entreprise : avantages et limites											XJ115					Thèmexpress	undefined
+Avantages en nature et en argent : régime fiscal											XF020					Thèmexpress	undefined
+Baux commerciaux : la déspécialisation											XJ023					Thèmexpress	undefined
+Baux commerciaux : la révision triennale du loyer											XJ005					Thèmexpress	undefined
+Baux commerciaux : la sous-location											XJ025					Thèmexpress	undefined
+Bien utiliser les articles 6 et 7 de la CEDH devant les tribunaux											XJ038					Thèmexpress	undefined
+Blanchiment d'argent : prévention et répression											XJ081					Thèmexpress	undefined
+Cautionnement et dirigeants sociaux											XJ011					Thèmexpress	undefined
+Cession de droit au bail : Régime juridique et fiscal											XJ114					Thèmexpress	undefined
+Clause de mobilité											XS022					Thèmexpress	undefined
+Clause de non-concurrence											XS008					Thèmexpress	undefined
+Clauses de préemption et d'inaliénabilité											XJ044					Thèmexpress	undefined
+Comblement du passif social											XJ018					Thèmexpress	undefined
+Comité d'entreprise et droit des sociétés											XJ107					Thèmexpress	undefined
+Comptes courants d'associés											XJ022					Thèmexpress	undefined
+Concurrence déloyale et parasitisme											XJ108					Thèmexpress	undefined
+Confusion de patrimoine : régime juridique et fiscal											XF030					Thèmexpress	undefined
+Conséquences pour le dirigeant du contrôle fiscal de la société											XF039					Thèmexpress	undefined
+Contrat à durée déterminée ou intérim											XS013					Thèmexpress	undefined
+Contrat d'assurance : comment assurer les risques de l'entreprise ?											XJ124					Thèmexpress	undefined
+Contrat de distribution internationale											XI017					Thèmexpress	undefined
+Contrat de partenariat (public - privé)											XJ097					Thèmexpress	undefined
+Contrat de vente internationale de marchandises											XI001					Thèmexpress	undefined
+Contrat international d'agent commercial											XI020					Thèmexpress	undefined
+Contrats internationaux : clauses d'arbitrage et de juridiction											XI007					Thèmexpress	undefined
+Contrôle et perquisitions dans l'entreprise											XJ123					Thèmexpress	undefined
+Contrôle et redressement URSSAF											XS004					Thèmexpress	undefined
+Convention de portage											XJ014					Thèmexpress	undefined
+Conventions réglementées											XJ010					Thèmexpress	undefined
+Coup d'accordéon											XJ007					Thèmexpress	undefined
+Crédit-bailimmobilier régime fiscal											XF007					Thèmexpress	undefined
+Crédit d'impôt compétitivité et emploi											XF040					Thèmexpress	undefined
+Cumul d'un mandat social et d'un contrat de travail											XS003					Thèmexpress	undefined
+Cumul des mandats sociaux											XJ086					Thèmexpress	undefined
+Délégation de pouvoirs											XJ031					Thèmexpress	undefined
+Délocalisation de bénéfices dans un pays à fiscalité privilégiée											XI005					Thèmexpress	undefined
+Démembrement des titres sociaux : gestion juridique et fiscale											XJ078					Thèmexpress	undefined
+Départ à la retraite											XS012					Thèmexpress	undefined
+Dispositif "Duflot"											XF041					Thèmexpress	undefined
+Dispositif "Scellier											XF031					Thèmexpress	undefined
+Distribution de dividendes											XJ113					Thèmexpress	undefined
+Entreprise individuelle et stratégie fiscale immobilière											XF029					Thèmexpress	undefined
+Entreprises nouvelles : exonérations et allègements d'impôt											XF021					Thèmexpress	undefined
+Facturation : règles économiques et fiscales											XJ117					Thèmexpress	undefined
+Faillite internationale et européenne											XI014					Thèmexpress	undefined
+Faute ou mauvaise foi des organismes sociaux : comment obtenir réparation ?											XS016 					Thèmexpress	undefined
+Forces de vente : rémunération et objectifs											XS017					Thèmexpress	undefined
+Fusion rapide											XJ039					Thèmexpress	undefined
+Garantie de passif											XJ008					Thèmexpress	undefined
+Groupe de sociétés : transfert et mise à disposition de salariés											XS010					Thèmexpress	undefined
+Harcèlement dans les relations de travail											XS015					Thèmexpress	undefined
+Inaptitude au travail : quels risques pour l'entreprise ?											XS020					Thèmexpress	undefined
+La convention fiscale franco-suisse après l'avenant entré en vigueur le 4 novembre 2010											XI021					Thèmexpress	undefined
+Lecture de bilan pour avocats											XJ116					Thèmexpress	undefined
+Lettres d'intention											XJ028					Thèmexpress	undefined
+Location d'actions ou de parts sociales											XJ103					Thèmexpress	undefined
+Location-gérance d'une entreprise											XF022					Thèmexpress	undefined
+Loi « Malraux » et Monuments historiques											XF037					Thèmexpress	undefined
+Maintien du salaire en cas de maladie											XS007					Thèmexpress	undefined
+Mariage et droit des sociétés											XJ118					Thèmexpress	undefined
+Mécénat											XF038					Thèmexpress	undefined
+Mésentente entre associés											XJ098					Thèmexpress	undefined
+Nullités des décisions sociales											XJ079					Thèmexpress	undefined
+Pactes d'actionnaires											XJ004					Thèmexpress	undefined
+Plus-values immobilières et sur biens meubles											XF032					Thèmexpress	undefined
+Plus-values professionnelles des PME : régimes d'exonération											XF034					Thèmexpress	undefined
+Plus-values sur cession de titres											XF025					Thèmexpress	undefined
+Porte-fort en droit des sociétés											XJ120					Thèmexpress	undefined
+Présentation ou publication de comptes ne donnant pas une image fidèle											XJ036					Thèmexpress	undefined
+Rachat par une société de ses propres titres											XJ032					Thèmexpress	undefined
+Rapports des dirigeants à l'AGOA dans les sociétés commerciales											XJ090					Thèmexpress	undefined
+Recherche et développement											XF033					Thèmexpress	undefined
+Référés civils et commerciaux											XJ119					Thèmexpress	undefined
+Résidence fiscale des personnes physiques											XI008					Thèmexpress	undefined
+Responsabilité civile des commissaires aux compte											XJ037					Thèmexpress	undefined
+Responsabilité civile des dirigeants de sociétés											XJ043					Thèmexpress	undefined
+Responsabilité civile des experts-comptables											XJ096					Thèmexpress	undefined
+Responsabilité civile du notaire											XJ109					Thèmexpress	undefined
+Responsabilité du fait des produits défectueux											XJ069					Thèmexpress	undefined
+Responsabilité du gestionnaire de portefeuille											XJ072					Thèmexpress	undefined
+Responsabilité pénale des commissaires aux comptes											XJ045					Thèmexpress	undefined
+Responsabilité pénale des dirigeants sociaux											XJ021					Thèmexpress	undefined
+Responsabilité pénale des personnes morales											XJ016					Thèmexpress	undefined
+Responsabilité sociale et environnementale des entreprises											XJ122					Thèmexpress	undefined
+Retrait d'un associé											XJ050					Thèmexpress	undefined
+Rupture brutale de relations commerciales établies											XJ121					Thèmexpress	undefined
+SCP : avantages de l'option pour l'IS											XF023					Thèmexpress	undefined
+Société en formation											XJ088					Thèmexpress	undefined
+Société européenne											XJ102					Thèmexpress	undefined
+Sociétéscommerciales à capital variable											XJ019					Thèmexpress	undefined
+Statut social des gérants et mandataires											XS018					Thèmexpress	undefined
+Stock-options											XJ041					Thèmexpress	undefined
+Titres de participation											XF028					Thèmexpress	undefined
+Transaction											XS011					Thèmexpress	undefined
+Transfert de bénéfices à l'étranger											XI003					Thèmexpress	undefined
+Union européenne : comment défendre vos droits ?											XI018					Thèmexpress	undefined
+Vente de fonds de commerce : régime fiscal 											XF008					Thèmexpress	undefined
+Vente de fonds de commerce : régime juridique											XJ026					Thèmexpress	undefined
+Code civil											CCIV					Codes	undefined
+Code de commerce											CCOM					Codes	undefined
+Code comptable											CODCPT					Codes	undefined
+Code de la consommation											CCSM					Codes	undefined
+Code fiscal											COF					Codes	undefined
+Code monétaire et financier											CMON					Codes	undefined
+Code de la sécurité sociale											SECU					Codes	undefined
+Code du travail											CTRA					Codes	undefined
+Code social 2004											CS2004					Codes	undefined
+Code social 2005											CS2005					Codes	undefined
+Code social 2006											CS2006					Codes	undefined
+Code social 2007											CS2007					Codes	undefined
+Code social 2008											CS2008					Codes	undefined
+Réglementation comptable France - Règlement CRC n° 99-03 actualisé (PCG)											PCG2004					Source Navis comptable France/Europe	undefined
+Réglementation comptable France - Règlement CRC n° 99-02 actualisé (comptes consolidés)											CONSO04					Source Navis comptable France/Europe	undefined
+Réglementation comptable France - Liste des règlements CRC/ANC dans leur version d'origine											CRC					Source Navis comptable France/Europe	undefined
+Doctrine comptable France - CNC/ANC											CNC					Source Navis comptable France/Europe	undefined
+Doctrine comptable France - AMF											AMF					Source Navis comptable France/Europe	undefined
+Doctrine comptable France - COB											COB					Source Navis comptable France/Europe	undefined
+Doctrine comptable France - OEC											OEC					Source Navis comptable France/Europe	undefined
+Expertise comptable (normes) - Normes professionelles											NPOEC					Source Navis comptable France/Europe	undefined
+Commissariat aux comptes - Normes d'exercice professionnel homologuées (NEP)											NORMECNCCVAL					Source Navis comptable France/Europe	undefined
+Commissariat aux comptes - Notes d'information CNCC											NICNCC					Source Navis comptable France/Europe	undefined
+Commissariat aux comptes - Pratiques professionnelles adoptées par la CNCC											PPCNCC					Source Navis comptable France/Europe	undefined
+Commissariat aux comptes - Normes CNCC (référentiel 2003)											NORMECNCCENCOURS					Source Navis comptable France/Europe	undefined
+Commissariat aux comptes - Autres textes de la CNCC - Avis techniques											AVCNCC					Source Navis comptable France/Europe	undefined
+Commissariat aux comptes - Autres textes de la CNCC - Bulletins											BULLCNCC					Source Navis comptable France/Europe	undefined
+Commissariat aux comptes - Autres textes de la CNCC - Etudes juridiques											ETCNCC					Source Navis comptable France/Europe	undefined
+Sources fiscales France (BOFiP archives) - Documentation administrative											DOCADM					Source Navis comptable France/Europe	undefined
+Sources fiscales France (BOFiP archives) - Instructions											INST					Source Navis comptable France/Europe	undefined
+Sources fiscales France (BOFiP archives) - Réponses ministérielles											REPMIN					Source Navis comptable France/Europe	undefined
+Autres sources France - Autres lois et règlements - Lois											LOI					Source Navis comptable France/Europe	undefined
+Autres sources France - Autres lois et règlements - Ordonnances											ORDON					Source Navis comptable France/Europe	undefined
+Autres sources France - Autres lois et règlements - Décrets											DECRET					Source Navis comptable France/Europe	undefined
+Autres sources France - Autres lois et règlements - Arrêtés											ARRETE					Source Navis comptable France/Europe	undefined
+Autres sources France - Autres lois et règlements - Circulaires et notes de service											CIRC					Source Navis comptable France/Europe	undefined
+Autres sources France - Autres textes - Commission Nationale de l'Informatique et des libertés											CNIL					Source Navis comptable France/Europe	undefined
+Sources comptables Europe - Traités européens											TRAITECEE					Source Navis comptable France/Europe	undefined
+Sources comptables Europe - Règlements européens											REGLCEE					Source Navis comptable France/Europe	undefined
+Sources comptables Europe - Directives européennes											DIRCEE					Source Navis comptable France/Europe	undefined
+Sources comptables Europe - Décisions européennes											DECCEE					Source Navis comptable France/Europe	undefined
+Normes IAS/IFRS - Normes d'application obligatoire en 2013											IASGB					Sources comptables IFRS	undefined
+Normes IAS/IFRS - Normes et amendements d'application obligatoire après 2013											IASGBFUT					Sources comptables IFRS	undefined
+Normes IAS/IFRS - IFRS pour PME											NIFRSPME					Sources comptables IFRS	undefined
+Normes IAS/IFRS - Anciennes normes et amendements intégrés											IASAMGB					Sources comptables IFRS	undefined
+Interprétations SIC/IFRIC - Interprétations en vigueur en Europe en 2013											SICGB					Sources comptables IFRS	undefined
+Interprétations SIC/IFRIC - Interprétations non encore en vigueur en Europe en 2013											SICGBFUT					Sources comptables IFRS	undefined
+Interprétations SIC/IFRIC - Interprétations supprimées											PERIFGB					Sources comptables IFRS	undefined
+Exposés-sondages (normes et interprétations) - Normes (ED)											ED					Sources comptables IFRS	undefined
+Exposés-sondages (normes et interprétations) - Interprétations (D)											IFRIC					Sources comptables IFRS	undefined
+Exposés-sondages (normes et interprétations) - Discussion Papers (DP)											DP					Sources comptables IFRS	undefined
+IFRIC rejections - Sujets non retenus pour l'agenda par date											REJCTDATE					Sources comptables IFRS	undefined
+IFRIC rejections - Sujets non retenus pour l'agenda par norme											REJCTNORM					Sources comptables IFRS	undefined
+Autres textes de l'IFRS Foundation											TXTIASB					Sources comptables IFRS	undefined
+Textes IFRS du CNC/ANC et de l'AMF											CNCIFRS					Sources comptables IFRS	undefined
+Décisions de l'ESMA en matière d'IFRS											CESR					Sources comptables IFRS	undefined
+IR (Impôt sur le revenu)											BOFIPIR					BOFIP Impôts	undefined
+RSA (Revenus salariaux et assimilés)											BOFIPRSA					BOFIP Impôts	undefined
+RPPM (Revenus et profits du patrimoine mobilier)											BOFIPRPPM					BOFIP Impôts	undefined
+RFPI (Revenus fonciers et profits du patrimoine immobilier)											BOFIPRFPI					BOFIP Impôts	undefined
+BA (Bénéfices agricoles)											BOFIPBA					BOFIP Impôts	undefined
+BNC (Bénéfices non commerciaux)											BOFIPBNC					BOFIP Impôts	undefined
+BIC (Bénéfices industriels et commerciaux)											BOFIPBIC					BOFIP Impôts	undefined
+IS (Impôts sur les sociétés)											BOFIPIS					BOFIP Impôts	undefined
+TVA (Taxe sur la valeur ajoutée)											BOFIPTVA					BOFIP Impôts	undefined
+TCA (Taxes spéciales sur le chiffre d'affaires)											BOFIPTCA					BOFIP Impôts	undefined
+CVAE (Cotisation sur la valeur ajoutée des entreprises)											BOFIPCVAE					BOFIP Impôts	undefined
+TPS (Taxes et participations sur les salaires)											BOFIPTPS					BOFIP Impôts	undefined
+TFP (Taxes sur les facteurs de production)											BOFIPTFP					BOFIP Impôts	undefined
+IF (Impôts fonciers)											BOFIPIF					BOFIP Impôts	undefined
+PAT (Impôts sur le patrimoine)											BOFIPPAT					BOFIP Impôts	undefined
+ENR (Enregistrement)											BOFIPENR					BOFIP Impôts	undefined
+TCAS (Taxe sur les conventions d'assurances et assimilées)											BOFIPTCAS					BOFIP Impôts	undefined
+REC (Recouvrement)											BOFIPREC					BOFIP Impôts	undefined
+CF (Contrôle fiscal)											BOFIPCF					BOFIP Impôts	undefined
+CTX (Contentieux)											BOFIPCTX					BOFIP Impôts	undefined
+SJ (Sécurité juridique)											BOFIPSJ					BOFIP Impôts	undefined
+INT (fiscalité internationale)											BOFIPINT					BOFIP Impôts	undefined
+DJC (Dispositions juridiques communes)											BOFIPDJC					BOFIP Impôts	undefined
+Formulaire Baux et fonds de commerce											BAUX					Formulaires	undefined
+Formulaire Contrats											CONTRATS					Formulaires	undefined
+Formulaire Procédures fiscales											PFISC					Formulaires	undefined
+Formulaire Social											SOCIAL					Formulaires	undefined
+Formulaire Sociétés											SOCIETES					Formulaires	undefined

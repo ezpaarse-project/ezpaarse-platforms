@@ -1,0 +1,28 @@
+{
+  "name": "persee",
+  "version": "2013-10-24",
+  "status": "beta",
+  "longname": "Persée",
+  "describe": "Identifie les consultations de la partie revues scientifiques de la plateforme Persée",
+  "docurl": "http://analogist.couperin.org/platforms/persee/",
+  "contact": "Dominique Rouger at univ st etienne fr",
+  "pkb": true,
+	"domains": [
+    "www.persee.fr"
+	],
+  "recognize": {
+    "rid": [
+      "title_id",
+      "unitid"
+    ],
+    "rtype": [
+      "TOC",
+      "ARTICLE"
+    ],
+    "mime": [
+      "HTML",
+      "PDF",
+      "MISC"
+    ]
+  }
+}

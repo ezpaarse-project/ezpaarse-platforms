@@ -1,0 +1,31 @@
+{
+  "name": "wiley",
+  "version": "2013-04-15",
+  "status": "stable",
+  "longname": "Wiley",
+  "describe": "Identifie les consultations des bases Wiley",
+  "docurl": "http://analogist.couperin.org/platforms/wiley/",
+  "contact": "thierry.fournier at univ-rennes1 point fr",
+  "pkb": true,
+	"domains": [
+    "onlinelibrary.wiley.com"
+	],
+  "recognize": {
+    "rid": [
+      "title_id",
+      "online_identifier",
+      "unitid"
+    ],
+    "rtype": [
+      "TOC",
+      "ARTICLE",
+      "ABS",
+      "BOOK_SECTION"
+    ],
+    "mime": [
+      "HTML",
+      "PDF",
+      "MISC"
+    ]
+  }
+}

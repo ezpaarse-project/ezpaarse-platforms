@@ -1,0 +1,30 @@
+{
+  "name": "reaxys",
+  "version": "2014-01-07",
+  "status": "beta",
+  "longname": "Reaxys",
+  "describe": "Reaxys® est une plateforme de recherche d'informations spécialisées en chimie organique, organométallique, et minérale",
+  "docurl": "http://analogist.couperin.org/platforms/reaxys/",
+  "contact": "Sonia Launay et Sylvie FRANCK",
+	"domains": [
+    "www.reaxys.com",
+    "sc.elsevier.com"
+	],
+  "recognize": {
+    "rid": [
+      "unitid"
+    ],
+    "rtype": [
+      "REF",
+      "ARTICLE",
+      "MISC"
+    ],
+    "mime": [
+      "MISC",
+      "HTML",
+      "DOC",
+      "XLS",
+      "PDF"
+    ]
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "name": "cup",
+  "version": "2013-10-28",
+  "status": "beta",
+  "longname": "Cambridge University Press",
+  "describe": "Identifie les consultations du site Cambridge University Press",
+  "docurl": "http://analogist.couperin.org/platforms/cup/",
+  "contact": "yannick.schurter at inist.fr",
+  "pkb": true,
+  "domains": [
+    "journals.cambridge.org"
+  ],
+  "recognize": {
+    "rid": [
+      "title_id",
+      "print_identifier",
+      "unitid"
+    ],
+    "rtype": [
+      "TOC",
+      "ABS",
+      "ARTICLE"
+    ],
+    "mime": [
+      "HTML",
+      "PDF",
+      "MISC"
+    ]
+  }
+}

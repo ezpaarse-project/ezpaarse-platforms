@@ -1,0 +1,7 @@
+out-mime;out-rtype;in-url
+HTML;INDEX;http://www.arabidopsis.org.gate1.inist.fr/index.jsp
+HTML;SEARCH;http://www.arabidopsis.org.gate1.inist.fr/servlets/Search?type=general&action=new_search
+HTML;TOOLS;http://www.arabidopsis.org.gate1.inist.fr/tools/index.jsp
+HTML;PORTALS;http://www.arabidopsis.org.gate1.inist.fr/portals/index.jsp
+HTML;DOWNLOAD;http://www.arabidopsis.org.gate1.inist.fr/download/index.jsp
+HTML;SUBMIT;http://www.arabidopsis.org.gate1.inist.fr/submit/index.jsp

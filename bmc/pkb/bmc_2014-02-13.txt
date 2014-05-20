@@ -1,0 +1,335 @@
+publication_title	print_identifier	online_identifier	date_first_issue_online	num_first_vol_online	num_first_issue_online	date_last_issue_online	num_last_vol_online	num_last_issue_online	title_url	first_author	title_id	embargo_info	coverage_depth	coverage_notes	publisher_name	pkb-startdate	pkb-piddomain
+Alzheimer's Research & Therapy		1758-9193							http://alzres.com		alzres.com					2009	alzres.com
+Beilstein Journal of Organic Chemistry		1860-5397							http://archive.biomedcentral.com/1860-5397/		archive.biomedcentral.com					2005	archive.biomedcentral.com
+Arthritis Research & Therapy		1478-6354							http://arthritis-research.com/		arthritis-research.com					1999	arthritis-research.com
+BMC Anesthesiology		1471-2253							http://www.biomedcentral.com/bmcanesthesiol/		bmcanesthesiol					2001	www.biomedcentral.com
+BMC Biochemistry		1471-2091							http://www.biomedcentral.com/bmcbiochem/		bmcbiochem					2000	www.biomedcentral.com
+BMC Bioinformatics		1471-2105							http://www.biomedcentral.com/bmcbioinformatics/		bmcbioinformatics					2000	www.biomedcentral.com
+BMC Biology		1741-7007							http://www.biomedcentral.com/bmcbiol/		bmcbiol					2003	www.biomedcentral.com
+BMC Biophysics		2046-1682							http://www.biomedcentral.com/bmcbiophys		bmcbiophys					2011	www.biomedcentral.com
+BMC Biotechnology		1472-6750							http://www.biomedcentral.com/bmcbiotechnol/		bmcbiotechnol					2001	www.biomedcentral.com
+BMC Cancer		1471-2407							http://www.biomedcentral.com/bmccancer/		bmccancer					2001	www.biomedcentral.com
+BMC Cardiovascular Disorders		1471-2261							http://www.biomedcentral.com/bmccardiovascdisord/		bmccardiovascdisord					2001	www.biomedcentral.com
+BMC Cell Biology		1471-2121							http://www.biomedcentral.com/bmccellbiol/		bmccellbiol					2000	www.biomedcentral.com
+BMC Chemical Biology		1472-6769							http://www.biomedcentral.com/bmcchembiol/		bmcchembiol					2001	www.biomedcentral.com
+BMC Clinical Pathology		1472-6890							http://www.biomedcentral.com/bmcclinpathol/		bmcclinpathol					2001	www.biomedcentral.com
+BMC Complementary and Alternative Medicine		1472-6882							http://www.biomedcentral.com/bmccomplementalternmed/		bmccomplementalternmed					2001	www.biomedcentral.com
+BMC Dermatology		1471-5945							http://www.biomedcentral.com/bmcdermatol/		bmcdermatol					2001	www.biomedcentral.com
+BMC Developmental Biology		1471-213X							http://www.biomedcentral.com/bmcdevbiol/		bmcdevbiol					2001	www.biomedcentral.com
+BMC Ear, Nose and Throat Disorders		1472-6815							http://www.biomedcentral.com/bmcearnosethroatdisord/		bmcearnosethroatdisord					2001	www.biomedcentral.com
+BMC Ecology		1472-6785							http://www.biomedcentral.com/bmcecol/		bmcecol					2001	www.biomedcentral.com
+BMC Emergency Medicine		1471-227X							http://www.biomedcentral.com/bmcemergmed/		bmcemergmed					2001	www.biomedcentral.com
+BMC Endocrine Disorders		1472-6823							http://www.biomedcentral.com/bmcendocrdisord/		bmcendocrdisord					2001	www.biomedcentral.com
+BMC Evolutionary Biology		1471-2148							http://www.biomedcentral.com/bmcevolbiol/		bmcevolbiol					2001	www.biomedcentral.com
+BMC Family Practice		1471-2296							http://www.biomedcentral.com/bmcfampract/		bmcfampract					2000	www.biomedcentral.com
+BMC Gastroenterology		1471-230X							http://www.biomedcentral.com/bmcgastroenterol/		bmcgastroenterol					2001	www.biomedcentral.com
+BMC Genetics		1471-2156							http://www.biomedcentral.com/bmcgenet/		bmcgenet					2000	www.biomedcentral.com
+BMC Genomics		1471-2164							http://www.biomedcentral.com/bmcgenomics/		bmcgenomics					2000	www.biomedcentral.com
+BMC Geriatrics		1471-2318							http://www.biomedcentral.com/bmcgeriatr/		bmcgeriatr					2001	www.biomedcentral.com
+BMC Health Services Research		1472-6963							http://www.biomedcentral.com/bmchealthservres/		bmchealthservres					2001	www.biomedcentral.com
+BMC Hematology		2052-1839							http://biomedcentral.com/bmchematol/		bmchematol					2001	biomedcentral.com
+BMC Immunology		1471-2172							http://www.biomedcentral.com/bmcimmunol/		bmcimmunol					2000	www.biomedcentral.com
+BMC Infectious Diseases		1471-2334							http://www.biomedcentral.com/bmcinfectdis/		bmcinfectdis					2001	www.biomedcentral.com
+BMC International Health and Human Rights		1472-698X							http://www.biomedcentral.com/bmcinthealthhumrights/		bmcinthealthhumrights					2001	www.biomedcentral.com
+BMC Medicine		1741-7015							http://www.biomedcentral.com/bmcmed/		bmcmed					2003	www.biomedcentral.com
+BMC Medical Education		1472-6920							http://www.biomedcentral.com/bmcmededuc/		bmcmededuc					2001	www.biomedcentral.com
+BMC Medical Ethics		1472-6939							http://www.biomedcentral.com/bmcmedethics/		bmcmedethics					2000	www.biomedcentral.com
+BMC Medical Genetics		1471-2350							http://www.biomedcentral.com/bmcmedgenet/		bmcmedgenet					2000	www.biomedcentral.com
+BMC Medical Genomics		1755-8794							http://www.biomedcentral.com/bmcmedgenomics/		bmcmedgenomics					2008	www.biomedcentral.com
+BMC Medical Imaging		1471-2342							http://www.biomedcentral.com/bmcmedimaging/		bmcmedimaging					2001	www.biomedcentral.com
+BMC Medical Informatics and Decision Making		1472-6947							http://www.biomedcentral.com/bmcmedinformdecismak/		bmcmedinformdecismak					2001	www.biomedcentral.com
+BMC Medical Physics		1756-6649							http://www.biomedcentral.com/bmcmedphys/		bmcmedphys					2001	www.biomedcentral.com
+BMC Medical Research Methodology		1471-2288							http://www.biomedcentral.com/bmcmedresmethodol/		bmcmedresmethodol					2001	www.biomedcentral.com
+BMC Microbiology		1471-2180							http://www.biomedcentral.com/bmcmicrobiol/		bmcmicrobiol					2001	www.biomedcentral.com
+BMC Molecular Biology		1471-2199							http://www.biomedcentral.com/bmcmolbiol/		bmcmolbiol					2000	www.biomedcentral.com
+BMC Musculoskeletal Disorders		1471-2474							http://www.biomedcentral.com/bmcmusculoskeletdisord/		bmcmusculoskeletdisord					2000	www.biomedcentral.com
+BMC Nephrology		1471-2369							http://www.biomedcentral.com/bmcnephrol/		bmcnephrol					2000	www.biomedcentral.com
+BMC Neurology		1471-2377							http://www.biomedcentral.com/bmcneurol/		bmcneurol					2001	www.biomedcentral.com
+BMC Neuroscience		1471-2202							http://www.biomedcentral.com/bmcneurosci/		bmcneurosci					2000	www.biomedcentral.com
+BMC Nursing		1472-6955							http://www.biomedcentral.com/bmcnurs/		bmcnurs					2002	www.biomedcentral.com
+BMC Ophthalmology		1471-2415							http://www.biomedcentral.com/bmcophthalmol/		bmcophthalmol					2001	www.biomedcentral.com
+BMC Oral Health		1472-6831							http://www.biomedcentral.com/bmcoralhealth/		bmcoralhealth					2001	www.biomedcentral.com
+BMC Palliative Care		1472-684X							http://www.biomedcentral.com/bmcpalliatcare/		bmcpalliatcare					2002	www.biomedcentral.com
+BMC Pediatrics		1471-2431							http://www.biomedcentral.com/bmcpediatr/		bmcpediatr					2001	www.biomedcentral.com
+BMC Pharmacology		1471-2210							http://www.biomedcentral.com/bmcpharmacol/		bmcpharmacol					2001	www.biomedcentral.com
+BMC Pharmacology and Toxicology		2050-6511							http://www.biomedcentral.com/bmcpharmacoltoxicol		bmcpharmacoltoxicol					2001	www.biomedcentral.com
+BMC Physiology		1472-6793							http://www.biomedcentral.com/bmcphysiol/		bmcphysiol					2001	www.biomedcentral.com
+BMC Plant Biology		1471-2229							http://www.biomedcentral.com/bmcplantbiol/		bmcplantbiol					2001	www.biomedcentral.com
+BMC Pregnancy and Childbirth		1471-2393							http://www.biomedcentral.com/bmcpregnancychildbirth/		bmcpregnancychildbirth					2001	www.biomedcentral.com
+BMC Proceedings		1753-6561							http://www.biomedcentral.com/bmcproc/		bmcproc					2007	www.biomedcentral.com
+BMC Psychiatry		1471-244X							http://www.biomedcentral.com/bmcpsychiatry/		bmcpsychiatry					2001	www.biomedcentral.com
+BMC Psychology		2050-7283							http://www.biomedcentral.com/bmcpsychol/		bmcpsychol					2012	www.biomedcentral.com
+BMC Public Health		1471-2458							http://www.biomedcentral.com/bmcpublichealth/		bmcpublichealth					2001	www.biomedcentral.com
+BMC Pulmonary Medicine		1471-2466							http://www.biomedcentral.com/bmcpulmmed/		bmcpulmmed					2001	www.biomedcentral.com
+BMC Research Notes		1756-0500							http://www.biomedcentral.com/bmcresnotes/		bmcresnotes					2008	www.biomedcentral.com
+BMC Sports Science, Medicine and Rehabilitation		2052-1847							http://biomedcentral.com/bmcsportsscimedrehabil/		bmcsportsscimedrehabil					2013	biomedcentral.com
+BMC Structural Biology		1472-6807							http://www.biomedcentral.com/bmcstructbiol/		bmcstructbiol					2001	www.biomedcentral.com
+BMC Surgery		1471-2482							http://www.biomedcentral.com/bmcsurg/		bmcsurg					2001	www.biomedcentral.com
+BMC Systems Biology		1752-0509							http://www.biomedcentral.com/bmcsystbiol/		bmcsystbiol					2007	www.biomedcentral.com
+BMC Urology		1471-2490							http://www.biomedcentral.com/bmcurol/		bmcurol					2001	www.biomedcentral.com
+BMC Veterinary Research		1746-6148							http://www.biomedcentral.com/bmcvetres/		bmcvetres					2005	www.biomedcentral.com
+BMC Women's Health		1472-6874							http://www.biomedcentral.com/bmcwomenshealth/		bmcwomenshealth					2001	www.biomedcentral.com
+Breast Cancer Research		1465-5411							http://breast-cancer-research.com/		breast-cancer-research.com					1999	breast-cancer-research.com
+EURASIP Journal on Bioinformatics and Systems Biology		1687-4153							http://bsb.eurasipjournals.com		bsb.eurasipjournals.com					2011	bsb.eurasipjournals.com
+Critical Care		1364-8535							http://ccforum.com/		ccforum.com					1997	ccforum.com
+Genome Biology		1465-6906							http://genomebiology.com		genomebiology.com					2000	genomebiology.com
+Genome Medicine		1756-994X							http://genomemedicine.com		genomemedicine.com					2009	genomemedicine.com
+Journal of Biology		1475-4924							http://jbiol.com/		jbiol.com					2002	jbiol.com
+Journal of Cardiovascular Magnetic Resonance		1532-429X							http://jcmr-online.com		jcmr-online.com					2008	jcmr-online.com
+Chemistry Central Journal		1752-153X							http://journal.chemistrycentral.com/		journal.chemistrycentral.com					2007	journal.chemistrycentral.com
+Respiratory Research		1465-9921							http://respiratory-research.com		respiratory-research.com					2000	respiratory-research.com
+Stem Cell Research & Therapy		1757-6512							http://stemcellres.com		stemcellres.com					2010	stemcellres.com
+Allergy, Asthma & Clinical Immunology		1710-1492							http://www.aacijournal.com		www.aacijournal.com					2009	www.aacijournal.com
+Acta Neuropathologica Communications		2051-5960							http://www.actaneurocomms.org		www.actaneurocomms.org					2013	www.actaneurocomms.org
+Acta Veterinaria Scandinavica		1751-0147							http://www.actavetscand.com		www.actavetscand.com					2006	www.actavetscand.com
+Automated Experimentation		1759-4499							http://www.aejournal.net		www.aejournal.net					2009	www.aejournal.net
+Agriculture & Food Security		2048-7010							http://www.agricultureandfoodsecurity.com		www.agricultureandfoodsecurity.com					2012	www.agricultureandfoodsecurity.com
+AIDS Research and Therapy		1742-6405							http://www.aidsrestherapy.com		www.aidsrestherapy.com					2004	www.aidsrestherapy.com
+Algorithms for Molecular Biology		1748-7188							http://www.almob.org		www.almob.org					2006	www.almob.org
+AMB Express		2191-0855							http://www.amb-express.com		www.amb-express.com					2011	www.amb-express.com
+Animal Biotelemetry		2050-3385							http://www.animalbiotelemetry.com		www.animalbiotelemetry.com					2012	www.animalbiotelemetry.com
+Annals of Clinical Microbiology and Antimicrobials		1476-0711							http://www.ann-clinmicrob.com		www.ann-clinmicrob.com					2002	www.ann-clinmicrob.com
+Annals of General Psychiatry		1744-859X							http://www.annals-general-psychiatry.com		www.annals-general-psychiatry.com					2002	www.annals-general-psychiatry.com
+Annals of Intensive Care		2110-5820							http://www.annalsofintensivecare.com		www.annalsofintensivecare.com					2011	www.annalsofintensivecare.com
+Australia and New Zealand Health Policy		1743-8462							http://www.anzhealthpolicy.com		www.anzhealthpolicy.com					2004	www.anzhealthpolicy.com
+Annals of Occupational and Environmental Medicine		2052-4374							http://www.aoemj.com		www.aoemj.com					2013	www.aoemj.com
+Asia Pacific Family Medicine		1447-056X							http://www.apfmj.com		www.apfmj.com					2002	www.apfmj.com
+Aquatic Biosystems		2046-9063							http://www.aquaticbiosystems.org		www.aquaticbiosystems.org					2005	www.aquaticbiosystems.org
+Archives of Public Health		0778-7367							http://www.archpublichealth.com		www.archpublichealth.com					1997	www.archpublichealth.com
+Antimicrobial Resistance and Infection Control		2047-2994							http://www.aricjournal.com		www.aricjournal.com					2011	www.aricjournal.com
+Botanical Studies		1999-3110							http://www.as-botanicalstudies.com		www.as-botanicalstudies.com					2013	www.as-botanicalstudies.com
+Addiction Science & Clinical Practice		1940-0640							http://www.ascpjournal.org		www.ascpjournal.org					2011	www.ascpjournal.org
+Annals of Surgical Innovation and Research		1750-1164							http://www.asir-journal.com		www.asir-journal.com					2007	www.asir-journal.com
+Basic and Clinical Andrology		2051-4190							http://www.bacandrology.com		www.bacandrology.com					2013	www.bacandrology.com
+Behavioral and Brain Functions		1744-9081							http://www.behavioralandbrainfunctions.com		www.behavioralandbrainfunctions.com					2005	www.behavioralandbrainfunctions.com
+Biomedical Digital Libraries		1742-5581							http://www.bio-diglib.com		www.bio-diglib.com					2004	www.bio-diglib.com
+BioData Mining		1756-0381							http://www.biodatamining.org/		www.biodatamining.org					2008	www.biodatamining.org
+Biointerphases		1559-4106							http://www.biointerphases.com		www.biointerphases.com					2011	www.biointerphases.com
+Biology of Mood & Anxiety Disorders		2045-5380							http://www.biolmoodanxietydisord.com		www.biolmoodanxietydisord.com					2011	www.biolmoodanxietydisord.com
+Biological Procedures Online		1480-9222							http://www.biologicalproceduresonline.com		www.biologicalproceduresonline.com					2009	www.biologicalproceduresonline.com
+Biology Direct		1745-6150							http://www.biologydirect.com		www.biologydirect.com					2006	www.biologydirect.com
+BioMagnetic Research and Technology		1477-044X							http://www.biomagres.com		www.biomagres.com					2003	www.biomagres.com
+Biomarker Research		2050-7771							http://www.biomarkerres.org		www.biomarkerres.org					2013	www.biomarkerres.org
+BioMedical Engineering OnLine		1475-925X							http://www.biomedical-engineering-online.com		www.biomedical-engineering-online.com					2002	www.biomedical-engineering-online.com
+Cell Communication and Signaling		1478-811X							http://www.biosignaling.com		www.biosignaling.com					2003	www.biosignaling.com
+Biotechnology for Biofuels		1754-6834							http://www.biotechnologyforbiofuels.com		www.biotechnologyforbiofuels.com					2008	www.biotechnologyforbiofuels.com
+BioPsychoSocial Medicine		1751-0759							http://www.bpsmedicine.com		www.bpsmedicine.com					2007	www.bpsmedicine.com
+Biology of Sex Differences		2042-6410							http://www.bsd-journal.com		www.bsd-journal.com					2010	www.bsd-journal.com
+Cancer & Metabolism		2049-3002							http://www.cancerandmetabolism.com		www.cancerandmetabolism.com					2012	www.cancerandmetabolism.com
+Cancer Cell International		1475-2867							http://www.cancerci.com		www.cancerci.com					2001	www.cancerci.com
+Child and Adolescent Psychiatry and Mental Health		1753-2000							http://www.capmh.com		www.capmh.com					2007	www.capmh.com
+Journal of Carcinogenesis		1477-3163							http://www.carcinogenesis.com		www.carcinogenesis.com					2002	www.carcinogenesis.com
+Cardiovascular Diabetology		1475-2840							http://www.cardiab.com		www.cardiab.com					2002	www.cardiab.com
+Journal of Cardiothoracic Surgery		1749-8090							http://www.cardiothoracicsurgery.org		www.cardiothoracicsurgery.org					2006	www.cardiothoracicsurgery.org
+Cardiovascular Ultrasound		1476-7120							http://www.cardiovascularultrasound.com		www.cardiovascularultrasound.com					2003	www.cardiovascularultrasound.com
+Cases Journal		1757-1626							http://www.casesjournal.com		www.casesjournal.com					2008	www.casesjournal.com
+Carbon Balance and Management		1750-0680							http://www.cbmjournal.com		www.cbmjournal.com					2006	www.cbmjournal.com
+Cell & Bioscience		2045-3701							http://www.cellandbioscience.com		www.cellandbioscience.com					2010	www.cellandbioscience.com
+Cell & Chromosome		1475-9268							http://www.cellandchromosome.com		www.cellandchromosome.com					2002	www.cellandchromosome.com
+Cell Division		1747-1028							http://www.celldiv.com		www.celldiv.com					2006	www.celldiv.com
+Cell Regeneration		2045-9769							http://www.cellregenerationjournal.com		www.cellregenerationjournal.com					2012	www.cellregenerationjournal.com
+Centrosome Research		2045-6093							http://www.centrosomeresearch.com		www.centrosomeresearch.com					0	www.centrosomeresearch.com
+Chiropractic & Manual Therapies		2045-709X							http://www.chiromt.com		www.chiromt.com					1992	www.chiromt.com
+Cilia		2046-2530							http://www.ciliajournal.com		www.ciliajournal.com					2012	www.ciliajournal.com
+Clinical Epigenetics		1868-7083							http://www.clinicalepigeneticsjournal.com		www.clinicalepigeneticsjournal.com					2011	www.clinicalepigeneticsjournal.com
+Clinical and Molecular Allergy		1476-7961							http://www.clinicalmolecularallergy.com		www.clinicalmolecularallergy.com					2003	www.clinicalmolecularallergy.com
+Clinical Proteomics		1559-0275							http://www.clinicalproteomicsjournal.com		www.clinicalproteomicsjournal.com					2011	www.clinicalproteomicsjournal.com
+Clinical Sarcoma Research		2045-3329							http://www.clinicalsarcomaresearch.com		www.clinicalsarcomaresearch.com					2010	www.clinicalsarcomaresearch.com
+Clinical and Translational Medicine		2001-1326							http://www.clintransmed.com		www.clintransmed.com					2012	www.clintransmed.com
+Chinese Medicine		1749-8546							http://www.cmjournal.org		www.cmjournal.org					2006	www.cmjournal.org
+Comparative Hepatology		1476-5926							http://www.comparative-hepatology.com		www.comparative-hepatology.com					2002	www.comparative-hepatology.com
+Conflict and Health		1752-1505							http://www.conflictandhealth.com		www.conflictandhealth.com					2007	www.conflictandhealth.com
+Cough		1745-9974							http://www.coughjournal.com		www.coughjournal.com					2005	www.coughjournal.com
+Clinical Practice and Epidemiology in Mental Health		1745-0179							http://www.cpementalhealth.com		www.cpementalhealth.com					2005	www.cpementalhealth.com
+Critical Ultrasound Journal		2036-7902							http://www.criticalultrasoundjournal.com		www.criticalultrasoundjournal.com					2011	www.criticalultrasoundjournal.com
+Clinical and Translational Allergy		2045-7022							http://www.ctajournal.com		www.ctajournal.com					2011	www.ctajournal.com
+CytoJournal		1742-6413							http://www.cytojournal.com		www.cytojournal.com					2004	www.cytojournal.com
+DARU Journal of Pharmaceutical Sciences		2008-2231							http://www.darujps.com		www.darujps.com					2012	www.darujps.com
+Diagnostic Pathology		1746-1596							http://www.diagnosticpathology.org		www.diagnosticpathology.org					2006	www.diagnosticpathology.org
+Diabetology & Metabolic Syndrome		1758-5996							http://www.dmsjournal.com		www.dmsjournal.com					2009	www.dmsjournal.com
+Dynamic Medicine		1476-5918							http://www.dynamic-med.com		www.dynamic-med.com					2002	www.dynamic-med.com
+eHealth International		1476-3591							http://www.ehealthinternational.org		www.ehealthinternational.org					0	www.ehealthinternational.org
+Environmental Health		1476-069X							http://www.ehjournal.net		www.ehjournal.net					2002	www.ehjournal.net
+Experimental Hematology & Oncology		2162-3619							http://www.ehoonline.org		www.ehoonline.org					2012	www.ehoonline.org
+EJNMMI Research		2191-219X							http://www.ejnmmires.com		www.ejnmmires.com					2011	www.ejnmmires.com
+Environmental Sciences Europe		2190-4715							http://www.enveurope.com		www.enveurope.com					2011	www.enveurope.com
+Environmental Evidence		2047-2382							http://www.environmentalevidencejournal.org		www.environmentalevidencejournal.org					2011	www.environmentalevidencejournal.org
+Epidemiologic Perspectives & Innovations		1742-5573							http://www.epi-perspectives.com		www.epi-perspectives.com					2004	www.epi-perspectives.com
+Epigenetics & Chromatin		1756-8935							http://www.epigeneticsandchromatin.com		www.epigeneticsandchromatin.com					2008	www.epigeneticsandchromatin.com
+EPMA Journal		1878-5085							http://www.epmajournal.com		www.epmajournal.com					2012	www.epmajournal.com
+International Journal for Equity in Health		1475-9276							http://www.equityhealthj.com		www.equityhealthj.com					2002	www.equityhealthj.com
+Emerging Themes in Epidemiology		1742-7622							http://www.ete-online.com		www.ete-online.com					2004	www.ete-online.com
+Journal of Ethnobiology and Ethnomedicine		1746-4269							http://www.ethnobiomed.com		www.ethnobiomed.com					2005	www.ethnobiomed.com
+Experimental & Translational Stroke Medicine		2040-7378							http://www.etsmjournal.com		www.etsmjournal.com					2009	www.etsmjournal.com
+European Journal of Medical Research		2047-783X							http://www.eurjmedres.com		www.eurjmedres.com					2011	www.eurjmedres.com
+EvoDevo		2041-9139							http://www.evodevojournal.com		www.evodevojournal.com					2010	www.evodevojournal.com
+Evolution: Education and Outreach		1936-6434							http://www.evolution-outreach.com		www.evolution-outreach.com					2012	www.evolution-outreach.com
+Extreme Physiology & Medicine		2046-7648							http://www.extremephysiolmed.com		www.extremephysiolmed.com					2011	www.extremephysiolmed.com
+Fibrogenesis & Tissue Repair		1755-1536							http://www.fibrogenesis.com		www.fibrogenesis.com					2008	www.fibrogenesis.com
+Filaria Journal		1475-2883							http://www.filariajournal.com		www.filariajournal.com					2002	www.filariajournal.com
+Flavour		2044-7248							http://www.flavourjournal.com		www.flavourjournal.com					2012	www.flavourjournal.com
+Fluids and Barriers of the CNS		2045-8118							http://www.fluidsbarrierscns.com		www.fluidsbarrierscns.com					2004	www.fluidsbarrierscns.com
+Frontiers in Zoology		1742-9994							http://www.frontiersinzoology.com		www.frontiersinzoology.com					2004	www.frontiersinzoology.com
+Genome Integrity		2041-9414							http://www.genomeintegrity.com		www.genomeintegrity.com					2010	www.genomeintegrity.com
+Geochemical Transactions		1467-4866							http://www.geochemicaltransactions.com		www.geochemicaltransactions.com					2000	www.geochemicaltransactions.com
+GigaScience		2047-217X							http://www.gigasciencejournal.com		www.gigasciencejournal.com					2011	www.gigasciencejournal.com
+Globalization and Health		1744-8603							http://www.globalizationandhealth.com		www.globalizationandhealth.com					2005	www.globalizationandhealth.com
+Genetics Selection Evolution		1297-9686							http://www.gsejournal.org		www.gsejournal.org					1969	www.gsejournal.org
+Gut Pathogens		1757-4749							http://www.gutpathogens.com		www.gutpathogens.com					2009	www.gutpathogens.com
+Genetic Vaccines and Therapy		1479-0556							http://www.gvt-journal.com		www.gvt-journal.com					2003	www.gvt-journal.com
+Harm Reduction Journal		1477-7517							http://www.harmreductionjournal.com		www.harmreductionjournal.com					2004	www.harmreductionjournal.com
+Hereditary Cancer in Clinical Practice		1897-4287							http://www.hccpjournal.com		www.hccpjournal.com					2003	www.hccpjournal.com
+Head & Face Medicine		1746-160X							http://www.head-face-med.com		www.head-face-med.com					2005	www.head-face-med.com
+Head & Neck Oncology		1758-3284							http://www.headandneckoncology.org		www.headandneckoncology.org					2009	www.headandneckoncology.org
+Health Research Policy and Systems		1478-4505							http://www.health-policy-systems.com		www.health-policy-systems.com					2003	www.health-policy-systems.com
+Heritage Science		2050-7445							http://www.heritagesciencejournal.com		www.heritagesciencejournal.com					2013	www.heritagesciencejournal.com
+Herpesviridae		2042-4280							http://www.herpesviridae.org		www.herpesviridae.org					2010	www.herpesviridae.org
+Health Information Science and Systems		2047-2501							http://www.hissjournal.com		www.hissjournal.com					2012	www.hissjournal.com
+Health and Quality of Life Outcomes		1477-7525							http://www.hqlo.com		www.hqlo.com					2003	www.hqlo.com
+Human Resources for Health		1478-4491							http://www.human-resources-health.com		www.human-resources-health.com					2003	www.human-resources-health.com
+Human Genomics		1479-7364							http://www.humgenomics.com		www.humgenomics.com					2003	www.humgenomics.com
+Infectious Diseases of Poverty		2049-9957							http://www.idpjournal.com		www.idpjournal.com					2012	www.idpjournal.com
+International Journal of Health Geographics		1476-072X							http://www.ij-healthgeographics.com		www.ij-healthgeographics.com					2002	www.ij-healthgeographics.com
+International Journal of Behavioral Nutrition and Physical Activity		1479-5868							http://www.ijbnpa.org		www.ijbnpa.org					2004	www.ijbnpa.org
+Journal of Environmental Health Science and Engineering		2052-336X							http://www.ijehse.com		www.ijehse.com					2012	www.ijehse.com
+Israel Journal of Health Policy Research		2045-4015							http://www.ijhpr.org		www.ijhpr.org					2012	www.ijhpr.org
+International Journal of Mental Health Systems		1752-4458							http://www.ijmhs.com		www.ijmhs.com					2007	www.ijmhs.com
+International Journal of Pediatric Endocrinology		1687-9856							http://www.ijpeonline.com		www.ijpeonline.com					2011	www.ijpeonline.com
+Italian Journal of Pediatrics		1824-7288							http://www.ijponline.net		www.ijponline.net					2008	www.ijponline.net
+Immunity & Ageing		1742-4933							http://www.immunityageing.com		www.immunityageing.com					2004	www.immunityageing.com
+Immunome Research		1745-7580							http://www.immunome-research.com		www.immunome-research.com					2005	www.immunome-research.com
+Journal for ImmunoTherapy of Cancer		2051-1426							http://www.immunotherapyofcancer.org		www.immunotherapyofcancer.org					2012	www.immunotherapyofcancer.org
+Implementation Science		1748-5908							http://www.implementationscience.com		www.implementationscience.com					2006	www.implementationscience.com
+In Silico Pharmacology		2193-9616							http://www.in-silico-pharmacology.com		www.in-silico-pharmacology.com					2012	www.in-silico-pharmacology.com
+Infectious Agents and Cancer		1750-9378							http://www.infectagentscancer.com		www.infectagentscancer.com					2006	www.infectagentscancer.com
+International Aquatic Research		2008-6970							http://www.intaquares.com		www.intaquares.com					2011	www.intaquares.com
+International Archives of Medicine		1755-7682							http://www.intarchmed.com		www.intarchmed.com					2008	www.intarchmed.com
+Integrative Omics and Molecular Biology		2047-9174							http://www.integrativeomics.org		www.integrativeomics.org					2011	www.integrativeomics.org
+International Breastfeeding Journal		1746-4358							http://www.internationalbreastfeedingjournal.com		www.internationalbreastfeedingjournal.com					2006	www.internationalbreastfeedingjournal.com
+International Journal of Emergency Medicine		1865-1380							http://www.intjem.com		www.intjem.com					2011	www.intjem.com
+Investigative Genetics		2041-2223							http://www.investigativegenetics.com		www.investigativegenetics.com					2010	www.investigativegenetics.com
+Irish Veterinary Journal		2046-0481							http://www.irishvetjournal.org		www.irishvetjournal.org					2004	www.irishvetjournal.org
+International Seminars in Surgical Oncology		1477-7800							http://www.issoonline.com		www.issoonline.com					2004	www.issoonline.com
+Journal of Biomedical Discovery and Collaboration		1747-5333							http://www.j-biomed-discovery.com		www.j-biomed-discovery.com					2006	www.j-biomed-discovery.com
+Journal of Animal Science and Biotechnology		2049-1891							http://www.jasbsci.com		www.jasbsci.com					2012	www.jasbsci.com
+Journal of Autoimmune Diseases		1740-2557							http://www.jautoimdis.com		www.jautoimdis.com					2004	www.jautoimdis.com
+Journal of Biological Engineering		1754-1611							http://www.jbioleng.org		www.jbioleng.org					2007	www.jbioleng.org
+Journal of Biomedical Science		1423-0127							http://www.jbiomedsci.com		www.jbiomedsci.com					2009	www.jbiomedsci.com
+Journal of Biomedical Semantics		2041-1480							http://www.jbiomedsem.com		www.jbiomedsem.com					2010	www.jbiomedsem.com
+Journal of Bioscience and Medicine		2161-2625							http://www.jbioscimed.com		www.jbioscimed.com					2012	www.jbioscimed.com
+Journal of Brachial Plexus and Peripheral Nerve Injury		1749-7221							http://www.jbppni.com		www.jbppni.com					2006	www.jbppni.com
+Journal of Cheminformatics		1758-2946							http://www.jcheminf.com		www.jcheminf.com					2009	www.jcheminf.com
+Journal of Circadian Rhythms		1740-3391							http://www.jcircadianrhythms.com		www.jcircadianrhythms.com					2003	www.jcircadianrhythms.com
+Journal of Clinical Bioinformatics		2043-9113							http://www.jclinbioinformatics.com		www.jclinbioinformatics.com					2011	www.jclinbioinformatics.com
+Journal of Diabetes & Metabolic Disorders		2251-6581							http://www.jdmdonline.com		www.jdmdonline.com					2012	www.jdmdonline.com
+Journal of Eating Disorders		2050-2974							http://www.jeatdisord.com		www.jeatdisord.com					2012	www.jeatdisord.com
+Journal of Experimental & Clinical Cancer Research		1756-9966							http://www.jeccr.com		www.jeccr.com					2008	www.jeccr.com
+Journal of Experimental & Clinical Assisted Reproduction		1743-1050							http://www.jexpclinassistreprod.com		www.jexpclinassistreprod.com					2004	www.jexpclinassistreprod.com
+Journal of Foot and Ankle Research		1757-1146							http://www.jfootankleres.com		www.jfootankleres.com					2008	www.jfootankleres.com
+Journal of Hematology & Oncology		1756-8722							http://www.jhoonline.org		www.jhoonline.org					2008	www.jhoonline.org
+Journal of the International AIDS Society		1758-2652							http://www.jiasociety.org/		www.jiasociety.org					2004	www.jiasociety.org
+Journal of Immune Based Therapies and Vaccines		1476-8518							http://www.jibtherapies.com		www.jibtherapies.com					2003	www.jibtherapies.com
+Journal of Intensive Care		2052-0492							http://www.jintensivecare.com		www.jintensivecare.com					2013	www.jintensivecare.com
+Journal of Interventional Neuroradiology		2047-3729							http://www.jintervneuroradiology.com		www.jintervneuroradiology.com					2011	www.jintervneuroradiology.com
+Journal of the International Society of Sports Nutrition		1550-2783							http://www.jissn.com		www.jissn.com					2004	www.jissn.com
+Journal of Medical Case Reports		1752-1947							http://www.jmedicalcasereports.com		www.jmedicalcasereports.com					2007	www.jmedicalcasereports.com
+Journal of Molecular Psychiatry		2049-9256							http://www.jmolecularpsychiatry.com		www.jmolecularpsychiatry.com					2012	www.jmolecularpsychiatry.com
+Journal of Molecular Signaling		1750-2187							http://www.jmolecularsignaling.com		www.jmolecularsignaling.com					2006	www.jmolecularsignaling.com
+Journal of Nanobiotechnology		1477-3155							http://www.jnanobiotechnology.com		www.jnanobiotechnology.com					2003	www.jnanobiotechnology.com
+Journal of Neurodevelopmental Disorders		1866-1955							http://www.jneurodevdisorders.com		www.jneurodevdisorders.com					2009	www.jneurodevdisorders.com
+Journal of NeuroEngineering and Rehabilitation		1743-0003							http://www.jneuroengrehab.com		www.jneuroengrehab.com					2004	www.jneuroengrehab.com
+Journal of Neuroinflammation		1742-2094							http://www.jneuroinflammation.com		www.jneuroinflammation.com					2004	www.jneuroinflammation.com
+Journal of Negative Results in BioMedicine		1477-5751							http://www.jnrbm.com		www.jnrbm.com					2002	www.jnrbm.com
+Journal of Ophthalmic Inflammation and Infection		1869-5760							http://www.joii-journal.com		www.joii-journal.com					2011	www.joii-journal.com
+Journal of Pharmaceutical Policy and Practice		2052-3211							http://www.joppp.org		www.joppp.org					2013	www.joppp.org
+Journal of Orthopaedic Surgery and Research		1749-799X							http://www.josr-online.com		www.josr-online.com					2006	www.josr-online.com
+Journal of Inflammation		1476-9255							http://www.journal-inflammation.com		www.journal-inflammation.com					2004	www.journal-inflammation.com
+International Journal of Bipolar Disorders		2194-7511							http://www.journalbipolardisorders.com		www.journalbipolardisorders.com					2012	www.journalbipolardisorders.com
+Journal of Otolaryngology - Head & Neck Surgery		1916-0216							http://www.journalotohns.com		www.journalotohns.com					2013	www.journalotohns.com
+Journal of Physiological Anthropology		1880-6805							http://www.jphysiolanthropol.com		www.jphysiolanthropol.com					2012	www.jphysiolanthropol.com
+Journal of Systems Chemistry		1759-2208							http://www.jsystchem.com		www.jsystchem.com					2010	www.jsystchem.com
+Journal of Therapeutic Ultrasound		2050-5736							http://www.jtultrasound.com		www.jtultrasound.com					2013	www.jtultrasound.com
+Journal of Uncertainty Analysis and Applications		2195-5468							http://www.juaa-journal.com		www.juaa-journal.com					2013	www.juaa-journal.com
+Journal of Venomous Animals and Toxins including Tropical Diseases		1678-9199							http://www.jvat.org		www.jvat.org					2013	www.jvat.org
+Kinetoplastid Biology and Disease		1475-9292							http://www.kinetoplastids.com		www.kinetoplastids.com					2002	www.kinetoplastids.com
+Lipids in Health and Disease		1476-511X							http://www.lipidworld.com		www.lipidworld.com					2002	www.lipidworld.com
+Longevity & Healthspan		2046-2395							http://www.longevityandhealthspan.com		www.longevityandhealthspan.com					2012	www.longevityandhealthspan.com
+Malaria Journal		1475-2875							http://www.malariajournal.com		www.malariajournal.com					2002	www.malariajournal.com
+The Journal of Mathematical Neuroscience		2190-8567							http://www.mathematical-neuroscience.com		www.mathematical-neuroscience.com					2010	www.mathematical-neuroscience.com
+Medical Gas Research		2045-9912							http://www.medicalgasresearch.com		www.medicalgasresearch.com					2011	www.medicalgasresearch.com
+Medical Immunology		1476-9433							http://www.medimmunol.com		www.medimmunol.com					2002	www.medimmunol.com
+Microbial Cell Factories		1475-2859							http://www.microbialcellfactories.com		www.microbialcellfactories.com					2002	www.microbialcellfactories.com
+Microbial Informatics and Experimentation		2042-5783							http://www.microbialinformaticsj.com		www.microbialinformaticsj.com					2011	www.microbialinformaticsj.com
+Microbiome		2049-2618							http://www.microbiomejournal.com		www.microbiomejournal.com					2012	www.microbiomejournal.com
+Mobile DNA		1759-8753							http://www.mobilednajournal.com		www.mobilednajournal.com					2010	www.mobilednajournal.com
+Molecular Cancer		1476-4598							http://www.molecular-cancer.com		www.molecular-cancer.com					2002	www.molecular-cancer.com
+Molecular Autism		2040-2392							http://www.molecularautism.com		www.molecularautism.com					2010	www.molecularautism.com
+Molecular Brain		1756-6606							http://www.molecularbrain.com		www.molecularbrain.com					2008	www.molecularbrain.com
+Molecular Cytogenetics		1755-8166							http://www.molecularcytogenetics.org		www.molecularcytogenetics.org					2008	www.molecularcytogenetics.org
+Molecular Neurodegeneration		1750-1326							http://www.molecularneurodegeneration.com		www.molecularneurodegeneration.com					2006	www.molecularneurodegeneration.com
+Molecular Pain		1744-8069							http://www.molecularpain.com		www.molecularpain.com					2005	www.molecularpain.com
+Movement Ecology		2051-3933							http://www.movementecologyjournal.com		www.movementecologyjournal.com					2013	www.movementecologyjournal.com
+Multidisciplinary Respiratory Medicine		2049-6958							http://www.mrmjournal.com		www.mrmjournal.com					2006	www.mrmjournal.com
+Neural Development		1749-8104							http://www.neuraldevelopment.com		www.neuraldevelopment.com					2006	www.neuraldevelopment.com
+Neural Systems & Circuits		2042-1001							http://www.neuralsystemsandcircuits.com		www.neuralsystemsandcircuits.com					2011	www.neuralsystemsandcircuits.com
+Neuroglia		2050-3997							http://www.neurogliajournal.com		www.neurogliajournal.com					2012	www.neurogliajournal.com
+Nonlinear Biomedical Physics		1753-4631							http://www.nonlinearbiomedphys.com		www.nonlinearbiomedphys.com					2007	www.nonlinearbiomedphys.com
+Nuclear Receptor		1478-1336							http://www.nuclear-receptor.com		www.nuclear-receptor.com					2003	www.nuclear-receptor.com
+Nutrition & Metabolism		1743-7075							http://www.nutritionandmetabolism.com		www.nutritionandmetabolism.com					2004	www.nutritionandmetabolism.com
+Nutrition Journal		1475-2891							http://www.nutritionj.com		www.nutritionj.com					2002	www.nutritionj.com
+New Zealand Journal of Forestry Science		1179-5395							http://www.nzjforestryscience.com		www.nzjforestryscience.com					2013	www.nzjforestryscience.com
+Journal of Occupational Medicine and Toxicology		1745-6673							http://www.occup-med.com		www.occup-med.com					2006	www.occup-med.com
+Orphanet Journal of Rare Diseases		1750-1172							http://www.ojrd.com		www.ojrd.com					2006	www.ojrd.com
+Osteopathic Medicine and Primary Care		1750-4732							http://www.om-pc.com		www.om-pc.com					2007	www.om-pc.com
+Open Network Biology		2046-7826							http://www.opennetworkbiology.com		www.opennetworkbiology.com					2011	www.opennetworkbiology.com
+Open Research Computation		2042-5767							http://www.openresearchcomputation.com		www.openresearchcomputation.com					0	www.openresearchcomputation.com
+Optical Nanoscopy		2192-2853							http://www.optnano.com		www.optnano.com					2011	www.optnano.com
+Journal of Ovarian Research		1757-2215							http://www.ovarianresearch.com		www.ovarianresearch.com					2008	www.ovarianresearch.com
+Parasites & Vectors		1756-3305							http://www.parasitesandvectors.com		www.parasitesandvectors.com					2008	www.parasitesandvectors.com
+Particle and Fibre Toxicology		1743-8977							http://www.particleandfibretoxicology.com		www.particleandfibretoxicology.com					2004	www.particleandfibretoxicology.com
+PathoGenetics		1755-8417							http://www.pathogeneticsjournal.com		www.pathogeneticsjournal.com					2008	www.pathogeneticsjournal.com
+Pediatric Rheumatology		1546-0096							http://www.ped-rheum.com		www.ped-rheum.com					2003	www.ped-rheum.com
+Philosophy, Ethics, and Humanities in Medicine		1747-5341							http://www.peh-med.com		www.peh-med.com					2006	www.peh-med.com
+Perioperative Medicine		2047-0525							http://www.perioperativemedicinejournal.com		www.perioperativemedicinejournal.com					2011	www.perioperativemedicinejournal.com
+Plant Methods		1746-4811							http://www.plantmethods.com		www.plantmethods.com					2005	www.plantmethods.com
+Population Health Metrics		1478-7954							http://www.pophealthmetrics.com		www.pophealthmetrics.com					2003	www.pophealthmetrics.com
+Progress in Biomaterials		2194-0517							http://www.progressbiomaterials.com		www.progressbiomaterials.com					2012	www.progressbiomaterials.com
+Progress in Orthodontics		2196-1042							http://www.progressinorthodontics.com		www.progressinorthodontics.com					2013	www.progressinorthodontics.com
+Proteome Science		1477-5956							http://www.proteomesci.com		www.proteomesci.com					2003	www.proteomesci.com
+Patient Safety in Surgery		1754-9493							http://www.pssjournal.com		www.pssjournal.com					2007	www.pssjournal.com
+Reproductive Biology and Endocrinology		1477-7827							http://www.rbej.com		www.rbej.com					2003	www.rbej.com
+Regenerative Medicine Research		2050-490X							http://www.regenmedres.com		www.regenmedres.com					2013	www.regenmedres.com
+Reproductive Health		1742-4755							http://www.reproductive-health-journal.com		www.reproductive-health-journal.com					2004	www.reproductive-health-journal.com
+Cost Effectiveness and Resource Allocation		1478-7547							http://www.resource-allocation.com		www.resource-allocation.com					2003	www.resource-allocation.com
+Retrovirology		1742-4690							http://www.retrovirology.com		www.retrovirology.com					2004	www.retrovirology.com
+Radiation Oncology		1748-717X							http://www.ro-journal.com		www.ro-journal.com					2006	www.ro-journal.com
+Source Code for Biology and Medicine		1751-0473							http://www.scfbm.org		www.scfbm.org					2006	www.scfbm.org
+Scoliosis		1748-7161							http://www.scoliosisjournal.com		www.scoliosisjournal.com					2006	www.scoliosisjournal.com
+Silence		1758-907X							http://www.silencejournal.com		www.silencejournal.com					2010	www.silencejournal.com
+Scandinavian Journal of Trauma, Resuscitation and Emergency Medicine		1757-7241							http://www.sjtrem.com		www.sjtrem.com					2008	www.sjtrem.com
+Skeletal Muscle		2044-5040							http://www.skeletalmusclejournal.com		www.skeletalmusclejournal.com					2011	www.skeletalmusclejournal.com
+SpringerPlus		2193-1801							http://www.springerplus.com		www.springerplus.com					2011	www.springerplus.com
+Substance Abuse Treatment, Prevention, and Policy		1747-597X							http://www.substanceabusepolicy.com		www.substanceabusepolicy.com					2006	www.substanceabusepolicy.com
+Sustainable Chemical Processes		2043-7129							http://www.sustainablechemicalprocesses.com		www.sustainablechemicalprocesses.com					2013	www.sustainablechemicalprocesses.com
+Sustainable Healthcare		2045-998X							http://www.sustainablehealthcarejournal.com		www.sustainablehealthcarejournal.com					0	www.sustainablehealthcarejournal.com
+Systematic Reviews		2046-4053							http://www.systematicreviewsjournal.com		www.systematicreviewsjournal.com					2012	www.systematicreviewsjournal.com
+Theoretical Biology and Medical Modelling		1742-4682							http://www.tbiomed.com		www.tbiomed.com					2004	www.tbiomed.com
+The HUGO Journal		1877-6566							http://www.thehugojournal.com		www.thehugojournal.com					2011	www.thehugojournal.com
+The Journal of Headache and Pain		1129-2377							http://www.thejournalofheadacheandpain.com		www.thejournalofheadacheandpain.com					2013	www.thejournalofheadacheandpain.com
+Rice		1939-8433							http://www.thericejournal.com		www.thericejournal.com					2011	www.thericejournal.com
+Thrombosis Journal		1477-9560							http://www.thrombosisjournal.com		www.thrombosisjournal.com					2003	www.thrombosisjournal.com
+Thyroid Research		1756-6614							http://www.thyroidresearchjournal.com		www.thyroidresearchjournal.com					2008	www.thyroidresearchjournal.com
+Tobacco Induced Diseases		1617-9625							http://www.tobaccoinduceddiseases.com		www.tobaccoinduceddiseases.com					2002	www.tobaccoinduceddiseases.com
+Journal of Translational Medicine		1479-5876							http://www.translational-medicine.com		www.translational-medicine.com					2003	www.translational-medicine.com
+Translational Neurodegeneration		2047-9158							http://www.translationalneurodegeneration.com		www.translationalneurodegeneration.com					2012	www.translationalneurodegeneration.com
+Transplantation Research		2047-1440							http://www.transplantationresearch.com		www.transplantationresearch.com					2011	www.transplantationresearch.com
+Translational Respiratory Medicine		2213-0802							http://www.transrespmed.com		www.transrespmed.com					2012	www.transrespmed.com
+Journal of Trauma Management & Outcomes		1752-2897							http://www.traumamanagement.org		www.traumamanagement.org					2007	www.traumamanagement.org
+Trials		1745-6215							http://www.trialsjournal.com		www.trialsjournal.com					2000	www.trialsjournal.com
+Vascular Cell		2045-824X							http://www.vascularcell.com		www.vascularcell.com					2009	www.vascularcell.com
+Veterinary Research		1297-9716							http://www.veterinaryresearch.org		www.veterinaryresearch.org					2011	www.veterinaryresearch.org
+Virology Journal		1743-422X							http://www.virologyj.com		www.virologyj.com					2004	www.virologyj.com
+World Allergy Organization Journal		1939-4551							http://www.waojournal.org		www.waojournal.org					2013	www.waojournal.org
+World Journal of Emergency Surgery		1749-7922							http://www.wjes.org		www.wjes.org					2006	www.wjes.org
+World Journal of Surgical Oncology		1477-7819							http://www.wjso.com		www.wjso.com					2003	www.wjso.com
+Zoological Studies		1810-522X							http://www.zoologicalstudies.com		www.zoologicalstudies.com					2013	www.zoologicalstudies.com

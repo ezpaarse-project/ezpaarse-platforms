@@ -1,0 +1,27 @@
+{
+  "name": "dallozbib",
+  "version": "2013-11-28",
+  "status": "beta",
+  "longname": "Dalloz Bibliotheque",
+  "describe": "Identifie les consultations des bases juridiques Dalloz Bibliothèque",
+  "docurl": "http://analogist.couperin.org/platforms/dallozbib/",
+  "contact": "Karine Delvert et Thomas Jouneau",
+	"domains": [
+    "www.dalloz-bibliotheque.fr",
+    "dallozbndpro-pvgpsla6.dalloz-bibliotheque.fr"
+	],
+  "recognize": {
+    "rid": [
+      "title_id",
+      "unitid"
+    ],
+    "rtype": [
+      "TOC",
+      "BOOK"
+    ],
+    "mime": [
+      "MISC",
+      "PDF"
+    ]
+  }
+}

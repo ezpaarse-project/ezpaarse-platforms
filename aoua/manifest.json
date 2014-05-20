@@ -1,0 +1,25 @@
+{
+  "name": "aoua",
+  "version": "2014-02-21",
+  "status": "beta",
+  "longname": "AOUA",
+  "describe": "Identifie les consultations de l'archive ouverte de l'Université d'Angers",
+  "docurl": "http://analogist.couperin.org/platforms/aoua/",
+  "contact": "dominique.lechaudel at inist point fr",
+	"domains": [
+    "ao.univ-angers.fr"
+	],
+  "pkb": true,
+  "recognize": {
+    "rid": [
+      "title_id",
+      "unitid"
+    ],
+    "rtype": [
+      "ARTICLE"
+    ],
+    "mime": [
+      "PDF"
+    ]
+  }
+}

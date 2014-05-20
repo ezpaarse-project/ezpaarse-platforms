@@ -1,0 +1,26 @@
+{
+  "name": "lextenso",
+  "version": "2013-05-17",
+  "status": "beta",
+  "longname": "Lextenso",
+  "describe": "Identifie les consultations de la base de droit lextenso fr",
+  "docurl": "http://analogist.couperin.org/platforms/lextenso/",
+  "contact": "Karine Delvert et Thomas Jouneau",
+	"domains": [
+    "www.lextenso.fr"
+	],
+  "recognize": {
+    "rid": [
+      "title_id",
+      "unitid"
+    ],
+    "rtype": [
+      "ARTICLE",
+      "JURISPRUDENCE"
+    ],
+    "mime": [
+      "HTML",
+      "MISC"
+    ]
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "name": "springer",
+  "version": "2013-09-28",
+  "status": "stable",
+  "longname": "Springer",
+  "describe": "Identifie les consultations du site Springer",
+  "docurl": "http://analogist.couperin.org/platforms/springer/",
+  "contact": "yannick.schurter at inist.fr, stephane.gully at inist.fr",
+  "pkb": true,
+  "domains": [
+    "link.springer.com",
+    "www.springerlink.com",
+    "www.springer.com",
+    "download.springer.com"
+  ],
+  "recognize": {
+    "rid": [
+      "title_id",
+      "doi",
+      "print_identifier",
+      "online_identifier",
+      "unitid"
+    ],
+    "rtype": [
+      "TOC",
+      "ARTICLE",
+      "ABS",
+      "BOOK",
+      "BOOKSERIE"
+    ],
+    "mime": [
+      "HTML",
+      "PDF",
+      "MISC"
+    ]
+  }
+}

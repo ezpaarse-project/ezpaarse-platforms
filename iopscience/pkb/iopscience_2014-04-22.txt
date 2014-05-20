@@ -1,0 +1,122 @@
+publication_title	print_identifier	online_identifier	date_first_issue_online	num_first_vol_online	num_first_issue_online	date_last_issue_online	num_last_vol_online	num_last_issue_online	title_url	first_author	title_id	embargo_info	coverage_depth	coverage_notes	publisher_name	
+Acta Physica Sinica (Overseas Edition)	1004-423X		1992-01-01	1	1	1999-12-31	8	12	http://iopscience.iop.org/1004-423X		1004-423X		fulltext		IOP Publishing	
+Advances in Natural Sciences: Nanoscience and Nanotechnology		2043-6262	2010-01-01	1	1				http://iopscience.iop.org/2043-6262		2043-6262		fulltext		IOP Publishing	
+Biofabrication	1758-5082	1758-5090	2009-03-01	1	1				http://iopscience.iop.org/1758-5090		1758-5090		fulltext		IOP Publishing	
+Bioimaging	0966-9051	1361-6374	1993-01-01			1999-12-31			http://iopscience.iop.org/0966-9051		0966-9051		fulltext		IOP Publishing	
+Bioinspiration & Biomimetics	1748-3182	1748-3190	2006-01-01	1	1				http://iopscience.iop.org/1748-3190		1748-3190		fulltext		IOP Publishing	
+Biomedical Materials	1748-6041	1748-605X	2006-01-01	1	1				http://iopscience.iop.org/1748-605X		1748-605X		fulltext		IOP Publishing	
+British Journal of Applied Physics	0508-3443		1950-01-01	1	1	1967-12-31	18	12	http://iopscience.iop.org/0508-3443		0508-3443		fulltext		IOP Publishing	
+Chinese Journal of Astronomy and Astrophysics	1009-9271		2001-01-01	1	1	2008-12-31	8	6	http://iopscience.iop.org/1009-9271		1009-9271		fulltext		IOP Publishing	
+Chinese Journal of Chemical Physics	1003-7713		2006-02-01	19	1	2007-12-31	20	6	http://iopscience.iop.org/1003-7713		1003-7713		fulltext		IOP Publishing	
+Chinese Journal of Chemical Physics	1674-0068		2008-01-01	21	1	2012-12-31	25	6	http://iopscience.iop.org/1674-0068		1674-0068		fulltext		IOP Publishing	
+Chinese Journal of Semiconductors	0253-4177		1980-01-01	29	1	2008-12-31	29	1	http://iopscience.iop.org/0253-4177		0253-4177		fulltext		IOP Publishing	
+Chinese Physics	1009-1963	1741-4199	2000-01-01	9	1	2007-12-31	16	12	http://iopscience.iop.org/1009-1963		1009-1963		fulltext		IOP Publishing	
+Chinese Physics B	1674-1056		2008-01-01	17	1				http://iopscience.iop.org/1674-1056		1674-1056		fulltext		IOP Publishing	
+Chinese Physics C	1674-1137		2008-01-01	32	1				http://iopscience.iop.org/1674-1137		1674-1137		fulltext		IOP Publishing	
+Chinese Physics Letters	0256-307X	1741-3540	1984-01-01	1	1				http://iopscience.iop.org/0256-307X		0256-307X		fulltext		IOP Publishing	
+Classical and Quantum Gravity	0264-9381	1361-6382	1984-01-01	1	1				http://iopscience.iop.org/0264-9381		0264-9381		fulltext		IOP Publishing	
+Clinical Physics and Physiological Measurement	0143-0815		1980-01-01	1	1	1992-12-31	13	4	http://iopscience.iop.org/0143-0815		0143-0815		fulltext		IOP Publishing	
+Combustion Theory and Modelling	1364-7830	1741-3559	1997-01-01			2004-12-31			http://iopscience.iop.org/1364-7830		1364-7830		fulltext		IOP Publishing	
+Communications in Theoretical Physics	0253-6102		2005-01-01	43	1				http://iopscience.iop.org/0253-6102		0253-6102		fulltext		IOP Publishing	
+Computational Science & Discovery	1749-4680	1749-4699	2008-01-01	1	1				http://iopscience.iop.org/1749-4699		1749-4699		fulltext		IOP Publishing	
+Distributed Systems Engineering	0967-1846	1361-6390	1993-09-01	1	1	1999-12-31	6	6	http://iopscience.iop.org/0967-1846		0967-1846		fulltext		IOP Publishing	
+EPL (Europhysics Letters)	0295-5075	1286-4854	1986-01-01	1	1				http://iopscience.iop.org/0295-5075		0295-5075		fulltext		IOP Publishing	
+Environmental Research Letters		1748-9326	2006-10-01	1	1				http://iopscience.iop.org/1748-9326		1748-9326		fulltext		IOP Publishing	
+European Journal of Physics	0143-0807	1361-6404	1980-01-01	1	1				http://iopscience.iop.org/0143-0807		0143-0807		fulltext		IOP Publishing	
+Fluid Dynamics Research	0169-5983	1873-7005	1986-11-01	1	1				http://iopscience.iop.org/1873-7005		1873-7005		fulltext		IOP Publishing	
+IOP Conference Series: Earth and Environmental Science	1755-1307	1755-1315	2008-01-01	1	0				http://iopscience.iop.org/1755-1315		1755-1315		fulltext		IOP Publishing	
+IOP Conference Series: Materials Science and Engineering	1757-8981	1757-899X	2009-01-01	1	0				http://iopscience.iop.org/1757-899X		1757-899X		fulltext		IOP Publishing	
+Inverse Problems	0266-5611	1361-6420	1985-01-01	1	1				http://iopscience.iop.org/0266-5611		0266-5611		fulltext		IOP Publishing	
+Izvestiya: Mathematics	1064-5632	1468-4810	1995-07-01	59	1				http://iopscience.iop.org/1064-5632		1064-5632		fulltext		IOP Publishing	
+Journal of Breath Research	1752-7155	1752-7163	2007-02-01	1	1				http://iopscience.iop.org/1752-7163		1752-7163		fulltext		IOP Publishing	
+Journal of Cosmology and Astroparticle Physics		1475-7516	2003-01-01	2003	1				http://iopscience.iop.org/1475-7516		1475-7516		fulltext		IOP Publishing	
+Journal of Geophysics and Engineering	1742-2132	1742-2140	2004-03-01	1	1				http://iopscience.iop.org/1742-2140		1742-2140		fulltext		IOP Publishing	
+Journal of High Energy Physics		1029-8479	1997-01-01	1997	1	2009-12-31	2009	12	http://iopscience.iop.org/1126-6708		1126-6708		fulltext		IOP Publishing	
+Journal of Instrumentation		1748-0221	2006-01-01	1	1				http://iopscience.iop.org/1748-0221		1748-0221		fulltext		IOP Publishing	
+Journal of Micromechanics and Microengineering	0960-1317	1361-6439	1991-01-01	1	1				http://iopscience.iop.org/0960-1317		0960-1317		fulltext		IOP Publishing	
+Journal of Neural Engineering	1741-2560	1741-2552	2004-01-01	1	1				http://iopscience.iop.org/1741-2552		1741-2552		fulltext		IOP Publishing	
+Journal of Nuclear Energy. Part C, Plasma Physics, Accelerators, Thermonuclear Research	0368-3281		1959-01-01	1	1	1966-12-31	8	6	http://iopscience.iop.org/0368-3281		0368-3281		fulltext		IOP Publishing	
+Journal of Optics	0150-536X		1977-01-01	8	1	1998-12-31	29	6	http://iopscience.iop.org/0150-536X		0150-536X		fulltext		IOP Publishing	
+Journal of Optics	2040-8978	2040-8986	2010-01-01	12	1				http://iopscience.iop.org/2040-8986		2040-8986		fulltext		IOP Publishing	
+Journal of Optics A: Pure and Applied Optics	1464-4258	1741-3567	1999-01-01	1	1	2009-12-31	11	12	http://iopscience.iop.org/1464-4258		1464-4258		fulltext		IOP Publishing	
+Journal of Optics B: Quantum and Semiclassical Optics	1464-4266	1741-3575	1999-01-01	1	1	2005-12-31	7	12	http://iopscience.iop.org/1464-4266		1464-4266		fulltext		IOP Publishing	
+Journal of Physics A: General Physics	0022-3689		1968-01-01	1	1	1972-12-31	5	12	http://iopscience.iop.org/0022-3689		0022-3689		fulltext		IOP Publishing	
+Journal of Physics A: Mathematical and General	0305-4470	1361-6447	1975-01-01	8	1	2006-12-31	39	50	http://iopscience.iop.org/0305-4470		0305-4470		fulltext		IOP Publishing	
+Journal of Physics A: Mathematical and Theoretical	1751-8113	1751-8121	2007-01-01	40	1				http://iopscience.iop.org/1751-8121		1751-8121		fulltext		IOP Publishing	
+Journal of Physics A: Mathematical, Nuclear and General	0301-0015		1973-01-01	6	1	1974-12-31	7	18	http://iopscience.iop.org/0301-0015		0301-0015		fulltext		IOP Publishing	
+Journal of Physics B: Atomic and Molecular Physics	0022-3700		1968-01-01	1	1	1987-12-31	20	24	http://iopscience.iop.org/0022-3700		0022-3700		fulltext		IOP Publishing	
+Journal of Physics B: Atomic, Molecular and Optical Physics	0953-4075	1361-6455	1988-01-01	21	1				http://iopscience.iop.org/0953-4075		0953-4075		fulltext		IOP Publishing	
+Journal of Physics C: Solid State Physics	0022-3719		1968-01-01	1	1	1988-12-31	21	36	http://iopscience.iop.org/0022-3719		0022-3719		fulltext		IOP Publishing	
+Journal of Physics D: Applied Physics	0022-3727	1361-6463	1968-01-01	1	1				http://iopscience.iop.org/0022-3727		0022-3727		fulltext		IOP Publishing	
+Journal of Physics E: Scientific Instruments	0022-3735		1968-01-01	1	1	1989-12-31	22	12	http://iopscience.iop.org/0022-3735		0022-3735		fulltext		IOP Publishing	
+Journal of Physics F: Metal Physics	0305-4608		1971-01-01	1	1	1988-12-31	18	12	http://iopscience.iop.org/0305-4608		0305-4608		fulltext		IOP Publishing	
+Journal of Physics G: Nuclear Physics	0305-4616		1975-01-01	1	1	1988-12-31	14	12	http://iopscience.iop.org/0305-4616		0305-4616		fulltext		IOP Publishing	
+Journal of Physics G: Nuclear and Particle Physics	0954-3899	1361-6471	1989-01-01	15	1				http://iopscience.iop.org/0954-3899		0954-3899		fulltext		IOP Publishing	
+Journal of Physics: Condensed Matter	0953-8984	1361-648X	1989-01-01	1	1				http://iopscience.iop.org/0953-8984		0953-8984		fulltext		IOP Publishing	
+Journal of Physics: Conference Series	1742-6588	1742-6596	2004-06-01	1	0				http://iopscience.iop.org/1742-6596		1742-6596		fulltext		IOP Publishing	
+Journal of Radiological Protection	0952-4746	1361-6498	1988-01-01	8	1				http://iopscience.iop.org/0952-4746		0952-4746		fulltext		IOP Publishing	
+Journal of Scientific Instruments	0950-7671		1923-01-01	1	0	1967-12-31	44	15	http://iopscience.iop.org/0950-7671		0950-7671		fulltext		IOP Publishing	
+Journal of Semiconductors	1674-4926		2009-01-01	30	1				http://iopscience.iop.org/1674-4926		1674-4926		fulltext		IOP Publishing	
+Journal of Statistical Mechanics: Theory and Experiment		1742-5468	2004-01-01	2004	1				http://iopscience.iop.org/1742-5468		1742-5468		fulltext		IOP Publishing	
+Journal of Turbulence		1468-5248	2000-03-01			2004-12-31			http://iopscience.iop.org/1468-5248		1468-5248		fulltext		IOP Publishing	
+Journal of the Society for Radiological Protection	0260-2814		1981-01-01	1	1	1987-12-31	7	4	http://iopscience.iop.org/0260-2814		0260-2814		fulltext		IOP Publishing	
+Laser Physics	1054-660X	1555-6611	1991-01-01	23	1				http://iopscience.iop.org/1555-6611		1555-6611		fulltext		IOP Publishing	
+Laser Physics Letters	1612-2011	1612-202X	2004-01-01	1	1				http://iopscience.iop.org/1612-202X		1612-202X		fulltext		IOP Publishing	
+Mathematics of the USSR-Izvestiya	0025-5726		1967-01-01	1	1	1992-12-31	39	6	http://iopscience.iop.org/0025-5726		0025-5726		fulltext		IOP Publishing	
+Mathematics of the USSR-Sbornik	0025-5734		1967-01-01	1	1	1993-06-30	74	6	http://iopscience.iop.org/0025-5734		0025-5734		fulltext		IOP Publishing	
+Measurement Science and Technology	0957-0233	1361-6501	1990-01-01	1	1				http://iopscience.iop.org/0957-0233		0957-0233		fulltext		IOP Publishing	
+Methods and Applications in Fluorescence		2050-6120	2013-03-01	1	1				http://iopscience.iop.org/2050-6120		2050-6120		fulltext		IOP Publishing	
+Metrologia	0026-1394	1681-7575	1965-01-01	1	1				http://iopscience.iop.org/0026-1394		0026-1394		fulltext		IOP Publishing	
+Modelling and Simulation in Materials Science and Engineering	0965-0393	1361-651X	1992-10-01	1	1				http://iopscience.iop.org/0965-0393		0965-0393		fulltext		IOP Publishing	
+Nanotechnology	0957-4484	1361-6528	1990-01-01	1	1				http://iopscience.iop.org/0957-4484		0957-4484		fulltext		IOP Publishing	
+Network: Computation in Neural Systems	0954-898X	1361-6536	1990-01-01			2004-12-31			http://iopscience.iop.org/0954-898X		0954-898X		fulltext		IOP Publishing	
+New Journal of Physics		1367-2630	1998-12-01	1	1				http://iopscience.iop.org/1367-2630		1367-2630		fulltext		IOP Publishing	
+Nonlinearity	0951-7715	1361-6544	1988-01-01	1	1				http://iopscience.iop.org/0951-7715		0951-7715		fulltext		IOP Publishing	
+Nouvelle Revue d'Optique	0335-7368		1973-01-01	4	1	1976-12-31	7	6	http://iopscience.iop.org/0335-7368		0335-7368		fulltext		IOP Publishing	
+Nouvelle Revue d'Optique Appliquée	0029-4780		1970-01-01	1	1	1972-12-31	3	6	http://iopscience.iop.org/0029-4780		0029-4780		fulltext		IOP Publishing	
+Nuclear Fusion	0029-5515	1741-4326	1960-01-01	1	1				http://iopscience.iop.org/0029-5515		0029-5515		fulltext		IOP Publishing	
+Physica Scripta	0031-8949	1402-4896	1970-01-01	1	1				http://iopscience.iop.org/1402-4896		1402-4896		fulltext		IOP Publishing	
+Physical Biology	1478-3967	1478-3975	2004-02-12	1	1				http://iopscience.iop.org/1478-3975		1478-3975		fulltext		IOP Publishing	
+Physics Education	0031-9120	1361-6552	1966-01-01	1	1				http://iopscience.iop.org/0031-9120		0031-9120		fulltext		IOP Publishing	
+Physics in Medicine and Biology	0031-9155	1361-6560	1956-01-01	1	1				http://iopscience.iop.org/0031-9155		0031-9155		fulltext		IOP Publishing	
+Physics in Technology	0305-4624		1973-01-01	4	1	1988-05-01	19	6	http://iopscience.iop.org/0305-4624		0305-4624		fulltext		IOP Publishing	
+Physics-Uspekhi	1063-7869	1468-4780	1993-01-01	36	1				http://iopscience.iop.org/1063-7869		1063-7869		fulltext		IOP Publishing	
+Physiological Measurement	0967-3334	1361-6579	1993-01-01	14	1				http://iopscience.iop.org/0967-3334		0967-3334		fulltext		IOP Publishing	
+Plasma Physics	0032-1028		1967-01-01	9	1	1983-12-31	25	12	http://iopscience.iop.org/0032-1028		0032-1028		fulltext		IOP Publishing	
+Plasma Physics and Controlled Fusion	0741-3335	1361-6587	1984-01-01	26	1				http://iopscience.iop.org/0741-3335		0741-3335		fulltext		IOP Publishing	
+Plasma Science and Technology	1009-0630		1999-01-01	1	1				http://iopscience.iop.org/1009-0630		1009-0630		fulltext		IOP Publishing	
+Plasma Sources Science and Technology	0963-0252	1361-6595	1992-01-01	1	1				http://iopscience.iop.org/0963-0252		0963-0252		fulltext		IOP Publishing	
+Proceedings of the Physical Society	0370-1328		1958-01-01	71	1	1967-12-31	92	6	http://iopscience.iop.org/0370-1328		0370-1328		fulltext		IOP Publishing	
+Proceedings of the Physical Society	0959-5309		1926-01-01	39	1	1948-12-31	61	6	http://iopscience.iop.org/0959-5309		0959-5309		fulltext		IOP Publishing	
+Proceedings of the Physical Society of London	1478-7814		1874-01-01	1	1	1925-12-31	38	1	http://iopscience.iop.org/1478-7814		1478-7814		fulltext		IOP Publishing	
+Proceedings of the Physical Society. Section A	0370-1298		1949-01-01	62	1	1957-12-31	70	12	http://iopscience.iop.org/0370-1298		0370-1298		fulltext		IOP Publishing	
+Proceedings of the Physical Society. Section B	0370-1301		1949-01-01	62	1	1957-12-31	70	12	http://iopscience.iop.org/0370-1301		0370-1301		fulltext		IOP Publishing	
+Public Understanding of Science	0963-6625	1361-6609	1992-01-01			2002-12-31			http://iopscience.iop.org/0963-6625		0963-6625		fulltext		IOP Publishing	
+Pure and Applied Optics: Journal of the European Optical Society Part A	0963-9659	1361-6617	1992-01-01	1	1	1998-12-31	7	6	http://iopscience.iop.org/0963-9659		0963-9659		fulltext		IOP Publishing	
+Quantitative Finance	1469-7688	1469-7696	2001-01-01			2004-06-30			http://iopscience.iop.org/1469-7688		1469-7688		fulltext		IOP Publishing	
+Quantum Electronics	1063-7818	1468-4799	1993-01-01	23	1				http://iopscience.iop.org/1063-7818		1063-7818		fulltext		IOP Publishing	
+Quantum Optics: Journal of the European Optical Society Part B	0954-8998		1989-01-01	1	1	1994-12-31	6	6	http://iopscience.iop.org/0954-8998		0954-8998		fulltext		IOP Publishing	
+Quantum and Semiclassical Optics: Journal of the European Optical Society Part B	1355-5111	1361-6625	1995-01-01	7	1	1998-12-31	10	6	http://iopscience.iop.org/1355-5111		1355-5111		fulltext		IOP Publishing	
+Reports on Progress in Physics	0034-4885	1361-6633	1934-01-01	1	1				http://iopscience.iop.org/0034-4885		0034-4885		fulltext		IOP Publishing	
+Research in Astronomy and Astrophysics	1674-4527		2009-01-01	9	1				http://iopscience.iop.org/1674-4527		1674-4527		fulltext		IOP Publishing	
+Review of Physics in Technology	0034-6683		1970-01-01	1	1	1972-12-31	3	3	http://iopscience.iop.org/0034-6683		0034-6683		fulltext		IOP Publishing	
+Russian Academy of Sciences. Izvestiya Mathematics	1064-5632		1993-01-01	40	1	1995-06-30	45	3	http://iopscience.iop.org/1468-4810		1468-4810		fulltext		IOP Publishing	
+Russian Academy of Sciences. Sbornik Mathematics	1064-5616		1993-07-01	75	1	1995-06-30	83	2	http://iopscience.iop.org/1468-4802		1468-4802		fulltext		IOP Publishing	
+Russian Chemical Reviews	0036-021X	1468-4837	1960-01-01	29	1				http://iopscience.iop.org/0036-021X		0036-021X		fulltext		IOP Publishing	
+Russian Mathematical Surveys	0036-0279	1468-4829	1960-01-01	15	1				http://iopscience.iop.org/0036-0279		0036-0279		fulltext		IOP Publishing	
+Sbornik: Mathematics	1064-5616	1468-4802	1995-07-01	186	1				http://iopscience.iop.org/1064-5616		1064-5616		fulltext		IOP Publishing	
+Science Foundation in China	1005-0841		1993-01-01	16	1				http://iopscience.iop.org/1005-0841		1005-0841		fulltext		IOP Publishing	
+Science and Technology of Advanced Materials	1468-6996	1878-5514	2000-01-01	1	1				http://iopscience.iop.org/1468-6996		1468-6996		fulltext		IOP Publishing	
+Semiconductor Science and Technology	0268-1242	1361-6641	1986-01-01	1	1				http://iopscience.iop.org/0268-1242		0268-1242		fulltext		IOP Publishing	
+Smart Materials and Structures	0964-1726	1361-665X	1992-01-01	1	1				http://iopscience.iop.org/0964-1726		0964-1726		fulltext		IOP Publishing	
+Soviet Journal of Quantum Electronics	0049-1748		1971-01-01	1	1	1992-12-31	22	12	http://iopscience.iop.org/0049-1748		0049-1748		fulltext		IOP Publishing	
+Soviet Physics Uspekhi	0038-5670		1958-01-01	1	1	1992-12-31	35	12	http://iopscience.iop.org/0038-5670		0038-5670		fulltext		IOP Publishing	
+Superconductor Science and Technology	0953-2048	1361-6668	1988-06-01	1	1				http://iopscience.iop.org/0953-2048		0953-2048		fulltext		IOP Publishing	
+Surface Topography: Metrology and Properties		2051-672X	2013-03-31						http://iopscience.iop.org/2051-672X		2051-672X		fulltext		IOP Publishing	
+The Astronomical Journal	0004-6256	1538-3881	1998-01-01	115	1				http://iopscience.iop.org/1538-3881		1538-3881		fulltext		IOP Publishing and American Astronomical Society	
+The Astrophysical Journal	0004-637X	1538-4357	1996-11-01	471	1				http://iopscience.iop.org/0004-637X		0004-637X		fulltext		IOP Publishing and American Astronomical Society	
+The Astrophysical Journal Letters	0004-637X	1538-4357	1995-07-01	447	1	2009-12-31	707	2	http://iopscience.iop.org/1538-4357		1538-4357		fulltext		IOP Publishing and American Astronomical Society	
+The Astrophysical Journal Letters	2041-8205	2041-8213	2010-01-01	708	1				http://iopscience.iop.org/2041-8205		2041-8205		fulltext		IOP Publishing and American Astronomical Society	
+The Astrophysical Journal Supplement Series	0067-0049	1538-4365	1996-12-01	107	1				http://iopscience.iop.org/0067-0049		0067-0049		fulltext		IOP Publishing and American Astronomical Society	
+Transactions of the Optical Society	1475-4878		1899-01-01	1	1	1932-12-31	33	9	http://iopscience.iop.org/1475-4878		1475-4878		fulltext		IOP Publishing	
+Waves in Random Media	0959-7174	1361-6676	1991-01-01			2004-12-31			http://iopscience.iop.org/0959-7174		0959-7174		fulltext		IOP Publishing	

@@ -1,0 +1,28 @@
+{
+  "name": "bmc",
+  "version": "2013-05-16",
+  "status": "stable",
+  "longname": "Biomed Central",
+  "describe": "Identifie les consultations du site Biomed Central",
+  "docurl": "http://analogist.couperin.org/platforms/bmc/",
+  "contact": "dominique.rouger at univ-st-teienne.fr",
+  "pkb": true,
+  "pkb-domains": "pkb-piddomain",
+  "recognize": {
+    "rid": [
+      "title_id",
+      "print_identifier",
+      "unitid"
+    ],
+    "rtype": [
+      "TOC",
+      "ABS",
+      "ARTICLE"
+    ],
+    "mime": [
+      "HTML",
+      "PDF",
+      "MISC"
+    ]
+  }
+}

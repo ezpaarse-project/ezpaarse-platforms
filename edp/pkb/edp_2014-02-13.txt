@@ -1,0 +1,93 @@
+publication_title	print_identifier	online_identifier	date_first_issue_online	num_first_vol_online	num_first_issue_online	date_last_issue_online	num_last_vol_online	num_last_issue_online	title_url	first_author	title_id	embargo_info	coverage_depth	coverage_notes	publisher_name
+	0001-7817	1760-611X									www.aos-journal.org				
+	1774-0746	1773-0155									www.agronomy-journal.org				
+	0365-4877	1286-482X									analusis.edpsciences.org				
+	1627-3583	1627-3591									animres.edpsciences.org				
+	0003-4088	2100-000X									www.limnology-journal.org				
+	0003-4169	1286-4838									www.annphys.org				
+	0768-598X	1961-9480									www.ata-journal.org				
+	1286-4560	1297-966X									www.afs-journal.org				
+	0044-8435	1297-9678									www.apidologie.org				
+	0990-7440	1765-2952									www.alr-journal.org				
+	0004-6361	1432-0746									www.aanda.org				
+	0365-0138	1286-4846									aas.aanda.org				
+											www.audio-infos.eu				
+											www.audiology-infos.eu				
+											www.basse-vision-infos.eu				
+	2105-0678	2105-0686									www.biologie-journal.org				
+											www.biologiste-infos.eu				
+		2117-4458									www.bio-conferences.org				
+	1768-9775										www.uniodf-journal.org				
+	1818-8710	2100-0646									asees.water-quality-journal.org				
+	0298-6248	1625-9718									www.clefscea.fr				
+	1958-5586	1958-5594									www.dairy-journal.org				
+											www.dentoscope.fr				
+	2116-1321	2116-133X									www.rdmbd.org				
+	1633-4760	1638-1963									www.eas-journal.org				
+	2100-0808	2100-0816									www.etp-journal.org				
+	1635-7922	1635-7930									www.ebr-journal.org				
+	1517-7823										epistemo.edpsciences.org				
+		2105-0716									www.epj-pv.org				
+		2100-014X									www.epj-conferences.org				
+	0295-5075	1286-4854									epljournal.edpsciences.org				
+	1292-8119	1262-3377									www.esaim-cocv.org				
+	0764-583X	1290-3841									www.esaim-m2an.org				
+	1292-8100	1262-3318									www.esaim-ps.org				
+		1270-900X									www.esaim-proc.org				
+	1292-8895	1292-8909									ejess.edpsciences.org				
+	1818-8710	2100-0646									www.water-quality-journal.org				
+	1434-6001	1434-601X									epja.epj.org				
+	1286-0042	1286-0050									www.epjap.org				
+	1434-6028	1434-6036									epjb.epj.org				
+	1434-6044	1434-6052									epjc.epj.org				
+	1434-6060	1434-6079									epjd.epj.org				
+	1292-8941	1292-895X									epje.epj.org				
+	2102-6459	2102-6467									epjh.epj.org				
+	1951-6355	1951-6401									epjst.epj.org				
+	0531-7479	1432-1092									www.europhysicsnews.org				
+	0248-1294	1625-967X									www.fruits-journal.org				
+	0999-193X	1297-9686									www.gse-journal.org				
+	0018-6368	1958-5551									www.shf-lhb.org				
+	1147-9213	1958-556X									www.hydroecologie.org				
+	1637-2530										www.independentaire.fr				
+	1779-627X	1779-6288									www.ijsmdo.org				
+	2107-6839	2107-6847									www.metrology-journal.org				
+											www.itm-conferences.org				
+		1638-5705									www.j3ea.org				
+	0021-7689										jcp.edpsciences.org				
+	2110-5715										www.jdao-journal.org				
+		2115-7251									www.swsc-journal.org				
+		1961-9502									www.kmae-journal.org				
+	1160-7742	1760-6136									www.larsg-revue.com				
+											www.lentrepriseofficinale.fr				
+		2261-236X									www.matec-conferences.org				
+	0032-6895	1778-3771									www.mattech-journal.org				
+	0973-5348	1760-6101									www.mmnp-journal.org				
+	2257-7777	2257-7750									www.mechanics-industry.org				
+	1273-2761	2105-1011									www.mbcb-journal.org				
+	0398-7604	2110-5405									www.medecine-nutrition.org				
+	0767-0974	1958-5381									www.medecinesciences.org				
+	1154-2799										mmm.edpsciences.org				
+	2118-5735	2118-5743									www.mov-sport-sciences.org				
+	1240-1307	1765-2979									www.nss-journal.org				
+											www.nutrition-infos.com				
+	0078-6608	1954-3395									www.orthodfr.org				
+											www.orthophile.fr				
+		1776-1042									www.parasite-journal.org				
+	1625-6484	1627-4784									www.pedagogie-medicale.org				
+	0031-6032	2118-4038									www.perspectives-psy.org				
+											www.photoniques.com				
+											www.profession-pharmacien.fr				
+	1145-1882	2118-4224									www.psycho-clinique.org				
+	1142-2785	1760-4826									www.quadrature-journal.org				
+	0033-8451	1769-700X									www.radioprotection.org				
+	0399-0559	1290-3868									www.rairo-ro.org				
+	0988-3754	1290-385X									www.rairo-ita.org				
+	1953-793X	2102-6777									www.refletsdelaphysique.fr				
+	0926-5287	1297-9708									rnd.edpsciences.org				
+	0035-1563	1156-3141									www.revue-metallurgie.org				
+	2118-5654										www.roc-journal.org				
+	0337-9736	2110-543X									odf.edpsciences.org				
+		2261-2424									www.shs-conferences.org				
+	0040-5957	1958-5578									www.journal-therapie.org				
+	0928-4249	1297-9716									www.vetres.org				

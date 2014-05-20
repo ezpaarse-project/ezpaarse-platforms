@@ -1,0 +1,31 @@
+{
+  "name": "muse",
+  "version": "2013-10-16",
+  "status": "alpha",
+  "longname": "muse",
+  "describe": "Identifie les consultations du site MUSE",
+  "docurl": "http://analogist.couperin.org/platforms/muse/",
+  "contact": "sylvain.machefert at u-bordeaux3.fr",
+  "pkb": true,
+	"domains": [
+    "muse.jhu.edu"
+	],
+  "recognize": {
+    "rid": [
+      "title_id",
+      "pisbn",
+      "unitid"
+    ],
+    "rtype": [
+      "BOOK_SECTION",
+      "ARTICLE",
+      "ABS",
+      "TOC"
+    ],
+    "mime": [
+      "HTML",
+      "PDF",
+      "MISC"
+    ]
+  }
+}

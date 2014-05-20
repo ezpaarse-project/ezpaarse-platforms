@@ -1,0 +1,29 @@
+{
+  "name": "erudit",
+  "version": "2013-11-08",
+  "status": "beta",
+  "longname": "Erudit",
+  "describe": "Identifie les consultations de la plateforme Erudit",
+  "docurl": "http://analogist.couperin.org/platforms/erudit/",
+  "contact": "joelle.guerrier at inist point fr",
+  "domains": [
+    "www.erudit.org",
+    "etudinuit.erudit.org"
+  ],
+  "recognize": {
+    "rid": [
+      "title_id",
+      "unitid"
+    ],
+    "rtype": [
+      "TOC",
+      "ARTICLE",
+      "REF"
+    ],
+    "mime": [
+      "HTML",
+      "PDF",
+      "MISC"
+    ]
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "name": "metapress",
+  "version": "2013-11-18",
+  "status": "alpha",
+  "longname": "metapress",
+  "describe": "Identifie les consultations du site Metapress",
+  "docurl": "http://analogist.couperin.org/platforms/metapress/",
+  "contact": "yannick.schurter at inist.fr",
+  "pkb": true,
+	"domains": [
+    "iospress.metapress.com"
+	],
+  "recognize": {
+    "rid": [
+      "title_id",
+      "unitid"
+    ],
+    "rtype": [
+      "ARTICLE",
+      "TOC"
+    ],
+    "mime": [
+      "HTML",
+      "PDF",
+      "MISC"
+    ]
+  }
+}

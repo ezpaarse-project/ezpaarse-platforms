@@ -1,0 +1,1242 @@
+publication_title	print_identifier	online_identifier	date_first_issue_online	num_first_vol_online	num_first_issue_online	date_last_issue_online	num_last_vol_online	num_last_issue_online	title_url	first_author	title_id	embargo_info	coverage_depth	coverage_notes	publisher_name
+Les 100 dates de la culture générale									http://www.cairn.info/les-100-dates-de-la-culture-generale--9782130576181.htm		PUF_COBAS_2009_01				
+Les 100 dates du droit									http://www.cairn.info/les-100-dates-du-droit--9782130581895.htm		PUF_CARBA_2011_01				
+Les 100 histoires des Jeux olympiques									http://www.cairn.info/les-100-histoires-des-jeux-olympiques--9782130606291.htm		PUF_KESSO_2012_01				
+Les 100 lieux de la gastronomie									http://www.cairn.info/les-100-lieux-de-la-gastronomie--9782130588252.htm		PUF_BAUER_2012_01				
+Les 100 lieux de la géopolitique									http://www.cairn.info/les-100-lieux-de-la-geopolitique--9782130590736.htm		PUF_GAUCH_2011_01				
+Les 100 mots de l’eau									http://www.cairn.info/les-100-mots-de-l-eau--9782130595571.htm		PUF_CHAUS_2012_01				
+Les 100 mots de l’internet									http://www.cairn.info/les-100-mots-de-l-internet--9782130592112.htm		PUF_NIEL_2012_01				
+Les 100 mots de l'environnemment									http://www.cairn.info/les-100-mots-de-l-environnemment--9782130560777.htm		PUF_PROGL_2007_01				
+Les 100 mots de l’économie									http://www.cairn.info/les-100-mots-de-l-economie--9782130591474.htm		PUF_BETBE_2011_02				
+Les 100 mots de l’édition									http://www.cairn.info/les-100-mots-de-l-edition--9782130574637.htm		PUF_EYROL_2009_01				
+Les 100 mots de l’éducation									http://www.cairn.info/les-100-mots-de-l-education--9782130582601.htm		PUF_RAYOU_2011_01				
+Les 100 mots de l’énergie									http://www.cairn.info/les-100-mots-de-l-energie--9782130584506.htm		PUF_CHEVA_2010_03				
+Les 100 mots de l’épargne									http://www.cairn.info/les-100-mots-de-l-epargne--9782130569251.htm		PUF_BEKER_2010_01				
+Les 100 mots de l’Europe									http://www.cairn.info/les-100-mots-de-l-europe--9782130581437.htm		PUF_BETBE_2011_01				
+Les 100 mots de la banque									http://www.cairn.info/les-100-mots-de-la-banque--9782130585503.htm		PUF_PAUGE_2010_01				
+Les 100 mots de la Chine									http://www.cairn.info/les-100-mots-de-la-chine--9782130573951.htm		PUF_CHIEN_2010_01				
+Les 100 mots de la communication									http://www.cairn.info/les-100-mots-de-la-communication--9782130550235.htm		PUF_LEVY_2006_01				
+Les 100 mots de la comptabilité									http://www.cairn.info/les-100-mots-de-la-comptabilite--9782130569299.htm		PUF_BATSC_2009_01				
+Les 100 mots de la crise financière									http://www.cairn.info/les-100-mots-de-la-crise-financiere--9782130590729.htm		PUF_JACQU_2011_02				
+Les 100 mots de la culture générale									http://www.cairn.info/les-100-mots-de-la-culture-generale--9782130567325.htm		PUF_COBAS_2008_01				
+Les 100 mots de la diététique et de la nutrition									http://www.cairn.info/les-100-mots-de-la-dietetique-et-de-la-nutriti--9782130582878.htm		PUF_PUJOL_2010_01				
+Les 100 mots de la finance									http://www.cairn.info/les-100-mots-de-la-finance--9782130590149.htm		PUF_JACQU_2011_01				
+Les 100 mots de la fonction publique									http://www.cairn.info/les-100-mots-de-la-fonction-publique--9782130581901.htm		PUF_POCHA_2011_01				
+Les 100 mots de la formation									http://www.cairn.info/les-100-mots-de-la-formation--9782130558521.htm		PUF_WEMAE_2007_01				
+Les 100 mots de la franc-maçonnerie									http://www.cairn.info/les-100-mots-de-la-franc-maconnerie--9782130562634.htm		PUF_BAUER_2007_02				
+Les 100 mots de la gastronomie									http://www.cairn.info/les-100-mots-de-la-gastronomie--9782130585046.htm		PUF_BAUER_2010_03				
+Les 100 mots de la géographie									http://www.cairn.info/les-100-mots-de-la-geographie--9782130591252.htm		PUF_DUNLO_2012_01				
+Les 100 mots de la géopolitique									http://www.cairn.info/les-100-mots-de-la-geopolitique--9782130581925.htm		PUF_GAUCH_2010_01				
+Les 100 mots de la gestion									http://www.cairn.info/les-100-mots-de-la-gestion--9782130591467.htm		PUF_ROUX_2011_01				
+Les 100 mots de la gestion d’actifs									http://www.cairn.info/les-100-mots-de-la-gestion-d-actifs--9782130606826.htm		PUF_BOULI_2012_01				
+Les 100 mots de la Grèce antique									http://www.cairn.info/les-100-mots-de-la-grece-antique--9782130591054.htm		PUF_BILLA_2012_01				
+Les 100 mots de la justice									http://www.cairn.info/les-100-mots-de-la-justice--9782130581420.htm		PUF_SALAS_2011_01				
+Les 100 mots de la musique classique									http://www.cairn.info/les-100-mots-de-la-musique-classique--9782130589075.htm		PUF_GEFFR_2011_01				
+Les 100 mots de la police et du crime									http://www.cairn.info/les-100-mots-de-la-police-et-du-crime--9782130567240.htm		PUF_BAUER_2009_01				
+Les 100 mots de la Provence									http://www.cairn.info/les-100-mots-de-la-provence--9782130579793.htm		PUF_DUMAS_2011_01				
+Les 100 mots de la psychanalyse									http://www.cairn.info/les-100-mots-de-la-psychanalyse--9782130590972.htm		PUF_ANDRE_2011_03				
+Les 100 mots de la psychologie									http://www.cairn.info/les-100-mots-de-la-psychologie--9782130586166.htm		PUF_HOUDE_2011_01				
+Les 100 mots de la régulation									http://www.cairn.info/les-100-mots-de-la-regulation--9782130579410.htm		PUF_FRISO_2011_01				
+Les 100 mots de la sexualité									http://www.cairn.info/les-100-mots-de-la-sexualite--9782130582861.htm		PUF_ANDRE_2011_01				
+Les 100 mots de la sociologie									http://www.cairn.info/les-100-mots-de-la-sociologie--9782130574057.htm		PUF_PAUGA_2010_01				
+Les 100 mots de Marseille									http://www.cairn.info/les-100-mots-de-marseille--9782130592433.htm		PUF_LAFFI_2012_01				
+Les 100 mots des marchés dérivés									http://www.cairn.info/les-100-mots-des-marches-derives--9782130592921.htm		PUF_SIMON_2012_01				
+Les 100 mots des ressources humaines									http://www.cairn.info/les-100-mots-des-ressources-humaines--9782130565789.htm		PUF_IGALE_2008_01				
+Les 100 mots des services									http://www.cairn.info/les-100-mots-des-services--9782130567981.htm		PUF_DROUI_2008_01				
+Les 100 mots des télécommunications									http://www.cairn.info/les-100-mots-des-telecommunications--9782130574767.htm		PUF_BADIL_2009_01				
+Les 100 mots du capital-investissement									http://www.cairn.info/les-100-mots-du-capital-investissement--9782130559559.htm		PUF_SAYER_2013_01				
+Les 100 mots du cinéma									http://www.cairn.info/les-100-mots-du-cinema--9782130592747.htm		PUF_ROUSS_2012_02				
+Les 100 mots du droit									http://www.cairn.info/les-100-mots-du-droit--9782130582946.htm		PUF_GAUDU_2010_01				
+Les 100 mots du droit des affaires									http://www.cairn.info/les-100-mots-du-droit-des-affaires--9782130572084.htm		PUF_COURE_2010_01				
+Les 100 mots du littéraire									http://www.cairn.info/les-100-mots-du-litteraire--9782130582151.htm		PUF_ARON_2011_01				
+Les 100 mots du luxe									http://www.cairn.info/les-100-mots-du-luxe--9782130608462.htm		PUF_BLANC_2012_01				
+Les 100 mots du marketing									http://www.cairn.info/les-100-mots-du-marketing--9782130570486.htm		PUF_CHEVA_2009_01				
+Les 100 mots du marxisme									http://www.cairn.info/les-100-mots-du-marxisme--9782130572336.htm		PUF_DUMEN_2009_01				
+Les 100 mots du Moyen Âge									http://www.cairn.info/les-100-mots-du-moyen-Age--9782130582328.htm		PUF_LABER_2010_01				
+Les 100 mots du nucléaire									http://www.cairn.info/les-100-mots-du-nucleaire--9782130572091.htm		PUF_LAUVE_2009_01				
+Les 100 mots du romantisme									http://www.cairn.info/Les 100 mots du romantisme--9782130579908.htm		PUF_VIARD_2010_01				
+Les 100 mots du surréalisme									http://www.cairn.info/les-100-mots-du-surrealisme--9782130582205.htm		PUF_ARON_2010_01				
+Les 100 mots du symbolisme									http://www.cairn.info/les-100-mots-du-symbolisme--9782130582212.htm		PUF_ARON_2011_02				
+Les 100 mots du terrorisme									http://www.cairn.info/les-100-mots-du-terrorisme--9782130579502.htm		PUF_BAUER_2010_02				
+Les 100 mots du vin									http://www.cairn.info/les-100-mots-du-vin--9782130571339.htm		PUF_MARGE_2009_01				
+Les 100 mythes de la culture générale									http://www.cairn.info/les 100-mythes-de-la-culture-generale--9782130580843.htm		PUF_COBAS_2010_01				
+L’acquisition du langage									http://www.cairn.info/l-acquisition-du-langage--9782130594581.htm		PUF_KAIL_2012_01				
+L’acquisition du nombre									http://www.cairn.info/l-acquisition-du-nombre--9782130585084.htm		PUF_FAYOL_2012_01				
+L’Action française									http://www.cairn.info/l-action-francaise--9782130520733.htm		PUF_PREVO_2004_01				
+L’action humanitaire									http://www.cairn.info/l-action-humanitaire--9782130595007.htm		PUF_LECOC_2012_01				
+Action publique et environnement									http://www.cairn.info/action-publique-et-environnement--9782130594826.htm		PUF_LASCO_2012_01				
+L’acupuncture									http://www.cairn.info/l-acupuncture--9782130578949.htm		PUF_JGUIL_2010_01				
+Les addictions									http://www.cairn.info/les-addictions--9782130580553.htm		PUF_SAIET_2011_01				
+L’administration de l’Éducation nationale									http://www.cairn.info/l-administration-de-l-education-nationale--9782130561149.htm		PUF_BUISS_2008_01				
+ADN et enquêtes criminelles									http://www.cairn.info/adn-et-enquetes-criminelles--9782130568902.htm		PUF_HUYGH_2008_01				
+L’adolescence									http://www.cairn.info/l-adolescence--9782130575085.htm		PUF_EMMAN_2009_01				
+L’adoption									http://www.cairn.info/l-adoption--9782130546870.htm		PUF_MECAR_2006_01				
+L’affaire Dreyfus									http://www.cairn.info/l-affaire-dreyfus--9782707171672.htm		DEC_DUCLE_2012_01				
+L'affaire Dreyfus									http://www.cairn.info/l-affaire-dreyfus--9782130532262.htm		PUF_MIQUE_2003_01				
+L'Afrique, de la colonisation à l'indépendance									http://www.cairn.info/l-afrique-de-la-colonisation-a-l-independance--9782130540366.htm		PUF_STAMM_2003_01				
+Les agences de notation									http://www.cairn.info/les-agences-de-notation--9782707158307.htm		DEC_GAILL_2010_01				
+L’aide publique au développement									http://www.cairn.info/l-aide-publique-au-developpement--9782707146571.htm		DEC_CHARN_2007_01				
+L’aide sociale en France									http://www.cairn.info/l-aide-sociale-en-france--9782130544807.htm		PUF_THEVE_2004_01				
+Albigeois et Cathares									http://www.cairn.info/albigeois-et-cathares--9782130579205.htm		PUF_NIEL_2010_02				
+L’alchimie									http://www.cairn.info/l-alchimie--9782130588337.htm		PUF_HUTIN_2011_01				
+Alexandre le Grand									http://www.cairn.info/alexandre-le-grand--9782130591481.htm		PUF_BRIAN_2011_01				
+Les algorithmes									http://www.cairn.info/les-algorithmes--9782130531807.htm		PUF_HERNE_2002_01				
+L’allocation universelle									http://www.cairn.info/l-allocation-universelle--9782707145260.htm		DEC_VANDE_2005_01				
+L'Alsace-Lorraine pendant la guerre 1939-1945									http://www.cairn.info/l-alsace-lorraine-pendant-la-guerre1939-1945--9782130481065.htm		PUF_RIGOU_1997_01				
+L’aménagement du territoire									http://www.cairn.info/l-amenagement-du-territoire--9782130594789.htm		PUF_MONOD_2012_01				
+L’analyse de la conjoncture									http://www.cairn.info/l-analyse-de-la-conjoncture--9782707166920.htm		DEC_JOBER_2011_01				
+L'analyse de la poésie									http://www.cairn.info/l-analyse-de-la-poesie--9782130520672.htm		PUF_GOUVA_2001_01				
+L'analyse des données									http://www.cairn.info/l-analyse-des-donnees--9782130554448.htm		PUF_BOURO_2006_01				
+L’analyse du discours									http://www.cairn.info/l-analyse-du-discours--9782130585237.htm		PUF_MAZIE_2010_01				
+L’analyse financière de l’entreprise									http://www.cairn.info/l-analyse-financiere-de-l-entreprise--9782707156617.htm		DEC_COLAS_2008_01				
+L’analyse transactionnelle									http://www.cairn.info/l-analyse-transactionnelle--9782130582779.htm		PUF_CHAND_2010_01				
+Les anarchistes de droite									http://www.cairn.info/les-anarchistes-de-droite--9782130435600.htm		PUF_RICHA_1997_01				
+L’ancien et le moyen français									http://www.cairn.info/l-ancien-et-le-moyen-francais--9782130582977.htm		PUF_DUCOS_2012_01				
+L'ancien français									http://www.cairn.info/l-ancien-francais--9782130562191.htm		PUF_ZINK_2007_01				
+L'Ancien Régime									http://www.cairn.info/l-ancien-regime--9782130521617.htm		PUF_METHI_2002_01				
+L’angoisse									http://www.cairn.info/l-angoisse--9782130590194.htm		PUF_KAPSA_2011_01				
+Les animateurs socioculturels									http://www.cairn.info/les-animateurs-socioculturels--9782707156051.htm		DEC_LEBON_2009_01				
+L'anorexie et la boulimie de l'adolescente									http://www.cairn.info/l-anorexie-et-la-boulimie-de-vadolescente--9782130545606.htm		PUF_CHABR_2004_01				
+L’anthropologie									http://www.cairn.info/l-anthropologie--9782130574279.htm		PUF_AUGE_2009_01				
+L’anthropologie des religions									http://www.cairn.info/l-anthropologie-des-religions--9782707173737.htm		DEC_OBADI_2012_01				
+L'anthropologie juridique									http://www.cairn.info/l-anthropologie-juridique--9782130429951.htm		PUF_ROULA_1995_01				
+L’Antiquité orientale									http://www.cairn.info/l-antiquite-orientale--9782130578840.htm		PUF_AMIET_2009_01				
+L'Antiquité tardive									http://www.cairn.info/l-antiquite-tardive--9782130481256.htm		PUF_LANCO_1997_01				
+L'anxiété et l'angoisse									http://www.cairn.info/l-anxiete-et-l-angoisse--9782130521051.htm		PUF_LEGAL_2001_01				
+Apprentissage et formation									http://www.cairn.info/apprentissage-et-formation--9782130549260.htm		PUF_BERBA_2005_01				
+L'apprentissage précoce des langues									http://www.cairn.info/l-apprentissage-precoce-des-langues--9782130537670.htm		PUF_PORCH_2003_01				
+L'arabe									http://www.cairn.info/l-arabe--9782130559610.htm		PUF_KOULO_2007_01				
+L'architecture du XXe siècle									http://www.cairn.info/l-architecture-du-xxe-siecle--9782130507598.htm		PUF_MONNI_2000_01				
+Les archives									http://www.cairn.info/les-archives--9782707167811.htm		DEC_COEUR_2011_01				
+L'argot									http://www.cairn.info/l-argot--9782130559832.htm		PUF_CALVE_2007_01				
+L’argumentation dans la communication									http://www.cairn.info/l-argumentation-dans-la-communication--9782707147950.htm		DEC_BRETO_2009_01				
+L’argumentation 									http://www.cairn.info/l-argumentation-histoire-theories-et-perspectives--9782130534211.htm		PUF_PLANT_2005_01				
+L’arme nucléaire									http://www.cairn.info/l-arme-nucleaire--9782130564973.htm		PUF_TERTR_2008_01				
+L’Arménie									http://www.cairn.info/l-armenie--9782130566687.htm		PUF_MOURA_2009_01				
+Les armes non létales									http://www.cairn.info/les-armes-non-letales--9782130574125.htm		PUF_HUYGH_2009_01				
+L’art contemporain									http://www.cairn.info/l-art-contemporain--9782130591689.htm		PUF_CAUQU_2011_01				
+L'art égyptien									http://www.cairn.info/l-art-egyptien--9782130447603.htm		PUF_BONHE_1996_01				
+L’art italien									http://www.cairn.info/l-art-italien--9782130565345.htm		PUF_FEUIL_2009_02				
+L'art romain									http://www.cairn.info/l-art-romain--9782130482963.htm		PUF_NERAU_1997_01				
+L'art-thérapie									http://www.cairn.info/l-art-therapie--9782130607731.htm		PUF_KLEIN_2012_01				
+Les arts premiers									http://www.cairn.info/les-arts-premiers--9782130592525.htm		PUF_BRETO_2012_01				
+L'Asie centrale contemporaine									http://www.cairn.info/l-asie-centrale-contemporaine--9782130580799.htm		PUF_ROY_2010_02				
+L’Assistance publique-Hôpitaux de Paris									http://www.cairn.info/l-assistance-publique-hopitaux-de-paris--9782130582557.htm		PUF_DUPON_2010_01				
+Les associations									http://www.cairn.info/les-associations--9782130558057.htm		PUF_DEBBA_2006_01				
+Les assurances maladie									http://www.cairn.info/les-assurances-maladie--9782130591580.htm		PUF_BRAS_2012_01				
+L’astrologie									http://www.cairn.info/l-astrologie--9782130548331.htm		PUF_KUNTH_2005_01				
+L'astrophysique nucléaire									http://www.cairn.info/l-astrophysique-nucleaire--9782130533009.htm		PUF_AUDOU_2003_01				
+L’audit									http://www.cairn.info/l-audit--9782707152800.htm		DEC_THIER_2009_01				
+L’audit social									http://www.cairn.info/l-audit-social--9782130608158.htm		PUF_COMBE_2012_01				
+L'autisme infantile									http://www.cairn.info/l-autisme-infantile--9782130579021.htm		PUF_FERRA_2010_01				
+L’autoanalyse									http://www.cairn.info/l-autoanalyse--9782130576839.htm		PUF_BONNE_2010_01				
+Les Aztèques									http://www.cairn.info/les-azteques--9782130586449.htm		PUF_SOUST_2011_01				
+Babylone									http://www.cairn.info/babylone--9782130591436.htm		PUF_ANDRE_2012_01				
+La balance des paiements									http://www.cairn.info/la-balance-des-paiements--9782707135681.htm		DEC_RAFFI_2003_01				
+La bande dessinée									http://www.cairn.info/la-bande-dessinee--9782130561071.htm		PUF_BARON_2007_01				
+La Banque centrale européenne									http://www.cairn.info/la-banque-centrale-europeenne--9782707164612.htm		DEC_FARVA_2010_01				
+La banque et ses fonctions									http://www.cairn.info/la-banque-et-ses-fonctions--9782130531968.htm		PUF_MOSCH_2003_01				
+La Banque mondiale									http://www.cairn.info/la-banque-mondiale--9782707152169.htm		DEC_CLING_2008_01				
+Le baroque									http://www.cairn.info/le-baroque--9782130567554.htm		PUF_TAPIE_2008_01				
+Les Basques									http://www.cairn.info/les-basques--9782130531449.htm		PUF_ALLIE_2003_01				
+La Belgique									http://www.cairn.info/la-belgique--9782130588351.htm		PUF_DUMON_2011_01				
+Les Berbères									http://www.cairn.info/les-berberes--9782130591382.htm		PUF_SERVI_2011_01				
+Bergson									http://www.cairn.info/bergson--9782130561415.htm		PUF_VIEIL_2007_01				
+Les bibliothèques									http://www.cairn.info/les-bibliotheques--9782130570646.htm		PUF_PALLI_2010_01				
+Les bibliothèques									http://www.cairn.info/les-bibliotheques--9782707170927.htm		DEC_BERTR_2011_01				
+Les bibliothèques									http://www.cairn.info/les-bibliotheques--9782130594550.htm		PUF_CARBO_2012_01				
+Le bilan de compétences									http://www.cairn.info/le-bilan-de-competences--9782130565178.htm		PUF_JORAS_2007_01				
+Les biobanques									http://www.cairn.info/les-biobanques--9782130574422.htm		PUF_BELLI_2009_01				
+Les biomédicaments									http://www.cairn.info/les-biomedicaments--9782130588221.htm		PUF_CAVAZ_2011_01				
+Les biotechnologies									http://www.cairn.info/les-biotechnologies--9782130511236.htm		PUF_DOUZO_2001_01				
+Le blanchiment									http://www.cairn.info/le-blanchiment--9782130551829.htm		PUF_KOUTO_2005_01				
+Le blues									http://www.cairn.info/le-blues--9782130570837.htm		PUF_HERZH_2008_01				
+Le bouddhisme									http://www.cairn.info/le-bouddhisme--9782130577935.htm		PUF_BLEVE_2010_01				
+Le bouddhisme en Occident									http://www.cairn.info/le-bouddhisme-en-occident--9782707150639.htm		DEC_OBADI_2007_01				
+La Bourse									http://www.cairn.info/la-bourse--9782707148056.htm		DEC_GOYEA_2007_01				
+La Bourse									http://www.cairn.info/la-bourse--9782130588436.htm		PUF_HAMON_2011_01				
+Le Brésil									http://www.cairn.info/le-bresil--9782130570622.htm		PUF_DROUL_2008_01				
+Le budget de l’État									http://www.cairn.info/le-budget-de-l-etat--9782707174376.htm		DEC_BASLE_2012_01				
+La Caisse des Dépôts									http://www.cairn.info/la-caisse-des-depots--9782130566076.htm		PUF_SCHPI_2008_01				
+Le Cambodge									http://www.cairn.info/le-cambodge--9782130452621.htm		PUF_DELVE_1993_01				
+Le cancer									http://www.cairn.info/le-cancer--9782130534709.htm		PUF_TUBIA_2003_01				
+Le cancer du col de l'utérus									http://www.cairn.info/le-cancer-du-col-de-l-uterus--9782130565758.htm		PUF_DACHE_2008_01				
+Le cannabis									http://www.cairn.info/le-cannabis--9782130584599.htm		PUF_RICHA_2010_01				
+Le capital social									http://www.cairn.info/le-capital-social--9782707147493.htm		DEC_PONTH_2006_01				
+Le capital-risque									http://www.cairn.info/le-capital-risque--9782707146069.htm		DEC_DUBOC_2006_01				
+Le capitalisme									http://www.cairn.info/le-capitalisme--9782130592464.htm		PUF_JESSU_2011_01				
+Le capitalisme financier									http://www.cairn.info/le-capitalisme-financier--9782707138811.htm		DEC_BATSC_2002_01				
+La carte scolaire									http://www.cairn.info/la-carte-scolaire--9782130584407.htm		PUF_VANZA_2010_01				
+Carthage									http://www.cairn.info/carthage--9782130539629.htm		PUF_AMADA_2007_01				
+Les catégories socioprofessionnelles									http://www.cairn.info/les-categories-socioprofessionnelles--9782707138569.htm		DEC_DESRO_2002_01				
+Les cathédrales									http://www.cairn.info/les-cathedrales--9782130529835.htm		PUF_DEMOU_2007_01				
+Les Celtes									http://www.cairn.info/les-celtes--9782130606680.htm		PUF_KRUTA_2012_01				
+Le chamanisme									http://www.cairn.info/le-chamanisme--9782130582915.htm		PUF_PERRI_2010_01				
+Le chaos									http://www.cairn.info/le-chaos--9782130531159.htm		PUF_LURCA_2002_01				
+La Chine ancienne									http://www.cairn.info/la-chine-ancienne--9782130539841.htm		PUF_GERNE_2005_01				
+Le chômage									http://www.cairn.info/le-chomage--9782707157287.htm		DEC_GAUTI_2009_01				
+Chronologie de la France au XXe siècle									http://www.cairn.info/chronologie-de-la-france-au-xxe-siecle--9782707131539.htm		DEC_FHIMA_2000_01				
+La citoyenneté									http://www.cairn.info/la-citoyennete--9782130585343.htm		PUF_LEPOR_2011_01				
+La civilisation byzantine									http://www.cairn.info/la-civilisation-byzantine--9782130592532.htm		PUF_FLUSI_2012_01				
+Les civilisations précolombiennes									http://www.cairn.info/les-civilisations-precolombiennes--9782130593140.htm		PUF_LEHMA_2012_01				
+Les classes sociales									http://www.cairn.info/les-classes-sociales--9782130546719.htm		PUF_LEMEL_2004_01				
+Les classes sociales dans la mondialisation									http://www.cairn.info/les-classes-sociales-dans-la-mondialisation--9782707149220.htm		DEC_WAGNE_2007_01				
+Claude Lévi-Strauss									http://www.cairn.info/claude-levi-strauss--9782130582632.htm		PUF_CLEME_2010_02				
+Le coaching									http://www.cairn.info/le-coaching--9782130594833.htm		PUF_ANGEL_2012_01				
+Le coaching dans les organisations									http://www.cairn.info/le-coaching-dans-les-organisations--9782707166630.htm		DEC_FATIE_2012_01				
+Le commerce équitable									http://www.cairn.info/le-commerce-equitable--9782130589242.htm		PUF_DOUSS_2011_01				
+Le commerce international									http://www.cairn.info/le-commerce-international--9782707158406.htm		DEC_RAINE_2009_01				
+La Commune de 1871									http://www.cairn.info/la-commune-de-1871--9782130554622.htm		PUF_ROUGE_2009_01				
+La communication									http://www.cairn.info/la-communication--9782130577973.htm		PUF_SFEZ_2010_01				
+La communication dans l’entreprise									http://www.cairn.info/la-communication-dans-l-entreprise--9782130586548.htm		PUF_LEHNI_2011_01				
+La communication publique									http://www.cairn.info/la-communication-publique--9782130564102.htm		PUF_ZEMOR_2008_01				
+Le communisme									http://www.cairn.info/le-communisme--9782130514510.htm		PUF_ADLER_2001_01				
+Le Compagnonnage									http://www.cairn.info/le-compagnonnage--9782130592570.htm		PUF_DECAS_2012_01				
+Le complexe d’Œdipe									http://www.cairn.info/le-complexe-d-oedipe--9782130551362.htm		PUF_PERRO_2005_01				
+Le complexe de castration									http://www.cairn.info/le-complexe-de-castration--9782130560173.htm		PUF_GREEN_2007_01				
+La comptabilité anglo-saxonne									http://www.cairn.info/la-comptabilite-anglo-saxonne--9782707153784.htm		DEC_WALTO_2008_01				
+La comptabilité de gestion									http://www.cairn.info/la-comptabilite-de-gestion--9782130536154.htm		PUF_BOUQU_2003_01				
+Comptabilité financière									http://www.cairn.info/comptabilite-financiere--9782130566465.htm		PUF_ESNAU_2008_01				
+La comptabilité nationale									http://www.cairn.info/la-comptabilite-nationale--9782707156600.htm		DEC_PIRIO_2008_01				
+La concurrence imparfaite									http://www.cairn.info/la-concurrence-imparfaite--9782707139504.htm		DEC_GABSZ_2003_01				
+Les conditions de travail									http://www.cairn.info/les-conditions-de-travail--9782707143914.htm		DEC_GOLLA_2007_01				
+Les conduites rituelles									http://www.cairn.info/les-conduites-rituelles--9782130419709.htm		PUF_MAISO_1999_01				
+Les conflits relationnels									http://www.cairn.info/les-conflits-relationnels--9782130594598.htm		PUF_PICAR_2012_01				
+Le Conseil Constitutionnel									http://www.cairn.info/le-conseil-constitutionnel--9782130530794.htm		PUF_FAVOR_2005_01				
+La consommation									http://www.cairn.info/la-consommation--9782130535317.htm		PUF_DESJE_2006_01				
+Consommation et modes de vie en France									http://www.cairn.info/consommation-et-modes-de-vie-en-france--9782707156655.htm		DEC_HERPI_2008_01				
+Constantin (306-337)									http://www.cairn.info/constantin-(306-337)--9782130496564.htm		PUF_LANCO_1998_01				
+La constitution européenne									http://www.cairn.info/la-constitution-europeenne--9782130550563.htm		PUF_PHILI_2005_01				
+Les constitutions de la France									http://www.cairn.info/les-constitutions-de-la-france--9782130546085.htm		PUF_DUVER_2004_01				
+Les constitutions françaises									http://www.cairn.info/les-constitutions-francaises--9782707125255.htm		DEC_LECOU_1996_01				
+La construction de l’Europe									http://www.cairn.info/la-construction-de-l-europe--9782130552628.htm		PUF_DETEY_2005_01				
+La construction de la sociologie									http://www.cairn.info/la-construction-de-la-sociologie--9782130551201.htm		PUF_BERTH_2005_01				
+La construction européenne									http://www.cairn.info/la-construction-europeenne--9782707165060.htm		DEC_COURT_2010_01				
+Le contrat de travail									http://www.cairn.info/le-contrat-de-travail--9782707153821.htm		DEC_CEE_2008_01				
+La contrefaçon									http://www.cairn.info/la-contrefacon--9782130550297.htm		PUF_DEBOU_2006_01				
+La contrepètrie									http://www.cairn.info/la-contrepetrie--9782130575252.htm		PUF_MARTI_2009_01				
+Le contrôle budgétaire									http://www.cairn.info/le-controle-budgetaire--9782707135674.htm		DEC_BERLA_2002_01				
+Le contrôle de gestion									http://www.cairn.info/le-controle-de-gestion--9782707148889.htm		DEC_BURLA_2006_01				
+Le contrôle de gestion									http://www.cairn.info/le-controle-de-gestion--9782130557760.htm		PUF_GERBA_2006_01				
+La Convention européenne des droits de l'homme									http://www.cairn.info/la-convention-europeenne-des-droits-de-l-homme--9782130607830.htm		PUF_SUDRE_2012_01				
+Le Coran									http://www.cairn.info/le-coran--9782130576785.htm		PUF_DEROC_2009_01				
+La couleur									http://www.cairn.info/la-couleur--9782130566557.htm		PUF_DERIB_2008_01				
+La Country Music									http://www.cairn.info/la-country-music--9782130576853.htm		PUF_HERZH_2010_01				
+Coût du travail et emploi									http://www.cairn.info/cout-du-travail-et-emploi--9782707128379.htm		DEC_GAUTI_1998_01				
+La créativité									http://www.cairn.info/la-creativite--9782130561064.htm		PUF_ROUQU_2007_01				
+Le crime contre l'humanité									http://www.cairn.info/le-crime-contre-l-humanite--9782130566038.htm		PUF_DELMA_2009_01				
+Le crime organisé									http://www.cairn.info/le-crime-organise--9782130551515.htm		PUF_QUERE_2005_01				
+La criminologie									http://www.cairn.info/la-criminologie--9782130576778.htm		PUF_PICCA_2009_01				
+La Crise de 1929									http://www.cairn.info/la-crise-de-1929--9782707159069.htm		DEC_HAUTC_2009_01				
+La crise de 1929									http://www.cairn.info/la-crise-de-1929--9782130591788.htm		PUF_GAZIE_2011_01				
+La crise de la finance globalisée									http://www.cairn.info/la-crise-de-la-finance-globalisee--9782707157362.htm		DEC_BREND_2009_01				
+La crise des banlieues									http://www.cairn.info/la-crise-des-banlieues--9782130582717.htm		PUF_STEBE_2010_02				
+La crise des dettes souveraines									http://www.cairn.info/la-crise-des-dettes-souveraines--9782707173768.htm		DEC_BREND_2012_01				
+Critique de l’organisation du travail									http://www.cairn.info/critique-de-l-organisation-du-travail--9782707168245.htm		DEC_COUTR_2002_01				
+La critique littéraire									http://www.cairn.info/la-critique-litteraire--9782130523260.htm		PUF_BRUNE_2001_01				
+Les croisades									http://www.cairn.info/les-croisades--9782130591825.htm		PUF_MORRI_2012_01				
+Croissance et richesse des nations									http://www.cairn.info/croissance-et-richesse-des-nations--9782707145970.htm		DEC_PETIT_2005_01				
+Les croyances collectives									http://www.cairn.info/les-croyances-collectives--9782130571322.htm		PUF_SANCH_2009_01				
+Cuba									http://www.cairn.info/cuba--9782130559887.htm		PUF_LAMOR_2007_01				
+La culture d'entreprise									http://www.cairn.info/la-culture-d-entreprise--9782707133564.htm		DEC_GODEL_2006_01				
+La culture d'entreprise									http://www.cairn.info/la-culture-d-entreprise--9782130579014.htm		PUF_THEVE_2010_01				
+La culture de masse en France 1 : 1860-1930									http://www.cairn.info/la-culture-de-masse-en-france-1 1860-1930--9782707135155.htm		DEC_KALIF_2001_01				
+La culture matérielle									http://www.cairn.info/la-culture-materielle--9782707144935.htm		DEC_JULIE_2005_01				
+La cybersécurité									http://www.cairn.info/la-cybersecurite--9782130579724.htm		PUF_ARPAG_2010_01				
+Darwin et le darwinisme									http://www.cairn.info/darwin-et-le-darwinisme--9782130590101.htm		PUF_TORT_2011_01				
+La démographie									http://www.cairn.info/la-demographie--9782130586104.htm		PUF_CHESN_2010_01				
+La decentralisation									http://www.cairn.info/la-decentralisation--9782707146014.htm		DEC_GREFF_2005_01				
+La décentralisation									http://www.cairn.info/la-decentralisation--9782130541707.htm		PUF_BAGUE_2004_01				
+La Déclaration des Droits de l'Homme et du Citoyen									http://www.cairn.info/la-declaration-des-droits-de-l-homme-et-du-citoyen--9782130529774.htm		PUF_MORAN_2002_01				
+Le décrochage scolaire									http://www.cairn.info/le-decrochage-scolaire--9782130584414.htm		PUF_BERNA_2011_01				
+La démocratisation de l’enseignement									http://www.cairn.info/la-democratisation-de-l-enseignement--9782707158260.htm		DEC_MERLE_2009_01				
+La démographie									http://www.cairn.info/la-demographie--9782707138286.htm		DEC_VALLI_2002_01				
+La dépression de l'adolescent									http://www.cairn.info/la-depression-de-l-adolescent--9782130521761.htm		PUF_CHABR_2001_01				
+Les déséquilibres financiers internationaux									http://www.cairn.info/les-desequilibres-financiers-internationaux--9782707152497.htm		DEC_BREND_2007_01				
+Le dessin d'enfant									http://www.cairn.info/le-dessin-d-enfant--9782130592297.htm		PUF_WALLO_2012_01				
+La dette des tiers mondes									http://www.cairn.info/la-dette-des-tiers-mondes--9782707153777.htm		DEC_RAFFI_2008_01				
+Le deuil									http://www.cairn.info/le-deuil--9782130590774.htm		PUF_BACQU_2012_01				
+Le développement de l’enfant									http://www.cairn.info/le-developpement-de-l-enfant--9782130565697.htm		PUF_MAURY_2008_01				
+Le développement durable									http://www.cairn.info/le-developpement-durable--9782130592822.htm		PUF_BRUNE_2012_01				
+Le développement économique de l’Asie orientale									http://www.cairn.info/le-developpement-economique-de-l-asie-orientale--9782707134684.htm		DEC_BOUTE_2001_01				
+Le développement soutenable									http://www.cairn.info/le-developpement-soutenable--9782707139023.htm		DEC_VIVIE_2007_01				
+La devise « Liberté, Égalité, Fraternité »									http://www.cairn.info/la-devise---liberte,-egalite,-fraternite----9782130483557.htm		PUF_BORGE_1997_01				
+Les diasporas									http://www.cairn.info/les-diasporas--9782130539292.htm		PUF_DUFOI_2003_01				
+La didactique des langues étrangères									http://www.cairn.info/la-didactique-des-langues-etrangeres--9782130565536.htm		PUF_MARTI_2008_01				
+La didactique des sciences									http://www.cairn.info/la-didactique-des-sciences--9782130523475.htm		PUF_ASTOL_2002_01				
+La didactique du français									http://www.cairn.info/la-didactique-du-francais--9782130525479.htm		PUF_ROSIE_2002_01				
+Les dieux de l’Égypte									http://www.cairn.info/les-dieux-de-l-egypte--9782130595526.htm		PUF_TRAUN_2012_01				
+La différenciation des produits									http://www.cairn.info/la-differenciation-des-produits--9782707150004.htm		DEC_GABSZ_2006_01				
+Le dilemme du prisonnier									http://www.cairn.info/le-dilemme-du-prisonnier--9782707148834.htm		DEC_EBER_2006_01				
+Le discours politique									http://www.cairn.info/le-discours-politique--9782130493747.htm		PUF_LEBAR_1998_01				
+La discrimination positive									http://www.cairn.info/la-discrimination-positive--9782130583318.htm		PUF_CALVE_2010_01				
+Le dispositif médical									http://www.cairn.info/le-dispositif-medical--9782130573937.htm		PUF_AUDRY_2009_01				
+Diversité culturelle et mondialisation									http://www.cairn.info/diversite-culturelle-et-mondialisation--9782707151292.htm		DEC_MATTE_2009_01				
+Les drogues									http://www.cairn.info/les-drogues--9782130533740.htm		PUF_MAEST_2005_01				
+Le droit administratif									http://www.cairn.info/le-droit-administratif--9782130584605.htm		PUF_WEIL_2010_01				
+Le droit canonique									http://www.cairn.info/le-droit-canonique--9782130529316.htm		PUF_LETOU_2002_01				
+Le droit civil									http://www.cairn.info/le-droit-civil--9782130549086.htm		PUF_ATIAS_2004_01				
+Le droit comparé									http://www.cairn.info/le-droit-compare--9782130590767.htm		PUF_LEGRA_2011_01				
+Le droit constitutionnel									http://www.cairn.info/le-droit-constitutionnel--9782130572244.htm		PUF_BARAN_2009_01				
+Le droit d’asile									http://www.cairn.info/le-droit-d-asile--9782130590118.htm		PUF_LEPOR_2011_02				
+Droit d’auteur et copyright									http://www.cairn.info/droit-d-auteur-et-copyright--9782707157263.htm		DEC_BENHA_2009_01				
+Le droit de l’environnement									http://www.cairn.info/le-droit-de-l-environnement--9782130583646.htm		PUF_MORAN_2010_01				
+Le droit de la bioéthique									http://www.cairn.info/le-droit-de-la-bioethique--9782707156754.htm		DEC_HENNE_2009_01				
+Le droit de la presse									http://www.cairn.info/le-droit-de-la-presse--9782130535591.htm		PUF_BILGE_2003_01				
+Le droit de la santé									http://www.cairn.info/le-droit-de-la-sante--9782130608189.htm		PUF_DEFOR_2012_01				
+Le droit des affaires									http://www.cairn.info/le-droit-des-affaires--9782130548294.htm		PUF_LUCAS_2005_01				
+Le droit du commerce électronique									http://www.cairn.info/le-droit-du-commerce-electronique--9782130533795.htm		PUF_LINAN_2005_01				
+Le droit du sport									http://www.cairn.info/le-droit-du-sport--9782130565161.htm		PUF_GATSI_2007_01				
+Le droit du travail									http://www.cairn.info/le-droit-du-travail--9782707154859.htm		DEC_BONNE_2008_01				
+Le droit du travail									http://www.cairn.info/le-droit-du-travail--9782130590200.htm		PUF_SUPIO_2011_01				
+Le droit international									http://www.cairn.info/le-droit-international--9782130517016.htm		PUF_DUPUY_2001_01				
+Le droit international									http://www.cairn.info/le-droit-international--9782130608646.htm		PUF_TOURM_2013_01				
+Le droit international humanitaire									http://www.cairn.info/le-droit-international-humanitaire--9782707148445.htm		DEC_BUIRE_2008_01				
+Le droit international privé									http://www.cairn.info/le-droit-international-prive--9782130577874.htm		PUF_BUREA_2009_01				
+Droit pénal									http://www.cairn.info/droit-penal--9782707127594.htm		DEC_BARBE_1997_01				
+Le droit pénal									http://www.cairn.info/le-droit-penal--9782130554035.htm		PUF_LARGU_2005_01				
+Le droit public									http://www.cairn.info/le-droit-public--9782130584902.htm		PUF_TRUCH_2010_01				
+Le droit romain									http://www.cairn.info/le-droit-romain--9782130524564.htm		PUF_VILLE_2002_01				
+Les droites en France									http://www.cairn.info/les-droits-en-france--9782130555148.htm		PUF_VAVAS_2006_01				
+Les droits de l'enfant									http://www.cairn.info/les-droits-de-l-enfant--9782130583042.htm		PUF_DEKEU_2010_01				
+Les droits de l’homme									http://www.cairn.info/les-droits-de-l-homme--9782707158024.htm		DEC_LOCHA_2009_01				
+Les droits de l’homme									http://www.cairn.info/les-droits-de-l-homme--9782130533849.htm		PUF_MOURG_2003_01				
+Les droits des patients à l'hôpital									http://www.cairn.info/les-droits-des-patients-a-l-hopital--9782130531005.htm		PUF_PONCH_2002_01				
+Droits et libertés fondamentaux									http://www.cairn.info/droits-et-liberte fondamentaux--9782130579717.htm		PUF_LEVIN_2010_01				
+Les droits sociaux									http://www.cairn.info/les-droits-sociaux--9782130570202.htm		PUF_HERRE_2009_01				
+La dynamique des groupes									http://www.cairn.info/la-dynamique-des-groupes--9782130592051.htm		PUF_MAISO_2011_01				
+L'échec scolaire									http://www.cairn.info/l-echec-scolaire--9782130483618.htm		PUF_BEST_1996_01				
+L’École de Chicago									http://www.cairn.info/l-ecole-de-chicago--9782130594413.htm		PUF_COULO_2012_01				
+L'École de Francfort									http://www.cairn.info/l-ecole-de-francfort--9782130519133.htm		PUF_ASSOU_2001_01				
+Économie bancaire									http://www.cairn.info/Économie-bancaire--9782707152824.htm		DEC_SCIAL_2007_01				
+Économie de l’éducation									http://www.cairn.info/economie-de-l-education--9782707140555.htm		DEC_GURGA_2005_01				
+L’économie de l’environnement									http://www.cairn.info/l-economie-de-l-environnement--9782707152343.htm		DEC_BONTE_2007_01				
+Économie de l’euro									http://www.cairn.info/Economie-de-l-euro--9782707159359.htm		DEC_BENAS_2010_01				
+L’économie de l’Inde									http://www.cairn.info/l-economie-de-l-inde--9782707159038.htm		DEC_BOILL_2009_01				
+Économie de l’innovation									http://www.cairn.info/economie-de-l-innovation--9782707159144.htm		DEC_GUELL_2009_01				
+L’économie de la Chine									http://www.cairn.info/l-economie-de-la-chine--9782707149336.htm		DEC_LEMOI_2009_01				
+Economie de la Chine									http://www.cairn.info/economie-de-la-chine--9782130575610.htm		PUF_CABRI_2009_01				
+Économie de la confiance									http://www.cairn.info/economie-de-la-confiance--9782707167743.htm		DEC_LAURE_2012_01				
+L’économie de la connaissance									http://www.cairn.info/l-economie-de-la-connaissance--9782707156877.htm		DEC_FORAY_2009_01				
+L’économie de la culture									http://www.cairn.info/l-economie-de-la-culture--9782707167774.htm		DEC_BENHA_2011_01				
+Économie de la distribution									http://www.cairn.info/Economie-de-la-distribution--9782707137357.htm		DEC_ALLAI_2003_01				
+Économie de la drogue									http://www.cairn.info/Economie-de-la-drogue--9782707148261.htm		DEC_KOPP_2006_01				
+Économie de la firme									http://www.cairn.info/Economie-de-la-firme--9782707137418.htm		DEC_BAUDR_2003_01				
+Économie de la presse									http://www.cairn.info/economie-de-la-presse--9782707146694.htm		DEC_LEFLO_2007_01				
+Économie de la propriété intellectuelle									http://www.cairn.info/economie-de-la-propriete-intellectuelle--9782707139054.htm		DEC_LEVEQ_2003_01				
+Économie de la qualité									http://www.cairn.info/economie-de-la-qualite--9782707141446.htm		DEC_COEST_2004_01				
+Économie de la réglementation									http://www.cairn.info/economie-de-la-reglementation--9782707142658.htm		DEC_LEVEQ_2009_01				
+L’économie de la Russie									http://www.cairn.info/l-economie-de-la-russie--9782707145661.htm		DEC_BENAR_2006_01				
+Économie des coûts de transaction									http://www.cairn.info/Economie-des-couts-de-transaction--9782707140081.htm		DEC_SAUSS_2007_01				
+Économie des données personnelles et de la vie privée									http://www.cairn.info/Economie-des-donnees-personnelles-et-de-la-vie-pri--9782707157652.htm		DEC_ROCHE_2010_01				
+L’économie des États-Unis									http://www.cairn.info/l-economie-des-etats-unis--9782707133311.htm		DEC_BAUDC_2002_01				
+Économie des fusions et acquisitions									http://www.cairn.info/economie-des-fusions-et-acquisitions--9782707136022.htm		DEC_COUTI_2003_01				
+L’économie des logiciels									http://www.cairn.info/l-economie-des-logiciels--9782707138446.htm		DEC_HORN_2007_01				
+L’économie des médias									http://www.cairn.info/l-economie-des-medias--9782130586111.htm		PUF_TOUSS_2011_01				
+L’économie des organisations									http://www.cairn.info/l-economie-des-organisations--9782707174765.htm		DEC_MENAR_2012_01				
+Economie des politiques publiques									http://www.cairn.info/economie-des-politiques-publiques--9782707164179.htm		DEC_BOZIO_2010_01				
+Économie des réseaux									http://www.cairn.info/Economie-des-reseaux--9782707147462.htm		DEC_CURIE_2005_01				
+L’économie des relations interentreprises									http://www.cairn.info/l-economie-des-relations-interentreprises--9782707145383.htm		DEC_BAUDR_2005_01				
+Économie des ressources humaines									http://www.cairn.info/Economie-des-ressources-humaines--9782707169310.htm		DEC_STANK_2011_01				
+Économie du bonheur									http://www.cairn.info/economie-du-bonheur--9782707173515.htm		DEC_DAVOI_2012_01				
+Économie du droit									http://www.cairn.info/economie-du-droit--9782707174437.htm		DEC_KIRAT_2012_01				
+Économie du football professionnel									http://www.cairn.info/economie-du-football-professionnel--9782707166951.htm		DEC_DRUT_2011_01				
+L’économie du Japon									http://www.cairn.info/l-economie-du-japon--9782707147455.htm		DEC_DOURI_2005_01				
+Économie du patrimoine culturel									http://www.cairn.info/economie-du-patrimoine-culturel--9782707171566.htm		DEC_BENHA_2012_01				
+Économie du risque pays									http://www.cairn.info/economie-du-risque-pays--9782707142030.htm		DEC_MEUNI_2005_01				
+Économie du sport									http://www.cairn.info/economie-du-sport--9782707171436.htm		DEC_BOURG_2012_01				
+Economie du sport									http://www.cairn.info/economie-du-sport--9782130528579.htm		PUF_ANDRE_2002_01				
+Économie et politique des changements climatiques									http://www.cairn.info/economie-et-politique-des-changements-climatiques--9782707143822.htm		DEC_FAUCH_2005_01				
+L’économie expérimentale									http://www.cairn.info/l-economie-experimentale--9782707173751.htm		DEC_EBER_2012_01				
+L’économie française 2013									http://www.cairn.info/l-economie-francaise-2013--9782707174956.htm		DEC_OFCE_2012_01				
+L’économie française 2011									http://www.cairn.info/l-economie-francaise-2011--9782707165145.htm		DEC_DESCO_2010_01				
+Économie géographique du développement									http://www.cairn.info/economie-geographique-du-developpement--9782707166692.htm		DEC_PRAGE_2010_01				
+L’économie informelle dans le tiers monde									http://www.cairn.info/l-economie-informelle-dans-le-tiers-monde--9782707136466.htm		DEC_LAUTI_2004_01				
+L’économie institutionnelle									http://www.cairn.info/l-economie-institutionnelle--9782707174789.htm		DEC_CHAVA_2012_02				
+Économie marxiste du capitalisme									http://www.cairn.info/economie-marxiste-du-capitalisme--9782707139573.htm		DEC_DUMEN_2003_01				
+L’économie Mondiale 2011									http://www.cairn.info/l-economie-mondiale-2011--9782707165152.htm		DEC_PROSP_2010_01				
+Économie politique de l’entreprise									http://www.cairn.info/economie-politique-de-l-entreprise--9782707133540.htm		DEC_EYMAR_2004_01				
+Économie politique internationale									http://www.cairn.info/economie-politique-internationale--9782707164599.htm		DEC_CHAVA_2010_01				
+L'économie postkeynésienne									http://www.cairn.info/l-economie-postkeynesienne--9782707142665.htm		DEC_LAVOI_2004_01				
+L’économie suisse									http://www.cairn.info/l-economie-suisse--9782130547600.htm		PUF_SCHOE_2005_01				
+L’économie de l’Afrique									http://www.cairn.info/l-economie-de-l-afrique--9782707159670.htm		DEC_HUGON_2009_01				
+L’économie des inégalités									http://www.cairn.info/l-economie-des-inegalites--9782707156082.htm		DEC_PIKET_2008_01				
+Les écoutes téléphoniques									http://www.cairn.info/les-ecoutes-telephoniques--9782130579519.htm		PUF_HUYGH_2009_02				
+L'écriture									http://www.cairn.info/l-ecriture--9782130536475.htm		PUF_HIGOU_2003_01				
+L'écriture chinoise									http://www.cairn.info/l-ecriture-chinoise--9782130529217.htm		PUF_ALLET_2002_01				
+L’écriture journalistique									http://www.cairn.info/l-ecriture-journalistique--9782130588344.htm		PUF_MOURI_2011_01				
+L’édition électronique									http://www.cairn.info/l-edition-electronique--9782707157294.htm		DEC_DACOS_2010_01				
+L’éducation à la sexualité									http://www.cairn.info/l-education-a-la-sexualite--9782130561033.htm		PUF_BRENO_2007_01				
+L’éducation interculturelle									http://www.cairn.info/l-education-interculturelle--9782130585152.htm		PUF_ABDAL_2011_01				
+L'efficience informationnelle des marchés financiers									http://www.cairn.info/l-efficience-informationnelle-des-marches-financie--9782707148605.htm		DEC_LARDI_2006_01				
+L'Église orthodoxe									http://www.cairn.info/l-eglise-orthodoxe--9782130580812.htm		PUF_CLEME_2010_01				
+L’Égypte ancienne									http://www.cairn.info/l-egypte-ancienne--9782130576808.htm		PUF_DESPL_2010_01				
+Les émotions									http://www.cairn.info/les-emotions--9782130527718.htm		PUF_DANTZ_2002_01				
+L'Empire romain									http://www.cairn.info/l-empire-romain--9782130571766.htm		PUF_LEROU_2010_02				
+L’emploi en France									http://www.cairn.info/l-emploi-en-france--9782707127563.htm		DEC_GAMBI_1998_01				
+L’empreinte écologique									http://www.cairn.info/l-empreinte-ecologique--9782707156853.htm		DEC_BOUTA_2009_01				
+L'énergie nucléaire									http://www.cairn.info/l-energie-nucleaire--9782130594925.htm		PUF_REUSS_2012_01				
+Les énergies renouvelables									http://www.cairn.info/les-energies-renouvelables--9782130592303.htm		PUF_VERNI_2012_01				
+Les enfants hyperactifs									http://www.cairn.info/les-enfants-hyperactifs--9782130607809.htm		PUF_WAHL_2012_01				
+Les enfants intellectuellement précoces									http://www.cairn.info/les-enfants-intellectuellement-precoces--9782130539254.htm		PUF_BLEAN_2004_01				
+Les enquêtes PISA									http://www.cairn.info/les-enquetes-pisa--9782130594574.htm		PUF_FELOU_2012_01				
+L'enseignement littéraire									http://www.cairn.info/l-enseignement-litteraire--9782130544128.htm		PUF_ARON_2005_01				
+L’enseignement privé en France									http://www.cairn.info/l-enseignement-prive-en-france--9782130594567.htm		PUF_POUCE_2012_01				
+L'enseignement supérieur en France									http://www.cairn.info/l-enseignement-superieur-en-france--9782707144553.htm		DEC_VASCO_2006_01				
+Les entreprises familiales									http://www.cairn.info/les-entreprises-familiales--9782130546078.htm		PUF_KENYO_2004_01				
+L’environnement									http://www.cairn.info/l-environnement--9782130589280.htm		PUF_VERNI_2011_01				
+L'épilepsie									http://www.cairn.info/l-epilepsie--9782130532002.htm		PUF_JALLO_2002_01				
+L’épistémologie									http://www.cairn.info/l-epistemologie--9782130580775.htm		PUF_BARRE_2010_01				
+L'épistémologie génétique									http://www.cairn.info/l-epistemologie-genetique--9782130549970.htm		PUF_PIAGE_2005_01				
+Les épistémologies constructivistes									http://www.cairn.info/les-epistemologies-constructivistes--9782130606819.htm		PUF_LEMOI_2012_01				
+L’ergonomie									http://www.cairn.info/l-ergonomie--9782130565611.htm		PUF_LANCR_2009_01				
+Les erreurs judiciaires									http://www.cairn.info/les-erreurs-judiciaires--9782130532224.htm		PUF_VERGE_2002_01				
+L’ésotérisme									http://www.cairn.info/l-esoterisme--9782130592549.htm		PUF_FAIVR_2012_01				
+L’espace public									http://www.cairn.info/l-espace-public--9782707154897.htm		DEC_PAQUO_2009_02				
+L'esprit baroque									http://www.cairn.info/l-esprit-baroque--9782130465287.htm		PUF_ANGOU_1994_01				
+L’esthétique									http://www.cairn.info/l-esthetique--9782130564515.htm		PUF_TALON_2008_01				
+L'État									http://www.cairn.info/l-etat--9782130608349.htm		PUF_DENOI_2012_01				
+L’état des entreprises 2010									http://www.cairn.info/l-etat-des-entreprises-2010--9782707158840.htm		DEC_RECHE_2009_01				
+L’état des entreprises 2011									http://www.cairn.info/l-etat-des-entreprises-2011--9782707166685.htm		DEC_RECHE_2010_01				
+L’état des entreprises 2012									http://www.cairn.info/l-etat-des-entreprises-2012--9782707170842.htm		DEC_RECHE_2011_01				
+L’État et les cultes 1789-1905-2005									http://www.cairn.info/l-etat-et-les-cultes-1789-1905-2005--9782707147172.htm		DEC_LALOU_2005_01				
+L’État-providence									http://www.cairn.info/l-etat-providence--9782130539353.htm		PUF_MERRI_2007_01				
+Les états limites									http://www.cairn.info/les-etats-limites--9782130591542.htm		PUF_ESTEL_2011_02				
+L’éthique animale									http://www.cairn.info/l-ethique-animale--9782130584452.htm		PUF_JEANG_2011_01				
+L’éthique appliquée									http://www.cairn.info/l-ethique-appliquee--9782130565567.htm		PUF_MARZA_2008_01				
+L’éthique d’entreprise									http://www.cairn.info/l-ethique-d-entreprise--9782130555025.htm		PUF_CARDO_2006_01				
+L'éthique dans les entreprises									http://www.cairn.info/l-ethique-dans-les-entreprises--9782707142245.htm		DEC_MERCI_2004_01				
+title									http://www.cairn.info/l-ethique-du-care--9782130586333.htm		PUF_BRUGE_2011_01				
+L’éthique du journalisme									http://www.cairn.info/l-ethique-du-journalisme--9782130582793.htm		PUF_ROHDE_2010_01				
+Éthique économique et sociale									http://www.cairn.info/ethique-economique-et-sociale--9782707139443.htm		DEC_ARNSP_2003_01				
+L’éthique médicale et la bioéthique									http://www.cairn.info/l-ethique-medicale-et-la-bioethique--9782130586623.htm		PUF_SICAR_2011_01				
+L'ethnographie économique									http://www.cairn.info/l-ethnographie-economique--9782707149176.htm		DEC_DUFY_2007_01				
+L’ethnologie									http://www.cairn.info/l-ethnologie--9782130572374.htm		PUF_CAMEL_2010_01				
+L'ethnométhodologie									http://www.cairn.info/l-ethnomethodologie--9782130523468.htm		PUF_COULO_2007_01				
+Les étrusques									http://www.cairn.info/les-etrusques--9782130607397.htm		PUF_BRIQU_2012_01				
+Les études de sûreté et de sécurité publique									http://www.cairn.info/les-etudes-de-surete-et-de-securite-publique--9782130568926.htm		PUF_BAUER_2009_02				
+Les étudiants									http://www.cairn.info/les-etudiants--9782707125699.htm		DEC_GALLA_1996_01				
+L'Europe de la Renaissance									http://www.cairn.info/l-europe-de-la-renaissance--9782130557456.htm		PUF_TALLO_2006_01				
+L’Europe des Lumières									http://www.cairn.info/l-europe-des-lumieres--9782130545354.htm		PUF_BEAUR_2004_01				
+L’euthanasie									http://www.cairn.info/l-euthanasie--9782130607700.htm		PUF_AUMON_2012_01				
+L’évaluation des politiques éducatives									http://www.cairn.info/l-evaluation-des-politiques-educatives--9782130580850.htm		PUF_PONS_2011_01				
+L’évaluation des politiques publiques									http://www.cairn.info/l-evaluation-des-politiques-publiques--9782707154873.htm		DEC_PERRE_2008_01				
+L’exception culturelle									http://www.cairn.info/l-exception-culturelle--9782130539315.htm		PUF_REGOU_2004_01				
+L'excision									http://www.cairn.info/l-excision--9782130520627.htm		PUF_COUCH_2003_01				
+L'exclusion									http://www.cairn.info/l-exclusion--9782130589181.htm		PUF_DAMON_2011_01				
+L’existentialisme									http://www.cairn.info/l-existentialisme--9782130562085.htm		PUF_COLET_2007_01				
+L'expérience sociologique									http://www.cairn.info/l-experience-sociologique--9782707153531.htm		DEC_DUBET_2007_01				
+L'expertise en santé publique									http://www.cairn.info/l-expertise-en-sante-publique--9782130552420.htm		PUF_GOT_2005_01				
+L'explication de textes et la dissertation									http://www.cairn.info/l-explication-de-textes-et-la-dissertation--9782130398141.htm		PUF_GICQU_1993_01				
+Le facteur humain									http://www.cairn.info/le-facteur-humain--9782130582281.htm		PUF_DEJOU_2010_01				
+Les familles recomposées									http://www.cairn.info/les-familles-recomposees--9782130592266.htm		PUF_DAMON_2012_01				
+Les fantasmes									http://www.cairn.info/les-fantasmes--9782130514589.htm		PUF_PERRO_2001_01				
+La fantasy									http://www.cairn.info/la-fantasy--9782130551584.htm		PUF_BAUDO_2005_01				
+Fédéralisme et antifédéralisme									http://www.cairn.info/federalisme-et-antifederalisme--9782130554417.htm		PUF_VERGN_2005_01				
+Féminin Masculin									http://www.cairn.info/feminin-masculin--9782707131690.htm		DEC_FERRA_2009_01				
+Le féminisme									http://www.cairn.info/le-feminisme--9782130562023.htm		PUF_MICHE_2007_01				
+La femme dans la société française									http://www.cairn.info/la-femme-dans-la-societe-francaise--9782130521730.htm		PUF_BLOSS_2001_01				
+Femmes en politique									http://www.cairn.info/femmes-en-politique--9782707147417.htm		DEC_ACHIN_2006_01				
+Le fétichisme									http://www.cairn.info/le-fetichisme--9782130556893.htm		PUF_ASSOU_2006_01				
+Les fichiers de police et de gendarmerie									http://www.cairn.info/les-fichiers-de-police-et-de-gendarmerie--9782130591160.htm		PUF_BAUER_2011_04				
+Les figures de style									http://www.cairn.info/les-figures-de-style--9782130545514.htm		PUF_SUHAM_2004_01				
+La finance islamique									http://www.cairn.info/la-finance-islamique--9782707169846.htm		DEC_JOUAB_2012_01				
+Les finances publiques									http://www.cairn.info/les-finances-publiques--9782130607052.htm		PUF_MORDA_2012_01				
+Le FMI									http://www.cairn.info/le-fmi--9782707143389.htm		DEC_LENAI_2004_01				
+La folie									http://www.cairn.info/la-folie--9782130540892.htm		PUF_JACCA_2004_01				
+La fonction publique									http://www.cairn.info/la-fonction-publique--9782707157256.htm		DEC_ROUBA_2009_01				
+La fonction publique hospitalière									http://www.cairn.info/la-fonction-publique-hospitaliere--9782130569800.htm		PUF_STING_2008_01				
+La fonction publique territoriale									http://www.cairn.info/la-fonction-publique-territoriale--9782707171597.htm		DEC_BILAN_2012_01				
+Les fondements de la comptabilité									http://www.cairn.info/les-fondements-de-la-comptabilite--9782707173102.htm		DEC_COLAS_2012_01				
+Les fondements du contrôle de gestion									http://www.cairn.info/les-fondements-du-controle-de-gestion--9782130590132.htm		PUF_BOUQU_2011_02				
+La formation de la langue française									http://www.cairn.info/la-formation-de-la-langue-francaise--9782130414780.htm		PUF_ALLIE_1996_01				
+La formation professionnelle continue									http://www.cairn.info/la-formation-professionnelle-continue--9782707142924.htm		DEC_DUBAR_2004_01				
+Les formes de la musique									http://www.cairn.info/les-formes-de-la-musique--9782130594796.htm		PUF_HODEI_2012_01				
+Les formes de la violence									http://www.cairn.info/les-formes-de-la-violence--9782707153630.htm		DEC_CRETT_2008_01				
+La fracture sociale									http://www.cairn.info/la-fracture-sociale--9782130520696.htm		PUF_EMMAN_2002_01				
+La franc-maçonnerie									http://www.cairn.info/la-franc-maconnerie--9782130524892.htm		PUF_NAUDO_2002_01				
+Les franc-maçonneries (XVIIIe-XXIe siècle)									http://www.cairn.info/les-franc-maconneries-(xviiie-xxie-siecle)--9782707140876.htm		DEC_GALCE_2004_01				
+La France au Moyen Âge									http://www.cairn.info/la-france-au-moyen-age--9782130544234.htm		PUF_CHEDE_2004_01				
+La France de 1870 à 1914									http://www.cairn.info/la-france-de-1870-a-1914--9782130542162.htm		PUF_ENCRE_2006_01				
+La France de 1870 à 1958									http://www.cairn.info/la-france-de-1870-a-1958--9782130502647.htm		PUF_AZZOU_2000_01				
+La France de 1914 à 1940									http://www.cairn.info/la-france-de-1914-a-1940--9782130542667.htm		PUF_BECKE_2005_01				
+La France face à la mondialisation									http://www.cairn.info/la-france-face-a-la-mondialisation--9782707142726.htm		DEC_BREND_2004_02				
+La France face aux marchés financiers									http://www.cairn.info/la-france-face-aux-marches-financiers--9782707142733.htm		DEC_BREND_2004_01				
+Freud									http://www.cairn.info/freud--9782130576037.htm		PUF_JACCA_2009_01				
+Le Front populaire									http://www.cairn.info/le-front-populaire--9782707134028.htm		DEC_MONIE_2002_01				
+Le front populaire 1934-1938									http://www.cairn.info/le-front-populaire-1934-1938--9782130588481.htm		PUF_VIGRE_2011_01				
+La fusion nucléaire									http://www.cairn.info/la-fusion-nucleaire--9782130533092.htm		PUF_WEISS_2003_01				
+Gandhi									http://www.cairn.info/gandhi--9782130502609.htm		PUF_DELIE_1999_01				
+La gastronomie									http://www.cairn.info/la-gastronomie--9782130560883.htm		PUF_VITAU_2007_01				
+La généalogie									http://www.cairn.info/la-genealogie--9782130540243.htm		PUF_BEAUC_2003_01				
+Le génie logiciel									http://www.cairn.info/le-genie-logiciel--9782130548928.htm		PUF_PRINT_2005_01				
+Géographie de la France									http://www.cairn.info/geographie-de-la-france--9782130508755.htm		PUF_CLAVA_2000_01				
+Géographie politique									http://www.cairn.info/geographie-politique--9782130538141.htm		PUF_DEMON_2006_01				
+La géologie									http://www.cairn.info/la-geologie--9782130553236.htm		PUF_DARS_2005_01				
+La géopolitique									http://www.cairn.info/la-geopolitique--9782130592167.htm		PUF_DEFAY_2012_01				
+Géopolitique des drogues									http://www.cairn.info/geopolitique-des-drogues--9782130586128.htm		PUF_LABRO_2011_01				
+Géopolitique du Proche-Orient									http://www.cairn.info/geopolitique-du-proche-orient--9782130581413.htm		PUF_DEFAY_2011_01				
+Georges Canguilhem									http://www.cairn.info/georges-canguilhem--9782130538615.htm		PUF_LECOU_2008_01				
+La gérontologie									http://www.cairn.info/la-gerontologie--9782130565413.htm		PUF_DEJAE_2008_01				
+Gestion comptable et financiere									http://www.cairn.info/gestion-comptable-et-financiere--9782130584391.htm		PUF_MIKOL_2010_01				
+La gestion des ressources humaines									http://www.cairn.info/la-gestion-des-ressources-humaines--9782707170934.htm		DEC_DIETR_2011_01				
+La gestion des ressources humaines									http://www.cairn.info/la-gestion-des-ressources-humaines--9782130586593.htm		PUF_LEGAL_2011_01				
+La gestion financière de l'entreprise									http://www.cairn.info/la-gestion-financiere-de-l-entreprise--9782707142276.htm		DEC_PIERR_2009_01				
+La gestion prévisionnelle des ressources humaines									http://www.cairn.info/la-gestion-previsionnelle-des-ressources-humaines--9782707146953.htm		DEC_GILBE_2006_01				
+La gouvernance									http://www.cairn.info/la-gouvernance--9782130584544.htm		PUF_MOREA_2011_01				
+La gouvernance de la mondialisation									http://www.cairn.info/la-gouvernance-de-la-mondialisation--9782707165015.htm		DEC_GRAZ_2010_01				
+La Grande Guerre									http://www.cairn.info/la-grande-guerre--9782707158635.htm		DEC_LOEZ_2010_01				
+La Grande Guerre									http://www.cairn.info/la-grande-guerre--9782130594758.htm		PUF_BECKE_2013_01				
+La Grande Loge de France									http://www.cairn.info/la-grande-loge-de-france--9782130584490.htm		PUF_GRAES_2010_01				
+La Grande Loge Féminine de France									http://www.cairn.info/la-grande-loge-feminine-de-france--9782130576921.htm		PUF_PICAR_2009_01				
+La Grande Loge nationale française									http://www.cairn.info/la-grande-loge-nationale-francaise--9782130573883.htm		PUF_MURAT_2009_01				
+La Grande-Bretagne contemporaine									http://www.cairn.info/la-grande-bretagne-contemporaine--9782130553816.htm		PUF_MOUGE_2006_01				
+Les grandes dates de l'Antiquité									http://www.cairn.info/les-grandes-dates-de-l-antiquite--9782130525622.htm		PUF_DELOR_2002_01				
+Les grandes dates de l'histoire de la musique									http://www.cairn.info/les-grandes-dates-de-l-histoire-de-la-musique--9782130564126.htm		PUF_BENOI_2008_01				
+Les grandes dates de l'histoire de l'art									http://www.cairn.info/les-grandes-dates-de-l-histoire-de-l-art--9782130564706.htm		PUF_RUDEL_2009_01				
+Les grandes dates de la philosophie classique, moderne et contemporaine									http://www.cairn.info/les-grandes-dates-de-la-philosophie-classique,-mod--9782130477389.htm		PUF_FOLSC_1997_01				
+Les grandes dates de la philosophie antique et médiévale									http://www.cairn.info/les-grandes-dates-de-la-philosophie-antique-et-med--9782130477372.htm		PUF_FOLSC_1997_02				
+Les grandes dates du droit									http://www.cairn.info/les-grandes-dates-du-droit--9782130557395.htm		PUF_DEFON_2006_01				
+Les grandes dates du Moyen Âge									http://www.cairn.info/les-grandes-dates-du-moyen-age--9782130526803.htm		PUF_DELOR_2002_02				
+Les grandes dates du XXe siècle									http://www.cairn.info/les-grandes-dates-du-xxe-siecle--9782130528319.htm		PUF_CARBO_2002_01				
+Les grandes philosophies									http://www.cairn.info/les-grandes-philosophies--9782130586562.htm		PUF_FOLSC_2011_01				
+Les grandes questions économiques et sociales									http://www.cairn.info/les-grandes-questions-economiques-et-sociales--9782707156365.htm		DEC_COMBE_2009_03				
+Les grands arrêts du droit communautaire									http://www.cairn.info/les-grands-arrets-du-droit-communautaire--9782130563938.htm		PUF_MASCL_2007_01				
+Les gros mots									http://www.cairn.info/les-gros-mots--9782130477983.htm		PUF_ROUAY_1998_01				
+La grossesse et le tabac									http://www.cairn.info/la-grossesse-et-le-tabac--9782130572503.htm		PUF_DELCR_2011_01				
+Les groupes d'intérêt									http://www.cairn.info/les-groupes-d-interet--9782707148865.htm		DEC_COURT_2006_01				
+La guerre									http://www.cairn.info/la-guerre--9782130573968.htm		PUF_TERTR_2010_01				
+La guerre d’Algérie (1954-1962)									http://www.cairn.info/la-guerre-d-algerie-1954-1962--9782130592471.htm		PUF_PERVI_2012_01				
+La guerre d'Espagne (1936-1939)									http://www.cairn.info/la-guerre-d-espagne-(1936-1939)--9782130531128.htm		PUF_VILAR_2002_01				
+La guerre de Cent Ans									http://www.cairn.info/la-guerre-de-cent-ans--9782130583226.htm		PUF_CONTA_2010_01				
+La guerre de Sécession									http://www.cairn.info/la-guerre-de-secession--9782130608608.htm		PUF_AMEUR_2013_01				
+La guerre économique									http://www.cairn.info/la-guerre-economique--9782130580829.htm		PUF_DELBE_2011_01				
+La guerre froide									http://www.cairn.info/la-guerre-froide--9782707135087.htm		DEC_JEANN_2002_01				
+Les guerres de religion, 1559-1598									http://www.cairn.info/les-guerres-de-religion,-1559-1598--9782130524960.htm		PUF_LIVET_2002_01				
+Le handicap									http://www.cairn.info/le-handicap--9782130592136.htm		PUF_RABIS_2012_01				
+Handicap et maladie mentale									http://www.cairn.info/handicap-et-maladie-mentale--9782130590187.htm		PUF_LIBER_2011_01				
+L’haptonomie									http://www.cairn.info/l-haptonomie--9782130586586.htm		PUF_DECAN_2011_01				
+Les harkis									http://www.cairn.info/les-harkis--9782707147745.htm		DEC_CHARB_2006_01				
+La haute couture									http://www.cairn.info/la-haute-couture--9782130510482.htm		PUF_MARIE_2000_01				
+Les hedge funds									http://www.cairn.info/les-hedge-funds--9782707152985.htm		DEC_TEILE_2009_01				
+Hegel et l’hégélianisme									http://www.cairn.info/hegel-et-l-hegelianisme--9782130534051.htm		PUF_KERVE_2005_01				
+L’héritage									http://www.cairn.info/l-heritage--9782130554905.htm		PUF_GOTMA_2006_01				
+L’herméneutique									http://www.cairn.info/l-hermeneutique--9782130570875.htm		PUF_GROND_2008_01				
+L'hindouisme									http://www.cairn.info/l-hindouisme--9782130521709.htm		PUF_RENOU_2008_01				
+Histoire constitutionnelle de la France									http://www.cairn.info/histoire-constitutionnelle-de-la-france--9782130549109.htm		PUF_BODIN_2004_01				
+L’histoire culturelle									http://www.cairn.info/l-histoire-culturelle--9782130586517.htm		PUF_ORY_2011_01				
+Histoire de Byzance									http://www.cairn.info/histoire-de-byzance--9782130572282.htm		PUF_CHEYN_2009_01				
+Histoire de Genève									http://www.cairn.info/histoire-de-geneve--9782130583677.htm		PUF_DUFOU_2010_01				
+Histoire de l’enseignement en France									http://www.cairn.info/histoire-de-l-enseignement-en-france--9782130591795.htm		PUF_LEON_2012_01				
+Histoire de l'Allemagne									http://www.cairn.info/histoire-de-l-allemagne--9782130537397.htm		PUF_DROZ_2003_01				
+Histoire de l'éducation									http://www.cairn.info/histoire-de-l-education--9782130575092.htm		PUF_VIAL_2009_01				
+Histoire de l'enfer									http://www.cairn.info/histoire-de-l-enfer--9782130460213.htm		PUF_MINOI_1994_01				
+Histoire de l’Algérie coloniale (1830-1954)									http://www.cairn.info/histoire-de-l-algerie-coloniale-(1830-1954)--9782707144669.htm		DEC_STORA_2004_03				
+Histoire de l’Algérie depuis l’indépendance 1. 1962-1988									http://www.cairn.info/histoire-de-l-algerie-depuis-l-independance-1-1962--9782707144058.htm		DEC_STORA_2004_01				
+Histoire de l’Amérique latine									http://www.cairn.info/histoire-de-l-amerique-latine--9782130578710.htm		PUF_CHAUN_2009_01				
+Histoire de l’architecture									http://www.cairn.info/histoire-de-l-architecture--9782130582687.htm		PUF_MONNI_2010_01				
+Une histoire de l’humanitaire									http://www.cairn.info/une-histoire-de-l-humanitaire--9782707153982.htm		DEC_RYFMA_2008_01				
+Histoire de l’identification des personnes									http://www.cairn.info/histoire-de-l-identification-des-personnes--9782707159007.htm		DEC_ABOUT_2010_01				
+Histoire de l’immigration									http://www.cairn.info/histoire-de-l-immigration--9782707135858.htm		DEC_BLANC_2001_01				
+Histoire de l’Inde									http://www.cairn.info/histoire-de-l-inde--9782130586494.htm		PUF_BOIVI_2011_01				
+Histoire de l’Iran contemporain									http://www.cairn.info/histoire-de-l-iran-contemporain--9782707146410.htm		DEC_DJALI_2010_01				
+Histoire de l’Union soviétique de Lénine à Staline (1917-1953)									http://www.cairn.info/histoire-de-l-union-sovietique-de-lenine-a-staline--9782130561439.htm		PUF_WERTH_2007_02				
+Histoire de l’URSS									http://www.cairn.info/histoire-de-l-urss--9782707156860.htm		DEC_DULLI_2009_01				
+Histoire de la Bourse									http://www.cairn.info/histoire-de-la-bourse--9782707171665.htm		DEC_LAGNE_2012_01				
+Histoire de la Bretagne									http://www.cairn.info/histoire-de-la-bretagne--9782130455011.htm		PUF_CHEDE_1996_01				
+Histoire de la consommation									http://www.cairn.info/histoire-de-la-consommation--9782707171658.htm		DEC_CHESS_2012_01				
+Histoire de la franc-maçonnerie française									http://www.cairn.info/histoire-de-la-franc-maconnerie-francaise--9782130589174.htm		PUF_DACHE_2011_01				
+Histoire de la géographie									http://www.cairn.info/histoire-de-la-geographie--9782130586524.htm		PUF_CLAVA_2011_01				
+Histoire de la grammaire française									http://www.cairn.info/histoire-de-la-grammaire-francaise--9782130465898.htm		PUF_CHEVA_1996_01				
+Histoire de la guerre d’Algérie									http://www.cairn.info/histoire-de-la-guerre-d-algerie-1954-1962--9782707142931.htm		DEC_STORA_2004_02				
+Histoire de la laïcité en France									http://www.cairn.info/histoire-de-la-laicite-en-france--9782130581253.htm		PUF_BAUBE_2010_01				
+Histoire de la langue française									http://www.cairn.info/histoire-de-la-langue-francaise--9782130556664.htm		PUF_CHAUR_2006_01				
+Histoire de la musique en Europe									http://www.cairn.info/histoire-de-la-musique-en-europe--9782130595519.htm		PUF_FRANC_2012_01				
+Histoire de la philosophie									http://www.cairn.info/histoire-de-la-philosophie--9782707143303.htm		DEC_RUBY_2004_01				
+Histoire de la photographie									http://www.cairn.info/histoire-de-la-photographie--9782130481225.htm		PUF_AMAR_1999_01				
+Histoire de la poésie française									http://www.cairn.info/histoire-de-la-poesie-francaise--9782130434610.htm		PUF_ROUSS_1996_01				
+Histoire de la presse									http://www.cairn.info/histoire-de-la-presse--9782130582670.htm		PUF_ALBER_2010_01				
+Histoire de la Provence									http://www.cairn.info/histoire-de-la-provence--9782130517009.htm		PUF_AGULH_2007_01				
+Histoire de la psychanalyse									http://www.cairn.info/histoire-de-la-psychanalyse--9782130575016.htm		PUF_PERRO_2009_01				
+Histoire de la psychiatrie									http://www.cairn.info/histoire-de-la-psychiatrie--9782130586487.htm		PUF_HOCHM_2011_01				
+Histoire de la psychologie									http://www.cairn.info/histoire-de-la-psychologie--9782130585886.htm		PUF_REUCH_2010_01				
+Histoire de la Résistance en France									http://www.cairn.info/histoire-de-la-resistance-en-france--9782130592990.htm		PUF_MURAC_2012_01				
+Histoire de la Rome antique									http://www.cairn.info/histoire-de-la-rome-antique--9782130591061.htm		PUF_LEBOH_2012_01				
+Histoire de la Shoah									http://www.cairn.info/histoire-de-la-shoah--9782130593249.htm		PUF_BENSO_2012_01				
+title									http://www.cairn.info/histoire-de-la-societe-allemande-au-xxe  siecle--9782707169068.htm		DEC_KOTT_2011_01				
+title									http://www.cairn.info/histoire-de-la-societe-allemande-au-xxe siècle--9782707157737.htm		DEC_LATTA_2011_01				
+title									http://www.cairn.info/histoire-de-la-societe-allemande-au-XXe-siecle--9782707156808.htm		DEC_VINCE_2011_01				
+Histoire de la société chinoise									http://www.cairn.info/histoire-de-la-societe-chinoise-1949-2009--9782707156761.htm		DEC_ANGEL_2010_01				
+Histoire de la société de l’information									http://www.cairn.info/histoire-de-la-societe-de-l-information--9782707157980.htm		DEC_MATTE_2009_02				
+Histoire de la sociologie									http://www.cairn.info/histoire-de-la-sociologie--9782130545323.htm		PUF_GIRAU_2004_01				
+Histoire de la sociologie									http://www.cairn.info/histoire-de-la-sociologie-tome-2-depuis-1918--9782707138958.htm		DEC_CUIN_2002_02				
+Histoire de la sociologie									http://www.cairn.info/histoire-de-la-sociologie-tome-1-avant-1918--9782707138941.htm		DEC_CUIN_2002_01				
+Histoire de la Suisse									http://www.cairn.info/histoire-de-la-suisse--9782130588375.htm		PUF_BOUQU_2011_01				
+Histoire de la Turquie contemporaine									http://www.cairn.info/histoire-de-la-turquie-contemporaine--9782707151407.htm		DEC_BOZAR_2010_01				
+Histoire de l'art									http://www.cairn.info/histoire-de-l-art--9782130608592.htm		PUF_BARRA_2013_01				
+Histoire de l’Union soviétique de Khrouchtchev à Gorbatchev (1953-1991)									http://www.cairn.info/histoire-de-l-union-sovietique-de-khrouchtchev-a-g--9782130542407.htm		PUF_WERTH_2007_01				
+Histoire de Venise									http://www.cairn.info/histoire-de-venise--9782130580928.htm		PUF_BEC_2010_01				
+Histoire des Arabes									http://www.cairn.info/histoire-des-arabes--9782130564904.htm		PUF_SOURD_2007_01				
+Histoire des Cévennes									http://www.cairn.info/histoire-des-cevennes--9782130608431.htm		PUF_CABAN_2013_01				
+Histoire des Etats-Unis									http://www.cairn.info/histoire-des-etats-unis--9782130533580.htm		PUF_REMON_2007_01				
+Histoire des États-Unis									http://www.cairn.info/histoire-des-etats-unis--9782130592334.htm		PUF_DURPA_2013_01				
+Histoire des idées politiques en France au XIXe siècle									http://www.cairn.info/histoire-des-idees-politiques-en-france-au-xixe-si--9782707128508.htm		DEC_GROND_1998_01				
+Histoire des idées socialistes en France									http://www.cairn.info/histoire-des-idees-socialistes-en-france--9782707127372.htm		DEC_CASTA_1997_01				
+Histoire des mères et de la maternité en Occident									http://www.cairn.info/histoire-des-meres-et-de-la-maternite-en-occiden--9782130595564.htm		PUF_KNIBI_2012_01				
+Histoire des ordres religieux									http://www.cairn.info/histoire-des-ordres-religieux--9782130584216.htm		PUF_HOURS_2012_01				
+Histoire des relations internationales, de 1815 à nos jours									http://www.cairn.info/histoire-des-relations-internationales-de-1815-a-n--9782130607786.htm		PUF_MOUGE_2012_01				
+Histoire des théories de la communication									http://www.cairn.info/histoire-des-theories-de-la-communication--9782707144065.htm		DEC_MATTE_2010_01				
+Histoire des théories de l’argumentation									http://www.cairn.info/histoire-des-theories-de-largumentation--9782707131751.htm		DEC_BRETO_2000_01				
+Histoire des universités									http://www.cairn.info/histoire-des-universites--9782130564935.htm		PUF_CHARL_2007_01				
+Histoire du Canada									http://www.cairn.info/histoire-du-canada--9782130584018.htm		PUF_LINTE_2010_01				
+Histoire du catholicisme									http://www.cairn.info/histoire-du-catholicisme--9782130585961.htm		PUF_BRULE_2010_01				
+Histoire du costume									http://www.cairn.info/histoire-du-costume--9782130564263.htm		PUF_GRAU_2007_01				
+Histoire du droit									http://www.cairn.info/histoire-du-droit--9782130585169.htm		PUF_CARBA_2010_01				
+Histoire du féminisme									http://www.cairn.info/histoire-du-feminisme--9782707154729.htm		DEC_SARCE_2008_01				
+Histoire du Japon des origines à Meiji									http://www.cairn.info/histoire-du-japon-des-origines-a-meiji--9782130574033.htm		PUF_VIE_2009_01				
+Histoire du judaïsme									http://www.cairn.info/histoire-du-judaisme--9782130525745.htm		PUF_CHOUR_2002_01				
+Histoire du judaïsme									http://www.cairn.info/histoire-du-judaisme--9782130589778.htm		PUF_SMILE_2012_01				
+Histoire du Languedoc									http://www.cairn.info/histoire-du-languedoc--9782130581376.htm		PUF_LEROY_2010_01				
+Histoire du livre									http://www.cairn.info/histoire-du-livre--9782130519928.htm		PUF_LABAR_2001_01				
+Histoire du Luxembourg									http://www.cairn.info/histoire-du-luxembourg--9782130583578.htm		PUF_KREIN_2010_01				
+Histoire du Maroc depuis l’indépendance									http://www.cairn.info/histoire-du-maroc-depuis-l-independance--9782707164995.htm		DEC_VERME_2010_01				
+Histoire du Parti communiste français									http://www.cairn.info/histoire-du-parti-communiste-francais--9782707131041.htm		DEC_SANTA_1999_01				
+Histoire du parti socialiste									http://www.cairn.info/histoire-du-parti-socialiste--9782707127365.htm		DEC_KERGO_1997_01				
+Histoire du peuple hébreu									http://www.cairn.info/histoire-du-peuple-hebreu--9782130575450.htm		PUF_LEMAI_2009_01				
+Histoire du protestantisme									http://www.cairn.info/histoire-du-protestantisme--9782130578765.htm		PUF_BAUBE_2009_02				
+Histoire du sport									http://www.cairn.info/histoire-du-sport--9782130592099.htm		PUF_TERRE_2011_01				
+Histoire du système éducatif									http://www.cairn.info/histoire-du-systeme-educatif--9782130606598.htm		PUF_TROGE_2012_01				
+Histoire du théâtre									http://www.cairn.info/histoire-du-theatre--9782130595441.htm		PUF_VIALA_2012_01				
+Histoire du travail des femmes									http://www.cairn.info/histoire-du-travail-des-femmes--9782707166258.htm		DEC_BATTA_2008_01				
+Histoire politique de la IIIe République									http://www.cairn.info/histoire-politique-de-la-iiie-republique--9782707131195.htm		DEC_CANDA_1999_01				
+Histoire politique de la IVe République									http://www.cairn.info/histoire-politique-de-la-ive-republique--9782707133373.htm		DEC_DUHAM_2000_01				
+Histoire politique et économique des médias en France									http://www.cairn.info/histoire-politique-et-economique-des-medias-en-fra--9782707173713.htm		DEC_CHUPI_2012_01				
+Histoire sociale de l’impôt									http://www.cairn.info/histoire-sociale-de-l-impot--9782707157164.htm		DEC_DELAL_2010_01				
+Histoire sociale du cinéma français									http://www.cairn.info/histoire-sociale-du-cinema-francais--9782707133366.htm		DEC_DARRE_2000_01				
+Histoire de l’Europe monétaire									http://www.cairn.info/histoire-de-l-europe-monetaire--9782707145987.htm		DEC_PATAT_2005_01				
+Les histoires de vie									http://www.cairn.info/les-histoires-de-vie--9782130564447.htm		PUF_PINEA_2007_01				
+L’historien et la littérature									http://www.cairn.info/l-historien-et-la-litterature--9782707159014.htm		DEC_RIBAR_2010_01				
+L'historiographie									http://www.cairn.info/l-historiographie--9782130531289.htm		PUF_CARBO_2002_02				
+L’historiographie									http://www.cairn.info/l-historiographie--9782130591573.htm		PUF_OFFEN_2011_01				
+Les Hittites									http://www.cairn.info/les-hittites--9782130565338.htm		PUF_KLOCK_2008_01				
+Homère									http://www.cairn.info/homere--9782130548300.htm		PUF_DEROM_2005_01				
+L'homophobie									http://www.cairn.info/l-homophobie--9782130521792.htm		PUF_BORRI_2001_01				
+L’humour juif									http://www.cairn.info/l-humour-juif--9782130576709.htm		PUF_KLATZ_2009_01				
+L’identité									http://www.cairn.info/l-identite--9782130589204.htm		PUF_MUCCH_2011_01				
+L'imaginaire									http://www.cairn.info/l-imaginaire--9782130608585.htm		PUF_WUNEN_2013_01				
+L’INA									http://www.cairn.info/l-ina--9782130545453.htm		PUF_HOOG_2006_01				
+Les Incas									http://www.cairn.info/les-incas--9782130590750.htm		PUF_FAVRE_2011_01				
+L'incertitude dans les théories économiques									http://www.cairn.info/l-incertitude-dans-les-theories-economiques--9782707138514.htm		DEC_MOURE_2004_01				
+L’inceste									http://www.cairn.info/l-inceste--9782130541073.htm		PUF_PARAT_2004_01				
+L’inconscient									http://www.cairn.info/l-inconscient--9782130575283.htm		PUF_FILLO_2009_01				
+L’industrie du disque									http://www.cairn.info/l-industrie-du-disque--9782707148582.htm		DEC_CURIE_2006_01				
+L’industrie manufacturière française									http://www.cairn.info/l-industrie-manufacturiere-francaise--9782707158222.htm		DEC_OFCE_2010_03				
+L’industrie des médias à l’ère numérique									http://www.cairn.info/l-industrie-des-medias-a-l-ere-numerique--9782707159984.htm		DEC_GABSZ_2010_01				
+Les industries éducatives									http://www.cairn.info/les-industries-educatives--9782130582199.htm		PUF_MOEGL_2010_01				
+Inflation et désinflation									http://www.cairn.info/inflation-et-desinflation--9782707169266.htm		DEC_BEZBA_2011_01				
+L’information et le renseignement par Internet									http://www.cairn.info/l-information-et-le-renseignement-par-internet--9782130579496.htm		PUF_IFRAH_2010_01				
+L'Inquisition									http://www.cairn.info/l-inquisition--9782130510772.htm		PUF_TESTA_2001_01				
+L’insécurité en France									http://www.cairn.info/l-insecurite-en-france--9782707135995.htm		DEC_ROBER_2002_01				
+L'insertion des jeunes en France									http://www.cairn.info/l-insertion-des-jeunes-en-france--9782130554882.htm		PUF_NICOL_2006_01				
+L'insomnie									http://www.cairn.info/l-insomnie--9782130558644.htm		PUF_DESAI_2006_01				
+L'intérim									http://www.cairn.info/l-interim--9782707149543.htm		DEC_GLAYM_2007_01				
+Internet									http://www.cairn.info/internet--9782130554714.htm		PUF_DUFOU_2006_01				
+Internet									http://www.cairn.info/internet--9782130585480.htm		PUF_GHERN_2012_01				
+Introduction à Castoriadis									http://www.cairn.info/introduction-a-castoriadis--9782707174741.htm		DEC_PRAT_2012_01				
+Introduction à Ivan Illich									http://www.cairn.info/introduction-a-ivan-illich--9782707174949.htm		DEC_PAQUO_2012_01				
+Introduction à John Kenneth Galbraith									http://www.cairn.info/introduction-a-john-kenneth-galbraith--9782707170873.htm		DEC_LAGUE_2011_01				
+Introduction à Keynes									http://www.cairn.info/introduction-a-keynes--9782707161024.htm		DEC_COMBE_2010_02				
+Introduction à la comptabilité d’entreprise									http://www.cairn.info/introduction-a-la-comptabilite-d-entreprise--9782707125484.htm		DEC_CAPRO_1996_01				
+Introduction à la macroéconomie									http://www.cairn.info/introduction-a-la-macroeconomie--9782707131645.htm		DEC_EPAUL_2002_01				
+Introduction à la philosophie politique									http://www.cairn.info/introduction-a-la-philosophie-politique--9782707125835.htm		DEC_RUBY_1996_01				
+Introduction à Marx									http://www.cairn.info/introduction-à-marx--9782707159465.htm		DEC_COMBE_2010_01				
+Introduction à Michel Foucault									http://www.cairn.info/introduction-a-michel-foucault--9782707155856.htm		DEC_BERT_2011_01				
+Introduction au common law									http://www.cairn.info/introduction-au-common-law--9782707152275.htm		DEC_LEGRA_2008_01				
+Introduction au droit									http://www.cairn.info/introduction-au-droit--9782130562559.htm		PUF_AUBER_2007_01				
+Introduction au droit									http://www.cairn.info/introduction-au-droit--9782130585015.htm		PUF_FABRE_2010_01				
+Introduction aux Cultural Studies									http://www.cairn.info/introduction-aux-cultural-studies--9782707154262.htm		DEC_MATTE_2008_01				
+Introduction aux Science Studies									http://www.cairn.info/introduction-aux-science-studies--9782707145963.htm		DEC_PESTR_2006_01				
+Introduction aux sciences de la communication									http://www.cairn.info/introduction-aux-sciences-de-la-communication--9782707137760.htm		DEC_BOUGN_2001_01				
+Introduction aux théories économiques									http://www.cairn.info/introduction-aux-theories-economiques--9782707129577.htm		DEC_DUBOE_1999_01				
+Introduction à la socio-histoire									http://www.cairn.info/introduction-a-la-socio-histoire--9782707147233.htm		DEC_NOIRI_2008_01				
+Les investisseurs institutionnels									http://www.cairn.info/les-investisseurs-institutionnels--9782707140630.htm		DEC_BOUBE_2004_01				
+L'Irlande									http://www.cairn.info/l-irlande--9782130540120.htm		PUF_HEURL_2003_01				
+L'irrationnel									http://www.cairn.info/l-irrationnel--9782130553922.htm		PUF_BONAR_2005_01				
+L’Islam									http://www.cairn.info/l-islam--9782707143334.htm		DEC_DELCA_2004_01				
+L’islam									http://www.cairn.info/l-islam--9782130577317.htm		PUF_SOURD_2009_01				
+L'Islam contemporain									http://www.cairn.info/l-islam-contemporain--9782130565314.htm		PUF_MERAD_2007_01				
+La IVe République									http://www.cairn.info/la-ive-republique--9782130536512.htm		PUF_CAUCH_2004_01				
+L'IVG									http://www.cairn.info/l-ivg--9782130594895.htm		PUF_NISAN_2012_01				
+Le jazz									http://www.cairn.info/le-jazz--9782130563778.htm		PUF_MALSO_2007_01				
+Jean-Paul Sartre									http://www.cairn.info/jean-paul-sartre--9782130548799.htm		PUF_COHEN_2005_01				
+Les Jésuites									http://www.cairn.info/les-jesuites--9782130443346.htm		PUF_GUILL_1992_01				
+Jésus									http://www.cairn.info/jesus--9782130564898.htm		PUF_PERRO_2007_01				
+Les jeunes									http://www.cairn.info/les-jeunes--9782707156952.htm		DEC_GALLA_2009_01				
+Les jeunes et l’emploi									http://www.cairn.info/les-jeunes-et-l-emploi--9782707140029.htm		DEC_LEFRE_2003_01				
+John Maynard Keynes									http://www.cairn.info/john-maynard-keynes--9782130577294.htm		PUF_GAZIE_2009_02				
+Le journalisme									http://www.cairn.info/le-journalisme--9782130564041.htm		PUF_FEREN_2007_01				
+Le judaïsme									http://www.cairn.info/le-judaisme--9782707164629.htm		DEC_AZRIA_2010_01				
+Le juge d'instruction									http://www.cairn.info/le-juge-d-instruction--9782130571438.htm		PUF_VANRU_2008_01				
+Les Juifs ashkénazes									http://www.cairn.info/les-juifs-ashkenazes--9782130514527.htm		PUF_BAUER_2001_01				
+La justice administrative									http://www.cairn.info/la-justice-administrative--9782130564195.htm		PUF_ODENT_2008_01				
+La justice en France									http://www.cairn.info/la-justice-en-france--9782130560630.htm		PUF_RASSA_2007_01				
+La Kabbale									http://www.cairn.info/la-kabbale--9782130580881.htm		PUF_GOETS_2010_01				
+L’ergonomie									http://www.cairn.info/l-ergonomie--9782707173812.htm		DEC_DARSE_2012_01				
+L’ingénierie culturelle et l’évaluation des politiques culturelles en France									http://www.cairn.info/l-ingenierie-culturelle-et-l-evaluation-des-politi--9782130594406.htm		PUF_MOLLA_2012_01				
+Les laïcités dans le monde									http://www.cairn.info/les-laicites-dans-le-monde--9782130586159.htm		PUF_BAUBE_2010_02				
+Lacan									http://www.cairn.info/lacan--9782130576044.htm		PUF_ASSOU_2009_01				
+La laïcité									http://www.cairn.info/la-laicite--9782130583233.htm		PUF_HAARS_2011_01				
+La langue corse									http://www.cairn.info/la-langue-corse--9782130529460.htm		PUF_DALBE_2002_01				
+Les 100 mots de la Bretagne									http://www.cairn.info/les-100-mots-de-la-bretagne--9782130588603.htm		PUF_POIVR_2012_01				
+La lexicologie									http://www.cairn.info/la-lexicologie--9782130505778.htm		PUF_ELUER_2000_01				
+Lexique de droit constitutionnel									http://www.cairn.info/lexique-de-droit-constitutionnel--9782130592068.htm		PUF_AVRIL_2012_01				
+Lexique de sciences économiques et sociales									http://www.cairn.info/lexique-de-sciences-economiques-et-sociales--9782707158901.htm		DEC_CLERC_2011_01				
+Lexique des symboles chrétiens									http://www.cairn.info/lexique-des-symboles-chretiens--9782130576013.htm		PUF_FEUIL_2009_01				
+Le libéralisme de Hayek									http://www.cairn.info/le-liberalisme-de-hayek--9782707133847.htm		DEC_DOSTA_2001_01				
+La liberté									http://www.cairn.info/la-liberte--9782130530336.htm		PUF_LAUPI_2004_01				
+Les libertés publiques									http://www.cairn.info/les-libertes-publiques--9782130557791.htm		PUF_MORAN_2007_01				
+La Libye									http://www.cairn.info/la-libye--9782130533528.htm		PUF_BURGA_2003_01				
+Le lien social									http://www.cairn.info/le-lien-social--9782130578307.htm		PUF_PAUGA_2009_01				
+La linguistique									http://www.cairn.info/la-linguistique--9782130584575.htm		PUF_PEROT_2010_01				
+Lire l’économétrie									http://www.cairn.info/lire-l-econometrie--9782707173119.htm		DEC_BEHAG_2012_01				
+La littérature comparée									http://www.cairn.info/la-litterature-comparee--9782130574996.htm		PUF_CHEVR_2008_01				
+La littérature américaine									http://www.cairn.info/la-litterature-americaine--9782130541240.htm		PUF_ROYOT_2004_01				
+La littérature anglaise									http://www.cairn.info/la-litterature-anglaise--9782130542179.htm		PUF_REGAR_2007_01				
+La littérature arthurienne									http://www.cairn.info/la-litterature-arthurienne--9782130510499.htm		PUF_DELCO_2000_01				
+La littérature espagnole									http://www.cairn.info/la-litterature-espagnole--9782130531722.htm		PUF_AUBRU_2004_01				
+Littérature et musique au XXe siècle									http://www.cairn.info/litterature-et-musique-au-xxe-siecle--9782130517054.htm		PUF_LOCAT_2001_01				
+La littérature fantastique									http://www.cairn.info/la-litterature-fantastique--9782130570547.htm		PUF_STEIN_2008_01				
+La littérature française du Moyen Age									http://www.cairn.info/la-litterature-francaise-du-moyen-age--9182130457509.htm		PUF_BOUTE_1997_01				
+La littérature grecque d'Homère à Aristote									http://www.cairn.info/la-litterature-grecque-d-homere-a-aristote--9782130514060.htm		PUF_SAID_2001_01				
+La littérature italienne									http://www.cairn.info/la-litterature-italienne--9782130536406.htm		PUF_BEC_2003_01				
+La littérature japonaise									http://www.cairn.info/la-litterature-japonaise--9782130562535.htm		PUF_STRUV_2008_01				
+La littérature latine									http://www.cairn.info/la-litterature-latine--9782130560616.htm		PUF_GRIMA_2007_01				
+Le logement social en France									http://www.cairn.info/le-logement-social-en-france--9782130589914.htm		PUF_STEBE_2011_01				
+La logique									http://www.cairn.info/la-logique--9782130584568.htm		PUF_WAGNE_2011_01				
+La logique floue									http://www.cairn.info/la-logique-floue--9782130562603.htm		PUF_BOUCH_2007_01				
+La logistique									http://www.cairn.info/la-logistique--9782707146250.htm		DEC_LIEVR_2007_01				
+La logistique									http://www.cairn.info/la-logistique--9782130571261.htm		PUF_MATHE_2010_01				
+Le logo									http://www.cairn.info/le-logo--9782130555773.htm		PUF_HEILB_2006_01				
+Le low cost									http://www.cairn.info/le-low-cost--9782707158642.htm		DEC_COMBE_2011_01				
+Le luxe									http://www.cairn.info/le-luxe--9782130594772.htm		PUF_CASTA_2012_01				
+La macroéconomie après Keynes									http://www.cairn.info/la-macroeconomie-apres-keynes--9782707157751.htm		DEC_MIGNO_2010_01				
+Macroéconomie : consommation et épargne									http://www.cairn.info/macroeconomie-consommation-et-�pargne--9782707154866.htm		DEC_VILLI_2008_01				
+Macroéconomie financière									http://www.cairn.info/macroeconomie-financiere--9782707154279.htm		DEC_AGLIE_2008_01				
+Mai 68									http://www.cairn.info/mai-68--9782707153098.htm		DEC_GOBIL_2009_01				
+La maladie d’Alzheimer : mémoire et vieillissement									http://www.cairn.info/la-maladie-d-alzheimer-memoire-et-vieillissement--9782130548263.htm		PUF_BROUI_2005_01				
+Les maladies mentales de l’adulte									http://www.cairn.info/les-maladies-mentales-de-l-adulte--9782130584513.htm		PUF_GODFR_2011_01				
+Le management									http://www.cairn.info/le-management--9782130595175.htm		PUF_THIET_2012_01				
+Le management de la qualité									http://www.cairn.info/le-management-de-la-qualite--9782707134677.htm		DEC_WEILL_2009_01				
+Le management de projet									http://www.cairn.info/le-management-de-projet--9782707170804.htm		DEC_GAREL_2011_01				
+Le management de projet									http://www.cairn.info/le-management-de-projet--9782130595014.htm		PUF_NERE_2012_01				
+Le management des médias									http://www.cairn.info/le-management-des-medias--9782707153364.htm		DEC_DESLA_2008_01				
+Le management des savoirs									http://www.cairn.info/le-management-des-savoirs--9782130524946.htm		PUF_TARON_2002_01				
+Management et sciences cognitives									http://www.cairn.info/management-et-sciences-cognitives--9782130576716.htm		PUF_BOUVI_2009_01				
+Le management interculturel									http://www.cairn.info/le-management-interculturel--9782130583271.htm		PUF_CHEVR_2010_01				
+Le management international									http://www.cairn.info/le-management-international--9782707128201.htm		DEC_HUAUL_1997_01				
+Le management public									http://www.cairn.info/le-management-public--9782130563686.htm		PUF_SANTO_2007_01				
+Le management stratégique de l’entreprise									http://www.cairn.info/le-management-strategique-de-l-entreprise--9782130547532.htm		PUF_GHERT_2004_01				
+Le manichéisme									http://www.cairn.info/le-manicheisme--9782130369998.htm		PUF_TARDI_1997_01				
+La manipulation									http://www.cairn.info/la-manipulation--9782130588429.htm		PUF_ALMEI_2011_01				
+Les manuscrits de la mer Morte									http://www.cairn.info/les-manuscrits-de-la-mer-morte--9782130537977.htm		PUF_LAPER_2003_01				
+Marchands et banquiers du Moyen Âge									http://www.cairn.info/marchands-et-banquiers-du-moyen-age--9782130514794.htm		PUF_LEGOF_2001_01				
+Le marché de l'art									http://www.cairn.info/le-marche-de-l-art--9782130442042.htm		PUF_HOOG_1995_01				
+Le marché de l'art contemporain									http://www.cairn.info/le-marche-de-l-art-contemporain--9782707160072.htm		DEC_SAGOT_2010_01				
+Le marché immobilier									http://www.cairn.info/le-marche-immobilier--9782130550846.htm		PUF_SELAU_2005_01				
+Les marchés du travail en Europe									http://www.cairn.info/les-marches-du-travail-en-europe--9782707132147.htm		DEC_IRES_2000_01				
+Les marchés financiers internationaux									http://www.cairn.info/les-marches-financiers-internationaux--9782130584957.htm		PUF_FONTA_2011_01				
+Le marketing									http://www.cairn.info/le-marketing--9782130583981.htm		PUF_DAYAN_2010_01				
+Le marketing relationnel									http://www.cairn.info/le-marketing-relationnel--9782130542704.htm		PUF_HETZE_2004_01				
+La marque									http://www.cairn.info/la-marque--9782130578970.htm		PUF_HEILB_2010_01				
+Le marxisme									http://www.cairn.info/le-marxisme--9782130608141.htm		PUF_LEFEB_2012_01				
+Max Weber									http://www.cairn.info/max-weber--9782130573975.htm		PUF_FLEUR_2009_01				
+Les Mayas									http://www.cairn.info/les-mayas--9782130548379.htm		PUF_GENDR_2008_01				
+Le mécénat									http://www.cairn.info/le-mecenat--9782130561378.htm		PUF_DEBIE_2007_01				
+La médecine et les sciences									http://www.cairn.info/la-medecine-et-les-sciences--9782707145192.htm		DEC_GAUDI_2008_01				
+La médecine humanitaire									http://www.cairn.info/la-medecine-humanitaire--9782130578239.htm		PUF_BRAUM_2010_01				
+Les médias									http://www.cairn.info/les-medias--9782130595144.htm		PUF_BALLE_2012_01				
+Les médias en France									http://www.cairn.info/les-medias-en-france--9782707138668.htm		DEC_CHARO_2003_01				
+La médiation									http://www.cairn.info/la-mediation--9782130590699.htm		PUF_GUILL_2012_01				
+Le médicament générique									http://www.cairn.info/le-medicament-generique--9782130580522.htm		PUF_DUSSO_2009_01				
+Les meilleures pratiques de gouvernance d’entreprise									http://www.cairn.info/les-meilleures-pratiques-de-gouvernance--9782707153388.htm		DEC_WIRTZ_2008_01				
+La mémoire									http://www.cairn.info/la-memoire--9782130536956.htm		PUF_PETIT_2006_01				
+Les Mérovingiens									http://www.cairn.info/les-merovingiens--9782130585176.htm		PUF_LEJAN_2011_01				
+La métapsychologie									http://www.cairn.info/la-metapsychologie--9782130509431.htm		PUF_ASSOU_2000_01				
+Les météorites									http://www.cairn.info/les-meteorites--9782130574286.htm		PUF_GOUNE_2009_01				
+La méthode en sociologie									http://www.cairn.info/la-methode-en-sociologie--9782707152411.htm		DEC_COMBE_2007_01				
+Les méthodes de l'urbanisme									http://www.cairn.info/les-methodes-de-l-urbanisme--9782130607823.htm		PUF_LACAZ_2012_01				
+Méthodes de recherche en sciences de l'éducation									http://www.cairn.info/methodes-de-recherche-en-sciences-de-l-education--9782130540076.htm		PUF_MIALA_2004_01				
+Les méthodes en pédagogie									http://www.cairn.info/les-methodes-en-pedagogie--9782130595021.htm		PUF_BRU_2012_01				
+Les méthodes en psychologie									http://www.cairn.info/les-methodes-en-psychologie--9782130526810.htm		PUF_REUCH_2002_01				
+Les méthodes en sociologie									http://www.cairn.info/les-methodes-en-sociologie--9782707142627.htm		DEC_PERET_2004_01				
+Les méthodes en sociologie									http://www.cairn.info/les-methodes-en-sociologie--9782130606338.htm		PUF_BOUDO_2012_01				
+Les méthodes qualitatives									http://www.cairn.info/les-methodes-qualitatives--9782130617679.htm		PUF_ALAMI_2013_01				
+Méthodes quantitatives pour l'historien									http://www.cairn.info/methodes-quantitatives-pour-l-historien--9782707153401.htm		DEC_LEMER_2008_01				
+Le métier d’infirmière en France									http://www.cairn.info/le-metier-d-infirmiere-en-france--9782130578857.htm		PUF_DUBOY_2009_01				
+Les métiers de l’hôpital									http://www.cairn.info/les-metiers-de-l-hopital--9782707127112.htm		DEC_CHEVA_1997_01				
+Le Mexique									http://www.cairn.info/le-mexique--9782130584537.htm		PUF_MUSSE_2010_01				
+Michel Foucault									http://www.cairn.info/michel-foucault--9782130547440.htm		PUF_GROS_2004_01				
+La microéconomie du marché du travail									http://www.cairn.info/la-microeconomie-du-marche-du-travail--9782707138774.htm		DEC_CAHUC_2003_01				
+La mobilité professionnelle									http://www.cairn.info/la-mobilite-professionnelle--9782707165831.htm		DEC_DUHAU_2012_01				
+La mobilité sociale									http://www.cairn.info/la-mobilite-sociale--9782707126191.htm		DEC_MERLL_1997_01				
+La mode									http://www.cairn.info/la-mode--9782130580911.htm		PUF_WAQUE_2010_01				
+Le modèle français depuis 1945									http://www.cairn.info/le-modele-francais-depuis-1945--9782130588405.htm		PUF_GAUCH_2011_02				
+Les modèles productifs									http://www.cairn.info/les-modeles-productifs--9782707133175.htm		DEC_BOYER_2000_01				
+La modernisation des entreprises									http://www.cairn.info/la-modernisation-des-entreprises--9782707166661.htm		DEC_LINHA_2010_01				
+La mondialisation									http://www.cairn.info/la-mondialisation--9782130606529.htm		PUF_DEFAR_2012_01				
+La mondialisation de la communication									http://www.cairn.info/la-mondialisation-de-la-communication--9782130566120.htm		PUF_MATTE_2008_01				
+La mondialisation de la culture									http://www.cairn.info/la-mondialisation-de-la-culture--9782707153524.htm		DEC_WARNI_2008_01				
+La mondialisation de l’économie									http://www.cairn.info/la-mondialisation-de-l-economie--9782707148186.htm		DEC_ADDA_2007_01				
+Mondialisation et délocalisation des entreprises									http://www.cairn.info/mondialisation-et-delocalisation-des-entreprises--9782707163387.htm		DEC_MOUHO_2011_01				
+La mondialisation et l’emploi									http://www.cairn.info/la-mondialisation-et-l-emploi--9782707135063.htm		DEC_CARDE_2002_01				
+La monnaie et ses mécanismes									http://www.cairn.info/la-monnaie-et-ses-mecanismes--9782707152787.htm		DEC_PLIHO_2008_01				
+La morphopsychologie									http://www.cairn.info/la-morphopsychologie--9782130538127.htm		PUF_BOULA_2003_01				
+La mort									http://www.cairn.info/la-mort--9782130534204.htm		PUF_THOMA_2003_01				
+Les motivations									http://www.cairn.info/les-motivations--9782130592174.htm		PUF_MUCCH_2011_02				
+Les mots français									http://www.cairn.info/les-mots-francais--9782130448976.htm		PUF_MITTE_1996_01				
+Le multiculturalisme									http://www.cairn.info/le-multiculturalisme--9782707143730.htm		DEC_DOYTC_2005_01				
+Le multiculturalisme									http://www.cairn.info/le-multiculturalisme--9782707169341.htm		DEC_DOYTC_2011_01				
+Le multiculturalisme									http://www.cairn.info/le-multiculturalisme--9782130586630.htm		PUF_SAVID_2011_01				
+Les multinationales globales									http://www.cairn.info/les-multinationales-globales--9782707139535.htm		DEC_ANDRE_2003_01				
+Musée et muséologie									http://www.cairn.info/musee-et-museologie--9782707158055.htm		DEC_POULO_2009_01				
+Les musées de France									http://www.cairn.info/les-musees-de-france--9782130567677.htm		PUF_SALLO_2008_01				
+Les mutations de l’emploi en France									http://www.cairn.info/les-mutations-de-l-emploi-en-france--9782707145512.htm		DEC_ECONO_2005_01				
+Mythes et littérature									http://www.cairn.info/mythes-et-litterature--9782130595069.htm		PUF_MONNE_2012_01				
+La mythologie grecque									http://www.cairn.info/la-mythologie-grecque--9782130538585.htm		PUF_GRIMA_2003_01				
+La naissance du français									http://www.cairn.info/la-naissance-du-francais--9782130564331.htm		PUF_CERQU_2007_01				
+Napoléon									http://www.cairn.info/napoleon--9782130537663.htm		PUF_LENTZ_2003_01				
+Le narcissisme									http://www.cairn.info/le-narcissisme--9782130564119.htm		PUF_DESSU_2007_01				
+Le narcissisme									http://www.cairn.info/le-narcissisme--9782130588184.htm		PUF_DENIS_2012_01				
+La négociation									http://www.cairn.info/la-negociation--9782130591412.htm		PUF_BELLE_2011_01				
+Les néologismes									http://www.cairn.info/les-neologismes--9782130592105.htm		PUF_PRUVO_2012_01				
+La net économie									http://www.cairn.info/la-net-economie--9782130563662.htm		PUF_MULLE_2007_01				
+La neuro-psychanalyse									http://www.cairn.info/la-neuro-psychanalyse--9782130558682.htm		PUF_STORA_2006_01				
+La neurophilosophie									http://www.cairn.info/la-neurophilosophie--9782130564287.htm		PUF_ANDRI_2007_01				
+La neuropsychologie cognitive									http://www.cairn.info/la-neuropsychologie-cognitive--9782130521921.htm		PUF_SERON_2002_01				
+La neutralité d’Internet									http://www.cairn.info/la-neutralite-d-internet--9782707167156.htm		DEC_CURIE_2001_01				
+Nietzsche									http://www.cairn.info/nietzsche--9782130582748.htm		PUF_GRANI_2010_01				
+Le nombre d'or									http://www.cairn.info/le-nombre-d-or--9782130576143.htm		PUF_CLEYE_2009_01				
+La notion de culture dans les sciences sociales									http://www.cairn.info/la-notion-de-culture-dans-les-sciences-sociales--9782707158833.htm		DEC_CUCHE_2010_01				
+La notion de risque en économie									http://www.cairn.info/la-notion-de-risque-en-economie--9782707139085.htm		DEC_PRADI_2006_01				
+La notion de société civile									http://www.cairn.info/la-notion-de-societe-civile--9782707146946.htm		DEC_PIROT_2007_01				
+Le nouveau capitalisme									http://www.cairn.info/le-nouveau-capitalisme--9782707158413.htm		DEC_PLIHO_2009_01				
+Le nouveau testament									http://www.cairn.info/le-nouveau-testament--9782130541288.htm		PUF_BURNE_2004_01				
+Les nouveaux indicateurs de richesse									http://www.cairn.info/les-nouveaux-indicateurs-de-richesse--9782707174758.htm		DEC_GADRE_2012_01				
+La nouvelle constitution européenne									http://www.cairn.info/la-nouvelle-constitution-europeenne--9782707141996.htm		DEC_ZILLE_2005_01				
+La nouvelle économie géographique									http://www.cairn.info/la-nouvelle-economie-geographique--9782707152152.htm		DEC_CROZE_2009_01				
+Nouvelle histoire économique de la France contemporaine 									http://www.cairn.info/nouvelle-histoire-economique-de-la-france-3--9782707128096.htm		DEC_LEMEN_1997_01				
+Nouvelle histoire économique de la France contemporaine									http://www.cairn.info/nouvelle-histoire-economique-de-la-france-contempo--9782707138927.htm		DEC_VERLE_2003_01				
+La Nouvelle Théorie du commerce internationale									http://www.cairn.info/la-nouvelle-theorie-du-commerce-international--9782707141255.htm		DEC_RAINE_2003_01				
+Les nouvelles politiques de l'emploi									http://www.cairn.info/les-nouvelles-politiques-de-l-emploi--9782707147691.htm		DEC_LHORT_2006_01				
+Les nouvelles stratégies concurrentielles									http://www.cairn.info/les-nouvelles-strategies-concurrentielles--9782707158994.htm		DEC_ROY_2010_01				
+Les nouvelles théories de la croissance									http://www.cairn.info/les-nouvelles-theories-de-la-croissance--9782707140920.htm		DEC_GUELL_2003_01				
+Les ONG									http://www.cairn.info/les-ong--9782707157270.htm		DEC_RYFMA_2009_01				
+L’ONU									http://www.cairn.info/l-onu--9782707149664.htm		DEC_BERTR_2009_01				
+L'opéra italien									http://www.cairn.info/l-opera-italien--9782130505136.htm		PUF_DEVAN_2000_01				
+L’Opus Dei									http://www.cairn.info/l-opus-dei--9782130539759.htm		PUF_LETOU_2004_01				
+L’ordre maçonnique									http://www.cairn.info/l-ordre-maconnique--9782130532415.htm		PUF_PRAT_2003_01				
+L’Organisation des Nations Unies									http://www.cairn.info/l-organisation-des-nations-unies--9782130574040.htm		PUF_MESTR_2009_01				
+L’Organisation mondiale du commerce									http://www.cairn.info/l-organisation-mondiale-du-commerce--9782130533405.htm		PUF_JOUAN_2003_01				
+L'Organisation mondiale du commerce									http://www.cairn.info/l-organisation-mondiale-du-commerce--9782707170675.htm		DEC_RAINE_2011_01				
+Les origines de Rome									http://www.cairn.info/les-origines-de-rome--9782130532194.htm		PUF_GRAND_2003_01				
+Les origines du cancer									http://www.cairn.info/les-origines-du-cancer--9782130563945.htm		PUF_HAREL_2008_01				
+L’orthographe									http://www.cairn.info/l-orthographe--9782130585893.htm		PUF_CATAC_2011_01				
+L'orthophonie en France									http://www.cairn.info/l-orthophonie-en-france--9782130607717.htm		PUF_KREME_2012_01				
+L’ostéopathie									http://www.cairn.info/l-osteopathie--9782130563655.htm		PUF_LECOR_2007_01				
+Le packaging									http://www.cairn.info/le-packaging--9782130563204.htm		PUF_HEILB_2012_01				
+Le paléolithique									http://www.cairn.info/le-paleolithique--9782130588306.htm		PUF_VALEN_2011_01				
+Les paradis fiscaux									http://www.cairn.info/les-paradis-fiscaux--9782707171412.htm		DEC_CHAVA_2012_01				
+La paranoïa									http://www.cairn.info/la-paranoia--9782130534617.htm		PUF_DEMIJ_2007_01				
+Le paranormal									http://www.cairn.info/le-paranormal--9782130529880.htm		PUF_WALLO_2006_01				
+Le parfum									http://www.cairn.info/le-parfum--9782130607533.htm		PUF_ELLEN_2012_01				
+La parité									http://www.cairn.info/la-parite--9782130563914.htm		PUF_SENAC_2008_01				
+Le partage de la valeur ajoutée									http://www.cairn.info/le-partage-de-la-valeur-ajoutee--9782707174451.htm		DEC_ASKEN_2012_01				
+Les partenariats public-privé									http://www.cairn.info/les-partenariats-public-prive--9782707146552.htm		DEC_MARTY_2006_01				
+Les partis politiques									http://www.cairn.info/les-partis-politiques--9782130595496.htm		PUF_OFFER_2012_01				
+Paul Ricœur									http://www.cairn.info/paul-ricoeur--9782130606390.htm		PUF_GROND_2013_01				
+Les pédagogies nouvelles									http://www.cairn.info/les-pedagogies-nouvelles--9782130586579.htm		PUF_RESWE_2011_01				
+La peine de mort									http://www.cairn.info/la-peine-de-mort--9782130592341.htm		PUF_CARBA_2011_02				
+La pensée arabe									http://www.cairn.info/la-pensee-arabe--9782130570851.htm		PUF_ARKOU_2008_01				
+La pensée éthique contemporaine									http://www.cairn.info/la-pensee-ethique-contemporaine--9782130592419.htm		PUF_RUSS_2012_01				
+La pensée sociale									http://www.cairn.info/la-pensee-sociale--9782130497776.htm		PUF_GUIME_1999_01				
+Le personnalisme									http://www.cairn.info/le-personnalisme--9782130521068.htm		PUF_MOUNI_2001_01				
+Les personnes âgées									http://www.cairn.info/les-personnes-agees--9782707127587.htm		DEC_POCHE_1997_01				
+Les personnes en situation de handicap									http://www.cairn.info/les-personnes-en-situation-de-handicap--9782130578000.htm		PUF_HAMON_2010_01				
+Les personnes en situation de handicap									http://www.cairn.info/les-personnes-en-situation-de-handicap--9782130595052.htm		PUF_HAMON_2012_01				
+Les personnes handicapées									http://www.cairn.info/les-personnes-handicapes--9782130556404.htm		PUF_HAMON_2006_01				
+Les perversions sexuelles									http://www.cairn.info/les-perversions-sexuelles--9782130588412.htm		PUF_BONNE_2011_01				
+La phénoménologie									http://www.cairn.info/la-phenomenologie--9782130547365.htm		PUF_LYOTA_2004_01				
+La philosophie									http://www.cairn.info/la-philosophie--9782130595359.htm		PUF_COMTE_2012_01				
+La philosophie antique									http://www.cairn.info/la-philosophie-antique--9782130523390.htm		PUF_DUMON_2002_01				
+La philosophie de l’éducation									http://www.cairn.info/la-philosophie-de-l-education--9782130580874.htm		PUF_REBOU_2010_01				
+La philosophie de la religion									http://www.cairn.info/la-philosophie-de-la-religion--9782130592143.htm		PUF_GROND_2012_01				
+La philosophie de l’art									http://www.cairn.info/la-philosophie-de-l-art--9782130570455.htm		PUF_LACOS_2008_01				
+La philosophie de Marx									http://www.cairn.info/la-philosophie-de-marx--9782707133892.htm		DEC_BALIB_2001_01				
+La philosophie des sciences									http://www.cairn.info/la-philosophie-des-sciences--9782130580539.htm		PUF_LECOU_2010_01				
+La philosophie du corps									http://www.cairn.info/la-philosophie-du-corps--9782130575573.htm		PUF_MARZA_2009_01				
+La philosophie du droit									http://www.cairn.info/la-philosophie-du-droit--9782130585350.htm		PUF_TROPE_2011_01				
+La philosophie du langage									http://www.cairn.info/la-philosophie-du-langage--9782130568896.htm		PUF_AUROU_2008_01				
+La philosophie médiévale									http://www.cairn.info/la-philosophie-medievale--9782130515807.htm		PUF_DELIB_2001_01				
+La philosophie morale									http://www.cairn.info/la-philosophie-morale--9782130556701.htm		PUF_CANTO_2006_01				
+Les philosophies de l'Inde									http://www.cairn.info/les-philosophies-de-l-inde--9782130617150.htm		PUF_FILLI_2012_01				
+Les phobies									http://www.cairn.info/les-phobies--9782130586654.htm		PUF_DENIS_2011_01				
+La phonétique									http://www.cairn.info/la-phonetique--9782130586500.htm		PUF_VAISS_2011_01				
+Platon									http://www.cairn.info/platon--9782130578758.htm		PUF_MATTE_2010_01				
+La poétique									http://www.cairn.info/la-poetique--9782130533030.htm		PUF_JARRE_2003_01				
+La police technique et scientifique									http://www.cairn.info/la-police-technique-et-scientifique--9782130584582.htm		PUF_JALBY_2010_01				
+Les polices au Québec									http://www.cairn.info/les-polices-au-quebec--9782130586838.htm		PUF_DUPON_2011_01				
+Les polices en France									http://www.cairn.info/les-polices-en-france--9782130579076.htm		PUF_BAUER_2010_01				
+Politesse,savoir-vivre et relations sociales									http://www.cairn.info/politesse,savoir-vivre-et-relations-sociales--9782130583240.htm		PUF_PICAR_2010_01				
+La politique agricole commune									http://www.cairn.info/la--politique--agricole--commune--9782707150172.htm		DEC_BUREA_2007_01				
+La politique de la concurrence									http://www.cairn.info/la-politique-de-la-concurrence--9782707156624.htm		DEC_COMBE_2008_01				
+La politique de la famille									http://www.cairn.info/la-politique-de-la-famille--9782707137807.htm		DEC_COMMA_2002_01				
+La politique de santé en France									http://www.cairn.info/la-politique-de-sante-en-france--9782130591627.htm		PUF_BONNI_2011_01				
+La politique économique									http://www.cairn.info/la-politique-economique--9782130594734.htm		PUF_DANIE_2012_01				
+Politique et religion aux États-Unis									http://www.cairn.info/politique-et-religion-aux-Etats-unis--9782707153975.htm		DEC_FROID_2009_01				
+La politique étrangère américaine									http://www.cairn.info/la-politique-etrangere-americaine--9782130570516.htm		PUF_LEFEB_2008_01				
+La politique étrangère européenne									http://www.cairn.info/la-politique-etrangere-europeenne--9782130584483.htm		PUF_LEFEB_2011_01				
+La politique fiscale									http://www.cairn.info/la-politique-fiscale--9782130564218.htm		PUF_CASTA_2008_02				
+La politique monétaire									http://www.cairn.info/la-politique-monetaire--9782707149527.htm		DEC_BORDE_2008_01				
+Les politiques d'intelligence économique									http://www.cairn.info/les-politiques-d-intelligence-economique--9782130565376.htm		PUF_DELBE_2008_01				
+Les politiques d’éducation									http://www.cairn.info/les-politiques-d-education--9782130585183.htm		PUF_VANZA_2011_01				
+Les politiques de l'emploi									http://www.cairn.info/les-politiques-de-l-emploi--9782130561330.htm		PUF_ERHEL_2009_01				
+Les politiques de l'emploi et du marché du travail									http://www.cairn.info/les-politiques-de-l-emploi-et-du-marche-du-travail--9782707141316.htm		DEC_DARES_2003_01				
+Les politiques de la ville									http://www.cairn.info/les-politiques-de-la-ville--9782130591504.htm		PUF_CHALI_2011_01				
+Les politiques familiales									http://www.cairn.info/les-politiques-familiales--9782130558842.htm		PUF_DAMON_2006_01				
+Les politiques publiques de sécurité									http://www.cairn.info/les-politiques-publiques-de-securite--9782130591092.htm		PUF_BAUER_2011_03				
+Les politiques publiques									http://www.cairn.info/les-politiques-publiques--9782130591047.htm		PUF_MULLE_2011_01				
+Les politiques publiques de la culture en France									http://www.cairn.info/les-politiques-publiques-de-la-culture-en-france--9782130579038.htm		PUF_MOULI_2010_01				
+La ponctuation									http://www.cairn.info/la-ponctuation--9782130460503.htm		PUF_CATAC_1996_01				
+La population française									http://www.cairn.info/la-population-francaise--9782707134912.htm		DEC_VALLI_2001_01				
+Le Post-Communisme en Europe									http://www.cairn.info/le-post-communisme-en-europe--9782707130297.htm		DEC_BAFOI_1999_01				
+Le pouvoir des grands									http://www.cairn.info/le-pouvoir-des-grands--9782707149725.htm		DEC_HERPI_2006_01				
+La pragmatique									http://www.cairn.info/la-pragmatique--9782130564003.htm		PUF_ARMEN_2007_01				
+La précarité									http://www.cairn.info/la-precarite--9782130589334.htm		PUF_CINGO_2011_01				
+Les présocratiques									http://www.cairn.info/les-presocratiques--9782130540205.htm		PUF_BRUN_2003_01				
+La presse									http://www.cairn.info/la-presse--9782130577270.htm		PUF_EVENO_2010_01				
+La presse des jeunes									http://www.cairn.info/la-presse-des-jeunes--9782707132291.htm		DEC_CHARO_2002_01				
+La presse en ligne									http://www.cairn.info/la-presse-en-ligne--9782707157744.htm		DEC_CHARO_2011_01				
+La presse magazine									http://www.cairn.info/la-presse-magazine--9782707156075.htm		DEC_CHARO_2008_01				
+La presse quotidienne									http://www.cairn.info/la-presse-quotidienne--9782707143433.htm		DEC_CHARO_2007_01				
+Le principe de précaution									http://www.cairn.info/le-principe-de-precaution--9782130566298.htm		PUF_EWALD_2008_01				
+Les prix Nobel d’économie									http://www.cairn.info/les-prix-nobel-d-economie--9782707156709.htm		DEC_COLLI_2009_01				
+La probabilité, le hasard et la certitude									http://www.cairn.info/la-probabilite-le-hasard-et-la-certitude--9782130571254.htm		PUF_DEHEU_2008_01				
+La problématologie									http://www.cairn.info/la-problematologie--9782130567691.htm		PUF_MEYER_2011_01				
+La procédure pénale									http://www.cairn.info/la-procedure-penale--9782130561880.htm		PUF_LARGU_2007_01				
+Productivité et croissance en Europe et aux États-Unis									http://www.cairn.info/productivite-et-croissance-en-europe-et-aux-�tat--9782707148285.htm		DEC_CETTE_2007_01				
+Les produits Financiers dérivés									http://www.cairn.info/les-produits-financiers-derives--9782707166678.htm		DEC_JEGOU_2010_01				
+Les programmes audiovisuels									http://www.cairn.info/les-programmes-audiovisuels--9782707145246.htm		DEC_DANAR_2005_01				
+Le projet urbain									http://www.cairn.info/le-projet-urbain--9782130566106.htm		PUF_INGAL_2008_01				
+La propriété littéraire et artistique									http://www.cairn.info/la-propriete-litteraire-et-artistique--9782130560906.htm		PUF_EDELM_2008_01				
+La prospective									http://www.cairn.info/la-prospective--9782130543411.htm		PUF_GAUDI_2005_01				
+La protection sociale									http://www.cairn.info/la-protection-sociale--9782707143372.htm		DEC_MURAR_2004_01				
+Le protectionnisme									http://www.cairn.info/le-protectionnisme--9782707135384.htm		DEC_GUILL_2001_01				
+Les protestants en France depuis 1789									http://www.cairn.info/les-protestants-en-france-depuis-1789--9782707131515.htm		DEC_FABRE_1999_01				
+La psychanalyse									http://www.cairn.info/la-psychanalyse--9782707138620.htm		DEC_DESPR_2002_01				
+La psychanalyse									http://www.cairn.info/la-psychanalyse--9782130575399.htm		PUF_LAGAC_2009_01				
+La psychanalyse américaine									http://www.cairn.info/la-psychanalyse-americaine--9782130547105.htm		PUF_TESSI_2005_01				
+La psychiatrie du bébé									http://www.cairn.info/la-psychiatrie-du-bebe--9782130567202.htm		PUF_ALVAR_2008_01				
+La psychiatrie foetale									http://www.cairn.info/la-psychiatrie-foetale--9782130541936.htm		PUF_SOUBI_2005_01				
+La psychogériatrie									http://www.cairn.info/la-psychogeriatrie--9782130590743.htm		PUF_MONFO_2011_01				
+La psychologie clinique									http://www.cairn.info/la-psychologie-clinique--9782130533016.htm		PUF_PREVO_2003_01				
+Psychologie de l’amitié									http://www.cairn.info/psychologie-de-l-amitie--9782130539087.htm		PUF_MAISO_2004_01				
+Psychologie de l’éducation									http://www.cairn.info/psychologie-de-l-education--9782130591238.htm		PUF_MIALA_2011_02				
+La psychologie de l’enfant									http://www.cairn.info/la-psychologie-de-l-enfant--9782130591597.htm		PUF_HOUDE_2011_02				
+Psychologie de la Ressource humaine									http://www.cairn.info/psychologie-de-la-ressource-humaine--9782130559191.htm		PUF_AUBRE_2007_01				
+Psychologie de la vie adulte									http://www.cairn.info/psychologie-de-la-vie-adulte--9782130608448.htm		PUF_BOUTI_2013_01				
+Psychologie des conduites à projet									http://www.cairn.info/psychologie-des-conduites-a-projet--9782130543176.htm		PUF_BOUTI_2004_01				
+La psychologie des relations humaines									http://www.cairn.info/la-psychologie-des-relations-humaines--9782130588368.htm		PUF_CHAPP_2011_01				
+Psychologie du sport									http://www.cairn.info/psychologie-du-sport--9782130565819.htm		PUF_DELIG_2008_01				
+Psychologie du travail									http://www.cairn.info/psychologie-du-travail--9782130588498.htm		PUF_KARNA_2011_01				
+Psychologie et management									http://www.cairn.info/psychologie-et-management--9782130559368.htm		PUF_BURG_2007_01				
+La psychologie expérimentale									http://www.cairn.info/la-psychologie-experimentale--9782130549130.htm		PUF_FRAIS_2005_01				
+La psychologie sociale									http://www.cairn.info/la-psychologie-sociale--9782130574026.htm		PUF_MAISO_2009_01				
+La psychopédagogie									http://www.cairn.info/la-psychopedagogie--9782130528586.htm		PUF_MIALA_2002_01				
+Psychoses et névroses de l'adulte									http://www.cairn.info/psychoses-et-nevroses-de-l-adulte--9782130535935.htm		PUF_MANUS_2003_01				
+La psychosomatique de l'adulte									http://www.cairn.info/la-psychosomatique-de-l-adulte--9782130588214.htm		PUF_MARTY_2011_01				
+Les psychothérapies									http://www.cairn.info/les-psychotherapies--9782130552017.htm		PUF_BRUSS_2005_01				
+La publicité									http://www.cairn.info/la-publicite--9782130539100.htm		PUF_DAYAN_2003_01				
+Les pulsions									http://www.cairn.info/les-pulsions--9782130541042.htm		PUF_SCARF_2004_01				
+Pythagore et les Pythagoriciens									http://www.cairn.info/pythagore-et-les-pythagoriciens--9782130524595.htm		PUF_MATTE_2001_01				
+Pythagore et les pythagoriciens									http://www.cairn.info/pythagore-et-les-pythagoriciens--9782130609216.htm		PUF_MATTE_2013_01				
+La qualité de l'emploi									http://www.cairn.info/la-qualite-de-l-emploi--9782707148933.htm		DEC_CEE_2006_01				
+Quel avenir pour nos retraites ?									http://www.cairn.info/quel-avenir-pour-nos-retraites---9782707131720.htm		DEC_DUPON_2000_01				
+title									http://www.cairn.info/la-question-nationale-au-xixe-siecle--9782707126863.htm		DEC_CABAN_1997_01				
+La radio									http://www.cairn.info/la-radio--9782130566250.htm		PUF_CAVEL_2008_01				
+La rafle du Vel d'Hiv									http://www.cairn.info/la-rafle-du-vel-d-hiv--9782130514497.htm		PUF_RAJSF_2002_01				
+La raison									http://www.cairn.info/la-raison--9782130537762.htm		PUF_SAINT_2003_01				
+Le raisonnement médical									http://www.cairn.info/le-raisonnement-medical--9782130556497.htm		PUF_MASQU_2006_01				
+La rationalité									http://www.cairn.info/la-rationalite--9782130571636.htm		PUF_BOUDO_2009_01				
+Le réchauffement climatique									http://www.cairn.info/le-rechauffement-climatique--9782130582625.htm		PUF_KANDE_2010_01				
+Le récit									http://www.cairn.info/le-recit--9782130440901.htm		PUF_ADAM_1996_01				
+Le recrutement									http://www.cairn.info/le-recrutement--9782707157676.htm		DEC_MARCH_2010_01				
+La Réforme									http://www.cairn.info/la-reforme--9782130531135.htm		PUF_STAUF_2003_01				
+La réforme des retraites									http://www.cairn.info/la-reforme-des-retraites--9782130595489.htm		PUF_PALIE_2012_01				
+La réforme des systèmes de santé									http://www.cairn.info/la-reforme-des-systemes-de-sante--9782130580904.htm		PUF_PALIE_2010_02				
+Le refoulement									http://www.cairn.info/le-refoulement--9782130448686.htm		PUF_LEGUE_1997_01				
+Le régime de Vichy									http://www.cairn.info/le-regime-de-vichy--9782130592488.htm		PUF_ROUSS_2012_01				
+Le régime politique de la Ve République									http://www.cairn.info/le-regime-politique-de-la-ve-republique--9782707167088.htm		DEC_FRANC_2011_01				
+Les régimes politiques									http://www.cairn.info/les-regimes-politiques--9782707128522.htm		DEC_HEYMA_1998_01				
+La régionalisation de l’économie mondiale									http://www.cairn.info/regionalisation-de-l-economie-mondiale--9782707144294.htm		DEC_SIROE_2004_01				
+Les relations internationales									http://www.cairn.info/les-relations-internationales--9782130607427.htm		PUF_BRAIL_2012_01				
+Les relations publiques									http://www.cairn.info/les-relations-publiques--9782130589525.htm		PUF_CHOUC_2011_01				
+Le relativisme									http://www.cairn.info/le-relativisme--9782130565772.htm		PUF_BOUDO_2008_01				
+La relaxation									http://www.cairn.info/la-relaxation--9782130532996.htm		PUF_BRENO_2003_01				
+La religion aux États-Unis									http://www.cairn.info/la-religion-aux-Etats-unis--9782130520689.htm		PUF_RICHE_2001_01				
+Les religions									http://www.cairn.info/les-religions--9782130564478.htm		PUF_POUPA_2007_01				
+Les religions africaines									http://www.cairn.info/les-religions-africaines--9782130472124.htm		PUF_STAMM_1995_01				
+Les représentations sociales									http://www.cairn.info/les-representations-sociales--9782130607458.htm		PUF_MANNO_2012_01				
+La République romaine									http://www.cairn.info/la-republique-romaine--9782130445463.htm		PUF_HINAR_1992_01				
+Les réseaux de franchise									http://www.cairn.info/les-reseaux-de-franchise--9782707159502.htm		DEC_BOULA_2010_01				
+Réseaux sociaux et structures relationnelles									http://www.cairn.info/reseaux-sociaux-et-structures-relationnelles--9782130561125.htm		PUF_LAZEG_2007_01				
+La résilience									http://www.cairn.info/la-resilience--9782130586609.htm		PUF_TISSE_2011_01				
+La responsabilité civile									http://www.cairn.info/la-responsabilite-civile--9782130534105.htm		PUF_LETOU_2003_01				
+La responsabilité sociale de l’entreprise									http://www.cairn.info/la-responsabilite-sociale-de-l-entreprise--9782130595182.htm		PUF_GOND_2012_01				
+La responsabilité sociale d’entreprise									http://www.cairn.info/la-responsabilite-sociale-d-entreprise--9782707165008.htm		DEC_CAPRO_2010_01				
+Les restructurations d’entreprises									http://www.cairn.info/les-restructurations-d-entreprises--9782707158246.htm		DEC_BEAUJ_2012_01				
+Révolution numérique et industries culturelles									http://www.cairn.info/revolution-numerique-et-industries-culturelles--9782707165053.htm		DEC_CHANT_2010_01				
+La rhétorique									http://www.cairn.info/la-rhetorique--9782130589198.htm		PUF_MEYER_2011_02				
+Le rire									http://www.cairn.info/le-rire--9782130561187.htm		PUF_SMADJ_2007_01				
+Les risques naturels									http://www.cairn.info/les-risques-naturels--9782130551775.htm		PUF_DAGOR_2005_01				
+Les risques psychosociaux									http://www.cairn.info/les-risques-psychosociaux--9782130591276.htm		PUF_LEDUC_2012_01				
+Le Rite Écossais Ancien et Accepté									http://www.cairn.info/le-rite-ecossais-ancien-et-accepte--9782130581956.htm		PUF_VITON_2012_01				
+Le Rite écossais Rectifié									http://www.cairn.info/le-rite-ecossais-rectifie--9782130581963.htm		PUF_DACHE_2010_01				
+Le Rite français									http://www.cairn.info/le-rite-francais--9782130581970.htm		PUF_MEYER_2012_01				
+Les rites maçonniques anglo-saxons									http://www.cairn.info/les-rites-maconniques-anglo-saxons--9782130581949.htm		PUF_BAUER_2011_02				
+Les rites maçonniques égyptiens									http://www.cairn.info/les-rites-maconniques-egyptiens--9782130581987.htm		PUF_DACHE_2012_01				
+Le romantisme français									http://www.cairn.info/le-romantisme-francais--9782130444336.htm		PUF_VANTI_1999_01				
+Roms et Tsiganes									http://www.cairn.info/roms-et-tsiganes--9782707149107.htm		DEC_LIEGE_2009_01				
+Les royaumes barbares en Occident									http://www.cairn.info/les-royaumes-barbares-en-occident--9782130575771.htm		PUF_COUME_2010_01				
+Le rugby									http://www.cairn.info/le-rugby--9782130561255.htm		PUF_BOUTH_2007_01				
+Rumeurs et légendes urbaines									http://www.cairn.info/rumeurs-et-legendes-urbaines--9782130553793.htm		PUF_RENAR_2006_01				
+La Russie postsoviétique									http://www.cairn.info/la-russie-postsovietique--9782707154361.htm		DEC_DAUCE_2008_01				
+Le sacré									http://www.cairn.info/le-sacre--9782130574071.htm		PUF_WUNEN_2009_01				
+Saint Paul									http://www.cairn.info/saint-paul--9782130533238.htm		PUF_TROCM_2007_01				
+Saint-Simon et le saint-simonisme									http://www.cairn.info/saint-simon-et-le-saint-simonisme--9782130498407.htm		PUF_MUSSO_1999_01				
+La sanction en éducation									http://www.cairn.info/la-sanction-en-education--9782130591498.htm		PUF_PRAIR_2011_01				
+Les sans-domicile									http://www.cairn.info/les-sans-domicile--9782707153104.htm		DEC_BROUS_2008_01				
+Le sanskrit									http://www.cairn.info/le-sanskrit--9782130580805.htm		PUF_FILLI_2010_01				
+La santé au travail									http://www.cairn.info/la-sante-au-travail-1880-2006--9782707147974.htm		DEC_BUZZI_2006_01				
+La santé des Français									http://www.cairn.info/la-sante-des-francais--9782707135902.htm		DEC_DELAS_2002_01				
+Santé et économie en Europe									http://www.cairn.info/sante-et-economie-en-europe--9782130584926.htm		PUF_DINTI_2010_01				
+Santé et environnement									http://www.cairn.info/sante-et-environnement--9782130594949.htm		PUF_DAB_2012_01				
+La santé publique									http://www.cairn.info/la-sante-publique--9782130570943.htm		PUF_MOREL_2010_01				
+Les scepticismes									http://www.cairn.info/les-scepticismes--9782130562689.htm		PUF_LEVY_2008_01				
+Les schizophrénies									http://www.cairn.info/les-schizophrenies--9782130591085.htm		PUF_BOURG_2011_01				
+La science de l’information									http://www.cairn.info/la-science-de-l-information--9782130547495.htm		PUF_LECOA_2004_01				
+La science politique									http://www.cairn.info/la-science-politique--9782130583585.htm		PUF_BRAUD_2011_01				
+La science-fiction									http://www.cairn.info/la-science-fiction--9782130533214.htm		PUF_BAUDO_2003_01				
+Les sciences de l’éducation									http://www.cairn.info/les-sciences-de-l-education--9782707174369.htm		DEC_PLAIS_2012_01				
+Les sciences de l’éducation									http://www.cairn.info/les-sciences-de-l-education--9782130586142.htm		PUF_MIALA_2011_01				
+Les sciences sociales									http://www.cairn.info/les-sciences-sociales--9782130527480.htm		PUF_DESJE_2004_01				
+Le Second Empire									http://www.cairn.info/le-second-empire--9782130544036.htm		PUF_ENCRE_2004_01				
+La Seconde République									http://www.cairn.info/la-seconde-republique--9782130523598.htm		PUF_VIGIE_2001_01				
+Les secrets de famille									http://www.cairn.info/les-secrets-de-famille--9782130586661.htm		PUF_TISSE_2011_02				
+Les sectes									http://www.cairn.info/les-sectes--9782130590125.htm		PUF_LUCA_2011_01				
+La sécurité informatique									http://www.cairn.info/la-securite-informatique--9782130561675.htm		PUF_LEOPO_2007_01				
+La sécurité privée en France									http://www.cairn.info/la-securite-privee-en-france--9782130583820.htm		PUF_WARFM_2011_01				
+La ségrégation scolaire									http://www.cairn.info/la-segregation-scolaire--9782707171160.htm		DEC_MERLE_2012_01				
+La sémantique									http://www.cairn.info/la-semantique--9782130548560.htm		PUF_TAMBA_2005_01				
+Le service public									http://www.cairn.info/le-service-public--9782130595045.htm		PUF_CHEVA_2012_01				
+Le service public hospitalier									http://www.cairn.info/le-service-public-hospitalier--9782130594994.htm		PUF_STING_2012_01				
+Les services à la personne									http://www.cairn.info/les-services-à-la-personne--9782707156013.htm		DEC_DEVET_2010_01				
+La sexualité féminine									http://www.cairn.info/la-sexualite-feminine--9782130575108.htm		PUF_ANDRE_2009_03				
+La sexualité masculine									http://www.cairn.info/la-sexualite-masculine--9782130619451.htm		PUF_ANDRE_2013_01				
+Le siècle de Louis XIV									http://www.cairn.info/le-siecle-de-louis-xiv--9782130459033.htm		PUF_METHI_1995_01				
+Le siècle de Périclès									http://www.cairn.info/le-siecle-de-pericles--9782130428916.htm		PUF_MAFFR_1994_01				
+Signes, symboles et mythes									http://www.cairn.info/signes-symboles-et-mythes--9782130576129.htm		PUF_BENOI_2009_01				
+Le sionisme									http://www.cairn.info/le-sionisme--9782130543831.htm		PUF_GREIL_2005_01				
+Le socialisme libéral									http://www.cairn.info/le-socialisme-liberal--9782707147110.htm		DEC_AUDIE_2006_01				
+La société du risque									http://www.cairn.info/la-societe-du-risque--9782707164568.htm		DEC_PERET_2010_01				
+Socio-économie des services									http://www.cairn.info/socio-economie-des-services--9782707139511.htm		DEC_GADRE_2003_01				
+La sociolinguistique									http://www.cairn.info/la-sociolinguistique--9782130570523.htm		PUF_CALVE_2009_01				
+La sociologie aux États-Unis aujourd’hui									http://www.cairn.info/la-sociologie-aux-etats-unis-aujourd-hui--9782707167729.htm		DEC_CHRIS_2012_01				
+La sociologie comme science									http://www.cairn.info/la-sociologie-comme-science--9782707164278.htm		DEC_BOUDO_2010_01				
+La sociologie de Anthony Giddens									http://www.cairn.info/la-sociologie-de-anthony-giddens--9782707151902.htm		DEC_NIZET_2007_01				
+Sociologie de Bordeaux									http://www.cairn.info/sociologie-de-bordeaux--9782707151445.htm		DEC_VICTO_2007_01				
+La sociologie de Durkheim									http://www.cairn.info/la-sociologie-de-durkheim--9782707147257.htm		DEC_STEIN_2010_01				
+La sociologie de Erving Goffman									http://www.cairn.info/la-sociologie-de-erving-goffman--9782707142023.htm		DEC_NIZET_2005_01				
+La sociologie de Georg Simmel									http://www.cairn.info/la-sociologie-de-georg-simmel--9782707133076.htm		DEC_VANDE_2009_01				
+Sociologie de l’intégration									http://www.cairn.info/sociologie-de-l-integration--9782130552604.htm		PUF_KHELL_2005_01				
+Sociologie de l'Algérie									http://www.cairn.info/sociologie-de-l-algerie--9782130521754.htm		PUF_BOURD_2006_01				
+Sociologie de l'alimentation									http://www.cairn.info/sociologie-de-l-alimentation--9782707148452.htm		DEC_REGNI_2009_01				
+Sociologie de l'argent									http://www.cairn.info/sociologie-de-l-argent--9782707148773.htm		DEC_DEBLI_2007_01				
+La sociologie de l’art									http://www.cairn.info/la-sociologie-de-l-art--9782707143310.htm		DEC_HEINI_2004_01				
+Sociologie de l'éducation									http://www.cairn.info/sociologie-de-l-education--9782707156969.htm		DEC_CACOU_2009_01				
+Sociologie de l’éducation									http://www.cairn.info/sociologie-de-l-education--9782130575436.htm		PUF_CHERK_2010_01				
+Sociologie de l’emploi									http://www.cairn.info/sociologie-de-l-emploi--9782707144485.htm		DEC_MARUA_2004_01				
+Sociologie de l'immigration									http://www.cairn.info/sociologie-de-l-immigration--9782707154736.htm		DEC_REA_2008_01				
+Sociologie de l’innovation									http://www.cairn.info/sociologie-de-l-innovation--9782130585756.htm		PUF_GAGLI_2011_01				
+Sociologie de la bourgeoisie									http://www.cairn.info/sociologie-de-la-bourgeoisie--9782707146823.htm		DEC_PINCO_2009_01				
+Une sociologie de la Chine									http://www.cairn.info/une-sociologie-de-la-chine--9782707160034.htm		DEC_ROCCA_2010_01				
+Sociologie de la communication politique									http://www.cairn.info/sociologie-de-la-communication-politique--9782707148612.htm		DEC_RIUTO_2007_01				
+Sociologie de la consommation									http://www.cairn.info/sociologie-de-la-consommation--9782707142962.htm		DEC_HERPI_2004_01				
+La sociologie de la délinquance juvénile									http://www.cairn.info/la-sociologie-de-la-delinquance-juvenile--9782707149718.htm		DEC_MAUGE_2009_01				
+Sociologie de la drogue									http://www.cairn.info/sociologie-de-la-drogue--9782707138699.htm		DEC_BERGE_2009_01				
+Sociologie de la famille									http://www.cairn.info/sociologie-de-la-famille--9782707158031.htm		DEC_DECHA_2009_01				
+Sociologie de la lecture									http://www.cairn.info/sociologie-de-la-lecture--9782707153166.htm		DEC_HOREL_2007_01				
+Sociologie de la littérature									http://www.cairn.info/sociologie-de-la-litterature--9782130544098.htm		PUF_ARON_2006_01				
+Sociologie de la mode									http://www.cairn.info/sociologie-de-la-mode--9782707157621.htm		DEC_GODAR_2010_01				
+La sociologie de la mode									http://www.cairn.info/la-sociologie-de-la-mode--9782130578987.htm		PUF_MONNE_2010_01				
+Sociologie de la prison									http://www.cairn.info/sociologie-de-la-prison--9782707157997.htm		DEC_COMBE_2009_02				
+Sociologie de la vie politique française									http://www.cairn.info/sociologie-de-la-vie-politique-francaise--9782707139115.htm		DEC_OFFER_2004_01				
+Sociologie de la vie quotidienne									http://www.cairn.info/sociologie-de-la-vie-quotidienne--9782130591856.htm		PUF_JAVEA_2011_01				
+Sociologie de l’architecture									http://www.cairn.info/sociologie-de-l-architecture--9782707134707.htm		DEC_CHAMP_2001_01				
+Sociologie de Lyon									http://www.cairn.info/sociologie-de-lyon--9782707156020.htm		DEC_AUTHI_2010_01				
+La sociologie de Max Weber									http://www.cairn.info/la-sociologie-de-max-weber--9782707147318.htm		DEC_COLLI_2008_01				
+La sociologie de Norbert Elias									http://www.cairn.info/la-sociologie-de-norbert-elias--9782707138309.htm		DEC_HEINI_2010_01				
+Sociologie de Paris									http://www.cairn.info/sociologie-de-paris--9782707156105.htm		DEC_PINCO_2008_01				
+Sociologie des cadres									http://www.cairn.info/sociologie-des-cadres--9782707131799.htm		DEC_BOUFF_2000_01				
+Sociologie des changements sociaux									http://www.cairn.info/sociologie-des-changements-sociaux--9782707146285.htm		DEC_TREMO_2006_01				
+Sociologie des chômeurs									http://www.cairn.info/sociologie-des-chomeurs--9782707148926.htm		DEC_DEMAZ_2006_01				
+Sociologie des classes moyennes									http://www.cairn.info/sociologie-des-classes-moyennes--9782707153081.htm		DEC_BOSC_2008_01				
+Sociologie des employés									http://www.cairn.info/sociologie-des-employes--9782707146991.htm		DEC_CHENU_2005_01				
+Sociologie des entreprises									http://www.cairn.info/sociologie-des-entreprises--9782707167477.htm		DEC_THUDE_2010_01				
+Sociologie des finances publiques									http://www.cairn.info/sociologie-des-finances-publiques--9782707145529.htm		DEC_LEROY_2007_01				
+Sociologie des institutions									http://www.cairn.info/sociologie-des-institutions--9782130585565.htm		PUF_TOURN_2011_01				
+Sociologie des institutions politiques									http://www.cairn.info/sociologie-des-institutions-politiques--9782707158611.htm		DEC_DULON_2012_01				
+Sociologie des mouvements sociaux									http://www.cairn.info/sociologie-des-mouvements-sociaux--9782707169358.htm		DEC_NEVEU_2011_01				
+Sociologie des organisations									http://www.cairn.info/sociologie-des-organisations--9782707139481.htm		DEC_BAGLA_2003_01				
+Sociologie des organisations									http://www.cairn.info/Sociologie des organisations--9782130574361.htm		PUF_BALLE_2009_02				
+Sociologie des organisations patronales									http://www.cairn.info/sociologie-des-organisations-patronales--9782707157973.htm		DEC_OFFER_2009_01				
+Sociologie des pratiques culturelles									http://www.cairn.info/sociologie-des-pratiques-culturelles--9782707164988.htm		DEC_COULA_2010_01				
+Sociologie des prénoms									http://www.cairn.info/sociologie-des-prenoms--9782707169303.htm		DEC_COULM_2011_01				
+Sociologie des publics									http://www.cairn.info/sociologie-des-publics--9782707159045.htm		DEC_ESQUE_2009_01				
+Sociologie des relations internationales									http://www.cairn.info/sociologie-des-relations-internationales--9782707150790.htm		DEC_DEVIN_2009_01				
+Sociologie des relations professionnelles									http://www.cairn.info/sociologie-des-relations-professionnelles--9782707154460.htm		DEC_LALLE_2008_01				
+Sociologie des religions									http://www.cairn.info/sociologie-des-religions--9782130609247.htm		PUF_WILLA_2012_01				
+La sociologie des réseaux sociaux									http://www.cairn.info/la-sociologie-des-reseaux-sociaux--9782707167361.htm		DEC_MERCK_2011_01				
+Sociologie des sciences									http://www.cairn.info/sociologie-des-sciences--9782130588177.htm		PUF_GINGR_2013_01				
+Sociologie des syndicats									http://www.cairn.info/sociologie-des-syndicats--9782707170125.htm		DEC_ANDOL_2011_01				
+Sociologie des tendances									http://www.cairn.info/sociologie-des-tendances--9782130575139.htm		PUF_ERNER_2009_01				
+Sociologie des troubles mentaux									http://www.cairn.info/sociologie-des-troubles-mentaux--9782707158147.htm		DEC_DEMAI_2011_01				
+Sociologie des villes									http://www.cairn.info/sociologie-des-villes--9782707153159.htm		DEC_FIJAL_2007_01				
+Sociologie du conseil en management									http://www.cairn.info/sociologie-du-conseil-en-management--9782707140364.htm		DEC_VILLE_2003_01				
+La sociologie du corps									http://www.cairn.info/la-sociologie-du-corps--9782130608165.htm		PUF_LEBRE_2012_02				
+Sociologie du couple									http://www.cairn.info/sociologie-du-couple--9782130583257.htm		PUF_KAUFM_2010_01				
+La sociologie du crime									http://www.cairn.info/la-sociologie-du-crime--9782707137425.htm		DEC_ROBER_2005_01				
+Sociologie du journalisme									http://www.cairn.info/sociologie-du-journalisme--9782707158277.htm		DEC_NEVEU_2009_01				
+Sociologie du logement									http://www.cairn.info/sociologie-du-logement--9782707165855.htm		DEC_FIJAL_2011_01				
+Sociologie du marché									http://www.cairn.info/sociologie-du-marche--9782707171245.htm		DEC_LEVEL_2012_01				
+Sociologie du phénomène Le Pen									http://www.cairn.info/sociologie-du-phenomene-le-pen--9782707145871.htm		DEC_LEBOH_2005_01				
+Sociologie du protestantisme									http://www.cairn.info/sociologie-du-protestantisme--9782130539063.htm		PUF_WILLA_2005_01				
+Sociologie du risque									http://www.cairn.info/sociologie-du-risque--9782130581079.htm		PUF_LEBRE_2012_01				
+Sociologie du sida									http://www.cairn.info/sociologie-du-sida--9782707138750.htm		DEC_THIAU_2002_01				
+Sociologie du sport									http://www.cairn.info/sociologie-du-sport--9782707169501.htm		DEC_DEFRA_2011_01				
+Sociologie du sport									http://www.cairn.info/sociologie-du-sport--9782130592495.htm		PUF_DURET_2012_01				
+Sociologie du tourisme									http://www.cairn.info/sociologie-du-tourisme--9782707152558.htm		DEC_COUSI_2009_01				
+La sociologie du travail									http://www.cairn.info/la-sociologie-du-travail--9782707159342.htm		DEC_ERBES_2010_01				
+La sociologie économique									http://www.cairn.info/la-sociologie-economique--9782707170156.htm		DEC_STEIN_2011_01				
+Sociologie et anthropologie de Marcel Mauss									http://www.cairn.info/sociologie-et-anthropologie-de-marcel-mauss--9782707139580.htm		DEC_TAROT_2003_01				
+Sociologie historique du politique									http://www.cairn.info/sociologie-historique-du-politique--9782707163943.htm		DEC_DELOY_2007_01				
+Sociologie politique de l’expertise									http://www.cairn.info/sociologie-politique-de-l-expertise--9782707165817.htm		DEC_DELMA_2011_01				
+Sociologie politique du Moyen-Orient									http://www.cairn.info/sociologie-politique-du-moyen-orient--9782707167040.htm		DEC_BOZAR_2011_01				
+La sociologie urbaine									http://www.cairn.info/la-sociologie-urbaine--9782130592129.htm		PUF_STEBE_2011_02				
+Sociologie des comportements sexuels									http://www.cairn.info/sociologie-des-comportements-sexuels--9782707145819.htm		DEC_JASPA_2005_02				
+Socrate									http://www.cairn.info/socrate--9782130585213.htm		PUF_DORIO_2011_01				
+Les sondages d'opinion									http://www.cairn.info/les-sondages-d-opinion--9782707153135.htm		DEC_MEYNA_2007_01				
+Les Sophistes									http://www.cairn.info/les-sophistes--9782130594130.htm		PUF_ROMEY_2012_01				
+La sorcellerie									http://www.cairn.info/la-sorcellerie--9782130524991.htm		PUF_PALOU_2002_01				
+Spinoza et le spinozisme									http://www.cairn.info/spinoza-et-le-spinozisme--9782130575481.htm		PUF_MOREA_2009_01				
+Le sport et les collectivités territoriales									http://www.cairn.info/le-sport-et-les-collectivites-territoriales--9782130582663.htm		PUF_BAYEU_2011_01				
+Statistiques criminelles et enquêtes de victimation									http://www.cairn.info/statistiques-criminelles-et-enquetes-de-victimat--9782130582229.htm		PUF_BAUER_2011_01				
+Le stoïcisme									http://www.cairn.info/le-stoicisme--9782130590910.htm		PUF_GOURI_2011_01				
+Les stratégies des ressources humaines									http://www.cairn.info/les-strategies-des-ressources-humaines--9782707164605.htm		DEC_GAZIE_2010_01				
+Le stress									http://www.cairn.info/le-stress--9782130582724.htm		PUF_STORA_2010_01				
+La structure des langues									http://www.cairn.info/la-structure-des-langues--9782130608974.htm		PUF_HAGEG_2013_01				
+La sublimation									http://www.cairn.info/la-sublimation--9782130606727.htm		PUF_DEMIJ_2012_01				
+Le suicide									http://www.cairn.info/le-suicide--9782130549468.htm		PUF_MORON_2005_01				
+Le surréalisme									http://www.cairn.info/le-surrealisme--9782130535812.htm		PUF_DUPLE_2002_01				
+Le symbole									http://www.cairn.info/le-symbole--9782130530322.htm		PUF_DECHA_2003_01				
+Le syndicalisme en France									http://www.cairn.info/le-syndicalisme-en-france--9782130576112.htm		PUF_MOURI_2009_01				
+Le syndicalisme en France depuis 1945									http://www.cairn.info/le-syndicalisme-en-france-depuis-1945--9782707156068.htm		DEC_MOURI_2008_01				
+Le syndicalisme enseignant									http://www.cairn.info/le-syndicalisme-enseignant--9782707146977.htm		DEC_GEAY_2005_01				
+La syntaxe du français									http://www.cairn.info/la-syntaxe-du-francais--9782130607410.htm		PUF_SOUTE_2012_01				
+Le système des inégalités									http://www.cairn.info/le-systeme-des-inegalites--9782707152206.htm		DEC_BIHR_2008_01				
+Le système éducatif									http://www.cairn.info/le-systeme-educatif--9782707142252.htm		DEC_VASCO_2006_02				
+Le système français de protection sociale									http://www.cairn.info/le-systeme-francais-de-protection-sociale--9782707157379.htm		DEC_BARBI_2009_01				
+Le système monétaire international									http://www.cairn.info/le-systeme-monetaire-international--9782707170743.htm		DEC_LELAR_2011_01				
+Le système pénal									http://www.cairn.info/le-systeme-penal--9782707154149.htm		DEC_JEAN_2008_01				
+Les systèmes d'informations géographique									http://www.cairn.info/les-systemes-d-informations-geographique--9782130539230.htm		PUF_DENEG_2004_01				
+La systémique sociale									http://www.cairn.info/la-systemique-sociale--9782130575528.htm		PUF_LUGAN_2009_01				
+Le tabagisme									http://www.cairn.info/le-tabagisme--9782130484967.htm		PUF_LEMAI_1997_01				
+Le tai chi chuan									http://www.cairn.info/le-tai-chi-chuan--9782130591818.htm		PUF_PLOUV_2012_01				
+Les taux d'intérêt									http://www.cairn.info/les-taux-d-interet--9782707141279.htm		DEC_BENAS_2003_01				
+Les taux de change									http://www.cairn.info/les-taux-de-change--9782707173591.htm		DEC_PLIHO_2012_01				
+La taxe Tobin									http://www.cairn.info/la-taxe-tobin--9782707136107.htm		DEC_JEGOU_2002_01				
+Les télécommunications									http://www.cairn.info/les-telecommunications--9782707150165.htm		DEC_MUSSO_2008_01				
+Les techniques de lutte contre le vieillissement									http://www.cairn.info/les-techniques-de-lutte-contre-le-vieillissement--9782130606642.htm		PUF_DEJAE_2012_01				
+Les techniques documentaires									http://www.cairn.info/les-techniques-documentaires--9782130524243.htm		PUF_CHAUM_2002_01				
+Techniques du cinéma									http://www.cairn.info/techniques-du-cinema--9782130595120.htm		PUF_PINEL_2012_01				
+La télévision									http://www.cairn.info/la-television--9782707135032.htm		DEC_CHANI_2005_01				
+Les Templiers									http://www.cairn.info/les-templiers--9782130590231.htm		PUF_PERNO_2011_01				
+Le temps									http://www.cairn.info/le-temps--9782130575078.htm		PUF_BARRE_2009_01				
+Le terrorisme									http://www.cairn.info/le-terrorisme--9782130558668.htm		PUF_GAYRA_2006_01				
+Les tests d'intelligence									http://www.cairn.info/les-tests-d-intelligence--9782707149992.htm		DEC_HUTEA_2006_01				
+Textes de droit hospitalier									http://www.cairn.info/textes-de-droit-hospitalier--9782130552468.htm		PUF_GODFR_2005_02				
+Le théâtre									http://www.cairn.info/le-theatre--9782130566045.htm		PUF_VIALA_2011_01				
+La théologie									http://www.cairn.info/la-theologie--9782130575566.htm		PUF_BEDOU_2009_01				
+La théorie de la décision									http://www.cairn.info/la-theorie-de-la-decision--9782707137692.htm		DEC_KAST_2002_01				
+Théorie de la régulation									http://www.cairn.info/theorie-de-la-regulation-1-les-fondamentaux--9782707132161.htm		DEC_BOYER_2004_01				
+Les théories de l'art									http://www.cairn.info/les-theories-de-l-art--9782130560296.htm		PUF_CAUQU_2007_01				
+Les théories de la connaissance									http://www.cairn.info/les-theories-de-la-connaissance--9782130590217.htm		PUF_BESNI_2011_01				
+Les théories de la monnaie									http://www.cairn.info/les-theories-de-la-monnaie--9782707127679.htm		DEC_LAVIG_1997_01				
+Les théories de la reconnaissance									http://www.cairn.info/les-theories-de-la-reconnaissance--9782707157775.htm		DEC_GUEGU_2012_01				
+Les théories de la république									http://www.cairn.info/les-theories-de-la-republique--9782707139092.htm		DEC_AUDIE_2004_01				
+Les théories des crises économiques									http://www.cairn.info/les-theories-des-crises-economiques--9782707140050.htm		DEC_ROSIE_2003_01				
+Théories des organisations									http://www.cairn.info/theories-des-organisations--9782707173720.htm		DEC_SAUSS_2012_01				
+Les théories du choix révolutionnaire									http://www.cairn.info/les-theories-du-choix-revolutionnaire--9782707154002.htm		DEC_TAZDA_2008_01				
+Les théories économiques									http://www.cairn.info/les-theories-economiques--9782130425120.htm		PUF_DELFA_1997_01				
+Les théories économiques du développement									http://www.cairn.info/les-theories-economiques-du-developpement--9782707136480.htm		DEC_ASSID_2002_02				
+Les théories économiques évolutionnistes									http://www.cairn.info/les-theories-economiques-evolutionnistes--9782707147202.htm		DEC_LAZAR_2010_01				
+Les théories psychanalytiques du groupe									http://www.cairn.info/les-theories-psychanalytiques-du-groupe--9782130590248.htm		PUF_KAES_2011_01				
+Les thérapies familiales									http://www.cairn.info/les-therapies-familiales--9782130563976.htm		PUF_MAISO_2007_01				
+Le Tibet									http://www.cairn.info/le-tibet--9782130573265.htm		PUF_BLEVE_2009_01				
+La timidité									http://www.cairn.info/la-timidite--9782130586463.htm		PUF_ANDRE_2011_02				
+Le Toyotisme									http://www.cairn.info/le-toyotisme--9782707129215.htm		DEC_SHIMI_1999_01				
+La Tradition musulmane									http://www.cairn.info/la-tradition-musulmane--9782130520740.htm		PUF_MERAD_2001_01				
+La tradition orale									http://www.cairn.info/la-tradition-orale--9782130381389.htm		PUF_CALVE_1997_01				
+La traduction									http://www.cairn.info/la-traduction--9782130594802.htm		PUF_OUSTI_2012_01				
+Les tragédies grecques									http://www.cairn.info/les-tragedies-grecques--9782130510437.htm		PUF_THIER_2001_01				
+Le traité de Versailles									http://www.cairn.info/le-traite-de-versailles--9782130529668.htm		PUF_BECKE_2002_01				
+La traite des Noirs									http://www.cairn.info/la-traite-des-noirs--9782130484158.htm		PUF_PETRE_1997_01				
+Le transsexualisme									http://www.cairn.info/le-transsexualisme--9782130536758.htm		PUF_CHILA_2003_01				
+Le travail									http://www.cairn.info/le-travail--9782130578994.htm		PUF_MEDA_2010_01				
+Le travail des enfants dans le monde									http://www.cairn.info/le-travail-des-enfants-dans-le-monde--9782707167095.htm		DEC_MANIE_2011_01				
+Travail et emploi des femmes									http://www.cairn.info/travail-et-emploi-des-femmes--9782707167804.htm		DEC_MARUA_2011_01				
+Travail et emploi en Europe									http://www.cairn.info/travail-et-emploi-en-europe--9782707145789.htm		DEC_MORLE_2005_01				
+Les travailleurs sociaux									http://www.cairn.info/les-travailleurs-sociaux--9782707174475.htm		DEC_RAVON_2012_01				
+La Troisième République									http://www.cairn.info/la-troisieme-republique--9782130443506.htm		PUF_BOUJU_1995_01				
+Les trotskysmes									http://www.cairn.info/les-trotskysmes--9782130525448.htm		PUF_BENSA_2002_01				
+Les troubles de l’humeur									http://www.cairn.info/les-troubles-de-l-humeur--9782130559481.htm		PUF_LOUIS_2006_01				
+Les troubles du langage et de la communication chez l’enfant									http://www.cairn.info/les-troubles-du-langage-et-de-la-communication-che--9782130590675.htm		PUF_DANON_2011_01				
+L'Ukraine									http://www.cairn.info/l-ukraine--9782130526896.htm		PUF_DELAR_2002_01				
+L’Union européenne									http://www.cairn.info/l-union-europeenne--9782707143907.htm		DEC_HEN_2006_01				
+L'Union européenne									http://www.cairn.info/l-union-europeenne--9782130566748.htm		PUF_MATHI_2008_01				
+Les universitaires									http://www.cairn.info/les-universitaires--9782707150608.htm		DEC_MUSSE_2008_01				
+L’urbanisation du monde									http://www.cairn.info/l-urbanisation-du-monde--9782707148919.htm		DEC_VERON_2006_01				
+L’urbanisme									http://www.cairn.info/l-urbanisme--9782707158864.htm		DEC_TRIBI_2009_01				
+L'urbanisme									http://www.cairn.info/l-urbanisme--9782130617624.htm		PUF_MERLI_2013_01				
+Utopies et utopistes									http://www.cairn.info/utopies-et-utopistes--9782707134493.htm		DEC_PAQUO_2007_02				
+Valeurs et cultures en Europe									http://www.cairn.info/valeurs-et-cultures-en-europe--9782707138460.htm		DEC_GALLA_2007_01				
+La veille technologique et l’intelligence économique									http://www.cairn.info/la-veille-technologique-et-l-intelligence-economiq--9782130585220.htm		PUF_ROUAC_2010_01				
+La versification									http://www.cairn.info/la-versification--9782130590903.htm		PUF_AQUIE_2011_01				
+Vidéosurveillance et vidéoprotection									http://www.cairn.info/videosurveillance-et-videoprotection--9782130578093.htm		PUF_BAUER_2012_03				
+Le Viêt-Nam									http://www.cairn.info/le-viet-nam--9782130516934.htm		PUF_FERAY_2001_01				
+Les Vikings									http://www.cairn.info/les-vikings--9782130541271.htm		PUF_BAUDU_2004_01				
+La violence									http://www.cairn.info/la-violence--9782130592396.htm		PUF_MICHA_2012_01				
+Les violences à l’école									http://www.cairn.info/les-violences-a-l-ecole--9782130588283.htm		PUF_CARRA_2011_01				
+Les violences contre les femmes									http://www.cairn.info/les-violences-contre-les-femmes--9782707169273.htm		DEC_JASPA_2011_01				
+Violences et insécurité urbaines									http://www.cairn.info/violences-et-insecurite-urbaines--9782130581338.htm		PUF_SOULL_2010_01				
+Les violences scolaires									http://www.cairn.info/les-violences-scolaires--9782130539261.htm		PUF_LORRA_2003_01				
+Les virus émergents									http://www.cairn.info/les-virus-emergents--9782130555438.htm		PUF_GESSA_2006_01				
+Vocabulaire de l’islam									http://www.cairn.info/vocabulaire-de-l-islam--9782130532163.htm		PUF_SOURD_2002_01				
+Vocabulaire du christianisme									http://www.cairn.info/vocabulaire-du-christianisme--9782130576822.htm		PUF_FEUIL_2009_03				
+Vocabulaire économique									http://www.cairn.info/vocabulaire-economique--9782130449706.htm		PUF_TEULO_1996_01				
+Vocabulaire juridique									http://www.cairn.info/vocabulaire-juridique--9782130459842.htm		PUF_DEFON_1994_01				
+Vocabulaire psychologique et psychiatrique									http://www.cairn.info/vocabulaire-psychologique-et-psychiatrique--9782130588382.htm		PUF_GODFR_2011_02				
+La voix									http://www.cairn.info/la-voix--9782130576747.htm		PUF_CORNU_2009_01				
+Le web marketing									http://www.cairn.info/le-web-marketing--9782130586067.htm		PUF_BODIE_2011_01				
+Le yoga									http://www.cairn.info/le-yoga--9782130592426.htm		PUF_FEUGA_2012_01				
+Le zen									http://www.cairn.info/le-zen--9782130582762.htm		PUF_TOULA_2010_01				
+Zola et le naturalisme									http://www.cairn.info/zola-et-le-naturalisme--9782130525103.htm		PUF_MITTE_2002_01				

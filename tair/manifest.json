@@ -1,0 +1,26 @@
+{
+  "name": "tair",
+  "version": "2014-05-19",
+  "status": "beta",
+  "longname": "The Arabidopsis Information Resource",
+  "describe": "The Arabidopsis Information Resource Database",
+  "docurl": "http://analogist.couperin.org/platforms/tair/",
+  "contact": "dominique.lechaudel at inist point fr",
+	"domains": [
+    "www.arabidopsis.org"
+	],
+  "pkb": false,
+  "recognize": {
+    "rtype": [
+      "INDEX",
+      "SEARCH",
+      "TOOLS",
+      "PORTALS",
+      "DOWNLOAD",
+      "SUBMIT"
+    ],
+    "mime": [
+      "HTML"
+    ]
+  }
+}

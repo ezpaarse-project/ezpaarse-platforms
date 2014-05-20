@@ -1,0 +1,28 @@
+{
+  "name": "lara",
+  "version": "2014-01-24",
+  "status": "beta",
+  "longname": "Lara",
+  "describe": "Identifie les consultations de BioOne",
+  "docurl": "http://analogist.couperin.org/platforms/lara/",
+  "contact": "cecilia.fabry at inist point fr et emmanuelle.rocklin at inist point fr",
+	"domains": [
+    "lara.inist.fr"
+	],
+  "pkb": true,
+  "recognize": {
+    "rid": [
+      "title_id",
+      "unitid"
+    ],
+    "rtype": [
+      "TOC",
+      "ARTICLE"
+    ],
+    "mime": [
+      "MISC",
+      "PDF",
+      "HTML"
+    ]
+  }
+}

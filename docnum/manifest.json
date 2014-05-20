@@ -1,0 +1,25 @@
+{
+  "name": "docnum",
+  "version": "2014-04-23",
+  "status": "beta",
+  "longname": "docnum",
+  "describe": "Identifie les consultations du serveur de diffusion de l'archive institutionnelle de l'université de Lorraine : Petale",
+  "docurl": "http://analogist.couperin.org/platforms/docnum/",
+  "contact": "thomas.porquet at couperin point org",
+	"domains": [
+    "docnum.univ-lorraine.fr"
+	],
+  "pkb": true,
+  "recognize": {
+    "rid": [
+      "unitid",
+      "title_id"
+    ],
+    "rtype": [
+      "BOOK"
+    ],
+    "mime": [
+      "PDF"
+    ]
+  }
+}

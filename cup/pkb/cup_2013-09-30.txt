@@ -1,0 +1,396 @@
+publication_title	print_identifier	online_identifier	date_first_issue_online	num_first_vol_online	num_first_issue_online	date_last_issue_online	num_last_vol_online	num_last_issue_online	title_url	first_author	title_id	embargo_info	coverage_depth	coverage_notes	publisher_name	publication_type	date_monograph_published_print	date_monograph_published_online	monograph_volume	monograph_edition	first_editor	parent_publication_title_id	preceding_publication_title_id	access_type
+Abstracts of Working Papers in Economics	0951-0079	1471-6410									PYE													
+Acta Neuropsychiatrica	0924-2708	1601-5215									NEU													
+Acta Numerica	0962-4929	1474-0508									ANU													
+Advances in Animal Biosciences	2040-4700	2040-4719									ABS													
+Africa	0001-9720	1750-0184									AFR													
+Africa Bibliography	0266-6731	1757-1642									AFB													
+African Studies Review	1597-0337	1597-0337									ASR													
+Ageing & Society	0144-686X	1469-1779									ASO													
+AI EDAM	0890-0604	1469-1760									AIE													
+AJS Review	0364-0094	1475-4541									AJS													
+Albion	0095-1390	2326-1242									ALB													
+American Journal of Alternative Agriculture	0889-1893	1478-5498									AJA													
+American Political Science Review	0003-0554	1537-5943									PSR													
+Anatolian Studies	0066-1546	2048-0849									ANK													
+Ancient Mesoamerica	0956-5361	1469-1787									ATM													
+Anglo-Saxon England	0263-6751	1474-0532									ASE													
+animal											ANM													
+Animal Genetic Resources / Resources génétiques animales / Recursos genéticos animales (formerly Animal Genetic Resources Information Volumes 1 (1983) - 45 (2009))	2078-6336	2078-6344									AGR													
+Animal Health Research Reviews	1466-2523	1475-2654									AHR													
+Animal Science (formerly Animal Production Volumes 1 (1959) - 59 (1994))	1357-7298	1748-748X									ASC													
+Annales de Limnologie - International Journal of Limnology	0003-4088	2100-000X									ANL													
+Annals of Actuarial Science	1748-4995	1748-5002									AAS													
+Annual of the British School at Athens	0068-2454	2045-2403									ATH													
+Annual Review of Applied Linguistics	0267-1905	1471-6356									APL													
+Antarctic Science	0954-1020	1365-2079									ANS													
+Applied Psycholinguistics	0142-7164	1469-1817									APS													
+APSIPA Transactions on Signal and Information Processing	2048-7703										SIP													
+Aquatic Living Resources	0990-7440	1765-2952									ALR													
+Arabic Sciences and Philosophy	0957-4239	1474-0524									ASP													
+Arbor Clinical Nutrition Updates	1446-5450	1446-5450									ACN													
+Archaeologia	0261-3409	2051-3186									ACH													
+Archaeological Dialogues	1380-2038	1478-2294									ARD													
+Archaeological Reports	0570-6084	2041-4102									ARE													
+arq: Architectural Research Quarterly	1359-1355	1474-0516									ARQ													
+Asian Journal of International Law	2044-2513	2044-2521									AJL													
+Asian Journal of Law and Society	 2044-2513	2044-2521									ALS													
+ASTIN Bulletin	0515-0361	 1783-1350									ASB													
+Australasian Journal of Special Education	1030-0112	1833-6914									JSE													
+Australian and New Zealand Journal of Family Therapy	0814-723X	1467-8438									AFT													
+Australian Journal of Environmental Education	0814-0626	2049-775X									AEE													
+Australian Journal of Guidance and Counselling	1037-2911	1839-2520									JGC													
+Austrian History Yearbook	 0067-2378	1558-5255									AHY													
+Behavioral and Brain Sciences	0140-525X	1469-1825									BBS													
+Behaviour Change	0813-4839	2049-7768									BEC													
+Behavioural and Cognitive Psychotherapy (formerly Behavioural Psychotherapy Volumes 6 (1978) - 21 issue 2 (1993), B.A.B.P. Bulletin Volumes 1 (1973) - 5 (1977))	1352-4658	1469-1833									BCP													
+Bilingualism: Language and Cognition	1366-7289	1469-1841									BIL													
+Biofilms	1479-0505	1479-0513									BFM													
+BioSocieties	1745-8552	1745-8560									BIO													
+Bird Conservation International	0959-2709	1474-0001									BCI													
+Brain Impairment	1443-9646	1839-5252									BIM													
+Breast Cancer Online		1470-9031									BCO													
+Britannia	0068-113X	1753-5352									BRI													
+British Actuarial Journal (formerly Journal of the Institute of Actuaries merged with Transactions of the Faculty of Actuaries in 1995 to form the current title)	1357-3217	2044-0456									BAJ													
+British Journal of Anaesthetic and Recovery Nursing	1742-6456	1744-2192									ARN													
+British Journal of Music Education	0265-0517	1469-2104									BME													
+British Journal of Nutrition	 0007-1145	1475-2662									BJN													
+British Journal of Political Science	0007-1234	1469-2112									JPS													
+BSAP Occasional Publication	 0263-967X										OBA													
+Bulletin International des Societes de la Croix-Rouge (formerly Bulletin International des Societes de Secours aux Militaires Blesses Volumes 1-16 (1869-1885) )	1816-9686	1816-9686									BRC													
+Bulletin of Entomological Research	 0007-4853	1475-2670									BER													
+Bulletin of Entomological Research Supplement Series	 1367-4269										BES													
+Bulletin of Symbolic Logic	1079-8986										BSL													
+Bulletin of the Australian Mathematical Society	0004-9727	1755-1633									BAZ													
+Bulletin of the British Association for American Studies	0524-5001	 0524-5001									BMS													
+Bulletin of the British Society for the History of Science	0950-5636	0950-5636									BBH													
+Bulletin of the International Institute of Social History	1873-0841	1873-0841									BSH													
+Bulletin of the School of Oriental and African Studies	0041-977X 	1474-0699									BSO													
+Business History Review (formerly Bulletin of the Business Historical Society Volumes 1 (1926) - 27 (1953))	0007-6805	 2044-768X									BHR													
+Cambridge Archaeological Journal	0959-7743	1474-0540									CAJ													
+Cambridge Historical Journal	 1474-6913	1474-6913									CHJ													
+Cambridge Journal of Postcolonial Literary Inquiry	2052-2614	2052-2622									PLI													
+Cambridge Opera Journal	0954-5867	1474-0621									OPR													
+Cambridge Quarterly of Healthcare Ethics	0963-1801	1469-2147									CGH													
+Camden Fifth Series (formerly Camden Fourth Series Volumes 1 (1964) - 44 (1992), Camden Third Series Volumes 1 (1900) - 94 (1963), Camden New Series Volumes 1 (1871) - 62 (1901), Camden Old Series Volumes 1 (1838) - 105 (1872))	0960-1163 	1478-5110									RHC													
+Camden Fourth Series (formerly Camden Third Series Volumes 1 (1900) - 94 (1963), Camden New Series Volumes 1 (1871) - 62 (1901), Camden Old Series Volumes 1 (1838) - 105 (1872))	0068-6905	0068-6905									RHF													
+Camden New Series (formerly Camden Old Series Volumes 1 (1838) - 105 (1872))	2042-1702	2042-1702									RHN													
+Camden Old Series	2042-1699	2042-1699									RHO													
+Camden Third Series (formerly Camden New Series Volumes 1 (1871) - 62 (1901), Camden Old Series Volumes 1 (1838) - 105 (1872))	2042-1710	2042-1710									RHR													
+Canadian Journal of Law and Society / La Revue Canadienne Droit et Société	0829-3201	1911-0227									CLS													
+Canadian Journal of Political Science/Revue canadienne de science politique (formerly Canadian Journal of Economics and Political Science/Revue Canadienne de Economiques et Science Politique Volumes 1 (1935) - 33 (1967))	0008-4239	1744-9324									CJP													
+Canadian Journal on Aging/La Revue canadienne du vieillissement	0714-9808	1710-1107									CJG													
+Cardiology in the Young	1047-9511	1467-1107									CTY													
+Central European History	0008-9389	1569-1616									CCC													
+Children Australia	1035-0772	2049-7776									CHA													
+Chinese Journal of Agricultural Biotechnology	 1479-2362	1479-2362									CJA													
+Church History: Studies in Christianity and Culture	0009-6407	1755-2613									CHH													
+CNS Spectrums	1092-8529	2165-6509									CNS													
+Combinatorics, Probability and Computing	 0963-5483	1469-2163									CPC													
+Comparative Exercise Physiology (formerly Equine and Comparative Exercise Physiology Volumes 1 (2004) - 4 (2007))	1755-2540	1755-2559									CEP													
+Comparative Studies in Society and History	0010-4175	1475-2999									CSS													
+Compositio Mathematica	0010-437X	1570-5846									COM													
+Contemporary European History	0960-7773	1469-2171									CEH													
+Continuity and Change	0268-4160	1469-218X									CON													
+CORD Conference Proceedings	2049-1255 										COR													
+Dance Research Journal	0149-7677	1940-509X									DRJ													
+Development and Psychopathology	0954-5794	1469-2198									DPP													
+Dialogue: Canadian Philosophical Review/Revue canadienne de philosophie	0012-2173	1759-0949									DIA													
+Diamond Light Source Proceedings		 2044-8201									DLS													
+Disaster Medicine and Public Health Preparedness	1935-7893	1938-744X									DMP													
+Du Bois Review: Social Science Research on Race	 1742-058X	1742-0598									DBR													
+Early Music History	0261-1279	1474-0559									EMH													
+Earth and Environmental Science Transactions of the Royal Society of Edinburgh (formerly Transactions of the Royal Society of Edinburgh: Earth Sciences Volumes 71 (1980) - 97 (2006), Transactions of the Royal Society of Edinburgh Volumes 1 (1788) - 70 (1979))	1755-6910	1755-6929									TRE													
+Ecclesiastical Law Journal	0956-618X	1751-8539									ELJ													
+Econometric Theory	0266-4666	1469-4360									ECT													
+Economics and Philosophy	0266-2671	1474-0028									EAP													
+Edinburgh Journal of Botany	0960-4286	1474-0036									EJB													
+Edinburgh Mathematical Notes	0950-1843	0950-1843									MAN													
+Eighteenth-Century Music	1478-5706	1478-5714									ECM													
+English Language and Linguistics	1360-6743	1469-4379									ELL													
+English Profile Journal		2041-5362									EPJ													
+English Today	0266-0784	1474-0567									ENG													
+Environment and Development Economics	1355-770X	1469-4395									EDE													
+Environmental Biosafety Research	1635-7922	1635-7930									EBS													
+Environmental Conservation	0376-8929	1469-4387									ENC													
+Environmental Practice	1466-0466	1466-0474									ENP													
+Epidemiology & Infection (formerly Journal of Hygiene Volumes 1 (1901) - 97 (1986))	0950-2688	1469-4409									HYG													
+Epidemiology and Psychiatric Sciences (formerly Epidemiologia e Psichiatria Sociale Volumes 1 (1992) - 19 (2010))	2045-7960	2045-7979									EPS													
+Episteme	1742-3600	1750-0117									EPI													
+Equine and Comparative Exercise Physiology	1478-0615	1479-070X									ECP													
+Ergodic Theory and Dynamical Systems	0143-3857	1469-4417									ETS													
+ESAIM: Control, Optimisation and Calculus of Variations	1292-8119	1262-3377									COV													
+ESAIM: Mathematical Modelling and Numerical Analysis	0764-583X	1290-3841									MZA													
+ESAIM: Probability and Statistics	1292-8100	1262-3318									PSS													
+Ethics & International Affairs	0892-6794	1747-7093									EIA													
+European Astronomical Society Publications Series	1633-4760	1638-1963									EAS													
+European Business Organization Law Review (EBOR)	1566-7529	1741-6205									EBR													
+European Constitutional Law Review (EuConst)	1574-0196	1744-5515									ECL													
+European Journal of Applied Mathematics	0956-7925	1469-4425									EJM													
+European Journal of Sociology / Archives Européennes de Sociologie	0003-9756	1474-0583									EUR													
+European Political Science Review	1755-7739	1755-7747									EPR													
+European Review	1062-7987	1062-7987									ERW													
+Experimental Agriculture	 0014-4797	1469-4441									EAG													
+Expert Reviews in Molecular Medicine		1462-3994									ERM													
+Fetal and Maternal Medicine Review	0965-5395	1469-5065									FMR													
+Financial History Review	0968-5650	1474-0052									FHR													
+Foreign Policy Bulletin	1052-7036	1745-1302									FPB													
+Forum of Mathematics, Pi	2050-5086										FMP													
+Forum of Mathematics, Sigma	2050-5094										FMS													
+Fruits	 0248-1294	1625-967X									FRU													
+Genetics Research (formerly Genetical Research Volumes 1 (1960) - 89 (2007))	0016-6723	1469-5073									GRH													
+Geological Magazine	0016-7568	1469-5081									GEO													
+Glasgow Mathematical Journal (formerly Proceedings of the Glasgow Mathematical Association Volumes 1 (1952) - 7 (1966))	0017-0895	1469-509X									GMJ													
+Global Constitutionalism	2045-3817	2045-3825									GCN													
+Government and Opposition	0017-257X	1477-7053									GOV													
+Greece & Rome	0017-3835	1477-4550									GAR													
+Hague Journal on the Rule of Law	1876-4045	1876-4053									ROL													
+Harvard Theological Review	0017-8160	1475-4517									HTR													
+Health Economics, Policy and Law	1744-1331	1744-134X									HEP													
+Hegel Bulletin (formerly Bulletin of the Hegel Society of Great Britain Volumes 1 issue 1 (1980) - 33 issue 66 (2012))	2051-5367	2051-5375									HGL													
+High Power Laser Science and Engineering	2095-4719	2052-3289									HPL													
+History in Africa	0361-5413	1558-2744									HIA													
+Horizons	0360-9669	2050-8557									HOR													
+International & Comparative Law Quarterly	0020-5893	1471-6895									ILQ													
+International Journal of Astrobiology	1473-5504	1475-3006									IJA													
+International Journal of Cultural Property	0940-7391	1465-7317									JCP													
+International Journal of Disability Management	1833-8550	1834-4887									IDM													
+International Journal of Law in Context	1744-5523	1744-5531									IJC													
+International Journal of Metrology and Quality Engineering	2107-6839	2107-6847									MQE													
+International Journal of Microwave and Wireless Technologies	1759-0787	1759-0795									MRF													
+International Journal of Middle East Studies	0020-7438	1471-6380									MES													
+International Journal of Technology Assessment in Health Care	0266-4623	1471-6348									THC													
+International Journal of Tropical Insect Science (formerly Insect Science and It's Application Volumes 1 (1980) - 23 (2003))	1742-7584	1742-7592									JTI													
+International Labor and Working-Class History (formerly Newsletter European Labor and Working Class History Volumes 1 (1972) - 8 (1975))	0147-5479	1471-6445									ILW													
+International Organization	0020-8183	1531-5088									INO													
+International Psychogeriatrics	1041-6102	1741-203X									IPG													
+International Review for Social History	1873-0841	1873-0841									IRS													
+International Review of Poultry Science	1877-9654	1877-9654									IPS													
+International Review of Social History (formerly Bulletin of the International Review of Social History Volumes 1 (1937) - 10 (1955))	0020-8590	1469-512X									ISH													
+International Review of the Red Cross (1961 - 1997)	0020-8604										RCE													
+International Review of the Red Cross (formerly Revue Internationale de la Croix-Rouge/International Review of the Red Cross Volumes 81-86 (1999-2004), Revue Internationale de la Croix-Rouge Volumes 37.7-80 (1955-1998), Revue Internationale de la Croix-Rouge et Bulletin International des Societes de la Croix-Rouge Volumes 1-37.6 (1919-1955))	1816-3831	1607-5889									IRC													
+International Theory	1752-9719	1752-9727									INT													
+Iraq	0021-0889	2053-4744									IRQ													
+Irish Journal of Psychological Medicine	0790-9667	2051-6967									IPM													
+Israel Law Review	0021-2237	2047-9336									ISR													
+Itinerario	0165-1153	2041-2827									ITI													
+Japanese Journal of Political Science	1468-1099	1474-0060									JJP													
+Journal of African Law	0021-8553	1464-3731									JAL													
+Journal of American Studies (formerly Bulletin of the British Association for American Studies Volumes 1 (1956) - 9 (1959) and New Series Volumes 1 (1960) - 12/13 (1966))	0021-8758	1469-5154									AMS													
+Journal of Anglican Studies	1740-3553	1745-5278									AST													
+Journal of Applied Animal Nutrition		2049-257X									JAN													
+Journal of Biosocial Science	0021-9320	1469-7599									JBS													
+Journal of British Studies	0021-9371	1545-6986									JBR													
+Journal of Child Language	0305-0009	1469-7602									JCL													
+Journal of Dairy Research	0022-0299	1469-7629									DAR													
+Journal of Dentofacial Anomalies and Orthodontics	2110-5715										DAO													
+Journal of Developmental Origins of Health and Disease	2040-1744	2040-1752									DOH													
+Journal of Diagnostic Radiography and Imaging	1460-4728	1467-1123									JDR													
+Journal of Experimental Political Science	2052-2630	2052-2649									XPS													
+Journal of Financial and Quantitative Analysis	0022-1090	1756-6916									JFQ													
+Journal of Fluid Mechanics	0022-1120	1469-7645									FLM													
+Journal of French Language Studies	0959-2695	1474-0079									JFL													
+Journal of Functional Programming	0956-7968	1469-7653									JFP													
+Journal of Germanic Linguistics (formerly American Journal of Germanic Linguistics and Literatures Volumes 1 (1989) - 12 (2000))	1470-5427	1475-3014									JGL													
+Journal of Global History	1740-0228	1740-0236									JGH													
+Journal of Helminthology	0022-149X	1475-2697									JHL													
+Journal of Hospitality and Tourism Management (formerly Australian Journal of Hospitality Management)	1447-6770	1839-5260									JHT													
+Journal of Institutional Economics	1744-1374	1744-1382									JOI													
+Journal of K-Theory	1865-2433	1865-5394									KAG													
+Journal of Latin American Studies	0022-216X	1469-767X									LAS													
+Journal of Law and Religion	0748-0814										JLR													
+Journal of Linguistic Geography		2049-7547									JLG													
+Journal of Linguistics	0022-2267	1469-7742									LIN													
+Journal of Management & Organization	1833-3672										JMO													
+Journal of Materials Research	0884-2914	2044-5326									JMR													
+Journal of Mechanics	1727-7191	1811-8216									JOM													
+Journal of Nutritional Science	2048-6790										JNS													
+Journal of Pacific Rim Psychology		1834-4909									PRP													
+Journal of Pension Economics and Finance	1474-7472	1475-3022									PEF													
+Journal of Plasma Physics	0022-3778	1469-7807									PLA													
+Journal of Policy History	0898-0306	1528-4190									JPH													
+Journal of Psychiatric Intensive Care	1742-6464	1744-2206									JPI													
+Journal of Public Policy	0143-814X	1469-7815									PUP													
+Journal of Radiotherapy in Practice	1460-3969	1467-1131									JRP													
+Journal of Relationships Research		1838-0956									JRR													
+Journal of Smoking Cessation	1834-2612	1834-2612									JSC													
+Journal of Social Policy	0047-2794	1469-7823									JSP													
+Journal of Southeast Asian History	0217-7811	0217-7811									SEH													
+Journal of Southeast Asian Studies (formerly Journal of Southeast Asian History Volumes 1 (1960) - 10 (1969))	0022-4634	1474-0680									SEA													
+Journal of Symbolic Logic	0022-4812										JSL													
+Journal of the American Philosophical Association											APA													
+Journal of the Australian Mathematical Society (formerly Journal of the Australian Mathematical Society. Series A. Pure Mathematics and Statistics Volumes 29 (1980) - 69 (2000), Journal of the Australian Mathematical Society. Series A. Pure Mathematics Volumes 19 (1975) - 28 (1979))											JAZ													
+Journal of the History of Economic Thought (formerly History of Economics Society Bulletin Volumes 1 (1979) - 11 (1989))											HET													
+Journal of the Institute of Actuaries											JIA													
+Journal of the Institute of Mathematics of Jussieu											JMJ													
+Journal of the International Neuropsychological Society											INS													
+Journal of the International Phonetic Association											IPA													
+Journal of the Marine Biological Association of the United Kingdom											MBI													
+Journal of the Plainsong & Medieval Music Society											JPM													
+Journal of the Royal Asiatic Society (formerly Journal of the Royal Asiatic Society of Great Britain and Ireland Volumes 1 (1834) - vol 20 (1863) and New Series vol 1 (1864) - vol 122 (1990), Transactions of the Royal Asiatic Society Volumes 1 (1827) - 3 (1834))											JRA													
+Journal of the Society for American Music											SAM													
+Journal of Tropical Ecology	0266-4674	1469-7831									TRO													
+Journal of Tropical Psychology		1838-9902									JTP													
+Journal of Wine Economics	1931-4361	1931-437X									JWE													
+Kantian Review	1369-4154	2044-2394									KRV													
+Language and Cognition	1866-9859	1866-9859									LCO													
+Language in Society	0047-4045	1469-8013									LSY													
+Language Teaching (formerly Language Teaching & Linguistics: Abstracts Volumes 8 (1975) - 14 (1981), Language Teaching: Abstracts Volumes 1 (1968) - 7 (1974))	0261-4448	1475-3049									LTA													
+Language Variation and Change	0954-3945	1469-8021									LVC													
+Laser and Particle Beams	0263-0346	1469-803X									LPB													
+Law and History Review	0738-2480	1939-9022									LHR													
+Legal Information Management	1472-6696	1741-2021									LIM													
+Legal Theory	1352-3252	1469-8048									LEG													
+Leiden Journal of International Law	0922-1565	1478-9698									LJL													
+Libyan Studies	0263-7189	2052-6148									LIS													
+LMS Journal of Computation and Mathematics	1461-1570	1461-1570									JCM													
+Macroeconomic Dynamics	1365-1005	1469-8056									MDY													
+Marine Biodiversity Records		1755-2672									MBD													
+Mathematical Modelling of Natural Phenomena	0973-5348	1760-6101									MNP													
+Mathematical Proceedings of the Cambridge Philosophical Society	0305-0041	1469-8064									PSP													
+Mathematical Structures in Computer Science	0960-1295	1469-8072									MSC													
+Mathematika	0025-5793	2041-7942									MTK													
+Mechanics & Industry	2257-7777	2257-7750									MIN													
+Medical History	0025-7273	2048-8343									MDH													
+Microscopy and Microanalysis	1431-9276	1435-8115									MAM													
+Modern Asian Studies	0026-749X	1469-8099									ASS													
+Modern Intellectual History	1479-2443	1479-2451									MIH													
+MRS Bulletin	0883-7694	1938-1425									MRS													
+MRS Communications	2159-6859	2159-6867									MRC													
+MRS Energy & Sustainability  A Review Journal	2329-2229	2329-2237									MRE													
+MRS Online Proceedings Library	1946-4274										OPL													
+Natural Language Engineering	1351-3249	1469-8110									NLE													
+Netherlands International Law Review (formerly Nederlands Tijdschrift voor Internationaal Recht Volumes 1 (1953) - 21 (1974))	0165-070X	1741-6191									NLR													
+Netherlands Yearbook of International Law	0167-6768	1574-0951									NYL													
+Network Science	2050-1242	2050-1250									NWS													
+Neuron Glia Biology	1740-925X	1741-0533									NGB													
+New Surveys in the Classics	0533-2451	2052-8531									NSY													
+New Testament Studies	0028-6885	1469-8145									NTS													
+New Theatre Quarterly	0266-464X	1474-0613									NTQ													
+Nineteenth-Century Music Review	1479-4098	2044-8414									NCM													
+Nordic Journal of Linguistics	0332-5865	1502-4717									NJL													
+Nurse Prescriber		1467-1158									NPR													
+Nutrition Research Reviews	0954-4224	1475-2700									NRR													
+Organised Sound	1355-7718	1469-8153									OSO													
+Oryx	0030-6053	1365-3008									ORX													
+Palliative & Supportive Care	1478-9515	1478-9523									PAX													
+Papers of the American Society of Church History	1079-9028	1079-9028									PCH													
+Papers of the British School at Rome	0068-2462	2045-239X									ROM													
+Parasitology	0031-1820	1469-8161									PAR													
+PASA - Publications of the Astronomical Society of Australia	1323-3580	1448-6083									PAS													
+Perspectives on Politics	1537-5927	1541-0986									PPS													
+Philosophy	0031-8191	1469-817X									PHI													
+Phonology	0952-6757	1469-8188									PHO													
+Plainsong and Medieval Music (formerly Journal of the Plainsong & Mediaeval Music Society Volumes 1 (1978) - 13 (1990))	0961-1371	1474-0087									PMM													
+Plant Genetic Resources	1479-2621	1479-263X									PGR													
+Polar Record	0032-2474	1475-3057									POL													
+Political Science Research and Methods	2049-8470	2049-8489									RAM													
+Politics & Gender	1743-923X	1743-9248									PAG													
+Politics and Religion	1755-0483	1755-0491									RAP													
+Popular Music	0261-1430	1474-0095									PMU													
+Powder Diffraction	0885-7156	1945-7413									PDJ													
+Prehospital and Disaster Medicine	1049-023X	1945-1938									PDM													
+Primary Health Care Research & Development	1463-4236	1477-1128									PHC													
+Probability in the Engineering and Informational Sciences	0269-9648	1469-8951									PES													
+Proceedings of the British Society of Animal Production	0308-2296	0308-2296									PBA													
+Proceedings of the Edinburgh Mathematical Society	0013-0915	1464-3839									PEM													
+Proceedings of the International Astronomical Union	1743-9213	1743-9221									IAU													
+Proceedings of the Nutrition Society	0029-6651	1475-2719									PNS													
+Proceedings of the Prehistoric Society of East Anglia	0958-8418										PPE													
+Proceedings of the Prehistoric Society (formerly Proceedings of the Prehistoric Society of East Anglia Volumes 1 (1911) - 7 (1934))	0079-497x	2050-2729									PPR													
+Proceedings of the Royal Society of Edinburgh	0370-1646	0370-1646									PRE													
+Proceedings of the Royal Society of Edinburgh Section B: Biological Sciences (formerly Proceedings of the Royal Society of Edinburgh. Section B. Natural Environment Volumes 75 (1975-1976), Proceedings of the Royal Society of Edinburgh. Section B. Biology Volumes 41(1941) - 74 (1974), Proceedings of the Royal Society of Edinburgh Volumes 1 (1844) - 60 (1940))	0269-7270	0269-7270									PRB													
+Proceedings of the Royal Society of Edinburgh, Section: A Mathematics (formerly Proceedings of the Royal Society of Edinburgh, Section A: Mathematical and Physical Sciences Volumes 61 (1941) - 71 (1974), Proceedings of the Royal Society of Edinburgh Volumes 1 (1844) - 60 (1940))	0308-2105	1473-7124									PRM													
+Proceedings of the Society of Antiquaries of London	0950-7973										PNT													
+Progress in Neurotherapeutics and Neuropsychopharmacology	1748-2321	1748-233X									PNN													
+Prospects	0361-2333	1471-6399									PTS													
+PS: Political Science & Politics (formerly PS Volumes 1 (1968) - 20 (1987))	1049-0965	1537-5935									PSC													
+Psychological Medicine	0033-2917	1469-8978									PSM													
+Psychological Medicine Monograph Supplement	0264-1801	0264-1801									PMS													
+Public Health Nutrition	1368-9800	1475-2727									PHN													
+Quarterly Reviews of Biophysics	0033-5835	1469-8994									QRB													
+Queensland Review	0399-0559	1290-3868									QRE													
+Radioprotection	0033-8451	1769-700X									RAD													
+RAIRO - Theoretical Informatics and Applications	0988-3754	1290-385X									ITA													
+RAIRO. Operations research	0399-0559	1290-3868									ROE													
+ReCALL	0958-3440	1474-0109									REC													
+Religious Studies	0034-4125	1469-901X									RES													
+Renewable Agriculture and Food Systems (formerly American Journal of Alternative Agriculture Volumes 1 (1986) - 18 (2003))	1742-1705	1742-1713									RAF													
+Reproductive Medicine Review	0962-2799	1469-9028									RMR													
+Review of International Studies (formerly British Journal of International Studies Volumes 1 (1975) - 6 (1980))	0260-2105	1469-9044									RIS													
+Reviews in Clinical Gerontology	0959-2598	1469-9036									RCG													
+Revista de Historia Económica	0212-6109	2041-3335									RHE													
+Revista Internacional de la Cruz Roja	0250-569X	0250-569X									RCS													
+Revue de Métallurgie	0035-1563	1156-3141									MET													
+Robotica	0263-5747	1469-8668									ROB													
+Royal Institute of Philosophy Supplements	1358-2461	1755-3555									PHS													
+Rural History	0956-7933	1474-0656									RUH													
+Science in Context	0269-8897	1474-0664									SIC													
+Scottish Journal of Theology	0036-9306	1475-3065									SJT													
+Seed Science Research	0960-2585	1475-2735									SSR													
+Social Anthropology	0964-0282	1469-8676									SAN													
+Social Philosophy and Policy	0265-0525	1471-6437									SOY													
+Social Policy and Society	1474-7464	1475-3073									SPS													
+Speculum	0038-7134	2040-8072									SPC													
+Studies in American Political Development	0898-588X	1469-8692									SAP													
+Studies in Second Language Acquisition	0272-2631	1470-1545									SLA													
+Tempo	0040-2982	1478-2286									TEM													
+Thalamus & Related Systems	1472-9288	1744-8107									THL													
+The Antiquaries Journal	0003-5815	1758-5309									ANT													
+The ANZIAM Journal (formerly The Journal of the Australian Mathematical Society. Series B. Applied Mathematics Volumes 19 (1975) - 41 (April 2000). Split from The Journal of the Australian Mathematical Society in 1975.)	1446-1811	1446-8735									ANZ													
+The Australian and New Zealand Journal of Organisational Psychology		1835-7601									ORP													
+The Australian Educational and Developmental Psychologist	0816-5122	1839-2504									EDP													
+The Australian Journal of Indigenous Education	1326-0111	2049-7784									JIE													
+The Australian Journal of Rehabilitation Counselling	1323-8922	1838-6059									JRC													
+The British Journal for the History of Science (formerly Bulletin of the British Society for the History of Science Volumes 1 (1949) - 2 (1961). Both volumes have 10 issues each.)	0007-0874	1474-001X									BJH													
+The Cambridge Classical Journal (formerly Proceedings of the Cambridge Philological Society Volumes 1 (1882) - 180 (1951) and Volumes 1 New Series (1952) - 50 (2004))	1750-2705	2047-993X									CCJ													
+The Cambridge Law Journal	0008-1973	1469-2139									CLJ													
+The Canadian Entomologist	0008-347X	1918-3240									TCE													
+The China Quarterly	0305-7410	1468-2648									CQY													
+The Classical Quarterly	0009-8388	1471-6844									CAQ													
+The Classical Review	0009-840X	1464-3561									CAR													
+the Cognitive Behaviour Therapist		1754-470X									CBT													
+The European Physical Journal - Applied Physics	1286-0042	1286-0050									JAP													
+The Geologist	1359-4656										GLO													
+The Historical Journal (formerly Cambridge Historical Journal Volumes 1 (1923) - 13 (1957))	0018-246X	1469-5103									HIS													
+The International Journal of Asian Studies	1479-5914	1479-5922									ASI													
+The International Journal of Neuropsychopharmacology	1461-1457	1469-5111									PNP													
+The Journal of African History	1461-1457	1469-5111									AFH													
+The Journal of Agricultural Science	0021-8596	1469-5146									AGS													
+The Journal of Asian Studies (formerly Far Eastern Quarterly Volumes 1 (1941) - 15 (1956))	0021-9118	1752-0401									JAS													
+The Journal of Ecclesiastical History	0022-0469	1469-7637									ECH													
+The Journal of Economic History	0022-0507	1471-6372									JEH													
+The Journal of Hellenic Studies	0075-4269	2041-4099									JHS													
+The Journal of Laryngology & Otology (formerly The Journal of Laryngology, Rhinology, and Otology Volumes 6 (1892) - 35 (1920), The Journal of Laryngology and Rhinology Volumes 1 (1887) - 5 (1891))	0022-2151	1748-5460									JLO													
+The Journal of Modern African Studies	0022-278X	1469-7777									MOA													
+The Journal of Navigation	0373-4633	1469-7785									NAV													
+The Journal of Politics	0022-3816	1468-2508									JOP													
+The Journal of Roman Studies	0075-4358	1753-528X									JRS													
+The Journal of the Gilded Age and Progressive Era	1537-7814	1943-3557									JGA													
+The Knowledge Engineering Review	0269-8889	1469-8005									KER													
+The Lichenologist	0024-2829	1096-1135									LIC													
+The Review of Politics	0034-6705	1748-6858									ROP													
+The Review of Symbolic Logic	1755-0203	1755-0211									RSL													
+The Spanish Journal of Psychology	1138-7416	1988-2904									SJP													
+Theatre Research International	 0307-8833	1474-0672									TRI													
+Theatre Survey	 0040-5574	1475-4533									TSY													
+Theory and Practice of Logic Programming	1471-0684	1475-3081									TLP													
+Think	1477-1756	1755-1196									THI													
+TRaNS: Trans-Regional and -National Studies of Southeast Asia	2051-364X	2051-3658									TRN													
+Transactions of the Actuarial Society of Edinburgh	2046-0562										TAS													
+Transactions of the Faculty of Actuaries	0071-3686										TFA													
+Transactions of the Royal Asiatic Society of Great Britain and Ireland	0950-4737	0950-4737									TRA													
+Transactions of the Royal Historical Society	0080-4401	1474-0648									RHT													
+Transnational Environmental Law	2047-1025	2047-1033									TEL													
+Twentieth-Century Music	1478-5722	1478-5730									TCM													
+Twin Research and Human Genetics (formerly Twin Research Volumes 1 (1998) - 7 (2004), Acta geneticae medicae et gemellologiae: twin research Volumes 28 (1979) - 47 (1998), Acta geneticae medicae et gemellologiae Volumes 1 (1952) - 27 (1978))	1832-4274	1839-2628									THG													
+Urban History (formerly Urban History Yearbook Volumes 1 (1974) - 18 (1991))	0963-9268	1469-8706									UHY													
+Utilitas	0953-8208	1741-6183									UTI													
+Victorian Literature and Culture (formerly Browning Institute Studies Volumes 1 (1973) - 18 (1990))	1060-1503	1470-1553									VLC													
+Visual neuroscience	0952-5238	1469-8714									VNS													
+Wireless Power Transfer	2052-8418	2052-8418									WPT													
+World Politics	0043-8871	1086-3338									WPO													
+World Trade Review	1474-7456	1475-3138									WTR													
+World's Poultry Science Journal (formerly International Review of Poultry Science Volumes 1 (1928) - 13 (1940))	0043-9339	1743-4777									WPS													
+Yearbook of International Humanitarian Law	1389-1359	1574-096X									YHL													
+Zygote	0967-1994	1469-8730									ZYG													

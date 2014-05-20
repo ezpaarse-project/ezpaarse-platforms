@@ -1,0 +1,46 @@
+publication_title	print_identifier	online_identifier	date_first_issue_online	num_first_vol_online	num_first_issue_online	date_last_issue_online	num_last_vol_online	num_last_issue_online	title_url	first_author	title_id	embargo_info	coverage_depth	coverage_notes	publisher_name
+Annual Review of Analytical Chemistry	1936-1327	1936-1335									anchem				
+Annual Review of Animal Biosciences	2165-8102	2165-8110									animal				
+Annual Review of Anthropology	0084-6570	1545-4290									anthro				
+Annual Review of Astronomy and Astrophysics	0066-4146	1545-4282									astro				
+Annual Review of Biochemistry	0066-4154	1545-4509									biochem				
+Annual Review of Biomedical Engineering	1523-9829	1545-4274									bioeng				
+Annual Review of Biophysics	1936-122x	1936-1238									biophys				
+Annual Review of Cell and Developmental Biology	1081-0706	1530-8995									cellbio				
+Annual Review of Chemical and Biomolecular Engineering	1947-5438	1947-5446									chembioeng				
+Annual Review of Clinical Psychology	1548-5943	1548-5951									clinpsy				
+Annual Review of Computer Science	8756-7016										arcompsci				
+Annual Review of Condensed Matter Physics	1947-5454	1947-5462									conmatphys				
+Annual Review of Earth and Planetary Sciences	0084-6597	1545-4495									earth				
+Annual Review of Ecology, Evolution and Systematics	1543-592X	1545-2069									ecolsys				
+Annual Review of Economics	1941-1383	1941-1391									economics				
+Annual Review of Entomology	0066-4170	1545-4487									ento				
+Annual Review of Environment and Resources	1543-5938	1545-2050									energy				
+Annual Review of Financial Economics	1941-1367	1941-1375									financial				
+Annual Review of Fluid Mechanics	0066-4189	1545-4479									fluid				
+Annual Review of Food Science and Technology	1941-1413	1941-1421									food				
+Annual Review of Genetics	0066-4197	1545-2948									genet				
+Annual Review of Genomics and Human Genetics	1527-8204	1545-293x									genom				
+Annual Review of Immunology	0732-0582	1545-3278									immunol				
+Annual Review of Law and Social Science	1550-3585	1550-3631									lawsocsci				
+Annual Review of Marine Science	1941-1405	1941-0611									marine				
+Annual Review of Materials Research	1531-7331	1545-4118									matsci				
+Annual Review of Medicine	0066-4219	1545-326x									med				
+Annual Review of Microbiology	0066-4227	1545-3251									micro				
+Annual Review of Neuroscience	0147-006X	1545-4126									neuro				
+Annual Review of Nuclear and Particle Science	0163-8998	1545-4134									nucl				
+Annual Review of Nutrition	0199-9885	1545-4312									nutr				
+Annual Review of Organizational Psychology and Organizational Behavior	2327-0608	2327-0616									orgpsych				
+Annual Review of Pathology: Mechanisms of Disease	1553-4006	1553-4014									pathmechdis				
+Annual Review of Pharmacology and Toxicology	0362-1642	1545-4304									pharmtox				
+Annual Review of Physical Chemistry	0066-426X	1545-1593									physchem				
+Annual Review of Physiology	0066-4278	1545-1585									physiol				
+Annual Review of Phytopathology	0066-4286	1545-2107									phyto				
+Annual Review of Plant Biology	1543-5008	1545-2123									arplant				
+Annual Review of Political Science	1094-2939	1545-1577									polisci				
+Annual Review of Psychology	0066-4308	1545-2085									psych				
+Annual Review of Public Health	0163-7525	1545-2093									publhealth				
+Annual Review of Resource Economics	1941-1340	1941-1359									resource				
+Annual Review of Sociology	0360-0572	1545-2115									soc				
+Annual Review of Statistics and Its Application	2326-8298	2326-831x									statistics				
+Annual Review of Virology	2327-056x	2327-0578									virology				

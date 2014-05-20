@@ -1,0 +1,149 @@
+publication_title	print_identifier	online_identifier	date_first_issue_online	num_first_vol_online	num_first_issue_online	date_last_issue_online	num_last_vol_online	num_last_issue_online	title_url	first_author	title_id	embargo_info	coverage_depth	coverage_notes	publisher_name
+Annales de Bretagne et des pays de l'Ouest		2108-6443							http://www.persee.fr/web/revues/home/prescript/revue/abpo		abpo				
+Annuaire Français de Droit International		2105-2948							http://www.persee.fr/web/revues/home/prescript/revue/afdi		afdi				
+Agora débats/jeunesses		1968-3758							http://www.persee.fr/web/revues/home/prescript/revue/agora		agora				
+Annales		1953-8146							http://www.persee.fr/web/revues/home/prescript/revue/ahess		ahess				
+Annales historiques de la Révolution française		1952-403X							http://www.persee.fr/web/revues/home/prescript/revue/ahrf		ahrf				
+Publications de l'Académie des Inscriptions et Belles-Lettres									http://www.persee.fr/web/revues/home/prescript/revue/aibl		aibl				
+Archéologie du Midi Médiéval									http://www.persee.fr/web/revues/home/prescript/revue/amime		amime				
+Annales de Normandie									http://www.persee.fr/web/revues/home/prescript/revue/annor		annor				
+Antiquités africaines		2117-539X							http://www.persee.fr/web/revues/home/prescript/revue/antaf		antaf				
+Arts Asiatiques		2111-4552							http://www.persee.fr/web/revues/home/prescript/revue/arasi		arasi				
+Archipel		2104-3655							http://www.persee.fr/web/revues/home/prescript/revue/arch		arch				
+Actes de la Recherche en Sciences Sociales		1955-2564							http://www.persee.fr/web/revues/home/prescript/revue/arss		arss				
+Aséanie, Sciences humaines en Asie du Sud-Est									http://www.persee.fr/web/revues/home/prescript/revue/asean		asean				
+Cahiers d'Extrême-Asie									http://www.persee.fr/web/revues/home/prescript/revue/asie		asie				
+Archives de Sciences Sociales des Religions		1777-5825							http://www.persee.fr/web/revues/home/prescript/revue/assr		assr				
+Bulletin de Correspondance Hellénique									http://www.persee.fr/web/revues/home/prescript/revue/bch		bch				
+Bibliothèque de l'École des chartes		1953-8138							http://www.persee.fr/web/revues/home/prescript/revue/bec		bec				
+Bulletin de l'École française d'Extrême-Orient		1760-737X							http://www.persee.fr/web/revues/home/prescript/revue/befeo		befeo				
+Bulletins et Mémoires de la Société d'Anthropologie de Paris		1777-5469							http://www.persee.fr/web/revues/home/prescript/revue/bmsap		bmsap				
+Bulletin de la Société préhistorique française		1760-7361							http://www.persee.fr/web/revues/home/prescript/revue/bspf		bspf				
+Bulletin de l'Association Guillaume Budé									http://www.persee.fr/web/revues/home/prescript/revue/bude		bude				
+Bulletin Monumental									http://www.persee.fr/web/revues/home/prescript/revue/bulmo		bulmo				
+Politiques sociales et familiales									http://www.persee.fr/web/revues/home/prescript/revue/caf		caf				
+Cahiers de l'AIEF		2076-8443							http://www.persee.fr/web/revues/home/prescript/revue/caief		caief				
+Caravelle. Cahiers du monde hispanique et luso-brésilien									http://www.persee.fr/web/revues/home/prescript/revue/carav		carav				
+Mélanges de la Casa de Velázquez									http://www.persee.fr/web/revues/home/prescript/revue/casa		casa				
+Cahiers du Centre Gustave Glotz		2117-5624							http://www.persee.fr/web/revues/home/prescript/revue/ccgg		ccgg				
+Cahiers de Civilisation Médiévale									http://www.persee.fr/web/revues/home/prescript/revue/ccmed		ccmed				
+Cahiers d'Études africaines		1777-5353							http://www.persee.fr/web/revues/home/prescript/revue/cea		cea				
+Cahiers d'Études Hispaniques Médiévales		2108-7083							http://www.persee.fr/web/revues/home/prescript/revue/cehm		cehm				
+Autres Temps									http://www.persee.fr/web/revues/home/prescript/revue/chris		chris				
+Cahiers de Linguistique - Asie Orientale		1960-6028							http://www.persee.fr/web/revues/home/prescript/revue/clao		clao				
+Cahiers du Monde Russe		1777-5388							http://www.persee.fr/web/revues/home/prescript/revue/cmr		cmr				
+Communication & Langages		1778-7459							http://www.persee.fr/web/revues/home/prescript/revue/colan		colan				
+Annuaire des Collectivités Locales		2102-5940							http://www.persee.fr/web/revues/home/prescript/revue/coloc		coloc				
+Communications		2102-5924							http://www.persee.fr/web/revues/home/prescript/revue/comm		comm				
+Comptes rendus des séances de l'Académie des Inscriptions et Belles-Lettres		1969-6663							http://www.persee.fr/web/revues/home/prescript/revue/crai		crai				
+Critique internationale		1777-554X							http://www.persee.fr/web/revues/home/prescript/revue/criti		criti				
+Dialogues d'histoire ancienne		1955-270X							http://www.persee.fr/web/revues/home/prescript/revue/dha		dha				
+Déviance et société									http://www.persee.fr/web/revues/home/prescript/revue/ds		ds				
+Ebisu - Études Japonaises									http://www.persee.fr/web/revues/home/prescript/revue/ebisu		ebisu				
+Revue d'économie financière		1969-6582							http://www.persee.fr/web/revues/home/prescript/revue/ecofi		ecofi				
+Économie & prévision		1777-5795							http://www.persee.fr/web/revues/home/prescript/revue/ecop		ecop				
+Économie rurale		2105-2581							http://www.persee.fr/web/revues/home/prescript/revue/ecoru		ecoru				
+Publications de l'École Française de Rome									http://www.persee.fr/web/revues/home/prescript/revue/efr		efr				
+Enfance		1969-6981							http://www.persee.fr/web/revues/home/prescript/revue/enfan		enfan				
+Annuaires de l'École pratique des hautes études									http://www.persee.fr/web/revues/home/prescript/revue/ephe		ephe				
+Espaces Temps, les Cahiers									http://www.persee.fr/web/revues/home/prescript/revue/espat		espat				
+Espace Populations Sociétés		2104-3752							http://www.persee.fr/web/revues/home/prescript/revue/espos		espos				
+Économie et Statistique		1777-5574							http://www.persee.fr/web/revues/home/prescript/revue/estat		estat				
+Annales d'Éthiopie									http://www.persee.fr/web/revues/home/prescript/revue/ethio		ethio				
+Faits de langues		1958-9514							http://www.persee.fr/web/revues/home/prescript/revue/flang		flang				
+FLUX Cahiers scientifiques internationaux Réseaux et Territoires		1958-9557							http://www.persee.fr/web/revues/home/prescript/revue/flux		flux				
+GAIA. Revue interdisciplinaire sur la Grèce ancienne									http://www.persee.fr/web/revues/home/prescript/revue/gaia		gaia				
+Gallia		2109-9588							http://www.persee.fr/web/revues/home/prescript/revue/galia		galia				
+Gallia Préhistoire		2109-9642							http://www.persee.fr/web/revues/home/prescript/revue/galip		galip				
+Genèses. Sciences sociales et histoire		1776-2944							http://www.persee.fr/web/revues/home/prescript/revue/genes		genes				
+Annales de géographie		1777-5884							http://www.persee.fr/web/revues/home/prescript/revue/geo		geo				
+Géocarrefour		1960-601X							http://www.persee.fr/web/revues/home/prescript/revue/geoca		geoca				
+Les cahiers du GRIF									http://www.persee.fr/web/revues/home/prescript/revue/grif		grif				
+Histoire de l'éducation		2102-5452							http://www.persee.fr/web/revues/home/prescript/revue/hedu		hedu				
+Histoire Épistémologie Langage		1638-1580							http://www.persee.fr/web/revues/home/prescript/revue/hel		hel				
+Histoire, économie & société		1777-5906							http://www.persee.fr/web/revues/home/prescript/revue/hes		hes				
+Histoire & Mesure		1957-7745							http://www.persee.fr/web/revues/home/prescript/revue/hism		hism				
+Bulletin hispanique		1775-3821							http://www.persee.fr/web/revues/home/prescript/revue/hispa		hispa				
+L'Homme		1953-8103							http://www.persee.fr/web/revues/home/prescript/revue/hom		hom				
+L'Homme et la société		2101-0226							http://www.persee.fr/web/revues/home/prescript/revue/homso		homso				
+L'information grammaticale											igram				
+L'Information Géographique		1777-5876							http://www.persee.fr/web/revues/home/prescript/revue/ingeo		ingeo				
+Journal des Africanistes		1957-7850							http://www.persee.fr/web/revues/home/prescript/revue/jafr		jafr				
+Journal d'agriculture traditionnelle et de botanique appliquée									http://www.persee.fr/web/revues/home/prescript/revue/jatba		jatba				
+Journal des Savants		1775-383X							http://www.persee.fr/web/revues/home/prescript/revue/jds		jds				
+Journal de la société des américanistes		1957-7842							http://www.persee.fr/web/revues/home/prescript/revue/jsa		jsa				
+Journal de la Société des Océanistes		1760-7256							http://www.persee.fr/web/revues/home/prescript/revue/jso		jso				
+Langue française		1957-7982							http://www.persee.fr/web/revues/home/prescript/revue/lfr		lfr				
+Langages		1958-9549							http://www.persee.fr/web/revues/home/prescript/revue/lgge		lgge				
+Livraisons d'histoire de l'architecture		1960-5994							http://www.persee.fr/web/revues/home/prescript/revue/lha		lha				
+Littérature		1958-5926							http://www.persee.fr/web/revues/home/prescript/revue/litt		litt				
+Langage & société									http://www.persee.fr/web/revues/home/prescript/revue/lsoc		lsoc				
+Matériaux pour l'histoire de notre temps		1952-4226							http://www.persee.fr/web/revues/home/prescript/revue/mat		mat				
+Mil neuf cent. Revue d'histoire intellectuelle (Cahiers Georges Sorel)		1960-6648							http://www.persee.fr/web/revues/home/prescript/revue/mcm		mcm				
+Médiévales		1777-5892							http://www.persee.fr/web/revues/home/prescript/revue/medi		medi				
+Méditerranée		1760-8538							http://www.persee.fr/web/revues/home/prescript/revue/medit		medit				
+Mélanges de l'école française de Rome									http://www.persee.fr/web/revues/home/prescript/revue/mefr		mefr				
+Mètis. Anthropologie des mondes grecs anciens									http://www.persee.fr/web/revues/home/prescript/revue/metis		metis				
+Publications de la Maison de l'Orient et de la Méditerranée									http://www.persee.fr/web/revues/home/prescript/revue/mom		mom				
+Géomorphologie : relief, processus, environnement		1957-777X							http://www.persee.fr/web/revues/home/prescript/revue/morfo		morfo				
+Mots. Les langages du politique		1960-6001							http://www.persee.fr/web/revues/home/prescript/revue/mots		mots				
+Archaeonautica		2117-6973							http://www.persee.fr/web/revues/home/prescript/revue/nauti		nauti				
+Norois		1760-8546							http://www.persee.fr/web/revues/home/prescript/revue/noroi		noroi				
+Revue Numismatique		1963-1693							http://www.persee.fr/web/revues/home/prescript/revue/numi		numi				
+Revue de l'OFCE		1777-5647							http://www.persee.fr/web/revues/home/prescript/revue/ofce		ofce				
+Extrême-Orient, Extrême-Occident		2108-7105							http://www.persee.fr/web/revues/home/prescript/revue/oroc		oroc				
+Santé, Société et Solidarité		1775-3945							http://www.persee.fr/web/revues/home/prescript/revue/oss		oss				
+Paléo, Revue d'Archéologie Préhistorique		2101-0420							http://www.persee.fr/web/revues/home/prescript/revue/pal		pal				
+Paléorient		1957-701X							http://www.persee.fr/web/revues/home/prescript/revue/paleo		paleo				
+Perspectives Chinoises		1996-4609							http://www.persee.fr/web/revues/home/prescript/revue/perch		perch				
+Revue d'Histoire de la Pharmacie		1775-3864							http://www.persee.fr/web/revues/home/prescript/revue/pharm		pharm				
+Revue Philosophique de Louvain		1783-1768							http://www.persee.fr/web/revues/home/prescript/revue/phlou		phlou				
+Revue archéologique de Picardie		2104-3914							http://www.persee.fr/web/revues/home/prescript/revue/pica		pica				
+Monuments et mémoires de la Fondation Eugène Piot									http://www.persee.fr/web/revues/home/prescript/revue/piot		piot				
+Pôle Sud		1960-6656							http://www.persee.fr/web/revues/home/prescript/revue/pole		pole				
+Politique étrangère		1958-8992							http://www.persee.fr/web/revues/home/prescript/revue/polit		polit				
+Politix. Revue des sciences sociales du politique		1953-8286							http://www.persee.fr/web/revues/home/prescript/revue/polix		polix				
+Politiques et Management Public		2119-4831							http://www.persee.fr/web/revues/home/prescript/revue/pomap		pomap				
+Population		1957-7966							http://www.persee.fr/web/revues/home/prescript/revue/pop		pop				
+L'Année psychologique		1955-2580							http://www.persee.fr/web/revues/home/prescript/revue/psy		psy				
+Culture & Musées		2111-4528							http://www.persee.fr/web/revues/home/prescript/revue/pumus		pumus				
+Quaderni		2105-2956							http://www.persee.fr/web/revues/home/prescript/revue/quad		quad				
+Quaternaire		1965-0795							http://www.persee.fr/web/revues/home/prescript/revue/quate		quate				
+Revue archéologique du Centre de la France		1951-6207							http://www.persee.fr/web/revues/home/prescript/revue/racf		racf				
+Revue archéologique de Narbonnaise		2117-5683							http://www.persee.fr/web/revues/home/prescript/revue/ran		ran				
+Revue Archéologique de l'Ouest		1775-3732							http://www.persee.fr/web/revues/home/prescript/revue/rao		rao				
+Recherches en anthropologie au Portugal		1960-6664							http://www.persee.fr/web/revues/home/prescript/revue/rap		rap				
+Revue belge de Philologie et d'Histoire									http://www.persee.fr/web/revues/home/prescript/revue/rbph		rbph				
+Recherches sur Diderot et sur l'Encyclopédie		1955-2416							http://www.persee.fr/web/revues/home/prescript/revue/rde		rde				
+Revue des études byzantines		2261-060X							http://www.persee.fr/web/revues/home/prescript/revue/rebyz		rebyz				
+Revue d'études comparatives Est-Ouest									http://www.persee.fr/web/revues/home/prescript/revue/receo		receo				
+Revue économique		1950-6694							http://www.persee.fr/web/revues/home/prescript/revue/reco		reco				
+Revue des Études Grecques									http://www.persee.fr/web/revues/home/prescript/revue/reg		reg				
+Revue d'économie industrielle		1773-0198							http://www.persee.fr/web/revues/home/prescript/revue/rei		rei				
+Revue Européenne des Migrations Internationales		1777-5418							http://www.persee.fr/web/revues/home/prescript/revue/remi		remi				
+Revue des mondes musulmans et de la Méditerranée		2105-2271							http://www.persee.fr/web/revues/home/prescript/revue/remmm		remmm				
+Réseaux. Communication - Technologie - Société		1777-5809							http://www.persee.fr/web/revues/home/prescript/revue/reso		reso				
+Revue française d'économie		1760-7388							http://www.persee.fr/web/revues/home/prescript/revue/rfeco		rfeco				
+Revue française de pédagogie		2105-2913							http://www.persee.fr/web/revues/home/prescript/revue/rfp		rfp				
+Revue française de sociologie		1958-5691							http://www.persee.fr/web/revues/home/prescript/revue/rfsoc		rfsoc				
+Revue française de science politique		1950-6686							http://www.persee.fr/web/revues/home/prescript/revue/rfsp		rfsp				
+Revue de Géographie Alpine		1760-7426							http://www.persee.fr/web/revues/home/prescript/revue/rga		rga				
+Revue d'histoire de l'Église de France		2109-9502							http://www.persee.fr/web/revues/home/prescript/revue/rhef		rhef				
+Revue de l'histoire des religions		2105-2573							http://www.persee.fr/web/revues/home/prescript/revue/rhr		rhr				
+Réforme, Humanisme, Renaissance		1969-654X							http://www.persee.fr/web/revues/home/prescript/revue/rhren		rhren				
+Revue d'histoire des sciences		1969-6582							http://www.persee.fr/web/revues/home/prescript/revue/rhs		rhs				
+Revue internationale de droit comparé		1953-8111							http://www.persee.fr/web/revues/home/prescript/revue/ridc		ridc				
+Romantisme		1957-7958							http://www.persee.fr/web/revues/home/prescript/revue/roman		roman				
+Revue de l'Art		1953-812X							http://www.persee.fr/web/revues/home/prescript/revue/rvart		rvart				
+Les Collections numériques de la Sorbonne									http://www.persee.fr/web/revues/home/prescript/revue/shf		shf				
+Actes des congrès de la Société des historiens médiévistes de l'enseignement supérieur public		2117-6809							http://www.persee.fr/web/revues/home/prescript/revue/shmes		shmes				
+Revue des Études Slaves		2117-718X							http://www.persee.fr/web/revues/home/prescript/revue/slave		slave				
+Sociétés Contemporaines		1950-6899							http://www.persee.fr/web/revues/home/prescript/revue/socco		socco				
+Sciences Sociales et Santé		1777-5914							http://www.persee.fr/web/revues/home/prescript/revue/sosan		sosan				
+L'Espace géographique		1776-2936							http://www.persee.fr/web/revues/home/prescript/revue/spgeo		spgeo				
+Syria. Archéologie, Art et histoire									http://www.persee.fr/web/revues/home/prescript/revue/syria		syria				
+Revue Tiers Monde		1963-1359							http://www.persee.fr/web/revues/home/prescript/revue/tiers		tiers				
+Vita Latina									http://www.persee.fr/web/revues/home/prescript/revue/vita		vita				
+Seizième Siècle		1775-3856							http://www.persee.fr/web/revues/home/prescript/revue/xvi		xvi				
+XVII-XVIII. Revue de la Société d'études anglo-américaines des XVIIe et XVIIIe siècles		2117-590X							http://www.persee.fr/web/revues/home/prescript/revue/xvii		xvii				
+Vingtième Siècle. Revue d'histoire		1950-6678							http://www.persee.fr/web/revues/home/prescript/revue/xxs		xxs				

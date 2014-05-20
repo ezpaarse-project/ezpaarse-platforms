@@ -1,0 +1,25 @@
+{
+  "name": "jsparserskeleton",
+  "version": "2014-02-20",
+  "status": "template",
+  "longname": "ParserSkeleton",
+  "describe": "Modele de parseur tres simple",
+  "docurl": "http://analogist.couperin.org/platforms/parserskeleton/",
+  "contact": "dominique.lechaudel at inist point fr",
+	"domains": [
+    "parser.skeleton.js"
+	],
+  "pkb": false,
+  "recognize": {
+    "rid": [
+      "title_id",
+      "unitid"
+    ],
+    "rtype": [
+      "ARTICLE"
+    ],
+    "mime": [
+      "PDF"
+    ]
+  }
+}

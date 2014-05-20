@@ -1,0 +1,29 @@
+{
+  "name": "ar",
+  "version": "2013-10-04",
+  "status": "beta",
+  "longname": "Annual Reviews",
+  "describe": "Identifie les consultations de la plateforme Annual Reviews",
+  "docurl": "http://analogist.couperin.org/platforms/annualreviews/",
+  "contact": "cecilia.fabry at inist point fr et sonia.launay at inist point fr",
+  "pkb": true,
+	"domains": [
+    "www.annualreviews.org"
+	],
+  "recognize": {
+    "rid": [
+      "title_id",
+      "unitid"
+    ],
+    "rtype": [
+      "TOC",
+      "ARTICLE",
+      "ABS"
+    ],
+    "mime": [
+      "HTML",
+      "PDF",
+      "MISC"
+    ]
+  }
+}

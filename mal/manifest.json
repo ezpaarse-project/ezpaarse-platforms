@@ -1,0 +1,30 @@
+{
+  "name": "mal",
+  "version": "2013-11-28",
+  "status": "beta",
+  "longname": "Mary Ann Liebert",
+  "describe": "Identifie les consultations de Mary Ann Liebert",
+  "docurl": "http://analogist.couperin.org/platforms/mary-ann-liebert/start",
+  "contact": "sylvie.franck at inist point fr",
+	"domains": [
+    "www.liebertpub.com",
+    "online.liebertpub.com"
+	],
+  "pkb": true,
+  "recognize": {
+    "rid": [
+      "title_id",
+      "unitid"
+    ],
+    "rtype": [
+      "TOC",
+      "ABS",
+      "ARTICLE"
+    ],
+    "mime": [
+      "MISC",
+      "PDF",
+      "HTML"
+    ]
+  }
+}

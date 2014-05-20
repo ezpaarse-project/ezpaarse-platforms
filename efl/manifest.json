@@ -1,0 +1,27 @@
+{
+  "name": "efl",
+  "version": "2013-11-28",
+  "status": "beta",
+  "longname": "Editions Francis Lefebvre",
+  "describe": "Identifie les consultations des bases juridiques Editions Francis Lefebvre",
+  "docurl": "http://analogist.couperin.org/platforms/efl/",
+  "contact": "Thomas Jouneau",
+	"domains": [
+    "abonnes.efl.fr"
+	],
+  "recognize": {
+    "rid": [
+      "title_id",
+      "unitid"
+    ],
+    "rtype": [
+      "JURIDIQUE",
+      "ARTICLE",
+      "ACTUALITE"
+    ],
+    "mime": [
+      "MISC",
+      "HTML"
+    ]
+  }
+}

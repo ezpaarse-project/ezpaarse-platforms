@@ -1,0 +1,177 @@
+publication_title	print_identifier	online_identifier	date_first_issue_online	num_first_vol_online	num_first_issue_online	date_last_issue_online	num_last_vol_online	num_last_issue_online	title_url	first_author	title_id	embargo_info	coverage_depth	coverage_notes	publisher_name
+Acta Chiropterologica	1508-1109										acta				
+Acta Ornithologica	0001-6454										aorn				
+Acta Palaeontologica Polonica	0567-7920										acpp				
+Adansonia	1280-8571										adan				
+African Entomology	1021-3589										afen				
+African Invertebrates	1681-5556										afin				
+African Zoology	1562-7020										afzo				
+Ambio: A Journal of the Human Environment	0044-7447										ambi				
+American Biology Teacher, The	0002-7685										ambt				
+American Fern Journal	0002-8444										amfj				
+American Malacological Bulletin	0740-2783										malb				
+American Midland Naturalist, The	0003-0031										amid				
+American Museum Novitates	0003-0082										novi				
+Annales Botanici Fennici	0003-3847										anbf				
+Annales Zoologici Fennici	0003-455X										anzf				
+Annales Zoologici	0003-4541										annz				
+Annals of Carnegie Museum	0097-4463										cara				
+Annals of the Entomological Society of America	0013-8746										esaa				
+Annals of the Missouri Botanical Garden	0026-6493										mobt				
+Anthropozoologica	0761-3032										anth				
+Applications in Plant Sciences	2168-0450										apps				
+Applied Vegetation Science	1402-2001										apve				
+Arabidopsis Book, The	1543-8120										arbo.j				
+Arachnology	0524-4994										argy				
+Arctic, Antarctic, and Alpine Research	1523-0430										aare				
+Ardea	0373-2266										arde				
+Ardeola	0570-7358										arla				
+Auk, The	0004-8038										tauk				
+Avian Diseases Digest	1933-5334										addi				
+Avian Diseases	0005-2086										avdi				
+Biology of Reproduction	0006-3363										bire				
+Bios	0005-3155										bios				
+BioScience	0006-3568										bisi				
+Biotropica	0006-3606										bitr				
+Botanical Review, The	0006-8101										brev				
+Breviora	0006-9698										brvo				
+Brittonia	0007-196X										brit				
+Bryologist, The	0007-2745										bryo				
+Bulletin of Carnegie Museum of Natural History	0145-9058										carb				
+Bulletin of the American Museum of Natural History	0003-0090										amnb				
+Bulletin of the Biological Society of Washington	0097-0298										bswa				
+Bulletin of the Museum of Comparative Zoology	0027-4100										harv				
+Bulletin of the Peabody Museum of Natural History	0079-032X										pbmb				
+Bulletin of the Southern California Academy of Sciences	0038-3872										soca				
+Cactus and Succulent Journal	0007-9367										casu				
+Canadian Entomologist, The	0008-347X										cent				
+Castanea	0008-7475										cast				
+Cell Stress & Chaperones	1355-8145										cest				
+Chelonian Conservation and Biology	1071-8443										ccab				
+Coleopterists Bulletin, The	0010-065X										cole				
+Comparative Parasitology	1525-2647										copa				
+Condor, The	0010-5422										cond				
+Copeia	0045-8511										cope				
+Cryptogamie, Algologie	0181-1568										crya				
+Cryptogamie, Bryologie	1290-0796										cryb				
+Cryptogamie, Mycologie	0181-1584										crym				
+Current Herpetology	1881-1019										jche				
+Economic Botany	0013-0001										ebot				
+Ecoscience	1195-6860										ecos				
+Edentata	1413-4411										eden				
+Entomologica Americana	1947-5136										nynt				
+Entomological News	0013-872X										entn				
+Environmental Entomology	0046-225X										enve				
+Evansia	0747-9859										evia				
+Evolution	0014-3820										evol				
+Fieldiana Anthropology	0071-4739										fant				
+Fieldiana Botany	0015-0746										fbot				
+Fieldiana Geology	0096-2651										fgeo				
+Fieldiana Life and Earth Sciences	2158-5520										flae				
+Fieldiana Zoology	0015-0754										fzoo				
+Florida Entomologist	0015-4040										flen				
+Freshwater Reviews	1755-084X										frer				
+Freshwater Science	2161-9549										jnbs				
+Geodiversitas	1280-9659										geod				
+Harvard Papers in Botany	1043-4534										hpib				
+Haseltonia: Yearbook of the Cactus & Succulent Society	1070-0048										hase				
+Herpetologica	0018-0831										herp				
+Herpetological Monographs	0733-1347										hmon				
+Herzogia	0018-0971										heia				
+Human Biology	0018-7143										hbio				
+In Vitro Cellular & Developmental Biology - Animal	1071-2690										inva				
+In Vitro Cellular & Developmental Biology - Plant	1054-5476										invp				
+Integrated Environmental Assessment and Management	1551-3777										ieam				
+Integrative and Comparative Biology	1540-7063										icbi				
+International Forestry Review, The	1465-5489										ifre				
+Invasive Plant Science and Management	1939-747X										ipsm				
+Journal of Agricultural and Urban Entomology	1523-5475										jaue				
+Journal of Arachnology, The	0161-8202										arac				
+Journal of Avian Medicine and Surgery	1082-6742										avms				
+Journal of Coastal Conservation	1400-0350										coac				
+Journal of Coastal Research	0749-0208										coas				
+Journal of Crustacean Biology	0278-0372										crus				
+Journal of East African Natural History	0012-8317										eanh				
+Journal of Economic Entomology	0022-0493										ecen				
+Journal of Ethnobiology	0278-0771										etbi				
+Journal of Eukaryotic Microbiology, The	1066-5234										eumi				
+Journal of Field Ornithology	0273-8570										forn				
+Journal of Great Lakes Research	0380-1330										jglr				
+Journal of Herpetology	0022-1511										hpet				
+Journal of Insect Science, The	1536-2442										insc				
+Journal of Mammalian Ova Research	1347-5878										jmor				
+Journal of Mammalogy	0022-2372										mamm				
+Journal of Medical Entomology	0022-2585										ment				
+Journal of Orthoptera Research	1082-6467										orth				
+Journal of Paleontology	0022-3360										pleo				
+Journal of Parasitology, The	0022-3395										para				
+Journal of Raptor Research, The	0892-1016										rapt				
+Journal of Resources and Ecology	1674-764X										jore				
+Journal of Shellfish Research	0730-8000										shre				
+Journal of the American Mosquito Control Association	8756-971X										moco				
+Journal of the Arizona-Nevada Academy of Science	0193-8509										jana				
+Journal of the Kansas Entomological Society	0022-8567										kent				
+Journal of the Kentucky Academy of Science	1098-7096										kyac				
+Journal of the North Atlantic	1935-1933										noat				
+Journal of the Torrey Botanical Society, The	1095-5674										tbot				
+Journal of Vector Ecology	1081-1710										jvec				
+Journal of Vegetation Science	1100-9233										vegs				
+Journal of Vertebrate Paleontology	0272-4634										vrpa				
+Journal of Wildlife Management	0022-541X										wild				
+Journal of Zoo and Wildlife Medicine	1042-7260										zamd				
+Madro�o	0024-9637										madr				
+Malacologia	0076-2997										mala				
+Mammal Study	1343-4152										jmam				
+Mammalian Species	1545-1410										mmsp				
+Marine and Coastal Fisheries	1942-5120										fidm				
+Marine Resource Economics	0738-1360										mare				
+Micropaleontology	0026-2803										mipa				
+Monographs of the Western North American Naturalist	1545-0228										mwna				
+Mountain Research and Development	0276-4741										mred				
+Natural Areas Journal	0885-8608										naar				
+Neotropical Primates	#1413-4703										nepr				
+Northeastern Naturalist	1092-6194										nena				
+Northwest Science	0029-344X										nwsc				
+Northwestern Naturalist	1051-1733										nwnt				
+Novon	1055-3177										novo				
+Ornithological Science	1347-0558										jorn				
+Pacific Science	1534-6188										pasc				
+Palaios	0883-1351										palo				
+Paleobiology	0094-8373										pbio				
+Paleontological Research	1342-8144										jpal				
+Palynology	0191-6122										paly				
+Pan-Pacific Entomologist, The	0031-0603										panp				
+Photochemistry and Photobiology	0031-8655										phot				
+Politics and the Life Sciences	1471-5457										poli				
+Primate Conservation	0898-6207										prco				
+Proceedings of the Academy of Natural Sciences in Philadelphia	0097-3157										ansp				
+Proceedings of the Biological Society of Washington	0006-324X										pbsw				
+Proceedings of the Entomological Society of Washington	0013-8797										went				
+Radiation Research	0033-7587										rare				
+Rangeland Ecology & Management	1550-7424										rama				
+Rangelands	0190-0528										rala				
+Rhodora	0035-4902										rhod				
+South African Journal of Wildlife Research	0379-4369										sawr				
+South American Journal of Herpetology	1808-9798										sajh				
+Southeastern Naturalist	1528-7092										sena				
+Southwestern Entomologist	0147-1724										swen				
+Southwestern Naturalist, The	0038-4909										swna				
+Systematic Botany	0363-6445										sbot				
+Transactions of the American Entomological Society	0002-8320										taes				
+Transactions of the Kansas Academy of Science	0022-8443										tkas				
+Tree-Ring Research	1536-1098										trre				
+Turtle and Tortoise Newsletter	1526-3096										turt				
+Ursus	1537-6176										ursu				
+Waterbirds	1524-4695										cowa				
+Weed Science	0043-1745										wees				
+Weed Technology	0890-037X										wete				
+Western North American Naturalist	1527-0904										wnan				
+Wetland Science & Practice	0732-9393										wtbl				
+Wetlands	0277-5212										wetl				
+Wilderness and Environmental Medicine	1080-6032										weme				
+Wildlife Biology	0909-6396										wbio				
+Wildlife Monographs	0084-0173										wmon				
+Wildlife Society Bulletin	0091-7648										wbul				
+Wilson Journal of Ornithology, The	1559-4491										wils				
+Zoological Science	0289-0003										jzoo				
+Zoosystema	1280-9551										zoos				

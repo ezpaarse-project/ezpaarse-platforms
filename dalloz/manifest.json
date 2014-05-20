@@ -1,0 +1,29 @@
+{
+  "name": "dalloz",
+  "version": "2013-04-12",
+  "status": "beta",
+  "longname": "Dalloz",
+  "describe": "Identifie les consultations des bases juridiques Dalloz",
+  "docurl": "http://analogist.couperin.org/platforms/dalloz/",
+  "contact": "Karine Delvert et Thomas Jouneau",
+	"domains": [
+    "www.dalloz.fr",
+    "bu.dalloz.fr"
+	],
+  "recognize": {
+    "rid": [
+      "title_id",
+      "unitid"
+    ],
+    "rtype": [
+      "TOC",
+      "ENCYCLOPEDIES",
+      "CODES",
+      "FORMULES",
+      "BROCHES"
+    ],
+    "mime": [
+      "MISC"
+    ]
+  }
+}
