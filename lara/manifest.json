@@ -3,7 +3,7 @@
   "version": "2014-01-24",
   "status": "beta",
   "longname": "Lara",
-  "describe": "Identifie les consultations de BioOne",
+  "describe": "Identifie les consultations de Lara",
   "docurl": "http://analogist.couperin.org/platforms/lara/",
   "contact": "cecilia.fabry at inist point fr et emmanuelle.rocklin at inist point fr",
 	"domains": [
