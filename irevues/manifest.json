@@ -1,0 +1,30 @@
+{
+  "name": "irevues",
+  "version": "2014-01-24",
+  "status": "beta",
+  "longname": "Irevues",
+  "describe": "Identifie les consultations de Irevue",
+  "docurl": "http://analogist.couperin.org/platforms/irevues/",
+  "contact": "cecilia.fabry at inist point fr at inist point fr",
+	"domains": [
+    "irevues.inist.fr",
+    "documents.irevues.inist.fr"
+	],
+  "pkb": true,
+  "recognize": {
+    "rid": [
+      "title_id",
+      "unitid"
+    ],
+    "rtype": [
+      "TOC",
+      "ABS",
+      "ARTICLE"
+    ],
+    "mime": [
+      "MISC",
+      "PDF",
+      "HTML"
+    ]
+  }
+}
