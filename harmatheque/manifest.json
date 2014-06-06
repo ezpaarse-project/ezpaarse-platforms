@@ -1,0 +1,25 @@
+{
+  "name": "harmatheque",
+  "version": "2014-06-06",
+  "status": "beta",
+  "longname": "Harmathèque",
+  "describe": "Parseur de la plateforme Harmathèque",
+  "docurl": "http://analogist.couperin.org/platforms/harmatheque/start",
+  "contact": "stephane.gully at inist point fr",
+	"domains": [
+    "www.harmatheque.com"
+	],
+  "pkb": false,
+  "recognize": {
+    "rid": [
+      "title_id",
+      "unitid"
+    ],
+    "rtype": [
+      "BOOK"
+    ],
+    "mime": [
+      "PDF"
+    ]
+  }
+}
