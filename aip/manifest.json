@@ -1,0 +1,27 @@
+{
+  "name": "aip",
+  "version": "2013-06-06",
+  "status": "beta",
+  "longname": "American Institute of Physics",
+  "describe": "Identifie les consultations de la plateforme American Institute of Physics",
+  "docurl": "http://analogist.couperin.org/platforms/american-institute-of-physics/",
+  "contact": "Thomas Jouneau",
+  "pkb": true,
+	"domains": [
+    "scitation.aip.org"
+	],
+  "recognize": {
+    "rid": [
+      "title_id",
+      "unitid"
+    ],
+    "rtype": [
+      "TOC",
+      "ARTICLE"
+    ],
+    "mime": [
+      "HTML",
+      "PDF"
+    ]
+  }
+}
