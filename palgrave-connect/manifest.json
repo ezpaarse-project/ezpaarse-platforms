@@ -1,0 +1,32 @@
+{
+  "name": "palgrave-connect",
+  "version": "2014-06-24",
+  "status": "beta",
+  "longname": "Palgrave Connect",
+  "describe": "Parseur de la plateforme Palgrave Connect",
+  "docurl": "http://analogist.couperin.org/platforms/palgrave-connect/",
+  "contact": "stephane.gully at inist point fr",
+	"domains": [
+    "www.palgraveconnect.com",
+    "www.readcube.com"
+	],
+  "pkb": false,
+  "recognize": {
+    "rid": [
+      "title_id",
+      "unitid"
+    ],
+    "rtype": [
+      "ARTICLE",
+      "BOOK",
+      "BOOK_SECTION",
+      "TOC"
+    ],
+    "mime": [
+      "PDF",
+      "HTML",
+      "EPUB",
+      "KINDLE"
+    ]
+  }
+}
