@@ -12,6 +12,9 @@ module.exports = new Parser(function analyseEC(parsedUrl) {
   //var param  = parsedUrl.query || {};
   var path   = parsedUrl.pathname;
 
+// use console.error for debuging
+//console.error(parsedUrl);
+
   var match;
 
   if ((match = /^\/platform\/path\/to\/(document\-([0-9]+)\-test\.pdf)$/.exec(path)) !== null) {
