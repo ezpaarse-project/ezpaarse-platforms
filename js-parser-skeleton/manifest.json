@@ -7,7 +7,8 @@
   "docurl": "http://analogist.couperin.org/platforms/parserskeleton/",
   "contact": "dominique.lechaudel at inist point fr",
 	"domains": [
-    "parser.skeleton.js"
+    "www.domaine-de-la-plateforme.com",
+    "www.domaine2-de-la-plateforme.com"
 	],
   "pkb": false,
   "recognize": {
