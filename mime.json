@@ -15,6 +15,11 @@
     "comment": ""
   },
   {
+    "code": "KINDLE",
+    "description":  "consultation d'un document au format KINDLE",
+    "comment": ""
+  },
+  {
     "code": "MISC",
     "description":  "consultation d'un document dont le format n'est ni PDF ni HTML",
     "comment": ""
