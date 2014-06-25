@@ -10,8 +10,13 @@
     "comment": ""
   },
   {
+    "code": "EPUB",
+    "description":  "consultation d'un document au format EPUB",
+    "comment": ""
+  },
+  {
     "code": "MISC",
     "description":  "consultation d'un document dont le format n'est ni PDF ni HTML",
     "comment": ""
-  }  
+  }
 ]

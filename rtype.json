@@ -83,5 +83,10 @@
     "code": "MASTER_THESIS",
     "description":  "consultation d'un mémoire de Master",
     "comment": "Cas des archives institutionnelles"
+  },
+  {
+    "code": "BIO",
+    "description":  "consultation d'une biographie",
+    "comment": ""
   }
 ]
