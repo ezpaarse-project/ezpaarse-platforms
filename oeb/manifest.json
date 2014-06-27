@@ -1,0 +1,27 @@
+{
+  "name": "oeb",
+  "version": "2014-06-26",
+  "status": "beta",
+  "longname": "OpenEdition Books",
+  "describe": "Identifie les consultations de la plateforme OpenEdition Books",
+  "docurl": "http://analogist.couperin.org/platforms/openedition-books/start",
+  "contact": "anna.couthuresidrizi at sciencespo point fr et yannick.schurter at inist point fr",
+  "pkb": true,
+	"domains": [
+    "books.openedition.org"
+	],
+  "recognize": {
+    "rid": [
+      "title_id",
+      "unitid"
+    ],
+    "rtype": [
+      "BOOK"
+    ],
+    "mime": [
+      "HTML",
+      "PDF",
+      "EPUB"
+    ]
+  }
+}
