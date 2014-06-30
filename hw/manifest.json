@@ -5,7 +5,7 @@
   "longname": "HighWire",
   "describe": "Identifie les consultations du site HighWire",
   "docurl": "http://analogist.couperin.org/platforms/hw/",
-  "contact": "dominique.rouger at univ-st-etienne.fr",
+  "contact": "dominique.rouger at univ-st-etienne.fr, yannick.schurter at inist.fr",
   "pkb": true,
   "pkb-domains": "title_id",
   "recognize": {
