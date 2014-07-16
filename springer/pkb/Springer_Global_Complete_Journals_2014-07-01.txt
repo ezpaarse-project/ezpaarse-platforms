@@ -2215,7 +2215,7 @@ Organisms Diversity & Evolution	1439-6092	1618-1077	2010-03	10	1	2014-07	14	2	ht
 Oriental Pharmacy and Experimental Medicine	1598-2386	2211-1069	2011-03	11	1	2014-06	14	2	http://link.springer.com/journal/13596		13596		fulltext		Springer Netherlands	Serial							
 Origins of Life and Evolution of Biospheres	0169-6149	1573-0875	1968-03	1	1	2014-06	43	6	http://link.springer.com/journal/11084		11084		fulltext		Springer Netherlands	Serial							
 Orphanet Journal of Rare Diseases		1750-1172	2006-03	1	1	2014-06	9	1	http://link.springer.com/journal/13023		13023		fulltext		BioMed Central	Serial							
-Orthopedics and Traumatology	0941-2530	1617-3838	1992-04	1	1	2002-12	10	4	http://link.springer.com/journal/65		65		fulltext		Urban & Vogel	Serial							
+Orthopedics and Traumatology	0941-2530	#1617-3838	1992-04	1	1	2002-12	10	4	http://link.springer.com/journal/65		65		fulltext		Urban & Vogel	Serial							
 Orthopädie & Rheuma	1435-0017	2196-5684	2012-02	15	1	2014-06	17	3	http://link.springer.com/journal/15002		15002		fulltext		Urban & Vogel	Serial							
 Osteopathic Medicine and Primary Care		1750-4732	2007-01	1	1	2010-08	4	1	http://link.springer.com/journal/13026		13026		fulltext		BioMed Central	Serial							
 Osteoporosis International	0937-941X	1433-2965	1990-10	1	1	2014-07	25	7	http://link.springer.com/journal/198		198		fulltext		Springer London	Serial							
@@ -2314,9 +2314,7 @@ Plasma Physics Reports	1063-780X	1562-6938	2000-01	26	1	2014-06	40	6	http://link
 Plasmas and Polymers	1084-0184	1572-8978	1996-03	1	1	2004-03	9	1	http://link.springer.com/journal/11088		11088		fulltext		Kluwer Academic Publishers-Plenum Publishers	Serial							
 Plasmonics	1557-1955	1557-1963	2006-03	1	1	2014-06	9	3	http://link.springer.com/journal/11468		11468		fulltext		Springer US	Serial							
 PodoSophia	0929-5380	1876-5815	2013-01	21	1	2014-05	22	3	http://link.springer.com/journal/12481		12481		fulltext		Bohn Stafleu van Loghum	Serial							
-Poiesis & Praxis	1615-6609	1615-6617	2001-12	1
-	1
-	2012-12	9	3	http://link.springer.com/journal/10202		10202		fulltext		Springer-Verlag	Serial							
+Poiesis & Praxis	1615-6609	1615-6617	2001-12	1	1	2012-12	9	3	http://link.springer.com/journal/10202		10202		fulltext		Springer-Verlag	Serial							
 Polar Biology	0722-4060	1432-2056	1982-03	1	1	2014-07	37	7	http://link.springer.com/journal/300		300		fulltext		Springer Berlin Heidelberg	Serial							
 Policy Sciences	0032-2687	1573-0891	1970-03	1	1	2014-06	47	2	http://link.springer.com/journal/11077		11077		fulltext		Springer US	Serial							
 Political Behavior	0190-9320	1573-6687	1979-03	1	1	2014-06	36	2	http://link.springer.com/journal/11109		11109		fulltext		Springer US	Serial							
