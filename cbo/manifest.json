@@ -1,0 +1,28 @@
+{
+  "name": "cbo",
+  "version": "2014-07-16",
+  "status": "beta",
+  "longname": "Cambridge Books Online",
+  "describe": "Identifie les consultations de Cambridge Books Online",
+  "docurl": "http://analogist.couperin.org/platforms/cambridge-books-online/start",
+  "contact": "yannick.schurter at inist point fr",
+  "pkb": true,
+	"domains": [
+    "http://ebooks.cambridge.org/"
+	],
+  "recognize": {
+    "rid": [
+      "title_id",
+      "online_identifier",
+      "unitid"
+    ],
+    "rtype": [
+      "TOC",
+      "BOOK_SECTION"
+    ],
+    "mime": [
+      "HTML",
+      "PDF"
+    ]
+  }
+}
