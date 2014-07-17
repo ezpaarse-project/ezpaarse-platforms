@@ -10,6 +10,7 @@
 
 var fs      = require('fs');
 var path    = require('path');
+var iconv   = require('iconv-lite');
 var unzip   = require('unzip');
 var request = require('request');
 
@@ -45,7 +46,7 @@ r.on('response', function (res) {
   }
 
   var filePath   = path.join(__dirname, '../pkb', fileName.replace(/\.zip$/, '.txt'));
-  var fileStream = fs.createWriteStream(filePath);
+  var fileStream = fs.createWriteStream(filePath, { encoding: 'utf8' });
 
   var nbEntries = 0;
   res.pipe(unzip.Parse())
@@ -56,7 +57,10 @@ r.on('response', function (res) {
     } else {
       console.error('[Info] writing ' + entry.path + ' into ' + filePath);
     }
-    entry.pipe(fileStream);
+    entry
+    .pipe(iconv.decodeStream('utf16-le'))
+    .pipe(iconv.encodeStream('utf8'))
+    .pipe(fileStream);
   })
   .on('close', function () {
     console.error('[Info] Completed');
