@@ -36,7 +36,7 @@ r.on('response', function (res) {
 
   var match = /filename=(.*)$/.exec(res.headers['content-disposition']);
   var fileName;
-  var fileDate;
+
   if (match) {
     // CambridgeBooks_GlobalTitleList_2014-07-16.zip
     fileName = match[1];

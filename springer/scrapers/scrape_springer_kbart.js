@@ -11,11 +11,19 @@
 
 'use strict';
 var http = require('http');
-var request = require('request');
-//var cheerio = require('cheerio');
+// var request = require('request');
+// var cheerio = require('cheerio');
 var fs = require('fs');
 
 var kbartURL = 'http://link.springer.com/lists/complete_packages/';
+
+function downloadKBARTFile(file) {
+  console.log("will download : " + kbartURL + file + "...");
+  var pkbfile = fs.createWriteStream("../pkb/"+ file);
+  http.get(kbartURL + file, function(response) {
+    response.pipe(pkbfile);
+  });
+}
 
 //we only take the complete kbart files (at least for a start)
 var Complete_eBooks = 'Springer_Global_Complete_eBooks_2014-07-01.txt';
@@ -27,10 +35,3 @@ var kbartFiles = [Complete_eBooks, Complete_Journals, Complete_Reference_Works, 
 
 kbartFiles.forEach(downloadKBARTFile);
 
-function downloadKBARTFile(file) {
-  console.log("will download : " + kbartURL + file + "...");
-  var pkbfile = fs.createWriteStream("../pkb/"+ file);
-  http.get(kbartURL + file, function(response) {
-    response.pipe(pkbfile);
-  });
-}
