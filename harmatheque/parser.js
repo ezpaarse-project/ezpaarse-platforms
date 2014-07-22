@@ -46,11 +46,11 @@ module.exports = new Parser(function analyseEC(parsedUrl) {
   } else if ((match = /^\/pdfswf\/livre/.exec(path)) !== null) {
     // http://pdf.harmattan.fr/pdfswf/livre.asp?idbook=776436cb79d84789b054729000dc3b58&imc=1&isbn=9782343006932
 
-    result.rtype    = 'BOOK';
-    result.mime     = 'PDF';
-    result.title_id = parsedUrl.query.idbook;
-    result.unitid   = parsedUrl.query.idbook;
-    result.pisbn    = parsedUrl.query.isbn;
+    result.rtype            = 'BOOK';
+    result.mime             = 'PDF';
+    result.title_id         = parsedUrl.query.idbook;
+    result.unitid           = parsedUrl.query.idbook;
+    result.print_identifier = parsedUrl.query.isbn;
   }
 
   return result;
