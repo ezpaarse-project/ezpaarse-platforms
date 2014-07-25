@@ -1,4 +1,4 @@
 ezpaarse-platforms
 ==================
 
-Platform plugins for ezPAARSE
+Platforms parsers, scrapers and PKBs for ezPAARSE
