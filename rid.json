@@ -6,7 +6,7 @@
   },
   {
     "code": "print_identifier",
-    "description":  "reconnaissance de l'ISSN papier",
+    "description":  "reconnaissance de l'ISSN papier (pissn)",
     "comment": ""
   },
   {
@@ -21,7 +21,7 @@
   },
   {
     "code": "online_identifier",
-    "description":  "reconnaissance de l'ISSN électronique",
+    "description":  "reconnaissance de l'ISSN électronique (eissn)",
     "comment": ""
   },
   {
