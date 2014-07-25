@@ -131,8 +131,8 @@ Délégation de pouvoirs											XJ031					Thèmexpress	undefined
 Délocalisation de bénéfices dans un pays à fiscalité privilégiée											XI005					Thèmexpress	undefined
 Démembrement des titres sociaux : gestion juridique et fiscale											XJ078					Thèmexpress	undefined
 Départ à la retraite											XS012					Thèmexpress	undefined
-Dispositif "Duflot"											XF041					Thèmexpress	undefined
-Dispositif "Scellier											XF031					Thèmexpress	undefined
+"Dispositif ""Duflot"""											XF041					Thèmexpress	undefined
+"Dispositif ""Scellier"											XF031					Thèmexpress	undefined
 Distribution de dividendes											XJ113					Thèmexpress	undefined
 Entreprise individuelle et stratégie fiscale immobilière											XF029					Thèmexpress	undefined
 Entreprises nouvelles : exonérations et allègements d'impôt											XF021					Thèmexpress	undefined
