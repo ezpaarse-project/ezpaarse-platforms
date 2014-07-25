@@ -434,7 +434,7 @@ Cross-Cultural Scientific Exchanges in the Eastern Mediterranean, 1560–1660	97
 Lawless Universe	9780801899959										9780801899959				
 New Orleans after the Civil War	9780801899973										9780801899973				
 Romantic Interactions	9780801899980										9780801899980				
-The "Good War" in American Memory	9781421400020										9781421400020				
+The ""Good War"" in American Memory	9781421400020										9781421400020				
 Addiction and Art	9781421400235										9781421400235				
 Lost Girls	9781421400242										9781421400242				
 Introduction to Cognitive Cultural Studies	9781421400280										9781421400280				
@@ -1876,7 +1876,7 @@ Toward a Composition Made Whole	9780822977780										9780822977780
 Captives of Revolution	9780822977797										9780822977797				
 Manufacturing a Socialist Modernity	9780822977803										9780822977803				
 From Form to Meaning	9780822977810										9780822977810				
-The Notorious "Bull" Nelson	9780809386031										9780809386031				
+The Notorious ""Bull"" Nelson	9780809386031										9780809386031				
 Silence and Listening as Rhetorical Arts	9780809386161										9780809386161				
 They'll Cut Off Your Project	9781933202938										9781933202938				
 A Nickel and a Prayer	9781935978213										9781935978213				
@@ -2608,7 +2608,7 @@ How War Began	9781603446372										9781603446372
 Inside the VC and the NVA	9781603444187										9781603444187				
 Inventing Texas	9781603446389										9781603446389				
 It's a Long Way from Llano	9781603444002										9781603444002				
-Jewish "Junior League"	9781603443890										9781603443890				
+Jewish ""Junior League""	9781603443890										9781603443890				
 John B. Armstrong, Texas Ranger and Pioneer Ranchman	9781603444965										9781603444965				
 John Hill for the State of Texas	9781603443494										9781603443494				
 Keeping the Faith	9781603446402										9781603446402				
@@ -2699,7 +2699,7 @@ Cervantes in Algiers	9780826591555										9780826591555
 Making Morality	9780826591654										9780826591654				
 Peirce's Scientific Metaphysics	9780826591517										9780826591517				
 The Unity of William James's Thought	9780826591470										9780826591470				
-William James's "Springs of Delight"	9780826591357										9780826591357				
+William James's ""Springs of Delight""	9780826591357										9780826591357				
 Smoke in Their Eyes	9780826591494										9780826591494				
 Dewey's Logical Theory	9780826591371										9780826591371				
 On Our Own, Together	9780826591852										9780826591852				
@@ -2811,7 +2811,7 @@ Communicating with Brazilians	9780292798458										9780292798458
 Latino Images in Film	9780292798229										9780292798229				
 Fragmented Lives, Assembled Parts	9780292794207										9780292794207				
 Andean Entrepreneurs	9780292798519										9780292798519				
-Sobral Pinto, "The Conscience of Brazil"	9780292789340										9780292789340				
+Sobral Pinto, ""The Conscience of Brazil""	9780292789340										9780292789340				
 Staying Sober in Mexico City	9780292796515										9780292796515				
 Latin Politics, Global Media	9780292798809										9780292798809				
 The Medicine of Memory	9780292796379										9780292796379				
@@ -3107,7 +3107,7 @@ A Troubled Peace	9780801889271										9780801889271
 Pneumonia Before Antibiotics	9780801889288										9780801889288				
 Victory of Law	9780801889318										9780801889318				
 Practicing Protestants	9780801889325										9780801889325				
-How "American" Is Globalization?	9780801889332										9780801889332				
+How ""American"" Is Globalization?	9780801889332										9780801889332				
 Sentimental Figures of Empire in Eighteenth-Century Britain and France	9780801889349										9780801889349				
 Journalists under Fire	9780801889356										9780801889356				
 Does Measurement Measure Up?	9780801889370										9780801889370				
@@ -3534,7 +3534,7 @@ Fire in My Bones	9780812203011										9780812203011
 Women at War	9780812202977										9780812202977				
 The Taste of Ethnographic Things	9780812203141										9780812203141				
 The Investiture Controversy	9780812200164										9780812200164				
-Suspicious Readings of Joyce's "Dubliners"	9780812202984										9780812202984				
+Suspicious Readings of Joyce's ""Dubliners""	9780812202984										9780812202984				
 Organizational Learning at NASA	9781589016026										9781589016026				
 Bluecoats and Tar Heels	9780813173061										9780813173061				
 Hitler's Man in Havana	9780813173023										9780813173023				
@@ -4931,7 +4931,7 @@ Future of Psychoanalysis, The	9780791481059										9780791481059
 Social Studies Curriculum, The	9780791481042										9780791481042				
 Iron Eyes	9780791481011										9780791481011				
 Modeling Life	9780791481004										9780791481004				
-Philosopher's "I", The	9780791480984										9780791480984				
+Philosopher's ""I"", The	9780791480984										9780791480984				
 Girls in Power	9780791480977										9780791480977				
 Democratizing Technology	9780791480960										9780791480960				
 John Dewey and Our Educational Prospect	9780791480946										9780791480946				
@@ -5703,7 +5703,7 @@ A Life on Paper	9781574413946										9781574413946
 Folklore	9781574413953										9781574413953				
 In Hostile Skies	9781574413960										9781574413960				
 One Long Tune	9781574413403										9781574413403				
-The Mason County "Hoo Doo" War, 1874-1902	9781574413977										9781574413977				
+The Mason County ""Hoo Doo"" War, 1874-1902	9781574413977										9781574413977				
 Savage Frontier Volume II 1838-1839	9781574413984										9781574413984				
 Big Muddy River of Stars	9781935603818										9781935603818				
 Everywhere at Once	9781935603849										9781935603849				
@@ -6185,7 +6185,7 @@ Neither German nor Pole	9780472025299										9780472025299
 Newcomers, Outsiders, and Insiders	9780472022199										9780472022199				
 Reluctant Partners	9780472023851										9780472023851				
 Social Science and Policy-Making	9780472023318										9780472023318				
-The "Vanity of the Philosopher"	9780472023882										9780472023882				
+The ""Vanity of the Philosopher""	9780472023882										9780472023882				
 The Many Faces of Political Islam	9780472025381										9780472025381				
 Vehicle of Influence	9780472023233										9780472023233				
 Banking on Reform	9780472023134										9780472023134				
@@ -7942,7 +7942,7 @@ Facing the Pacific	9780824862459										9780824862459
 Westlake	9780824865566										9780824865566				
 Selling Songs and Smiles	9780824864255										9780824864255				
 Pathways to the Present	9780824863906										9780824863906				
-Creating the "New Man"	9780824862022										9780824862022				
+Creating the ""New Man""	9780824862022										9780824862022				
 Cultivating Original Enlightenment	9780824862084										9780824862084				
 The Poetics of Motoori Norinaga	9780824864941										9780824864941				
 The Three Boys and other Buddhist Folk Tales from Tibet	9780824865115										9780824865115				
@@ -9118,7 +9118,7 @@ Honey, Honey, Miss Thang: Being Black, Gay, and on the Streets	9781439904848				
 Sexual Strangers: Gays, Lesbians, and Dilemmas of Citizenship	9781439904145										9781439904145				
 Identity Politics: Lesbian Feminism and the Limits of Community	9781439904121										9781439904121				
 Courts Liberalism And Rights: Gay Law And Politics In The United States and Canada	9781592134021										9781592134021				
-Black Venus 2010: They Called Her "Hottentot"	9781439902066										9781439902066				
+Black Venus 2010: They Called Her ""Hottentot""	9781439902066										9781439902066				
 Yellow Journalist: Dispatches from Asian America	9781439903599										9781439903599				
 Hume's Inexplicable Mystery: His Views on Religion	9781439904053										9781439904053				
 Producing Power: Ethnicity, Gender, and Class in a Caribbean Workplace	9781439904459										9781439904459				
@@ -9219,7 +9219,7 @@ Frontiers Of Illusion: Science, Technology, and the Politics of Progress	9781439
 The Sponsored Life: Ads, TV, and American Culture	9781439904909										9781439904909				
 Messiahs of 1933: How American Yiddish Theatre Survived Adversity through Satire	9781592138746										9781592138746				
 The Politics of Street Crime: Criminal Process and Cultural Obsession	9781439905029										9781439905029				
-The Ethical Engineer: An "Ethics Construction Kit" Places Engineering in a New Light	9781439906491										9781439906491				
+The Ethical Engineer: An ""Ethics Construction Kit"" Places Engineering in a New Light	9781439906491										9781439906491				
 Moral Responsibility and Persons	9781439906514										9781439906514				
 Hard-Boiled	9781592139118										9781592139118				
 The Case About Amy	9781439905319										9781439905319				
@@ -9369,7 +9369,7 @@ Black City Cinema	9781439905654										9781439905654
 The Philadelphia Mummers: Building Community Through Play	9781592136117										9781592136117				
 Vegetarianism: Movement Or Moment: Promoting A Lifestyle For Cult Change	9781439905524										9781439905524				
 The Physician's Hand: Nurses and Nursing in the Twentieth Century	9781439904602										9781439904602				
-The Origins of Capitalism and the "Rise of the West"	9781592135776										9781592135776				
+The Origins of Capitalism and the ""Rise of the West""	9781592135776										9781592135776				
 Cultural Citizenship: Cosmopolitanism, Consumerism, and Television in a Neoliberal Age	9781592135622										9781592135622				
 Sportsex	9781592138203										9781592138203				
 Transforming Knowledge 2Nd Edition	9781439904763										9781439904763				
@@ -9568,7 +9568,7 @@ New Orleans Cuisine	9781604736458										9781604736458
 Plunging into Haiti	9781604735345										9781604735345				
 Fredric Wertham and the Critique of Mass Culture	9781604730715										9781604730715				
 Air Ball	9781604730746										9781604730746				
-Empire and Slavery in American Literature, 1820â?"1865	9781604736144										9781604736144				
+Empire and Slavery in American Literature, 1820â?""1865	9781604736144										9781604736144				
 Can Anything Beat White?	9781617030680										9781617030680				
 Shadow and Shelter	9781604730692										9781604730692				
 Alternative Comics	9781604735871										9781604735871				
@@ -9577,7 +9577,7 @@ Mass Media and the Shaping of American Feminism, 1963-1975	9781604730517								
 Carville	9781604736038										9781604736038				
 Romance and Rights	9781604730593										9781604730593				
 The Cajuns	9781604734966										9781604734966				
-A History of Affirmative Action, 1619â?"2000	9781604730319										9781604730319				
+A History of Affirmative Action, 1619â?""2000	9781604730319										9781604730319				
 The Transformation of the Southeastern Indians, 1540-1760	9781604739558										9781604739558				
 Freedom Walk	9781604735413										9781604735413				
 Louisiana Fiddlers	9781604732962										9781604732962				
@@ -10103,7 +10103,7 @@ Jewishness of Israelis, The	9781438410883										9781438410883
 Language, Torah, and Hermeneutics in Abraham Abulafia	9781438407449										9781438407449				
 Legacy of Night	9781438402796										9781438402796				
 Living Root	9780791492277										9780791492277				
-Maimonides on the "Decline of the Generations" and the Nature of Rabbinic Authority	9781438408675										9781438408675				
+Maimonides on the ""Decline of the Generations"" and the Nature of Rabbinic Authority	9781438408675										9781438408675				
 Managing Change in Old Age	9781438406268										9781438406268				
 Meditations of a Holocaust Traveler	9781438411927										9781438411927				
 Mystical Experience in Abraham Abulafia, The	9781438407456										9781438407456				
@@ -10798,7 +10798,7 @@ To the Other	9781612490373										9781612490373
 Cognition, Education, and Deafness	9781563681684										9781563681684				
 Deaf History Unveiled	9781563681745										9781563681745				
 Deaf President Now!	9781563682025										9781563682025				
-For "Children Who Vary from the Normal Type"	9781563682162										9781563682162				
+For ""Children Who Vary from the Normal Type""	9781563682162										9781563682162				
 Pictures in the Air	9781563682223										9781563682223				
 Joss and Gold	9781558617117										9781558617117				
 Moving Up or Moving On	9781610440097										9781610440097				
@@ -11548,7 +11548,7 @@ Santa Cruz Island Figure Sculpture and Its Social and Ritual Contexts	9781934536
 Rebuilding Urban Places After Disaster	9780812204483										9780812204483				
 Reconciliation in Divided Societies	9780812206388										9780812206388				
 A Regional Survey and Analyses of the Vrokastro Area, Eastern Crete, Volume 1	9781934536209										9781934536209				
-The World of "Piers Plowman"	9780812205787										9780812205787				
+The World of ""Piers Plowman""	9780812205787										9780812205787				
 Body and Emotion	9780812206425										9780812206425				
 From Margins to Mainstream	9780812206708										9780812206708				
 Shelter Blues	9780812206432										9780812206432				
@@ -12118,7 +12118,7 @@ Can't I Love What I Criticize?	9780820336510										9780820336510
 Imaginary Lives of Mechanical Men	9780820342863										9780820342863				
 Being and God	9780810165601										9780810165601				
 3,000 locuciones verbales y combinaciones frecuentes	9781589017634										9781589017634				
-The Lost History of "Piers Plowman"	9780812205800										9780812205800				
+The Lost History of ""Piers Plowman""	9780812205800										9780812205800				
 Beyond Objectivism and Relativism	9780812205503										9780812205503				
 Leaderless Jihad	9780812206784										9780812206784				
 Import Safety	9780812205916										9780812205916				
@@ -12278,7 +12278,7 @@ The American Midwest	9780253003492										9780253003492
 India in Africa, Africa in India	9780253003164										9780253003164				
 The Yoruba Diaspora in the Atlantic World	9780253003010										9780253003010				
 Sound Targets	9780253003003										9780253003003				
-The "Racial" Economy of Science	9780253115539										9780253115539				
+The ""Racial"" Economy of Science	9780253115539										9780253115539				
 The Art of Teaching Music	9780253000200										9780253000200				
 Races on Display	9780253000149										9780253000149				
 Fiddling in West Africa	9780253000095										9780253000095				
@@ -12314,7 +12314,7 @@ Long Is the Way and Hard	9781610752466										9781610752466
 Perspectives on Food-Safety Issues of Animal-Derived Foods	9781610753050										9781610753050				
 During Wind and Rain	9781610751346										9781610751346				
 Live Nude Girl	9781610752428										9781610752428				
-Writing "Huck Finn"	9780812200454										9780812200454				
+Writing ""Huck Finn""	9780812200454										9780812200454				
 Sustaining Civil Society	9780271052236										9780271052236				
 Before the Revolution	9780271052250										9780271052250				
 Rethinking Contemporary Warfare	9781438431864										9781438431864				
@@ -13447,7 +13447,7 @@ The Scummers	9781935978572										9781935978572
 War upon the Land	9780820343839										9780820343839				
 Heavenly Bodies	9780809330645										9780809330645				
 Stumbling Its Way through Mexico	9780817385491										9780817385491				
-Truman Capote and the Legacy of "In Cold Blood"	9780817385880										9780817385880				
+Truman Capote and the Legacy of ""In Cold Blood""	9780817385880										9780817385880				
 Poets Beyond the Barricade	9780817385927										9780817385927				
 Keeping the Faith	9780817385965										9780817385965				
 The Calusa	9780817385798										9780817385798				
@@ -14480,7 +14480,7 @@ Answer at Once	9780813928906										9780813928906
 The Big House after Slavery	9780813930084										9780813930084				
 The Citizenship Revolution	9780813930312										9780813930312				
 Segregation's Science	9780813930343										9780813930343				
-A "Topping People"	9780813930374										9780813930374				
+A ""Topping People""	9780813930374										9780813930374				
 Acts of Narrative Resistance	9780813930572										9780813930572				
 Coming to Terms with Democracy	9780813921693										9780813921693				
 Bacchus and Civic Order	9780813921709										9780813921709				
@@ -15788,7 +15788,7 @@ Empire Jews	9780893578497										9780893578497
 In Search of Milk and Honey	9780893578473										9780893578473				
 Rude & Barbarous Kingdom Revisited	9780893578596										9780893578596				
 Village Values	9780893578534										9780893578534				
-Everyday Life and the "Reconstruction" of Soviet Russia during and after the Great Patriotic War, 1943-1948	9780893578480										9780893578480				
+Everyday Life and the ""Reconstruction"" of Soviet Russia during and after the Great Patriotic War, 1943-1948	9780893578480										9780893578480				
 The Making of Russian History	9780893578671										9780893578671				
 Mapping the Feminine	9780893578541										9780893578541				
 Uncensored?	9780893578503										9780893578503				
@@ -15826,7 +15826,7 @@ The Coal Life	9781610754965										9781610754965
 The Fervent Embrace	9780814708378										9780814708378				
 Calexico	9780816505289										9780816505289				
 Frantic Panoramas	9780812201246										9780812201246				
-The Bagnios of Algiers and "The Great Sultana"	9780812207903										9780812207903				
+The Bagnios of Algiers and ""The Great Sultana""	9780812207903										9780812207903				
 Gaining Ground, Second Edition	9780253005373										9780253005373				
 Journey to a Nineteenth-Century Shtetl	9780814337332										9780814337332				
 The Essential Peirce, Volume 2	9780253007810										9780253007810				
@@ -18162,7 +18162,7 @@ Foundational Essays in James Joyce Studies	9780813045528										9780813045528
 Girls of the Factory	9780813045573										9780813045573				
 Misfortunes and Shipwrecks in the Seas of the Indies, Islands, and Mainland of the Ocean Sea (1513–1548)	9780813045702										9780813045702				
 Natives, Europeans, and Africans in Colonial Campeche	9780813045726										9780813045726				
-Teaching "Race" with a Gendered Edge	9786155225062										9786155225062				
+Teaching ""Race"" with a Gendered Edge	9786155225062										9786155225062				
 Capitalism from Outside?	9786155053719										9786155053719				
 The Convolutions of Historical Politics	9786155225468										9786155225468				
 Letters of Sincerity	9789679948523										9789679948523				
@@ -18361,7 +18361,7 @@ Economics of Banana Production and Marketing in the Tropics	9789956726479							
 Kingdom of Mankon	9789956579747										9789956579747				
 RÈussite scolaire, Faillite Sociale	9789956716524										9789956716524				
 The Constitution of England	9781614877929										9781614877929				
-Observations on "The Two Sons of Oil"	9781614877950										9781614877950				
+Observations on ""The Two Sons of Oil""	9781614877950										9781614877950				
 The American Republic	9781614877974										9781614877974				
 The Elements of Moral Philosophy	9781614877967										9781614877967				
 The Free Sea	9781614877998										9781614877998				
@@ -18976,7 +18976,7 @@ The Road to Renewal	9780813216881										9780813216881
 The Theological-Political Origins of the Modern State	9780813219011										9780813219011				
 Through the Past Darkly	9780813215884										9780813215884				
 Charity and Religion in Medieval Europe	9780813218878										9780813218878				
-The New Prophecy and "New Visions"	9780813215907										9780813215907				
+The New Prophecy and ""New Visions""	9780813215907										9780813215907				
 Aesthetic Revelation	9780813218168										9780813218168				
 Light and Glory	9780813218984										9780813218984				
 Cusanus	9780813220352										9780813220352				
@@ -19049,7 +19049,7 @@ Tradition and the Rule of Faith in the Early Church	9780813219028										97808
 Uncharted Territory	9780813216515										9780813216515				
 The Eyes of Faith	9780813217109										9780813217109				
 Reason Fulfilled by Revelation	9780813219134										9780813219134				
-A Sip from the "Well of Grace"	9780813217154										9780813217154				
+A Sip from the ""Well of Grace""	9780813217154										9780813217154				
 Plato's Critique of Impure Reason	9780813218304										9780813218304				
 The Texture of Being	9780813216539										9780813216539				
 The Reception of Pragmatism in France and the Rise of Roman Catholic Modernism, 1890-1914	9780813217161										9780813217161				
@@ -19110,7 +19110,7 @@ Governance, Politics and the Environment	9789812308337										9789812308337
 Federal-State Relations in Sabah, Malaysia	9789812308139										9789812308139				
 The Indian National Army and Japan	9789812308078										9789812308078				
 Production Networks and Industrial Clusters	9789812307644										9789812307644				
-Creating "Greater Malaysia"	9789812307989										9789812307989				
+Creating ""Greater Malaysia""	9789812307989										9789812307989				
 Indonesian Syariah	9789812308030										9789812308030				
 Japan and China in East Asian Integration	9789812307484										9789812307484				
 Russia-ASEAN Relations	9789812307378										9789812307378				
@@ -19251,7 +19251,7 @@ Juanita la Larga	9780813216645										9780813216645
 Aquinas and Sartre	9780813218946										9780813218946				
 The Supreme Court and McCarthy-Era Repression	9780252094125										9780252094125				
 The Complete Letters of Constance Fenimore Woolson	9780813043579										9780813043579				
-Aristotle's "Best Regime"	9780807152386										9780807152386				
+Aristotle's ""Best Regime""	9780807152386										9780807152386				
 A Perfect War of Politics	9780807152416										9780807152416				
 Body and Soul	9780813923901										9780813923901				
 Travelers to the Other World	9780826348906										9780826348906				
@@ -20297,7 +20297,7 @@ Letters of Peter Abelard, Beyond the Personal	9780813217079										97808132170
 Theological and Dogmatic Works (The Fathers of the Church, Volume 44)	9780813211442										9780813211442				
 Hexameron, Paradise, and Cain and Abel (The Fathers of the Church, Volume 42)	9780813211428										9780813211428				
 Commentary on the Apocalypse	9780813219424										9780813219424				
-Commentaries on Aristotle's "On Sense and What Is Sensed" and "On Memory and Recollection" (Thomas Aquinas in Translation)	9780813216614										9780813216614				
+Commentaries on Aristotle's ""On Sense and What Is Sensed"" and ""On Memory and Recollection"" (Thomas Aquinas in Translation)	9780813216614										9780813216614				
 Commentary on the Gospel of John	9780813217734										9780813217734				
 Commentary on the Gospel of John, Chapters 6-12	9780813217741										9780813217741				
 Commentary on the Gospel of John	9780813217758										9780813217758				
@@ -20885,7 +20885,7 @@ Untouchable Fictions: Literary Realism and the Crisis of Caste	9780823250486				
 The Discipline of Philosophy and the Invention of Modern Jewish Thought	9780823250295										9780823250295				
 Reading Descartes Otherwise:Blind, Mad, Dreamy, and Bad	9780823250493										9780823250493				
 Marginal Modernity:The Aesthetics of Dependency from Kierkegaard to Joyce	9780823250363										9780823250363				
-The Text and Contexts of Ignatius Loyola's "Autobiography"	9780823250615										9780823250615				
+The Text and Contexts of Ignatius Loyola's ""Autobiography""	9780823250615										9780823250615				
 Trust: Who or What Might Support Us?	9780823250431										9780823250431				
 The Sense of Semblance:Philosophical Analyses of Holocaust Art	9780823250318										9780823250318				
 Italian Women and International Cold War Politics, 1944-1968	9780823250349										9780823250349				
@@ -22058,7 +22058,7 @@ Colorado	9781607322276										9781607322276
 Wide Rivers Crossed	9781607322313										9781607322313				
 Tradition in the Twenty-First Century	9780874219005										9780874219005				
 Early Hominin Paleoecology	9781607322252										9781607322252				
-Hunting for "Dirtbags"	9781555538149										9781555538149				
+Hunting for ""Dirtbags""	9781555538149										9781555538149				
 Exile and Embrace	9781555538187										9781555538187				
 Issachar Bates	9781611684087										9781611684087				
 Playing Tough	9781555538156										9781555538156				
@@ -22123,7 +22123,7 @@ The Wife of Martin Guerre	9780804040532										9780804040532
 The Trial of Sören Qvist	9780804040549										9780804040549				
 The Sun Never Sets	9780814786451										9780814786451				
 Pagan Family Values	9780814744987										9780814744987				
-The Law, "The State," and Other Political Writings, 1843-1850	9781614879015										9781614879015				
+The Law, ""The State,"" and Other Political Writings, 1843-1850	9781614879015										9781614879015				
 Liberty in Mexico	9781614879039										9781614879039				
 Chicana/o Struggles for Education	9781603449960										9781603449960				
 Essays on the Presidents	9780875654980										9780875654980				
