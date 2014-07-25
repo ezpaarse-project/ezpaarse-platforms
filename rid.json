@@ -12,7 +12,7 @@
   {
     "code": "doi",
     "description":  "reconnaissance du DOI",
-    "comment": "Le DOI est ensuite utilisé pour retrouver un ISSN"
+    "comment": "Quand c'est possible, le DOI est ensuite utilisé pour retrouver un ISSN à partir d'une PKB"
   },
   {
     "code": "pisbn",
