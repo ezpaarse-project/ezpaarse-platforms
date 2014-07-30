@@ -51,5 +51,10 @@ module.exports = new Parser(function analyseEC(parsedUrl, ec) {
     result._granted = false;
   }
 
+  // do not return ECs with empty rtype and empty mime
+  if (!result.rtype && !result.mime) {
+    result = {};
+  }
+
   return result;
 });
