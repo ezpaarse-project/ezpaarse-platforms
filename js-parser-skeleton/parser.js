@@ -1,19 +1,24 @@
 #!/usr/bin/env node
 
 // ##EZPAARSE
-// very simple skeleton parser
 
 /*jslint maxlen: 150*/
 'use strict';
 var Parser = require('../.lib/parser.js');
 
+/**
+ * [description-goes-here]
+ * @param  {Object} parsedUrl an object representing the URL to analyze
+ *                            main attributes: pathname, query, hostname
+ * @param  {Object} ec        an object representing the EC whose URL is being analyzed
+ * @return {Object} the result
+ */
 module.exports = new Parser(function analyseEC(parsedUrl) {
   var result = {};
-  //var param  = parsedUrl.query || {};
   var path   = parsedUrl.pathname;
 
-// use console.error for debuging
-//console.error(parsedUrl);
+  // use console.error for debuging
+  // console.error(parsedUrl);
 
   var match;
 
@@ -30,6 +35,7 @@ module.exports = new Parser(function analyseEC(parsedUrl) {
     result.title_id = match[1];
     result.unitid = match[2];
   }
+
   return result;
 });
 
