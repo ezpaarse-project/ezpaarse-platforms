@@ -13,7 +13,7 @@ var Parser = require('../.lib/parser.js');
  * @param  {Object} ec        an object representing the EC whose URL is being analyzed
  * @return {Object} the result
  */
-module.exports = new Parser(function analyseEC(parsedUrl) {
+module.exports = new Parser(function analyseEC(parsedUrl, ec) {
   var result = {};
   var path   = parsedUrl.pathname;
 
