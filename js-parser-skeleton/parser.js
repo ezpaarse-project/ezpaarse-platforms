@@ -24,16 +24,16 @@ module.exports = new Parser(function analyseEC(parsedUrl, ec) {
 
   if ((match = /^\/platform\/path\/to\/(document\-([0-9]+)\-test\.pdf)$/.exec(path)) !== null) {
     // http://parser.skeleton.js/platform/path/to/document-123456-test.pdf?sequence=1
-    result.rtype = 'ARTICLE';
-    result.mime  = 'PDF';
+    result.rtype    = 'ARTICLE';
+    result.mime     = 'PDF';
     result.title_id = match[1];
-    result.unitid = match[2];
+    result.unitid   = match[2];
   } else if ((match = /^\/platform\/path\/to\/(document\-([0-9]+)\-test\.html)$/.exec(path)) !== null) {
     // http://parser.skeleton.js/platform/path/to/document-123456-test.html?sequence=1
-    result.rtype = 'ARTICLE';
-    result.mime  = 'HTML';
+    result.rtype    = 'ARTICLE';
+    result.mime     = 'HTML';
     result.title_id = match[1];
-    result.unitid = match[2];
+    result.unitid   = match[2];
   }
 
   return result;
