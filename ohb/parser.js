@@ -2,7 +2,7 @@
 
 // ##EZPAARSE
 
-/*jslint maxlen: 150*/
+/*jslint maxlen: 250*/
 'use strict';
 var Parser = require('../.lib/parser.js');
 
