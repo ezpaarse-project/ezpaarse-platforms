@@ -1,0 +1,28 @@
+{
+  "version": "2014-08-01",
+  "status": "beta",
+  "name": "ohb",
+  "longname": "Oxford Handbooks",
+  "describe": "Identifie les consultations de la plateforme Oxford Handbooks",
+  "docurl": "http://analogist.couperin.org/platforms/oxford-handbooks/",
+  "contact": "yannick.schurter at inist.fr",
+  "pkb": true,
+  "domains": [
+    "www.oxfordhandbooks.com"
+  ],
+  "recognize": {
+    "rid": [
+      "doi",
+      "print_identifier",
+      "unitid"
+    ],
+    "rtype": [
+      "BOOK_SECTION",
+      "TOC"
+    ],
+    "mime": [
+      "HTML",
+      "PDF"
+    ]
+  }
+}
