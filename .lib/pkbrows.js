@@ -109,17 +109,20 @@ PkbRows.prototype.addRow = function (row, deduplicateFn) {
   var ridchecker  = require('../../lib/rid-syntax-checker.js');
 
 
-  // cleanup ISSN values
+  // cleanup ISSN/ISBN values
   if (row.online_identifier !== undefined) {
     if (row.print_identifier !== undefined) { row.print_identifier = row.print_identifier.trim().toUpperCase(); }
-    // check ISSN syntax and set it to blank if wrong
+    // check ISSN/ISBN syntax and set it to blank if wrong
     if (row.print_identifier === 'N/A' || row.print_identifier === 'EN COURS' || row.print_identifier === 'UNKNOWN') {
       row.print_identifier = '';
     }
-
     // if ISSN is not valid remove controls
-    if (row.print_identifier.length && !ridchecker.getISSN(row.print_identifier).isValid) {
-      row.print_identifier = '#' + row.print_identifier;
+    if (row.print_identifier.length) {
+      var validISSN = ridchecker.getISSN(row.print_identifier).isValid;
+      var validISBN = ridchecker.getISBN(row.print_identifier).isValid;
+      if (!validISSN && !validISBN) {
+        row.print_identifier = '#' + row.print_identifier;
+      }
     }
   }
 
@@ -130,8 +133,12 @@ PkbRows.prototype.addRow = function (row, deduplicateFn) {
     }
 
     // if ISSN is not valid remove controls
-    if (row.online_identifier.length && !ridchecker.getISSN(row.online_identifier).isValid) {
-      row.online_identifier = '#' + row.online_identifier;
+    if (row.online_identifier.length) {
+      var validISSN = ridchecker.getISSN(row.online_identifier).isValid;
+      var validISBN = ridchecker.getISBN(row.online_identifier).isValid;
+      if (!validISSN && !validISBN) {
+        row.online_identifier = '#' + row.online_identifier;
+      }
     }
   }
 
