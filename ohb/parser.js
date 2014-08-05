@@ -30,6 +30,11 @@ module.exports = new Parser(function analyseEC(parsedUrl, ec) {
     result.unitid           = match[1];
     result.title_id         = match[2];
     result.print_identifier = match[3];
+
+    // if the size is less than 18ko, it's not the actual article
+    if (result.rtype === 'BOOK_SECTION' && ec.size && ec.size < 18000) {
+      result._granted = false;
+    }
   } else if ((match = /^\/[a-z]+\/download[a-z]+\/\/?([0-9]+\.[0-9]+\/([a-z]+\/([0-9]+))\.[0-9]+\.[0-9]+)\/[a-z]+\-[0-9]+\-e\-[0-9]+\/.*/.exec(path)) !== null) {
     // http://www.oxfordhandbooks.com/oso/downloaddoclightbox/$002f10.1093$002foxfordhb$002f9780195188059.001.0001$002foxfordhb-9780195188059-e-2/An$0020American$0020Conundrum:$0020Race$002c$0020Sociology$002c$0020And$0020The$0020African$0020American$0020Road$0020To$0020Citizenship?nojs=true
     result.rtype            = 'BOOK_SECTION';
@@ -40,10 +45,6 @@ module.exports = new Parser(function analyseEC(parsedUrl, ec) {
     result.print_identifier = match[3];
   }
 
-  // if the size is less than 18ko, it's not the actual article
-  if (ec.size && ec.size < 18000) {
-    result._granted = false;
-  }
 
   return result;
 });
