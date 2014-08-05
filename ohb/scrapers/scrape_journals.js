@@ -14,8 +14,6 @@ var request = require('request').defaults({
 });
 
 var XLSX = require('xlsx');
-var URL  = require('url');
-var fs   = require('fs');
 
 var PkbRows = require('../../.lib/pkbrows.js');
 
@@ -95,8 +93,8 @@ request.get('http://www.oxfordhandbooks.com/page/title-lists', function (err, re
     var doiColumn = fields['pkb-doi'];
     pkb.setKbartName();
 
-    for (var i = 2, l = json.length; i < l; i++) {
-      var row      = json[i];
+    for (var k = 2, l = json.length; k < l; k++) {
+      var row      = json[k];
       var kbartRow = pkb.initRow({});
 
       for (var f in fields) { kbartRow[f] = row[fields[f]]; }
