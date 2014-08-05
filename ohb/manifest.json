@@ -14,7 +14,8 @@
     "rid": [
       "doi",
       "print_identifier",
-      "unitid"
+      "unitid",
+      "title_id"
     ],
     "rtype": [
       "BOOK_SECTION",
