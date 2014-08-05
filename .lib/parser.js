@@ -73,7 +73,7 @@ Parser.prototype.execute = function (urls) {
         .map(String)
         .map(function (line) {
           var url;
-          var ec;
+          var ec = {};
 
           try {
             if (self.json) {
