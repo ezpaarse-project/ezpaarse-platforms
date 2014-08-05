@@ -40,5 +40,10 @@ module.exports = new Parser(function analyseEC(parsedUrl, ec) {
     result.print_identifier = match[3];
   }
 
+  // if the size is less than 17ko, it's not the actual article
+  if (ec.size && ec.size < 17000) {
+    result._granted = false;
+  }
+
   return result;
 });
