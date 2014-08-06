@@ -1,0 +1,29 @@
+{
+  "version": "2014-08-05",
+  "status": "beta",
+  "name": "oso",
+  "longname": "Oxford Scholarship Online",
+  "describe": "Identifie les consultations de la plateforme Oxford Scholarship Online",
+  "docurl": "http://analogist.couperin.org/platforms/oxford-scholarship-online/",
+  "contact": "yannick.schurter at inist.fr",
+  "pkb": true,
+  "domains": [
+    "http://www.oxfordscholarship.com/"
+  ],
+  "recognize": {
+    "rid": [
+      "doi",
+      "print_identifier",
+      "unitid",
+      "title_id"
+    ],
+    "rtype": [
+      "BOOK_SECTION",
+      "TOC"
+    ],
+    "mime": [
+      "HTML",
+      "PDF"
+    ]
+  }
+}
