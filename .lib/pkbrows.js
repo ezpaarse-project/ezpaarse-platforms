@@ -238,8 +238,8 @@ PkbRows.prototype.writeCSV = function (dstStream) {
     }
     fields.forEach(function (field, idx) {
       if (row[field] === undefined) row[field] = ''; // keep only strings
-      if (/;/.test(row[field])) {
-        dstStream.write('"' + row[field].replace('"', '""') + '"');
+      if (/[;"]/.test(row[field])) {
+        dstStream.write('"' + row[field].replace(/"/g, '""') + '"');
       } else {
         dstStream.write(row[field]);
       }
@@ -262,13 +262,12 @@ PkbRows.prototype.writeKbart = function (callback) {
   self.sortRows();
 
   var fields    = [];
-  var separator = '\t';
   var dstStream = fs.createWriteStream(self.kbartFileName);
 
   fields = Object.keys(self.rows[0]);
   fields.forEach(function (field, idx) {
     dstStream.write(field);
-    if (idx < fields.length - 1) { dstStream.write(separator); }
+    if (idx < fields.length - 1) { dstStream.write('\t'); }
   });
   dstStream.write('\n');
 
@@ -283,12 +282,12 @@ PkbRows.prototype.writeKbart = function (callback) {
     var line = '';
     fields.forEach(function (field, idx) {
       if (!row[field]) { row[field] = ''; } // keep only strings
-      if (/separator/.test(row[field])) {
-        line += '"' + row[field].replace('"', '""') + '"';
+      if (/[\t"]/.test(row[field])) {
+        line += '"' + row[field].replace(/"/g, '""') + '"';
       } else {
         line += row[field];
       }
-      if (idx < fields.length - 1) { line += separator; }
+      if (idx < fields.length - 1) { line += '\t'; }
     });
     line += '\n';
 
