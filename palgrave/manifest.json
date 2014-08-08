@@ -1,0 +1,28 @@
+{
+  "version": "2014-08-08",
+  "status": "beta",
+  "domains": [
+    "www.palgrave-journals.com"
+  ],
+  "recognize": {
+    "rid": [
+      "title_id",
+      "unitid"
+    ],
+    "rtype": [
+      "ARTICLE",
+      "ABS",
+      "TOC"
+    ],
+    "mime": [
+      "HTML",
+      "PDF"
+    ]
+  },
+  "name": "palgrave",
+  "longname": "Palgrave Journals",
+  "describe": "Identifie les consultations de la plateforme Palgrave Journals",
+  "docurl": "http://analogist.couperin.org/platforms/palgrave-journals/",
+  "contact": "yannick.schurter at inist.fr",
+  "pkb": true
+}
