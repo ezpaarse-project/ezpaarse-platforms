@@ -1,0 +1,60 @@
+publication_title	print_identifier	online_identifier	date_first_issue_online	num_first_vol_online	num_first_issue_online	date_last_issue_online	num_last_vol_online	num_last_issue_online	title_url	first_author	title_id	embargo_info	coverage_depth	coverage_notes	publisher_name	publication_type	date_monograph_published_print	date_monograph_published_online	monograph_volume	monograph_edition	first_editor	parent_publication_title_id	preceding_publication_title_id	access_type
+American Journal of Cultural Sociology	2049-7113	2049-7121							http://www.palgrave-journals.com/ajcs/		ajcs													
+The American Journal of Psychoanalysis	0002-9548	1573-6741							http://www.palgrave-journals.com/ajp/		ajp													
+Acta Politica	0001-6810	1741-1416							http://www.palgrave-journals.com/ap/		ap													
+Business Economics	0007-666X	1554-432X							http://www.palgrave-journals.com/be/		be													
+BioSocieties	1745-8552	1745-8560							http://www.palgrave-journals.com/biosoc/		biosoc													
+Journal of Brand Management	1350-231X	1479-1803							http://www.palgrave-journals.com/bm/		bm													
+British Politics	1746-918X	1746-9198							http://www.palgrave-journals.com/bp/		bp													
+Comparative European Politics	1472-4790	1740-388X							http://www.palgrave-journals.com/cep/		cep													
+Comparative Economic Studies	0888-7233	1478-3320							http://www.palgrave-journals.com/ces/		ces													
+Crime Prevention & Community Safety	1460-3780	1743-4629							http://www.palgrave-journals.com/cpcs/		cpcs													
+Contemporary Political Theory	1470-8914	1476-9336							http://www.palgrave-journals.com/cpt/		cpt													
+Corporate Reputation Review	1363-3589	1479-1889							http://www.palgrave-journals.com/crr/		crr													
+Journal of Direct, Data and Digital Marketing Practice	1746-0166	1746-0174							http://www.palgrave-journals.com/dddmp/		dddmp													
+Development	1011-6370	1461-7072							http://www.palgrave-journals.com/development/		development													
+Eastern Economic Journal	0094-5056	1939-4632							http://www.palgrave-journals.com/eej/		eej													
+The European Journal of Development Research	0957-8811	1743-9728							http://www.palgrave-journals.com/ejdr/		ejdr													
+European Journal of Information Systems	0960-085X	1476-9344							http://www.palgrave-journals.com/ejis/		ejis													
+Economic & Labour Market Review	1751-8326								http://www.palgrave-journals.com/elmr/		elmr													
+European Political Science	1680-4333	1682-0983							http://www.palgrave-journals.com/eps/		eps													
+French Politics	1476-3419	1476-3427							http://www.palgrave-journals.com/fp/		fp													
+Feminist Review	0141-7789	1466-4380							http://www.palgrave-journals.com/fr/		fr													
+Journal of Financial Services Marketing	1363-0539	1479-1846							http://www.palgrave-journals.com/fsm/		fsm													
+The Geneva Papers on Risk and Insurance - Issues and Practice	1018-5895	1468-0440							http://www.palgrave-journals.com/gpp/		gpp													
+The Geneva Risk and Insurance Review	1554-964X	1554-9658							http://www.palgrave-journals.com/grir/		grir													
+Higher Education Policy	0952-8733	1740-3863							http://www.palgrave-journals.com/hep/		hep													
+Health Systems	2047-6965	2047-6973							http://www.palgrave-journals.com/hs/		hs													
+International Abstracts in Operations Research	0020-580X	1476-9352							http://www.palgrave-journals.com/iaor/		iaor													
+Interest Groups & Advocacy	2047-7414	2047-7422							http://www.palgrave-journals.com/iga/		iga													
+IMF Economic Review	2041-4161	2041-417X							http://www.palgrave-journals.com/imfer/		imfer													
+International Politics	1384-5748	1740-3898							http://www.palgrave-journals.com/ip/		ip													
+International Politics Reviews	2050-2982	2050-2990							http://www.palgrave-journals.com/ipr/		ipr													
+Journal of Asset Management	1470-8272	1479-179X							http://www.palgrave-journals.com/jam/		jam													
+Journal of Banking Regulation	1745-6452	1750-2071							http://www.palgrave-journals.com/jbr/		jbr													
+International Journal of Disclosure and Governance	1741-3591	1746-6539							http://www.palgrave-journals.com/jdg/		jdg													
+Journal of Derivatives & Hedge Funds	1753-9641	1753-965X							http://www.palgrave-journals.com/jdhf/		jdhf													
+Journal of International Business Studies	0047-2506	1478-6990							http://www.palgrave-journals.com/jibs/		jibs													
+Journal of International Relations and Development	1408-6980	1581-1980							http://www.palgrave-journals.com/jird/		jird													
+Journal of Information Technology	0268-3962	1466-4437							http://www.palgrave-journals.com/jit/		jit													
+Journal of Information Technology Teaching Cases		2043-8869							http://www.palgrave-journals.com/jittc/		jittc													
+Journal of Marketing Analytics	2050-3318	2050-3326							http://www.palgrave-journals.com/jma/		jma													
+Journal of the Operational Research Society	0160-5682	1476-9360							http://www.palgrave-journals.com/jors/		jors													
+Journal of Simulation	1747-7778	1747-7786							http://www.palgrave-journals.com/jos/		jos													
+Journal of Public Health Policy	0197-5897	1745-655X							http://www.palgrave-journals.com/jphp/		jphp													
+Knowledge Management Research & Practice	1477-8238	1477-8246							http://www.palgrave-journals.com/kmrp/		kmrp													
+Latino Studies	1476-3435	1476-3443							http://www.palgrave-journals.com/lst/		lst													
+Monthly Digest of Statistics	0308-6666								http://www.palgrave-journals.com/mds/		mds													
+Maritime Economics & Logistics	1479-2931	1479-294X							http://www.palgrave-journals.com/mel/		mel													
+OR Insight	0953-5543	1759-0477							http://www.palgrave-journals.com/ori/		ori													
+Palgrave Communications		2055-1045							http://www.palgrave-journals.com/palcomms/		palcomms													
+Place Branding and Public Diplomacy	1751-8040	1751-8059							http://www.palgrave-journals.com/pb/		pb													
+Psychoanalysis, Culture & Society	1088-0763	1543-3390							http://www.palgrave-journals.com/pcs/		pcs													
+postmedieval: a journal of medieval cultural studies	2040-5960	2040-5979							http://www.palgrave-journals.com/pmed/		pmed													
+Polity	0032-3497	1744-1684							http://www.palgrave-journals.com/polity/		polity													
+Risk Management	1460-3799	1743-4637							http://www.palgrave-journals.com/rm/		rm													
+Journal of Revenue and Pricing Management	1476-6930	1477-657X							http://www.palgrave-journals.com/rpm/		rpm													
+Security Journal	0955-1662	1743-4645							http://www.palgrave-journals.com/sj/		sj													
+Social Theory & Health	1477-8211	1477-822X							http://www.palgrave-journals.com/sth/		sth													
+Subjectivity	1755-6341	1755-635X							http://www.palgrave-journals.com/sub/		sub													
+	1357-5317	1468-4519							http://www.palgrave-journals.com/udi/		udi													
