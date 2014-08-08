@@ -32,7 +32,7 @@ request.get(url)
   for (var i = 0, j = xls.SheetNames.length; i < j; i++) {
     var sheet = xls.Sheets[xls.SheetNames[i]];
 
-    json = XLS.utils.sheet_to_json(sheet);
+    json = XLS.utils.sheet_to_row_object_array(sheet);
     if (json.length > 0) { break; }
   }
 
