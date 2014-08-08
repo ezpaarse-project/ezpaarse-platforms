@@ -99,7 +99,7 @@ PkbRows.prototype.initRow = function (info) {
   var kbart2Fields  = require('../../lib/outputformats/kbart.json');
 
   kbart2Fields.forEach(function (field) {
-    info[field] = '';
+    if (!info.hasOwnProperty(field)) { info[field] = ''; }
   });
   return info;
 }
