@@ -123,7 +123,7 @@ module.exports = new Parser(function analyseEC(parsedUrl) {
       result.print_identifier = match[1] + '-' + match[2];
       result.rtype    = 'ARTICLE';
       result.mime     = 'HTML';
-    } else if ((match = /\/(S?([0-9]{4})([0-9]{3}[0-9Xx])([0-9]+))\/([0-9A-Za-z\-\.]*)-main\.pdf/.exec(path)) !== null) {
+    } else if ((match = /\/(S?([0-9]{4})([0-9]{3}[0-9Xx])([0-9Xx]+))\/([0-9A-Za-z\-\.]*)-main\.pdf/.exec(path)) !== null) {
       // example : http://ac.els-cdn.com/S0967586808000258/1-s2.0-S0967586808000258-main.pdf?
       // _tid=2146516a-82a7-11e3-a57f-00000aab0f6b&acdnat=1390314188_e595d0b375febbda9fdd48d069be9b55
       // ou
