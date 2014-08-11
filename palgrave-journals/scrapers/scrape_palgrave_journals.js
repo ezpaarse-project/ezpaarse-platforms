@@ -67,7 +67,7 @@ request.get(journalsUrl, function (err, res, body) {
         return browseNext(callback);
       }
 
-      var $$      = cheerio.load(content)
+      var $$      = cheerio.load(content);
       var details = $$('#content .journal-details');
 
       if (details.length === 0) {
