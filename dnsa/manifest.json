@@ -1,0 +1,29 @@
+{
+  "version": "2014-08-11",
+  "status": "beta",
+  "domains": [
+    "nsarchive.chadwyck.com"
+  ],
+  "recognize": {
+    "rid": [
+      "title_id",
+      "unitid"
+    ],
+    "rtype": [
+      "ARTICLE",
+      "REF",
+      "ABS"
+    ],
+    "mime": [
+      "HTML",
+      "PDF",
+      "MISC"
+    ]
+  },
+  "name": "dnsa",
+  "longname": "Digital National Security Archive",
+  "describe": "Identifie les consultations de la plateforme Digital National Security Archive",
+  "docurl": "http://analogist.couperin.org/platforms/digital-national-security-archive/",
+  "contact": "yannick.schurter at inist.fr",
+  "pkb": false
+}
