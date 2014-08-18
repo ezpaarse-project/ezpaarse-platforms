@@ -17,7 +17,7 @@ var csvParse = require('csv').parse;
 var PkbRows  = require('../../.lib/pkbrows.js');
 var pkb1     = new PkbRows('cairn');
 var pkb2     = new PkbRows('cairn');
-pkb1.packageName = 'AllTitles_1'
+pkb1.packageName = 'AllTitles_1';
 pkb2.packageName = 'AllTitles_2';
 pkb1.setKbartName();
 pkb2.setKbartName();
@@ -51,7 +51,7 @@ var getMatchingList = function(callback) {
 
     callback(null, matchings);
   });
-}
+};
 
 /**
  * Get the secondary ID associated with a URL
@@ -78,29 +78,9 @@ req.on('error', function (err) {
 });
 
 req.on('response', function (res) {
-  var disposition = res.headers['content-disposition'];
-  var match       = /filename="?.*([0-9]{6})\.csv"?$/.exec(disposition);
-  var date;
-  if (match) {
-    date = '20' + match[1].substr(0, 2);
-    date += '-' + match[1].substr(2, 2);
-    date += '-' + match[1].substr(4, 2);
-  } else {
-    var now   = new Date();
-    var year  = now.getFullYear().toString();
-    var month = now.getMonth().toString();
-    var day   = now.getDay().toString();
 
-    if (day.length === 1) { day = '0' + day; }
-    if (month.length === 1) { month = '0' + month; }
-
-    date = year + '-' + month + '-' + day;
-  }
-
-  var filename = 'cairn_journals_' + date + '.txt';
   var journals = [];
-
-  var parser = csvParse({ delimiter: ';', columns: true, skip_empty_lines: true });
+  var parser   = csvParse({ delimiter: ';', columns: true, skip_empty_lines: true });
 
   res
   .pipe(iconv.decodeStream('windows-1252'))
@@ -114,7 +94,7 @@ req.on('response', function (res) {
     var journalInfo = pkb1.initRow(parser.read());
 
     // http://www.cairn.info/revue-actuel-marx.htm --> revue-actuel-marx
-    match = /\/([^\/]+)\.htm$/.exec(journalInfo.title_url);
+    var match = /\/([^\/]+)\.htm$/.exec(journalInfo.title_url);
     if (match) {
       journalInfo.title_id = match[1];
     }
