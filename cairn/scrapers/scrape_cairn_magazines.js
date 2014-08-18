@@ -1,3 +1,4 @@
+#!/usr/bin/env node
 /*
 Usage : node scrape_cairn_magazines.js > cairn.pkb.journals.YYYYMMDD.csv
 */

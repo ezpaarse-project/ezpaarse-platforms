@@ -1,3 +1,4 @@
+#!/usr/bin/env node
 /*
 Usage : node scrape_cairn_encyclopedies.js > cairn.pkb.encyclopedies.YYYYMMDD.csv
 */
