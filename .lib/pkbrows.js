@@ -264,6 +264,8 @@ PkbRows.prototype.writeKbart = function (callback) {
   var fields    = [];
   var dstStream = fs.createWriteStream(self.kbartFileName);
 
+  if (self.rows.length === 0) { return callback(); }
+
   fields = Object.keys(self.rows[0]);
   fields.forEach(function (field, idx) {
     dstStream.write(field);
