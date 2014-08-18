@@ -15,8 +15,12 @@ var iconv    = require('iconv-lite');
 var cheerio  = require('cheerio');
 var csvParse = require('csv').parse;
 var PkbRows  = require('../../.lib/pkbrows.js');
-var pkb      = new PkbRows('cairn');
-pkb.setKbartName();
+var pkb1     = new PkbRows('cairn');
+var pkb2     = new PkbRows('cairn');
+pkb1.packageName = 'AllTitles_1'
+pkb2.packageName = 'AllTitles_2';
+pkb1.setKbartName();
+pkb2.setKbartName();
 
 var kbartUrl     = 'http://dedi.cairn.info/NL/KBART/';
 var allTitlesUrl = 'http://www.cairn.info/Accueil_Revues.php?TITRE=ALL';
@@ -58,7 +62,7 @@ var getSecondaryID = function (url, callback) {
   request.get(url, function (err, response, body) {
     if (err) { return callback(err); }
 
-    var m = /src=".*?vign_rev\/([a-z]+)\/.*?\.jpg"/i.exec(body);
+    var m = /src=".*?vign_rev\/([^\/]+)\/.*?\.jpg"/i.exec(body);
 
     setTimeout(function () {
       callback(null, m ? m[1] : undefined);
@@ -107,7 +111,7 @@ req.on('response', function (res) {
     process.exit(1);
   })
   .on('readable', function () {
-    var journalInfo = pkb.initRow(parser.read());
+    var journalInfo = pkb1.initRow(parser.read());
 
     // http://www.cairn.info/revue-actuel-marx.htm --> revue-actuel-marx
     match = /\/([^\/]+)\.htm$/.exec(journalInfo.title_url);
@@ -116,7 +120,7 @@ req.on('response', function (res) {
     }
 
     journals.push(journalInfo);
-    pkb.addRow(journalInfo);
+    pkb1.addRow(journalInfo);
   })
   .on('end', function () {
     console.error('Scraping secondary identifiers');
@@ -140,10 +144,11 @@ req.on('response', function (res) {
           for (var p in journal) { newJournal[p] = journal[p]; }
           newJournal.title_id = secondaryID;
 
-          pkb.addRow(newJournal);
+          pkb2.addRow(newJournal);
           return scrapeJournal(callback);
         }
 
+        console.error('No matching found for %s, trying to scrape from the URL', journal.title_id);
         // If no matching found, try to browse the title URL to get the second ID
         getSecondaryID(journal.title_url, function (err, id) {
           if (err || !id) { console.error('No secondary ID found for %s', journal.title_id); }
@@ -151,9 +156,9 @@ req.on('response', function (res) {
           if (id) {
             var newJournal = {};
             for (var p in journal) { newJournal[p] = journal[p]; }
-            newJournal.title_id = secondaryID;
+            newJournal.title_id = id;
 
-            pkb.addRow(newJournal);
+            pkb2.addRow(newJournal);
           }
 
           setTimeout(function() {
@@ -161,10 +166,13 @@ req.on('response', function (res) {
           }, 1000);
         });
       })(function allDone() {
-        pkb.writeKbart(function () {
-          console.error('Cairn scraping is finished..');
-          console.error('File : %s', pkb.kbartFileName);
-        })
+        pkb1.writeKbart(function () {
+          pkb2.writeKbart(function () {
+            console.error('Cairn scraping is finished..');
+            console.error('File : %s', pkb1.kbartFileName);
+            console.error('File : %s', pkb2.kbartFileName);
+          });
+        });
       });
     });
   });
