@@ -8,7 +8,8 @@
   "contact": "thierry.fournier at univ-rennes1 point fr",
   "pkb": true,
 	"domains": [
-    "onlinelibrary.wiley.com"
+    "onlinelibrary.wiley.com",
+    "agupubs.onlinelibrary.wiley.com"
 	],
   "recognize": {
     "rid": [

@@ -79,6 +79,24 @@ module.exports = new Parser(function analyseEC(parsedUrl) {
     result.title_id = match[2].toUpperCase();
     result.rtype = 'BOOK_SECTION';
     result.mime = 'PDF';
+  } else if ((match = /^\/enhanced\/doi\/(([0-9]{2}\.[0-9]{4})\/([^\.]+)\.([^\/]+))\/$/.exec(path)) !== null) {
+    // http://onlinelibrary.wiley.com.biblioplanets.gate.inist.fr/enhanced/doi/10.1002/cjg2.20083/
+    result.title_id = match[3].toUpperCase();
+    result.unitid = match[1];
+    result.rtype = 'ARTICLE';
+    result.mime = 'HTML';
+  } else if ((match = /^\/enhanced\/doi\/(([0-9]{2}\.[0-9]{4})\/(([0-9]{4})([a-zA-Z0-9]{2}))([^\/]+))\/$/.exec(path)) !== null) {
+    // http://onlinelibrary.wiley.com.biblioplanets.gate.inist.fr/enhanced/doi/10.1002/2013WR014994/
+    result.title_id = match[3].toUpperCase();
+    result.unitid = match[1];
+    result.rtype = 'ARTICLE';
+    result.mime = 'HTML';
+  } else if ((match = /^\/agu\/issue\/(([0-9]{2}\.[0-9]{4})\/([^\.]+)\.([^\/]+))\/$/.exec(path)) !== null) {
+    // http://agupubs.onlinelibrary.wiley.com.biblioplanets.gate.inist.fr/agu/issue/10.1002/jgrd.v119.14/
+    result.title_id = match[3].toUpperCase();
+    result.unitid = match[1];
+    result.rtype = 'TOC';
+    result.mime = 'HTML';
   }
   return result;
 });
