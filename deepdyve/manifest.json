@@ -1,0 +1,25 @@
+{
+  "version": "2014-08-19",
+  "status": "beta",
+  "domains": [
+    "www.deepdyve.com"
+  ],
+  "recognize": {
+    "rid": [
+      "platform",
+      "unitid"
+    ],
+    "rtype": [
+      "DENIED"
+    ],
+    "mime": [
+      "MISC"
+    ]
+  },
+  "name": "deepdyve",
+  "longname": "deepdyve",
+  "describe": "Identifie les consultations de la plateforme deepdyve (gestion des accès refusés)",
+  "docurl": "http://analogist.couperin.org/platforms/deepdyve/",
+  "contact": "dominique.lechaudel@inist.fr",
+  "pkb": false
+}
