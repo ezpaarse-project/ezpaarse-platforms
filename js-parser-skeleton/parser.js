@@ -27,12 +27,17 @@ module.exports = new Parser(function analyseEC(parsedUrl, ec) {
     result.rtype    = 'ARTICLE';
     result.mime     = 'PDF';
     result.title_id = match[1];
+    //unitid is a crucial information needed to filter double-clicks phenomenon, like described by COUNTER
+    //it described the most fine-grained of what's being accessed by the user
+    //it can be a DOI, an internal identifier or a part of the accessed URL
+    //see http://ezpaarse.couperin.org/doc/ec-attributes.html#description-de-unitid for more details
     result.unitid   = match[2];
   } else if ((match = /^\/platform\/path\/to\/(document\-([0-9]+)\-test\.html)$/.exec(path)) !== null) {
     // http://parser.skeleton.js/platform/path/to/document-123456-test.html?sequence=1
     result.rtype    = 'ARTICLE';
     result.mime     = 'HTML';
     result.title_id = match[1];
+    //see the comment block above
     result.unitid   = match[2];
   }
 
