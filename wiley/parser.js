@@ -105,8 +105,8 @@ module.exports = new Parser(function analyseEC(parsedUrl) {
         result.title_id = match[3].toUpperCase();
       }
     }
-    result.rtype = 'READCUBE';
-    result.mime = 'MISC';
+    result.rtype = 'ARTICLE';
+    result.mime = 'READCUBE';
   }
   return result;
 });

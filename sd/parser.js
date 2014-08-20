@@ -123,12 +123,12 @@ module.exports = new Parser(function analyseEC(parsedUrl) {
       result.print_identifier = match[1] + '-' + match[2];
       result.rtype    = 'ARTICLE';
       result.mime     = 'HTML';
-    } else if ((match = /\/science\/article\/pii\/B([0-9]{12})([0-9Xx])([0-9]+)$/.exec(url)) !== null) {
+    } else if ((match = /\/science\/article\/pii\/B([0-9]{12}[0-9Xx])([0-9]+)$/.exec(url)) !== null) {
       // example : http://www.sciencedirect.com.biblioplanets.gate.inist.fr/science/article/pii/B9780124200029100009
-      result.unitid   = 'B' + match[1] + match[2] + match[3];
-      result.title_id = match[1] + match[2];
-      result.print_identifier = match[1] + match[2];
-      result.rtype    = 'ARTICLE';
+      result.unitid   = 'B' + match[1] + match[2];
+      result.title_id = match[1];
+      result.print_identifier = match[1];
+      result.rtype    = 'BOOK';
       result.mime     = 'HTML';
     } else if ((match = /\/(S?([0-9]{4})([0-9]{3}[0-9Xx])([0-9Xx]+))\/([0-9A-Za-z\-\.]*)-main\.pdf/.exec(path)) !== null) {
       // example : http://ac.els-cdn.com/S0967586808000258/1-s2.0-S0967586808000258-main.pdf?
@@ -141,12 +141,12 @@ module.exports = new Parser(function analyseEC(parsedUrl) {
       result.print_identifier  = match[2] + '-' + match[3];
       result.rtype    = 'ARTICLE';
       result.mime     = 'PDF';
-    } else if ((match = /\/B([0-9]{12})([0-9Xx])([0-9]+)\/([0-9A-Za-z\-\.]*)-main\.pdf/.exec(path)) !== null) {
+    } else if ((match = /\/B([0-9]{12}[0-9Xx])([0-9]+)\/([0-9A-Za-z\-\.]*)-main\.pdf/.exec(path)) !== null) {
       // http://ac.els-cdn.com.gate1.inist.fr/B9780080449241500046/3-s2.0-B9780080449241500046-main.pdf?
       // _tid=c46ad240-215c-11e4-a248-00000aab0f6b&acdnat=1407764484_bb679604d2bb522902776987d43e484e
-      result.unitid   = 'B' + match[1] + match[2] + match[3];
-      result.title_id = match[1] + match[2];
-      result.print_identifier  = match[1] + match[2];
+      result.unitid   = 'B' + match[1] + match[2];
+      result.title_id = match[1];
+      result.print_identifier  = match[1];
       result.rtype    = 'BOOK';
       result.mime     = 'PDF';
     } else if ((match = /\/science\/publication\?issn=([0-9]{4})([0-9]{4})/.exec(url)) !== null) {
