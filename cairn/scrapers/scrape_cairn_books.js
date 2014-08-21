@@ -16,7 +16,7 @@ var cheerio  = require('cheerio');
 var csvParse = require('csv').parse;
 var PkbRows  = require('../../.lib/pkbrows.js');
 var pkb      = new PkbRows('cairn');
-pkb.packageName = 'books';
+pkb.packageName = 'ebooks';
 pkb.setKbartName();
 
 var csvUrl                = 'http://dedi.cairn.info/NL/ouvrages_cairn_csv.php';
