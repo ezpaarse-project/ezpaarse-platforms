@@ -1,0 +1,28 @@
+{
+  "version": "2014-08-21",
+  "status": "beta",
+  "domains": [
+    "www.ems-ph.org"
+  ],
+  "recognize": {
+    "rid": [
+      "print_identifier"
+    ],
+    "rtype": [
+      "ARTICLE",
+      "TOC",
+      "ABS"
+    ],
+    "mime": [
+      "HTML",
+      "PDF",
+      "MISC"
+    ]
+  },
+  "name": "ems",
+  "longname": "European Mathematical Society",
+  "describe": "Identifie les consultations de la plateforme European Mathematical Society",
+  "docurl": "http://analogist.couperin.org/platforms/ems/",
+  "contact": "dominique.lechaudel@inist.fr",
+  "pkb": true
+}
