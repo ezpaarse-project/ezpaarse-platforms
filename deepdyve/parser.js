@@ -49,21 +49,21 @@ module.exports = new Parser(function analyseEC(parsedUrl, ec) {
         result.doi = param.docId;
       }
     }
-    if (result.platform === "elsevier" && param.journal !== "undefined") {
+    if (result.platform === "elsevier" && param.journal) {
       pi_regexp_issn_s = new RegExp(patterns.issn_short);
       result.rtype    = 'ARTICLE';
       if ((match = param.journal.match(pi_regexp_issn_s))) {
         result.print_identifier = match[2] + '-' + match[3];
       }
-    } else if (result.platform === "wiley" && param.docId !== "undefined") {
+    } else if (result.platform === "wiley" && param.docId) {
       pi_regexp_doi = new RegExp(patterns.DOI);
       if ((match = param.docId.match(pi_regexp_doi))) {
         // j.1600-0390.2012.00514.x
         // anie.201209878
         // 9781118268117.ch3
         //console.log(match);
-        if (param.journal !== "undefined") { result.print_identifier = param.journal; }
-        if (match[3] !== "undefined") {
+        if (param.journal) { result.print_identifier = param.journal; }
+        if (match[3]) {
           var m;
           var r1, r2, r3;
           r1 = new RegExp('^(' + patterns.issn + ')');
