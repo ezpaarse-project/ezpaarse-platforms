@@ -110,7 +110,7 @@ PkbRows.prototype.addRow = function (row, deduplicateFn) {
 
 
   // cleanup ISSN/ISBN values
-  if (row.online_identifier !== undefined) {
+  if (row.print_identifier !== undefined) {
     if (row.print_identifier !== undefined) { row.print_identifier = row.print_identifier.trim().toUpperCase(); }
     // check ISSN/ISBN syntax and set it to blank if wrong
     if (row.print_identifier === 'N/A' || row.print_identifier === 'EN COURS' || row.print_identifier === 'UNKNOWN') {
