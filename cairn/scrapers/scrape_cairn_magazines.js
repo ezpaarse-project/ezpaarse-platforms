@@ -37,10 +37,7 @@ var getMatchingList = function(callback) {
     $('div.numero > a > img').each(function () {
       var src  = $(this).attr('src') || '';
       var href = $(this).parent().attr('href');
-
-      var m = /\/vign_rev\/(.*?)\/.*?_[a-z][0-9]+\.jpg/i.exec(src);
-
-      var href = $(this).parent().attr('href');
+      var m    = /\/vign_rev\/(.*?)\/.*?_[a-z][0-9]+\.jpg/i.exec(src);
 
       if (m) { matchings[href.substr(0, href.length - 4)] = m[1]; }
     });
@@ -53,7 +50,7 @@ var getMatchingList = function(callback) {
  * Get the ID associated with a URL
  * (if it was not found in the matching list)
  */
-var getID = function (url, callback) {
+var getSecondaryID = function (url, callback) {
 
   request.get(url, function (err, response, body) {
     if (err) { return callback(err); }
