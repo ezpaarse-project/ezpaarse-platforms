@@ -10,10 +10,12 @@
       "unitid"
     ],
     "rtype": [
-      "DENIED"
+      "TOC",
+      "ARTICLE",
+      "BOOK_SECTION"
     ],
     "mime": [
-      "MISC"
+      "DEEPDYVE"
     ]
   },
   "name": "deepdyve",
