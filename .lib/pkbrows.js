@@ -273,7 +273,7 @@ PkbRows.prototype.writeKbart = function (callback) {
   });
   dstStream.write('\n');
 
-  var i = 1;
+  var i = 0;
   var writeRow = function (index) {
     var row = self.rows[index];
     if (!row) {
