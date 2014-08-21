@@ -28,7 +28,7 @@ module.exports = new Parser(function analyseEC(parsedUrl, ec) {
     //it described the most fine-grained of what's being accessed by the user
     //it can be a DOI, an internal identifier or a part of the accessed URL
     //see http://ezpaarse.couperin.org/doc/ec-attributes.html#description-de-unitid for more details
-    result.print_identifier = result.unitid = param.issn;
+    result.print_identifier = result.title_id = result.unitid = param.issn;
     if (param.vol) {
       result.unitid += '_' + param.vol;
     }
