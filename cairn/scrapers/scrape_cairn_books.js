@@ -21,7 +21,6 @@ pkb.setKbartName();
 
 var csvUrl                = 'http://dedi.cairn.info/NL/ouvrages_cairn_csv.php';
 var ouvragesUrl           = 'http://www.cairn.info/ouvrages.php?TITRE=';
-var ouvragesCollectifsUrl = 'http://www.cairn.info/ouvrages-collectifs.php?TITRE=';
 
 /**
  * Browse the full list of books and build a list of matchings
