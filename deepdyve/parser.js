@@ -35,6 +35,9 @@ module.exports = new Parser(function analyseEC(parsedUrl, ec) {
   var pi_regexp_issn_s, pi_regexp_doi;
 
   if ((match = /^\/rental-link$/.exec(path)) !== null) {
+
+    result._granted = false; // These ECs are denied access
+
     // http://www.deepdyve.com:80/rental-link?docId=10.1016/S1872-1508(08)60082-0&journal=18721508&
     // fieldName=journal_doi&affiliateId=elsevier&format=jsonp&
     // callback=jQuery171039578543696552515_1408449347105&_=140844935716
@@ -55,6 +58,9 @@ module.exports = new Parser(function analyseEC(parsedUrl, ec) {
       if ((match = param.journal.match(pi_regexp_issn_s))) {
         result.print_identifier = match[2] + '-' + match[3];
       }
+      result.platform = 'sd'; // real short name of platform
+    } else if (result.platform === "springer") {
+        if (param.journal) { result.print_identifier = param.journal; }
     } else if (result.platform === "wiley" && param.docId) {
       pi_regexp_doi = new RegExp(patterns.DOI);
       if ((match = param.docId.match(pi_regexp_doi))) {
@@ -83,7 +89,9 @@ module.exports = new Parser(function analyseEC(parsedUrl, ec) {
             result.title_id = m[2];
           }
         }
-      }      
+      } else {
+        // TODO alert on new affiliateId
+      }     
     }
     result.mime     = 'DEEPDYVE';
   }
