@@ -2,7 +2,9 @@
   "version": "2014-08-21",
   "status": "beta",
   "domains": [
-    "web.b.ebscohost.com"
+    "web.b.ebscohost.com",
+    "content.ebscohost.com",
+    "web.ebscohost.com"
   ],
   "recognize": {
     "rid": [
@@ -20,6 +22,6 @@
   "describe": "Identifie les consultations de la plateforme EbscoHost",
   "docurl": "http://analogist.couperin.org/platforms/ebsco/",
   "contact": "dominique.lechaudel@inist.fr",
-  "pkb": true,
+  "pkb": false,
   "pkb-domains": "title_id"
 }
