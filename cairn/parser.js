@@ -72,46 +72,46 @@ module.exports = new Parser(function analyseEC(parsedUrl) {
     }
   } else if ((match = /^\/(revue\-|magazine\-)([a-z0-9@\-]+)(\-[0-9]{4}\-[0-9]+\-page\-[0-9]+)\.htm$/.exec(parsedUrl.pathname)) !== null) {
     // journal example: http://www.cairn.info/revue-actes-de-la-recherche-en-sciences-sociales-2012-5-page-4.htm
-    result.unitid = match[1] + match[2] + match[3];
+    result.unitid   = match[1] + match[2] + match[3];
     result.title_id = match[1] + match[2];
-    result.rtype = 'ARTICLE';
-    result.mime = 'HTML';
+    result.rtype    = 'ARTICLE';
+    result.mime     = 'HTML';
   } else if ((match = /^\/(revue\-|magazine\-)([a-z0-9@\-]+)(\-[0-9]{4}\-[0-9]+\-p\-[0-9]+)\.htm$/.exec(parsedUrl.pathname)) !== null) {
     // journal example: http://www.cairn.info/revue-actes-de-la-recherche-en-sciences-sociales-2012-5-p-4.htm
-    result.unitid = match[1] + match[2] + match[3];
+    result.unitid   = match[1] + match[2] + match[3];
     result.title_id = match[1] + match[2];
-    result.rtype = "PREVIEW";
-    result.mime = 'MISC';
+    result.rtype    = "PREVIEW";
+    result.mime     = 'MISC';
   } else if ((match = /^\/(revue\-|magazine\-)([a-z0-9@\-]+)(\-[0-9]{4}\-[0-9]+)\.htm$/.exec(parsedUrl.pathname)) !== null) {
     // journal example: http://www.cairn.info/revue-a-contrario-2012-2.htm
-    result.unitid = match[1] + match[2] + match[3];
+    result.unitid   = match[1] + match[2] + match[3];
     result.title_id = match[1] + match[2];
-    result.rtype = "TOC";
-    result.mime = 'MISC';
+    result.rtype    = "TOC";
+    result.mime     = 'MISC';
   } else if ((match = /^\/(revue\-|magazine\-)([a-z0-9@\-]+)\.htm$/.exec(parsedUrl.pathname)) !== null) {
     // journal example: http://www.cairn.info/revue-a-contrario.htm
-    result.unitid = match[1] + match[2];
+    result.unitid   = match[1] + match[2];
     result.title_id = match[1] + match[2];
-    result.rtype = "TOC";
-    result.mime = 'MISC';
+    result.rtype    = "TOC";
+    result.mime     = 'MISC';
   } else if ((match = /^\/([a-z0-9@\-]+)\-\-([0-9]{13})(\-page\-[0-9]+).htm$/.exec(parsedUrl.pathname)) !== null) {
     // book example: http://www.cairn.info/a-l-ecole-du-sujet--9782749202358-page-9.htm
-    result.unitid = match[1] + '--' + match[2] + match[3];
-    result.pisbn = match[2];
-    result.rtype = "BOOK_SECTION";
-    result.mime = 'HTML';
+    result.unitid           = match[1] + '--' + match[2] + match[3];
+    result.print_identifier = match[2];
+    result.rtype            = "BOOK_SECTION";
+    result.mime             = 'HTML';
   } else if ((match = /^\/([a-z0-9@\-]+)\-\-([0-9]{13})(\-p\-[0-9]+).htm$/.exec(parsedUrl.pathname)) !== null) {
     // book example: http://www.cairn.info/a-l-ecole-du-sujet--9782749202358-p-9.htm
-    result.unitid = match[1] + '--' + match[2] + match[3];
-    result.pisbn = match[2];
-    result.rtype = "PREVIEW";
-    result.mime = 'MISC';
+    result.unitid           = match[1] + '--' + match[2] + match[3];
+    result.print_identifier = match[2];
+    result.rtype            = "PREVIEW";
+    result.mime             = 'MISC';
   } else if ((match = /^\/([a-z0-9@\-]+)\-\-([0-9]{13}).htm$/.exec(parsedUrl.pathname)) !== null) {
     // book example: http://www.cairn.info/a-l-ecole-du-sujet--9782749202358.htm
-    result.unitid =  match[1] + '--' + match[2];
-    result.pisbn = match[2];
-    result.rtype = "TOC";
-    result.mime = 'MISC';
+    result.unitid           =  match[1] + '--' + match[2];
+    result.print_identifier = match[2];
+    result.rtype            = "TOC";
+    result.mime             = 'MISC';
   }
   return result;
 });
