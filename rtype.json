@@ -85,6 +85,16 @@
     "comment": "Cas des archives institutionnelles"
   },
   {
+    "code": "MD_MEMOIRE",
+    "description":  "consultation d'un mémoire médical",
+    "comment": "Cas des archives institutionnelles"
+  },
+  {
+    "code": "HABILITATION_THESIS",
+    "description":  "consultation d'une thèse d'habilitation à diriger des recherches (HDR)",
+    "comment": "Cas des archives institutionnelles"
+  },
+  {
     "code": "BIO",
     "description":  "consultation d'une biographie",
     "comment": ""
