@@ -16,7 +16,11 @@
       "title_id"
     ],
     "rtype": [
-      "BOOK"
+      "PHD_THESIS",
+      "MD_THESIS",
+      "MASTER_THESIS",
+      "MD_MEMOIRE",
+      "HABILITATION_THESIS"
     ],
     "mime": [
       "PDF"
