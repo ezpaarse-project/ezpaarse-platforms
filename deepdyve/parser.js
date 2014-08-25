@@ -89,7 +89,7 @@ module.exports = new Parser(function analyseEC(parsedUrl, ec) {
             result.title_id = m[2];
           }
         }
-      } else {
+      // } else {
         // TODO alert on new affiliateId
       }     
     }
