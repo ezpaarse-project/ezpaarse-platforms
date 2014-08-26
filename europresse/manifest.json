@@ -1,0 +1,25 @@
+{
+  "version": "2014-08-26",
+  "status": "beta",
+  "domains": [
+    "www.bpe.europresse.com"
+  ],
+  "recognize": {
+    "rid": [
+      "title_id"
+    ],
+    "rtype": [
+      "ARTICLE"
+    ],
+    "mime": [
+      "HTML",
+      "PDF"
+    ]
+  },
+  "name": "europresse",
+  "longname": "europresse",
+  "describe": "Identifie les consultations de la plateforme europresse",
+  "docurl": "http://analogist.couperin.org/platforms/europresse/",
+  "contact": "dominique.lechaudel@inist.fr",
+  "pkb": true
+}
