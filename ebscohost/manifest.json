@@ -1,0 +1,40 @@
+{
+  "version": "2014-08-21",
+  "status": "beta",
+  "domains": [
+    "web.a.ebscohost.com",
+    "web.b.ebscohost.com",
+    "web.c.ebscohost.com",
+    "web.d.ebscohost.com",
+    "web.e.ebscohost.com",
+    "eds.a.ebscohost.com",
+    "eds.b.ebscohost.com",
+    "eds.c.ebscohost.com",
+    "eds.d.ebscohost.com",
+    "eds.e.ebscohost.com",
+    "content.ebscohost.com",
+    "rs.ebscohost.com",
+    "openurl.ebscohost.com",
+    "www.ebscohost.com",
+    "ejournals.ebscohost.com",
+    "ebsco-content.com",
+    "web.ebscohost.com"
+  ],
+  "recognize": {
+    "rid": [
+      "title_id"
+    ],
+    "rtype": [
+      "ARTICLE"
+    ],
+    "mime": [
+      "PDF"
+    ]
+  },
+  "name": "ebscohost",
+  "longname": "EbscoHost",
+  "describe": "Identifie les consultations de la plateforme EbscoHost",
+  "docurl": "http://analogist.couperin.org/platforms/ebscohost/",
+  "contact": "dominique.lechaudel@inist.fr",
+  "pkb": false
+}
