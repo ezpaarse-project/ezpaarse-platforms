@@ -1,0 +1,26 @@
+{
+  "version": "2014-09-03",
+  "status": "beta",
+  "domains": [
+    "www.dawsonera.com"
+  ],
+  "recognize": {
+    "rid": [
+      "eisbn"
+    ],
+    "rtype": [
+      "BOOK",
+      "ABS"
+    ],
+    "mime": [
+      "MISC",
+      "PDF"
+    ]
+  },
+  "name": "dawsonera",
+  "longname": "dawsonera",
+  "describe": "Identifie les consultations de la plateforme Dawsonera",
+  "docurl": "http://analogist.couperin.org/platforms/dawsonera/",
+  "contact": "lea.maubon@univ-poitiers.fr, thomas.porquet@couperin.org",
+  "pkb": false
+}
