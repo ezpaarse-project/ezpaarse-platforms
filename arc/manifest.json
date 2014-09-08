@@ -1,0 +1,27 @@
+{
+  "version": "2014-09-08",
+  "status": "beta",
+  "domains": [
+    "arc.aiaa.org"
+  ],
+  "recognize": {
+    "rid": [
+      "title_id",
+      "unitid"
+    ],
+    "rtype": [
+      "ARTICLE",
+      "ABS"
+    ],
+    "mime": [
+      "HTML",
+      "PDF"
+    ]
+  },
+  "name": "arc",
+  "longname": "Aerospace Research Central",
+  "describe": "Identifie les consultations de la plateforme Aerospace Research Central",
+  "docurl": "http://analogist.couperin.org/platforms/arc/",
+  "contact": "dominique.lechaude at inist.fr",
+  "pkb": true
+}

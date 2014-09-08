@@ -1,0 +1,13 @@
+publication_title	print_identifier	online_identifier	date_first_issue_online	num_first_vol_online	num_first_issue_online	date_last_issue_online	num_last_vol_online	num_last_issue_online	title_url	first_author	title_id	embargo_info	coverage_depth	coverage_notes	publisher_name	publication_type	date_monograph_published_print	date_monograph_published_online	monograph_volume	monograph_edition	first_editor	parent_publication_title_id	preceding_publication_title_id	access_type
+AIAA Journal											aiaaj													
+Journal of Aerospace Information Systems											jais													
+Journal of Aircraft											ja													
+Journal of Guidance, Control, and Dynamics											jgcd													
+Journal of Propulsion and Power											jpp													
+Journal of Spacecraft and Rockets											jsr													
+Journal of Thermophysics and Heat Transfer											jtht													
+ARS Journal											arsj													
+Journal of Jet Propulsion											jjp													
+Journal of Hydronautics											jh													
+Journal of Energy											je													
+Journal of the Aeronautical Sciences (Institute of the Aeronautical Sciences)											jans													
