@@ -3,6 +3,7 @@
   "version": "2014-04-18",
   "status": "beta",
   "longname": "Societe Chimique de France",
+  "publisher_name": "Societe Chimique de France",
   "describe": "Identifie les consultations de Societe Chimique de France",
   "docurl": "http://analogist.couperin.org/platforms/societe-chimique-de-france/",
   "contact": "dominique.lechaudel at inist point fr",
