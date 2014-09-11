@@ -3,6 +3,7 @@
   "version": "2013-01-16",
   "status": "stable",
   "longname": "Nature Publishing Group",
+  "publisher_name": "Nature Publishing Group",
   "describe": "Identifie les consultations du site de Nature",
   "docurl": "http://analogist.couperin.org/platforms/npg/",
   "contact": "dominique.lechaudel at inist.fr",
