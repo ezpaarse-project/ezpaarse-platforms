@@ -15,13 +15,15 @@ module.exports = new Parser(function analyseEC(parsedUrl, ec) {
   var match;
 
   result.title_id = hostname;
+//console.log(parsedUrl);
 
-  if ((match = /^\/content\/([0-9]+\/[0-9]+\/[0-9a-zA-Z\.]+\.(abstract|full|full\.pdf))$/.exec(pathname)) !== null) {
+  if ((match = /^\/content\/([0-9]+\/[0-9\-]+\/[0-9a-zA-Z\.]+\.(abstract|full|full\.pdf))(\+html)?$/.exec(pathname)) !== null) {
     /**
      * examples : http://rsbl.royalsocietypublishing.org/content/6/4/458.abstract
      *            http://rsbl.royalsocietypublishing.org/content/6/4/458.full
      *            http://rsbl.royalsocietypublishing.org/content/6/4/458.full.pdf
      *            http://cshprotocols.cshlp.org/content/2012/5/pdb.top069344.full.pdf
+     *            http://dmm.biologists.org.gate1.inist.fr/content/1/2-3/69.1.full.pdf+html
      */
     result.unitid  = hostname + '/' + match[1];
 
@@ -39,6 +41,37 @@ module.exports = new Parser(function analyseEC(parsedUrl, ec) {
       result.mime  = 'PDF';
       break;
     }
+  } else if ((match = /^\/content\/([a-z]+\/[0-9]+\/[0-9\-]+\/[0-9a-zA-Z\.]+\.(abstract|full|full\.pdf))(\+html)?$/.exec(pathname)) !== null) {
+    /**
+     *            http://advan.physiology.org.gate1.inist.fr/content/ajpadvan/38/3/229.full.pdf
+     */
+    result.unitid  = hostname + '/' + match[1];
+
+    switch (match[2]) {
+    case 'abstract':
+      result.rtype = 'ABS';
+      result.mime  = 'HTML';
+      break;
+    case 'full':
+      result.rtype = 'ARTICLE';
+      result.mime  = 'HTML';
+      break;
+    case 'full.pdf':
+      result.rtype = 'ARTICLE';
+      result.mime  = 'PDF';
+      break;
+    }
+ } else if ((match = /\/doi\/pdf(plus)?\/(([0-9\.]+)\/([^\/\(\.)]+))$/.exec(pathname)) !== null) {
+    // http://www.nrcresearchpress.com.gate1.inist.fr/doi/pdfplus/10.1139/er-2013-0083?src=recsys
+    result.rtype = 'ARTICLE';
+    result.mime  = 'PDF';
+    //result.title_id = match[4];
+    result.unitid = hostname + '/' + match[2];
+  } else if ((match = /^\/cgi\/reprint\/([a-zA-Z]+\;[0-9\/]+)$/.exec(pathname)) !== null) {
+    // http://preventionportal.aacrjournals.org.gate1.inist.fr/cgi/reprint/canres;74/16/4378
+    result.unitid = hostname + '/' + match[1].replace(";","/");
+    result.rtype  = 'ARTICLE';
+    result.mime   = 'PDF';
   } else if ((match = /^\/content\/([0-9]+\/[0-9]+\.toc)$/.exec(pathname)) !== null) {
     // example : http://www.jimmunol.org.gate1.inist.fr/content/188/3.toc
     result.unitid = hostname + '/' + match[1];
