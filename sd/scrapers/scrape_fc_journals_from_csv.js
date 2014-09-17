@@ -1,5 +1,5 @@
 #!/usr/bin/env node
-// Write on stdout the Freedom Collection (FC) journals PKB
+// Write on KBART file the Freedom Collection (FC) journals PKB
 // Write on stderr the progression
 // Usage : ./scrape_fc_journals_from_csv.js
 
