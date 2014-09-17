@@ -1,0 +1,82 @@
+publication_title	print_identifier	online_identifier	date_first_issue_online	num_first_vol_online	num_first_issue_online	date_last_issue_online	num_last_vol_online	num_last_issue_online	title_url	first_author	title_id	embargo_info	coverage_depth	coverage_notes	publisher_name	publication_type	date_monograph_published_print	date_monograph_published_online	monograph_volume	monograph_edition	first_editor	parent_publication_title_id	preceding_publication_title_id	access_type
+AI Communications	0921-7126	1875-8452							http://iospress.metapress.com/content/103140		103140				IOS Press									
+Asymptotic Analysis	0921-7134	1875-8576							http://iospress.metapress.com/content/103142		103142				IOS Press									
+Behavioural Neurology	0953-4180	1875-8584							http://iospress.metapress.com/content/103143		103143				IOS Press									
+BioFactors	0951-6433	1872-8081							http://iospress.metapress.com/content/103144		103144				IOS Press									
+Bio-Medical Materials and Engineering	0959-2989	1878-3619							http://iospress.metapress.com/content/103145		103145				IOS Press									
+Clinical Hemorheology and Microcirculation	1386-0291	1875-8622							http://iospress.metapress.com/content/103148		103148				IOS Press									
+Education for Information	0167-8329	1875-8649							http://iospress.metapress.com/content/103150		103150				IOS Press									
+Environmental Policy and Law	0378-777X	1878-5395							http://iospress.metapress.com/content/103151		103151				IOS Press									
+Human Antibodies	1093-2607	1875-869X							http://iospress.metapress.com/content/103153		103153				IOS Press									
+Human Systems Management	0167-2533	1875-8703							http://iospress.metapress.com/content/103154		103154				IOS Press									
+Information Infrastructure and Policy	1383-7605	1875-8738							http://iospress.metapress.com/content/103155		103155				IOS Press									
+Information Services and Use	0167-5265	1875-8789							http://iospress.metapress.com/content/103157		103157				IOS Press									
+Integrated Computer-Aided Engineering	1069-2509	1875-8835							http://iospress.metapress.com/content/103160		103160				IOS Press									
+International Journal of Applied Electromagnetics and Mechanics	1383-5416	1875-8800							http://iospress.metapress.com/content/103161		103161				IOS Press									
+The International Journal of Risk and Safety in Medicine	0924-6479	1878-6847							http://iospress.metapress.com/content/103162		103162				IOS Press									
+Isokinetics and Exercise Science	0959-3020	1878-5913							http://iospress.metapress.com/content/103163		103163				IOS Press									
+Journal of Back and Musculoskeletal Rehabilitation	1053-8127	1878-6324							http://iospress.metapress.com/content/103166		103166				IOS Press									
+Journal of Computer Security	0926-227X	1875-8924							http://iospress.metapress.com/content/103167		103167				IOS Press									
+Journal of Economic and Social Measurement	0747-9662	1875-8932							http://iospress.metapress.com/content/103168		103168				IOS Press									
+Journal of High Speed Networks	0926-6801	1875-8940							http://iospress.metapress.com/content/103170		103170				IOS Press									
+Journal of Vestibular Research	0957-4271	1878-6464							http://iospress.metapress.com/content/103172		103172				IOS Press									
+Journal of Vocational Rehabilitation	1052-2263	1878-6316							http://iospress.metapress.com/content/103174		103174				IOS Press									
+NeuroRehabilitation	1053-8135	1878-6448							http://iospress.metapress.com/content/103177		103177				IOS Press									
+Occupational Ergonomics	1359-9364	1875-9092							http://iospress.metapress.com/content/103178		103178				IOS Press									
+Restorative Neurology and Neuroscience	0922-6028	1878-3627							http://iospress.metapress.com/content/103181		103181				IOS Press									
+Scientific Programming	1058-9244	1875-919X							http://iospress.metapress.com/content/103183		103183				IOS Press									
+Shock and Vibration	1070-9622	1875-9203							http://iospress.metapress.com/content/103184		103184				IOS Press									
+Space Communications	0924-8625	1875-9211							http://iospress.metapress.com/content/103185		103185				IOS Press									
+Spectroscopy	0712-4813	1875-922X							http://iospress.metapress.com/content/103186		103186				IOS Press									
+Statistical Journal of the United Nations Economic Commission for Europe	0167-8000	1875-9238							http://iospress.metapress.com/content/103187		103187				IOS Press									
+Technology and Disability	1055-4181	1878-643X							http://iospress.metapress.com/content/103188		103188				IOS Press									
+Technology and Health Care	0928-7329	1878-7401							http://iospress.metapress.com/content/103189		103189				IOS Press									
+Work: A Journal of Prevention, Assessment and Rehabilitation	1051-9815	1875-9270							http://iospress.metapress.com/content/103190		103190				IOS Press									
+Intelligent Data Analysis	1088-467X	1571-4128							http://iospress.metapress.com/content/103462		103462				IOS Press									
+Disease Markers	0278-0240	1875-8630							http://iospress.metapress.com/content/105291		105291				IOS Press									
+Breast Disease	0888-6008	1558-1551							http://iospress.metapress.com/content/105653		105653				IOS Press									
+Journal of Alzheimer's Disease	1387-2877	1875-8908							http://iospress.metapress.com/content/105656		105656				IOS Press									
+Web Intelligence and Agent Systems	1570-1263	1875-9289							http://iospress.metapress.com/content/110227		110227				IOS Press									
+I-Ways: The Journal of E-Government Policy and Regulation	1084-4678	1875-8886							http://iospress.metapress.com/content/110309		110309				IOS Press									
+International Journal of Artificial Intelligence in Education	1560-4292	1560-4306							http://iospress.metapress.com/content/110564		110564				IOS Press									
+Strength, Fracture and Complexity	1567-2069	1875-9262							http://iospress.metapress.com/content/110565		110565				IOS Press									
+International Journal of Knowledge-Based and Intelligent Engineering Systems	1327-2314	1875-8827							http://iospress.metapress.com/content/111164		111164				IOS Press									
+Cellular Oncology	1570-5870	1875-8606							http://iospress.metapress.com/content/111799		111799				IOS Press									
+Asian Journal of Water, Environment and Pollution	0972-9860	1875-8568							http://iospress.metapress.com/content/112105		112105				IOS Press									
+Cheminformatics	1572-4778	1875-8614							http://iospress.metapress.com/content/112106		112106				IOS Press									
+International Journal of Hybrid Intelligent Systems	1448-5869	1875-8819							http://iospress.metapress.com/content/112107		112107				IOS Press									
+Journal of Computational Methods in Science and Engineering	1472-7978	1875-8983							http://iospress.metapress.com/content/112108		112108				IOS Press									
+Journal of Pediatric Neurology	1304-2580	1875-9041							http://iospress.metapress.com/content/113223		113223				IOS Press									
+Mobile Information Systems	1574-017X	1875-905X							http://iospress.metapress.com/content/113224		113224				IOS Press									
+Informatica	0868-4952	1822-8844							http://iospress.metapress.com/content/113362		113362				IOS Press									
+Cancer Biomarkers	1574-0153	1875-8592							http://iospress.metapress.com/content/113507		113507				IOS Press									
+Journal of Embedded Computing	1740-4460	1875-9025							http://iospress.metapress.com/content/113616		113616				IOS Press									
+Multiagent and Grid Systems	1574-1702	1875-9076							http://iospress.metapress.com/content/119767		119767				IOS Press									
+Applied Ontology	1570-5838	1875-8533							http://iospress.metapress.com/content/119850		119850				IOS Press									
+Model Assisted Statistics and Applications	1574-1699	1875-9068							http://iospress.metapress.com/content/119959		119959				IOS Press									
+Journal of Pediatric Infectious Diseases	1305-7707	1305-7693							http://iospress.metapress.com/content/120108		120108				IOS Press									
+International Shipbuilding Progress	0020-868X	1566-2829							http://iospress.metapress.com/content/120116		120116				IOS Press									
+Intelligent Decision Technologies	1872-4981	1875-8843							http://iospress.metapress.com/content/120767		120767				IOS Press									
+Journal of Pediatric Rehabilitation Medicine	1874-5393	1875-8894							http://iospress.metapress.com/content/120801		120801				IOS Press									
+Statistical Journal of the IAOS: Journal of the International Association for Official Statistics	1874-7655	1875-9254							http://iospress.metapress.com/content/120808		120808				IOS Press									
+Journal of Neonatal-Perinatal Medicine	1934-5798	1878-4429							http://iospress.metapress.com/content/121063		121063				IOS Press									
+Risk and Decision Analysis	1569-7371	1875-9173							http://iospress.metapress.com/content/121225		121225				IOS Press									
+Journal of Ambient Intelligence and Smart Environments	1876-1364	1876-1372							http://iospress.metapress.com/content/121240		121240				IOS Press									
+Journal of E-Governance	1878-7673	1878-7681							http://iospress.metapress.com/content/121667		121667				IOS Press									
+Main Group Chemistry	1024-1221	1745-1167							http://iospress.metapress.com/content/121767		121767				IOS Press									
+Journal of Neutron Research	1023-8166	1477-2655							http://iospress.metapress.com/content/121791		121791				IOS Press									
+Climate Law	1878-6553	1878-6561							http://iospress.metapress.com/content/121801		121801				IOS Press									
+Bridge Structures - Assessment, Design & Construction	1573-2487	1744-8999							http://iospress.metapress.com/content/121802		121802				IOS Press									
+International Journal of RF Technologies: Research and Applications	1754-5730	1754-5749							http://iospress.metapress.com/content/121803		121803				IOS Press									
+Journal of Berry Research	1878-5093	1878-5123							http://iospress.metapress.com/content/121816		121816				IOS Press									
+Analytical Cellular Pathology (2011)	2210-7177	2210-7185							http://iospress.metapress.com/content/121830		121830				IOS Press									
+Journal of Parkinson's Disease	1877-7171	1877-718X							http://iospress.metapress.com/content/122149		122149				IOS Press									
+Applied Bionics and Biomechanics	1176-2322	1754-2103							http://iospress.metapress.com/content/122258		122258				IOS Press									
+Fundamenta Informaticae	0169-2968	1875-8681							http://iospress.metapress.com/content/300178		300178				IOS Press									
+Pharmaceuticals Policy and Law	1389-2827								http://iospress.metapress.com/content/300179		300179				IOS Press									
+Journal of Intelligent and Fuzzy Systems	1064-1246	1875-8967							http://iospress.metapress.com/content/300180		300180				IOS Press									
+Journal of X-Ray Science and Technology	0895-3996	1095-9114							http://iospress.metapress.com/content/300181		300181				IOS Press									
+Electronic Journal of Pathology and Histology	0948-0382								http://iospress.metapress.com/content/300306		300306				IOS Press									
+Journal of Integrated Design and Process Science	1092-0617	1875-8959							http://iospress.metapress.com/content/300375		300375				IOS Press									
+Journal of Visualization	1343-8875	1875-8975							http://iospress.metapress.com/content/300386		300386				IOS Press									
+Information Polity	1570-1255	1875-8754							http://iospress.metapress.com/content/300389		300389				IOS Press									
