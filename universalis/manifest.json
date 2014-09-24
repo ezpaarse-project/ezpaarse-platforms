@@ -1,0 +1,26 @@
+{
+  "version": "2014-09-24",
+  "status": "beta",
+  "domains": [
+    "www.universalis-edu.com"
+  ],
+  "recognize": {
+    "rid": [
+      "unitid"
+    ],
+    "rtype": [
+      "ENCYCLOPAEDIA_ENTRY",
+      "IMAGE"
+    ],
+    "mime": [
+      "HTML",
+      "MISC"
+    ]
+  },
+  "name": "universalis",
+  "longname": "Encyclopædia Universalis",
+  "describe": "Identifie les consultations de la plateforme Encyclopædia Universalis",
+  "docurl": "http://analogist.couperin.org/platforms/universalis/",
+  "contact": "natacha.starobinsky@univ-paris1.fr",
+  "pkb": false
+}
