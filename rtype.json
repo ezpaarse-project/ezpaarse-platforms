@@ -98,5 +98,15 @@
     "code": "BIO",
     "description":  "consultation d'une biographie",
     "comment": ""
+  },
+  {
+    "code": "ENCYCLOPAEDIA_ENTRY",
+    "description":  "consultation d'un article d'encyclopédie'",
+    "comment": "correspond à un type de section possible dans le rapport COUNTER BR2"
+  },
+  {
+    "code": "IMAGE",
+    "description":  "consultation d'une image (illustration, photographie, dessin)",
+    "comment": "correspond à un type de contenu MULTIMEDIA, tel que décrit dans les rapports Multimedia COUNTER"
   }
 ]
