@@ -2,7 +2,8 @@
   "version": "2014-09-24",
   "status": "beta",
   "domains": [
-    "www.universalis-edu.com"
+    "www.universalis-edu.com",
+    "www.universalis.fr"
   ],
   "recognize": {
     "rid": [
