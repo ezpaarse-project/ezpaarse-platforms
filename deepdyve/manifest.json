@@ -19,7 +19,7 @@
     ]
   },
   "name": "deepdyve",
-  "longname": "deepdyve",
+  "longname": "DeepDyve",
   "describe": "Identifie les consultations de la plateforme deepdyve (gestion des accès refusés)",
   "docurl": "http://analogist.couperin.org/platforms/deepdyve/",
   "contact": "dominique.lechaudel@inist.fr",
