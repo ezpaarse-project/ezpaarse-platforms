@@ -2,6 +2,7 @@
   "name": "aip",
   "version": "2013-06-06",
   "status": "beta",
+  "trello": "https://trello.com/c/V2klI3qz",
   "longname": "American Institute of Physics",
   "describe": "Identifie les consultations de la plateforme American Institute of Physics",
   "docurl": "http://analogist.couperin.org/platforms/american-institute-of-physics/",

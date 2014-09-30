@@ -2,6 +2,7 @@
   "name": "iopscience",
   "version": "2014-04-22",
   "status": "beta",
+  "trello": "https://trello.com/c/t7LbPskr",
   "longname": "IOP Science",
   "describe": "Identifie les consultations Institute of Physics (IOP)",
   "docurl": "http://analogist.couperin.org/platforms/iopscience/",

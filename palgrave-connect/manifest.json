@@ -2,6 +2,7 @@
   "name": "palgrave-connect",
   "version": "2014-06-24",
   "status": "beta",
+  "trello": "https://trello.com/c/UFP0txbm",
   "longname": "Palgrave Connect",
   "describe": "Parseur de la plateforme Palgrave Connect",
   "docurl": "http://analogist.couperin.org/platforms/palgrave-connect/",

@@ -2,6 +2,7 @@
   "name": "erudit",
   "version": "2013-11-08",
   "status": "beta",
+  "trello": "https://trello.com/c/CFJjHXVo",
   "longname": "Erudit",
   "describe": "Identifie les consultations de la plateforme Erudit",
   "docurl": "http://analogist.couperin.org/platforms/erudit/",

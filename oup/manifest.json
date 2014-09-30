@@ -2,6 +2,7 @@
   "name": "oup",
   "version": "2014-02-04",
   "status": "stable",
+  "trello": "https://trello.com/c/icQn6lRw",
   "longname": "Oxford University Press",
   "publisher_name": "Oxford University Press",
   "describe": "Identifie les consultations de la plateforme Oxford University Press",

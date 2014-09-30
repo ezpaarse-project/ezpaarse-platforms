@@ -2,6 +2,7 @@
   "name": "docnum",
   "version": "2014-04-23",
   "status": "beta",
+  "trello": "https://trello.com/c/qlaaxun6",
   "longname": "docnum",
   "describe": "Identifie les consultations du serveur de diffusion de l'archive institutionnelle de l'université de Lorraine : Petale",
   "docurl": "http://analogist.couperin.org/platforms/docnum/",

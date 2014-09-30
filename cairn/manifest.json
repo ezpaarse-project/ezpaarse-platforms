@@ -2,6 +2,7 @@
   "name": "cairn",
   "version": "2013-03-13",
   "status": "stable",
+  "trello": "https://trello.com/c/rKJTqlf0",
   "longname": "CAIRN",
   "describe": "Identifie les consultations du site de Cairn",
   "docurl": "http://analogist.couperin.org/platforms/cairn/",

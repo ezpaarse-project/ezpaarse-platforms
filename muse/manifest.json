@@ -2,6 +2,7 @@
   "name": "muse",
   "version": "2013-10-16",
   "status": "alpha",
+  "trello": "https://trello.com/c/jel0NIMm",
   "longname": "Projetc MUSE",
   "describe": "Identifie les consultations du site MUSE",
   "docurl": "http://analogist.couperin.org/platforms/muse/",

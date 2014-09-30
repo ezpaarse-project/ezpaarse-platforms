@@ -2,6 +2,7 @@
   "name": "springer",
   "version": "2013-09-28",
   "status": "stable",
+  "trello": "https://trello.com/c/D9UaTVV1",
   "longname": "Springer",
   "describe": "Identifie les consultations du site Springer",
   "docurl": "http://analogist.couperin.org/platforms/springer/",

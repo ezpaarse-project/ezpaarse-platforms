@@ -1,6 +1,7 @@
 {
   "version": "2014-08-01",
   "status": "beta",
+  "trello": "https://trello.com/c/MyxOg4JQ",
   "name": "ohb",
   "longname": "Oxford Handbooks",
   "describe": "Identifie les consultations de la plateforme Oxford Handbooks",

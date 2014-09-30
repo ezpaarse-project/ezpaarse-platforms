@@ -2,6 +2,7 @@
   "name": "persee",
   "version": "2013-10-24",
   "status": "beta",
+  "trello": "https://trello.com/c/3yGjCLMF",
   "longname": "Persée",
   "describe": "Identifie les consultations de la partie revues scientifiques de la plateforme Persée",
   "docurl": "http://analogist.couperin.org/platforms/persee/",

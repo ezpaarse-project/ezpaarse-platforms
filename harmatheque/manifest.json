@@ -2,6 +2,7 @@
   "name": "harmatheque",
   "version": "2014-06-06",
   "status": "beta",
+  "trello": "https://trello.com/c/aDKff6k7",
   "longname": "Harmathèque",
   "describe": "Parseur de la plateforme Harmathèque",
   "docurl": "http://analogist.couperin.org/platforms/harmatheque/start",

@@ -2,6 +2,7 @@
   "name": "ar",
   "version": "2013-10-04",
   "status": "beta",
+  "trello": "https://trello.com/c/CFJL0U1t",
   "longname": "Annual Reviews",
   "describe": "Identifie les consultations de la plateforme Annual Reviews",
   "docurl": "http://analogist.couperin.org/platforms/annualreviews/",

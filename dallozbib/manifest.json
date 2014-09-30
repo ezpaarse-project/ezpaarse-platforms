@@ -2,6 +2,7 @@
   "name": "dallozbib",
   "version": "2013-11-28",
   "status": "beta",
+  "trello": "https://trello.com/c/bwlzoT1E",
   "longname": "Dalloz Bibliotheque",
   "describe": "Identifie les consultations des bases juridiques Dalloz Bibliothèque",
   "docurl": "http://analogist.couperin.org/platforms/dallozbib/",

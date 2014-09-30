@@ -1,6 +1,7 @@
 {
   "version": "2014-08-05",
   "status": "beta",
+  "trello": "https://trello.com/c/sLbdhYWS",
   "name": "oso",
   "longname": "Oxford Scholarship Online",
   "describe": "Identifie les consultations de la plateforme Oxford Scholarship Online",

@@ -2,6 +2,7 @@
   "name": "hw",
   "version": "2014-02-20",
   "status": "version beta",
+  "trello": "https://trello.com/c/lVXiaUvU",
   "longname": "HighWire",
   "describe": "Identifie les consultations du site HighWire",
   "docurl": "http://analogist.couperin.org/platforms/hw/",

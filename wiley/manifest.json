@@ -2,6 +2,7 @@
   "name": "wiley",
   "version": "2013-04-15",
   "status": "stable",
+  "trello": "https://trello.com/c/fz9oy3s3",
   "longname": "Wiley",
   "describe": "Identifie les consultations des bases Wiley",
   "docurl": "http://analogist.couperin.org/platforms/wiley/",

@@ -2,6 +2,7 @@
   "name": "aoua",
   "version": "2014-02-21",
   "status": "beta",
+  "trello": "https://trello.com/c/HlT8Dvp9",
   "longname": "AOUA",
   "describe": "Identifie les consultations de l'archive ouverte de l'Université d'Angers",
   "docurl": "http://analogist.couperin.org/platforms/aoua/",

@@ -2,6 +2,7 @@
   "name": "npg",
   "version": "2013-01-16",
   "status": "stable",
+  "trello": "https://trello.com/c/IeVYqyr6",
   "longname": "Nature Publishing Group",
   "publisher_name": "Nature Publishing Group",
   "describe": "Identifie les consultations du site de Nature",

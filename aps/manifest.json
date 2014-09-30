@@ -2,6 +2,7 @@
   "name": "aps",
   "version": "2014-01-14",
   "status": "beta",
+  "trello": "https://trello.com/c/Juthy3FZ",
   "longname": "American Physical Society",
   "describe": "Identifie les consultations de la plateforme American Physical Society",
   "docurl": "http://analogist.couperin.org/platforms/aps/",

@@ -2,6 +2,7 @@
   "name": "metapress",
   "version": "2013-11-18",
   "status": "alpha",
+  "trello": "https://trello.com/c/3qTASG5N",
   "longname": "Metapress",
   "describe": "Identifie les consultations du site Metapress",
   "docurl": "http://analogist.couperin.org/platforms/metapress/",
