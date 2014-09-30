@@ -2,6 +2,7 @@
   "name": "jsparserskeleton",
   "version": "2014-02-20",
   "status": "template",
+  "trello": "",
   "longname": "ParserSkeleton",
   "describe": "Modele de parseur tres simple",
   "docurl": "http://analogist.couperin.org/platforms/parserskeleton/",
