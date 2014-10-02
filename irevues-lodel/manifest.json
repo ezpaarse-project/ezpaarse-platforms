@@ -1,0 +1,27 @@
+{
+  "version": "2014-10-02",
+  "status": "beta",
+  "trello": "https://trello.com/c/4NdXvuwe",
+  "domains": [
+    "lodel.irevues.inist.fr"
+  ],
+  "recognize": {
+    "rid": [
+      "title_id"
+    ],
+    "rtype": [
+      "ARTICLE",
+      "TOC"
+    ],
+    "mime": [
+      "HTML",
+      "PDF"
+    ]
+  },
+  "name": "irevues-lodel",
+  "longname": "Irevues : partie LODEL",
+  "describe": "Identifie les consultations de la plateforme Irevues : partie LODEL",
+  "docurl": "http://analogist.couperin.org/platforms/irevues_lodel/",
+  "contact": "dominique.lechaudel@inist.fr",
+  "pkb": true
+}
