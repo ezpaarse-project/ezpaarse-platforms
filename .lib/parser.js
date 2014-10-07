@@ -11,7 +11,7 @@ var Parser = function (parsingFunction) {
 
 
   if (!module.parent.parent) {
-    var optimist = require('optimist')
+    var yargs = require('yargs')
       .usage('Parse URLs read from standard input. ' +
         'You can either use pipes or enter URLs manually.' +
         '\n  Usage: $0' +
@@ -23,11 +23,11 @@ var Parser = function (parsingFunction) {
       .alias('jsonprefix', 'jp')
       .default('jsonprefix', false)
       .describe('jsonprefix', 'tells that the given json keys are prefixed with "in-" which sould be ignored');
-    var argv = optimist.argv;
+    var argv = yargs.argv;
 
     // show usage if --help option is used
     if (argv.help || argv.h) {
-      optimist.showHelp();
+      yargs.showHelp();
       process.exit(0);
     }
 

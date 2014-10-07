@@ -23,7 +23,7 @@ var PkbRows = function(providerName) {
   self.packageName = 'AllTitles'; // default AllTitles
   self.kbartFileName = '';
 
-  var optimist = require('optimist')
+  var yargs = require('yargs')
     .boolean(['f', 'v'])
     .alias('force', 'f')
     .describe('force',
@@ -31,7 +31,7 @@ var PkbRows = function(providerName) {
     .alias('verbose', 'v')
     .describe('verbose',
               'show detailed actions.');
-  self.argv = optimist.argv;
+  self.argv = yargs.argv;
 
   var match;
   if ( !self.providerName.length) {
@@ -53,13 +53,13 @@ var PkbRows = function(providerName) {
     self.kbartFileName = './';
   }
 
-  optimist.usage('Scrape platforms catalog for ' +
+  yargs.usage('Scrape platforms catalog for ' +
       self.providerName + ' from URLs ' +
       '\n  Usage: $0\n Kbart output directory :' + self.kbartFileName);
 
   // show usage if --help option is used
   if (self.argv.help || self.argv.h) {
-    optimist.showHelp();
+    yargs.showHelp();
     process.exit(0);
   }
 
@@ -372,7 +372,7 @@ PkbRows.prototype.getKbartFromKBPlus = function (KBPlusPkg, callback) {
         if (titleUrlParts.length) {
           journalInfo.title_id = titleUrlParts[titleUrlParts.length - 1];
         }
-      } 
+      }
       if (jsonRow.issn && jsonRow.issn !== null ) {
         journalInfo.print_identifier = jsonRow.issn;
       }
