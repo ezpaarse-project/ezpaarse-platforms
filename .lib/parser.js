@@ -41,32 +41,16 @@ var Parser = function (parsingFunction) {
 * If an array of urls is given, return an array of results
 * Otherwise, read stdin and write into stdout
 */
-Parser.prototype.execute = function (urls) {
+Parser.prototype.execute = function (ec) {
   var self = this;
 
-  if (urls && Array.isArray(urls)) {
-    var results = [];
-    for (var i = 0, l = urls.length; i < l; i++) {
-      var url = urls[i];
-      var result;
-      var ec;
-
-      if (typeof urls[i] == 'object') {
-        ec  = urls[i];
-        url = ec.url;
-      }
-
-      try {
-        url    = decodeURIComponent(url);
-        result = self.analyse(URL.parse(url, true), ec);
-      } catch (e) {
-        result = {};
-      }
-
-      results.push(result);
+  if (ec) {
+    try {
+      var url = decodeURIComponent(ec.url);
+      return this.analyse(URL.parse(url, true), ec);
+    } catch (e) {
+      return {};
     }
-
-    return results;
   } else {
     var lazy = new Lazy(process.stdin);
     lazy.lines
