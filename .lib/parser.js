@@ -48,7 +48,7 @@ Parser.prototype.execute = function (ec) {
     return ec.map(function (e) {
       try {
         var url = decodeURIComponent(e.url);
-        return this.analyse(URL.parse(url, true), e);
+        return self.analyse(URL.parse(url, true), e);
       } catch (e) {
         return {};
       }
