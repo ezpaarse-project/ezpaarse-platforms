@@ -44,6 +44,17 @@ var Parser = function (parsingFunction) {
 Parser.prototype.execute = function (ec) {
   var self = this;
 
+  if (Array.isArray(ec)) {
+    return ec.map(function (e) {
+      try {
+        var url = decodeURIComponent(e.url);
+        return this.analyse(URL.parse(url, true), e);
+      } catch (e) {
+        return {};
+      }
+    });
+  }
+
   if (ec) {
     try {
       var url = decodeURIComponent(ec.url);
