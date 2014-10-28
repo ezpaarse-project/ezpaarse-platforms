@@ -7,7 +7,7 @@
 var Parser      = require('../.lib/parser.js');
 
 module.exports = new Parser(function analyseEC(parsedUrl) {
-  var result = { publisher_name: 'Elsevier' };
+  var result = {};
   var param  = parsedUrl.query || {};
   var url    = parsedUrl.href;
   var path   = parsedUrl.pathname;
