@@ -1,0 +1,1388 @@
+publication_title	print_identifier	online_identifier	date_first_issue_online	num_first_vol_online	num_first_issue_online	date_last_issue_online	num_last_vol_online	num_last_issue_online	title_url	first_author	title_id	embargo_info	coverage_depth	coverage_notes	publisher_name	publication_type	date_monograph_published_print	date_monograph_published_online	monograph_volume	monograph_edition	first_editor	parent_publication_title_id	preceding_publication_title_id	access_type	pkb-piddomain
+Arctic Anthropology	0066-6939	1933-8139							http://aa.uwpress.org		aa.uwpress.org				University of Wisconsin Press										
+Antimicrobial Agents and Chemotherapy	0066-4804	1098-6596							http://aac.asm.org		aac.asm.org				American Society for Microbiology										
+Adoption & Fostering	0308-5759	1740-469X							http://aaf.sagepub.com		aaf.sagepub.com				SAGE Publications										
+Asian Cardiovascular and Thoracic Annals	0218-4923	1816-5370							http://aan.sagepub.com		aan.sagepub.com				SAGE Publications										
+AAP Grand Rounds	1099-6605								http://aapgrandrounds.aappublications.org		aapgrandrounds.aappublications.org				American Academy of Pediatrics										
+AAP News	1073-0397	1556-3332							http://aapnews.aappublications.org		aapnews.aappublications.org				American Academy of Pediatrics										
+Administration & Society	0095-3997	1552-3039							http://aas.sagepub.com		aas.sagepub.com				SAGE Publications										
+Asia-Pacific Journal of Management Research and Innovation	2319-510X	2321-0729							http://abr.sagepub.com		abr.sagepub.com				SAGE Publications India Pvt Ltd										
+American Behavioral Scientist	0002-7642	1552-3381							http://abs.sagepub.com		abs.sagepub.com				SAGE Publications										
+Annals of Clinical Biochemistry: An international journal of biochemistry and laboratory medicine	0004-5632	1758-1001							http://acb.sagepub.com		acb.sagepub.com				SAGE Publications										
+European Heart Journal: Acute Cardiovascular Care	2048-8726	2048-8734							http://acc.sagepub.com		acc.sagepub.com				SAGE Publications										
+Australian Journal of Career Development	1038-4162	2200-6974							http://acd.sagepub.com		acd.sagepub.com				SAGE Publications										
+Accounting History	1032-3732	1749-3374							http://ach.sagepub.com		ach.sagepub.com				SAGE Publications										
+Acta Radiologica	0284-1851	1600-0455							http://acr.sagepub.com		acr.sagepub.com				SAGE Publications										
+Adaptation	1755-0637	1755-0645							http://adaptation.oxfordjournals.org		adaptation.oxfordjournals.org				Oxford University Press										
+Adaptive Behavior	1059-7123	1741-2633							http://adb.sagepub.com		adb.sagepub.com				SAGE Publications										
+Archives of Disease in Childhood	0003-9888	1468-2044							http://adc.bmj.com		adc.bmj.com				BMJ Publishing Group Ltd										
+Advances in Developing Human Resources	1523-4223	1552-3055							http://adh.sagepub.com		adh.sagepub.com				SAGE Publications										
+Advances in Dental Research	0895-9374	1544-0737							http://adr.sagepub.com		adr.sagepub.com				SAGE Publications										
+Advances in Physiology Education	1043-4046	1522-1229							http://advan.physiology.org		advan.physiology.org				American Physiological Society										
+Advances in Nutrition: An International Review Journal		2156-5376							http://advances.nutrition.org		advances.nutrition.org				American Society for Nutrition										
+Australian Journal of Education	0004-9441	2050-5884							http://aed.sagepub.com		aed.sagepub.com				SAGE Publications										
+Assessment for Effective Intervention	1534-5084								http://aei.sagepub.com		aei.sagepub.com				SAGE Publications										
+Applied and Environmental Microbiology	0099-2240	1098-5336							http://aem.asm.org		aem.asm.org				American Society for Microbiology										
+Adult Education Quarterly	0741-7136	1552-3047							http://aeq.sagepub.com		aeq.sagepub.com				SAGE Publications										
+American Educational Research Journal	0002-8312	1935-1011							http://aer.sagepub.com		aer.sagepub.com				SAGE Publications										
+Aesthetic Surgery Journal	1090-820X	1527-330X							http://aes.sagepub.com		aes.sagepub.com				SAGE Publications										
+Affilia	0886-1099	1552-3020							http://aff.sagepub.com		aff.sagepub.com				SAGE Publications										
+African Affairs	0001-9909	1468-2621							http://afraf.oxfordjournals.org		afraf.oxfordjournals.org				Oxford University Press										
+Armed Forces & Society	0095-327X	1556-0848							http://afs.sagepub.com		afs.sagepub.com				SAGE Publications										
+Age and Ageing	0002-0729	1468-2834							http://ageing.oxfordjournals.org		ageing.oxfordjournals.org				Oxford University Press										
+Agrarian South: Journal of Political Economy	2277-9760	2321-0281							http://ags.sagepub.com		ags.sagepub.com				SAGE Publications India Pvt Ltd										
+Arts and Humanities in Higher Education	1474-0222	1741-265X							http://ahh.sagepub.com		ahh.sagepub.com				SAGE Publications										
+American Historical Review	0002-8762	1937-5239							http://ahr.oxfordjournals.org		ahr.oxfordjournals.org				Oxford University Press										
+Journal of Asian Security and International Affairs	2347-7970	2349-0039							http://aia.sagepub.com		aia.sagepub.com				SAGE Publications										
+AIBS Bulletin	0096-7645								http://aibsbulletin.oxfordjournals.org		aibsbulletin.oxfordjournals.org				Oxford University Press										
+Acupuncture in Medicine	0964-5284	1759-9873							http://aim.bmj.com		aim.bmj.com				BMJ Publishing Group Ltd										
+AADE in Practice	2325-1603	2325-5161							http://aip.sagepub.com		aip.sagepub.com				SAGE Publications										
+American Journal of Alzheimer's Disease and Other Dementias	1533-3175	1938-2731							http://aja.sagepub.com		aja.sagepub.com				SAGE Publications										
+Asian Journal of Management Cases	0972-8201	0973-0621							http://ajc.sagepub.com		ajc.sagepub.com				SAGE Publications										
+American Journal of Critical Care	1062-3264	1937-710X							http://ajcc.aacnjournals.org		ajcc.aacnjournals.org				American Association of Critical-Care Nurses										
+American Journal of Clinical Nutrition	0002-9165	1938-3207							http://ajcn.nutrition.org		ajcn.nutrition.org				American Society for Nutrition										
+American Journal of Clinical Pathology	0002-9173	1943-7722							http://ajcp.ascpjournals.org		ajcp.ascpjournals.org				American Society for Clinical Pathology										
+American Journal of Epidemiology	0002-9262	1476-6256							http://aje.oxfordjournals.org		aje.oxfordjournals.org				Oxford University Press										
+American Journal of Evaluation	1098-2140	1557-0878							http://aje.sagepub.com		aje.sagepub.com				SAGE Publications										
+American Journal of Hypertension	0895-7061	1941-7225							http://ajh.oxfordjournals.org		ajh.oxfordjournals.org				Oxford University Press										
+American Journal of Hospice and Palliative Medicine	1049-9091	1938-2715							http://ajh.sagepub.com		ajh.sagepub.com				SAGE Publications										
+American Journal of Jurisprudence	0065-8995	2049-6494							http://ajj.oxfordjournals.org		ajj.oxfordjournals.org				Oxford University Press										
+American Journal of Lifestyle Medicine	1559-8276	1559-8284							http://ajl.sagepub.com		ajl.sagepub.com				SAGE Publications										
+American Journal of Medical Quality	1062-8606	1555-824X							http://ajm.sagepub.com		ajm.sagepub.com				SAGE Publications										
+American Journal of Physiology - Cell Physiology	0363-6143	1522-1563							http://ajpcell.physiology.org		ajpcell.physiology.org				American Physiological Society										
+American Journal of Physiology - Endocrinology and Metabolism	0193-1849	1522-1555							http://ajpendo.physiology.org		ajpendo.physiology.org				American Physiological Society										
+American Journal of Physiology - Gastrointestinal and Liver Physiology	0193-1857	1522-1547							http://ajpgi.physiology.org		ajpgi.physiology.org				American Physiological Society										
+American Journal of Physiology - Heart and Circulatory Physiology	0363-6135	1522-1539							http://ajpheart.physiology.org		ajpheart.physiology.org				American Physiological Society										
+American Journal of Physiology -- Legacy Content	0002-9513								http://ajplegacy.physiology.org		ajplegacy.physiology.org				American Physiological Society										
+American Journal of Physiology - Lung Cellular and Molecular Physiology	1040-0605	1522-1504							http://ajplung.physiology.org		ajplung.physiology.org				American Physiological Society										
+American Journal of Physiology - Regulatory, Integrative and Comparative Physiology	0363-6119	1522-1490							http://ajpregu.physiology.org		ajpregu.physiology.org				American Physiological Society										
+American Journal of Physiology - Renal Physiology	1931-857X	1522-1466							http://ajprenal.physiology.org		ajprenal.physiology.org				American Physiological Society										
+American Journal of Sports Medicine	0363-5465	1552-3365							http://ajs.sagepub.com		ajs.sagepub.com				Sage Publications, Inc.										
+Alcohol and Alcoholism	0735-0414	1464-3502							http://alcalc.oxfordjournals.org		alcalc.oxfordjournals.org				Oxford University Press										
+Asian Journal of Legal Education	2322-0058	2348-2451							http://ale.sagepub.com		ale.sagepub.com				SAGE Publications										
+American Law and Economics Review	1465-7252	1465-7260							http://aler.oxfordjournals.org		aler.oxfordjournals.org				Oxford University Press										
+American Literary History	0896-7148	1468-4365							http://alh.oxfordjournals.org		alh.oxfordjournals.org				Oxford University Press										
+Active Learning in Higher Education	1469-7874	1741-2625							http://alh.sagepub.com		alh.sagepub.com				SAGE Publications										
+American Literary Scholarship	0065-9142	1527-2125							http://als.dukejournals.org		als.dukejournals.org				Duke University Press										
+Alternatives: Global, Local, Political	0304-3754								http://alt.sagepub.com		alt.sagepub.com				SAGE Publications										
+Adult Learning	1045-1595								http://alx.sagepub.com		alx.sagepub.com				SAGE Publications										
+Asia Pacific Media Educator	1326-365X	2321-5410							http://ame.sagepub.com		ame.sagepub.com				SAGE Publications India Pvt Ltd										
+American Literature	0002-9831	1527-2117							http://americanliterature.dukejournals.org		americanliterature.dukejournals.org				Duke University Press										
+American Speech	0003-1283	1527-2133							http://americanspeech.dukejournals.org		americanspeech.dukejournals.org				Duke University Press										
+Applied Mathematics Research eXpress	1687-1200	1687-1197							http://amrx.oxfordjournals.org		amrx.oxfordjournals.org				Oxford University Press										
+Angiology	0003-3197								http://ang.sagepub.com		ang.sagepub.com				SAGE Publications										
+Annals of the ICRP	0146-6453								http://ani.sagepub.com		ani.sagepub.com				SAGE Publications										
+Australian & New Zealand Journal of Criminology	0004-8658	1837-9273							http://anj.sagepub.com		anj.sagepub.com				SAGE Publications										
+Animation	1746-8477	1746-8485							http://anm.sagepub.com		anm.sagepub.com				SAGE Publications										
+ANNALS of the American Academy of Political and Social Science	0002-7162	1552-3349							http://ann.sagepub.com		ann.sagepub.com				SAGE Publications										
+Annals of Occupational Hygiene	0003-4878	1475-3162							http://annhyg.oxfordjournals.org		annhyg.oxfordjournals.org				Oxford University Press										
+Annals of Oncology	0923-7534	1569-8041							http://annonc.oxfordjournals.org		annonc.oxfordjournals.org				Oxford University Press										
+Australian & New Zealand Journal of Psychiatry	0004-8674	1440-1614							http://anp.sagepub.com		anp.sagepub.com				SAGE Publications										
+Anthropocene Review	2053-0196	2053-020X							http://anr.sagepub.com		anr.sagepub.com				SAGE Publications										
+Anthropological Theory	1463-4996	1741-2641							http://ant.sagepub.com		ant.sagepub.com				SAGE Publications										
+Journal of Antitrust Enforcement	2050-0688	2050-0696							http://antitrust.oxfordjournals.org		antitrust.oxfordjournals.org				Oxford University Press										
+Annals of Botany	0305-7364	1095-8290							http://aob.oxfordjournals.org		aob.oxfordjournals.org				Oxford University Press										
+American Orthoptic Journal	0065-955X	1553-4448							http://aoj.uwpress.org		aoj.uwpress.org				University of Wisconsin Press										
+Annals of Pharmacotherapy	1060-0280	1542-6270							http://aop.sagepub.com		aop.sagepub.com				SAGE Publications										
+Annals of Otology, Rhinology & Laryngology	0003-4894	1943-572X							http://aor.sagepub.com		aor.sagepub.com				SAGE Publications										
+Journal of the American Psychoanalytic Association	0003-0651	1941-2460							http://apa.sagepub.com		apa.sagepub.com				SAGE Publications										
+Asia-Pacific Journal of Public Health	1010-5395								http://aph.sagepub.com		aph.sagepub.com				SAGE Publications										
+Asia Pacific Journal of Human Resources	1038-4111	1744-7941							http://apj.sagepub.com		apj.sagepub.com				SAGE Publications										
+Applied Psychological Measurement	0146-6216	1552-3497							http://apm.sagepub.com		apm.sagepub.com				SAGE Publications										
+Applied Linguistics	0142-6001	1477-450X							http://applij.oxfordjournals.org		applij.oxfordjournals.org				Oxford University Press										
+American Politics Research	1532-673X	1552-3373							http://apr.sagepub.com		apr.sagepub.com				SAGE Publications										
+Advances in Psychiatric Treatment	1355-5146	1472-1481							http://apt.rcpsych.org		apt.rcpsych.org				Royal College of Psychiatrists										
+Australasian Psychiatry	1039-8562	1440-1665							http://apy.sagepub.com		apy.sagepub.com				SAGE Publications										
+Anticancer Research	0250-7005	1791-7530							http://ar.iiarjournals.org		ar.iiarjournals.org				John G. Delinasios										
+Annals of the Rheumatic Diseases	0003-4967	1468-2060							http://ard.bmj.com		ard.bmj.com				BMJ Publishing Group Ltd										
+Action Research	1476-7503	1741-2617							http://arj.sagepub.com		arj.sagepub.com				SAGE Publications										
+American Review of Public Administration	0275-0740	1552-3357							http://arp.sagepub.com		arp.sagepub.com				SAGE Publications										
+Acta Radiologica Short Reports	2047-9816	2047-9816							http://arr.sagepub.com		arr.sagepub.com				SAGE Publications										
+Hematology ASH Education Program	1520-4391	1520-4383							http://asheducationbook.hematologylibrary.org		asheducationbook.hematologylibrary.org				American Society of Hematology (ASH)										
+Acta Sociologica	0001-6993	1502-3869							http://asj.sagepub.com		asj.sagepub.com				SAGE Publications										
+Assessment	1073-1911	1552-3489							http://asm.sagepub.com		asm.sagepub.com				SAGE Publications										
+ASN Neuro	1759-0914	1759-9091							http://asn.sagepub.com		asn.sagepub.com				SAGE Publications										
+Administrative Science Quarterly	0001-8392								http://asq.sagepub.com		asq.sagepub.com				SAGE Publications										
+American Sociological Review	0003-1224	1939-8271							http://asr.sagepub.com		asr.sagepub.com				SAGE Publications										
+Astronomy & Geophysics	1366-8781	1468-4004							http://astrogeo.oxfordjournals.org		astrogeo.oxfordjournals.org				Oxford University Press										
+Arteriosclerosis, Thrombosis, and Vascular Biology	1079-5642	1524-4636							http://atvb.ahajournals.org		atvb.ahajournals.org				Lippincott Williams & Wilkins										
+Australian Journal of Management	0312-8962	1327-2020							http://aum.sagepub.com		aum.sagepub.com				SAGE Publications										
+Autism	1362-3613	1461-7005							http://aut.sagepub.com		aut.sagepub.com				SAGE Publications										
+Business & Society	0007-6503	1552-4205							http://bas.sagepub.com		bas.sagepub.com				SAGE Publications										
+Behavioral and Cognitive Neuroscience Reviews	1534-5823	1552-4159							http://bcn.sagepub.com		bcn.sagepub.com				SAGE Publications										
+Business and Professional Communication Quarterly	2329-4906	#2329-9492							http://bcq.sagepub.com		bcq.sagepub.com				SAGE Publications										
+Big Data & Society		2053-9517							http://bds.sagepub.com		bds.sagepub.com				SAGE Publications										
+Behavioral Ecology	1045-2249	1465-7279							http://beheco.oxfordjournals.org		beheco.oxfordjournals.org				Oxford University Press										
+Biology Open		2046-6390							http://bio.biologists.org		bio.biologists.org				Company of Biologists										
+BioScope: South Asian Screen Studies	0974-9276	0976-352X							http://bio.sagepub.com		bio.sagepub.com				SAGE										
+Bioscience Horizons		1754-7431							http://biohorizons.oxfordjournals.org		biohorizons.oxfordjournals.org				Oxford University Press										
+Bioinformatics	1367-4803	1460-2059							http://bioinformatics.oxfordjournals.org		bioinformatics.oxfordjournals.org				Oxford University Press										
+BioScience	0006-3568	1525-3244							http://bioscience.oxfordjournals.org		bioscience.oxfordjournals.org				Oxford University Press										
+Biostatistics	1465-4644	1468-4357							http://biostatistics.oxfordjournals.org		biostatistics.oxfordjournals.org				Oxford University Press										
+Business Information Review	0266-3821	1741-6450							http://bir.sagepub.com		bir.sagepub.com				SAGE Publications										
+British Journal of Anaesthesia	0007-0912	1471-6771							http://bja.oxfordjournals.org		bja.oxfordjournals.org				Oxford University Press										
+British Journal of Criminology	0007-0955	1464-3529							http://bjc.oxfordjournals.org		bjc.oxfordjournals.org				Oxford University Press										
+British Journal of General Practice	0960-1643	1478-5242							http://bjgp.org		bjgp.org				Royal College of General Practitioners										
+Journal of Infection Prevention	1757-1774	1757-1782							http://bji.sagepub.com		bji.sagepub.com				SAGE Publications										
+British Journal of Ophthalmology	0007-1161	1468-2079							http://bjo.bmj.com		bjo.bmj.com				BMJ Publishing Group Ltd										
+British Journal of Psychiatry	0007-1250	1472-1465							http://bjp.rcpsych.org		bjp.rcpsych.org				Royal College of Psychiatrists										
+British Journal of Pain	2049-4637	2049-4645							http://bjp.sagepub.com		bjp.sagepub.com				SAGE Publications										
+British Journal for the Philosophy of Science	0007-0882	1464-3537							http://bjps.oxfordjournals.org		bjps.oxfordjournals.org				Oxford University Press										
+British Journalism Review	0956-4748	1741-2668							http://bjr.sagepub.com		bjr.sagepub.com				SAGE Publications										
+British Journal of Sports Medicine	0306-3674	1473-0480							http://bjsm.bmj.com		bjsm.bmj.com				BMJ Publishing Group Ltd										
+British Journal of Social Work	0045-3102	1468-263X							http://bjsw.oxfordjournals.org		bjsw.oxfordjournals.org				Oxford University Press										
+British Medical Bulletin	0007-1420	1471-8391							http://bmb.oxfordjournals.org		bmb.oxfordjournals.org				Oxford University Press										
+South Asian Journal of Business and Management Cases	2277-9779	2321-0303							http://bmc.sagepub.com		bmc.sagepub.com				SAGE Publications India Pvt Ltd										
+BMJ Open	2044-6055								http://bmjopen.bmj.com		bmjopen.bmj.com				BMJ Group										
+BMJ Open Respiratory Research		2052-4439							http://bmjopenrespres.bmj.com		bmjopenrespres.bmj.com				BMJ Publishing Group Ltd & British Thoracic Society										
+Behavior Modification	0145-4455	1552-4167							http://bmo.sagepub.com		bmo.sagepub.com				SAGE Publications										
+Bulletin of Sociological Methodology/Bulletin de M thodologie Sociologique	0759-1063	2070-2779							http://bms.sagepub.com		bms.sagepub.com				SAGE Publications										
+Body & Society	1357-034X	1460-3632							http://bod.sagepub.com		bod.sagepub.com				SAGE Publications										
+Bulletin of the Atomic Scientists	0096-3402	1938-3282							http://bos.sagepub.com		bos.sagepub.com				SAGE Publications										
+boundary 2	0190-3659	1527-2141							http://boundary2.dukejournals.org		boundary2.dukejournals.org				Duke University Press										
+Brain	0006-8950	1460-2156							http://brain.oxfordjournals.org		brain.oxfordjournals.org				Oxford University Press										
+Breathe	1810-6838	2073-4735							http://breathe.ersjournals.com		breathe.ersjournals.com				European Respiratory Society										
+Jindal Journal of Business Research	2278-6821								http://brj.sagepub.com		brj.sagepub.com				SAGE Publications										
+Biological Research For Nursing	1099-8004	1552-4175							http://brn.sagepub.com		brn.sagepub.com				SAGE Publications										
+Building Services Engineering Research and Technology	0143-6244	1477-0849							http://bse.sagepub.com		bse.sagepub.com				SAGE Publications										
+Bulletin de la Societe Geologique de France	0037-9409								http://bsgf.geoscienceworld.org		bsgf.geoscienceworld.org				Société Géologique de France										
+Bulletin of Science, Technology & Society	0270-4676	1552-4183							http://bst.sagepub.com		bst.sagepub.com				SAGE Publications										
+Biblical Theology Bulletin: Journal of Bible and Culture	0146-1079	1945-7596							http://btb.sagepub.com		btb.sagepub.com				SAGE Publications Ltd										
+NASSP Bulletin	0192-6365								http://bul.sagepub.com		bul.sagepub.com				SAGE Publications										
+Cooperation and Conflict	0010-8367	1460-3691							http://cac.sagepub.com		cac.sagepub.com				SAGE Publications										
+Crime & Delinquency	0011-1287	1552-387X							http://cad.sagepub.com		cad.sagepub.com				SAGE Publications										
+Camera Obscura: Feminism, Culture, and Media Studies	0270-5346	1529-1510							http://cameraobscura.dukejournals.org		cameraobscura.dukejournals.org				Duke University Press										
+Cambridge Quarterly	0008-199X	1471-6836							http://camqtly.oxfordjournals.org		camqtly.oxfordjournals.org				Oxford University Press										
+ICAN: Infant, Child, & Adolescent Nutrition	1941-4064	1941-4072							http://can.sagepub.com		can.sagepub.com				SAGE Publications										
+Cancer Discovery	2159-8274	2159-8290							http://cancerdiscovery.aacrjournals.org		cancerdiscovery.aacrjournals.org				American Association for Cancer Research										
+Cancer Immunology Research	2326-6066	2326-6074							http://cancerimmunolres.aacrjournals.org		cancerimmunolres.aacrjournals.org				American Association for Cancer Research										
+Cancer Prevention Research	1940-6207	1940-6215							http://cancerpreventionresearch.aacrjournals.org		cancerpreventionresearch.aacrjournals.org				American Association for Cancer Research, Inc. (AACR)										
+Cancer Research	0008-5472	1538-7445							http://cancerres.aacrjournals.org		cancerres.aacrjournals.org				American Association for Cancer Research, Inc. (AACR)										
+Culture & Psychology	1354-067X	1461-7056							http://cap.sagepub.com		cap.sagepub.com				SAGE Publications										
+Cartilage	1947-6035	1947-6043							http://car.sagepub.com		car.sagepub.com				SAGE Publications										
+Carcinogenesis	0143-3334	1460-2180							http://carcin.oxfordjournals.org		carcin.oxfordjournals.org				Oxford University Press										
+Diabetes Care	0149-5992	1935-5548							http://care.diabetesjournals.org		care.diabetesjournals.org				American Diabetes Association										
+Carlyle Letters Online	1532-0928								http://carlyleletters.dukejournals.org		carlyleletters.dukejournals.org				Duke University Press										
+BMJ Case Reports		1757-790X							http://casereports.bmj.com		casereports.bmj.com				BMJ Publishing Group Ltd										
+Clinical and Applied Thrombosis/Hemostasis	1076-0296	1938-2723							http://cat.sagepub.com		cat.sagepub.com				SAGE Publications										
+Christian Bioethics	1380-3603	1744-4195							http://cb.oxfordjournals.org		cb.oxfordjournals.org				Oxford University Press										
+Currents in Biblical Research	1476-993X	1745-5200							http://cbi.sagepub.com		cbi.sagepub.com				SAGE Publications										
+Compensation & Benefits Review	0886-3687	1552-3837							http://cbr.sagepub.com		cbr.sagepub.com				SAGE Publications										
+Journal of Contemporary Criminal Justice	1043-9862	1552-5406							http://ccj.sagepub.com		ccj.sagepub.com				SAGE Publications										
+Cardiac Cath Lab Director	2150-1335	2150-0134							http://ccl.sagepub.com		ccl.sagepub.com				SAGE Publications										
+International Journal of Cross Cultural Management	1470-5958	1741-2838							http://ccm.sagepub.com		ccm.sagepub.com				SAGE Publications										
+Critical Care Nurse	0279-5442	1940-8250							http://ccn.aacnjournals.org		ccn.aacnjournals.org				American Association of Critical-Care Nurses										
+Clinical Child Psychology and Psychiatry	1359-1045	1461-7021							http://ccp.sagepub.com		ccp.sagepub.com				SAGE Publications										
+Cross-Cultural Research	1069-3971	1552-3578							http://ccr.sagepub.com		ccr.sagepub.com				SAGE Publications										
+Clinical Case Studies	1534-6501	1552-3802							http://ccs.sagepub.com		ccs.sagepub.com				SAGE Publications										
+Career Development and Transition for Exceptional Individuals	2165-1434	2165-1442							http://cde.sagepub.com		cde.sagepub.com				SAGE Publications										
+Community Development Journal	0010-3802	1468-2656							http://cdj.oxfordjournals.org		cdj.oxfordjournals.org				Oxford University Press										
+Current Directions in Psychological Science	0963-7214	1467-8721							http://cdp.sagepub.com		cdp.sagepub.com				SAGE Publications										
+Communication Disorders Quarterly	1525-7401	1538-4837							http://cdq.sagepub.com		cdq.sagepub.com				SAGE Publications										
+Cultural Dynamics	0921-3740	1461-7048							http://cdy.sagepub.com		cdy.sagepub.com				SAGE Publications										
+Continuing Education in Anaesthesia, Critical Care & Pain	1743-1816	1743-1824							http://ceaccp.oxfordjournals.org		ceaccp.oxfordjournals.org				Oxford University Press										
+Cancer Epidemiology Biomarkers & Prevention	1055-9965	1538-7755							http://cebp.aacrjournals.org		cebp.aacrjournals.org				American Association for Cancer Research, Inc. (AACR)										
+Contemporary Education Dialogue	0973-1849	2249-5320							http://ced.sagepub.com		ced.sagepub.com				SAGE										
+Journal of Cellular Plastics	0021-955X	1530-7999							http://cel.sagepub.com		cel.sagepub.com				SAGE Publications										
+Cephalalgia	0333-1024	1468-2982							http://cep.sagepub.com		cep.sagepub.com				SAGE										
+Concurrent Engineering	1063-293X	1531-2003							http://cer.sagepub.com		cer.sagepub.com				SAGE Publications										
+Cerebral Cortex	1047-3211	1460-2199							http://cercor.oxfordjournals.org		cercor.oxfordjournals.org				Oxford University Press										
+Clinical Ethics	1477-7509	1758-101X							http://cet.sagepub.com		cet.sagepub.com				SAGE Publications										
+cultural geographies	1474-4740	1477-0881							http://cgj.sagepub.com		cgj.sagepub.com				SAGE Publications										
+Cancer Genomics & Proteomics	1109-6535	1790-6245							http://cgp.iiarjournals.org		cgp.iiarjournals.org				John G. Delinasios										
+Journal of Child Health Care	1367-4935	1741-2889							http://chc.sagepub.com		chc.sagepub.com				SAGE Publications										
+Childhood	0907-5682	1461-7013							http://chd.sagepub.com		chd.sagepub.com				SAGE Publications										
+Chemical Senses	0379-864X	1464-3553							http://chemse.oxfordjournals.org		chemse.oxfordjournals.org				Oxford University Press										
+Chronic Illness	1742-3953	1745-9206							http://chi.sagepub.com		chi.sagepub.com				SAGE Publications										
+Journal of Evidence-Based Complementary & Alternative Medicine	2156-5872	2156-5899							http://chp.sagepub.com		chp.sagepub.com				SAGE Publications										
+China Report	0009-4455	0973-063X							http://chr.sagepub.com		chr.sagepub.com				SAGE Publications										
+Journal of Chromatographic Science	0021-9665	1945-239X							http://chromsci.oxfordjournals.org		chromsci.oxfordjournals.org				Oxford University Press										
+China Information	0920-203X	1741-590X							http://cin.sagepub.com		cin.sagepub.com				SAGE Publications										
+Circulation	0009-7322	1524-4539							http://circ.ahajournals.org		circ.ahajournals.org				Lippincott Williams & Wilkins										
+Circulation: Arrhythmia and Electrophysiology	1941-3149	1941-3084							http://circep.ahajournals.org		circep.ahajournals.org				Lippincott Williams & Wilkins										
+Circulation: Cardiovascular Genetics	1942-325X	1942-3268							http://circgenetics.ahajournals.org		circgenetics.ahajournals.org				Lippincott Williams & Wilkins										
+Circulation: Heart Failure	1941-3289	1941-3297							http://circheartfailure.ahajournals.org		circheartfailure.ahajournals.org				Lippincott Williams & Wilkins										
+Circulation: Cardiovascular Imaging	1941-9651	1942-0080							http://circimaging.ahajournals.org		circimaging.ahajournals.org				Lippincott Williams & Wilkins										
+Circulation: Cardiovascular Interventions	1941-7640	1941-7632							http://circinterventions.ahajournals.org		circinterventions.ahajournals.org				Lippincott Williams & Wilkins										
+Circulation: Cardiovascular Quality and Outcomes	1941-7705	1941-7713							http://circoutcomes.ahajournals.org		circoutcomes.ahajournals.org				Lippincott Williams & Wilkins										
+Circulation Research	0009-7330	1524-4571							http://circres.ahajournals.org		circres.ahajournals.org				Lippincott Williams & Wilkins										
+Contributions to Indian Sociology	0069-9667	0973-0648							http://cis.sagepub.com		cis.sagepub.com				SAGE Publications										
+Clinical Journal of the American Society of Nephrology	1555-9041	1555-905X							http://cjasn.asnjournals.org		cjasn.asnjournals.org				American Society of Nephrology										
+Criminal Justice and Behavior	0093-8548	1552-3594							http://cjb.sagepub.com		cjb.sagepub.com				SAGE Publications										
+Chinese Journal of Comparative Law	2050-4802	2050-4810							http://cjcl.oxfordjournals.org		cjcl.oxfordjournals.org				Oxford University Press										
+Cambridge Journal of Economics	0309-166X	1464-3545							http://cje.oxfordjournals.org		cje.oxfordjournals.org				Oxford University Press										
+Canadian Journal of Earth Sciences	0008-4077	1480-3313							http://cjes.geoscienceworld.org		cjes.geoscienceworld.org				NRC Research Press										
+Canadian Journal of Occupational Therapy	0008-4174	1911-9828							http://cjo.sagepub.com		cjo.sagepub.com				SAGE Publications										
+Criminal Justice Policy Review	0887-4034	1552-3586							http://cjp.sagepub.com		cjp.sagepub.com				SAGE Publications										
+Criminal Justice Review	0734-0168	1556-3839							http://cjr.sagepub.com		cjr.sagepub.com				SAGE Publications										
+Canadian Journal of School Psychology	0829-5735								http://cjs.sagepub.com		cjs.sagepub.com				SAGE Publications										
+Contemporary Literature	0010-7484	1548-9949							http://cl.uwpress.org		cl.uwpress.org				University of Wisconsin Press										
+Clin-Alert	0069-4770	1530-812X							http://cla.sagepub.com		cla.sagepub.com				SAGE Publications										
+Clay Minerals	0009-8558	1471-8030							http://claymin.geoscienceworld.org		claymin.geoscienceworld.org				Mineralogical Society of Great Britain and Ireland										
+Clinical Cancer Research	1078-0432	1557-3265							http://clincancerres.aacrjournals.org		clincancerres.aacrjournals.org				American Association for Cancer Research, Inc. (AACR)										
+Clinical Diabetes	0891-8929	1945-4953							http://clinical.diabetesjournals.org		clinical.diabetesjournals.org				American Diabetes Association										
+Child Language Teaching and Therapy	0265-6590	1477-0865							http://clt.sagepub.com		clt.sagepub.com				SAGE Publications										
+Crime, Media, Culture	1741-6590	1741-6604							http://cmc.sagepub.com		cmc.sagepub.com				SAGE Publications										
+Contemporary Review of the Middle East	2347-7989	2349-0055							http://cme.sagepub.com		cme.sagepub.com				SAGE Publications										
+Capital Markets Law Journal	1750-7219	1750-7227							http://cmlj.oxfordjournals.org		cmlj.oxfordjournals.org				Oxford University Press										
+Conflict Management and Peace Science	0738-8942	1549-9219							http://cmp.sagepub.com		cmp.sagepub.com				SAGE Publications Ltd										
+Clinical Microbiology Reviews	0893-8512	1098-6618							http://cmr.asm.org		cmr.asm.org				American Society for Microbiology										
+Child Maltreatment	1077-5595	1552-6119							http://cmx.sagepub.com		cmx.sagepub.com				SAGE Publications										
+Capital & Class	0309-8168	2041-0980							http://cnc.sagepub.com		cnc.sagepub.com				SAGE Publications										
+Child Neurology Open		2329-048X							http://cno.sagepub.com		cno.sagepub.com				SAGE Publications										
+Clinical Nursing Research	1054-7738	1552-3799							http://cnr.sagepub.com		cnr.sagepub.com				SAGE Publications										
+European Journal of Cardiovascular Nursing	1474-5151	1873-1953							http://cnu.sagepub.com		cnu.sagepub.com				SAGe Publications										
+Critique of Anthropology	0308-275X	1460-3721							http://coa.sagepub.com		coa.sagepub.com				SAGE Publications										
+Communication & Sport	2167-4795	2167-4809							http://com.sagepub.com		com.sagepub.com				SAGE Publications										
+Common Knowledge	0961-754X	1538-4578							http://commonknowledge.dukejournals.org		commonknowledge.dukejournals.org				Duke University Press										
+Journal of Complex Networks	2051-1310	2051-1329							http://comnet.oxfordjournals.org		comnet.oxfordjournals.org				Oxford University Press										
+Comparative Literature	0010-4124	1945-8517							http://complit.dukejournals.org		complit.dukejournals.org				Duke University Press										
+Convergence: International Journal of Research into New Media Technologies	1354-8565	1748-7382							http://con.sagepub.com		con.sagepub.com				SAGE Publications										
+Health Affairs	0278-2715	1544-5208							http://content.healthaffairs.org		content.healthaffairs.org				Project HOPE (People-to-People Health Foundation)										
+Counseling Outcome Research and Evaluation	2150-1378	2150-1386							http://cor.sagepub.com		cor.sagepub.com				SAGE Publications										
+International Journal of Comparative Sociology	0020-7152	1745-2554							http://cos.sagepub.com		cos.sagepub.com				SAGE Publications										
+Neurology: Clinical Practice	2163-0402	2163-0933							http://cp.neurology.org		cp.neurology.org				Wolters Kluwer Health / Lippincott Williams & Wilkins										
+Contributions to Political Economy	0277-5921	1464-3588							http://cpe.oxfordjournals.org		cpe.oxfordjournals.org				Oxford University Press										
+Canadian Pharmacists Journal / Revue des Pharmaciens du Canada	1715-1635	1913-701X							http://cph.sagepub.com		cph.sagepub.com				SAGE Publications										
+Clinical Pediatrics	0009-9228								http://cpj.sagepub.com		cpj.sagepub.com				SAGE Publications										
+European Journal of Preventive Cardiology	2047-4873	2047-4881							http://cpr.sagepub.com		cpr.sagepub.com				SAGE Publications										
+Comparative Political Studies	0010-4140	1552-3829							http://cps.sagepub.com		cps.sagepub.com				SAGE Publications										
+Journal of Cardiovascular Pharmacology and Therapeutics	1074-2484	1940-4034							http://cpt.sagepub.com		cpt.sagepub.com				SAGE Publications										
+Clinical Psychological Science	2167-7026	2167-7034							http://cpx.sagepub.com		cpx.sagepub.com				SAGE Publications										
+Cornell Hospitality Quarterly	1938-9655	1938-9663							http://cqx.sagepub.com		cqx.sagepub.com				SAGE Publications										
+Journal of Creative Communications	0973-2586	0973-2594							http://crc.sagepub.com		crc.sagepub.com				SAGE Publications										
+Chronic Respiratory Disease	1479-9723	1479-9731							http://crd.sagepub.com		crd.sagepub.com				SAGE Publications										
+Clinical Rehabilitation	0269-2155	1477-0873							http://cre.sagepub.com		cre.sagepub.com				SAGE Publications										
+Clinical Risk	1356-2622	1758-1028							http://cri.sagepub.com		cri.sagepub.com				SAGE Publications										
+Criminology and Criminal Justice	1748-8958	1748-8966							http://crj.sagepub.com		crj.sagepub.com				SAGE Publications										
+College & Research Libraries	0010-0870	2150-6701							http://crl.acrl.org		crl.acrl.org				Association of College & Research Libraries										
+College & Research Libraries News	0099-0086	2150-6698							http://crln.acrl.org		crln.acrl.org				Association of College & Research Libraries										
+Critical Reviews in Oral Biology & Medicine	1045-4411	1544-1113							http://cro.sagepub.com		cro.sagepub.com				SAGE Publications										
+Critical Research on Religion	2050-3032	2050-3040							http://crr.sagepub.com		crr.sagepub.com				SAGE Publications										
+Critical Sociology	0896-9205	1569-1632							http://crs.sagepub.com		crs.sagepub.com				SAGE										
+Community College Review	0091-5521								http://crw.sagepub.com		crw.sagepub.com				SAGE Publications										
+Communication Research	0093-6502	1552-3810							http://crx.sagepub.com		crx.sagepub.com				SAGE Publications										
+Children & Schools	1532-8759	1545-682X							http://cs.oxfordjournals.org		cs.oxfordjournals.org				Oxford University Press										
+Cultural Studies <=> Critical Methodologies	1532-7086	1552-356X							http://csc.sagepub.com		csc.sagepub.com				SAGE Publications										
+Cold Spring Harbor Perspectives in Biology		1943-0264							http://cshperspectives.cshlp.org		cshperspectives.cshlp.org				Cold Spring Harbor Laboratory Press										
+Cold Spring Harbor Protocols	1940-3402	1559-6095							http://cshprotocols.cshlp.org		cshprotocols.cshlp.org				Cold Spring Harbor Laboratory Press										
+Current Sociology	0011-3921	1461-7064							http://csi.sagepub.com		csi.sagepub.com				SAGE Publications										
+Critical Social Policy	0261-0183	1461-703X							http://csp.sagepub.com		csp.sagepub.com				SAGE Publications										
+Comparative Studies of South Asia, Africa and the Middle East	1089-201X	1548-226X							http://cssaame.dukejournals.org		cssaame.dukejournals.org				Duke University Press										
+Contemporary Sociology: A Journal of Reviews	0094-3061	1939-8638							http://csx.sagepub.com		csx.sagepub.com				SAGE Publications										
+Clinical Trials	1740-7745	1740-7753							http://ctj.sagepub.com		ctj.sagepub.com				SAGE Publications										
+Clothing and Textiles Research Journal	0887-302X								http://ctr.sagepub.com		ctr.sagepub.com				SAGE Publications										
+Contexts	1536-5042	1537-6052							http://ctx.sagepub.com		ctx.sagepub.com				SAGE Publications										
+Cultural Politics an International Journal	1743-2197	1751-7435							http://culturalpolitics.dukejournals.org		culturalpolitics.dukejournals.org				Duke University Press										
+Cultural Sociology	1749-9755	1749-9763							http://cus.sagepub.com		cus.sagepub.com				SAGE Publications										
+JRSM Cardiovascular Disease	2048-0040	2048-0040							http://cvd.sagepub.com		cvd.sagepub.com				SAGE Publications										
+Clinical and Vaccine Immunology	1556-6811	1556-679X							http://cvi.asm.org		cvi.asm.org				American Society for Microbiology										
+Contemporary Women's Writing	1754-1484	1754-1476							http://cww.oxfordjournals.org		cww.oxfordjournals.org				Oxford University Press										
+Discourse & Society	0957-9265	1460-3624							http://das.sagepub.com		das.sagepub.com				SAGE Publications										
+Journal of Dental Biomechanics		1758-7360							http://dbm.sagepub.com		dbm.sagepub.com				SAGE										
+Discourse & Communication	1750-4813	1750-4821							http://dcm.sagepub.com		dcm.sagepub.com				SAGE Publications										
+Dementia	1471-3012	1741-2684							http://dem.sagepub.com		dem.sagepub.com				SAGE Publications										
+Development	0950-1991	1477-9129							http://dev.biologists.org		dev.biologists.org				Company of Biologists Ltd										
+Diplomatic History	0145-2096	1467-7709							http://dh.oxfordjournals.org		dh.oxfordjournals.org				Oxford University Press										
+Dialogues in Human Geography	2043-8206	2043-8214							http://dhg.sagepub.com		dhg.sagepub.com				SAGE Publications										
+Diabetes	0012-1797	1939-327X							http://diabetes.diabetesjournals.org		diabetes.diabetesjournals.org				American Diabetes Association										
+differences	1040-7391	1527-1986							http://differences.dukejournals.org		differences.dukejournals.org				Duke University Press										
+Therapeutic Innovation & Regulatory Science	2168-4790	2168-4804							http://dij.sagepub.com		dij.sagepub.com				SAGE Publications										
+Diogenes	0392-1921	1467-7695							http://dio.sagepub.com		dio.sagepub.com				SAGE Publications										
+Discourse Studies	1461-4456	1461-7080							http://dis.sagepub.com		dis.sagepub.com				SAGE Publications										
+Drug Metabolism and Disposition	0090-9556	1521-009X							http://dmd.aspetjournals.org		dmd.aspetjournals.org				American Society for Pharmacology and Experimental Therapeutics										
+Disease Models & Mechanisms	1754-8403	1754-8411							http://dmm.biologists.org		dmm.biologists.org				Company of Biologists										
+Journal of Defense Modeling and Simulation: Applications, Methodology, Technology	1548-5129	1557-380X							http://dms.sagepub.com		dms.sagepub.com				SAGE Publications										
+Journal of Disability Policy Studies	1044-2073								http://dps.sagepub.com		dps.sagepub.com				SAGE Publications										
+BMJ Open Diabetes Research & Care		2052-4897							http://drc.bmj.com		drc.bmj.com				BMJ Publishing Group										
+Drug Science, Policy and Law		2050-3245							http://dsp.sagepub.com		dsp.sagepub.com				SAGE Publications										
+Journal of Diabetes Science and Technology	1932-2968	1932-2968							http://dst.sagepub.com		dst.sagepub.com				SAGE Publications										
+DTB - Drug and Therapeutics Bulletin	0012-6543	1755-5248							http://dtb.bmj.com		dtb.bmj.com				BMJ Publishing Group Ltd										
+Diabetes and Vascular Disease Research	1479-1641	1752-8984							http://dvr.sagepub.com		dvr.sagepub.com				SAGE Publications										
+Environment and Behavior	0013-9165	1552-390X							http://eab.sagepub.com		eab.sagepub.com				SAGE Publications										
+Educational Administration Quarterly	0013-161X	1552-3519							http://eaq.sagepub.com		eaq.sagepub.com				SAGE Publications										
+East Asian Science, Technology and Society	1875-2160	1875-2152							http://easts.dukejournals.org		easts.dukejournals.org				Duke University Press										
+Environment and Urbanization	0956-2478	1746-0301							http://eau.sagepub.com		eau.sagepub.com				SAGE Publications										
+Emerging Adulthood	2167-6968	2167-6984							http://eax.sagepub.com		eax.sagepub.com				SAGE Publications										
+Evidence-Based Medicine	1356-5524	1473-6810							http://ebm.bmj.com		ebm.bmj.com				BMJ Publishing Group Ltd										
+Experimental Biology and Medicine	1535-3702	1535-3699							http://ebm.sagepub.com		ebm.sagepub.com				SAGE Publications										
+Evidence-Based Mental Health	1362-0347	1468-960X							http://ebmh.bmj.com		ebmh.bmj.com				BMJ Group										
+Evidence-Based Nursing	1367-6539	1468-9618							http://ebn.bmj.com		ebn.bmj.com				BMJ Publishing Group Ltd										
+Journal of Emotional and Behavioral Disorders	1063-4266	1538-4799							http://ebx.sagepub.com		ebx.sagepub.com				SAGE Publications										
+Eukaryotic Cell	1535-9778	1535-9786							http://ec.asm.org		ec.asm.org				American Society for Microbiology										
+Eighteenth-Century Life	0098-2601	1086-3192							http://ecl.dukejournals.org		ecl.dukejournals.org				Duke University Press										
+Journal of Early Childhood Literacy	1468-7984	1741-2919							http://ecl.sagepub.com		ecl.sagepub.com				SAGE Publications										
+Economic Geology	0361-0128	1554-0774							http://economicgeology.org		economicgeology.org				Society of Economic Geologists, Inc.										
+Journal of Early Childhood Research	1476-718X	1741-2927							http://ecr.sagepub.com		ecr.sagepub.com				SAGE Publications										
+European Journal of Cultural Studies	1367-5494	1460-3551							http://ecs.sagepub.com		ecs.sagepub.com				SAGE Publications										
+ECS Transactions	1938-6737	1938-5862							http://ecst.ecsdl.org		ecst.ecsdl.org				Electrochemical Society										
+Exceptional Children	0014-4029								http://ecx.sagepub.com		ecx.sagepub.com				SAGE Publications										
+Journal of Cognitive Engineering and Decision Making	1555-3434								http://edm.sagepub.com		edm.sagepub.com				SAGE Publications										
+Economic Development Quarterly	0891-2424	1552-3543							http://edq.sagepub.com		edq.sagepub.com				SAGE Publications										
+Educational Researcher	0013-189X	1935-102X							http://edr.sagepub.com		edr.sagepub.com				SAGE Publications										
+Clinical EEG and Neuroscience	1550-0594								http://eeg.sagepub.com		eeg.sagepub.com				SAGE Publications										
+ECS Electrochemistry Letters	2162-8726	2162-8734							http://eel.ecsdl.org		eel.ecsdl.org				Electrochemical Society										
+East European Politics & Societies	0888-3254	1533-8371							http://eep.sagepub.com		eep.sagepub.com				SAGE Publications										
+Environmental Geosciences	1075-9565	1526-0984							http://eg.geoscienceworld.org		eg.geoscienceworld.org				American Association of Petroleum Geologists										
+Geological Society, London, Engineering Geology Special Publications	0267-9914	2041-4730							http://egsp.lyellcollection.org		egsp.lyellcollection.org				Geological Society of London										
+Educational Horizons	0013-175X	2162-3163							http://ehm.sagepub.com		ehm.sagepub.com				SAGE Publications										
+Evaluation & the Health Professions	0163-2787	1552-3918							http://ehp.sagepub.com		ehp.sagepub.com				SAGE Publications										
+European History Quarterly	0265-6914	1461-7110							http://ehq.sagepub.com		ehq.sagepub.com				SAGE Publications										
+English Historical Review	0013-8266	1477-4534							http://ehr.oxfordjournals.org		ehr.oxfordjournals.org				Oxford University Press										
+Essays in Criticism	0014-0856	1471-6852							http://eic.oxfordjournals.org		eic.oxfordjournals.org				Oxford University Press										
+Economic and Industrial Democracy	0143-831X	1461-7099							http://eid.sagepub.com		eid.sagepub.com				SAGE Publications										
+Engineering in Medicine	0046-2039								http://eim.sagepub.com		eim.sagepub.com				SAGE Publications										
+European Journal of Archaeology	1461-9571	1741-2722							http://eja.sagepub.com		eja.sagepub.com				SAGE Publications										
+European Journal of Communication	0267-3231	1460-3705							http://ejc.sagepub.com		ejc.sagepub.com				SAGE Publications										
+European Journal of Industrial Relations	0959-6801	1461-7129							http://ejd.sagepub.com		ejd.sagepub.com				SAGE Publications										
+European Journal of Hospital Pharmacy	2047-9956	2047-9964							http://ejhp.bmj.com		ejhp.bmj.com				BMJ Publishing Group Ltd										
+European Journal of International Law	0938-5428	1464-3596							http://ejil.oxfordjournals.org		ejil.oxfordjournals.org				Oxford University Press										
+European Journal of Orthodontics	0141-5387	1460-2210							http://ejo.oxfordjournals.org		ejo.oxfordjournals.org				Oxford University Press										
+European Journal of Probation		2066-2203							http://ejp.sagepub.com		ejp.sagepub.com				SAGE Publications										
+European Journal of International Relations	1354-0661	1460-3713							http://ejt.sagepub.com		ejt.sagepub.com				SAGE Publications										
+European Journal of Women's Studies	1350-5068	1461-7420							http://ejw.sagepub.com		ejw.sagepub.com				SAGE Publications										
+Elements	1811-5209	1811-5217							http://elements.geoscienceworld.org		elements.geoscienceworld.org				Mineralogical Society of America, and others										
+Economic and Labour Relations Review	1035-3046								http://elr.sagepub.com		elr.sagepub.com				SAGE										
+Early Music	0306-1078	1741-7260							http://em.oxfordjournals.org		em.oxfordjournals.org				Oxford University Press										
+Educational Management Administration & Leadership	1741-1432	1741-1440							http://ema.sagepub.com		ema.sagepub.com				SAGE Publications										
+EMBO Journal	0261-4189	1460-2075							http://emboj.embopress.org		emboj.embopress.org				EMBO Press										
+EMBO Molecular Medicine	1757-4676	1757-4684							http://EMBOMolMed.embopress.org		embomolmed.embopress.org				EMBO Press										
+EMBO reports	1469-221X	1469-3178							http://EMBOr.embopress.org		embor.embopress.org				EMBO Press										
+Global Journal of Emerging Market Economies	0974-9101	0975-2730							http://eme.sagepub.com		eme.sagepub.com				SAGE Publications										
+Journal of Emerging Market Finance	0972-6527	0973-0710							http://emf.sagepub.com		emf.sagepub.com				SAGE Publications										
+Exploration and Mining Geology	0964-1823								http://emg.geoscienceworld.org		emg.geoscienceworld.org				Canadian Institute of Mining, Metallurgy, and Petroleum										
+Emergency Medicine Journal	1472-0205	1472-0213							http://emj.bmj.com		emj.bmj.com				BMJ Publishing Group Ltd										
+Evolution, Medicine, and Public Health		2050-6201							http://emph.oxfordjournals.org		emph.oxfordjournals.org				Oxford University Press										
+Emotion Review	1754-0739	1754-0747							http://emr.sagepub.com		emr.sagepub.com				SAGE Publications Ltd										
+Journal of English Linguistics	0075-4242	1552-5457							http://eng.sagepub.com		eng.sagepub.com				SAGE Publications										
+English	0013-8215	1756-1124							http://english.oxfordjournals.org		english.oxfordjournals.org				Oxford University Press										
+Environmental History	1084-5453	1930-8892							http://envhis.oxfordjournals.org		envhis.oxfordjournals.org				Oxford University Press										
+Environmental History Review	1053-4180								http://envihistrevi.oxfordjournals.org		envihistrevi.oxfordjournals.org				Oxford University Press										
+Electronic News	1931-2431	1931-244X							http://enx.sagepub.com		enx.sagepub.com				SAGE Publications										
+Archives of Disease in Childhood - Education and Practice	1743-0585	1743-0593							http://ep.bmj.com		ep.bmj.com				BMJ Publishing Group Ltd										
+Experimental Physiology	0958-0670	1469-445X							http://ep.physoc.org		ep.physoc.org				Blackwell Publishing										
+Educational Evaluation and Policy Analysis	0162-3737	1935-1062							http://epa.sagepub.com		epa.sagepub.com				SAGE Publications										
+European Physical Education Review	1356-336X	1741-2749							http://epe.sagepub.com		epe.sagepub.com				SAGE Publications										
+Epidemiologic Reviews	0193-936X	1478-6729							http://epirev.oxfordjournals.org		epirev.oxfordjournals.org				Oxford University Press										
+Educational and Psychological Measurement	0013-1644	1552-3888							http://epm.sagepub.com		epm.sagepub.com				SAGE Publications										
+European Journal of Political Theory	1474-8851	1741-2730							http://ept.sagepub.com		ept.sagepub.com				SAGE Publications										
+Educational Policy	0895-9048	1552-3896							http://epx.sagepub.com		epx.sagepub.com				SAGE Publications										
+Ecological Restoration	1522-4740	1543-4079							http://er.uwpress.org		er.uwpress.org				University of Wisconsin Press										
+European Review of Agricultural Economics	0165-1587	1464-3618							http://erae.oxfordjournals.org		erae.oxfordjournals.org				Oxford University Press										
+Endocrine-Related Cancer	1351-0088	1479-6821							http://erc.endocrinology-journals.org		erc.endocrinology-journals.org				BioScientifica										
+European Review of Economic History	1361-4916	1474-0044							http://ereh.oxfordjournals.org		ereh.oxfordjournals.org				Oxford University Press										
+Ergonomics in Design: Quarterly of Human Factors Applications	1064-8046								http://erg.sagepub.com		erg.sagepub.com				SAGE Publications										
+European Respiratory Journal	0903-1936	1399-3003							http://erj.ersjournals.com		erj.ersjournals.com				European Respiratory Society										
+European Respiratory Review	0905-9180	1600-0617							http://err.ersjournals.com		err.ersjournals.com				European Respiratory Society										
+Evaluation Review	0193-841X	1552-3926							http://erx.sagepub.com		erx.sagepub.com				SAGE Publications										
+Enterprise and Society	1467-2227	1467-2235							http://es.oxfordjournals.org		es.oxfordjournals.org				Oxford University Press										
+ESHRE Monographs	1477-741X	1477-8378							http://eshremonographs.oxfordjournals.org		eshremonographs.oxfordjournals.org				Oxford University Press										
+Education, Citizenship and Social Justice	1746-1979	1746-1987							http://esj.sagepub.com		esj.sagepub.com				SAGE Publications										
+Electrochemical and Solid-State Letters	1099-0062	1944-8775							http://esl.ecsdl.org		esl.ecsdl.org				Electrochemical Society										
+Journal of European Social Policy	0958-9287	1461-7269							http://esp.sagepub.com		esp.sagepub.com				SAGE Publications										
+European Sociological Review	0266-7215	1468-2672							http://esr.oxfordjournals.org		esr.oxfordjournals.org				Oxford University Press										
+European Journal of Social Theory	1368-4310	1461-7137							http://est.sagepub.com		est.sagepub.com				SAGE Publications										
+Ethnography	1466-1381	1741-2714							http://eth.sagepub.com		eth.sagepub.com				SAGE Publications										
+Ethnohistory	0014-1801	1527-5477							http://ethnohistory.dukejournals.org		ethnohistory.dukejournals.org				Duke University Press										
+Ethnicities	1468-7968	1741-2706							http://etn.sagepub.com		etn.sagepub.com				SAGE Publications										
+Environment and Urbanization Asia	0975-4253	0976-3546							http://eua.sagepub.com		eua.sagepub.com				SAGE Publications										
+European Journal of Criminology	1477-3708	1741-2609							http://euc.sagepub.com		euc.sagepub.com				SAGE Publications										
+European Union Politics	1465-1165	1741-2757							http://eup.sagepub.com		eup.sagepub.com				SAGE Publications										
+European Urban and Regional Studies	0969-7764	1461-7145							http://eur.sagepub.com		eur.sagepub.com				SAGE Publications										
+European Heart Journal	0195-668X	1522-9645							http://eurheartj.oxfordjournals.org		eurheartj.oxfordjournals.org				Oxford University Press										
+European Heart Journal Supplements	1520-765X								http://eurheartjsupp.oxfordjournals.org		eurheartjsupp.oxfordjournals.org				Oxford University Press										
+European Journal of Mineralogy	0935-1221	1617-4011							http://eurjmin.geoscienceworld.org		eurjmin.geoscienceworld.org				E. Schweizerbartsche Verlagsbuchhandlung Science Publisher, Germany										
+Europace	1099-5129	1532-2092							http://europace.oxfordjournals.org		europace.oxfordjournals.org				Oxford University Press										
+European Journal of Public Health	1101-1262	1464-360X							http://eurpub.oxfordjournals.org		eurpub.oxfordjournals.org				Oxford University Press										
+Education and Urban Society	0013-1245	1552-3535							http://eus.sagepub.com		eus.sagepub.com				SAGE Publications										
+Evaluation	1356-3890	1461-7153							http://evi.sagepub.com		evi.sagepub.com				SAGE Publications										
+Expository Times	0014-5246	1745-5308							http://ext.sagepub.com		ext.sagepub.com				SAGE Publications										
+Foot & Ankle International	1071-1007								http://fai.sagepub.com		fai.sagepub.com				SAGE Publications										
+Family Practice	0263-2136	1460-2229							http://fampra.oxfordjournals.org		fampra.oxfordjournals.org				Oxford University Press										
+Feminism & Psychology	0959-3535	1461-7161							http://fap.sagepub.com		fap.sagepub.com				SAGE Publications										
+Foot & Ankle Specialist	1938-6400	1938-7636							http://fas.sagepub.com		fas.sagepub.com				SAGE Publications										
+Family Business Review	0894-4865	1741-6248							http://fbr.sagepub.com		fbr.sagepub.com				SAGE Publications										
+Feminist Criminology	1557-0851	1557-086X							http://fcx.sagepub.com		fcx.sagepub.com				SAGE Publications										
+Frontline Gastroenterology	#2041 4137	#2041 4145							http://fg.bmj.com		fg.bmj.com				BMJ Publishing Group Ltd										
+French History	0269-1191	1477-4542							http://fh.oxfordjournals.org		fh.oxfordjournals.org				Oxford University Press										
+French Historical Studies	0016-1071	1527-5493							http://fhs.dukejournals.org		fhs.dukejournals.org				Duke University Press										
+Field Guides	2333-0937	2333-0945							http://fieldguides.gsapubs.org		fieldguides.gsapubs.org				Geological Society of America										
+First Language	0142-7237	1740-2344							http://fla.sagepub.com		fla.sagepub.com				SAGE Publications										
+Forum for Modern Language Studies	0015-8518	1471-6860							http://fmls.oxfordjournals.org		fmls.oxfordjournals.org				Oxford University Press										
+Field Methods	1525-822X	1552-3969							http://fmx.sagepub.com		fmx.sagepub.com				SAGE Publications										
+Archives of Disease in Childhood - Fetal and Neonatal Edition	1359-2998	1468-2052							http://fn.bmj.com		fn.bmj.com				BMJ Publishing Group Ltd										
+Focus on Autism and Other Developmental Disabilities	1088-3576	1538-4829							http://foa.sagepub.com		foa.sagepub.com				SAGE Publications										
+Forum Italicum: A Journal of Italian Studies	0014-5858	2168-989X							http://foi.sagepub.com		foi.sagepub.com				SAGE Ltd.										
+Forest & Conservation History	1046-7009								http://foreconshist.oxfordjournals.org		foreconshist.oxfordjournals.org				Oxford University Press										
+Forestry	0015-752X	1464-3626							http://forestry.oxfordjournals.org		forestry.oxfordjournals.org				Oxford University Press										
+French Cultural Studies	0957-1558	1740-2352							http://frc.sagepub.com		frc.sagepub.com				SAGE Publications										
+French Studies	0016-1128	1468-2931							http://fs.oxfordjournals.org		fs.oxfordjournals.org				Oxford University Press										
+Food Science and Technology International	1082-0132	1532-1738							http://fst.sagepub.com		fst.sagepub.com				SAGE Publications										
+Feminist Theology	0966-7350	1745-5189							http://fth.sagepub.com		fth.sagepub.com				SAGE Publications										
+Foreign Trade Review	0015-7325	0971-7625							http://ftr.sagepub.com		ftr.sagepub.com				SAGE Publications India Pvt Ltd										
+Feminist Theory	1464-7001	1741-2773							http://fty.sagepub.com		fty.sagepub.com				SAGE Publications										
+Future Hospital Journal	2055-3323	2055-3331							http://futurehospital.rcpjournal.org		futurehospital.rcpjournal.org				Royal College of Physicians										
+Games and Culture	1555-4120	1555-4139							http://gac.sagepub.com		gac.sagepub.com				SAGE Publications										
+Genes & Cancer	1947-6019	1947-6027							http://gan.sagepub.com		gan.sagepub.com				SAGE Publications										
+Group Analysis	0533-3164	1461-717X							http://gaq.sagepub.com		gaq.sagepub.com				SAGE Publications										
+Gender & Society	0891-2432	1552-3977							http://gas.sagepub.com		gas.sagepub.com				SAGE Publications										
+Gastroenterology Report		2052-0034							http://gastro.oxfordjournals.org		gastro.oxfordjournals.org				Oxford University Press										
+International Communication Gazette	1748-0485	1748-0493							http://gaz.sagepub.com		gaz.sagepub.com				SAGE Publications										
+Global Business Review	0972-1509	0973-0664							http://gbr.sagepub.com		gbr.sagepub.com				SAGE Publications										
+Gifted Child Quarterly	0016-9862	1934-9041							http://gcq.sagepub.com		gcq.sagepub.com				SAGE Publications										
+Gifted Child Today	1076-2175								http://gct.sagepub.com		gct.sagepub.com				SAGE Publications										
+Geochemistry: Exploration, Environment, Analysis	1467-7873	2041-4943							http://geea.lyellcollection.org		geea.lyellcollection.org				Geological Society of London										
+Gifted Education International	0261-4294	2047-9077							http://gei.sagepub.com		gei.sagepub.com				SAGE Publications										
+Genes & Development	0890-9369	1549-5477							http://genesdev.cshlp.org		genesdev.cshlp.org				Cold Spring Harbor Laboratory Press										
+Genome Research	1088-9051	1549-5469							http://genome.cshlp.org		genome.cshlp.org				Cold Spring Harbor Laboratory Press										
+Genome Announcements		2169-8287							http://genomea.asm.org		genomea.asm.org				American Society for Microbiology										
+Genre	0016-6928	2160-0228							http://genre.dukejournals.org		genre.dukejournals.org				Duke University Press										
+Geology	0091-7613	1943-2682							http://geology.gsapubs.org		geology.gsapubs.org				Geological Society of America										
+Geophysics	0016-8033	1942-2156							http://geophysics.geoscienceworld.org		geophysics.geoscienceworld.org				Society of Exploration Geophysicists										
+Geosphere		1553-040X							http://geosphere.gsapubs.org		geosphere.gsapubs.org				Geological Society of America										
+German History	0266-3554	1477-089X							http://gh.oxfordjournals.org		gh.oxfordjournals.org				Oxford University Press										
+Geophysical Journal International	0956-540X	1365-246X							http://gji.oxfordjournals.org		gji.oxfordjournals.org				Oxford University Press										
+GLQ: A Journal of Lesbian and Gay Studies	1064-2684	1527-9375							http://glq.dukejournals.org		glq.dukejournals.org				Duke University Press										
+Glycobiology	0959-6658	1460-2423							http://glycob.oxfordjournals.org		glycob.oxfordjournals.org				Oxford University Press										
+Global Media and Communication	1742-7665	1742-7673							http://gmc.sagepub.com		gmc.sagepub.com				SAGE Publications										
+General Music Today	1048-3713	1931-3756							http://gmt.sagepub.com		gmt.sagepub.com				SAGE Publications										
+Group & Organization Management	1059-6011	1552-3993							http://gom.sagepub.com		gom.sagepub.com				SAGE Publications										
+Geriatric Orthopaedic Surgery & Rehabilitation	2151-4585	2151-4593							http://gos.sagepub.com		gos.sagepub.com				SAGE Publications										
+Global Pediatric Health		2333-794X							http://gph.sagepub.com		gph.sagepub.com				SAGE Publications										
+Group Processes & Intergroup Relations	1368-4302	1461-7188							http://gpi.sagepub.com		gpi.sagepub.com				SAGE Publications										
+Global Qualitative Nursing Research		2333-3936							http://gqn.sagepub.com		gqn.sagepub.com				SAGE Publications										
+Geological Society of America Bulletin	0016-7606	1943-2674							http://gsabulletin.gsapubs.org		gsabulletin.gsapubs.org				Geological Society of America										
+Global Social Policy	1468-0181	1741-2803							http://gsp.sagepub.com		gsp.sagepub.com				SAGE Publications										
+Gender, Technology and Development	0971-8524	0973-0656							http://gtd.sagepub.com		gtd.sagepub.com				SAGE Publications										
+Gut	0017-5749	1468-3288							http://gut.bmj.com		gut.bmj.com				BMJ Publishing Group Ltd										
+Hispanic American Historical Review	0018-2168	1527-1900							http://hahr.dukejournals.org		hahr.dukejournals.org				Duke University Press										
+Humanity & Society	0160-5976								http://has.sagepub.com		has.sagepub.com				SAGE Publications										
+Proceedings of the International Symposium of Human Factors and Ergonomics in Healthcare	2327-8579	2327-8595							http://hcs.sagepub.com		hcs.sagepub.com				SAGE Publications										
+Health: An Interdisciplinary Journal for the Social Study of Health, Illness and Medicine	1363-4593	1461-7196							http://hea.sagepub.com		hea.sagepub.com				SAGE Publications										
+Health Policy and Planning	0268-1080	1460-2237							http://heapol.oxfordjournals.org		heapol.oxfordjournals.org				Oxford University Press										
+Health Promotion International	0957-4824	1460-2245							http://heapro.oxfordjournals.org		heapro.oxfordjournals.org				Oxford University Press										
+Heart	1355-6037	1468-201X							http://heart.bmj.com		heart.bmj.com				BMJ Group										
+Heart Asia		1759-1104							http://heartasia.bmj.com		heartasia.bmj.com				BMJ Publishing Group Ltd										
+Health Education & Behavior	1090-1981	1552-6127							http://heb.sagepub.com		heb.sagepub.com				SAGE Publications										
+Higher Education for the Future	2347-6311	2348-5779							http://hef.sagepub.com		hef.sagepub.com				SAGE Publications India Pvt Ltd										
+Health Education Journal	0017-8969	1748-8176							http://hej.sagepub.com		hej.sagepub.com				SAGE Publications										
+Health Education Research	0268-1153	1465-3648							http://her.oxfordjournals.org		her.oxfordjournals.org				Oxford University Press										
+Human & Experimental Toxicology	0960-3271	1477-0903							http://het.sagepub.com		het.sagepub.com				SAGe Publications										
+Human Factors: Journal of the Human Factors and Ergonomics Society	0018-7208	1547-8181							http://hfs.sagepub.com		hfs.sagepub.com				SAGE Publications										
+Human Genomics and Proteomics		1757-4242							http://hgp.sagepub.com		hgp.sagepub.com				SAGE										
+Holocaust and Genocide Studies	8756-6583	1476-7937							http://hgs.oxfordjournals.org		hgs.oxfordjournals.org				Oxford University Press										
+Home Health Care Management & Practice	1084-8223	1552-6739							http://hhc.sagepub.com		hhc.sagepub.com				SAGE Publications										
+History of the Human Sciences	0952-6951	1461-720X							http://hhs.sagepub.com		hhs.sagepub.com				SAGE Publications										
+Journal of Investigative Medicine High Impact Case Reports	2324-7096	2324-7096							http://hic.sagepub.com		hic.sagepub.com				SAGE Publications										
+International Journal of Press/Politics	1940-1612	1940-1620							http://hij.sagepub.com		hij.sagepub.com				SAGE Publications										
+High Performance Polymers	0954-0083	1361-6412							http://hip.sagepub.com		hip.sagepub.com				SAGE Publications										
+Hispanic Journal of Behavioral Sciences	0739-9863	1552-6364							http://hjb.sagepub.com		hjb.sagepub.com				SAGE Publications										
+Health Services Research and Managerial Epidemiology		2333-3928							http://hme.sagepub.com		hme.sagepub.com				SAGE Publications										
+Human Molecular Genetics	0964-6906	1460-2083							http://hmg.oxfordjournals.org		hmg.oxfordjournals.org				Oxford University Press										
+Holocene	0959-6836	1477-0911							http://hol.sagepub.com		hol.sagepub.com				SAGE Publications										
+History of Political Economy	0018-2702	1527-1919							http://hope.dukejournals.org		hope.dukejournals.org				Duke University Press										
+HortScience	0018-5345	2327-9834							http://hortsci.ashspublications.org		hortsci.ashspublications.org				American Society for Horticultural Science										
+HortTechnology	1063-0198	1943-7714							http://horttech.ashspublications.org		horttech.ashspublications.org				American Society for Horticultural Science										
+History of Science	0073-2753	1753-8564							http://hos.sagepub.com		hos.sagepub.com				SAGE Publications										
+Hospital Pediatrics	2154-1663	2154-1671							http://hosppeds.aappublications.org		hosppeds.aappublications.org				American Academy of Pediatrics										
+International Journal of High Performance Computing Applications	1094-3420	1741-2846							http://hpc.sagepub.com		hpc.sagepub.com				SAGE Publications										
+Handbook of Practice Management	0962-144X	2047-718X							http://hpm.sagepub.com		hpm.sagepub.com				SAGE Publications										
+Health Psychology Open		2055-1029							http://hpo.sagepub.com		hpo.sagepub.com				SAGE Publications										
+Health Promotion Practice	1524-8399	1552-6372							http://hpp.sagepub.com		hpp.sagepub.com				SAGE Publications										
+Journal of Health Psychology	1359-1053	1461-7277							http://hpq.sagepub.com		hpq.sagepub.com				SAGE Publications										
+History of Psychiatry	0957-154X	1740-2360							http://hpy.sagepub.com		hpy.sagepub.com				SAGE Publications										
+Human Resource Development Review	1534-4843	1552-6712							http://hrd.sagepub.com		hrd.sagepub.com				SAGE Publications										
+South Asian Journal of Human Resources Management	2322-0937	2349-5790							http://hrm.sagepub.com		hrm.sagepub.com				SAGE Publications										
+History and Sociology of South Asia	2230-8075	2249-5312							http://hsa.sagepub.com		hsa.sagepub.com				SAGE										
+Journal of Health and Social Behavior	0022-1465	2150-6000							http://hsb.sagepub.com		hsb.sagepub.com				SAGE Publications										
+Health Services Management Research	0951-4848	1758-1044							http://hsm.sagepub.com		hsm.sagepub.com				SAGE Publications										
+Journal of Health Services Research & Policy	1355-8196	1758-1060							http://hsr.sagepub.com		hsr.sagepub.com				SAGE Publications										
+Health & Social Work	0360-7283	1545-6854							http://hsw.oxfordjournals.org		hsw.oxfordjournals.org				Oxford University Press										
+Homicide Studies	1088-7679	1552-6720							http://hsx.sagepub.com		hsx.sagepub.com				SAGE Publications										
+Human Relations	0018-7267	1741-282X							http://hum.sagepub.com		hum.sagepub.com				SAGE Publications										
+Human Reproduction	0268-1161	1460-2350							http://humrep.oxfordjournals.org		humrep.oxfordjournals.org				Oxford University Press										
+Human Reproduction Update	1355-4786	1460-2369							http://humupd.oxfordjournals.org		humupd.oxfordjournals.org				Oxford University Press										
+History Workshop Journal	1363-3554	1477-4569							http://hwj.oxfordjournals.org		hwj.oxfordjournals.org				Oxford University Press										
+Hypertension	0194-911X	1524-4563							http://hyper.ahajournals.org		hyper.ahajournals.org				Lippincott Williams & Wilkins										
+International Political Science Abstracts	0020-8345	1751-9292							http://iab.sagepub.com		iab.sagepub.com				SAGE Publications										
+Infection and Immunity	0019-9567	1098-5522							http://iai.asm.org		iai.asm.org				American Society for Microbiology										
+International Area Studies Review	2233-8659								http://ias.sagepub.com		ias.sagepub.com				SAGE Publications										
+Indoor and Built Environment	1420-326X	1423-0070							http://ibe.sagepub.com		ibe.sagepub.com				SAGE Publications										
+Integrative and Comparative Biology	1540-7063	1557-7023							http://icb.oxfordjournals.org		icb.oxfordjournals.org				Oxford University Press										
+Industrial and Corporate Change	0960-6491	1464-3650							http://icc.oxfordjournals.org		icc.oxfordjournals.org				Oxford University Press										
+International Criminal Justice Review	1057-5677	1556-3855							http://icj.sagepub.com		icj.sagepub.com				SAGE Publications										
+International Journal of Constitutional Law	1474-2640	1474-2659							http://icon.oxfordjournals.org		icon.oxfordjournals.org				Oxford University Press										
+International Journal of Care Coordination	2053-4345	2053-4353							http://icp.sagepub.com		icp.sagepub.com				SAGE Publications										
+International Journal of Cultural Studies	1367-8779	1460-356X							http://ics.sagepub.com		ics.sagepub.com				SAGE Publications										
+ICSID Review	0258-3690	2049-1999							http://icsidreview.oxfordjournals.org		icsidreview.oxfordjournals.org				Oxford University Press										
+Integrative Cancer Therapies	1534-7354	1552-695X							http://ict.sagepub.com		ict.sagepub.com				SAGE Publications										
+ICU Director	1944-4516	1944-4524							http://icu.sagepub.com		icu.sagepub.com				SAGE Publications										
+International Data Privacy Law	2044-3994	2044-4001							http://idpl.oxfordjournals.org		idpl.oxfordjournals.org				Oxford University Press										
+Information Development	0266-6669	1741-6469							http://idv.sagepub.com		idv.sagepub.com				SAGE Publications										
+Journal of Inborn Errors of Metabolism & Screening	2326-4098	2326-4594							http://iem.sagepub.com		iem.sagepub.com				SAGE Publications										
+Indian Economic & Social History Review	0019-4646	0973-0893							http://ier.sagepub.com		ier.sagepub.com				SAGE Publications										
+IFLA Journal	0340-0352	1745-2651							http://ifl.sagepub.com		ifl.sagepub.com				SAGE Publications										
+Indian Historical Review	0376-9836	0975-5977							http://ihr.sagepub.com		ihr.sagepub.com				SAGE Publications										
+International Journal of Bilingualism	1367-0069	1756-6878							http://ijb.sagepub.com		ijb.sagepub.com				SAGE Publications										
+International Journal of Damage Mechanics	1056-7895	1530-7921							http://ijd.sagepub.com		ijd.sagepub.com				SAGE Publications										
+International Journal of Epidemiology	0300-5771	1464-3685							http://ije.oxfordjournals.org		ije.oxfordjournals.org				Oxford University Press										
+Indian Journal of Gender Studies	0971-5215	0973-0672							http://ijg.sagepub.com		ijg.sagepub.com				SAGE Publications										
+International Journal of Maritime History	0843-8714	2052-7756							http://ijh.sagepub.com		ijh.sagepub.com				SAGE Publications										
+International Journal of Lexicography	0950-3846	1477-4577							http://ijl.oxfordjournals.org		ijl.oxfordjournals.org				Oxford University Press										
+International Journal of Lower Extremity Wounds	1534-7346	1552-6941							http://ijl.sagepub.com		ijl.sagepub.com				SAGE Publications										
+International Journal of Law and Information Technology	0967-0769	1464-3693							http://ijlit.oxfordjournals.org		ijlit.oxfordjournals.org				Oxford University Press										
+International Journal of Music Education	0255-7614	1744-795X							http://ijm.sagepub.com		ijm.sagepub.com				SAGE Publications										
+International Journal of Offender Therapy and Comparative Criminology	0306-624X	1552-6933							http://ijo.sagepub.com		ijo.sagepub.com				SAGE Publications										
+International Journal of Public Opinion Research	0954-2892	1471-6909							http://ijpor.oxfordjournals.org		ijpor.oxfordjournals.org				Oxford University Press										
+International Journal of Robotics Research	0278-3649	1741-3176							http://ijr.sagepub.com		ijr.sagepub.com				SAGE Publications										
+International Journal of Surgical Pathology	1066-8969	1940-2465							http://ijs.sagepub.com		ijs.sagepub.com				SAGE Publications										
+International Journal of Systematic and Evolutionary Microbiology	1466-5026	1466-5034							http://ijs.sgmjournals.org		ijs.sgmjournals.org				Society for General Microbiology										
+International Journal of Toxicology	1091-5818	1092-874X							http://ijt.sagepub.com		ijt.sagepub.com				SAGE Publications										
+International Journal: Canada's Journal of Global Policy Analysis	0020-7020	2052-465X							http://ijx.sagepub.com		ijx.sagepub.com				SAGE Publications										
+ILAR Journal	1084-2020	1930-6180							http://ilarjournal.oxfordjournals.org		ilarjournal.oxfordjournals.org				Oxford University Press										
+Industrial Law Journal	0305-9332	1464-3669							http://ilj.oxfordjournals.org		ilj.oxfordjournals.org				Oxford University Press										
+ILR Review	0019-7939	2162-271X							http://ilr.sagepub.com		ilr.sagepub.com				SAGE Publications										
+Information and Inference	2049-8764	2049-8772							http://imaiai.oxfordjournals.org		imaiai.oxfordjournals.org				Oxford University Press										
+IMA Journal of Numerical Analysis	0272-4979	1464-3642							http://imajna.oxfordjournals.org		imajna.oxfordjournals.org				Oxford University Press										
+IMA Journal of Management Mathematics	1471-678X	1471-6798							http://imaman.oxfordjournals.org		imaman.oxfordjournals.org				Oxford University Press										
+IMA Journal of Applied Mathematics	0272-4960	1464-3634							http://imamat.oxfordjournals.org		imamat.oxfordjournals.org				Oxford University Press										
+IMA Journal of Mathematical Control and Information	0265-0754	1471-6887							http://imamci.oxfordjournals.org		imamci.oxfordjournals.org				Oxford University Press										
+Mathematical Medicine and Biology	1477-8599	1477-8602							http://imammb.oxfordjournals.org		imammb.oxfordjournals.org				Oxford University Press										
+Improving Schools	1365-4802	1475-7583							http://imp.sagepub.com		imp.sagepub.com				SAGE Publications										
+Journal of International Medical Research	0300-0605	1473-2300							http://imr.sagepub.com		imr.sagepub.com				SAGE Publications Ltd										
+International Mathematics Research Notices	1073-7928	1687-0247							http://imrn.oxfordjournals.org		imrn.oxfordjournals.org				Oxford University Press										
+International Mathematics Research Papers	1687-3017	1687-3009							http://imrp.oxfordjournals.org		imrp.oxfordjournals.org				Oxford University Press										
+International Mathematics Research Surveys	1687-1308	1687-1324							http://imrs.oxfordjournals.org		imrs.oxfordjournals.org				Oxford University Press										
+Innate Immunity	1753-4259	1753-4267							http://ini.sagepub.com		ini.sagepub.com				SAGE Publications										
+Injury Prevention	1353-8047	1475-5785							http://injuryprevention.bmj.com		injuryprevention.bmj.com				BMJ Publishing Group Ltd										
+InnovAiT: Education and inspiration for general practice	1755-7380	1755-7399							http://ino.sagepub.com		ino.sagepub.com				SAGE Publications Ltd										
+Studies in Indian Politics	2321-0230	2321-7472							http://inp.sagepub.com		inp.sagepub.com				SAGE Publications India Pvt Ltd										
+In Practice	0263-841X	2042-7689							http://inpractice.bmj.com		inpractice.bmj.com				BMJ Group										
+INQUIRY: Journal of Health Care Organization, Provision, and Financing	0046-9580								http://inq.sagepub.com		inq.sagepub.com				SAGE Publications										
+Interpretation: A Journal of Bible and Theology	0020-9643	2159-340X							http://int.sagepub.com		int.sagepub.com				SAGE Publications										
+International Health	1876-3413	1876-3405							http://inthealth.oxfordjournals.org		inthealth.oxfordjournals.org				Oxford University Press										
+International Immunology	0953-8178	1460-2377							http://intimm.oxfordjournals.org		intimm.oxfordjournals.org				Oxford University Press										
+International Journal for Quality in Health Care	1353-4505	1464-3677							http://intqhc.oxfordjournals.org		intqhc.oxfordjournals.org				Oxford University Press										
+Insight on Africa	0975-0878	0976-3465							http://ioa.sagepub.com		ioa.sagepub.com				SAGE Publications										
+Index on Censorship	0306-4220	1746-6067							http://ioc.sagepub.com		ioc.sagepub.com				SAGE Publications										
+International Political Science Review	0192-5121	1460-373X							http://ips.sagepub.com		ips.sagepub.com				SAGE Publications										
+Journal of International Political Theory	1755-0882	1755-1722							http://ipt.sagepub.com		ipt.sagepub.com				SAGE Publications										
+India Quarterly: A Journal of International Affairs	0974-9284	0975-2684							http://iqq.sagepub.com		iqq.sagepub.com				SAGE Publications										
+International Relations of the Asia-Pacific	1470-482X	1470-4838							http://irap.oxfordjournals.org		irap.oxfordjournals.org				Oxford University Press										
+International Relations	0047-1178	1741-2862							http://ire.sagepub.com		ire.sagepub.com				SAGE Publications										
+International Journal of Rural Management	0973-0052	0973-0680							http://irm.sagepub.com		irm.sagepub.com				SAGE Publications										
+International Review for the Sociology of Sport	1012-6902	1461-7218							http://irs.sagepub.com		irs.sagepub.com				SAGE Publications										
+International Review of Victimology	0269-7580								http://irv.sagepub.com		irv.sagepub.com				SAGE Publications										
+International Regional Science Review	0160-0176	1552-6925							http://irx.sagepub.com		irx.sagepub.com				SAGE Publications										
+International Small Business Journal	0266-2426	1741-2870							http://isb.sagepub.com		isb.sagepub.com				SAGE Publications										
+Intervention in School and Clinic	1053-4512								http://isc.sagepub.com		isc.sagepub.com				SAGE Publications										
+International Journal of Social Psychiatry	0020-7640	1741-2854							http://isp.sagepub.com		isp.sagepub.com				SAGE Publications										
+International Studies	0020-8817	0973-0702							http://isq.sagepub.com		isq.sagepub.com				SAGE Publications										
+International Sociology	0268-5809	1461-7242							http://iss.sagepub.com		iss.sagepub.com				SAGE Publications										
+International Social Work	0020-8728	1461-7234							http://isw.sagepub.com		isw.sagepub.com				SAGE Publications										
+Irish Theological Quarterly	0021-1400	1752-4989							http://itq.sagepub.com		itq.sagepub.com				SAGE Publications										
+In Vivo	0258-851X	1791-7549							http://iv.iiarjournals.org		iv.iiarjournals.org				John G. Delinasios										
+Information Visualization	1473-8716	1473-8724							http://ivi.sagepub.com		ivi.sagepub.com				SAGE Publications Ltd.										
+Interacting with Computers	0953-5438	1873-7951							http://iwc.oxfordjournals.org		iwc.oxfordjournals.org				Oxford University Press										
+Journal of Asthma & Allergy Educators	2150-1297	2150-1300							http://jaa.sagepub.com		jaa.sagepub.com				SAGE Publications										
+Journal of the American Academy of Religion	0002-7189	1477-4585							http://jaar.oxfordjournals.org		jaar.oxfordjournals.org				Oxford University Press										
+Journal of Applied Behavioral Science	0021-8863	1552-6879							http://jab.sagepub.com		jab.sagepub.com				SAGE Publications										
+Journal of Antimicrobial Chemotherapy	0305-7453	1460-2091							http://jac.oxfordjournals.org		jac.oxfordjournals.org				Oxford University Press										
+Journal of Attention Disorders	1087-0547	1557-1246							http://jad.sagepub.com		jad.sagepub.com				SAGE Publications										
+Journal of the American Dental Association	0002-8177								http://jada.ada.org		jada.ada.org				American Dental Association										
+Journal of African Economies	0963-8024	1464-3723							http://jae.oxfordjournals.org		jae.oxfordjournals.org				Oxford University Press										
+Journal of Accounting, Auditing & Finance	0148-558X								http://jaf.sagepub.com		jaf.sagepub.com				SAGE Publications										
+Journal of Applied Gerontology	0733-4648	1552-4523							http://jag.sagepub.com		jag.sagepub.com				SAGE Publications										
+Journal of Aging and Health	0898-2643	1552-6887							http://jah.sagepub.com		jah.sagepub.com				SAGE Publications										
+JAHA: Journal of the American Heart Association		2047-9980							http://jaha.ahajournals.org		jaha.ahajournals.org				Wiley-Blackwell										
+Journal of the Academy of Marketing Science	0092-0703	1552-7824							http://jam.sagepub.com		jam.sagepub.com				SAGE Publications										
+Journal of the American Medical Informatics Association	1067-5027	1527-974X							http://jamia.bmj.com		jamia.bmj.com				BMJ Publishing Group Ltd										
+Journal of Applied Physiology	8750-7587	1522-1601							http://jap.physiology.org		jap.physiology.org				American Physiological Society										
+Journal of the American Psychiatric Nurses Association	1078-3903	1532-5725							http://jap.sagepub.com		jap.sagepub.com				SAGE Publications										
+Journal of Applied Poultry Research	1056-6171	1537-0437							http://japr.oxfordjournals.org		japr.oxfordjournals.org				Oxford University Press										
+Journal of Adolescent Research	0743-5584	1552-6895							http://jar.sagepub.com		jar.sagepub.com				SAGE Publications										
+Journal of Asian and African Studies	0021-9096	1745-2538							http://jas.sagepub.com		jas.sagepub.com				SAGE Publications										
+Journal of the American Society of Nephrology	1046-6673	1533-3450							http://jasn.asnjournals.org		jasn.asnjournals.org				American Society of Nephrology										
+Journal of Analytical Toxicology	0146-4760	1945-2403							http://jat.oxfordjournals.org		jat.oxfordjournals.org				Oxford University Press										
+Journal of Applied Social Science	1936-7244	1937-0245							http://jax.sagepub.com		jax.sagepub.com				SAGE Publications										
+Journal of Bacteriology	0021-9193	1098-5530							http://jb.asm.org		jb.asm.org				American Society for Microbiology										
+Journal of Biochemistry	0021-924X								http://jb.oxfordjournals.org		jb.oxfordjournals.org				Oxford University Press										
+Journal of Biomaterials Applications	0885-3282	1530-8022							http://jba.sagepub.com		jba.sagepub.com				SAGE Publications										
+Journal of Bioactive and Compatible Polymers	0883-9115	1530-8030							http://jbc.sagepub.com		jbc.sagepub.com				SAGE Publications										
+International Journal of Behavioral Development	0165-0254	1464-0651							http://jbd.sagepub.com		jbd.sagepub.com				SAGE Publications										
+Journal of Black Psychology	0095-7984	1552-4558							http://jbp.sagepub.com		jbp.sagepub.com				SAGE Publications										
+Journal of Biological Rhythms	0748-7304	1552-4531							http://jbr.sagepub.com		jbr.sagepub.com				SAGE Publications										
+Journal of Black Studies	0021-9347	1552-4566							http://jbs.sagepub.com		jbs.sagepub.com				SAGE Publications										
+Journal of Business and Technical Communication	1050-6519	1552-4574							http://jbt.sagepub.com		jbt.sagepub.com				SAGE Publications										
+Journal of Biomolecular Screening	1087-0571	1552-454X							http://jbx.sagepub.com		jbx.sagepub.com				SAGE Publications										
+Journal of Career Assessment	1069-0727	1552-4590							http://jca.sagepub.com		jca.sagepub.com				SAGE Publications										
+Journal of Cell Biology	0021-9525	1540-8140							http://jcb.rupress.org		jcb.rupress.org				Rockefeller University Press										
+Journal of Cross-Cultural Psychology	0022-0221	1552-5422							http://jcc.sagepub.com		jcc.sagepub.com				SAGE Publications										
+Journal of Career Development	0894-8453	1556-0856							http://jcd.sagepub.com		jcd.sagepub.com				SAGE Publications										
+Journal of Contemporary Ethnography	0891-2416	1552-5414							http://jce.sagepub.com		jce.sagepub.com				SAGE Publications										
+Journal of Contemporary History	0022-0094	1461-7250							http://jch.sagepub.com		jch.sagepub.com				SAGE Publications										
+Journal of Communication Inquiry	0196-8599	1552-4612							http://jci.sagepub.com		jci.sagepub.com				SAGE Publications										
+Journal of Commonwealth Literature	0021-9894	1741-6442							http://jcl.sagepub.com		jcl.sagepub.com				SAGE Publications										
+Journal of Competition Law and Economics	1744-6414	1744-6422							http://jcle.oxfordjournals.org		jcle.oxfordjournals.org				Oxford University Press										
+Journal of Clinical Microbiology	0095-1137	1098-660X							http://jcm.asm.org		jcm.asm.org				American Society for Microbiology										
+Journal of Composite Materials	0021-9983	1530-793X							http://jcm.sagepub.com		jcm.sagepub.com				SAGE Publications										
+Journal of Child Neurology	0883-0738	1708-8828							http://jcn.sagepub.com		jcn.sagepub.com				SAGE Publications										
+Journal of Clinical Oncology	0732-183X	1527-7755							http://jco.ascopubs.org		jco.ascopubs.org				American Society of Clinical Oncology										
+Journal of Clinical Pathology	0021-9746	1472-4146							http://jcp.bmj.com		jcp.bmj.com				BMJ Group										
+Journal of Conflict Resolution	0022-0027	1552-8766							http://jcr.sagepub.com		jcr.sagepub.com				SAGE Publications										
+Journal of Cell Science	0021-9533	1477-9137							http://jcs.biologists.org		jcs.biologists.org				Company of Biologists Ltd										
+Journal of Church and State	0021-969X	2040-4867							http://jcs.oxfordjournals.org		jcs.oxfordjournals.org				Oxford University Press										
+Journal of Classical Sociology	1468-795X	1741-2897							http://jcs.sagepub.com		jcs.sagepub.com				SAGE Publications										
+Journal of Correctional Health Care	1078-3458	1940-5200							http://jcx.sagepub.com		jcx.sagepub.com				SAGE Publications										
+International Journal of Discrimination and the Law	1358-2291	2047-9468							http://jdi.sagepub.com		jdi.sagepub.com				SAGE Publications										
+Journal of Diagnostic Medical Sonography	8756-4793	1552-5430							http://jdm.sagepub.com		jdm.sagepub.com				SAGE Publications										
+Journal of Dental Research	0022-0345	1544-0591							http://jdr.sagepub.com		jdr.sagepub.com				SAGE Publications										
+Journal of Developing Societies	0169-796X	1745-2546							http://jds.sagepub.com		jds.sagepub.com				SAGE Publications										
+Journal of Deaf Studies and Deaf Education	1081-4159	1465-7325							http://jdsde.oxfordjournals.org		jdsde.oxfordjournals.org				Oxford University Press										
+Journal of Early Adolescence	0272-4316	1552-5449							http://jea.sagepub.com		jea.sagepub.com				SAGE Publications										
+Journal of Experimental Biology	0022-0949	1477-9145							http://jeb.biologists.org		jeb.biologists.org				Company of Biologists Ltd										
+Journal of Educational and Behavioral Statistics	1076-9986	1935-1054							http://jeb.sagepub.com		jeb.sagepub.com				SAGE Publications										
+Journal of Epidemiology & Community Health	0143-005X	1470-2738							http://jech.bmj.com		jech.bmj.com				BMJ Publishing Group Ltd										
+Journal of European Competition Law & Practice	2041-7764	2041-7772							http://jeclap.oxfordjournals.org		jeclap.oxfordjournals.org				Oxford University Press										
+Journal of Environment & Development	1070-4965	1552-5465							http://jed.sagepub.com		jed.sagepub.com				SAGE Publications										
+Journal of Experiential Education	1053-8259	2169-009X							http://jee.sagepub.com		jee.sagepub.com				SAGE Publications										
+Journal of Environmental & Engineering Geophysics	1083-1363	1943-2658							http://jeeg.geoscienceworld.org		jeeg.geoscienceworld.org				Environmental and Engineering Geophysical Society										
+Journal for the Education of the Gifted	0162-3532								http://jeg.sagepub.com		jeg.sagepub.com				SAGE Publications										
+Journal of Early Intervention	1053-8151								http://jei.sagepub.com		jei.sagepub.com				SAGE Publications										
+Journal of Environmental Law	0952-8873	1464-374X							http://jel.oxfordjournals.org		jel.oxfordjournals.org				Oxford University Press										
+Journal of Cases in Educational Leadership	1555-4589								http://jel.sagepub.com		jel.sagepub.com				SAGE Publications										
+Journal of Experimental Medicine	0022-1007	1540-9538							http://jem.rupress.org		jem.rupress.org				Rockefeller University Press										
+Journal of Building Physics	1744-2591	1744-2583							http://jen.sagepub.com		jen.sagepub.com				SAGE Publications										
+Journal of Elastomers and Plastics	0095-2443	1530-8006							http://jep.sagepub.com		jep.sagepub.com				SAGE Publications										
+International Journal of Engine Research	1468-0874	2041-3149							http://jer.sagepub.com		jer.sagepub.com				SAGE Publications										
+Journal of European Studies	0047-2441	1740-2379							http://jes.sagepub.com		jes.sagepub.com				SAGE Publications										
+Journal of Fire Protection Engineering	1042-3915	1532-172X							http://jfe.sagepub.com		jfe.sagepub.com				SAGE Publications										
+Journal of Financial Econometrics	1479-8409	1479-8417							http://jfec.oxfordjournals.org		jfec.oxfordjournals.org				Oxford University Press										
+Journal of Family History	0363-1990	1552-5473							http://jfh.sagepub.com		jfh.sagepub.com				SAGE Publications										
+Journal of Family Issues	0192-513X	1552-5481							http://jfi.sagepub.com		jfi.sagepub.com				SAGE Publications										
+Journal of Feline Medicine and Surgery	1098-612X	1532-2750							http://jfm.sagepub.com		jfm.sagepub.com				SAGE Publications										
+Journal of Family Nursing	1074-8407	1552-549X							http://jfn.sagepub.com		jfn.sagepub.com				SAGE Publications										
+Journal of Fire Sciences	0734-9041	1530-8049							http://jfs.sagepub.com		jfs.sagepub.com				SAGE Publications										
+Journal of Generic Medicines: Business Journal for the Generic Medicines Sector	1741-1343	1741-7090							http://jgm.sagepub.com		jgm.sagepub.com				SAGE Publications										
+Journal of General Physiology	0022-1295	1540-7748							http://jgp.rupress.org		jgp.rupress.org				Rockefeller University Press										
+Journal of Geriatric Psychiatry and Neurology	0891-9887	1552-5708							http://jgp.sagepub.com		jgp.sagepub.com				SAGE Publications										
+Journal of the Geological Society	0016-7649								http://jgs.geoscienceworld.org		jgs.geoscienceworld.org				Geological Society of London										
+Journal of the Geological Society	0016-7649	2041-479X							http://jgs.lyellcollection.org		jgs.lyellcollection.org				Geological Society of London										
+Journal for the History of Astronomy	0021-8286	1753-8556							http://jha.sagepub.com		jha.sagepub.com				SAGE Publications										
+Journal of the History of Collections	0954-6650	1477-8564							http://jhc.oxfordjournals.org		jhc.oxfordjournals.org				Oxford University Press										
+Journal of Histochemistry & Cytochemistry	0022-1554	1551-5044							http://jhc.sagepub.com		jhc.sagepub.com				SAGE Publications										
+Journal of Heredity	0022-1503	1465-7333							http://jhered.oxfordjournals.org		jhered.oxfordjournals.org				Oxford University Press										
+Journal of Hispanic Higher Education	1538-1927	1552-5716							http://jhh.sagepub.com		jhh.sagepub.com				SAGE Publications										
+Health Informatics Journal	1460-4582	1741-2811							http://jhi.sagepub.com		jhi.sagepub.com				SAGE Publications										
+Journal of Human Lactation	0890-3344	1552-5732							http://jhl.sagepub.com		jhl.sagepub.com				SAGE Publications										
+Journal of Health Management	0972-0634	0973-0729							http://jhm.sagepub.com		jhm.sagepub.com				SAGE Publications										
+Journal of the History of Medicine and Allied Sciences	0022-5045	1468-4373							http://jhmas.oxfordjournals.org		jhmas.oxfordjournals.org				Oxford University Press										
+Journal of Holistic Nursing	0898-0101	1552-5724							http://jhn.sagepub.com		jhn.sagepub.com				SAGE Publications										
+Journal of Humanistic Psychology	0022-1678	1552-650X							http://jhp.sagepub.com		jhp.sagepub.com				SAGE Publications										
+Journal of Health Politics, Policy and Law	0361-6878	1527-1927							http://jhppl.dukejournals.org		jhppl.dukejournals.org				Duke University Press										
+Journal of Hip Preservation Surgery		2054-8397							http://jhps.oxfordjournals.org		jhps.oxfordjournals.org				Oxford University Press										
+Journal of Human Resources	0022-166X	1548-8004							http://jhr.uwpress.org		jhr.uwpress.org				University of Wisconsin Press										
+Journal of Hand Surgery (European Volume)	1753-1934	2043-6289							http://jhs.sagepub.com		jhs.sagepub.com				SAGE										
+Journal of Hospitality & Tourism Research	1096-3480	1557-7554							http://jht.sagepub.com		jht.sagepub.com				SAGE Publications										
+Journal of Human Values	0971-6858	0973-0737							http://jhv.sagepub.com		jhv.sagepub.com				SAGE Publications										
+Journal of the International Association of Providers of AIDS Care (JIAPAC)	2325-9574	2325-9582							http://jia.sagepub.com		jia.sagepub.com				SAGE Publications										
+Journal of Intensive Care Medicine	0885-0666	1525-1489							http://jic.sagepub.com		jic.sagepub.com				SAGE Publications										
+Journal of International Criminal Justice	1478-1387	1478-1395							http://jicj.oxfordjournals.org		jicj.oxfordjournals.org				Oxford University Press										
+Journal of the ICRU	1473-6691	1742-3422							http://jicru.oxfordjournals.org		jicru.oxfordjournals.org				Oxford University Press										
+Journal of Intellectual Disabilities	1744-6295	1744-6309							http://jid.sagepub.com		jid.sagepub.com				SAGE Publications										
+Journal of International Dispute Settlement	2040-3585	2040-3593							http://jids.oxfordjournals.org		jids.oxfordjournals.org				Oxford University Press										
+Journal of Interdisciplinary Economics	0260-1079	2321-5305							http://jie.sagepub.com		jie.sagepub.com				SAGE Publications										
+Journal of International Economic Law	1369-3034	1464-3758							http://jiel.oxfordjournals.org		jiel.oxfordjournals.org				Oxford University Press										
+Journal of the Institution of Locomotive Engineers	0534-283X								http://jil.sagepub.com		jil.sagepub.com				SAGE Publications										
+Journal of Intelligent Material Systems and Structures	1045-389X	1530-8138							http://jim.sagepub.com		jim.sagepub.com				SAGE Publications										
+Journal of Intellectual Property Law & Practice	1747-1532	1747-1540							http://jiplp.oxfordjournals.org		jiplp.oxfordjournals.org				Oxford University Press										
+Journal of Industrial Relations	0022-1856	1472-9296							http://jir.sagepub.com		jir.sagepub.com				SAGE Publications										
+Journal of Information Science	0165-5515	1741-6485							http://jis.sagepub.com		jis.sagepub.com				SAGE Publications										
+Journal of Industrial Textiles	1528-0837	1530-8057							http://jit.sagepub.com		jit.sagepub.com				SAGE Publications										
+Journal of Interpersonal Violence	0886-2605	1552-6518							http://jiv.sagepub.com		jiv.sagepub.com				SAGE Publications										
+Japanese Journal of Clinical Oncology	0368-2811	1465-3621							http://jjco.oxfordjournals.org		jjco.oxfordjournals.org				Oxford University Press										
+Journal of Legal Analysis	2161-7201	1946-5319							http://jla.oxfordjournals.org		jla.oxfordjournals.org				Oxford University Press										
+Journal of Laboratory Automation	2211-0682	1540-2452							http://jla.sagepub.com		jla.sagepub.com				SAGE Publications										
+Journal of Law and the Biosciences		2053-9711							http://jlb.oxfordjournals.org		jlb.oxfordjournals.org				Oxford University Press										
+Journal of Law, Economics, and Organization	8756-6222	1465-7341							http://jleo.oxfordjournals.org		jleo.oxfordjournals.org				Oxford University Press										
+Journal of Leadership & Organizational Studies	1548-0518	1939-7089							http://jlo.sagepub.com		jlo.sagepub.com				SAGE Publications										
+Journal of Literacy Research	1086-296X	1554-8430							http://jlr.sagepub.com		jlr.sagepub.com				SAGE Publications										
+Journal of Language and Social Psychology	0261-927X	1552-6526							http://jls.sagepub.com		jls.sagepub.com				SAGE Publications										
+Journal of Micropalaeontology	0262-821X	2041-4978							http://jm.lyellcollection.org		jm.lyellcollection.org				Geological Society of London										
+Journal of Medical Biography	0967-7720	1758-1087							http://jmb.sagepub.com		jmb.sagepub.com				SAGE Publications										
+Journalism & Mass Communication Educator	1077-6958	2161-4326							http://jmc.sagepub.com		jmc.sagepub.com				SAGE Publications										
+Journal of Marketing Education	0273-4753	1552-6550							http://jmd.sagepub.com		jmd.sagepub.com				SAGE Publications										
+Journal of Medical Ethics	0306-6800	1473-4257							http://jme.bmj.com		jme.bmj.com				BMJ Publishing Group										
+Journal of Molecular Endocrinology	0952-5041	1479-6813							http://jme.endocrinology-journals.org		jme.endocrinology-journals.org				Bioscientifica										
+Journal of Management Education	1052-5629	1552-6658							http://jme.sagepub.com		jme.sagepub.com				SAGE Publications										
+Journal of Medieval and Early Modern Studies	1082-9636	1527-8263							http://jmems.dukejournals.org		jmems.dukejournals.org				Duke University Press										
+Journal of Medical Genetics	0022-2593	1468-6244							http://jmg.bmj.com		jmg.bmj.com				BMJ Group										
+American Journal of Men's Health	1557-9883	1557-9891							http://jmh.sagepub.com		jmh.sagepub.com				SAGE Publications										
+Journal of Management Inquiry	1056-4926	1552-6542							http://jmi.sagepub.com		jmi.sagepub.com				SAGE Publications										
+Microscopy	2050-5698	2050-5701							http://jmicro.oxfordjournals.org		jmicro.oxfordjournals.org				Oxford University Press										
+Journal of Macromarketing	0276-1467	1552-6534							http://jmk.sagepub.com		jmk.sagepub.com				SAGE Publications										
+Men and Masculinities	1097-184X	1552-6828							http://jmm.sagepub.com		jmm.sagepub.com				SAGE Publications										
+Journal of Medical Microbiology	0022-2615	1473-5644							http://jmm.sgmjournals.org		jmm.sgmjournals.org				Society for General Microbiology										
+JMM Case Reports		2053-3721							http://jmmcr.sgmjournals.org		jmmcr.sgmjournals.org				Society for General Microbiology										
+Journalism & Communication Monographs	1522-6379	2161-4342							http://jmo.sagepub.com		jmo.sagepub.com				SAGE Publications										
+Journal of Medicine and Philosophy	0360-5310	1744-5019							http://jmp.oxfordjournals.org		jmp.oxfordjournals.org				Oxford University Press										
+Journalism & Mass Communication Quarterly	1077-6990	2161-430X							http://jmq.sagepub.com		jmq.sagepub.com				SAGE Publications										
+Journal of Mechanical Engineering Science	0022-2542								http://jms.sagepub.com		jms.sagepub.com				SAGE Publications										
+Journal of Music Theory	0022-2909								http://jmt.dukejournals.org		jmt.dukejournals.org				Duke University Press										
+Journal of Music Teacher Education	1057-0837	1945-0079							http://jmt.sagepub.com		jmt.sagepub.com				SAGE Publications										
+Journal of Medical and Veterinary Mycology	0268-1218	1365-280X							http://jmvm.oxfordjournals.org		jmvm.oxfordjournals.org				Oxford University Press										
+Journal of Nutrition	0022-3166	1541-6100							http://jn.nutrition.org		jn.nutrition.org				American Society for Nutrition										
+Journal of Neurophysiology	0022-3077	1522-1598							http://jn.physiology.org		jn.physiology.org				American Physiological Society										
+JNCI Journal of the National Cancer Institute	0027-8874	1460-2105							http://jnci.oxfordjournals.org		jnci.oxfordjournals.org				Oxford University Press										
+Journal of NeuroInterventional Surgery	1759-8478	1759-8486							http://jnis.bmj.com		jnis.bmj.com				BMJ Publishing Group Ltd										
+Journal of Nuclear Medicine	0161-5505	2159-662X							http://jnm.snmjournals.org		jnm.snmjournals.org				Society of Nuclear Medicine and Molecular Imaging										
+Journal of Neurology, Neurosurgery & Psychiatry	0022-3050	1468-330X							http://jnnp.bmj.com		jnnp.bmj.com				BMJ Publishing Group Ltd										
+Jadavpur Journal of International Relations	0973-5984	2349-0047							http://jnr.sagepub.com		jnr.sagepub.com				SAGE Publications										
+Journal for the Study of the New Testament	0142-064X	1745-5294							http://jnt.sagepub.com		jnt.sagepub.com				SAGE Publications										
+Journal of Advanced Academics	1932-202X	2162-9536							http://joa.sagepub.com		joa.sagepub.com				SAGE Publications										
+International Journal of Business Communication	2329-4884	#2329-9489							http://job.sagepub.com		job.sagepub.com				SAGE Publications										
+Journal of Consumer Culture	1469-5405	1741-2900							http://joc.sagepub.com		joc.sagepub.com				SAGE Publications										
+Journal of Drug Issues	0022-0426								http://jod.sagepub.com		jod.sagepub.com				SAGE Publications										
+Journal of Endocrinology	0022-0795	1479-6805							http://joe.endocrinology-journals.org		joe.endocrinology-journals.org				Bioscientifica										
+Journal of Entrepreneurship	0971-3557	0973-0745							http://joe.sagepub.com		joe.sagepub.com				SAGE Publications										
+Journal of Economic Geography	1468-2702	1468-2710							http://joeg.oxfordjournals.org		joeg.oxfordjournals.org				Oxford University Press										
+Journal of Infrastructure Development	0974-9306	0975-5969							http://joi.sagepub.com		joi.sagepub.com				SAGE Publications										
+Journal of Management	0149-2063	1557-1211							http://jom.sagepub.com		jom.sagepub.com				SAGE Publications										
+Journal of Oncology Practice	1554-7477	1935-469X							http://jop.ascopubs.org		jop.ascopubs.org				American Society of Clinical Oncology										
+Journal of Psychopharmacology	0269-8811	1461-7285							http://jop.sagepub.com		jop.sagepub.com				SAGE Publications										
+Journal of Orthodontics	1465-3125	1465-3133							http://jorthod.maneyjournals.org		jorthod.maneyjournals.org				Maney Publishing										
+Journal of Semantics	0167-5133	1477-4593							http://jos.oxfordjournals.org		jos.oxfordjournals.org				Oxford University Press										
+Journal of Sociology	1440-7833	1741-2978							http://jos.sagepub.com		jos.sagepub.com				SAGE Publications										
+Journal for the Study of the Old Testament	0309-0892	1476-6728							http://jot.sagepub.com		jot.sagepub.com				SAGE Publications										
+Journalism	1464-8849	1741-3001							http://jou.sagepub.com		jou.sagepub.com				SAGE Publications										
+Journal of the American Society for Horticultural Science	0003-1062	2327-9788							http://journal.ashspublications.org		journal.ashspublications.org				American Society for Horticultural Science										
+PDA Journal of Pharmaceutical Science and Technology	1079-7440	1948-2124							http://journal.pda.org		journal.pda.org				Parenteral Drug Association, Inc. (PDA)										
+Telos	0090-6514	1940-459X							http://journal.telospress.com		journal.telospress.com				Telos Press Publishing										
+Journal of Physiology	0022-3751	1469-7793							http://jp.physoc.org		jp.physoc.org				Blackwell Publishing										
+Journal of Psychoeducational Assessment	0734-2829	1557-5144							http://jpa.sagepub.com		jpa.sagepub.com				SAGE Publications										
+Journal of Public Administration Research and Theory	1053-1858	1477-9803							http://jpart.oxfordjournals.org		jpart.oxfordjournals.org				Oxford University Press										
+Journal of Primary Care & Community Health	2150-1319	2150-1327							http://jpc.sagepub.com		jpc.sagepub.com				SAGE Publications										
+Journal of Planning Education and Research	0739-456X	1552-6577							http://jpe.sagepub.com		jpe.sagepub.com				SAGE Publications										
+Journal of Pediatric Psychology	0146-8693	1465-735X							http://jpepsy.oxfordjournals.org		jpepsy.oxfordjournals.org				Oxford University Press										
+Journal of Pharmacology and Experimental Therapeutics	0022-3565	1521-0103							http://jpet.aspetjournals.org		jpet.aspetjournals.org				American Society for Pharmacology and Experimental Therapeutics										
+Journal of Plastic Film and Sheeting	8756-0879	1530-8014							http://jpf.sagepub.com		jpf.sagepub.com				SAGE Publications										
+Journal of Planning History	1538-5132	1552-6585							http://jph.sagepub.com		jph.sagepub.com				SAGE Publications										
+Journal of the Pediatric Infectious Diseases Society	2048-7193	2048-7207							http://jpids.oxfordjournals.org		jpids.oxfordjournals.org				Oxford University Press										
+Journal of Planning Literature	0885-4122	1552-6593							http://jpl.sagepub.com		jpl.sagepub.com				SAGE Publications										
+Journal of Professions and Organization	2051-8803	2051-8811							http://jpo.oxfordjournals.org		jpo.oxfordjournals.org				Oxford University Press										
+Journal of Pediatric Oncology Nursing	1043-4542	1532-8457							http://jpo.sagepub.com		jpo.sagepub.com				SAGE Publications										
+Journal of Pharmacy Practice	0897-1900	1531-1937							http://jpp.sagepub.com		jpp.sagepub.com				SAGE Publications										
+Journal of Peace Research	0022-3433	1460-3578							http://jpr.sagepub.com		jpr.sagepub.com				SAGE Publications										
+Journal of Public Health	1741-3842	1741-3850							http://jpubhealth.oxfordjournals.org		jpubhealth.oxfordjournals.org				Oxford University Press										
+Journal of the Renin-Angiotensin-Aldosterone System	1470-3203	1752-8976							http://jra.sagepub.com		jra.sagepub.com				SAGE										
+Journal of the Royal Army Medical Corps	0035-8665	2052-0468							http://jramc.bmj.com		jramc.bmj.com				BMJ Publishing Group Ltd										
+Journal of Research in Crime and Delinquency	0022-4278	1552-731X							http://jrc.sagepub.com		jrc.sagepub.com				SAGE Publications										
+Journal of Empirical Research on Human Research Ethics	1556-2646	1556-2654							http://jre.sagepub.com		jre.sagepub.com				SAGE Publications										
+Journal of Research in International Education	1475-2409	1741-2943							http://jri.sagepub.com		jri.sagepub.com				SAGE Publications										
+Journal of Research on Leadership Education	1942-7751								http://jrl.sagepub.com		jrl.sagepub.com				SAGE Publications										
+Jerusalem Review of Legal Studies	2219-7125	2219-7117							http://jrls.oxfordjournals.org		jrls.oxfordjournals.org				Oxford University Press										
+Journal of Research in Music Education	0022-4294	1945-0095							http://jrm.sagepub.com		jrm.sagepub.com				SAGE Publications										
+Journal of Research in Nursing	1744-9871	1744-988X							http://jrn.sagepub.com		jrn.sagepub.com				SAGE Publications										
+Journal of Reinforced Plastics and Composites	0731-6844	1530-7964							http://jrp.sagepub.com		jrp.sagepub.com				SAGE Publications										
+Journal of Radiation Research	0449-3060	1349-9157							http://jrr.oxfordjournals.org		jrr.oxfordjournals.org				Oxford University Press										
+Journal of the Royal Society of Medicine	0141-0768	1758-1095							http://jrs.sagepub.com		jrs.sagepub.com				SAGE Publications										
+Journal of Social Archaeology	1469-6053	1741-2951							http://jsa.sagepub.com		jsa.sagepub.com				SAGE Publications										
+Journal of Surgical Case Reports		2042-8812							http://jscr.oxfordjournals.org		jscr.oxfordjournals.org				Oxford University Press										
+Journal of Education for Sustainable Development	0973-4082	0973-4074							http://jsd.sagepub.com		jsd.sagepub.com				SAGE Publications										
+Journal of Sports Economics	1527-0025	1552-7794							http://jse.sagepub.com		jse.sagepub.com				SAGE Publications										
+Journal of Sedimentary Research	1527-1404								http://jsedres.sepmonline.org		jsedres.sepmonline.org				SEPM Society for Sedimentary Geology										
+Journal of Social History	0022-4529	1527-1897							http://jsh.oxfordjournals.org		jsh.oxfordjournals.org				Oxford University Press										
+Journal of Studies in International Education	1028-3153	1552-7808							http://jsi.sagepub.com		jsi.sagepub.com				SAGE Publications										
+Journal of Sandwich Structures and Materials	1099-6362	1530-7972							http://jsm.sagepub.com		jsm.sagepub.com				SAGE Publications										
+Journal of School Nursing	1059-8405	1546-8364							http://jsn.sagepub.com		jsn.sagepub.com				SAGE Publications										
+Journal for the Study of the Pseudepigrapha	0951-8207	1745-5286							http://jsp.sagepub.com		jsp.sagepub.com				SAGE Publications										
+Journal of Service Research	1094-6705	1552-7379							http://jsr.sagepub.com		jsr.sagepub.com				SAGE Publications										
+ECS Journal of Solid State Science and Technology	2162-8769	2162-8777							http://jss.ecsdl.org		jss.ecsdl.org				Electrochemical Society										
+Journal of Semitic Studies	0022-4480	1477-8556							http://jss.oxfordjournals.org		jss.oxfordjournals.org				Oxford University Press										
+Journal of Sport & Social Issues	0193-7235	1552-7638							http://jss.sagepub.com		jss.sagepub.com				SAGE Publications										
+Journal of Survey Statistics and Methodology	2325-0984	2325-0992							http://jssam.oxfordjournals.org		jssam.oxfordjournals.org				Oxford University Press										
+Journal of Social Work	1468-0173	1741-296X							http://jsw.sagepub.com		jsw.sagepub.com				SAGE Publications										
+Journal of Thermoplastic Composite Materials	0892-7057	1530-7980							http://jtc.sagepub.com		jtc.sagepub.com				SAGE Publications										
+Journal of Transformative Education	1541-3446	1552-7840							http://jtd.sagepub.com		jtd.sagepub.com				SAGE Publications										
+Journal of Teacher Education	0022-4871	1552-7816							http://jte.sagepub.com		jte.sagepub.com				SAGE Publications										
+Journal of Theoretical Politics	0951-6298	1460-3667							http://jtp.sagepub.com		jtp.sagepub.com				SAGE Publications										
+Journal of Travel Research	0047-2875	1552-6763							http://jtr.sagepub.com		jtr.sagepub.com				SAGE Publications										
+Journal of Theological Studies	0022-5185	1477-4607							http://jts.oxfordjournals.org		jts.oxfordjournals.org				Oxford University Press										
+Journal of Telemedicine and Telecare	1357-633X	1758-1109							http://jtt.sagepub.com		jtt.sagepub.com				SAGE Publications										
+Journal of Urban History	0096-1442	1552-6771							http://juh.sagepub.com		juh.sagepub.com				SAGE Publications										
+Journal of Vibration and Control	1077-5463	1741-2986							http://jvc.sagepub.com		jvc.sagepub.com				SAGE Publications										
+Journal of Virology	0022-538X	1098-5514							http://jvi.asm.org		jvi.asm.org				American Society for Microbiology										
+British Journal of Visual Impairment	0264-6196	1744-5809							http://jvi.sagepub.com		jvi.sagepub.com				SAGE Publications										
+Journal of Vacation Marketing	1356-7667	1479-1870							http://jvm.sagepub.com		jvm.sagepub.com				SAGE Publications										
+Journal of Wide Bandgap Materials	1524-511X	1530-8081							http://jwb.sagepub.com		jwb.sagepub.com				SAGE Publications										
+Journal of World Energy Law & Business	1754-9957	1754-9965							http://jwelb.oxfordjournals.org		jwelb.oxfordjournals.org				Oxford University Press										
+Journal of Experimental Botany	0022-0957	1460-2431							http://jxb.oxfordjournals.org		jxb.oxfordjournals.org				Oxford University Press										
+IIM Kozhikode Society & Management Review	2277-9752								http://ksm.sagepub.com		ksm.sagepub.com				SAGE Publications India Pvt Ltd										
+Lab Medicine	0007-5027	1943-7730							http://labmed.ascpjournals.org		labmed.ascpjournals.org				American Society for Clinical Pathology										
+Labor Studies in Working-Class History of the Americas	1547-6715	1558-1454							http://labor.dukejournals.org		labor.dukejournals.org				Duke University Press										
+Language and Literature	0963-9470	1461-7293							http://lal.sagepub.com		lal.sagepub.com				SAGE Publications										
+Laboratory Animals	0023-6772	1758-1117							http://lan.sagepub.com		lan.sagepub.com				SAGE Publications										
+Latin American Perspectives	0094-582X	1552-678X							http://lap.sagepub.com		lap.sagepub.com				SAGE Publications										
+Language and Speech	0023-8309	1756-6053							http://las.sagepub.com		las.sagepub.com				SAGE Publications										
+International Journal of Law, Policy and the Family	1360-9939	1464-3707							http://lawfam.oxfordjournals.org		lawfam.oxfordjournals.org				Oxford University Press										
+Luso-Brazilian Review	0024-7413	1548-9957							http://lbr.uwpress.org		lbr.uwpress.org				University of Wisconsin Press										
+Law, Culture and the Humanities	1743-8721	1743-9752							http://lch.sagepub.com		lch.sagepub.com				SAGE Publications										
+Learning Disability Quarterly	0731-9487								http://ldq.sagepub.com		ldq.sagepub.com				SAGE Publications										
+Journal of Learning Disabilities	0022-2194								http://ldx.sagepub.com		ldx.sagepub.com				SAGE Publications										
+Land Economics	0023-7639	1543-8325							http://le.uwpress.org		le.uwpress.org				University of Wisconsin Press										
+Leadership	1742-7150	1742-7169							http://lea.sagepub.com		lea.sagepub.com				SAGE Publications										
+Learning & Memory		1549-5485							http://learnmem.cshlp.org		learnmem.cshlp.org				Cold Spring Harbor Laboratory Press										
+Local Economy	0269-0942	1470-9325							http://lec.sagepub.com		lec.sagepub.com				SAGE Publications										
+Library	0024-2160	1744-8581							http://library.oxfordjournals.org		library.oxfordjournals.org				Oxford University Press										
+Language and Linguistics	1606-822X	2309-5067							http://lin.sagepub.com		lin.sagepub.com				SAGE Publications										
+Journal of Librarianship and Information Science	0961-0006	1741-6477							http://lis.sagepub.com		lis.sagepub.com				SAGE Publications										
+Lithosphere	1941-8264	1947-4253							http://lithosphere.gsapubs.org		lithosphere.gsapubs.org				Geological Society of America										
+Literary Imagination	1523-9012	1752-6566							http://litimag.oxfordjournals.org		litimag.oxfordjournals.org				Oxford University Press										
+Literature and Theology	0269-1205	1477-4623							http://litthe.oxfordjournals.org		litthe.oxfordjournals.org				Oxford University Press										
+Landscape Journal	0277-2426	1553-2704							http://lj.uwpress.org		lj.uwpress.org				University of Wisconsin Press										
+Law, Probability and Risk	1470-8396	1470-840X							http://lpr.oxfordjournals.org		lpr.oxfordjournals.org				Oxford University Press										
+London Review of International Law	2050-6325	2050-6333							http://lril.oxfordjournals.org		lril.oxfordjournals.org				Oxford University Press										
+Journal of Land and Rural Studies	2321-0249	2321-7464							http://lrs.sagepub.com		lrs.sagepub.com				SAGE Publications India Pvt Ltd										
+Lighting Research and Technology	1477-1535	1477-0938							http://lrt.sagepub.com		lrt.sagepub.com				SAGE Publications										
+Labor Studies Journal	0160-449X	1538-9758							http://lsj.sagepub.com		lsj.sagepub.com				SAGE Publications										
+Language Testing	0265-5322	1477-0946							http://ltj.sagepub.com		ltj.sagepub.com				SAGE Publications										
+Language Teaching Research	1362-1688	1477-0954							http://ltr.sagepub.com		ltr.sagepub.com				SAGE Publications										
+Lupus	0961-2033	1477-0962							http://lup.sagepub.com		lup.sagepub.com				SAGE Publications										
+Lupus Science & Medicine		2053-8790							http://lupus.bmj.com		lupus.bmj.com				BMJ Publishing Group Ltd										
+ECS Meeting Abstracts	#2151-2041	2151-2043							http://ma.ecsdl.org		ma.ecsdl.org				Electrochemical Society										
+Measurement and Control	0020-2940								http://mac.sagepub.com		mac.sagepub.com				SAGE Publications										
+Margin: Journal of Applied Economic Research	0973-8010	0973-8029							http://mar.sagepub.com		mar.sagepub.com				SAGE Publications										
+Molecular Biology and Evolution	0737-4038	1537-1719							http://mbe.oxfordjournals.org		mbe.oxfordjournals.org				Oxford University Press										
+mBio		2150-7511							http://mbio.asm.org		mbio.asm.org				American Society for Microbiology										
+Molecular and Cellular Biology	0270-7306	1098-5549							http://mcb.asm.org		mcb.asm.org				American Society for Microbiology										
+Management Communication Quarterly	0893-3189	1552-6798							http://mcq.sagepub.com		mcq.sagepub.com				SAGE Publications										
+Molecular Cancer Research	1541-7786	1557-3125							http://mcr.aacrjournals.org		mcr.aacrjournals.org				American Association for Cancer Research, Inc. (AACR)										
+Medical Care Research and Review	1077-5587	1552-6801							http://mcr.sagepub.com		mcr.sagepub.com				SAGE Publications										
+Media, Culture & Society	0163-4437	1460-3675							http://mcs.sagepub.com		mcs.sagepub.com				SAGE Publications										
+Molecular Cancer Therapeutics	1535-7163	1538-8514							http://mct.aacrjournals.org		mct.aacrjournals.org				American Association for Cancer Research, Inc. (AACR)										
+Journal of Material Culture	1359-1835	1460-3586							http://mcu.sagepub.com		mcu.sagepub.com				SAGE Publications										
+Modern China	0097-7004	1552-6836							http://mcx.sagepub.com		mcx.sagepub.com				SAGE Publications										
+Medical Decision Making	0272-989X	1552-681X							http://mdm.sagepub.com		mdm.sagepub.com				SAGE Publications										
+Measurement and Evaluation in Counseling and Development	0748-1756	1947-6302							http://mec.sagepub.com		mec.sagepub.com				SAGE Publications										
+Medical Law Review	0967-0742	1464-3790							http://medlaw.oxfordjournals.org		medlaw.oxfordjournals.org				Oxford University Press										
+Music Educators Journal	0027-4321	1945-0087							http://mej.sagepub.com		mej.sagepub.com				SAGE Publications										
+MELUS: Multi-Ethnic Literature of the United States	0163-755X	1946-3170							http://melus.oxfordjournals.org		melus.oxfordjournals.org				Oxford University Press										
+Geological Society, London, Memoirs	0435-4052	2041-4722							http://mem.lyellcollection.org		mem.lyellcollection.org				Geological Society of London										
+Geological Society of America Memoirs	0072-1069								http://memoirs.gsapubs.org		memoirs.gsapubs.org				Geological Society of America										
+Medical Humanities	1468-215X	1473-4265							http://mh.bmj.com		mh.bmj.com				BMJ Publishing Group										
+Medieval History Journal	0971-9458	0973-0753							http://mhj.sagepub.com		mhj.sagepub.com				SAGE Publications										
+Studies in Microeconomics	2321-0222								http://mic.sagepub.com		mic.sagepub.com				SAGE Publications										
+Microbiology	1350-0872	1465-2080							http://mic.sgmjournals.org		mic.sgmjournals.org				Society for General Microbiology										
+Management in Education	0892-0206	1741-9883							http://mie.sagepub.com		mie.sagepub.com				SAGE Publications										
+Migration Studies	2049-5838	2049-5846							http://migration.oxfordjournals.org		migration.oxfordjournals.org				Oxford University Press										
+Millennium - Journal of International Studies	0305-8298	1477-9021							http://mil.sagepub.com		mil.sagepub.com				SAGE Publications										
+Mind	0026-4423	1460-2113							http://mind.oxfordjournals.org		mind.oxfordjournals.org				Oxford University Press										
+the minnesota review	0026-5667	2157-4189							http://minnesotareview.dukejournals.org		minnesotareview.dukejournals.org				Duke University Press										
+Missiology: An International Review	0091-8296								http://mis.sagepub.com		mis.sagepub.com				SAGE Publications										
+Modern Judaism	0276-1114	1086-3273							http://mj.oxfordjournals.org		mj.oxfordjournals.org				Oxford University Press										
+Music and Letters	0027-4224	1477-4631							http://ml.oxfordjournals.org		ml.oxfordjournals.org				Oxford University Press										
+Millennial Asia	0976-3996	2321-7081							http://mla.sagepub.com		mla.sagepub.com				SAGE Publications India Pvt Ltd										
+Medical Law International	0968-5332	2047-9441							http://mli.sagepub.com		mli.sagepub.com				SAGE Publications										
+Medico-Legal Journal	0025-8172	2042-1834							http://mlj.sagepub.com		mlj.sagepub.com				SAGE Publications										
+Modern Language Quarterly	0026-7929	1527-1943							http://mlq.dukejournals.org		mlq.dukejournals.org				Duke University Press										
+Management Learning	1350-5076	1461-7307							http://mlq.sagepub.com		mlq.sagepub.com				SAGE Publications										
+Management and Labour Studies	0258-042X								http://mls.sagepub.com		mls.sagepub.com				SAGE Publications										
+Microbiology and Molecular Biology Reviews	1092-2172	1098-5557							http://mmbr.asm.org		mmbr.asm.org				American Society for Microbiology										
+Mobile Media & Communication	2050-1579	2050-1587							http://mmc.sagepub.com		mmc.sagepub.com				SAGE Publications										
+Multimedia Manual of Cardio-Thoracic Surgery		1813-9175							http://mmcts.oxfordjournals.org		mmcts.oxfordjournals.org				Oxford University Press										
+Music and Medicine	1943-8621	1943-863X							http://mmd.sagepub.com		mmd.sagepub.com				SAGE Publications										
+Journal of Medical Marketing: Device, Diagnostic and Pharmaceutical Marketing	1745-7904	1745-7912							http://mmj.sagepub.com		mmj.sagepub.com				SAGE Publications										
+Journal of Mixed Methods Research	1558-6898	1558-6901							http://mmr.sagepub.com		mmr.sagepub.com				SAGE Publications										
+Mathematics and Mechanics of Solids	1081-2865	1741-3028							http://mms.sagepub.com		mms.sagepub.com				SAGE Publications										
+Monthly Notices of the Royal Astronomical Society	0035-8711	1365-2966							http://mnras.oxfordjournals.org		mnras.oxfordjournals.org				Oxford University Press										
+Monthly Notices of the Royal Astronomical Society: Letters	1745-3925	1745-3933							http://mnrasl.oxfordjournals.org		mnrasl.oxfordjournals.org				Oxford University Press										
+Management & Organizational History	1744-9359	1744-9367							http://moh.sagepub.com		moh.sagepub.com				SAGE Publications										
+Molecular Human Reproduction	1360-9947	1460-2407							http://molehr.oxfordjournals.org		molehr.oxfordjournals.org				Oxford University Press										
+Journal of Molluscan Studies	0260-1230	1464-3766							http://mollus.oxfordjournals.org		mollus.oxfordjournals.org				Oxford University Press										
+Molecular Pharmacology	0026-895X	1521-0111							http://molpharm.aspetjournals.org		molpharm.aspetjournals.org				American Society for Pharmacology and Experimental Therapeutics										
+Monatshefte	0026-9271	1934-2810							http://mon.uwpress.org		mon.uwpress.org				University of Wisconsin Press										
+Molecular Pathology	1366-8714	1472-4154							http://mp.bmj.com		mp.bmj.com				BMJ Publishing Group Ltd										
+Mediterranean Quarterly	1047-4552	1527-1935							http://mq.dukejournals.org		mq.dukejournals.org				Duke University Press										
+Musical Quarterly	0027-4631	1741-8399							http://mq.oxfordjournals.org		mq.oxfordjournals.org				Oxford University Press										
+Journal of Medical Screening	0969-1413	1475-5793							http://msc.sagepub.com		msc.sagepub.com				SAGE Publications										
+Multiple Sclerosis Journal	1352-4585	1477-0970							http://msj.sagepub.com		msj.sagepub.com				SAGE Publications										
+Memory Studies	1750-6980	1750-6999							http://mss.sagepub.com		mss.sagepub.com				SAGE Publications										
+Musicae Scientiae	1029-8649								http://msx.sagepub.com		msx.sagepub.com				SAGE Publications										
+Marketing Theory	1470-5931	1741-301X							http://mtq.sagepub.com		mtq.sagepub.com				SAGE Publications										
+Mutagenesis	0267-8357	1464-3804							http://mutage.oxfordjournals.org		mutage.oxfordjournals.org				Oxford University Press										
+Media, War & Conflict	1750-6352	1750-6360							http://mwc.sagepub.com		mwc.sagepub.com				SAGE										
+Nutrition and Health	0260-1060	2047-945X							http://nah.sagepub.com		nah.sagepub.com				SAGE										
+International Journal of Green Nanotechnology	1943-0906								http://nan.sagepub.com		nan.sagepub.com				SAGE Publications										
+Nucleic Acids Research	0305-1048	1362-4962							http://nar.oxfordjournals.org		nar.oxfordjournals.org				Oxford University Press										
+NASN School Nurse	1942-602X	1942-6038							http://nas.sagepub.com		nas.sagepub.com				SAGE Publications										
+Nutrition in Clinical Practice	0884-5336	1941-2452							http://ncp.sagepub.com		ncp.sagepub.com				SAGE Publications										
+Nephrology Dialysis Transplantation	0931-0509	1460-2385							http://ndt.oxfordjournals.org		ndt.oxfordjournals.org				Oxford University Press										
+Nursing Ethics	0969-7330	1477-0989							http://nej.sagepub.com		nej.sagepub.com				SAGE Publications										
+NeoReviews		1526-9906							http://neoreviews.aappublications.org		neoreviews.aappublications.org				American Academy of Pediatrics										
+National Institute Economic Review	0027-9501	1741-3036							http://ner.sagepub.com		ner.sagepub.com				SAGE Publications										
+Neuro-Oncology	1522-8517	1523-5866							http://neuro-oncology.oxfordjournals.org		neuro-oncology.oxfordjournals.org				Oxford University Press										
+New German Critique	0094-033X	1558-1462							http://ngc.dukejournals.org		ngc.dukejournals.org				Duke University Press										
+Neurohospitalist	1941-8744	1941-8752							http://nho.sagepub.com		nho.sagepub.com				SAGE Publications										
+Nka Journal of Contemporary African Art	1075-7163								http://nka.dukejournals.org		nka.dukejournals.org				Duke University Press										
+New Labor Forum	1095-7960	1557-2978							http://nlf.sagepub.com		nlf.sagepub.com				SAGE Publications										
+New Media & Society	1461-4448	1461-7315							http://nms.sagepub.com		nms.sagepub.com				SAGE Publications										
+Neurology:  Neuroimmunology & Neuroinflammation		2332-7812							http://nn.neurology.org		nn.neurology.org				Wolters Kluwer / LWW										
+Neurorehabilitation and Neural Repair	1545-9683	1552-6844							http://nnr.sagepub.com		nnr.sagepub.com				SAGE Publications										
+NOVEL A Forum on Fiction	0029-5132	1945-8509							http://novel.dukejournals.org		novel.dukejournals.org				Duke University Press										
+Native Plants Journal	1522-8339	1548-4785							http://npj.uwpress.org		npj.uwpress.org				University of Wisconsin Press										
+Notes and Queries	0029-3970	1471-6941							http://nq.oxfordjournals.org		nq.oxfordjournals.org				Oxford University Press										
+Neuroscientist	1073-8584	1089-4098							http://nro.sagepub.com		nro.sagepub.com				SAGE Publications										
+Nursing Science Quarterly	0894-3184	1552-7409							http://nsq.sagepub.com		nsq.sagepub.com				SAGE Publications										
+National Science Review	2095-5138	2053-714X							http://nsr.oxfordjournals.org		nsr.oxfordjournals.org				Oxford University Press										
+Nicotine & Tobacco Research	1462-2203	1469-994X							http://ntr.oxfordjournals.org		ntr.oxfordjournals.org				Oxford University Press										
+Nonprofit and Voluntary Sector Quarterly	0899-7640	1552-7395							http://nvs.sagepub.com		nvs.sagepub.com				SAGE Publications										
+Organization & Environment	1086-0266	1552-7417							http://oae.sagepub.com		oae.sagepub.com				SAGE Publications										
+Oxford Art Journal	0142-6540	1741-7287							http://oaj.oxfordjournals.org		oaj.oxfordjournals.org				Oxford University Press										
+Obstetric Medicine	1753-495X	1753-4968							http://obm.sagepub.com		obm.sagepub.com				SAGE Publications										
+Occupational Medicine	0962-7480	1471-8405							http://occmed.oxfordjournals.org		occmed.oxfordjournals.org				Oxford University Press										
+Occupational and Environmental Medicine	1351-0711	1470-7926							http://oem.bmj.com		oem.bmj.com				BMJ Publishing Group Ltd										
+Oxford Economic Papers	0030-7653	1464-3812							http://oep.oxfordjournals.org		oep.oxfordjournals.org				Oxford University Press										
+Oral History Review	0094-0798	1533-8592							http://ohr.oxfordjournals.org		ohr.oxfordjournals.org				Oxford University Press										
+Oxford Journal of Law and Religion	2047-0770	2047-0789							http://ojlr.oxfordjournals.org		ojlr.oxfordjournals.org				Oxford University Press										
+Oxford Journal of Legal Studies	0143-6503	1464-3820							http://ojls.oxfordjournals.org		ojls.oxfordjournals.org				Oxford University Press										
+Orthopaedic Journal of Sports Medicine	2325-9671	2325-9671							http://ojs.sagepub.com		ojs.sagepub.com				SAGE Publications										
+Oxford Medical Case Reports		2053-8855							http://omcr.oxfordjournals.org		omcr.oxfordjournals.org				Oxford University Press										
+Open Heart		2053-3624							http://openheart.bmj.com		openheart.bmj.com				BMJ										
+Journal of Oncology Pharmacy Practice	1078-1552	1477-092X							http://opp.sagepub.com		opp.sagepub.com				SAGE Publications										
+Organizational Psychology Review	2041-3866	2041-3874							http://opr.sagepub.com		opr.sagepub.com				SAGE Publications Ltd.										
+Opera Quarterly	0736-0053	1476-2870							http://oq.oxfordjournals.org		oq.oxfordjournals.org				Oxford University Press										
+Organization	1350-5084	1461-7323							http://org.sagepub.com		org.sagepub.com				SAGE Publications										
+Organizational Research Methods	1094-4281	1552-7425							http://orm.sagepub.com		orm.sagepub.com				SAGE Publications										
+Organization Studies	0170-8406	1741-3044							http://oss.sagepub.com		oss.sagepub.com				SAGE Publications										
+Otolaryngology -- Head and Neck Surgery	0194-5998	1097-6817							http://oto.sagepub.com		oto.sagepub.com				SAGE Publications										
+Oxford Review of Economic Policy	0266-903X	1460-2121							http://oxrep.oxfordjournals.org		oxrep.oxfordjournals.org				Oxford University Press										
+Parliamentary Affairs	0031-2290	1460-2482							http://pa.oxfordjournals.org		pa.oxfordjournals.org				Oxford University Press										
+Pacifica: Australasian Theological Studies	1030-570X	1839-2598							http://paa.sagepub.com		paa.sagepub.com				SAGE Publications										
+Proceedings of the Institution of Mechanical Engineers: Automobile Division	0367-8822								http://pad.sagepub.com		pad.sagepub.com				SAGE Publications										
+PALAIOS	0883-1351								http://palaios.sepmonline.org		palaios.sepmonline.org				SEPM Society for Sedimentary Geology										
+Paleobiology	0094-8373								http://paleobiol.geoscienceworld.org		paleobiol.geoscienceworld.org				Paleontological Society										
+Political Analysis	1047-1987	1476-4989							http://pan.oxfordjournals.org		pan.oxfordjournals.org				Oxford University Press										
+Paradigm	0971-8907								http://par.sagepub.com		par.sagepub.com				SAGE Publications										
+Professional Animal Scientist	1080-7446	1525-318X							http://pas.fass.org		pas.fass.org				American Registry of Professional Animal Scientists										
+Politics & Society	0032-3292	1552-7514							http://pas.sagepub.com		pas.sagepub.com				SAGE Publications										
+Publications of the Astronomical Society of Japan	0004-6264	2053-051X							http://pasj.oxfordjournals.org		pasj.oxfordjournals.org				Oxford University Press										
+Past & Present	0031-2746	1477-464X							http://past.oxfordjournals.org		past.oxfordjournals.org				Oxford University Press										
+Proceedings of the Institution of Automobile Engineers	0369-9838								http://pau.sagepub.com		pau.sagepub.com				SAGE Publications										
+Psychiatric Bulletin	2053-4868	2053-4876							http://pb.rcpsych.org		pb.rcpsych.org				Royal College of Psychiatrists										
+Journal of Positive Behavior Interventions	1098-3007	1538-4772							http://pbi.sagepub.com		pbi.sagepub.com				SAGE Publications										
+World Journal for Pediatric and Congenital Heart Surgery	2150-1351	2150-136X							http://pch.sagepub.com		pch.sagepub.com				SAGE Publications										
+Plant and Cell Physiology	0032-0781	1471-9053							http://pcp.oxfordjournals.org		pcp.oxfordjournals.org				Oxford University Press										
+Proceedings of the Institution of Mechanical Engineers, Conference Proceedings	0367-8849								http://pcp.sagepub.com		pcp.sagepub.com				SAGE Publications										
+Progress in Development Studies	1464-9934	1477-027X							http://pdj.sagepub.com		pdj.sagepub.com				SAGE Publications										
+Phi Delta Kappan	0031-7217	1940-6487							http://pdk.sagepub.com		pdk.sagepub.com				SAGE Publications										
+Psychology & Developing Societies	0971-3336	0973-0761							http://pds.sagepub.com		pds.sagepub.com				SAGE Publications										
+Global Health Promotion	1757-9759	1757-9767							http://ped.sagepub.com		ped.sagepub.com				SAGE Publications										
+Pedagogy Critical Approaches to Teaching Literature Language Composition and Culture	1531-4200	1533-6255							http://pedagogy.dukejournals.org		pedagogy.dukejournals.org				Duke University Press										
+Pediatrics	0031-4005	1098-4275							http://pediatrics.aappublications.org		pediatrics.aappublications.org				American Academy of Pediatrics										
+Protein Engineering Design and Selection	1741-0126	1741-0134							http://peds.oxfordjournals.org		peds.oxfordjournals.org				Oxford University Press										
+Pediatrics in Review	0191-9601	1526-3347							http://pedsinreview.aappublications.org		pedsinreview.aappublications.org				American Academy of Pediatrics										
+Journal of Parenteral and Enteral Nutrition	0148-6071	1941-2444							http://pen.sagepub.com		pen.sagepub.com				SAGE Publications										
+Geochemical Perspectives	2223-7755	2224-2759							http://perspectives.geoscienceworld.org		perspectives.geoscienceworld.org				European Association for Geochemistry										
+Cold Spring Harbor Perspectives in Medicine		2157-1422							http://perspectivesinmedicine.cshlp.org		perspectivesinmedicine.cshlp.org				Cold Spring Harbor Laboratory Press										
+Journal of Petrology	0022-3530	1460-2415							http://petrology.oxfordjournals.org		petrology.oxfordjournals.org				Oxford University Press										
+Public Finance Review	1091-1421	1552-7530							http://pfr.sagepub.com		pfr.sagepub.com				SAGE Publications										
+Petroleum Geoscience	1354-0793	2041-496X							http://pg.lyellcollection.org		pg.lyellcollection.org				Geological Society of London										
+Geological Society, London, Petroleum Geology Conference series		2047-9921							http://pgc.lyellcollection.org		pgc.lyellcollection.org				Geological Society of London										
+Pharmacological Reviews	0031-6997	1521-0081							http://pharmrev.aspetjournals.org		pharmrev.aspetjournals.org				American Society for Pharmacology and Experimental Therapeutics										
+Progress in Human Geography	0309-1325	1477-0288							http://phg.sagepub.com		phg.sagepub.com				SAGE Publications										
+Philosophia Mathematica	0031-8019	1744-6406							http://philmat.oxfordjournals.org		philmat.oxfordjournals.org				Oxford University Press										
+Philosophical Review	0031-8108	1558-1470							http://philreview.dukejournals.org		philreview.dukejournals.org				Duke University Press										
+Phlebology: Journal of Venous Disease	0268-3555	1758-1125							http://phl.sagepub.com		phl.sagepub.com				SAGE Publications										
+Physiological Genomics	1094-8341	1531-2267							http://physiolgenomics.physiology.org		physiolgenomics.physiology.org				American Physiological Society										
+Physiology	1548-9213	1548-9221							http://physiologyonline.physiology.org		physiologyonline.physiology.org				American Physiological Society										
+Physiological Reviews	0031-9333	1522-1210							http://physrev.physiology.org		physrev.physiology.org				American Physiological Society										
+Proceedings of the Institution of Mechanical Engineers, Part A: Journal of Power and Energy	0957-6509	2041-2967							http://pia.sagepub.com		pia.sagepub.com				SAGE Publications										
+Proceedings of the Institution of Mechanical Engineers, Part B: Journal of Engineering Manufacture	0954-4054	2041-2975							http://pib.sagepub.com		pib.sagepub.com				SAGE Publications										
+Proceedings of the Institution of Mechanical Engineers, Part C: Journal of Mechanical Engineering Science	0954-4062	2041-2983							http://pic.sagepub.com		pic.sagepub.com				SAGE Publications										
+Proceedings of the Institution of Mechanical Engineers, Part D: Journal of Automobile Engineering	0954-4070	2041-2991							http://pid.sagepub.com		pid.sagepub.com				SAGE Publications										
+Proceedings of the Institution of Mechanical Engineers, Part E: Journal of Process Mechanical Engineering	0954-4089	2041-3009							http://pie.sagepub.com		pie.sagepub.com				SAGE Publications										
+Proceedings of the Institution of Mechanical Engineers, Part F: Journal of Rail and Rapid Transit	0954-4097	2041-3017							http://pif.sagepub.com		pif.sagepub.com				SAGE Publications										
+Proceedings of the Institution of Mechanical Engineers, Part G: Journal of Aerospace Engineering	0954-4100	2041-3025							http://pig.sagepub.com		pig.sagepub.com				SAGE Publications										
+Proceedings of the Institution of Mechanical Engineers, Part H: Journal of Engineering in Medicine	0954-4119	2041-3033							http://pih.sagepub.com		pih.sagepub.com				SAGE Publications										
+Proceedings of the Institution of Mechanical Engineers, Part I: Journal of Systems and Control Engineering	0959-6518	2041-3041							http://pii.sagepub.com		pii.sagepub.com				SAGE Publications										
+Proceedings of the Institution of Mechanical Engineers, Part J: Journal of Engineering Tribology	1350-6501	2041-305X							http://pij.sagepub.com		pij.sagepub.com				SAGE Publications										
+Proceedings of the Institution of Mechanical Engineers, Part K: Journal of Multi-body Dynamics	1464-4193	2041-3068							http://pik.sagepub.com		pik.sagepub.com				SAGE Publications										
+Proceedings of the Institution of Mechanical Engineers, Part L: Journal of Materials: Design and Applications	1464-4207	2041-3076							http://pil.sagepub.com		pil.sagepub.com				SAGE Publications										
+Proceedings of the Institution of Mechanical Engineers, Part M: Journal of Engineering for the Maritime Environment	1475-0902	2041-3084							http://pim.sagepub.com		pim.sagepub.com				SAGE Publications										
+Proceedings of the Institution of Mechanical Engineers, Part N: Journal of Nanoengineering and Nanosystems	1740-3499	2041-3092							http://pin.sagepub.com		pin.sagepub.com				SAGE Publications										
+Proceedings of the Institution of Mechanical Engineers, Part O: Journal of Risk and Reliability	1748-006X	1748-0078							http://pio.sagepub.com		pio.sagepub.com				SAGE Publications										
+Proceedings of the Institution of Mechanical Engineers, Part P: Journal of Sports Engineering and Technology	1754-3371	1754-338X							http://pip.sagepub.com		pip.sagepub.com				SAGE Publications										
+Journal of Plankton Research	0142-7873	1464-3774							http://plankt.oxfordjournals.org		plankt.oxfordjournals.org				Oxford University Press										
+Planning Theory	1473-0952	1741-3052							http://plt.sagepub.com		plt.sagepub.com				SAGE Publications										
+Proceedings of the Institution of Mechanical Engineers	0020-3483								http://pme.sagepub.com		pme.sagepub.com				SAGE Publications										
+Postgraduate Medical Journal	0032-5473	1469-0756							http://pmj.bmj.com		pmj.bmj.com				BMJ Publishing Group Ltd										
+Palliative Medicine	0269-2163	1477-030X							http://pmj.sagepub.com		pmj.sagepub.com				SAGE Publications										
+Journal of Pharmacy Technology	8755-1225	1549-4810							http://pmt.sagepub.com		pmt.sagepub.com				SAGE Publications										
+Practical Neurology	1474-7758	1474-7766							http://pn.bmj.com		pn.bmj.com				BMJ Publishing Group Ltd										
+Political Science	0032-3187	2041-0611							http://pnz.sagepub.com		pnz.sagepub.com				SAGE Publications										
+Poetics Today	0333-5372	1527-5507							http://poeticstoday.dukejournals.org		poeticstoday.dukejournals.org				Duke University Press										
+Prosthetics and Orthotics International	0309-3646	1746-1553							http://poi.sagepub.com		poi.sagepub.com				SAGe Publications										
+Policing	1752-4512	1752-4520							http://policing.oxfordjournals.org		policing.oxfordjournals.org				Oxford University Press										
+Psychology of Music	0305-7356	1741-3087							http://pom.sagepub.com		pom.sagepub.com				SAGE Publications										
+Public Opinion Quarterly	0033-362X	1537-5331							http://poq.oxfordjournals.org		poq.oxfordjournals.org				Oxford University Press										
+Philosophy of the Social Sciences	0048-3931	1552-7441							http://pos.sagepub.com		pos.sagepub.com				SAGE Publications										
+positions: asia critique	1067-9847	1527-8271							http://positions.dukejournals.org		positions.dukejournals.org				Duke University Press										
+Public Policy and Administration	0952-0767	1749-4192							http://ppa.sagepub.com		ppa.sagepub.com				SAGE PUBLICATIONS										
+Public Policy & Aging Report	1055-3037	2053-4892							http://ppar.oxfordjournals.org		ppar.oxfordjournals.org				Oxford University Press										
+Politics, Philosophy & Economics	1470-594X	1741-3060							http://ppe.sagepub.com		ppe.sagepub.com				SAGE Publications										
+Progress in Physical Geography	0309-1333	1477-0296							http://ppg.sagepub.com		ppg.sagepub.com				SAGE Publications										
+Public Personnel Management	0091-0260								http://ppm.sagepub.com		ppm.sagepub.com				SAGE Publications										
+Policy, Politics, & Nursing Practice	1527-1544	1552-7468							http://ppn.sagepub.com		ppn.sagepub.com				SAGE Publications										
+Party Politics	1354-0688	1460-3683							http://ppq.sagepub.com		ppq.sagepub.com				SAGE Publications										
+Perspectives on Psychological Science	1745-6916	1745-6924							http://pps.sagepub.com		pps.sagepub.com				SAGE Publications										
+Philosophical Quarterly	0031-8094	1467-9213							http://pq.oxfordjournals.org		pq.oxfordjournals.org				Oxford University Press										
+Police Quarterly	1098-6111	1552-745X							http://pqx.sagepub.com		pqx.sagepub.com				SAGE Publications										
+Probation Journal	0264-5505	1741-3079							http://prb.sagepub.com		prb.sagepub.com				SAGE Publications										
+Perfusion	0267-6591	1477-111X							http://prf.sagepub.com		prf.sagepub.com				SAGE Publications										
+Public Relations Inquiry	2046-147X	2046-1488							http://pri.sagepub.com		pri.sagepub.com				SAGE Publications Ltd.										
+Proceedings of the Human Factors and Ergonomics Society Annual Meeting	1541-9312								http://pro.sagepub.com		pro.sagepub.com				SAGE Publications										
+Political Research Quarterly	1065-9129	1938-274X							http://prq.sagepub.com		prq.sagepub.com				SAGE Publications										
+Poultry Science	0032-5791	1525-3171							http://ps.oxfordjournals.org		ps.oxfordjournals.org				Oxford University Press										
+Philosophy & Social Criticism	0191-4537	1461-734X							http://psc.sagepub.com		psc.sagepub.com				SAGE Publications										
+Psychological Science in the Public Interest	1529-1006	1539-6053							http://psi.sagepub.com		psi.sagepub.com				SAGE Publications										
+Personality and Social Psychology Bulletin	0146-1672	1552-7433							http://psp.sagepub.com		psp.sagepub.com				SAGE Publications										
+Personality and Social Psychology Review	1088-8683	1532-7957							http://psr.sagepub.com		psr.sagepub.com				SAGE Publications										
+Psychological Science	0956-7976	1467-9280							http://pss.sagepub.com		pss.sagepub.com				SAGE Publications										
+Progress of Theoretical and Experimental Physics		2050-3911							http://ptep.oxfordjournals.org		ptep.oxfordjournals.org				Oxford University Press										
+Physical Therapy	0031-9023	1538-6724							http://ptjournal.apta.org		ptjournal.apta.org				American Physical Therapy Association (APTA)										
+Progress of Theoretical Physics	0033-068X	1347-4081							http://ptp.oxfordjournals.org		ptp.oxfordjournals.org				Oxford University Press										
+Progress of Theoretical Physics Supplement	0375-9687								http://ptps.oxfordjournals.org		ptps.oxfordjournals.org				Oxford University Press										
+Political Theory	0090-5917	1552-7476							http://ptx.sagepub.com		ptx.sagepub.com				SAGE Publications										
+Public Culture	0899-2363	1527-8018							http://publicculture.dukejournals.org		publicculture.dukejournals.org				Duke University Press										
+Publius: Journal of Federalism	0048-5950	1747-7107							http://publius.oxfordjournals.org		publius.oxfordjournals.org				Oxford University Press										
+Punishment & Society	1462-4745	1741-3095							http://pun.sagepub.com		pun.sagepub.com				SAGE Publications										
+Public Understanding of Science	0963-6625	1361-6609							http://pus.sagepub.com		pus.sagepub.com				SAGE Publications										
+Perspectives in Vascular Surgery and Endovascular Therapy	1531-0035								http://pvs.sagepub.com		pvs.sagepub.com				SAGE Publications										
+Public Works Management & Policy	1087-724X	1552-7549							http://pwm.sagepub.com		pwm.sagepub.com				SAGE Publications										
+Psychology of Women Quarterly	0361-6843								http://pwq.sagepub.com		pwq.sagepub.com				SAGE Publications										
+Proceedings of the Yorkshire Geological Society	0044-0604	2041-4811							http://pygs.lyellcollection.org		pygs.lyellcollection.org				Geological Society of London										
+Qualitative Health Research	1049-7323	1552-7557							http://qhr.sagepub.com		qhr.sagepub.com				SAGE Publications										
+BMJ Quality Improvement Reports		2050-1315							http://qir.bmj.com		qir.bmj.com				BMJ Quality										
+Qualitative Inquiry	1077-8004	1552-7565							http://qix.sagepub.com		qix.sagepub.com				SAGE Publications										
+Quarterly Journal of Engineering Geology and Hydrogeology	1470-9236	2041-4803							http://qjegh.lyellcollection.org		qjegh.lyellcollection.org				Geological Society of London										
+Quarterly Journal of Mechanics and Applied Mathematics	0033-5614	1464-3855							http://qjmam.oxfordjournals.org		qjmam.oxfordjournals.org				Oxford University Press										
+Quarterly Journal of Mathematics	0033-5606	1464-3847							http://qjmath.oxfordjournals.org		qjmath.oxfordjournals.org				Oxford University Press										
+QJM	1460-2725	1460-2393							http://qjmed.oxfordjournals.org		qjmed.oxfordjournals.org				Oxford University Press										
+Qualitative Research	1468-7941	1741-3109							http://qrj.sagepub.com		qrj.sagepub.com				SAGE Publications										
+Qualitative Social Work	1473-3250	1741-3117							http://qsw.sagepub.com		qsw.sagepub.com				SAGE Publications										
+BMJ Quality & Safety	2044-5415	2044-5423							http://qualitysafety.bmj.com		qualitysafety.bmj.com				BMJ Publishing Group Ltd										
+Race & Class	0306-3968	1741-3125							http://rac.sagepub.com		rac.sagepub.com				SAGE Publications										
+Review & Expositor	0034-6373	2052-9449							http://rae.sagepub.com		rae.sagepub.com				SAGE Publications										
+Race and Justice	2153-3687								http://raj.sagepub.com		raj.sagepub.com				SAGE Publications										
+Recherche et Applications en Marketing	0767-3701	2051-2821							http://ram.sagepub.com		ram.sagepub.com				SAGE Publications										
+Research & Politics		2053-1680							http://rap.sagepub.com		rap.sagepub.com				SAGE Publications										
+Review of Asset Pricing Studies	2045-9920	2045-9939							http://raps.oxfordjournals.org		raps.oxfordjournals.org				Oxford University Press										
+International Review of Administrative Sciences	0020-8523	1461-7226							http://ras.sagepub.com		ras.sagepub.com				SAGE Publications										
+RBM: A Journal of Rare Books, Manuscripts, and Cultural Heritage	1529-6407	2150-668X							http://rbm.acrl.org		rbm.acrl.org				Association of College & Research Libraries										
+Respiratory Care	0020-1324	1943-3654							http://rc.rcjournal.com		rc.rcjournal.com				Sam P Giordano MBA RRT FAARC										
+Rehabilitation Counseling Bulletin	0034-3552	1538-4853							http://rcb.sagepub.com		rcb.sagepub.com				SAGE Publications										
+Review of Corporate Finance Studies	2046-9128	2046-9136							http://rcfs.oxfordjournals.org		rcfs.oxfordjournals.org				Oxford University Press										
+Research Ethics	1747-0161	2047-6094							http://rea.sagepub.com		rea.sagepub.com				SAGE Publications										
+Red Book Online	1080-0131								http://redbookarchive.aappublications.org		redbookarchive.aappublications.org				American Academy of Pediatrics										
+RELC Journal	0033-6882	1745-526X							http://rel.sagepub.com		rel.sagepub.com				SAGE Publications										
+Review of Educational Research	0034-6543	1935-1046							http://rer.sagepub.com		rer.sagepub.com				SAGE Publications										
+Review of English Studies	0034-6551	1471-6968							http://res.oxfordjournals.org		res.oxfordjournals.org				Oxford University Press										
+Reviews of Human Factors and Ergonomics	1557-234X								http://rev.sagepub.com		rev.sagepub.com				SAGE Publications										
+JBJS Reviews		2329-9185							http://reviews.jbjs.org		reviews.jbjs.org				Journal of Bone and Joint Surgery										
+Review of Financial Studies	0893-9454	1465-7368							http://rfs.oxfordjournals.org		rfs.oxfordjournals.org				Oxford University Press										
+Rheumatology	1462-0324	1462-0332							http://rheumatology.oxfordjournals.org		rheumatology.oxfordjournals.org				Oxford University Press										
+Radical History Review	0163-6545	1534-1453							http://rhr.dukejournals.org		rhr.dukejournals.org				Duke University Press										
+Reviews in Mineralogy and Geochemistry	1529-6466								http://rimg.geoscienceworld.org		rimg.geoscienceworld.org				Mineralogical Society of America										
+Recherche et Applications en Marketing (English Edition)		2051-5707							http://rme.sagepub.com		rme.sagepub.com				SAGE Publications										
+Review of Market Integration	0974-9292	0975-4709							http://rmi.sagepub.com		rmi.sagepub.com				SAGE Publications										
+RNA	1355-8382	1469-9001							http://rnajournal.cshlp.org		rnajournal.cshlp.org				Cold Spring Harbor Laboratory Press										
+Research on Aging	0164-0275	1552-7573							http://roa.sagepub.com		roa.sagepub.com				SAGE Publications										
+Review of Public Personnel Administration	0734-371X	1552-759X							http://rop.sagepub.com		rop.sagepub.com				SAGE Publications										
+Reports of Patent, Design and Trade Mark Cases	0080-1364	1756-1000							http://rpc.oxfordjournals.org		rpc.oxfordjournals.org				Oxford University Press										
+Radiation Protection Dosimetry	0144-8420	1742-3406							http://rpd.oxfordjournals.org		rpd.oxfordjournals.org				Oxford University Press										
+Research and Practice for Persons with Severe Disabilities	1540-7969	2169-2408							http://rps.sagepub.com		rps.sagepub.com				SAGE Publications										
+Review of Research in Education	0091-732X	1935-1038							http://rre.sagepub.com		rre.sagepub.com				SAGE Publications										
+Reuse/Recycle Newsletter	0048-7457	1531-197X							http://rrn.sagepub.com		rrn.sagepub.com				SAGE Publications										
+Review of Radical Political Economics	0486-6134	1552-8502							http://rrp.sagepub.com		rrp.sagepub.com				SAGE Publications										
+Biology Letters	1744-9561	1744-957X							http://rsbl.royalsocietypublishing.org		rsbl.royalsocietypublishing.org				Royal Society Publishing										
+Biographical Memoirs of Fellows of the Royal Society	0080-4606	1748-8494							http://rsbm.royalsocietypublishing.org		rsbm.royalsocietypublishing.org				Royal Society Publishing										
+Remedial and Special Education	0741-9325	1538-4756							http://rse.sagepub.com		rse.sagepub.com				SAGE Publications										
+Interface Focus	2042-8898	2042-8901							http://rsfs.royalsocietypublishing.org		rsfs.royalsocietypublishing.org				Royal Society Publishing										
+Perspectives in Public Health	1757-9139	1757-9147							http://rsh.sagepub.com		rsh.sagepub.com				SAGE Publications										
+Journal of Royal Society Interface	1742-5689	1742-5662							http://rsif.royalsocietypublishing.org		rsif.royalsocietypublishing.org				Royal Society Publishing										
+Research Studies in Music Education	1321-103X	1834-5530							http://rsm.sagepub.com		rsm.sagepub.com				SAGE Publications										
+Notes and Records: the Royal Society journal of the history of science	0035-9149	1743-0178							http://rsnr.royalsocietypublishing.org		rsnr.royalsocietypublishing.org				Royal Society Publishing										
+Open Biology		2046-2441							http://rsob.royalsocietypublishing.org		rsob.royalsocietypublishing.org				Royal Society										
+Proceedings of the Royal Society A: Mathematical, Physical and Engineering Sciences	1364-5021	1471-2946							http://rspa.royalsocietypublishing.org		rspa.royalsocietypublishing.org				Royal Society Publishing										
+Proceedings of the Royal Society B: Biological Sciences	0962-8452	1471-2954							http://rspb.royalsocietypublishing.org		rspb.royalsocietypublishing.org				Royal Society										
+Proceedings of the Royal Society of London	0370-1662								http://rspl.royalsocietypublishing.org		rspl.royalsocietypublishing.org				Royal Society Publishing										
+Rationality and Society	1043-4631	1461-7358							http://rss.sagepub.com		rss.sagepub.com				SAGE Publications										
+Philosophical Transactions of the Royal Society A: Mathematical, Physical and Engineering Sciences	1364-503X	1471-2962							http://rsta.royalsocietypublishing.org		rsta.royalsocietypublishing.org				Royal Society Publishing										
+Philosophical Transactions of the Royal Society B: Biological Sciences	0962-8436	1471-2970							http://rstb.royalsocietypublishing.org		rstb.royalsocietypublishing.org				Royal Society Publishing										
+Philosophical Transactions of the Royal Society of London	0261-0523								http://rstl.royalsocietypublishing.org		rstl.royalsocietypublishing.org				Royal Society Publishing										
+Research on Social Work Practice	1049-7315	1552-7581							http://rsw.sagepub.com		rsw.sagepub.com				SAGE Publications										
+Reproductive Sciences	1933-7191	1933-7205							http://rsx.sagepub.com		rsx.sagepub.com				SAGE Publications										
+Sabouraudia	0036-2174								http://sabouraudia.oxfordjournals.org		sabouraudia.oxfordjournals.org				Oxford University Press										
+Space and Culture	1206-3312	1552-8308							http://sac.sagepub.com		sac.sagepub.com				SAGE Publications										
+Journal of South Asian Development	0973-1741	0973-1733							http://sad.sagepub.com		sad.sagepub.com				SAGE Publications UK										
+South Asia Economic Journal	1391-5614	0973-077X							http://sae.sagepub.com		sae.sagepub.com				SAGE Publications										
+SAE International Journal of Aerospace	1946-3855	1946-3901							http://saeaero.saejournals.org		saeaero.saejournals.org				SAE International										
+SAE International Journal of Alternative Powertrains	2167-4191	2167-4205							http://saealtpow.saejournals.org		saealtpow.saejournals.org				SAE International										
+SAE International Journal of Commercial Vehicles	1946-391X	1946-3928							http://saecomveh.saejournals.org		saecomveh.saejournals.org				SAE International										
+SAE International Journal of Engines	1946-3936	1946-3944							http://saeeng.saejournals.org		saeeng.saejournals.org				SAE International										
+SAE International Journal of Fuels and Lubricants	1946-3952	1946-3960							http://saefuel.saejournals.org		saefuel.saejournals.org				SAE International										
+SAE International Journal of Materials and Manufacturing	1946-3979	1946-3987							http://saematman.saejournals.org		saematman.saejournals.org				SAE International										
+SAE International Journal of Passenger Cars - Electronic and Electrical Systems	1946-4614	1946-4622							http://saepcelec.saejournals.org		saepcelec.saejournals.org				SAE International										
+SAE International Journal of Passenger Cars - Mechanical Systems	1946-3995	1946-4002							http://saepcmech.saejournals.org		saepcmech.saejournals.org				SAE International										
+Simulation & Gaming	1046-8781	1552-826X							http://sag.sagepub.com		sag.sagepub.com				SAGE Publications										
+South African Journal of Psychology	0081-2463								http://sap.sagepub.com		sap.sagepub.com				SAGE										
+South Atlantic Quarterly	0038-2876	1527-8026							http://saq.dukejournals.org		saq.dukejournals.org				Duke University Press										
+South Asia Research	0262-7280	1741-3141							http://sar.sagepub.com		sar.sagepub.com				SAGE Publications										
+South Asian Survey	0971-5231	0973-0788							http://sas.sagepub.com		sas.sagepub.com				SAGE Publications										
+Sexual Abuse: A Journal of Research and Treatment	1079-0632	1573-286X							http://sax.sagepub.com		sax.sagepub.com				SAGE Publications										
+Studies in Christian Ethics	0953-9468	1745-5235							http://sce.sagepub.com		sce.sagepub.com				SAGE Publications										
+Social Change	0049-0857	0976-3538							http://sch.sagepub.com		sch.sagepub.com				SAGE Publications										
+Scottish Medical Journal	0036-9330	2045-6441							http://scm.sagepub.com		scm.sagepub.com				SAGE Publications										
+SAGE Open Medical Case Reports		2050-313X							http://sco.sagepub.com		sco.sagepub.com				SAGE Publications										
+Social Compass	0037-7686	1461-7404							http://scp.sagepub.com		scp.sagepub.com				SAGE Publications										
+Social Currents	2329-4965	2329-4973							http://scu.sagepub.com		scu.sagepub.com				SAGE Publications										
+Seminars in Cardiothoracic and Vascular Anesthesia	1089-2532								http://scv.sagepub.com		scv.sagepub.com				SAGE Publications										
+Science Communication	1075-5470	1552-8545							http://scx.sagepub.com		scx.sagepub.com				SAGE Publications										
+Security Dialogue	0967-0106	1460-3640							http://sdi.sagepub.com		sdi.sagepub.com				SAGE Publications										
+Journal of Strain Analysis for Engineering Design	0309-3247	2041-3130							http://sdj.sagepub.com		sdj.sagepub.com				SAGE Publications										
+Journal of Special Education	0022-4669	1538-4764							http://sed.sagepub.com		sed.sagepub.com				SAGE Publications										
+Shoulder & Elbow	1758-5732	1758-5740							http://sel.sagepub.com		sel.sagepub.com				SAGE Publications										
+Socio-Economic Review	1475-1461	1475-147X							http://ser.oxfordjournals.org		ser.oxfordjournals.org				Oxford University Press										
+Sexualities	1363-4607	1461-7382							http://sex.sagepub.com		sex.sagepub.com				SAGE Publications										
+Social Forces	0037-7732	1534-7605							http://sf.oxfordjournals.org		sf.oxfordjournals.org				Oxford University Press										
+SAGE Open		2158-2440							http://sgo.sagepub.com		sgo.sagepub.com				SAGE Publications										
+Small Group Research	1046-4964	1552-8278							http://sgr.sagepub.com		sgr.sagepub.com				SAGE Publications										
+Social History of Medicine	0951-631X	1477-4666							http://shm.oxfordjournals.org		shm.oxfordjournals.org				Oxford University Press										
+Structural Health Monitoring	1475-9217	1741-3168							http://shm.sagepub.com		shm.sagepub.com				SAGE Publications										
+JRSM Open	2054-2704	2054-2704							http://shr.sagepub.com		shr.sagepub.com				SAGE Publications										
+Studies in History	0257-6430	0973-080X							http://sih.sagepub.com		sih.sagepub.com				SAGE Publications										
+SIMULATION	0037-5497	1741-3133							http://sim.sagepub.com		sim.sagepub.com				SAGE Publications										
+Studies in People's History	2348-4489	2349-7718							http://sip.sagepub.com		sip.sagepub.com				SAGE Publications										
+Studies in Religion/Sciences Religieuses	0008-4298	2042-0587							http://sir.sagepub.com		sir.sagepub.com				SAGE Publications										
+Scottish Journal of Geology	0036-9276	2041-4951							http://sjg.lyellcollection.org		sjg.lyellcollection.org				Geological Society of London										
+Scandinavian Journal of Public Health	1403-4948	1651-1905							http://sjp.sagepub.com		sjp.sagepub.com				SAGE Publications										
+Scandinavian Journal of Surgery	1457-4969	1799-7267							http://sjs.sagepub.com		sjs.sagepub.com				SAGE Publications										
+State and Local Government Review	0160-323X	1943-3409							http://slg.sagepub.com		slg.sagepub.com				SAGE Publications										
+Statute Law Review	0144-3593	1464-3863							http://slr.oxfordjournals.org		slr.oxfordjournals.org				Oxford University Press										
+Second Language Research	0267-6583	1477-0326							http://slr.sagepub.com		slr.sagepub.com				SAGE Publications										
+Social & Legal Studies	0964-6639	1461-7390							http://sls.sagepub.com		sls.sagepub.com				SAGE Publications										
+Small Axe: A Caribbean Journal of Criticism	0799-0537	1534-6714							http://smallaxe.dukejournals.org		smallaxe.dukejournals.org				Duke University Press										
+Society and Mental Health	2156-8693	2156-8731							http://smh.sagepub.com		smh.sagepub.com				SAGE Publications										
+Statistical Modelling	1471-082X	1477-0342							http://smj.sagepub.com		smj.sagepub.com				SAGE Publications										
+Statistical Methods in Medical Research	0962-2802	1477-0334							http://smm.sagepub.com		smm.sagepub.com				SAGE Publications										
+SAGE Open Medicine		2050-3121							http://smo.sagepub.com		smo.sagepub.com				SAGE Publications										
+South Asian Journal of Macroeconomics and Public Finance	2277-9787	2321-0273							http://smp.sagepub.com		smp.sagepub.com				SAGE Publications India Pvt Ltd										
+Social Marketing Quarterly	1524-5004	1539-4093							http://smq.sagepub.com		smq.sagepub.com				SAGE Publications										
+Sociological Methods & Research	0049-1241	1552-8294							http://smr.sagepub.com		smr.sagepub.com				SAGE Publications										
+Sociological Methodology	0081-1750	1467-9531							http://smx.sagepub.com		smx.sagepub.com				SAGE Publications										
+Sociology	0038-0385	1469-8684							http://soc.sagepub.com		soc.sagepub.com				SAGE Publications										
+Social Text	0164-2472	1527-1951							http://socialtext.dukejournals.org		socialtext.dukejournals.org				Duke University Press										
+Sociology of Education	0038-0407	1939-8573							http://soe.sagepub.com		soe.sagepub.com				SAGE Publications										
+Strategic Organization	1476-1270	1741-315X							http://soq.sagepub.com		soq.sagepub.com				SAGE Publications										
+Geological Society, London, Special Publications	0305-8719	2041-4927							http://sp.lyellcollection.org		sp.lyellcollection.org				Geological Society of London										
+Social Politics: International Studies in Gender, State & Society	1072-4745	1468-2893							http://sp.oxfordjournals.org		sp.oxfordjournals.org				Oxford University Press										
+State Politics & Policy Quarterly	1532-4400	1946-1607							http://spa.sagepub.com		spa.sagepub.com				SAGE Publications										
+BMJ Supportive & Palliative Care	2045-435X	2045-4368							http://spcare.bmj.com		spcare.bmj.com				BMJ Group										
+Geological Society of America Special Papers	0072-1077								http://specialpapers.gsapubs.org		specialpapers.gsapubs.org				Geological Society of America										
+Diabetes Spectrum	1040-9165	1944-7353							http://spectrum.diabetesjournals.org		spectrum.diabetesjournals.org				American Diabetes Association										
+Sports Health: A Multidisciplinary Approach	1941-7381	1941-0921							http://sph.sagepub.com		sph.sagepub.com				SAGE Publications										
+School Psychology International	0143-0343	1461-7374							http://spi.sagepub.com		spi.sagepub.com				SAGE Publications										
+Science and Public Policy	0302-3427	1471-5430							http://spp.oxfordjournals.org		spp.oxfordjournals.org				Oxford University Press										
+Social Psychological and Personality Science	1948-5506	1948-5514							http://spp.sagepub.com		spp.sagepub.com				SAGE Publications										
+Social Psychology Quarterly	0190-2725	1939-8999							http://spq.sagepub.com		spq.sagepub.com				SAGE Publications										
+Journal of Social and Personal Relationships	0265-4075	1460-3608							http://spr.sagepub.com		spr.sagepub.com				SAGE Publications										
+Sociological Perspectives	0731-1214	1533-8673							http://spx.sagepub.com		spx.sagepub.com				SAGE Publications										
+Surgical Innovation	1553-3506	1553-3514							http://sri.sagepub.com		sri.sagepub.com				SAGE Publications										
+Seismological  Research Letters	0895-0695	1938-2057							http://srl.geoscienceworld.org		srl.geoscienceworld.org				Seismological Society of America										
+Social Science Computer Review	0894-4393	1552-8286							http://ssc.sagepub.com		ssc.sagepub.com				SAGE Publications										
+Social Science History	0145-5532	1527-8034							http://ssh.dukejournals.org		ssh.dukejournals.org				Duke University Press										
+Social Science Information	0539-0184	1461-7412							http://ssi.sagepub.com		ssi.sagepub.com				SAGE Publications										
+Social Science Japan Journal	1369-1465	1468-2680							http://ssjj.oxfordjournals.org		ssjj.oxfordjournals.org				Oxford University Press										
+ECS Solid State Letters	2162-8742	2162-8750							http://ssl.ecsdl.org		ssl.ecsdl.org				Electrochemical Society										
+Social Studies of Science	0306-3127	1460-3659							http://sss.sagepub.com		sss.sagepub.com				SAGE Publications										
+International Journal of STD & AIDS	0956-4624	1758-1052							http://std.sagepub.com		std.sagepub.com				SAGE Publications										
+Science, Technology & Human Values	0162-2439	1552-8251							http://sth.sagepub.com		sth.sagepub.com				SAGE Publications										
+Sexually Transmitted Infections	1368-4973	1472-3263							http://sti.bmj.com		sti.bmj.com				BMJ Group										
+Science Signaling	1945-0877	1937-9145							http://stke.sciencemag.org		stke.sciencemag.org				American Association for the Advancement of Science										
+Science Translational Medicine	1946-6234	1946-6242							http://stm.sciencemag.org		stm.sciencemag.org				American Association for the Advancement of Science										
+Stroke	0039-2499	1524-4628							http://stroke.ahajournals.org		stroke.ahajournals.org				Lippincott Williams & Wilkins										
+Science Technology & Society	0971-7218	0973-0796							http://sts.sagepub.com		sts.sagepub.com				SAGE Publications										
+Sociological Theory	0735-2751	1467-9558							http://stx.sagepub.com		stx.sagepub.com				SAGE Publications										
+SubStance	0049-2426	1527-2095							http://sub.uwpress.org		sub.uwpress.org				University of Wisconsin Press										
+Social Work	0037-8046	1545-6846							http://sw.oxfordjournals.org		sw.oxfordjournals.org				Oxford University Press										
+Social Work Research	1070-5309	1545-6838							http://swr.oxfordjournals.org		swr.oxfordjournals.org				Oxford University Press										
+Social Work Research and Abstracts	0148-0847								http://swra.oxfordjournals.org		swra.oxfordjournals.org				Oxford University Press										
+Cold Spring Harbor Symposia on Quantitative Biology	0091-7451	1943-4456							http://symposium.cshlp.org		symposium.cshlp.org				Cold Spring Harbor Laboratory Press										
+Therapeutic Advances in Musculoskeletal Disease	1759-720X	1759-7218							http://tab.sagepub.com		tab.sagepub.com				SAGE Publications										
+Therapeutic Advances in Endocrinology and Metabolism	2042-0188	2042-0196							http://tae.sagepub.com		tae.sagepub.com				SAGE Publications										
+Therapeutic Advances in Gastroenterology	1756-283X	1756-2848							http://tag.sagepub.com		tag.sagepub.com				SAGE Publications										
+Therapeutic Advances in Hematology	2040-6207	2040-6215							http://tah.sagepub.com		tah.sagepub.com				SAGE Publications										
+Therapeutic Advances in Infectious Disease	2049-9361	2049-937X							http://tai.sagepub.com		tai.sagepub.com				SAGE Publications										
+Therapeutic Advances in Chronic Disease	2040-6223	2040-6231							http://taj.sagepub.com		taj.sagepub.com				SAGE Publications										
+Therapeutic Advances in Cardiovascular Disease	1753-9447	1753-9455							http://tak.sagepub.com		tak.sagepub.com				SAGE										
+Therapeutic Advances in Medical Oncology	1758-8340	1758-8359							http://tam.sagepub.com		tam.sagepub.com				SAGE Publications										
+Therapeutic Advances in Neurological Disorders	1756-2856	1756-2864							http://tan.sagepub.com		tan.sagepub.com				SAGE Publications										
+Theory & Psychology	0959-3543	1461-7447							http://tap.sagepub.com		tap.sagepub.com				SAGE Publications										
+Therapeutic Advances in Respiratory Disease	1753-4658	1753-4666							http://tar.sagepub.com		tar.sagepub.com				SAGE Publications										
+Time & Society	0961-463X	1461-7463							http://tas.sagepub.com		tas.sagepub.com				SAGE Publications										
+Therapeutic Advances in Urology	1756-2872	1756-2880							http://tau.sagepub.com		tau.sagepub.com				SAGe Publications										
+Therapeutic Advances in Vaccines	2051-0136	2051-0144							http://tav.sagepub.com		tav.sagepub.com				SAGE Publications										
+Therapeutic Advances in Drug Safety	2042-0986	2042-0994							http://taw.sagepub.com		taw.sagepub.com				SAGE  Publications										
+Transactional Analysis Journal	0362-1537								http://tax.sagepub.com		tax.sagepub.com				SAGE Publications										
+Bible Translator	2051-6770	2051-6789							http://tbt.sagepub.com		tbt.sagepub.com				SAGE Publications										
+Twentieth Century British History	0955-2359	1477-4674							http://tcbh.oxfordjournals.org		tcbh.oxfordjournals.org				Oxford University Press										
+Journal of Transcultural Nursing	1043-6596	1552-7832							http://tcn.sagepub.com		tcn.sagepub.com				SAGE Publications										
+Counseling Psychologist	0011-0000	1552-3861							http://tcp.sagepub.com		tcp.sagepub.com				SAGE Publications										
+Theoretical Criminology	1362-4806	1461-7439							http://tcr.sagepub.com		tcr.sagepub.com				SAGE Publications										
+Theory, Culture & Society	0263-2764	1460-3616							http://tcs.sagepub.com		tcs.sagepub.com				SAGE Publications										
+Technology in Cancer Research & Treatment	1533-0346	1533-0338							http://tct.sagepub.com		tct.sagepub.com				SAGE Publications										
+TEACHING Exceptional Children	0040-0599								http://tcx.sagepub.com		tcx.sagepub.com				SAGE Publications										
+Diabetes Educator	0145-7217	1554-6063							http://tde.sagepub.com		tde.sagepub.com				SAGE Publications										
+Tropical Doctor	0049-4755	1758-1133							http://tdo.sagepub.com		tdo.sagepub.com				SAGE Publications										
+Teaching Mathematics and its Applications	0268-3679	1471-6976							http://teamat.oxfordjournals.org		teamat.oxfordjournals.org				Oxford University Press										
+Topics in Early Childhood Special Education	0271-1214	1538-4845							http://tec.sagepub.com		tec.sagepub.com				SAGE Publications										
+Journal of Nuclear Medicine Technology	0091-4916	1535-5675							http://tech.snmjournals.org		tech.snmjournals.org				Society of Nuclear Medicine										
+Journal of Tissue Engineering		2041-7314							http://tej.sagepub.com		tej.sagepub.com				SAGE										
+Teacher Education and Special Education: Journal of the Teacher Education Division of the Council for Exceptional Children	0888-4064	1944-4931							http://tes.sagepub.com		tes.sagepub.com				SAGE Publications										
+Family Journal	1066-4807	1552-3950							http://tfj.sagepub.com		tfj.sagepub.com				SAGE Publications										
+Thesis Eleven	0725-5136	1461-7455							http://the.sagepub.com		the.sagepub.com				SAGE Publications										
+Theater	0161-0775	1527-196X							http://theater.dukejournals.org		theater.dukejournals.org				Duke University Press										
+Nation's Health	0028-0496	2151-7584							http://thenationshealth.aphapublications.org		thenationshealth.aphapublications.org				American Public Health Association										
+Thorax	0040-6376	1468-3296							http://thorax.bmj.com		thorax.bmj.com				BMJ Publishing Group Ltd										
+Tourism and Hospitality Research	1467-3584	1742-9692							http://thr.sagepub.com		thr.sagepub.com				SAGE Publications										
+Trends in Hearing	1084-7138	1940-5588							http://tia.sagepub.com		tia.sagepub.com				SAGE Publications										
+Toxicology and Industrial Health	0748-2337	1477-0393							http://tih.sagepub.com		tih.sagepub.com				SAGE Publications										
+Tikkun	0887-9982	2164-0041							http://tikkun.dukejournals.org		tikkun.dukejournals.org				Duke University Press										
+Transactions of the Institute of Measurement and Control	0142-3312	1477-0369							http://tim.sagepub.com		tim.sagepub.com				SAGE Publications										
+Theology	0040-571X	2044-2696							http://tjx.sagepub.com		tjx.sagepub.com				SAGE Publications										
+Transactions of the London Mathematical Society		2052-4986							http://tlms.oxfordjournals.org		tlms.oxfordjournals.org				Oxford University Press										
+Traumatology	1534-7656	1085-9373							http://tmt.sagepub.com		tmt.sagepub.com				SAGE Publications										
+Tobacco Control	0964-4563	1468-3318							http://tobaccocontrol.bmj.com		tobaccocontrol.bmj.com				BMJ Publishing Group Ltd										
+Teaching of Psychology	0098-6283	1532-8023							http://top.sagepub.com		top.sagepub.com				SAGE Publications										
+Tourist Studies	1468-7976	1741-3206							http://tou.sagepub.com		tou.sagepub.com				SAGE Publications										
+Toxicological Sciences	1096-6080	1096-0929							http://toxsci.oxfordjournals.org		toxsci.oxfordjournals.org				Oxford University Press										
+Teaching Public Administration	0144-7394	2047-8720							http://tpa.sagepub.com		tpa.sagepub.com				SAGE Publications										
+Prison Journal	0032-8855	1552-7522							http://tpj.sagepub.com		tpj.sagepub.com				SAGE Publications										
+Therapeutic Advances in Psychopharmacology	2045-1253	2045-1261							http://tpp.sagepub.com		tpp.sagepub.com				SAGE Publications										
+Transcultural Psychiatry	1363-4615	1461-7471							http://tps.sagepub.com		tps.sagepub.com				SAGE Publications										
+Toxicologic Pathology	0192-6233	1533-1601							http://tpx.sagepub.com		tpx.sagepub.com				SAGE Publications										
+Trauma	1460-4086	1477-0350							http://tra.sagepub.com		tra.sagepub.com				SAGE Publications										
+Theory and Research in Education	1477-8785	1741-3192							http://tre.sagepub.com		tre.sagepub.com				SAGE Publications										
+Textile Research Journal	0040-5175	1746-7748							http://trj.sagepub.com		trj.sagepub.com				SAGE Publications Ltd.										
+Transactions of the Geological Society of London		2042-5295							http://trn.lyellcollection.org		trn.lyellcollection.org				Geological Society of London										
+Transformation: An International Journal of Holistic Mission Studies	0265-3788								http://trn.sagepub.com		trn.sagepub.com				SAGE Publications										
+Journal of Tropical Pediatrics	0142-6338	1465-3664							http://tropej.oxfordjournals.org		tropej.oxfordjournals.org				Oxford University Press										
+Transfer: European Review of Labour and Research	1024-2589	1996-7284							http://trs.sagepub.com		trs.sagepub.com				SAGE Publications										
+Transactions of the Royal Society of Tropical Medicine and Hygiene	0035-9203	1878-3503							http://trstmh.oxfordjournals.org		trstmh.oxfordjournals.org				Oxford University Press										
+Theology and Sexuality	1355-8358	1745-5170							http://tse.sagepub.com		tse.sagepub.com				SAGE Publications										
+Theological Studies	0040-5639	2169-1304							http://tsj.sagepub.com		tsj.sagepub.com				SAGE Publications										
+Teaching Sociology	0092-055X	1939-862X							http://tso.sagepub.com		tso.sagepub.com				SAGE Publications										
+Theology Today	0040-5736	2044-2556							http://ttj.sagepub.com		ttj.sagepub.com				SAGE Publications										
+Trauma, Violence, & Abuse	1524-8380	1552-8324							http://tva.sagepub.com		tva.sagepub.com				SAGE Publications										
+Television & New Media	1527-4764	1552-8316							http://tvn.sagepub.com		tvn.sagepub.com				SAGE Publications										
+Urban Affairs Review	1078-0874	1552-8332							http://uar.sagepub.com		uar.sagepub.com				SAGE Publications										
+United European Gastroenterology Journal	2050-6406	2050-6414							http://ueg.sagepub.com		ueg.sagepub.com				SAGE Publications										
+Urban Education	0042-0859	1552-8340							http://uex.sagepub.com		uex.sagepub.com				SAGE Publications										
+Ultrasonic Imaging	0161-7346	1096-0910							http://uix.sagepub.com		uix.sagepub.com				SAGE Publications										
+Uniform Law Review - Revue de droit uniforme	1124-3694	2050-9065							http://ulr.oxfordjournals.org		ulr.oxfordjournals.org				Oxford University Press										
+Ultrasound	1742-271X	1743-1344							http://ult.sagepub.com		ult.sagepub.com				SAGE Publications										
+Update: Applications of Research in Music Education	8755-1233	1945-0109							http://upd.sagepub.com		upd.sagepub.com				SAGE Publications										
+Journal of Clinical Urology	2051-4158	2051-4166							http://uro.sagepub.com		uro.sagepub.com				SAGE Publications										
+Urban Studies	0042-0980	1360-063X							http://usj.sagepub.com		usj.sagepub.com				SAGE										
+Vascular	1708-5381	1708-539X							http://vas.sagepub.com		vas.sagepub.com				SAGE Publications										
+Violence Against Women	1077-8012	1552-8448							http://vaw.sagepub.com		vaw.sagepub.com				SAGE Publications										
+Visual Communication	1470-3572	1741-3214							http://vcj.sagepub.com		vcj.sagepub.com				SAGE Publications										
+Journal of Visual Culture	1470-4129	1741-2994							http://vcu.sagepub.com		vcu.sagepub.com				SAGE Publications										
+Journal of Veterinary Diagnostic Investigation	1040-6387	1943-4936							http://vdi.sagepub.com		vdi.sagepub.com				SAGE Publications										
+Vascular and Endovascular Surgery	1538-5744	1938-9116							http://ves.sagepub.com		ves.sagepub.com				SAGE Publications										
+Veterinary Pathology	0300-9858	1544-2217							http://vet.sagepub.com		vet.sagepub.com				SAGE Publications										
+Journal of General Virology	0022-1317	1465-2099							http://vir.sgmjournals.org		vir.sgmjournals.org				Society for General Microbiology										
+Vision: Journal of Business Perspective	0972-2629	2249-5304							http://vis.sagepub.com		vis.sagepub.com				SAGE Publications										
+Vascular Medicine	1358-863X	1477-0377							http://vmj.sagepub.com		vmj.sagepub.com				SAGE Publications										
+World Bank Economic Review	0258-6770	1564-698X							http://wber.oxfordjournals.org		wber.oxfordjournals.org				Oxford University Press										
+World Bank Research Observer	0257-3032	1564-6971							http://wbro.oxfordjournals.org		wbro.oxfordjournals.org				Oxford University Press										
+Written Communication	0741-0883	1552-8472							http://wcx.sagepub.com		wcx.sagepub.com				SAGE Publications										
+Work, Employment & Society	0950-0170	1469-8722							http://wes.sagepub.com		wes.sagepub.com				SAGE Publications										
+World Future Review	1946-7567	2169-2793							http://wfr.sagepub.com		wfr.sagepub.com				SAGE Publications										
+War in History	0968-3445	1477-0385							http://wih.sagepub.com		wih.sagepub.com				SAGE Publications										
+Western Journal of Nursing Research	0193-9459	1552-8456							http://wjn.sagepub.com		wjn.sagepub.com				SAGE Publications										
+Waste Management & Research	0734-242X	1096-3669							http://wmr.sagepub.com		wmr.sagepub.com				SAGE Publications										
+Word of Mouth	1048-3950								http://wom.sagepub.com		wom.sagepub.com				SAGE Publications										
+Work and Occupations	0730-8884	1552-8464							http://wox.sagepub.com		wox.sagepub.com				SAGE Publications										
+World Policy Journal	0740-2775	1936-0924							http://wpj.sagepub.com		wpj.sagepub.com				SAGE Publications										
+American Journal of Enology and Viticulture	0002-9254								http://www.ajevonline.org		www.ajevonline.org				American Society for Enology and Viticulture										
+American Journal of Health-System Pharmacy	1079-2082	1535-2900							http://www.ajhp.org		www.ajhp.org				American Society of Health-System Pharmacists										
+American Journal of Neuroradiology	0195-6108	1936-959X							http://www.ajnr.org		www.ajnr.org				American Society of Neuroradiology										
+American Journal of Science	0002-9599	1945-452X							http://www.ajsonline.org		www.ajsonline.org				American Journal of Science										
+American Journal of Tropical Medicine and Hygiene	0002-9637								http://www.ajtmh.org		www.ajtmh.org				American Society of Tropical Medicine and Hygiene (ASTMH)										
+American Journal of Botany	0002-9122	1537-2197							http://www.amjbot.org		www.amjbot.org				Botanical Society of America										
+Animal Frontiers	2160-6056	2160-6064							http://www.animalfrontiers.org		www.animalfrontiers.org				American Society of Animal Science										
+Annals of Clinical & Laboratory Science	0091-7370	1550-8080							http://www.annclinlabsci.org		www.annclinlabsci.org				Association of Clinical Scientists										
+Annals of Family Medicine	1544-1709	1544-1717							http://www.annfammed.org		www.annfammed.org				Annals of Family Medicine, Inc.										
+Biological Bulletin	0006-3185	1939-8697							http://www.biolbull.org		www.biolbull.org				Marine Biological Laboratory, Woods Hole, MA										
+Biology of Reproduction	0006-3363	1529-7268							http://www.biolreprod.org		www.biolreprod.org				Society for the Study of Reproduction										
+Bone & Joint 360	2048-0091	2048-0105							http://www.bj360.boneandjoint.org.uk		www.bj360.boneandjoint.org.uk				THE BRITISH EDITORIAL SOCIETY OF BONE & JOINT SURGERY										
+Bone & Joint Journal	2049-4394	2049-4408							http://www.bjj.boneandjoint.org.uk		www.bjj.boneandjoint.org.uk				British Editorial Society of Bone and Joint Surgery										
+Bone & Joint Research		2046-3758							http://www.bjr.boneandjoint.org.uk		www.bjr.boneandjoint.org.uk				THE BRITISH EDITORIAL SOCIETY OF BONE & JOINT SURGERY										
+Blood	0006-4971	1528-0020							http://www.bloodjournal.org		www.bloodjournal.org				American Society of Hematology										
+BMJ		1756-1833							http://www.bmj.com		www.bmj.com				BMJ Publishing Group										
+Bulletin of the Seismological Society of America	0037-1106	1943-3573							http://www.bssaonline.org		www.bssaonline.org				Seismological Society of America										
+Canadian Mineralogist	0008-4476	1499-1276							http://www.canmin.org		www.canmin.org				Mineralogical Association of Canada (MAC)										
+Cleveland Clinic Journal of Medicine	0891-1150	1939-2869							http://www.ccjm.org		www.ccjm.org				Cleveland Clinic										
+Canadian Family Physician	0008-350X	1715-5258							http://www.cfp.ca		www.cfp.ca				College of Family Physicians of Canada										
+Clinical Chemistry	0009-9147	1530-8561							http://www.clinchem.org		www.clinchem.org				American Association for Clinical Chemistry										
+Clinical Medicine	1470-2118	1473-4893							http://www.clinmed.rcpjournal.org		www.clinmed.rcpjournal.org				Royal College of Physicians										
+Clinical Medicine & Research	1539-4182	1554-6179							http://www.clinmedres.org		www.clinmedres.org				Marshfield Clinic										
+Canadian Medical Association Journal	0820-3946	1488-2329							http://www.cmaj.ca		www.cmaj.ca				Canadian Medical Association										
+CMAJ Open		2291-0026							http://www.cmajopen.ca		www.cmajopen.ca				Canadian Medical Association										
+Choice Reviews Online	0009-4978	1523-8253							http://www.cro3.org		www.cro3.org				American Library Association										
+European Journal of Endocrinology	0804-4643	1479-683X							http://www.eje-online.org		www.eje-online.org				Bioscientifica Ltd										
+Endocrine Connections		2049-3614							http://www.endocrineconnections.com		www.endocrineconnections.com				Bioscientifica										
+FASEB Journal	0892-6638	1530-6860							http://www.fasebj.org		www.fasebj.org				Federation of American Societies for Experimental Biology										
+G3&#58; Genes|Genomes|Genetics		2160-1836							http://www.g3journal.org		www.g3journal.org				Genetics Society of America										
+Genetics	0016-6731	1943-2631							http://www.genetics.org		www.genetics.org				Genetics Society of America										
+Global Health: Science and Practice		2169-575X							http://www.ghspjournal.org		www.ghspjournal.org				U.S. Agency for International Development Johns Hopkins Bloomberg School of Pub										
+Haematologica	0390-6078	1592-8721							http://www.haematologica.org		www.haematologica.org				Ferrata Storti Foundation, Pavia, Italy										
+Investigative Ophthalmology & Visual Science	0146-0404	1552-5783							http://www.iovs.org		www.iovs.org				Association for Research in Vision and Ophthalmology (ARVO)										
+Journal of the American Academy of Orthopaedic Surgeons	1067-151X								http://www.jaaos.org		www.jaaos.org				American Academy of Orthopaedic Surgeons										
+Journal of the American Academy of Psychiatry and the Law Online	1093-6793								http://www.jaapl.org		www.jaapl.org				American Academy of Psychiatry and Law										
+Journal of the American Board of Family Medicine	1557-2625	1558-7118							http://www.jabfm.org		www.jabfm.org				American Board of Family Medicine										
+JAOA   Journal of the American Osteopathic Association	0098-6151	1945-1997							http://www.jaoa.osteopathic.org		www.jaoa.osteopathic.org				American Osteopathic Association										
+Journal of Biological Chemistry	0021-9258	1083-351X							http://www.jbc.org		www.jbc.org				American Society for Biochemistry and Molecular Biology										
+Journal of Dental Education	0022-0337	1930-7837							http://www.jdentaled.org		www.jdentaled.org				American Dental Education Association										
+Journal of Immunology	0022-1767	1550-6606							http://www.jimmunol.org		www.jimmunol.org				American Association of Immunologists, Inc.										
+Journal of Leukocyte Biology	0741-5400	1938-3673							http://www.jleukbio.org		www.jleukbio.org				Society for Leukocyte Biology										
+Journal of Lipid Research	0022-2275	1539-7262							http://www.jlr.org		www.jlr.org				American Society for Biochemistry and Molecular Biology										
+Journal of the National Comprehensive Cancer Network	1540-1405	1540-1413							http://www.jnccn.org		www.jnccn.org				Harborside Press										
+Journal of Neuroscience	0270-6474	1529-2401							http://www.jneurosci.org		www.jneurosci.org				Society for Neuroscience										
+Journal of Animal Science	0021-8812	1525-3163							http://www.journalofanimalscience.org		www.journalofanimalscience.org				American Society of Animal Science										
+Journal of Vision		1534-7362							http://www.journalofvision.org		www.journalofvision.org				Association for Research in Vision and Ophthalmology (ARVO)										
+Journal of Rheumatology	0315-162X	1499-2752							http://www.jrheum.org		www.jrheum.org				Journal of Rheumatology Publishing Company Limited.										
+Journal of Soil and Water Conservation	0022-4561	1941-3300							http://www.jswconline.org		www.jswconline.org				Soil and Water Conservation Society										
+Journal of Ultrasound in Medicine	0278-4297	1550-9613							http://www.jultrasoundmed.org		www.jultrasoundmed.org				American Institute of Ultrasound in Medicine										
+CBE-Life Sciences Education		1931-7913							http://www.lifescied.org		www.lifescied.org				American Society for Cell Biology										
+Molecular & Cellular Proteomics	1535-9476	1535-9484							http://www.mcponline.org		www.mcponline.org				American Society for Biochemistry and Molecular Biology										
+Molecular Biology of the Cell	1059-1524	1939-4586							http://www.molbiolcell.org		www.molbiolcell.org				American Society for Cell Biology										
+Mycologia	0027-5514	1557-2536							http://www.mycologia.org		www.mycologia.org				Mycological Society of America										
+Neurology	0028-3878	1526-632X							http://www.neurology.org		www.neurology.org				Lippincott Williams & Wilkins										
+Peritoneal Dialysis International	0896-8608	1718-4304							http://www.pdiconnect.com		www.pdiconnect.com				Multimed Incorporated										
+Physician's First Watch		1533-7820							http://www.physiciansfirstwatch.org		www.physiciansfirstwatch.org				Massachusetts Medical Society										
+Plant Cell	1040-4651	1532-298X							http://www.plantcell.org		www.plantcell.org				American Society of Plant Biologists										
+Plant Physiology	0032-0889	1532-2548							http://www.plantphysiol.org		www.plantphysiol.org				American Society of Plant Biologists										
+PNAS	0027-8424	1091-6490							http://www.pnas.org		www.pnas.org				National Academy of Sciences of the United States of America										
+Psychosomatic Medicine	0033-3174	1534-7796							http://www.psychosomaticmedicine.org		www.psychosomaticmedicine.org				Lippincott Williams & Wilkins										
+Radiologic Technology	0033-8397								http://www.radiologictechnology.org		www.radiologictechnology.org				American Society of Radiologic Technologists										
+Reproduction	1470-1626	1741-7899							http://www.reproduction-online.org		www.reproduction-online.org				Bioscientifica Ltd										
+Science	0036-8075	1095-9203							http://www.sciencemag.org		www.sciencemag.org				American Association for the Advancement of Science										
+Youth & Society	0044-118X	1552-8499							http://yas.sagepub.com		yas.sagepub.com				SAGE Publications										
+Young Exceptional Children	1096-2506								http://yec.sagepub.com		yec.sagepub.com				SAGE Publications										
+Youth Justice	1473-2254	1747-6283							http://yjj.sagepub.com		yjj.sagepub.com				SAGE Publications										
+Young	1103-3088	1741-3222							http://you.sagepub.com		you.sagepub.com				SAGE Publications										
+Youth Violence and Juvenile Justice	1541-2040	1556-9330							http://yvj.sagepub.com		yvj.sagepub.com				SAGE Publications										
+Year's Work in Critical and Cultural Theory	1077-4254	1471-681X							http://ywcct.oxfordjournals.org		ywcct.oxfordjournals.org				Oxford University Press										
+Year's Work in English Studies	0084-4144	1471-6801							http://ywes.oxfordjournals.org		ywes.oxfordjournals.org				Oxford University Press										

@@ -2,4 +2,3 @@ publication_title	print_identifier	online_identifier	date_first_issue_online	num
 The Journal of Bone & Joint Surgery		1535-1386							http://jbjs.org		jbjs.org														
 JBJS Case Connector		2160-3251							http://caseconnector.jbjs.org/		caseconnector.jbjs.org														
 JBJS Essential Surgical Techniques		2160-2204							http://surgicaltechniques.jbjs.org/		surgicaltechniques.jbjs.org														
-JBJS Reviews	2329-9185								http://reviews.jbjs.org/		reviews.jbjs.org														
