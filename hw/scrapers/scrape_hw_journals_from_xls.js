@@ -40,10 +40,11 @@ function parseXLS(xls) {
 
   var rowJournal = xlsJsonObject.Sheet1;
 
-  var expTitle = new RegExp("Journal Title", "i");
-  var expPissn = new RegExp("print ISSN", "i");
-  var expEissn = new RegExp("online ISSN", "i");
-  var expUrl = new RegExp("main URL", "i");
+  var expTitle     = new RegExp("Journal Title", "i");
+  var expPissn     = new RegExp("print ISSN", "i");
+  var expEissn     = new RegExp("online ISSN", "i");
+  var expUrl       = new RegExp("main URL", "i");
+  var expPublisher = new RegExp("publisher", "i");
 
   for (var i = 0; i < rowJournal.length; i++) {
 
@@ -55,9 +56,10 @@ function parseXLS(xls) {
     var key = Object.keys(rowJournal[i]);
 
     for (var j = 0 ; j < key.length ; j++) {
-      if (expTitle.test(key[j])) { journalInfo.publication_title  = rowJournal[i][key[j]].trim(); }
-      if (expPissn.test(key[j])) { journalInfo.print_identifier  = rowJournal[i][key[j]].trim(); }
-      if (expEissn.test(key[j])) { journalInfo.online_identifier  = rowJournal[i][key[j]].trim(); }
+      if (expTitle.test(key[j]))     { journalInfo.publication_title = rowJournal[i][key[j]].trim(); }
+      if (expPissn.test(key[j]))     { journalInfo.print_identifier  = rowJournal[i][key[j]].trim(); }
+      if (expEissn.test(key[j]))     { journalInfo.online_identifier = rowJournal[i][key[j]].trim(); }
+      if (expPublisher.test(key[j])) { journalInfo.publisher_name    = rowJournal[i][key[j]].trim(); }
       if (expUrl.test(key[j])) {
         journalInfo.title_url  = rowJournal[i][key[j]].trim();
         journalInfo.title_id = URL.parse(journalInfo.title_url).host.trim();
