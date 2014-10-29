@@ -93,6 +93,8 @@ module.exports = new Parser(function analyseEC(parsedUrl) {
       // bfm%253A978-1-60761-847-8%252F1.pdf?auth66=1384533099_d84ec41bfb54c7ebeec4c5604109e82f&ext=.pdf
       // http://download.springer.com.gate1.inist.fr/static/pdf/306/art%253A10.1007%252Fs10696-011-9117-0.pdf
       // ?auth66=1384536619_eb29d0312d3611304feced658436b1ff&ext=.pdf
+      // http://download.springer.com.gate1.inist.fr/static/pdf/814/chp%253A10.1007%252FBFb0009076.pdf?
+      // auth66=1414774941_b4e319c8dc5923418d751bf57de4fdc9&ext=.pdf
       result.title_id  = match[1];
       result.mime = 'PDF';
       result.unitid = decodeURIComponent(match[3]).substr(1);
@@ -101,6 +103,10 @@ module.exports = new Parser(function analyseEC(parsedUrl) {
         case 'art' :
           result.doi   = result.unitid;
           result.rtype = 'ARTICLE';
+          break;
+        case 'chp' :
+          result.doi   = result.unitid;
+          result.rtype = 'BOOK';
           break;
         case 'bok' :
           result.eisbn = result.unitid;
