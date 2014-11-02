@@ -4,6 +4,7 @@
   "status": "stable",
   "trello": "https://trello.com/c/b0HdSjIO",
   "longname": "American Chemical Society",
+  "publisher_name" : "American Chemical Society",
   "describe": "Identifie les consultations de la plateforme American Chemical Society",
   "docurl": "http://analogist.couperin.org/platforms/acs/",
   "contact": "josee.lessard at cirad point fr et thomas.porquet at couperin point org",
