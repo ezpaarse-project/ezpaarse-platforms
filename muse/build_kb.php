@@ -15,22 +15,22 @@
 
     if ($type == "journal")
     {
-      $champs_pkb = array("title", "pissn", "eissn", "pid");
+      $champs_pkb = array("title", "print_identifier", "online_identifier", "title_id");
       $pkb_file = "../../platforms-kb/muse.journals.pkb.csv";
       $place_csv = array(
                       "title" => 0,
-                      "pissn" => 5,
-                      "eissn" => 4,
+                      "print_identifier" => 5,
+                      "online_identifier" => 4,
                       "url" => 3);
     }
     elseif ($type == "ebook")
     {
-      $champs_pkb = array("title", "pisbn", "eisbn", "pid");
+      $champs_pkb = array("title", "print_identifier", "online_identifier", "title_id");
       $pkb_file = "../../platforms-kb/muse.ebooks.pkb.csv";
       $place_csv = array(
                       "title" => 0,
-                      "pisbn" => 6,
-                      "eisbn" => 7,
+                      "print_identifier" => 6,
+                      "online_identifier" => 7,
                       "url" => 5);
     }
     else
@@ -63,7 +63,7 @@
 
         if ($local["title"] != "title")
         {
-          $global_pid[$local["pid"]] = $local;
+          $global_pid[$local["title_id"]] = $local;
         }
       }
     }
@@ -123,7 +123,7 @@
           $local = array();
           foreach ($champs_pkb as $pkb)
           {
-            if ($pkb == "pid")
+            if ($pkb == "title_id")
             {
               // Le pid n'est pas présent dans le fichier, on va le calculer à partir de l'URL
               $local[$pkb] = $tab_ligne[$place_csv["url"]];
@@ -135,7 +135,7 @@
               $local[$pkb] = $tab_ligne[$place_csv[$pkb]];
             }
           }
-          $global_pid[$local["pid"]] = $local;
+          $global_pid[$local["title_id"]] = $local;
         }
       }
     }
@@ -169,7 +169,7 @@
             exit;
           }
 
-          $global_pid[$isbn]["pisbn"] = $isbn;
+          $global_pid[$isbn]["print_identifier"] = $isbn;
           $global_pid[$isbn]["title"] = $title;
         }
       }
