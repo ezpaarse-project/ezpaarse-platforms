@@ -6,7 +6,7 @@
   },
   {
     "code": "print_identifier",
-    "description":  "Reconnaissance de l'ISSN papier / pissn (KBART)",
+    "description":  "Reconnaissance de l'ISSN papier / pissn (KBART) ou Reconnaissance de l'ISBN papier",
     "comment": ""
   },
   {
@@ -15,18 +15,8 @@
     "comment": "Quand c'est possible, le DOI est utilisé pour retrouver un ISSN ou un ISBN à partir d'une PKB"
   },
   {
-    "code": "pisbn",
-    "description":  "Reconnaissance de l'ISBN papier",
-    "comment": ""
-  },
-  {
     "code": "online_identifier",
-    "description":  "Reconnaissance de l'ISSN électronique / eissn (KBART)",
-    "comment": ""
-  },
-  {
-    "code": "eisbn",
-    "description":  "Reconnaissance de l'ISBN électronique",
+    "description":  "Reconnaissance de l'ISSN électronique / eissn (KBART) ou Reconnaissance de l'ISBN électronique",
     "comment": ""
   },
   {
