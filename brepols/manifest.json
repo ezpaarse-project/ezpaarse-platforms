@@ -1,0 +1,29 @@
+{
+  "version": "2014-12-02",
+  "status": "beta",
+  "domains": [
+    "apps.brepolis.net",
+    "clt.brepolis.net"
+  ],
+  "recognize": {
+    "rid": [
+      "title_id"
+    ],
+    "rtype": [
+      "ARTICLE",
+      "REF",
+      "BOOK_SECTION"
+    ],
+    "mime": [
+      "HTML",
+      "PDF",
+      "MISC"
+    ]
+  },
+  "name": "brepols",
+  "longname": "Brepols",
+  "describe": "Identifie les consultations de la plateforme Brepols",
+  "docurl": "http://analogist.couperin.org/platforms/brepols/",
+  "contact": "dominique.lechaudel at inist.fr",
+  "pkb": true
+}
