@@ -1,0 +1,30 @@
+{
+  "version": "2014-12-02",
+  "status": "beta",
+  "domains": [
+    "www.elnet.fr",
+    "www.editions-legislatives.fr"
+  ],
+  "recognize": {
+    "rid": [
+      "title_id"
+    ],
+    "rtype": [
+      "ARTICLE",
+      "TOC",
+      "FORMULES",
+      "CODES"
+    ],
+    "mime": [
+      "HTML",
+      "PDF",
+      "MISC"
+    ]
+  },
+  "name": "elnet",
+  "longname": "ELnet",
+  "describe": "Identifie les consultations de la plateforme ELnet",
+  "docurl": "http://analogist.couperin.org/platforms/elnet/",
+  "contact": "dominique.lechaudel at inist.fr",
+  "pkb": true
+}
