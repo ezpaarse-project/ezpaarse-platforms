@@ -31,7 +31,7 @@ module.exports = new Parser(function analyseEC(parsedUrl, ec) {
   // use console.error for debuging
   // console.error(parsedUrl);
 
-  var match;
+  var match, pi_string_doi;
   var pi_regexp_issn_s, pi_regexp_doi;
 
   if ((match = /^\/rental-link$/.exec(path)) !== null) {
@@ -45,22 +45,36 @@ module.exports = new Parser(function analyseEC(parsedUrl, ec) {
     // http://www.deepdyve.com:80/rental-link?docId=10.1002/9781118782101.ch8&
     // fieldName=journal_doi&journal=undefined&affiliateId=wiley&
     // format=jsonp&callback=jsonp1408448955682
-    if (param.affiliateId !== undefined) { result.platform = param.affiliateId; }
+    
+    // default behavior
+    // for example springer (don't need to change platform name)
+    if (param.affiliateId !== undefined) {
+      result.platform = param.affiliateId;
+      result.rtype    = 'ARTICLE';
+      if (param.journal) { result.print_identifier = param.journal; }
+    }
+
     if (param.docId !== undefined) {
       result.unitid = param.docId;
       if (param.fieldName == "journal_doi") {
         result.doi = param.docId;
       }
     }
+
+    // override defaults in same cases
     if (result.platform === "elsevier" && param.journal) {
       pi_regexp_issn_s = new RegExp(patterns.issn_short);
-      result.rtype    = 'ARTICLE';
       if ((match = param.journal.match(pi_regexp_issn_s))) {
         result.print_identifier = match[2] + '-' + match[3];
       }
       result.platform = 'sd'; // real short name of platform
-    } else if (result.platform === "springer") {
-        if (param.journal) { result.print_identifier = param.journal; }
+    } else if (result.platform === "nature" && param.docId) {
+      pi_regexp_doi = new RegExp(patterns.DOI);
+      result.platform = 'npg'; // real short name of platform
+      if ((match = param.docId.match(pi_regexp_doi))) {
+        pi_string_doi = match[3].match(/[a-z]{2,}/); // 10.1038/ng0692
+        result.title_id = pi_string_doi[0];
+      }
     } else if (result.platform === "wiley" && param.docId) {
       pi_regexp_doi = new RegExp(patterns.DOI);
       if ((match = param.docId.match(pi_regexp_doi))) {
