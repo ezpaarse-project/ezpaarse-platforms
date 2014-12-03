@@ -1,0 +1,30 @@
+{
+  "version": "2014-12-03",
+  "status": "beta",
+  "domains": [
+    "pubs-rsc-org",
+    "pubs.rsc.org"
+  ],
+  "recognize": {
+    "rid": [
+      "print_identifier",
+      "title_id"
+    ],
+    "rtype": [
+      "TOC",
+      "ARTICLE",
+      "BOOK_SECTION"
+    ],
+    "mime": [
+      "MISC",
+      "HTML",
+      "PDF"
+    ]
+  },
+  "name": "rsc",
+  "longname": "Royal Society of Chemistry",
+  "describe": "Identifie les consultations de la plateforme Royal Society of Chemistry",
+  "docurl": "http://analogist.couperin.org/platforms/royal-society-of-chemistry",
+  "contact": "dominique.lechaudel at inist.fr",
+  "pkb": true
+}
