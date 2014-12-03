@@ -1,0 +1,27 @@
+{
+  "version": "2014-12-03",
+  "status": "beta",
+  "domains": [
+    "www.lebonusage.com"
+  ],
+  "pkb": true,
+  "pkb-domains": "title_id",
+  "recognize": {
+    "rid": [
+      "title_id"
+    ],
+    "rtype": [
+      "ARTICLE"
+    ],
+    "mime": [
+      "HTML",
+      "PDF"
+    ]
+  },
+  "name": "grevisse",
+  "longname": "Bon Usage Grevisse",
+  "describe": "Identifie les consultations de la plateforme Bon Usage Grevisse",
+  "docurl": "http://analogist.couperin.org/platforms/grevisse/",
+  "contact": "dominique.lechaudel at inist.fr",
+  "pkb": false
+}
