@@ -13,23 +13,6 @@ module.exports = new Parser(function analyseEC(parsedUrl) {
 
   var match;
 
-/**
-  if ((match = /^\/(search)/.exec(path)) !== null) {
-    // 
-    result.rtype = 'TOC';
-    result.mime  = 'HTML';
-    result.title_id = match[1];
-  } else if ((match = /^\/(community-list)/.exec(path)) !== null) {
-    // 
-    result.rtype = 'TOC';
-    result.mime  = 'HTML';
-    result.title_id = match[1];
-  } else if ((match = /^\/(advanced-search)/.exec(path)) !== null) {
-    // 
-    result.rtype = 'TOC';
-    result.mime  = 'HTML';
-    result.title_id = match[1];
- **/
  if ((match = /^\/(bitstream\/handle)\/([0-9]+)\/([0-9]+)\/(.*\.pdf)$/.exec(path)) !== null) {
     // http://documents.irevues.inist.fr/bitstream/handle/2042/39472/FM%20XXIV-2%20148-158.pdf?sequence=1
     result.rtype = 'ARTICLE';
