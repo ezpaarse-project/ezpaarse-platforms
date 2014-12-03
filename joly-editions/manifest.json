@@ -1,0 +1,25 @@
+{
+  "version": "2014-12-03",
+  "status": "beta",
+  "domains": [
+    "www.editions-joly.com"
+  ],
+  "recognize": {
+    "rid": [
+      "title_id"
+    ],
+    "rtype": [
+      "ARTICLE",
+      "TOC"
+    ],
+    "mime": [
+      "PDF"
+    ]
+  },
+  "name": "joly-editions",
+  "longname": "Joly Editions",
+  "describe": "Identifie les consultations de la plateforme Joly Editions",
+  "docurl": "http://analogist.couperin.org/platforms/joly-editions/",
+  "contact": "dominique.lechaudel at inist.fr",
+  "pkb": true
+}
