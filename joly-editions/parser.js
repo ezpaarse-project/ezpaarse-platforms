@@ -23,6 +23,7 @@ module.exports = new Parser(function analyseEC(parsedUrl, ec) {
   // console.error(parsedUrl);
 
   var match;
+  var elements;
 
   if ((match = /^\/WebJolyFO\/rss\/sommaire\/readPdf$/.exec(path)) !== null) {
     // http://www.editions-joly.com/WebJolyFO/rss/sommaire/readPdf?
@@ -30,7 +31,6 @@ module.exports = new Parser(function analyseEC(parsedUrl, ec) {
     result.rtype    = 'TOC';
     result.mime     = 'PDF';
     if (param && param.pdfFile) {
-      var elements;
       elements = param.pdfFile.match(/(([A-Z]+)\-([0-9_]+))\.pdf/);
       result.title_id = elements[2];
       result.unitid   = elements[1];
@@ -40,7 +40,6 @@ module.exports = new Parser(function analyseEC(parsedUrl, ec) {
     result.rtype    = 'ARTICLE';
     result.mime     = 'PDF';
     if (param && param.idDoc) {
-      var elements;
       elements = param.idDoc.match(/(([a-z]+)([0-9_]+))\.html/);
       result.title_id = elements[2];
       result.unitid   = elements[1];
