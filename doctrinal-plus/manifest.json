@@ -1,0 +1,27 @@
+{
+  "version": "2014-12-03",
+  "status": "beta",
+  "domains": [
+    "newip.doctrinalplus.fr"
+  ],
+  "recognize": {
+    "rid": [
+      "title_id",
+      "unitid"
+    ],
+    "rtype": [
+      "ARTICLE",
+      "REF"
+    ],
+    "mime": [
+      "HTML",
+      "PDF"
+    ]
+  },
+  "name": "doctrinal-plus",
+  "longname": "Doctrinal Plus",
+  "describe": "Identifie les consultations de la plateforme Doctrinal Plus",
+  "docurl": "http://analogist.couperin.org/platforms/doctrinal-plus/",
+  "contact": "dominique.lechaudel at inist.fr",
+  "pkb": true
+}
