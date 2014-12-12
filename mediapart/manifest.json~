@@ -1,0 +1,29 @@
+{
+  "version": "2014-12-12",
+  "status": "beta",
+  "domains": [
+    "www.mediapart.fr",
+    "blogs.mediapart.fr"
+  ],
+  "recognize": {
+    "rid": [
+      "title_id"
+    ],
+    "rtype": [
+      "ARTICLE",
+      "AUDIO"
+    ],
+    "mime": [
+      "HTML",
+      "PDF",
+      "MISC",
+      "AUDIO"
+    ]
+  },
+  "name": "mediapart",
+  "longname": "Mediapart",
+  "describe": "Identifie les consultations du journal d'information numérique Mediapart",
+  "docurl": "http://analogist.couperin.org/platforms/mediapart/",
+  "contact": "thomas.porquet at couperin.org",
+  "pkb": false
+}
