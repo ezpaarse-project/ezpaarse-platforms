@@ -40,6 +40,11 @@
     "comment": "Cas des bases de données juridiques"
   },
   {
+    "code": "JURISPRUDENCE",
+    "description":  "consultation d'une jurisprudence",
+    "comment": "Cas des bases de données juridiques"
+  },
+  {
     "code": "PREVIEW",
     "description":  "consultation des premières lignes d'un article",
     "comment": ""
