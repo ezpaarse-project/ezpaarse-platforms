@@ -112,6 +112,16 @@
   {
     "code": "IMAGE",
     "description":  "consultation d'une image (illustration, photographie, dessin)",
-    "comment": "correspond à un type de contenu MULTIMEDIA, tel que décrit dans les rapports Multimedia COUNTER"
+    "comment": "correspond à un type de contenu MULTIMEDIA, tel que décrit dans les rapports Multimedia COUNTER MR1 et MR2"
+  },
+  {
+    "code": "AUDIO",
+    "description":  "consultation d'un fichier audio",
+    "comment": "correspond à un type de contenu MULTIMEDIA, tel que décrit dans les rapports Multimedia COUNTER MR1 et MR2"
+  },
+  {
+    "code": "VIDEO",
+    "description":  "consultation d'un fichier vidéo",
+    "comment": "correspond à un type de contenu MULTIMEDIA, tel que décrit dans les rapports Multimedia COUNTER MR1 et MR2"
   }
 ]
