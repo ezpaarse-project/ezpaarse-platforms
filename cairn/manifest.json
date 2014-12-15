@@ -14,7 +14,7 @@
   "recognize": {
     "rid": [
       "title_id",
-      "pisbn",
+      "print_identifier",
       "unitid"
     ],
     "rtype": [
