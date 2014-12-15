@@ -23,5 +23,10 @@
     "code": "MISC",
     "description":  "consultation d'un document dont le format n'est ni PDF ni HTML",
     "comment": ""
+  },
+  {
+    "code": "DEEPDYVE",
+    "description":  "tentative de consultation d'un document dont la ressource n'est pas acquise",
+    "comment": "Permet de comptabiliser les accès refusés (url-denied-ecs)"
   }
 ]
