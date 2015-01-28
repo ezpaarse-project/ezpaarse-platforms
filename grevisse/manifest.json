@@ -22,6 +22,5 @@
   "longname": "Bon Usage Grevisse",
   "describe": "Identifie les consultations de la plateforme Bon Usage Grevisse",
   "docurl": "http://analogist.couperin.org/platforms/grevisse/",
-  "contact": "dominique.lechaudel at inist.fr",
-  "pkb": false
+  "contact": "dominique.lechaudel at inist.fr"
 }
