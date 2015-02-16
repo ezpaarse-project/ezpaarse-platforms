@@ -10,7 +10,7 @@
 	"domains": [
     "docnum.univ-lorraine.fr"
 	],
-  "pkb": true,
+  "pkb": false,
   "recognize": {
     "rid": [
       "unitid",
