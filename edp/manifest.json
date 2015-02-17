@@ -4,6 +4,7 @@
   "status": "stable",
   "trello": "https://trello.com/c/hFXzC7iL",
   "longname": "EDP Sciences",
+  "publisher_name" : "Éditions EDK/Groupe EDP Sciences",
   "describe": "Identifie les consultations du site EDP Sciences",
   "docurl": "http://analogist.couperin.org/platforms/edp/",
   "contact": "yannick.schurter at inist.fr",
