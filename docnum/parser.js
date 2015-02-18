@@ -2,7 +2,7 @@
 
 // ##EZPAARSE
 
-/*jslint maxlen: 170*/
+/*jslint maxlen: 200*/
 'use strict';
 var Parser = require('../.lib/parser.js');
 
@@ -60,7 +60,7 @@ module.exports = new Parser(function analyseEC(parsedUrl) {
       //thèse doctorat UHP
 
     // /public/SCD_T_2011_0134_KATRIB.pdf
-    result.institution = 'UHP';  
+    result.institution = 'UHP';
     result.rtype = 'PHD_THESIS';
     result.mime  = 'PDF';
     result.year = match[3];
@@ -70,7 +70,7 @@ module.exports = new Parser(function analyseEC(parsedUrl) {
   //thèse de doctorat UL
 
     // /public/DDOC_T_2012_0374_CECCARELLI.pdf
-    result.institution = 'UL';  
+    result.institution = 'UL';
     result.rtype = 'PHD_THESIS';
     result.mime  = 'PDF';
     result.year = match[3];
@@ -82,7 +82,7 @@ module.exports = new Parser(function analyseEC(parsedUrl) {
     // /public/SCDMED_T_2010_CRIVELLI_DOROTHEE.pdf
     // /public/SCDPHA_T_2009_DRIAD_YACINE.pdf
     // /public/SCDPHA_TD_2007_MARTIN_HELENE.pdf
-    result.institution = 'UHP';  
+    result.institution = 'UHP';
     result.rtype = 'MD_THESIS';
     result.mime  = 'PDF';
     result.year = match[4];
@@ -93,7 +93,7 @@ module.exports = new Parser(function analyseEC(parsedUrl) {
 
     // /public/BUMED_T_2013_GAUD_SIMON.pdf
     // /public/BUPHA_T_2012_AIZIER_EMILIE.pdf
-    result.institution = 'UL';  
+    result.institution = 'UL';
     result.rtype = 'MD_THESIS';
     result.mime  = 'PDF';
     result.year = match[4];
@@ -105,8 +105,8 @@ module.exports = new Parser(function analyseEC(parsedUrl) {
     // /public/SCDMED_MESF_2011_MARTIN_ANNELAURE.pdf
     // /public/SCDSCI_M_2011_PICAUDE_MATHIEU.pdf
     // /public/SCDMED_MORT_2010_MAURICE_BOULANGER_STEPHANIE.pdf
-    result.institution = 'UHP';  
-    if ( match[4] == 'MAUDIO' || match[4] == 'MESF' || match[4] == 'MIBODE' || match[4] == 'MINF' || match[4] == 'MORT' ){    
+    result.institution = 'UHP';
+    if ( match[4] == 'MAUDIO' || match[4] == 'MESF' || match[4] == 'MIBODE' || match[4] == 'MINF' || match[4] == 'MORT' ){
       result.rtype = 'MD_MEMOIRE';
     } else if (match[4] == 'HDR'){
       result.rtype = 'HABILITATION_THESIS';
@@ -122,33 +122,33 @@ module.exports = new Parser(function analyseEC(parsedUrl) {
 
     // /public/BUE_MING_2012_CHAMPILOU_VINCENT_COUTANT_BASTIEN.pdf
     // /public/BUMED_MESF_2013_BIBLOT_PHILIPPINE.pdf
-    result.institution = 'UL';  
-    if ( match[4] == 'MAUDIO' || 
-         match[4] == 'MESF' || 
-         match[4] == 'MIBODE' || 
-         match[4] == 'MINF' || 
-         match[4] == 'MORT' ) {    
+    result.institution = 'UL';
+    if ( match[4] == 'MAUDIO' ||
+         match[4] == 'MESF' ||
+         match[4] == 'MIBODE' ||
+         match[4] == 'MINF' ||
+         match[4] == 'MORT' ) {
       result.rtype = 'MD_MEMOIRE';
     } else if (match[4] == 'HDR'){
       result.rtype = 'HABILITATION_THESIS';
-    } else if ( match[4] == 'M' || 
-                match[4] == 'MING' || 
+    } else if ( match[4] == 'M' ||
+                match[4] == 'MING' ||
                 match[4] == 'CNAM' ){
       result.rtype = 'MASTER_THESIS';
     } else {
-      result.rtype = match[4];      
+      result.rtype = match[4];
     }
     result.mime  = 'PDF';
     result.year = match[5];
     result.title_id = match[2];
     result.unitid = match[2];
   } else if ((match = /^\/(pulsar)\/(.*\.pdf)$/.exec(path)) !== null) {
-    result.institution = 'UL';  
+    result.institution = 'UL';
     result.mime  = 'PDF';
     result.rtype = match[1].toUpperCase();
     result.title_id = match[2];
     result.unitid = match[2];
-  } 
+  }
 
   return result;
 });
