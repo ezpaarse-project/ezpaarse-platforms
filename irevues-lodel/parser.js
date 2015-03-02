@@ -24,7 +24,7 @@ module.exports = new Parser(function analyseEC(parsedUrl, ec) {
 
   var match;
 
-  if ((match = /^\/(([a-zA-Z0-9]+)\/([a-zA-Z0-9\/]+\.pdf))$/.exec(path)) !== null) {
+  if ((match = /^\/(([a-zA-Z0-9\-]+)\/([a-zA-Z0-9\/]+\.pdf))$/.exec(path)) !== null) {
     // http://lodel.irevues.inist.fr/saintjacquesinfo/docannexe/file/970/boheme.pdf
     result.rtype    = 'ARTICLE';
     result.mime     = 'PDF';
@@ -34,14 +34,14 @@ module.exports = new Parser(function analyseEC(parsedUrl, ec) {
     //it can be a DOI, an internal identifier or a part of the accessed URL
     //see http://ezpaarse.couperin.org/doc/ec-attributes.html#description-de-unitid for more details
     result.unitid   = match[1];
-  } else if ((match = /^\/([a-zA-Z0-9]+)\/$/.exec(path)) !== null) {
+  } else if ((match = /^\/([a-zA-Z0-9\-]+)\/$/.exec(path)) !== null) {
     // http://lodel.irevues.inist.fr/oeiletphysiologiedelavision/
     result.rtype    = 'TOC';
     result.mime     = 'HTML';
     result.title_id = match[1];
     //see the comment block above
     result.unitid   = match[1];
-  } else if ((match = /^\/([a-zA-Z0-9]+)\/index.php$/.exec(path)) !== null) {
+  } else if ((match = /^\/([a-zA-Z0-9\-]+)\/index.php$/.exec(path)) !== null) {
     // ttp://lodel.irevues.inist.fr/saintjacquesinfo/index.php?id=1088
     result.rtype    = 'ARTICLE';
     result.mime     = 'HTML';
