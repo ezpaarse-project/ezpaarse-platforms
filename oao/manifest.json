@@ -1,0 +1,27 @@
+{
+  "version": "2015-03-02",
+  "status": "beta",
+  "domains": [
+    "http://www.oxfordartonline.com/"
+  ],
+  "recognize": {
+    "rid": [
+      "title_id"
+    ],
+    "rtype": [
+      "ENCYCLOPAEDIA_ENTRY",
+      "IMAGE",
+      "REF"
+    ],
+    "mime": [
+      "HTML",
+      "MISC"
+    ]
+  },
+  "name": "oao",
+  "longname": "Oxford Art Online",
+  "describe": "Identifie les consultations de la plateforme Oxford Art Online (Grove, Benezit et 3 autres)",
+  "docurl": "http://analogist.couperin.org/platforms/oxford-art-online/",
+  "contact": "thomas.porquet@couperin.org",
+  "pkb": true
+}
