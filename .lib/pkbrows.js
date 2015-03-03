@@ -367,10 +367,17 @@ PkbRows.prototype.getKbartFromKBPlus = function (KBPlusPkg, callback) {
       }
       if (jsonRow.titleUrl && jsonRow.titleUrl !== null) {
         journalInfo.title_url = jsonRow.titleUrl;
-        // make title_id form last part of titleUrl
-        var titleUrlParts = jsonRow.titleUrl.split('/');
-        if (titleUrlParts.length) {
-          journalInfo.title_id = titleUrlParts[titleUrlParts.length - 1];
+        var titleUrlParts;
+        if ((titleUrlParts = /^http:\/\/www\.sciencedirect\.com\/science\/journal\/([^\/]+)$/.exec(jsonRow.titleUrl) )) {
+          // make title_id from parts of titleUrl
+          // ex : science direct master list
+          // "titleUrl":"http://www.sciencedirect.com/science/journal/22126716"
+          journalInfo.title_id = titleUrlParts[1];
+        } else if ((titleUrlParts = /^http:\/\/((www\.)?(.*))\.(org|fr)\//.exec(jsonRow.titleUrl) )) {
+          // make title_id from domain name
+          // ex : edp science
+          // "titleUrl": "http://www.europhysicsnews.org/"    
+          journalInfo.title_id = titleUrlParts[3];
         }
       }
       if (jsonRow.issn && jsonRow.issn !== null ) {
