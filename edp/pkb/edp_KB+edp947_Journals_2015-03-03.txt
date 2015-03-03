@@ -1,88 +1,88 @@
 publication_title	print_identifier	online_identifier	date_first_issue_online	num_first_vol_online	num_first_issue_online	date_last_issue_online	num_last_vol_online	num_last_issue_online	title_url	first_author	title_id	embargo_info	coverage_depth	coverage_notes	publisher_name	publication_type	date_monograph_published_print	date_monograph_published_online	monograph_volume	monograph_edition	first_editor	parent_publication_title_id	preceding_publication_title_id	access_type
-Astronomy & Astrophysics	0004-6361	1432-0746							http://www.aanda.org/		aanda													
-Astronomy and Astrophysics Supplement Series	0365-0138	1286-4846							http://aas.aanda.org/		aas.aanda													
-Annals of Forest Science	1286-4560	1297-966X							http://www.afs-journal.org/		afs-journal				EDP Sciences									
-Agronomy for Sustainable Development	1774-0746	1773-0155							http://www.agronomy-journal.org/		agronomy-journal													
-Aquatic Living Resources	0990-7440	1765-2952							http://www.alr-journal.org/		alr-journal													
-Analusis	0365-4877	1286-482X							http://analusis.edpsciences.org/		analusis.edpsciences													
-Animal Research	1627-3583	1627-3591							http://animres.edpsciences.org/		animres.edpsciences													
-Annales de Physique	0003-4169	1286-4838							http://www.annphys.org/		annphys													
-ActualitÃ©s Odonto-Stomatologiques	0001-7817	1760-611X							http://www.aos-journal.org/		aos-journal													
-Apidologie	0044-8435	1297-9678							http://www.apidologie.org/		apidologie													
-Annales de Toxicologie Analytique	0768-598X	1961-9480							http://www.ata-journal.org/		ata-journal													
-BIO Web of Conferences		2117-4458							http://www.bio-conferences.org/		bio-conferences													
-Biologie Aujourd'Hui	2105-0678	2105-0686							http://www.biologie-journal.org/		biologie-journal													
-CiÃªncia e TÃ©cnica VitivinÃ­cola	0254-0223								http://www.ctv-jve-journal.org/		ctv-jve-journal													
-Dairy Science & Technology	1958-5586	1958-5594							http://www.dairy-journal.org/		dairy-journal													
-E3S Web of Conferences		2267-1242							http://www.e3s-conferences.org/		e3s-conferences													
-European Astronomical Society Publications Series	1633-4760	1638-1963							http://www.eas-journal.org/		eas-journal													
-Environmental Biosafety Research	1635-7922	1635-7930							http://www.ebr-journal.org/		ebr-journal													
-European Journal of Economic and Social Systems	1292-8895	1292-8909							http://ejess.edpsciences.org/		ejess.edpsciences													
-ÃpistÃ©mologiques	1517-7823								http://epistemo.edpsciences.org/		epistemo.edpsciences													
-EPJ Web of Conferences		2100-014X							http://www.epj-conferences.org/		epj-conferences													
-EPJ Photovoltaics		2105-0716							http://www.epj-pv.org/		epj-pv													
-The European Physical Journal A - Hadrons and Nuclei	1434-6001	1434-601X							http://epja.epj.org/		epja.epj													
-EPJ Applied Metamaterials		2272-2394							http://epjam.edp-open.org/		epjam.edp-open													
-The European Physical Journal - Applied Physics	1286-0042	1286-0050							http://www.epjap.org/		epjap													
-The European Physical Journal: B - Condensed Matter Physics and Complex Systems	1434-6028	1434-6036							http://epjb.epj.org/		epjb.epj													
-The European Physical Journal C - Particles and Fields	1434-6044	1434-6052							http://epjc.epj.org/		epjc.epj													
-The European Physical Journal: D - Atomic, Molecular, Optical and Plasma Physics	1434-6060	1434-6079							http://epjd.epj.org/		epjd.epj													
-The European Physical Journal E: Soft Matter and Biological Physics	1292-8941	1292-895X							http://epje.epj.org/		epje.epj													
-The European Physical Journal: H - Historical Perspectives on Contemporary Physics	2102-6459	2102-6467							http://epjh.epj.org/		epjh.epj													
-The European Physical Journal - Special Topics	1951-6355	1951-6401							http://epjst.epj.org/		epjst.epj													
-EPL (Europhysics Letters)	0295-5075	1286-4854							http://epljournal.edpsciences.org/		epljournal.edpsciences				IOP									
-ESAIM: Control, Optimisation and Calculus of Variations	1292-8119	1262-3377							http://www.esaim-cocv.org/		esaim-cocv													
-ESAIM: Mathematical Modelling and Numerical Analysis	0764-583X	1290-3841							http://www.esaim-m2an.org/		esaim-m2an													
-ESAIM: Proceedings and Surveys		2267-3059							http://www.esaim-proc.org/		esaim-proc													
-ESAIM: Probability and Statistics	1292-8100	1262-3318							http://www.esaim-ps.org/		esaim-ps													
-Ãducation ThÃ©rapeutique du Patient - Therapeutic Patient Education	2100-0808	2100-0816							http://www.etp-journal.org/		etp-journal													
-Europhysics News	0531-7479	1432-1092							http://www.europhysicsnews.org/		europhysicsnews				EDP Sciences									
-Fruits	0248-1294	1625-967X							http://www.fruits-journal.org/		fruits-journal													
-Genetics Selection Evolution	0999-193X	1297-9686							http://www.gse-journal.org/		gse-journal				BioMed Central Ltd									
-HydroÃ©cologie AppliquÃ©e	1147-9213	1958-556X							http://www.hydroecologie.org/		hydroecologie													
-International Journal for Simulation and Multidisciplinary Design Optimization		1779-6288							http://www.ijsmdo.org/		ijsmdo													
-ITM Web of Conferences		2271-2097							http://www.itm-conferences.org/		itm-conferences													
-J3eA		1638-5705							http://www.j3ea.org/		j3ea													
-Journal de Chimie Physique et de Physico-Chimie Biologique	0021-7689								http://jcp.edpsciences.org/		jcp.edpsciences													
-Journal of Dentofacial Anomalies and Orthodontics	2110-5715								http://www.jdao-journal.org/		jdao-journal													
-ThÃ©rapie	0040-5957	1958-5578							http://www.journal-therapie.org/		journal-therapie													
-BFPP. Bulletin FranÃ§ais de la PÃªche et de la Protection des Milieux Aquatiques	1961-9499								http://www.kmae-journal.org/		kmae-journal													
-Le Fait	0023-7302	1297-9694							http://lait.dairy-journal.org/		lait.dairy-journal													
-Annales de Limnologie - International Journal of Limnology	0003-4088	2100-000X							http://www.limnology-journal.org/		limnology-journal													
-MATEC Web of Conferences		2261-236X							http://www.matec-conferences.org/		matec-conferences													
-MatÃ©riaux & Techniques	0032-6895	1778-3771							http://www.mattech-journal.org/		mattech-journal													
-MBCB. MÃ©decine Buccale Chirurgie Buccale	1273-2761	2105-1011							http://www.mbcb-journal.org/		mbcb-journal													
-Mechanics & Industry	2257-7777	2257-7750							http://www.mechanics-industry.org/		mechanics-industry													
-MÃ©decine et Nutrition	0398-7604	2110-5405							http://www.medecine-nutrition.org/		medecine-nutrition													
-MS. MÃ©decine Sciences	0767-0974	1958-5381							http://www.medecinesciences.org/		medecinesciences													
-Revue de MÃ©tallurgie - International Journal of Metallurgy	0035-1563	1156-3141							http://www.metallurgical-research.org/		metallurgical-research													
-International Journal of Metrology and Quality Engineering	2107-6839	2107-6847							http://www.metrology-journal.org/		metrology-journal													
-Manufacturing Review		2265-4224							http://mfr.edp-open.org/		mfr.edp-open				EDP Sciences									
-Microscopy Microanalysis Microstructures	1154-2799								http://mmm.edpsciences.org/		mmm.edpsciences													
-Mathematical Modelling of Natural Phenomena	0973-5348	1760-6101							http://www.mmnp-journal.org/		mmnp-journal													
-Movement & Sports Science	2118-5735	2118-5743							http://www.mov-sport-sciences.org/		mov-sport-sciences													
-Natures Sciences SociÃ©tÃ©s	1240-1307								http://www.nss-journal.org/		nss-journal													
-OCL - Oilseeds and Fats, Crops and Lipids	2272-6977	2257-6614							http://www.ocl-journal.org/		ocl-journal													
-Revue d'OrthopÃ©die Dento-Faciale	0337-9736	2110-543X							http://odf.edpsciences.org/		odf.edpsciences													
-Oil & Gas Science and Technology	1294-4475	1953-8189							http://ogst.ifpenergiesnouvelles.fr/		ogst.ifpenergiesnouvelles													
-L'Orthodontie FranÃ§aise	1966-5202								http://www.orthodfr.org/		orthodfr													
-Parasite	1776-1042								http://www.parasite-journal.org/		parasite-journal				EDP Sciences									
-PÃ©dagogie MÃ©dicale	1625-6484	1627-4784							http://www.pedagogie-medicale.org/		pedagogie-medicale													
-Perspectives Psy	0031-6032	2118-4038							http://www.perspectives-psy.org/		perspectives-psy													
-psychologie clinique	1145-1882	2118-4224							http://www.psycho-clinique.org/		psycho-clinique													
-Quadrature	1142-2785	1760-4826							http://www.quadrature-journal.org/		quadrature-journal													
-Radioprotection	0033-8451	1769-700X							http://www.radioprotection.org/		radioprotection													
-RAIRO - Theoretical Informatics and Applications	0988-3754	1290-385X							http://www.rairo-ita.org/		rairo-ita													
-RAIRO - Operations Research	0399-0559	1290-3868							http://www.rairo-ro.org/		rairo-ro													
-Droit et MÃ©decine Bucco-Dentaire	2116-1321	2116-133X							http://www.rdmbd.org/		rdmbd													
-Bulletin de la SociÃ©tÃ© FranÃ§aise de Physique	0037-9360	2259-5295							http://www.refletsdelaphysique.fr/		refletsdelaphysique													
-Revue GÃ©nÃ©rale NuclÃ©aire	0335-5004								http://rgn.publications.sfen.org/		rgn.publications.sfen													
-Annales de Biologie Animale, Biochimie, Biophysique	0003-388X								http://rnd.edpsciences.org/		rnd.edpsciences													
-Revue d'Orthodontie Clinique	2118-5654								http://www.roc-journal.org/		roc-journal													
-La Houille Blanche	0018-6368	1958-5551							http://www.shf-lhb.org/		shf-lhb													
-SHS Web of Conferences		2261-2424							http://www.shs-conferences.org/		shs-conferences													
-Journal of Space Weather and Space Climate		2115-7251							http://www.swsc-journal.org/		swsc-journal				EDP Sciences									
-Techniques Sciences Methodes	0299-7258								http://tsm.astee.org/		tsm.astee													
-Bulletin de lâUnion Nationale pour lâIntÃ©rÃªt de lâOrthopÃ©die Dento-Faciale	1768-9775								http://www.uniodf-journal.org/		uniodf-journal													
-Veterinary Research		1297-9716							http://www.vetres.org/		vetres				BioMed Central Ltd									
-Bulletin de l'Association Pharmaceutique FranÃ§aise pour l'Hydrologie	0335-959X								http://www.water-quality-journal.org/		water-quality-journal													
+Astronomy and Astrophysics Supplement Series	0365-0138	1286-4846							http://aas.aanda.org/		aas.aanda.org													
+Analusis	0365-4877	1286-482X							http://analusis.edpsciences.org/		analusis.edpsciences.org													
+Animal Research	1627-3583	1627-3591							http://animres.edpsciences.org/		animres.edpsciences.org													
+European Journal of Economic and Social Systems	1292-8895	1292-8909							http://ejess.edpsciences.org/		ejess.edpsciences.org													
+ÃpistÃ©mologiques	1517-7823								http://epistemo.edpsciences.org/		epistemo.edpsciences.org													
+The European Physical Journal A - Hadrons and Nuclei	1434-6001	1434-601X							http://epja.epj.org/		epja.epj.org													
+EPJ Applied Metamaterials		2272-2394							http://epjam.edp-open.org/		epjam.edp-open.org													
+The European Physical Journal: B - Condensed Matter Physics and Complex Systems	1434-6028	1434-6036							http://epjb.epj.org/		epjb.epj.org													
+The European Physical Journal C - Particles and Fields	1434-6044	1434-6052							http://epjc.epj.org/		epjc.epj.org													
+The European Physical Journal: D - Atomic, Molecular, Optical and Plasma Physics	1434-6060	1434-6079							http://epjd.epj.org/		epjd.epj.org													
+The European Physical Journal E: Soft Matter and Biological Physics	1292-8941	1292-895X							http://epje.epj.org/		epje.epj.org													
+The European Physical Journal: H - Historical Perspectives on Contemporary Physics	2102-6459	2102-6467							http://epjh.epj.org/		epjh.epj.org													
+The European Physical Journal - Special Topics	1951-6355	1951-6401							http://epjst.epj.org/		epjst.epj.org													
+EPL (Europhysics Letters)	0295-5075	1286-4854							http://epljournal.edpsciences.org/		epljournal.edpsciences.org				IOP									
+Journal de Chimie Physique et de Physico-Chimie Biologique	0021-7689								http://jcp.edpsciences.org/		jcp.edpsciences.org													
+Le Fait	0023-7302	1297-9694							http://lait.dairy-journal.org/		lait.dairy-journal.org													
+Manufacturing Review		2265-4224							http://mfr.edp-open.org/		mfr.edp-open.org				EDP Sciences									
+Microscopy Microanalysis Microstructures	1154-2799								http://mmm.edpsciences.org/		mmm.edpsciences.org													
+Revue d'OrthopÃ©die Dento-Faciale	0337-9736	2110-543X							http://odf.edpsciences.org/		odf.edpsciences.org													
+Oil & Gas Science and Technology	1294-4475	1953-8189							http://ogst.ifpenergiesnouvelles.fr/		ogst.ifpenergiesnouvelles.fr													
+Revue GÃ©nÃ©rale NuclÃ©aire	0335-5004								http://rgn.publications.sfen.org/		rgn.publications.sfen.org													
+Annales de Biologie Animale, Biochimie, Biophysique	0003-388X								http://rnd.edpsciences.org/		rnd.edpsciences.org													
+Techniques Sciences Methodes	0299-7258								http://tsm.astee.org/		tsm.astee.org													
+Astronomy & Astrophysics	0004-6361	1432-0746							http://www.aanda.org/		www.aanda.org													
+Annals of Forest Science	1286-4560	1297-966X							http://www.afs-journal.org/		www.afs-journal.org				EDP Sciences									
+Agronomy for Sustainable Development	1774-0746	1773-0155							http://www.agronomy-journal.org/		www.agronomy-journal.org													
+Aquatic Living Resources	0990-7440	1765-2952							http://www.alr-journal.org/		www.alr-journal.org													
+Annales de Physique	0003-4169	1286-4838							http://www.annphys.org/		www.annphys.org													
+ActualitÃ©s Odonto-Stomatologiques	0001-7817	1760-611X							http://www.aos-journal.org/		www.aos-journal.org													
+Apidologie	0044-8435	1297-9678							http://www.apidologie.org/		www.apidologie.org													
+Annales de Toxicologie Analytique	0768-598X	1961-9480							http://www.ata-journal.org/		www.ata-journal.org													
+BIO Web of Conferences		2117-4458							http://www.bio-conferences.org/		www.bio-conferences.org													
+Biologie Aujourd'Hui	2105-0678	2105-0686							http://www.biologie-journal.org/		www.biologie-journal.org													
+CiÃªncia e TÃ©cnica VitivinÃ­cola	0254-0223								http://www.ctv-jve-journal.org/		www.ctv-jve-journal.org													
+Dairy Science & Technology	1958-5586	1958-5594							http://www.dairy-journal.org/		www.dairy-journal.org													
+E3S Web of Conferences		2267-1242							http://www.e3s-conferences.org/		www.e3s-conferences.org													
+European Astronomical Society Publications Series	1633-4760	1638-1963							http://www.eas-journal.org/		www.eas-journal.org													
+Environmental Biosafety Research	1635-7922	1635-7930							http://www.ebr-journal.org/		www.ebr-journal.org													
+EPJ Web of Conferences		2100-014X							http://www.epj-conferences.org/		www.epj-conferences.org													
+EPJ Photovoltaics		2105-0716							http://www.epj-pv.org/		www.epj-pv.org													
+The European Physical Journal - Applied Physics	1286-0042	1286-0050							http://www.epjap.org/		www.epjap.org													
+ESAIM: Control, Optimisation and Calculus of Variations	1292-8119	1262-3377							http://www.esaim-cocv.org/		www.esaim-cocv.org													
+ESAIM: Mathematical Modelling and Numerical Analysis	0764-583X	1290-3841							http://www.esaim-m2an.org/		www.esaim-m2an.org													
+ESAIM: Proceedings and Surveys		2267-3059							http://www.esaim-proc.org/		www.esaim-proc.org													
+ESAIM: Probability and Statistics	1292-8100	1262-3318							http://www.esaim-ps.org/		www.esaim-ps.org													
+Ãducation ThÃ©rapeutique du Patient - Therapeutic Patient Education	2100-0808	2100-0816							http://www.etp-journal.org/		www.etp-journal.org													
+Europhysics News	0531-7479	1432-1092							http://www.europhysicsnews.org/		www.europhysicsnews.org				EDP Sciences									
+Fruits	0248-1294	1625-967X							http://www.fruits-journal.org/		www.fruits-journal.org													
+Genetics Selection Evolution	0999-193X	1297-9686							http://www.gse-journal.org/		www.gse-journal.org				BioMed Central Ltd									
+HydroÃ©cologie AppliquÃ©e	1147-9213	1958-556X							http://www.hydroecologie.org/		www.hydroecologie.org													
+International Journal for Simulation and Multidisciplinary Design Optimization		1779-6288							http://www.ijsmdo.org/		www.ijsmdo.org													
+ITM Web of Conferences		2271-2097							http://www.itm-conferences.org/		www.itm-conferences.org													
+J3eA		1638-5705							http://www.j3ea.org/		www.j3ea.org													
+Journal of Dentofacial Anomalies and Orthodontics	2110-5715								http://www.jdao-journal.org/		www.jdao-journal.org													
+ThÃ©rapie	0040-5957	1958-5578							http://www.journal-therapie.org/		www.journal-therapie.org													
+BFPP. Bulletin FranÃ§ais de la PÃªche et de la Protection des Milieux Aquatiques	1961-9499								http://www.kmae-journal.org/		www.kmae-journal.org													
+Annales de Limnologie - International Journal of Limnology	0003-4088	2100-000X							http://www.limnology-journal.org/		www.limnology-journal.org													
+MATEC Web of Conferences		2261-236X							http://www.matec-conferences.org/		www.matec-conferences.org													
+MatÃ©riaux & Techniques	0032-6895	1778-3771							http://www.mattech-journal.org/		www.mattech-journal.org													
+MBCB. MÃ©decine Buccale Chirurgie Buccale	1273-2761	2105-1011							http://www.mbcb-journal.org/		www.mbcb-journal.org													
+Mechanics & Industry	2257-7777	2257-7750							http://www.mechanics-industry.org/		www.mechanics-industry.org													
+MÃ©decine et Nutrition	0398-7604	2110-5405							http://www.medecine-nutrition.org/		www.medecine-nutrition.org													
+MS. MÃ©decine Sciences	0767-0974	1958-5381							http://www.medecinesciences.org/		www.medecinesciences.org													
+Revue de MÃ©tallurgie - International Journal of Metallurgy	0035-1563	1156-3141							http://www.metallurgical-research.org/		www.metallurgical-research.org													
+International Journal of Metrology and Quality Engineering	2107-6839	2107-6847							http://www.metrology-journal.org/		www.metrology-journal.org													
+Mathematical Modelling of Natural Phenomena	0973-5348	1760-6101							http://www.mmnp-journal.org/		www.mmnp-journal.org													
+Movement & Sports Science	2118-5735	2118-5743							http://www.mov-sport-sciences.org/		www.mov-sport-sciences.org													
+Natures Sciences SociÃ©tÃ©s	1240-1307								http://www.nss-journal.org/		www.nss-journal.org													
+OCL - Oilseeds and Fats, Crops and Lipids	2272-6977	2257-6614							http://www.ocl-journal.org/		www.ocl-journal.org													
+L'Orthodontie FranÃ§aise	1966-5202								http://www.orthodfr.org/		www.orthodfr.org													
+Parasite	1776-1042								http://www.parasite-journal.org/		www.parasite-journal.org				EDP Sciences									
+PÃ©dagogie MÃ©dicale	1625-6484	1627-4784							http://www.pedagogie-medicale.org/		www.pedagogie-medicale.org													
+Perspectives Psy	0031-6032	2118-4038							http://www.perspectives-psy.org/		www.perspectives-psy.org													
+psychologie clinique	1145-1882	2118-4224							http://www.psycho-clinique.org/		www.psycho-clinique.org													
+Quadrature	1142-2785	1760-4826							http://www.quadrature-journal.org/		www.quadrature-journal.org													
+Radioprotection	0033-8451	1769-700X							http://www.radioprotection.org/		www.radioprotection.org													
+RAIRO - Theoretical Informatics and Applications	0988-3754	1290-385X							http://www.rairo-ita.org/		www.rairo-ita.org													
+RAIRO - Operations Research	0399-0559	1290-3868							http://www.rairo-ro.org/		www.rairo-ro.org													
+Droit et MÃ©decine Bucco-Dentaire	2116-1321	2116-133X							http://www.rdmbd.org/		www.rdmbd.org													
+Bulletin de la SociÃ©tÃ© FranÃ§aise de Physique	0037-9360	2259-5295							http://www.refletsdelaphysique.fr/		www.refletsdelaphysique.fr													
+Revue d'Orthodontie Clinique	2118-5654								http://www.roc-journal.org/		www.roc-journal.org													
+La Houille Blanche	0018-6368	1958-5551							http://www.shf-lhb.org/		www.shf-lhb.org													
+SHS Web of Conferences		2261-2424							http://www.shs-conferences.org/		www.shs-conferences.org													
+Journal of Space Weather and Space Climate		2115-7251							http://www.swsc-journal.org/		www.swsc-journal.org				EDP Sciences									
+Bulletin de lâUnion Nationale pour lâIntÃ©rÃªt de lâOrthopÃ©die Dento-Faciale	1768-9775								http://www.uniodf-journal.org/		www.uniodf-journal.org													
+Veterinary Research		1297-9716							http://www.vetres.org/		www.vetres.org				BioMed Central Ltd									
+Bulletin de l'Association Pharmaceutique FranÃ§aise pour l'Hydrologie	0335-959X								http://www.water-quality-journal.org/		www.water-quality-journal.org													

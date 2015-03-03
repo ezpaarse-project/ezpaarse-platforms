@@ -373,11 +373,12 @@ PkbRows.prototype.getKbartFromKBPlus = function (KBPlusPkg, callback) {
           // ex : science direct master list
           // "titleUrl":"http://www.sciencedirect.com/science/journal/22126716"
           journalInfo.title_id = titleUrlParts[1];
-        } else if ((titleUrlParts = /^http:\/\/((www\.)?(.*))\.(org|fr)\//.exec(jsonRow.titleUrl) )) {
+        } else if ((titleUrlParts = /^http:\/\/((www\.)?(.*)\.(org|fr))\//.exec(jsonRow.titleUrl) )) {
           // make title_id from domain name
           // ex : edp science
           // "titleUrl": "http://www.europhysicsnews.org/"    
-          journalInfo.title_id = titleUrlParts[3];
+          console.error(titleUrlParts);
+          journalInfo.title_id = titleUrlParts[1];
         }
       }
       if (jsonRow.issn && jsonRow.issn !== null ) {
