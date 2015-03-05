@@ -11,7 +11,8 @@
     "www.sciencedirect.com",
     "pdn.sciencedirect.com",
     "binary-services.sciencedirect.com",
-    "ac.els-cdn.com"
+    "ac.els-cdn.com",
+    "rss.sciencedirect.com"
   ],
   "recognize": {
     "rid": [
