@@ -362,8 +362,11 @@ PkbRows.prototype.getKbartFromKBPlus = function (KBPlusPkg, callback) {
       var journalInfo = {};
       // initialize a kbart record
       journalInfo = self.initRow(journalInfo);
+
       if (jsonRow.title && jsonRow.title !== null) {
-        journalInfo.publication_title = jsonRow.title;
+        // title is in utf-8 but not properly decoded
+        // need to be explicitely decoded
+        journalInfo.publication_title = decodeURIComponent(escape(jsonRow.title));
       }
       if (jsonRow.titleUrl && jsonRow.titleUrl !== null) {
         journalInfo.title_url = jsonRow.titleUrl;
@@ -377,7 +380,7 @@ PkbRows.prototype.getKbartFromKBPlus = function (KBPlusPkg, callback) {
           // make title_id from domain name
           // ex : edp science
           // "titleUrl": "http://www.europhysicsnews.org/"    
-          console.error(titleUrlParts);
+          // console.error(titleUrlParts);
           journalInfo.title_id = titleUrlParts[1];
         }
       }
