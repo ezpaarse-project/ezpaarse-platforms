@@ -475,14 +475,22 @@ Social Science Research	0049-089X								http://www.sciencedirect.com/science/jo
 Thrombosis Research	0049-3848								http://www.sciencedirect.com/science/journal/00493848		00493848													
 Acta Histochemica	0065-1281								http://www.sciencedirect.com/science/journal/00651281		00651281													
 Advances in Biophysics	0065-227X								http://www.sciencedirect.com/science/journal/0065227X		0065227X													
+Advances in Cancer Research		0065-230X							http://www.sciencedirect.com/science/bookseries/0065230X		0065230X													
+Advances in Child Development and Behavior	0065-2407								http://www.sciencedirect.com/science/bookseries/00652407		00652407													
 Advances in Enzyme Regulation	0065-2571								http://www.sciencedirect.com/science/journal/00652571		00652571													
+Advances in Genetics		0065-2660							http://www.sciencedirect.com/science/bookseries/00652660		00652660													
+Advances in Immunology		0065-2776							http://www.sciencedirect.com/science/bookseries/00652776		00652776													
 Advances in Pediatrics	0065-3101								http://www.sciencedirect.com/science/journal/00653101		00653101													
+Advances in Protein Chemistry		0065-3233							http://www.sciencedirect.com/science/bookseries/00653233		00653233													
 Advances in Surgery	0065-3411								http://www.sciencedirect.com/science/journal/00653411		00653411													
+Advances in Virus Research		0065-3527							http://www.sciencedirect.com/science/bookseries/00653527		00653527													
 Annual Review in Automatic Programming	0066-4138								http://www.sciencedirect.com/science/journal/00664138		00664138													
 Current Topics in Developmental Biology	0070-2153	1557-8933							http://www.sciencedirect.com/science/journal/00702153		00702153													
+Current Topics in Membranes and Transport	0070-2161	1875-6492							http://www.sciencedirect.com/science/bookseries/00702161		00702161													
 The Hand	0072-968X								http://www.sciencedirect.com/science/journal/0072968X		0072968X													
 Inorganica Chimica Acta Reviews	0073-8085								http://www.sciencedirect.com/science/journal/00738085		00738085													
 Annals of the ICRP/ICRP Publication	0074-2740								http://www.sciencedirect.com/science/journal/00742740		00742740													
+International Review of Cytology	0074-7696	2163-5854							http://www.sciencedirect.com/science/bookseries/00747696		00747696													
 Limnologica - Ecology and Management of Inland Waters	0075-9511								http://www.sciencedirect.com/science/journal/00759511		00759511													
 Netherlands Journal of Sea Research	0077-7579								http://www.sciencedirect.com/science/journal/00777579		00777579													
 Physics and Chemistry of the Earth	0079-1946								http://www.sciencedirect.com/science/journal/00791946		00791946													
@@ -490,6 +498,7 @@ Progress in Biophysics and Molecular Biology	0079-6107								http://www.science
 Progress in Histochemistry and Cytochemistry	0079-6336								http://www.sciencedirect.com/science/journal/00796336		00796336													
 Progress in Materials Science	0079-6425								http://www.sciencedirect.com/science/journal/00796425		00796425													
 Progress in Nuclear Magnetic Resonance Spectroscopy	0079-6565	1873-3301							http://www.sciencedirect.com/science/journal/00796565		00796565													
+Progress in Nucleic Acid Research and Molecular Biology	0079-6603	2211-9108							http://www.sciencedirect.com/science/bookseries/00796603		00796603													
 Progress in Oceanography	0079-6611								http://www.sciencedirect.com/science/journal/00796611		00796611													
 Progress in Polymer Science	0079-6700								http://www.sciencedirect.com/science/journal/00796700		00796700													
 Progress in Quantum Electronics	0079-6727								http://www.sciencedirect.com/science/journal/00796727		00796727													
@@ -861,6 +870,7 @@ Cryptogamie, Mycologie	0181-1584								http://www.sciencedirect.com/science/jou
 Journal Français d'Ophtalmologie	0181-5512								http://www.sciencedirect.com/science/journal/01815512		01815512													
 Feuillets de Radiologie	0181-9801								http://www.sciencedirect.com/science/journal/01819801		01819801													
 Archives of Medical Research	0188-4409								http://www.sciencedirect.com/science/journal/01884409		01884409													
+Journal of the Nigerian Mathematical Society	0189-8965								http://www.sciencedirect.com/science/journal/aip/01898965		01898965													
 Patient Counselling and Health Education	0190-2040								http://www.sciencedirect.com/science/journal/01902040		01902040				Elsevier Science Publishers B.V.									
 Children and Youth Services Review	0190-7409								http://www.sciencedirect.com/science/journal/01907409		01907409													
 Journal of the American Academy of Dermatology	0190-9622								http://www.sciencedirect.com/science/journal/01909622		01909622													
@@ -2042,6 +2052,7 @@ The Quarterly Review of Economics and Finance	1062-9769								http://www.scienc
 Interventional Cardiology Newsletter	1063-4282								http://www.sciencedirect.com/science/journal/10634282		10634282													
 Osteoarthritis and Cartilage	1063-4584								http://www.sciencedirect.com/science/journal/10634584		10634584													
 Applied and Computational Harmonic Analysis	1063-5203								http://www.sciencedirect.com/science/journal/10635203		10635203													
+Current Topics in Membranes	1063-5823								http://www.sciencedirect.com/science/bookseries/10635823		10635823													
 Journal of Magnetic Resonance, Series A	1064-1858								http://www.sciencedirect.com/science/journal/10641858		10641858													
 Journal of Magnetic Resonance, Series B	1064-1866								http://www.sciencedirect.com/science/journal/10641866		10641866													
 Facial Plastic Surgery Clinics of North America	1064-7406								http://www.sciencedirect.com/science/journal/10647406		10647406													
@@ -2238,6 +2249,7 @@ Journal of Industrial and Engineering Chemistry	1226-086X								http://www.scie
 Journal of the Korean Statistical Society	1226-3192								http://www.sciencedirect.com/science/journal/12263192		12263192													
 Journal of Ginseng Research	1226-8453								http://www.sciencedirect.com/science/journal/12268453		12268453													
 Journal of Asia-Pacific Entomology	1226-8615								http://www.sciencedirect.com/science/journal/12268615		12268615													
+Pacific Science Review	1229-5450								http://www.sciencedirect.com/science/journal/aip/12295450		12295450													
 Polish Annals of Medicine	1230-8013								http://www.sciencedirect.com/science/journal/12308013		12308013													
 Natures Sciences Sociétés	1240-1307								http://www.sciencedirect.com/science/journal/12401307		12401307													
 EMC - Pediatría	1245-1789								http://www.sciencedirect.com/science/journal/12451789		12451789													
@@ -2765,6 +2777,7 @@ Mining Science and Technology (China)	1674-5264								http://www.sciencedirect.
 Chinese Herbal Medicines	1674-6384								http://www.sciencedirect.com/science/journal/16746384		16746384													
 Journal of Rock Mechanics and Geotechnical Engineering	1674-7755								http://www.sciencedirect.com/science/journal/16747755		16747755													
 Journal of Biomedical Research	1674-8301								http://www.sciencedirect.com/science/journal/16748301		16748301													
+Advances in Climate Change Research	1674-9278								http://www.sciencedirect.com/science/journal/aip/16749278		16749278													
 Geoscience Frontiers	1674-9871								http://www.sciencedirect.com/science/journal/16749871		16749871													
 Natureza & Conservação	1679-0073								http://www.sciencedirect.com/science/journal/16790073		16790073													
 Formosan Journal of Surgery	1682-606X								http://www.sciencedirect.com/science/journal/1682606X		1682606X													
@@ -2979,6 +2992,7 @@ Procedia Computer Science	1877-0509								http://www.sciencedirect.com/science/
 Revue de Chirurgie Orthopédique et Traumatologique	1877-0517								http://www.sciencedirect.com/science/journal/18770517		18770517													
 Orthopaedics & Traumatology: Surgery & Research	1877-0568								http://www.sciencedirect.com/science/journal/18770568		18770568													
 Annals of Physical and Rehabilitation Medicine	1877-0657								http://www.sciencedirect.com/science/journal/18770657		18770657													
+Progress in Molecular Biology and Translational Science		1878-0814							http://www.sciencedirect.com/science/bookseries/18771173		18771173													
 Revue des Maladies Respiratoires Actualités	1877-1203								http://www.sciencedirect.com/science/journal/18771203		18771203													
 Currents in Pharmacy Teaching and Learning	1877-1297								http://www.sciencedirect.com/science/journal/18771297		18771297													
 Health Outcomes Research in Medicine	1877-1319								http://www.sciencedirect.com/science/journal/18771319		18771319													
@@ -3365,6 +3379,7 @@ Biomolecular Detection and Quantification	2214-7535								http://www.sciencedir
 IJC Metabolic & Endocrine	2214-7624								http://www.sciencedirect.com/science/journal/22147624		22147624													
 IJC Heart & Vessels	2214-7632								http://www.sciencedirect.com/science/journal/22147632		22147632													
 Internet Interventions		2214-7829							http://www.sciencedirect.com/science/journal/22147829		22147829													
+Neuroepigenetics	2214-7845								http://www.sciencedirect.com/science/journal/aip/22147845		22147845													
 Materials Today: Proceedings	2214-7853								http://www.sciencedirect.com/science/journal/22147853		22147853													
 Journal of Applied Research on Medicinal and Aromatic Plants		2214-7861							http://www.sciencedirect.com/science/journal/22147861		22147861													
 The Extractive Industries and Society	2214-790X								http://www.sciencedirect.com/science/journal/2214790X		2214790X													
@@ -3380,11 +3395,13 @@ Schizophrenia Research: Cognition	2215-0013								http://www.sciencedirect.com/
 MethodsX	2215-0161								http://www.sciencedirect.com/science/journal/22150161		22150161													
 Biotechnology Reports	2215-017X								http://www.sciencedirect.com/science/journal/2215017X		2215017X													
 Colloids and Interface Science Communications	2215-0382								http://www.sciencedirect.com/science/journal/22150382		22150382													
+Ampersand	2215-0390								http://www.sciencedirect.com/science/journal/aip/22150390		22150390													
 Engineering Science and Technology, an International Journal	2215-0986								http://www.sciencedirect.com/science/journal/22150986		22150986													
 Environmental Nanotechnology, Monitoring & Management	2215-1532								http://www.sciencedirect.com/science/journal/22151532		22151532													
 Asian Pacific Journal of Tropical Biomedicine	2221-1691								http://www.sciencedirect.com/science/journal/22211691		22211691													
 Journal of Acute Disease	2221-6189								http://www.sciencedirect.com/science/journal/22216189		22216189													
 Asian Pacific Journal of Tropical Disease	2222-1808								http://www.sciencedirect.com/science/journal/22221808		22221808													
+Journal of Traditional and Complementary Medicine	2225-4110								http://www.sciencedirect.com/science/journal/aip/22254110		22254110													
 Pharmaceutical Methods	2229-4708								http://www.sciencedirect.com/science/journal/22294708		22294708													
 Free Radicals and Antioxidants	2231-2536								http://www.sciencedirect.com/science/journal/22312536		22312536													
 Journal of Coloproctology	2237-9363								http://www.sciencedirect.com/science/journal/22379363		22379363													
@@ -3414,6 +3431,7 @@ International Journal of Nursing Sciences	2352-0132								http://www.sciencedir
 European Journal of Radiology Open	2352-0477								http://www.sciencedirect.com/science/journal/23520477		23520477													
 Transportation Research Procedia	2352-1465								http://www.sciencedirect.com/science/journal/23521465		23521465													
 Current Opinion in Behavioral Sciences		2352-1546							http://www.sciencedirect.com/science/journal/23521546		23521546													
+Computational Condensed Matter	2352-2143								http://www.sciencedirect.com/science/journal/aip/23522143		23522143													
 Journal of Logical and Algebraic Methods in Programming	2352-2208								http://www.sciencedirect.com/science/journal/23522208		23522208													
 Food Webs	2352-2496								http://www.sciencedirect.com/science/journal/23522496		23522496													
 Neurobiology of Stress	2352-2895								http://www.sciencedirect.com/science/journal/23522895		23522895													
@@ -3425,6 +3443,7 @@ Nano-Structures and Nano-Objects	2352-507X								http://www.sciencedirect.com/s
 Sustainable Production and Consumption	2352-5509								http://www.sciencedirect.com/science/journal/23525509		23525509													
 Sustainable Chemistry and Pharmacy	2352-5541								http://www.sciencedirect.com/science/journal/23525541		23525541													
 Anesthesia Critical Care and Pain Medicine	2352-5568								http://www.sciencedirect.com/science/journal/23525568		23525568													
+Radiology of Infectious Diseases	2352-6211								http://www.sciencedirect.com/science/journal/aip/23526211		23526211													
 International Journal of Pediatrics and Adolescent Medicine	2352-6467								http://www.sciencedirect.com/science/journal/23526467		23526467													
 Journal of Business Venturing Insights	2352-6734								http://www.sciencedirect.com/science/journal/23526734		23526734													
 Journal of Building Engineering	2352-7102								http://www.sciencedirect.com/science/journal/23527102		23527102													
