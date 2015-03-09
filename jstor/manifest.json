@@ -9,7 +9,8 @@
   "contact": "karine.delvert at univ-paris1 point fr",
   "pkb": true,
 	"domains": [
-    "www.jstor.org"
+    "www.jstor.org",
+    "about.jstor.org"
 	],
   "recognize": {
     "rid": [
