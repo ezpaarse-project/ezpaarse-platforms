@@ -371,11 +371,12 @@ PkbRows.prototype.getKbartFromKBPlus = function (KBPlusPkg, callback) {
       if (jsonRow.titleUrl && jsonRow.titleUrl !== null) {
         journalInfo.title_url = jsonRow.titleUrl;
         var titleUrlParts;
-        if ((titleUrlParts = /^http:\/\/www\.sciencedirect\.com\/science\/journal\/([^\/]+)$/.exec(jsonRow.titleUrl) )) {
+        if ((titleUrlParts = /(^http:\/\/www\.sciencedirect\.com\/science\/(?:journal|bookseries)\/(aip\/)?([^\/]+))$/.exec(jsonRow.titleUrl) )) {
           // make title_id from parts of titleUrl
           // ex : science direct master list
           // "titleUrl":"http://www.sciencedirect.com/science/journal/22126716"
-          journalInfo.title_id = titleUrlParts[1];
+          //console.error(titleUrlParts);
+          journalInfo.title_id = titleUrlParts[3];
         } else if ((titleUrlParts = /^http:\/\/((www\.)?(.*)\.(org|fr))\//.exec(jsonRow.titleUrl) )) {
           // make title_id from domain name
           // ex : edp science
@@ -391,7 +392,7 @@ PkbRows.prototype.getKbartFromKBPlus = function (KBPlusPkg, callback) {
         journalInfo.online_identifier = jsonRow.eissn;
       }
       if (jsonRow.publisher && jsonRow.publisher !== null) {
-        journalInfo.publisher_name = jsonRow.publisher;
+        journalInfo.publisher_name = decodeURIComponent(escape(jsonRow.publisher));
       }
 
       self.addRow(journalInfo);
