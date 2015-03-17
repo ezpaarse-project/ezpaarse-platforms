@@ -1,0 +1,27 @@
+{
+  "version": "2015-03-17",
+  "status": "beta",
+  "domains": [
+    "hal.archives-ouvertes.fr"
+  ],
+  "recognize": {
+    "rid": [
+      "title_id",
+      "unitid"
+    ],
+    "rtype": [
+      "ARTICLE",
+      "ABS"
+    ],
+    "mime": [
+      "HTML",
+      "PDF"
+    ]
+  },
+  "name": "hal",
+  "longname": "HAL - Archives Ouvertes",
+  "describe": "Identifie les consultations de la plateforme HAL - Archives Ouvertes",
+  "docurl": "http://analogist.couperin.org/platforms/hal/",
+  "contact": "dominique point lechaudel at inist.fr",
+  "pkb": false
+}
