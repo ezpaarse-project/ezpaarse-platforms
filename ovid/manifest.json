@@ -2,7 +2,10 @@
   "version": "2015-03-24",
   "status": "beta",
   "domains": [
-    "ovidsp.tx.ovid.com"
+    "ovidsp.tx.ovid.com",
+    "www.ovid.com",
+    "site.ovid.com",
+    "ovidsp.ovid.com"
   ],
   "recognize": {
     "rid": [
