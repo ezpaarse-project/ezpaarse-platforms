@@ -15,7 +15,7 @@ var Parser = require('../.lib/parser.js');
  */
 module.exports = new Parser(function analyseEC(parsedUrl, ec) {
   var result = {};
-  var path   = parsedUrl.pathname;
+  //var path   = parsedUrl.pathname;
   // uncomment this line if you need parameters
   var param  = parsedUrl.query || {};
 
@@ -23,7 +23,7 @@ module.exports = new Parser(function analyseEC(parsedUrl, ec) {
   //console.error(path);
   //console.error(param);
 
-  var match;
+  //var match;
   if (typeof param['Link Set'] != 'undefined' && param['Link Set'] !== ''){
     // http://ovidsp.tx.ovid.com/sp-3.15.0a/ovidweb.cgi?&S=NKDIFPLLDDDDHPEINCKKEDDCPAJLAA00&Link+Set=S.sh.29.30.34.48%7c1%7csl_10
     result.rtype    = 'ARTICLE';
