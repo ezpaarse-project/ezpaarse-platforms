@@ -1,0 +1,28 @@
+{
+  "version": "2015-03-25",
+  "status": "beta",
+  "domains": [
+    "www.tandfonline.com"
+  ],
+  "recognize": {
+    "rid": [
+      "title_id",
+      "unitid"
+    ],
+    "rtype": [
+      "ARTICLE",
+      "TOC",
+      "ABS"
+    ],
+    "mime": [
+      "HTML",
+      "PDF"
+    ]
+  },
+  "name": "tf",
+  "longname": "Taylor et Francis",
+  "describe": "Identifie les consultations de la plateforme Taylor et Francis",
+  "docurl": "http://analogist.couperin.org/platforms/tf/",
+  "contact": "dominique point lechaudel at inist point fr",
+  "pkb": true
+}
