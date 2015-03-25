@@ -1,0 +1,29 @@
+{
+  "version": "2015-03-24",
+  "status": "beta",
+  "domains": [
+    "ovidsp.tx.ovid.com"
+  ],
+  "recognize": {
+    "rid": [
+      "unitid"
+    ],
+    "rtype": [
+      "ARTICLE",
+      "ABS",
+      "TOC",
+      "REF"
+    ],
+    "mime": [
+      "HTML",
+      "PDF",
+      "MISC"
+    ]
+  },
+  "name": "ovid",
+  "longname": "Ovid",
+  "describe": "Identifie les consultations de la plateforme Ovid",
+  "docurl": "http://analogist.couperin.org/platforms/ovid/",
+  "contact": "sonia.launay@inist.fr",
+  "pkb": false
+}
