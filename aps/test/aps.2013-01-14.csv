@@ -9,7 +9,7 @@ PRE;PRE/v88/i6;TOC;HTML;http://pre.aps.org.bases-doc.univ-lorraine.fr/toc/PRE/v8
 PRX;PRX/v3/i4;TOC;HTML;http://prx.aps.org.bases-doc.univ-lorraine.fr/toc/PRX/v3/i4
 PRSTAB;PRSTAB/v16/i12;TOC;HTML;http://prst-ab.aps.org.bases-doc.univ-lorraine.fr/toc/PRSTAB/v16/i12
 PRSTPER;PRSTPER/v9/i2;TOC;HTML;http://prst-per.aps.org.bases-doc.univ-lorraine.fr/toc/PRSTPER/v9/i2
-PR;PR/v188/i5;TOC;HTML;prola.aps.org.bases-doc.univ-lorraine.fr/toc/PR/v188/i5
+PR;PR/v188/i5;TOC;HTML;http://prola.aps.org.bases-doc.univ-lorraine.fr/toc/PR/v188/i5
 PRI;PRI/v35/i5;TOC;HTML;http://prola.aps.org.bases-doc.univ-lorraine.fr/toc/PRI/v35/i5
 PRL;PRL/v111/i26/e260401;ABS;HTML;http://prl.aps.org.bases-doc.univ-lorraine.fr/abstract/PRL/v111/i26/e260401
 RMP;RMP/v85/i4/p1401_1;ABS;HTML;http://rmp.aps.org.bases-doc.univ-lorraine.fr/abstract/RMP/v85/i4/p1401_1
@@ -37,3 +37,7 @@ PR;PR/v188/i5/p1976_1;ARTICLE;PDF;http://prola.aps.org.bases-doc.univ-lorraine.f
 PRI;PRI/v35/i5/p323_1;ARTICLE;PDF;http://prola.aps.org.bases-doc.univ-lorraine.fr/pdf/PRI/v35/i5/p323_1
 physics;physics/v6/140;ARTICLE;HTML;http://physics.aps.org/articles/v6/140
 physics;10.1103/Physics.6.140;ARTICLE;PDF;http://physics.aps.org/articles/pdf/10.1103/Physics.6.140
+pra;pra/issues/91/1;TOC;HTML;http://journals.aps.org/pra/issues/91/1
+pra;10.1103/PhysRevA.91.010501;ABS;HTML;http://journals.aps.org/pra/abstract/10.1103/PhysRevA.91.010501
+pra;10.1103/PhysRevA.91.032105;ARTICLE;HTML;http://journals.aps.org/pra/article/10.1103/PhysRevA.91.032105/section/fulltext
+pra;10.1103/PhysRevA.91.033602;ARTICLE;PDF;http://journals.aps.org/pra/pdf/10.1103/PhysRevA.91.033602

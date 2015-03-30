@@ -7,6 +7,9 @@
   "describe": "Identifie les consultations de la plateforme American Physical Society",
   "docurl": "http://analogist.couperin.org/platforms/aps/",
   "contact": "Thomas Jouneau",
+  "domains": [
+    "journals.aps.org"
+  ],
   "pkb": true,
   "pkb-domains": "pkb-piddomain",
   "recognize": {
