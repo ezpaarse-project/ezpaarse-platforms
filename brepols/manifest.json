@@ -1,6 +1,6 @@
 {
   "version": "2014-12-02",
-  "status": "beta",
+  "status": "stable",
   "domains": [
     "apps.brepolis.net",
     "clt.brepolis.net"

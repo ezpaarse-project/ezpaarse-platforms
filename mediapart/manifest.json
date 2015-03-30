@@ -1,6 +1,7 @@
 {
   "version": "2014-12-12",
-  "status": "beta",
+  "status": "stable",
+  "trello": "https://trello.com/c/KFt5UQzd",
   "domains": [
     "www.mediapart.fr",
     "blogs.mediapart.fr"

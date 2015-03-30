@@ -1,7 +1,7 @@
 {
   "name": "dalloz",
   "version": "2013-04-12",
-  "status": "beta",
+  "status": "stable",
   "trello": "https://trello.com/c/eC8ByA0Z",
   "longname": "Dalloz",
   "describe": "Identifie les consultations des bases juridiques Dalloz",

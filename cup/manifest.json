@@ -1,7 +1,7 @@
 {
   "name": "cup",
   "version": "2013-10-28",
-  "status": "beta",
+  "status": "stable",
   "trello": "https://trello.com/c/YIH50UlD",
   "longname": "Cambridge University Press",
   "describe": "Identifie les consultations du site Cambridge University Press",

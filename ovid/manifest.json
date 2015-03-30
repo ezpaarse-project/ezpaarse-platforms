@@ -1,6 +1,7 @@
 {
   "version": "2015-03-24",
-  "status": "beta",
+  "status": "stable",
+  "trello": "https://trello.com/c/hDXhVD0I",
   "domains": [
     "ovidsp.tx.ovid.com",
     "www.ovid.com",

@@ -1,7 +1,7 @@
 {
   "name": "jstor",
   "version": "2013-10-03",
-  "status": "beta",
+  "status": "stable",
   "trello": "https://trello.com/c/jshKCxwu",
   "longname": "JSTOR",
   "describe": "Identifie les consultations de la plateforme JSTOR",

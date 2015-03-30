@@ -12,4 +12,3 @@ Physical Review Special Topics - Physics Research Education											PRSTPER			
 Physical Review											PR														prola.aps.org
 Physical Review (series I)											PRI														prola.aps.org
 Physics		1943-2879									physics														physics.aps.org
-Generic Title (update from 2015-03-30)											journals														journals.aps.org

@@ -1,7 +1,7 @@
 {
   "name": "harmatheque",
   "version": "2014-06-06",
-  "status": "beta",
+  "status": "stable",
   "trello": "https://trello.com/c/aDKff6k7",
   "longname": "Harmathèque",
   "describe": "Parseur de la plateforme Harmathèque",

@@ -1,7 +1,7 @@
 {
   "name": "oeb",
   "version": "2014-06-26",
-  "status": "beta",
+  "status": "stable",
   "trello": "https://trello.com/c/kGArTPZL",
   "longname": "OpenEdition Books",
   "describe": "Identifie les consultations de la plateforme OpenEdition Books",

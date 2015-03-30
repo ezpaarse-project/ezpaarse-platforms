@@ -1,7 +1,7 @@
 {
   "name": "ar",
   "version": "2013-10-04",
-  "status": "beta",
+  "status": "stable",
   "trello": "https://trello.com/c/CFJL0U1t",
   "longname": "Annual Reviews",
   "describe": "Identifie les consultations de la plateforme Annual Reviews",

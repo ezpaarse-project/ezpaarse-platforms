@@ -1,6 +1,7 @@
 {
   "version": "2014-12-03",
-  "status": "beta",
+  "status": "stable",
+  "trello": "https://trello.com/c/nDHEA6x9",
   "domains": [
     "pubs-rsc-org",
     "pubs.rsc.org"

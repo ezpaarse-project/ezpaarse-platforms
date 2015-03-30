@@ -1,7 +1,7 @@
 {
   "name": "metapress",
   "version": "2013-11-18",
-  "status": "alpha",
+  "status": "stable",
   "trello": "https://trello.com/c/3qTASG5N",
   "longname": "Metapress",
   "describe": "Identifie les consultations du site Metapress",

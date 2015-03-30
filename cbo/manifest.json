@@ -1,7 +1,7 @@
 {
   "name": "cbo",
   "version": "2014-07-16",
-  "status": "beta",
+  "status": "stable",
   "trello": "https://trello.com/c/VnbYwqYd",
   "longname": "Cambridge Books Online",
   "describe": "Identifie les consultations de Cambridge Books Online",

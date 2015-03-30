@@ -1,7 +1,7 @@
 {
   "name": "palgrave-connect",
   "version": "2014-06-24",
-  "status": "beta",
+  "status": "stable",
   "trello": "https://trello.com/c/UFP0txbm",
   "longname": "Palgrave Connect",
   "describe": "Parseur de la plateforme Palgrave Connect",

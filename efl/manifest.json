@@ -1,7 +1,7 @@
 {
   "name": "efl",
   "version": "2013-11-28",
-  "status": "beta",
+  "status": "stable",
   "trello": "https://trello.com/c/dDs4jO3f",
   "longname": "Editions Francis Lefebvre",
   "describe": "Identifie les consultations des bases juridiques Editions Francis Lefebvre",

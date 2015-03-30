@@ -1,7 +1,7 @@
 {
   "name": "reaxys",
   "version": "2014-01-07",
-  "status": "beta",
+  "status": "stable",
   "trello": "https://trello.com/c/lgyd17MJ",
   "longname": "Reaxys",
   "describe": "Reaxys® est une plateforme de recherche d'informations spécialisées en chimie organique, organométallique, et minérale",

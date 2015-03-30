@@ -1,7 +1,7 @@
 {
   "name": "bioone",
   "version": "2013-11-28",
-  "status": "beta",
+  "status": "stable",
   "trello": "https://trello.com/c/223S61qb",
   "longname": "BioOne",
   "describe": "Identifie les consultations de BioOne",

@@ -1,7 +1,7 @@
 {
   "name": "persee",
   "version": "2013-10-24",
-  "status": "beta",
+  "status": "stable",
   "trello": "https://trello.com/c/3yGjCLMF",
   "longname": "Persée",
   "describe": "Identifie les consultations de la partie revues scientifiques de la plateforme Persée",

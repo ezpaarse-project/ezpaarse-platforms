@@ -1,6 +1,7 @@
 {
   "version": "2015-03-02",
-  "status": "beta",
+  "status": "stable",
+  "trello": "https://trello.com/c/u6iV9P0Y",
   "domains": [
     "http://www.oxfordartonline.com/"
   ],
