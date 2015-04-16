@@ -1,0 +1,29 @@
+{
+  "version": "2015-04-15",
+  "status": "beta",
+  "domains": [
+    "ieeexplore.ieee.org.rproxy.insa-rennes.fr"
+  ],
+  "recognize": {
+    "rid": [
+      "title_id",
+      "unitid"
+    ],
+    "rtype": [
+      "BOOK_SECTION",
+      "TOC",
+      "ARTICLE",
+      "ABS"
+    ],
+    "mime": [
+      "HTML",
+      "PDF"
+    ]
+  },
+  "name": "ieee",
+  "longname": "ieee",
+  "describe": "Identifie les consultations de la plateforme ieee",
+  "docurl": "http://analogist.couperin.org/platforms/ieee/start",
+  "contact": "abderrazza.loukili@inist.fr",
+  "pkb": false
+}
