@@ -17,10 +17,8 @@ var Parser = require('../.lib/parser.js');
 module.exports = new Parser(function analyseEC(url) {
   var result = {};
   var path   = decodeURIComponent(URL.parse(url).path);
-  var domain   = url.hostname; /* Just the lowercased hostname portion of the host. Example: 'host.com' */
-
+  var domain = url.hostname; /* Just the lowercased hostname portion of the host. Example: 'host.com' */
   var match;
-  console.error(domain);
 
   if (domain == 'physics.aps.org') {
     result.title_id  = domain.replace(".aps.org", "");
