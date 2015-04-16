@@ -1,0 +1,25 @@
+{
+  "version": "2015-04-14",
+  "status": "beta",
+  "domains": [
+    "maitron-en-ligne.univ-paris1.fr.proxy.scd.univ-lille3.fr"
+  ],
+  "recognize": {
+    "rid": [
+      "title_id",
+      "unitid"
+    ],
+    "rtype": [
+      "ARTICLE"
+    ],
+    "mime": [
+      "HTML"
+    ]
+  },
+  "name": "maitron",
+  "longname": "maitron",
+  "describe": "Identifie les consultations de la plateforme maitron",
+  "docurl": "http://analogist.couperin.org/platforms/maitron/start",
+  "contact": "abderrazzak.loukili@inist.fr",
+  "pkb": false
+}
