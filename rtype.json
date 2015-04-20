@@ -123,5 +123,20 @@
     "code": "VIDEO",
     "description":  "consultation d'un fichier vidéo",
     "comment": "correspond à un type de contenu MULTIMEDIA, tel que décrit dans les rapports Multimedia COUNTER MR1 et MR2"
+  },
+  {
+    "code": "FICHE_ENTREPRISE",
+    "description":  "consultation d'une fiche entreprise",
+    "comment": "cas des plateformes en éco-gestion (xerfi, pointrisk, chelem)"
+  },
+  {
+    "code": "ETUDE_SECTORIELLE",
+    "description":  "consultation d'une étude sectorielle",
+    "comment": "cas des plateformes en éco-gestion (xerfi, pointrisk, chelem)"
+  },
+  {
+    "code": "DONNEES_ECONOMIQUES",
+    "description":  "consultation de données économiques",
+    "comment": "cas des plateformes en éco-gestion (xerfi, pointrisk, chelem)"
   }
 ]
