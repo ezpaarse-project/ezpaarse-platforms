@@ -1,0 +1,31 @@
+{
+  "version": "2015-04-20",
+  "status": "beta",
+  "domains": [
+    "http://www.endocrine.org/",
+    "press.endocrine.org"
+  ],
+  "recognize": {
+    "rid": [
+      "title_id",
+      "unitid"
+    ],
+    "rtype": [
+      "BOOK_SECTION",
+      "ABS",
+      "TOC",
+      "REF",
+      "ARTICLE"
+    ],
+    "mime": [
+      "MISC",
+      "PDF"
+    ]
+  },
+  "name": "es",
+  "longname": "endocrine society",
+  "describe": "Identifie les consultations de la plateforme endocrine society",
+  "docurl": "http://analogist.couperin.org/platforms/EndocrineSociety/",
+  "contact": "abderrazzak.loukili@inist.fr",
+  "pkb": false
+}
