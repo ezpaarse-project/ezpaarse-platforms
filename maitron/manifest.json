@@ -2,7 +2,7 @@
   "version": "2015-04-14",
   "status": "beta",
   "domains": [
-    "maitron-en-ligne.univ-paris1.fr.proxy.scd.univ-lille3.fr"
+    "maitron-en-ligne.univ-paris1.fr"
   ],
   "recognize": {
     "rid": [
