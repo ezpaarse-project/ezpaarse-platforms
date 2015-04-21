@@ -2,7 +2,7 @@
   "version": "2015-04-15",
   "status": "beta",
   "domains": [
-    "ieeexplore.ieee.org.rproxy.insa-rennes.fr"
+    "ieeexplore.ieee.org"
   ],
   "recognize": {
     "rid": [
