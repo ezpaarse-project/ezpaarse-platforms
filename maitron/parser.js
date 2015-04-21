@@ -29,9 +29,12 @@ module.exports = new Parser(function analyseEC(parsedUrl, ec) {
     //console.error(elt);
     break;
   }
-  //console.error(param[0].toString());
+
   if ((match = /^\/(([a-z]+).php)$/.exec(path)) !== null) {
    // http://maitron-en-ligne.univ-paris1.fr.proxy.scd.univ-lille3.fr/spip.php?article170943&id_mot=9745
+    //http://maitron-en-ligne.univ-paris1.fr:80/spip.php?page=recherche&lang=fr&choix=2&recherche=raymond+mahoudeaux&OK=OK 
+   
+    if((match = /article*/.exec(elt)) !== null){
     result.rtype    = 'ARTICLE';
     result.mime     = 'HTML';
 
@@ -41,6 +44,7 @@ module.exports = new Parser(function analyseEC(parsedUrl, ec) {
     //it can be a DOI, an internal identifier or a part of the accessed URL
     //see http://ezpaarse.couperin.org/doc/ec-attributes.html#description-de-unitid for more details
     result.unitid   = elt;
+    }
   } 
 
   return result;
