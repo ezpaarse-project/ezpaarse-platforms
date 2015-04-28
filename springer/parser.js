@@ -88,13 +88,16 @@ module.exports = new Parser(function analyseEC(parsedUrl) {
       result.mime = 'MISC';
     }
   } else if ((match = /^\/static\/pdf\/([0-9]+)\/([a-zA-Z]{3})([^\/]+)\.pdf/.exec(path)) !== null) {
-    if (param.ext && param.ext == '.pdf') {
+    if ((param.ext && param.ext == '.pdf') || param.token2) {
       // example : http://download.springer.com.gate1.inist.fr/static/pdf/523/
       // bfm%253A978-1-60761-847-8%252F1.pdf?auth66=1384533099_d84ec41bfb54c7ebeec4c5604109e82f&ext=.pdf
       // http://download.springer.com.gate1.inist.fr/static/pdf/306/art%253A10.1007%252Fs10696-011-9117-0.pdf
       // ?auth66=1384536619_eb29d0312d3611304feced658436b1ff&ext=.pdf
       // http://download.springer.com.gate1.inist.fr/static/pdf/814/chp%253A10.1007%252FBFb0009076.pdf?
       // auth66=1414774941_b4e319c8dc5923418d751bf57de4fdc9&ext=.pdf
+      // http://download-v2.springer.com:80/static/pdf/721/art%253A10.1007%252Fs10569-013-9515-6.pdf?
+      // token2=exp=1430227746~acl=%2Fstatic%2Fpdf%2F721%2Fart%25253A10.1007%25252Fs10569-013-9515-6.pdf*~hmac=
+      // 4fb1e64d78df1281c33d5359415b6e23fa454b613fe4827b45101feb90986375
       result.title_id  = match[1];
       result.mime = 'PDF';
       result.unitid = decodeURIComponent(match[3]).substr(1);
