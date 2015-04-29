@@ -1,0 +1,25 @@
+{
+  "version": "2015-04-29",
+  "status": "beta",
+  "domains": [
+    "ascelibrary.org"
+  ],
+  "recognize": {
+    "rid": [
+      "title_id",
+      "doi",
+      "print_identifier"
+    ],
+    "rtype": ["ARTICLE", "TOC"],
+    "mime": [
+      "HTML",
+      "PDF"
+    ]
+  },
+  "name": "asce",
+  "longname": "AMERICAN SOCIETY OF CIVIL ENGINEERS",
+  "describe": "Identifie les consultations de la plateforme AMERICAN SOCIETY OF CIVIL ENGINEERS",
+  "docurl": "http://analogist.couperin.org/platforms/asce/start",
+  "contact": "alain.drouet@ifsttar.fr",
+  "pkb": false
+}
