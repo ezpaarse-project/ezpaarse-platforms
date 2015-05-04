@@ -1,9 +1,10 @@
 publication_title	print_identifier	online_identifier	date_first_issue_online	num_first_vol_online	num_first_issue_online	date_last_issue_online	num_last_vol_online	num_last_issue_online	title_url	first_author	title_id	embargo_info	coverage_depth	coverage_notes	publisher_name
 Colloque International sur le Document Electronique											cide				
 CRIMPREV : Assessing Deviance, Crime and Prevention in Europe											crimprev				
- Intelligences Journal : Revue en intelligence économique											isj				
+Intelligences Journal : Revue en intelligence économique											isj				
 Cahiers de Psychologie politique											cahierspsychologiepolitique				
 Oeil et physiologie de la vision											oeiletphysiologiedelavision				
 Pollution atmosphérique											pollution-atmospherique				
 Saint Jacques info											saintjacquesinfo				
 Tralogy											tralogy				
+Déchets, Sciences & Techniques											dechets-sciences-techniques				
