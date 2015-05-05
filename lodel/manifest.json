@@ -18,9 +18,9 @@
       "PDF"
     ]
   },
-  "name": "irevues-lodel",
-  "longname": "Irevues : partie LODEL",
-  "describe": "Identifie les consultations de la plateforme Irevues : partie LODEL",
+  "name": "lodel",
+  "longname": "LODEL : pour Irevues",
+  "describe": "Identifie les consultations de la plateforme LODEL (Uilisée par Irevues)",
   "docurl": "http://analogist.couperin.org/platforms/irevues_lodel/",
   "contact": "dominique.lechaudel@inist.fr",
   "pkb": true

@@ -1,10 +1,10 @@
 {
-  "name": "irevues",
+  "name": "dspace",
   "version": "2014-01-24",
   "status": "stable",
   "trello": "https://trello.com/c/zSbtgSOR",
-  "longname": "Irevues",
-  "describe": "Identifie les consultations de Irevue",
+  "longname": "Irevues - Dspace",
+  "describe": "Identifie les consultations de Irevue (dspace)",
   "docurl": "http://analogist.couperin.org/platforms/irevues/",
   "contact": "cecilia.fabry at inist point fr at inist point fr",
 	"domains": [
