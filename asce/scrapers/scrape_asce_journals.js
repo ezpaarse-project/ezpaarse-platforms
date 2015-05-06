@@ -61,7 +61,7 @@ function getJournalInfo(journalUrl, cb) {
     journalInfo.title_url   = journalUrl;
     pkb.addRow(journalInfo);
     //writeCSV(journalInfo);
-    console.log(journalInfo)
+    console.log(journalInfo);
     cb(err, journalInfo);
   });
 }
