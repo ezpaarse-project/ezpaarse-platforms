@@ -1,6 +1,6 @@
 out-print_identifier;out-title_id;out-unitid;out-rtype;out-mime;in-url
-;VNS;;TOC;MISC;http://journals.cambridge.org.gate1.inist.fr/action/displayJournal?jid=VNS&bVolume=y
-;VNS;;TOC;MISC;http://journals.cambridge.org.gate1.inist.fr/action/displayIssue?decade=2010&jid=VNS&volumeId=27&issueId=3-4&iid=7880012
+;VNS;VNS;TOC;MISC;http://journals.cambridge.org.gate1.inist.fr/action/displayJournal?jid=VNS&bVolume=y
+;VNS;7880012;TOC;MISC;http://journals.cambridge.org.gate1.inist.fr/action/displayIssue?decade=2010&jid=VNS&volumeId=27&issueId=3-4&iid=7880012
 0952-5238;;S0952523813000345;ABS;HTML;http://journals.cambridge.org.gate1.inist.fr/action/displayAbstract?fromPage=online&aid=9010487&fulltextType=RV&fileId=S0952523813000345
 0952-5238;VNS;S0952523810000179;ARTICLE;HTML;http://journals.cambridge.org.gate1.inist.fr/action/displayFulltext?type=6&fid=7880026&jid=VNS&volumeId=27&issueId=3-4&aid=7880025&fulltextType=RA&fileId=S0952523810000179
 ;VNS;7880025;ARTICLE;PDF;http://journals.cambridge.org.gate1.inist.fr/action/displayFulltext?type=1&pdftype=1&fid=7880027&jid=VNS&volumeId=27&issueId=3-4&aid=7880025

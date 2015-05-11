@@ -1,8 +1,7 @@
 out-title_id;out-unitid;out-rtype;out-mime;in-url
 search.do;0EB47AD4DCFA2DCE08A94DFB47A68F20;MISC;MISC;"https://www-reaxys-com.chimie.gate.inist.fr/reaxys/secured/search.do;jsessionid=0EB47AD4DCFA2DCE08A94DFB47A68F20"
-paging.do;;REF;MISC;https://www-reaxys-com.chimie.gate.inist.fr/reaxys/secured/paging.do?performed=true&action=restore
+paging.do;paging.do;REF;MISC;https://www-reaxys-com.chimie.gate.inist.fr/reaxys/secured/paging.do?performed=true&action=restore
 xflink;US2006/40881;REF;MISC;http://sc.elsevier.com.chimie.gate.inist.fr/xflink?pubno=US2006%2F40881&pubdate=2006&kindcode=A1
 printing;20131128_093730_783;ARTICLE;PDF;https://www-reaxys-com.chimie.gate.inist.fr/reaxys/printing/reaxys_anonymous_20131128_093730_783.pdf
 printing;20131128_115029_666;ARTICLE;DOC;https://www-reaxys-com.chimie.gate.inist.fr/reaxys/printing/reaxys_anonymous_20131128_115029_666.doc
 printing;20131128_115334_393;ARTICLE;XLS;https://www-reaxys-com.chimie.gate.inist.fr/reaxys/printing/reaxys_anonymous_20131128_115334_393.xls
-

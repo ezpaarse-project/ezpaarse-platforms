@@ -23,6 +23,7 @@ module.exports = new Parser(function analyseEC(parsedUrl) {
     // example : http://publications.edpsciences.org.gate1.inist.fr/index.php?option=com_journals
     result.rtype = 'TOC';
     result.mime = 'MISC';
+    result.unitid = param.option;
   } else if ((match = /\/articles\/([a-zA-Z0-9]+)\/abs\/([0-9]{4}\/[0-9]{2}|first)\/contents\/contents.html$/.exec(url)) !== null) {
     // example : http://www.apidologie.org/index.php?option=com_toc&url=/articles/apido/abs/2010/06/contents/contents.html
     result.unitid = match[1] + '/'  + match[2];
@@ -45,7 +46,7 @@ module.exports = new Parser(function analyseEC(parsedUrl) {
       break;
     case 'ref':
       // example http://www.apidologie.org/index.php?option=com_article&url=/articles/apido/ref/2010/06/m09075/m09075.html
-      //result.unitid = match[1] + match[2] + match[3];
+      result.unitid = match[1] + '/'  + match[3] + match[4];
       result.rtype = 'REF';
       result.mime = 'MISC';
       break;
@@ -65,6 +66,7 @@ module.exports = new Parser(function analyseEC(parsedUrl) {
       switch (match[1]) {
       case 'displayJournal':
         // example : http://www.epjap.org/action/displayJournal?jid=JAP
+        result.unitid = param.jid;
         result.rtype = 'TOC';
         result.mime = 'MISC';
         break;

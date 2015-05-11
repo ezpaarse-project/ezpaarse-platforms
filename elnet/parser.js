@@ -30,6 +30,7 @@ module.exports = new Parser(function analyseEC(parsedUrl, ec) {
     result.mime     = 'MISC';
     if (param.id) {
       result.title_id = param.id;
+      result.unitid= param.id;
     }
     if (param.FromId) {
       // http://www.elnet.fr/documentation/Document?id=ASSU&FromId=Z4LSTCODE
@@ -60,12 +61,14 @@ module.exports = new Parser(function analyseEC(parsedUrl, ec) {
     }
     result.mime     = 'PDF';
     result.title_id = match[2];
+    result.unitid = match[2];
   } else if ((match = /^\/aboveille\/editdoc\.do$/.exec(path)) !== null) {
     // http://www.editions-legislatives.fr/aboveille/editdoc.do?attId=150868
     result.rtype    = 'ARTICLE';
     result.mime     = 'PDF';
     if (param.attId) { 
       result.title_id = param.attId;
+      result.unitid= param.attId;
     }
   } else if ((match = /^\/aboveille\/logon\.do$/.exec(path)) !== null) {
     // http://www.editions-legislatives.fr/aboveille/logon.do?zone=CCACTU
@@ -74,6 +77,7 @@ module.exports = new Parser(function analyseEC(parsedUrl, ec) {
     result.mime     = 'HTML';
     if (param.attId) { 
       result.title_id = param.attId;
+      result.unitid= param.attId;
     }
   }
 

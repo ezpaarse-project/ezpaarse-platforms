@@ -1,0 +1,27 @@
+{
+  "version": "2015-04-23",
+  "status": "beta",
+  "domains": [
+    "univ-paris1.cyberlibris.com"
+  ],
+  "recognize": {
+    "rid": [
+      "title_id",
+      "unitid"
+    ],
+    "rtype": [
+      "ABS",
+      "BOOK"
+    ],
+    "mime": [
+      "MISC",
+      "HTML"
+    ]
+  },
+  "name": "cyberlibris",
+  "longname": "Cyberlibris",
+  "describe": "Identifie les consultations de la plateforme Cyberlibris",
+  "docurl": "http://analogist.couperin.org/platforms/cyberlibris/start",
+  "contact": "abderrazzak.loukili@inist.fr",
+  "pkb": false
+}

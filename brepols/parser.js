@@ -30,6 +30,7 @@ module.exports = new Parser(function analyseEC(parsedUrl, ec) {
     result.rtype    = 'REF';
     result.mime     = 'HTML';
     result.title_id = match[1];
+    result.unitid=match[1];
   } else if ((match = /^\/([a-z]+)\/pages\/([^.]+).aspx$/.exec(path)) !== null) {
     // http://clt.brepolis.net/emgh/pages/FullText.aspx?ctx=AGAFJG
     // http://clt.brepolis.net/emgh/pages/Exporter.aspx?ctx=31193
@@ -38,6 +39,7 @@ module.exports = new Parser(function analyseEC(parsedUrl, ec) {
     // http://clt.brepolis.net/dld/pages/ImageProvider.aspx?name=DC7_215&x=661&y=642
     result.rtype    = 'BOOK_SECTION';
     result.title_id = match[1];
+      result.unitid=match[1];
     if (match[2] === 'FullText') {
       result.mime     = 'HTML';
     } else if (match[2] === 'Exporter') {

@@ -107,23 +107,29 @@ module.exports = new Parser(function analyseEC(parsedUrl) {
     }
     result.rtype = 'ARTICLE';
     result.mime = 'READCUBE';
-  }else if ((match = /^\/doi\/([0-9]{2}\.[0-9]{4,5})\/([A-Z]{1}[0-9]+)\/pdf$/.exec(path)) !== null) {
+  }else if ((match = /^\/doi\/([0-9]{2}\.[0-9]{4,5})\/([A-Z]{1}[0-9A-Z]+)\/pdf$/.exec(path)) !== null) {
     // http://onlinelibrary.wiley.com.gate1.inist.fr/doi/10.1107/S1399004715000292/pdf
     result.unitid = result.doi = match[1] + "/" + match[2] ;
     result.title_id = match[2].toUpperCase();
     result.rtype = 'ARTICLE';
     result.mime = 'PDF';
-  } else if ((match = /^\/iucr\/([0-9]{2}\.[0-9]{4,5})\/([A-Z]{1}[0-9]+)/.exec(path)) !== null) {
+  } else if ((match = /^\/iucr\/([0-9]{2}\.[0-9]{4,5})\/([A-Z]{1}[0-9A-Z]+)/.exec(path)) !== null) {
     // http://onlinelibrary.wiley.com.gate1.inist.fr/iucr/10.1107/S1399004715000292
+    //http://onlinelibrary.wiley.com.gate1.inist.fr/iucr/10.1107/S139900471402286X
     result.unitid = result.doi = match[1] + "/" + match[2] ;
     result.title_id = match[2].toUpperCase();
     result.rtype = 'ARTICLE';
     result.mime = 'HTML';
-  }  else if ((match = /^\/doi\/([0-9]{2}\.[0-9]{4,5})\/([A-Z]{1}[0-9]+)\/abstract$/.exec(path)) !== null) {
+  }  else if ((match = /^\/doi\/([0-9]{2}\.[0-9]{4,5})\/([A-Z]{1}[0-9A-Z]+)\/([a-z]+)$/.exec(path)) !== null) {
     //http://onlinelibrary.wiley.com.gate1.inist.fr/doi/10.1107/S1399004715000292/abstract
     result.unitid = result.doi = match[1] + "/" + match[2] ;
+
     result.title_id = match[2].toUpperCase();
-    result.rtype = 'ABS';
+    if( match[3] === "abstract" ){
+      result.rtype = 'ABS';
+    }else if(match[3]==="pdf"){
+      result.rtype = 'PDF';
+    }
     result.mime = 'MISC';
   } else if ((match = /^\/store\/([0-9]{2}\.[0-9]{4,5})\/([a-z]+)\.([0-9]+)\/([a-z]+)\/(([a-z]+)([0-9]+)).pdf$/.exec(path)) !== null) {
     //http://onlinelibrary.wiley.com.gate1.inist.fr/store/10.15252/embr.201439742/asset/embr201439742.pdf

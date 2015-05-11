@@ -1,0 +1,26 @@
+{
+  "version": "2015-04-10",
+  "status": "beta",
+  "domains": [
+    "library.artstor.org"
+  ],
+  "recognize": {
+    "rid": [
+      "title_id",
+      "unitid"
+    ],
+    "rtype": [
+      "IMAGE",
+      "ARTICLE"
+    ],
+    "mime": [
+      "HTML"
+    ]
+  },
+  "name": "artstor",
+  "longname": "Artstor Digital Library",
+  "describe": "Identifie les consultations de la plateforme Artstor Digital Library",
+  "docurl": "http://analogist.couperin.org/platforms/artstor/",
+  "contact": "abderrazzak.loukili@inist.fr",
+  "pkb": false
+}

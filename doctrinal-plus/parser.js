@@ -29,6 +29,7 @@ module.exports = new Parser(function analyseEC(parsedUrl, ec) {
     // http://newip.doctrinalplus.fr/doctrinal/revues/domaine
     result.rtype    = 'TOC';
     result.mime     = 'HTML';
+    result.unitid=match[1];
   } else if ((match = /^\/doc\/doctrinal\/revue\/([^\/]+)$/.exec(path)) !== null) {
     // http://newip.doctrinalplus.fr/doc/doctrinal/revue/REVDRSANITSOC
     result.rtype    = 'NOTICE_T';
@@ -81,7 +82,7 @@ module.exports = new Parser(function analyseEC(parsedUrl, ec) {
     result.rtype    = 'ARTICLE';
     result.mime     = 'PDF';
     //result.title_id = match[2];
-    //result.unitid   = match[2];
+    result.unitid   = "mono";
   }
 
   return result;

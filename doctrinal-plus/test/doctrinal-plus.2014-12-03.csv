@@ -1,6 +1,6 @@
 out-title_id;out-unitid;out-rtype;out-mime;in-url
-;;TOC;HTML;http://newip.doctrinalplus.fr/doctrinal/revues/alph
-;;TOC;HTML;http://newip.doctrinalplus.fr/doctrinal/revues/domaine
+;alph;TOC;HTML;http://newip.doctrinalplus.fr/doctrinal/revues/alph
+;domaine;TOC;HTML;http://newip.doctrinalplus.fr/doctrinal/revues/domaine
 REVDRSANITSOC;REVDRSANITSOC;NOTICE_T;HTML;http://newip.doctrinalplus.fr/doc/doctrinal/revue/REVDRSANITSOC
 379663;379663;NOTICE_A;HTML;http://newip.doctrinalplus.fr/doc/doctrinal/notice/379663
 jorf;jorf/2014/10/29/29643924;ARTICLE;HTML;http://newip.doctrinalplus.fr/doc/fr/jo/jorf/2014/10/29/29643924
@@ -10,4 +10,4 @@ securite_sociale;securite_sociale/20120509/D412-79;ARTICLE;HTML;http://newip.doc
 ;conseil_d_etat/376617;JURISPRUDENCE;HTML;http://newip.doctrinalplus.fr/doc/fr/jurisprudence/administrative/conseil_d_etat/376617?nop=1&search_id=526775a59652bcac5f1df78d149d3741&idx=0
 ;se/qSEQ090307701;ASSEMBLEE;HTML;http://newip.doctrinalplus.fr/doc/fr/assemblees/se/qSEQ090307701?nop=1&search_id=a3c7f66be34266e70b34dc7787387a9c&idx=62420
 ;1/2008/M/PRO_03;ARTICLE;HTML;http://newip.doctrinalplus.fr/doc/eu/celex/1/2008/M/PRO_03?nop=1&search_id=058256217ade3971336b3224bafc7ef8&idx=0
-;;ARTICLE;PDF;http://newip.doctrinalplus.fr/pdf/mono
+;mono;ARTICLE;PDF;http://newip.doctrinalplus.fr/pdf/mono

@@ -1,5 +1,5 @@
 out-title_id;out-unitid;out-rtype;out-mime;in-url
-jcem;;TOC;MISC;http://press.endocrine.org/journal/jcem
+jcem;jcem;TOC;MISC;http://press.endocrine.org/journal/jcem
 jcem;jcem/current;TOC;MISC;http://press.endocrine.org/toc/jcem/current
 jcem;jcem/99/12;TOC;MISC;http://press.endocrine.org/toc/jcem/99/12
 10.1210;10.1210/jc.2014-3282;ABS;MISC;http://press.endocrine.org/doi/abs/10.1210/jc.2014-3282
@@ -8,6 +8,6 @@ jcem;jcem/99/12;TOC;MISC;http://press.endocrine.org/toc/jcem/99/12
 10.1210;figure/10.1210/jc.2014-3282;;MISC;http://press.endocrine.org/doi/figure/10.1210/jc.2014-3282
 10.1210;suppl/10.1210/jc.2014-3282;;;http://press.endocrine.org/doi/suppl/10.1210/jc.2014-3282
 10.1210;citedby/10.1210/jc.2014-3282;REF;MISC;http://press.endocrine.org/doi/citedby/10.1210/jc.2014-3282
-9781936704842;;TOC;MISC;http://press.endocrine.org/doi/10.1210/MN1.9781936704842
-10.1210;;ABS;MISC;http://press.endocrine.org/doi/abs/10.1210/MN1.9781936704842.ch4
-10.1210;;BOOK_SECTION;MISC;http://press.endocrine.org/doi/full/10.1210/MN1.9781936704842.ch4
+9781936704842;10.1210/MN1.9781936704842;TOC;MISC;http://press.endocrine.org/doi/10.1210/MN1.9781936704842
+10.1210;abs/10.1210/MN1.9781936704842.ch4;ABS;MISC;http://press.endocrine.org/doi/abs/10.1210/MN1.9781936704842.ch4
+10.1210;full/10.1210/MN1.9781936704842.ch4;BOOK_SECTION;MISC;http://press.endocrine.org/doi/full/10.1210/MN1.9781936704842.ch4

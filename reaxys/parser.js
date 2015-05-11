@@ -21,13 +21,17 @@ module.exports = new Parser(function analyseEC(parsedUrl) {
     result.rtype    = 'MISC';
     result.mime     = 'MISC';
     result.title_id = match[1];
-    if (match[3]) { result.unitid = match[3]; }
+    if (match[3]) { result.unitid = match[3]; }else{
+      result.unitid =match[1];
+    }
   } else if ((match = /\/reaxys\/secured\/(paging.do)(;jsessionid=([A-Za-z0-9]+))?/.exec(path)) !== null) {
     // https://www-reaxys-com.chimie.gate.inist.fr/reaxys/secured/paging.do?performed=true&action=restore
     result.rtype    = 'REF';
     result.mime     = 'MISC';
     result.title_id = match[1];
-    if (match[3]) { result.unitid = match[3]; }
+    if (match[3]) { result.unitid = match[3]; }else{
+      result.unitid =match[1];
+    }
   } else if ((match = /\/(xflink)/.exec(path)) !== null) {
     // http://sc.elsevier.com.chimie.gate.inist.fr/xflink?pubno=US2006%2F40881&pubdate=2006&kindcode=A1
     result.rtype = 'REF';

@@ -46,13 +46,15 @@ module.exports = new Parser(function analyseEC(parsedUrl, ec) {
     // sid=6323ca41-66ca-4e71-a8d9-c2a2cae26f16%40sessionmgr110&vid=4&hid=103
     result.rtype    = 'ARTICLE';
     result.mime     = 'PDF';
+    result.unitid = param.hid +"/"+ param.vid;
   } else if ((match = /^\/ContentServer.asp$/.exec(path)) !== null) {
     // http://content.ebscohost.com:80/ContentServer.asp?T=P&P=AN&K=96283258&S=R&
     // D=aph&EbscoContent=dGJyMNLe80SeqK84v%2BvlOLCmr0yep65Srqi4S7CWxWXS&
     // ContentCustomer=dGJyMPGpsky2qLNQuczHXbnb5ofx6gAA
     result.rtype    = 'ARTICLE';
     result.mime     = 'PDF';
-    if (param.K) { result.title_id = param.K; }
+    if (param.K) { result.title_id = param.K;
+    result.unitid= param.K; }
   } else if ((match = /^\/ehost\/(results|detail)$/.exec(path)) !== null) {
     // https://web-ebscohost-com.frodon.univ-paris5.fr/ehost/results?
     // sid=6323ca41-66ca-4e71-a8d9-c2a2cae26f16%40sessionmgr110&vid=2&
@@ -68,6 +70,7 @@ module.exports = new Parser(function analyseEC(parsedUrl, ec) {
     // hid=103&bdata=Jmxhbmc9ZnImc2l0ZT1laG9zdC1saXZl#db=rzh&AN=2012317453
     if (match[1] === 'results') {
       result.rtype    = 'TOC';
+      result.unitid =  param.hid +"/"+ param.vid;
     } else if (hashedUrl && hashedUrl.query.db) { // detail
       result.rtype    = 'ABS';
       result.unitid = hashedUrl.query.db;

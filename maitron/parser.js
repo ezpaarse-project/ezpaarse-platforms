@@ -30,10 +30,11 @@ module.exports = new Parser(function analyseEC(parsedUrl, ec) {
     break;
   }
 
-  if ((match = /^\/(([a-z]+).php)$/.exec(path)) !== null) {
+  if ((match = /^\/(([a-z]+)).php$/.exec(path)) !== null) {
    // http://maitron-en-ligne.univ-paris1.fr.proxy.scd.univ-lille3.fr/spip.php?article170943&id_mot=9745
     //http://maitron-en-ligne.univ-paris1.fr:80/spip.php?page=recherche&lang=fr&choix=2&recherche=raymond+mahoudeaux&OK=OK 
-   
+    result.unitid   = match[1];
+
     if((match = /article*/.exec(elt)) !== null){
     result.rtype    = 'ARTICLE';
     result.mime     = 'HTML';

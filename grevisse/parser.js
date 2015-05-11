@@ -45,6 +45,7 @@ module.exports = new Parser(function analyseEC(parsedUrl, ec) {
     // hhttp://www.lebonusage.com/imprime
     result.rtype    = 'ARTICLE';
     result.mime     = 'HTML';
+      result.unitid   = "imprime";
   }
   // override HTML default if PDF download requested
   if (parsedUrl.hash && parsedUrl.hash === '#pdfBox') { result.mime = 'PDF';}

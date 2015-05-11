@@ -22,11 +22,13 @@ module.exports = new Parser(function analyseEC(parsedUrl) {
   // http://iospress.metapress.com/content/103143
   } else if ((match = /^\/content\/([a-z0-9]{6})\/?$/i.exec(path)) !== null) {
     result.title_id = match[1];
+    result.unitid = match[1];
     result.mime     = 'HTML';
     result.rtype    = 'TOC';
 
   // http://iospress.metapress.com/content/m24924142248/?p=a1cde377bd124a8894d178f0966e27ca&pi=3
   } else if ((match = /^\/content\/([a-z0-9]{7,})\/?$/i.exec(path)) !== null) {
+    result.unitid = match[1];
     result.unitid = match[1];
     result.mime   = 'HTML';
     result.rtype  = 'TOC';
@@ -35,6 +37,7 @@ module.exports = new Parser(function analyseEC(parsedUrl) {
   } else if ((match = /^\/content\/([0-9]{4}-[0-9]{4})\/?$/i.exec(path)) !== null) {
     result.print_identifier  = match[1]; // can be both print and electronic
     result.online_identifier = match[1];
+    result.unitid = match[1];
     result.mime              = 'HTML';
     result.rtype             = 'TOC';
   }

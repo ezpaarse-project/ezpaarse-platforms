@@ -1,7 +1,7 @@
-out-mime;out-rtype;in-url
-HTML;INDEX;http://www.arabidopsis.org.gate1.inist.fr/index.jsp
-HTML;SEARCH;http://www.arabidopsis.org.gate1.inist.fr/servlets/Search?type=general&action=new_search
-HTML;TOOLS;http://www.arabidopsis.org.gate1.inist.fr/tools/index.jsp
-HTML;PORTALS;http://www.arabidopsis.org.gate1.inist.fr/portals/index.jsp
-HTML;DOWNLOAD;http://www.arabidopsis.org.gate1.inist.fr/download/index.jsp
-HTML;SUBMIT;http://www.arabidopsis.org.gate1.inist.fr/submit/index.jsp
+out-unitid;out-mime;out-rtype;in-url
+index;HTML;INDEX;http://www.arabidopsis.org.gate1.inist.fr/index.jsp
+servlets/Search;HTML;SEARCH;http://www.arabidopsis.org.gate1.inist.fr/servlets/Search?type=general&action=new_search
+tools/index;HTML;TOOLS;http://www.arabidopsis.org.gate1.inist.fr/tools/index.jsp
+portals/index;HTML;PORTALS;http://www.arabidopsis.org.gate1.inist.fr/portals/index.jsp
+download/index;HTML;DOWNLOAD;http://www.arabidopsis.org.gate1.inist.fr/download/index.jsp
+submit/index;HTML;SUBMIT;http://www.arabidopsis.org.gate1.inist.fr/submit/index.jsp

@@ -29,7 +29,7 @@ module.exports = new Parser(function analyseEC(parsedUrl, ec) {
     result.rtype    = 'TOC';
     result.mime     = 'MISC';
     result.title_id = match[1];
-    //result.unitid   = match[2];
+    result.unitid   = match[1];
   } else   if ((match = /^\/toc\/([a-z]+)\/([a-z]+)$/.exec(path)) !== null) {
    // http://press.endocrine.org/toc/jcem/current
     result.rtype    = 'TOC';
@@ -92,6 +92,7 @@ module.exports = new Parser(function analyseEC(parsedUrl, ec) {
     result.rtype    = 'TOC';
     result.mime     = 'MISC';
     result.title_id = match[4];
+    result.unitid  = match[1]+'.'+ match[2] +'/'+ match[3]+'.'+ match[4];
   }else   if ((match = /^\/doi\/([a-z]+)\/([0-9]{2}).([0-9]+)\/([A-Z1-9]+).([0-9]+).([a-z0-9]+)$/.exec(path)) !== null) {
     //http://press.endocrine.org/toc/jcem/99/12
     switch (match[1]) {
@@ -107,6 +108,7 @@ module.exports = new Parser(function analyseEC(parsedUrl, ec) {
         break;
     }
     result.title_id = match[2]+'.'+ match[3];
+      result.unitid  = match[1] +'/'+ match[2]+'.'+ match[3] +'/'+ match[4]+'.'+ match[5]+'.'+ match[6];
   }
 
 

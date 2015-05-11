@@ -24,6 +24,10 @@ module.exports = new Parser(function analyseEC(parsedUrl) {
   if (match) {
     switch (match[1]) {
     case 'displayJournal':
+       result.unitid =param.jid;
+        result.rtype = 'TOC';
+      result.mime  = 'MISC';
+      break;
     case 'displayJournalTab':
       // http://journals.cambridge.org.gate1.inist.fr/action/displayJournal?jid=VNS&bVolume=y
       result.rtype = 'TOC';
@@ -31,8 +35,10 @@ module.exports = new Parser(function analyseEC(parsedUrl) {
       break;
     case 'displayIssue':
       // http://journals.cambridge.org.gate1.inist.fr/action/displayIssue?decade=2010&jid=VNS&volumeId=27&issueId=3-4&iid=7880012
+     
       result.rtype = 'TOC';
       result.mime  = 'MISC';
+      result.unitid =param.iid;
       break;
     case 'displayFulltext':
       if (param.pdftype) {

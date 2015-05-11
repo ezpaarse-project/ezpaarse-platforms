@@ -20,11 +20,13 @@ module.exports = new Parser(function analyseEC(parsedUrl) {
   if ((match = /\/journal\/([a-z]+[0-9]?)$/.exec(path)) !== null) {
     // /journal/achre4
     result.title_id   = match[1];
+    result.unitid = match[1];
     result.rtype = 'TOC';
     result.mime  = 'MISC';
   } else if ((match = /\/loi\/([a-z]+[0-9]?)$/.exec(path)) !== null) {
     // /loi/achre4
     result.title_id   = match[1];
+    result.unitid = match[1];
     result.rtype = 'TOC';
     result.mime  = 'MISC';
   } else if ((match = /\/toc\/([a-z]+[0-9]?)\/current$/.exec(path)) !== null) {
@@ -72,21 +74,25 @@ module.exports = new Parser(function analyseEC(parsedUrl) {
   } else if ((match = /^\/isbn\/([0-9]{13})$/.exec(parsedUrl.pathname)) !== null) {
     // /isbn/9780841229105
     result.title_id   = match[1];
+    result.unitid = match[1];
     result.rtype = 'TOC';
     result.mime  = 'MISC';
   } else if ((match = /^\/doi\/pdf\/([0-9]{2}\.[0-9]{4})\/bk-([0-9]{4})-([0-9]+)\.([a-z0-9]+)$/.exec(path)) !== null) {
     // /doi/pdf/10.1021/bk-2012-1121.ch001
     result.title_id   = match[1];
+    result.unitid = match[1] + '/bk-' + match[2]  + '-' + match[3] + '.' + match[4];
     result.rtype = 'BOOK_SECTION';
     result.mime  = 'PDF';
   } else if ((match = /^\/doi\/pdfplus\/([0-9]{2}\.[0-9]{4})\/bk-([0-9]{4})-([0-9]+)\.([a-z0-9]+)$/.exec(path)) !== null) {
     // /doi/pdfplus/10.1021/bk-2012-1121.ch001
     result.title_id   = match[1];
+    result.unitid = match[1] + '/bk-' + match[2]  + '-' + match[3] + '.' + match[4];
     result.rtype = 'BOOK_SECTION';
     result.mime  = 'PDF';
   } else if ((match = /^\/doi\/full\/([0-9]{2}\.[0-9]{4})\/bk-([0-9]{4})-([0-9]+)\.([a-z0-9]+)$/.exec(path)) !== null) {
     // /doi/full/10.1021/bk-2012-1121.ch001
     result.title_id   = match[1];
+    result.unitid = match[1] + '/bk-' + match[2]  + '-' + match[3] + '.' + match[4];
     result.rtype = 'BOOK_SECTION';
     result.mime  = 'HTML';
   }

@@ -32,6 +32,7 @@ module.exports = new Parser(function analyseEC(parsedUrl) {
     // ?q=kwV0KuAA5KZLlfZKtCVvcXFeulZHfMIIKf4bXPKAJ7C2pm%2Bb8uO8AOAnzXPruvVdNl%2BcRbvsE7F9BvIjAF
     result.rtype = 'ARTICLE';
     result.mime  = 'PDF';
+    result.unitid = 'pdfsecure';
     //if (param.q) { result.unitid = param.q; }
   }
   return result;
