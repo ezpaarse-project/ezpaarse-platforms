@@ -77,8 +77,15 @@ module.exports = new Parser(function analyseEC(parsedUrl, ec) {
     result.unitid = hostname + '/' + match[1];
     result.rtype  = 'TOC';
     result.mime   = 'HTML';
+  } else if ((match =  /^\/content\/([a-z]+)\/([0-9]{4})\/([0-9]{2})\/([0-9]{2})\/([A-Z]+\.[0-9]{4}\.[0-9]+\.[0-9]+\.[0-9A-Z]+)\/([0-9a-zA-Z]+\_[A-Z]+\.[0-9]{4}\.[0-9]+\.[0-9]+\.pdf)$/.exec(pathname))!== null){
+    //http://jco.ascopubs.org.gate1.inist.fr/content/suppl/2015/03/23/JCO.2014.55.9898.DC1/Protocol1_JCO.2014.55.9898.pdf
+    //http://jco.ascopubs.org.gate1.inist.fr/content/suppl/2015/03/09/JCO.2014.58.9747.DC2/Protocol_JCO.2014.58.9747.pdf
+    result.rtype  = 'ARTICLE';
+    result.mime   = 'PDF';
+    result.title_id = match[6];
+    result.unitid = "content" +"/"+ match[1] +"/"+ match[2] +"/"+ match[3] +"/"+ match[4] +"/"+ match[5];
   }
-
+  //([0-9a-zA-Z]+\_[A-Z]+\.[0-9]{4}\.[0-9]+\.[0-9]+\.[0-9A-Z]+\.pdf)
   // if the size is less than 10ko, it's not the actual article but a login page
   if (fileSize && fileSize < 10000) {
     result._granted = false;
