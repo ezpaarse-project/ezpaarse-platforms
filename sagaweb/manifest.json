@@ -1,0 +1,27 @@
+{
+  "version": "2015-05-12",
+  "status": "beta",
+  "domains": [
+    "sagaweb.afnor.org",
+    "sagaweb-afnor-org.cassiope.cnam.fr"
+  ],
+  "recognize": {
+    "rid": [
+      "title_id",
+      "unitid"
+    ],
+    "rtype": [
+      "STANDARD"
+    ],
+    "mime": [
+      "HTML",
+      "PDF"
+    ]
+  },
+  "name": "sagaweb",
+  "longname": "Sagaweb (normes AFNOR)",
+  "describe": "Identifie les consultations de la plateforme Sagaweb (normes AFNOR)",
+  "docurl": "http://analogist.couperin.org/platforms/sagaweb/start",
+  "contact": "abderrazzak.loukili@inist.fr",
+  "pkb": false
+}
