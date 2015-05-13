@@ -37,8 +37,15 @@ module.exports = new Parser(function analyseEC(parsedUrl, ec) {
     result.mime     = 'HTML';
     result.title_id = match[3];
     result.unitid   = match[3]+'/'+match[4]+'/'+match[5];
-  }else if ((match = /^\/reader\/.*/.exec(path)) !== null) {
-    // http://univ-paris1.cyberlibris.com/reader/advprint/?DocID=88826141&pages=0
+  }
+
+  return result;
+});
+
+//88826141  88826141  MISC    http://univ-paris1.cyberlibris.com/reader/advprint/?DocID=88826141&pages=0  1
+
+//else if ((match = /^\/reader\/.*/.exec(path)) !== null) {
+  /*  // http://univ-paris1.cyberlibris.com/reader/advprint/?DocID=88826141&pages=0
  
     result.mime     = 'MISC';
     if (param.DocID) {
@@ -46,8 +53,4 @@ module.exports = new Parser(function analyseEC(parsedUrl, ec) {
        result.unitid = param.DocID;
     };
  
-  }
-
-  return result;
-});
-
+  }*/

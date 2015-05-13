@@ -71,18 +71,8 @@ module.exports = new Parser(function analyseEC(parsedUrl, ec) {
     result.unitid   = match[1];
 
 
-  } else if((match = /^\/library\/([a-z]+)\/([a-z]+)\/([1-9]+)/.exec(path)) !== null)
-  {
-    //http://library.artstor.org/library/secure/ppreview/736355?name=Arena%20Chapel,%20Giotto%20di%20Bondone
-   // console.error(match);
-    result.rtype    = 'PRINT';
-    result.mime     = 'HTML';
-    //result.title_id = '';
-    //see the comment block above
-    result.unitid   = param.name;
-
-
-  } 
+  }  
   return result;
 });
 
+//736355  Arena%20Chapel  %20Giotto%20di%20Bondone  PRINT http://library.artstor.org/library/secure/ppreview/736355?name=Arena%20Chapel %20Giotto%20di%20Bondone  http://library.artstor.org/library/secure/ppreview/736355?name=Arena%20Chapel %20Giotto%20di%20Bondone
