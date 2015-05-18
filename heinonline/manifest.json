@@ -1,0 +1,28 @@
+{
+  "version": "2015-05-18",
+  "status": "beta",
+  "domains": [
+    "heinonline.org",
+    "http://heinonline.org.faraway.u-paris10.fr"
+  ],
+  "recognize": {
+    "rid": [
+      "title_id",
+      "unitid"
+    ],
+    "rtype": [
+      "TOC",
+      "ARTICLE"
+    ],
+    "mime": [
+      "PDF",
+      "HTML"
+    ]
+  },
+  "name": "heinonline",
+  "longname": "HeinOnline",
+  "describe": "Identifie les consultations de la plateforme HeinOnline",
+  "docurl": "http://analogist.couperin.org/platforms/heinonline/start",
+  "contact": "abderrazzal.loukili@inist.fr",
+  "pkb": false
+}
