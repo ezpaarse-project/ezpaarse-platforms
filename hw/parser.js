@@ -2,7 +2,7 @@
 
 // ##EZPAARSE
 
-/*jslint maxlen: 180*/
+/*jslint maxlen: 250*/
 'use strict';
 var Parser = require('../.lib/parser.js');
 
@@ -77,7 +77,7 @@ module.exports = new Parser(function analyseEC(parsedUrl, ec) {
     result.unitid = hostname + '/' + match[1];
     result.rtype  = 'TOC';
     result.mime   = 'HTML';
-  } else if ((match =  /^\/content\/([a-z]+)\/([0-9]{4})\/([0-9]{2})\/([0-9]{2})\/([A-Z]+\.[0-9]{4}\.[0-9]+\.[0-9]+\.[0-9A-Z]+)\/([0-9a-zA-Z]+\_[A-Z]+\.[0-9]{4}\.[0-9]+\.[0-9]+\.pdf)$/.exec(pathname))!== null){
+  } else if ((match =  /^\/content\/([a-z]+)\/([0-9]{4})\/([0-9]{2})\/([0-9]{2})\/([A-Z]+\.[0-9]{4}\.[0-9]+\.[0-9]+\.[0-9A-Z]+)\/([0-9a-zA-Z]+\_[A-Z]+\.[0-9]{4}\.[0-9]+\.[0-9]+\.pdf)$/.exec(pathname))!== null) {
     //http://jco.ascopubs.org.gate1.inist.fr/content/suppl/2015/03/23/JCO.2014.55.9898.DC1/Protocol1_JCO.2014.55.9898.pdf
     //http://jco.ascopubs.org.gate1.inist.fr/content/suppl/2015/03/09/JCO.2014.58.9747.DC2/Protocol_JCO.2014.58.9747.pdf
     result.rtype  = 'ARTICLE';

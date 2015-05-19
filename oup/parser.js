@@ -16,8 +16,8 @@ module.exports = new Parser(function analyseEC(parsedUrl) {
   var path   = parsedUrl.pathname;
 
   var match;
-  var elementUnitId;
-var matchUrl;
+  var matchUrl;
+
   if (path == '/content/current') {
     // /content/current
     result.title_id = parsedUrl.host.split('.')[0]; // petrology.oxfordjournals.org.biblioplanets.gate.inist.fr
@@ -54,7 +54,7 @@ var matchUrl;
   } else if ((match = /\.figures-only$/.exec(path)) !== null) {
     // /content/113/3/403.figures-only
      matchUrl = path.split('/');
-    result.title_id = parsedUrl.host.split('.')[0];; // aob.oxfordjournals.org.gate1.inist.fr
+    result.title_id = parsedUrl.host.split('.')[0]; // aob.oxfordjournals.org.gate1.inist.fr
     result.rtype = 'FIGURES';
     result.mime  = 'MISC';
     
