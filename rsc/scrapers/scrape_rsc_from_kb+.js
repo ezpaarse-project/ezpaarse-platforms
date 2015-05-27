@@ -11,19 +11,16 @@ var request = require('request').defaults({
          process.env.HTTPS_PROXY
 });
 var path    = require('path');
-var XLS = require('xlsjs');
+var XLS     = require('xlsjs');
 var cheerio = require('cheerio');
 //var PkbRows = require('../../.lib/pkbrows.js');
 
-var filePath   = path.join(__dirname, '../pkb', 'kbplus_pkg_1382.xls');
-var xls = XLS.readFile(filePath);
-var PkbRows = require('../../.lib/pkbrows.js');
-var pkb     = new PkbRows('rsc');
+var filePath = path.join(__dirname, '../pkb', 'kbplus_pkg_1382.xls');
+var xls      = XLS.readFile(filePath);
+var PkbRows  = require('../../.lib/pkbrows.js');
+var pkb      = new PkbRows('rsc');
 pkb.setKbartName();
 
-
-var sheetFirstLine = 4;
-var sheetColTitleURL = 'J';
 var json;
 var match;
 
@@ -33,9 +30,6 @@ var match;
     json = XLS.utils.sheet_to_row_object_array(sheet);
     if (json.length > 0) { break; }
   }
-
-
-
 
 
   if (json.length === 0) {

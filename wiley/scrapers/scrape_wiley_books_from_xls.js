@@ -53,8 +53,6 @@ function parseXLS(xls) {
     xlsJsonObject[sheetName] = rowArray;
   }
 
-  var rowJournal = xlsJsonObject[sheetName];
-
   for (var i = sheetFirstLine; i < 20; i++) {
 
     // extract data
