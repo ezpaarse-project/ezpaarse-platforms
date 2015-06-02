@@ -1,0 +1,25 @@
+{
+  "version": "2015-06-02",
+  "status": "beta",
+  "domains": [
+    "www.numeriquepremium.com"
+  ],
+  "recognize": {
+    "rid": [
+      "title_id",
+      "unitid"
+    ],
+    "rtype": [
+      "ABS"
+    ],
+    "mime": [
+      "HTML"
+    ]
+  },
+  "name": "numerique-premium",
+  "longname": "Numerique Premium",
+  "describe": "Identifie les consultations de la plateforme Numerique Premium",
+  "docurl": "http://analogist.couperin.org/platforms/numerique-premium/start",
+  "contact": "abderrazzak.loukili@inist.fr",
+  "pkb": false
+}
