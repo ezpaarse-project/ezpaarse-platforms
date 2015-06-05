@@ -1,0 +1,25 @@
+{
+  "version": "2015-06-05",
+  "status": "beta",
+  "domains": [
+    "http://www.thieme-connect.com/","http://www.thieme-connect.de/"
+  ],
+  "recognize": {
+    "rid": [
+      "title_id",
+      "unitid"
+    ],
+    "rtype": [
+      "ARTICLE","TOC"
+    ],
+    "mime": [
+      "HTML","PDF"
+    ]
+  },
+  "name": "thieme",
+  "longname": "Thieme",
+  "describe": "Identifie les consultations de la plateforme thieme",
+  "docurl": "http://analogist.couperin.org/platforms/thieme/start",
+  "contact": "pamphile.isch@upmc.fr",
+  "pkb": false
+}
