@@ -1,0 +1,32 @@
+{
+  "version": "2015-06-08",
+  "status": "beta",
+  "domains": [
+    "www.nejm.org",
+    "www.nejm.org.ezproxy.unilim.fr"
+  ],
+  "recognize": {
+    "rid": [
+      "title_id",
+      "unitid"
+    ],
+    "rtype": [
+      "TOC",
+      "ARTICLE",
+      "VIDEO",
+      "IMAGE",
+      "REF"
+    ],
+    "mime": [
+      "MISC",
+      "HTML",
+      "PDF"
+    ]
+  },
+  "name": "nejm",
+  "longname": "NEJM - New England Journal of Medicine",
+  "describe": "Identifie les consultations de la plateforme NEJM - New England Journal of Medicine",
+  "docurl": "http://analogist.couperin.org/platforms/nejm/start",
+  "contact": "abderrazzak.loukili@inist.fr",
+  "pkb": false
+}
