@@ -1,0 +1,25 @@
+{
+  "version": "2015-06-08",
+  "status": "beta",
+  "domains": [
+    "www.evidal.fr"
+  ],
+  "recognize": {
+    "rid": [
+      "title_id",
+      "unitid"
+    ],
+    "rtype": [
+      "ARTICLE"
+    ],
+    "mime": [
+      "HTML"
+    ]
+  },
+  "name": "evidal",
+  "longname": "Evidal",
+  "describe": "Identifie les consultations de la plateforme Evidal",
+  "docurl": "http://analogist.couperin.org/platforms/evidal/start",
+  "contact": "abderrazza.loukili@init.fr",
+  "pkb": false
+}
