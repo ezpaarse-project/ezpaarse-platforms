@@ -44,7 +44,7 @@ module.exports = new Parser(function analyseEC(parsedUrl, ec) {
     if (param.DocID) {
        result.title_id = param.DocID;
        result.unitid = param.DocID;
-    };
+    }
  
   }
 
