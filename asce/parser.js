@@ -20,7 +20,7 @@ module.exports = new Parser(function analyseEC(parsedUrl, ec) {
   // var param  = parsedUrl.query || {};
 
   // use console.error() for debugging
-  console.error("path: " + path);
+  // console.error("path: " + path);
 
   var match;
 
