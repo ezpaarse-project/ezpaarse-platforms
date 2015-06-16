@@ -1,0 +1,28 @@
+{
+  "version": "2015-06-16",
+  "status": "beta",
+  "domains": [
+    "www.openaire.eu"
+  ],
+  "recognize": {
+    "rid": [
+      "title_id",
+      "unitid"
+    ],
+    "rtype": [
+      "ARTICLE",
+      "ABS"
+    ],
+    "mime": [
+	"HTML",
+	"PDF",
+	"MISC"
+    ]
+  },
+  "name": "openaire",
+  "longname": "OpenAIRE - Archives Ouvertes",
+  "describe": "Identifie les consultations du portail OpenAIRE - Archives Ouvertes",
+  "docurl": "http://analogist.couperin.org/platforms/openaire/",
+  "contact": "thomas point porqut at couperin.org",
+  "pkb": false
+}
