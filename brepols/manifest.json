@@ -22,6 +22,7 @@
   },
   "name": "brepols",
   "longname": "Brepols",
+  "publisher_name" : "Brepols", 
   "describe": "Identifie les consultations de la plateforme Brepols",
   "docurl": "http://analogist.couperin.org/platforms/brepols/",
   "contact": "dominique.lechaudel at inist.fr",
