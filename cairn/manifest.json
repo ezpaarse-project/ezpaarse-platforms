@@ -4,6 +4,7 @@
   "status": "stable",
   "trello": "https://trello.com/c/rKJTqlf0",
   "longname": "CAIRN",
+  "publisher_name" : "Cairn",
   "describe": "Identifie les consultations du site de Cairn",
   "docurl": "http://analogist.couperin.org/platforms/cairn/",
   "contact": "thomas.porquet at couperin.org",
