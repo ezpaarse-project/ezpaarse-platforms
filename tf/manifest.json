@@ -22,6 +22,7 @@
   },
   "name": "tf",
   "longname": "Taylor et Francis",
+  "publisher_name": "Taylor & Francis Group",
   "describe": "Identifie les consultations de la plateforme Taylor et Francis",
   "docurl": "http://analogist.couperin.org/platforms/tf/",
   "contact": "dominique point lechaudel at inist point fr",
