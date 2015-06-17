@@ -20,6 +20,7 @@
   },
   "name": "cyberlibris",
   "longname": "Cyberlibris",
+  "publisher_name": "Cyberlibris",
   "describe": "Identifie les consultations de la plateforme Cyberlibris",
   "docurl": "http://analogist.couperin.org/platforms/cyberlibris/start",
   "contact": "abderrazzak.loukili@inist.fr",
