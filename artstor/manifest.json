@@ -20,6 +20,7 @@
   "name": "artstor",
   "longname": "Artstor Digital Library",
   "describe": "Identifie les consultations de la plateforme Artstor Digital Library",
+  "publisher_name" : "Artstor Digital Library",
   "docurl": "http://analogist.couperin.org/platforms/artstor/",
   "contact": "abderrazzak.loukili@inist.fr",
   "pkb": false
