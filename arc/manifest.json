@@ -22,6 +22,7 @@
   "name": "arc",
   "longname": "Aerospace Research Central",
   "describe": "Identifie les consultations de la plateforme Aerospace Research Central",
+  "publisher_name" : "Aerospace Research Central",
   "docurl": "http://analogist.couperin.org/platforms/arc/",
   "contact": "dominique.lechaude at inist.fr",
   "pkb": true
