@@ -24,6 +24,7 @@
   },
   "name": "portland-press",
   "longname": "Portland Press",
+  "publisher_name": "Portland Press",
   "describe": "Identifie les consultations de la plateforme Partland Press",
   "docurl": "http://analogist.couperin.org/platforms/portland",
   "contact": "abderrazzak.loukili@inist.fr",
