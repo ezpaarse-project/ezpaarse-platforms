@@ -4,6 +4,7 @@
   "status": "stable",
   "trello": "https://trello.com/c/kBdK8VaE",
   "longname": "Biomed Central",
+  "publisher_name" : "Biomed Central",
   "describe": "Identifie les consultations du site Biomed Central",
   "docurl": "http://analogist.couperin.org/platforms/bmc/",
   "contact": "dominique.rouger at univ-st-teienne.fr",
