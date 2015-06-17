@@ -20,6 +20,7 @@
   },
   "name": "sagaweb",
   "longname": "Sagaweb (normes AFNOR)",
+  "publisher_name": "AFNOR Éditions",
   "describe": "Identifie les consultations de la plateforme Sagaweb (normes AFNOR)",
   "docurl": "http://analogist.couperin.org/platforms/sagaweb/start",
   "contact": "abderrazzak.loukili@inist.fr",
