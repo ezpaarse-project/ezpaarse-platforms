@@ -17,8 +17,9 @@
     ]
   },
   "name": "asce",
-  "longname": "AMERICAN SOCIETY OF CIVIL ENGINEERS",
+  "longname": "American Society of civil engineers",
   "describe": "Identifie les consultations de la plateforme AMERICAN SOCIETY OF CIVIL ENGINEERS",
+  "publisher_name"  : "American Society of civil engineers",
   "docurl": "http://analogist.couperin.org/platforms/asce/start",
   "contact": "alain.drouet@ifsttar.fr",
   "pkb": true
