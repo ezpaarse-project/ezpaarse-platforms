@@ -24,6 +24,7 @@
   },
   "name": "rsc",
   "longname": "Royal Society of Chemistry",
+  "publisher_name": "Royal Society of Chemistry",
   "describe": "Identifie les consultations de la plateforme Royal Society of Chemistry",
   "docurl": "http://analogist.couperin.org/platforms/royal-society-of-chemistry",
   "contact": "dominique.lechaudel at inist.fr",
