@@ -4,6 +4,7 @@
   "status": "stable",
   "trello": "https://trello.com/c/223S61qb",
   "longname": "BioOne",
+  "publisher_name" : "BioOne",
   "describe": "Identifie les consultations de BioOne",
   "docurl": "http://analogist.couperin.org/platforms/bioone/",
   "contact": "sylvie.franck at inist point fr",
