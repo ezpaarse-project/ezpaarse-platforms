@@ -4,6 +4,7 @@
   "status": "stable",
   "trello": "https://trello.com/c/3yGjCLMF",
   "longname": "Persée",
+  "publisher_name": "Persée",
   "describe": "Identifie les consultations de la partie revues scientifiques de la plateforme Persée",
   "docurl": "http://analogist.couperin.org/platforms/persee/",
   "contact": "Dominique Rouger at univ st etienne fr",
