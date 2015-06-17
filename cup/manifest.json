@@ -4,6 +4,7 @@
   "status": "stable",
   "trello": "https://trello.com/c/YIH50UlD",
   "longname": "Cambridge University Press",
+  "publisher_name": "Cambridge University Press",
   "describe": "Identifie les consultations du site Cambridge University Press",
   "docurl": "http://analogist.couperin.org/platforms/cup/",
   "contact": "yannick.schurter at inist.fr",
