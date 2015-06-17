@@ -21,6 +21,7 @@
   },
   "name": "universalis",
   "longname": "Encyclopædia Universalis",
+  "publisher_name": "Encyclopædia Universalis",
   "describe": "Identifie les consultations de la plateforme Encyclopædia Universalis",
   "docurl": "http://analogist.couperin.org/platforms/universalis/",
   "contact": "natacha.starobinsky@univ-paris1.fr",
