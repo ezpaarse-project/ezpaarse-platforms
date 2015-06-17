@@ -4,6 +4,7 @@
   "status": "stable",
   "trello": "https://trello.com/c/eC8ByA0Z",
   "longname": "Dalloz",
+  "publisher_name": "Dalloz",
   "describe": "Identifie les consultations des bases juridiques Dalloz",
   "docurl": "http://analogist.couperin.org/platforms/dalloz/",
   "contact": "Karine Delvert et Thomas Jouneau",
