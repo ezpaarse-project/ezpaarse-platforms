@@ -18,6 +18,7 @@
   },
   "name": "thieme",
   "longname": "Thieme",
+  "publisher_name": "Thieme Publishing Group",
   "describe": "Identifie les consultations de la plateforme thieme",
   "docurl": "http://analogist.couperin.org/platforms/thieme/start",
   "contact": "pamphile.isch@upmc.fr",
