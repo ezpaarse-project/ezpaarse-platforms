@@ -4,6 +4,7 @@
   "status": "stable",
   "trello": "https://trello.com/c/VnbYwqYd",
   "longname": "Cambridge Books Online",
+  "publisher_name" : "Cambridge university press",
   "describe": "Identifie les consultations de Cambridge Books Online",
   "docurl": "http://analogist.couperin.org/platforms/cambridge-books-online/start",
   "contact": "yannick.schurter at inist point fr",
