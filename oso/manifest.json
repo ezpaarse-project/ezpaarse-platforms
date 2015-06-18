@@ -4,6 +4,7 @@
   "trello": "https://trello.com/c/sLbdhYWS",
   "name": "oso",
   "longname": "Oxford Scholarship Online",
+  "publisher_name": "Oxford University Press",
   "describe": "Identifie les consultations de la plateforme Oxford Scholarship Online",
   "docurl": "http://analogist.couperin.org/platforms/oxford-scholarship-online/",
   "contact": "yannick.schurter at inist.fr",
