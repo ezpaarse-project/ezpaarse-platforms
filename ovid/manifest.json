@@ -26,6 +26,7 @@
   },
   "name": "ovid",
   "longname": "Ovid",
+  "publisher_name": "Wolters Kluwer",
   "describe": "Identifie les consultations de la plateforme Ovid",
   "docurl": "http://analogist.couperin.org/platforms/ovid/",
   "contact": "sonia.launay@inist.fr",
