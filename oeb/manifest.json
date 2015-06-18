@@ -4,6 +4,7 @@
   "status": "stable",
   "trello": "https://trello.com/c/kGArTPZL",
   "longname": "OpenEdition Books",
+  "publisher_name": "OpenEdition",
   "describe": "Identifie les consultations de la plateforme OpenEdition Books",
   "docurl": "http://analogist.couperin.org/platforms/openedition-books/start",
   "contact": "anna.couthuresidrizi at sciencespo point fr et yannick.schurter at inist point fr",
