@@ -22,6 +22,7 @@
   },
   "name": "mediapart",
   "longname": "Mediapart",
+  "publisher_name": "Société Editrice de Mediapart",
   "describe": "Identifie les consultations du journal d'information numérique Mediapart",
   "docurl": "http://analogist.couperin.org/platforms/mediapart/",
   "contact": "thomas.porquet at couperin.org",
