@@ -25,6 +25,7 @@
   },
   "name": "nejm",
   "longname": "NEJM - New England Journal of Medicine",
+  "publisher_name": "NEJM Group",
   "describe": "Identifie les consultations de la plateforme NEJM - New England Journal of Medicine",
   "docurl": "http://analogist.couperin.org/platforms/nejm/start",
   "contact": "abderrazzak.loukili@inist.fr",
