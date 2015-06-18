@@ -18,6 +18,7 @@
   },
   "name": "numerique-premium",
   "longname": "Numerique Premium",
+  "publisher_name": "Nouveau Monde éditions",
   "describe": "Identifie les consultations de la plateforme Numerique Premium",
   "docurl": "http://analogist.couperin.org/platforms/numerique-premium/start",
   "contact": "abderrazzak.loukili@inist.fr",
