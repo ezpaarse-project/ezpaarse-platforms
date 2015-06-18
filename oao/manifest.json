@@ -21,6 +21,7 @@
   },
   "name": "oao",
   "longname": "Oxford Art Online",
+  "publisher_name": "Oxford University Press",
   "describe": "Identifie les consultations de la plateforme Oxford Art Online (Grove, Benezit et 3 autres)",
   "docurl": "http://analogist.couperin.org/platforms/oxford-art-online/",
   "contact": "thomas.porquet@couperin.org",
