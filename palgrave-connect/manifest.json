@@ -4,6 +4,7 @@
   "status": "stable",
   "trello": "https://trello.com/c/UFP0txbm",
   "longname": "Palgrave Connect",
+  "publisher_name": "Palgrave Macmillan",
   "describe": "Parseur de la plateforme Palgrave Connect",
   "docurl": "http://analogist.couperin.org/platforms/palgrave-connect/",
   "contact": "stephane.gully at inist point fr",
