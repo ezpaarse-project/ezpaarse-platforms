@@ -18,6 +18,7 @@
   },
   "name": "maitron",
   "longname": "Maitron",
+  "publisher_name": "Les Editions de l’Atelier",
   "describe": "Identifie les consultations de la plateforme maitron",
   "docurl": "http://analogist.couperin.org/platforms/maitron/start",
   "contact": "abderrazzak.loukili@inist.fr",
