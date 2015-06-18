@@ -22,6 +22,7 @@
   },
   "name": "palgrave-journals",
   "longname": "Palgrave Journals",
+  "publisher_name": "Palgrave Macmillan Journals",
   "describe": "Identifie les consultations de la plateforme Palgrave Journals",
   "docurl": "http://analogist.couperin.org/platforms/palgrave-journals/",
   "contact": "yannick.schurter at inist.fr",
