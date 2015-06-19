@@ -21,6 +21,7 @@
   },
   "name": "heinonline",
   "longname": "HeinOnline",
+  "publisher_name": "William S. Hein & Co.",
   "describe": "Identifie les consultations de la plateforme HeinOnline",
   "docurl": "http://analogist.couperin.org/platforms/heinonline/start",
   "contact": "abderrazzal.loukili@inist.fr",
