@@ -18,6 +18,7 @@
   },
   "name": "joly-editions",
   "longname": "Joly Editions",
+  "publisher_name": "Lextenso éditions",
   "describe": "Identifie les consultations de la plateforme Joly Editions",
   "docurl": "http://analogist.couperin.org/platforms/joly-editions/",
   "contact": "dominique.lechaudel at inist.fr",
