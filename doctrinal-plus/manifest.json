@@ -20,6 +20,7 @@
   },
   "name": "doctrinal-plus",
   "longname": "Doctrinal Plus",
+  "publisher_name": "Transactive",
   "describe": "Identifie les consultations de la plateforme Doctrinal Plus",
   "docurl": "http://analogist.couperin.org/platforms/doctrinal-plus/",
   "contact": "dominique.lechaudel at inist.fr",
