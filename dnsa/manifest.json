@@ -23,6 +23,7 @@
   },
   "name": "dnsa",
   "longname": "Digital National Security Archive",
+  "publisher_name": "National Security Archive",
   "describe": "Identifie les consultations de la plateforme Digital National Security Archive",
   "docurl": "http://analogist.couperin.org/platforms/digital-national-security-archive/",
   "contact": "yannick.schurter at inist.fr",
