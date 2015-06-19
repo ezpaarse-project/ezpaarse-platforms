@@ -34,6 +34,7 @@
   },
   "name": "ebscohost",
   "longname": "EbscoHost",
+  "publisher_name": "EBSCO Publishing",
   "describe": "Identifie les consultations de la plateforme EbscoHost",
   "docurl": "http://analogist.couperin.org/platforms/ebscohost/",
   "contact": "dominique.lechaudel@inist.fr",
