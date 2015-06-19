@@ -4,6 +4,7 @@
   "status": "stable",
   "trello": "https://trello.com/c/zSbtgSOR",
   "longname": "Irevues - Dspace",
+  "publisher_name": "I-Revues",
   "describe": "Identifie les consultations de Irevue (dspace)",
   "docurl": "http://analogist.couperin.org/platforms/irevues/",
   "contact": "cecilia.fabry at inist point fr at inist point fr",
