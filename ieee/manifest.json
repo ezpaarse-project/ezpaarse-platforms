@@ -22,6 +22,7 @@
   },
   "name": "ieee",
   "longname": "Institute of Electrical and Electronics Engineers",
+  "publisher_name": "Institute of Electrical and Electronics Engineers",
   "describe": "Identifie les consultations de la plateforme ieee",
   "docurl": "http://analogist.couperin.org/platforms/ieee/start",
   "contact": "abderrazza.loukili@inist.fr",
