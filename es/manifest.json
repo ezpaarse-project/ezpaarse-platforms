@@ -24,6 +24,7 @@
   },
   "name": "es",
   "longname": "Endocrine Society",
+  "publisher_name": "Endocrine Society",
   "describe": "Identifie les consultations de la plateforme endocrine society",
   "docurl": "http://analogist.couperin.org/platforms/EndocrineSociety/",
   "contact": "abderrazzak.loukili@inist.fr",
