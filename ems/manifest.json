@@ -22,6 +22,7 @@
   },
   "name": "ems",
   "longname": "European Mathematical Society",
+  "publisher_name": "EMS Publishing House",
   "describe": "Identifie les consultations de la plateforme European Mathematical Society",
   "docurl": "http://analogist.couperin.org/platforms/ems/",
   "contact": "dominique.lechaudel@inist.fr",
