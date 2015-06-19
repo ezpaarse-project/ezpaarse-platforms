@@ -20,6 +20,7 @@
   },
   "name": "grevisse",
   "longname": "Bon Usage Grevisse",
+  "publisher_name": "De Boeck Supérieur",
   "describe": "Identifie les consultations de la plateforme Bon Usage Grevisse",
   "docurl": "http://analogist.couperin.org/platforms/grevisse/",
   "contact": "dominique.lechaudel at inist.fr"
