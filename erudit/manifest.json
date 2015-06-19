@@ -4,6 +4,7 @@
   "status": "stable",
   "trello": "https://trello.com/c/CFJjHXVo",
   "longname": "Erudit",
+  "publisher_name": "Consortium Érudit",
   "describe": "Identifie les consultations de la plateforme Erudit",
   "docurl": "http://analogist.couperin.org/platforms/erudit/",
   "contact": "joelle.guerrier at inist point fr",
