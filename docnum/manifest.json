@@ -4,6 +4,7 @@
   "status": "stable",
   "trello": "https://trello.com/c/qlaaxun6",
   "longname": "Docnum",
+  "publisher_name": "Université de Lorraine",
   "describe": "Identifie les consultations du serveur de diffusion de l'archive institutionnelle de l'université de Lorraine : Petale",
   "docurl": "http://analogist.couperin.org/platforms/docnum/",
   "contact": "thomas.porquet at couperin point org",
