@@ -23,6 +23,7 @@
   },
   "name": "elnet",
   "longname": "ELnet",
+  "publisher_name": "Éditions Législatives",
   "describe": "Identifie les consultations de la plateforme ELnet",
   "docurl": "http://analogist.couperin.org/platforms/elnet/",
   "contact": "dominique.lechaudel at inist.fr",
