@@ -19,6 +19,7 @@
   },
   "name": "europresse",
   "longname": "Europresse",
+  "publisher_name": "CEDROM-SNi",
   "describe": "Identifie les consultations de la plateforme europresse",
   "docurl": "http://analogist.couperin.org/platforms/europresse/",
   "contact": "dominique.lechaudel@inist.fr",
