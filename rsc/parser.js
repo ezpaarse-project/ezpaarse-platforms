@@ -46,6 +46,7 @@ module.exports = new Parser(function analyseEC(parsedUrl, ec) {
     result.mime     = match[1].toUpperCase();
     result.title_id = match[3].toLowerCase();
     result.unitid   = match[4].toLowerCase();
+    result.date = match[2];
   } else if ((match = /^\/en\/content\/ebook\/([^\/]+)$/.exec(path)) !== null) {
     // https://pubs-rsc-org.bibliopam-evry.univ-evry.fr/en/content/ebook/978-1-84973-424-0#!divbookcontent
     if (hashedUrl && hashedUrl.query && hashedUrl.query.divbookcontent === '') { result.rtype    = 'TOC'; }
@@ -57,6 +58,7 @@ module.exports = new Parser(function analyseEC(parsedUrl, ec) {
     result.rtype    = 'BOOK_SECTION';
     result.mime     = 'PDF';
     result.unitid = match[2];
+    result.date = match[1];
     if (parsedUrl.query && parsedUrl.query.isbn) {
       result.title_id = result.print_identifier = parsedUrl.query.isbn;
     }
