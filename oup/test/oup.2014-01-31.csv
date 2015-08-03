@@ -1,7 +1,7 @@
-out-doi;out-unitid;out-title_id;out-mime;out-rtype;in-url
-;current;petrology;MISC;TOC;http://petrology.oxfordjournals.org.biblioplanets.gate.inist.fr/content/current
-10.1093/petrology/egt077;10.1093/petrology/egt077;petrology;HTML;ABS;http://petrology.oxfordjournals.org.biblioplanets.gate.inist.fr/content/early/2014/01/11/petrology.egt077.short?rss=1
-10.1093/petrology/egt077;10.1093/petrology/egt077;petrology;HTML;ARTICLE;http://petrology.oxfordjournals.org.biblioplanets.gate.inist.fr/content/early/2014/01/11/petrology.egt077.full
-10.1093/petrology/egt077;10.1093/petrology/egt077;petrology;PDF;ARTICLE;http://petrology.oxfordjournals.org.biblioplanets.gate.inist.fr/content/early/2014/01/11/petrology.egt077.full.pdf+html
-;DC1;petrology;MISC;SUPPL;http://petrology.oxfordjournals.org.biblioplanets.gate.inist.fr/content/55/2/241/suppl/DC1
-;113/3/403.figures-only;aob;MISC;FIGURES;http://aob.oxfordjournals.org.gate1.inist.fr/content/113/3/403.figures-only
+out-doi;out-publication_date;out-unitid;out-title_id;out-mime;out-rtype;in-url
+;;current;petrology;MISC;TOC;http://petrology.oxfordjournals.org.biblioplanets.gate.inist.fr/content/current
+10.1093/petrology/egt077;2014;10.1093/petrology/egt077;petrology;HTML;ABS;http://petrology.oxfordjournals.org.biblioplanets.gate.inist.fr/content/early/2014/01/11/petrology.egt077.short?rss=1
+10.1093/petrology/egt077;2014;10.1093/petrology/egt077;petrology;HTML;ARTICLE;http://petrology.oxfordjournals.org.biblioplanets.gate.inist.fr/content/early/2014/01/11/petrology.egt077.full
+10.1093/petrology/egt077;2014;10.1093/petrology/egt077;petrology;PDF;ARTICLE;http://petrology.oxfordjournals.org.biblioplanets.gate.inist.fr/content/early/2014/01/11/petrology.egt077.full.pdf+html
+;;DC1;petrology;MISC;SUPPL;http://petrology.oxfordjournals.org.biblioplanets.gate.inist.fr/content/55/2/241/suppl/DC1
+;;113/3/403.figures-only;aob;MISC;FIGURES;http://aob.oxfordjournals.org.gate1.inist.fr/content/113/3/403.figures-only

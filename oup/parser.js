@@ -31,7 +31,7 @@ module.exports = new Parser(function analyseEC(parsedUrl) {
     result.mime   = 'HTML';
     result.doi    = '10.1093/' + match[1].split('/').pop().replace('.', '/'); // 10.1093/petrology/egt077
     result.unitid ='10.1093/' + match[1].split('/').pop().replace('.', '/');
-    result.date= match[1].split('/')[1];
+    result.publication_date= match[1].split('/')[1];
   } else if ((match = /^\/content\/(.*)\.full$/.exec(path)) !== null) {
     // http://petrology.oxfordjournals.org.biblioplanets.gate.inist.fr/content/early/2014/01/11/petrology.egt077.full
     result.title_id = parsedUrl.host.split('.')[0]; // petrology
@@ -39,7 +39,7 @@ module.exports = new Parser(function analyseEC(parsedUrl) {
     result.mime   = 'HTML';
     result.doi    = '10.1093/' + match[1].split('/').pop().replace('.', '/'); // 10.1093/petrology/egt077
     result.unitid ='10.1093/' + match[1].split('/').pop().replace('.', '/');
-    result.date= match[1].split('/')[1];
+    result.publication_date= match[1].split('/')[1];
   } else if ((match = /^\/content\/(.*)\.full.pdf(|\+html)$/.exec(path)) !== null) {
     // http://petrology.oxfordjournals.org.biblioplanets.gate.inist.fr/content/early/2014/01/11/petrology.egt077.full.pdf+html
     result.title_id = parsedUrl.host.split('.')[0]; // petrology
@@ -47,7 +47,7 @@ module.exports = new Parser(function analyseEC(parsedUrl) {
     result.mime   = 'PDF';
     result.doi    = '10.1093/' + match[1].split('/').pop().replace('.', '/'); // 10.1093/petrology/egt077
     result.unitid ='10.1093/' + match[1].split('/').pop().replace('.', '/');
-    result.date= match[1].split('/')[1]; 
+    result.publication_date= match[1].split('/')[1]; 
   } else if ((match = /^\/content\/(.*)\/suppl\/(.*)$/.exec(path)) !== null) {
     // http://petrology.oxfordjournals.org.biblioplanets.gate.inist.fr/content/55/2/241/suppl/DC1
     result.title_id    = parsedUrl.host.split('.')[0]; // petrology
