@@ -48,7 +48,7 @@ module.exports = new Parser(function analyseEC(parsedUrl) {
     if (match[6].toUpperCase() == "FULL") {
       // example : http://www.nature.com.gate1.inist.fr/bonekey/knowledgeenvironment/2012/120613/bonekey2012109/full/bonekey2012109.html
       // http://www.nature.com.gate1.inist.fr/ncomms/2013/130628/ncomms3097/full/ncomms3097.html
-      result.date= match[4];
+      result.publication_date= match[4];
       result.rtype = 'ARTICLE';
       result.mime = 'HTML';
     } else {
@@ -56,7 +56,7 @@ module.exports = new Parser(function analyseEC(parsedUrl) {
       // http://www.nature.com.gate1.inist.fr/ncomms/2013/130829/ncomms3380/pdf/ncomms3380.pdf
       result.rtype = 'ARTICLE';
       result.mime = 'PDF';
-      result.date= match[4];
+      result.publication_date= match[4];
     }
   } else if ((match = /\/([a-zA-Z0-9]+)\/journal\/v([0-9]*)\/n([a-zA-Z0-9]*)\/index.html/.exec(url)) !== null) {
     // example http://www.nature.com.gate1.inist.fr/nature/journal/v493/n7431/index.html
@@ -100,6 +100,15 @@ module.exports = new Parser(function analyseEC(parsedUrl) {
     // example : http://www.nature.com.gate1.inist.fr/siteindex/index.html
     result.rtype = 'TOC';
     result.mime = 'MISC';
+  } else if ((match = /\/ng\/([a-z]+)\/([a-z1-9]+)\/([a-z1-9]+)\/([a-z]+)\/(([a-z]{2}).([1-9]+)).(pdf|html)/.exec(url)) !== null){
+    //http://www.nature.com.gate1.inist.fr/ng/journal/v47/n8/pdf/ng.3342.pdf
+    result.unitid = '10.1038/' + match[5];
+    result.title_id = '10.1038/' + match[5];
+    result.rtype = 'ARTICLE';
+    result.mime = match[8].toUpperCase();
+    
+
+      result.publication_date= match[4];
   }
 
   return result;
