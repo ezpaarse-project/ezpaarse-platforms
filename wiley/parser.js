@@ -40,7 +40,7 @@ module.exports = new Parser(function analyseEC(parsedUrl) {
     result.online_identifier = match[2];
     result.rtype = 'ABS';
     result.mime = 'MISC';
-    result.date = match[3].split('.')[0];
+    result.publication_date = match[3].split('.')[0];
   } else if ((match = /^\/doi\/([0-9]{2}\.[0-9]{4,5})\/([^.]+)\.([0-9]+)\/abstract$/.exec(path)) !== null) {
     // /doi/10.1002/anie.201209878/abstract
     result.unitid = result.doi = match[1] + "/" + match[2] + '.' + match[3];
@@ -60,7 +60,7 @@ module.exports = new Parser(function analyseEC(parsedUrl) {
     result.online_identifier = match[2];
     result.rtype = 'ARTICLE';
     result.mime = 'PDF';
-    result.date = match[3].split('.')[0];
+    result.publication_date = match[3].split('.')[0];
   } else if ((match = /^\/doi\/([0-9]{2}\.[0-9]{4,5})\/([^.]+)\.([0-9]+)\/pdf$/.exec(path)) !== null) {
     // /doi/10.1002/anie.201209878/pdf
     result.unitid = result.doi = match[1] + "/" + match[2] + '.' + match[3];
