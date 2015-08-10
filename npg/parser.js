@@ -50,7 +50,7 @@ module.exports = new Parser(function analyseEC(parsedUrl) {
     if (match[1] != "nature" && match[6].charAt(match[6].length- 1) ==="a")
     {
 
-          var replace = match[6].replace(match[1] , '').replace('a', '')
+          var replace = match[6].replace(match[1] , '').replace('a', '');
           result.doi = '10.1038/' + match[1] + '.' + replace.substr(0,4) + '.' +replace.substr(4,4) ;
           result.publication_date= replace.substr(0,4);
      
@@ -65,7 +65,9 @@ module.exports = new Parser(function analyseEC(parsedUrl) {
     //result.year  = match[4];
     result.publication_date= match[4];
     result.unitid = result.doi = '10.1038/' + match[7];
-    if(match[1]==='bonekey')result.doi = '10.1038/' + match[7].substr(0,7) + '.' + match[7].substr(7,8).substr(0,4) + '.' +match[7].substr(11,11).substr(0,3) ;
+    if(match[1]==='bonekey') {
+      result.doi = '10.1038/' + match[7].substr(0,7) + '.' + match[7].substr(7,8).substr(0,4) + '.' +match[7].substr(11,11).substr(0,3) ;
+    }
     if (match[6].toUpperCase() == "FULL") {
       // example : http://www.nature.com.gate1.inist.fr/bonekey/knowledgeenvironment/2012/120613/bonekey2012109/full/bonekey2012109.html
       // http://www.nature.com.gate1.inist.fr/ncomms/2013/130628/ncomms3097/full/ncomms3097.html

@@ -106,7 +106,9 @@ module.exports = new Parser(function analyseEC(parsedUrl) {
     result.unitid =result.doi = match[2] +'/'+  match[3];
     result.rtype = 'ARTICLE';
     result.mime  = 'PDF';
-    if(match[1]=== 'full')result.mime  = 'HTML';
+    if(match[1]=== 'full') {
+        result.mime  = 'HTML';
+    }
 
 
   }else if((match = /^\/doi\/(pdfplus|ipdf)\/([0-9]{2}\.[0-9]{4})\/([a-z0-9]+)$/.exec(path)) !== null){
