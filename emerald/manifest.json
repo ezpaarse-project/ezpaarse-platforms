@@ -1,0 +1,33 @@
+{
+  "version": "2015-08-11",
+  "status": "beta",
+  "domains": [
+    "www.emeraldinsight.com"
+  ],
+  "recognize": {
+    "rid": [
+      "title_id",
+      "doi",
+      "unitid",
+      "publication_date"
+    ],
+    "rtype": [
+      "ARTICLE",
+      "BOOKSERIE",
+      "ABS",
+      "TOC"
+    ],
+    "mime": [
+      "PDF",
+      "PDFPLUS",
+      "HTML",
+      "MISC"
+    ]
+  },
+  "name": "emerald",
+  "longname": "Emerald management ejournals archives et Business",
+  "describe": "Identifie les consultations de la plateforme Emerald management ejournals archives et Business",
+  "docurl": "http://analogist.couperin.org/platforms/emerald/start",
+  "contact": "abderrazzak.loukili@inist.fr",
+  "pkb": false
+}
