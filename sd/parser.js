@@ -52,6 +52,7 @@ module.exports = new Parser(function analyseEC(parsedUrl) {
       break;
     case 'MiamiImageURL':
       if (param._pii) {
+        result.pii = param._pii;        
         if ((match = /S([0-9]{4})([0-9]{3}[0-9Xx])([0-9A-Za-z]*)/.exec(param._pii)) !== null) {
           // example : http://pdn.sciencedirect.com.gate1.inist.fr/science?_ob=MiamiImageURL&_cid=282179&_user=4046392
           // &_pii=S221267161200100X&_check=y&_origin=browseVolIssue&_zone=rslt_list_item&_coverDate=2012-12-31
@@ -83,6 +84,7 @@ module.exports = new Parser(function analyseEC(parsedUrl) {
       break;
     case 'PdfExcerptURL':
       if (param._imagekey && param._piikey) {
+        result.pii   = param._piikey;
         if ((match = /.?-[^\-]+-([0-9]{4})([0-9]{3}[0-9Xx])([0-9A-Za-z]*)-main.pdf$/.exec(param._imagekey)) !== null) {
           // example : http://www.sciencedirect.com:80/science?_ob=PdfExcerptURL&_imagekey=1-s2.0-0304419X91900078-main.pdf
           // &_piikey=0304419X91900078&_cdi=271120&_user=4046392&_acct=C000061186&_version=1&_userid=4046392
@@ -101,7 +103,7 @@ module.exports = new Parser(function analyseEC(parsedUrl) {
     if ((match = /\/science\/article\/pii\/S([0-9]{4})([0-9]{3}[0-9Xx])([0-9A-Za-z]*)\/pdfft/.exec(url)) !== null) {
       // example : http://www.sciencedirect.com:80/science/article/pii/S1369526612001653/pdfft?
       // md5=c6511f076fa8b25969d8e223410bfb0f&pid=1-s2.0-S1369526612001653-main.pdf
-      result.unitid   = 'S' + match[1] + match[2] + match[3];
+      result.pii = result.unitid = 'S' + match[1] + match[2] + match[3];
       result.title_id = match[1] + match[2];
       result.print_identifier = match[1] + '-' + match[2];
       result.rtype    = 'ARTICLE';
@@ -109,7 +111,7 @@ module.exports = new Parser(function analyseEC(parsedUrl) {
     } else if ((match = /\/science\/MiamiMultiMediaURL\/[^\/]+(S([0-9]{4})([0-9]{3}[0-9Xx])[^\/]+)(.*).pdf$/.exec(url)) !== null) {
       // http://www.sciencedirect.com:80/science/MiamiMultiMediaURL/1-s2.0-S0960982213001917/1-s2.0-S0960982213001917-mmc1.pdf
       // /272099/FULL/S0960982213001917/b60b292cd91d2846ac711a4e83db83a3/mmc1.pdf
-      result.unitid   = match[1];
+      result.pii = result.unitid   = match[1];
       result.title_id = match[2] + match[3];
       result.print_identifier = match[2] + '-' + match[3];
       result.rtype    = 'ARTICLE';
@@ -118,14 +120,14 @@ module.exports = new Parser(function analyseEC(parsedUrl) {
       // /272099/FULL/S0960982213001917/b60b292cd91d2846ac711a4e83db83a3/mmc1.pdf
     } else if ((match = /\/science\/article\/pii\/S([0-9]{4})([0-9]{3}[0-9Xx])([0-9A-Za-z]*)/.exec(url)) !== null) {
       // example : http://www.sciencedirect.com.gate1.inist.fr/science/article/pii/S2212671612001011
-      result.unitid   = 'S' + match[1] + match[2] + match[3];
+      result.pii = result.unitid   = 'S' + match[1] + match[2] + match[3];
       result.title_id = match[1] + match[2];
       result.print_identifier = match[1] + '-' + match[2];
       result.rtype    = 'ARTICLE';
       result.mime     = 'HTML';
     } else if ((match = /\/science\/article\/pii\/B([0-9]{12}[0-9Xx])([0-9]+)$/.exec(url)) !== null) {
       // example : http://www.sciencedirect.com.biblioplanets.gate.inist.fr/science/article/pii/B9780124200029100009
-      result.unitid   = 'B' + match[1] + match[2];
+      result.pii = result.unitid   = 'B' + match[1] + match[2];
       result.title_id = match[1];
       result.print_identifier = match[1];
       result.rtype    = 'BOOK';
@@ -136,7 +138,7 @@ module.exports = new Parser(function analyseEC(parsedUrl) {
       // ou
       // http://ac.els-cdn.com/0001871677800035/1-s2.0-0001871677800035-main.pdf?
       // _tid=65623530-1280-11e4-9d32-00000aab0f6b&acdnat=1406130519_9a8661aeed578bd5ef6727f8e65547b2
-      result.unitid   = match[1];
+      result.pii = result.unitid   = match[1];
       result.title_id = match[2] + match[3];
       result.print_identifier  = match[2] + '-' + match[3];
       result.rtype    = 'ARTICLE';
@@ -144,7 +146,7 @@ module.exports = new Parser(function analyseEC(parsedUrl) {
     } else if ((match = /\/B([0-9]{12}[0-9Xx])([0-9]+)\/([0-9A-Za-z\-\.]*)-main\.pdf/.exec(path)) !== null) {
       // http://ac.els-cdn.com.gate1.inist.fr/B9780080449241500046/3-s2.0-B9780080449241500046-main.pdf?
       // _tid=c46ad240-215c-11e4-a248-00000aab0f6b&acdnat=1407764484_bb679604d2bb522902776987d43e484e
-      result.unitid   = 'B' + match[1] + match[2];
+      result.pii = result.unitid   = 'B' + match[1] + match[2];
       result.title_id = match[1];
       result.print_identifier  = match[1];
       result.rtype    = 'BOOK';
