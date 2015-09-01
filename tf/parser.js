@@ -33,7 +33,8 @@ module.exports = new Parser(function analyseEC(parsedUrl, ec) {
     //it described the most fine-grained of what's being accessed by the user
     //it can be a DOI, an internal identifier or a part of the accessed URL
     //see http://ezpaarse.couperin.org/doc/ec-attributes.html#description-de-unitid for more details
-    result.unitid   = match[2];
+    result.unitid = result.doi   = match[2];
+
     if (match[1].toUpperCase() == "FULL") {
       // http://www.tandfonline.com.bases-doc.univ-lorraine.fr/doi/full/10.1080/17400309.2013.861174#abstract
       result.rtype = 'ARTICLE';
