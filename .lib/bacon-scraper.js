@@ -10,7 +10,7 @@ var request = require('request').defaults({
 			});
 
 
-
+/*
 
 	var url = "https://bacon.abes.fr/list.json";
 	request.get(url,function(err,res,body){
@@ -62,13 +62,13 @@ var request = require('request').defaults({
     	});
     });
 
-
+*/
 exports.generatePkb = function(namePlatform,callback) {
 
 var PkbRows  = require('./pkbrows.js');
 var pkb      = new PkbRows(namePlatform);
 var package_id='';
-var data = require('../' + namePlatform + '/manifest.json');
+var data = require('../'+namePlatform+'/manifest.json');
 
 pkb.setKbartName();
 fs.exists('../pkb', function(exists) {
@@ -98,15 +98,16 @@ request.get(url,function(err,res,body){
     	while ( i< list.length) {
     		if (list[i].element.provider===data.baconprovider) {
     			package_id=list[i].element.package_id;
+
     			break;
     		}
     		i++;
     	}
     	if(package_id != ''){
 	    	var urlpkb =  'http://bacon.abes.fr/package2kbart/' + package_id +'.json'; 
-	   
+
 			request.get(urlpkb,function(err,res,body){
-			
+				
 				var list;
 				if(err){
 					callback(new Error(err));
@@ -114,6 +115,7 @@ request.get(url,function(err,res,body){
 				var result = JSON.parse(body);
 				
 				var listpkb =result.bacon.query.kbart;
+          		
 
 				var kbartRow = pkb.initRow({});
 
@@ -122,7 +124,7 @@ request.get(url,function(err,res,body){
 		    	while( j < listpkb.length) {
 					kbartRow.publication_title = listpkb[j].element.publication_title;
 					kbartRow.print_identifier = listpkb[j].element.print_identifier;
-					kbartRow.online_identifier = listpkb[j].element.online_identifier;  
+				
 					kbartRow.title_url = listpkb[j].element.title_url;
 					if (kbartRow.title_id == null) { kbartRow.title_id = '-'; }
 					else { kbartRow.title_id = listpkb[j].element.title_id;}
@@ -130,15 +132,16 @@ request.get(url,function(err,res,body){
 					kbartRow.publisher_name  = listpkb[j].element.publisher_name;
 					kbartRow.publication_type = listpkb[j].element.publication_type;
 					kbartRow.access_type = listpkb[j].element.access_type;
-					
+			
 					pkb.addRow(kbartRow);
-					
+					pkb.writeKbart();
 					j++
           		}
-          		pkb.writeKbart();
+   
           		console.log("file pkb is created");
+          		callback(null,'traitement end');
 	    	});
-			callback(null,'traitement end');
+			
 		} else {
 			 callback(new Error('unexpected result, platform not found'));
 		}
