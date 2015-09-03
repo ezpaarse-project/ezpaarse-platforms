@@ -22,7 +22,8 @@ var Parser = function (parsingFunction) {
       .boolean('jsonprefix')
       .alias('jsonprefix', 'jp')
       .default('jsonprefix', false)
-      .describe('jsonprefix', 'tells that the given json keys are prefixed with "in-" which sould be ignored');
+      .describe('jsonprefix', 'tells that the given json keys are' +
+       'prefixed with "in-" which sould be ignored');
     var argv = yargs.argv;
 
     // show usage if --help option is used

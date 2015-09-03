@@ -103,7 +103,7 @@ request.get(url,function(err,res,body){
     		}
     		i++;
     	}
-    	if(package_id != ''){
+    	if(!package_id){
 	    	var urlpkb =  'http://bacon.abes.fr/package2kbart/' + package_id +'.json'; 
 
 			request.get(urlpkb,function(err,res,body){
@@ -148,10 +148,10 @@ request.get(url,function(err,res,body){
 		}
 
 	});
-}
+};
 
 
 exports.checkNewPkb = function() {
-}
+};
 
 	

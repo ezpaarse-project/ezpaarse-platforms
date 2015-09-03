@@ -6,10 +6,10 @@
 
 'use strict';
 
-var EventEmitter  = require('events').EventEmitter;
 var moment        = require('moment');
 var fs            = require('graceful-fs');
 var path          = require('path');
+var request       = require('request');
 
 // Constructeur
 var PkbRows = function(providerName) {
@@ -18,7 +18,8 @@ var PkbRows = function(providerName) {
   self.rowsMap   = {};
   self.rows      = [];
   self.sorted    = true;
-  self.providerName = providerName ? providerName : '';         // provider name will be filled with platform name from path
+  self.providerName = providerName ? providerName : '';
+    // provider name will be filled with platform name from path
   self.consortiumName = '';       // default empty
   self.packageName = 'AllTitles'; // default AllTitles
   self.kbartFileName = '';
@@ -41,7 +42,9 @@ var PkbRows = function(providerName) {
     } else {
       console.log(__filename, self.argv.$0);
       self.providerName = 'default_platform';
-      if (self.argv.verbose) { console.error("Warning : using platform name " + self.providerName); }
+      if (self.argv.verbose) { 
+        console.error("Warning : using platform name " + self.providerName);
+      }
     }
   }
 
@@ -65,9 +68,6 @@ var PkbRows = function(providerName) {
 
 };
 
-// Hérite d'un eventemitter
-PkbRows.prototype = Object.create(EventEmitter.prototype);
-
 PkbRows.prototype.setKbartName = function () {
   var self = this;
   // Knowledge Bases and Related
@@ -86,13 +86,15 @@ PkbRows.prototype.setKbartName = function () {
   if (self.argv.verbose && fs.existsSync(self.kbartFileName) && self.argv.force) {
     if (self.argv.force) { console.error("Overwriting ..."); }
   }
-  if ((fs.existsSync(self.kbartFileName) && self.argv.force) || ! fs.existsSync(self.kbartFileName)) {
-    self.dstStream = fs.openSync(self.kbartFileName, "w", function() {} )
+  if ((fs.existsSync(self.kbartFileName) && 
+    self.argv.force) || 
+    ! fs.existsSync(self.kbartFileName)) {
+    self.dstStream = fs.openSync(self.kbartFileName, "w", function() {});
   } else {
     console.error("File " + self.kbartFileName + " exists, skiping (use --force to overwrite)");
     process.exit(1);
   }
-}
+};
 
 PkbRows.prototype.initRow = function (info) {
   // initialize a kbart record
@@ -102,24 +104,30 @@ PkbRows.prototype.initRow = function (info) {
     if (!info.hasOwnProperty(field)) { info[field] = ''; }
   });
   return info;
-}
+};
 
 PkbRows.prototype.addRow = function (row, deduplicateFn) {
   var self = this;
   var ridchecker  = require('../../lib/rid-syntax-checker.js');
+  var validISSN;
+  var validISBN;
 
 
   // cleanup ISSN/ISBN values
   if (row.print_identifier !== undefined) {
-    if (row.print_identifier !== undefined) { row.print_identifier = row.print_identifier.trim().toUpperCase(); }
+    if (row.print_identifier !== undefined) {
+      row.print_identifier = row.print_identifier.trim().toUpperCase();
+    }
     // check ISSN/ISBN syntax and set it to blank if wrong
-    if (row.print_identifier === 'N/A' || row.print_identifier === 'EN COURS' || row.print_identifier === 'UNKNOWN') {
+    if (row.print_identifier === 'N/A' || 
+        row.print_identifier === 'EN COURS' || 
+        row.print_identifier === 'UNKNOWN') {
       row.print_identifier = '';
     }
     // if ISSN is not valid remove controls
     if (row.print_identifier.length) {
-      var validISSN = ridchecker.getISSN(row.print_identifier).isValid;
-      var validISBN = ridchecker.getISBN(row.print_identifier).isValid;
+      validISSN = ridchecker.getISSN(row.print_identifier).isValid;
+      validISBN = ridchecker.getISBN(row.print_identifier).isValid;
       if (!validISSN && !validISBN) {
         row.print_identifier = '#' + row.print_identifier;
       }
@@ -127,15 +135,19 @@ PkbRows.prototype.addRow = function (row, deduplicateFn) {
   }
 
   if (row.online_identifier !== undefined) {
-    if (row.online_identifier !== undefined) { row.online_identifier = row.online_identifier.trim().toUpperCase(); }
-    if (row.online_identifier === 'N/A' || row.online_identifier === 'EN COURS' || row.online_identifier === 'UNKNOWN') {
+    if (row.online_identifier !== undefined) { 
+      row.online_identifier = row.online_identifier.trim().toUpperCase();
+    }
+    if (row.online_identifier === 'N/A' ||
+        row.online_identifier === 'EN COURS' ||
+        row.online_identifier === 'UNKNOWN') {
       row.online_identifier = '';
     }
 
     // if ISSN is not valid remove controls
     if (row.online_identifier.length) {
-      var validISSN = ridchecker.getISSN(row.online_identifier).isValid;
-      var validISBN = ridchecker.getISBN(row.online_identifier).isValid;
+      validISSN = ridchecker.getISSN(row.online_identifier).isValid;
+      validISBN = ridchecker.getISBN(row.online_identifier).isValid;
       if (!validISSN && !validISBN) {
         row.online_identifier = '#' + row.online_identifier;
       }
@@ -144,7 +156,7 @@ PkbRows.prototype.addRow = function (row, deduplicateFn) {
 
 
   // skip if no title_id
-  if (row.title_id === undefined || row.title_id == '') {
+  if (!row.title_id) {
     console.error('Skipping row because title_id is empty: ' + JSON.stringify(row));
     return;
   }
@@ -153,13 +165,14 @@ PkbRows.prototype.addRow = function (row, deduplicateFn) {
   // expect the title_id field
   var skipBecauseEmpty = true;
   Object.keys(row).forEach(function (field) {
-    if (field == 'title_id' || !skipBecauseEmpty) return;
+    if (field == 'title_id' || !skipBecauseEmpty) { return; }
     if (row[field].toString().trim() !== '') {
       skipBecauseEmpty = false;
     }
   });
   if (skipBecauseEmpty) {
-    console.error('Skipping row because all the fields expect title_id are empty: ' + JSON.stringify(row));
+    console.error('Skipping row because all the fields expect title_id are empty: '
+    + JSON.stringify(row));
     return;
   }
 
@@ -189,7 +202,8 @@ PkbRows.prototype.addRow = function (row, deduplicateFn) {
       }
       self.rowsMap[row.title_id] = rowKeept;
     } else {
-      console.error('Skipping this row because this "title_id" has a duplicate: ' + JSON.stringify(row));
+      console.error('Skipping this row because this "title_id" has a duplicate: '
+       + JSON.stringify(row));
     }
     return;
   }
@@ -199,7 +213,7 @@ PkbRows.prototype.addRow = function (row, deduplicateFn) {
 PkbRows.prototype.sortRows = function () {
   var self = this;
 
-  if (self.sorted) return;
+  if (self.sorted) { return; }
 
   // populate the rows list
   self.rows = [];
@@ -237,7 +251,7 @@ PkbRows.prototype.writeCSV = function (dstStream) {
       dstStream.write('\n');
     }
     fields.forEach(function (field, idx) {
-      if (row[field] === undefined) row[field] = ''; // keep only strings
+      if (row[field] === undefined) { row[field] = ''; } // keep only strings
       if (/[;"]/.test(row[field])) {
         dstStream.write('"' + row[field].replace(/"/g, '""') + '"');
       } else {
@@ -304,12 +318,6 @@ PkbRows.prototype.writeKbart = function (callback) {
 };
 
 PkbRows.prototype.getKbartFromKBPlus = function (KBPlusPkg, callback) {
-  var request     = require('request').defaults({
-    proxy: process.env.http_proxy ||
-           process.env.HTTP_PROXY ||
-           process.env.https_proxy ||
-           process.env.HTTPS_PROXY
-  });
 
   callback = callback || function () {};
   var self = this;
@@ -323,24 +331,25 @@ PkbRows.prototype.getKbartFromKBPlus = function (KBPlusPkg, callback) {
     "url":"uri://kbplus/pkg/99",
     "pkgcount":81,
     "titles": [
-      {
-        "title":"AI Communications",
-        "issn":"0921-7126",
-        "eissn":"1875-8452",
-        "jusp":"11926",
-        "startDate":"1987-01-01",
-        "endDate":"",
-        "startVolume":"0",
-        "endVolume":"",
-        "startIssue":"1",
-        "endIssue":"",
-        "embargo":"",
-        "titleUrl":"http://iospress.metapress.com/content/103140",
-        "doi":"",
-        "coverageDepth":null,
-        "coverageNote":null,
-        "publisher":"IOS Press"
-
+    {
+      "title": "AASRI Procedia",
+      "issn": "2212-6716",
+      "eissn": "",
+      "jusp": "13472",
+      "startDate": "2012-01-01",
+      "endDate": "",
+      "startVolume": "1",
+      "endVolume": "",
+      "startIssue": "",
+      "endIssue": "",
+      "embargo": "",
+      "hostPlatformURL": "http://www.sciencedirect.com/science/journal/22126716",
+      "doi": "",
+      "coverageDepth": "fulltext",
+      "coverageNote": "",
+      "publisher": "",
+      "hybridOA": ""
+    },
 **/
 
   var journalsUrl = 'http://www.kbplus.ac.uk/kbplus/publicExport/pkg/' + KBPlusPkg + '?format=json';
@@ -354,7 +363,7 @@ PkbRows.prototype.getKbartFromKBPlus = function (KBPlusPkg, callback) {
     if (jsonSource.header.pkgcount) {
       console.error('Masterlist contains ' + jsonSource.header.pkgcount + ' items');
     } else {
-      throw "KB+ file doesn't contains header";
+      throw new Error("KB+ file doesn't contains header");
     }
 
     jsonSource.titles.forEach(function (jsonRow) {
@@ -363,21 +372,24 @@ PkbRows.prototype.getKbartFromKBPlus = function (KBPlusPkg, callback) {
       // initialize a kbart record
       journalInfo = self.initRow(journalInfo);
 
-      if (jsonRow.title && jsonRow.title !== null) {
+      if (jsonRow.title) {
         // title is in utf-8 but not properly decoded
         // need to be explicitely decoded
-        journalInfo.publication_title = decodeURIComponent(escape(jsonRow.title));
+        journalInfo.publication_title = decodeURIComponent(encodeURIComponent(jsonRow.title));
       }
-      if (jsonRow.titleUrl && jsonRow.titleUrl !== null) {
-        journalInfo.title_url = jsonRow.titleUrl;
+      if (jsonRow.hostPlatformURL) {
+        journalInfo.title_url = jsonRow.hostPlatformURL;
         var titleUrlParts;
-        if ((titleUrlParts = /(^http:\/\/www\.sciencedirect\.com\/science\/(?:journal|bookseries)\/(aip\/)?([^\/]+))$/.exec(jsonRow.titleUrl) )) {
+        if ((titleUrlParts = 
+          /(^http:\/\/www\.sciencedirect\.com\/science\/(?:journal|bookseries)\/(aip\/)?([^\/]+))$/
+          .exec(jsonRow.hostPlatformURL) )) {
           // make title_id from parts of titleUrl
           // ex : science direct master list
           // "titleUrl":"http://www.sciencedirect.com/science/journal/22126716"
           //console.error(titleUrlParts);
           journalInfo.title_id = titleUrlParts[3];
-        } else if ((titleUrlParts = /^http:\/\/((www\.)?(.*)\.(org|fr))\//.exec(jsonRow.titleUrl) )) {
+        } else if ((titleUrlParts = 
+          /^http:\/\/((www\.)?(.*)\.(org|fr))\//.exec(jsonRow.hostPlatformURL) )) {
           // make title_id from domain name
           // ex : edp science
           // "titleUrl": "http://www.europhysicsnews.org/"    
@@ -385,14 +397,14 @@ PkbRows.prototype.getKbartFromKBPlus = function (KBPlusPkg, callback) {
           journalInfo.title_id = titleUrlParts[1];
         }
       }
-      if (jsonRow.issn && jsonRow.issn !== null ) {
+      if (jsonRow.issn) {
         journalInfo.print_identifier = jsonRow.issn;
       }
-      if (jsonRow.eissn && jsonRow.eissn !== null) {
+      if (jsonRow.eissn) {
         journalInfo.online_identifier = jsonRow.eissn;
       }
-      if (jsonRow.publisher && jsonRow.publisher !== null) {
-        journalInfo.publisher_name = decodeURIComponent(escape(jsonRow.publisher));
+      if (jsonRow.publisher) {
+        journalInfo.publisher_name = decodeURIComponent(encodeURIComponent(jsonRow.publisher));
       }
 
       self.addRow(journalInfo);
@@ -405,6 +417,6 @@ PkbRows.prototype.getKbartFromKBPlus = function (KBPlusPkg, callback) {
     console.error('Masterlist scraping is finished..\nFile : '
      + self.kbartFileName + ' generated with ' + self.rows.length + ' elements');
   });
-}
+};
 
 module.exports = PkbRows;
