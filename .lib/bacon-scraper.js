@@ -135,7 +135,7 @@ request.get(url,function(err,res,body){
 			
 					pkb.addRow(kbartRow);
 					pkb.writeKbart();
-					j++
+					j++;
           		}
    
           		console.log("file pkb is created");
