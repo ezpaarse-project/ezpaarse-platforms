@@ -117,11 +117,12 @@ request.get(url,function(err,res,body){
 				var listpkb =result.bacon.query.kbart;
           		
 
-				var kbartRow = pkb.initRow({});
+				
 
 				var j =0;
 			
 		    	while( j < listpkb.length) {
+		    			var kbartRow = pkb.initRow({});
 					kbartRow.publication_title = listpkb[j].element.publication_title;
 					kbartRow.print_identifier = listpkb[j].element.print_identifier;
 				
