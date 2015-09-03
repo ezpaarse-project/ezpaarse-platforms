@@ -13,6 +13,7 @@
     "www.nature.com",
     "chimie.gate.inist.fr"
 	],
+   "baconprovider": "NPG",
   "recognize": {
     "rid": [
       "title_id",
