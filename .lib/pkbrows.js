@@ -68,7 +68,7 @@ var PkbRows = function(providerName) {
 
 };
 
-PkbRows.prototype.setKbartName = function () {
+PkbRows.prototype.setKbartName = function (filename) {
   var self = this;
   // Knowledge Bases and Related
   // Tools (KBART)
@@ -76,12 +76,12 @@ PkbRows.prototype.setKbartName = function () {
   // DRAFT For Public Comment September 4 – October 4, 2013
   // File Name
   // [ProviderName]_[Region/Consortium]_[PackageName]_[YYYY-MM-DD].txt
-
+  if (filename) { self.kbartFileName += filename + '.txt'; } else {
   if (self.providerName) { self.kbartFileName += self.providerName; }
   if (self.consortiumName) { self.kbartFileName += '_' + self.consortiumName; }
   if (self.packageName) { self.kbartFileName += '_' + self.packageName; }
   self.kbartFileName += '_' + moment().format('YYYY-MM-DD') + '.txt';
-
+  }
   if (self.argv.verbose) { console.error("Output kbart file : " + self.kbartFileName); }
   if (self.argv.verbose && fs.existsSync(self.kbartFileName) && self.argv.force) {
     if (self.argv.force) { console.error("Overwriting ..."); }

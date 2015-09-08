@@ -1,16 +1,17 @@
+
+
 'use strict';
 
 var fs = require('fs');
 
 var request = require('request').defaults({
-			proxy: process.env.http_proxy ||
-			process.env.HTTP_PROXY ||
-			process.env.https_proxy ||
-			process.env.HTTPS_PROXY
-			});
+proxy: process.env.http_proxy ||
+process.env.HTTP_PROXY ||
+process.env.https_proxy ||
+process.env.HTTPS_PROXY
+});
 
 
-/*
 
 	var url = "https://bacon.abes.fr/list.json";
 	request.get(url,function(err,res,body){
@@ -62,15 +63,16 @@ var request = require('request').defaults({
     	});
     });
 
-*/
+
 exports.generatePkb = function(namePlatform,callback) {
 
 var PkbRows  = require('./pkbrows.js');
 var pkb      = new PkbRows(namePlatform);
 var package_id='';
+
 var data = require('../'+namePlatform+'/manifest.json');
 
-pkb.setKbartName();
+
 fs.exists('../pkb', function(exists) {
     if (!exists) {
     	  fs.mkdirSync('../pkb');
@@ -93,49 +95,51 @@ request.get(url,function(err,res,body){
 		callback(new Error(e));
 			
 		}
+	
 		var i =0;
 		console.log('cherche la platforme dans la liste des platformes bacon');
     	while ( i< list.length) {
+    	
     		if (list[i].element.provider===data.baconprovider) {
-    			package_id=list[i].element.package_id;
-
+    			package_id = list[i].element.package_id;
+    			
     			break;
     		}
     		i++;
     	}
-    	if(!package_id){
+    		
+    	if(package_id){
+    		pkb.setKbartName(package_id);
 	    	var urlpkb =  'http://bacon.abes.fr/package2kbart/' + package_id +'.json'; 
 
 			request.get(urlpkb,function(err,res,body){
 				
-				var list;
-				if(err){
+				if (err) {
 					callback(new Error(err));
 				}
 				var result = JSON.parse(body);
 				
 				var listpkb =result.bacon.query.kbart;
-          		
-
-				
 
 				var j =0;
 			
 		    	while( j < listpkb.length) {
-		    			var kbartRow = pkb.initRow({});
-					kbartRow.publication_title = listpkb[j].element.publication_title;
-					kbartRow.print_identifier = listpkb[j].element.print_identifier;
+
+		    		if (listpkb[j].element.title_id) {
+			    		var kbartRow = pkb.initRow({});
+			    		
+						kbartRow.publication_title = listpkb[j].element.publication_title;
+						kbartRow.print_identifier = listpkb[j].element.print_identifier;
+						kbartRow.title_url = listpkb[j].element.title_url;
+						kbartRow.title_id = listpkb[j].element.title_id;
+						kbartRow.coverage_depth = listpkb[j].element.coverage_depth;
+						kbartRow.publisher_name  = listpkb[j].element.publisher_name;
+						kbartRow.publication_type = listpkb[j].element.publication_type;
+						kbartRow.access_type = listpkb[j].element.access_type;
 				
-					kbartRow.title_url = listpkb[j].element.title_url;
-					if (kbartRow.title_id == null) { kbartRow.title_id = '-'; }
-					else { kbartRow.title_id = listpkb[j].element.title_id;}
-					kbartRow.coverage_depth = listpkb[j].element.coverage_depth;
-					kbartRow.publisher_name  = listpkb[j].element.publisher_name;
-					kbartRow.publication_type = listpkb[j].element.publication_type;
-					kbartRow.access_type = listpkb[j].element.access_type;
-			
-					pkb.addRow(kbartRow);
-					pkb.writeKbart();
+						pkb.addRow(kbartRow);
+						pkb.writeKbart();
+					}
 					j++;
           		}
    
