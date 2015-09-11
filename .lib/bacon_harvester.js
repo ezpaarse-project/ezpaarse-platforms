@@ -141,7 +141,8 @@ exports.checkNewPkb = function() {
 					re = /.json/ig;
 					if (re.exec(folder[j]) == null) {
 					
- 						data =require(path.normalize(path.dirname(__filename) + '/../' + folder[j] + '/manifest.json'));
+ 						data = require(path.normalize(path.dirname(__filename) + 
+ 						 '/../' + folder[j] + '/manifest.json'));
 						if (list[i].element.provider === data.baconprovider) {
 
 							console.log("Platforme : " + list[i].element.provider + " ==> OK");
