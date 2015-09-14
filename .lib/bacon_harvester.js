@@ -145,7 +145,7 @@ exports.checkNewPkb = function() {
  						 '/../' + folder[j] + '/manifest.json'));
 						if (list[i].element.provider === data.baconprovider) {
 
-							console.log("Platforme : " + list[i].element.provider + " ==> OK");
+							console.log(" " + list[i].element.provider + " ==> OK" );
 
 							break;
 						}
@@ -165,7 +165,7 @@ exports.checkNewPkb = function() {
 
 						if (list[i].element.provider != data.baconprovider) {
 
-							console.log("Platforme : " + list[i].element.provider + " à télécharger");
+							console.log(" " + list[i].element.provider + " à télécharger" , 'color: green; font-weight: bold;');
 
 							break;
 						}
@@ -174,6 +174,7 @@ exports.checkNewPkb = function() {
 				}
 				i++;
 			}
+		
 		});
 	});
 };
