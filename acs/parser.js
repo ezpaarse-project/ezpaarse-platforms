@@ -79,6 +79,7 @@ module.exports = new Parser(function analyseEC(parsedUrl) {
     result.unitid = match[1];
     result.rtype = 'TOC';
     result.mime  = 'MISC';
+    result.isbn = match[1];
   } else if ((match = /^\/doi\/pdf\/([0-9]{2}\.[0-9]{4})\/bk-([0-9]{4})-([0-9]+)\.([a-z0-9]+)$/.exec(path)) !== null) {
     // /doi/pdf/10.1021/bk-2012-1121.ch001
     result.title_id   = match[1];
