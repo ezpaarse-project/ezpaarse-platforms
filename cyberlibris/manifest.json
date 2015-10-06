@@ -3,7 +3,22 @@
   "status": "beta",
   "domains": [
     "univ-paris1.cyberlibris.com",
-    "univ-limoges.cyberlibris.com"
+    "univ-limoges.cyberlibris.com",
+    "univ-rennes1.cyberlibris.com",
+    "univ-lille2.cyberlibris.com",
+    "univ-paris3.cyberlibris.com",
+    "bu-parisdescartes.cyberlibris.com",
+    "scd.univ-fcomte.cyberlibris.com",
+    "univ-toulouse.scholarvox.com",
+    "unr-ra.scholarvox.com",
+    "unistra.scholarvox.com",
+    "couperin.scholarvox.com",
+    "couperin.cyberlibris.fr",
+    "portal1.cyberlibris.com"
+    "sciences.cyberlibris.com",
+    "static.cyberlibris.fr",
+    "u-pec.cyberlibris.com",
+    "univ-bpclermont.cyberlibris.fr"
   ],
   "recognize": {
     "rid": [
