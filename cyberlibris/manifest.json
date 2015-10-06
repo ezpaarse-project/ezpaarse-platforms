@@ -2,7 +2,8 @@
   "version": "2015-04-23",
   "status": "beta",
   "domains": [
-    "univ-paris1.cyberlibris.com"
+    "univ-paris1.cyberlibris.com",
+    "univ-limoges.cyberlibris.com"
   ],
   "recognize": {
     "rid": [
