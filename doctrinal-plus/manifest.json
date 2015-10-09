@@ -2,7 +2,8 @@
   "version": "2014-12-03",
   "status": "stable",
   "domains": [
-    "newip.doctrinalplus.fr"
+    "newip.doctrinalplus.fr",
+    "ip.doctrinal.fr"
   ],
   "recognize": {
     "rid": [
