@@ -74,7 +74,8 @@ module.exports = new Parser(function analyseEC(parsedUrl, ec) {
   }  else if((match = /^\/library\/([a-z]+)\/([a-z]+)\/([0-9]+)$/.exec(path)) !== null)
   {
     //http://library.artstor.org/library/secure/ppreview/736355?name=Arena%20Chapel,%20Giotto%20di%20Bondone
-    // lien de test modifier, on a remplacer la virgule avec un plus pour que le teste marche .La virgule entre dans la catégorie  des caractères spéciaux qui bloque les test 
+    // lien de test modifier, on a remplacer la virgule avec un plus pour que le teste marche .La virgule entre dans la 
+    //catégorie  des caractères spéciaux qui bloque les test 
 
     result.rtype    = 'ARTICLE';
     result.mime     = 'HTML';
