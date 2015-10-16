@@ -1,0 +1,24 @@
+{
+  "version": "2015-10-16",
+  "status": "beta",
+  "domains": [
+    "biblio.assimil.com"
+  ],
+  "recognize": {
+    "rid": [
+      "title_id"
+    ],
+    "rtype": [
+      "BOOK"
+    ],
+    "mime": [
+      "misc"
+    ]
+  },
+  "name": "assimil",
+  "longname": "assimil",
+  "describe": "Identifie les consultations de la plateforme assimil",
+  "docurl": "http://analogist.couperin.org/platforms/assimil/",
+  "contact": "maud.soverini@univ-evry.fr",
+  "pkb": true
+}
