@@ -18,7 +18,7 @@ module.exports = new Parser(function analyseEC(parsedUrl) {
   if ((match = /^\/assimilweb\/methode\/(\d{4})\/ANMacPCWeb\.html$/.exec(pathname)) !== null) {
 	//	http://biblio.assimil.com:80/assimilweb/methode/3903/ANMacPCWeb.html
  
-      result.unitid = match[0];
+      result.unitid = match[1];
       result.title_id= match[1];
       result.rtype  = 'BOOK';
       result.mime   = 'MISC';
