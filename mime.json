@@ -5,6 +5,11 @@
     "comment": ""
   },
   {
+    "code": "PDFPLUS",
+    "description":  "consultation d'un document au format PDF avec des liens",
+    "comment": ""
+  },
+  {
     "code": "HTML",
     "description":  "consultation d'un document au format HTML",
     "comment": ""
