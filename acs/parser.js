@@ -41,7 +41,7 @@ module.exports = new Parser(function analyseEC(parsedUrl) {
     result.title_id    = match[1];
     result.rtype  = 'TOC';
     result.mime   = 'MISC';
-    result.volume = match[2] ;
+    result.vol = match[2] ;
     result.issue = match[3];
   } else if ((match = /^\/doi\/abs\/([0-9]{2}\.[0-9]{4})\/([^.]+)$/.exec(path)) !== null) {
     // /doi/abs/10.1021/ar400025e
@@ -54,7 +54,7 @@ module.exports = new Parser(function analyseEC(parsedUrl) {
     result.unitid =result.doi= match[1] + "/" + match[2];
     result.title_id    = match[2].slice(0, 2);
     result.rtype  = 'ARTICLE';
-    result.mime   = 'PDF';
+    result.mime   = 'PDFPLUS';
   } else if ((match = /^\/doi\/pdf\/([0-9]{2}\.[0-9]{4})\/([^.]+)$/.exec(path)) !== null) {
     // /doi/pdf/10.1021/ar400025e
     result.unitid = result.doi = match[1] + "/" + match[2];
@@ -66,7 +66,7 @@ module.exports = new Parser(function analyseEC(parsedUrl) {
     result.unitid = result.doi = match[1] + "/" + match[2];
     result.title_id    = match[2].slice(0, 2);
     result.rtype  = 'ARTICLE';
-    result.mime   = 'PDF';
+    result.mime   = 'PDFPLUS';
   } else if ((match = /^\/doi\/full\/([0-9]{2}\.[0-9]{4})\/([^.]+)$/.exec(path)) !== null) {
     // /doi/full/10.1021/ar400025e
     result.unitid = result.doi = match[1] + "/" + match[2];
@@ -82,21 +82,21 @@ module.exports = new Parser(function analyseEC(parsedUrl) {
     result.isbn = match[1];
   } else if ((match = /^\/doi\/pdf\/([0-9]{2}\.[0-9]{4})\/bk-([0-9]{4})-([0-9]+)\.([a-z0-9]+)$/.exec(path)) !== null) {
     // /doi/pdf/10.1021/bk-2012-1121.ch001
-    result.title_id   = match[1];
+    result.title_id   = 'bk';
     result.unitid = result.doi  = match[1] + '/bk-' + match[2]  + '-' + match[3] + '.' + match[4];
     result.rtype = 'BOOK_SECTION';
     result.mime  = 'PDF';
     result.publication_date =  match[2] ;
 } else if ((match = /^\/doi\/pdfplus\/([0-9]{2}\.[0-9]{4})\/bk-([0-9]{4})-([0-9]+)\.([a-z0-9]+)$/.exec(path)) !== null) {
     // /doi/pdfplus/10.1021/bk-2012-1121.ch001
-    result.title_id   = match[1];
+    result.title_id   = 'bk';
     result.unitid = result.doi  = match[1] + '/bk-' + match[2]  + '-' + match[3] + '.' + match[4];
     result.rtype = 'BOOK_SECTION';
-    result.mime  = 'PDF';
+    result.mime  = 'PDFPLUS';
     result.publication_date =  match[2] ;
   } else if ((match = /^\/doi\/full\/([0-9]{2}\.[0-9]{4})\/bk-([0-9]{4})-([0-9]+)\.([a-z0-9]+)$/.exec(path)) !== null) {
     // /doi/full/10.1021/bk-2012-1121.ch001
-    result.title_id   = match[1];
+    result.title_id   = 'bk';
     result.unitid = result.doi  =  match[1] + '/bk-' + match[2]  + '-' + match[3] + '.' + match[4];
     result.rtype = 'BOOK_SECTION';
     result.mime  = 'HTML';
@@ -105,12 +105,14 @@ module.exports = new Parser(function analyseEC(parsedUrl) {
     // http://pubs.acs.org.gate1.inist.fr/doi/pdf/10.1021/acs.biochem.5b00764
     // http://pubs.acs.org.gate1.inist.fr/doi/full/10.1021/acs.biochem.5b00514
     // http://pubs.acs.org.gate1.inist.fr/doi/ipdf/10.1021/acs.biochem.5b00764
-    result.title_id   = match[2];
+    result.title_id   = match[3];
     result.unitid =result.doi = match[2] +'/'+  match[3];
     result.rtype = 'ARTICLE';
     result.mime  = 'PDF';
     if(match[1]=== 'full') {
         result.mime  = 'HTML';
+    } else if(match[1]=== 'ipdf') {
+        result.mime  = 'PDFPLUS';
     }
 
 
@@ -120,8 +122,10 @@ module.exports = new Parser(function analyseEC(parsedUrl) {
     result.title_id   = match[1];
     result.unitid = result.doi = match[2] +'/'+  match[3];
     result.rtype = 'ARTICLE';
-    result.mime  = 'PDF';
-
+    result.mime  = 'PDFPLUS';
+     if(match[1]=== 'pdf') {
+        result.mime  = 'PDF';
+    }
   }
 
   return result;
