@@ -1,0 +1,30 @@
+{
+  "version": "2015-10-21",
+  "status": "beta",
+  "domains": [
+    "http://ma.plateforme.com.gate1.inist.fr/",
+    "cshperspectives.cshlp.org.gate1.inist.fr"
+  ],
+  "recognize": {
+    "rid": [
+      "title_id",
+      "doi",
+      "unitid",
+      "vol",
+      "issue"
+    ],
+    "rtype": [
+      "ARTICLE"
+    ],
+    "mime": [
+      "PDF",
+      "HTML"
+    ]
+  },
+  "name": "cshl",
+  "longname": "Cold spring Harbor Laboratory Press",
+  "describe": "Identifie les consultations de la plateforme Cold spring Harbor Laboratory Press",
+  "docurl": "http://analogist.couperin.org/platforms/contribute/template",
+  "contact": "abderrazzak.loukili@inist.fr",
+  "pkb": false
+}
