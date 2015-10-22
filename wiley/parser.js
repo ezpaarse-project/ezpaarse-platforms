@@ -70,15 +70,18 @@ module.exports = new Parser(function analyseEC(parsedUrl) {
     result.title_id = match[2].toUpperCase();
     result.rtype = 'ARTICLE';
     result.mime = 'PDF';
-    
-     
+    if (match[2] != "cpa") {
+    result.publication_date = match[3].substr(0,4);
+     }
   } else if ((match = /^\/book\/([0-9]{2}\.[0-9]{4,5})\/([0-9]+)$/.exec(path)) !== null) {
     // /book/10.1002/9781118268117
+
     result.unitid = result.doi = match[1] + "/" + match[2];
     // ##RN
     result.title_id = match[2].toUpperCase();
     result.rtype = 'BOOK_SECTION';
     result.mime = 'MISC';
+    result.isbn = match[2];
   } else if ((match = /^\/doi\/([0-9]{2}\.[0-9]{4,5})\/([0-9]+)\.([^.]+)\/pdf$/.exec(path)) !== null) {
     // /doi/10.1002/9781118268117.ch3/pdf
     // result.doi = match[1];
@@ -86,6 +89,7 @@ module.exports = new Parser(function analyseEC(parsedUrl) {
     result.title_id = match[2].toUpperCase();
     result.rtype = 'BOOK_SECTION';
     result.mime = 'PDF';
+    result.isbn = match[2];
   } else if ((match = /^\/enhanced\/doi\/(([0-9]{2}\.[0-9]{4,5})\/([^\.]+)\.([^\/]+))\/$/.exec(path)) !== null) {
     // http://onlinelibrary.wiley.com.biblioplanets.gate.inist.fr/enhanced/doi/10.1002/cjg2.20083/
     result.title_id = match[3].toUpperCase();
@@ -134,6 +138,7 @@ module.exports = new Parser(function analyseEC(parsedUrl) {
     
   }  else if ((match = /^\/doi\/([0-9]{2}\.[0-9]{4,5})\/(([A-Z]{1})([0-9]{8})([0-9]{2})[0-9A-Z]+)\/([a-z]+)$/.exec(path)) !== null) {
     //http://onlinelibrary.wiley.com.gate1.inist.fr/doi/10.1107/S1399004715000292/abstract
+    //http://onlinelibrary.wiley.com.gate1.inist.fr/doi/10.1107/S139900471402286X/pdf
     result.unitid = result.doi = match[1] + "/" + match[2] ;
     result.publication_date = "20" + match[5];
     result.title_id = match[2].toUpperCase();
@@ -163,8 +168,8 @@ module.exports = new Parser(function analyseEC(parsedUrl) {
     } else { result.mime = 'HTML'; }
   }
 
-
-
+//http://agupubs.onlinelibrary.wiley.com.biblioplanets.gate.inist.fr/agu/jgr/journal/10.1002/(ISSN)2169-8996/
+//http://onlinelibrary.wiley.com.gate1.inist.fr/doi/10.1002/cpa.3160270102/pdf
 
   return result;
 });
