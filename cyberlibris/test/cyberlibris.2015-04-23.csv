@@ -1,5 +1,5 @@
 out-title_id;out-unitid;out-rtype;out-mime;in-url
-88826141;88826141;ABS;MISC;http://univ-paris1.cyberlibris.com/book/88826141
+88826141;88826141;ABS;HTML;http://univ-paris1.cyberlibris.com/book/88826141
 88826141;88826141/page/1;BOOK;HTML;http://univ-paris1.cyberlibris.com/reader/istream/docid/88826141/page/1
-88826141;88826141/page/1;BOOK;HTML;http://univ-paris1.cyberlibris.com/reader/local/docid/88826141/page/1
-88826141;88826141;;MISC;http://univ-paris1.cyberlibris.com/reader/advprint/?DocID=88826141&pages=0
+88826141;88826141/page/1;BOOK;MISC;http://univ-paris1.cyberlibris.com/reader/local/docid/88826141/page/1
+88814647;88814647/page/20;BOOK;FLASH;http://univ-rennes1.cyberlibris.fr:80/reader/flashpagesrv/?docid=88814647&p=20&sig=001b540391345e4b79812e5285313c0a83a96dc9
