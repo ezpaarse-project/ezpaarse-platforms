@@ -1,6 +1,6 @@
-out-unitid;out-title_id;out-mime;out-rtype;in-url
-ac/1974/v7/n1;ac;MISC;TOC;http://www.erudit.org.gate3.inist.fr/revue/ac/1974/v7/n1/index.html
-ac/1974/v7/n1/017030ar;ac;HTML;ABS;http://www.erudit.org.gate3.inist.fr/revue/ac/1974/v7/n1/017030ar.html?vue=resume
-ae/2010/v86/n4/1005678ar;ae;HTML;ARTICLE;http://www.erudit.org.gate3.inist.fr/revue/ae/2010/v86/n4/1005678ar.html
-ae/2009/v85/n4/045072ar;ae;PDF;ARTICLE;http://www.erudit.org.gate3.inist.fr/revue/ae/2009/v85/n4/045072ar.pdf
-crimino/2013/v46/n1/1015292ar;crimino;MISC;REF;http://www.erudit.org.gate3.inist.fr/revue/crimino/2013/v46/n1/1015292ar.html?vue=biblio&mode=restriction
+out-unitid;out-title_id;out-doi;out-publication_date;out-vol;out-issue;out-mime;out-rtype;in-url
+ac/1974/v7/n1;ac;;1974;v7;n1;MISC;TOC;http://www.erudit.org.gate3.inist.fr/revue/ac/1974/v7/n1/index.html
+ac/1974/v7/n1/017030ar;ac;10.7202/017030ar;1974;v7;n1;HTML;ABS;http://www.erudit.org.gate3.inist.fr/revue/ac/1974/v7/n1/017030ar.html?vue=resume
+ae/2010/v86/n4/1005678ar;ae;10.7202/1005678ar;2010;v86;n4;HTML;ARTICLE;http://www.erudit.org.gate3.inist.fr/revue/ae/2010/v86/n4/1005678ar.html
+ae/2009/v85/n4/045072ar;ae;10.7202/045072ar;2009;v85;n4;PDF;ARTICLE;http://www.erudit.org.gate3.inist.fr/revue/ae/2009/v85/n4/045072ar.pdf
+crimino/2013/v46/n1/1015292ar;crimino;10.7202/1015292ar;2013;v46;n1;MISC;REF;http://www.erudit.org.gate3.inist.fr/revue/crimino/2013/v46/n1/1015292ar.html?vue=biblio&mode=restriction
