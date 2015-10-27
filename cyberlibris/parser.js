@@ -32,6 +32,7 @@ module.exports = new Parser(function analyseEC(parsedUrl, ec) {
     result.unitid   = match[1];
   } else if ((match = /^\/catalog\/book\/docid\/([0-9]+).*$/.exec(path)) !== null) {
     // http://univ-paris1.cyberlibris.com/catalog/book/docid/88805591/searchstring/femmes
+    // http://univ-paris1.cyberlibris.com/catalog/book/docid/88805591
     result.rtype    = 'ABS';
     result.mime     = 'HTML';
     result.title_id = match[1];
