@@ -1,7 +1,7 @@
-out-print_identifier;out-publication_date;out-unitid;out-title_id;out-rtype;out-mime;in-url
-1759-9660;;ay006014;ay;TOC;MISC;https://pubs-rsc-org.bibliopam-evry.univ-evry.fr/en/journals/journalissues/ay#!issueid=ay006014&type=current&issnprint=1759-9660
-0368-1769;;js1877_32_0;js;TOC;MISC;https://pubs-rsc-org.bibliopam-evry.univ-evry.fr/en/journals/journalissues/js#!issueid=js1877_32_0&type=archive&issnprint=0368-1769
-;2014;c4rp00006d;rp;ARTICLE;HTML;https://pubs-rsc-org.bibliopam-evry.univ-evry.fr/en/content/articlehtml/2014/rp/c4rp00006d
-;2014;c4rp00006d;rp;ARTICLE;PDF;https://pubs-rsc-org.bibliopam-evry.univ-evry.fr/en/content/articlepdf/2014/RP/C4RP00006D
-978-1-84973-424-0;;978-1-84973-424-0;978-1-84973-424-0;TOC;MISC;https://pubs-rsc-org.bibliopam-evry.univ-evry.fr/en/content/ebook/978-1-84973-424-0#!divbookcontent
-978-1-84973-424-0;2013;9781849734738-00001;978-1-84973-424-0;BOOK_SECTION;PDF;https://pubs-rsc-org.bibliopam-evry.univ-evry.fr/en/content/chapterpdf/2013/9781849734738-00001?isbn=978-1-84973-424-0&sercode=bk
+out-print_identifier;out-publication_date;out-doi;out-issn;out-isbn;out-unitid;out-title_id;out-rtype;out-mime;in-url
+1759-9660;;;1759-9660;;ay006014;ay;TOC;MISC;https://pubs-rsc-org.bibliopam-evry.univ-evry.fr/en/journals/journalissues/ay#!issueid=ay006014&type=current&issnprint=1759-9660
+0368-1769;;;0368-1769;;js1877_32_0;js;TOC;MISC;https://pubs-rsc-org.bibliopam-evry.univ-evry.fr/en/journals/journalissues/js#!issueid=js1877_32_0&type=archive&issnprint=0368-1769
+;2014;10.1039/c4rp00006d;;;c4rp00006d;rp;ARTICLE;HTML;https://pubs-rsc-org.bibliopam-evry.univ-evry.fr/en/content/articlehtml/2014/rp/c4rp00006d
+;2014;10.1039/C4RP00006D;;;c4rp00006d;rp;ARTICLE;PDF;https://pubs-rsc-org.bibliopam-evry.univ-evry.fr/en/content/articlepdf/2014/RP/C4RP00006D
+978-1-84973-424-0;;;;978-1-84973-424-0;978-1-84973-424-0;978-1-84973-424-0;TOC;MISC;https://pubs-rsc-org.bibliopam-evry.univ-evry.fr/en/content/ebook/978-1-84973-424-0#!divbookcontent
+978-1-84973-424-0;2013;10.1039/9781849734738-00001;;;9781849734738-00001;978-1-84973-424-0;BOOK_SECTION;PDF;https://pubs-rsc-org.bibliopam-evry.univ-evry.fr/en/content/chapterpdf/2013/9781849734738-00001?isbn=978-1-84973-424-0&sercode=bk
