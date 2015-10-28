@@ -10,7 +10,7 @@
   "contact": "yannick.schurter at inist point fr",
   "pkb": true,
 	"domains": [
-    "http://ebooks.cambridge.org/"
+	    "ebooks.cambridge.org"
 	],
   "recognize": {
     "rid": [
