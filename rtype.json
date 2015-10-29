@@ -139,4 +139,9 @@
     "description":  "consultation de données économiques",
     "comment": "cas des plateformes en éco-gestion (xerfi, pointrisk, chelem)"
   }
+ {
+    "code": "FIGURE",
+    "description":  "consultation de figures",
+    "comment": "cas de plateforme endocrine society"
+  }
 ]
