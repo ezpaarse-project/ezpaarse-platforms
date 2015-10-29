@@ -58,7 +58,7 @@ module.exports = new Parser(function analyseEC(parsedUrl) {
     if ((match = /^\/(([0-9]{4}-[0-9]{3}[0-9xX]{1})\/([0-9]+)(\/[A-Z][0-9]+){2})\/abstract$/.exec(pathname)) !== null) {
       // example : http://www.biomedcentral.com/1471-2105/13/S18/A1/abstract
       result.issn = match[2];
-      result.vol = match[3]
+      result.vol = match[3];
       result.unitid = match[1];
       result.print_identifier  = match[2];
       result.rtype  = 'ABS';

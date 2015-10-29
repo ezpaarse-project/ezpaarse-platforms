@@ -2,7 +2,7 @@
   "version": "2015-04-20",
   "status": "beta",
   "domains": [
-    "http://www.endocrine.org/",
+    "www.endocrine.org/",
     "press.endocrine.org"
   ],
   "recognize": {

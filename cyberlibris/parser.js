@@ -30,18 +30,18 @@ module.exports = new Parser(function analyseEC(parsedUrl, ec) {
     result.mime     = 'HTML';
     result.title_id = match[1];
     result.unitid   = match[1];
+  } else if ((match = /^\/catalog\/book\/docid\/([0-9]+).*$/.exec(path)) !== null) {
+    // http://univ-paris1.cyberlibris.com/catalog/book/docid/88805591/searchstring/femmes
+    // http://univ-paris1.cyberlibris.com/catalog/book/docid/88805591
+    result.rtype    = 'ABS';
+    result.mime     = 'HTML';
+    result.title_id = match[1];
+    result.unitid   = match[1];
   } else if ((match = /^\/reader\/istream\/([a-z]+)\/([0-9]+)\/([a-z]+)\/([0-9]+)$/.exec(path)) !== null) {
     // feuilletage en ligne HTML5
     // http://univ-paris1.cyberlibris.com/reader/istream/docid/88826141/page/1
     result.rtype    = 'BOOK';
     result.mime     = 'HTML';
-    result.title_id = match[2];
-    result.unitid   = match[2]+'/'+match[3]+'/'+match[4];
-  } else if ((match = /^\/reader\/local\/([a-z]+)\/([0-9]+)\/([a-z]+)\/([0-9]+)$/.exec(path)) !== null) {
-    // feuilletage en ligne, version flash reader
-    // http://univ-paris1.cyberlibris.com/reader/local/docid/88826141/page/1
-    result.rtype    = 'BOOK';
-    result.mime     = 'MISC';
     result.title_id = match[2];
     result.unitid   = match[2]+'/'+match[3]+'/'+match[4];
   } else if ((match = /^\/reader\/flashpagesrv\/$/.exec(path)) !== null) {
@@ -53,7 +53,14 @@ module.exports = new Parser(function analyseEC(parsedUrl, ec) {
     result.unitid   = param.docid+'/page/'+param.p;
   } 
  
-
+// else if ((match = /^\/reader\/local\/([a-z]+)\/([0-9]+)\/([a-z]+)\/([0-9]+)$/.exec(path)) !== null) {
+//     // feuilletage en ligne, version flash reader
+//     // http://univ-paris1.cyberlibris.com/reader/local/docid/88826141/page/1
+//     result.rtype    = 'BOOK';
+//     result.mime     = 'MISC';
+//     result.title_id = match[2];
+//     result.unitid   = match[2]+'/'+match[3]+'/'+match[4];
+//   } 
 
 //  else if ((match = /^\/reader\/([a-z]+)\/*/.exec(path)) !== null) {
 //    // imprimer une partie du document 

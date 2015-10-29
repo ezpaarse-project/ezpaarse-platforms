@@ -2,7 +2,8 @@
   "version": "2015-06-05",
   "status": "beta",
   "domains": [
-    "http://www.thieme-connect.com/","http://www.thieme-connect.de/"
+    "www.thieme-connect.com",
+    "www.thieme-connect.de"
   ],
   "recognize": {
     "rid": [
