@@ -2,8 +2,7 @@
   "version": "2015-05-18",
   "status": "beta",
   "domains": [
-    "heinonline.org",
-    "heinonline.org.faraway.u-paris10.fr"
+    "heinonline.org"
   ],
   "recognize": {
     "rid": [
