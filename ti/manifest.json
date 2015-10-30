@@ -1,0 +1,28 @@
+{
+  "version": "2015-10-29",
+  "status": "beta",
+  "domains": [
+    "www.techniques-ingenieur.fr"
+  ],
+  "recognize": {
+    "rid": [
+      "title_id"
+    ],
+    "rtype": [
+      "PREVIEW",
+      "ENCYCLOPAEDIA_ENTRY",
+      "BOOK",
+      "ARTICLE"
+    ],
+    "mime": [
+      "HTML",
+      "PDF"
+    ]
+  },
+  "name": "ti",
+  "longname": "Techniques de l'Ingénieur",
+  "describe": "Identifie les consultations de la plateforme Techniques de l'Ingénieur",
+  "docurl": "http://analogist.couperin.org/platforms/techniques-de-l-ingenieur/",
+  "contact": "thomas.jouneau@univ-lorraine.fr",
+  "pkb": false
+}
