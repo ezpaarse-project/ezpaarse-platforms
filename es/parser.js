@@ -47,7 +47,7 @@ module.exports = new Parser(function analyseEC(parsedUrl, ec) {
   } else   if ((match = /^\/doi\/([a-z]+)\/([0-9]{2}).([0-9]+)\/([a-z]+).([0-9]+)(-)([0-9]+)$/.exec(path)) !== null) {
     //http://press.endocrine.org/doi/abs/10.1210/jc.2014-3282
     result.doi = match[2]+'.'+ match[3] +'/'+ match[4]+'.'+ match[5]+'-'+ match[7];
-    
+    result.publication_date = match[5];
     ///result.unitid   =match[1] +'/'+ match[2]+'/'+ match[3];
     switch (match[1]) {
     case 'abs':
