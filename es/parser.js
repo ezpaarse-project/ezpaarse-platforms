@@ -29,32 +29,32 @@ module.exports = new Parser(function analyseEC(parsedUrl, ec) {
     result.rtype    = 'TOC';
     result.mime     = 'MISC';
     result.title_id = match[1];
-    result.unitid   = match[1];
+    result.unitid   = 'journal/' + match[1];
   } else   if ((match = /^\/toc\/([a-z]+)\/([a-z]+)$/.exec(path)) !== null) {
    // http://press.endocrine.org/toc/jcem/current
     result.rtype    = 'TOC';
     result.mime     = 'MISC';
     result.title_id = match[1];
-    result.unitid   = match[1] +'/'+ match[2];
-  }else   if ((match = /^\/toc\/([a-z]+)\/([0-9]+)\/([0-9]+)$/.exec(path)) !== null) {
+    result.unitid   = 'toc/' + match[1] +'/'+ match[2];
+  } else   if ((match = /^\/toc\/([a-z]+)\/([0-9]+)\/([0-9]+)$/.exec(path)) !== null) {
     //http://press.endocrine.org/toc/jcem/99/12
     result.rtype    = 'TOC';
     result.mime     = 'MISC';
     result.title_id = match[1];
-    result.unitid   = match[1] +'/'+ match[2]+'/'+ match[3];
+    result.unitid   = 'toc/' + match[1] +'/'+ match[2]+'/'+ match[3];
     result.vol = match[2];
     result.issue =  match[3];
-  }else   if ((match = /^\/doi\/([a-z]+)\/([0-9]{2}).([0-9]+)\/([a-z]+).([0-9]+)(-)([0-9]+)$/.exec(path)) !== null) {
+  } else   if ((match = /^\/doi\/([a-z]+)\/([0-9]{2}).([0-9]+)\/([a-z]+).([0-9]+)(-)([0-9]+)$/.exec(path)) !== null) {
     //http://press.endocrine.org/doi/abs/10.1210/jc.2014-3282
-     result.doi = match[2]+'.'+ match[3] +'/'+ match[4]+'.'+ match[5]+'-'+ match[7];
+    result.doi = match[2]+'.'+ match[3] +'/'+ match[4]+'.'+ match[5]+'-'+ match[7];
     
     ///result.unitid   =match[1] +'/'+ match[2]+'/'+ match[3];
     switch (match[1]) {
     case 'abs':
         // http://press.endocrine.org/doi/abs/10.1210/jc.2014-3282
-       result.rtype    = 'ABS';
-       result.mime     = 'MISC';
-       result.unitid   = match[2]+'.'+ match[3] +'/'+ match[4]+'.'+ match[5]+'-'+ match[7];
+      result.rtype    = 'ABS';
+      result.mime     = 'MISC';
+      result.unitid   = match[1] +'/'+ match[2]+'.'+ match[3] +'/'+ match[4]+'.'+ match[5]+'-'+ match[7];
       break;
     case 'full':
       //http://press.endocrine.org/doi/full/10.1210/jc.2014-3282
@@ -73,6 +73,7 @@ module.exports = new Parser(function analyseEC(parsedUrl, ec) {
     case 'figure':
       // http://press.endocrine.org/doi/figure/10.1210/jc.2014-3282
 
+      result.rtype = 'FIGURE';
       result.mime = 'MISC';
       result.unitid  = match[1] +'/'+ match[2]+'.'+ match[3] +'/'+ match[4]+'.'+ match[5]+'-'+ match[7];
       break;
@@ -80,6 +81,8 @@ module.exports = new Parser(function analyseEC(parsedUrl, ec) {
       // http://press.endocrine.org/doi/suppl/10.1210/jc.2014-3282
 
       result.unitid  = match[1] +'/'+ match[2]+'.'+ match[3] +'/'+ match[4]+'.'+ match[5]+'-'+ match[7];
+      result.mime = 'MISC';
+      result.rtype = 'SUPPL';
       break;
     case 'citedby':
       // http://press.endocrine.org/doi/citedby/10.1210/jc.2014-3282

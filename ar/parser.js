@@ -9,12 +9,11 @@
  * http://analogist.couperin.org/platforms/annualreviews/
  */
 'use strict';
-var URL    = require('url');
 var Parser = require('../.lib/parser.js');
 
-module.exports = new Parser(function analyseEC(url) {
+module.exports = new Parser(function analyseEC(parsedUrl) {
   var result = {};
-  var path   = decodeURIComponent(URL.parse(url).path);
+  var path   = parsedUrl.pathname;
 
   var match;
 
