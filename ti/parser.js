@@ -57,7 +57,14 @@ module.exports = new Parser(function analyseEC(parsedUrl, ec) {
     result.mime  = 'HTML';
     result.unit_id = 'lexique/' + match[1];
     result.title_id  = match[1];
-  }
+  } else if ((match = /^\/base\-documentaire\/archives\-th[0-9]+\/[a-z\-0-9]+\/archive\-[0-9]\/([a-z0-9\-]+)\/$/.exec(path)) !== null) {
+    // http://www.techniques-ingenieur.fr/base-documentaire/archives-th12/archives-mathematiques-pour-l-ingenieur-tiafm/archive-1/classification-periodique-des-elements-25/
+    result.rtype    = 'PREVIEW';
+    result.mime     = 'HTML';
+    //console.error(match[1] + "-" + match[2] + "-" + match[3]);
+    result.title_id = match[1];
+    result.unit_id   = match[1];
+  } 
 
   return result;
 });
