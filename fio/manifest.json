@@ -1,0 +1,30 @@
+{
+  "version": "2015-11-02",
+  "status": "beta",
+  "domains": [
+    "film.chadwyck.co.uk",
+    "fiaf.chadwyck.com"
+  ],
+  "recognize": {
+    "rid": [
+      "title_id",
+      "unitid",
+      "publication_date"
+    ],
+    "rtype": [
+      "REF",
+      "ARTICLE"
+    ],
+    "mime": [
+      "HTML",
+      "PDFF",
+      "PDF"
+    ]
+  },
+  "name": "fio",
+  "longname": "Film Indexes Online",
+  "describe": "Identifie les consultations de la plateforme Film Indexes Online",
+  "docurl": "http://analogist.couperin.org/platforms/film-indexes-online/start",
+  "contact": "abderrazzak.loukili@inist.fr",
+  "pkb": false
+}
