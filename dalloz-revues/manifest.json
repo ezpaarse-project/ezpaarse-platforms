@@ -1,0 +1,27 @@
+{
+  "version": "2015-10-30",
+  "status": "beta",
+  "domains": [
+    "www.dalloz-revues.fr",
+    "dallozknd-pvgpsla5.dalloz-revues.fr"
+  ],
+  "recognize": {
+    "rid": [
+      "title_id"
+    ],
+    "rtype": [
+      "ARTICLE",
+      "TOC"
+    ],
+    "mime": [
+      "HTML",
+      "MISC"
+    ]
+  },
+  "name": "dalloz-revues",
+  "longname": "Dalloz Revues",
+  "describe": "Identifie les consultations de la plateforme Dalloz Revues",
+  "docurl": "http://analogist.couperin.org/platforms/dalloz-revues/",
+  "contact": "thomas.porquet@couperin.org",
+  "pkb": false
+}
