@@ -44,3 +44,4 @@ Annual Review of Resource Economics	1941-1340	1941-1359									resource
 Annual Review of Sociology	0360-0572	1545-2115									soc				
 Annual Review of Statistics and Its Application	2326-8298	2326-831x									statistics				
 Annual Review of Virology	2327-056x	2327-0578									virology				
+Annual Review of Pathology	1553-4006	1553-4014									pathol				
