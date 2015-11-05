@@ -1,0 +1,31 @@
+{
+  "version": "2015-11-02",
+  "status": "beta",
+  "domains": [
+    "eebo-chadwyck-com.bibliopam-evry.univ-evry.fr",
+    "http://eebo.chadwyck.com"
+  ],
+  "recognize": {
+    "rid": [
+      "title_id",
+      "unitid"
+    ],
+    "rtype": [
+      "BOOK",
+      "PREVIEW",
+      "TOC",
+      "ABS"
+    ],
+    "mime": [
+      "HTML",
+      "MISC",
+      "PDF"
+    ]
+  },
+  "name": "eebo",
+  "longname": "Early English Books Online",
+  "describe": "Identifie les consultations de la plateforme Early English Books Online",
+  "docurl": "http://analogist.couperin.org/platforms/eebo/start",
+  "contact": "abderrazzak.loukili@inist.fr",
+  "pkb": false
+}
