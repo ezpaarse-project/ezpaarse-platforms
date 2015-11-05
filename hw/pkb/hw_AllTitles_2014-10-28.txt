@@ -1386,3 +1386,4 @@ Young	1103-3088	1741-3222							http://you.sagepub.com		you.sagepub.com				SAGE 
 Youth Violence and Juvenile Justice	1541-2040	1556-9330							http://yvj.sagepub.com		yvj.sagepub.com				SAGE Publications										
 Year's Work in Critical and Cultural Theory	1077-4254	1471-681X							http://ywcct.oxfordjournals.org		ywcct.oxfordjournals.org				Oxford University Press										
 Year's Work in English Studies	0084-4144	1471-6801							http://ywes.oxfordjournals.org		ywes.oxfordjournals.org				Oxford University Press										
+Blood	0006-4971	1528-0020							http://bloodjournal.hematologylibrary.org		bloodjournal.hematologylibrary.org				American Society of Hematology
