@@ -1,0 +1,32 @@
+{
+  "version": "2015-11-09",
+  "status": "beta",
+  "domains": [
+    "www-degruyter-com.bibliopam-evry.univ-evry.fr",
+    "http://www.degruyter.com"
+  ],
+  "recognize": {
+    "rid": [
+      "title_id",
+      "issue",
+      "publication_date",
+      "unitid",
+      "doi"
+    ],
+    "rtype": [
+      "TOC",
+      "PREVIEW",
+      "ARTICLE"
+    ],
+    "mime": [
+      "HTML",
+      "PDF"
+    ]
+  },
+  "name": "degruyter",
+  "longname": "De Gruyter",
+  "describe": "Identifie les consultations de la plateforme De Gruyter",
+  "docurl": "http://analogist.couperin.org/platforms/degruyter/",
+  "contact": "abderrazzak.loukili@inist.fr",
+  "pkb": false
+}
