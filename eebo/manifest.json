@@ -2,8 +2,7 @@
   "version": "2015-11-02",
   "status": "beta",
   "domains": [
-    "eebo-chadwyck-com.bibliopam-evry.univ-evry.fr",
-    "http://eebo.chadwyck.com"
+    "eebo.chadwyck.com"
   ],
   "recognize": {
     "rid": [

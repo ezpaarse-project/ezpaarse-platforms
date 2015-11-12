@@ -2,8 +2,7 @@
   "version": "2015-06-08",
   "status": "beta",
   "domains": [
-    "www.nejm.org",
-    "www.nejm.org.ezproxy.unilim.fr"
+    "www.nejm.org"
   ],
   "recognize": {
     "rid": [
