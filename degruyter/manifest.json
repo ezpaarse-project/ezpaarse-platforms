@@ -2,8 +2,7 @@
   "version": "2015-11-09",
   "status": "beta",
   "domains": [
-    "www-degruyter-com.bibliopam-evry.univ-evry.fr",
-    "http://www.degruyter.com"
+     "www.degruyter.com"
   ],
   "recognize": {
     "rid": [
