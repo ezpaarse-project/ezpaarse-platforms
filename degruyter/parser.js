@@ -50,6 +50,10 @@ module.exports = new Parser(function analyseEC(parsedUrl, ec) {
     // https://www-degruyter-com.bibliopam-evry.univ-evry.fr/dg/viewarticle.
     //fullcontentlink:pdfeventlink/$002fj$002fetly.2011.2011.issue-1$002f9783110239423.200$002f9783110239423.200.
     //pdf?format=INT&t:ac=j$002fetly.2011.2011.issue-1$002f9783110239423.200$002f9783110239423.200.xml 
+
+
+
+    ////$002fj$002fjtms.2015.2.issue-1$002fjtms-2015-frontmatter1$002fjtms-2015-frontmatter1.pdf
     info = match[2].split('.');
     result.publication_date = info[1];
 
@@ -60,8 +64,20 @@ module.exports = new Parser(function analyseEC(parsedUrl, ec) {
     result.unitid   = info[4].split('$002f')[1] + '.' + info[4].split('$002f')[0]  ;
     if (match[1].split('.')[0] ===  "viewarticle") {
     result.rtype    = 'ARTICLE';
-    result.unitid   = info[4].split('$002f')[1] + '.' + info[4].split('$002f')[0] + '.pdf' ;
+      if (info[4].split('$002f')[1] !== undefined ) {    
+      result.unitid   = info[4].split('$002f')[1] + '.' + info[4].split('$002f')[0] + '.pdf' ;
+      } else {
+      result.title_id = info[3].split('$002f')[1].split('-')[0];
+      result.unitid   = info[3].split('$002f')[2] + '.pdf' ;
+      }
     } else {
+       if (info[4].split('$002f')[1] !== undefined ) {
+       
+      result.unitid   = info[4].split('$002f')[1] + '.' + info[4].split('$002f')[0] ;
+      } else {
+      result.title_id = info[3].split('$002f')[1].split('-')[0];
+      result.unitid   = info[3].split('$002f')[2] + '.pdf' ;
+      }
     result.rtype = 'TOC';  
     }
     
