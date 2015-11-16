@@ -1,0 +1,16 @@
+publication_title	print_identifier	online_identifier	date_first_issue_online	num_first_vol_online	num_first_issue_online	date_last_issue_online	num_last_vol_online	num_last_issue_online	title_url	first_author	title_id	embargo_info	coverage_depth	coverage_notes	publisher_name	publication_type	date_monograph_published_print	date_monograph_published_online	monograph_volume	monograph_edition	first_editor	parent_publication_title_id	preceding_publication_title_id	access_type
+Design, Execution, and Management of Medical Device Clinical Trials	9780470474266	9780470475904							http://onlinelibrary.wiley.com/book/10.1002/9780470475911		9780470475911													
+Macromolecules Containing Metal and Metal-Like Elements, Volume 10: Photophysics and Photochemistryof Metal-Containing Polymers	9780470597743	9780470604083							http://onlinelibrary.wiley.com/book/10.1002/9780470604090		9780470604090													
+Global Challenges in Recreational Fisheries	9781405156578	9780470698143							http://onlinelibrary.wiley.com/book/10.1002/9780470697597		9780470697597													
+The Handbook of English Linguistics	9781405113823	9781405178402							http://onlinelibrary.wiley.com/book/10.1002/9780470753002		9780470753002													
+Doubly Fed Induction Machine: Modeling and Control for Wind Energy Generation	9780470768655	9781118104941							http://onlinelibrary.wiley.com/book/10.1002/9781118104965		9781118104965													
+The Design and Management of Medical Device Clinical Trials: Strategies and Challenges	9780470602256	9781118164624							http://onlinelibrary.wiley.com/book/10.1002/9781118164617		9781118164617													
+Cementitious Materials for Nuclear Waste Immobilization	9781118512005	9781118511985							http://onlinelibrary.wiley.com/book/10.1002/9781118511992		9781118511992													
+Understanding and Applying Research Design	9781118096482	9781118605264							http://onlinelibrary.wiley.com/book/10.1002/9781118647325		9781118647325													
+Sedimentation and Tectonics in Coastal Southern California	9780875906096								http://onlinelibrary.wiley.com/book/10.1029/FT110		9781118667040													
+Geologic Evolution of the Northernmost Coast Ranges and Western Klamath Mountains, California: Galice, Oregon to Eureka, California July 2028, 1989	9780875905778								http://onlinelibrary.wiley.com/book/10.1029/FT308		9781118670057													
+Cloud Management and Security	9781118817094	9781118817063							http://onlinelibrary.wiley.com/book/10.1002/9781118817087		9781118817087													
+Alternative Assets and Strategic Allocation: Rethinking the Institutional Approach	9781576603680								http://onlinelibrary.wiley.com/book/10.1002/9781119203711		9781119203711													
+Atlantic Salmon Ecology	9781405197694	9781444327762							http://onlinelibrary.wiley.com/book/10.1002/9781444327755		9781444327755													
+Place, Exclusion and Mortgage Markets	9781405196574	9781444342284							http://onlinelibrary.wiley.com/book/10.1002/9781444342314		9781444342314													
+Subprime Cities - The Political Economy of Mortgage Markets	9781444337761	9781444347425							http://onlinelibrary.wiley.com/book/10.1002/9781444347456		9781444347456													
