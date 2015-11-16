@@ -33,8 +33,8 @@ module.exports = new Parser(function analyseEC(parsedUrl, ec) {
   } else if ((match = /^\/doi\/([a-z]+)\/(([0-9]+).([0-9]+))\/(([A-Z]+)([a-z]+)([0-9]+))$/.exec(path)) !== null) {
     // http://www.nejm.org.ezproxy.unilim.fr/doi/full/10.1056/NEJMp1501140
     //http://www.nejm.org.ezproxy.unilim.fr/doi/pdf/10.1056/NEJMra1403672
-    result.title_id = match[2] + "/" + match[5];
-    result.unitid   = match[2] + "/" + match[5];
+    result.title_id = match[5];
+    result.unitid   = match[5];
     result.rtype    = 'ARTICLE';
     result.doi =  match[2] + "/" + match[5];
     if (match[1] === 'pdf') {
@@ -42,7 +42,7 @@ module.exports = new Parser(function analyseEC(parsedUrl, ec) {
     } else if (match[1] === 'ref') {
       result.mime     = 'HTML';
       result.rtype    = 'REF';
-      result.title_id = "ref/" + match[2]  + "/" + match[5];
+      result.title_id =  match[5];
       result.unitid   = result.title_id;
     } else {
         if (match[7] === "vcm") { 
@@ -66,8 +66,8 @@ module.exports = new Parser(function analyseEC(parsedUrl, ec) {
       result.title_id = "nejm_" + matchparam[1]+ "." +matchparam[2] + "." + matchparam[3]  + "-" + matchparam[4] ;
       result.unitid   = "nejm_"+ matchparam[1]+ "." +matchparam[2] + "." + matchparam[3]  + "-" + matchparam[4] + "." + matchparam[5];
      } else if (param.doi) {
-      result.title_id = param.doi;
-      result.unitid   =  param.doi;
+      result.title_id = param.doi.split("/")[1];
+      result.unitid   =  param.doi.split("/")[1];
       result.doi =   param.doi;
      }
 
@@ -75,8 +75,9 @@ module.exports = new Parser(function analyseEC(parsedUrl, ec) {
     // http://www.nejm.org.ezproxy.unilim.fr/doi/audio/10.1056/nejm_2015.372.issue-23
     result.rtype    = 'TOC';
     result.mime     = 'MISC';
-    result.title_id = match[2] + "/" + match[5];
-    result.unitid   = result.doi = match[2] + "/" + match[5];
+    result.title_id = match[5];
+    result.doi = match[2] + "/" + match[5];
+    result.unitid   = match[5];
   } else if ((match = /^\/doi\/([a-z]+)\/(([0-9]+).([0-9]+))\/(([A-Z]+)([a-z]+)([0-9]+))\/([a-z_]+)\/(([a-z0-9]+)_([a-z]+)).pdf$/.exec(path)) !== null) {
     // http://www.nejm.org.ezproxy.unilim.fr/doi/suppl/10.1056/NEJMoa1410489/suppl_file/nejmoa1410489_appendix.pdf
     result.rtype    = 'ARTICLE';
@@ -88,8 +89,8 @@ module.exports = new Parser(function analyseEC(parsedUrl, ec) {
     // http://www.nejm.org.gate1.inist.fr/doi/pdf/10.1056/NEJM199301073280104
     result.rtype    = 'ARTICLE';
     result.mime     = 'PDF';
-    result.title_id = match[2]  + "/" + match[5];
-    result.unitid   = match[2]  + "/" + match[5];
+    result.title_id = match[5];
+    result.unitid   =  match[5];
     result.doi =  match[2]  + "/" + match[5];
   }
 
