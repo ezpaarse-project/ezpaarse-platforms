@@ -54,20 +54,20 @@ module.exports = new Parser(function analyseEC(parsedUrl, ec) {
         // http://press.endocrine.org/doi/abs/10.1210/jc.2014-3282
       result.rtype    = 'ABS';
       result.mime     = 'MISC';
-      result.unitid   = match[1] +'/'+ match[2]+'.'+ match[3] +'/'+ match[4]+'.'+ match[5]+'-'+ match[7];
+      result.unitid   = match[4]+'.'+ match[5]+'-'+ match[7];
       break;
     case 'full':
       //http://press.endocrine.org/doi/full/10.1210/jc.2014-3282
       result.rtype    = 'ARTICLE';
       result.mime     = 'HTML';
-      result.unitid   = match[1] +'/'+ match[2]+'.'+ match[3] +'/'+ match[4]+'.'+ match[5]+'-'+ match[7];
+      result.unitid   = match[4]+'.'+ match[5]+'-'+ match[7];
       break;
     
     case 'pdf':
       // http://press.endocrine.org/doi/pdf/10.1210/jc.2014-4153
       result.rtype = 'ARTICLE';
       result.mime = 'PDF';
-      result.unitid   = match[1] +'/'+ match[2]+'.'+ match[3] +'/'+ match[4]+'.'+ match[5]+'-'+ match[7];
+      result.unitid   = match[4]+'.'+ match[5]+'-'+ match[7];
 
       break;
     case 'figure':
@@ -75,12 +75,12 @@ module.exports = new Parser(function analyseEC(parsedUrl, ec) {
 
       result.rtype = 'FIGURE';
       result.mime = 'MISC';
-      result.unitid  = match[1] +'/'+ match[2]+'.'+ match[3] +'/'+ match[4]+'.'+ match[5]+'-'+ match[7];
+      result.unitid  =  match[4]+'.'+ match[5]+'-'+ match[7];
       break;
     case 'suppl':
       // http://press.endocrine.org/doi/suppl/10.1210/jc.2014-3282
 
-      result.unitid  = match[1] +'/'+ match[2]+'.'+ match[3] +'/'+ match[4]+'.'+ match[5]+'-'+ match[7];
+      result.unitid  =  match[4]+'.'+ match[5]+'-'+ match[7];
       result.mime = 'MISC';
       result.rtype = 'SUPPL';
       break;
@@ -88,7 +88,7 @@ module.exports = new Parser(function analyseEC(parsedUrl, ec) {
       // http://press.endocrine.org/doi/citedby/10.1210/jc.2014-3282
       result.rtype = 'REF';
       result.mime = 'MISC';
-      result.unitid  = match[1] +'/'+ match[2]+'.'+ match[3] +'/'+ match[4]+'.'+ match[5]+'-'+ match[7];
+      result.unitid  =  match[4]+'.'+ match[5]+'-'+ match[7];
       break;
     }
 
@@ -98,7 +98,7 @@ module.exports = new Parser(function analyseEC(parsedUrl, ec) {
     result.rtype    = 'TOC';
     result.mime     = 'MISC';
     result.title_id = match[4];
-    result.unitid  = match[1]+'.'+ match[2] +'/'+ match[3]+'.'+ match[4];
+    result.unitid  = match[3]+'.'+ match[4];
     result.doi =  match[1]+'.'+ match[2] +'/'+ match[3]+'.'+ match[4];
   }else   if ((match = /^\/doi\/([a-z]+)\/([0-9]{2}).([0-9]+)\/([A-Z1-9]+).([0-9]+).([a-z0-9]+)$/.exec(path)) !== null) {
     
@@ -115,8 +115,8 @@ module.exports = new Parser(function analyseEC(parsedUrl, ec) {
         break;
     }
     result.title_id = match[5];
-      result.unitid  = match[1] +'/'+ match[2]+'.'+ match[3] +'/'+ match[4]+'.'+ match[5]+'.'+ match[6];
-        result.doi = match[2]+'.'+ match[3] +'/'+ match[4]+'.'+ match[5]+'.'+ match[6];
+    result.unitid  =  match[4]+'.'+ match[5]+'.'+ match[6];
+    result.doi = match[2]+'.'+ match[3] +'/'+ match[4]+'.'+ match[5]+'.'+ match[6];
   }
 
 
