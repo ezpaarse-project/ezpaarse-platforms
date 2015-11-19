@@ -22,9 +22,9 @@ module.exports = new Parser(function analyseEC(parsedUrl) {
   } else if ((match = /^\/(article|book|protocol)\/([0-9]+\.[0-9]+\/[^\/]*)(\/page\/[0-9]+)?(\/fulltext.html)?/.exec(path)) !== null) {
     result.doi  = match[2];
     if (match[3]) {
-      result.unitid = match[2] + match[3];
+      result.unitid = match[2].split("/")[1] + match[3];
     } else {
-      result.unitid = match[2];
+      result.unitid = match[2].split("/")[1];
     }
     switch (match[1]) {
     case 'article':
@@ -46,10 +46,10 @@ module.exports = new Parser(function analyseEC(parsedUrl) {
       result.mime = 'HTML';
       break;
     }
-  } else if ((match = /^\/content\/pdf\/([0-9]+\.[0-9]+\/[^\/]*)/.exec(path)) !== null) {
+  } else if ((match = /^\/content\/pdf\/(([0-9]+\.[0-9]+)\/([^\/]*))/.exec(path)) !== null) {
     // example : http://link.springer.com.gate1.inist.fr/content/pdf/10.1007/s00359-010-0615-4
     result.doi  = match[1];
-    result.unitid = match[1];
+    result.unitid = match[3];
     result.rtype = 'ARTICLE';
     result.mime = 'PDF';
   } else if ((match = /^\/content\/([0-9]{4}-[0-9]{4})/.exec(path)) !== null) {
@@ -64,10 +64,10 @@ module.exports = new Parser(function analyseEC(parsedUrl) {
     result.unitid = match[1];
     result.rtype = 'ABS';
     result.mime = 'MISC';
-  } else if ((match = /^\/chapter\/([0-9]+\.[0-9]+\/[^\/]*)/.exec(path)) !== null) {
+  } else if ((match = /^\/chapter\/(([0-9]+\.[0-9]+)\/([^\/]*))/.exec(path)) !== null) {
     // example : http://link.springer.com.gate1.inist.fr/chapter/10.1007/978-3-540-71233-6_4
     result.doi  = match[1];
-    result.unitid = match[1];
+    result.unitid = match[3];
     result.rtype = 'ABS';
     result.mime = 'MISC';
   } else if ((match = /^\/(book)?series\/([0-9]+)/.exec(path)) !== null) {
@@ -104,11 +104,13 @@ module.exports = new Parser(function analyseEC(parsedUrl) {
       var type = match[2];
       switch (type) {
         case 'art' :
-          result.doi   = result.unitid;
+          result.unitid = result.unitid.split('/')[1];
+          result.doi   = decodeURIComponent(match[3]).substr(1);
           result.rtype = 'ARTICLE';
           break;
         case 'chp' :
-          result.doi   = result.unitid;
+          result.unitid = result.unitid.split('/')[1];
+          result.doi   = decodeURIComponent(match[3]).substr(1);
           result.rtype = 'BOOK';
           break;
         case 'bok' :

@@ -62,6 +62,7 @@ exports.generatePkb = function(namePlatform, callback) {
 				if (err) {
 					callback(new Error(err));
 				}
+				
 				var result = JSON.parse(body);
 
 				var listpkb = result.bacon.query.kbart;
