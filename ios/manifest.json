@@ -1,0 +1,27 @@
+{
+  "version": "2015-11-26",
+  "status": "beta",
+  "domains": [
+    "content.iospress.com"
+  ],
+  "recognize": {
+    "rid": [
+      "title_id",
+      "unitid"
+    ],
+    "rtype": [
+      "ARTICLE",
+      "ABS"
+    ],
+    "mime": [
+      "HTML",
+      "PDF"
+    ]
+  },
+  "name": "ios",
+  "longname": "IOS press",
+  "describe": "Identifie les consultations de la plateforme IOS press",
+  "docurl": "http://analogist-preprod.couperin.org/platforms/5656eb290d03d63066fe9a51",
+  "contact": "daniele.franco03@univ-paris8.fr",
+  "pkb": false
+}
