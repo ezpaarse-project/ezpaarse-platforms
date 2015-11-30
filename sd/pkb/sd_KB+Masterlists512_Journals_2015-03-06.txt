@@ -20,7 +20,6 @@ Journal of the American Dietetic Association	0002-8223								http://www.science
 American Heart Journal	0002-8703								http://www.sciencedirect.com/science/journal/00028703		00028703													
 The American Journal of Cardiology	0002-9149								http://www.sciencedirect.com/science/journal/00029149		00029149				Elsevier Science									
 The American Journal of Gastroenterology	0002-9270								http://www.sciencedirect.com/science/journal/00029270		00029270													
-The American Journal of Human Genetics	0002-9297	1537-6605							http://www.sciencedirect.com/science/journal/00029297		00029297				University of Chicago Press									
 The American Journal of Medicine	0002-9343								http://www.sciencedirect.com/science/journal/00029343		00029343													
 American Journal of Obstetrics and Gynecology	0002-9378								http://www.sciencedirect.com/science/journal/00029378		00029378				Mosby Yearbook Inc.									
 American Journal of Ophthalmology	0002-9394								http://www.sciencedirect.com/science/journal/00029394		00029394													
@@ -74,7 +73,6 @@ Biochimica et Biophysica Acta	0006-3002								http://www.sciencedirect.com/scie
 Bioinorganic Chemistry	0006-3061								http://www.sciencedirect.com/science/journal/00063061		00063061													
 Biological Conservation	0006-3207								http://www.sciencedirect.com/science/journal/00063207		00063207													
 Biological Psychiatry	0006-3223								http://www.sciencedirect.com/science/journal/00063223		00063223													
-Biophysical Journal	0006-3495	1542-0086							http://www.sciencedirect.com/science/journal/00063495		00063495													
 Biorheology	0006-355X	1878-5034							http://www.sciencedirect.com/science/journal/0006355X		0006355X				IOS Press									
 Brain Research	0006-8993								http://www.sciencedirect.com/science/journal/00068993		00068993													
 British Homoeopathic Journal	0007-0785	1476-539X							http://www.sciencedirect.com/science/journal/00070785		00070785				Churchill Livingstone, Inc.									
@@ -527,7 +525,6 @@ Journal of Biological Standardization	0092-1157								http://www.sciencedirect.
 Atomic Data and Nuclear Data Tables	0092-640X								http://www.sciencedirect.com/science/journal/0092640X		0092640X													
 Journal of Research in Personality	0092-6566								http://www.sciencedirect.com/science/journal/00926566		00926566													
 Bulletin of Mathematical Biology	0092-8240	1522-9602							http://www.sciencedirect.com/science/journal/00928240		00928240													
-Cell	0092-8674	1097-4172							http://www.sciencedirect.com/science/journal/00928674		00928674													
 Government Publications Review (1973)	0093-061X								http://www.sciencedirect.com/science/journal/0093061X		0093061X													
 Mechanics Research Communications	0093-6413								http://www.sciencedirect.com/science/journal/00936413		00936413													
 Theriogenology	0093-691X								http://www.sciencedirect.com/science/journal/0093691X		0093691X													
@@ -1547,7 +1544,6 @@ American Journal of Hypertension	0895-7061	1941-7225							http://www.sciencedir
 Mathematical and Computer Modelling	0895-7177								http://www.sciencedirect.com/science/journal/08957177		08957177													
 Seminars in Vascular Surgery	0895-7967								http://www.sciencedirect.com/science/journal/08957967		08957967													
 Journal of South American Earth Sciences	0895-9811								http://www.sciencedirect.com/science/journal/08959811		08959811													
-Neuron	0896-6273	1097-4199							http://www.sciencedirect.com/science/journal/08966273		08966273													
 Journal of Epilepsy	0896-6974								http://www.sciencedirect.com/science/journal/08966974		08966974													
 Journal of Autoimmunity	0896-8411								http://www.sciencedirect.com/science/journal/08968411		08968411													
 The Journal of Supercritical Fluids	0896-8446								http://www.sciencedirect.com/science/journal/08968446		08968446													
@@ -1793,7 +1789,6 @@ Bioorganic & Medicinal Chemistry Letters	0960-894X								http://www.sciencedire
 Neuromuscular Disorders	0960-8966								http://www.sciencedirect.com/science/journal/09608966		09608966													
 Progress in Crystal Growth and Characterization of Materials	0960-8974								http://www.sciencedirect.com/science/journal/09608974		09608974													
 The Breast	0960-9776								http://www.sciencedirect.com/science/journal/09609776		09609776													
-Current Biology	0960-9822	1879-0445							http://www.sciencedirect.com/science/journal/09609822		09609822													
 III-Vs Review	0961-1290								http://www.sciencedirect.com/science/journal/09611290		09611290													
 Advances in Engineering Software and Workstations	0961-3552								http://www.sciencedirect.com/science/journal/09613552		09613552													
 Composites Engineering	0961-9526								http://www.sciencedirect.com/science/journal/09619526		09619526													
@@ -1845,7 +1840,6 @@ Micron	0968-4328								http://www.sciencedirect.com/science/journal/09684328		0
 Supramolecular Science	0968-5677								http://www.sciencedirect.com/science/journal/09685677		09685677													
 Current Diagnostic Pathology	0968-6053								http://www.sciencedirect.com/science/journal/09686053		09686053													
 Reproductive Health Matters	0968-8080								http://www.sciencedirect.com/science/journal/09688080		09688080													
-Structure	0969-2126	1878-4186							http://www.sciencedirect.com/science/journal/09692126		09692126													
 Biometric Technology Today	0969-4765								http://www.sciencedirect.com/science/journal/09694765		09694765													
 International Business Review	0969-5931								http://www.sciencedirect.com/science/journal/09695931		09695931													
 International Transactions in Operational Research	0969-6016	1475-3995							http://www.sciencedirect.com/science/journal/09696016		09696016													
@@ -2085,9 +2079,7 @@ Journal of the American College of Surgeons	1072-7515								http://www.scienced
 Advances in Renal Replacement Therapy	1073-4449								http://www.sciencedirect.com/science/journal/10734449		10734449				W B Saunders									
 Seminars in Orthodontics	1073-8746								http://www.sciencedirect.com/science/journal/10738746		10738746													
 The Journal of the American Association of Gynecologic Laparoscopists	1074-3804								http://www.sciencedirect.com/science/journal/10743804		10743804													
-Chemistry and Biology	1074-5521								http://www.sciencedirect.com/science/journal/10745521		10745521													
 Neurobiology of Learning and Memory	1074-7427								http://www.sciencedirect.com/science/journal/10747427		10747427													
-Immunity	1074-7613	1097-4180							http://www.sciencedirect.com/science/journal/10747613		10747613													
 Chemical Health and Safety	1074-9098								http://www.sciencedirect.com/science/journal/10749098		10749098													
 Assessing Writing	1075-2935								http://www.sciencedirect.com/science/journal/10752935		10752935													
 International Journal of Trauma Nursing	1075-4210								http://www.sciencedirect.com/science/journal/10754210		10754210				Elsevier Science									
@@ -2173,7 +2165,6 @@ Molecular Genetics and Metabolism	1096-7192								http://www.sciencedirect.com/
 International Public Management Journal	1096-7494	1559-3169							http://www.sciencedirect.com/science/journal/10967494		10967494													
 The International Food and Agribusiness Management Review	1096-7508								http://www.sciencedirect.com/science/journal/10967508		10967508													
 The Internet and Higher Education	1096-7516								http://www.sciencedirect.com/science/journal/10967516		10967516													
-Molecular Cell	1097-2765	1097-4164							http://www.sciencedirect.com/science/journal/10972765		10972765													
 American Journal of Evaluation	1098-2140	1557-0878							http://www.sciencedirect.com/science/journal/10982140		10982140				SAGE									
 Value in Health	1098-3015								http://www.sciencedirect.com/science/journal/10983015		10983015													
 Clinical Cornerstone	1098-3597								http://www.sciencedirect.com/science/journal/10983597		10983597				Excerpta Medica Publishing Group									
@@ -2589,9 +2580,7 @@ Journal of Biomedical Informatics	1532-0464								http://www.sciencedirect.com/
 Journal of Evidence Based Dental Practice	1532-3382	1532-3390							http://www.sciencedirect.com/science/journal/15323382		15323382				Elsevier Science									
 Clinical Colorectal Cancer	1533-0028								http://www.sciencedirect.com/science/journal/15330028		15330028				Cancer Information Group									
 EJVES Extra	1533-3167								http://www.sciencedirect.com/science/journal/15333167		15333167													
-Developmental Cell	1534-5807	1878-1551							http://www.sciencedirect.com/science/journal/15345807		15345807													
 Clinical Techniques in Equine Practice	1534-7516								http://www.sciencedirect.com/science/journal/15347516		15347516													
-Cancer Cell	1535-6108	1878-3686							http://www.sciencedirect.com/science/journal/15356108		15356108													
 Molecular Imaging and Biology	1536-1632	1860-2002							http://www.sciencedirect.com/science/journal/15361632		15361632													
 Vascular Pharmacology	1537-1891								http://www.sciencedirect.com/science/journal/15371891		15371891													
 Biosystems Engineering	1537-5110								http://www.sciencedirect.com/science/journal/15375110		15375110													
@@ -2619,7 +2608,6 @@ The American Journal of Medicine Supplements	1548-2766								http://www.science
 Community Oncology	1548-5315								http://www.sciencedirect.com/science/journal/15485315		15485315													
 Advances in Chronic Kidney Disease	1548-5595								http://www.sciencedirect.com/science/journal/15485595		15485595				W B Saunders									
 Nanomedicine: Nanotechnology, Biology and Medicine	1549-9634								http://www.sciencedirect.com/science/journal/15499634		15499634													
-Cell Metabolism	1550-4131	1932-7420							http://www.sciencedirect.com/science/journal/15504131		15504131													
 Surgery for Obesity and Related Diseases	1550-7289								http://www.sciencedirect.com/science/journal/15507289		15507289													
 EXPLORE: The Journal of Science and Healing	1550-8307								http://www.sciencedirect.com/science/journal/15508307		15508307													
 Gender Medicine	1550-8579								http://www.sciencedirect.com/science/journal/15508579		15508579													
@@ -3062,7 +3050,6 @@ Hipertensión y Riesgo Vascular	1889-1837								http://www.sciencedirect.com/sc
 The European Journal of Psychology Applied to Legal Context	1889-1861								http://www.sciencedirect.com/science/journal/18891861		18891861													
 Cardiocore	1889-898X								http://www.sciencedirect.com/science/journal/1889898X		1889898X													
 Advances in Medical Sciences	1896-1126	1898-4002							http://www.sciencedirect.com/science/journal/18961126		18961126													
-Cell Host and Microbe	1931-3128	1934-6069							http://www.sciencedirect.com/science/journal/19313128		19313128													
 Translational Research	1931-5244	1878-1810							http://www.sciencedirect.com/science/journal/19315244		19315244				Elsevier Science									
 Clinical Leukemia	1931-6925								http://www.sciencedirect.com/science/journal/19316925		19316925													
 Journal of Surgical Education	1931-7204								http://www.sciencedirect.com/science/journal/19317204		19317204													
@@ -3071,7 +3058,6 @@ Journal of the American Society of Hypertension	1933-1711								http://www.scie
 Journal of Clinical Lipidology	1933-2874								http://www.sciencedirect.com/science/journal/19332874		19332874													
 Neurotherapeutics	1933-7213	1878-7479							http://www.sciencedirect.com/science/journal/19337213		19337213													
 PM&R	1934-1482								http://www.sciencedirect.com/science/journal/19341482		19341482													
-Cell Stem Cell	1934-5909	1875-9777							http://www.sciencedirect.com/science/journal/19345909		19345909													
 Journal of Cardiovascular Computed Tomography	1934-5925								http://www.sciencedirect.com/science/journal/19345925		19345925													
 Brain Stimulation	1935-861X								http://www.sciencedirect.com/science/journal/1935861X		1935861X													
 SAS Journal	1935-9810								http://www.sciencedirect.com/science/journal/19359810		19359810													
