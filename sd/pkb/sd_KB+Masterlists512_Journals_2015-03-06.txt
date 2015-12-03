@@ -3442,3 +3442,17 @@ Computers and Composition	8755-4615								http://www.sciencedirect.com/science/
 Journal of Professional Nursing	8755-7223								http://www.sciencedirect.com/science/journal/87557223		87557223				W B Saunders									
 Advances in Free Radical Biology & Medicine	8755-9668								http://www.sciencedirect.com/science/journal/87559668		87559668													
 Bone	8756-3282								http://www.sciencedirect.com/science/journal/87563282		87563282													
+The American Journal of Human Genetics	0002-9297	1537-6605							http://www.sciencedirect.com/science/journal/00029297		29297				University of Chicago Press
+Biophysical Journal	0006-3495	1542-0086							http://www.sciencedirect.com/science/journal/00063495		63495				
+Cancer Cell	1535-6108	1878-3686							http://www.sciencedirect.com/science/journal/15356108		15356108				
+Cell	0092-8674	1097-4172							http://www.sciencedirect.com/science/journal/00928674		928674				
+Cell Host and Microbe	1931-3128	1934-6069							http://www.sciencedirect.com/science/journal/19313128		19313128				
+Cell Metabolism	1550-4131	1932-7420							http://www.sciencedirect.com/science/journal/15504131		15504131				
+Cell Stem Cell	1934-5909	1875-9777							http://www.sciencedirect.com/science/journal/19345909		19345909				
+Chemistry and Biology	1074-5521	1879-1301							http://www.sciencedirect.com/science/journal/10745521		10745521				
+Current Biology	0960-9822	1879-0445							http://www.sciencedirect.com/science/journal/09609822		9609822				
+Developmental Cell	1534-5807	1878-1551							http://www.sciencedirect.com/science/journal/15345807		15345807				
+Immunity	1074-7613	1097-4180							http://www.sciencedirect.com/science/journal/10747613		10747613				
+Molecular Cell	1097-2765	1097-4164							http://www.sciencedirect.com/science/journal/10972765		10972765				
+Neuron	0896-6273	1097-4199							http://www.sciencedirect.com/science/journal/08966273		8966273				
+Structure	0969-2126	1878-4186							http://www.sciencedirect.com/science/journal/09692126		9692126				
