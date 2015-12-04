@@ -148,5 +148,10 @@
     "code": "SUPPL",
     "description":  "consultation de supplements",
     "comment": "cas de plateforme endocrine society"
+  },
+ {
+    "code": "WORKING_PAPER",
+    "description":  "consultation de documents de travail",
+    "comment": "cas des plateformes CEPR, NBER, CIAO, bases Ebsco, etc."
   }
 ]
