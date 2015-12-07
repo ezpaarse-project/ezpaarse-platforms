@@ -4,6 +4,7 @@
   "domains": [
      "www.degruyter.com"
   ],
+  "baconprovider": "DEGRUYTER",
   "recognize": {
     "rid": [
       "title_id",

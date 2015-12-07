@@ -8,6 +8,7 @@
   "docurl": "http://analogist.couperin.org/platforms/springer/",
   "contact": "yannick.schurter at inist.fr, stephane.gully at inist.fr",
   "pkb": true,
+  "baconprovider": "SPRINGER",
   "domains": [
     "link.springer.com",
     "www.springerlink.com",

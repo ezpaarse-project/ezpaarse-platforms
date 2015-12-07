@@ -5,6 +5,7 @@
   "domains": [
     "pubs.rsc.org"
   ],
+  "baconprovider": "RSC",
   "recognize": {
     "rid": [
       "print_identifier",

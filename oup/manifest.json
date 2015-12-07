@@ -12,6 +12,7 @@
 	"domains": [
     "oxfordjournals.org"
 	],
+  "baconprovider": "OUP",
   "recognize": {
     "rid": [
       "title_id",

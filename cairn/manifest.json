@@ -12,6 +12,7 @@
 	"domains": [
     "www.cairn.info"
 	],
+   "baconprovider": "CAIRN",
   "recognize": {
     "rid": [
       "title_id",
