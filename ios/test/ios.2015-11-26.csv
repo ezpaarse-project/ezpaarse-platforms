@@ -1,3 +1,5 @@
-out-title_id;out-unitid;out-rtype;out-mime;in-url
-jpi;jpi00094;ABS;HTML;http://content.iospress.com.gate1.inist.fr/articles/journal-of-pediatric-infectious-diseases/jpi00094?resultNumber=0&totalResults=1834&start=0&q=disease&resultsPageSize=10&rows=10
-jpi;jpi00094;ARTICLE;PDF;http://content.iospress.com.gate1.inist.fr/download/journal-of-pediatric-infectious-diseases/jpi00094?id=journal-of-pediatric-infectious-diseases%2Fjpi00094
+out-title_id;out-vol;out-issue;out-unitid;out-rtype;out-mime;in-url
+journal-of-pediatric-infectious-diseases;;;jpi00094;ABS;HTML;http://content.iospress.com.gate1.inist.fr/articles/journal-of-pediatric-infectious-diseases/jpi00094?resultNumber=0&totalResults=1834&start=0&q=disease&resultsPageSize=10&rows=10
+journal-of-pediatric-infectious-diseases;;;jpi00094;ARTICLE;PDF;http://content.iospress.com.gate1.inist.fr/download/journal-of-pediatric-infectious-diseases/jpi00094?id=journal-of-pediatric-infectious-diseases%2Fjpi00094
+biofactors;30;4;journals/biofactors/30/4 ;TOC;HTML;http://content.iospress.com:80/journals/biofactors/30/4
+journal-of-vestibular-research;;;ves00331;ARTICLE;PDF;http://content.iospress.com:80/download/journal-of-vestibular-research/ves00331?id=journal-of-vestibular-research%2Fves00331

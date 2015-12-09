@@ -29,7 +29,7 @@ module.exports = new Parser(function analyseEC(parsedUrl, ec) {
     // jpi00094?resultNumber=0&totalResults=1834&start=0&q=disease&resultsPageSize=10&rows=10
     result.rtype    = 'ABS';
     result.mime     = 'HTML';
-    result.title_id = match[3];
+    result.title_id = match[1];
 
     result.unitid   = match[2];
 
@@ -37,9 +37,18 @@ module.exports = new Parser(function analyseEC(parsedUrl, ec) {
     // download/journal-of-pediatric-infectious-diseases/jpi00094?id=journal-of-pediatric-infectious-diseases%2Fjpi00094
     result.rtype    = 'ARTICLE';
     result.mime     = 'PDF';
-    result.title_id = match[3];
+    result.title_id = match[1];
     //see the comment block above
     result.unitid   = match[2];
+  } else if ((match = /^\/journals\/([a-z]+)\/([0-9]+)\/([0-9]+)$/.exec(path)) !== null) {
+    // journals/biofactors/30/4
+    result.rtype    = 'ARTICLE';
+    result.mime     = 'PDF';
+    result.vol = match[2];
+    result.issue = match[3];
+    result.title_id = match[1];
+    //see the comment block above
+    result.unitid   = "journals/" +   match[1]  + '/' + match[2] + '/' + match[3];
   }
 
   return result;

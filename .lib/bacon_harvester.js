@@ -11,7 +11,10 @@ process.env.HTTPS_PROXY
 });
 exports.generatePkb = function(namePlatform, callback) {
 	var PkbRows = require('./pkbrows.js');
+	
 	var data = require('../' + namePlatform + '/manifest.json');
+
+	//test si le dossier de la platforme contient un fichier pkb sinon il le crée
 	fs.exists('../pkb', function(exists) {
 	if (!exists) {
 		fs.mkdirSync('../pkb');
@@ -19,6 +22,7 @@ exports.generatePkb = function(namePlatform, callback) {
 	}
 	});
 	var url = "https://bacon.abes.fr/list.json";
+	//récupération de la liste des platforme sur le site de abes
 	request.get(url, function(err, res, body) {
 	var list;
 	if (err) {
