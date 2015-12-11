@@ -1,0 +1,28 @@
+{
+  "version": "2015-12-11",
+  "status": "beta",
+  "domains": [
+    "geolfrance.brgm.fr"
+  ],
+  "recognize": {
+    "rid": [
+      "title_id",
+      "unitid"
+    ],
+    "rtype": [
+      "TOC",
+      "ARTICLE"
+    ],
+    "mime": [
+      "PDF",
+      "MISC",
+      "HTML"
+    ]
+  },
+  "name": "brgm",
+  "longname": "BUREAU DE RECHERCHES GÉOLOGIQUES ET MINIÈRES",
+  "describe": "Identifie les consultations de la plateforme BUREAU DE RECHERCHES GÉOLOGIQUES ET MINIÈRES",
+  "docurl": "http://ang.couperin.org/platforms/566995de139a24e9200b5b03",
+  "contact": "abderrazzak.loukili@inist.fr",
+  "pkb": false
+}
