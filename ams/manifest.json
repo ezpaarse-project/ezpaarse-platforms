@@ -1,0 +1,33 @@
+{
+  "version": "2015-12-11",
+  "status": "beta",
+  "domains": [
+    "journals.ametsoc.org"
+  ],
+  "recognize": {
+    "rid": [
+      "title_id",
+      "unitid",
+      "vol",
+      "issue",
+      "doi"
+    ],
+    "rtype": [
+      "TOC",
+      "ABS",
+      "ARTICLE",
+      "IMAGE"
+    ],
+    "mime": [
+      "HTML",
+      "PDF",
+      "MISC"
+    ]
+  },
+  "name": "ams",
+  "longname": "American Meteorological Society",
+  "describe": "Identifie les consultations de la plateforme American Meteorological Society",
+  "docurl": "http://ang.couperin.org/platforms/564ca9869fe112d5d2c36d8d",
+  "contact": "abderrazzak.loukili@inist.fr",
+  "pkb": false
+}
