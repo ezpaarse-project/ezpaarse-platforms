@@ -1,4 +1,4 @@
-out-title_id;out-unitid;out-rtype;out-mime;in-url
-10.1055/s-0033-1357180;10.1055/s-0033-1357180;ARTICLE;HTML;https://www.thieme-connect.com/products/ejournals/html/10.1055/s-0033-1357180
-10.1055/s-0034-1369742;10.1055/s-0034-1369742;ARTICLE;PDF;https://www.thieme-connect.de/products/ejournals/pdf/10.1055/s-0034-1369742.pdf
-10.1055/s-005-29148;10.1055/s-005-29148;TOC;MISC;https://www-thieme-connect.com/products/ejournals/issue/10.1055/s-005-29148
+out-title_id;out-doi;out-unitid;out-rtype;out-mime;in-url
+s-0033-1357180;10.1055/s-0033-1357180;s-0033-1357180;ARTICLE;HTML;https://www.thieme-connect.com/products/ejournals/html/10.1055/s-0033-1357180
+s-0034-1369742;10.1055/s-0034-1369742;s-0034-1369742;ARTICLE;PDF;https://www.thieme-connect.de/products/ejournals/pdf/10.1055/s-0034-1369742.pdf
+s-005-29148;10.1055/s-005-29148;s-005-29148;TOC;MISC;https://www-thieme-connect.com/products/ejournals/issue/10.1055/s-005-29148
