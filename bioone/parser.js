@@ -76,13 +76,13 @@ module.exports = new Parser(function analyseEC(parsedUrl) {
     result.mime  = 'PDF';
     result.print_identifier = match[4];
     result.doi = match[1];
-    result.unitid = match[1];
+    result.unitid = match[3];
   } else if ((match = /\/doi\/pdf\/([0-9\.]+)\/(([0-9]{4}\-[0-9]{3}([0-9Xx])?)\([0-9]+\)([^\/)]+))$/.exec(path)) !== null) {
     // http://www.bioone.org/doi/pdf/10.1637/0005-2086(2002)046[0025%3ASESEBI]2.0.CO%3B2
     result.rtype = 'ARTICLE';
     result.mime  = 'PDF';
     result.print_identifier = match[3];
-    result.doi = match[1];
+    result.doi = match[1] + '/' + match[2];
     result.unitid =  match[2];
   } else if ((match = /\/doi\/pdf\/([0-9\.]+)\/([^\/\()]+)$/.exec(path)) !== null) {
     // http://www.bioone.org/doi/pdf/10.1007/s11627-008-9148-8
