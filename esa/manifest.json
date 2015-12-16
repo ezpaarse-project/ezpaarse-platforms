@@ -1,0 +1,31 @@
+{
+  "version": "2015-12-16",
+  "status": "beta",
+  "domains": [
+    "www.esajournals.org"
+  ],
+  "recognize": {
+    "rid": [
+      "title_id",
+      "unitid",
+      "doi",
+      "vil",
+      "vol",
+      "issue"
+    ],
+    "rtype": [
+      "TOC",
+      "ARTICLE"
+    ],
+    "mime": [
+      "HTML",
+      "PDF"
+    ]
+  },
+  "name": "esa",
+  "longname": "Ecological Society of America",
+  "describe": "Identifie les consultations de la plateforme Ecological Society of America",
+  "docurl": "http://ang.couperin.org/platforms/5537558a2c3bd8e18d779b99",
+  "contact": "abderrazzak.loukili@inist.fr",
+  "pkb": false
+}
