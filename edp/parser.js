@@ -68,7 +68,7 @@ module.exports = new Parser(function analyseEC(parsedUrl) {
     result.rtype = 'ARTICLE';
     result.mime = 'PDF';
     result.publication_date = match[2].split('/')[0];
-    result.print_identifier =  match[1] ;
+    
     result.title_id =  match[1] ;
     if (match[1] == match[4] ) {
         result.doi = "10.1051/" + match[4] + "/" + match[5];
