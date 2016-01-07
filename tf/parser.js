@@ -28,13 +28,13 @@ module.exports = new Parser(function analyseEC(parsedUrl, ec) {
     //console.error(match);
      result.rtype    = 'ARTICLE';
     result.mime     = 'PDF';
-    result.title_id = match[2];
+    result.title_id = match[4];
     //unitid is a crucial information needed to filter double-clicks phenomenon, like described by COUNTER
     //it described the most fine-grained of what's being accessed by the user
     //it can be a DOI, an internal identifier or a part of the accessed URL
     //see http://ezpaarse.couperin.org/doc/ec-attributes.html#description-de-unitid for more details
-    result.unitid = result.doi   = match[2];
-
+    result.doi   = match[2];
+    result.unitid  = match[4];
     if (match[1].toUpperCase() == "FULL") {
       // http://www.tandfonline.com.bases-doc.univ-lorraine.fr/doi/full/10.1080/17400309.2013.861174#abstract
       result.rtype = 'ARTICLE';
