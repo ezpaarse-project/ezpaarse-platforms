@@ -7,19 +7,8 @@
 
 'use strict';
 
-// var URL         = require('url');
+var path = require('path');
 
-var PkbRows     = require('../../.lib/pkbrows.js');
+var PkbKbp     =  require(path.join(__dirname, '../../.lib/parsXmlKb+.js'));
 
-// pkb directory destination
-var pkb         = new PkbRows('metapress');
-
-// Metapress have a kbplus pkg number of 99
-var KBPlusPkg = 99;
-
-// setKbartName() is required to fix the kbart output file name
-pkb.consortiumName = 'KB+Masterlists' + KBPlusPkg;       // default empty
-pkb.packageName = 'Journals'; // default AllTitles
-pkb.setKbartName();
-
-pkb.getKbartFromKBPlus(KBPlusPkg);
+PkbKbp.generatePkbKbp(99 ,  'metapress', 4 );

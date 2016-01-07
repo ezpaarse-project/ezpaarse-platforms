@@ -7,17 +7,9 @@
 
 'use strict';
 
-var PkbRows     = require('../../.lib/pkbrows.js');
 
-// pkb directory destination
-var pkb         = new PkbRows('sd');
+var path = require('path');
 
-// Science Direct Master list have a kbplus pkg number of 512
-var KBPlusPkg = 512;
+var PkbKbp     =  require(path.join(__dirname, '../../.lib/parsXmlKb+.js'));
 
-// setKbartName() is required to fix the kbart output file name
-pkb.consortiumName = 'KB+Masterlists' + KBPlusPkg;       // default empty
-pkb.packageName = 'Journals'; // default AllTitles
-pkb.setKbartName();
-
-pkb.getKbartFromKBPlus(KBPlusPkg);
+PkbKbp.generatePkbKbp(512 ,  'metapress', 5 );
