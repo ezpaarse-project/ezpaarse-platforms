@@ -154,4 +154,9 @@
     "description":  "consultation de documents de travail",
     "comment": "cas des plateformes CEPR, NBER, CIAO, bases Ebsco, etc."
   }
+   {
+    "code": "METADATA",
+    "description":  "Metadonnées",
+    "comment": "cas des plateformes Istex, etc."
+  }
 ]
