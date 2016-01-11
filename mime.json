@@ -33,5 +33,10 @@
     "code": "DEEPDYVE",
     "description":  "tentative de consultation d'un document dont la ressource n'est pas acquise",
     "comment": "Permet de comptabiliser les accès refusés (url-denied-ecs)"
+  },
+  {
+    "code": "XML",
+    "description":  "consultation d'un document au format XML",
+    "comment": ""
   }
 ]
