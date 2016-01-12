@@ -25,31 +25,34 @@ module.exports = new Parser(function analyseEC(parsedUrl, ec) {
   var match;
 
   if ((match = /^\/document\/([0-9A-Z]+)\/([a-z]+)\/([a-zA-Z]+)([^.]?)/.exec(path)) !== null) {
-    result.mime     = match[3].toUpperCase();
+    ///document/4C46BB8FC3AE3CB005C44243414E9D0E9C8C6057/enrichments/catWos
+    ///document/55420CDEEA0F6538E215A511C72E2E5E57570138/fulltext/original
+    ///document/55420CDEEA0F6538E215A511C72E2E5E57570138/metadata/xml
     
+      
     if (match[2] != 'fulltext') {
-      result.rtype    = match[2];
-    }
+      result.rtype    = 'METADATA';
+     }
 
-    switch(match[3]) {
-    case 'txt':
-        result.mime     = 'TEXT';
-        break;
-    case 'mrc':
-        result.mime     = 'MARC';
-        break;
-    case 'catWos':
-        result.mime     = 'TEI';
-        break;
-    case 'original':
-        if (match[2] != 'fulltext') 
-          {result.mime     = 'XML';}
-          else {
-            result.mime     = '';
+      switch(match[3]) {
+      case 'txt':
+          result.mime     = 'TEXT';
+          break;
+      case 'mrc':
+          result.mime     = 'MARC';
+          break;
+      case 'catWos':
+          result.mime     = 'TEI';
+          break;
+      case 'original':
+          if (match[2] != 'fulltext') {
+            result.mime     = 'XML';
           }
-        break;
-  } 
-
+          break;
+      default:
+          result.mime  = match[3].toUpperCase();
+      } 
+    
 
     result.unitid   = match[1];
   } 
