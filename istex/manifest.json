@@ -1,0 +1,29 @@
+{
+  "version": "2016-01-11",
+  "status": "beta",
+  "domains": [
+    "api.istex.fr"
+  ],
+  "recognize": {
+    "rid": [
+      "unitid"
+    ],
+    "rtype": [
+      "METADATA"
+    ],
+    "mime": [
+      "TEI",
+      "PDF",
+      "TEXT",
+      "XML",
+      "MDOS",
+      "MARC"
+    ]
+  },
+  "name": "istex",
+  "longname": "Istex",
+  "describe": "Identifie les consultations de la plateforme Istex",
+  "docurl": "http://ang.couperin.org/platforms/5693866ef4ffd342ddddd76f",
+  "contact": "abderrazzak.loukili@inist.fr",
+  "pkb": false
+}
