@@ -38,5 +38,26 @@
     "code": "XML",
     "description":  "consultation d'un document au format XML",
     "comment": ""
+  },
+  {
+    "code": "TEI",
+    "description":  "consultation d'un document au format XML",
+    "comment": ""
+  }
+  ,
+  {
+    "code": "TEXT",
+    "description":  "consultation d'un document au format TEXT",
+    "comment": ""
+  } ,
+  {
+    "code": "MARC",
+    "description":  "consultation d'un document au format MARC",
+    "comment": ""
+  } ,
+  {
+    "code": "MDOS",
+    "description":  "consultation d'un document au format MARC",
+    "comment": ""
   }
 ]
