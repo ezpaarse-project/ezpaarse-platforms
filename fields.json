@@ -1,0 +1,233 @@
+{
+  "rid": [
+    {
+      "code": "title_id",
+      "description":  "Reconnaissance de l'identifiant éditeur (KBART)",
+      "comment": "Identifiant interne de l'éditeur qui est ensuite croisé avec la PKB quand elle existe"
+    },
+    {
+      "code": "print_identifier",
+      "description":  "Reconnaissance de l'ISSN papier / pissn (KBART) ou Reconnaissance de l'ISBN papier",
+      "comment": ""
+    },
+    {
+      "code": "doi",
+      "description":  "Reconnaissance du DOI",
+      "comment": "Quand c'est possible, le DOI est utilisé pour retrouver un ISSN ou un ISBN à partir d'une PKB"
+    },
+    {
+      "code": "online_identifier",
+      "description":  "Reconnaissance de l'ISSN électronique / eissn (KBART) ou Reconnaissance de l'ISBN électronique",
+      "comment": ""
+    },
+    {
+      "code": "unitid",
+      "description":  "Reconnaissance de l'unitid",
+      "comment": "unitid est l'identification la plus précise d'un événement de consultation pour permettre un dédoublonnage COUNTER"
+    }
+  ],
+  "mime": [
+    {
+      "code": "PDF",
+      "description":  "consultation d'un document au format PDF",
+      "comment": ""
+    },
+    {
+      "code": "PDFPLUS",
+      "description":  "consultation d'un document au format PDF avec des liens",
+      "comment": ""
+    },
+    {
+      "code": "HTML",
+      "description":  "consultation d'un document au format HTML",
+      "comment": ""
+    },
+    {
+      "code": "EPUB",
+      "description":  "consultation d'un document au format EPUB",
+      "comment": ""
+    },
+    {
+      "code": "KINDLE",
+      "description":  "consultation d'un document au format KINDLE",
+      "comment": ""
+    },
+    {
+      "code": "MISC",
+      "description":  "consultation d'un document dont le format n'est ni PDF ni HTML",
+      "comment": ""
+    },
+    {
+      "code": "DEEPDYVE",
+      "description":  "tentative de consultation d'un document dont la ressource n'est pas acquise",
+      "comment": "Permet de comptabiliser les accès refusés (url-denied-ecs)"
+    },
+    {
+    "code": "XML",
+      "description":  "consultation d'un document au format XML",
+      "comment": ""
+    }
+  ],
+  "rtype": [
+    {
+      "code": "ARTICLE",
+      "description":  "consultation d'un article",
+      "comment": ""
+    },
+    {
+      "code": "ABS",
+      "description":  "consultation d'un résumé de l'article",
+      "comment": ""
+    },
+    {
+      "code": "TOC",
+      "description":  "consultation d'un sommaire de numéro de revue",
+      "comment": ""
+    },
+    {
+      "code": "BOOKSERIE",
+      "description":  "consultation d'un sommaire d'une monographie en série",
+      "comment": ""
+    },
+    {
+      "code": "HANDBOOK",
+      "description":  "consultation d'un sommaire d'un handbook",
+      "comment": ""
+    },
+    {
+      "code": "REF",
+      "description":  "consultation de référence de document",
+      "comment": ""
+    },
+    {
+      "code": "ENCYCLOPEDIES",
+      "description":  "consultation d'une encyclopédie",
+      "comment": "Cas des bases de données juridiques"
+    },
+    {
+      "code": "CODES",
+      "description":  "consultation d'un code juridique",
+      "comment": "Cas des bases de données juridiques"
+    },
+    {
+      "code": "JURISPRUDENCE",
+      "description":  "consultation d'une jurisprudence",
+      "comment": "Cas des bases de données juridiques"
+    },
+    {
+      "code": "PREVIEW",
+      "description":  "consultation des premières lignes d'un article",
+      "comment": ""
+    },
+    {
+      "code": "BOOKMARK",
+      "description":  "ajout de l'article dans un panier ou favoris",
+      "comment": "rencontré dans ajouter panier de cairn"
+    },
+    {
+      "code": "BOOK",
+      "description":  "consultation d'un ouvrage complet",
+      "comment": ""
+    },
+    {
+      "code": "BOOK_SECTION",
+      "description":  "consultation d'une partie d'ouvrage",
+      "comment": ""
+    },
+    {
+      "code": "FORMULES",
+      "description":  "consultation d'une formule juridique",
+      "comment": "Cas des bases de données juridiques"
+    },
+    {
+      "code": "BROCHES",
+      "description":  "consultation d'un livre broché",
+      "comment": "Cas des bases de données juridiques"
+    },
+    {
+      "code": "PHD_THESIS",
+      "description":  "consultation d'une thèse de doctorat",
+      "comment": "Cas des archives institutionnelles"
+    },
+    {
+      "code": "MD_THESIS",
+      "description":  "consultation d'une thèse d'exercice",
+      "comment": "Cas des archives institutionnelles"
+    },
+    {
+      "code": "MASTER_THESIS",
+      "description":  "consultation d'un mémoire de Master",
+      "comment": "Cas des archives institutionnelles"
+    },
+    {
+      "code": "MD_MEMOIRE",
+      "description":  "consultation d'un mémoire médical",
+      "comment": "Cas des archives institutionnelles"
+    },
+    {
+      "code": "HABILITATION_THESIS",
+      "description":  "consultation d'une thèse d'habilitation à diriger des recherches (HDR)",
+      "comment": "Cas des archives institutionnelles"
+    },
+    {
+      "code": "BIO",
+      "description":  "consultation d'une biographie",
+      "comment": ""
+    },
+    {
+      "code": "ENCYCLOPAEDIA_ENTRY",
+      "description":  "consultation d'un article d'encyclopédie'",
+      "comment": "correspond à un type de section possible dans le rapport COUNTER BR2"
+    },
+    {
+      "code": "IMAGE",
+      "description":  "consultation d'une image (illustration, photographie, dessin)",
+      "comment": "correspond à un type de contenu MULTIMEDIA, tel que décrit dans les rapports Multimedia COUNTER MR1 et MR2"
+    },
+    {
+      "code": "AUDIO",
+      "description":  "consultation d'un fichier audio",
+      "comment": "correspond à un type de contenu MULTIMEDIA, tel que décrit dans les rapports Multimedia COUNTER MR1 et MR2"
+    },
+    {
+      "code": "VIDEO",
+      "description":  "consultation d'un fichier vidéo",
+      "comment": "correspond à un type de contenu MULTIMEDIA, tel que décrit dans les rapports Multimedia COUNTER MR1 et MR2"
+    },
+    {
+      "code": "FICHE_ENTREPRISE",
+      "description":  "consultation d'une fiche entreprise",
+      "comment": "cas des plateformes en éco-gestion (xerfi, pointrisk, chelem)"
+    },
+    {
+      "code": "ETUDE_SECTORIELLE",
+      "description":  "consultation d'une étude sectorielle",
+      "comment": "cas des plateformes en éco-gestion (xerfi, pointrisk, chelem)"
+    },
+    {
+      "code": "DONNEES_ECONOMIQUES",
+      "description":  "consultation de données économiques",
+      "comment": "cas des plateformes en éco-gestion (xerfi, pointrisk, chelem)"
+    },
+    {
+      "code": "FIGURE",
+      "description":  "consultation de figures",
+      "comment": "cas de plateforme endocrine society"
+    },
+    {
+      "code": "SUPPL",
+      "description":  "consultation de supplements",
+      "comment": "cas de plateforme endocrine society"
+    },
+    {
+      "code": "WORKING_PAPER",
+      "description":  "consultation de documents de travail",
+      "comment": "cas des plateformes CEPR, NBER, CIAO, bases Ebsco, etc."
+    },
+    {
+      "code": "METADATA",
+      "description":  "Metadonnées",
+      "comment": "cas des plateformes Istex, etc."
+    }
+  ]
+}
