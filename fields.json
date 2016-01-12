@@ -83,8 +83,8 @@
       "comment": ""
     },
     {
-      "code": "MDOS",
-      "description":  "consultation d'un document au format MDOS",
+      "code": "MODS",
+      "description":  "consultation d'un document au format MODS",
       "comment": ""
    }
   ],
