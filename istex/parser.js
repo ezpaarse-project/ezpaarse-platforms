@@ -35,6 +35,8 @@ module.exports = new Parser(function analyseEC(parsedUrl, ec) {
      }
 
       switch(match[3]) {
+      case 'zip':
+          break;
       case 'txt':
           result.mime     = 'TEXT';
           break;
