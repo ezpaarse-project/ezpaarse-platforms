@@ -41,23 +41,22 @@
   },
   {
     "code": "TEI",
-    "description":  "consultation d'un document au format XML",
+    "description":  "consultation d'un document au format TEI",
     "comment": ""
-  }
-  ,
+  },
   {
     "code": "TEXT",
     "description":  "consultation d'un document au format TEXT",
     "comment": ""
-  } ,
+  },
   {
     "code": "MARC",
     "description":  "consultation d'un document au format MARC",
     "comment": ""
-  } ,
+  },
   {
     "code": "MDOS",
-    "description":  "consultation d'un document au format MARC",
+    "description":  "consultation d'un document au format MDOS",
     "comment": ""
   }
 ]
