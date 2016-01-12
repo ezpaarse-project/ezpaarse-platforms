@@ -70,7 +70,7 @@
     {
       "code": "TEI",
       "description":  "consultation d'un document au format TEI",
-      "comment": ""
+      "comment": "The Text Encoding Initiative (TEI) is a consortium which collectively develops and maintains a standard for the representation of texts in digital form"
     },
     {
       "code": "TEXT",
@@ -85,7 +85,7 @@
     {
       "code": "MODS",
       "description":  "consultation d'un document au format MODS",
-      "comment": ""
+      "comment": "Metadata Object Description Schema (MODS) is a schema for a bibliographic element set that may be used for a variety of purposes, and particularly for library applications"
    }
   ],
   "rtype": [
