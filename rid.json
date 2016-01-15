@@ -1,27 +1,23 @@
 [
   {
     "code": "title_id",
-    "description":  "Reconnaissance de l'identifiant éditeur (KBART)",
-    "comment": "Identifiant interne de l'éditeur qui est ensuite croisé avec la PKB quand elle existe"
-  },
-  {
+    "description": "(KBART) Identifiant interne de l'éditeur",
+    "comment": "croisé avec la PKB quand elle existe"
+  },{
     "code": "print_identifier",
-    "description":  "Reconnaissance de l'ISSN papier / pissn (KBART) ou Reconnaissance de l'ISBN papier",
-    "comment": ""
-  },
-  {
+    "description": "(KBART) Identifiant papier (ISSN, ISBN...)",
+    "comment": "croisé avec la PKB quand elle existe"
+  },{
     "code": "doi",
-    "description":  "Reconnaissance du DOI",
-    "comment": "Quand c'est possible, le DOI est utilisé pour retrouver un ISSN ou un ISBN à partir d'une PKB"
-  },
-  {
+    "description": "Reconnaissance du DOI",
+    "comment": "croisé avec la PKB quand elle existe"
+  },{
     "code": "online_identifier",
-    "description":  "Reconnaissance de l'ISSN électronique / eissn (KBART) ou Reconnaissance de l'ISBN électronique",
-    "comment": ""
-  },
-  {
+    "description": "(KBART) Identifiant électronique (eISSN, eISBN...)",
+    "comment": "croisé avec la PKB quand elle existe"
+  },{
     "code": "unitid",
-    "description":  "Reconnaissance de l'unitid",
-    "comment": "unitid est l'identification la plus précise d'un événement de consultation pour permettre un dédoublonnage COUNTER"
+    "description": "Identifiant arbitraire le plus précis possible",
+    "comment": "utilisé pour le dédoublonnage COUNTER"
   }
 ]

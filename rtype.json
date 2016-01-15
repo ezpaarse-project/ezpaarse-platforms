@@ -1,162 +1,116 @@
 [
   {
-    "code": "ARTICLE",
-    "description":  "consultation d'un article",
-    "comment": ""
-  },
-  {
+    "code": "ARTICLE"
+  },{
     "code": "ABS",
-    "description":  "consultation d'un résumé de l'article",
-    "comment": ""
-  },
-  {
+    "description": "Résumé d'un article"
+  },{
     "code": "TOC",
-    "description":  "consultation d'un sommaire de numéro de revue",
-    "comment": ""
-  },
-  {
+    "description": "Sommaire"
+  },{
     "code": "BOOKSERIE",
-    "description":  "consultation d'un sommaire d'une monographie en série",
-    "comment": ""
-  },
-  {
+    "description": "Sommaire d'une monographie en série"
+  },{
     "code": "HANDBOOK",
-    "description":  "consultation d'un sommaire d'un handbook",
-    "comment": ""
-  },
-  {
+    "description": "Sommaire d'un handbook"
+  },{
     "code": "REF",
-    "description":  "consultation de référence de document",
-    "comment": ""
-  },
-  {
+    "description": "Référence de document"
+  },{
     "code": "ENCYCLOPEDIES",
-    "description":  "consultation d'une encyclopédie",
+    "description": "Encyclopédie",
     "comment": "Cas des bases de données juridiques"
-  },
-  {
+  },{
     "code": "CODES",
-    "description":  "consultation d'un code juridique",
+    "description": "Code juridique",
     "comment": "Cas des bases de données juridiques"
-  },
-  {
+  },{
     "code": "JURISPRUDENCE",
-    "description":  "consultation d'une jurisprudence",
+    "description": "Consultation d'une jurisprudence",
     "comment": "Cas des bases de données juridiques"
-  },
-  {
+  },{
     "code": "PREVIEW",
-    "description":  "consultation des premières lignes d'un article",
-    "comment": ""
-  },
-  {
+    "description": "Premières lignes d'un article"
+  },{
     "code": "BOOKMARK",
-    "description":  "ajout de l'article dans un panier ou favoris",
+    "description": "Ajout de l'article dans un panier ou favoris",
     "comment": "rencontré dans ajouter panier de cairn"
-  },
-  {
+  },{
     "code": "BOOK",
-    "description":  "consultation d'un ouvrage complet",
-    "comment": ""
-  },
-  {
+    "description": "Ouvrage complet"
+  },{
     "code": "BOOK_SECTION",
-    "description":  "consultation d'une partie d'ouvrage",
-    "comment": ""
-  },
-  {
+    "description": "Partie d'ouvrage"
+  },{
     "code": "FORMULES",
-    "description":  "consultation d'une formule juridique",
+    "description": "Formule juridique",
     "comment": "Cas des bases de données juridiques"
-  },
-  {
+  },{
     "code": "BROCHES",
-    "description":  "consultation d'un livre broché",
+    "description": "Livre broché",
     "comment": "Cas des bases de données juridiques"
-  },
-  {
+  },{
     "code": "PHD_THESIS",
-    "description":  "consultation d'une thèse de doctorat",
+    "description": "Thèse de doctorat",
     "comment": "Cas des archives institutionnelles"
-  },
-  {
+  },{
     "code": "MD_THESIS",
-    "description":  "consultation d'une thèse d'exercice",
+    "description": "Thèse d'exercice",
     "comment": "Cas des archives institutionnelles"
-  },
-  {
+  },{
     "code": "MASTER_THESIS",
-    "description":  "consultation d'un mémoire de Master",
+    "description": "Mémoire de Master",
     "comment": "Cas des archives institutionnelles"
-  },
-  {
+  },{
     "code": "MD_MEMOIRE",
-    "description":  "consultation d'un mémoire médical",
+    "description": "Mémoire médical",
     "comment": "Cas des archives institutionnelles"
-  },
-  {
+  },{
     "code": "HABILITATION_THESIS",
-    "description":  "consultation d'une thèse d'habilitation à diriger des recherches (HDR)",
+    "description": "Thèse d'habilitation à diriger des recherches (HDR)",
     "comment": "Cas des archives institutionnelles"
-  },
-  {
+  },{
     "code": "BIO",
-    "description":  "consultation d'une biographie",
-    "comment": ""
-  },
-  {
+    "description": "Biographie"
+  },{
     "code": "ENCYCLOPAEDIA_ENTRY",
-    "description":  "consultation d'un article d'encyclopédie'",
+    "description": "Article d'encyclopédie",
     "comment": "correspond à un type de section possible dans le rapport COUNTER BR2"
-  },
-  {
+  },{
     "code": "IMAGE",
-    "description":  "consultation d'une image (illustration, photographie, dessin)",
+    "description": "Illustration, photographie, dessin...",
     "comment": "correspond à un type de contenu MULTIMEDIA, tel que décrit dans les rapports Multimedia COUNTER MR1 et MR2"
-  },
-  {
+  },{
     "code": "AUDIO",
-    "description":  "consultation d'un fichier audio",
+    "description": "Fichier audio",
     "comment": "correspond à un type de contenu MULTIMEDIA, tel que décrit dans les rapports Multimedia COUNTER MR1 et MR2"
-  },
-  {
+  },{
     "code": "VIDEO",
-    "description":  "consultation d'un fichier vidéo",
+    "description": "Fichier vidéo",
     "comment": "correspond à un type de contenu MULTIMEDIA, tel que décrit dans les rapports Multimedia COUNTER MR1 et MR2"
-  },
-  {
+  },{
     "code": "FICHE_ENTREPRISE",
-    "description":  "consultation d'une fiche entreprise",
     "comment": "cas des plateformes en éco-gestion (xerfi, pointrisk, chelem)"
-  },
-  {
+  },{
     "code": "ETUDE_SECTORIELLE",
-    "description":  "consultation d'une étude sectorielle",
     "comment": "cas des plateformes en éco-gestion (xerfi, pointrisk, chelem)"
-  },
-  {
+  },{
     "code": "DONNEES_ECONOMIQUES",
-    "description":  "consultation de données économiques",
     "comment": "cas des plateformes en éco-gestion (xerfi, pointrisk, chelem)"
-  },
- {
+  },{
     "code": "FIGURE",
-    "description":  "consultation de figures",
     "comment": "cas de plateforme endocrine society"
-  },
- {
+  },{
     "code": "SUPPL",
-    "description":  "consultation de supplements",
+    "description": "Consultation de supplements",
     "comment": "cas de plateforme endocrine society"
-  },
- {
+  },{
     "code": "WORKING_PAPER",
-    "description":  "consultation de documents de travail",
+    "description": "Documents de travail",
     "comment": "cas des plateformes CEPR, NBER, CIAO, bases Ebsco, etc."
-  },
-   {
+  },{
     "code": "METADATA",
-    "description":  "Metadonnées",
+    "description": "Metadonnées",
     "comment": "cas des plateformes Istex, etc."
   }
 ]
