@@ -11,7 +11,8 @@
 	"domains": [
     "www.acm.org",
     "dl.acm.org",
-    "delivery.acm.org"
+    "delivery.acm.org",
+    "portalparts.acm.org"
 	],
   "pkb": false,
   "recognize": {
