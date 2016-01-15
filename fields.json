@@ -172,5 +172,20 @@
       "description": "Metadonnées",
       "comment": "cas des plateformes Istex, etc."
     }
+  ],
+  "other": [
+    {
+      "code": "vol",
+      "description": "numéro de volume"
+    },{
+      "code": "first_page",
+      "description": "page où commence l'article"
+    },{
+      "code": "last_page",
+      "description": "page où finit l'article"
+    },{
+      "code": "publication_date",
+      "description": "date de publication"
+    }
   ]
 }
