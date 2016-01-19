@@ -37,6 +37,20 @@ module.exports = new Parser(function analyseEC(parsedUrl) {
     result.mime  = 'PDF';
     result.title_id = match[1];
     result.unitid = match[3];
+  } else if ((match = /\/article\/([0-9]{2}\.[0-9]{4,5})\/(([0-9]{4}\-[0-9]{4})\/([0-9]+)\/([0-9]+)\/[A-Z0-9]+)\/([a-z]+)$/.exec(path)) !== null) {
+    // article/10.1088/1748-0221/6/12/C12060/meta
+    result.rtype = 'ABS';
+    result.mime  = 'MISC';
+    if (match[6] === 'pdf'){
+      result.rtype = 'ARTICLE';
+      result.mime  = 'PDF';
+    }
+    result.issn = match[3];
+    result.vol =  match[4];
+    result.issue = match[5];
+    result.doi = match[1] + "/" + match[2];
+    result.unitid = match[2];
   }
+  
   return result;
 });
