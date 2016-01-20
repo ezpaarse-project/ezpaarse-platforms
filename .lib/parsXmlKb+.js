@@ -8,7 +8,7 @@ process.env.https_proxy ||
 process.env.HTTPS_PROXY
 });
 
-exports.generatePkbKbp = function(nbrPkbKbp, platformName, positionTitle){
+exports.generatePkbKbp = function(nbrPkbKbp, platformName){
 	var titles = {};
 	var PkbRows = require('./pkbrows.js');
 	var url = 'http://www.kbplus.ac.uk/kbplus/publicExport/pkg/' ;
@@ -20,7 +20,7 @@ exports.generatePkbKbp = function(nbrPkbKbp, platformName, positionTitle){
 		titles = csvSource[0];	  
 		for(var i in csvSource){
 			var kbartRow = pkb.initRow({});
-			kbartRow = associetElement(titles,csvSource[i], positionTitle);
+			kbartRow = associetElement(titles,csvSource[i]);
 			pkb.addRow(kbartRow);
 		}
 		pkb.writeKbart();
@@ -28,7 +28,7 @@ exports.generatePkbKbp = function(nbrPkbKbp, platformName, positionTitle){
 	});
 };
 
-function associetElement(titles , value, positionTitle){
+function associetElement(titles , value){
 	var elementproportie = {};
 	var url = "";
 	var testcounter = 1 ;
@@ -45,9 +45,10 @@ function associetElement(titles , value, positionTitle){
 		}
 		
 	}
-	var title = url.split('/')[positionTitle];
+	var spliturl = url.split('/');
+	var valtitleid = spliturl[spliturl.length - 1];
 	var title_id = 'title_id';
-	elementproportie[title_id] = title;
+	elementproportie[title_id] = valtitleid;
 	
 	return elementproportie;
 }
