@@ -8,12 +8,13 @@
   "describe": "Identifie les consultations de la plateforme Association for Computing Machinery",
   "docurl": "http://analogist.couperin.org/platforms/acm/",
   "contact": "yannick.schurter at inist.fr",
-	"domains": [
+  "domains": [
     "www.acm.org",
     "dl.acm.org",
     "delivery.acm.org",
-    "portalparts.acm.org"
-	],
+    "portalparts.acm.org",
+    "queue.acm.org"
+  ],
   "pkb": false,
   "recognize": {
     "rid": [
