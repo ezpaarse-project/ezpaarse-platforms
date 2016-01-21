@@ -17,7 +17,8 @@ exports.generatePkbKbp = function(nbrPkbKbp, platformName){
 		var pkb = new PkbRows(platformName);
 		pkb.setKbartName();
 		var csvSource = CSV.parse(body, CSV.detect(body));
-		titles = csvSource[0];	  
+		titles = csvSource[0];
+		csvSource.shift();	  
 		for(var i in csvSource){
 			var kbartRow = pkb.initRow({});
 			kbartRow = associetElement(titles,csvSource[i]);
@@ -48,7 +49,7 @@ function associetElement(titles , value){
 	var spliturl = url.split('/');
 	var valtitleid = spliturl[spliturl.length - 1];
 	var title_id = 'title_id';
-	elementproportie[title_id] = valtitleid;
+	elementproportie[title_id] = valtitleid.split('.')[0];
 	
 	return elementproportie;
 }
