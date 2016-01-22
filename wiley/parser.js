@@ -162,7 +162,11 @@ module.exports = new Parser(function analyseEC(parsedUrl) {
     if( match[6] === "abstract" ){
       result.rtype = 'ABS';
     }else if(match[6]==="pdf"){
-      result.rtype = 'PDF';
+      result.mime = 'PDF';
+      result.rtype = 'ARTICLE';
+    }else if(match[6]==="full"){
+      result.mime = 'PDF';
+      result.rtype = 'HTML';
     }
     result.mime = 'MISC';
   } else if ((match = /^\/store\/([0-9]{2}\.[0-9]{4,5})\/([a-z]+)\.([0-9]+)\/([a-z]+)\/(([a-z]+)([0-9]+)).pdf$/.exec(path)) !== null) {
