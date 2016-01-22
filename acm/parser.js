@@ -10,7 +10,7 @@ var Parser = require('../.lib/parser.js');
 module.exports = new Parser(function analyseEC(parsedUrl) {
   var result = {};
   var path   = parsedUrl.pathname;
-
+  var param  = parsedUrl.query || {};
   var match;
 
   if ((match = /^\/([0-9\.]+)\/([0-9]+)\/([0-9]+)\/[a-z0-9\-]+\.pdf$/.exec(path)) !== null) {
@@ -26,6 +26,13 @@ module.exports = new Parser(function analyseEC(parsedUrl) {
     result.title_id = match[3];
     result.unitid      = match[3] + '/' + match[4];
     
+  } else if ((match = /^\/([a-z]+).cfm$/.exec(path)) !== null) {
+    // detail.cfm
+    result.rtype    = 'ARTICLE';
+    result.mime     = 'HTML';
+    if (param.id) {
+    result.unitid = param.id;
+    }
   }
 
   return result;
