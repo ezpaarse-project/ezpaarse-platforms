@@ -189,10 +189,19 @@ module.exports = new Parser(function analyseEC(parsedUrl) {
     if(match['6']=== 'pdf') {
       result.mime = 'PDF';
     } else { result.mime = 'HTML'; }
+  } else if ((match = /^\/doi\/([0-9]{2}\.[0-9]{4,5})\/([^.]+)\/(pdf|full)$/.exec(path)) !== null) {
+    // /doi/10.1029/JZ072i023p05799/pdf
+    result.doi = match[1] + "/" + match[2];
+    result.unitid = match[2];
+    result.rtype = 'ARTICLE';
+   
+    if (match['3']=== 'pdf') {
+      result.mime = 'PDF';
+    } else { result.mime = 'HTML'; }
+
   }
 
-//http://agupubs.onlinelibrary.wiley.com.biblioplanets.gate.inist.fr/agu/jgr/journal/10.1002/(ISSN)2169-8996/
-//http://onlinelibrary.wiley.com.gate1.inist.fr/doi/10.1002/cpa.3160270102/pdf
+
 
   return result;
 });
