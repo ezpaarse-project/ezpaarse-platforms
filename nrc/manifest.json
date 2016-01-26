@@ -1,0 +1,31 @@
+{
+  "version": "2016-01-26",
+  "status": "beta",
+  "domains": [
+    "www.nrcresearchpress.com"
+  ],
+  "recognize": {
+    "rid": [
+      "unitid",
+      "doi"
+    ],
+    "rtype": [
+      "TOC",
+      "ABS",
+      "ARTICLE",
+      "REF"
+    ],
+    "mime": [
+      "MISC",
+      "HTML",
+      "PDF",
+      "PDFPLUS"
+    ]
+  },
+  "name": "nrc",
+  "longname": "New Research Press",
+  "describe": "Identifie les consultations de la plateforme New Research Press",
+  "docurl": "http://ang.couperin.org/platforms/54364a88eaf01bec7e56091b",
+  "contact": "abderrazzak.loukili@inist.fr",
+  "pkb": false
+}
