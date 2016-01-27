@@ -73,7 +73,16 @@ module.exports = new Parser(function analyseEC(parsedUrl) {
     if (match[1] == match[4] ) {
         result.doi = "10.1051/" + match[4] + "/" + match[5];
     }
-  } else {
+  } else if ((match = /\/articles\/([a-zA-Z0-9]+)\/pdf\/([0-9]{4}\/[0-9]{2}|first)\/(([a-z]+)(([0-9]{4})([^.]+))).pdf$/.exec(url)) !== null) {
+    // example : http://www.apidologie.org/articles/apido/pdf/2010/06/m08176.pdf
+    result.unitid =  match[3];
+    result.rtype = 'ARTICLE';
+    result.mime = 'PDF';
+    result.publication_date = match[2].split('/')[0];
+    
+    result.title_id =  match[1] ;
+   
+  }  else {
     if ((match = /\/action\/([a-zA-Z]+)/.exec(url)) !== null) {
       switch (match[1]) {
       case 'displayJournal':
