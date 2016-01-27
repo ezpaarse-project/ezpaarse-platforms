@@ -12,4 +12,4 @@ var path = require('path');
 
 var PkbKbp     =  require(path.join(__dirname, '../../.lib/parsXmlKb+.js'));
 
-PkbKbp.generatePkbKbp(512 ,  'metapress', 5 );
+PkbKbp.generatePkbKbp(512 ,  'sd');
