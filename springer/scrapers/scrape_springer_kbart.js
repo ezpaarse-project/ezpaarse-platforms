@@ -1,37 +1,80 @@
 #!/usr/bin/env node
 
-// Get the KBART file on IOPScience website
-// and rename it to the KBART standard
-// Usage : ./scrape_iopscience_journals.js
+// As of 2014/01/28, the KBART files can be found at http://link.springer.com/lists/
 
-// On O4/23/2014, the KBART file had the following url:
-// 'http://cms.iopscience.org/c8251ead-00f5-11e3-b399-116b8c294dca/IOPscience-AllTitles-2013-08-09.txt?guest=true';'
-
-/*jslint maxlen: 180*/
 
 'use strict';
-var http = require('http');
-// var request = require('request');
-// var cheerio = require('cheerio');
-var fs = require('fs');
+var request   = require('request');
+var fs        = require('fs');
+var path      = require('path');
+var Transform = require('stream').Transform;
+var util      = require('util');
 
-var kbartURL = 'http://link.springer.com/lists/complete_packages/';
+var baseURL = 'http://static-content.springer.com/kbart/complete_packages/';
 
-function downloadKBARTFile(file) {
-  console.log("will download : " + kbartURL + file + "...");
-  var pkbfile = fs.createWriteStream("../pkb/"+ file);
-  http.get(kbartURL + file, function(response) {
-    response.pipe(pkbfile);
+var kbartFiles = [
+  'Springer_Global_Complete_eBooks',
+  'Springer_Global_Complete_Journals',
+  'Springer_Global_Complete_Reference_Works',
+  'Springer_Global_Complete_Protocols'
+];
+
+(function download() {
+  var packageName = kbartFiles.pop();
+  if (!packageName) { return; }
+
+  var kbartUrl = baseURL + packageName;
+  console.log('Downloading : %s', kbartUrl);
+
+  var req = request.get(kbartUrl);
+
+  req.on('error', function (err) {
+    console.error('Failed to download %s (err: %s)', kbartUrl, err);
+    download();
   });
+
+  req.on('response', function (res) {
+    var disposition = res.headers['content-disposition'];
+    var match       = /filename="?(.*?)"?$/i.exec(disposition);
+    var filename;
+
+    if (match) {
+      filename = match[1];
+    } else {
+      console.error('Filename not found in the headers, generating one with the current date');
+
+      var now   = new Date();
+      var year  = now.getFullYear().toString();
+      var month = now.getMonth().toString();
+      var day   = now.getDay().toString();
+
+      if (day.length === 1) { day = '0' + day; }
+      if (month.length === 1) { month = '0' + month; }
+
+      filename = packageName + '_' + year + '-' + month + '-' + day + '.txt';
+    }
+
+    req.pipe(new EscapeStream())
+    .pipe(fs.createWriteStream(path.join(__dirname, '../pkb/', filename)))
+    .on('finish', download)
+    .on('error', function (err) {
+      console.error('Failed to download %s (err: %s)', kbartUrl, err);
+      download();
+    });
+  });
+})();
+
+
+/**
+ * A stream that change double quotes into single
+ * Prevents the csv parser from crashing
+ */
+function EscapeStream(options) {
+  Transform.call(this, options);
 }
+require('util').inherits(EscapeStream, Transform);
 
-//we only take the complete kbart files (at least for a start)
-var Complete_eBooks = 'Springer_Global_Complete_eBooks_2014-07-01.txt';
-var Complete_Journals = 'Springer_Global_Complete_Journals_2014-07-01.txt';
-var Complete_Reference_Works = 'Springer_Global_Complete_Reference_Works_2014-07-01.txt';
-var Complete_Protocols = 'Springer_Global_Complete_Protocols_2014-07-01.txt';
-
-var kbartFiles = [Complete_eBooks, Complete_Journals, Complete_Reference_Works, Complete_Protocols];
-
-kbartFiles.forEach(downloadKBARTFile);
-
+EscapeStream.prototype._transform = function (chunk, encoding, callback) {
+  this.push(chunk.toString().replace(/"/g, "'"));
+  callback();
+};
