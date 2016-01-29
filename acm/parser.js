@@ -28,8 +28,13 @@ module.exports = new Parser(function analyseEC(parsedUrl) {
     
   } else if ((match = /^\/([a-z]+).cfm$/.exec(path)) !== null) {
     // detail.cfm
+
     result.rtype    = 'ARTICLE';
     result.mime     = 'HTML';
+    if (match[1] === 'citation') {
+      result.rtype    = 'TOC';
+      result.mime     = 'MISC';
+    }
     if (param.id) {
     result.unitid = param.id;
     }
