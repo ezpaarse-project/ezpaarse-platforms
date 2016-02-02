@@ -2,73 +2,9 @@ publication_title	print_identifier	online_identifier	date_first_issue_online	num
 Alzheimer's Research & Therapy		1758-9193							http://alzres.com		alzres.com					2009	alzres.com
 Beilstein Journal of Organic Chemistry		1860-5397							http://archive.biomedcentral.com/1860-5397/		archive.biomedcentral.com					2005	archive.biomedcentral.com
 Arthritis Research & Therapy		1478-6354							http://arthritis-research.com/		arthritis-research.com					1999	arthritis-research.com
-BMC Anesthesiology		1471-2253							http://www.biomedcentral.com/bmcanesthesiol/		bmcanesthesiol					2001	www.biomedcentral.com
-BMC Biochemistry		1471-2091							http://www.biomedcentral.com/bmcbiochem/		bmcbiochem					2000	www.biomedcentral.com
-BMC Bioinformatics		1471-2105							http://www.biomedcentral.com/bmcbioinformatics/		bmcbioinformatics					2000	www.biomedcentral.com
-BMC Biology		1741-7007							http://www.biomedcentral.com/bmcbiol/		bmcbiol					2003	www.biomedcentral.com
-BMC Biophysics		2046-1682							http://www.biomedcentral.com/bmcbiophys		bmcbiophys					2011	www.biomedcentral.com
-BMC Biotechnology		1472-6750							http://www.biomedcentral.com/bmcbiotechnol/		bmcbiotechnol					2001	www.biomedcentral.com
-BMC Cancer		1471-2407							http://www.biomedcentral.com/bmccancer/		bmccancer					2001	www.biomedcentral.com
-BMC Cardiovascular Disorders		1471-2261							http://www.biomedcentral.com/bmccardiovascdisord/		bmccardiovascdisord					2001	www.biomedcentral.com
-BMC Cell Biology		1471-2121							http://www.biomedcentral.com/bmccellbiol/		bmccellbiol					2000	www.biomedcentral.com
-BMC Chemical Biology		1472-6769							http://www.biomedcentral.com/bmcchembiol/		bmcchembiol					2001	www.biomedcentral.com
-BMC Clinical Pathology		1472-6890							http://www.biomedcentral.com/bmcclinpathol/		bmcclinpathol					2001	www.biomedcentral.com
-BMC Complementary and Alternative Medicine		1472-6882							http://www.biomedcentral.com/bmccomplementalternmed/		bmccomplementalternmed					2001	www.biomedcentral.com
-BMC Dermatology		1471-5945							http://www.biomedcentral.com/bmcdermatol/		bmcdermatol					2001	www.biomedcentral.com
-BMC Developmental Biology		1471-213X							http://www.biomedcentral.com/bmcdevbiol/		bmcdevbiol					2001	www.biomedcentral.com
-BMC Ear, Nose and Throat Disorders		1472-6815							http://www.biomedcentral.com/bmcearnosethroatdisord/		bmcearnosethroatdisord					2001	www.biomedcentral.com
-BMC Ecology		1472-6785							http://www.biomedcentral.com/bmcecol/		bmcecol					2001	www.biomedcentral.com
-BMC Emergency Medicine		1471-227X							http://www.biomedcentral.com/bmcemergmed/		bmcemergmed					2001	www.biomedcentral.com
-BMC Endocrine Disorders		1472-6823							http://www.biomedcentral.com/bmcendocrdisord/		bmcendocrdisord					2001	www.biomedcentral.com
-BMC Evolutionary Biology		1471-2148							http://www.biomedcentral.com/bmcevolbiol/		bmcevolbiol					2001	www.biomedcentral.com
-BMC Family Practice		1471-2296							http://www.biomedcentral.com/bmcfampract/		bmcfampract					2000	www.biomedcentral.com
-BMC Gastroenterology		1471-230X							http://www.biomedcentral.com/bmcgastroenterol/		bmcgastroenterol					2001	www.biomedcentral.com
-BMC Genetics		1471-2156							http://www.biomedcentral.com/bmcgenet/		bmcgenet					2000	www.biomedcentral.com
-BMC Genomics		1471-2164							http://www.biomedcentral.com/bmcgenomics/		bmcgenomics					2000	www.biomedcentral.com
-BMC Geriatrics		1471-2318							http://www.biomedcentral.com/bmcgeriatr/		bmcgeriatr					2001	www.biomedcentral.com
-BMC Health Services Research		1472-6963							http://www.biomedcentral.com/bmchealthservres/		bmchealthservres					2001	www.biomedcentral.com
-BMC Hematology		2052-1839							http://biomedcentral.com/bmchematol/		bmchematol					2001	biomedcentral.com
-BMC Immunology		1471-2172							http://www.biomedcentral.com/bmcimmunol/		bmcimmunol					2000	www.biomedcentral.com
-BMC Infectious Diseases		1471-2334							http://www.biomedcentral.com/bmcinfectdis/		bmcinfectdis					2001	www.biomedcentral.com
-BMC International Health and Human Rights		1472-698X							http://www.biomedcentral.com/bmcinthealthhumrights/		bmcinthealthhumrights					2001	www.biomedcentral.com
 BMC Medicine		1741-7015							http://www.biomedcentral.com/bmcmed/		bmcmed					2003	www.biomedcentral.com
-BMC Medical Education		1472-6920							http://www.biomedcentral.com/bmcmededuc/		bmcmededuc					2001	www.biomedcentral.com
-BMC Medical Ethics		1472-6939							http://www.biomedcentral.com/bmcmedethics/		bmcmedethics					2000	www.biomedcentral.com
-BMC Medical Genetics		1471-2350							http://www.biomedcentral.com/bmcmedgenet/		bmcmedgenet					2000	www.biomedcentral.com
-BMC Medical Genomics		1755-8794							http://www.biomedcentral.com/bmcmedgenomics/		bmcmedgenomics					2008	www.biomedcentral.com
-BMC Medical Imaging		1471-2342							http://www.biomedcentral.com/bmcmedimaging/		bmcmedimaging					2001	www.biomedcentral.com
-BMC Medical Informatics and Decision Making		1472-6947							http://www.biomedcentral.com/bmcmedinformdecismak/		bmcmedinformdecismak					2001	www.biomedcentral.com
-BMC Medical Physics		1756-6649							http://www.biomedcentral.com/bmcmedphys/		bmcmedphys					2001	www.biomedcentral.com
-BMC Medical Research Methodology		1471-2288							http://www.biomedcentral.com/bmcmedresmethodol/		bmcmedresmethodol					2001	www.biomedcentral.com
-BMC Microbiology		1471-2180							http://www.biomedcentral.com/bmcmicrobiol/		bmcmicrobiol					2001	www.biomedcentral.com
-BMC Molecular Biology		1471-2199							http://www.biomedcentral.com/bmcmolbiol/		bmcmolbiol					2000	www.biomedcentral.com
-BMC Musculoskeletal Disorders		1471-2474							http://www.biomedcentral.com/bmcmusculoskeletdisord/		bmcmusculoskeletdisord					2000	www.biomedcentral.com
-BMC Nephrology		1471-2369							http://www.biomedcentral.com/bmcnephrol/		bmcnephrol					2000	www.biomedcentral.com
-BMC Neurology		1471-2377							http://www.biomedcentral.com/bmcneurol/		bmcneurol					2001	www.biomedcentral.com
-BMC Neuroscience		1471-2202							http://www.biomedcentral.com/bmcneurosci/		bmcneurosci					2000	www.biomedcentral.com
-BMC Nursing		1472-6955							http://www.biomedcentral.com/bmcnurs/		bmcnurs					2002	www.biomedcentral.com
-BMC Ophthalmology		1471-2415							http://www.biomedcentral.com/bmcophthalmol/		bmcophthalmol					2001	www.biomedcentral.com
-BMC Oral Health		1472-6831							http://www.biomedcentral.com/bmcoralhealth/		bmcoralhealth					2001	www.biomedcentral.com
-BMC Palliative Care		1472-684X							http://www.biomedcentral.com/bmcpalliatcare/		bmcpalliatcare					2002	www.biomedcentral.com
-BMC Pediatrics		1471-2431							http://www.biomedcentral.com/bmcpediatr/		bmcpediatr					2001	www.biomedcentral.com
 BMC Pharmacology		1471-2210							http://www.biomedcentral.com/bmcpharmacol/		bmcpharmacol					2001	www.biomedcentral.com
-BMC Pharmacology and Toxicology		2050-6511							http://www.biomedcentral.com/bmcpharmacoltoxicol		bmcpharmacoltoxicol					2001	www.biomedcentral.com
-BMC Physiology		1472-6793							http://www.biomedcentral.com/bmcphysiol/		bmcphysiol					2001	www.biomedcentral.com
-BMC Plant Biology		1471-2229							http://www.biomedcentral.com/bmcplantbiol/		bmcplantbiol					2001	www.biomedcentral.com
-BMC Pregnancy and Childbirth		1471-2393							http://www.biomedcentral.com/bmcpregnancychildbirth/		bmcpregnancychildbirth					2001	www.biomedcentral.com
-BMC Proceedings		1753-6561							http://www.biomedcentral.com/bmcproc/		bmcproc					2007	www.biomedcentral.com
-BMC Psychiatry		1471-244X							http://www.biomedcentral.com/bmcpsychiatry/		bmcpsychiatry					2001	www.biomedcentral.com
 BMC Psychology		2050-7283							http://www.biomedcentral.com/bmcpsychol/		bmcpsychol					2012	www.biomedcentral.com
-BMC Public Health		1471-2458							http://www.biomedcentral.com/bmcpublichealth/		bmcpublichealth					2001	www.biomedcentral.com
-BMC Pulmonary Medicine		1471-2466							http://www.biomedcentral.com/bmcpulmmed/		bmcpulmmed					2001	www.biomedcentral.com
-BMC Research Notes		1756-0500							http://www.biomedcentral.com/bmcresnotes/		bmcresnotes					2008	www.biomedcentral.com
-BMC Sports Science, Medicine and Rehabilitation		2052-1847							http://biomedcentral.com/bmcsportsscimedrehabil/		bmcsportsscimedrehabil					2013	biomedcentral.com
-BMC Structural Biology		1472-6807							http://www.biomedcentral.com/bmcstructbiol/		bmcstructbiol					2001	www.biomedcentral.com
-BMC Surgery		1471-2482							http://www.biomedcentral.com/bmcsurg/		bmcsurg					2001	www.biomedcentral.com
-BMC Systems Biology		1752-0509							http://www.biomedcentral.com/bmcsystbiol/		bmcsystbiol					2007	www.biomedcentral.com
-BMC Urology		1471-2490							http://www.biomedcentral.com/bmcurol/		bmcurol					2001	www.biomedcentral.com
-BMC Veterinary Research		1746-6148							http://www.biomedcentral.com/bmcvetres/		bmcvetres					2005	www.biomedcentral.com
-BMC Women's Health		1472-6874							http://www.biomedcentral.com/bmcwomenshealth/		bmcwomenshealth					2001	www.biomedcentral.com
 Breast Cancer Research		1465-5411							http://breast-cancer-research.com/		breast-cancer-research.com					1999	breast-cancer-research.com
 EURASIP Journal on Bioinformatics and Systems Biology		1687-4153							http://bsb.eurasipjournals.com		bsb.eurasipjournals.com					2011	bsb.eurasipjournals.com
 Critical Care		1364-8535							http://ccforum.com/		ccforum.com					1997	ccforum.com
