@@ -16,6 +16,9 @@
   },{
     "code": "MARC"
   },{
+    "code": "BIBTEX",
+    "comment": "List of references, mostly in conjunction with LaTeX documents"
+  },{
     "code": "MISC",
     "description": "Format non-standard"
   },{

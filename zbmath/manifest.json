@@ -1,0 +1,26 @@
+{
+  "version": "2016-01-22",
+  "status": "stable",
+  "domains": [
+    "zbmath.org"
+  ],
+  "recognize": {
+    "rid": [
+      "unitid"
+    ],
+    "rtype": [
+      "REF"
+    ],
+    "mime": [
+      "PDF",
+      "XML",
+      "BIBTEX"
+    ]
+  },
+  "name": "zbmath",
+  "longname": "ZentralBlatt",
+  "describe": "Identifie les consultations de la plateforme ZentralBlatt",
+  "docurl": "http://ang.couperin.org/platforms/5672d20f689d834f37c1b037",
+  "contact": "olivier.labbe@univ-grenoble-alpes.fr",
+  "pkb": false
+}

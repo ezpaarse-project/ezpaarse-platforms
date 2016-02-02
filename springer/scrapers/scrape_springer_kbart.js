@@ -8,7 +8,7 @@ var request   = require('request');
 var fs        = require('fs');
 var path      = require('path');
 var Transform = require('stream').Transform;
-var util      = require('util');
+//var util      = require('util');
 
 var baseURL = 'http://static-content.springer.com/kbart/complete_packages/';
 
