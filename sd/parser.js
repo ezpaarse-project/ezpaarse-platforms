@@ -52,7 +52,7 @@ module.exports = new Parser(function analyseEC(parsedUrl) {
       break;
     case 'MiamiImageURL':
       if (param._pii) {
-        result.pii = param._pii;        
+        result.pii = param._pii;
         if ((match = /S([0-9]{4})([0-9]{3}[0-9Xx])([0-9A-Za-z]*)/.exec(param._pii)) !== null) {
           // example : http://pdn.sciencedirect.com.gate1.inist.fr/science?_ob=MiamiImageURL&_cid=282179&_user=4046392
           // &_pii=S221267161200100X&_check=y&_origin=browseVolIssue&_zone=rslt_list_item&_coverDate=2012-12-31
@@ -132,7 +132,7 @@ module.exports = new Parser(function analyseEC(parsedUrl) {
       result.print_identifier = match[1];
       result.rtype    = 'BOOK';
       result.mime     = 'HTML';
-    } else if ((match = /\/(S?([0-9]{4})([0-9]{3}[0-9Xx])([0-9Xx]+))\/([0-9A-Za-z\-\.]*)-main\.pdf/.exec(path)) !== null) {
+    } else if ((match = /\/(S?([0-9]{4})([0-9]{3}[0-9Xx])([0-9a-zA-Z]+))\/([0-9A-Za-z\-\.]*)-main\.pdf/.exec(path)) !== null) {
       // example : http://ac.els-cdn.com/S0967586808000258/1-s2.0-S0967586808000258-main.pdf?
       // _tid=2146516a-82a7-11e3-a57f-00000aab0f6b&acdnat=1390314188_e595d0b375febbda9fdd48d069be9b55
       // ou
@@ -143,7 +143,7 @@ module.exports = new Parser(function analyseEC(parsedUrl) {
       result.print_identifier  = match[2] + '-' + match[3];
       result.rtype    = 'ARTICLE';
       result.mime     = 'PDF';
-    } else if ((match = /\/B([0-9]{12}[0-9Xx])([0-9]+)\/([0-9A-Za-z\-\.]*)-main\.pdf/.exec(path)) !== null) {
+    } else if ((match = /\/B([0-9]{12}[0-9Xx])([0-9a-zA-Z]+)\/([0-9A-Za-z\-\.]*)-main\.pdf/.exec(path)) !== null) {
       // http://ac.els-cdn.com.gate1.inist.fr/B9780080449241500046/3-s2.0-B9780080449241500046-main.pdf?
       // _tid=c46ad240-215c-11e4-a248-00000aab0f6b&acdnat=1407764484_bb679604d2bb522902776987d43e484e
       result.pii = result.unitid   = 'B' + match[1] + match[2];
