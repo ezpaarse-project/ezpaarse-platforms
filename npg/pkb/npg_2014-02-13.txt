@@ -55,18 +55,14 @@ Molecular Systems Biology		1744-4292									msb
 Molecular Therapy	1525-0016	1525-0024									mt
 Molecular Therapy — Nucleic Acids		2162-2531									mtna
 Mucosal Immunology	1933-0219	1935-3456									mi
-Nature	0028-0836	1476-4687									nature
 Nature Arabic Edition											http://arabicedition.nature.com.gate1.inist.fr/
 Nature Biotechnology	1087-0156	1546-1696									nbt
-Nature Cell Biology	1465-7392	1476-4679									ncb
 Nature Chemical Biology	1552-4450	1552-4469									nchembio
-Nature Chemistry	1755-4330	1755-4349									nchem
 Nature Climate Change	1758-678X	1758-6798									nclimate
 Nature Communications		2041-1723									ncomms
 Nature Digest	1880-0556										ndigest
 Nature Genetics	1061-4036	1546-1718									ng
 Nature Geoscience	1752-0894	1752-0908									ngeo
-Nature Immunology	1529-2908	1529-2916									ni
 Nature Materials	1476-1122	1476-4660									nmat
 Nature Medicine	1078-8956	1546-170X									nm
 Nature Methods	1548-7091	1548-7105									nmeth
@@ -78,19 +74,15 @@ Nature Protocols	1754-2189	1750-2799									nprot
 Nature Reviews Cancer	1474-175X	1474-1768									nrc
 Nature Reviews Cardiology 	1759-5002	1759-5010									nrcardio
 Nature Reviews Clinical Oncology	1759-4774	1759-4782									nrclinonc
-Nature Reviews Drug Discovery	1474-1776	1474-1784									nrd
 Nature Reviews Endocrinology	1759-5029	1759-5037									nrendo
 Nature Reviews Gastroenterology and Hepatology	1759-5045	1759-5053									nrgastro
 Nature Reviews Genetics	1471-0056	1471-0064									nrg
-Nature Reviews Immunology	1474-1733	1474-1741									nri
 Nature Reviews Microbiology	1740-1526	1740-1534									nrmicro
 Nature Reviews Molecular Cell Biology	1471-0072	1471-0080									nrm
 Nature Reviews Nephrology 	1759-5061	1759-507X									nrneph
 Nature Reviews Neurology 	1759-4758	1759-4766									nrneurol
-Nature Reviews Neuroscience	1471-003X	1471-0048									nrn
 Nature Reviews Rheumatology 	1759-4790	1759-4804									nrrheum
 Nature Reviews Urology 	1759-4812	1759-4820									nrurol
-Nature Structural and Molecular Biology	1545-9993	1545-9985									nsmb
 Neuropsychopharmacology	0893-133X	1740-634X									npp
 NPG Asia Materials		1884-4057									am
 Nutrition & Diabetes		2044-4052									nutd

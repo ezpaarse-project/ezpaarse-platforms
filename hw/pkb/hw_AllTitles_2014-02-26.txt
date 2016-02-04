@@ -15,7 +15,6 @@ Biometrika	0006-3444	1464-3510							http://biomet.oxfordjournals.org		biomet.ox
 British Journal of Aesthetics	0007-0904	1468-2842							http://bjaesthetics.oxfordjournals.org		bjaesthetics.oxfordjournals.org				Oxford University Press										
 British Journal of Radiology	0007-1285	1748-880X							http://bjr.birjournals.org		bjr.birjournals.org														
 Bulletin of London Mathematical Society	0024-6093	1469-2120							http://blms.oxfordjournals.org		blms.oxfordjournals.org				Oxford University Press										
-Blood	0006-4971	1528-0020							http://bloodjournal.hematologylibrary.org		bloodjournal.hematologylibrary.org														
 British Yearbook of International Law	0068-2691	2044-9437							http://bybil.oxfordjournals.org		bybil.oxfordjournals.org				Oxford University Press										
 Journal Watch Cardiology	1521-5822	1533-7839							http://cardiology.jwatch.org		cardiology.jwatch.org														
 Cardiovascular Research	0008-6363								http://cardiovascres.oxfordjournals.org		cardiovascres.oxfordjournals.org				Oxford University Press										

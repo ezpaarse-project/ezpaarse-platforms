@@ -17,7 +17,6 @@ Molecular BioSystems	1742-206X	1742-2051	2008-01-01						http://dx.doi.org/10.10
 MedChemComm	2040-2503	2040-2511	2010-01-01						http://dx.doi.org/10.1039/2040-2511/2010		md		fulltext	Free Access to Vols 1-2 (2010-2011)											
 Metallomics	1756-5901	1756-591X	2009-01-01						http://dx.doi.org/10.1039/1756-591X/2009		mt		fulltext	Free Access to Vols 1-2 (2009-2010)											
 Nanoscale	2040-3364	2040-3372	2009-01-01						http://dx.doi.org/10.1039/2040-3372/2009		nh		fulltext	Free Access to Vols 1-2 (2009-2010)											
-Nanoscale	2040-3364	2040-3372	2009-01-01						http://dx.doi.org/10.1039/2040-3372/2009		nh		fulltext	Free Access to Vols 1-2 (2009-2010)											
 New Journal of Chemistry 	1144-0546	1369-9261	2008-01-01						http://dx.doi.org/10.1039/1369-9261/1998		nj		fulltext												
 Natural Product Reports 	0265-0568	1460-4752	2008-01-01						http://dx.doi.org/10.1039/1460-4752/1984		np		fulltext												
 Organic & Biomolecular Chemistry	1477-0520	1477-0539	2008-01-01						http://dx.doi.org/10.1039/1477-0539/2003		ob		fulltext	Merged: Journal of the Chemical Society Perkin Transactions 1 and Journal of the Chemical Society Perkin Transactions 2											
