@@ -1,8 +1,8 @@
-out-title_id;out-doi;out-unitid;out-vol;out-issue;out-issn;out-isbn;out-rtype;out-mime;in-url
-;10.1163/157006605774832225;157006605774832225;;;;;ABS;HTML;http://booksandjournals.brillonline.com.gate1.inist.fr/content/journals/10.1163/157006605774832225
-;;00224200/v35n4_splitsection3.pdf;35;4;0022-4200;;ARTICLE;PDF;http://booksandjournals.brillonline.com.gate1.inist.fr/docserver/00224200/v35n4_splitsection3.pdf?expires=1449560994&id=id&accname=1749902&checksum=8A45B419E8163BD3773C561AFF6C96F3
-;;15700666/35/4;35;4;1570-0666;;TOC;HTML;http://booksandjournals.brillonline.com:80/content/journals/15700666/35/4
-;;er372_411-412;;;;9789004289376;BOOK_SELECTION;PDF;https://referenceworks-brillonline-com.bibliopam-evry.univ-evry.fr/media/pplrdc/er372_411-412.pdf?id=the-hague-academy-collected-courses/chapter-i-introduction-372-ej.9789004289376.395_503.2#pagemode=bookmarks&page=1
-;;17087384_004_03_S02;4;3;1708-7384;;ARTICLE;PDF;https://booksandjournals.brillonline.com.bibliopam-evry.univ-evry.fr/deliver/17087384/4/3/17087384_004_03_S02_text.pdf?isFastTrackArticle=false
-;;17087384_004_03_S02;4;3;1708-7384;;ARTICLE;HTML;https://booksandjournals.brillonline.com.bibliopam-evry.univ-evry.fr/docserver/17087384/4/3/17087384_004_03_S02_text.html?expires=1444666831&id=id&accname=1749902&checksum=30CF830EC8120F7B142CB84E7A414923
-;;15685527/19/1;19;1;1568-5527;;TOC;HTML;http://booksandjournals.brillonline.com.bases-doc.univ-lorraine.fr/content/journals/15685527/19/1
+out-title_id;out-doi;out-unitid;out-vol;out-issue;out-print_identifier;out-rtype;out-mime;in-url
+;10.1163/157006605774832225;157006605774832225;;;;ABS;HTML;http://booksandjournals.brillonline.com.gate1.inist.fr/content/journals/10.1163/157006605774832225
+;;00224200/v35n4_splitsection3.pdf;35;4;0022-4200;ARTICLE;PDF;http://booksandjournals.brillonline.com.gate1.inist.fr/docserver/00224200/v35n4_splitsection3.pdf?expires=1449560994&id=id&accname=1749902&checksum=8A45B419E8163BD3773C561AFF6C96F3
+;;15700666/35/4;35;4;1570-0666;TOC;HTML;http://booksandjournals.brillonline.com:80/content/journals/15700666/35/4
+;;er372_411-412;;;9789004289376;BOOK_SECTION;PDF;https://referenceworks-brillonline-com.bibliopam-evry.univ-evry.fr/media/pplrdc/er372_411-412.pdf?id=the-hague-academy-collected-courses/chapter-i-introduction-372-ej.9789004289376.395_503.2#pagemode=bookmarks&page=1
+;;17087384_004_03_S02;4;3;1708-7384;ARTICLE;PDF;https://booksandjournals.brillonline.com.bibliopam-evry.univ-evry.fr/deliver/17087384/4/3/17087384_004_03_S02_text.pdf?isFastTrackArticle=false
+;;17087384_004_03_S02;4;3;1708-7384;ARTICLE;HTML;https://booksandjournals.brillonline.com.bibliopam-evry.univ-evry.fr/docserver/17087384/4/3/17087384_004_03_S02_text.html?expires=1444666831&id=id&accname=1749902&checksum=30CF830EC8120F7B142CB84E7A414923
+;;15685527/19/1;19;1;1568-5527;TOC;HTML;http://booksandjournals.brillonline.com.bases-doc.univ-lorraine.fr/content/journals/15685527/19/1
