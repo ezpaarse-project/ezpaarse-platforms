@@ -19,32 +19,14 @@ module.exports = new Parser(function analyseEC(parsedUrl, ec) {
 
   var match;
 
-  if ((match = /^\/doi\/(full|pdf|abs)\/(([0-9\.]+)\/([0-9]+))$/.exec(path)) !== null) {
-    result.rtype  = 'ARTICLE';
-    result.mime   = 'PDF';
+  if ((match = /^\/doi\/(full|pdf|abs)\/([0-9\.]+\/([0-9\.]+))$/.exec(path)) !== null) {
     result.doi    = match[2];
-    result.unitid = match[4];
+    result.unitid = match[3];
 
-    if (match[1].toUpperCase() == "FULL") {
-      // http://www.tandfonline.com.bases-doc.univ-lorraine.fr/doi/full/10.1080/17400309.2013.861174#abstract
-      result.rtype = 'ARTICLE';
-      result.mime  = 'HTML';
-    } else if (match[1].toUpperCase() == "PDF") {
-      // http://www.tandfonline.com:80/doi/pdf/10.1080/17400309.2013.861174
-      result.rtype = 'ARTICLE';
-      result.mime  = 'PDF';
-    } else if (match[1].toUpperCase() == "ABS") {
-      // http://www.tandfonline.com:80/doi/abs/10.1080/00039420412331273295
-      result.rtype = 'ABS';
-      result.mime  = 'HTML';
+    if (/^[0-9]{8}/.test(match[3])) {
+      result.print_identifier = match[3].substr(0,4) + '-' + match[3].substr(4,4);
+      result.title_id = result.print_identifier;
     }
-  } else if ((match = /^\/doi\/(full|pdf|abs)\/(([0-9\.]+)\/(([0-9]+)\.([0-9]+)\.([0-9]+)))$/.exec(path)) !== null) {
-    result.rtype            = 'ARTICLE';
-    result.mime             = 'PDF';
-    result.title_id         = match[5].substr(0,4) + '-' + match[5].substr(4,7) ;
-    result.print_identifier = match[5].substr(0,4) + '-' + match[5].substr(4,7) ;
-    result.doi              = match[2];
-    result.unitid           = match[4];
 
     if (match[1].toUpperCase() == "FULL") {
       // http://www.tandfonline.com.bases-doc.univ-lorraine.fr/doi/full/10.1080/17400309.2013.861174#abstract
