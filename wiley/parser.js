@@ -53,7 +53,7 @@ module.exports = new Parser(function analyseEC(parsedUrl) {
     result.rtype = 'ABS';
     result.mime = 'MISC';
     result.publication_date= match['3'].substr(0,4);
-    
+
   } else if ((match = /^\/doi\/([0-9]{2}\.[0-9]{4,5})\/([^.]+)\.([0-9]+)\/full$/.exec(path)) !== null) {
     // /doi/10.1111/acv.12024/full
     result.doi = match[1] + "/" + match[2] + '.' + match[3];
@@ -89,7 +89,7 @@ module.exports = new Parser(function analyseEC(parsedUrl) {
     result.title_id = match[2].toUpperCase();
     result.rtype = 'BOOK_SECTION';
     result.mime = 'MISC';
-    result.isbn = match[2];
+    result.print_identifier = match[2];
   } else if ((match = /^\/doi\/([0-9]{2}\.[0-9]{4,5})\/([0-9]+)\.([^.]+)\/pdf$/.exec(path)) !== null) {
     // /doi/10.1002/9781118268117.ch3/pdf
     // result.doi = match[1];
@@ -98,7 +98,7 @@ module.exports = new Parser(function analyseEC(parsedUrl) {
     result.title_id = match[2].toUpperCase();
     result.rtype = 'BOOK_SECTION';
     result.mime = 'PDF';
-    result.isbn = match[2];
+    result.print_identifier = match[2];
   } else if ((match = /^\/enhanced\/doi\/(([0-9]{2}\.[0-9]{4,5})\/([^\.]+)\.([^\/]+))\/$/.exec(path)) !== null) {
     // http://onlinelibrary.wiley.com.biblioplanets.gate.inist.fr/enhanced/doi/10.1002/cjg2.20083/
     result.title_id = match[3].toUpperCase();
@@ -106,7 +106,7 @@ module.exports = new Parser(function analyseEC(parsedUrl) {
     result.unitid = match[3] + "." + match[4];
     result.rtype = 'ARTICLE';
     result.mime = 'HTML';
-    
+
   } else if ((match = /^\/enhanced\/doi\/(([0-9]{2}\.[0-9]{4,5})\/(([0-9]{4})([a-zA-Z0-9]{2}))([^\/]+))\/$/.exec(path)) !== null) {
     // http://onlinelibrary.wiley.com.biblioplanets.gate.inist.fr/enhanced/doi/10.1002/2013WR014994/
 
@@ -151,7 +151,7 @@ module.exports = new Parser(function analyseEC(parsedUrl) {
     result.rtype = 'ARTICLE';
     result.mime = 'HTML';
     result.publication_date = "20" + match[5];
-    
+
   }  else if ((match = /^\/doi\/([0-9]{2}\.[0-9]{4,5})\/(([A-Z]{1})([0-9]{8})([0-9]{2})[0-9A-Z]+)\/([a-z]+)$/.exec(path)) !== null) {
     //http://onlinelibrary.wiley.com.gate1.inist.fr/doi/10.1107/S1399004715000292/abstract
     //http://onlinelibrary.wiley.com.gate1.inist.fr/doi/10.1107/S139900471402286X/pdf
@@ -181,7 +181,7 @@ module.exports = new Parser(function analyseEC(parsedUrl) {
     result.doi = match[1] + "/" + match[2];
     result.unitid = match[2];
     result.title_id = match[4].toUpperCase();
-    result.publication_date =match['3']; 
+    result.publication_date =match['3'];
     result.rtype = 'ARTICLE';
     if(match[3].length === 2) {
       result.publication_date = '19' + match['3'];
@@ -194,7 +194,7 @@ module.exports = new Parser(function analyseEC(parsedUrl) {
     result.doi = match[1] + "/" + match[2];
     result.unitid = match[2];
     result.rtype = 'ARTICLE';
-   
+
     if (match['3']=== 'pdf') {
       result.mime = 'PDF';
     } else { result.mime = 'HTML'; }

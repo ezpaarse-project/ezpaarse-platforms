@@ -38,9 +38,8 @@ module.exports = new Parser(function analyseEC(parsedUrl, ec) {
     result.title_id = match[1];
     if (hashedUrl && hashedUrl.query) {
       if (hashedUrl.query.issnprint) {
-       result.print_identifier = hashedUrl.query.issnprint;
-       result.issn = hashedUrl.query.issnprint;
-        }
+        result.print_identifier = hashedUrl.query.issnprint;
+      }
       if (hashedUrl.query.issueid) { result.unitid = hashedUrl.query.issueid; }
     }
   } else if ((match = /^\/en\/content\/article(html|pdf)\/([0-9]+)\/([^\/]+)\/([^\/]+)$/.exec(path)) !== null) {
@@ -56,7 +55,7 @@ module.exports = new Parser(function analyseEC(parsedUrl, ec) {
     if (hashedUrl && hashedUrl.query && hashedUrl.query.divbookcontent === '') { result.rtype    = 'TOC'; }
     result.mime     = 'MISC';
     result.title_id = result.unitid = result.print_identifier = match[1];
-    result.isbn = match[1].split('#')[0];
+    result.print_identifier = match[1].split('#')[0];
   } else if ((match = /^\/en\/content\/chapterpdf\/([0-9]+)\/([^\/]+)$/.exec(path)) !== null) {
     // https://pubs-rsc-org.bibliopam-evry.univ-evry.fr/en/content/chapterpdf/2013/9781849734738-00001
     // ?isbn=978-1-84973-424-0&sercode=bk
