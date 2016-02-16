@@ -38,6 +38,8 @@
     },{
       "code": "XML"
     },{
+      "code": "JSON"
+    },{
       "code": "MARC"
     },{
       "code": "MISC",

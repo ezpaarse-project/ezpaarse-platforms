@@ -20,6 +20,7 @@ module.exports = new Parser(function analyseEC(parsedUrl, ec) {
   var match;
   if (param.q) {
     result.rtype = 'QUERY';
+    result.mime = 'JSON';
   } else {
     if ((match = /^\/document\/([0-9A-Z]+)\/([a-z]+)\/([a-zA-Z]+)([^.]?)/.exec(path)) !== null) {
       ///document/4C46BB8FC3AE3CB005C44243414E9D0E9C8C6057/enrichments/catWos
