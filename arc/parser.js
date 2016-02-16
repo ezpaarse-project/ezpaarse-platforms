@@ -26,35 +26,46 @@ module.exports = new Parser(function analyseEC(parsedUrl, ec) {
 
   if ((match = /\/loi\/([a-zA-Z]+)$/.exec(path)) !== null) {
     // http://arc.aiaa.org/loi/aiaaj
-    result.rtype = 'TOC';
-    result.mime  = 'HTML';
+    result.rtype    = 'TOC';
+    result.mime     = 'HTML';
     result.title_id = match[1];
-    result.unitid = match[1];
-  } else if ((match = /\/toc\/(([a-zA-Z]+)\/([0-9\.]+)\/([^\/]+))$/.exec(path)) !== null) {
+    result.unitid   = match[1];
+
+  } else if ((match = /\/toc\/(([a-zA-Z]+)\/([0-9]+)\/([0-9]+))$/.exec(path)) !== null) {
     // http://arc.aiaa.org/toc/aiaaj/52/4
-    result.rtype = 'TOC';
-    result.mime  = 'HTML';
+    result.rtype    = 'TOC';
+    result.mime     = 'HTML';
+    result.unitid   = match[1];
     result.title_id = match[2];
-    result.unitid = match[1];
-  } else if ((match = /\/doi\/(abs\/[0-9\.]+\/([^\/\.]+\.[^\/]+))$/.exec(path)) !== null) {
+    result.vol      = match[3];
+    result.issue    = match[4];
+
+  } else if ((match = /\/doi\/(abs|full|pdf|pdfplus)\/([0-9\.]+\/([^\/\.]+\.[^\/]+))$/.exec(path)) !== null) {
     // http://arc.aiaa.org/doi/abs/10.2514/1.J052182
-    result.rtype = 'ABS';
-    result.mime  = 'HTML';
-    result.title_id = match[2];
-    result.unitid = match[1];
-  } else if ((match = /\/doi\/full\/(([0-9\.]+)\/(([^\.]+\.[^\.]+.[^\.]+)))$/.exec(path)) !== null) {
-    result.rtype = 'ARTICLE';
-    result.mime  = 'HTML';
-    result.title_id = match[4];
-    result.unitid = match[1];
-  } else if ((match = /\/doi\/(pdf(plus)?\/([0-9\.]+)\/([^\/\(\.)]+\.[^\/)]+))$/.exec(path)) !== null) {
-    // http://arc.aiaa.org/doi/pdfplus/10.2514/1.C031500
-    // http://arc.aiaa.org/doi/pdf/10.2514/8.10358
-    result.rtype = 'ARTICLE';
-    result.mime  = 'PDF';
-    result.title_id = match[4];
-    result.unitid = match[1];
+    result.title_id = match[3];
+    result.unitid   = match[2];
+    result.doi      = match[2];
+
+    switch (match[1]) {
+    case 'abs':
+      result.rtype = 'ABS';
+      result.mime  = 'HTML';
+      break;
+    case 'full':
+      result.rtype = 'ARTICLE';
+      result.mime  = 'HTML';
+      break;
+    case 'pdf':
+      result.rtype = 'ARTICLE';
+      result.mime  = 'PDF';
+      break;
+    case 'pdfplus':
+      result.rtype = 'ARTICLE';
+      result.mime  = 'PDFPLUS';
+      break;
+    }
   }
+
   return result;
 });
 
