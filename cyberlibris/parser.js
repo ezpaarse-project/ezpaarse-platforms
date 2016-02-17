@@ -52,27 +52,6 @@ module.exports = new Parser(function analyseEC(parsedUrl, ec) {
     result.title_id = param.docid;
     result.unitid   = param.docid+'/page/'+param.p;
   } 
- 
-// else if ((match = /^\/reader\/local\/([a-z]+)\/([0-9]+)\/([a-z]+)\/([0-9]+)$/.exec(path)) !== null) {
-//     // feuilletage en ligne, version flash reader
-//     // http://univ-paris1.cyberlibris.com/reader/local/docid/88826141/page/1
-//     result.rtype    = 'BOOK';
-//     result.mime     = 'MISC';
-//     result.title_id = match[2];
-//     result.unitid   = match[2]+'/'+match[3]+'/'+match[4];
-//   } 
-
-//  else if ((match = /^\/reader\/([a-z]+)\/*/.exec(path)) !== null) {
-//    // imprimer une partie du document 
-//    // http://univ-paris1.cyberlibris.com/reader/advprint/?DocID=88826141&pages=0
-// 
-//    result.mime     = 'MISC';
-//    if (param.DocID) {
-//       result.title_id = param.DocID;
-//       result.unitid = param.DocID;
-//    } 
-//  }
-
   return result;
 });
 
