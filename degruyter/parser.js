@@ -2,8 +2,9 @@
 
 // ##EZPAARSE
 
-/*jslint maxlen: 150*/
+
 'use strict';
+/*jslint maxlen: 200*/
 var Parser = require('../.lib/parser.js');
 
 /**
@@ -28,29 +29,22 @@ module.exports = new Parser(function analyseEC(parsedUrl, ec) {
   // variable qui va contenir le volume l'issue et buméro de page
   var infodetail;
 
-  if ((match = /^\/view\/([a-z]+)\/(([a-z]+)\.([0-9]+)\.([0-9]+)\.([a-z]+)\-([0-9]+))\/([a-z\-]+)\/([^]*).xml$/.exec(path)) !== null) {
-    // https://www-degruyter-com.bibliopam-evry.univ-evry.fr/view/j/jtms.2014.1.issue-2/issue-files/jtms.2014.1.
+  if ((match = /^\/view\/([a-z]+)\/(([a-z]+)\.([0-9]+)\.([0-9]+)\.([a-z]+)\-([0-9]+))\/([a-z0-9\-]*)\/([^]*).xml$/.exec(path)) !== null) {
+    //view/j/jtms.2014.1.issue-2/issue-files/jtms.2014.1.
     //issue-2.xml
- 
+    //view/j/jtms.2014.1.issue-2/jtms-2014-0026/jtms-2014-0026.xml?format=INT
     result.rtype    = 'TOC';
     result.mime     = 'HTML';
     result.title_id = match[3];
-     result.vol = match[5];
-    result.issue= match[7];
+    result.vol      = match[5];
+    result.issue    = match[7];
+    result.unitid   = match[9];
     result.publication_date = match[4];
-    result.unitid   = match[2];
-  } else if ((match = /^\/view\/([a-z]+)\/(([a-z]+)\.([0-9]+)\.([0-9]+)\.([a-z]+)\-([0-9]+))\/([a-z0-9\-]+)\/([^]*).xml$/.exec(path)) !== null) {
-    // https://www-degruyter-com.bibliopam-evry.univ-evry.fr/view/j/jtms.2014.1.issue-2/jtms-2014-0026/jtms-2014-0026
-    //.xml?format=INT
+    if (match[8] != 'issue-files') {
+      result.doi    = '10.1515/' + match[8];
+      result.rtype  = 'PREVIEW';
+    }
     
-    result.rtype    = 'PREVIEW';
-    result.mime     = 'HTML';
-    result.title_id = match[3];
-    result.unitid   = match[8];
-    result.vol = match[5];
-    result.issue= match[7];
-    result.publication_date = match[4];
-    result.doi = '10.1515/' + match[8];
   } else if ((match = /^\/dg\/([^]*)\/([^]*)$/.exec(path)) !== null) {
     //dg/viewarticle.fullcontentlink:pdfeventlink/$002fj$002fetly.2011.2011.
     //issue-1$002f9783110239423.200$002f9783110239423.200.pdf?
@@ -61,20 +55,19 @@ module.exports = new Parser(function analyseEC(parsedUrl, ec) {
     ////$002fj$002fjtms.2015.2.issue-1$002fjtms-2015-frontmatter1$002fjtms-2015-frontmatter1.pdf
 
     info = match[2].split('$002f');
-
     result.publication_date = info[2].split('.')[1];
     result.title_id = info[2].split('.')[0];
     result.issue = info[2].split('.')[3].replace('issue-', '');
-    result.unitid   = info[4];
-    if((infodetail = /^([a-z]+)\.([0-9]+)\.([0-9]+)\.([0-9\-]+)\.([0-9]+)\.([a-z]+)/.exec(info[4])) !== null ) {
+    result.unitid = info[4];
+    if ((infodetail = /^([a-z]+)\.([0-9]+)\.([0-9]+)\.([0-9\-]+)\.([0-9]+)\.([a-z]+)/.exec(info[4])) !== null) {
       result.vol = infodetail[3];
       result.first_page = infodetail[5];
     }
-    result.mime     = 'PDF';
-    if (match[1].split('.')[0] ===  "viewarticle") {
-    result.rtype    = 'ARTICLE';
+    result.mime = 'PDF';
+    if (match[1].split('.')[0] === "viewarticle") {
+      result.rtype = 'ARTICLE';
     } else {
-    result.rtype = 'TOC';  
+      result.rtype = 'TOC';  
     }
     
   }
