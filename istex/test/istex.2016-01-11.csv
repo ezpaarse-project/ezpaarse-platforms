@@ -8,4 +8,4 @@ out-unitid;out-rtype;out-mime;in-url
 55420CDEEA0F6538E215A511C72E2E5E57570138;;TEXT;https://api.istex.fr/document/55420CDEEA0F6538E215A511C72E2E5E57570138/fulltext/txt
 55420CDEEA0F6538E215A511C72E2E5E57570138;;TEI;https://api.istex.fr/document/55420CDEEA0F6538E215A511C72E2E5E57570138/fulltext/tei
 4C46BB8FC3AE3CB005C44243414E9D0E9C8C6057;;TEI;https://api.istex.fr/document/4C46BB8FC3AE3CB005C44243414E9D0E9C8C6057/enrichments/catWos
-;QUERY;;https://api.istex.fr/document/?q=host.isbn:*
+;QUERY;JSON;https://api.istex.fr/document/?q=host.isbn:*
