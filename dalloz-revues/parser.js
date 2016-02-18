@@ -40,7 +40,7 @@ module.exports = new Parser(function analyseEC(parsedUrl, ec) {
     //unitid: 004890-201505-1
     //title_id: 004890
     result.title_id = param['pub'];
-    result.unitid   = param['pub'] + "-" + param['num'] + "-" + param['pag'];
+    result.unitid   = param['pub'] + '-' + param['num'] + '-' + param['pag'];
   }
 
   return result;

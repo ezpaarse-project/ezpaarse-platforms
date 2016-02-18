@@ -25,7 +25,7 @@ var journalsUrl = 'http://www.palgrave-journals.com/pal/jnlindex.html';
 
 request.get(journalsUrl, function (err, res, body) {
   if (err) {
-    console.error("[Error] Could not get the index page");
+    console.error('[Error] Could not get the index page');
     process.exit(1);
   }
 
@@ -38,7 +38,7 @@ request.get(journalsUrl, function (err, res, body) {
   var i = 0;
   (function browseNext(callback) {
     var link = links.get(i++);
-    if (!link) { return callback(); }
+    if (!link) { return callback(); }
     var href = $(link).attr('href');
 
 
@@ -54,7 +54,7 @@ request.get(journalsUrl, function (err, res, body) {
       return browseNext(callback);
     }
 
-    console.error("(%d/%d) %s", i, links.length, href);
+    console.error('(%d/%d) %s', i, links.length, href);
 
     var kbartRow = pkb.initRow({});
     kbartRow.title_id  = title_id;
@@ -62,7 +62,7 @@ request.get(journalsUrl, function (err, res, body) {
 
     request.get(href, function (err, response, content) {
       if (err) {
-        console.error("[Error] Could not get %s", href);
+        console.error('[Error] Could not get %s', href);
         pkb.addRow(kbartRow);
         return browseNext(callback);
       }

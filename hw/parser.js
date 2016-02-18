@@ -29,13 +29,13 @@ module.exports = new Parser(function analyseEC(parsedUrl, ec) {
      *            http://geophysics.geoscienceworld.org/content/78/2/B49.full
      */
     result.unitid  = hostname + '/' + match[1];
-     testvalue = match[4].split('.')[0];
-    if (testvalue != "pdb") {
-    result.vol = match[2];
-    result.issue = match[3];
-    result.first_page = match[4].split('.')[0];
+    testvalue = match[4].split('.')[0];
+    if (testvalue != 'pdb') {
+      result.vol = match[2];
+      result.issue = match[3];
+      result.first_page = match[4].split('.')[0];
     } else {
-      result.doi = "10.1101/" + match[4];
+      result.doi = '10.1101/' + match[4];
     }
     switch (match[5]) {
     case 'abstract':
@@ -57,12 +57,12 @@ module.exports = new Parser(function analyseEC(parsedUrl, ec) {
      */
     result.unitid  = hostname + '/' + match[1];
     testvalue = match[5].split('.')[0];
-    if (testvalue != "pdb") {
-    result.vol = match[3];
-    result.issue = match[4];
-    result.first_page = match[5].split('.')[0];
+    if (testvalue != 'pdb') {
+      result.vol = match[3];
+      result.issue = match[4];
+      result.first_page = match[5].split('.')[0];
     } else {
-      result.doi = "10.1101/" + match[5];
+      result.doi = '10.1101/' + match[5];
     }
     switch (match[6]) {
     case 'abstract':
@@ -78,19 +78,19 @@ module.exports = new Parser(function analyseEC(parsedUrl, ec) {
       result.mime  = 'PDF';
       break;
     }
- } else if ((match = /\/doi\/pdf(plus)?\/(([0-9\.]+)\/([^\/\(\.)]+))$/.exec(pathname)) !== null) {
+  } else if ((match = /\/doi\/pdf(plus)?\/(([0-9\.]+)\/([^\/\(\.)]+))$/.exec(pathname)) !== null) {
     // http://www.nrcresearchpress.com.gate1.inist.fr/doi/pdfplus/10.1139/er-2013-0083?src=recsys
-    result.rtype = 'ARTICLE';
-    result.mime  = 'PDF';
+   result.rtype = 'ARTICLE';
+   result.mime  = 'PDF';
     //result.title_id = match[4];
-    result.unitid = hostname + '/' + match[2];
-    result.doi = match[2];
-  } else if ((match = /^\/cgi\/reprint\/([a-zA-Z]+\;[0-9\/]+)$/.exec(pathname)) !== null) {
+   result.unitid = hostname + '/' + match[2];
+   result.doi = match[2];
+ } else if ((match = /^\/cgi\/reprint\/([a-zA-Z]+\;[0-9\/]+)$/.exec(pathname)) !== null) {
     // http://preventionportal.aacrjournals.org.gate1.inist.fr/cgi/reprint/canres;74/16/4378
-    result.unitid = hostname + '/' + match[1].replace(";","/");
+    result.unitid = hostname + '/' + match[1].replace(';','/');
     result.rtype  = 'ARTICLE';
     result.mime   = 'PDF';
-    
+
     info = match[1].split(';')[1];
     result.vol = info.split('/')[0];
     result.issue = info.split('/')[1];
@@ -108,11 +108,11 @@ module.exports = new Parser(function analyseEC(parsedUrl, ec) {
     result.rtype  = 'ARTICLE';
     result.mime   = 'PDF';
     result.title_id = match[6];
-    result.unitid = "content" +"/"+ match[1] +"/"+ match[2] +"/"+ match[3] +"/"+ match[4] +"/"+ match[5];
+    result.unitid = 'content' +'/'+ match[1] +'/'+ match[2] +'/'+ match[3] +'/'+ match[4] +'/'+ match[5];
     result.doi = '10.1200/' + completdoi[0] + '.'+ completdoi[1] + '.'+ completdoi[2] + '.'+ completdoi[3];
   } else if ((match = /^\/docserver\/([a-z]+)\/([a-z]+)\/([0-9]{2})\/([0-9]+)\/(([0-9]+)_([a-z0-9]+)).pdf$/.exec(pathname)) !== null) {
     // http://www.sgmjournals.org.gate1.inist.fr/docserver/fulltext/ijsem/65/8/2410_ijs000272.pdf //?expires=1442326648&id=id&accname=sgid024696&checksum=A5D313D11B167AB2B10D11EAC5EC7C13
- 
+
     result.rtype = 'ARTICLE';
     result.mime  = 'PDF';
     //result.title_id = match[4];
@@ -121,20 +121,20 @@ module.exports = new Parser(function analyseEC(parsedUrl, ec) {
     result.doi = '10.1099/' + match[7];
   } else if ((match = /^\/content\/([a-z]+)\/([0-9]+)\/([0-9a-zA-Z\.]+)\.(abstract|full|full\.pdf)$/.exec(pathname)) !== null) {
     // http://www.bmj.com.gate1.inist.fr/content/bmj/343/bmj.d4464.full.pdf
-  switch (match[4]) {
-    case 'abstract':
-      result.rtype = 'ABS';
-      result.mime  = 'HTML';
-      break;
-    case 'full':
-      result.rtype = 'ARTICLE';
-      result.mime  = 'HTML';
-      break;
-    case 'full.pdf':
-      result.rtype = 'ARTICLE';
-      result.mime  = 'PDF';
-      break;
-    }
+    switch (match[4]) {
+  case 'abstract':
+    result.rtype = 'ABS';
+    result.mime  = 'HTML';
+    break;
+  case 'full':
+    result.rtype = 'ARTICLE';
+    result.mime  = 'HTML';
+    break;
+  case 'full.pdf':
+    result.rtype = 'ARTICLE';
+    result.mime  = 'PDF';
+    break;
+  }
 
     //result.title_id = match[4];
     result.unitid = match[3];
@@ -143,20 +143,20 @@ module.exports = new Parser(function analyseEC(parsedUrl, ec) {
   } else if ((match = /^\/content\/([a-z]+)\/([a-z]+)\/([0-9]{4})\/([0-9]{2})\/([0-9]{2})\/([0-9a-zA-Z\-]+)\.(abstract|full|full\.pdf)$/.exec(pathname)) !== null) {
     // http://www.bloodjournal.org.gate1.inist.fr/content/bloodjournal/early/2015/02/25/blood-2014-10-608596.full.pdf
 
-  switch (match[7]) {
-    case 'abstract':
-      result.rtype = 'ABS';
-      result.mime  = 'HTML';
-      break;
-    case 'full':
-      result.rtype = 'ARTICLE';
-      result.mime  = 'HTML';
-      break;
-    case 'full.pdf':
-      result.rtype = 'ARTICLE';
-      result.mime  = 'PDF';
-      break;
-    }
+    switch (match[7]) {
+  case 'abstract':
+    result.rtype = 'ABS';
+    result.mime  = 'HTML';
+    break;
+  case 'full':
+    result.rtype = 'ARTICLE';
+    result.mime  = 'HTML';
+    break;
+  case 'full.pdf':
+    result.rtype = 'ARTICLE';
+    result.mime  = 'PDF';
+    break;
+  }
 
     //result.title_id = match[4];
     result.unitid = match[2] +'/' + match[3] + '/' + match[4] +'/' + match[5] + '/' + match[6];

@@ -10,7 +10,7 @@ var Parser = require('../.lib/parser.js');
 module.exports = new Parser(function analyseEC(parsedUrl) {
   var result = {};
   var path   = parsedUrl.pathname;
-  var param  = parsedUrl.query || {};
+  var param  = parsedUrl.query || {};
   var match;
 
   if ((match = /^\/([0-9\.]+)\/([0-9]+)\/([0-9]+)\/[a-z0-9\-]+\.pdf$/.exec(path)) !== null) {
@@ -18,14 +18,14 @@ module.exports = new Parser(function analyseEC(parsedUrl) {
     result.rtype    = 'ARTICLE';
     result.mime     = 'PDF';
     result.doi      = match[1] + '/' + match[3];
-    
+
   } else if ((match = /^\/([0-9]+)\/([0-9]+)\/([a-z]+)\/([a-z0-9]+\.pdf)$/.exec(path)) !== null) {
     // /1120000/1113378/fm/frontmatter.pdf
     result.rtype    = 'ARTICLE';
     result.mime     = 'PDF';
     result.title_id = match[3];
     result.unitid      = match[3] + '/' + match[4];
-    
+
   } else if ((match = /^\/([a-z]+).cfm$/.exec(path)) !== null) {
     // detail.cfm
 
@@ -36,7 +36,7 @@ module.exports = new Parser(function analyseEC(parsedUrl) {
       result.mime     = 'MISC';
     }
     if (param.id) {
-    result.unitid = param.id;
+      result.unitid = param.id;
     }
   }
 

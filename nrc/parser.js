@@ -17,7 +17,7 @@ module.exports = new Parser(function analyseEC(parsedUrl, ec) {
   var result = {};
   var path   = parsedUrl.pathname;
   // uncomment this line if you need parameters
-  // var param  = parsedUrl.query || {};
+  // var param  = parsedUrl.query || {};
 
 
   var match;
@@ -39,22 +39,22 @@ module.exports = new Parser(function analyseEC(parsedUrl, ec) {
     // http://www.nrcresearchpress.com/doi/abs/10.1139/O09-044#.Vqcj0vnhBaQ
     result.unitid   = match[3].split('#')[0];
     result.doi = match[2] + '/' + result.unitid ;
-    
+
     result.rtype    = 'ARTICLE';
     result.mime     = 'PDF';
-    switch(match[1]){
-      case 'abs':
-        result.mime     = 'MISC';
-        result.rtype    = 'ABS';
-        break;
-      case 'full':
-        result.mime     = 'HTML';
-        break;
-      case 'pdfplus':
-        result.mime     = 'PDFPLUS';
-        break;  
+    switch (match[1]) {
+    case 'abs':
+      result.mime     = 'MISC';
+      result.rtype    = 'ABS';
+      break;
+    case 'full':
+      result.mime     = 'HTML';
+      break;
+    case 'pdfplus':
+      result.mime     = 'PDFPLUS';
+      break;
     }
-  
+
   }
 
   return result;

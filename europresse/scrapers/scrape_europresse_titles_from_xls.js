@@ -17,7 +17,7 @@ var json;
 for (var i = 0, j = xlsx.SheetNames.length; i < j; i++) {
   var sheet = xlsx.Sheets[xlsx.SheetNames[i]];
 
-  json = XLSX.utils.sheet_to_json(sheet, { header: "A" });
+  json = XLSX.utils.sheet_to_json(sheet, { header: 'A' });
   if (json.length > 0) { break; }
 }
 
@@ -32,9 +32,9 @@ pkb.setKbartName();
 for (var l = 0; l < json.length; l++) {
   var kbartRow = pkb.initRow({});
 
-  if (json[l]['A']) {kbartRow.publication_title = json[l]['A']; }
-  if (json[l]['B']) {kbartRow.print_identifier = json[l]['B']; }
-  if (json[l]['C']) {kbartRow.title_id = json[l]['C']; }
+  if (json[l]['A']) { kbartRow.publication_title = json[l]['A']; }
+  if (json[l]['B']) { kbartRow.print_identifier = json[l]['B']; }
+  if (json[l]['C']) { kbartRow.title_id = json[l]['C']; }
 
   pkb.addRow(kbartRow);
 }

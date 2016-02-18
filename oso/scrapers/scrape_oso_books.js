@@ -26,7 +26,7 @@ request.get(url)
     fileContent += String.fromCharCode(chunk[i]);
   }
 }).on('end', function () {
-  var xls = XLS.read(fileContent, { type: "binary" });
+  var xls = XLS.read(fileContent, { type: 'binary' });
   var json;
 
   for (var i = 0, j = xls.SheetNames.length; i < j; i++) {

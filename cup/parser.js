@@ -8,7 +8,7 @@ var Parser = require('../.lib/parser.js');
 
 module.exports = new Parser(function analyseEC(parsedUrl) {
   var result = {};
-  var param  = parsedUrl.query || {};
+  var param  = parsedUrl.query || {};
   var url    = parsedUrl.href;
 
   if (param.url) {
@@ -24,8 +24,8 @@ module.exports = new Parser(function analyseEC(parsedUrl) {
   if (match) {
     switch (match[1]) {
     case 'displayJournal':
-       result.unitid =param.jid;
-        result.rtype = 'TOC';
+      result.unitid =param.jid;
+      result.rtype = 'TOC';
       result.mime  = 'MISC';
 
       break;
@@ -37,7 +37,7 @@ module.exports = new Parser(function analyseEC(parsedUrl) {
       break;
     case 'displayIssue':
       // http://journals.cambridge.org.gate1.inist.fr/action/displayIssue?decade=2010&jid=VNS&volumeId=27&issueId=3-4&iid=7880012
-     
+
       result.rtype = 'TOC';
       result.mime  = 'MISC';
       result.unitid =param.iid;

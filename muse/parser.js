@@ -9,13 +9,13 @@ var Parser = require('../.lib/parser.js');
 
 module.exports = new Parser(function analyseEC(parsedUrl) {
   var result = {};
-  var param  = parsedUrl.query || {};
+  var param  = parsedUrl.query || {};
 
   var match;
 
   if ((match = /^\/journals\/(([^\/]+)\/(toc|summary)\/(.*)).html$/.exec(parsedUrl.pathname)) !== null) {
     // http://muse.jhu.edu/journals/george_herbert_journal/toc/ghj.34.1-2.html
-    
+
     result.unitid   = match[1];
     result.title_id = match[2];
     //result.print_identifier = match[1] + '-' + match[2];

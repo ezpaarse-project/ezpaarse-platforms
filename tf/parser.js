@@ -24,19 +24,19 @@ module.exports = new Parser(function analyseEC(parsedUrl, ec) {
     result.unitid = match[3];
 
     if (/^[0-9]{8}/.test(match[3])) {
-      result.print_identifier = match[3].substr(0,4) + '-' + match[3].substr(4,4);
+      result.print_identifier = match[3].substr(0, 4) + '-' + match[3].substr(4, 4);
       result.title_id = result.print_identifier;
     }
 
-    if (match[1].toUpperCase() == "FULL") {
+    if (match[1].toUpperCase() == 'FULL') {
       // http://www.tandfonline.com.bases-doc.univ-lorraine.fr/doi/full/10.1080/17400309.2013.861174#abstract
       result.rtype = 'ARTICLE';
       result.mime  = 'HTML';
-    } else if (match[1].toUpperCase() == "PDF") {
+    } else if (match[1].toUpperCase() == 'PDF') {
       // http://www.tandfonline.com:80/doi/pdf/10.1080/17400309.2013.861174
       result.rtype = 'ARTICLE';
       result.mime  = 'PDF';
-    } else if (match[1].toUpperCase() == "ABS") {
+    } else if (match[1].toUpperCase() == 'ABS') {
       // http://www.tandfonline.com:80/doi/abs/10.1080/00039420412331273295
       result.rtype = 'ABS';
       result.mime  = 'HTML';

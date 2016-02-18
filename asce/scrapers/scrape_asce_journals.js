@@ -48,13 +48,13 @@ function getJournalInfo(journalUrl, cb) {
                    //.filter(function() {
                    //  return this.nodeType == 3; //Node.TEXT_NODE;
                    //})
-                   .text().replace(/\n|\r/g, "").replace(/ /g,"");
-    var printISSN = "";
-    if (issnInfo.match(/^ISSN/)){
-      printISSN = issnInfo.replace(/^ISSN:/, "").replace(/eISSN.*/, "");
+                   .text().replace(/\n|\r/g, '').replace(/ /g,'');
+    var printISSN = '';
+    if (issnInfo.match(/^ISSN/)) {
+      printISSN = issnInfo.replace(/^ISSN:/, '').replace(/eISSN.*/, '');
     }
-    var onlineISSN = issnInfo.replace(/^(ISSN.*)?eISSN:/, "");
-    console.log(printISSN + " -- " + onlineISSN);
+    var onlineISSN = issnInfo.replace(/^(ISSN.*)?eISSN:/, '');
+    console.log(printISSN + ' -- ' + onlineISSN);
     journalInfo.print_identifier = printISSN;
     journalInfo.online_identifier = onlineISSN;
     journalInfo.title_id   = journalUrl.split('/').pop();

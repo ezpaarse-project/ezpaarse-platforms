@@ -41,13 +41,13 @@ request.get('http://www.oxfordhandbooks.com/page/title-lists', function (err, re
     }
   }).on('end', function () {
 
-    var xlsx = XLSX.read(fileContent, { type: "binary" });
+    var xlsx = XLSX.read(fileContent, { type: 'binary' });
     var json;
 
     for (var i = 0, j = xlsx.SheetNames.length; i < j; i++) {
       var sheet = xlsx.Sheets[xlsx.SheetNames[i]];
 
-      json = XLSX.utils.sheet_to_json(sheet, { header: "A" });
+      json = XLSX.utils.sheet_to_json(sheet, { header: 'A' });
       if (json.length > 0) { break; }
     }
 

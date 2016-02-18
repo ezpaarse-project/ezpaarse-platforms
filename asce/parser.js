@@ -40,7 +40,7 @@ module.exports = new Parser(function analyseEC(parsedUrl, ec) {
     result.unitid = match[2];
     result.online_identifier = match[3];
 
-    switch(match[1]) {
+    switch (match[1]) {
     case 'abs':
       result.rtype = 'ABS';
       result.mime  = 'HTML';

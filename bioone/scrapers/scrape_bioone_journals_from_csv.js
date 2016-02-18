@@ -35,8 +35,8 @@ var parser = csvParse({ delimiter: ',', columns: true});
 
 request.get({ uri: journalsUrl }).pipe(parser)
 .on('error', function (err) {
-    console.error(err);
-    process.exit(1);
+  console.error(err);
+  process.exit(1);
 })
 .on('readable', function () {
 

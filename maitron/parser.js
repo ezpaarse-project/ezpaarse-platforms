@@ -17,36 +17,36 @@ module.exports = new Parser(function analyseEC(parsedUrl, ec) {
   var result = {};
   var path   = parsedUrl.pathname;
   // uncomment this line if you need parameters
-  var param  = parsedUrl.query || {};
+  var param  = parsedUrl.query || {};
 
   // use console.error for debuging
 
   var match;
 
-  // extraire le 1er arguement dans liste des paramétres 
+  // extraire le 1er arguement dans liste des paramétres
   var elt;
-  for (elt in param){
+  for (elt in param) {
     //console.error(elt);
     break;
   }
 
   if ((match = /^\/(([a-z]+)).php$/.exec(path)) !== null) {
    // http://maitron-en-ligne.univ-paris1.fr.proxy.scd.univ-lille3.fr/spip.php?article170943&id_mot=9745
-    //http://maitron-en-ligne.univ-paris1.fr:80/spip.php?page=recherche&lang=fr&choix=2&recherche=raymond+mahoudeaux&OK=OK 
+    //http://maitron-en-ligne.univ-paris1.fr:80/spip.php?page=recherche&lang=fr&choix=2&recherche=raymond+mahoudeaux&OK=OK
     result.unitid   = match[1];
 
-    if((match = /article*/.exec(elt)) !== null){
-    result.rtype    = 'ARTICLE';
-    result.mime     = 'HTML';
+    if ((match = /article*/.exec(elt)) !== null) {
+      result.rtype    = 'ARTICLE';
+      result.mime     = 'HTML';
 
-    result.title_id = elt;   
+      result.title_id = elt;
     //unitid is a crucial information needed to filter double-clicks phenomenon, like described by COUNTER
     //it described the most fine-grained of what's being accessed by the user
     //it can be a DOI, an internal identifier or a part of the accessed URL
     //see http://ezpaarse.couperin.org/doc/ec-attributes.html#description-de-unitid for more details
-    result.unitid   = elt;
+      result.unitid   = elt;
     }
-  } 
+  }
 
   return result;
 });

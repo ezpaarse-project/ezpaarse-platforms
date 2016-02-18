@@ -17,7 +17,7 @@ module.exports = new Parser(function analyseEC(parsedUrl, ec) {
   var result = {};
   var path   = parsedUrl.pathname;
   // uncomment this line if you need parameters
-  // var param  = parsedUrl.query || {};
+  // var param  = parsedUrl.query || {};
 
   // use console.error for debuging
   // console.error(parsedUrl);
@@ -62,7 +62,7 @@ module.exports = new Parser(function analyseEC(parsedUrl, ec) {
       result.mime     = 'HTML';
       result.unitid   = match[4]+'.'+ match[5]+'-'+ match[7];
       break;
-    
+
     case 'pdf':
       // http://press.endocrine.org/doi/pdf/10.1210/jc.2014-4153
       result.rtype = 'ARTICLE';
@@ -93,26 +93,26 @@ module.exports = new Parser(function analyseEC(parsedUrl, ec) {
     }
 
     result.title_id = match[4];
-   }else   if ((match = /^\/doi\/([0-9]{2}).([0-9]+)\/([A-Z1-9]+).([0-9]+)$/.exec(path)) !== null) {
+  } else   if ((match = /^\/doi\/([0-9]{2}).([0-9]+)\/([A-Z1-9]+).([0-9]+)$/.exec(path)) !== null) {
     //http://press.endocrine.org/doi/10.1210/MN1.9781936704842
-    result.rtype    = 'TOC';
-    result.mime     = 'MISC';
-    result.title_id = match[4];
-    result.unitid  = match[3]+'.'+ match[4];
-    result.doi =  match[1]+'.'+ match[2] +'/'+ match[3]+'.'+ match[4];
-  }else   if ((match = /^\/doi\/([a-z]+)\/([0-9]{2}).([0-9]+)\/([A-Z1-9]+).([0-9]+).([a-z0-9]+)$/.exec(path)) !== null) {
-    
+     result.rtype    = 'TOC';
+     result.mime     = 'MISC';
+     result.title_id = match[4];
+     result.unitid  = match[3]+'.'+ match[4];
+     result.doi =  match[1]+'.'+ match[2] +'/'+ match[3]+'.'+ match[4];
+   } else   if ((match = /^\/doi\/([a-z]+)\/([0-9]{2}).([0-9]+)\/([A-Z1-9]+).([0-9]+).([a-z0-9]+)$/.exec(path)) !== null) {
+
     switch (match[1]) {
-      case 'abs':
+    case 'abs':
           // http://press.endocrine.org/doi/abs/10.1210/MN1.9781936704842.ch4
-         result.rtype    = 'ABS';
-         result.mime     = 'MISC';
-        break;
-      case 'full':
+      result.rtype    = 'ABS';
+      result.mime     = 'MISC';
+      break;
+    case 'full':
         //http://press.endocrine.org/doi/full/10.1210/MN1.9781936704842.ch4
-        result.rtype    = 'BOOK_SECTION';
-        result.mime     = 'MISC';
-        break;
+      result.rtype    = 'BOOK_SECTION';
+      result.mime     = 'MISC';
+      break;
     }
     result.title_id = match[5];
     result.unitid  =  match[4]+'.'+ match[5]+'.'+ match[6];

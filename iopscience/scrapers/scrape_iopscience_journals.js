@@ -24,8 +24,8 @@ var fs = require('fs');
 // entry point: the 'Linking information' page where we scrape the last KBART file adress
 var infoPage = 'http://iopscience.iop.org/page/Linking';
 
-function downloadKBARTFile(url){
-  var pkbfile = fs.createWriteStream("../../platforms-kb/iopscience/iopscience_2014-04-22.txt");
+function downloadKBARTFile(url) {
+  var pkbfile = fs.createWriteStream('../../platforms-kb/iopscience/iopscience_2014-04-22.txt');
   http.get(url, function(response) {
     response.pipe(pkbfile);
   });
@@ -38,7 +38,7 @@ request(infoPage, function (error, response, body) {
     //console.log("found kbart url : " + kbartUrl);
     downloadKBARTFile(kbartUrl);
   } else {
-    console.log("Unable to request " + infoPage + " : " + error);
+    console.log('Unable to request ' + infoPage + ' : ' + error);
   }
 });
 

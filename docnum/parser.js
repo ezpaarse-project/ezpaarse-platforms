@@ -8,7 +8,7 @@ var Parser = require('../.lib/parser.js');
 
 module.exports = new Parser(function analyseEC(parsedUrl) {
   var result = {};
-  //var param  = parsedUrl.query || {};
+  //var param  = parsedUrl.query || {};
   var path   = parsedUrl.pathname;
 
   var match;
@@ -24,7 +24,7 @@ module.exports = new Parser(function analyseEC(parsedUrl) {
     else if (match[4] == 'DiplomeEtat') { result.rtype = 'MD_MEMOIRE'; }
     result.mime  = 'PDF';
     result.unitid = match[2];
-    if ( /\d{4}/.test(match[5]) ) { result.year = match[5]; }
+    if (/\d{4}/.test(match[5])) { result.year = match[5]; }
     else { result.discipline = match[5]; }
     result.title_id = match[6];
   } else if ((match = /^\/(public|prive)\/(INPL_(T_)?(\d{4})(.*\.pdf))$/.exec(path)) !== null) {
@@ -106,11 +106,11 @@ module.exports = new Parser(function analyseEC(parsedUrl) {
     // /public/SCDSCI_M_2011_PICAUDE_MATHIEU.pdf
     // /public/SCDMED_MORT_2010_MAURICE_BOULANGER_STEPHANIE.pdf
     result.institution = 'UHP';
-    if ( match[4] == 'MAUDIO' || match[4] == 'MESF' || match[4] == 'MIBODE' || match[4] == 'MINF' || match[4] == 'MORT' ){
+    if (match[4] == 'MAUDIO' || match[4] == 'MESF' || match[4] == 'MIBODE' || match[4] == 'MINF' || match[4] == 'MORT') {
       result.rtype = 'MD_MEMOIRE';
-    } else if (match[4] == 'HDR'){
+    } else if (match[4] == 'HDR') {
       result.rtype = 'HABILITATION_THESIS';
-    } else if ( match[4] == 'M' || match[4] == 'MING' || match[4] == 'CNAM' ){
+    } else if (match[4] == 'M' || match[4] == 'MING' || match[4] == 'CNAM') {
       result.rtype = 'MASTER_THESIS';
     }
     result.mime  = 'PDF';
@@ -123,17 +123,17 @@ module.exports = new Parser(function analyseEC(parsedUrl) {
     // /public/BUE_MING_2012_CHAMPILOU_VINCENT_COUTANT_BASTIEN.pdf
     // /public/BUMED_MESF_2013_BIBLOT_PHILIPPINE.pdf
     result.institution = 'UL';
-    if ( match[4] == 'MAUDIO' ||
+    if (match[4] == 'MAUDIO' ||
          match[4] == 'MESF' ||
          match[4] == 'MIBODE' ||
          match[4] == 'MINF' ||
-         match[4] == 'MORT' ) {
+         match[4] == 'MORT') {
       result.rtype = 'MD_MEMOIRE';
-    } else if (match[4] == 'HDR'){
+    } else if (match[4] == 'HDR') {
       result.rtype = 'HABILITATION_THESIS';
-    } else if ( match[4] == 'M' ||
+    } else if (match[4] == 'M' ||
                 match[4] == 'MING' ||
-                match[4] == 'CNAM' ){
+                match[4] == 'CNAM') {
       result.rtype = 'MASTER_THESIS';
     } else {
       result.rtype = match[4];

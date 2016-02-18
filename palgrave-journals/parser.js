@@ -26,7 +26,7 @@ module.exports = new Parser(function analyseEC(parsedUrl, ec) {
     // http://www.palgrave-journals.com/ap/journal/v49/n2/pdf/ap20139a.pdf
 
     result.title_id = match[1];
-    result.unitid   = match[1] + (match[3] || match[2]);
+    result.unitid   = match[1] + (match[3] || match[2]);
 
     switch (match[2]) {
     case 'index':

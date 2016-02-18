@@ -8,7 +8,7 @@ var Parser = require('../.lib/parser.js');
 
 module.exports = new Parser(function analyseEC(parsedUrl) {
   var result = {};
-  var param  = parsedUrl.query || {};
+  var param  = parsedUrl.query || {};
   var url    = parsedUrl.href;
   var domain = parsedUrl.hostname;
   var date ;
@@ -35,7 +35,7 @@ module.exports = new Parser(function analyseEC(parsedUrl) {
   } else if ((match = /\/articles\/([a-zA-Z0-9]+)\/(abs|full_html|ref)\/([0-9]{4}\/[0-9]{2}|first)(\/[a-z0-9\-]+)(\/[a-z0-9\-]+)?\/[a-z0-9A-Z\-]+.html$/.exec(url)) !== null) {
     date = match[3].split('/')[0];
     if (!isNaN(date)) {
-    result.publication_date = date;
+      result.publication_date = date;
     }
     result.title_id =  match[1] ;
     switch (match[2]) {
@@ -44,7 +44,7 @@ module.exports = new Parser(function analyseEC(parsedUrl) {
       result.unitid = match[1] + '/'  + match[3] + match[4];
       result.rtype = 'ABS';
       result.mime = 'MISC';
-     
+
       break;
     case 'full_html':
       // example : http://www.apidologie.org/index.php?option=com_article&url=/articles/apido/full_html/2010/06/m08176/m08176.html
@@ -52,14 +52,14 @@ module.exports = new Parser(function analyseEC(parsedUrl) {
       result.unitid = match[1] + '/'  + match[3] + match[4];
       result.rtype = 'ARTICLE';
       result.mime = 'HTML';
-      
+
       break;
     case 'ref':
       // example http://www.apidologie.org/index.php?option=com_article&url=/articles/apido/ref/2010/06/m09075/m09075.html
       result.unitid = match[1] + '/'  + match[3] + match[4];
       result.rtype = 'REF';
       result.mime = 'MISC';
-    
+
       break;
     }
   } else if ((match = /\/articles\/([a-zA-Z0-9]+)\/pdf\/([0-9]{4}\/[0-9]{2}|first)\/(([a-z]+)([0-9]+)).pdf$/.exec(url)) !== null) {
@@ -68,10 +68,10 @@ module.exports = new Parser(function analyseEC(parsedUrl) {
     result.rtype = 'ARTICLE';
     result.mime = 'PDF';
     result.publication_date = match[2].split('/')[0];
-    
+
     result.title_id =  match[1] ;
-    if (match[1] == match[4] ) {
-        result.doi = "10.1051/" + match[4] + "/" + match[5];
+    if (match[1] == match[4]) {
+      result.doi = '10.1051/' + match[4] + '/' + match[5];
     }
   } else if ((match = /\/articles\/([a-zA-Z0-9]+)\/pdf\/([0-9]{4}\/[0-9]{2}|first)\/(([a-z]+)(([0-9]{4})([^.]+))).pdf$/.exec(url)) !== null) {
     // example : http://www.apidologie.org/articles/apido/pdf/2010/06/m08176.pdf
@@ -79,9 +79,9 @@ module.exports = new Parser(function analyseEC(parsedUrl) {
     result.rtype = 'ARTICLE';
     result.mime = 'PDF';
     result.publication_date = match[2].split('/')[0];
-    
+
     result.title_id =  match[1] ;
-   
+
   }  else {
     if ((match = /\/action\/([a-zA-Z]+)/.exec(url)) !== null) {
       switch (match[1]) {

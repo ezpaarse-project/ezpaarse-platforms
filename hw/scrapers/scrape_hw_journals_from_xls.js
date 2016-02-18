@@ -112,7 +112,7 @@ function scrapeGSW(callback) {
       if (tds.first().text().toLowerCase().includes('journal title')) {
         columns = [];
         tds.each((i, e) => {
-          switch($(e).text().toLowerCase()) {
+          switch ($(e).text().toLowerCase()) {
           case 'journal title':
             columns.push('publication_title');
             break;

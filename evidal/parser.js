@@ -17,7 +17,7 @@ module.exports = new Parser(function analyseEC(parsedUrl, ec) {
   var result = {};
   var path   = parsedUrl.pathname;
   // uncomment this line if you need parameters
-   var param  = parsedUrl.query || {};
+  var param  = parsedUrl.query || {};
 
   // use console.error for debuging
   // console.error(parsedUrl);
@@ -29,15 +29,15 @@ module.exports = new Parser(function analyseEC(parsedUrl, ec) {
     //http://www.evidal.fr/showReco.html?recoId=4048
     result.rtype    = 'ARTICLE';
     result.mime     = 'HTML';
-    if(param.recoId){
+    if (param.recoId) {
       result.title_id = param.recoId;
       result.unitid   = param.recoId;
-    }else if(param.productId){
+    } else if (param.productId) {
       result.title_id = param.productId;
       result.unitid   = param.productId;
     }
-    
-  } 
+
+  }
 
   return result;
 });

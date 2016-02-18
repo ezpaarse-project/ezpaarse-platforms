@@ -42,7 +42,7 @@ var PkbRows = function(providerName) {
     } else {
       console.log(__filename, self.argv.$0);
       self.providerName = 'default_platform';
-      if (self.argv.verbose) { 
+      if (self.argv.verbose) {
         console.error("Warning : using platform name " + self.providerName);
       }
     }
@@ -86,8 +86,8 @@ PkbRows.prototype.setKbartName = function (filename) {
   if (self.argv.verbose && fs.existsSync(self.kbartFileName) && self.argv.force) {
     if (self.argv.force) { console.error("Overwriting ..."); }
   }
-  if ((fs.existsSync(self.kbartFileName) && 
-    self.argv.force) || 
+  if ((fs.existsSync(self.kbartFileName) &&
+    self.argv.force) ||
     ! fs.existsSync(self.kbartFileName)) {
     self.dstStream = fs.openSync(self.kbartFileName, "w", function() {});
   } else {
@@ -119,8 +119,8 @@ PkbRows.prototype.addRow = function (row, deduplicateFn) {
       row.print_identifier = row.print_identifier.trim().toUpperCase();
     }
     // check ISSN/ISBN syntax and set it to blank if wrong
-    if (row.print_identifier === 'N/A' || 
-        row.print_identifier === 'EN COURS' || 
+    if (row.print_identifier === 'N/A' ||
+        row.print_identifier === 'EN COURS' ||
         row.print_identifier === 'UNKNOWN') {
       row.print_identifier = '';
     }
@@ -135,7 +135,7 @@ PkbRows.prototype.addRow = function (row, deduplicateFn) {
   }
 
   if (row.online_identifier !== undefined) {
-    if (row.online_identifier !== undefined) { 
+    if (row.online_identifier !== undefined) {
       row.online_identifier = row.online_identifier.trim().toUpperCase();
     }
     if (row.online_identifier === 'N/A' ||
@@ -278,7 +278,7 @@ PkbRows.prototype.writeKbart = function (callback) {
   var fields    = [];
   var dstStream = fs.createWriteStream(self.kbartFileName);
 
-  if (self.rows.length === 0) { return callback(); }
+  if (self.rows.length === 0) { return callback(); }
 
   fields = Object.keys(self.rows[0]);
   fields.forEach(function (field, idx) {
@@ -380,7 +380,7 @@ PkbRows.prototype.getKbartFromKBPlus = function (KBPlusPkg, callback) {
       if (jsonRow.hostPlatformURL) {
         journalInfo.title_url = jsonRow.hostPlatformURL;
         var titleUrlParts;
-        if ((titleUrlParts = 
+        if ((titleUrlParts =
           /(^http:\/\/www\.sciencedirect\.com\/science\/(?:journal|bookseries)\/(aip\/)?([^\/]+))$/
           .exec(jsonRow.hostPlatformURL) )) {
           // make title_id from parts of titleUrl
@@ -388,11 +388,11 @@ PkbRows.prototype.getKbartFromKBPlus = function (KBPlusPkg, callback) {
           // "titleUrl":"http://www.sciencedirect.com/science/journal/22126716"
           //console.error(titleUrlParts);
           journalInfo.title_id = titleUrlParts[3];
-        } else if ((titleUrlParts = 
+        } else if ((titleUrlParts =
           /^http:\/\/((www\.)?(.*)\.(org|fr))\//.exec(jsonRow.hostPlatformURL) )) {
           // make title_id from domain name
           // ex : edp science
-          // "titleUrl": "http://www.europhysicsnews.org/"    
+          // "titleUrl": "http://www.europhysicsnews.org/"
           // console.error(titleUrlParts);
           journalInfo.title_id = titleUrlParts[1];
         }

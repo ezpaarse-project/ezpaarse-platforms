@@ -17,7 +17,7 @@ module.exports = new Parser(function analyseEC(parsedUrl, ec) {
   var result = {};
   var path   = parsedUrl.pathname;
   // uncomment this line if you need parameters
-  var param  = parsedUrl.query || {};
+  var param  = parsedUrl.query || {};
 
   var match;
 
@@ -31,7 +31,7 @@ module.exports = new Parser(function analyseEC(parsedUrl, ec) {
     // docserver/00224200/v35n4_splitsection3.pdf
     result.rtype            = 'ARTICLE';
     result.mime             = 'PDF';
-    result.print_identifier = match[1].substr(0,4) + '-' +  match[1].substr(4,4);
+    result.print_identifier = match[1].substr(0, 4) + '-' +  match[1].substr(4, 4);
     result.vol              = match[3];
     result.issue            = match[4];
     result.unitid           = match[1] + '/' + match[2];
@@ -39,7 +39,7 @@ module.exports = new Parser(function analyseEC(parsedUrl, ec) {
     // content/journals/15700666/35/4
     result.rtype            = 'TOC';
     result.mime             = 'HTML';
-    result.print_identifier = match[3].substr(0,4) + '-' +  match[3].substr(4,4);
+    result.print_identifier = match[3].substr(0, 4) + '-' +  match[3].substr(4, 4);
     result.vol              = match[4];
     result.issue            = match[5];
     result.unitid           = match[2];
@@ -59,15 +59,15 @@ module.exports = new Parser(function analyseEC(parsedUrl, ec) {
   } else if ((match = /^\/(deliver|docserver)\/([0-9]+)\/([0-9]+)\/([0-9]+)\/([0-9A-Za-z\_]+).(pdf|html)$/.exec(path)) !== null) {
     //deliver/17087384/4/3/17087384_004_03_S02_text.pdf
     result.rtype = 'ARTICLE';
-    if (match[6] === "pdf") {
+    if (match[6] === 'pdf') {
       result.mime     = 'PDF';
     } else {
       result.mime     = 'HTML';
     }
-    result.print_identifier = match[2].substr(0,4) + '-' + match[2].substr(4,4);
+    result.print_identifier = match[2].substr(0, 4) + '-' + match[2].substr(4, 4);
     result.vol              = match[3];
     result.issue            = match[4];
-    result.unitid           = match[5].replace('_text' , '');
+    result.unitid           = match[5].replace('_text', '');
   }
 
   return result;

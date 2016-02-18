@@ -16,7 +16,7 @@ var Parser = require('../.lib/parser.js');
 module.exports = new Parser(function analyseEC(parsedUrl, ec) {
   var result = {};
   var path   = parsedUrl.pathname;
-  var param  = parsedUrl.query || {};
+  var param  = parsedUrl.query || {};
 
   // use console.error for debuging
   // console.error(parsedUrl);
@@ -38,7 +38,7 @@ module.exports = new Parser(function analyseEC(parsedUrl, ec) {
   } else if ((match = /^\/WebPages\/Search\/Doc.aspx$/.exec(path)) !== null) {
     // http://www.bpe.europresse.com.bases-doc.univ-lorraine.fr/WebPages/Search/Doc.aspx?
     // DocName=news%C2%B720140606%C2%B7ML%C2%B76225112&ContainerType=SearchResult
-    // 
+    //
     // http://www.bpe.europresse.com.bases-doc.univ-lorraine.fr/WebPages/Search/Doc.aspx?
     // DocName=bio%C2%B7EVI%C2%B72944&ContainerType=SearchResultBio
     result.rtype    = 'ARTICLE';
@@ -47,9 +47,9 @@ module.exports = new Parser(function analyseEC(parsedUrl, ec) {
       idElements = param.DocName.split('·');
       //console.error(idElements);
       result.unitid   = param.DocName;
-      if (param.ContainerType === "SearchResult") {
+      if (param.ContainerType === 'SearchResult') {
         result.title_id = idElements[2].replace('_p', '');
-      } else if (param.ContainerType === "SearchResultBio") {
+      } else if (param.ContainerType === 'SearchResultBio') {
         result.title_id = idElements[1];
       }
     }

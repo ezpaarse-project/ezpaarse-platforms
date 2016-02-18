@@ -26,13 +26,13 @@ module.exports = new Parser(function analyseEC(parsedUrl, ec) {
 
   if ((match = /^\/search\/publication$/.exec(path)) !== null) {
       // https://www.openaire.eu/search/publication?articleId=od_______645::dbee9ee47425380c109cbd31dfdaa026
-          if (param['articleId']) {
+    if (param['articleId']) {
             result.title_id = param['articleId'];
             result.unitid = param['articleId'];
           }
     result.rtype    = 'ARTICLE';
     result.mime     = 'MISC';
-  } 
+  }
   return result;
 });
 

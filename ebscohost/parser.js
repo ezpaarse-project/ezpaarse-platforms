@@ -16,7 +16,7 @@ var Parser = require('../.lib/parser.js');
 module.exports = new Parser(function analyseEC(parsedUrl, ec) {
   var result = {};
   var path   = parsedUrl.pathname;
-  var param  = parsedUrl.query || {};
+  var param  = parsedUrl.query || {};
 
   // use console.error for debuging
   // console.error(parsedUrl);
@@ -26,7 +26,7 @@ module.exports = new Parser(function analyseEC(parsedUrl, ec) {
 
   if (parsedUrl.hash) {
     var URL  = require('url');
-    hashedUrl = URL.parse(parsedUrl.hash.replace("#","/?"), true);
+    hashedUrl = URL.parse(parsedUrl.hash.replace('#','/?'), true);
   }
 
   if ((match = /^\/pdf(.*)\/pdf\/(([^ ]+)\/([^\/]+))\.pdf$/.exec(path)) !== null) {
@@ -46,7 +46,7 @@ module.exports = new Parser(function analyseEC(parsedUrl, ec) {
     // sid=6323ca41-66ca-4e71-a8d9-c2a2cae26f16%40sessionmgr110&vid=4&hid=103
     result.rtype    = 'ARTICLE';
     result.mime     = 'PDF';
-    result.unitid = param.hid +"/"+ param.vid;
+    result.unitid = param.hid +'/'+ param.vid;
   } else if ((match = /^\/ContentServer.asp$/.exec(path)) !== null) {
     // http://content.ebscohost.com:80/ContentServer.asp?T=P&P=AN&K=96283258&S=R&
     // D=aph&EbscoContent=dGJyMNLe80SeqK84v%2BvlOLCmr0yep65Srqi4S7CWxWXS&
@@ -54,7 +54,7 @@ module.exports = new Parser(function analyseEC(parsedUrl, ec) {
     result.rtype    = 'ARTICLE';
     result.mime     = 'PDF';
     if (param.K) { result.title_id = param.K;
-    result.unitid= param.K; }
+      result.unitid= param.K; }
   } else if ((match = /^\/ehost\/(results|detail)$/.exec(path)) !== null) {
     // https://web-ebscohost-com.frodon.univ-paris5.fr/ehost/results?
     // sid=6323ca41-66ca-4e71-a8d9-c2a2cae26f16%40sessionmgr110&vid=2&
@@ -64,24 +64,24 @@ module.exports = new Parser(function analyseEC(parsedUrl, ec) {
     // https://web-ebscohost-com.frodon.univ-paris5.fr/ehost/detail?
     // sid=6323ca41-66ca-4e71-a8d9-c2a2cae26f16%40sessionmgr110&vid=1&
     // hid=103&bdata=Jmxhbmc9ZnImc2l0ZT1laG9zdC1saXZl#db=rzh&jid=CLB
-    // 
+    //
     // https://web-ebscohost-com.frodon.univ-paris5.fr/ehost/detail?
     // vid=3&sid=6323ca41-66ca-4e71-a8d9-c2a2cae26f16%40sessionmgr110&
     // hid=103&bdata=Jmxhbmc9ZnImc2l0ZT1laG9zdC1saXZl#db=rzh&AN=2012317453
     if (match[1] === 'results') {
       result.rtype    = 'TOC';
-      result.unitid =  param.hid +"/"+ param.vid;
+      result.unitid =  param.hid +'/'+ param.vid;
     } else if (hashedUrl && hashedUrl.query.db) { // detail
       result.rtype    = 'ABS';
       result.unitid = hashedUrl.query.db;
       if (hashedUrl.query.AN) {
         result.title_id = hashedUrl.query.AN;
-        result.unitid += "_" + hashedUrl.query.AN;
+        result.unitid += '_' + hashedUrl.query.AN;
       }
       if (hashedUrl.query.jid) {
         result.title_id = hashedUrl.query.jid;
-        result.unitid += "_" + hashedUrl.query.jid;
-      }      
+        result.unitid += '_' + hashedUrl.query.jid;
+      }
     }
     result.mime     = 'MISC';
     if (param.K) { result.title_id = param.K; }

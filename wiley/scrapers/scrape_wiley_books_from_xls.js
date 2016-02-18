@@ -73,7 +73,7 @@ function parseXLS(xls) {
 
   console.error('Writing KBart file.');
   // Loop on rows is finished, we can write the result.
-  pkb.writeKbart(function () {
+  pkb.writeKbart(function () {
     console.error('KBart written in : ' + pkb.kbartFileName);
     console.error('Wiley scraping finished.');
   });

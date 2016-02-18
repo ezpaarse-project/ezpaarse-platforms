@@ -14,7 +14,7 @@ var async       = require('async');
 var request     = require('request').defaults({
   jar: true,
   proxy: process.env.HTTP_PROXY ||
-         process.env.HTTPS_PROXY ||
+         process.env.HTTPS_PROXY ||
          process.env.http_proxy
 });
 var cheerio     = require('cheerio');
@@ -47,7 +47,7 @@ function getJournalRealUrl(journalData, cb) {
       realURL = match[1];
       //console.log("found real url " + realURL);
     }
-    journalData.url = "http://www.erudit.org/revue/" + realURL;
+    journalData.url = 'http://www.erudit.org/revue/' + realURL;
     cb(err);
   });
 }
@@ -108,10 +108,10 @@ function getPage(pageIdx, cb) {
     $('li > p > img[src="/revue/images/iconeErudit2.gif"]').each(function () {
       var p = $(this).parent();
       var a = p.children('a');
-      var title = a.text().replace(/\r\n|\n|\r/gm, "");
-      title = title.replace(/\s{12}/g, " ");
+      var title = a.text().replace(/\r\n|\n|\r/gm, '');
+      title = title.replace(/\s{12}/g, ' ');
       var url = a.attr('href');
-      var pid = "";
+      var pid = '';
       if (url) {
         pid = url.split('/')[2];
         journalsInPage.push({
@@ -120,7 +120,7 @@ function getPage(pageIdx, cb) {
           pid: pid
         });
       } else {
-        console.error("no url found for " + title);
+        console.error('no url found for ' + title);
       }
     });
     // deduplicate array content

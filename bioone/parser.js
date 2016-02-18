@@ -8,7 +8,7 @@ var Parser = require('../.lib/parser.js');
 
 module.exports = new Parser(function analyseEC(parsedUrl) {
   var result = {};
-  //var param  = parsedUrl.query || {};
+  //var param  = parsedUrl.query || {};
   var path   = parsedUrl.pathname;
 
   var match;
@@ -35,7 +35,7 @@ module.exports = new Parser(function analyseEC(parsedUrl) {
     result.doi = match[1] + '/'+ match[2];
   } else if ((match = /\/doi\/full\/([0-9\.]+)\/(([0-9]{4}\-[0-9]{3}([0-9Xx])?)\([0-9]+\)([^\/)]+))$/.exec(path)) !== null) {
     // http://www.bioone.org.gate1.inist.fr/doi/full/10.1658/1402-2001%282007%2910%5B3%3AADSOFO%5D2.0.CO%3B2
-  
+
     result.rtype = 'ARTICLE';
     result.mime  = 'HTML';
     result.print_identifier = match[3];
@@ -86,7 +86,7 @@ module.exports = new Parser(function analyseEC(parsedUrl) {
     result.unitid =  match[2];
   } else if ((match = /\/doi\/pdf\/([0-9\.]+)\/([^\/\()]+)$/.exec(path)) !== null) {
     // http://www.bioone.org/doi/pdf/10.1007/s11627-008-9148-8
-   
+
     result.rtype = 'ARTICLE';
     result.mime  = 'PDF';
     result.title_id = match[2].split('-')[0];

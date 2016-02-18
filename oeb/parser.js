@@ -20,7 +20,7 @@ module.exports = new Parser(function analyseEC(parsedUrl) {
     // http://books.openedition.org/cdf/3599
     result.title_id = match[1]; //only the title_id used for ABS is in the KBart file
     result.unitid   = match[1];
-    // result.rtype    = 'ABS' || 'ARTICLE';
+    // result.rtype    = 'ABS' || 'ARTICLE';
     result.mime     = 'HTML';
   } else if ((match = /^\/([a-z]+)\/pdf\/([0-9]+)$/.exec(path)) !== null) {
     // http://books.openedition.org/editionsmsh/pdf/327

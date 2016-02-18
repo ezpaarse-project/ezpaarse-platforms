@@ -17,7 +17,7 @@ module.exports = new Parser(function analyseEC(parsedUrl, ec) {
   var result = {};
   var path   = parsedUrl.pathname;
   // uncomment this line if you need parameters
-  // var param  = parsedUrl.query || {};
+  // var param  = parsedUrl.query || {};
 
   // use console.error for debuging
   // console.error(parsedUrl);
@@ -39,18 +39,18 @@ module.exports = new Parser(function analyseEC(parsedUrl, ec) {
     // http://clt.brepolis.net/dld/pages/ImageProvider.aspx?name=DC7_215&x=661&y=642
     result.rtype    = 'BOOK_SECTION';
     result.title_id = match[1];
-      result.unitid=match[1];
+    result.unitid=match[1];
     if (match[2] === 'FullText') {
       result.mime     = 'HTML';
     } else if (match[2] === 'Exporter') {
       result.mime     = 'PDF';
-    } else if (match[2] === 'ArticlePrinter' ) {
+    } else if (match[2] === 'ArticlePrinter') {
       result.rtype    = 'ARTICLE';
       result.mime     = 'PDF';
-    } else if (match[2] === 'QuickSearch' ) {
+    } else if (match[2] === 'QuickSearch') {
       result.rtype    = 'ARTICLE';
       result.mime     = 'HTML';
-    } else if (match[2] === 'ImageProvider' ) {
+    } else if (match[2] === 'ImageProvider') {
       result.rtype    = 'ARTICLE';
       result.mime     = 'MISC';
     }

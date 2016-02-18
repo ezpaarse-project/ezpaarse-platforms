@@ -21,40 +21,40 @@ module.exports = new Parser(function analyseEC(parsedUrl) {
     //result.volume = match[2];
     //result.issue = match[3];
     //result.revue  = match[5];
-   
 
-    if (match[5].toUpperCase() == "FULL") {
+
+    if (match[5].toUpperCase() == 'FULL') {
       // example : http://www.nature.com.gate1.inist.fr/nature/journal/v493/n7431/full/493166a.html
       // http://www.nature.com.gate1.inist.fr/nrm/journal/vaop/ncurrent/full/nrm3940.html
       result.rtype = 'ARTICLE';
       result.mime  = 'HTML';
 
-    } else if (match[5].toUpperCase() == "PDF") {
+    } else if (match[5].toUpperCase() == 'PDF') {
       // example : http://www.nature.com.gate1.inist.fr/nature/journal/v493/n7431/pdf/493166a.pdf
       // http://www.nature.com.gate1.inist.fr/cdd/journal/vaop/ncurrent/pdf/cdd2014195a.pdf
       result.rtype = 'ARTICLE';
       result.mime  = 'PDF';
-       
-       
 
-    } else if (match[5] == "extref") {
+
+
+    } else if (match[5] == 'extref') {
       // example : http://www.nature.com.gate1.inist.fr/nature/journal/v445/n7125/extref/nature05382-s1.pdf
       result.rtype = 'ARTICLE';
       result.mime  = 'PDF';
-       result.doi = '10.1038/' + match[6].split('-')[0];
+      result.doi = '10.1038/' + match[6].split('-')[0];
     } else {
       result.rtype = 'ABS';
       result.mime  = 'HTML';
 
     }
-    if (match[1] != "nature" && match[6].charAt(match[6].length- 1) ==="a")
+    if (match[1] != 'nature' && match[6].charAt(match[6].length- 1) ==='a')
     {
 
-          var replace = match[6].replace(match[1] , '').replace('a', '');
-          result.doi = '10.1038/' + match[1] + '.' + replace.substr(0,4) + '.' +replace.substr(4,4) ;
-          result.publication_date= replace.substr(0,4);
-     
-        
+      var replace = match[6].replace(match[1], '').replace('a', '');
+      result.doi = '10.1038/' + match[1] + '.' + replace.substr(0, 4) + '.' +replace.substr(4, 4) ;
+      result.publication_date= replace.substr(0, 4);
+
+
     }
 
   } else if ((match = /\/([a-zA-Z0-9]+)\/(knowledgeenvironment\/)?(([0-9]*)\/([0-9]*)\/[a-zA-Z0-9]+)\/(pdf|full)\/([a-zA-Z0-9]*).(pdf|html)/.exec(url)) !== null) {
@@ -65,13 +65,13 @@ module.exports = new Parser(function analyseEC(parsedUrl) {
     //result.year  = match[4];
     result.publication_date= match[4];
     result.unitid = result.doi = '10.1038/' + match[7];
-    if(match[1]==='bonekey') {
-      result.doi = '10.1038/' + match[7].substr(0,7) + '.' + match[7].substr(7,8).substr(0,4) + '.' +match[7].substr(11,11).substr(0,3) ;
+    if (match[1]==='bonekey') {
+      result.doi = '10.1038/' + match[7].substr(0, 7) + '.' + match[7].substr(7, 8).substr(0, 4) + '.' +match[7].substr(11, 11).substr(0, 3) ;
     }
-    if (match[6].toUpperCase() == "FULL") {
+    if (match[6].toUpperCase() == 'FULL') {
       // example : http://www.nature.com.gate1.inist.fr/bonekey/knowledgeenvironment/2012/120613/bonekey2012109/full/bonekey2012109.html
       // http://www.nature.com.gate1.inist.fr/ncomms/2013/130628/ncomms3097/full/ncomms3097.html
-      
+
       result.rtype = 'ARTICLE';
       result.mime = 'HTML';
 
@@ -80,7 +80,7 @@ module.exports = new Parser(function analyseEC(parsedUrl) {
       // http://www.nature.com.gate1.inist.fr/ncomms/2013/130829/ncomms3380/pdf/ncomms3380.pdf
       result.rtype = 'ARTICLE';
       result.mime = 'PDF';
-    
+
     }
   } else if ((match = /\/([a-zA-Z0-9]+)\/journal\/v([0-9]*)\/n([a-zA-Z0-9]*)\/index.html/.exec(url)) !== null) {
     // example http://www.nature.com.gate1.inist.fr/nature/journal/v493/n7431/index.html
@@ -124,15 +124,15 @@ module.exports = new Parser(function analyseEC(parsedUrl) {
     // example : http://www.nature.com.gate1.inist.fr/siteindex/index.html
     result.rtype = 'TOC';
     result.mime = 'MISC';
-  } else if ((match = /\/ng\/([a-z]+)\/([a-z1-9]+)\/([a-z1-9]+)\/([a-z]+)\/(([a-z]{2}).([1-9]+)).(pdf|html)/.exec(url)) !== null){
+  } else if ((match = /\/ng\/([a-z]+)\/([a-z1-9]+)\/([a-z1-9]+)\/([a-z]+)\/(([a-z]{2}).([1-9]+)).(pdf|html)/.exec(url)) !== null) {
     //http://www.nature.com.gate1.inist.fr/ng/journal/v47/n8/pdf/ng.3342.pdf
     result.unitid = result.doi = '10.1038/' + match[5];
     result.title_id = '10.1038/' + match[5];
     result.rtype = 'ARTICLE';
     result.mime = match[8].toUpperCase();
-    
 
-      result.publication_date= match[4];
+
+    result.publication_date= match[4];
   }
 
   return result;

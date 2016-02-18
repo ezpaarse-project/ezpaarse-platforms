@@ -17,7 +17,7 @@ module.exports = new Parser(function analyseEC(parsedUrl, ec) {
   var result = {};
   var path   = parsedUrl.pathname;
   // uncomment this line if you need parameters
-  var param  = parsedUrl.query || {};
+  var param  = parsedUrl.query || {};
 
   // use console.error for debuging
   // console.error(parsedUrl);
@@ -46,7 +46,7 @@ module.exports = new Parser(function analyseEC(parsedUrl, ec) {
     //DISPLAY=AUTHOR&RESULTCLICK=default&SOURCE=var_spell.cfg
     result.rtype    = 'TOC';
     result.mime     = 'HTML';
-    result.title_id = param.ID.substr(6,8);
+    result.title_id = param.ID.substr(6, 8);
     result.unitid   = param.ID;
   } else if ((match = /^\/search\/([^.]+)$/.exec(path)) !== null) {
     //https://eebo-chadwyck-com.bibliopam-evry.univ-evry.fr/search/full_rec?SOURCE=pgthumbs.
@@ -59,20 +59,20 @@ module.exports = new Parser(function analyseEC(parsedUrl, ec) {
     //session/1446462957_4884&SEARCHSCREEN=CITATIONS&VID=59632&PAGENO=1&ZOOM=&VIEWPORT=&SEARCHCONFIG=var_spell.
     //cfg&DISPLAY=AUTHOR&HIGHLIGHT_KEYWORD=
     result.title_id = param.ID;
- 
+
     result.unitid   = param.ID;
     if (param.SOURCE && param.SOURCE === 'pgthumbs.cfg') {
       result.rtype    = 'BOOK';
-    } else if (param.SOURCE === 'pgimages.cfg' ) {
+    } else if (param.SOURCE === 'pgimages.cfg') {
       result.rtype    = 'PREVIEW';
-    } else if (param.source === 'configpr.cfg' ) {
+    } else if (param.source === 'configpr.cfg') {
       result.rtype    = 'BOOK';
-      result.title_id = param.ID.substr(6,8);
-    } else if (param.SOURCE === 'var_spell.cfg' ) {
+      result.title_id = param.ID.substr(6, 8);
+    } else if (param.SOURCE === 'var_spell.cfg') {
       result.rtype    = 'ABS';
     }
     result.mime     = 'HTML';
-    
+
   }
 
   return result;

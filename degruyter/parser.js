@@ -18,7 +18,7 @@ module.exports = new Parser(function analyseEC(parsedUrl, ec) {
   var result = {};
   var path   = parsedUrl.pathname;
   // uncomment this line if you need parameters
-  // var param  = parsedUrl.query || {};
+  // var param  = parsedUrl.query || {};
 
   // use console.error for debuging
   // console.error(parsedUrl);
@@ -44,7 +44,7 @@ module.exports = new Parser(function analyseEC(parsedUrl, ec) {
       result.doi    = '10.1515/' + match[8];
       result.rtype  = 'PREVIEW';
     }
-    
+
   } else if ((match = /^\/dg\/([^]*)\/([^]*)$/.exec(path)) !== null) {
     //dg/viewarticle.fullcontentlink:pdfeventlink/$002fj$002fetly.2011.2011.
     //issue-1$002f9783110239423.200$002f9783110239423.200.pdf?
@@ -64,12 +64,12 @@ module.exports = new Parser(function analyseEC(parsedUrl, ec) {
       result.first_page = infodetail[5];
     }
     result.mime = 'PDF';
-    if (match[1].split('.')[0] === "viewarticle") {
+    if (match[1].split('.')[0] === 'viewarticle') {
       result.rtype = 'ARTICLE';
     } else {
-      result.rtype = 'TOC';  
+      result.rtype = 'TOC';
     }
-    
+
   }
 
   return result;

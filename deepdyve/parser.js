@@ -26,7 +26,7 @@ var patterns = {
 module.exports = new Parser(function analyseEC(parsedUrl, ec) {
   var result = {};
   var path   = parsedUrl.pathname;
-  var param  = parsedUrl.query || {};
+  var param  = parsedUrl.query || {};
 
   // use console.error for debuging
   // console.error(parsedUrl);
@@ -45,7 +45,7 @@ module.exports = new Parser(function analyseEC(parsedUrl, ec) {
     // http://www.deepdyve.com:80/rental-link?docId=10.1002/9781118782101.ch8&
     // fieldName=journal_doi&journal=undefined&affiliateId=wiley&
     // format=jsonp&callback=jsonp1408448955682
-    
+
     // default behavior
     // for example springer (don't need to change platform name)
     if (param.affiliateId !== undefined) {
@@ -56,26 +56,26 @@ module.exports = new Parser(function analyseEC(parsedUrl, ec) {
 
     if (param.docId !== undefined) {
       result.unitid = param.docId;
-      if (param.fieldName == "journal_doi") {
+      if (param.fieldName == 'journal_doi') {
         result.doi = param.docId;
       }
     }
 
     // override defaults in same cases
-    if (result.platform === "elsevier" && param.journal) {
+    if (result.platform === 'elsevier' && param.journal) {
       pi_regexp_issn_s = new RegExp(patterns.issn_short);
       if ((match = param.journal.match(pi_regexp_issn_s))) {
         result.print_identifier = match[2] + '-' + match[3];
       }
       result.platform = 'sd'; // real short name of platform
-    } else if (result.platform === "nature" && param.docId) {
+    } else if (result.platform === 'nature' && param.docId) {
       pi_regexp_doi = new RegExp(patterns.DOI);
       result.platform = 'npg'; // real short name of platform
       if ((match = param.docId.match(pi_regexp_doi))) {
         pi_string_doi = match[3].match(/[a-z]{2,}/); // 10.1038/ng0692
         result.title_id = pi_string_doi[0];
       }
-    } else if (result.platform === "wiley" && param.docId) {
+    } else if (result.platform === 'wiley' && param.docId) {
       pi_regexp_doi = new RegExp(patterns.DOI);
       if ((match = param.docId.match(pi_regexp_doi))) {
         // j.1600-0390.2012.00514.x
@@ -105,7 +105,7 @@ module.exports = new Parser(function analyseEC(parsedUrl, ec) {
         }
       // } else {
         // TODO alert on new affiliateId
-      }     
+      }
     }
     result.mime     = 'DEEPDYVE';
   }

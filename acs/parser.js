@@ -27,7 +27,7 @@ module.exports = new Parser(function analyseEC(parsedUrl) {
 
   } else if ((match = /^\/toc\/([a-z]+[0-9]?)\/([0-9]+)\/([0-9]+)$/.exec(path)) !== null) {
     // /toc/achre4/46/4
-    result.unitid   = match[1] + "/" + match[2] + '/' + match[3];
+    result.unitid   = match[1] + '/' + match[2] + '/' + match[3];
     result.title_id = match[1];
     result.rtype    = 'TOC';
     result.mime     = 'MISC';
@@ -98,7 +98,7 @@ module.exports = new Parser(function analyseEC(parsedUrl) {
       break;
     }
 
-  } else if ((match = /^\/doi\/(abs|pdf|pdfplus|ipdf|full)\/([0-9]{2}\.[0-9]{4}\/(acs.([a-z]+)\.[a-z0-9]+))$/.exec(path)) !== null){
+  } else if ((match = /^\/doi\/(abs|pdf|pdfplus|ipdf|full)\/([0-9]{2}\.[0-9]{4}\/(acs.([a-z]+)\.[a-z0-9]+))$/.exec(path)) !== null) {
     // http://pubs.acs.org.gate1.inist.fr/doi/pdf/10.1021/acs.biochem.5b00764
     // http://pubs.acs.org.gate1.inist.fr/doi/full/10.1021/acs.biochem.5b00514
     // http://pubs.acs.org.gate1.inist.fr/doi/ipdf/10.1021/acs.biochem.5b00764

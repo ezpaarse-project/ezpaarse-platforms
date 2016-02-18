@@ -27,7 +27,7 @@ module.exports = new Parser(function analyseEC(parsedUrl) {
 
   } else if ((match = /\/toc\/([a-z]+[0-9]?)\/([0-9]+)\/([0-9]+)$/.exec(path)) !== null) {
     // /toc/achre4/46/4
-    result.unitid   = match[1] + "/" + match[2] + '/' + match[3];
+    result.unitid   = match[1] + '/' + match[2] + '/' + match[3];
     result.title_id = match[1];
     result.rtype    = 'TOC';
     result.mime     = 'MISC';

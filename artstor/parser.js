@@ -17,11 +17,11 @@ module.exports = new Parser(function analyseEC(parsedUrl, ec) {
   var result = {};
   var path   = parsedUrl.pathname;
   // uncomment this line if you need parameters
-   var param  = parsedUrl.query || {};
+  var param  = parsedUrl.query || {};
 
   // use console.error for debuging
    //console.error(path);
- 
+
   var match;
 
   if ((match = /^\/library\/([a-z0-9]+)\.html$/.exec(path)) !== null) {
@@ -42,16 +42,16 @@ module.exports = new Parser(function analyseEC(parsedUrl, ec) {
     result.mime     = 'HTML';
     var parametre =param.imageurl;
     var matchparam ;
-    if (( matchparam  = /.*\/ucsd\/([a-z0-9]+)\/([0-9]+).([a-z]+)\/([a-zA-Z0-9]+)\/([0-9]+)\/.*/.exec(parametre)) !== null){
+    if ((matchparam  = /.*\/ucsd\/([a-z0-9]+)\/([0-9]+).([a-z]+)\/([a-zA-Z0-9]+)\/([0-9]+)\/.*/.exec(parametre)) !== null) {
    //imageurl=http%3A//imgserver.artstor.net/ucsd/d0554/41822000605996.fpx/2sT5h8273vyCDgz3zjXLWw/1418307806/%3Fcell%3D400%2C400%26rgnn%3D0%2C0%2C1%2C1%26cvt%3DJPEG
    //   console.error(match);
-    result.title_id = matchparam[1];
-    result.unitid   = matchparam[1];
-    }  
- 
+      result.title_id = matchparam[1];
+      result.unitid   = matchparam[1];
+    }
+
     //see the comment block above
     //result.unitid   = '';
-  }else if((match = /^\/library\/([A-Za-z]*)Print([A-Za-z]*)\.html$/.exec(path)) !== null)
+  } else if ((match = /^\/library\/([A-Za-z]*)Print([A-Za-z]*)\.html$/.exec(path)) !== null)
   {
   //http://library.artstor.org/library/IGDescPrintTemplate.html
     result.rtype    = 'PRINT';
@@ -61,7 +61,7 @@ module.exports = new Parser(function analyseEC(parsedUrl, ec) {
     result.unitid   = match[1]+ 'Print' + match[2];
 
 
-  }  else if((match = /^\/library\/([A-Za-z]+)\.html$/.exec(path)) !== null)
+  }  else if ((match = /^\/library\/([A-Za-z]+)\.html$/.exec(path)) !== null)
   {
     //http://library.artstor.org/library/CitationsWindow.html
     result.rtype    = 'CITATION';
@@ -71,11 +71,11 @@ module.exports = new Parser(function analyseEC(parsedUrl, ec) {
     result.unitid   = match[1];
 
 
-  }  else if((match = /^\/library\/([a-z]+)\/([a-z]+)\/([0-9]+)$/.exec(path)) !== null)
+  }  else if ((match = /^\/library\/([a-z]+)\/([a-z]+)\/([0-9]+)$/.exec(path)) !== null)
   {
     //http://library.artstor.org/library/secure/ppreview/736355?name=Arena%20Chapel,%20Giotto%20di%20Bondone
-    // lien de test modifier, on a remplacer la virgule avec un plus pour que le teste marche .La virgule entre dans la 
-    //catégorie  des caractères spéciaux qui bloque les test 
+    // lien de test modifier, on a remplacer la virgule avec un plus pour que le teste marche .La virgule entre dans la
+    //catégorie  des caractères spéciaux qui bloque les test
 
     result.rtype    = 'ARTICLE';
     result.mime     = 'HTML';

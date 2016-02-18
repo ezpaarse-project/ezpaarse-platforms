@@ -75,6 +75,6 @@ function EscapeStream(options) {
 require('util').inherits(EscapeStream, Transform);
 
 EscapeStream.prototype._transform = function (chunk, encoding, callback) {
-  this.push(chunk.toString().replace(/"/g, "'"));
+  this.push(chunk.toString().replace(/"/g, '\''));
   callback();
 };

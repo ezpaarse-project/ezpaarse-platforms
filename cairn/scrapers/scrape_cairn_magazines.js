@@ -35,7 +35,7 @@ var getMatchingList = function(callback) {
     var $ = cheerio.load(body);
 
     $('div.numero > a > img').each(function () {
-      var src  = $(this).attr('src') || '';
+      var src  = $(this).attr('src') || '';
       var href = $(this).parent().attr('href');
       var m    = /\/vign_rev\/(.*?)\/.*?_[a-z][0-9]+\.jpg/i.exec(src);
 
@@ -114,12 +114,12 @@ getMatchingList(function (err, matchings) {
     var i = 0;
     (function scrapeMagazines(callback) {
       var magazine = magazines[i++];
-        if (!magazine) { return callback(); }
+      if (!magazine) { return callback(); }
 
-        var secondaryID = matchings[magazine.title_id];
+      var secondaryID = matchings[magazine.title_id];
 
         // If a matching was found, create an entry
-        if (secondaryID) {
+      if (secondaryID) {
           var newMagazine = {};
           for (var p in magazine) { newMagazine[p] = magazine[p]; }
           newMagazine.title_id = secondaryID;
@@ -128,9 +128,9 @@ getMatchingList(function (err, matchings) {
           return scrapeMagazines(callback);
         }
 
-        console.error('No matching found for %s, trying to scrape from the URL', magazine.title_id);
+      console.error('No matching found for %s, trying to scrape from the URL', magazine.title_id);
         // If no matching found, try to browse the title URL to get the second ID
-        getSecondaryID(magazine.title_url, function (err, id) {
+      getSecondaryID(magazine.title_url, function (err, id) {
           if (err || !id) { console.error('No secondary ID found for %s', magazine.title_id); }
 
           if (id) {

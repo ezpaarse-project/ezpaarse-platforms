@@ -17,7 +17,7 @@ module.exports = new Parser(function analyseEC(parsedUrl, ec) {
   var result = {};
   var path   = parsedUrl.pathname;
   // uncomment this line if you need parameters
-  var param  = parsedUrl.query || {};
+  var param  = parsedUrl.query || {};
 
   // use console.error for debuging
   // console.error(param);
@@ -38,25 +38,25 @@ module.exports = new Parser(function analyseEC(parsedUrl, ec) {
       // http://www.elnet.fr/documentation/Document?id=Y3M08&FromId=Y3LSTFORM
       // http://www.elnet.fr/documentation/Document?id=Y3LSTET-1
       match_FromId = param.FromId.match(/(CODE|JRP|TXT|FORM|ET)$/);
-      switch(match_FromId[0]) {
-        case 'CODE':
-          result.rtype    = 'CODES';
+      switch (match_FromId[0]) {
+      case 'CODE':
+        result.rtype    = 'CODES';
         break;
-        case 'JRP':
-          result.rtype    = 'JURISPRUDENCE';
+      case 'JRP':
+        result.rtype    = 'JURISPRUDENCE';
         break;
-        case 'FORM':
-          result.rtype    = 'FORMULES';
+      case 'FORM':
+        result.rtype    = 'FORMULES';
         break;
-        case 'ET':
-          result.rtype    = 'ARTICLE';
+      case 'ET':
+        result.rtype    = 'ARTICLE';
         break;
       }
     }
   } else if ((match = /^\/documentation\/hulkStatic\/EL\/(.*)\/([^\/]+)\.pdf$/.exec(path)) !== null) {
     // http://www.elnet.fr/documentation/hulkStatic/EL/CD13/DPFORM2/Y3M10/sharp_/ANX/y3m313001.pdf
     result.rtype    = 'ARTICLE';
-    if (match[1] && match[1].indexOf('FORM') != -1 ) {
+    if (match[1] && match[1].indexOf('FORM') != -1) {
       result.rtype    = 'FORMULES';
     }
     result.mime     = 'PDF';
@@ -66,7 +66,7 @@ module.exports = new Parser(function analyseEC(parsedUrl, ec) {
     // http://www.editions-legislatives.fr/aboveille/editdoc.do?attId=150868
     result.rtype    = 'ARTICLE';
     result.mime     = 'PDF';
-    if (param.attId) { 
+    if (param.attId) {
       result.title_id = param.attId;
       result.unitid= param.attId;
     }
@@ -75,7 +75,7 @@ module.exports = new Parser(function analyseEC(parsedUrl, ec) {
     // &theme=15w345&attId=159359&forward=viewccarticle
     result.rtype    = 'ARTICLE';
     result.mime     = 'HTML';
-    if (param.attId) { 
+    if (param.attId) {
       result.title_id = param.attId;
       result.unitid= param.attId;
     }

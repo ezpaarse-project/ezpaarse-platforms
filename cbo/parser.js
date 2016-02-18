@@ -14,7 +14,7 @@ var Parser = require('../.lib/parser.js');
 module.exports = new Parser(function analyseEC(parsedUrl) {
   var result = {};
   var path   = parsedUrl.pathname;
-  var query  = parsedUrl.query || {};
+  var query  = parsedUrl.query || {};
 
   var match;
 

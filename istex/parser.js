@@ -16,7 +16,7 @@ var Parser = require('../.lib/parser.js');
 module.exports = new Parser(function analyseEC(parsedUrl, ec) {
   var result = {};
   var path   = parsedUrl.pathname;
-  var param  = parsedUrl.query || {};
+  var param  = parsedUrl.query || {};
   var match;
   if (param.q) {
     result.rtype = 'QUERY';
@@ -26,9 +26,9 @@ module.exports = new Parser(function analyseEC(parsedUrl, ec) {
       ///document/4C46BB8FC3AE3CB005C44243414E9D0E9C8C6057/enrichments/catWos
       ///document/55420CDEEA0F6538E215A511C72E2E5E57570138/fulltext/original
       ///document/55420CDEEA0F6538E215A511C72E2E5E57570138/metadata/xml
-     
 
-      switch(match[3]) {
+
+      switch (match[3]) {
       case 'txt':
         result.mime = 'TEXT';
         break;
@@ -45,9 +45,9 @@ module.exports = new Parser(function analyseEC(parsedUrl, ec) {
         }
         break;
       default:
-       
+
         result.mime = match[3].toUpperCase();
-        
+
       }
 
       result.unitid = match[1];

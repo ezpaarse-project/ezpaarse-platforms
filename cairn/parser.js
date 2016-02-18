@@ -8,7 +8,7 @@ var Parser = require('../.lib/parser.js');
 
 module.exports = new Parser(function analyseEC(parsedUrl) {
   var result = {};
-  var param  = parsedUrl.query || {};
+  var param  = parsedUrl.query || {};
 
   var match;
   var split;
@@ -33,9 +33,9 @@ module.exports = new Parser(function analyseEC(parsedUrl) {
       if ((match = /[A-Z]+/.exec(param.ID_ARTICLE.split('_')[1])) !== null) {
         //case of a book section pdf event
         split = param.ID_ARTICLE.split('_');
-        result.title_id = split[0] + "_" +
-                     split[1] + "_" +
-                     split[2] + "_" +
+        result.title_id = split[0] + '_' +
+                     split[1] + '_' +
+                     split[2] + '_' +
                      split[3];
         result.rtype = 'BOOK_SECTION';
         result.mime = 'PDF';
@@ -63,9 +63,9 @@ module.exports = new Parser(function analyseEC(parsedUrl) {
       // title_id is the concatenation of the first to the forelast part of the ID_ARTICLE parameter
       result.unitid = param.ID_ARTICLE;
       split = param.ID_ARTICLE.split('_');
-      result.title_id = split[0] + "_" +
-                   split[1] + "_" +
-                   split[2] + "_" +
+      result.title_id = split[0] + '_' +
+                   split[1] + '_' +
+                   split[2] + '_' +
                    split[3];
       result.rtype = 'BOOK_SECTION';
       result.mime = 'MISC';
@@ -78,17 +78,17 @@ module.exports = new Parser(function analyseEC(parsedUrl) {
     result.rtype    = 'ARTICLE';
     result.mime     = 'HTML';
     if (!pagexist) {
-      result.rtype    = "TOC";
+      result.rtype    = 'TOC';
       result.mime     = 'MISC';
-    } else if(pagexist === 'p') {
-      result.rtype    = "PREVIEW";
+    } else if (pagexist === 'p') {
+      result.rtype    = 'PREVIEW';
       result.mime     = 'MISC';
-    }    
+    }
   } else if ((match = /^\/(revue\-|magazine\-)([a-z0-9@\-]+)\.htm$/.exec(parsedUrl.pathname)) !== null) {
     // journal example: http://www.cairn.info/revue-a-contrario.htm
     result.unitid   = match[1] + match[2];
     result.title_id = match[1] + match[2];
-    result.rtype    = "TOC";
+    result.rtype    = 'TOC';
     result.mime     = 'MISC';
 
   } else if ((match = /^\/([a-z0-9@\-]+)\-\-([0-9]{13})([^.]*).htm$/.exec(parsedUrl.pathname)) !== null) {
@@ -98,15 +98,15 @@ module.exports = new Parser(function analyseEC(parsedUrl) {
     result.unitid           = match[1] + '--' + match[2] + match[3] ;
     result.print_identifier = match[2];
     let pagexist = match[3].split('-')[1];
-    result.rtype            = "BOOK_SECTION";
+    result.rtype            = 'BOOK_SECTION';
     result.mime             = 'HTML';
     if (!pagexist) {
-      result.rtype            = "TOC";
+      result.rtype            = 'TOC';
       result.mime             = 'MISC';
-    } else if(pagexist === 'p') {
-      result.rtype            = "PREVIEW";
+    } else if (pagexist === 'p') {
+      result.rtype            = 'PREVIEW';
       result.mime             = 'MISC';
     }
-  } 
+  }
   return result;
 });

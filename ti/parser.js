@@ -36,11 +36,11 @@ module.exports = new Parser(function analyseEC(parsedUrl, ec) {
     result.mime     = 'HTML';
     //console.error(match[1] + "-" + match[2] + "-" + match[3]);
     result.title_id = match[2];
-    result.unitid   = match[1] + "-" + match[2] + "-" + match[3];
+    result.unitid   = match[1] + '-' + match[2] + '-' + match[3];
   } else if ((match = /^\/res\/pdf\/encyclopedia\/([0-9]+)\-([a-z0-9]+)\.pdf$/.exec(path)) !== null) {
     // https://www.techniques-ingenieur.fr/res/pdf/encyclopedia/42103210-af99.pdf
     // unitid 42103210-af99
-    result.unitid = match[1] + "-" + match[2];
+    result.unitid = match[1] + '-' + match[2];
     result.title_id = match[1];
     // titleid 42103210
     result.rtype = 'ARTICLE';
@@ -50,7 +50,7 @@ module.exports = new Parser(function analyseEC(parsedUrl, ec) {
     result.rtype = 'BOOK';
     result.mime  = 'PDF';
     result.unitid = param['wpId'];
-    result.title_id = param['wpId']; 
+    result.title_id = param['wpId'];
   } else if ((match = /^\/lexique\/([a-z0-9\-]+)\.html$/.exec(path)) !== null) {
     // http://www.techniques-ingenieur.fr/lexique/materiel-24227.html
     result.rtype = 'ENCYCLOPAEDIA_ENTRY';
@@ -64,7 +64,7 @@ module.exports = new Parser(function analyseEC(parsedUrl, ec) {
     //console.error(match[1] + "-" + match[2] + "-" + match[3]);
     result.title_id = match[1];
     result.unitid   = match[1];
-  } 
+  }
 
   return result;
 });

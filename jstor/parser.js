@@ -26,19 +26,19 @@ module.exports = new Parser(function analyseEC(parsedUrl) {
     result.rtype = 'TOC';
     result.mime = 'MISC';
     result.unitid = match[2];
-    result.doi = match[1] +"/"+ match[2];
+    result.doi = match[1] +'/'+ match[2];
   } else if ((match = /\/stable\/([0-9]{2}\.[0-9]{4})\/([a-z]+)\.([0-9]{4})\.([0-9]+)\.([^.]+)$/.exec(path)) !== null) {
     // /stable/10.1525/cmr.2013.55.issue-2
     result.title_id = match[2];
-    result.unitid=  match[2] + "." + match[3] + "." + match[4] + "." + match[5];
-    result.doi =  match[1] +"/"+ match[2] + "." + match[3] + "." + match[4] + "." + match[5];
+    result.unitid=  match[2] + '.' + match[3] + '.' + match[4] + '.' + match[5];
+    result.doi =  match[1] +'/'+ match[2] + '.' + match[3] + '.' + match[4] + '.' + match[5];
     result.rtype = 'TOC';
     result.mime = 'MISC';
   } else if ((match = /^\/stable\/([0-9]{2}\.[0-9]{4})\/([^.]+)$/.exec(path)) !== null) {
     // /stable/10.7312/cari13424
     result.title_id = match[2];
     result.unitid =  match[2];
-    result.doi =  match[1] +"/"+ match[2];
+    result.doi =  match[1] +'/'+ match[2];
     result.rtype = 'TOC';
     result.mime = 'MISC';
   } else if ((match = /^\/stable\/(i[0-9]+)$/.exec(path)) !== null) {
@@ -58,8 +58,8 @@ module.exports = new Parser(function analyseEC(parsedUrl) {
   } else if ((match = /\/stable\/([0-9]{2}\.[0-9]{4})\/([a-z]+)\.([0-9]+)\.([0-9]+)\.([^.]+)$/.exec(path)) !== null) {
     // /stable/10.5325/jmedirelicult.39.2.issue-2
     result.title_id = match[2];
-    result.unitid=  match[2] + "." + match[3] + "." + match[4] + "." + match[5];
-    result.doi =  match[1] +"/"+ match[2] + "." + match[3] + "." + match[4] + "." + match[5];
+    result.unitid=  match[2] + '.' + match[3] + '.' + match[4] + '.' + match[5];
+    result.doi =  match[1] +'/'+ match[2] + '.' + match[3] + '.' + match[4] + '.' + match[5];
     result.rtype = 'TOC';
     result.mime = 'MISC';
   } else if ((match = /\/stable\/(pdfplus|pdf)\/([0-9]+)\.pdf/.exec(path)) !== null) {
@@ -75,27 +75,27 @@ module.exports = new Parser(function analyseEC(parsedUrl) {
   } else if ((match = /\/stable\/info\/([0-9]+)$/.exec(path)) !== null) {
     // /stable/info/25703252
     result.title_id = match[1];
-    result.unitid = "info" +"/"+ match[1];
+    result.unitid = 'info' +'/'+ match[1];
     result.rtype = 'ABS';
     result.mime = 'MISC';
   } else if ((match = /\/stable\/view\/([0-9]+)$/.exec(path)) !== null) {
     // /stable/view/25703252
     result.title_id = match[1];
-    result.unitid = "view" +"/"+ match[1];
+    result.unitid = 'view' +'/'+ match[1];
     result.rtype = 'PREVIEW';
     result.mime = 'MISC';
   } else if ((match = /\/stable\/([0-9]{2}\.[0-9]{4})\/(([a-z]+)\.([0-9]+)\.([0-9]+)\.([0-9]+)\.([^.]+))$/.exec(path)) !== null) {
     // /stable/10.7312/cari13424
-    
+
     result.unitid =  match[2];
-    result.doi =  match[1] +"/"+ match[2];
+    result.doi =  match[1] +'/'+ match[2];
     result.rtype = 'ARTICLE';
     result.mime = 'HTML';
   } else if ((match = /\/stable\/pdf\/([0-9]{2}\.[0-9]{4})\/(([a-z]+)\.([0-9]+)\.([0-9]+)\.([0-9]+)\.([^.]+)).pdf$/.exec(path)) !== null) {
     // /stable/10.7312/cari13424
-    
+
     result.unitid =  match[2];
-    result.doi =  match[1] +"/"+ match[2];
+    result.doi =  match[1] +'/'+ match[2];
     result.rtype = 'ARTICLE';
     result.mime = 'PDF';
   }

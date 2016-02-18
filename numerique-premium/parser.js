@@ -20,7 +20,7 @@ module.exports = new Parser(function analyseEC(parsedUrl, ec) {
     result.mime     = 'HTML';
     result.title_id = match[1] +'/'+match[2];
     result.unitid   = match[2];
-  } 
+  }
 
   return result;
 });

@@ -16,7 +16,7 @@ var Parser = require('../.lib/parser.js');
 module.exports = new Parser(function analyseEC(parsedUrl, ec) {
   var result = {};
   var path   = parsedUrl.pathname;
-  var param  = parsedUrl.query || {};
+  var param  = parsedUrl.query || {};
 
   // use console.error for debuging
   // console.error(parsedUrl);
@@ -34,7 +34,7 @@ module.exports = new Parser(function analyseEC(parsedUrl, ec) {
     }
     if (param.iss) {
       result.unitid += '_' + param.iss;
-    }    
+    }
   }
 
   if ((match = /^\/journals\/(all_issues.php)|(show_issue.php)$/.exec(path)) !== null) {

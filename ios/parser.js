@@ -17,7 +17,7 @@ module.exports = new Parser(function analyseEC(parsedUrl, ec) {
   var result = {};
   var path   = parsedUrl.pathname;
   // uncomment this line if you need parameters
-  // var param  = parsedUrl.query || {};
+  // var param  = parsedUrl.query || {};
 
   // use console.error for debuging
   // console.error(parsedUrl);
@@ -48,7 +48,7 @@ module.exports = new Parser(function analyseEC(parsedUrl, ec) {
     result.issue = match[3];
     result.title_id = match[1];
     //see the comment block above
-    result.unitid   = "journals/" +   match[1]  + '/' + match[2] + '/' + match[3];
+    result.unitid   = 'journals/' +   match[1]  + '/' + match[2] + '/' + match[3];
   }
 
   return result;

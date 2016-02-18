@@ -17,7 +17,7 @@ module.exports = new Parser(function analyseEC(parsedUrl, ec) {
   var result = {};
   var path   = parsedUrl.pathname;
   // uncomment this line if you need parameters
-   var param  = parsedUrl.query || {};
+  var param  = parsedUrl.query || {};
 
   // use console.error for debuging
   // console.error(parsedUrl);
@@ -36,30 +36,30 @@ module.exports = new Parser(function analyseEC(parsedUrl, ec) {
     //http://heinonline.org.faraway.u-paris10.fr/HOL/Print?collection=journals&handle=hein.journals/antil77&id=53
     result.rtype    = 'ARTICLE';
     result.mime     = 'PDF';
-    if(param.handle){
+    if (param.handle) {
       result.title_id = param.handle.split('/')[1];
-      result.unitid = param.handle +"/"+param.id ;
-      if(param.number_of_pages){
-        result.unitid += "/"+ param.number_of_pages;
+      result.unitid = param.handle +'/'+param.id ;
+      if (param.number_of_pages) {
+        result.unitid += '/'+ param.number_of_pages;
       }
     }
-  } else if((match =/^\/HOL\/Index/.exec(path))!== null) {
+  } else if ((match =/^\/HOL\/Index/.exec(path))!== null) {
     //http://heinonline.org.faraway.u-paris10.fr/HOL/Index?index=journals/antil&collection=usjournals
     result.rtype    = 'TOC';
     result.mime     = 'HTML';
-    if(param.index){
+    if (param.index) {
       result.title_id = param.index.split('/')[1];
       result.unitid = param.index ;
     }
-  }else if ((match =/^\/HOL\/.*/.exec(path))!== null) {
+  } else if ((match =/^\/HOL\/.*/.exec(path))!== null) {
     //http://heinonline.org.faraway.u-paris10.fr/HOL/Contents?handle=hein.journals/antil77&id=1&size=2&index=&collection=journals
     result.rtype    = 'TOC';
     result.mime     = 'HTML';
-    if(param.handle){
+    if (param.handle) {
       result.title_id = param.handle.split('/')[1];
-      result.unitid = param.handle +"/"+param.id ;
-      if(param.number_of_pages){
-        result.unitid += "/"+ param.number_of_pages;
+      result.unitid = param.handle +'/'+param.id ;
+      if (param.number_of_pages) {
+        result.unitid += '/'+ param.number_of_pages;
       }
     }
   }

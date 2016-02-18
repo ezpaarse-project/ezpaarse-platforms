@@ -8,7 +8,7 @@ var Parser = require('../.lib/parser.js');
 
 module.exports = new Parser(function analyseEC(parsedUrl) {
   var result = {};
-  var param  = parsedUrl.query || {};
+  var param  = parsedUrl.query || {};
   var path   = parsedUrl.pathname;
   var match;
 
@@ -21,7 +21,7 @@ module.exports = new Parser(function analyseEC(parsedUrl) {
     result.mime     = 'MISC';
   } else if ((match = /^\/(article|book|protocol)\/([0-9]+\.[0-9]+\/[^\/]+)(\/page\/[0-9]+)?(\/fulltext.html)?/.exec(path)) !== null) {
     result.doi  = match[2];
-    result.unitid = match[2].split("/")[1] + (match[3] || '');
+    result.unitid = match[2].split('/')[1] + (match[3] || '');
 
     switch (match[1]) {
     case 'article':
@@ -100,27 +100,27 @@ module.exports = new Parser(function analyseEC(parsedUrl) {
       result.unitid = decodeURIComponent(match[3]).substr(1);
       var type = match[2];
       switch (type) {
-        case 'art' :
-          result.unitid = result.unitid.split('/')[1];
-          result.doi   = decodeURIComponent(match[3]).substr(1);
-          result.rtype = 'ARTICLE';
-          break;
-        case 'chp' :
-          result.unitid = result.unitid.split('/')[1];
-          result.doi   = decodeURIComponent(match[3]).substr(1);
-          result.rtype = 'BOOK';
-          break;
-        case 'bok' :
-          result.online_identifier = result.unitid;
-          result.rtype = 'BOOK';
-          break;
-        case 'bfm' :
-          result.online_identifier = result.unitid.split('/')[0];
-          result.rtype = 'TOC';
-          break;
-        default :
-          result.rtype = 'TOC';
-          break;
+      case 'art' :
+        result.unitid = result.unitid.split('/')[1];
+        result.doi   = decodeURIComponent(match[3]).substr(1);
+        result.rtype = 'ARTICLE';
+        break;
+      case 'chp' :
+        result.unitid = result.unitid.split('/')[1];
+        result.doi   = decodeURIComponent(match[3]).substr(1);
+        result.rtype = 'BOOK';
+        break;
+      case 'bok' :
+        result.online_identifier = result.unitid;
+        result.rtype = 'BOOK';
+        break;
+      case 'bfm' :
+        result.online_identifier = result.unitid.split('/')[0];
+        result.rtype = 'TOC';
+        break;
+      default :
+        result.rtype = 'TOC';
+        break;
       }
     }
   }
@@ -128,7 +128,7 @@ module.exports = new Parser(function analyseEC(parsedUrl) {
   // example : http://link.springer.com.gate1.inist.fr/content/pdf/10.1007/s00359-010-0615-4
   //           then 00359 is the pid
   if (result.doi) {
-    var title_id = new RegExp("/s([0-9]+)-").exec(result.doi);
+    var title_id = new RegExp('/s([0-9]+)-').exec(result.doi);
     if (title_id && title_id[1]) {
       result.title_id = '' + parseInt(title_id[1], 10); // removes first zeros
     }

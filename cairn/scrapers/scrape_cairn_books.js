@@ -54,7 +54,7 @@ var getMatchingList = function(callback) {
       var $ = cheerio.load(body);
 
       $('div.revue > a > img').each(function () {
-        var src  = $(this).attr('src') || '';
+        var src  = $(this).attr('src') || '';
         var href = $(this).parent().attr('href');
 
         var ms = /\/vign_rev\/.*?\/(.*?)_[a-z][0-9]+ *\.jpg/i.exec(src);

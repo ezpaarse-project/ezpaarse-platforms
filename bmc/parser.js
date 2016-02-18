@@ -106,14 +106,14 @@ module.exports = new Parser(function analyseEC(parsedUrl) {
       result.rtype  = 'ARTICLE';
       result.mime   = 'PDF';
     }
-     if ((match = /^\/([a-z]+)\/content\/([0-9]+)\/([A-Za-z]+)\/([0-9]+)$/.exec(pathname)) !== null) {
+    if ((match = /^\/([a-z]+)\/content\/([0-9]+)\/([A-Za-z]+)\/([0-9]+)$/.exec(pathname)) !== null) {
       // example :http://www.biomedcentral.com/bmcanesthesiol/content/11/October/2011
-      result.unitid = match[1] + '/' + match[2] + '/' + match[3] + '/' + match[4];
-      result.print_identifier  = match[1];
-      result.rtype  = 'TOC';
-      result.mime   = 'MISC';
-      result.publication_date = match[4];
-    }
+       result.unitid = match[1] + '/' + match[2] + '/' + match[3] + '/' + match[4];
+       result.print_identifier  = match[1];
+       result.rtype  = 'TOC';
+       result.mime   = 'MISC';
+       result.publication_date = match[4];
+     }
   } else {
     if ((match = /^\/([a-z]+)/.exec(pathname)) !== null) {
       // example : http://bmcbiol.biomedcentral.com/articles
@@ -183,14 +183,14 @@ module.exports = new Parser(function analyseEC(parsedUrl) {
       result.mime     = 'PDF';
     }
 
-     if ((match = /^\/([a-z]+)\/pdf\/([0-9]{2}\.[0-9]{4})\/(.*)$/.exec(pathname)) !== null) {
+    if ((match = /^\/([a-z]+)\/pdf\/([0-9]{2}\.[0-9]{4})\/(.*)$/.exec(pathname)) !== null) {
       // example : http://bmcgenomics.biomedcentral.com.gate1.inist.fr/track/pdf/10.1186/s12864-016-2404-0
-      result.doi      = match[2] + '/' + match[3];
-      result.unitid   =  match[3];
-      result.title_id = domain.split('.')[0];
-      result.rtype    = 'ARTICLE';
-      result.mime     = 'PDF';
-    }
+       result.doi      = match[2] + '/' + match[3];
+       result.unitid   =  match[3];
+       result.title_id = domain.split('.')[0];
+       result.rtype    = 'ARTICLE';
+       result.mime     = 'PDF';
+     }
     if ((match = /^\/articles\/([0-9]{2}\.[0-9]{4})\/(.*)$/.exec(pathname)) !== null) {
       // example :http://bmcbiol.biomedcentral.com/articles/10.1186/s12915-016-0229-6
       result.doi      = match[1] + '/' + match[2];

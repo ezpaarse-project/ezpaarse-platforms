@@ -8,7 +8,7 @@ var Parser = require('../.lib/parser.js');
 
 module.exports = new Parser(function analyseEC(parsedUrl) {
   var result = {};
-  //var param  = parsedUrl.query || {};
+  //var param  = parsedUrl.query || {};
   var path   = parsedUrl.pathname;
 
   var match;
@@ -41,14 +41,14 @@ module.exports = new Parser(function analyseEC(parsedUrl) {
     // article/10.1088/1748-0221/6/12/C12060/meta
     result.rtype = 'ABS';
     result.mime  = 'MISC';
-    if (match[6] === 'pdf'){
+    if (match[6] === 'pdf') {
       result.rtype = 'ARTICLE';
       result.mime  = 'PDF';
     }
     result.print_identifier = match[3];
     result.vol    = match[4];
     result.issue  = match[5];
-    result.doi    = match[1] + "/" + match[2];
+    result.doi    = match[1] + '/' + match[2];
     result.unitid = match[2];
   }
 

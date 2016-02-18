@@ -8,7 +8,7 @@ var Parser = require('../.lib/parser.js');
 
 module.exports = new Parser(function analyseEC(parsedUrl) {
   var result = {};
-  var param = parsedUrl.query || {};
+  var param = parsedUrl.query || {};
   var path  = parsedUrl.pathname;
 
   var match;
@@ -31,7 +31,7 @@ module.exports = new Parser(function analyseEC(parsedUrl) {
         result.mime = 'HTML';
         break;
       default:
-        console.log("Unknown matching format : " + param['format'] + "\n");
+        console.log('Unknown matching format : ' + param['format'] + '\n');
         break;
       }
     }
