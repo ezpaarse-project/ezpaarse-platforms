@@ -2,16 +2,11 @@
 
 'use strict';
 
-var path = require('path');
-
+var path  = require('path');
 var bacon = require(path.join(__dirname, '../../.lib/bacon_harvester.js'));
 
 bacon.generatePkb('wiley', function (err, res) {
+  if (err) { throw err; }
 
-	  if (err) {
-		  console.error(err);
-	}
-
-	  console.log(res + ' files created');
-	// body...
+  console.log(res + ' files created');
 });

@@ -159,7 +159,7 @@ module.exports = new Parser(function analyseEC(parsedUrl) {
     result.unitid =  match[2] ;
     result.publication_date = '20' + match[5];
     result.title_id = match[2].toUpperCase();
-    if (match[6] === "abstract") {
+    if (match[6] === 'abstract') {
       result.rtype = 'ABS';
     } else if (match[6]==='pdf') {
       result.mime = 'PDF';

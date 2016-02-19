@@ -8,19 +8,11 @@
 'use strict';
 
 
-var request     = require('request').defaults({
-  proxy: process.env.http_proxy ||
-         process.env.HTTP_PROXY ||
-         process.env.https_proxy ||
-         process.env.HTTPS_PROXY
-});
+var request = require('request');
+var XLS     = require('xlsjs');
 
-// var CSV         = require('csv-string');
-var XLS         = require('xlsjs');
-var fs          = require('fs');
-
-var PkbRows     = require('../../.lib/pkbrows.js');
-var pkb         = new PkbRows('wiley');
+var PkbRows = require('../../.lib/pkbrows.js');
+var pkb     = new PkbRows('wiley');
 
 // setKbartName() is required to fix the kbart output file name
 //   pkb.consortiumName = '';       // default empty
@@ -33,20 +25,17 @@ var journalUrl = 'http://wileyonlinelibrary.com/onlinebooks-list';
 // The URL of journals list is find on the http://olabout.wiley.com/WileyCDA/Section/id-404513.html page
 // The journalURL link deliver a excel file with many steelsheet
 // only 'All Live' contains the data, starting line 5
-var sheetName = 'All Live';
-var sheetFirstLine = 5;
+var sheetName           = 'All Live';
+var sheetFirstLine      = 5;
 var sheetColJournalCode = 'J';
-var sheetColPrintISBN = 'I';
-var sheetColOnlineISBN = 'K';
-var sheetColTitle = 'E';
-var sheetColTitleURL = 'R';
-
-var localFile  = __dirname + '/WileyBooksList.xls';
+var sheetColPrintISBN   = 'I';
+var sheetColOnlineISBN  = 'K';
+var sheetColTitle       = 'E';
+var sheetColTitleURL    = 'R';
 
 // parse XLS and create a PKB from it
 function parseXLS(xls) {
   var xlsJsonObject = {};
-  //
 
   var rowArray = XLS.utils.sheet_to_row_object_array(xls.Sheets[sheetName]);
   if (rowArray.length > 0) {
@@ -59,7 +48,7 @@ function parseXLS(xls) {
     var journalInfo = {};
     // initialize a kbart record
     journalInfo = pkb.initRow(journalInfo);
-/* */
+
     if (xls.Sheets[sheetName][sheetColJournalCode+i] !== undefined) {
       journalInfo.title_id = xls.Sheets[sheetName][sheetColJournalCode+i].v.toString();
       if (xls.Sheets[sheetName][sheetColTitle+i]) { journalInfo.publication_title  = xls.Sheets[sheetName][sheetColTitle+i].v; }
@@ -79,9 +68,8 @@ function parseXLS(xls) {
   });
 }
 
-
-// var localFileStream = fs.createWriteStream(localFile);
 console.error('Wiley scraper requesting file ' + journalUrl + ' on server');
+
 request({ url: journalUrl, encoding: null /* so body is a binary buffer */ }, function (err, res, body) {
   if (err) {
     console.error(err);
@@ -92,9 +80,8 @@ request({ url: journalUrl, encoding: null /* so body is a binary buffer */ }, fu
     process.exit(1);
   }
 
-  console.error(localFile + ' downloaded');
-  fs.writeFileSync(localFile, body);
-  parseXLS(XLS.readFile(localFile));
+  console.error('%s downloaded', journalUrl);
+  parseXLS(XLS.read(body));
 });
 
 

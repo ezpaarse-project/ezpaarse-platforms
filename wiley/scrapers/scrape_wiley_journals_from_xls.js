@@ -8,19 +8,11 @@
 'use strict';
 
 
-var request     = require('request').defaults({
-  proxy: process.env.http_proxy ||
-         process.env.HTTP_PROXY ||
-         process.env.https_proxy ||
-         process.env.HTTPS_PROXY
-});
+var request = require('request');
+var XLS     = require('xlsjs');
 
-// var CSV         = require('csv-string');
-var XLS         = require('xlsjs');
-var fs          = require('fs');
-
-var PkbRows     = require('../../.lib/pkbrows.js');
-var pkb         = new PkbRows('wiley');
+var PkbRows = require('../../.lib/pkbrows.js');
+var pkb     = new PkbRows('wiley');
 
 // setKbartName() is required to fix the kbart output file name
 //   pkb.consortiumName = '';       // default empty
@@ -41,12 +33,9 @@ var sheetColOnlineISSN = 'C';
 var sheetColTitle = 'E';
 var sheetColTitleURL = 'G';
 
-var localFile  = __dirname + '/WileyJournalsList.xls';
-
 // parse XLS and create a PKB from it
 function parseXLS(xls) {
   var xlsJsonObject = {};
-  //
 
   var rowArray = XLS.utils.sheet_to_row_object_array(xls.Sheets[sheetName]);
   if (rowArray.length > 0) {
@@ -80,9 +69,8 @@ function parseXLS(xls) {
   });
 }
 
-
-// var localFileStream = fs.createWriteStream(localFile);
 console.error('Wiley scraper requesting file ' + journalUrl + ' on server');
+
 request({ url: journalUrl, encoding: null /* so body is a binary buffer */ }, function (err, res, body) {
   if (err) {
     console.error(err);
@@ -93,9 +81,8 @@ request({ url: journalUrl, encoding: null /* so body is a binary buffer */ }, fu
     process.exit(1);
   }
 
-  console.error(localFile + ' downloaded');
-  fs.writeFileSync(localFile, body);
-  parseXLS(XLS.readFile(localFile));
+  console.error('%s downloaded', journalUrl);
+  parseXLS(XLS.read(body));
 });
 
 
