@@ -7,9 +7,10 @@
 
 
 var XLSX = require('xlsx');
+var path = require('path');
 
 var PkbRows = require('../../.lib/pkbrows.js');
-var europresseFileCollections = __dirname + '/../pkb/sources_europresse_pour_bibliotheque_d_enseignement.xlsx';
+var europresseFileCollections = path.resolve(__dirname, '../pkb/sources_europresse_pour_bibliotheque_d_enseignement.xlsx');
 
 var xlsx = XLSX.readFile(europresseFileCollections);
 var json;

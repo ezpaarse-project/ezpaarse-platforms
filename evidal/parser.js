@@ -2,7 +2,6 @@
 
 // ##EZPAARSE
 
-/*jslint maxlen: 150*/
 'use strict';
 var Parser = require('../.lib/parser.js');
 
@@ -16,19 +15,17 @@ var Parser = require('../.lib/parser.js');
 module.exports = new Parser(function analyseEC(parsedUrl, ec) {
   var result = {};
   var path   = parsedUrl.pathname;
-  // uncomment this line if you need parameters
   var param  = parsedUrl.query || {};
 
   // use console.error for debuging
   // console.error(parsedUrl);
 
-  var match;
-
-  if ((match = /^\/(([a-zA-Z]+).html)$/.exec(path)) !== null) {
+  if (/^\/(([a-zA-Z]+).html)$/.test(path)) {
     //http://www.evidal.fr/showProduct.html?productId=5480
     //http://www.evidal.fr/showReco.html?recoId=4048
-    result.rtype    = 'ARTICLE';
-    result.mime     = 'HTML';
+    result.rtype = 'ARTICLE';
+    result.mime  = 'HTML';
+
     if (param.recoId) {
       result.title_id = param.recoId;
       result.unitid   = param.recoId;
@@ -36,7 +33,6 @@ module.exports = new Parser(function analyseEC(parsedUrl, ec) {
       result.title_id = param.productId;
       result.unitid   = param.productId;
     }
-
   }
 
   return result;
