@@ -5,6 +5,7 @@
 /*jslint maxlen: 150*/
 'use strict';
 var Parser = require('../.lib/parser.js');
+var URL    = require('url');
 
 /**
  * Identifie les consultations de la plateforme Royal Society of Chemistry
@@ -16,18 +17,12 @@ var Parser = require('../.lib/parser.js');
 module.exports = new Parser(function analyseEC(parsedUrl, ec) {
   var result = {};
   var path   = parsedUrl.pathname;
-  // uncomment this line if you need parameters
-  // var param  = parsedUrl.query || {};
-
-  // use console.error for debuging
-  // console.error(parsedUrl);
 
   var match;
   var hashedUrl;
 
   if (parsedUrl.hash) {
-    var URL  = require('url');
-    hashedUrl = URL.parse(parsedUrl.hash.replace('#!','/?'), true);
+    hashedUrl = URL.parse(parsedUrl.hash.replace('#!', '/?'), true);
   }
 
   if ((match = /^\/en\/journals\/journalissues\/([a-zA-Z]{2,})$/.exec(path)) !== null) {
@@ -37,9 +32,7 @@ module.exports = new Parser(function analyseEC(parsedUrl, ec) {
     result.mime     = 'MISC';
     result.title_id = match[1];
     if (hashedUrl && hashedUrl.query) {
-      if (hashedUrl.query.issnprint) {
-        result.print_identifier = hashedUrl.query.issnprint;
-      }
+      if (hashedUrl.query.issnprint) { result.print_identifier = hashedUrl.query.issnprint; }
       if (hashedUrl.query.issueid) { result.unitid = hashedUrl.query.issueid; }
     }
   } else if ((match = /^\/en\/content\/article(html|pdf)\/([0-9]+)\/([^\/]+)\/([^\/]+)$/.exec(path)) !== null) {

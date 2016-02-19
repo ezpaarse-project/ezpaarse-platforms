@@ -16,38 +16,32 @@ var Parser = require('../.lib/parser.js');
 module.exports = new Parser(function analyseEC(parsedUrl, ec) {
   var result = {};
   var path   = parsedUrl.pathname;
-  // uncomment this line if you need parameters
   var param  = parsedUrl.query || {};
-
-  // use console.error for debuging
-  // console.error(parsedUrl);
-
-  var match;
   var elements;
 
-  if ((match = /^\/WebJolyFO\/rss\/sommaire\/readPdf$/.exec(path)) !== null) {
+  if (/^\/WebJolyFO\/rss\/sommaire\/readPdf$/.test(path)) {
     // http://www.editions-joly.com/WebJolyFO/rss/sommaire/readPdf?
     // pdfFile=/Weblextenso/La-une-des-revues/pdfnews/BJS-06_2014.pdf
-    result.rtype    = 'TOC';
-    result.mime     = 'PDF';
+    result.rtype = 'TOC';
+    result.mime  = 'PDF';
     if (param && param.pdfFile) {
       elements = param.pdfFile.match(/(([A-Z]+)\-([0-9_]+))\.pdf/);
       result.title_id = elements[2];
       result.unitid   = elements[1];
     }
-  } else if ((match = /^\/WebJolyFO\/basejoly\/documentNews$/.exec(path)) !== null) {
+  } else if (/^\/WebJolyFO\/basejoly\/documentNews$/.test(path)) {
     // http://www.editions-joly.com/WebJolyFO/basejoly/documentNews?idDoc=jolynews1096.html
-    result.rtype    = 'ARTICLE';
-    result.mime     = 'PDF';
+    result.rtype = 'ARTICLE';
+    result.mime  = 'PDF';
     if (param && param.idDoc) {
       elements = param.idDoc.match(/(([a-z]+)([0-9_]+))\.html/);
       result.title_id = elements[2];
       result.unitid   = elements[1];
     }
-  } else if ((match = /^\/WebJolyFO\/document\/viewDocument$/.exec(path)) !== null) {
+  } else if (/^\/WebJolyFO\/document\/viewDocument$/.test(path)) {
     // http://www.editions-joly.com/WebJolyFO/document/viewDocument?documentId=EC110
-    result.rtype    = 'ARTICLE';
-    result.mime     = 'PDF';
+    result.rtype = 'ARTICLE';
+    result.mime  = 'PDF';
     if (param && param.documentId) {
       result.unitid   = param.documentId;
     }

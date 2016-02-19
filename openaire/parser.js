@@ -16,22 +16,16 @@ var Parser = require('../.lib/parser.js');
 module.exports = new Parser(function analyseEC(parsedUrl, ec) {
   var result = {};
   var path   = parsedUrl.pathname;
-  // uncomment this line if you need parameters
   var param  = parsedUrl.query || {};
 
-  // use console.error for debuging
-  //console.error(parsedUrl);
-
-  var match;
-
-  if ((match = /^\/search\/publication$/.exec(path)) !== null) {
-      // https://www.openaire.eu/search/publication?articleId=od_______645::dbee9ee47425380c109cbd31dfdaa026
+  if (/^\/search\/publication$/.test(path)) {
+    // https://www.openaire.eu/search/publication?articleId=od_______645::dbee9ee47425380c109cbd31dfdaa026
     if (param['articleId']) {
-            result.title_id = param['articleId'];
-            result.unitid = param['articleId'];
-          }
-    result.rtype    = 'ARTICLE';
-    result.mime     = 'MISC';
+      result.title_id = param['articleId'];
+      result.unitid   = param['articleId'];
+    }
+    result.rtype = 'ARTICLE';
+    result.mime  = 'MISC';
   }
   return result;
 });

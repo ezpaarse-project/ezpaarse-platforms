@@ -15,7 +15,7 @@ module.exports = new Parser(function analyseEC(parsedUrl) {
 
   var match;
 
-  if (hostname) { result.title_id = hostname.replace('www.','').replace('.org',''); }
+  if (hostname) { result.title_id = hostname.replace('www.', '').replace('.org', ''); }
 
   if ((match = /^\/larevue_som.php$/.exec(path)) !== null) {
     // http://www.lactualitechimique.org.chimie.gate.inist.fr/larevue_som.php?cle=196
