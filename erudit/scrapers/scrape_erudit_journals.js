@@ -10,26 +10,21 @@
 'use strict';
 
 
-var async       = require('async');
-var request     = require('request').defaults({
-  jar: true,
-  proxy: process.env.HTTP_PROXY ||
-         process.env.HTTPS_PROXY ||
-         process.env.http_proxy
-});
-var cheerio     = require('cheerio');
+var async   = require('async');
+var request = require('request').defaults({ jar: true });
+var cheerio = require('cheerio');
 
 // to check issn is valid
 //var ridchecker  = require('../../../lib/rid-syntax-checker.js');
 //var issnRegExp  = new RegExp('([0-9]{4}-[0-9X]{4})');
 
-var PkbRows     = require('../../.lib/pkbrows.js');
-var pkb         = new PkbRows('erudit');
+var PkbRows = require('../../.lib/pkbrows.js');
+var pkb     = new PkbRows('erudit');
 
 // entry point: a big search on all Erudit journals
 //var journalsUrl = 'http://www.erudit.org/revue/';
 // browse Erudit journals page by page
-var pageUrl     = 'http://www.erudit.org/revue/';
+var pageUrl = 'http://www.erudit.org/revue/';
 
 // setKbartName() is required to fix the kbart output file name
 //   pkb.consortiumName = '';       // default empty
@@ -145,9 +140,8 @@ getNbPages(function (err, nbPages) {
       if (i > nbPages) {
         console.error('Browsing page ' + i + '/' + nbPages);
         return true;
-      } else {
-        return false;
       }
+      return false;
     },
 
     // one loop then call the callback for the next

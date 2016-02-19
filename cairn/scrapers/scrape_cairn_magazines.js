@@ -4,18 +4,13 @@
 
 'use strict';
 
-var request = require('request').defaults({
-  proxy: process.env.http_proxy ||
-         process.env.HTTP_PROXY ||
-         process.env.https_proxy ||
-         process.env.HTTPS_PROXY
-});
-
+var request  = require('request');
 var iconv    = require('iconv-lite');
 var cheerio  = require('cheerio');
 var csvParse = require('csv').parse;
-var PkbRows  = require('../../.lib/pkbrows.js');
-var pkb      = new PkbRows('cairn');
+
+var PkbRows = require('../../.lib/pkbrows.js');
+var pkb     = new PkbRows('cairn');
 pkb.packageName = 'magazines';
 pkb.setKbartName();
 
@@ -120,31 +115,31 @@ getMatchingList(function (err, matchings) {
 
         // If a matching was found, create an entry
       if (secondaryID) {
-          var newMagazine = {};
-          for (var p in magazine) { newMagazine[p] = magazine[p]; }
-          newMagazine.title_id = secondaryID;
+        var newMagazine = {};
+        for (var p in magazine) { newMagazine[p] = magazine[p]; }
+        newMagazine.title_id = secondaryID;
 
-          pkb.addRow(newMagazine);
-          return scrapeMagazines(callback);
-        }
+        pkb.addRow(newMagazine);
+        return scrapeMagazines(callback);
+      }
 
       console.error('No matching found for %s, trying to scrape from the URL', magazine.title_id);
-        // If no matching found, try to browse the title URL to get the second ID
+      // If no matching found, try to browse the title URL to get the second ID
       getSecondaryID(magazine.title_url, function (err, id) {
-          if (err || !id) { console.error('No secondary ID found for %s', magazine.title_id); }
+        if (err || !id) { console.error('No secondary ID found for %s', magazine.title_id); }
 
-          if (id) {
-            var newMagazine = {};
-            for (var p in magazine) { newMagazine[p] = magazine[p]; }
-            newMagazine.title_id = id;
+        if (id) {
+          var newMagazine = {};
+          for (var p in magazine) { newMagazine[p] = magazine[p]; }
+          newMagazine.title_id = id;
 
-            pkb.addRow(newMagazine);
-          }
+          pkb.addRow(newMagazine);
+        }
 
-          setTimeout(function() {
-            scrapeMagazines(callback);
-          }, 1000);
-        });
+        setTimeout(function() {
+          scrapeMagazines(callback);
+        }, 1000);
+      });
     })(function allDone() {
       pkb.writeKbart(function () {
         console.error('Cairn scraping is finished..');

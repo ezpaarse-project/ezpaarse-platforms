@@ -8,20 +8,12 @@
 
 'use strict';
 
-var async       = require('async');
-var request     = require('request').defaults({
-  jar: true, //to accept the cookie, without which we don't have access to the correct content
-  proxy: process.env.http_proxy ||
-         process.env.HTTP_PROXY ||
-         process.env.https_proxy ||
-         process.env.HTTPS_PROXY
-  // proxy: 'http://proxyout.inist.fr:8080'
-});
+var async   = require('async');
+var request = require('request').defaults({ jar: true });
+var cheerio = require('cheerio');
 
-var cheerio     = require('cheerio');
-
-var PkbRows     = require('../../.lib/pkbrows.js');
-var pkb         = new PkbRows('asce');
+var PkbRows = require('../../.lib/pkbrows.js');
+var pkb     = new PkbRows('asce');
 
 // setKbartName() is required to fix the kbart output file name
 // pkb.consortiumName = '';       // default empty
@@ -48,17 +40,17 @@ function getJournalInfo(journalUrl, cb) {
                    //.filter(function() {
                    //  return this.nodeType == 3; //Node.TEXT_NODE;
                    //})
-                   .text().replace(/\n|\r/g, '').replace(/ /g,'');
+                   .text().replace(/\n|\r/g, '').replace(/ /g, '');
     var printISSN = '';
     if (issnInfo.match(/^ISSN/)) {
       printISSN = issnInfo.replace(/^ISSN:/, '').replace(/eISSN.*/, '');
     }
     var onlineISSN = issnInfo.replace(/^(ISSN.*)?eISSN:/, '');
     console.log(printISSN + ' -- ' + onlineISSN);
-    journalInfo.print_identifier = printISSN;
+    journalInfo.print_identifier  = printISSN;
     journalInfo.online_identifier = onlineISSN;
-    journalInfo.title_id   = journalUrl.split('/').pop();
-    journalInfo.title_url   = journalUrl;
+    journalInfo.title_id          = journalUrl.split('/').pop();
+    journalInfo.title_url         = journalUrl;
     pkb.addRow(journalInfo);
     //writeCSV(journalInfo);
     console.log(journalInfo);
