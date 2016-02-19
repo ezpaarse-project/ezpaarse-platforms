@@ -62,19 +62,13 @@ module.exports = new Parser(function analyseEC(parsedUrl, ec) {
     result.mime     = 'PDF';
     result.title_id = match[2];
     result.unitid = match[2];
-  } else if ((match = /^\/aboveille\/editdoc\.do$/.exec(path)) !== null) {
+  } else if ((match = /^\/aboveille\/(editdoc|logon)\.do$/.exec(path)) !== null) {
     // http://www.editions-legislatives.fr/aboveille/editdoc.do?attId=150868
     result.rtype    = 'ARTICLE';
     result.mime     = 'PDF';
-    if (param.attId) {
-      result.title_id = param.attId;
-      result.unitid= param.attId;
+    if (match[1] === 'logon') {
+      result.mime     = 'HTML';
     }
-  } else if ((match = /^\/aboveille\/logon\.do$/.exec(path)) !== null) {
-    // http://www.editions-legislatives.fr/aboveille/logon.do?zone=CCACTU
-    // &theme=15w345&attId=159359&forward=viewccarticle
-    result.rtype    = 'ARTICLE';
-    result.mime     = 'HTML';
     if (param.attId) {
       result.title_id = param.attId;
       result.unitid= param.attId;

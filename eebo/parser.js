@@ -22,9 +22,9 @@ module.exports = new Parser(function analyseEC(parsedUrl, ec) {
   // use console.error for debuging
   // console.error(parsedUrl);
 
-  var match;
 
-  if ((match = /^\/downloadpdf$/.exec(path)) !== null) {
+
+  if (/^\/downloadpdf$/.test(path)) {
     // https://eebo-chadwyck-com.bibliopam-evry.univ-evry.fr/downloadpdf?id=12330237&vid=59632&filename=A_M_Gent-
     //A_most_choice_historical_compendium-Wing-
     ///M3-640_03&pages=1&rectype=MONOGRAPH&database=Early%20English%20Books%201641-1700&pubyear=0
@@ -32,7 +32,7 @@ module.exports = new Parser(function analyseEC(parsedUrl, ec) {
     result.mime     = 'PDF';
     result.title_id = param.id;
     result.unitid   = param.id;
-  } else if ((match = /^\/downloadtiff$/.exec(path)) !== null) {
+  } else if (/^\/downloadtiff$/.test(path)) {
     // https://eebo-chadwyck-com.bibliopam-evry.univ-evry.fr/downloadtiff?vid=59632&eeboid=12330237&filename=A_M_Gent
     //-A_most_choice_historical_compendium-Wing-
     //M3-640_03&page=1&database=Early%20English%20Books%201641-1700&rectype=MONOGRAPH&pubyear=0
@@ -40,7 +40,7 @@ module.exports = new Parser(function analyseEC(parsedUrl, ec) {
     result.mime     = 'MISC';
     result.title_id = param.eeboid;
     result.unitid   = param.eeboid;
-  } else if ((match = /^\/search\/toc$/.exec(path)) !== null) {
+  } else if (/^\/search\/toc$/.test(path)) {
     //https://eebo-chadwyck-com.bibliopam-evry.univ-evry.fr/search/toc?ACTION=ExpandID&LEVEL=1&
     //ID=D00000123302370000&FILE=../session/1446462957_4884&SEARCHSCREEN=CITATIONS&
     //DISPLAY=AUTHOR&RESULTCLICK=default&SOURCE=var_spell.cfg
@@ -48,7 +48,7 @@ module.exports = new Parser(function analyseEC(parsedUrl, ec) {
     result.mime     = 'HTML';
     result.title_id = param.ID.substr(6, 8);
     result.unitid   = param.ID;
-  } else if ((match = /^\/search\/([^.]+)$/.exec(path)) !== null) {
+  } else if (/^\/search\/([^.]+)$/.test(path)) {
     //https://eebo-chadwyck-com.bibliopam-evry.univ-evry.fr/search/full_rec?SOURCE=pgthumbs.
     //cfg&ACTION=ByID&ID=12330237&FILE=../session/1446462957_4884&SEARCHSCREEN=CITATIONS&SEARCHCONFIG=var_spell.
     //cfg&DISPLAY=AUTHOR

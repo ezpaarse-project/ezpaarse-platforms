@@ -11,11 +11,9 @@ module.exports = new Parser(function analyseEC(parsedUrl) {
   var param  = parsedUrl.query || {};
   var path   = parsedUrl.pathname;
 
-  var match;
-
 // console.log(path);
 
-  if ((match = /\/EFL2\/DOCUMENT\/VIEW\/documentViewUDContent.do/.exec(path)) !== null) {
+  if (/\/EFL2\/DOCUMENT\/VIEW\/documentViewUDContent.do/.test(path)) {
     // http://abonnes.efl.fr/EFL2/DOCUMENT/VIEW/documentViewUDContent.do?fromNavig=true&
     // key=DOC$MASGE&refId=P1822245B2F70F-EFL&fromLink=true#P1822245B2F70F-EFL
 
@@ -28,7 +26,7 @@ module.exports = new Parser(function analyseEC(parsedUrl) {
       result.unitid = param.refId;
     }
 
-  } else if ((match = /\/portail\/actusdetail.no/.exec(path)) !== null) {
+  } else if (/\/portail\/actusdetail.no/.test(path)) {
     // http://abonnes.efl.fr/portail/actusdetail.no?ezId=41312&mode=nav&from=autre
     result.rtype = 'ACTUALITE';
     result.mime  = 'HTML';

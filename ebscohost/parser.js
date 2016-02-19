@@ -5,7 +5,7 @@
 /*jslint maxlen: 150*/
 'use strict';
 var Parser = require('../.lib/parser.js');
-
+var URL    = require('url');
 /**
  * Identifie les consultations de la plateforme EbscoHost
  * @param  {Object} parsedUrl an object representing the URL to analyze
@@ -25,8 +25,7 @@ module.exports = new Parser(function analyseEC(parsedUrl, ec) {
   var hashedUrl;
 
   if (parsedUrl.hash) {
-    var URL  = require('url');
-    hashedUrl = URL.parse(parsedUrl.hash.replace('#','/?'), true);
+    hashedUrl = URL.parse(parsedUrl.hash.replace('#', '/?'), true);
   }
 
   if ((match = /^\/pdf(.*)\/pdf\/(([^ ]+)\/([^\/]+))\.pdf$/.exec(path)) !== null) {
