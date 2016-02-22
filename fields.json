@@ -26,6 +26,9 @@
     {
       "code": "PDF"
     },{
+      "code": "LATEX",
+      "description": "LATEX It is a format widely used for writing scientific articles (especially in math, physics, computer science, etc.)"
+    },{
       "code": "PDFPLUS",
       "description": "PDF avec navigation interactive, contenu multimedia, liens..."
     },{
