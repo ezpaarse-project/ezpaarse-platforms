@@ -1,7 +1,7 @@
 #!/usr/bin/env node
 
 // Write on stdout the BMC journals PKB
-// TODO ne distingue pas les titres springeropen et chemistrycentral
+// il ne distingue pas les titres springeropen et chemistrycentral
 // possible (?) avec h3 > a.parent.parent > a.tooltip : attrib(href) permet identifieri
 // http://www.springeropen.com ou http://www.chemistrycentral.com
 // Write on stderr the progression

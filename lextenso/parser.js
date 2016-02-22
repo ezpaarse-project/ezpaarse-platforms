@@ -24,7 +24,7 @@ module.exports = new Parser(function analyseEC(parsedUrl) {
         result.mime = 'HTML';
       } else if ((match = /^(C[A-Z0-9]+)/.exec(id)) !== null) {
         // http://www.lextenso.fr/weblextenso/article/afficher?id=C010IXCXCX2001X12X01X00177X053&origin=recherche;1&d=3575204329777
-        // TODO : confirm title_id value for jurisprudence
+        // confirm title_id value for jurisprudence
         result.title_id = match[1];
         result.rtype = 'JURISPRUDENCE';
         result.mime = 'HTML';

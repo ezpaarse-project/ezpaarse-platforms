@@ -104,7 +104,7 @@ module.exports = new Parser(function analyseEC(parsedUrl, ec) {
           }
         }
       // } else {
-        // TODO alert on new affiliateId
+        // alert on new affiliateId
       }
     }
     result.mime     = 'DEEPDYVE';
