@@ -35,8 +35,13 @@ request({ url: atozUrl, encoding: null }, (err, res, body) => {
   scrapeGSW(err => {
     if (err) { throw err; }
 
-    pkb.writeKbart();
-    console.error(`Kbart file generated. Path : ${pkb.kbartFileName}`);
+    console.error('Scraping Highwire AtoZ');
+    scrapeAtoZ(err => {
+      if (err) { throw err; }
+
+      pkb.writeKbart();
+      console.error(`Kbart file generated. Path : ${pkb.kbartFileName}`);
+    });
   });
 });
 
@@ -130,6 +135,35 @@ function scrapeGSW(callback) {
           }
         });
       }
+    });
+
+    callback();
+  });
+}
+
+function scrapeAtoZ(callback) {
+  let atozJournals = 'http://highwire.stanford.edu/lists/allsites.dtl';
+
+  request(atozJournals, (err, res, body) => {
+    if (err) { return callback(err); }
+
+    let $ = cheerio.load(body);
+
+    $('#subpage_content table td:nth-child(2) > a').each((index, element) => {
+
+      let href = $(element).attr('href');
+      let hostname = URL.parse(href).host;
+
+      if (!hostname || pkb.rowsMap.hasOwnProperty(hostname)) { return; }
+
+      let journal = pkb.initRow({
+        'title_url': href,
+        'title_id': hostname,
+        'pkb-piddomain': hostname,
+        'publication_title': $(element).text()
+      });
+
+      pkb.addRow(journal);
     });
 
     callback();
