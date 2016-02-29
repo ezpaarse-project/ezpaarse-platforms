@@ -1,103 +1,25 @@
 publication_title	print_identifier	online_identifier	date_first_issue_online	num_first_vol_online	num_first_issue_online	date_last_issue_online	num_last_vol_online	num_last_issue_online	title_url	first_author	title_id	embargo_info	coverage_depth	coverage_notes	publisher_name	publication_type	date_monograph_published_print	date_monograph_published_online	monograph_volume	monograph_edition	first_editor	parent_publication_title_id	preceding_publication_title_id	access_type	pkb-piddomain
-Acta Biochimica et Biophysica Sinica	1672-9145	1745-7270							http://abbs.oxfordjournals.org		abbs.oxfordjournals.org				Oxford University Press										
-Archives of Clinical Neuropsychology	0887-6177	1873-5843							http://acn.oxfordjournals.org		acn.oxfordjournals.org				Oxford University Press										
-Applied Economic Perspectives and Policy	2040-5790	2040-5804							http://aepp.oxfordjournals.org		aepp.oxfordjournals.org				Oxford University Press										
 Journal Watch AIDS Clinical Care	1043-1543	1537-0844							http://aids-clinical-care.jwatch.org		aids-clinical-care.jwatch.org														
-American Journal of Agricultural Economics	0002-9092	1467-8276							http://ajae.oxfordjournals.org		ajae.oxfordjournals.org				Oxford University Press										
 American Journal of Occupational Therapy	0272-9490	1943-7676							http://ajot.aotapress.net		ajot.aotapress.net														
-Arbitration Law Reports and Review	2044-8651	2044-9887							http://alrr.oxfordjournals.org		alrr.oxfordjournals.org				Oxford University Press										
-Analysis	0003-2638	1467-8284							http://analysis.oxfordjournals.org		analysis.oxfordjournals.org				Oxford University Press										
-AoB PLANTS		2041-2851							http://aobpla.oxfordjournals.org		aobpla.oxfordjournals.org				Oxford University Press										
-Briefings in Functional Genomics	2041-2649	2041-2657							http://bfg.oxfordjournals.org		bfg.oxfordjournals.org				Oxford University Press										
-Briefings in Bioinformatics	1467-5463	1477-4054							http://bib.oxfordjournals.org		bib.oxfordjournals.org				Oxford University Press										
-Journals of Gerontology Series A: Biological Sciences and Medical Sciences	1079-5006	1758-535X							http://biomedgerontology.oxfordjournals.org		biomedgerontology.oxfordjournals.org				Oxford University Press										
-Biometrika	0006-3444	1464-3510							http://biomet.oxfordjournals.org		biomet.oxfordjournals.org				Oxford University Press										
-British Journal of Aesthetics	0007-0904	1468-2842							http://bjaesthetics.oxfordjournals.org		bjaesthetics.oxfordjournals.org				Oxford University Press										
 British Journal of Radiology	0007-1285	1748-880X							http://bjr.birjournals.org		bjr.birjournals.org														
-Bulletin of London Mathematical Society	0024-6093	1469-2120							http://blms.oxfordjournals.org		blms.oxfordjournals.org				Oxford University Press										
-British Yearbook of International Law	0068-2691	2044-9437							http://bybil.oxfordjournals.org		bybil.oxfordjournals.org				Oxford University Press										
 Journal Watch Cardiology	1521-5822	1533-7839							http://cardiology.jwatch.org		cardiology.jwatch.org														
-Cardiovascular Research	0008-6363								http://cardiovascres.oxfordjournals.org		cardiovascres.oxfordjournals.org				Oxford University Press										
-CESifo Economic Studies	1610-241X	1612-7501							http://cesifo.oxfordjournals.org		cesifo.oxfordjournals.org				Oxford University Press										
-Chinese Journal of International Law	1540-1650	1746-9937							http://chinesejil.oxfordjournals.org		chinesejil.oxfordjournals.org				Oxford University Press										
-Clinical Infectious Diseases	1058-4838	1537-6591							http://cid.oxfordjournals.org		cid.oxfordjournals.org				Oxford University Press										
-Chinese Journal of International Politics	1750-8916	1750-8924							http://cjip.oxfordjournals.org		cjip.oxfordjournals.org				Oxford University Press										
-Cambridge Journal of Regions, Economy and Society	1752-1378	1752-1386							http://cjres.oxfordjournals.org		cjres.oxfordjournals.org				Oxford University Press										
-Clinical Kidney Journal	2048-8505	2048-8513							http://ckj.oxfordjournals.org		ckj.oxfordjournals.org				Oxford University Press										
-Current Legal Problems	0070-1998	2044-8422							http://clp.oxfordjournals.org		clp.oxfordjournals.org				Oxford University Press										
-Computer Journal	0010-4620	1460-2067							http://comjnl.oxfordjournals.org		comjnl.oxfordjournals.org				Oxford University Press										
-Conservation Physiology		2051-1434							http://conphys.oxfordjournals.org		conphys.oxfordjournals.org				Oxford University Press										
-Classical Receptions Journal	1759-5134	1759-5142							http://crj.oxfordjournals.org		crj.oxfordjournals.org				Oxford University Press										
-Database		1758-0463							http://database.oxfordjournals.org		database.oxfordjournals.org				Oxford University Press										
 Journal Watch Dermatology	1521-3595	1533-7847							http://dermatology.jwatch.org		dermatology.jwatch.org														
 Dentomaxillofacial Radiology	0250-832X	1476-542X							http://dmfr.birjournals.org		dmfr.birjournals.org														
 British Journal of Diabetes & Vascular Disease	1474-6514	1753-4305							http://dvd.sagepub.com		dvd.sagepub.com														
-European Heart Journal - Cardiovascular Imaging	2047-2404	2047-2412							http://ehjcimaging.oxfordjournals.org		ehjcimaging.oxfordjournals.org				Oxford University Press										
-European Journal of Cardio-Thoracic Surgery	1010-7940	1873-734X							http://ejcts.oxfordjournals.org		ejcts.oxfordjournals.org				Oxford University Press										
-ELT Journal	0951-0893	1477-4526							http://eltj.oxfordjournals.org		eltj.oxfordjournals.org				Oxford University Press										
 Journal Watch Emergency Medicine	1521-6535	1533-7952							http://emergency-medicine.jwatch.org		emergency-medicine.jwatch.org														
 European Journal of Heart Failure	1388-9842	1879-0844							http://eurjhf.oxfordjournals.org		eurjhf.oxfordjournals.org				Oxford University Press										
 European Journal of Heart Failure Supplements	1567-4215	1878-1314							http://eurjhfsupp.oxfordjournals.org		eurjhfsupp.oxfordjournals.org				Oxford University Press										
-French Studies Bulletin	0262-2750	1748-9180							http://fsb.oxfordjournals.org		fsb.oxfordjournals.org				Oxford University Press										
 Journal Watch Gastroenterology	1527-1579	1533-7898							http://gastroenterology.jwatch.org		gastroenterology.jwatch.org														
-Genome Biology and Evolution		1759-6653							http://gbe.oxfordjournals.org		gbe.oxfordjournals.org				Oxford University Press										
 Journal Watch (General)	0896-7210	1533-7820							http://general-medicine.jwatch.org		general-medicine.jwatch.org														
-Journal of Gerontology	0022-1422								http://geronj.oxfordjournals.org		geronj.oxfordjournals.org				Oxford University Press										
-Gerontologist	0016-9013	1758-5341							http://gerontologist.oxfordjournals.org		gerontologist.oxfordjournals.org				Oxford University Press										
-Geophysical Supplements to Monthly Notices of Royal Astronomical Society	2051-1965	2051-1973							http://gsmnras.oxfordjournals.org		gsmnras.oxfordjournals.org				Oxford University Press										
-ICES Journal of Marine Science	1054-3139	1095-9289							http://icesjms.oxfordjournals.org		icesjms.oxfordjournals.org				Oxford University Press										
-Interactive CardioVascular and Thoracic Surgery	1569-9293	1569-9285							http://icvts.oxfordjournals.org		icvts.oxfordjournals.org				Oxford University Press										
-International Journal of Low-Carbon Technologies	1748-1317								http://ijlct.oxfordjournals.org		ijlct.oxfordjournals.org				Oxford University Press										
-International Journal of Refugee Law	0953-8186	1464-3715							http://ijrl.oxfordjournals.org		ijrl.oxfordjournals.org				Oxford University Press										
-International Journal of Transitional Justice	1752-7716	1752-7724							http://ijtj.oxfordjournals.org		ijtj.oxfordjournals.org				Oxford University Press										
 Imaging	0965-6812	1748-8818							http://imaging.birjournals.org		imaging.birjournals.org														
 Journal Watch Infectious Diseases	1521-3609	1533-7871							http://infectious-diseases.jwatch.org		infectious-diseases.jwatch.org														
-Interdisciplinary Studies in Literature and Environment	1076-0962	1759-1090							http://isle.oxfordjournals.org		isle.oxfordjournals.org				Oxford University Press										
-ITNOW	1746-5702	1746-5710							http://itnow.oxfordjournals.org		itnow.oxfordjournals.org				Oxford University Press										
-Journal of American History	0021-8723								http://jah.oxfordjournals.org		jah.oxfordjournals.org				Oxford University Press										
-Journal of Human Rights Practice	1757-9619	1757-9627							http://jhrp.oxfordjournals.org		jhrp.oxfordjournals.org				Oxford University Press										
-Journal of Hindu Studies	1756-4255	1756-4263							http://jhs.oxfordjournals.org		jhs.oxfordjournals.org				Oxford University Press										
-Journal of Infectious Diseases	0022-1899	1537-6613							http://jid.oxfordjournals.org		jid.oxfordjournals.org				Oxford University Press										
-Logic Journal of IGPL	1367-0751	1368-9894							http://jigpal.oxfordjournals.org		jigpal.oxfordjournals.org				Oxford University Press										
-Journal of Islamic Studies	0955-2340	1471-6917							http://jis.oxfordjournals.org		jis.oxfordjournals.org				Oxford University Press										
-Journal of London Mathematical Society	0024-6107	1469-7750							http://jlms.oxfordjournals.org		jlms.oxfordjournals.org				Oxford University Press										
-Journal of Molecular Cell Biology	1674-2788								http://jmcb.oxfordjournals.org		jmcb.oxfordjournals.org				Oxford University Press										
-Journal of Music Therapy	0022-2917	2053-7395							http://jmt.oxfordjournals.org		jmt.oxfordjournals.org				Oxford University Press										
-JNCI Monographs	1052-6773	1745-6614							http://jncimono.oxfordjournals.org		jncimono.oxfordjournals.org				Oxford University Press										
-Journal of Plant Ecology	1752-9921	1752-993X							http://jpe.oxfordjournals.org		jpe.oxfordjournals.org				Oxford University Press										
-Journal of Refugee Studies	0951-6328	1471-6925							http://jrs.oxfordjournals.org		jrs.oxfordjournals.org				Oxford University Press										
-Journal of Topology	1753-8416	1753-8424							http://jtopol.oxfordjournals.org		jtopol.oxfordjournals.org				Oxford University Press										
-Leo Baeck Institute Yearbook	0075-8744	1758-437X							http://leobaeck.oxfordjournals.org		leobaeck.oxfordjournals.org				Oxford University Press										
-Literary and Linguistic Computing	0268-1145	1477-4615							http://llc.oxfordjournals.org		llc.oxfordjournals.org				Oxford University Press										
-Journal of Logic and Computation	0955-792X	1465-363X							http://logcom.oxfordjournals.org		logcom.oxfordjournals.org				Oxford University Press										
-OAH Magazine of History	0882-228X								http://maghis.oxfordjournals.org		maghis.oxfordjournals.org				Oxford University Press										
-Medical Mycology	1369-3786	1460-2709							http://mmy.oxfordjournals.org		mmy.oxfordjournals.org				Oxford University Press										
 Molecular Plant	1674-2052	1752-9867							http://mplant.oxfordjournals.org		mplant.oxfordjournals.org				Oxford University Press										
-Music Therapy Perspectives	0734-6875	2053-7387							http://mtp.oxfordjournals.org		mtp.oxfordjournals.org				Oxford University Press										
-Music Theory Spectrum	0195-6167	1533-8339							http://mts.oxfordjournals.org		mts.oxfordjournals.org				Oxford University Press										
 Journal Watch Neurology	1524-0207	1533-788X							http://neurology.jwatch.org		neurology.jwatch.org														
 Journal Watch Oncology and Hematology	1527-1560	1938-7768							http://oncology-hematology.jwatch.org		oncology-hematology.jwatch.org														
 Journal Watch Pediatrics and Adolescent Medicine	1538-3571	1538-358X							http://pediatrics.jwatch.org		pediatrics.jwatch.org														
-Public Health Ethics	1754-9973	1754-9981							http://phe.oxfordjournals.org		phe.oxfordjournals.org				Oxford University Press										
-Proceedings of London Mathematical Society	0024-6115	1460-244X							http://plms.oxfordjournals.org		plms.oxfordjournals.org				Oxford University Press										
 Journal Watch Psychiatry	1521-3617	1533-7855							http://psychiatry.jwatch.org		psychiatry.jwatch.org														
-Journals of Gerontology Series B: Psychological Sciences and Social Sciences	1079-5014	1758-5368							http://psychsocgerontology.oxfordjournals.org		psychsocgerontology.oxfordjournals.org				Oxford University Press										
-Review of Environmental Economics and Policy	1750-6816	1750-6824							http://reep.oxfordjournals.org		reep.oxfordjournals.org				Oxford University Press										
-Review of Economic Studies	0034-6527	1467-937X							http://restud.oxfordjournals.org		restud.oxfordjournals.org				Oxford University Press										
-Research Evaluation	0958-2029	1471-5449							http://rev.oxfordjournals.org		rev.oxfordjournals.org				Oxford University Press										
-Review of Finance	1572-3097	1573-692X							http://rof.oxfordjournals.org		rof.oxfordjournals.org				Oxford University Press										
-Refugee Survey Quarterly	1020-4067	1471-695X							http://rsq.oxfordjournals.org		rsq.oxfordjournals.org				Oxford University Press										
-Social Cognitive and Affective Neuroscience	1749-5016	1749-5024							http://scan.oxfordjournals.org		scan.oxfordjournals.org				Oxford University Press										
-Schizophrenia Bulletin	0586-7614	1745-1701							http://schizophreniabulletin.oxfordjournals.org		schizophreniabulletin.oxfordjournals.org				Oxford University Press										
-Screen	0036-9543	1460-2474							http://screen.oxfordjournals.org		screen.oxfordjournals.org				Oxford University Press										
-Sociology of Religion	1069-4404	1759-8818							http://socrel.oxfordjournals.org		socrel.oxfordjournals.org				Oxford University Press										
 Studies in Mycology	0166-0616	1872-9797							http://studiesinmycology.org		studiesinmycology.org														
-Systematic Biology	1063-5157	1076-836X							http://sysbio.oxfordjournals.org		sysbio.oxfordjournals.org				Oxford University Press										
-Trusts & Trustees	1363-1780								http://tandt.oxfordjournals.org		tandt.oxfordjournals.org				Oxford University Press										
-Tree Physiology	0829-318X	1758-4469							http://treephys.oxfordjournals.org		treephys.oxfordjournals.org				Oxford University Press										
 Journal Watch Women's Health	1086-9662	1533-7944							http://womens-health.jwatch.org		womens-health.jwatch.org														
 Journal of American Animal Hospital Association	0587-2871	1547-3317							http://www.jaaha.org		www.jaaha.org														
 JAOA &#8212; Journal of American Osteopathic Association	0098-6151	1945-1997							http://www.jaoa.org		www.jaoa.org														
 Journal of American Podiatric Medical Association	8750-7315								http://www.japmaonline.org		www.japmaonline.org														
-Yearbook of European Law	0263-3264	2045-0044							http://yel.oxfordjournals.org		yel.oxfordjournals.org				Oxford University Press										
-Yearbook of International Environmental Law	0965-1721	2045-0052							http://yielaw.oxfordjournals.org		yielaw.oxfordjournals.org				Oxford University Press										
