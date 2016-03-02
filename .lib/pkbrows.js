@@ -3,7 +3,7 @@
  * used to manage how PKB rows must be
  * deduplicate, sorted and written to CSV format
  */
-
+/* eslint global-require: 0, no-sync: 0 */
 'use strict';
 
 var moment        = require('moment');
@@ -18,7 +18,7 @@ var PkbRows = function(providerName) {
   self.rowsMap   = {};
   self.rows      = [];
   self.sorted    = true;
-  self.providerName = providerName ? providerName : '';
+  self.providerName = providerName || '';
     // provider name will be filled with platform name from path
   self.consortiumName = '';       // default empty
   self.packageName = 'AllTitles'; // default AllTitles
@@ -35,7 +35,7 @@ var PkbRows = function(providerName) {
   self.argv = yargs.argv;
 
   var match;
-  if ( !self.providerName.length) {
+  if (!self.providerName.length) {
     // search platform name in path
     if ((match = /\/([a-z]+[0-9]?)$/.exec(path.dirname(self.argv.$0))) !== null) {
       self.providerName = match[1];
@@ -43,7 +43,7 @@ var PkbRows = function(providerName) {
       console.log(__filename, self.argv.$0);
       self.providerName = 'default_platform';
       if (self.argv.verbose) {
-        console.error("Warning : using platform name " + self.providerName);
+        console.error('Warning : using platform name ' + self.providerName);
       }
     }
   }
@@ -77,21 +77,21 @@ PkbRows.prototype.setKbartName = function (filename) {
   // File Name
   // [ProviderName]_[Region/Consortium]_[PackageName]_[YYYY-MM-DD].txt
   if (filename) { self.kbartFileName += filename + '.txt'; } else {
-  if (self.providerName) { self.kbartFileName += self.providerName; }
-  if (self.consortiumName) { self.kbartFileName += '_' + self.consortiumName; }
-  if (self.packageName) { self.kbartFileName += '_' + self.packageName; }
-  self.kbartFileName += '_' + moment().format('YYYY-MM-DD') + '.txt';
+    if (self.providerName) { self.kbartFileName += self.providerName; }
+    if (self.consortiumName) { self.kbartFileName += '_' + self.consortiumName; }
+    if (self.packageName) { self.kbartFileName += '_' + self.packageName; }
+    self.kbartFileName += '_' + moment().format('YYYY-MM-DD') + '.txt';
   }
-  if (self.argv.verbose) { console.error("Output kbart file : " + self.kbartFileName); }
+  if (self.argv.verbose) { console.error('Output kbart file : ' + self.kbartFileName); }
   if (self.argv.verbose && fs.existsSync(self.kbartFileName) && self.argv.force) {
-    if (self.argv.force) { console.error("Overwriting ..."); }
+    if (self.argv.force) { console.error('Overwriting ...'); }
   }
   if ((fs.existsSync(self.kbartFileName) &&
     self.argv.force) ||
     ! fs.existsSync(self.kbartFileName)) {
-    self.dstStream = fs.openSync(self.kbartFileName, "w", function() {});
+    self.dstStream = fs.openSync(self.kbartFileName, 'w', function() {});
   } else {
-    console.error("File " + self.kbartFileName + " exists, skiping (use --force to overwrite)");
+    console.error('File ' + self.kbartFileName + ' exists, skiping (use --force to overwrite)');
     process.exit(1);
   }
 };
@@ -225,9 +225,9 @@ PkbRows.prototype.sortRows = function () {
     var t1 = a['title_id'].toUpperCase();
     var t2 = b['title_id'].toUpperCase();
 
-    if (t1 > t2)      { return 1;  }
-    else if (t1 < t2) { return -1; }
-    else              { return 0;  }
+    if (t1 > t2) { return 1; }
+    if (t1 < t2) { return -1; }
+    return 0;
   });
 
   self.sorted = true;
@@ -363,7 +363,7 @@ PkbRows.prototype.getKbartFromKBPlus = function (KBPlusPkg, callback) {
     if (jsonSource.header.pkgcount) {
       console.error('Masterlist contains ' + jsonSource.header.pkgcount + ' items');
     } else {
-      throw new Error("KB+ file doesn't contains header");
+      throw new Error('KB+ file doesn\'t contains header');
     }
 
     jsonSource.titles.forEach(function (jsonRow) {
@@ -382,14 +382,14 @@ PkbRows.prototype.getKbartFromKBPlus = function (KBPlusPkg, callback) {
         var titleUrlParts;
         if ((titleUrlParts =
           /(^http:\/\/www\.sciencedirect\.com\/science\/(?:journal|bookseries)\/(aip\/)?([^\/]+))$/
-          .exec(jsonRow.hostPlatformURL) )) {
+          .exec(jsonRow.hostPlatformURL))) {
           // make title_id from parts of titleUrl
           // ex : science direct master list
           // "titleUrl":"http://www.sciencedirect.com/science/journal/22126716"
           //console.error(titleUrlParts);
           journalInfo.title_id = titleUrlParts[3];
         } else if ((titleUrlParts =
-          /^http:\/\/((www\.)?(.*)\.(org|fr))\//.exec(jsonRow.hostPlatformURL) )) {
+          /^http:\/\/((www\.)?(.*)\.(org|fr))\//.exec(jsonRow.hostPlatformURL))) {
           // make title_id from domain name
           // ex : edp science
           // "titleUrl": "http://www.europhysicsnews.org/"
