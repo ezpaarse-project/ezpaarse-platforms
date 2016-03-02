@@ -19,6 +19,7 @@ module.exports = new Parser(function analyseEC(parsedUrl, ec) {
   var param  = parsedUrl.query || {};
   var match;
   if (param.q) {
+    result.istex_rtype = 'QUERY';
     result.rtype = 'QUERY';
     result.mime = 'JSON';
   } else {
@@ -27,7 +28,7 @@ module.exports = new Parser(function analyseEC(parsedUrl, ec) {
       ///document/55420CDEEA0F6538E215A511C72E2E5E57570138/fulltext/original
       ///document/55420CDEEA0F6538E215A511C72E2E5E57570138/metadata/xml
 
-
+      result.istex_rtype = match[2];
       switch (match[3]) {
       case 'txt':
         result.mime = 'TEXT';
