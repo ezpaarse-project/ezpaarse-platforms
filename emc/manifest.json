@@ -1,0 +1,28 @@
+{
+  "version": "2016-03-01",
+  "status": "beta",
+  "domains": [
+    "http://www.em-premium.com"
+  ],
+  "recognize": {
+    "rid": [
+      "title_id",
+      "unit_id"
+    ],
+    "rtype": [
+      "ARTICLE",
+      "BOOK_SERIES",
+      "TOC"
+    ],
+    "mime": [
+      "HTML",
+      "PDF"
+    ]
+  },
+  "name": "emc",
+  "longname": "EM Premium EMC",
+  "describe": "Identifie les consultations de la plateforme EM Premium EMC",
+  "docurl": "http://analogist.couperin.org/platforms/emc",
+  "contact": "Pamphile.isch@upmc.fr",
+  "pkb": true
+}
