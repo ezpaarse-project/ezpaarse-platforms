@@ -1,5 +1,5 @@
 #!/usr/bin/env node
-
+/* eslint global-require: 0 */
 // ##EZPAARSE
 
 'use strict';
