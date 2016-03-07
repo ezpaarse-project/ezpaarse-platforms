@@ -9,8 +9,7 @@
   "docurl": "http://analogist.couperin.org/platforms/palgrave-connect/",
   "contact": "stephane.gully at inist point fr",
 	"domains": [
-    "www.palgraveconnect.com",
-    "www.readcube.com"
+    "www.palgraveconnect.com"
 	],
   "pkb": false,
   "recognize": {
