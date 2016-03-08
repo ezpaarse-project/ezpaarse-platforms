@@ -1,0 +1,25 @@
+{
+  "version": "2016-03-01",
+  "status": "beta",
+  "domains": [
+    "nber.org"
+  ],
+  "recognize": {
+    "rid": [
+      "doi"
+    ],
+    "rtype": [
+      "ARTICLE"
+    ],
+    "mime": [
+      "HTML",
+      "PDF"
+    ]
+  },
+  "name": "nber",
+  "longname": "National Bureau of Economic Research",
+  "describe": "Identifie les consultations de la plateforme National Bureau of Economic Research",
+  "docurl": "http://analogist.couperin.org/platforms/nber/",
+  "contact": "antoine.cordier-2@univ-lille2.fr",
+  "pkb": false
+}

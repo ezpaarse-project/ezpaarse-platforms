@@ -10,4 +10,4 @@ var path = require('path');
 
 var PkbKbp     =  require(path.join(__dirname, '../../.lib/parsXmlKb+.js'));
 
-PkbKbp.generatePkbKbp(957,  'tf', 2);
+PkbKbp.generatePkbKbp(1502,  'tf');
