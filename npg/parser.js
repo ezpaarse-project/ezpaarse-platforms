@@ -95,13 +95,24 @@ module.exports = new Parser(function analyseEC(parsedUrl) {
     }
 
   } else if ((match = /\/([a-zA-Z0-9]+)\/journal\/v([0-9]*)\/n([a-zA-Z0-9]*)\/index.html/.exec(path)) !== null) {
-    // example http://www.nature.com.gate1.inist.fr/nature/journal/v493/n7431/index.html
+    // http://www.nature.com.gate1.inist.fr/nature/journal/v493/n7431/index.html
     result.title_id = match[1];
     result.vol      = match[2];
     result.issue    = match[3];
     result.unitid   = `${match[1]}/v${match[2]}/n${match[3]}`;
     result.rtype    = 'TOC';
     result.mime     = 'MISC';
+
+  } else if ((match = /\/articles\/(?:doi:[0-9]+\.[0-9]+\/)?([a-zA-Z0-9]+)\.epdf/.exec(path)) !== null) {
+    // http://www.nature.com:80/articles/doi:10.1038/nature16976.epdf?parent_url=http%3A%2F%2Fwww.readcube.com%2Farticles%2F10.1038%252Fnature16976&pdf_url=http%3A%2F%2Fwww.nature.com%2Fnature%2Fjournal%2Fv531%2Fn7592%2Fpdf%2Fnature16976.pdf
+    // http://www.nature.com:80/articles/nature16976.epdf?parent_url=http%3A%2F%2Fwww.readcube.com%2Farticles%2F10.1038%252Fnature16976&pdf_url=http%3A%2F%2Fwww.nature.com%2Fnature%2Fjournal%2Fv531%2Fn7592%2Fpdf%2Fnature16976.pdf
+
+    let pdfUrl = parsedUrl && parsedUrl.query.pdf_url;
+    if (pdfUrl) {
+      result = this.execute({ url: pdfUrl });
+    }
+
+    result.rtype = 'READCUBE';
 
   } else if ((match = /^\/([a-zA-Z0-9]+)\/(?:archive\/)?(?:index|current_issue)\.html/.exec(path)) !== null) {
     // http://www.nature.com.gate1.inist.fr/nature/index.html
