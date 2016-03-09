@@ -164,7 +164,7 @@ PkbRows.prototype.addRow = function (row, deduplicateFn) {
 
   // skip if no title_id
   if (!row.title_id) {
-    if (self.argv.verbose) { console.error('Skipping row because title_id is empty: ' + JSON.stringify(row));}
+    if (self.argv.verbose) { console.error('Skipping row because title_id is empty: ' + JSON.stringify(row)); }
     return;
   }
 
@@ -179,7 +179,7 @@ PkbRows.prototype.addRow = function (row, deduplicateFn) {
   });
   if (skipBecauseEmpty) {
     if (self.argv.verbose) { console.error('Skipping row because all the fields expect title_id are empty: '
-    + JSON.stringify(row));}
+    + JSON.stringify(row)); }
     return;
   }
 
@@ -189,7 +189,7 @@ PkbRows.prototype.addRow = function (row, deduplicateFn) {
     self.sorted = false;
     if (self.argv.verbose) { console.error('Keeping row:  print_identifier = "' + row.print_identifier +
                   '"\t online_identifier = "' + row.online_identifier +
-                  '"\t title_id = "' + row.title_id + '"');}
+                  '"\t title_id = "' + row.title_id + '"'); }
     //console.error(JSON.stringify(row));
   } else {
     // need to choose which row must be caught ?
@@ -200,17 +200,17 @@ PkbRows.prototype.addRow = function (row, deduplicateFn) {
         if (self.argv.verbose) { console.error('Skipping this row because this "title_id" has a duplicate ' +
                       'and because of a scraper specific criteria: ' +
                       JSON.stringify(row) + ' but keeping this one ' +
-                      JSON.stringify(rowKeept));}
+                      JSON.stringify(rowKeept)); }
       } else {
         if (self.argv.verbose) { console.error('Skipping this row because this "title_id" has a duplicate ' +
                       'and because of a scraper specific criteria: ' +
                       JSON.stringify(self.rowsMap[row.title_id]) + ' but keeping this one ' +
-                      JSON.stringify(rowKeept));}
+                      JSON.stringify(rowKeept)); }
       }
       self.rowsMap[row.title_id] = rowKeept;
     } else {
       if (self.argv.verbose) { console.error('Skipping this row because this "title_id" has a duplicate: '
-       + JSON.stringify(row));}
+       + JSON.stringify(row)); }
     }
     return;
   }
@@ -281,7 +281,7 @@ PkbRows.prototype.writeKbart = function (callback) {
   // start rows sorting
   self.sortRows();
   var fields    = [];
-  if (self.rows.length === 0) { 
+  if (self.rows.length === 0) {
     DeleteFileKbart(self.kbartFileName);
     console.error('File Not generated : unavailable data ');
     return false;
