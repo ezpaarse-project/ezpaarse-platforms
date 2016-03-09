@@ -12,7 +12,7 @@ module.exports = new Parser(function analyseEC(parsedUrl) {
   let path   = parsedUrl.pathname;
   let match;
 
-  if ((match = /^\/([a-zA-Z0-9]+)\/journal\/v([a-z0-9]+)\/n([0-9]+|current)\/(pdf|full|abs|extref)\/([a-zA-Z0-9\.\-]+)\.[a-z]{2,4}$/.exec(path)) !== null) {
+  if ((match = /^\/([a-zA-Z0-9]+)\/journal\/v([a-z0-9]+)\/n([0-9]+|current)\/(pdf|full|abs|extref)\/([a-zA-Z0-9\.\-_]+)\.[a-z]{2,4}$/.exec(path)) !== null) {
     // http://www.nature.com/nrm/journal/vaop/ncurrent/full/nrm3940.html
     result.title_id = match[1];
     result.vol      = match[2];
@@ -59,7 +59,7 @@ module.exports = new Parser(function analyseEC(parsedUrl) {
       break;
     }
 
-  } else if ((match = /\/([a-zA-Z0-9]+)\/(?:knowledgeenvironment\/)?([0-9]+)\/[0-9]+\/(?:[a-zA-Z0-9]+\/)?(pdf|full)\/([a-zA-Z0-9\-]+)\.[a-z]{2,4}$/.exec(path)) !== null) {
+  } else if ((match = /\/([a-zA-Z0-9]+)\/(?:knowledgeenvironment\/)?([0-9]+)\/[0-9]+\/(?:[a-zA-Z0-9]+\/)?(pdf|full)\/([a-zA-Z0-9\-_]+)\.[a-z]{2,4}$/.exec(path)) !== null) {
     // http://www.nature.com/bonekey/knowledgeenvironment/2012/120613/bonekey2012109/full/bonekey2012109.html
     // http://www.nature.com/ncomms/2013/130829/ncomms3380/pdf/ncomms3380.pdf
     // http://www.nature.com/news/2007/070919/pdf/449268a.pdf
@@ -102,7 +102,7 @@ module.exports = new Parser(function analyseEC(parsedUrl) {
     result.rtype    = 'TOC';
     result.mime     = 'MISC';
 
-  } else if ((match = /\/articles\/(?:doi:[0-9]+\.[0-9]+\/)?([a-zA-Z0-9]+)\.epdf/.exec(path)) !== null) {
+  } else if ((match = /\/articles\/(?:doi:[0-9]+\.[0-9]+\/)?([a-zA-Z0-9\-_]+)\.epdf/.exec(path)) !== null) {
     // http://www.nature.com:80/articles/doi:10.1038/nature16976.epdf?parent_url=http%3A%2F%2Fwww.readcube.com%2Farticles%2F10.1038%252Fnature16976&pdf_url=http%3A%2F%2Fwww.nature.com%2Fnature%2Fjournal%2Fv531%2Fn7592%2Fpdf%2Fnature16976.pdf
     // http://www.nature.com:80/articles/nature16976.epdf?parent_url=http%3A%2F%2Fwww.readcube.com%2Farticles%2F10.1038%252Fnature16976&pdf_url=http%3A%2F%2Fwww.nature.com%2Fnature%2Fjournal%2Fv531%2Fn7592%2Fpdf%2Fnature16976.pdf
 
