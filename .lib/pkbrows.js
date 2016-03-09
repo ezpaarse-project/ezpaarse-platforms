@@ -67,6 +67,15 @@ var PkbRows = function(providerName) {
   }
 
 };
+PkbRows.prototype.DeleteFileKbart = function () {
+  var self = this;
+  fs.exists(self.kbartFileName, (exists) => {
+    if (exists) {
+      fs.unlink(self.kbartFileName);
+    }
+  });
+
+};
 
 PkbRows.prototype.setKbartName = function (filename) {
   var self = this;
@@ -271,15 +280,12 @@ PkbRows.prototype.writeCSV = function (dstStream) {
 PkbRows.prototype.writeKbart = function (callback) {
   callback = callback || function () {};
   var self = this;
-
   // start rows sorting
   self.sortRows();
-
   var fields    = [];
+  if (self.rows.length === 0) { return false; }
+
   var dstStream = fs.createWriteStream(self.kbartFileName);
-
-  if (self.rows.length === 0) { return callback(); }
-
   fields = Object.keys(self.rows[0]);
   fields.forEach(function (field, idx) {
     dstStream.write(field);
@@ -292,9 +298,8 @@ PkbRows.prototype.writeKbart = function (callback) {
     var row = self.rows[index];
     if (!row) {
       dstStream.end(callback);
-      return;
+      return ;
     }
-
     var line = '';
     fields.forEach(function (field, idx) {
       if (!row[field]) { row[field] = ''; } // keep only strings
@@ -315,6 +320,7 @@ PkbRows.prototype.writeKbart = function (callback) {
   });
 
   writeRow(i++);
+  return true;
 };
 
 PkbRows.prototype.getKbartFromKBPlus = function (KBPlusPkg, callback) {

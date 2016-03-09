@@ -1,5 +1,7 @@
 'use strict';
 
+
+
 var CSV     = require('csv-string');
 var request = require('request');
 var PkbRows = require('./pkbrows.js');
@@ -12,24 +14,44 @@ exports.generatePkbKbp = function (nbrPkbKbp, platformName) {
   };
 
   request.get(opt, function (err, res, body) {
-    var pkb = new PkbRows(platformName);
-    pkb.setKbartName();
-    var csvSource = CSV.parse(body, CSV.detect(body));
-    titles = csvSource[0];
-    csvSource.shift();
-
-    for (var i in csvSource) {
-      var kbartRow = pkb.initRow({});
-      kbartRow = associetElement(titles, csvSource[i]);
-      pkb.addRow(kbartRow);
+    if (err) {
+      console.error(err);
+      return;
     }
 
-    pkb.writeKbart();
+    var csvSource = CSV.parse(body, CSV.detect(body));
+    if (csvSource != undefined) {
+      titles = csvSource[0];
+      csvSource.shift();
+      var pkb = new PkbRows(platformName);
+      pkb.setKbartName();
+      for (var i in csvSource) {
+        var kbartRow = pkb.initRow({});
+        kbartRow = associetElement(titles, csvSource[i]);
+        pkb.addRow(kbartRow);
+      }
+      if (!pkb.writeKbart()) {
+        pkb.DeleteFileKbart();
+        console.error('File Not generated : unavailable data ');
+        return;
+      }
+    } else {
+      console.error('Aucune information retournée');
+      return;
+    }
+    /*
+    var file = path.join(__dirname, '../' + platformName + '/pkb/' + platformName + '_AllTitles' + '_' + moment().format('YYYY-MM-DD') + '.txt');
+
+      fs.createReadStream(file).pipe(process.stdout);
+      */
     console.log('file pkb is created');
   });
 };
 
 function associetElement(titles, value) {
+  if (!value && value != undefined) {
+    return false;
+  }
   var elementproportie = {};
   var url = '';
   var testcounter = 1 ;
