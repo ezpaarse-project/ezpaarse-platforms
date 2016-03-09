@@ -111,7 +111,7 @@ module.exports = new Parser(function analyseEC(parsedUrl) {
       result = this.execute({ url: pdfUrl });
     }
 
-    result.rtype = 'READCUBE';
+    result.mime = 'READCUBE';
 
   } else if ((match = /^\/([a-zA-Z0-9]+)\/(?:archive\/)?(?:index|current_issue)\.html/.exec(path)) !== null) {
     // http://www.nature.com/nature/index.html
