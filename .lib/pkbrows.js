@@ -67,14 +67,12 @@ var PkbRows = function(providerName) {
   }
 
 };
-PkbRows.prototype.DeleteFileKbart = function () {
-  var self = this;
-  fs.exists(self.kbartFileName, (exists) => {
+var DeleteFileKbart = function (filename) {
+  fs.exists(filename, (exists) => {
     if (exists) {
-      fs.unlink(self.kbartFileName);
+      fs.unlink(filename);
     }
   });
-
 };
 
 PkbRows.prototype.setKbartName = function (filename) {
@@ -166,7 +164,7 @@ PkbRows.prototype.addRow = function (row, deduplicateFn) {
 
   // skip if no title_id
   if (!row.title_id) {
-    console.error('Skipping row because title_id is empty: ' + JSON.stringify(row));
+    if (self.argv.verbose) { console.error('Skipping row because title_id is empty: ' + JSON.stringify(row));}
     return;
   }
 
@@ -180,8 +178,8 @@ PkbRows.prototype.addRow = function (row, deduplicateFn) {
     }
   });
   if (skipBecauseEmpty) {
-    console.error('Skipping row because all the fields expect title_id are empty: '
-    + JSON.stringify(row));
+    if (self.argv.verbose) { console.error('Skipping row because all the fields expect title_id are empty: '
+    + JSON.stringify(row));}
     return;
   }
 
@@ -189,9 +187,9 @@ PkbRows.prototype.addRow = function (row, deduplicateFn) {
   if (!self.rowsMap[row.title_id]) {
     self.rowsMap[row.title_id] = row;
     self.sorted = false;
-    console.error('Keeping row:  print_identifier = "' + row.print_identifier +
+    if (self.argv.verbose) { console.error('Keeping row:  print_identifier = "' + row.print_identifier +
                   '"\t online_identifier = "' + row.online_identifier +
-                  '"\t title_id = "' + row.title_id + '"');
+                  '"\t title_id = "' + row.title_id + '"');}
     //console.error(JSON.stringify(row));
   } else {
     // need to choose which row must be caught ?
@@ -199,20 +197,20 @@ PkbRows.prototype.addRow = function (row, deduplicateFn) {
       // call the algorithme who will choose the row to keep
       var rowKeept = deduplicateFn(self.rowsMap[row.title_id], row);
       if (rowKeept == self.rowsMap[row.title_id]) {
-        console.error('Skipping this row because this "title_id" has a duplicate ' +
+        if (self.argv.verbose) { console.error('Skipping this row because this "title_id" has a duplicate ' +
                       'and because of a scraper specific criteria: ' +
                       JSON.stringify(row) + ' but keeping this one ' +
-                      JSON.stringify(rowKeept));
+                      JSON.stringify(rowKeept));}
       } else {
-        console.error('Skipping this row because this "title_id" has a duplicate ' +
+        if (self.argv.verbose) { console.error('Skipping this row because this "title_id" has a duplicate ' +
                       'and because of a scraper specific criteria: ' +
                       JSON.stringify(self.rowsMap[row.title_id]) + ' but keeping this one ' +
-                      JSON.stringify(rowKeept));
+                      JSON.stringify(rowKeept));}
       }
       self.rowsMap[row.title_id] = rowKeept;
     } else {
-      console.error('Skipping this row because this "title_id" has a duplicate: '
-       + JSON.stringify(row));
+      if (self.argv.verbose) { console.error('Skipping this row because this "title_id" has a duplicate: '
+       + JSON.stringify(row));}
     }
     return;
   }
@@ -283,7 +281,11 @@ PkbRows.prototype.writeKbart = function (callback) {
   // start rows sorting
   self.sortRows();
   var fields    = [];
-  if (self.rows.length === 0) { return false; }
+  if (self.rows.length === 0) { 
+    DeleteFileKbart(self.kbartFileName);
+    console.error('File Not generated : unavailable data ');
+    return false;
+  }
 
   var dstStream = fs.createWriteStream(self.kbartFileName);
   fields = Object.keys(self.rows[0]);

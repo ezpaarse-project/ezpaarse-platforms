@@ -30,9 +30,7 @@ exports.generatePkbKbp = function (nbrPkbKbp, platformName) {
         kbartRow = associetElement(titles, csvSource[i]);
         pkb.addRow(kbartRow);
       }
-      if (!pkb.writeKbart()) {
-        pkb.DeleteFileKbart();
-        console.error('File Not generated : unavailable data ');
+      if (!pkb.writeKbart()) {        
         return;
       }
     } else {
