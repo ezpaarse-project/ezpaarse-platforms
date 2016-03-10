@@ -34,11 +34,11 @@ module.exports = new Parser(function analyseEC(parsedUrl) {
     result.vol      = match[2];
     result.issue    = match[3];
 
-  } else if ((match = /^\/doi\/(abs|pdf|full)\/([0-9]{2}\.[0-9]{4}\/(annurev\-([^\-]+)\-[^\-]+\-[^\-]+))$/.exec(path)) !== null) {
+  } else if ((match = /^\/doi\/(abs|pdf|full)\/([0-9]{2}\.[0-9]{4}\/(annurev(\-|\.)([^\-]+)(\-|\.)[^\-]+(\-|\.)[^\-]+))$/.exec(path)) !== null) {
     // http://www.annualreviews.org.gate1.inist.fr/doi/abs/10.1146/annurev-neuro-062111-150343
     result.doi      = match[2];
     result.unitid   = match[3];
-    result.title_id = match[4];
+    result.title_id = match[5].split('.')[0];
 
     switch (match[1]) {
     case 'abs':
