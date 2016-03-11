@@ -40,7 +40,7 @@ module.exports = new Parser(function analyseEC(parsedUrl, ec) {
         result.mime = 'TEI';
         break;
       case 'original':
-        result.mime = 'MISC';
+        result.mime = 'PDF';
         if (match[2] != 'fulltext') {
           result.mime = 'XML';
         }
