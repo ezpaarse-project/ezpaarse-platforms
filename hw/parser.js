@@ -3,169 +3,115 @@
 // ##EZPAARSE
 
 'use strict';
-var Parser = require('../.lib/parser.js');
+const Parser = require('../.lib/parser.js');
 
 module.exports = new Parser(function analyseEC(parsedUrl, ec) {
 
-  var result   = {};
-  var pathname = parsedUrl.pathname;
-  var hostname = parsedUrl.hostname;
-  var fileSize = ec ? parseInt(ec.size, 10) : undefined; // because size could be a string (comming from the test CSV)
-  var match;
-  var testvalue;
-  var info ;
+  const path     = parsedUrl.pathname;
+  const hostname = parsedUrl.hostname;
+  const fileSize = parseInt(ec.size, 10);
+
+  let result = {};
+  let match;
 
   result.title_id = hostname;
 
-  if ((match = /^\/content\/(([0-9]+)\/([0-9\-]+)\/([0-9a-zA-Z\.]+)\.(abstract|full|full\.pdf))(\+html)?$/.exec(pathname)) !== null) {
-    /**
-     * examples : http://rsbl.royalsocietypublishing.org/content/6/4/458.abstract
-     *            http://rsbl.royalsocietypublishing.org/content/6/4/458.full
-     *            http://rsbl.royalsocietypublishing.org/content/6/4/458.full.pdf
-     *            http://cshprotocols.cshlp.org/content/2012/5/pdb.top069344.full.pdf
-     *            http://dmm.biologists.org.gate1.inist.fr/content/1/2-3/69.1.full.pdf+html
-     *            http://geophysics.geoscienceworld.org/content/78/2/B49.full
-     */
-    result.unitid  = hostname + '/' + match[1];
-    testvalue = match[4].split('.')[0];
-    if (testvalue != 'pdb') {
-      result.vol = match[2];
-      result.issue = match[3];
-      result.first_page = match[4].split('.')[0];
-    } else {
-      result.doi = '10.1101/' + match[4];
-    }
-    switch (match[5]) {
-    case 'abstract':
-      result.rtype = 'ABS';
-      result.mime  = 'HTML';
-      break;
-    case 'full':
-      result.rtype = 'ARTICLE';
-      result.mime  = 'HTML';
-      break;
-    case 'full.pdf':
-      result.rtype = 'ARTICLE';
-      result.mime  = 'PDF';
-      break;
-    }
-  } else if ((match = /^\/content\/(([a-z]+)\/([0-9]+)\/([0-9\-]+)\/([0-9a-zA-Z\.]+)\.(abstract|full|full\.pdf))(\+html)?$/.exec(pathname)) !== null) {
-    /**
-     *            http://advan.physiology.org.gate1.inist.fr/content/ajpadvan/38/3/229.full.pdf
-     */
-    result.unitid  = hostname + '/' + match[1];
-    testvalue = match[5].split('.')[0];
-    if (testvalue != 'pdb') {
-      result.vol = match[3];
-      result.issue = match[4];
-      result.first_page = match[5].split('.')[0];
-    } else {
-      result.doi = '10.1101/' + match[5];
-    }
-    switch (match[6]) {
-    case 'abstract':
-      result.rtype = 'ABS';
-      result.mime  = 'HTML';
-      break;
-    case 'full':
-      result.rtype = 'ARTICLE';
-      result.mime  = 'HTML';
-      break;
-    case 'full.pdf':
-      result.rtype = 'ARTICLE';
-      result.mime  = 'PDF';
-      break;
-    }
-  } else if ((match = /\/doi\/pdf(plus)?\/(([0-9\.]+)\/([^\/\(\.)]+))$/.exec(pathname)) !== null) {
-    // http://www.nrcresearchpress.com.gate1.inist.fr/doi/pdfplus/10.1139/er-2013-0083?src=recsys
-    result.rtype = 'ARTICLE';
-    result.mime  = 'PDF';
-    //result.title_id = match[4];
-    result.unitid = hostname + '/' + match[2];
-    result.doi = match[2];
-  } else if ((match = /^\/cgi\/reprint\/([a-zA-Z]+\;[0-9\/]+)$/.exec(pathname)) !== null) {
-    // http://preventionportal.aacrjournals.org.gate1.inist.fr/cgi/reprint/canres;74/16/4378
-    result.unitid = hostname + '/' + match[1].replace(';', '/');
-    result.rtype  = 'ARTICLE';
-    result.mime   = 'PDF';
-
-    info = match[1].split(';')[1];
-    result.vol = info.split('/')[0];
-    result.issue = info.split('/')[1];
-    result.first_page = info.split('/')[2];
-  } else if ((match = /^\/content\/([0-9]+\/[0-9]+\.toc)$/.exec(pathname)) !== null) {
-    // example : http://www.jimmunol.org.gate1.inist.fr/content/188/3.toc
-    result.unitid = hostname + '/' + match[1];
-    result.rtype  = 'TOC';
-    result.mime   = 'HTML';
-  } else if ((match =  /^\/content\/([a-z]+)\/([0-9]{4})\/([0-9]{2})\/([0-9]{2})\/([A-Z]+\.[0-9]{4}\.[0-9]+\.[0-9]+\.[0-9A-Z]+)\/([0-9a-zA-Z]+\_[A-Z]+\.[0-9]{4}\.[0-9]+\.[0-9]+\.pdf)$/.exec(pathname))!== null) {
-    //http://jco.ascopubs.org.gate1.inist.fr/content/suppl/2015/03/23/JCO.2014.55.9898.DC1/Protocol1_JCO.2014.55.9898.pdf
-    //http://jco.ascopubs.org.gate1.inist.fr/content/suppl/2015/03/09/JCO.2014.58.9747.DC2/Protocol_JCO.2014.58.9747.pdf
-
-    var completdoi = match[5].split('.');
-    result.rtype  = 'ARTICLE';
-    result.mime   = 'PDF';
-    result.title_id = match[6];
-    result.unitid = 'content' +'/'+ match[1] +'/'+ match[2] +'/'+ match[3] +'/'+ match[4] +'/'+ match[5];
-    result.doi = '10.1200/' + completdoi[0] + '.'+ completdoi[1] + '.'+ completdoi[2] + '.'+ completdoi[3];
-  } else if ((match = /^\/docserver\/([a-z]+)\/([a-z]+)\/([0-9]{2})\/([0-9]+)\/(([0-9]+)_([a-z0-9]+)).pdf$/.exec(pathname)) !== null) {
-    // http://www.sgmjournals.org.gate1.inist.fr/docserver/fulltext/ijsem/65/8/2410_ijs000272.pdf //?expires=1442326648&id=id&accname=sgid024696&checksum=A5D313D11B167AB2B10D11EAC5EC7C13
-
-    result.rtype = 'ARTICLE';
-    result.mime  = 'PDF';
-    //result.title_id = match[4];
-    result.unitid = match[5];
-    result.title_id = match[2];
-    result.doi = '10.1099/' + match[7];
-  } else if ((match = /^\/content\/([a-z]+)\/([0-9]+)\/([0-9a-zA-Z\.]+)\.(abstract|full|full\.pdf)$/.exec(pathname)) !== null) {
-    // http://www.bmj.com.gate1.inist.fr/content/bmj/343/bmj.d4464.full.pdf
-    switch (match[4]) {
-    case 'abstract':
-      result.rtype = 'ABS';
-      result.mime  = 'HTML';
-      break;
-    case 'full':
-      result.rtype = 'ARTICLE';
-      result.mime  = 'HTML';
-      break;
-    case 'full.pdf':
-      result.rtype = 'ARTICLE';
-      result.mime  = 'PDF';
-      break;
-    }
-
-    //result.title_id = match[4];
-    result.unitid   = match[3];
-    result.title_id = match[1];
-    result.doi      = '10.1136/' + match[3];
-  } else if ((match = /^\/content\/([a-z]+)\/([a-z]+)\/([0-9]{4})\/([0-9]{2})\/([0-9]{2})\/([0-9a-zA-Z\-]+)\.(abstract|full|full\.pdf)$/.exec(pathname)) !== null) {
-    // http://www.bloodjournal.org.gate1.inist.fr/content/bloodjournal/early/2015/02/25/blood-2014-10-608596.full.pdf
-
-    switch (match[7]) {
-    case 'abstract':
-      result.rtype = 'ABS';
-      result.mime  = 'HTML';
-      break;
-    case 'full':
-      result.rtype = 'ARTICLE';
-      result.mime  = 'HTML';
-      break;
-    case 'full.pdf':
-      result.rtype = 'ARTICLE';
-      result.mime  = 'PDF';
-      break;
-    }
-
-    //result.title_id = match[4];
-    result.unitid   = match[2] +'/' + match[3] + '/' + match[4] +'/' + match[5] + '/' + match[6];
-    result.title_id = match[1] ;
-    result.doi      = '10.1136/' + match[6];
-  }
-
-  //([0-9a-zA-Z]+\_[A-Z]+\.[0-9]{4}\.[0-9]+\.[0-9]+\.[0-9A-Z]+\.pdf)
   // if the size is less than 10ko, it's not the actual article but a login page
   if (fileSize && fileSize < 10000) {
     result._granted = false;
+  }
+
+  if (path.startsWith('/content/suppl')) {
+    // /content/suppl/2014/02/03/JCO.2013.50.9539.DC1/DS1_JCO.2013.50.9539.pdf
+    const reg = new RegExp('^/content/suppl/(\\d+)/(\\d+/\\d+/([\\w\\.]+/)?[\\w\\.]+?)\.pdf');
+
+    if ((match = reg.exec(path)) !== null) {
+      result.rtype  = 'SUPPL';
+      result.mime   = 'PDF';
+      result.unitid = `${hostname}/${match[2]}`;
+    }
+
+  } else if (path.startsWith('/content')) {
+    const extReg = '\\.(abstract|full|full\\.pdf|pdf)(?:\\+html)?$';
+
+    // /content/6/4/458.full
+    // /content/78/2/B49.full
+    // /content/2012/5/pdb.top069344.full.pdf
+    // /content/1/2-3/69.1.full.pdf+html
+    const reg1 = new RegExp(`^/content/(?:[a-z]+/)?((\\d+)/(\\d+(?:\-\\d+)?)/([\\w\\.]+?))${extReg}`);
+
+    // /content/bmj/343/bmj.d4464.full.pdf
+    // /content/bloodjournal/early/2015/02/25/blood-2014-10-608596.full.pdf
+    const reg2 = new RegExp(`^/content/\\w+/(?:early/)?((?:\\d+/\\d+/)?\\d+/[\\w\\-\\.]+?)${extReg}`);
+
+    // /content/188/3.toc
+    const reg3 = new RegExp('^/content/(\\d+/\\d+).toc$');
+
+    let extension;
+
+    if ((match = reg1.exec(path)) !== null) {
+      extension = match[5];
+      result.unitid = `${hostname}/${match[1]}`;
+
+      const firstPage = match[4].split('.')[0];
+
+      if (firstPage !== 'pdb') {
+        result.vol        = match[2];
+        result.issue      = match[3];
+        result.first_page = firstPage;
+      }
+
+    } else if ((match = reg2.exec(path)) !== null) {
+      extension = match[2];
+      result.unitid = `${hostname}/${match[1]}`;
+
+    } else if ((match = reg3.exec(path)) !== null) {
+      result.unitid = `${hostname}/${match[1]}`;
+      result.rtype  = 'TOC';
+      result.mime   = 'HTML';
+    }
+
+    switch (extension) {
+    case 'abstract':
+      result.rtype = 'ABS';
+      result.mime  = 'HTML';
+      break;
+    case 'full':
+      result.rtype = 'ARTICLE';
+      result.mime  = 'HTML';
+      break;
+    case 'full.pdf':
+    case 'pdf':
+      result.rtype = 'ARTICLE';
+      result.mime  = 'PDF';
+      break;
+    }
+
+  } else if (path.startsWith('/cgi/reprint')) {
+
+    const reg = new RegExp('^/cgi/reprint/(\\w+;(\\d+)/(\\d+)/(\\d+))$');
+
+    if ((match = reg.exec(path)) !== null) {
+      // http://preventionportal.aacrjournals.org/cgi/reprint/canres;74/16/4378
+
+      result.unitid = `${hostname}/${match[1]}`;
+      result.rtype  = 'ARTICLE';
+      result.mime   = 'PDF';
+
+      result.vol        = match[2];
+      result.issue      = match[3];
+      result.first_page = match[4];
+    }
+
+  } else if (path.startsWith('/docserver')) {
+    // http://www.sgmjournals.org/docserver/fulltext/ijsem/65/8/2410_ijs000272.pdf
+    const docReg = new RegExp('^/docserver/\\w+/(\\w+/\\d+/\\d+/\\w+)\.pdf$');
+
+    if ((match = docReg.exec(path)) !== null) {
+      result.unitid = `${hostname}/${match[1]}`;
+      result.rtype  = 'ARTICLE';
+      result.mime   = 'PDF';
+    }
   }
 
   // do not return ECs with empty rtype and empty mime
