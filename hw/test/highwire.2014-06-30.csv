@@ -2,7 +2,7 @@ out-unitid;out-title_id;out-vol;out-issue;out-first_page;out-rtype;out-mime;out-
 rsbl.royalsocietypublishing.org/6/4/458;rsbl.royalsocietypublishing.org;6;4;458;ARTICLE;HTML;;http://rsbl.royalsocietypublishing.org/content/6/4/458.full;18502
 cshprotocols.cshlp.org/2012/5/pdb.top069344;cshprotocols.cshlp.org;;;;ARTICLE;PDF;;http://cshprotocols.cshlp.org/content/2012/5/pdb.top069344.full.pdf;722529
 www.jimmunol.org/192/11/4957;www.jimmunol.org;192;11;4957;ABS;HTML;;http://www.jimmunol.org/content/192/11/4957.abstract;55945
-www.jimmunol.org/188/3;www.jimmunol.org;;;;TOC;HTML;;http://www.jimmunol.org/content/188/3.toc;273262
+www.jimmunol.org/188/3;www.jimmunol.org;188;3;;TOC;HTML;;http://www.jimmunol.org/content/188/3.toc;273262
 geophysics.geoscienceworld.org/78/2/B49;geophysics.geoscienceworld.org;78;2;B49;ARTICLE;HTML;false;http://geophysics.geoscienceworld.org/content/78/2/B49.full;8272
 geophysics.geoscienceworld.org/78/2/B49;geophysics.geoscienceworld.org;78;2;B49;ARTICLE;PDF;false;http://geophysics.geoscienceworld.org/content/78/2/B49.full.pdf;8272
 geophysics.geoscienceworld.org/78/2/B49;geophysics.geoscienceworld.org;78;2;B49;ABS;HTML;false;http://geophysics.geoscienceworld.org/content/78/2/B49.abstract;8272
@@ -23,3 +23,8 @@ www.biochemj.org/467/bj4670193;www.biochemj.org;;;;ARTICLE;HTML;;http://www.bioc
 www.bioscirep.org/035/e182/bsr035e182;www.bioscirep.org;;;;ARTICLE;HTML;;http://www.bioscirep.org/bsr/035/e182/bsr035e182.htm;
 www.biochemsoctrans.org/042/1;www.biochemsoctrans.org;;;;TOC;HTML;;http://www.biochemsoctrans.org/bst/042/1/default.htm?s=0;
 www.biochemj.org/467/bj4670345ntsadd;www.biochemj.org;;;;ARTICLE;PDF;;http://www.biochemj.org/bj/467/bj4670345ntsadd.pdf;
+ammin.geoscienceworld.org/100/8-9/1728;ammin.geoscienceworld.org;100;8-9;1728;ARTICLE;PDF;;http://ammin.geoscienceworld.org/content/100/8-9/1728.full.pdf+html;
+rimg.geoscienceworld.org/68/1/345;rimg.geoscienceworld.org;68;1;345;ARTICLE;PDF;;http://rimg.geoscienceworld.org/content/68/1/345.full.pdf+html;
+rimg.geoscienceworld.org/68/1/345;rimg.geoscienceworld.org;68;1;345;ARTICLE;HTML;;http://rimg.geoscienceworld.org/content/68/1/345.full;
+bsgf.geoscienceworld.org/184/3/225;bsgf.geoscienceworld.org;184;3;225;ABS;HTML;;http://bsgf.geoscienceworld.org/content/184/3/225.abstract;
+aapgbull.geoscienceworld.org/97/1;aapgbull.geoscienceworld.org;97;1;;TOC;HTML;;http://aapgbull.geoscienceworld.org/content/97/1.toc;

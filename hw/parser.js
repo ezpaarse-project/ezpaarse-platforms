@@ -46,7 +46,7 @@ module.exports = new Parser(function analyseEC(parsedUrl, ec) {
 
     // /content/343/bmj.d4285
     // /content/188/3.toc
-    const reg3 = new RegExp(`^/content/(\\d+/[\\w\\.]+?)${extReg}`);
+    const reg3 = new RegExp(`^/content/(\\d+)/([\\w\\.]+?)${extReg}`);
 
     let extension;
 
@@ -63,11 +63,17 @@ module.exports = new Parser(function analyseEC(parsedUrl, ec) {
       }
 
     } else if ((match = reg2.exec(path)) !== null) {
-      extension = match[2] || 'full';
+      extension     = match[2] || 'full';
       result.unitid = `${hostname}/${match[1]}`;
+
     } else if ((match = reg3.exec(path)) !== null) {
-      extension = match[2] || 'full';
-      result.unitid = `${hostname}/${match[1]}`;
+      extension     = match[3] || 'full';
+      result.vol    = match[1];
+      result.unitid = `${hostname}/${match[1]}/${match[2]}`;
+
+      if (/^\d+$/.test(match[2])) {
+        result.issue = match[2];
+      }
     }
 
     switch (extension) {
