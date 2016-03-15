@@ -32,7 +32,7 @@ module.exports = new Parser(function analyseEC(parsedUrl, ec) {
     }
 
   } else if (path.startsWith('/content')) {
-    const extReg = '\\.(abstract|full|full\\.pdf|pdf)(?:\\+html)?$';
+    const extReg = '(?:\\.(abstract|full|full\\.pdf|pdf|toc)(?:\\+html)?)?$';
 
     // /content/6/4/458.full
     // /content/78/2/B49.full
@@ -44,13 +44,14 @@ module.exports = new Parser(function analyseEC(parsedUrl, ec) {
     // /content/bloodjournal/early/2015/02/25/blood-2014-10-608596.full.pdf
     const reg2 = new RegExp(`^/content/\\w+/(?:early/)?((?:\\d+/\\d+/)?\\d+/[\\w\\-\\.]+?)${extReg}`);
 
+    // /content/343/bmj.d4285
     // /content/188/3.toc
-    const reg3 = new RegExp('^/content/(\\d+/\\d+).toc$');
+    const reg3 = new RegExp(`^/content/(\\d+/[\\w\\.]+?)${extReg}`);
 
     let extension;
 
     if ((match = reg1.exec(path)) !== null) {
-      extension = match[5];
+      extension = match[5] || 'full';
       result.unitid = `${hostname}/${match[1]}`;
 
       const firstPage = match[4].split('.')[0];
@@ -62,13 +63,11 @@ module.exports = new Parser(function analyseEC(parsedUrl, ec) {
       }
 
     } else if ((match = reg2.exec(path)) !== null) {
-      extension = match[2];
+      extension = match[2] || 'full';
       result.unitid = `${hostname}/${match[1]}`;
-
     } else if ((match = reg3.exec(path)) !== null) {
+      extension = match[2] || 'full';
       result.unitid = `${hostname}/${match[1]}`;
-      result.rtype  = 'TOC';
-      result.mime   = 'HTML';
     }
 
     switch (extension) {
@@ -84,6 +83,10 @@ module.exports = new Parser(function analyseEC(parsedUrl, ec) {
     case 'pdf':
       result.rtype = 'ARTICLE';
       result.mime  = 'PDF';
+      break;
+    case 'toc':
+      result.rtype = 'TOC';
+      result.mime  = 'HTML';
       break;
     }
 
@@ -112,6 +115,27 @@ module.exports = new Parser(function analyseEC(parsedUrl, ec) {
       result.rtype  = 'ARTICLE';
       result.mime   = 'PDF';
     }
+  } else if ((match = /^\/\w+\/(\d+\/(?:\w+\/)?\w+)\.(pdf|htm)/.exec(path)) !== null) {
+    // /bj/467/bj4670193.htm;
+    // /bj/467/bj4670345ntsadd.pdf;
+    // /bst/028/0575/0280575.pdf;
+    // /bsr/035/e182/bsr035e182.htm;
+    // /bst/042/1/default.htm?s=0;
+
+    if (match[1].endsWith('/default')) {
+      result.unitid = `${hostname}/${match[1].slice(0, -8)}`;
+      result.rtype  = 'TOC';
+      result.mime   = 'HTML';
+    } else {
+      result.unitid = `${hostname}/${match[1]}`;
+      result.rtype  = 'ARTICLE';
+      result.mime   = (match[2] === 'pdf' ? 'PDF' : 'HTML');
+    }
+  } else if ((match = /^\/\w+\/toc\.htm/.test(path)) !== null) {
+    // /bsr/toc.htm;
+    result.unitid = hostname;
+    result.rtype  = 'TOC';
+    result.mime   = 'HTML';
   }
 
   // do not return ECs with empty rtype and empty mime
