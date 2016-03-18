@@ -1,0 +1,25 @@
+{
+  "version": "2016-03-18",
+  "status": "beta",
+  "domains": [
+    "www.futuremedicine.com"
+  ],
+  "recognize": {
+    "rid": [
+      "doi"
+    ],
+    "rtype": [
+      "ARTICLE"
+    ],
+    "mime": [
+      "HTML",
+      "PDF"
+    ]
+  },
+  "name": "futuremedicine",
+  "longname": "Future Medicine",
+  "describe": "Identifie les consultations de la plateforme Future Medicine",
+  "docurl": "http://ang.couperin.org/platforms/543519da7381c4f472e72469/",
+  "contact": "Thomas Porquet",
+  "pkb": false
+}
