@@ -30,12 +30,8 @@ module.exports = new Parser(function analyseEC(parsedUrl, ec) {
     result.mime     = 'HTML';
     result.doi = match[2];
     result.unitid = match[1];
-    //unitid is a crucial information needed to filter double-clicks phenomenon, like described by COUNTER
-    //it described the most fine-grained of what's being accessed by the user
-    //it can be a DOI, an internal identifier or a part of the accessed URL
-    //see http://ezpaarse.couperin.org/doc/ec-attributes.html#description-de-unitid for more details
-  } 
-    else if ((match = /(^\/doi\/pdf\/(.+))$/.exec(path)) !== null) {
+  }
+  else if ((match = /(^\/doi\/pdf\/(.+))$/.exec(path)) !== null) {
     // http://www.futuremedicine.com/doi/pdf/10.2217/cnc.15.10
     result.rtype    = 'ARTICLE';
     result.mime     = 'PDF';
@@ -43,7 +39,5 @@ module.exports = new Parser(function analyseEC(parsedUrl, ec) {
     //see the comment block above
     result.unitid   = match[1];
   }
-
   return result;
 });
-
