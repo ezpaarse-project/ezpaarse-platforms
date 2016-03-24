@@ -1,5 +1,13 @@
 out-title_id;out-unitid;out-rtype;out-mime;in-url
 ;867599;ARTICLE;HTML;http://www.em-premium.com/article/867599
-tm;tm;TOC;HTML;http://www.em-premium.com/traite/tm
+tm;tm;TOC;MISC;http://www.em-premium.com/traite/tm
 ;207594/17-50915_plus.pdf;ARTICLE;PDF;http://www.em-premium.com/showarticlefile/207594/17-50915_plus.pdf
 KI;KI;BOOK_SERIES;HTML;http://www.em-premium.com/produit/KI
+annchi/131/10;annchi/131/10;TOC;MISC;http://www.em-premium.com/revue/annchi/131/10
+annchi/131;annchi/131;TOC;MISC;http://www.em-premium.com/revue/annchi/131
+annchi;annchi;TOC;MISC;http://www.em-premium.com/revue/annchi
+;56352/main.pdf;ARTICLE;PDF;http://www.em-premium.com/showarticlefile/56352/main.pdf
+;261151/iconosup/fig3;IMAGE;HTML;http://www.em-premium.com/article/261151/iconosup/fig3
+;261151/iconosup/fig2;IMAGE;HTML;http://www.em-premium.com/article/261151/iconosup/fig2
+;261151/iconosup/fig1;IMAGE;HTML;http://www.em-premium.com/article/261151/iconosup/fig1
+;261151/iconosup;IMAGE;HTML;http://www.em-premium.com/article/261151/iconosup
