@@ -9,7 +9,12 @@
   "docurl": "http://analogist.couperin.org/platforms/efl/",
   "contact": "Thomas Jouneau",
 	"domains": [
-    "abonnes.efl.fr"
+    "abonnes.efl.fr",
+    "www.efl.fr",
+    "secure.efl.fr",
+    "secureidp.efl.fr",
+    "stat1.efl.fr",
+    "medialex.efl.fr"
 	],
   "recognize": {
     "rid": [

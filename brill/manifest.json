@@ -2,9 +2,10 @@
   "version": "2015-12-09",
   "status": "beta",
   "domains": [
-    "www.brill.com/",
+    "www.brill.com",
     "booksandjournals.brillonline.com",
-    "referenceworks.brillonline.com"
+    "referenceworks.brillonline.com",
+    "brillonline.com"
   ],
   "recognize": {
     "rid": [

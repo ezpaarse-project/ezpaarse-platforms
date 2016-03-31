@@ -3,7 +3,9 @@
   "status": "stable",
   "domains": [
     "apps.brepolis.net",
-    "clt.brepolis.net"
+    "clt.brepolis.net",
+    "www.brepolis.net",
+    "cpps.brepolis.net"
   ],
   "recognize": {
     "rid": [

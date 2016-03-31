@@ -10,7 +10,9 @@
   "contact": "Thomas Jouneau",
   "pkb": true,
 	"domains": [
-    "scitation.aip.org"
+    "scitation.aip.org",
+    "www.aip.org",
+    "publishing.aip.org"
 	],
   "recognize": {
     "rid": [
