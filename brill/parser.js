@@ -20,7 +20,7 @@ module.exports = new Parser(function analyseEC(parsedUrl, ec) {
   var param  = parsedUrl.query || {};
 
   var match;
-
+  var matchinfo;
   if ((match = /^\/content\/([a-z]+)\/([0-9\.]+)\/([0-9]+)$/.exec(path)) !== null) {
     // content/journals/10.1163/157006605774832225
     result.rtype  = 'ABS';
@@ -54,8 +54,11 @@ module.exports = new Parser(function analyseEC(parsedUrl, ec) {
     //entries/the-hague-academy-collected-courses/*-ej.9789004289376.395_503
     result.rtype            = 'TOC';
     result.mime             = 'HTML';
-    result.print_identifier = match[2].split('.')[1];
-    result.unitid           = match[2].split('.')[1] + '.' + match[2].split('.')[2];
+    result.unitid           = match[2];
+    if ((matchinfo = /([^.]+)\.([0-9]+)\.(([0-9]+)\_([0-9]+))/.exec(match[2])) !== null) {
+      result.print_identifier = matchinfo[2];
+      result.unitid = matchinfo[2] + '.' + matchinfo[3];
+    }
   } else if ((match = /^\/(deliver|docserver)\/([0-9]+)\/([0-9]+)\/([0-9]+)\/([0-9A-Za-z\_]+).(pdf|html)$/.exec(path)) !== null) {
     //deliver/17087384/4/3/17087384_004_03_S02_text.pdf
     result.rtype = 'ARTICLE';
