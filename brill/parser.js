@@ -18,7 +18,7 @@ module.exports = new Parser(function analyseEC(parsedUrl, ec) {
   var path   = parsedUrl.pathname;
   // uncomment this line if you need parameters
   var param  = parsedUrl.query || {};
-
+  var title;
   var match;
   var matchinfo;
   if ((match = /^\/content\/([a-z]+)\/([0-9\.]+)\/([0-9]+)$/.exec(path)) !== null) {
@@ -44,12 +44,40 @@ module.exports = new Parser(function analyseEC(parsedUrl, ec) {
     result.issue            = match[5];
     result.unitid           = match[2];
 
-  } else if ((match = /^\/media\/([a-z]+)\/(([a-z0-9]+)_([0-9]+)-([0-9]+)).pdf$/.exec(path)) !== null) {
+  } else if ((match = /^\/media\/([a-z0-9]*)\/([^.]+).pdf$/.exec(path)) !== null) {
     //media/pplrdc/er372_411-412.pdf
+    /// nij9789004177512_287-306.pdf
+    //9789047409812-008.pdf
+    //9789004206823_webready_content_s007.pdf
+    //id=id=brills-digital-library-of-world-war-i/volunteers-auxiliaries-and-womens-mobilization-the-firstworld-war-and-beyond-19141939-B9789004206823_007
     result.rtype            = 'BOOK_SECTION';
     result.mime             = 'PDF';
-    result.print_identifier = param.id.split('.')[1];
-    result.unitid           = match[2];
+    result.unitid  = match[1] + '/' + match[2] + '.pdf';
+    if (param.id) {
+      matchinfo =  param.id.split('/')[1];
+      if ((matchinfo = /([^.]+)-([A-Z0-9]+)_([0-9]+)/.exec(matchinfo)) != null) {
+        title = matchinfo[1];
+      }
+    }
+    switch (true) {
+    case (/^([a-z0-9]+)_([0-9]+)-([0-9]+)/.test(match[2])):
+      result.print_identifier = param.id.split('.')[1];
+      if (match[1] != 'pplrdc') {
+        result.online_identifier = /([a-z]+)([0-9]+)_([0-9]+)-([0-9]+)/.exec(match[2])[2];
+        result.title_id = title;
+      }
+      break;
+    case (/^([0-9]+)-([0-9]+)/.test(match[2])) :
+      result.online_identifier = match[2].split('-')[0];
+      result.title_id = title;
+      break;
+    case (/^([0-9]+)_([^.]+)/.test(match[2])) :
+      result.online_identifier = match[2].split('_')[0];
+      result.title_id = title;
+      break;
+    default :
+      break;
+    }
   } else if ((match = /^\/entries\/([a-z\-]+)\/([^.]+)$/.exec(path)) !== null) {
     //entries/the-hague-academy-collected-courses/*-ej.9789004289376.395_503
     result.rtype            = 'TOC';
