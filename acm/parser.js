@@ -34,6 +34,8 @@ module.exports = new Parser(function analyseEC(parsedUrl) {
     if (match[1] === 'citation') {
       result.rtype    = 'TOC';
       result.mime     = 'MISC';
+    } else if (match[1] == 'event' || match[1] == 'results') {
+      result.rtype    = 'TOC';
     }
     if (param.id) {
       result.unitid = param.id;
