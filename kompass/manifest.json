@@ -1,0 +1,18 @@
+{
+  "version": "2016-04-19",
+  "status": "beta",
+  "domains": [
+    "fr.kompass.com"
+  ],
+  "recognize": {
+    "rid": [
+      "unitid"
+    ]
+  },
+  "name": "kompass",
+  "longname": "Kompass",
+  "describe": "Recognizes the accesses to the platform Kompass",
+  "docurl": "http://ang.couperin.org/platforms/kompass",
+  "contact": "abderrazzak.loukili@inist.fr",
+  "pkb": false
+}
