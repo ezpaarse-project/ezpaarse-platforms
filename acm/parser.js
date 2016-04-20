@@ -40,6 +40,10 @@ module.exports = new Parser(function analyseEC(parsedUrl) {
     if (param.id) {
       result.unitid = param.id;
     }
+  } else if ((match = /\/cert*$/.exec(path)) !== null) {
+    result.rtype    = 'ARTICLE';
+    result.mime     = 'HTML';
+    console.log('testttt');
   }
 
   return result;
