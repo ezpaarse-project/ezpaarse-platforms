@@ -35,6 +35,16 @@ module.exports = new Parser(function analyseEC(parsedUrl) {
         result.unitid = param['d'];
       }
     }
+  } else if ((match = /\/([a-z\_]+)\/([a-z\-]+)\/([0-9]+)\/([0-9]+)\/([0-9\,]+)$/.exec(path)) !== null) {
+    //numero_revue/bulletin-joly-bourse/158/3/1456786800
+    result.rtype = 'TOC';
+    result.mime = 'HTML';
+    result.title_id = match[2];
+  } else if ((match = /\/([a-z]+)\/([a-z]+)\/([a-zA-Z0-9\:]+)$/.exec(path)) !== null) {
+    //lextenso/ud/urn%3AEDCO2016023
+    result.rtype = 'ARTICLE';
+    result.mime = 'HTML';
+    result.unitid = match[3].split(':')[1];
   }
 
   return result;
