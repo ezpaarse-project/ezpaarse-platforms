@@ -1,0 +1,18 @@
+{
+  "version": "2016-04-25",
+  "status": "beta",
+  "domains": [
+    "pm.nlx.com"
+  ],
+  "recognize": {
+    "rid": [
+      "unitid"
+    ]
+  },
+  "name": "ipm",
+  "longname": "Intelex Past Masters",
+  "describe": "Recognizes the accesses to the platform Intelex Past Masters",
+  "docurl": "http://ang.couperin.org/platforms/55898a4d612f07f5d906940f/",
+  "contact": "abderrazzak.loukili@inist.fr",
+  "pkb": false
+}
