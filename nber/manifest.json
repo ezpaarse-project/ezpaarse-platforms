@@ -1,0 +1,18 @@
+{
+  "version": "2016-04-26",
+  "status": "beta",
+  "domains": [
+    "www.nber.org"
+  ],
+  "recognize": {
+    "rid": [
+      "unitid"
+    ]
+  },
+  "name": "nber",
+  "longname": "NBER",
+  "describe": "Recognizes the accesses to the platform NBER",
+  "docurl": "http://ang.couperin.org/platforms/nber/start",
+  "contact": "abderrazzak.loukili@inist.fr",
+  "pkb": false
+}
