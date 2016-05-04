@@ -41,7 +41,7 @@ module.exports = new Parser(function analyseEC(parsedUrl, ec) {
     result.mime     = 'PDF';
     result.title_id   = match[2];
     result.unitid   = match[1];
-    result.doi = '10.4028/' + parsedUrl.host + '/' + match[1]
+    result.doi = '10.4028/' + parsedUrl.host + '/' + match[1];
   }
 
   return result;
