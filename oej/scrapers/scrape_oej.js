@@ -32,7 +32,7 @@ request.get(opt, function (err, res, body) {
       kbartRow['pkb-piddomain'] = url.parse(kbartRow['title_url']).hostname;
       pkb.addRow(kbartRow);
     }
-    pkb.writeKbart(); 
+    pkb.writeKbart();
   } else {
     console.error('Aucune information retournée');
     return;
@@ -47,11 +47,11 @@ function associateElements(titles, values) {
   }
   var elementProperties = {};
   var testcounter = 1 ;
-  if(values['title_id'] === '') {
+  if (values['title_id'] === '') {
     return elementProperties;
   }
   for (var k in values) {
-    testcounter ++;
+    testcounter++;
     if (values.length == testcounter) { break; }
     if (values[k] !== null || values[k] !== '') {
       elementProperties[titles[k]] = values[k];

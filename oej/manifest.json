@@ -1,13 +1,6 @@
 {
   "version": "2016-04-28",
   "status": "beta",
-  "domains": [
-    "www.openedition.org",
-    "socio.revues.org",
-    "nda.revues.org",
-    "revues.org",
-    "www.revues.org"
-  ],
   "recognize": {
     "rid": [
       "title_id",
@@ -18,6 +11,7 @@
   "longname": "OpenEdition Journals",
   "describe": "Recognizes the accesses to the platform OpenEdition Journals",
   "docurl": "http://ang.couperin.org/platforms/552ce133ebbceb95b6a3f9b8",
-  "contact": "abderrazzak.loukili@inist.fr",
-  "pkb": false
+  "contact": "abderrazzak.loukili@inist.fr, thomas.porquet@couperin.org",
+  "pkb": true,
+  "pkb-domains": "pkb-piddomain"
 }

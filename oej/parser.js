@@ -29,7 +29,7 @@ module.exports = new Parser(function analyseEC(parsedUrl, ec) {
     if (parsedUrl.host.split('.')[0] !== 'www') {
       result.rtype    = 'ARTICLE';
       if (parsedUrl.hash && parsedUrl.hash === '#abstract') {
-        result.rtype    = 'ABS'
+        result.rtype    = 'ABS';
       }
       result.title_id = parsedUrl.host.split('.')[0];
     }
