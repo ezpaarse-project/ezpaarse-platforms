@@ -1,0 +1,18 @@
+{
+  "version": "2016-05-09",
+  "status": "beta",
+  "domains": [
+    "www.ams.org"
+  ],
+  "recognize": {
+    "rid": [
+      "unitid"
+    ]
+  },
+  "name": "amms",
+  "longname": "American Mathematical Society",
+  "describe": "Recognizes the accesses to the platform American Mathematical Society",
+  "docurl": "http://ang.couperin.org/platforms/5436458ab6c584f07e92ddca",
+  "contact": "abderrazzak.loukili@inist.fr",
+  "pkb": false
+}
