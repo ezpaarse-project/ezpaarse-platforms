@@ -45,6 +45,11 @@ module.exports = new Parser(function analyseEC(parsedUrl, ec) {
     result.mime     = 'BIBTEX';
     //see the comment block above
     result.unitid   = match[1];
+  } else if ((match = /^\/(authors|journals|classification)\/\?*$/.exec(path)) !== null) {
+    // https://zbmath.org/authors/?...
+    result.rtype    = 'SEARCH';
+    result.mime     = 'HTML';
+    result.unitid   = 0;
   }
 
   return result;

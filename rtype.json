@@ -112,5 +112,9 @@
     "code": "METADATA",
     "description": "Metadonnées",
     "comment": "cas des plateformes Istex, etc."
+  },{
+    "code": "SEARCH",
+    "description": "Recherche de ressources documentaires",
+    "comment": "cas des base de données: ZbMATH, MathSciNet..."
   }
 ]
