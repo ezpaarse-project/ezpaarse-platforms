@@ -49,7 +49,7 @@ module.exports = new Parser(function analyseEC(parsedUrl, ec) {
     // https://zbmath.org/authors/?...
     result.rtype    = 'SEARCH';
     result.mime     = 'HTML';
-    result.unitid   = 0;
+    result.unitid   = '0';
   }
 
   return result;
