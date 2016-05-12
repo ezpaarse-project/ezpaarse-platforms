@@ -22,19 +22,29 @@ module.exports = new Parser(function analyseEC(parsedUrl) {
 //    result.online_identifier = match[3];
     result.rtype = 'TOC';
     result.mime = 'HTML';
-  } else if ((match = /^\/web\/revues\/home\/prescript\/article\/(([a-z]+)_[0-9]{4}-[0-9]{3}[0-9xX]{1}_[0-9]{4}_.*)\/?$/.exec(path)) !== null) {
+    result.print_identifier = match[3];
+  } else if ((match = /^\/web\/revues\/home\/prescript\/article\/(([a-z]+)_([0-9]{4}-[0-9]{3}[0-9xX]{1})_[0-9]{4}_.*)\/?$/.exec(path)) !== null) {
     // /web/revues/home/prescript/article/cmr_0008-0160_1975_num_16_2_1236
     result.unitid = match[1];
     result.title_id = match[2];
     result.rtype = 'ARTICLE';
     result.mime = 'MISC';
-  } else if ((match = /^\/articleAsPDF\/(([a-z]+)_[0-9]{4}-[0-9]{3}[0-9xX]{1}_[0-9]{4}_.*)\/article_.*\.pdf/.exec(path)) !== null) {
+    result.print_identifier = match[3];
+  } else if ((match = /^\/articleAsPDF\/(([a-z]+)_([0-9]{4}-[0-9]{3}[0-9xX]{1})_[0-9]{4}_.*)\/article_.*\.pdf/.exec(path)) !== null) {
     // /articleAsPDF/cmr_0008-0160_1975_num_16_2_1236/article_cmr_0008-0160_1975_num_16_2_1236.pdf
     // /articleAsPDF/cmr_0008-0160_1975_num_16_2_1236/article_cmr_0008-0160_1975_num_16_2_1236.pdf?mode=light
     result.unitid = match[1];
     result.title_id = match[2];
     result.rtype = 'ARTICLE';
     result.mime = 'PDF';
+    result.print_identifier = match[3];
+  } else if ((match = /^\/doc\/(([a-z]+)_([0-9]{4}-[0-9]{3}[0-9xX]{1})_[0-9]{4}_.*)/.exec(path)) !== null) {
+      // http://www.persee.fr/doc/xxs_0294-1759_1994_num_41_1_3263
+    result.unitid = match[1];
+    result.title_id = match[2];
+    result.rtype = 'ARTICLE';
+    result.mime = 'MISC';
+    result.print_identifier = match[3];
   }
   return result;
 });
