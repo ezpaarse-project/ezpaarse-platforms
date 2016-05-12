@@ -1,0 +1,18 @@
+{
+  "version": "2016-05-12",
+  "status": "beta",
+  "domains": [
+    "www.mycow.eu"
+  ],
+  "recognize": {
+    "rid": [
+      "unitid"
+    ]
+  },
+  "name": "mycow",
+  "longname": "My Cow",
+  "describe": "Recognizes the accesses to the platform My Cow",
+  "docurl": "http://ang.couperin.org/platforms/5624f3aeb51d52b1397b3c12/",
+  "contact": "abderrazzak.loukili@inist.fr",
+  "pkb": false
+}
