@@ -1,0 +1,19 @@
+{
+  "version": "2016-05-12",
+  "status": "beta",
+  "domains": [
+    "www.indexpresse.fr",
+    "www.delphes-indexpresse.com"
+  ],
+  "recognize": {
+    "rid": [
+      "unitid"
+    ]
+  },
+  "name": "di",
+  "longname": "Delphes Indexpresse0",
+  "describe": "Recognizes the accesses to the platform Delphes Indexpresse0",
+  "docurl": "http://ang.couperin.org/platforms/54ca450a53f3b256bfaaa27e",
+  "contact": "abderrazzak.loukili@inist.fr",
+  "pkb": false
+}
