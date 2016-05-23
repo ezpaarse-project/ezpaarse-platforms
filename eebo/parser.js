@@ -61,7 +61,7 @@ module.exports = new Parser(function analyseEC(parsedUrl, ec) {
     result.title_id = param.ID;
 
     result.unitid   = param.ID;
-    if (param.SOURCE && param.SOURCE === 'pgthumbs.cfg') {
+    if (param.SOURCE && param.SOURCE === 'pgthumbs.cfg' || param.SOURCE === 'config.cfg') {
       result.rtype    = 'BOOK';
     } else if (param.SOURCE === 'pgimages.cfg') {
       result.rtype    = 'PREVIEW';
