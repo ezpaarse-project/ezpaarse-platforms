@@ -36,8 +36,8 @@ module.exports = new Parser(function analyseEC(parsedUrl) {
       }
       break;
     case 'book':
-      // example : http://link.springer.com.gate1.inist.fr/book/10.1007/BFb0009075/page/1
     case 'protocol':
+      // example : http://link.springer.com.gate1.inist.fr/book/10.1007/BFb0009075/page/1
       // example : http://link.springer.com/protocol/10.1007/978-1-61779-998-3_39
       result.rtype = 'BOOK';
       result.mime  = 'HTML';

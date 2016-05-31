@@ -46,7 +46,7 @@ module.exports = new Parser(function analyseEC(parsedUrl) {
     result.rtype = 'ARTICLE';
     result.mime = 'MISC';
     result.print_identifier = match[3];
-  } else if ((match = /^\/docAsPDF\/(([a-z]+)_([0-9]{4}-[0-9]{3}[0-9xX]{1})_[0-9]{4}_.*)/.exec(path)) !== null) {
+  } else if ((match = /^\/docAsPDF\/(([a-z]+)_([0-9]{4}-[0-9]{3}[0-9xX]{1})_[0-9]{4}_.*)\.pdf/.exec(path)) !== null) {
     // /docAsPDF/abpo_0003-391x_1905_num_21_2_1218.pdf
     result.unitid = match[1];
     result.title_id = match[2];
