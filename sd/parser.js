@@ -189,9 +189,7 @@ module.exports = new Parser(function analyseEC(parsedUrl) {
       result.print_identifier = match[1].substr(0, 4) + '-' + match[1].substr(4, 4);
       result.title_id = match[1];
       result.rtype    = 'TOC';
-      if (match[2]) {
-        result.rtype    = 'HANDBOOK';
-      }
+    
 
       result.mime     = 'MISC';
     } else if ((match = /\/science\/book\/([0-9]{13})/.exec(url)) !== null) {
