@@ -92,7 +92,7 @@ module.exports = new Parser(function analyseEC(parsedUrl) {
           result.unitid   = param._piikey;
           result.title_id = match[1] + match[2];
           result.print_identifier  = match[1] + '-' + match[2];
-          result.rtype    = 'ARTICLE';
+          result.rtype    = 'PREVIEW';
           result.mime     = 'PDF';
         }
       }
@@ -124,7 +124,7 @@ module.exports = new Parser(function analyseEC(parsedUrl) {
       result.title_id = match[1] + match[2];
       result.print_identifier = match[1] + '-' + match[2];
       result.rtype    = 'ARTICLE';
-      result.mime     = 'HTML';
+      result.mime     = 'PDF';
     } else if ((match = /\/science\/article\/pii\/B([0-9]{12}[0-9Xx])([0-9]+)$/.exec(url)) !== null) {
       // example : http://www.sciencedirect.com.biblioplanets.gate.inist.fr/science/article/pii/B9780124200029100009
       result.pii = result.unitid   = 'B' + match[1] + match[2];
@@ -149,7 +149,7 @@ module.exports = new Parser(function analyseEC(parsedUrl) {
       result.pii = result.unitid   = 'B' + match[1] + match[2];
       result.title_id = match[1];
       result.print_identifier  = match[1];
-      result.rtype    = 'BOOK';
+      result.rtype    = 'BOOK_SECTION';
       result.mime     = 'PDF';
     } else if ((match = /\/science\/publication\?issn=([0-9]{4})([0-9]{4})/.exec(url)) !== null) {
       result.unitid   = match[1] + '-' + match[2];
@@ -174,6 +174,9 @@ module.exports = new Parser(function analyseEC(parsedUrl) {
       result.print_identifier  = match[1].substr(0, 4) + '-' + match[1].substr(4, 4);
       result.title_id = match[1];
       result.rtype    = 'BOOKSERIE';
+      if (match[2]) { 
+        result.rtype    = 'TOC';
+      }
       result.mime     = 'MISC';
     } else if ((match = /\/science\/handbooks\/([0-9]{8})(\/[0-9]+)?/.exec(url)) !== null) {
       // example : http://www.sciencedirect.com.gate1.inist.fr/science/handbooks/01673785
@@ -185,7 +188,11 @@ module.exports = new Parser(function analyseEC(parsedUrl) {
       }
       result.print_identifier = match[1].substr(0, 4) + '-' + match[1].substr(4, 4);
       result.title_id = match[1];
-      result.rtype    = 'HANDBOOK';
+      result.rtype    = 'TOC';
+      if (match[2]) {
+        result.rtype    = 'HANDBOOK';
+      }
+
       result.mime     = 'MISC';
     } else if ((match = /\/science\/book\/([0-9]{13})/.exec(url)) !== null) {
       // example : http://www.sciencedirect.com.gate1.inist.fr/science/book/9780122694400
@@ -193,7 +200,7 @@ module.exports = new Parser(function analyseEC(parsedUrl) {
       // ##RN
       result.print_identifier = match[1];
       result.title_id = match[1];
-      result.rtype    = 'BOOK';
+      result.rtype    = 'TOC';
       result.mime     = 'MISC';
     }
   }

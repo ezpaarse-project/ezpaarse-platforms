@@ -123,6 +123,12 @@ module.exports = new Parser(function analyseEC(parsedUrl) {
         break;
       }
     }
+  } else if ((match = /^\/download\/([a-z]+)\/(([0-9]+\.[0-9]+)\/([^\/]*)).epub/.exec(path)) !== null) {
+    // example : download/epub/10.1007/978-1-4939-1360-2.epub
+    result.unitid   = match[4] + '.epub';
+    result.doi      = match[2];
+    result.rtype    = 'BOOK';
+    result.mime     = 'EPUB';
   }
   // title_id can be extracted from the doi
   // example : http://link.springer.com.gate1.inist.fr/content/pdf/10.1007/s00359-010-0615-4
