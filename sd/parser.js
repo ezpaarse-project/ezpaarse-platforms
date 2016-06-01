@@ -83,6 +83,8 @@ module.exports = new Parser(function analyseEC(parsedUrl) {
       }
       break;
     case 'PdfExcerptURL':
+      result.rtype    = 'PREVIEW';
+      result.mime     = 'PDF';
       if (param._imagekey && param._piikey) {
         result.pii   = param._piikey;
         if ((match = /.?-[^\-]+-([0-9]{4})([0-9]{3}[0-9Xx])([0-9A-Za-z]*)-main.pdf$/.exec(param._imagekey)) !== null) {
@@ -92,8 +94,7 @@ module.exports = new Parser(function analyseEC(parsedUrl) {
           result.unitid   = param._piikey;
           result.title_id = match[1] + match[2];
           result.print_identifier  = match[1] + '-' + match[2];
-          result.rtype    = 'PREVIEW';
-          result.mime     = 'PDF';
+
         }
       }
       break;
