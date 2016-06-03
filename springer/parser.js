@@ -125,9 +125,10 @@ module.exports = new Parser(function analyseEC(parsedUrl) {
     }
   } else if ((match = /^\/(download|static)\/([a-z]+)\/(([0-9\.]*)\/([^\/]*)).epub/.exec(path)) !== null) {
     // example : download/epub/10.1007/978-1-4939-1360-2.epub
-
     result.unitid   = match[5] + '.epub';
-    result.doi      = match[3];
+    if (/([0-9]+)\.([0-9]+)/.test(match[4])) {
+      result.doi      = match[3];
+    }
     result.rtype    = 'BOOK';
     result.mime     = 'EPUB';
   }

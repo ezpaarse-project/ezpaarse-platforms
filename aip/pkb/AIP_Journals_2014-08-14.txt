@@ -34,7 +34,6 @@ Physics of Fluids (1958-1988)	0031-9171		1958-01	1	1	1988-12	31	12	http://scitat
 Physics of Fluids (1994-present)	1070-6631	1089-7666	1994-01	6	1				http://scitation.aip.org/content/aip/journal/pof2		pof2		fulltext		AIP Publishing
 Physics of Fluids A: Fluid Dynamics (1989-1993)	0899-8213		1989-01	1	1	1993-12	5	12	http://scitation.aip.org/content/aip/journal/pofa		pofa		fulltext		AIP Publishing
 Physics of Fluids B: Plasma Physics (1989-1993)	0899-8221		1989-01	1	1	1993-12	5	12	http://scitation.aip.org/content/aip/journal/pofb		pofb		fulltext		AIP Publishing
-Physics of Particles and Nuclei	1063-7796	1531-8599	1997-01	28	1	1999-11	30	6	http://scitation.aip.org/content/aip/journal/ppn		ppn		fulltext		AIP Publishing
 Physics of Plasmas (1994-present)	1070-664X	1089-7674	1994-01	1	1				http://scitation.aip.org/content/aip/journal/pop		pop		fulltext		AIP Publishing
 Proceedings of Meetings on Acoustics	1939-800X	1939-800X	2007-02	1	1				http://scitation.aip.org/content/asa/journal/poma		poma		fulltext		Acoustical Society of America
 Review of Scientific Instruments	0034-6748	1089-7623	1930-01	1	1				http://scitation.aip.org/content/aip/journal/rsi		rsi		fulltext		AIP Publishing
