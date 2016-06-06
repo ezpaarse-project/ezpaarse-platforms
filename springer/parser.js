@@ -125,9 +125,15 @@ module.exports = new Parser(function analyseEC(parsedUrl) {
     }
   } else if ((match = /^\/(download|static)\/([a-z]+)\/(([0-9\.]*)\/([^\/]*)).epub/.exec(path)) !== null) {
     // example : download/epub/10.1007/978-1-4939-1360-2.epub
-    result.unitid   = match[5] + '.epub';
     if (/([0-9]+)\.([0-9]+)/.test(match[4])) {
       result.doi      = match[3];
+      result.unitid   = match[5] + '.epub';
+      result.print_identifier = match[5];
+    } else {
+      var testunitid = '';
+      if ((testunitid = /([\w\%]*)[A-Z]{1}([0-9\-]+)/.exec(match[5])) !== null) {
+        result.unitid   = testunitid[2] + '.epub';
+      }
     }
     result.rtype    = 'BOOK';
     result.mime     = 'EPUB';
