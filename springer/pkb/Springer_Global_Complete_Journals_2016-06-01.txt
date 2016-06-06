@@ -268,7 +268,6 @@ Asia Pacific Journal on Computational Engineering		2196-1166	2014-04	1	1	2015-12
 Asia-Pacific Financial Markets	1387-2834	1573-6946	1994-03	1	1	2016-06	23	2	http://link.springer.com/journal/10690		10690		fulltext		Springer Japan	Serial							
 Asia-Pacific Journal of Atmospheric Sciences	1976-7633	1976-7951	2010-02	46	1	2016-05	52	2	http://link.springer.com/journal/13143		13143		fulltext		Korean Meteorological Society	Serial							
 Asia-Pacific Science Education		2364-1177	2015-12	1	1	2015-12	1	1	http://link.springer.com/journal/41029		41029		fulltext		Springer International Publishing	Serial							
-Asian Business & Management	1472-4782	1476-9238	2006-12	5	4	2012-04	11	2	http://link.springer.com/journal/41291		41291		fulltext		Palgrave Macmillan UK	Serial							
 Asian Journal of Business Ethics	2210-6723	2210-6731	2012-01	1	1	2016-05	4	2	http://link.springer.com/journal/13520		13520		fulltext		Springer Netherlands	Serial							
 Asian Journal of Criminology	1871-0131	1871-014X	2006-06	1	1	2016-05	11	1	http://link.springer.com/journal/11417		11417		fulltext		Springer Netherlands	Serial							
 Asian Journal of Gambling Issues and Public Health		2195-3007	2010-10	1	1	2016-05	6	1	http://link.springer.com/journal/40405		40405		fulltext		Springer Berlin Heidelberg	Serial							
@@ -1030,7 +1029,6 @@ European Demographic Information Bulletin	0046-2756		1970-03	1	1	1983-12	14	4	ht
 European Food Research and Technology	1438-2377	1438-2385	1898-01	1	1	2016-06	242	6	http://link.springer.com/journal/217		217		fulltext		Springer Berlin Heidelberg	Serial							
 European Journal for Education Law and Policy	1386-8349	1573-1715	1998-01	2	1	2002-01	6	1	http://link.springer.com/journal/10650		10650		fulltext		Kluwer Academic Publishers-Plenum Publishers	Serial							
 European Journal for Philosophy of Science	1879-4912	1879-4920	2011-01	1	1	2016-05	6	2	http://link.springer.com/journal/13194		13194		fulltext		Springer Netherlands	Serial							
-European Journal for Security Research	2365-0931	2364-1695	2016-03	1	1	2016-04	1	1	http://link.springer.com/journal/41125		41125		fulltext		Springer International Publishing	Serial							
 European Journal of Ageing	1613-9372	1613-9380	2004-12	1	1	2016-05	13	1	http://link.springer.com/journal/10433		10433		fulltext		Springer Netherlands	Serial							
 European Journal of Applied Physiology	1439-6319	1439-6327	1928-02	1	1	2016-06	116	6	http://link.springer.com/journal/421		421		fulltext		Springer Berlin Heidelberg	Serial							
 European Journal of Clinical Microbiology & Infectious Diseases	0934-9723	1435-4373	1982-02	1	1	2016-06	35	6	http://link.springer.com/journal/10096		10096		fulltext		Springer Berlin Heidelberg	Serial							
@@ -1194,7 +1192,6 @@ GSTF Journal of Engineering Technology (JET)		2251-371X	2013-08	2	2	2016-02	3	3	
 GSTF Journal of Music (JMusic)		2382-5928	2015-07	1	1	2016-02	2	1	http://link.springer.com/journal/40958		40958		fulltext		Global Science and Technology Forum	Serial							
 GSTF Journal of Nursing and Health Care (JNHC)		2345-7198	2015-07	2	1	2016-01	3	1	http://link.springer.com/journal/40743		40743		fulltext		Global Science and Technology Forum	Serial							
 GSTF Journal on Agricultural Engineering (JAE)		2345-7945	2016-01	2	1	2016-02	2	1	http://link.springer.com/journal/40872		40872		fulltext		Global Science and Technology Forum	Serial							
-GZ - Psychologie	1879 - 5080	1879-5099	2014-03	6	2	2016-05	8	3	http://link.springer.com/journal/41480		41480		fulltext		Bohn Stafleu van Loghum	Serial							
 Gastric Cancer	1436-3291	1436-3305	1998-03	1	1	2016-05	19	2	http://link.springer.com/journal/10120		10120		fulltext		Springer Japan	Serial							
 Gefässchirurgie	0948-7034	1434-3932	1997-02	2	1	2016-05	21	3	http://link.springer.com/journal/772		772		fulltext		Springer Berlin Heidelberg	Serial							
 Gender Issues	1098-092X	1936-4717	1980-03	1	1	2016-06	33	2	http://link.springer.com/journal/12147		12147		fulltext		Springer US	Serial							
@@ -1339,7 +1336,6 @@ Hydrogeology Journal	1431-2174	1435-0157	1992-01	0	0	2016-06	24	4	http://link.sp
 Hyperfine Interactions	0304-3843	1572-9540	1975-06	1	1	2016-05	237	1	http://link.springer.com/journal/10751		10751		fulltext		Springer International Publishing	Serial							
 IIC - International Review of Intellectual Property and Competition Law	0018-9855	2195-0237	2013-02	44	1	2016-05	47	3	http://link.springer.com/journal/40319		40319		fulltext		Springer Berlin Heidelberg	Serial							
 IIE Transactions	0740-817X	1573-9724	1997-01	29	2	2002-12	34	12	http://link.springer.com/journal/10756		10756		fulltext		Kluwer Academic Publishers	Serial							
-IMF Economic Review	2041-4161	3041-417X	1951-09	2	1	2015-11	63	4	http://link.springer.com/journal/41308		41308		fulltext		Palgrave Macmillan UK	Serial							
 INAE Letters	2366-326X	2366-3278	2016-04			2016-05			http://link.springer.com/journal/41403		41403		fulltext		Springer Singapore	Serial							
 IST International Surface Technology	1865-4827	2192-8703	2010-07	3	1	2016-03	9	1	http://link.springer.com/journal/35724		35724		fulltext		Springer Fachmedien Wiesbaden	Serial							
 IT-Szene München		1863-1983	2012-01	7	1	2015-04	10	2	http://link.springer.com/journal/40567		40567		fulltext		Trochos GmbH	Serial							
@@ -1866,7 +1862,6 @@ Journal of Intelligent Information Systems	0925-9902	1573-7675	1992-08	1	1	2016-
 Journal of Intelligent Manufacturing	0956-5515	1572-8145	1990-03	1	1	2016-06	27	3	http://link.springer.com/journal/10845		10845		fulltext		Springer US	Serial							
 Journal of Intensive Care		2052-0492	2013-10	1	1	2016-05	4	1	http://link.springer.com/journal/40560		40560		fulltext		BioMed Central	Serial							
 Journal of Interaction Science		2194-0827	2013-05	1	1	2016-02	4	1	http://link.springer.com/journal/40166		40166		fulltext		Springer Berlin Heidelberg	Serial							
-Journal of International Business Studies	0047-8211	1478-6990	2005-05	36	3	2014-05	45	4	http://link.springer.com/journal/41267		41267		fulltext		Palgrave Macmillan UK	Serial							
 Journal of International Entrepreneurship	1570-7385	1573-7349	2003-03	1	1	2016-05	14	1	http://link.springer.com/journal/10843		10843		fulltext		Springer US	Serial							
 Journal of International Humanitarian Action	2364-3412	2364-3404	2016-03	1	1	2016-03	1	1	http://link.springer.com/journal/41018		41018		fulltext		Springer International Publishing	Serial							
 Journal of International Migration and Integration	1488-3473	1874-6365	2000-03	1	1	2016-05	17	2	http://link.springer.com/journal/12134		12134		fulltext		Springer Netherlands	Serial							
@@ -2488,7 +2483,6 @@ Organisms Diversity & Evolution	1439-6092	1618-1077	2010-03	10	1	2016-06	16	2	ht
 Oriental Pharmacy and Experimental Medicine	1598-2386	2211-1069	2011-03	11	1	2016-05	16	1	http://link.springer.com/journal/13596		13596		fulltext		Springer Netherlands	Serial							
 Origins of Life and Evolution of Biospheres	0169-6149	1573-0875	1968-03	1	1	2016-06	46	2	http://link.springer.com/journal/11084		11084		fulltext		Springer Netherlands	Serial							
 Orphanet Journal of Rare Diseases		1750-1172	2006-03	1	1	2016-05	11	1	http://link.springer.com/journal/13023		13023		fulltext		BioMed Central	Serial							
-Orthopedics and Traumatology	0941-2530	1617-3838	1992-04	1	1	2002-12	10	4	http://link.springer.com/journal/65		65		fulltext		Urban & Vogel	Serial							
 Orthopädie & Rheuma	1435-0017	2196-5684	2012-02	15	1	2016-04	19	2	http://link.springer.com/journal/15002		15002		fulltext		Springer Medizin	Serial							
 Osteopathic Medicine and Primary Care		1750-4732	2007-01	1	1	2010-08	4	1	http://link.springer.com/journal/13026		13026		fulltext		BioMed Central	Serial							
 Osteoporosis International	0937-941X	1433-2965	1990-10	1	1	2016-06	27	6	http://link.springer.com/journal/198		198		fulltext		Springer London	Serial							
@@ -3125,7 +3119,6 @@ Tropical Plant Biology	1935-9756	1935-9764	2007-12	1	1	2016-05	9	1	http://link.s
 Tropical Plant Pathology		1983-2052	2015-02	40	1	2016-05	41	2	http://link.springer.com/journal/40858		40858		fulltext		Springer International Publishing	Serial							
 Tumor Biology	1010-4283	1423-0380	2010-01	31	1	2016-06	37	6	http://link.springer.com/journal/13277		13277		fulltext		Springer Netherlands	Serial							
 TvV Tijdschrift voor Verzorgenden	0921-5832	2468-1350	2016-01	48	1	2016-05	48	5	http://link.springer.com/journal/41183		41183		fulltext		Bohn Stafleu van Loghum	Serial							
-URBAN DESIGN International	1357-5317	1468-5419	2005-04	10	1	2005-04	10	1	http://link.springer.com/journal/41289		41289		fulltext		Palgrave Macmillan UK	Serial							
 Ukrainian Mathematical Journal	0041-5995	1573-9376	1967-01	19	1	2016-05	67	10	http://link.springer.com/journal/11253		11253		fulltext		Springer US	Serial							
 Universal Access in the Information Society	1615-5289	1615-5297	2001-06	1	1	2016-06	15	2	http://link.springer.com/journal/10209		10209		fulltext		Springer Berlin Heidelberg	Serial							
 Updates in Surgery	2038-131X	2038-3312	2010-08	62	1	2016-05	68	1	http://link.springer.com/journal/13304		13304		fulltext		Springer Milan	Serial							

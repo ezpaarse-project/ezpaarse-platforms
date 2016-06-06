@@ -133,6 +133,7 @@ module.exports = new Parser(function analyseEC(parsedUrl) {
       var testunitid = '';
       if ((testunitid = /([\w\%]*)[A-Z]{1}([0-9\-]+)/.exec(match[5])) !== null) {
         result.unitid   = testunitid[2] + '.epub';
+        result.print_identifier = testunitid[2];
       }
     }
     result.rtype    = 'BOOK';

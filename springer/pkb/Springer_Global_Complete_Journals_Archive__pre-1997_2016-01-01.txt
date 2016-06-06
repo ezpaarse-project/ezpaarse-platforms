@@ -881,7 +881,6 @@ Optical and Quantum Electronics	0306-8919	1572-817X	1969-02	1	1	2015-12	48	1	htt
 Oral Radiology	0911-6028	1613-9674	1985-03	1	1	2016-01	32	1	http://link.springer.com/journal/11282		11282		fulltext		Springer Japan	Serial							
 Order	0167-8094	1572-9273	1984-03	1	1	2015-12	32	3	http://link.springer.com/journal/11083		11083		fulltext		Springer Netherlands	Serial							
 Origins of Life and Evolution of Biospheres	0169-6149	1573-0875	1968-03	1	1	2016-03	46	1	http://link.springer.com/journal/11084		11084		fulltext		Springer Netherlands	Serial							
-Orthopedics and Traumatology	0941-2530	1617-3838	1992-04	1	1	2002-12	10	4	http://link.springer.com/journal/65		65		fulltext		Urban & Vogel	Serial							
 Osteoporosis International	0937-941X	1433-2965	1990-10	1	1	2015-12	26	12	http://link.springer.com/journal/198		198		fulltext		Springer London	Serial							
 Oxidation of Metals	0030-770X	1573-4889	1969-03	1	1	2015-12	84	5	http://link.springer.com/journal/11085		11085		fulltext		Springer US	Serial							
 PROSPECTS	0033-1538	1573-9090	1970-03	1	1	2015-12	45	3	http://link.springer.com/journal/11125		11125		fulltext		Springer Netherlands	Serial							
@@ -1150,5 +1149,4 @@ Zoomorphology	0720-213X	1432-234X	1924-04	1	1	2015-12	134	4	http://link.springer
 annals of telecommunications - annales des télécommunications	0003-4347	1958-9395	1946-01	1	1	2015-12	70	11	http://link.springer.com/journal/12243		12243		fulltext		Springer Paris	Serial							
 computational complexity	1016-3328	1420-8954	1991-03	1	1	2015-12	24	4	http://link.springer.com/journal/37		37		fulltext		Springer International Publishing	Serial							
 der markt	0025-3863	1867-8882	1990-03	29	1	2012-12	51	4	http://link.springer.com/journal/12642		12642		fulltext		Springer Vienna	Serial							
-﻿publication_title	print_identifier	online_identifier	date_first_issue_online	num_first_vol_online	num_first_issue_online	date_last_issue_online	num_last_vol_online	num_last_issue_online	title_url	first_author	title_id	embargo_info	coverage_depth	coverage_notes	publisher_name	publication_type	date_monograph_published_print	date_monograph_published_online	monograph_volume	monograph_edition	first_editor	parent_publication_title_id	preceding_publication_title_id
-HautinForm	1866-6353	2198-3445	2013-12	6	4	2014-06	7	2	http://link.springer.com/journal/16022		16022		fulltext		Urban & Vogel	Serial							
+﻿HautinForm	1866-6353	2198-3445	2013-12	6	4	2014-06	7	2	http://link.springer.com/journal/16022		16022		fulltext		Urban & Vogel	Serial							

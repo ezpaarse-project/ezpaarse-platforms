@@ -3064,7 +3064,6 @@ Tropical Diseases, Travel Medicine and Vaccines		2055-0936	2015-07	1	1	2016-02	2
 Tropical Plant Biology	1935-9756	1935-9764	2007-12	1	1	2016-02	8	3	http://link.springer.com/journal/12042		12042		fulltext		Springer US	Serial							
 Tropical Plant Pathology		1983-2052	2015-02	40	1	2016-02	41	1	http://link.springer.com/journal/40858		40858		fulltext		Springer International Publishing	Serial							
 Tumor Biology	1010-4283	1423-0380	2010-01	31	1	2016-02	36	12	http://link.springer.com/journal/13277		13277		fulltext		Springer Netherlands	Serial							
-URBAN DESIGN International	1357-5317	1468-5419	2005-06	10	2	2016-01	21	1	http://link.springer.com/journal/41289		41289		fulltext		Palgrave Macmillan UK	Serial							
 Ukrainian Mathematical Journal	0041-5995	1573-9376	1967-01	19	1	2015-12	67	7	http://link.springer.com/journal/11253		11253		fulltext		Springer US	Serial							
 Universal Access in the Information Society	1615-5289	1615-5297	2001-06	1	1	2016-03	15	1	http://link.springer.com/journal/10209		10209		fulltext		Springer Berlin Heidelberg	Serial							
 Updates in Surgery	2038-131X	2038-3312	2010-08	62	1	2016-02	67	4	http://link.springer.com/journal/13304		13304		fulltext		Springer Milan	Serial							
