@@ -125,7 +125,7 @@ module.exports = new Parser(function analyseEC(parsedUrl) {
       result.title_id = match[1] + match[2];
       result.print_identifier = match[1] + '-' + match[2];
       result.rtype    = 'ARTICLE';
-      result.mime     = 'PDF';
+      result.mime     = 'HTML';
     } else if ((match = /\/science\/article\/pii\/B([0-9]{12}[0-9Xx])([0-9]+)$/.exec(url)) !== null) {
       // example : http://www.sciencedirect.com.biblioplanets.gate.inist.fr/science/article/pii/B9780124200029100009
       result.pii = result.unitid   = 'B' + match[1] + match[2];
