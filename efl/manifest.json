@@ -1,13 +1,13 @@
 {
   "name": "efl",
-  "version": "2013-11-28",
+  "version": "2016-06-10",
   "status": "stable",
   "trello": "https://trello.com/c/dDs4jO3f",
   "longname": "Editions Francis Lefebvre",
   "publisher_name": "Editions Francis Lefebvre",
   "describe": "Identifie les consultations des bases juridiques Editions Francis Lefebvre",
   "docurl": "http://analogist.couperin.org/platforms/efl/",
-  "contact": "Thomas Jouneau",
+  "contact": "Thomas Jouneau, antoine.cordier-2@univ-lille2.fr",
 	"domains": [
     "abonnes.efl.fr",
     "www.efl.fr",
