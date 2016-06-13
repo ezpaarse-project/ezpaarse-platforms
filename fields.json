@@ -106,6 +106,10 @@
       "code": "BOOK_SECTION",
       "description": "Partie d'ouvrage"
     },{
+      "code": "OTHER",
+      "description": "rtype non defini pour ISTEX",
+      "comment": "fourre tout istex"
+    },{
       "code": "FORMULES",
       "description": "Formule juridique",
       "comment": "Cas des bases de données juridiques"
