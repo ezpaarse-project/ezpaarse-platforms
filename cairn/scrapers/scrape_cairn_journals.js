@@ -111,9 +111,20 @@ req.on('response', function (res) {
         process.exit(1);
       }
 
-      var i = 0;
-      (function scrapeJournal(callback) {
-        var journal = journals[i++];
+      scrapeJournal(allDone);
+
+      function allDone() {
+        pkb1.writeKbart(function () {
+          pkb2.writeKbart(function () {
+            console.error('Cairn scraping is finished..');
+            console.error('File : %s', pkb1.kbartFileName);
+            console.error('File : %s', pkb2.kbartFileName);
+          });
+        });
+      }
+
+      function scrapeJournal(callback) {
+        var journal = journals.shift();
         if (!journal) { return callback(); }
 
         var secondaryID = matchings[journal.title_id];
@@ -145,15 +156,8 @@ req.on('response', function (res) {
             scrapeJournal(callback);
           }, 1000);
         });
-      })(function allDone() {
-        pkb1.writeKbart(function () {
-          pkb2.writeKbart(function () {
-            console.error('Cairn scraping is finished..');
-            console.error('File : %s', pkb1.kbartFileName);
-            console.error('File : %s', pkb2.kbartFileName);
-          });
-        });
-      });
+      }
+
     });
   });
 });
