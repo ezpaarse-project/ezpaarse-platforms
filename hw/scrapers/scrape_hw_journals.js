@@ -142,16 +142,30 @@ function scrapeGSW(callback) {
 }
 
 function scrapeAtoZ(callback) {
-  let atozJournals = 'http://highwire.stanford.edu/lists/allsites.dtl';
+  // let atozJournals = 'http://highwire.stanford.edu/lists/allsites.dtl';
+  let atozJournals = 'http://highwire.stanford.edu/lists/allsites.dtl?view=by+publisher';
 
   request(atozJournals, (err, res, body) => {
     if (err) { return callback(err); }
 
     let $ = cheerio.load(body);
 
-    $('#subpage_content table td:nth-child(2) > a').each((index, element) => {
+    let currentPublisher;
 
-      let href = $(element).attr('href');
+    $('#subpage_content table tr').each((index, element) => {
+
+      let publisherNode = $(element).find('td[align="LEFT"] > strong > font');
+
+      if (publisherNode.length) {
+        return currentPublisher = publisherNode.text();
+      }
+
+      let journalNode = $(element).find('td:nth-child(2) > a[href]');
+
+      if (journalNode.length !== 1) { return; }
+
+      let href = journalNode.attr('href');
+      if (!href) { return; }
       let hostname = URL.parse(href).host;
 
       if (!hostname || pkb.rowsMap.hasOwnProperty(hostname)) { return; }
@@ -159,8 +173,9 @@ function scrapeAtoZ(callback) {
       let journal = pkb.initRow({
         'title_url': href,
         'title_id': hostname,
+        'publisher_name': currentPublisher,
         'pkb-piddomain': hostname,
-        'publication_title': $(element).text()
+        'publication_title': journalNode.text()
       });
 
       pkb.addRow(journal);
