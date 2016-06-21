@@ -45,6 +45,26 @@ module.exports = new Parser(function analyseEC(parsedUrl, ec) {
       result.rtype  = 'PREVIEW';
     }
 
+  } else if ((match = /^\/dg\/([^]*)\/([^]*)\/([a-z0-9\-]+).pdf$/.exec(path)) !== null) {
+    ///dg/viewarticle.fullcontentlink:pdfeventlink/$002fj$002fling.2012.50.issue-4$002fling-2012-0026$002fling-2012-0026.pdf/ling-2012-0026.pdf
+
+    info = match[2].split('$002f');
+
+    result.publication_date = info[2].split('.')[1];
+    result.title_id = info[2].split('.')[0];
+    result.issue = info[2].split('.')[3].replace('issue-', '');
+    result.unitid = info[4];
+    if ((infodetail = /^([a-z]+)\.([0-9]+)\.([0-9]+)\.([0-9\-]+)\.([0-9]+)\.([a-z]+)/.exec(info[4])) !== null) {
+      result.vol = infodetail[3];
+      result.first_page = infodetail[5];
+    }
+    result.mime = 'PDF';
+    if (match[1].split('.')[0] === 'viewarticle') {
+      result.rtype = 'ARTICLE';
+    } else {
+      result.rtype = 'TOC';
+    }
+
   } else if ((match = /^\/dg\/([^]*)\/([^]*)$/.exec(path)) !== null) {
     //dg/viewarticle.fullcontentlink:pdfeventlink/$002fj$002fetly.2011.2011.
     //issue-1$002f9783110239423.200$002f9783110239423.200.pdf?
@@ -54,7 +74,10 @@ module.exports = new Parser(function analyseEC(parsedUrl, ec) {
 
     ////$002fj$002fjtms.2015.2.issue-1$002fjtms-2015-frontmatter1$002fjtms-2015-frontmatter1.pdf
 
+
+
     info = match[2].split('$002f');
+
     result.publication_date = info[2].split('.')[1];
     result.title_id = info[2].split('.')[0];
     result.issue = info[2].split('.')[3].replace('issue-', '');
