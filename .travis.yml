@@ -6,5 +6,4 @@ before_install:
 script:
   - make test
 notifications:
-  slack:
-    secure: p/7J6LXqmmkQBaJ4q3KUibZgzKevo+ExTOiY+O4UQQa597dbK72gMWp+RKYVnfrhoMfTPD8oS8JG9nu74s6/mKHAtVc/g0qPH549tHpFC1DqD7G0TNUZxNV1tiWXkNbSPe59tkrn9R95azIA52cDXA1i9cguOYnCLysmEPUMQwU=
+  slack: 'inist-dpi:53Jp5iUZeRidSGZn0TukMSKo#activity'
