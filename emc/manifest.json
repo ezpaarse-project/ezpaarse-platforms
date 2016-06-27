@@ -2,7 +2,7 @@
   "version": "2016-03-01",
   "status": "beta",
   "domains": [
-    "http://www.em-premium.com"
+    "www.em-premium.com"
   ],
   "recognize": {
     "rid": [
