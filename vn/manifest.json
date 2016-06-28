@@ -1,0 +1,22 @@
+{
+  "version": "2016-06-28",
+  "status": "beta",
+  "domains": [
+    "www.vocable.fr",
+    "vocable.immanens.com",
+    "pveditorsla6.immanens.com",
+    "pveditorsla6.immanens.com"
+  ],
+  "recognize": {
+    "rid": [
+      "unitid",
+      "title_id"
+    ]
+  },
+  "name": "vn",
+  "longname": "Vocalble Numérique",
+  "describe": "Recognizes the accesses to the platform Vocalble Numérique",
+  "docurl": "http://ang.couperin.org/platforms/56338332fb42a2198aed7654",
+  "contact": "abderrazzak.loukili@inist.fr",
+  "pkb": false
+}
