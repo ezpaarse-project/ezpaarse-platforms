@@ -29,7 +29,12 @@ module.exports = new Parser(function analyseEC(parsedUrl, ec) {
     result.rtype    = 'ABS';
     result.mime     = 'HTML';
     result.unitid   = match[2];
-  } else if ((match = /^\/([a-z]+)\/([a-z0-9]+).pdf$/.exec(path)) !== null) {
+  } else if ((match = /^\/(([a-z]+).html)$/.exec(path)) !== null) {
+    // http://www.nber.org/papers.html
+    result.rtype    = 'TOC';
+    result.mime     = 'HTML';
+    result.unitid   = match[1];
+  }  else if ((match = /^\/([a-z]+)\/([a-z0-9]+).pdf$/.exec(path)) !== null) {
     // http://www.nber.org/papers/w20518.pdf
     result.rtype    = 'ARTICLE';
     result.mime     = 'PDF';
