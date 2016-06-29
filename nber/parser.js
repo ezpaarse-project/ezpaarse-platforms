@@ -44,6 +44,11 @@ module.exports = new Parser(function analyseEC(parsedUrl, ec) {
     result.rtype    = 'TOC';
     result.mime     = 'HTML';
     result.unitid   = match[1];
+  } else if ((match = /^\/([a-z]+)\/([a-z]+)\/([a-z0-9]+)$/.exec(path)) !== null) {
+    // http://www.nber.org/papers/mail/w21683
+    result.rtype    = 'WORKING_PAPER';
+    result.mime     = 'HTML';
+    result.unitid   = match[3];
   }
 
   return result;
