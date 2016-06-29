@@ -50,14 +50,6 @@ module.exports = new Parser(function analyseEC(parsedUrl, ec) {
         result.title_id = idElements[1];
       }
     }
-  } else if (/^\/WebPages\/Pdf\/([a-zA-Z]+).aspx$/.test(path)) {
-    //WebPages/Pdf/SearchResult.aspx?DocName=pdf%C2%B720160615%C2%B7VN_P%C2%B76228
-    result.rtype    = 'ARTICLE';
-    result.mime     = 'PDF';
-    if (param.DocName) {
-      idElements = param.DocName.split('·');
-      result.unitid = param.DocName;
-    }
   }
   return result;
 });
