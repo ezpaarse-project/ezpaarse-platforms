@@ -17,12 +17,8 @@ ifneq "$(SUPPORTS_MAKE_ARGS)" ""
     $(eval $(COMMAND_ARGS):;@:)
 endif
 
-install: ## install dependencies for make test
-	npm i
+install: ## install dependencies
+	cd .lib && npm install
 
 test: ## by default tests every platforms. But it could be used to test just one. Ex: make test sd
-ifdef COMMAND_ARGS
-	EZPAARSE_PLATFORM_TO_TEST="$(COMMAND_ARGS)" ./node_modules/.bin/mocha .lib/test/platforms-test.js
-else
-	npm test
-endif
+	cd .lib && EZPAARSE_PLATFORM_TO_TEST="$(COMMAND_ARGS)" npm test

@@ -2,156 +2,108 @@
 /*eslint no-sync:0*/
 'use strict';
 
-var helpers      = require('./helpers.js');
-var fs           = require('fs');
-var path         = require('path');
-var should       = require('should');
-var spawn        = require('child_process').spawn;
-var exec         = require('child_process').exec;
-var Lazy         = require('lazy');
-var assert       = require('assert');
+const fs        = require('fs');
+const path      = require('path');
+const assert    = require('assert');
+const Converter = require('csvtojson').Converter;
 
-var Converter    = require("csvtojson").Converter;
+const platformsDir = path.resolve(__dirname, '../..');
 
-var platformsFolder = path.join(__dirname, '/../..');
-var cfgFilename     = 'manifest.json';
+let platforms;
 
-var platforms  = process.env.EZPAARSE_PLATFORM_TO_TEST ? [ process.env.EZPAARSE_PLATFORM_TO_TEST ] : fs.readdirSync(platformsFolder);
+if (process.env.EZPAARSE_PLATFORM_TO_TEST) {
+  platforms = process.env.EZPAARSE_PLATFORM_TO_TEST.split(/\s+/);
+} else {
+  platforms = fs.readdirSync(platformsDir);
+}
 
-function testFiles(files, parserFile, done) {
+platforms
+.filter(item => !item.startsWith('.'))
+.map(item => path.resolve(platformsDir, item))
+.filter(item => fs.statSync(item).isDirectory())
+.forEach(platform => {
 
-  var test = exec(parserFile);
-  test.on('exit', function (code) {
-    assert.ok(code !== 126, 'the parser is not executable');
-    assert.ok(code === 0, 'the parser exited with code ' + code);
+  let manifest;
+  try { manifest = require(path.resolve(platform, 'manifest.json')); }
+  catch (e) { manifest = e; }
 
-    // to be able to concatenate test data files 
-    function csvConverterFromFiles(csvFiles, cb) {
-      var results = [];
-      csvFiles.forEach(function (file, idx) {
-        var csvConverter = new Converter({ delimiter: ';', checkType: false, ignoreEmpty: true });
-        csvConverter.fromFile(file, function (err, records) {
-          if (err) throw new Error(err);
-          results = results.concat(records);
-          if (idx == (csvFiles.length - 1)) return cb(null, results);
-        });
-      });
-    };
+  describe(manifest && manifest.longname || path.basename(platform), () => {
+    it('works', done => {
+      if (manifest instanceof Error) { return done(manifest); }
 
-    // load records from every test files
-    csvConverterFromFiles(files, function (err, records) {
-      assert.ok(err === null);
+      const testDir = path.resolve(platform, 'test');
 
-      records = records.map(function (record) {
-        var set = {
-          in: {},
-          out: {}
-        };
-        for (var prop in record) {
-          if (/^in-/.test(prop))       { set.in[prop.substr(3)]  = record[prop]; }
-          else if (/^out-/.test(prop)) { set.out[prop.substr(4)] = record[prop]; }
-        }
+      extractTestData(testDir, (err, testData) => {
+        if (err) { return done(err); }
 
-        if (set.out.hasOwnProperty('_granted')) {
-          set.out._granted = set.out._granted === 'true';
-        }
-        return set;
-      });
+        let parser;
+        try { parser = require(path.resolve(platform, 'parser.js')); }
+        catch (e) { done(e); }
 
-      var child = spawn(parserFile, ['--json']);
-      var lazy  = new Lazy(child.stdout);
-      var record;
+        for (let i = testData.length - 1; i >= 0; i--) {
+          const record = testData[i];
+          assert(record.in.url, 'some entries in the test file have no URL');
 
-      lazy.lines
-        .map(String)
-        .map(function (line) {
-          var parsedLine = JSON.parse(line);
-          should.ok(helpers.equals(parsedLine, record.out, true),
-            `result does not match
+          const parsed   = parser.execute(record.in);
+          const allProps = Object.keys(record.out).concat(Object.keys(parsed));
+          const equal    = allProps.every(p => record.out[p] === parsed[p])
+
+          if (!equal) {
+            return done(new Error(`result does not match
             input: ${JSON.stringify(record.in, null, 2)}
-            result: ${JSON.stringify(parsedLine, null, 2)}
-            expected: ${JSON.stringify(record.out, null, 2)}`);
-          record = records.pop();
-          if (record) {
-            assert(record.in.url, 'some entries in the test file have no URL');
-            child.stdin.write(JSON.stringify(record.in) + '\n');
-          } else {
-            child.stdin.end();
-          }
-        });
-      lazy.on('end', function () {
-        done();
-      });
-
-      record = records.pop();
-      if (record) {
-        assert(record.in.url, 'some entries in the test file have no URL');
-        child.stdin.write(JSON.stringify(record.in) + '\n');
-      } else {
-        done();
-      }
-    });
-  });
-
-  test.stdin.end('[]');
-}
-
-function fetchPlatform(platform) {
-  if (!platform) {
-    return;
-  }
-
-  var platformPath = path.join(platformsFolder, platform);
-
-  // filter things which are not a platform name (ex: .git, node_modules, etc)
-  if (/^\./.test(platform) || !fs.statSync(platformPath).isDirectory() || platform == 'node_modules') {
-    fetchPlatform(platforms.pop());
-    return;
-  }
-
-  var configFile = path.join(platformPath, cfgFilename);
-
-  describe(platform, function () {
-
-    it('is usable', function (done) {
-
-      should.ok(fs.existsSync(configFile), 'manifest.json does not exist');
-      var config = JSON.parse(fs.readFileSync(configFile, 'UTF-8'));
-
-      should.exist(config.name, 'field \'name\' in manifest.json does not exist');
-      should.ok(config.name.length > 0, 'field \'name\' in manifest.json is empty');
-
-      var parserFile = path.join(platformPath, 'parser.js');
-
-      fs.exists(parserFile, function (exists) {
-        if (!exists) { return done(); }
-
-        var testFolder = path.join(platformPath, 'test');
-
-        should.ok(fs.existsSync(testFolder) && fs.statSync(testFolder).isDirectory(),
-                  'no test folder');
-
-        var files    = fs.readdirSync(testFolder);
-        var csvFiles = [];
-
-        for (var i in files) {
-
-          var csvPath = path.join(testFolder, files[i]);
-
-          if (/\.csv$/.test(files[i])) {
-            csvFiles.push(csvPath);
+            result: ${JSON.stringify(parsed, null, 2)}
+            expected: ${JSON.stringify(record.out, null, 2)}`));
           }
         }
-        should.ok(csvFiles.length > 0, 'no test file');
-        testFiles(csvFiles, parserFile, done);
-      });
 
+        done();
+      });
     });
   });
-  fetchPlatform(platforms.pop());
-}
-
-describe('The platform', function () {
-  this.timeout(10000);
-  fetchPlatform(platforms.pop());
 });
+
+/**
+ * Takes a test directory and extracts parse the CSV files
+ * @param  {String}   testDir  test directory
+ * @param  {Function} callback(err, records)
+ */
+function extractTestData(testDir, callback) {
+  fs.readdir(testDir, (err, files) => {
+    if (err) { return callback(err); }
+
+    const testData = [];
+
+    (function convertFile() {
+      const file = files.pop();
+      if (!file) { return callback(null, testData); }
+      if (!file.endsWith('.csv')) { return convertFile(); }
+
+      const csvConverter = new Converter({
+        delimiter: ';',
+        checkType: false,
+        ignoreEmpty: true
+      });
+
+      csvConverter.fromFile(path.resolve(testDir, file), (err, records) => {
+        if (err) { return callback(err); }
+
+        records.forEach(record => {
+          const set = { in: {}, out: {} };
+
+          for (const prop in record) {
+            if (prop.startsWith('in-'))       { set.in[prop.substr(3)]  = record[prop]; }
+            else if (prop.startsWith('out-')) { set.out[prop.substr(4)] = record[prop]; }
+          }
+
+          if (set.out.hasOwnProperty('_granted')) {
+            set.out._granted = set.out._granted === 'true';
+          }
+
+          testData.push(set);
+        });
+
+        convertFile();
+      });
+    })();
+  });
+}
