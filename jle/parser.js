@@ -24,7 +24,7 @@ module.exports = new Parser(function analyseEC(parsedUrl, ec) {
 
   var match;
 
-  if ((match = /^\/fr\/revues\/ipe\/e-docs\/(\w+)_(\d+)\/article\.phtml$/.exec(path)) !== null) {
+  if ((match = /^\/fr\/revues\/(.+)\/e-docs\/(\w+)_(\d+)\/article\.phtml$/.exec(path)) !== null) {
     // http://www.jle.com/fr/revues/ipe/e-docs/proposition_dune_grille_danalyse_des_representations_sociales_pour_la_prise_en_charge_des_auteurs_dagression_sexuelle_304480/article.phtml?tab=texte
     switch (param.tab) {
     case 'texte':
@@ -41,16 +41,19 @@ module.exports = new Parser(function analyseEC(parsedUrl, ec) {
       break;
     }
     result.mime = 'HTML';
-    result.unitid = match[2];
-  } else if ((match = /^\/download\/[a-z]{3,4}-(\d+)-.*\.pdf$/.exec(path)) !== null) {
+    result.title_id = match[1];
+    result.unitid = match[3];
+  } else if ((match = /^\/download\/([a-z]{3,4})-(\d+)-.*\.pdf$/.exec(path)) !== null) {
     // http://www.jle.com/download/ipe-304480-proposition_dune_grille_danalyse_des_representations_sociales_pour_la_prise_en_charge_des_auteurs_dagression_sexuelle-scd_lille_2-Vt2DzX8AAQEAAHKJNncAAAAG-u.pdf
     result.rtype = 'ARTICLE';
     result.mime = 'PDF';
-    result.unitid = match[1];
-  } else if ((match = /^\/fr\/revues\/ipe\/sommaire\.phtml$/.exec(path)) !== null) {
+    result.title_id = match[1];
+    result.unitid = match[2];
+  } else if ((match = /^\/fr\/revues\/(.+)\/sommaire\.phtml$/.exec(path)) !== null) {
     // http://www.jle.com/fr/revues/ipe/sommaire.phtml?cle_parution=4295
     result.rtype = 'TOC';
     result.mime = 'HTML';
+    result.title_id = match[1];
     result.unitid = param.cle_parution;
   }
 

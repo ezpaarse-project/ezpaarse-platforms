@@ -1,7 +1,9 @@
-out-unitid;out-rtype;out-mime;in-url
-304480;ARTICLE;HTML;http://www.jle.com/fr/revues/ipe/e-docs/proposition_dune_grille_danalyse_des_representations_sociales_pour_la_prise_en_charge_des_auteurs_dagression_sexuelle_304480/article.phtml?tab=texte
-304480;ARTICLE;PDF;http://www.jle.com/download/ipe-304480-proposition_dune_grille_danalyse_des_representations_sociales_pour_la_prise_en_charge_des_auteurs_dagression_sexuelle-scd_lille_2-Vt2DzX8AAQEAAHKJNncAAAAG-u.pdf
-4295;TOC;HTML;http://www.jle.com/fr/revues/ipe/sommaire.phtml?cle_parution=4295
-304480;ABS;HTML;http://www.jle.com/fr/revues/ipe/e-docs/proposition_dune_grille_danalyse_des_representations_sociales_pour_la_prise_en_charge_des_auteurs_dagression_sexuelle_304480/article.phtml
-306520;REF;HTML;http://www.jle.com/fr/revues/ipe/e-docs/donnees_probantes_a_partir_de_la_psychotherapie_de_max_un_patient_borderline_306520/article.phtml?tab=references
-304480;IMAGE;HTML;http://www.jle.com/fr/revues/ipe/e-docs/proposition_dune_grille_danalyse_des_representations_sociales_pour_la_prise_en_charge_des_auteurs_dagression_sexuelle_304480/article.phtml?tab=images
+out-title_id;out-unitid;out-rtype;out-mime;in-url
+ejd;306013;ARTICLE;HTML;http://www.jle.com:80/fr/revues/ejd/e-docs/skin_microbiome_in_melanomas_and_melanocytic_nevi_306013/article.phtml?tab=texte
+ipe;304480;ARTICLE;HTML;http://www.jle.com/fr/revues/ipe/e-docs/proposition_dune_grille_danalyse_des_representations_sociales_pour_la_prise_en_charge_des_auteurs_dagression_sexuelle_304480/article.phtml?tab=texte
+ipe;304480;ARTICLE;PDF;http://www.jle.com/download/ipe-304480-proposition_dune_grille_danalyse_des_representations_sociales_pour_la_prise_en_charge_des_auteurs_dagression_sexuelle-scd_lille_2-Vt2DzX8AAQEAAHKJNncAAAAG-u.pdf
+ipe;4295;TOC;HTML;http://www.jle.com/fr/revues/ipe/sommaire.phtml?cle_parution=4295
+ipe;304480;ABS;HTML;http://www.jle.com/fr/revues/ipe/e-docs/proposition_dune_grille_danalyse_des_representations_sociales_pour_la_prise_en_charge_des_auteurs_dagression_sexuelle_304480/article.phtml
+ejd;306013;ABS;HTML;http://www.jle.com:80/fr/revues/ejd/e-docs/skin_microbiome_in_melanomas_and_melanocytic_nevi_306013/article.phtml
+ipe;306520;REF;HTML;http://www.jle.com/fr/revues/ipe/e-docs/donnees_probantes_a_partir_de_la_psychotherapie_de_max_un_patient_borderline_306520/article.phtml?tab=references
+ipe;304480;IMAGE;HTML;http://www.jle.com/fr/revues/ipe/e-docs/proposition_dune_grille_danalyse_des_representations_sociales_pour_la_prise_en_charge_des_auteurs_dagression_sexuelle_304480/article.phtml?tab=images

@@ -2,7 +2,8 @@
   "version": "2016-03-07",
   "status": "beta",
   "domains": [
-    "www.jle.com"
+    "www.jle.com",
+    "jle.com"
   ],
   "recognize": {
     "rid": [
