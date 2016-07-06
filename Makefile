@@ -17,8 +17,8 @@ ifneq "$(SUPPORTS_MAKE_ARGS)" ""
     $(eval $(COMMAND_ARGS):;@:)
 endif
 
-install: ## install dependencies
+install: ## Install dependencies
 	cd .lib && npm install
 
-test: ## by default tests every platforms. But it could be used to test just one. Ex: make test sd
+test: ## Tests every platforms. You can also select one or more. Ex: make test sd npg
 	cd .lib && EZPAARSE_PLATFORM_TO_TEST="$(COMMAND_ARGS)" npm test
