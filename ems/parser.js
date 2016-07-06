@@ -18,9 +18,6 @@ module.exports = new Parser(function analyseEC(parsedUrl, ec) {
   var path   = parsedUrl.pathname;
   var param  = parsedUrl.query || {};
 
-  // use console.error for debuging
-  // console.error(parsedUrl);
-
   var match;
 
   if (param.issn) {
@@ -37,20 +34,24 @@ module.exports = new Parser(function analyseEC(parsedUrl, ec) {
     }
   }
 
-  if (/^\/journals\/(all_issues.php)|(show_issue.php)$/.test(path)) {
+  if (/^\/journals\/(all_issues\.php)|(show_issue\.php)$/.test(path)) {
     // https://www-ems--ph-org.bibliopam-evry.univ-evry.fr/journals/all_issues.php?issn=1435-9855
     // https://www-ems--ph-org.bibliopam-evry.univ-evry.fr/journals/show_issue.php?issn=1435-9855&vol=16&iss=6
-    result.rtype    = 'TOC';
-    result.mime     = 'HTML';
-  } else if (/^\/journals\/show_(abstract|pdf).php$/.test(path)) {
+    result.rtype = 'TOC';
+    result.mime  = 'HTML';
+  } else if (match = /^\/journals\/show_(abstract|pdf)\.php$/.exec(path)) {
     // https://www-ems--ph-org.bibliopam-evry.univ-evry.fr/journals/show_abstract.php?issn=1435-9855&vol=16&iss=6&rank=1
-    result.rtype    = 'ABS';
-    result.mime     = 'HTML';
-    if (match[1] === 'pdf') {
-      result.rtype    = 'ARTICLE';
-      result.mime     = 'PDF';
+
+    switch (match[1]) {
+    case 'abstract':
+      result.rtype = 'ABS';
+      result.mime  = 'HTML';
+      break;
+    case 'pdf':
+      result.rtype = 'ARTICLE';
+      result.mime  = 'PDF';
+      break;
     }
   }
   return result;
 });
-
