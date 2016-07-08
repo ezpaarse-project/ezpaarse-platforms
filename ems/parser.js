@@ -39,7 +39,7 @@ module.exports = new Parser(function analyseEC(parsedUrl, ec) {
     // https://www-ems--ph-org.bibliopam-evry.univ-evry.fr/journals/show_issue.php?issn=1435-9855&vol=16&iss=6
     result.rtype = 'TOC';
     result.mime  = 'HTML';
-  } else if (match = /^\/journals\/show_(abstract|pdf)\.php$/.exec(path)) {
+  } else if ((match = /^\/journals\/show_(abstract|pdf)\.php$/.exec(path)) !== null) {
     // https://www-ems--ph-org.bibliopam-evry.univ-evry.fr/journals/show_abstract.php?issn=1435-9855&vol=16&iss=6&rank=1
 
     switch (match[1]) {
