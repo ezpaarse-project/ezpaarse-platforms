@@ -37,7 +37,10 @@ platforms
         if (err) { return done(err); }
 
         let parser;
-        try { parser = require(path.resolve(platform, 'parser.js')); }
+        try {
+          parser = require(path.resolve(platform, 'parser.js'));
+          parser.debugMode(true);
+        }
         catch (e) { done(e); }
 
         for (let i = testData.length - 1; i >= 0; i--) {

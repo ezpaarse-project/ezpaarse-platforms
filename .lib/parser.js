@@ -9,7 +9,6 @@ var URL  = require('url');
 var Parser = function (parsingFunction) {
   this.analyse = parsingFunction || function () { return {}; };
 
-
   if (!module.parent.parent) {
     var yargs = require('yargs')
       .usage('Parse URLs read from standard input. ' +
@@ -39,6 +38,14 @@ var Parser = function (parsingFunction) {
 };
 
 /*
+* Set debug mode
+* In debug mode, exceptions will throw instead of resulting in an empty result
+*/
+Parser.prototype.debugMode = function (bool) {
+  this.debug = !!bool;
+}
+
+/*
 * If an array of urls is given, return an array of results
 * Otherwise, read stdin and write into stdout
 */
@@ -51,6 +58,7 @@ Parser.prototype.execute = function (ec) {
         var url = decodeURIComponent(e.url);
         return self.analyse(URL.parse(url, true), e);
       } catch (e) {
+        if (self.debug) { throw e; }
         return {};
       }
     });
@@ -61,6 +69,7 @@ Parser.prototype.execute = function (ec) {
       var url = decodeURIComponent(ec.url);
       return this.analyse(URL.parse(url, true), ec);
     } catch (e) {
+      if (this.debug) { throw e; }
       return {};
     }
   } else {
