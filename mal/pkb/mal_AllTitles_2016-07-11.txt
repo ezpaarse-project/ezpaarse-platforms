@@ -1,0 +1,88 @@
+publication_title	print_identifier	online_identifier	date_first_issue_online	num_first_vol_online	num_first_issue_online	date_last_issue_online	num_last_vol_online	num_last_issue_online	title_url	first_author	title_id	embargo_info	coverage_depth	notes	publisher_name	publication_type	date_monograph_published_print	date_monograph_published_online	monograph_volume	monograph_edition	first_editor	parent_publication_title_id	preceding_publication_title_id	access_type	DOI	ISSNs	eISSNs	ISBNs
+Journal of Women's Health & Gender-Based Medicine	1524-6094		1999-05-01	8	4	2002-09-30	11	7	http://online.liebertpub.com/toc/jwh.1/10/2		2		fulltext	Now: Journal of Women's Health (2002) Previously: Journal of Women's Health (1992-1999)		serial										1524-6094		
+3D Printing and Additive Manufacturing		2329-7670	2014-03-01	1					http://online.liebertpub.com/loi/3DP		3DP		fulltext			serial											2329-7670	
+Journal of Alternative and Complementary Medicine, The	1075-5535	1557-7708	1995-01-01	1	1				http://online.liebertpub.com/loi/ACM		ACM		fulltext			serial										1075-5535	1557-7708	
+Alternative and Complementary Therapies	1076-2809	1557-9085	1994-10-01	1	1				http://online.liebertpub.com/loi/ACT		ACT		fulltext			serial										1076-2809	1557-9085	
+Medical Acupuncture	1933-6586	1933-6594	2007-03-01	19	1				http://online.liebertpub.com/loi/ACU		ACU		fulltext			serial										1933-6586	1933-6594	
+ASSAY and Drug Development Technologies	1540-658X	1557-8127	2002-11-01	1	1				http://online.liebertpub.com/loi/ADT		ADT		fulltext			serial										1540-658X	1557-8127	
+AIDS Research	0737-6006		1983-01-01	1	1	1986-12-31	2	2	http://online.liebertpub.com/loi/AID		AID		fulltext	Now: AIDS Research and Human Retroviruses		serial										0737-6006		
+Applied In Vitro Toxicology	2332-1512	2332-1539	2015-03-01	1	1				http://online.liebertpub.com/loi/AIVT		AIVT		fulltext	new (2015)		serial										2332-1512	2332-1539	
+AIDS Patient Care and STDs	1087-2914	1557-7449	1987-06-01	1	1				http://online.liebertpub.com/loi/APC		APC		fulltext			serial										1087-2914	1557-7449	
+Antioxidants & Redox Signaling	1523-0864	1557-7716	1999-01-01	1	1				http://online.liebertpub.com/loi/ARS		ARS		fulltext			serial										1523-0864	1557-7716	
+Astrobiology	1531-1074	1557-8070	2001-03-01	1	1				http://online.liebertpub.com/loi/AST		AST		fulltext			serial										1531-1074	1557-8070	
+Bariatric Surgical Patient Care	2168-023X	2168-0248	2006-01-01	1	1				http://online.liebertpub.com/loi/BARI		BARI		fulltext			serial										2168-023X	2168-0248	
+Breastfeeding Medicine	1556-8253	1556-8342	2006-01-01	1	1				http://online.liebertpub.com/loi/BFM		BFM		fulltext			serial										1556-8253	1556-8342	
+Big Data	2167-6461	2167-647X	2013-03-01	1	1				http://online.liebertpub.com/loi/BIG		BIG		fulltext			serial										2167-6461	2167-647X	
+Biopreservation and Biobanking	1947-5535	1947-5543	2008-03-01	6	1				http://online.liebertpub.com/loi/BIO		BIO		fulltext	Previously: Cell Preservation Technology (2002-2007)		serial										1947-5535	1947-5543	
+BioResearch Open Access	2164-7844	2164-7860	2012-02-01	1	1				http://online.liebertpub.com/loi/BIORES		BIORES		fulltext			serial										2164-7844	2164-7860	
+Biotechnology Law Report	0730-031X	1557-8704	1982-01-01	1	1				http://online.liebertpub.com/loi/BLR		BLR		fulltext			serial										0730-031X	1557-8704	
+Brain Connectivity	2158-0014	2158-0022	2011-01-01	1	1				http://online.liebertpub.com/loi/BRAIN		BRAIN		fulltext			serial										2158-0014	2158-0022	
+Biosecurity and Bioterrorism: Biodefense Strategy, Practice,  and Science	1538-7135	1557-850X	2003-03-01	1	1				http://online.liebertpub.com/loi/BSP		BSP		fulltext			serial										1538-7135	1557-850X	
+Journal of Child and Adolescent Psychopharmacology	1044-5463	1557-8992	1990-01-01	1	1				http://online.liebertpub.com/loi/CAP		CAP		fulltext			serial										1044-5463	1557-8992	
+Cancer Biotherapy	1062-8401		1983-01-01	1	1	1995-12-31	10	4	http://online.liebertpub.com/loi/CBR		CBR		fulltext	Now: Cancer Biotherapy and Radiopharmaceuticals		serial										1062-8401		
+Cellular Reprogramming	2152-4971	2152-4998	2010-02-01	12	1				http://online.liebertpub.com/loi/CELL		CELL		fulltext	Previously: Cloning and Stem Cells (2001-2009) and Cloning (1999-2000)		serial										2152-4971	2152-4998	
+Childhood Obesity	2153-2168	2153-2176	2010-08-01	6	4				http://online.liebertpub.com/loi/CHI		CHI		fulltext			serial										2153-2168	2153-2176	
+Journal of Computational Biology	1066-5277	1557-8666	1994-01-01	1	1				http://online.liebertpub.com/loi/CMB		CMB		fulltext			serial										1066-5277	1557-8666	
+Clinical Thyroidology	2329-9711	2329-972X	2001-03-01	13	1				http://online.liebertpub.com/ct		ct		fulltext			serial										2329-9711	2329-972X	
+CyberPsychology and Behavior	1094-9313	1557-8364	1998-03-01	1	1	2009-12-31	12	6	http://online.liebertpub.com/loi/CYBER		CYBER		fulltext	Now: Cyberpsychology, Behavior and Social Networking		serial										1094-9313	1557-8364	
+Diabetes Technology & Therapeutics	1520-9156	1557-8593	1999-03-01	1	1				http://online.liebertpub.com/loi/DIA		DIA		fulltext			serial										1520-9156	1557-8593	
+DNA	0198-0238		1981-01-01	1	1	1989-12-31	8	10	http://online.liebertpub.com/loi/DNA		DNA		fulltext	Now: DNA and Cell Biology		serial										0198-0238		
+Drug Repurposing, Rescue, and Repositioning	2332-0257	2332-0265	2015-01-01						http://online.liebertpub.com/loi/DRRR		DRRR		fulltext	New for 2015 - content not yet available		serial										2332-0257	2332-0265	
+Disruptive Science and Technology	2163-310X	2163-3118	2012-01-01	1	1				http://online.liebertpub.com/loi/DST		DST		fulltext			serial										2163-310X	2163-3118	
+Ecopsychology		1942-9347	2009-03-01	1	1				http://online.liebertpub.com/loi/ECO		ECO		fulltext			serial											1942-9347	
+Environmental Engineering Science	1092-8758	1557-9018	1997-01-01	14	1				http://online.liebertpub.com/loi/EES		EES		fulltext	Previously: Hazardous Waste (1984) Hazardous Waste & Hazardous Materials (1985-1996)		serial										1092-8758	1557-9018	
+Election Law Journal: Rules, Politics, and Policy	1533-1296	1557-8062	2002-03-01	1	1				http://online.liebertpub.com/loi/ELJ		ELJ		fulltext			serial										1533-1296	1557-8062	
+Journal of Endourology	0892-7790	1557-900X	1987-01-01	1	1				http://online.liebertpub.com/loi/END		END		fulltext			serial										0892-7790	1557-900X	
+Environmental Justice	1939-4071	1937-5174	2008-03-01	1	1				http://online.liebertpub.com/loi/ENV		ENV		fulltext			serial										1939-4071	1937-5174	
+Foodborne Pathogens and Disease	1535-3141	1556-7125	2004-03-01	1	1				http://online.liebertpub.com/loi/FPD		FPD		fulltext			serial										1535-3141	1556-7125	
+Games for Health Journal	2161-783X	2161-7856	2012-02-01	1	1				http://online.liebertpub.com/loi/G4H		G4H		fulltext			serial										2161-783X	2161-7856	
+Genetic Engineering & Biotechnology News	1935-472X	1937-8661	2011-01-01	31	1				http://online.liebertpub.com/loi/GEN		GEN		fulltext			serial										1935-472X	1937-8661	
+Gaming Law Review	1092-1885	1557-8046	1997-03-01	1	1	2008-12-31	12	6	http://online.liebertpub.com/loi/GLRE		GLRE		fulltext	Now: Gaming Law Review and Economics: Regulation, Compliance, and Policy		serial										1092-1885	1557-8046	
+Genetic Testing	1090-6576	1557-7473	1997-06-01	1	1	2008-12-31	12	4	http://online.liebertpub.com/loi/GTMB		GTMB		fulltext	Now: Genetic Testing and Molecular Biomarkers		serial										1090-6576	1557-7473	
+Colposcopy and Gynecologic Laser Surgery	0741-6113		1984-01-01	1	1	1988-12-31	4	4	http://online.liebertpub.com/loi/GYN		GYN		fulltext	Now:Journal of Gynecologic Surgery		serial										0741-6113		
+High Altitude Medicine & Biology	1527-0297	1557-8682	2000-03-01	1					http://online.liebertpub.com/loi/HAM		HAM		fulltext			serial										1527-0297	1557-8682	
+Human Gene Therapy Methods	1946-6536	1946-6544	2012-02-01	23					http://online.liebertpub.com/hgtb		hgtb		fulltext			serial										1946-6536	1946-6544	
+Health Security	2326-5094	2326-5108	2003-03-01	1	1				http://online.liebertpub.com/loi/HS		HS		fulltext			serial										2326-5094	2326-5108	
+Human Gene Therapy	1043-0342	1557-7422	1990-03-01	1	1				http://online.liebertpub.com/hum		hum		fulltext			serial										1043-0342	1557-7422	
+Human Gene Therapy Clinical Development	2324-8637	2324-8645	2013-03-01	24	1				http://online.liebertpub.com/humc		humc		fulltext			serial										2324-8637	2324-8645	
+Industrial Biotechnology	1550-9087	1931-8421	2005-01-01	1	1				http://online.liebertpub.com/loi/IND		IND		fulltext			serial										1550-9087	1931-8421	
+Journal of Aerosol Medicine	0894-2684	1557-9026	1988-01-01	1	1	2007-12-31	20	4	http://online.liebertpub.com/loi/JAMP		JAMP		fulltext	Now: Journal of Aerosol Medicine and Pulmonary Drug Delivery		serial										0894-2684	1557-9026	
+Journal of Adolescent and Young Adult Oncology	2156-5333	2156-535X	2011-03-01	1	1				http://online.liebertpub.com/loi/JAYAO		JAYAO		fulltext			serial										2156-5333	2156-535X	
+Journal of Caffeine Research	2156-5783	2156-5368	2011-03-01	1	1				http://online.liebertpub.com/loi/JCR		JCR		fulltext			serial										2156-5783	2156-5368	
+Journal of Interferon Research	0197-8357	2332-4007	1980-01-01	1	1	1994-12-31	14	6	http://online.liebertpub.com/loi/JIR		JIR		fulltext	Now: Journal of Interferon and Cytokine Research		serial										0197-8357	2332-4007	
+Journal of Medicinal Food	1096-620X	1557-7600	1998-01-01	1	1				http://online.liebertpub.com/loi/JMF		JMF		fulltext			serial										1096-620X	1557-7600	
+Journal of Men's Health	1875-6867	1875-6859	2008-03-01	5	1				http://online.liebertpub.com/loi/JOMH		JOMH		fulltext	Previously: The Journal of Men's Health & Gender (2004-2007)		serial										1875-6867	1875-6859	
+Journal of Ocular Pharmacology	8756-3320		1985-01-01	1	1	1994-12-31	10	4	http://online.liebertpub.com/loi/JOP		JOP		fulltext	Now: Journal of Ocular Pharmacology and Therapeutics		serial										8756-3320		
+Journal of Palliative Medicine	1096-6218	1557-7740	1998-01-01	1	1				http://online.liebertpub.com/loi/JPM		JPM		fulltext			serial										1096-6218	1557-7740	
+Journal of Women's Health	1059-7115		1992-01-01	1	1	1999-04-30	8	3	http://www.liebertpub.com/jwh		jwh		fulltext	Now: Journal of Women's Health (2002)		serial										1059-7115		
+Journal of Women's Health (2002)	1540-9996	1931-843X	2002-10-01	11	8				http://online.liebertpub.com/loi/JWH		JWH		fulltext	Previously: Journal of women's health (1992-1999), Journal of women's health & gender-based medicine (1999-2002)		serial										1540-9996	1931-843X	
+Journal of Laparoendoscopic Surgery	1052-3901	2332-502X	1990-01-01	1	1	1996-12-31	6	6	http://online.liebertpub.com/loi/LAP		LAP		fulltext	Now: Journal of Laparoendoscopic & Advanced Surgical Techniques		serial										1052-3901	2332-502X	
+LGBT Health	2325-8292	2325-8306	2014-01-01	1	1				http://online.liebertpub.com/loi/LGBT		LGBT		fulltext			serial										2325-8292	2325-8306	
+Lymphatic Research and Biology	1539-6851	1557-8585	2003-01-01	1	1				http://online.liebertpub.com/loi/LRB		LRB		fulltext			serial										1539-6851	1557-8585	
+Hybridoma and Hybridomics	1536-8599	1557-8097	2001-10-01	20	5-6	2004-12-31	23	6	http://online.liebertpub.com/loi/MAB		MAB		fulltext	Now: Monoclonal Antibodies in Immunodiagnosis and Immunotherapy. Previously Hybridoma (1981-2001) Continues: Hybridoma (2005-2012)		serial										1536-8599	1557-8097	
+Microbial Drug Resistance	1076-6294	1931-8448	1995-01-01	1	1				http://online.liebertpub.com/loi/MDR		MDR		fulltext			serial										1076-6294	1931-8448	
+Metabolic Syndrome and Related Disorders	1540-4196	1557-8518	2003-03-01	1	1				http://online.liebertpub.com/loi/MET		MET		fulltext			serial										1540-4196	1557-8518	
+Antisense and Nucleic Acid Drug Development	1087-2906		1996-01-01	6	1	2003-06-30	13	3	http://online.liebertpub.com/loi/NAT		NAT		fulltext	Now: Nucleic Acid Therapeutics. Continues: Oligonucleotides (2003-2011) Previously: Antisense Research and Development (1991-1995)		serial										1087-2906		
+Central Nervous System Trauma	0737-5999		1984-01-01	1	1	1987-12-31	4	4	http://online.liebertpub.com/loi/NEU		NEU		fulltext	Now: Journal of Neurotrauma		serial										0737-5999		
+Genome Science and Technology	1070-2830		1995-01-01	1	1	1996-12-31	1	4	http://online.liebertpub.com/loi/OMI		OMI		fulltext	Now: OMICS: A Journal of Integrative Biology Previously: Genome Science and Technology (1995-1996)		serial										1070-2830		
+Pediatric Allergy, Immunology, and Pulmonology	2151-321X	2151-3228	2010-03-01	24	1				http://online.liebertpub.com/loi/PED		PED		fulltext	Previously: Pediatric Asthma, Allergy & Immunology (1987-2009)		serial										2151-321X	2151-3228	
+Planned Giving Today	1052-4770	1937-4860	2006-12-01	17	12				http://online.liebertpub.com/loi/PGT		PGT		fulltext			serial										1052-4770	1937-4860	
+Journal of Clinical Laser Medicine & Surgery	1044-5471	1557-8089	1990-02-01	8	1	2004-04-30	22	2	http://online.liebertpub.com/loi/PHO		PHO		fulltext	Now: Photomedicine and Laser Surgery Previously: Laser Medicine and Surgery News and Advances (1983-1989)		serial										1044-5471	1557-8089	
+Disease Management	1093-507X	1557-8860	1998-01-01	1	1	2008-06-30	11	3	http://online.liebertpub.com/loi/POP		POP		fulltext	Now: Population Health Management		serial										1093-507X	1557-8860	
+Journal of Anti-Aging Medicine	1094-5458	1557-8984	1998-01-01	1	1	2003-12-31	6	4	http://online.liebertpub.com/loi/REJ		REJ		fulltext	Now: Rejuvenation Research		serial										1094-5458	1557-8984	
+Journal of Hematotherapy & Stem Cell Research	1525-8165		1999-08-01	8	4	2003-12-31	12	6	http://online.liebertpub.com/loi/SCD		SCD		fulltext	Now: Stem Cells and Development Previously: Journal of Hematotherapy (1992-1999)		serial										1525-8165		
+Soft Robotics	2169-5172	2169-5180	2013-07-01	1	1				http://online.liebertpub.com/loi/SORO		SORO		fulltext			serial										2169-5172	2169-5180	
+New Space	2168-0256	2168-0264	2013-03-01	1	1				http://online.liebertpub.com/loi/SPACE		SPACE		fulltext			serial										2168-0256	2168-0264	
+Surgical Infections	1096-2964	1557-8674	2000-04-01	1	1				http://online.liebertpub.com/loi/SUR		SUR		fulltext			serial										1096-2964	1557-8674	
+Sustainability: The Journal of Record	1937-0695	1937-0709	2008-02-01	1	1				http://online.liebertpub.com/loi/SUS		SUS		fulltext			serial										1937-0695	1937-0709	
+Tissue Engineering	1076-3279	1557-8690	1995-01-01	1	1	2007-12-31	13	12	http://online.liebertpub.com/tea		tea		fulltext	Now: Tissue Engineering, Part A		serial										1076-3279	1557-8690	
+Tissue Engineering, Part B: Reviews	1937-3368	1937-3376	2008-03-01	14	1				http://online.liebertpub.com/teb		teb		fulltext			serial										1937-3368	1937-3376	
+Tissue Engineering, Part C: Methods	1937-3384	1937-3392	2008-03-01	14	1				http://online.liebertpub.com/loi/tec		tec		fulltext			serial										1937-3384	1937-3392	
+Therapeutic Hypothermia and Temperature Management	2153-7658	2153-7933	2011-01-01	1	1				http://online.liebertpub.com/loi/THER		THER		fulltext			serial										2153-7658	2153-7933	
+Thyroid	1050-7256	1557-9077	1990-01-01	1	1				http://online.liebertpub.com/loi/THY		THY		fulltext			serial										1050-7256	1557-9077	
+Telemedicine and e-Health	1530-5627	1556-3669	2000-09-01	6	3				http://online.liebertpub.com/loi/TMJ		TMJ		fulltext	Previously: Telemedicine Journal (1995-2000)		serial										1530-5627	1556-3669	
+Vector-Borne and Zoonotic Diseases	1530-3667	1557-7759	2001-03-01	1	1				http://online.liebertpub.com/loi/VBZ		VBZ		fulltext			serial										1530-3667	1557-7759	
+Viral Immunology	0882-8245	1557-8976	1987-01-01	1	1				http://online.liebertpub.com/loi/VIM		VIM		fulltext			serial										0882-8245	1557-8976	
+Violence and Gender	2326-7836	2326-7852	2014-01-01	1	1				http://online.liebertpub.com/loi/VIO		VIO		fulltext			serial										2326-7836	2326-7852	
+Advances in Wound Care	2162-1918	2162-1934	2012-02-01	1	1				http://online.liebertpub.com/loi/WOUND		WOUND		fulltext			serial										2162-1918	2162-1934	
+Zebrafish	1545-8547	1557-8542	2004-02-01	1					http://online.liebertpub.com/loi/ZEB		ZEB		fulltext			serial										1545-8547	1557-8542	
