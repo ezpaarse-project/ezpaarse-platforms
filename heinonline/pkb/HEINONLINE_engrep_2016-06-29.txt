@@ -168,4 +168,3 @@ publication_title	print_identifier	online_identifier	date_first_issue_online	num
 "Statutes of the Realm"									http://heinonline.org/HOL/Index?index=engrep/realm&collection=engrep		realm		fulltext			monograph								P	
 "Tables, Alphabetical and Chronological, of All Reports of Cases Decided in the Superior Courts of England, Scotland and Ireland, Prior to the Commencement of the Reports Issues by the Council of Law Reporting"									http://heinonline.org/HOL/Index?index=selden/tbach&collection=engrep	Cane	tbach		fulltext			monograph	1895							P	
 "Times Law Reports and Commercial Cases"			1884			1946			http://heinonline.org/HOL/Index?index=selden/tmlwr&collection=engrep		tmlwr		fulltext		"Times Publishing Company"	serial	1884							P	
-

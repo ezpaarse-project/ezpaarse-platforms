@@ -83,7 +83,8 @@ PkbRows.prototype.setKbartName = function (filename) {
   // DRAFT For Public Comment September 4 – October 4, 2013
   // File Name
   // [ProviderName]_[Region/Consortium]_[PackageName]_[YYYY-MM-DD].txt
-  if (filename) { self.kbartFileName += filename + '.txt'; } else {
+  if (filename) { self.kbartFileName += filename +
+    '_' + moment().format('YYYY-MM-DD') + '.txt'; } else {
     if (self.providerName) { self.kbartFileName += self.providerName; }
     if (self.consortiumName) { self.kbartFileName += '_' + self.consortiumName; }
     if (self.packageName) { self.kbartFileName += '_' + self.packageName; }

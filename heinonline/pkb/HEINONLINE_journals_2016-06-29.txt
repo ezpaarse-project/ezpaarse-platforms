@@ -474,7 +474,6 @@ Catholic University Journal of Law & Technology 	1068-5871		1993	1					http://he
 "Charlotte Law Review"	2151-2728		2008						http://heinonline.org/HOL/Index?index=journals/charlolwr&collection=journals		charlolwr		fulltext		"Charlotte School of Law"	serial								P	3
 "Checklist of Human Rights Documents"			1976			1976			http://heinonline.org/HOL/Index?index=lbr/chofmard&collection=journals		chofmard		fulltext			serial	1976							P	
 Chicago Journal of International Law 	1529-0816		2000	1					http://heinonline.org/HOL/Index?index=journals/cjil		cjil		fulltext		University of Chicago Law School	serial								P	2
-University of Chicago Law School Roundtable 	1529-0816		1993			2002	9									serial								P	2
 Journal of Intellectual Property 	1559-9493		1999	1		1999	1		http://heinonline.org/HOL/Index?index=journals/jointpro		jointpro		fulltext		Chicago-Kent College of Law	serial								P	2
 Chicago-Kent Journal of Intellectual Property 	1559-9493		2000	2					http://heinonline.org/HOL/Index?index=journals/jointpro		jointpro		fulltext		Chicago-Kent College of Law	serial								P	2
 Chicago-Kent Review 	0009-3599		1923	1		1938	16		http://heinonline.org/HOL/Index?index=journals/chknt		chknt		fulltext		Chicago-Kent College of Law	serial								P	3
@@ -816,7 +815,6 @@ Insurance Law Review 	2334-7597		2002			2012			http://heinonline.org/HOL/Index?i
 European Insurance Law Review 	2334-7597		2013						http://heinonline.org/HOL/Index?index=journals/euinslr		euinslr		fulltext		Association for Insurance Law of Serbia	serial								P	4
 "European Journal of Comparative Law and Governance"	2213-4506				1				http://heinonline.org/HOL/Index?index=journals/eujclg&collection=journals		eujclg	P2Y	fulltext		"Brill Academic Publishers / Martinus Nijhoff Publishers"	serial								P	4
 "European Journal of Crime, Criminal Law and Criminal Justice"	1571-8174		1993			2013			http://heinonline.org/HOL/Index?index=journals/eccc&collection=journals		eccc	P2Y	fulltext		"Brill Academic Publishers"	serial								P	4
-European Journal of Current Legal Issues 	1360-1326		2015													serial								P	4
 Web Journal of Current Legal Issues 	1360-1326		1995			2014			http://heinonline.org/HOL/Index?index=external-journals/wjcli		wjcli		fulltext		University of Newcastle upon Tyne	serial								P	4
 "European Journal of Health Law"	0929-0273		1994			2013			http://heinonline.org/HOL/Index?index=journals/eurjhlb&collection=journals		eurjhlb	P2Y	fulltext		"Brill Academic Publishers"	serial								P	5
 "European Journal of International Law"	0938-5428		1990			1997			http://heinonline.org/HOL/Index?index=journals/eurint&collection=journals		eurint		fulltext		"Oxford University Press"	serial								P	4
@@ -1217,9 +1215,6 @@ International Law and Relations 			1936	5		1937	6		http://heinonline.org/HOL/Ind
 "International Property Investment Journal"	0731-4639		1982			1987			http://heinonline.org/HOL/Index?index=journals/intpij&collection=journals		intpij		fulltext			serial								P	
 "International Review of Criminal Policy"			1951			1999			http://heinonline.org/HOL/Index?index=unl/irocrimp&collection=journals		irocrimp		fulltext			serial	1951							P	
 "International Review of Law"	2223-859X		2012						http://heinonline.org/HOL/Index?index=journals/inrevla&collection=journals		inrevla		fulltext		" College of Law, Qatar University; Bloomsbury Qatar Foundation Publishers"	serial								P	2
- Yearbook of Law Computers and Technology 	1360-0869			1984	1		1991	5		http://heinonline.org/HOL/Index?index=journals/irlct		irlct		fulltext		Taylor and Francis	serial								P	3
-International Review of Law Computers & Technology 	1360-0869			1984	1		2010	24		http://heinonline.org/HOL/Index?index=journals/irlct		irlct	P5Y	fulltext		Taylor and Francis	serial								P	3
-International Yearbook of Law Computers and Technology 	1360-0869			1992	6		1995	9		http://heinonline.org/HOL/Index?index=journals/irlct		irlct		fulltext		Taylor and Francis	serial								P	3
 "International Studies Journal"	1735-2045		2004			2015			http://heinonline.org/HOL/Index?index=journals/isudijo&collection=journals		isudijo	P1Y	fulltext		"International Studies Journal"	serial								P	4
 "International Survey of Family Law"			1994			2015			http://heinonline.org/HOL/Index?index=journals/intsfal&collection=journals		intsfal	P1Y	fulltext		"Jordan Publishing"	serial								P	1
 "International Tax Journal"	0097-7314		1974			2013			http://heinonline.org/HOL/Index?index=journals/intaxjo&collection=journals		intaxjo	P2Y	fulltext		"CCH Incorporated"	serial								P	6
@@ -1792,8 +1787,6 @@ Maryland Journal of International Law 	2151-2922		2000	24					http://heinonline.
 "Maryland Law Review Endnotes"	0025-4282		2008						http://heinonline.org/HOL/Index?index=journals/endnot&collection=journals		endnot		fulltext		"University of Maryland Francis King Carey School of Law"	serial								P	4
 "Maryland Peace Society Quarterly"			1910			1912			http://heinonline.org/HOL/Index?index=journals/mdpsq&collection=journals		mdpsq		fulltext			serial								P	
 "Masaryk University Journal of Law and Technology"	1802-5951		2007						http://heinonline.org/HOL/Index?index=journals/mujlt&collection=journals		mujlt		fulltext		"Masaryk University"	serial								P	2
-Massachusetts Law Quarterly  	0163-1411			1915	1		1977	62		http://heinonline.org/HOL/Index?index=barjournals/malr		malr		fulltext		Massachusetts Bar Association	serial								P	4
-Massachusetts Law Review 	0163-1411			1915	1					http://heinonline.org/HOL/Index?index=barjournals/malr		malr		fulltext		Massachusetts Bar Association	serial								P	4
 Supreme Judicial Court Historical Society Journal 			1995	1		1996	2		http://heinonline.org/HOL/Index?index=journals/malghis		malghis		fulltext			serial								P	
 Massachusetts Legal History: A Journal of the Supreme Judicial Court Historical Society 			1997	3		2004	10		http://heinonline.org/HOL/Index?index=journals/malghis		malghis		fulltext			serial								P	
 "McGill International Journal of Sustainable Development Law and Policy"	1712-9664		2005						http://heinonline.org/HOL/Index?index=journals/mcgijosd&collection=journals		mcgijosd		fulltext		"McGill University"	serial								P	2
@@ -1989,9 +1982,7 @@ Nordisk Tidsskrift for International Ret 	0902-7351		1930	1		1985	54		http://hei
 "North Carolina Banking Institute"	1096-7249		1997						http://heinonline.org/HOL/Index?index=journals/ncbj&collection=journals		ncbj		fulltext		"University of North Carolina School of Law"	serial								P	1
 North Carolina College Law Journal 	0549-7434		1969			1969			http://heinonline.org/HOL/Index?index=journals/ncclj		ncclj		fulltext		North Carolina Central University School of Law	serial								P	2
 North Carolina Central Law Review 	0549-7434		2008	30					http://heinonline.org/HOL/Index?index=journals/ncclj		ncclj		fulltext		North Carolina Central University School of Law	serial								P	2
-North Carolina Central Law Journal 	0549-7434		1970	2		2007	29		http://heinonline.org/HOL/Index?index=journals/ncclj							serial								P	2
 North Carolina Journal of International Law and Commercial Regulation 	0743-1759		1976	1		2015	40	4	http://heinonline.org/HOL/Index?index=journals/ncjint		ncjint		fulltext		University of North Carolina School of Law	serial								P	4
-North Carolina Journal of International Law 	0743-1759		2015	41												serial								P	4
 "North Carolina Journal of Law"			1904			1905			http://heinonline.org/HOL/Index?index=journals/ncjrl&collection=journals		ncjrl		fulltext			serial								P	
 "North Carolina Journal of Law & Technology"	1542-5177		2000						http://heinonline.org/HOL/Index?index=journals/ncjl&collection=journals		ncjl		fulltext		"University of North Carolina School of Law"	serial								P	4
 "North Carolina Law Journal"			1900			1902			http://heinonline.org/HOL/Index?index=journals/nclj&collection=journals		nclj		fulltext			serial								P	
@@ -2041,7 +2032,7 @@ Ohio Legal News 			1894	1	22	1901	8-9		http://heinonline.org/HOL/Index?index=jou
 Toledo Legal News 			1894	1		1894	1	21	http://heinonline.org/HOL/Index?index=journals/ohiolenw		ohiolenw		fulltext			serial								P	
 "Ohio Northern University Intramural Law Review"			1970			1973			http://heinonline.org/HOL/Index?index=journals/onui&collection=journals		onui		fulltext		"Ohio Northern University Pettit College of Law"	serial								P	
 "Ohio Northern University Law Review"	0094-534X		1973						http://heinonline.org/HOL/Index?index=journals/onulr&collection=journals		onulr		fulltext		"Ohio Northern University Pettit College of Law"	serial								P	3
-Ohio State Business Law Journal 			2006	1					http://heinonline.org/HOL/Index?index=journals/eblwj		eblwj		fulltext		Ohio State University Moritz College of Law	serial								P	2
+ 			2006	1					http://heinonline.org/HOL/Index?index=journals/eblwj		eblwj		fulltext		Ohio State University Moritz College of Law	serial								P	2
 Ohio State Entrepreneurial Business Law Journal 			2006	1		2015	9		http://heinonline.org/HOL/Index?index=journals/eblwj		eblwj		fulltext		Ohio State University Moritz College of Law	serial								P	2
 "Ohio State Journal of Criminal Law"	1546-7619		2003						http://heinonline.org/HOL/Index?index=journals/osjcl&collection=journals		osjcl		fulltext		"Ohio State University, Moritz College of Law"	serial								P	2
 "Ohio State Journal on Dispute Resolution"	1046-4344		1985						http://heinonline.org/HOL/Index?index=journals/ohjdpr&collection=journals		ohjdpr		fulltext		"Ohio State University, Moritz College of Law"	serial								P	3
@@ -2534,7 +2525,7 @@ Texas Hispanic Journal of Law & Policy 	1547-4887		1998	4					http://heinonline.
 Texas International Law Forum 	0163-7479		1965	1		1971	6		http://heinonline.org/HOL/Index?index=journals/tilj		tilj		fulltext		University of Texas School of Law	serial								P	3
 Texas International Law Journal 	0163-7479		1972	7					http://heinonline.org/HOL/Index?index=journals/tilj		tilj		fulltext		University of Texas School of Law	serial								P	3
 "Texas Journal of Oil, Gas, and Energy Law"	1559-2189		2006						http://heinonline.org/HOL/Index?index=journals/texjogel&collection=journals		texjogel		fulltext		"University of Texas School of Law"	serial								P	2
-Texas Journal of Women Gender and the Law 	1058-5427		1992	1					http://heinonline.org/HOL/Index?index=journals/tjwl		tjwl		fulltext		University of Texas School of Law	serial								P	2
+ 	1058-5427		1992	1					http://heinonline.org/HOL/Index?index=journals/tjwl		tjwl		fulltext		University of Texas School of Law	serial								P	2
 Texas Journal of Women and the Law  	1058-5427		1992	1		2014	23		http://heinonline.org/HOL/Index?index=journals/tjwl		tjwl		fulltext		University of Texas School of Law	serial								P	2
 Texas Forum on Civil Liberties and Civil Rights 	1085-942X		1993	1		2002	7		http://heinonline.org/HOL/Index?index=journals/tfcl		tfcl		fulltext		University of Texas School of Law	serial								P	2
 Texas Journal on Civil Liberties & Civil Rights 	1085-942X		2003	8					http://heinonline.org/HOL/Index?index=journals/tfcl		tfcl		fulltext		University of Texas School of Law	serial								P	2
@@ -2591,7 +2582,7 @@ Natural Resources Law Newsletter 	1533-9556		1967	1		1991	23	2	http://heinonline
 Looking Ahead 	1533-9556		1995	27		1999	30		http://heinonline.org/HOL/Index?index=journals/trends		trends		fulltext		American Bar Association	serial								P	6
 SONREEL News 	1533-9556		1991	23	3	1995	26		http://heinonline.org/HOL/Index?index=journals/trends		trends		fulltext		American Bar Association	serial								P	6
 Trends 	1533-9556		2000	31		2013	44		http://heinonline.org/HOL/Index?index=journals/trends		trends	P2Y	fulltext		American Bar Association	serial								P	6
-Trends Interactive: A Dialog on Law Libraries and Technology 	0893-6777		1987	1					http://heinonline.org/HOL/Index?index=journals/ttllmt		ttllmt		fulltext		William S. Hein & Co. Inc.	serial								P	1
+ 	0893-6777		1987	1					http://heinonline.org/HOL/Index?index=journals/ttllmt		ttllmt		fulltext		William S. Hein & Co. Inc.	serial								P	1
 Trends in Law Library Management and Technology 	0893-6777		1987	1		2014	24		http://heinonline.org/HOL/Index?index=journals/ttllmt		ttllmt		fulltext		William S. Hein & Co. Inc.	serial								P	1
 "Trent Law Journal"			1977			1988			http://heinonline.org/HOL/Index?index=journals/trntlj&collection=journals		trntlj		fulltext		"Nottingham Trent University"	serial								P	2
 "Tribal Law Journal"	1936-1262		2000						http://heinonline.org/HOL/Index?index=external-journals/triblj&collection=journals		triblj		fulltext		"University of New Mexico School of Law"	serial								P	2
@@ -2772,7 +2763,6 @@ Journal of Law and Social Change 	1091-4803		2002	6		2007	10		http://heinonline.
 University of Pennsylvania Journal of Law and Social Change 	1091-4803		2008	11					http://heinonline.org/HOL/Index?index=journals/hybrid		hybrid		fulltext		University of Pennsylvania Law School	serial								P	4
 University of Pennsylvania Law Review 	0041-9907		1852	1					http://heinonline.org/HOL/Index?index=journals/pnlr		pnlr		fulltext		University of Pennsylvania Law School	serial								P	7
 American Law Register 	0041-9907		1852	1		1907	55		http://heinonline.org/HOL/Index?index=journals/pnlr		pnlr		fulltext		University of Pennsylvania Law School	serial								P	7
-University of Pennsylvania Law Review and
  American Law Register 	0041-9907		1908	56		1944	92		http://heinonline.org/HOL/Index?index=journals/pnlr		pnlr		fulltext		University of Pennsylvania Law School	serial								P	7
 University of Pennsylvania Law Review PENNumbra 			2006	155		2012	161		http://heinonline.org/HOL/Index?index=journals/pennumbra		pennumbra		fulltext		University of Pennsylvania	serial								P	6
 University of Pennsylvania Law Review Online 			2013	162					http://heinonline.org/HOL/Index?index=journals/pennumbra		pennumbra		fulltext		University of Pennsylvania	serial								P	6
@@ -2888,7 +2878,6 @@ Washington Law Review 	0043-0617		1925	1					http://heinonline.org/HOL/Index?ind
 "Washington Law Review (Washington State Bar Association)"			1919	1	1	1919	1		http://heinonline.org/HOL/Index?index=journals/walare&collection=journals		walare		fulltext		"University of Washington School of Law"	serial								P	
 "Washington University Global Studies Law Review"	1546-6981		2002						http://heinonline.org/HOL/Index?index=journals/wasglo&collection=journals		wasglo		fulltext		"Washington University School of Law"	serial								P	4
 Washington University Journal of Law & Policy 	1533-4686		1999	1					http://heinonline.org/HOL/Index?index=journals/wajlp		wajlp		fulltext		Washington University School of Law	serial								P	1
-Washington University Journal of Urban and Contemporary Law 			1968			1999	55									serial								P	1
 Urban Law Annual 			1968			1973			http://heinonline.org/HOL/Index?index=journals/waucl		waucl		fulltext		Washington University School of Law	serial								P	
 Washington University Journal of Urban and Contemporary Law 			1968			1999	55		http://heinonline.org/HOL/Index?index=journals/waucl		waucl		fulltext		Washington University School of Law	serial								P	
 "Washington University Jurisprudence Review"	2160-2352	"2160-3375 "	2009						http://heinonline.org/HOL/Index?index=journals/wujurisre&collection=journals		wujurisre		fulltext		"Washington University in St. Louis School of Law"	serial								P	2
@@ -2921,7 +2910,6 @@ Thomas M. Cooley Law Review 	1060-1007		1991	8					http://heinonline.org/HOL/Ind
 "Western New England Law Review"	0190-6593		1978						http://heinonline.org/HOL/Index?index=journals/wnelr&collection=journals		wnelr		fulltext		"Western New England College School of Law"	serial								P	3
 "Western Reserve Law Journal"			1895			1901			http://heinonline.org/HOL/Index?index=journals/wrlj&collection=journals		wrlj		fulltext			serial								P	
 "Western Reserve Law Notes"			1941			1942			http://heinonline.org/HOL/Index?index=journals/wrln&collection=journals		wrln		fulltext			serial								P	
-Western State University Law Review 	0362-8892		1975	2		2014	41									serial								P	2
 Western State Law Review 	0362-8892		2014	42					http://heinonline.org/HOL/Index?index=journals/wsulr		wsulr		fulltext		Western State University Law Review Association	serial								P	2
 Western State Law Review 	0362-8892		1973	1		1974	2		http://heinonline.org/HOL/Index?index=journals/wsulr		wsulr		fulltext		Western State University Law Review Association	serial								P	2
 Western State University College of Law Law Review 	0362-8892		1972	1		1972	1		http://heinonline.org/HOL/Index?index=journals/wsulr		wsulr		fulltext		Western State University Law Review Association	serial								P	2
@@ -3014,4 +3002,3 @@ Zeitschrift fur Luft- und Weltraumrecht 	0340-8329		1952	1		2013	62		http://hein
 Zeitschrift fur Luftrecht und Weltraumrechtsfragen 	0340-8329		1960	9		1975	24		http://heinonline.org/HOL/Index?index=journals/zlw		zlw		fulltext		Wolters Kluwer Deutschland	serial								P	4
 German Journal of Air and Space Law 	0340-8329		1952	1		2012	61		http://heinonline.org/HOL/Index?index=journals/zlw		zlw		fulltext		Wolters Kluwer Deutschland	serial								P	4
 Zeitschrift fur Luftrecht 	0340-8329		1952	1		1959	8		http://heinonline.org/HOL/Index?index=journals/zlw		zlw		fulltext		Wolters Kluwer Deutschland	serial								P	4
-

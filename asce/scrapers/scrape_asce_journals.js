@@ -18,7 +18,7 @@ var pkb     = new PkbRows('asce');
 // setKbartName() is required to fix the kbart output file name
 // pkb.consortiumName = '';       // default empty
 pkb.packageName = 'journals'; // default AllTitles
-pkb.setKbartName('asce');
+pkb.setKbartName();
 
 // entry point: a single page with all asce journals
 var journalsUrl = 'http://ascelibrary.org/journals/all_journal_titles';
