@@ -17,6 +17,14 @@ module.exports = new Parser(function analyseEC(parsedUrl) {
     if (param._cdi) { result.title_id = param._cdi; }
 
     switch (param._ob) {
+    case 'PdfDownloadURL':
+
+      result.unitid = param._hubEid || '';
+      result.pii = (param._hubEid || '').split('-')[2];
+      result.print_identifier = ((/([A-Z]{1})([0-9]+)([A-Z]{1})([0-9]+)/.exec(param._hubEid.split('-')[2]))[2]).substr(0,8);
+      result.rtype    = 'ARTICLE';
+      result.mime     = 'PDF';
+      break;
     case 'IssueURL':
       // The CDI is the 2nd parameter of _tockey (params separated by '#')
       result.title_id = (param._tockey || '').split('#')[2];
@@ -102,6 +110,7 @@ module.exports = new Parser(function analyseEC(parsedUrl) {
 
   } else if ((match = /^\/science\/(journal|bookseries|handbooks|handbooks|book)\/([0-9Xx]{8,})(\/[0-9]+)?$/.exec(path)) !== null) {
     // http://www.sciencedirect.com/science/journal/22126716
+    // http://www.sciencedirect.com/science/journal/18729312/14
     // http://www.sciencedirect.com/science/bookseries/00652458
     // http://www.sciencedirect.com/science/handbooks/01673785
     // http://www.sciencedirect.com/science/handbooks/01673785/11
