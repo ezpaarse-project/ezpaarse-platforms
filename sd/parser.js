@@ -21,7 +21,13 @@ module.exports = new Parser(function analyseEC(parsedUrl) {
 
       result.unitid = param._hubEid || '';
       result.pii = (param._hubEid || '').split('-')[2];
-      result.print_identifier = ((/([A-Z]{1})([0-9]+)([A-Z]{1})([0-9]+)/.exec(param._hubEid.split('-')[2]))[2]).substr(0,8);
+      if (param._hubEid) {
+        var chaineIssn = param._hubEid.split('-')[2];
+        if (chaineIssn && (match = /([A-Z]{1})([0-9]+)([A-Z]{1})([0-9]+)/.exec(chaineIssn))) {
+          result.print_identifier = match[2].substr(0, 8);
+        }
+      }
+
       result.rtype    = 'ARTICLE';
       result.mime     = 'PDF';
       break;
