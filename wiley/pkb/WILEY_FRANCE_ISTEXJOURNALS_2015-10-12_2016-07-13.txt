@@ -75,7 +75,7 @@ Mathematical Logic Quarterly	0942-5616	1521-3870	1993	2012	http://onlinelibrary.
 Annalen der Physik	0003-3804	1521-3889	1799	2012	http://onlinelibrary.wiley.com/journal/10.1002/(ISSN)1521-3889/issues	2257	fulltext	Wiley	serial	P
 Advanced Synthesis & Catalysis	1615-4150	1615-4169	2001	2012	http://onlinelibrary.wiley.com/journal/10.1002/(ISSN)1615-4169/issues	2258	fulltext	Wiley	serial	P
 HRC & CC. Journal of high resolution chromatography & chromatography communications	0344-7138		1978	1988	http://onlinelibrary.wiley.com/journal/10.1002/(ISSN)1615-9314/issues	2259	fulltext	Wiley	serial	P
-Zeitschrift für anorganische Chemie	0372-7874		1943	1950	http://onlinelibrary.wiley.com/journal/10.1002/(ISSN)1521-3749/issues	2260	fulltext	Wiley	serial	P
+Zeitschrift für anorganische Chemie	0863-1778		1915	1943	http://onlinelibrary.wiley.com/journal/10.1002/(ISSN)1521-3749/issues	2260	fulltext	Wiley	serial	P
 Die Makromolekulare Chemie	0025-116X		1947	1993	http://onlinelibrary.wiley.com/journal/10.1002/(ISSN)1521-3935/issues	2261	fulltext	Wiley	serial	P
 Macromolecular Theory and Simulations	1022-1344	1521-3919	1994	2012	http://onlinelibrary.wiley.com/journal/10.1002/(ISSN)1521-3919/issues	2262	fulltext	Wiley	serial	P
 Die Makromolekulare Chemie, Rapid Communications	0173-2803		1980	1993	http://onlinelibrary.wiley.com/journal/10.1002/(ISSN)1521-3927/issues	2263	fulltext	Wiley	serial	P
@@ -95,7 +95,7 @@ Plasma Processes and Polymers	1612-8850	1612-8869	2004	2012	http://onlinelibrary
 Laser Physics Letters	1612-2011	1612-202X	2004	2012	http://onlinelibrary.wiley.com/journal/10.1002/(ISSN)1612-202X/issues	2411	fulltext	Wiley	serial	P
 Laser & Photonics Reviews	1863-8880	1863-8899	2007	2012	http://onlinelibrary.wiley.com/journal/10.1002/(ISSN)1863-8899/issues	2414	fulltext	Wiley	serial	P
 Laser technik journal	1613-7728	1863-9119	2004	2012	http://onlinelibrary.wiley.com/journal/10.1002/(ISSN)1863-9119/issues	2421	fulltext	Wiley	serial	P
-Acta Chimica Sinica English Edition			1983	1985	http://onlinelibrary.wiley.com/journal/10.1002/(ISSN)1614-7065/issues	2434	fulltext	Wiley	serial	P
+Acta Chimica Sinica English Edition	0256-7660		1986	1989	http://onlinelibrary.wiley.com/journal/10.1002/(ISSN)1614-7065/issues	2434	fulltext	Wiley	serial	P
 Biotechnology Journal	1860-6768	1860-7314	2006	2012	http://onlinelibrary.wiley.com/journal/10.1002/(ISSN)1860-7314/issues	2446	fulltext	Wiley	serial	P
 Chemistry – An Asian Journal	1861-4728	1861-471X	2006	2012	http://onlinelibrary.wiley.com/journal/10.1002/(ISSN)1861-471X/issues	2451	fulltext	Wiley	serial	P
 ChemMedChem	1860-7179	1860-7187	2006	2012	http://onlinelibrary.wiley.com/journal/10.1002/(ISSN)1860-7187/issues	2452	fulltext	Wiley	serial	P
@@ -114,7 +114,7 @@ Israel Journal of Chemistry	0021-2148		1963	2012	http://onlinelibrary.wiley.com/
 Advanced Energy Materials	1614-6832	1614-6840	2011	2012	http://onlinelibrary.wiley.com/journal/10.1002/(ISSN)1614-6840/issues	2528	fulltext	Wiley	serial	P
 geotechnik	0172-6145	2190-6653	2011	2012	http://onlinelibrary.wiley.com/journal/10.1002/(ISSN)2190-6653/issues	2534	fulltext	Wiley	serial	P
 Zeitschrift für Chemie	0044-2402		1961	1990	http://onlinelibrary.wiley.com/journal/10.1002/(ISSN)0044-2402/issues	2536	fulltext	Wiley	serial	P
-Recueil des Travaux Chimiques des Pays-Bas	0165-0513		1920	1996	http://onlinelibrary.wiley.com/journal/10.1002/(ISSN)0165-0513/issues	2537	fulltext	Wiley	serial	P
+Recueil des Travaux Chimiques des Pays-Bas	0034-186X		1882	1896	http://onlinelibrary.wiley.com/journal/10.1002/(ISSN)0165-0513/issues	2537	fulltext	Wiley	serial	P
 Bulletin des Sociétés Chimiques Belges	0037-9646		1945	2012	http://onlinelibrary.wiley.com/journal/10.1002/(ISSN)0037-9646/issues	2538	fulltext	Wiley	serial	P
 Journal of the Chinese Chemical Society	0009-4536	2192-6549	1954	2012	http://onlinelibrary.wiley.com/journal/10.1002/(ISSN)2192-6549/issues	2600	fulltext	Wiley	serial	P
 Annals of Applied Biology	0003-4746		1914	2012	http://onlinelibrary.wiley.com/journal/10.1111/(ISSN)1744-7348/issues	aab	fulltext	Wiley	serial	P
@@ -169,11 +169,11 @@ Asia-Pacific Journal of Clinical Oncology	1743-7555	1743-7563	2005	2012	http://o
 Australasian Journal of Dermatology	0004-8380	1440-0960	1967	2012	http://onlinelibrary.wiley.com/journal/10.1111/(ISSN)1440-0960/issues	ajd	fulltext	Wiley	serial	P
 African Journal of Ecology	0141-6707	1365-2028	1963	1978	http://onlinelibrary.wiley.com/journal/10.1111/(ISSN)1365-2028/issues	aje	fulltext	Wiley	serial	P
 American Journal of Economics and Sociology	0002-9246		1941	2012	http://onlinelibrary.wiley.com/journal/10.1111/(ISSN)1536-7150/issues	ajes	fulltext	Wiley	serial	P
-Asia-Pacific Journal of Financial Studies	1226-1165		2008	2009	http://onlinelibrary.wiley.com/journal/10.1111/(ISSN)2041-6156/issues	ajfs	fulltext	Wiley	serial	P
+Asia-Pacific Journal of Financial Studies	2041-9945	2041-6156	2010	2012	http://onlinelibrary.wiley.com/journal/10.1111/(ISSN)2041-6156/issues	ajfs	fulltext	Wiley	serial	P
 Australian Journal of Grape and Wine Research	1322-7130	1755-0238	1995	2012	http://onlinelibrary.wiley.com/journal/10.1111/(ISSN)1755-0238/issues	ajgw	fulltext	Wiley	serial	P
 American journal of hematology	0361-8609	1096-8652	1976	1997	http://onlinelibrary.wiley.com/journal/10.1002/(ISSN)1096-8652/issues	ajh	fulltext	Wiley	serial	P
 American Journal of Human Biology	1042-0533	1520-6300	1989	2012	http://onlinelibrary.wiley.com/journal/10.1002/(ISSN)1520-6300/issues	ajhb	fulltext	Wiley	serial	P
-American Journal of Reproductive Immunology	0271-7352		1980	1984	http://onlinelibrary.wiley.com/journal/10.1111/(ISSN)1600-0897/issues	aji	fulltext	Wiley	serial	P
+American Journal of Reproductive Immunology	1046-7408	1600-0897	1989	2012	http://onlinelibrary.wiley.com/journal/10.1111/(ISSN)1600-0897/issues	aji	fulltext	Wiley	serial	P
 American Journal of Industrial Medicine	0271-3586	1097-0274	1980	2012	http://onlinelibrary.wiley.com/journal/10.1002/(ISSN)1097-0274/issues	ajim	fulltext	Wiley	serial	P
 American Journal of Medical Genetics	0148-7299	1096-8628	1977	2002	http://onlinelibrary.wiley.com/journal/10.1002/(ISSN)1096-8628/issues	ajmg	fulltext	Wiley	serial	P
 Australian and New Zealand Journal of Obstetrics and Gynaecology	0004-8666	1479-828X	1961	2012	http://onlinelibrary.wiley.com/journal/10.1111/(ISSN)1479-828X/issues	ajo	fulltext	Wiley	serial	P
@@ -259,8 +259,8 @@ Autism Research	1939-3792	1939-3806	2008	2012	http://onlinelibrary.wiley.com/jou
 Australian Veterinary Journal	0005-0423	1751-0813	1925	2012	http://onlinelibrary.wiley.com/journal/10.1111/(ISSN)1751-0813/issues	avj	fulltext	Wiley	serial	P
 Applied Vegetation Science	1402-2001	1654-109X	1998	2012	http://onlinelibrary.wiley.com/journal/10.1111/(ISSN)1654-109X/issues	avsc	fulltext	Wiley	serial	P
 Anthropology of Work Review	0883-024X	1548-1417	1983	2012	http://onlinelibrary.wiley.com/journal/10.1111/(ISSN)1548-1417/issues	awr	fulltext	Wiley	serial	P
-Acta Crystallographica Section A	0567-7394	1600-8596	1968	1982	http://onlinelibrary.wiley.com/journal/10.1111/(ISSN)2053-2733/issues	aya	fulltext	Wiley	serial	P
-Acta Crystallographica Section B	0108-7681	1600-5740	1974	2012	http://onlinelibrary.wiley.com/journal/10.1111/(ISSN)1600-5740/issues	ayb	fulltext	Wiley	serial	P
+Acta Crystallographica Section A	0108-7673	1600-5724	1983	2012	http://onlinelibrary.wiley.com/journal/10.1111/(ISSN)1600-5724/issues	aya	fulltext	Wiley	serial	P
+Acta Crystallographica Section B	0567-7408	1600-8650	1968	1982	http://onlinelibrary.wiley.com/journal/10.1111/(ISSN)2052-5206/issues	ayb	fulltext	Wiley	serial	P
 Acta Crystallographica Section C	0108-2701	1600-5759	1983	2012	http://onlinelibrary.wiley.com/journal/10.1111/(ISSN)1600-5759/issues	ayc	fulltext	Wiley	serial	P
 Acta crystallographica. Section D, Biological crystallography.	0907-4449	1399-0047	1993	2012	http://onlinelibrary.wiley.com/journal/10.1111/(ISSN)1399-0047/issues	ayd	fulltext	Wiley	serial	P
 Acta Crystallographica Section F		1744-3091	2005	2012	http://onlinelibrary.wiley.com/journal/10.1111/(ISSN)1744-3091/issues	ayf2	fulltext	Wiley	serial	P
@@ -295,7 +295,7 @@ Banks in Insurance Report	8756-6079	1530-9991	1996	2002	http://onlinelibrary.wil
 Birth	0730-7659	1523-536X	1973	2012	http://onlinelibrary.wiley.com/journal/10.1111/(ISSN)1523-536X/issues	birt	fulltext	Wiley	serial	P
 Biotechnology and Bioengineering	0006-3592	1097-0290	1962	2012	http://onlinelibrary.wiley.com/journal/10.1002/(ISSN)1097-0290/issues	bit	fulltext	Wiley	serial	P
 British Journal of Clinical Psychology	0144-6657	2044-8260	1981	2012	http://onlinelibrary.wiley.com/journal/10.1111/(ISSN)2044-8260/issues	bjc	fulltext	Wiley	serial	P
-British Journal of Dermatology			1892	1916	http://onlinelibrary.wiley.com/journal/10.1111/(ISSN)1365-2133/issues	bjd	fulltext	Wiley	serial	P
+British Journal of Dermatology	0007-0963	1365-2133	1951	2012	http://onlinelibrary.wiley.com/journal/10.1111/(ISSN)1365-2133/issues	bjd	fulltext	Wiley	serial	P
 British Journal of Developmental Psychology	0261-510X	2044-835X	1983	2012	http://onlinelibrary.wiley.com/journal/10.1111/(ISSN)2044-835X/issues	bjdp	fulltext	Wiley	serial	P
 British Journal of Educational Psychology	0007-0998	2044-8279	1931	2012	http://onlinelibrary.wiley.com/journal/10.1111/(ISSN)2044-8279/issues	bjep	fulltext	Wiley	serial	P
 British Journal of Educational Technology	0007-1013	1467-8535	1970	2012	http://onlinelibrary.wiley.com/journal/10.1111/(ISSN)1467-8535/issues	bjet	fulltext	Wiley	serial	P
@@ -319,7 +319,7 @@ British Journal of Learning Disabilities	1354-4187	1468-3156	1994	2012	http://on
 AT&T Bell Laboratories Technical Journal	0748-612X		1984	1984	http://onlinelibrary.wiley.com/journal/10.1002/(ISSN)1538-7305/issues	bltj	fulltext	Wiley	serial	P
 Biomedical Chromatography	0269-3879	1099-0801	1986	2012	http://onlinelibrary.wiley.com/journal/10.1002/(ISSN)1099-0801/issues	bmc	fulltext	Wiley	serial	P
 British journal of psychology			1947	1952	http://onlinelibrary.wiley.com/journal/10.1111/(ISSN)2044-8317/issues	bmp	fulltext	Wiley	serial	P
-Biological Mass Spectrometry	0306-042X		1974	1985	http://onlinelibrary.wiley.com/journal/10.1002/(ISSN)1096-9888b/issues	bms	fulltext	Wiley	serial	P
+Biological Mass Spectrometry	1052-9306		1991	1994	http://onlinelibrary.wiley.com/journal/10.1002/(ISSN)1096-9888b/issues	bms	fulltext	Wiley	serial	P
 British Journal of Mathematical and Statistical Psychology	0007-1102	2044-8317	1965	2012	http://onlinelibrary.wiley.com/journal/10.1111/(ISSN)2044-8317/issues	bmsp	fulltext	Wiley	serial	P
 Biology of the Cell	0248-4900	1768-322X	1984	2012	http://onlinelibrary.wiley.com/journal/10.1111/(ISSN)1768-322X/issues	boc	fulltext	Wiley	serial	P
 Bulletin of Economic Research	0307-3378	1467-8586	1971	2012	http://onlinelibrary.wiley.com/journal/10.1111/(ISSN)1467-8586/issues	boer	fulltext	Wiley	serial	P
@@ -408,7 +408,7 @@ Cell Motility	0271-6585	1554-3900	1980	1985	http://onlinelibrary.wiley.com/journ
 Contrast media & molecular imaging		1555-4309	2006	2012	http://onlinelibrary.wiley.com/journal/10.1002/(ISSN)1555-4317/issues	cmmi	fulltext	Wiley	serial	P
 Concepts in Magnetic Resonance	1043-7347	1099-0534	1989	2002	http://onlinelibrary.wiley.com/journal/10.1002/(ISSN)1099-0534/issues	cmr	fulltext	Wiley	serial	P
 Journal of the CardioMetabolic Syndrome	1559-4564		2006	2009	http://onlinelibrary.wiley.com/journal/10.1111/(ISSN)1559-4572/issues	cms	fulltext	Wiley	serial	P
-Journal of Comparative Neurology	0021-9967	1096-9861	1911	2012	http://onlinelibrary.wiley.com/journal/10.1002/(ISSN)1096-9861/issues	cne	fulltext	Wiley	serial	P
+Journal of Comparative Neurology	0092-7317	1550-7130	1891	1903	http://onlinelibrary.wiley.com/journal/10.1002/(ISSN)1096-9861/issues	cne	fulltext	Wiley	serial	P
 Communications in Applied Numerical Methods	0748-8025	1555-2047	1985	1992	http://onlinelibrary.wiley.com/journal/10.1002/(ISSN)1099-0887/issues	cnm	fulltext	Wiley	serial	P
 CNS drug reviews	1080-563X	1527-3458	1995	1995	http://onlinelibrary.wiley.com/journal/10.1111/(ISSN)1527-3458/issues	cns	fulltext	Wiley	serial	P
 Centaurus	0008-8994	1600-0498	1950	2012	http://onlinelibrary.wiley.com/journal/10.1111/(ISSN)1600-0498/issues	cnt	fulltext	Wiley	serial	P
@@ -563,7 +563,7 @@ Entomological Research	1738-2297	1748-5967	2004	2012	http://onlinelibrary.wiley.
 Entomological Science	1343-8786	1479-8298	2003	2012	http://onlinelibrary.wiley.com/journal/10.1111/(ISSN)1479-8298/issues	ens	fulltext	Wiley	serial	P
 Environmetrics	1180-4009		1990	2012	http://onlinelibrary.wiley.com/journal/10.1002/(ISSN)1099-095X/issues	env	fulltext	Wiley	serial	P
 European Journal of Oral Sciences	0909-8836	1600-0722	1995	2012	http://onlinelibrary.wiley.com/journal/10.1111/(ISSN)1600-0722/issues	eos	fulltext	Wiley	serial	P
-Eos, Transactions American Geophysical Union	0002-8606		1920	1968	http://onlinelibrary.wiley.com/journal/10.1002/(ISSN)2192-6506/issues	eost	fulltext	Wiley	serial	P
+Eos, Transactions American Geophysical Union	0096-3941	2324-9250	1969	2012	http://onlinelibrary.wiley.com/journal/10.1002/(ISSN)2324-9250/issues	eost	fulltext	Wiley	serial	P
 Environmental Progress	0278-4491	1547-5921	1982	2008	http://onlinelibrary.wiley.com/journal/10.1002/(ISSN)1547-5921/issues	ep	fulltext	Wiley	serial	P
 Epilepsia	0013-9580	1528-1167	1909	1996	http://onlinelibrary.wiley.com/journal/10.1111/(ISSN)1528-1167/issues	epi	fulltext	Wiley	serial	P
 Ethnographic Praxis in Industry Conference Proceedings	1559-890X	1559-8918	2005	2012	http://onlinelibrary.wiley.com/journal/10.1111/(ISSN)1559-8918/issues	epic	fulltext	Wiley	serial	P
@@ -1269,7 +1269,7 @@ Personal Relationships	1350-4126	1475-6811	1994	2012	http://onlinelibrary.wiley.
 Perspektiven der Wirtschaftspolitik	1465-6493	1468-2516	2000	2012	http://onlinelibrary.wiley.com/journal/10.1111/(ISSN)1468-2516/issues	pers	fulltext	Wiley	serial	P
 Pediatric Transplantation	1397-3142	1399-3046	1999	2012	http://onlinelibrary.wiley.com/journal/10.1111/(ISSN)1399-3046/issues	petr	fulltext	Wiley	serial	P
 New Directions for Philanthropic Fundraising	1072-172X	1542-7846	1993	2005	http://onlinelibrary.wiley.com/journal/10.1002/(ISSN)1542-7846/issues	pf	fulltext	Wiley	serial	P
-NSPI Journal	0147-2747		1976	1980	http://onlinelibrary.wiley.com/journal/10.1002/(ISSN)1930-8272/issues	pfi	fulltext	Wiley	serial	P
+NSPI Journal	0027-7002	1931-9150	1962	1971	http://onlinelibrary.wiley.com/journal/10.1002/(ISSN)1930-8272/issues	pfi	fulltext	Wiley	serial	P
 Pharmacotherapy: The Journal of Human Pharmacology and Drug Therapy	0277-0008	1875-9114	1981	2012	http://onlinelibrary.wiley.com/journal/10.1002/(ISSN)1875-9114/issues	phar	fulltext	Wiley	serial	P
 Philosophy Compass		1747-9991	2006	2012	http://onlinelibrary.wiley.com/journal/10.1111/(ISSN)1747-9991/issues	phc3	fulltext	Wiley	serial	P
 Journal of Entomology Series A, General Entomology	0047-2409	2056-5313	1971	1975	http://onlinelibrary.wiley.com/journal/10.1111/(ISSN)1365-3032/issues	phen	fulltext	Wiley	serial	P

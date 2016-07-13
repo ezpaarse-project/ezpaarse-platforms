@@ -27,7 +27,7 @@ Chemistry - A European Journal	0947-6539	1995	2011	http://onlinelibrary.wiley.co
 ChemInform	0931-7597	1991	2011	http://onlinelibrary.wiley.com/journal/10.1002/(ISSN)1522-2667/issues	chin	fulltext	Wiley	serial	P
 Chemie Ingenieur Technik	0009-286X	1949	2011	http://onlinelibrary.wiley.com/journal/10.1002/(ISSN)1522-2640/issues	cite	fulltext	Wiley	serial	P
 Chemie in unserer Zeit	0009-2851	1967	2011	http://onlinelibrary.wiley.com/journal/10.1002/(ISSN)1521-3781/issues	ciuz	fulltext	Wiley	serial	P
-Acta Chimica Sinica English Edition	0256-7660	1986	1989	http://onlinelibrary.wiley.com/journal/10.1002/(ISSN)1614-7065/issues	cjoc	fulltext	Wiley	serial	P
+Acta Chimica Sinica English Edition		1983	1985	http://onlinelibrary.wiley.com/journal/10.1002/(ISSN)1614-7065/issues	cjoc	fulltext	Wiley	serial	P
 CHEMKON	0944-5846	1994	2011	http://onlinelibrary.wiley.com/journal/10.1002/(ISSN)1521-3730/issues	ckon	fulltext	Wiley	serial	P
 Acta hydrochimica et hydrobiologica	0323-4320	1973	2006	http://onlinelibrary.wiley.com/journal/10.1002/(ISSN)1863-0669/issues	clen	fulltext	Wiley	serial	P
 ChemMedChem	1860-7179	2006	2011	http://onlinelibrary.wiley.com/journal/10.1002/(ISSN)1860-7187/issues	cmdc	fulltext	Wiley	serial	P
@@ -94,7 +94,7 @@ Particle & Particle Systems Characterization	0934-0866	1988	2010	http://onlineli
 PROTEOMICS - Clinical Applications	1862-8346	2007	2011	http://onlinelibrary.wiley.com/journal/10.1002/(ISSN)1862-8354/issues	prca	fulltext	Wiley	serial	P
 Propellants and explosives	0340-7462	1976	1981	http://onlinelibrary.wiley.com/journal/10.1002/(ISSN)1521-4087/issues	prep	fulltext	Wiley	serial	P
 Fortschritte der Physik	0015-8208	1953	2011	http://onlinelibrary.wiley.com/journal/10.1002/(ISSN)1521-3978/issues	prop	fulltext	Wiley	serial	P
-physica status solidi (a)	0031-8965	1970	2004	http://onlinelibrary.wiley.com/journal/10.1002/(ISSN)1862-6319/issues	pssa	fulltext	Wiley	serial	P
+physica status solidi (a)	1862-6300	2005	2011	http://onlinelibrary.wiley.com/journal/10.1002/(ISSN)1862-6319/issues	pssa	fulltext	Wiley	serial	P
 Physica status solidi	0031-8957	1961	1970	http://onlinelibrary.wiley.com/journal/10.1002/(ISSN)1521-3951/issues	pssb	fulltext	Wiley	serial	P
 physica status solidi (c)	1610-1634	2003	2005	http://onlinelibrary.wiley.com/journal/10.1002/(ISSN)1610-1642a/issues	pssc	fulltext	Wiley	serial	P
 physica status solidi (RRL) - Rapid Research Letters	1862-6254	2007	2011	http://onlinelibrary.wiley.com/journal/10.1002/(ISSN)1862-6270/issues	pssr	fulltext	Wiley	serial	P
@@ -106,6 +106,6 @@ Steel Construction	1867-0520	2008	2011	http://onlinelibrary.wiley.com/journal/10
 Structural Concrete	1464-4177	2011	2011	http://onlinelibrary.wiley.com/journal/10.1002/(ISSN)1751-7648/issues	suco	fulltext	Wiley	serial	P
 Space Weather		2003	2011	http://onlinelibrary.wiley.com/journal/10.1002/(ISSN)1542-7390/issues	swe	fulltext	Wiley	serial	P
 Vakuum in Forschung und Praxis	0947-076X	1995	2011	http://onlinelibrary.wiley.com/journal/10.1002/(ISSN)1522-2454/issues	vipr	fulltext	Wiley	serial	P
-Zeitschrift für anorganische Chemie	0863-1778	1915	1943	http://onlinelibrary.wiley.com/journal/10.1002/(ISSN)1521-3749/issues	zaac	fulltext	Wiley	serial	P
+Zeitschrift für anorganische Chemie	0372-7874	1943	1950	http://onlinelibrary.wiley.com/journal/10.1002/(ISSN)1521-3749/issues	zaac	fulltext	Wiley	serial	P
 ZAMM - Journal of Applied Mathematics and Mechanics / Zeitschrift für Angewandte Mathematik und Mechanik	0044-2267	1921	2011	http://onlinelibrary.wiley.com/journal/10.1002/(ISSN)1521-4001/issues	zamm	fulltext	Wiley	serial	P
 Mitteilungen aus dem Museum für Naturkunde in Berlin. Zoologisches Museum und Institut für Spezielle Zoologie (Berlin)	0373-8493	1899	1997	http://onlinelibrary.wiley.com/journal/10.1002/(ISSN)1860-0743a/issues	zoos	fulltext	Wiley	serial	P
