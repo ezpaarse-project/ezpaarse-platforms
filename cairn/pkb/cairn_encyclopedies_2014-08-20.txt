@@ -71,7 +71,6 @@ Le FMI	9782707143389	9782707162106	Patrick Lenain	http://www.cairn.info/le-fmi--
 La modernisation des entreprises	9782707166661	9782707167064	Danièle Linhart	http://www.cairn.info/la-modernisation-des-entreprises--9782707166661.htm	2010-11-26							DEC_LINHA_2010_01												
 Les droits de l'homme	9782707158024	9782707162595	Danièle Lochak	http://www.cairn.info/les-droits-de-l-homme--9782707158024.htm	2010-11-03							DEC_LOCHA_2009_01												
 Le travail des enfants dans le monde	9782707167095	9782707167293	Bénédicte Manier	http://www.cairn.info/le-travail-des-enfants-dans-le-monde--9782707167095.htm	2011-03-22							DEC_MANIE_2011_01												
-Sociologie de l'emploi	9782707144485	9782707163769	Margaret Maruani	http://www.cairn.info/sociologie-de-l-emploi--9782707144485.htm	2010-11-27							DEC_MARUA_2004_01												
 Histoire des théories de la communication	9782707144065	9782707160966	Armand Mattelart	http://www.cairn.info/histoire-des-theories-de-la-communication--9782707144065.htm	2010-11-26							DEC_MATTE_2010_01												
 L'éthique dans les entreprises	9782707142245	9782707163028	Samuel Mercier	http://www.cairn.info/l-ethique-dans-les-entreprises--9782707142245.htm	2010-11-29							DEC_MERCI_2004_01												
 La sociologie des réseaux sociaux	9782707167361	9782707167361	Pierre Mercklé	http://www.cairn.info/la-sociologie-des-reseaux-sociaux--9782707167361.htm	2011-05-10							DEC_MERCK_2011_01												
@@ -109,7 +108,6 @@ Introduction à la philosophie politique	9782707125835	9782707168771	Christian R
 Histoire de la philosophie	9782707143303	9782707167545	Christian Ruby	http://www.cairn.info/histoire-de-la-philosophie--9782707143303.htm	2011-04-01							DEC_RUBY_2004_01												
 Les ONG	9782707157270	9782707166029	Philippe Ryfman	http://www.cairn.info/les-ong--9782707157270.htm	2010-11-17							DEC_RYFMA_2009_01												
 Histoire du Parti communiste français	9782707131041	9782707168535	Yves Santamaria	http://www.cairn.info/histoire-du-parti-communiste-francais--9782707131041.htm	2010-01-01							DEC_SANTA_1999_01												
-Le Toyotisme	9782707129215	9782707168580	Koïchi Shimizu	http://www.cairn.info/le-toyotisme--9782707129215.htm	2010-01-01							DEC_SHIMI_1999_01												
 La régionalisation de l'économie mondiale	9782707144294	9782707161635	Jean-Marc Siroën	http://www.cairn.info/regionalisation-de-l-economie-mondiale--9782707144294.htm	2010-11-27							DEC_SIROE_2004_01												
 La sociologie de Durkheim	9782707147257	9782707161703	Philippe Steiner	http://www.cairn.info/la-sociologie-de-durkheim--9782707147257.htm	2010-11-18							DEC_STEIN_2010_01												
 Histoire de l'Algérie depuis l'indépendance 1. 1962-1988	9782707144058	9782707160911	Benjamin Stora	http://www.cairn.info/histoire-de-l-algerie-depuis-l-independance-1-1962--9782707144058.htm	2010-11-26							DEC_STORA_2004_01												
@@ -171,7 +169,6 @@ Les théories de l'art	9782130560296	9782130600190	Anne Cauquelin	http://www.cai
 Les politiques de la ville	9782130591504	9782130606055	Claude Chaline	http://www.cairn.info/les-politiques-de-la-ville--9782130591504.htm	2011-10-02							PUF_CHALI_2011_01												
 La psychologie des relations humaines	9782130588368	9782130605515	Raymond Chappuis	http://www.cairn.info/la-psychologie-des-relations-humaines--9782130588368.htm	2011-05-24							PUF_CHAPP_2011_01												
 Histoire de la Bretagne	9782130455011	9782130599180	André Chédeville	http://www.cairn.info/histoire-de-la-bretagne--9782130455011.htm	2010-03-29							PUF_CHEDE_1996_01												
-Les relations publiques	9782130589525	9782130605706	Lionel Chouchan	http://www.cairn.info/les-relations-publiques--9782130589525.htm	2011-06-26							PUF_CHOUC_2011_01												
 Histoire du judaïsme	9782130525745	9782130597681	André Chouraqui	http://www.cairn.info/histoire-du-judaisme--9782130525745.htm	2010-03-06							PUF_CHOUR_2002_01												
 La précarité	9782130589334	9782130605690	Patrick Cingolani	http://www.cairn.info/la-precarite--9782130589334.htm	2011-05-22							PUF_CINGO_2011_01												
 Histoire de la géographie	9782130586524	9782130605294	Paul Claval	http://www.cairn.info/histoire-de-la-geographie--9782130586524.htm	2011-04-11							PUF_CLAVA_2011_01												
@@ -282,7 +279,6 @@ L'Union européenne	9782130566748	9782130601432	Jean-Luc Mathieu	http://www.cair
 L'État-providence	9782130539353	9782130598565	François-Xavier Merrien	http://www.cairn.info/l-etat-providence--9782130539353.htm	2010-02-25							PUF_MERRI_2007_01												
 La psychopédagogie	9782130528586	9782130597629	Gaston Mialaret	http://www.cairn.info/la-psychopedagogie--9782130528586.htm	2010-03-19							PUF_MIALA_2002_01												
 Les sciences de l'éducation	9782130586142	9782130605195	Gaston Mialaret	http://www.cairn.info/les-sciences-de-l-education--9782130586142.htm	2011-03-21							PUF_MIALA_2011_01												
-Psychologie de l'éducation	9782130591238	9782130605973	Gaston Mialaret	http://www.cairn.info/psychologie-de-l-education--9782130591238.htm	2011-08-18							PUF_MIALA_2011_02												
 Le féminisme	9782130562023	9782130600497	Andrée Michel	http://www.cairn.info/le-feminisme--9782130562023.htm	2010-03-08							PUF_MICHE_2007_01												
 Gestion comptable et financiere	9782130584391	9782130604747	Alain Mikol	http://www.cairn.info/gestion-comptable-et-financiere--9782130584391.htm	2010-09-28							PUF_MIKOL_2010_01												
 La psychogériatrie	9782130590743	9782130605867	Jean-Claude Monfort	http://www.cairn.info/la-psychogeriatrie--9782130590743.htm	2011-09-28							PUF_MONFO_2011_01												
