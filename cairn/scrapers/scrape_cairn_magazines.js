@@ -80,6 +80,8 @@ getMatchingList(function (err, matchings) {
   })
   .on('readable', function () {
     var data      = parser.read();
+    if (!data) { return; }
+
     var kbartInfo = pkb.initRow({
       publication_title:    data['MAGAZINE'],
       print_identifier:     data['ISSN'],
