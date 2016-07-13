@@ -105,6 +105,7 @@ PkbRows.prototype.setKbartName = function (filename) {
 };
 
 PkbRows.prototype.initRow = function (info) {
+  info = info || {};
   // initialize a kbart record
   var kbart2Fields  = require('../../lib/outputformats/kbart.json');
 
