@@ -17,7 +17,7 @@ module.exports = new Parser(function analyseEC(parsedUrl, ec) {
   var result = {};
   var path   = parsedUrl.pathname;
   // uncomment this line if you need parameters
-  // var param  = parsedUrl.query || {};
+  var param  = parsedUrl.query || {};
 
   // use console.error for debuging
   // console.error(parsedUrl);
@@ -33,7 +33,7 @@ module.exports = new Parser(function analyseEC(parsedUrl, ec) {
       // &sot=cite&sdt=a&sl=0&origin=resultslist
       // &editSaveSearch=&txGid=38BDE00A99BBFE87E2CE4B3BBB4A00E8.aqHV0EoE4xlIF3hgVWgA%3a17
       result.rtype = 'REF';
-      result.unitid = param.eid;
+      result.unitid = param.cite;
   } else if ((match = /^\/record\/display.url$/.exec(path)) !== null) {
       // http://www.scopus.com/record/display.url?eid=2-s2.0-33644857527
       // &origin=reflist&sort=plf-f&src=s&st1=bim
