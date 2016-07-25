@@ -19,17 +19,26 @@ module.exports = new Parser(function analyseEC(parsedUrl) {
     switch (param._ob) {
     case 'PdfDownloadURL':
 
-      result.unitid = param._hubEid || '';
-      result.pii = (param._hubEid || '').split('-')[2];
-      if (param._hubEid) {
-        var chaineIssn = param._hubEid.split('-')[2];
-        if (chaineIssn && (match = /([A-Z]{1})([0-9]+)([A-Z]{1})([0-9]+)/.exec(chaineIssn))) {
-          result.print_identifier = match[2].substr(0, 4) + '-' +match[2].substr(4, 4);
-        }
+      result.mime = 'PDF';
+
+      if (param._isbn || param.isBook) {
+        result.rtype            = 'CHAPTERS_BUNDLE';
+        result.print_identifier = param._isbn;
+        result.title_id         = param._isbn;
+        result.unitid           = param._isbn;
+        break;
       }
 
-      result.rtype    = 'ARTICLES_BUNDLE';
-      result.mime     = 'PDF';
+      result.rtype = 'ARTICLES_BUNDLE';
+
+      result.unitid = param._hubEid;
+      result.pii    = (param._hubEid || '').split('-')[2];
+
+      if (result.pii) {
+        result.title_id = result.pii.substr(1, 8);
+        result.print_identifier = `${result.pii.substr(1, 4)}-${result.pii.substr(5, 4)}`;
+      }
+
       break;
     case 'IssueURL':
       // The CDI is the 2nd parameter of _tockey (params separated by '#')
