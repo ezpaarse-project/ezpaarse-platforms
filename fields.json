@@ -66,6 +66,9 @@
     {
       "code": "ARTICLE"
     },{
+    "code": "ARTICLES_BUNDLE",
+    "description": "package de plusieurs articles pdf dans un téléchargement"
+    },{
       "code": "ABS",
       "description": "Résumé d'un article"
     },{
