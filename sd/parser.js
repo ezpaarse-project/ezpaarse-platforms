@@ -28,7 +28,7 @@ module.exports = new Parser(function analyseEC(parsedUrl) {
         }
       }
 
-      result.rtype    = 'ARTICLE';
+      result.rtype    = 'ARTICLES_BUNDLE';
       result.mime     = 'PDF';
       break;
     case 'IssueURL':
