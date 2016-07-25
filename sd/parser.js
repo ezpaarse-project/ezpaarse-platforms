@@ -24,7 +24,7 @@ module.exports = new Parser(function analyseEC(parsedUrl) {
       if (param._hubEid) {
         var chaineIssn = param._hubEid.split('-')[2];
         if (chaineIssn && (match = /([A-Z]{1})([0-9]+)([A-Z]{1})([0-9]+)/.exec(chaineIssn))) {
-          result.print_identifier = match[2].substr(0, 8);
+          result.print_identifier = match[2].substr(0, 4) + '-' +match[2].substr(4, 4);
         }
       }
 
