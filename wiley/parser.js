@@ -77,9 +77,6 @@ module.exports = new Parser(function analyseEC(parsedUrl) {
     result.title_id = match[2].toUpperCase();
     result.rtype = 'ARTICLE';
     result.mime = 'PDF';
-    if (match[2] != 'cpa') {
-      result.publication_date = match[3].substr(0, 4);
-    }
   } else if ((match = /^\/book\/([0-9]{2}\.[0-9]{4,5})\/([0-9]+)$/.exec(path)) !== null) {
     // /book/10.1002/9781118268117
 
