@@ -17,7 +17,7 @@ module.exports = new Parser(function analyseEC(parsedUrl, ec) {
   var result = {};
   var path   = parsedUrl.pathname;
   var param  = parsedUrl.query || {};
-
+  var match;
   if (/^\/xpl\/(([a-zA-Z]+)\.jsp)/.test(path)) {
 
     if (param.punumber) {
@@ -40,6 +40,7 @@ module.exports = new Parser(function analyseEC(parsedUrl, ec) {
       result.rtype    = 'TOC';
       result.mime     = 'HTML';
       result.title_id = param.bkn;
+      result.unitid = param.bkn;
     }
 
   } else if (/^\/xpls\/(([a-z]+)\.jsp)/.test(path)) {
@@ -62,6 +63,28 @@ module.exports = new Parser(function analyseEC(parsedUrl, ec) {
     result.title_id = param.arnumber;
     result.unitid   = param.arnumber;
 
+  } else if ((match = /^\/ielx7\/([0-9]+)\/([0-9]+)\/([0-9]+)\.pdf/.exec(path)) != null) {
+   //ielx7/85/7478484/07478511.pdf?tp=&arnumber=7478511&isnumber=7478484
+    result.rtype    = 'ARTICLE';
+    result.mime     = 'PDF';
+    result.title_id = match[2];
+    result.unitid   = match[3];
+  } else if ((match = /^\/stampPDF\/(([a-zA-Z]+)\.jsp)/.exec(path)) != null) {
+   //stampPDF/getPDF.jsp?tp=&arnumber=872906
+    result.rtype    = 'ARTICLE';
+    result.mime     = 'PDF';
+    result.title_id = param.arnumber;
+    result.unitid   = param.arnumber;
+  } else if ((match = /^\/courses\/([a-z]+)\/([A-Z0-9]+)\/([a-z]+)\/([a-z]+)/.exec(path)) != null) {
+   //courses/content/EW1305/data/swf/
+    result.rtype    = 'ONLINE_COURSE';
+    result.mime     = 'FLASH';
+    result.unitid   = match[2];
+  } else if ((match = /^\/courses\/([a-z]+)\/([A-Z0-9]+)/.exec(path)) != null) {
+   //http:///courses/details/EDP305
+    result.rtype    = 'ABS';
+    result.mime     = 'MISC';
+    result.unitid   = match[2];
   }
 
   return result;
