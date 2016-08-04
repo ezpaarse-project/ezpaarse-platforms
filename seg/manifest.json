@@ -1,0 +1,20 @@
+{
+  "version": "2016-08-04",
+  "status": "beta",
+  "domains": [
+    "library.seg.org"
+  ],
+  "recognize": {
+    "rid": [
+      "doi",
+      "unitid",
+      "title_id"
+    ]
+  },
+  "name": "seg",
+  "longname": "Society of Exploration Geophysicists",
+  "describe": "Recognizes the accesses to the platform Society of Exploration Geophysicists",
+  "docurl": "http://ang.couperin.org/platforms/573b3f117460748b9f76a479",
+  "contact": "abderrazzak.loukili@inist.fr",
+  "pkb": false
+}
