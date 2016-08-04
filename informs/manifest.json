@@ -1,0 +1,21 @@
+{
+  "version": "2016-08-04",
+  "status": "beta",
+  "domains": [
+    "pubsonline.informs.org.gaelnomade",
+    "pubsonline.informs.org",
+    "www.informs.org"
+  ],
+  "recognize": {
+    "rid": [
+      "title_id",
+      "unitid"
+    ]
+  },
+  "name": "informs",
+  "longname": "INFORMS",
+  "describe": "Recognizes the accesses to the platform INFORMS",
+  "docurl": "http://ang.couperin.org/platforms/573b3cb601dfae35895ff777",
+  "contact": "abderrazzak.loukili@inist.fr",
+  "pkb": false
+}
