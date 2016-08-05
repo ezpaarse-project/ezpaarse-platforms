@@ -123,7 +123,7 @@ module.exports = new Parser(function analyseEC(parsedUrl) {
       result.print_identifier = `${match[3].substr(0, 4)}-${match[3].substr(4, 4)}`;
     }
 
-  } else if ((match = /^\/science\/(journal|bookseries|handbooks|handbooks|book)\/([0-9Xx]{8,})(\/[0-9]+)?$/.exec(path)) !== null) {
+  } else if ((match = /^\/science\/(journal|bookseries|handbooks|handbooks|book)\/([0-9Xx]{8,})(\/[0-9]+)?(\/[0-9]+)?$/.exec(path)) !== null) {
     // http://www.sciencedirect.com/science/journal/22126716
     // http://www.sciencedirect.com/science/journal/18729312/14
     // http://www.sciencedirect.com/science/bookseries/00652458
