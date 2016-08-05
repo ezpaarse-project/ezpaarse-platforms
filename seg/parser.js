@@ -60,7 +60,7 @@ module.exports = new Parser(function analyseEC(parsedUrl, ec) {
     result.rtype    = 'FIGURE';
     result.mime     = 'HTML';
     result.doi   = param.doi;
-  } 
+  }
 
   return result;
 });

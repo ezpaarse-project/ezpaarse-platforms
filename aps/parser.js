@@ -46,7 +46,7 @@ module.exports = new Parser(function analyseEC(url) {
     // http://journals.aps.org/pra/pdf/10.1103/PhysRevA.91.033602
     result.title_id = match[1];
     result.unitid   = match[3];
-
+    result.doi = match[3];
     switch (match[2]) {
     case 'abstract':
       result.rtype = 'ABS';
