@@ -37,6 +37,12 @@
     },{
       "code":"ZIP"
     },{
+      "code":"JPEG"
+    },{
+      "code":"TIFF"
+    },{
+      "code":"GIF"
+    },{
       "code": "EPUB"
     },{
       "code": "KINDLE"
