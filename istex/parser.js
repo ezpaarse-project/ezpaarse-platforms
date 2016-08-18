@@ -39,9 +39,12 @@ module.exports = new Parser(function analyseEC(parsedUrl, ec) {
       case 'catWos':
         result.mime = 'TEI';
         break;
+      case 'refBib':
+        result.mime = 'TEI';
+        break;
       case 'original':
         result.mime = 'PDF';
-        if (match[2] != 'fulltext') {
+        if (match[2] == 'metadata') {
           result.mime = 'XML';
         }
         break;
