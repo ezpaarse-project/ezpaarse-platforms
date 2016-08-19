@@ -183,11 +183,20 @@
       "code": "ETUDE_SECTORIELLE",
       "comment": "cas des plateformes en éco-gestion (xerfi, pointrisk, chelem)"
     },{
+      "code": "DONNEES_POLITIQUES",
+      "comment": "cas des plateforme politique et non économique (Columbia International Affairs Online)"
+    },{
       "code": "DONNEES_ECONOMIQUES",
       "comment": "cas des plateformes en éco-gestion (xerfi, pointrisk, chelem)"
     },{
       "code": "FIGURE",
       "comment": "cas de plateforme endocrine society"
+    },{
+      "code": "TABLE",
+      "comment": "cas de plateforme oecd iLibrary, documents avec doi validés crossref"
+    },{
+      "code": "GRAPH",
+      "comment": "cas de plateforme oecd iLibrary, documents avec doi validés crossref"
     },{
       "code": "SUPPL",
       "description": "Consultation de supplements",
@@ -196,6 +205,22 @@
       "code": "WORKING_PAPER",
       "description": "Documents de travail",
       "comment": "cas des plateformes CEPR, NBER, CIAO, bases Ebsco, etc."
+    },{
+      "code": "MAP",
+      "description": "Cartes, atlas"
+      "comment": "cas de plateforme Britannica"
+    },{
+      "code": "EXO",
+      "description": "Quiz, type qcm, exercices en ligne et autre"
+      "comment": "cas de plateforme Britannica"
+    },{
+      "code": "TOOL",
+      "description": "Outil de comparaison de données"
+      "comment": "cas de plateforme Britannica, Financial Times, Kluwer arbitration"
+       
+    },{
+      "code": "RAPPORT",
+      "comment": "cas de plateformes Columbia International Affairs Online, Financial Times, rapports en tout genre qui ne sont pas publiés sous la forme d'un article ou d'un working paper "
     },{
       "code": "METADATA",
       "description": "Metadonnées",
