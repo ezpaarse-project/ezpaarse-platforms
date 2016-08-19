@@ -37,6 +37,12 @@
     },{
       "code":"ZIP"
     },{
+      "code":"CSV"
+    },{
+      "code":"XLS"
+    },{
+      "code":"RIS"
+    },{
       "code":"JPEG"
     },{
       "code":"TIFF"
