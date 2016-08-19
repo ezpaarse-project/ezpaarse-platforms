@@ -207,15 +207,15 @@
       "comment": "cas des plateformes CEPR, NBER, CIAO, bases Ebsco, etc."
     },{
       "code": "MAP",
-      "description": "Cartes, atlas"
+      "description": "Cartes, atlas",
       "comment": "cas de plateforme Britannica"
     },{
       "code": "EXO",
-      "description": "Quiz, type qcm, exercices en ligne et autre"
+      "description": "Quiz, type qcm, exercices en ligne et autre",
       "comment": "cas de plateforme Britannica"
     },{
       "code": "TOOL",
-      "description": "Outil de comparaison de données"
+      "description": "Outil de comparaison de données",
       "comment": "cas de plateforme Britannica, Financial Times, Kluwer arbitration"
        
     },{
