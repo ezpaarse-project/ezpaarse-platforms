@@ -210,7 +210,7 @@
       "description": "Cartes, atlas",
       "comment": "cas de plateforme Britannica"
     },{
-      "code": "EXO",
+      "code": "EXERCISE",
       "description": "Quiz, type qcm, exercices en ligne et autre",
       "comment": "cas de plateforme Britannica"
     },{
@@ -219,7 +219,7 @@
       "comment": "cas de plateforme Britannica, Financial Times, Kluwer arbitration"
        
     },{
-      "code": "RAPPORT",
+      "code": "REPORT",
       "comment": "cas de plateformes Columbia International Affairs Online, Financial Times, rapports en tout genre qui ne sont pas publiés sous la forme d'un article ou d'un working paper "
     },{
       "code": "METADATA",
