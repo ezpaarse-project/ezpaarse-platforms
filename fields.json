@@ -222,6 +222,10 @@
       "code": "REPORT",
       "comment": "cas de plateformes Columbia International Affairs Online, Financial Times, rapports en tout genre qui ne sont pas publiés sous la forme d'un article ou d'un working paper "
     },{
+      "code": "DATA",
+      "description": "Base de données, set de datas",
+      "comment": "correspond à une base de données au sens large, peut convenir a des données statistiques pour OCDE"
+    },{
       "code": "METADATA",
       "description": "Metadonnées",
       "comment": "cas des plateformes Istex, etc."
