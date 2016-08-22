@@ -47,6 +47,12 @@ module.exports = new Parser(function analyseEC(parsedUrl, ec) {
     result.mime     = 'HTML';
     result.title_id = match[1];
     result.unitid   = match[1];
+  } else if ((match = /^\/loi\/([a-zA-Z0-9]+)$/.exec(path)) !== null) {
+    //loi/wjsa21
+    result.rtype    = 'TOC';
+    result.mime     = 'HTML';
+    result.title_id = match[1];
+    result.unitid   = match[1];
   }
 
   return result;
