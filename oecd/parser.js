@@ -21,7 +21,7 @@ module.exports = new Parser(function analyseEC(parsedUrl, ec) {
 
   // use console.error for debuging
   // console.error(parsedUrl);
-console.log(path);
+
   var match;
   if ((match = /^\/economics\/([0-9a-z\-\_]+)$/.exec(path)) !== null) {
     //economics/the-future-of-productivity_9789264248533-en
