@@ -42,7 +42,7 @@ module.exports = new Parser(function analyseEC(parsedUrl, ec) {
       result.mime     = 'PDF';
     }
     if (param.journal) {
-      result.unitid = param.journal;  
+      result.unitid = param.journal;
     }
     if (/([a-z]+)\-tool/.test(match[2])) {
       result.rtype    = 'TOOL';
@@ -57,4 +57,3 @@ module.exports = new Parser(function analyseEC(parsedUrl, ec) {
 
   return result;
 });
-
