@@ -16,24 +16,27 @@ module.exports = new Parser(function analyseEC(parsedUrl) {
   var path   = parsedUrl.pathname;
   var query  = parsedUrl.query;
 
-  //console.log(path);
-
   var match;
 
-  if ((match = /\/stable\/([0-9]{2}\.[0-9]{4})\/([0-9]+)$/.exec(path)) !== null) {
+  if ((match = /^\/journal\/([a-z0-9]+)$/i.exec(path)) !== null) {
+    result.rtype    = 'TOC';
+    result.mime     = 'MISC';
+    result.unitid   = match[1];
+    result.title_id = match[1];
+  } else if ((match = /\/stable\/([0-9]{2}\.[0-9]{4})\/([0-9]+)$/.exec(path)) !== null) {
     // /stable/10.1086/665036
     result.title_id = match[2];
-    result.rtype = 'TOC';
-    result.mime = 'MISC';
-    result.unitid = match[2];
-    result.doi = match[1] +'/'+ match[2];
+    result.rtype    = 'TOC';
+    result.mime     = 'MISC';
+    result.unitid   = match[2];
+    result.doi      = match[1] +'/'+ match[2];
   } else if ((match = /\/stable\/([0-9]{2}\.[0-9]{4})\/([a-z]+)\.([0-9]{4})\.([0-9]+)\.([^.]+)$/.exec(path)) !== null) {
     // /stable/10.1525/cmr.2013.55.issue-2
     result.title_id = match[2];
-    result.unitid=  match[2] + '.' + match[3] + '.' + match[4] + '.' + match[5];
-    result.doi =  match[1] +'/'+ match[2] + '.' + match[3] + '.' + match[4] + '.' + match[5];
-    result.rtype = 'TOC';
-    result.mime = 'MISC';
+    result.unitid   = match[2] + '.' + match[3] + '.' + match[4] + '.' + match[5];
+    result.doi      = match[1] +'/'+ match[2] + '.' + match[3] + '.' + match[4] + '.' + match[5];
+    result.rtype    = 'TOC';
+    result.mime     = 'MISC';
   } else if ((match = /^\/stable\/([0-9]{2}\.[0-9]{4})\/([^.]+)$/.exec(path)) !== null) {
     // /stable/10.7312/cari13424
     result.title_id = match[2];
