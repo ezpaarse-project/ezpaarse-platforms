@@ -16,11 +16,6 @@ var Parser = require('../.lib/parser.js');
 module.exports = new Parser(function analyseEC(parsedUrl, ec) {
   var result = {};
   var path   = parsedUrl.pathname;
-  // uncomment this line if you need parameters
-  // var param  = parsedUrl.query || {};
-
-  // use console.error for debuging
-  // console.error(parsedUrl);
 
   var match;
 
@@ -30,7 +25,6 @@ module.exports = new Parser(function analyseEC(parsedUrl, ec) {
     result.rtype    = 'ABS';
     result.mime     = 'HTML';
     result.title_id = match[1];
-
     result.unitid   = match[2];
 
   } else if ((match = /^\/download\/([a-z\-]+)\/(([a-z]+)([0-9]+))$/.exec(path)) !== null) {
@@ -38,19 +32,18 @@ module.exports = new Parser(function analyseEC(parsedUrl, ec) {
     result.rtype    = 'ARTICLE';
     result.mime     = 'PDF';
     result.title_id = match[1];
-    //see the comment block above
     result.unitid   = match[2];
-  } else if ((match = /^\/journals\/([a-z]+)\/([0-9]+)\/([0-9]+)$/.exec(path)) !== null) {
+
+  } else if ((match = /^\/journals\/(([a-z\-]+)(?:\/([0-9]+)\/([0-9]+))?)\/?$/.exec(path)) !== null) {
     // journals/biofactors/30/4
+    // journals/biofactors
     result.rtype    = 'TOC';
     result.mime     = 'HTML';
-    result.vol = match[2];
-    result.issue = match[3];
-    result.title_id = match[1];
-    //see the comment block above
-    result.unitid   = 'journals/' +   match[1]  + '/' + match[2] + '/' + match[3];
+    result.vol      = match[3];
+    result.issue    = match[4];
+    result.title_id = match[2];
+    result.unitid   = match[1];
   }
 
   return result;
 });
-
