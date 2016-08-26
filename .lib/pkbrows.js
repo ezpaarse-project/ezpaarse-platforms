@@ -67,7 +67,8 @@ var PkbRows = function(providerName) {
   }
 
 };
-var DeleteFileKbart = function (filename) {
+
+var deleteFileKbart = function (filename) {
   fs.exists(filename, (exists) => {
     if (exists) {
       fs.unlink(filename);
@@ -284,9 +285,9 @@ PkbRows.prototype.writeKbart = function (callback) {
   self.sortRows();
   var fields    = [];
   if (self.rows.length === 0) {
-    DeleteFileKbart(self.kbartFileName);
-    console.error('File Not generated : unavailable data ');
-    return false;
+    deleteFileKbart(self.kbartFileName);
+    console.error('File not generated : no data ');
+    return callback(new Error('File not generated : no data '));
   }
 
   var dstStream = fs.createWriteStream(self.kbartFileName);
@@ -324,7 +325,6 @@ PkbRows.prototype.writeKbart = function (callback) {
   });
 
   writeRow(i++);
-  return true;
 };
 
 PkbRows.prototype.getKbartFromKBPlus = function (KBPlusPkg, callback) {
