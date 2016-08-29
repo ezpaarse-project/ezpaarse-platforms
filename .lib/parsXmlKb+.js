@@ -1,70 +1,51 @@
 'use strict';
 
+const path    = require('path');
+const csv     = require('csv');
+const request = require('request');
+const PkbRows = require('./pkbrows.js');
 
+exports.generatePkbKbp = function (packageID, platformName, rowModifier) {
 
-var CSV     = require('csv-string');
-var request = require('request');
-var PkbRows = require('./pkbrows.js');
+  if (typeof rowModifier !== 'function' && rowModifier !== null) {
+    const parser = require(path.resolve('..', platformName, 'parser'));
+    rowModifier = function (row) {
+      if (!row.title_id && row.title_url) {
+        const ec = parser.execute({ url: row.title_url});
+        if (ec && ec.title_id) { row.title_id = ec.title_id; }
+      }
+      return row;
+    }
+  }
 
-exports.generatePkbKbp = function (nbrPkbKbp, platformName) {
-  var titles = {};
-  var opt = {
-    url: `http://www.kbplus.ac.uk/kbplus/publicExport/pkg/${nbrPkbKbp}`,
+  const pkb = new PkbRows(platformName);
+  pkb.setKbartName();
+
+  const opt = {
+    url: `http://www.kbplus.ac.uk/kbplus/publicExport/pkg/${packageID}`,
     qs: { format: 'xml', transformId: 'kbart2' }
   };
 
-  request.get(opt, function (err, res, body) {
-    if (err) {
-      console.error(err);
-      return;
-    }
+  const csvParser = csv.parse({
+    'delimiter': '\t',
+    'columns': true,
+    'relax_column_count': true
+  });
 
-    var csvSource = CSV.parse(body, CSV.detect(body));
-    if (csvSource != undefined) {
-      titles = csvSource[0];
-      csvSource.shift();
-      var pkb = new PkbRows(platformName);
-      pkb.setKbartName();
-      for (var i in csvSource) {
-        var kbartRow = pkb.initRow({});
-        kbartRow = associetElement(titles, csvSource[i]);
-        pkb.addRow(kbartRow);
-      }
-      if (!pkb.writeKbart()) {
-        return;
-      }
-    } else {
-      console.error('Aucune information retournée');
-      return;
-    }
-    /*
-    var file = path.join(__dirname, '../' + platformName + '/pkb/' + platformName + '_AllTitles' + '_' + moment().format('YYYY-MM-DD') + '.txt');
+  request.get(opt).pipe(csvParser);
 
-      fs.createReadStream(file).pipe(process.stdout);
-      */
-    console.log('file pkb is created');
+  csvParser.on('readable', () => {
+    let record;
+    while (record = csvParser.read()) {
+      const kbartRow = pkb.initRow(record);
+      pkb.addRow(rowModifier(kbartRow));
+    }
+  });
+
+  csvParser.on('finish', () => {
+    pkb.writeKbart(err => {
+      if (err) { throw err; }
+      console.log('PKB generated');
+    });
   });
 };
-
-function associetElement(titles, value) {
-  if (!value && value != undefined) {
-    return false;
-  }
-  var elementproportie = {};
-  var url = '';
-  var testcounter = 1 ;
-  for (var k in value) {
-    testcounter ++;
-    if (value.length == testcounter) { break; }
-    if (titles[k] === 'title_url') { url = value[k]; }
-    if (value[k] !== null || value[k] !== '') {
-      elementproportie[titles[k]] = value[k];
-    }
-  }
-  var spliturl = url.split('/');
-  var valtitleid = spliturl[spliturl.length - 1];
-  var title_id = 'title_id';
-  elementproportie[title_id] = valtitleid.split('.')[0];
-
-  return elementproportie;
-}
