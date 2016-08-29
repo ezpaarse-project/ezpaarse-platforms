@@ -2,14 +2,8 @@
 // Write on KBART file the Masterlist Collection journals PKB
 // Write on stderr the progression
 
-//
-/*jslint maxlen: 180*/
-
 'use strict';
 
+var PkbKbp = require('../../.lib/parsXmlKb+.js');
 
-var path = require('path');
-
-var PkbKbp     =  require(path.join(__dirname, '../../.lib/parsXmlKb+.js'));
-
-PkbKbp.generatePkbKbp(512,  'sd');
+PkbKbp.generatePkbKbp(512, 'sd');
