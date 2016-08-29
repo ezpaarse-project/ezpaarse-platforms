@@ -90,11 +90,7 @@ module.exports = new Parser(function analyseEC(parsedUrl) {
       result.rtype = 'ABS';
       result.mime  = 'MISC';
       break;
-    default:
-      return {};
     }
-  } else {
-    return {};
   }
 
   return result;
