@@ -45,11 +45,12 @@ request.get({ uri: journalsUrl }).pipe(parser)
   var match;
 
   // collect informations
-  journalInfo.publication_title = data['Title'].trim();
-  journalInfo.print_identifier  = data['ISSN'].trim();
-  journalInfo.online_identifier = data['E-ISSN'].trim();
-  journalInfo.title_url         = data['BioOne URL'].trim();
-
+  if (data && data['Title'] && data['BioOne URL']) {
+    journalInfo.publication_title = data['Title'].trim();
+    journalInfo.print_identifier  = data['ISSN'].trim();
+    journalInfo.online_identifier = data['E-ISSN'].trim();
+    journalInfo.title_url         = data['BioOne URL'].trim();
+  }
   if (journalInfo.title_url.length) {
     var parsedUrl = URL.parse(journalInfo.title_url, true);
     if ((match = /\/loi\/([^\/]+)/.exec(parsedUrl.pathname))) {
