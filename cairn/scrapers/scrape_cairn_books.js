@@ -19,7 +19,7 @@ var pkb      = new PkbRows('cairn');
 pkb.packageName = 'ebooks';
 pkb.setKbartName();
 
-var csvUrl                = 'http://dedi.cairn.info/NL/ouvrages_cairn_csv.php';
+var csvUrl                = 'http://dedi.cairn.info/NL/ouvrages_cairn_csv_2015.php';
 var ouvragesUrl           = 'http://www.cairn.info/ouvrages.php?TITRE=';
 
 /**

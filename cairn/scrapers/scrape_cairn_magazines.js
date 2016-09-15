@@ -14,7 +14,7 @@ var pkb     = new PkbRows('cairn');
 pkb.packageName = 'magazines';
 pkb.setKbartName();
 
-var csvUrl       = 'http://dedi.cairn.info/NL/magazines_cairn_csv.php';
+var csvUrl       = 'http://dedi.cairn.info/NL/magazines_cairn_csv_2015.php';
 var allTitlesUrl = 'http://www.cairn.info/magazines.php';
 
 /**
@@ -92,10 +92,11 @@ getMatchingList(function (err, matchings) {
     });
 
     var m1 = /([0-9]+)$/.exec(data['PREMIER NUMERO DISPO'].trim());
-    var m2 = /([0-9]+)$/.exec(data['DERNIER NUMERO DISPO'].trim());
+//    var m2 = /([0-9]+)$/.exec(data['DERNIER NUMERO DISPO'].trim());
+// big mistake in csv source file, can't get it unless manual correction
 
     if (m1) { kbartInfo.num_first_vol_online = m1[1]; }
-    if (m2) { kbartInfo.num_last_vol_online = m2[1]; }
+//    if (m2) { kbartInfo.num_last_vol_online = m2[1]; }
 
     // http://www.cairn.info/magazine-le-magazine-litteraire.htm--> magazine-le-magazine-litteraire
     var match = /\/([^\/]+)\.htm$/.exec(kbartInfo.title_url);

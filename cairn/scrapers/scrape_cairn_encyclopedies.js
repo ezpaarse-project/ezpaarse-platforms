@@ -19,7 +19,7 @@ var pkb      = new PkbRows('cairn');
 pkb.packageName = 'encyclopedies';
 pkb.setKbartName();
 
-var csvUrl       = 'http://dedi.cairn.info/NL/ep_cairn_csv.php';
+var csvUrl       = 'http://dedi.cairn.info/NL/ep_cairn_csv_2015.php';
 var allTitlesUrl = 'http://www.cairn.info/encyclopedies-de-poche.php?POS_DISC=&TITRE=ALL';
 
 /**
