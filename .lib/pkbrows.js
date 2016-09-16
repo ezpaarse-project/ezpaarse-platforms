@@ -124,7 +124,7 @@ PkbRows.prototype.addRow = function (row, deduplicateFn) {
 
 
   // cleanup ISSN/ISBN values
-  if (row.print_identifier !== undefined) {
+  if (row.print_identifier !== undefined && row.print_identifier !== null) {
     if (row.print_identifier !== undefined) {
       row.print_identifier = row.print_identifier.trim().toUpperCase();
     }
@@ -144,7 +144,7 @@ PkbRows.prototype.addRow = function (row, deduplicateFn) {
     }
   }
 
-  if (row.online_identifier !== undefined) {
+  if (row.online_identifier !== undefined && row.online_identifier !== null) {
     if (row.online_identifier !== undefined) {
       row.online_identifier = row.online_identifier.trim().toUpperCase();
     }

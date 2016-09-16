@@ -5,15 +5,15 @@ var path    = require('path');
 var request = require('request');
 var PkbRows = require('./pkbrows.js');
 
-exports.generatePkb = function (namePlatform, callback) {
-  var data = require('../' + namePlatform + '/manifest.json');
+exports.generatePkb = function (platformName, callback) {
+  var data = require('../' + platformName + '/manifest.json');
   var pkbfolder = path.join(__dirname, '../pkb');
-  var countFileCreate = 0;
+  var nbFileCreated = 0;
 
   fs.mkdir(pkbfolder, function(err) {
     if (err &&  err.code != 'EEXIST') { return callback(err); }
 
-    console.log('create folder pkb');
+    console.log('Check pkb folder ', pkbfolder);
     var url = 'https://bacon.abes.fr/list.json';
     request.get(url, function(err, res, body) {
       var list;
@@ -26,12 +26,12 @@ exports.generatePkb = function (namePlatform, callback) {
         return callback(e);
       }
 
-      console.log('cherche la plateforme dans la liste des plateformes bacon');
+      console.log('Search %s platform in bacon platform list', data.baconprovider);
       var i = -1;
       (function checklist() {
         i++;
         if (!list[i]) {
-          return callback(null, countFileCreate);
+          return callback(null, nbFileCreated);
         }
         var package_id = '';
         if (list[i].element.provider != data.baconprovider) {
@@ -39,25 +39,30 @@ exports.generatePkb = function (namePlatform, callback) {
         }
 
         package_id = list[i].element.package_id;
-        var pkb = new PkbRows(namePlatform);
-        var urlpkb = 'http://bacon.abes.fr/package2kbart/' + package_id + '.json';
-        request.get(urlpkb, function(err, res, body) {
+        var pkb = new PkbRows(platformName);
+        var pkbUrl = 'http://bacon.abes.fr/package2kbart/' + package_id + '.json';
+        request.get(pkbUrl, function(err, res, body) {
           pkb.setKbartName(package_id);
           if (err) {
             return callback(err);
           }
 
-          var listpkb = JSON.parse(body).bacon.query.kbart;
+          var listpkb;
+          try {
+            listpkb = JSON.parse(body).bacon.query.kbart;
+          } catch(e) {
+            console.error(pkbUrl, 'json parse error');
+            return checklist();
+          }
           var j = 0;
+          var kbartRow;
           while (j < listpkb.length) {
-            var kbartRow = pkb.initRow({});
-            kbartRow = getElement(listpkb[j].element) ;
-            pkb.addRow(kbartRow);
+            pkb.addRow(listpkb[j].element);
             j++;
           }
           pkb.writeKbart();
-          countFileCreate++;
-          console.log('file pkb is created');
+          nbFileCreated++;
+          console.log('File %s created', pkb.kbartFileName);
           return checklist();
         });
 
