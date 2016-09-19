@@ -1,16 +1,9 @@
 publication_title	print_identifier	online_identifier	date_first_issue_online	num_first_vol_online	num_first_issue_online	date_last_issue_online	num_last_vol_online	num_last_issue_online	title_url	publisher_name	first_author	title_id	embargo_info	coverage_depth	coverage_notes	publication_type	date_monograph_published_print	date_monograph_published_online	monograph_volume	monograph_edition	first_editor	parent_publication_title_id	preceding_publication_title_id	access_type
 Revue de l'Entrepreneuriat	1766-2524	1630-7542	2001	Vol. 1	1	2013	Vol. 9	4	http://www.cairn.info/revue--de-l-entrepreneuriat.htm	De Boeck Supérieur		revue--de-l-entrepreneuriat												
-Cahiers de PréAut	1767-3151	2273-2225	2004	N° 1	1	2013	N° 9	1	http://www.cairn.info/revue-cahiers-de-preaut.htm	ERES		revue-cahiers-de-preaut												
 Corps	1954-1228	1969-6957	2006	n° 1	1	2013	N° 9	2	http://www.cairn.info/revue-corps-dilecta.htm	Dilecta		revue-corps												
 Etudes balkaniques			2008	n° 15	1	2010	n° 17	1	http://www.cairn.info/revue-etudes-balkaniques.htm	Association Pierre Belon		revue-etudes-balkaniques												
-Annales des Mines - Gérer et comprendre	0295-4397	2271-7943	2008	N° 100	1	2014	N° 99	4	http://www.cairn.info/revue-gerer-et-comprendre.htm	ESKA		revue-gerer-et-comprendre												
 Italies	1275-7519	2108-6540							http://www.cairn.info/revue-italies.htm			revue-italies												
 Les Nouveaux Cahiers du Conseil constitutionnel	2112-2679	1968-3820	2010	N ° 31	1	2014	N° 44	4	http://www.cairn.info/revue-les-nouveaux-cahiers-du-conseil-constitutionnel.htm	Lextenso Editions		revue-les-nouveaux-cahiers-du-conseil-constitutionnelles-nouveaux-cahiers-du-conseil-c												
-Outre-Terre	1636-3671	1951-624X	2003	n° 10	1	2014	N° 38	4	http://www.cairn.info/revue-outre-terre.htm	Outre-terre		revue-outre-terre												
-Parlement[s], Revue d'histoire politique	1768-6520	1760-6233	2004	n° 1	1	2013	n° HS 9	3	http://www.cairn.info/revue-parlements.htm	L'Harmattan		revue-parlements												
 Population (English Edition)	1634-2941	1958-9190							http://www.cairn.info/revue-population-english.htm	I.N.E.D		revue-population-english												
-Annales des Mines - Réalités industrielles	1148-7941	2271-7978	2008	Août 2008	1	2014	Novembre 2013	4	http://www.cairn.info/revue-realites-industrielles.htm	ESKA		revue-realites-industrielles												
-Annales des Mines - Responsabilité et environnement	1268-4783	2271-8052	2008	N° 49	1	2014	N°57	4	http://www.cairn.info/revue-responsabilite-et-environnement.htm	ESKA		revue-responsabilite-et-environnement												
 Revue Congolaise de Gestion	1729-0228		2011	Numéro 13	1	2013	Numéro 18	2	http://www.cairn.info/revue-revue-congolaise-de-gestion.htm	Editions ICES		revue-revue-congolaise-de-gestion												
 Terrain	0760-5668	1777-5450							http://www.cairn.info/revue-terrain.htm	Terrain		revue-terrain												
-Vertigo			2006	n° 28	1	2013	n° 46	3	http://www.cairn.info/revue-vertigo.htm	Editions Lignes		revue-vertigo												
