@@ -10,7 +10,6 @@ exports.generatePkbKbp = function (packageID, platformName, packageName, rowModi
   if (typeof rowModifier !== 'function' && rowModifier !== null) {
     const parser = require(path.resolve('../..', platformName, 'parser'));
     rowModifier = function (row) {
-      console.log(row);
       if (!row.title_id && row.title_url) {
         const ec = parser.execute({ url: row.title_url});
         if (ec && ec.title_id) { row.title_id = ec.title_id; }
