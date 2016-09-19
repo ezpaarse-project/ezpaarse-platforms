@@ -18,6 +18,13 @@ module.exports = new Parser(function analyseEC(parsedUrl, ec) {
 
   var match;
 
+console.log(parsedUrl);
+  /* archive title_id identification for the scraper only */
+  /* catch first part of domain like 'http://jcem.endojournals.org/' */
+  if((match = /^http:\/\/([^.]+).([^.]+).([^.]+)\/$/.exec(parsedUrl.href)) !== null) {
+    result.title_id = match[1];
+  }
+
   if ((match = /^\/journal\/([a-z]+)$/.exec(path)) !== null) {
     // http://press.endocrine.org/journal/jcem
     result.rtype    = 'TOC';

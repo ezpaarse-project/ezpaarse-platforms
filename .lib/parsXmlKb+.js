@@ -5,11 +5,12 @@ const csv     = require('csv');
 const request = require('request');
 const PkbRows = require('./pkbrows.js');
 
-exports.generatePkbKbp = function (packageID, platformName, rowModifier) {
+exports.generatePkbKbp = function (packageID, platformName, packageName, rowModifier) {
 
   if (typeof rowModifier !== 'function' && rowModifier !== null) {
-    const parser = require(path.resolve('..', platformName, 'parser'));
+    const parser = require(path.resolve('../..', platformName, 'parser'));
     rowModifier = function (row) {
+      console.log(row);
       if (!row.title_id && row.title_url) {
         const ec = parser.execute({ url: row.title_url});
         if (ec && ec.title_id) { row.title_id = ec.title_id; }
@@ -19,6 +20,7 @@ exports.generatePkbKbp = function (packageID, platformName, rowModifier) {
   }
 
   const pkb = new PkbRows(platformName);
+  pkb.packageName = packageName;
   pkb.setKbartName();
 
   const opt = {
@@ -45,7 +47,7 @@ exports.generatePkbKbp = function (packageID, platformName, rowModifier) {
   csvParser.on('finish', () => {
     pkb.writeKbart(err => {
       if (err) { throw err; }
-      console.log('PKB generated');
+      console.log('PKB %s generated', pkb.kbartFileName);
     });
   });
 };
