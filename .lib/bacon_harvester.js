@@ -50,12 +50,12 @@ exports.generatePkb = function (platformName, callback) {
           var listpkb;
           try {
             listpkb = JSON.parse(body).bacon.query.kbart;
-          } catch(e) {
+          } catch (e) {
             console.error(pkbUrl, 'json parse error');
             return checklist();
           }
+
           var j = 0;
-          var kbartRow;
           while (j < listpkb.length) {
             pkb.addRow(listpkb[j].element);
             j++;
@@ -75,16 +75,6 @@ exports.generatePkb = function (platformName, callback) {
   //récupération de la liste des platforme sur le site de abes
 
 };
-
-function getElement(elementBacon) {
-  var element = {};
-  for (var k in elementBacon) {
-    if (elementBacon[k] != null) {
-      element[k] = elementBacon[k];
-    }
-  }
-  return element;
-}
 
 exports.checkNewPkb = function() {
   var re;

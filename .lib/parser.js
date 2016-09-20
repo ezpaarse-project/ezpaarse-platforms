@@ -43,7 +43,7 @@ var Parser = function (parsingFunction) {
 */
 Parser.prototype.debugMode = function (bool) {
   this.debug = !!bool;
-}
+};
 
 /*
 * If an array of urls is given, return an array of results

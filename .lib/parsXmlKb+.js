@@ -8,6 +8,7 @@ const PkbRows = require('./pkbrows.js');
 exports.generatePkbKbp = function (packageID, platformName, packageName, rowModifier) {
 
   if (typeof rowModifier !== 'function' && rowModifier !== null) {
+    // eslint-disable-next-line global-require
     const parser = require(path.resolve('../..', platformName, 'parser'));
     rowModifier = function (row) {
       if (!row.title_id && row.title_url) {
@@ -15,7 +16,7 @@ exports.generatePkbKbp = function (packageID, platformName, packageName, rowModi
         if (ec && ec.title_id) { row.title_id = ec.title_id; }
       }
       return row;
-    }
+    };
   }
 
   const pkb = new PkbRows(platformName);
@@ -37,7 +38,7 @@ exports.generatePkbKbp = function (packageID, platformName, packageName, rowModi
 
   csvParser.on('readable', () => {
     let record;
-    while (record = csvParser.read()) {
+    while ((record = csvParser.read())) {
       const kbartRow = pkb.initRow(record);
       pkb.addRow(rowModifier(kbartRow));
     }

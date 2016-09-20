@@ -1,5 +1,5 @@
 /*global describe, it*/
-/*eslint no-sync:0*/
+/*eslint global-require:0, no-sync:0*/
 'use strict';
 
 const fs        = require('fs');
@@ -49,7 +49,7 @@ platforms
 
           const parsed   = parser.execute(record.in);
           const allProps = Object.keys(record.out).concat(Object.keys(parsed));
-          const equal    = allProps.every(p => record.out[p] === parsed[p])
+          const equal    = allProps.every(p => record.out[p] === parsed[p]);
 
           if (!equal) {
             return done(new Error(`result does not match
