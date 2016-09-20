@@ -33,13 +33,14 @@ module.exports = new Parser(function analyseEC(parsedUrl, ec) {
     //view/j/jtms.2014.1.issue-2/issue-files/jtms.2014.1.
     //issue-2.xml
     //view/j/jtms.2014.1.issue-2/jtms-2014-0026/jtms-2014-0026.xml?format=INT
-    result.rtype    = 'TOC';
-    result.mime     = 'HTML';
-    result.title_id = match[3];
-    result.vol      = match[5];
-    result.issue    = match[7];
-    result.unitid   = match[9];
+    result.rtype            = 'TOC';
+    result.mime             = 'HTML';
+    result.title_id         = match[3];
+    result.vol              = match[5];
+    result.issue            = match[7];
+    result.unitid           = match[9];
     result.publication_date = match[4];
+
     if (match[8] != 'issue-files') {
       result.doi    = '10.1515/' + match[8];
       result.rtype  = 'PREVIEW';
@@ -51,14 +52,17 @@ module.exports = new Parser(function analyseEC(parsedUrl, ec) {
     info = match[2].split('$002f');
 
     result.publication_date = info[2].split('.')[1];
-    result.title_id = info[2].split('.')[0];
-    result.issue = info[2].split('.')[3].replace('issue-', '');
-    result.unitid = info[4];
+    result.title_id         = info[2].split('.')[0];
+    result.issue            = info[2].split('.')[3].replace('issue-', '');
+    result.unitid           = info[4];
+
     if ((infodetail = /^([a-z]+)\.([0-9]+)\.([0-9]+)\.([0-9\-]+)\.([0-9]+)\.([a-z]+)/.exec(info[4])) !== null) {
-      result.vol = infodetail[3];
+      result.vol        = infodetail[3];
       result.first_page = infodetail[5];
     }
-    result.mime = 'PDF';
+
+    result.mime             = 'PDF';
+
     if (match[1].split('.')[0] === 'viewarticle') {
       result.rtype = 'ARTICLE';
     } else {
@@ -77,14 +81,17 @@ module.exports = new Parser(function analyseEC(parsedUrl, ec) {
     info = match[2].split('$002f');
 
     result.publication_date = info[2].split('.')[1];
-    result.title_id = info[2].split('.')[0];
-    result.issue = info[2].split('.')[3].replace('issue-', '');
-    result.unitid = info[4];
+    result.title_id         = info[2].split('.')[0];
+    result.issue            = info[2].split('.')[3].replace('issue-', '');
+    result.unitid           = info[4];
+
     if ((infodetail = /^([a-z]+)\.([0-9]+)\.([0-9]+)\.([0-9\-]+)\.([0-9]+)\.([a-z]+)/.exec(info[4])) !== null) {
-      result.vol = infodetail[3];
+      result.vol        = infodetail[3];
       result.first_page = infodetail[5];
     }
-    result.mime = 'PDF';
+
+    result.mime             = 'PDF';
+
     if (match[1].split('.')[0] === 'viewarticle') {
       result.rtype = 'ARTICLE';
     } else {
@@ -94,13 +101,13 @@ module.exports = new Parser(function analyseEC(parsedUrl, ec) {
   } else if ((match = /^\/downloadpdf\/([a-z]{1})\/([^]*)\/([^]*)\/([^]*).xml$/.exec(path)) !== null) {
     //downloadpdf/j/acs.2016.9.issue-1/acs-2016-0003/acs-2016-0003.xml
 
-    info = match[2].split('.');
+    info                    = match[2].split('.');
     result.publication_date = info[1];
-    result.title_id = info[0];
-    result.doi = '10.1515/' + match[3];
-    result.unitid = match[2];
-    result.mime = 'PDF';
-    result.rtype = 'ARTICLE';
+    result.title_id         = info[0];
+    result.doi              = '10.1515/' + match[3];
+    result.unitid           = match[2];
+    result.mime             = 'PDF';
+    result.rtype            = 'ARTICLE';
 
   }
 
