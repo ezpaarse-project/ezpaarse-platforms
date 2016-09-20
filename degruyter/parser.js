@@ -74,8 +74,6 @@ module.exports = new Parser(function analyseEC(parsedUrl, ec) {
 
     ////$002fj$002fjtms.2015.2.issue-1$002fjtms-2015-frontmatter1$002fjtms-2015-frontmatter1.pdf
 
-
-
     info = match[2].split('$002f');
 
     result.publication_date = info[2].split('.')[1];
@@ -93,7 +91,19 @@ module.exports = new Parser(function analyseEC(parsedUrl, ec) {
       result.rtype = 'TOC';
     }
 
+  } else if ((match = /^\/downloadpdf\/([a-z]{1})\/([^]*)\/([^]*)\/([^]*).xml$/.exec(path)) !== null) {
+    //downloadpdf/j/acs.2016.9.issue-1/acs-2016-0003/acs-2016-0003.xml
+
+    info = match[2].split('.');
+    result.publication_date = info[1];
+    result.title_id = info[0];
+    result.doi = '10.1515/' + match[3];
+    result.unitid = match[2];
+    result.mime = 'PDF';
+    result.rtype = 'ARTICLE';
+
   }
+
 
   return result;
 });
