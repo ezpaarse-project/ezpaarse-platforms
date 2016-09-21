@@ -29,6 +29,7 @@ module.exports = new Parser(function analyseEC(parsedUrl, ec) {
       ///document/55420CDEEA0F6538E215A511C72E2E5E57570138/metadata/xml
 
       result.istex_rtype = match[2];
+
       switch (match[3]) {
       case 'txt':
         result.mime = 'TEXT';
@@ -37,9 +38,8 @@ module.exports = new Parser(function analyseEC(parsedUrl, ec) {
         result.mime = 'MARC';
         break;
       case 'catWos':
-        result.mime = 'TEI';
-        break;
       case 'refBib':
+      case 'refbib':
         result.mime = 'TEI';
         break;
       case 'original':
@@ -49,9 +49,7 @@ module.exports = new Parser(function analyseEC(parsedUrl, ec) {
         }
         break;
       default:
-
         result.mime = match[3].toUpperCase();
-
       }
 
       result.unitid = match[1];
