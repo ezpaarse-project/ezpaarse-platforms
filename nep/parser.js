@@ -18,19 +18,21 @@ module.exports = new Parser(function analyseEC(parsedUrl, ec) {
   var path   = parsedUrl.pathname;
   // uncomment this line if you need parameters
   var param  = parsedUrl.query || {};
-
+  var docKeySplit = [];
   // use console.error for debuging
   // console.error(parsedUrl);
-
-
 
   if (/^\/Document\/([a-zA-Z]+)$/.test(path)) {
     // /Document/ViewMobile?docKey=news·20160417·PJW·00842897&fromBasket=false
     result.rtype    = 'ARTICLE';
     result.mime     = 'HTML';
     if (param.docKey) {
+      docKeySplit      = param.docKey.split('·');
       result.unitid   = param.docKey;
-      result.title_id = param.docKey.split('·')[2];
+      result.title_id = docKeySplit[2];
+      if (docKeySplit[0] == 'web' || docKeySplit[0] == 'report') {
+        result.rtype    = 'REF';
+      }
     }
 
   } else if (/^\/PDF\/([a-zA-Z]+)$/.test(path)) {
