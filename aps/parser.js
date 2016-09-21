@@ -40,7 +40,7 @@ module.exports = new Parser(function analyseEC(url) {
     result.rtype    = 'TOC';
     result.mime     = 'HTML';
 
-  } else if ((match = /\/([a-zA-Z]+)\/(abstract|pdf|article)\/([0-9\.]+\/[a-zA-Z0-9\.]+)/.exec(path)) !== null) {
+  } else if ((match = /\/([a-zA-Z]+)\/(abstract|pdf|article)\/([0-9\.]+\/[a-zA-Z0-9\.]+)((\/figures)?)/.exec(path)) !== null) {
     // http://journals.aps.org/pra/abstract/10.1103/PhysRevA.91.010501
     // http://journals.aps.org/pra/article/10.1103/PhysRevA.91.032105/section/fulltext
     // http://journals.aps.org/pra/pdf/10.1103/PhysRevA.91.033602
@@ -60,6 +60,9 @@ module.exports = new Parser(function analyseEC(url) {
       result.rtype = 'ARTICLE';
       result.mime  = 'HTML';
       break;
+    }
+    if (match[4]) {
+      result.rtype = 'FIGURE';
     }
 
   } else if ((match = /\/toc\/(([a-zA-Z]+)\/v[a-zA-Z0-9]+\/i[a-zA-Z0-9]+)$/.exec(path)) !== null) {
@@ -82,6 +85,7 @@ module.exports = new Parser(function analyseEC(url) {
     result.title_id = match[2];
     result.rtype    = 'ARTICLE';
     result.mime     = 'PDF';
+
   }
 
   return result;
