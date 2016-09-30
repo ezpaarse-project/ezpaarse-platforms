@@ -1,0 +1,19 @@
+{
+  "version": "2016-09-30",
+  "status": "beta",
+  "domains": [
+    "www.eni-training.com"
+  ],
+  "recognize": {
+    "rid": [
+      "title_id",
+      "unitid"
+    ]
+  },
+  "name": "eni",
+  "longname": "Bibliothèque Numérique ENI",
+  "describe": "Recognizes the accesses to the platform Bibliothèque Numérique ENI",
+  "docurl": "http://ang.couperin.org/platforms/557167804ee11ca5993b4a1a",
+  "contact": "abderrazzak.loukili@inist.fr",
+  "pkb": false
+}
