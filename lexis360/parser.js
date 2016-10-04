@@ -38,14 +38,14 @@ module.exports = new Parser(function analyseEC(parsedUrl, ec) {
     var u = JSON.parse(param.citationData);
     //console.log(u);
     result.unitid   = u.citationId;
-    var match1;
-    if (u.citationId && (match1 = /^PS_([A-Z]+)_[0-9]{4}[0-9]+/.exec(u.citationId)) !== null) {
-      result.title_id = match1[1];
+
+    if (u.citationId && (match = /^PS_([A-Z]+)_[0-9]{4}[0-9]+/.exec(u.citationId)) !== null) {
+      result.title_id = match[1];
     }
       // PS_SJG_201639SOMMAIREPS_2_0KTZS19
       // console.error(match[1]);
-  
-    
+
+
     var v = JSON.parse(param.citationData);
     //console.log(v);
     var match2;
