@@ -1,0 +1,21 @@
+{
+  "version": "2016-10-04",
+  "status": "beta",
+  "domains": [
+    "http://luther.chadwyck.co.uk",
+    "http://acta.chadwyck.co.uk",
+    "http://pld.chadwyck.co.uk/"
+  ],
+  "recognize": {
+    "rid": [
+      "title_id",
+      "unitid"
+    ]
+  },
+  "name": "chadwyck",
+  "longname": "Chadwyck-Healey Literature Collections",
+  "describe": "Recognizes the accesses to the platform Chadwyck-Healey Literature Collections",
+  "docurl": "http://ang.couperin.org/platforms/573067c9ecb7839548c2208a",
+  "contact": "Rosanne Wingert",
+  "pkb": false
+}
