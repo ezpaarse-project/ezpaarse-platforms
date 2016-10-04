@@ -1,0 +1,22 @@
+{
+  "version": "2016-10-04",
+  "status": "beta",
+  "domains": [
+    "chicago.universitypressscholarship.com",
+    "www.universitypressscholarship.com"
+  ],
+  "recognize": {
+    "rid": [
+      "doi",
+      "unitid",
+      "print_identifier",
+      "online_identifier"
+    ]
+  },
+  "name": "cso",
+  "longname": "chicago scholarship online",
+  "describe": "Recognizes the accesses to the platform chicago scholarship online",
+  "docurl": "http://ang.couperin.org/platforms/552d033e3546e14ec531dc9a",
+  "contact": "pamphile.isch@univ-psl.fr",
+  "pkb": false
+}
