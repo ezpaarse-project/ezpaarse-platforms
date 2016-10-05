@@ -1,0 +1,19 @@
+{
+  "version": "2016-10-05",
+  "status": "beta",
+  "domains": [
+    "media.citedelamusique.fr"
+  ],
+  "recognize": {
+    "rid": [
+      "title_id",
+      "unitid"
+    ]
+  },
+  "name": "media",
+  "longname": "Media Cite de la Musique ",
+  "describe": "Recognizes the accesses to the platform Media Cite de la Musique ",
+  "docurl": "http://ang.couperin.org/platforms/57f251ed437a6b725723ed4e",
+  "contact": "abderrazzak.loukili@inist.fr",
+  "pkb": false
+}
