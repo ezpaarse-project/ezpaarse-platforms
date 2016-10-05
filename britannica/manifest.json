@@ -1,0 +1,21 @@
+{
+  "version": "2016-09-30",
+  "status": "beta",
+  "domains": [
+    "global.britannica.com",
+    "academic.eb.com",
+    "www.britannica.com"
+  ],
+  "recognize": {
+    "rid": [
+      "unitid",
+      "title_id"
+    ]
+  },
+  "name": "britannica",
+  "longname": "Britannica",
+  "describe": "Recognizes the accesses to the platform Britannica",
+  "docurl": "http://ang.couperin.org/platforms/552d05296bec3f56f7bd463f",
+  "contact": "abderrazzak.loukili@inist.fr",
+  "pkb": false
+}
