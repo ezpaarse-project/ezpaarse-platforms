@@ -5,14 +5,6 @@
     "chicago.universitypressscholarship.com",
     "www.universitypressscholarship.com"
   ],
-  "recognize": {
-    "rid": [
-      "doi",
-      "unitid",
-      "print_identifier",
-      "online_identifier"
-    ]
-  },
   "name": "cso",
   "longname": "chicago scholarship online",
   "describe": "Recognizes the accesses to the platform chicago scholarship online",
