@@ -1,0 +1,19 @@
+{
+  "version": "2016-10-04",
+  "status": "beta",
+  "domains": [
+    "bnus.publie.net"
+  ],
+  "recognize": {
+    "rid": [
+      "title_id",
+      "online_identifier"
+    ]
+  },
+  "name": "publienet",
+  "longname": "Publie.net",
+  "describe": "Recognizes the accesses to the platform Publie.net",
+  "docurl": "http://ang.couperin.org/platforms/57f253a632d54fa10d95dbc0",
+  "contact": "Rosanne Wingert",
+  "pkb": false
+}
