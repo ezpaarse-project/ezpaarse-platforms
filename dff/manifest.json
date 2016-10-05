@@ -1,0 +1,18 @@
+{
+  "version": "2016-10-05",
+  "status": "beta",
+  "domains": [
+    "forum-famille.dalloz.fr"
+  ],
+  "recognize": {
+    "rid": [
+      "unitid"
+    ]
+  },
+  "name": "dff",
+  "longname": "Dalloz Forum Famille",
+  "describe": "Recognizes the accesses to the platform Dalloz Forum Famille",
+  "docurl": "http://ang.couperin.org/platforms/57f253bdc20ff7bc0de0a99f",
+  "contact": "abderrazzak.loukili@inist.fr",
+  "pkb": false
+}
