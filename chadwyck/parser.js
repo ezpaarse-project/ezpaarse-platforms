@@ -1,8 +1,5 @@
 #!/usr/bin/env node
 
-// ##EZPAARSE
-
-/*jslint maxlen: 150*/
 'use strict';
 var Parser = require('../.lib/parser.js');
 
@@ -22,14 +19,13 @@ module.exports = new Parser(function analyseEC(parsedUrl, ec) {
   // use console.error for debuging
   // console.error(parsedUrl);
 
-  if (/\/fulltext$/.test(path)) {
-    //acta.chadwyck.co.uk/all/fulltext?ALL=Y&action=byid&warn=N&id=Z300036009&div=3&file=../session/1475585193_28984&SOMQUERY=1&DBOFFSET=40649769&ENTRIES=46&CURDB=acta
-    result.rtype    = 'ENCYCLOPEDIE-ENTRY';
+  if (/\/fulltext$/i.test(path)) {
+    // acta.chadwyck.co.uk/all/fulltext?ALL=Y&action=byid&warn=N&id=Z300036009&div=3&file=../session/1475585193_28984&SOMQUERY=1&DBOFFSET=40649769&ENTRIES=46&CURDB=acta
+    result.rtype    = 'ENCYCLOPAEDIA_ENTRY';
     result.mime     = 'HTML';
     result.title_id = parsedUrl.hostname;
-    result.unitid = param.id || param.ID;
+    result.unitid   = param.id || param.ID;
   }
 
   return result;
 });
-
