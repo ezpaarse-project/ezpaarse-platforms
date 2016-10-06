@@ -1,27 +1,15 @@
 {
   "name": "jsparserskeleton",
-  "version": "2014-02-20",
+  "version": "2016-10-05",
   "status": "template",
   "trello": "",
   "longname": "ParserSkeleton",
   "describe": "Modele de parseur tres simple",
-  "docurl": "http://analogist.couperin.org/platforms/parserskeleton/",
+  "docurl": "http://ang.couperin.org/platforms/parserskeleton",
   "contact": "dominique.lechaudel at inist point fr",
 	"domains": [
     "www.domaine-de-la-plateforme.com",
     "www.domaine2-de-la-plateforme.com"
 	],
-  "pkb": false,
-  "recognize": {
-    "rid": [
-      "title_id",
-      "unitid"
-    ],
-    "rtype": [
-      "ARTICLE"
-    ],
-    "mime": [
-      "PDF"
-    ]
-  }
+  "pkb": false
 }
