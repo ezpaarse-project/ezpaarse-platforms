@@ -24,24 +24,24 @@ module.exports = new Parser(function analyseEC(parsedUrl, ec) {
 
   var match;
 
-  if ((match = /^(\/en)?\/[a-z]+\/(\/)?([a-z]+)\/([0-9]+)(\/([0-9]+))?\/(pdf|html)\/([a-z\_\-]+([0-9]+)\_([^.]+))\.(pdf|php)$/i.exec(path)) !== null) {
+  if ((match = /^(\/en)?\/[a-z]+\/+([a-z]+)\/([0-9]+)(\/([0-9]+))?\/(pdf|html)\/([a-z\_\-]+[0-9]+\_[^.]+)\.(pdf|php)$/i.exec(path)) !== null) {
     ///en/Publications/Bulletin/144/pdf/smf_bull_144_1-52.pdf
     //Publications//SeminairesCongres/2015/29/pdf/smf_sem-cong_29_x+119.pdf
     //Publications/Bulletin/144/html/smf_bull_144_1-52.php
     result.rtype    = 'ARTICLE';
-    result.mime     = match[7].toUpperCase();
-    result.title_id = match[3];
-    result.unitid   = match[8];
-    if (match[5]) {
-      result.publication_date = match[4];
-      result.vol = match[6];
+    result.mime     = match[6].toUpperCase();
+    result.title_id = match[2];
+    result.unitid   = match[7];
+    if (match[4]) {
+      result.publication_date = match[3];
+      result.vol = match[5];
     } else {
-      result.vol = match[4];
+      result.vol = match[3];
     }
-    if (match[11] == 'php') {
-      result.rtype = 'REF'
+    if (match[8] == 'php') {
+      result.rtype = 'REF';
     }
-  } else if ((match = /^(\/en)?\/[a-z]+\/([a-z\S]+)\//i.exec(path)) !== null) {
+  } else if ((match = /^(\/en)?\/[a-z]+\/([a-z\S+]+)\//i.exec(path)) !== null) {
     //en/Publications/Bulletin/144/html/
     //Publications/Annale Sens/
     result.rtype    = 'TOC';
