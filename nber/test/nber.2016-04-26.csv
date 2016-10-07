@@ -1,4 +1,10 @@
-out-unitid;out-rtype;out-mime;in-url
-w20518;ABS;HTML;http://www.nber.org/papers/w20518
-w20518;ARTICLE;PDF;http://www.nber.org/papers/w20518.pdf
-papers.html;TOC;HTML;http://www.nber.org/papers.html
+out-doi;out-unitid;out-rtype;out-mime;in-url
+;w20518;ABS;HTML;http://www.nber.org/papers/w20518
+10.3386/w20518;w20518;WORKING_PAPER;PDF;http://www.nber.org/papers/w20518.pdf
+;;TOC;HTML;http://www.nber.org/papers.html
+;;TOC;MISC;http://nber.org/booksbyyear/
+;1920s;TOC;HTML;http://nber.org/booksbyyear/1920s.html
+;mitc21-1;TOC;HTML;http://papers.nber.org/books/mitc21-1
+;c4656;REF;HTML;http://www.nber.org/chapters/c4656
+;c4656;BOOK;PDF;http://www.nber.org/chapters/c4656.pdf
+;;TOC;HTML;http://nber.org/books.html
