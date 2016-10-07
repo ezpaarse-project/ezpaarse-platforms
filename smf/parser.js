@@ -41,7 +41,7 @@ module.exports = new Parser(function analyseEC(parsedUrl, ec) {
     if (match[8] == 'php') {
       result.rtype = 'REF';
     }
-  } else if ((match = /^(\/en)?\/[a-z]+\/([a-z\S+]+)\//i.exec(path)) !== null) {
+  } else if ((match = /^(\/en)?\/[a-z]+\/([a-z\S+]+)\/([0-9\/]+)?([a-z\/]+)?/i.exec(path)) !== null) {
     //en/Publications/Bulletin/144/html/
     //Publications/Annale Sens/
     result.rtype    = 'TOC';
