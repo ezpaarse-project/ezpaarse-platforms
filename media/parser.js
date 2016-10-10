@@ -7,7 +7,7 @@
 var Parser = require('../.lib/parser.js');
 
 /**
- * Recognizes the accesses to the platform Media Cite de la Musique 
+ * Recognizes the accesses to the platform Media Cite de la Musique
  * @param  {Object} parsedUrl an object representing the URL to analyze
  *                            main attributes: pathname, query, hostname
  * @param  {Object} ec        an object representing the EC whose URL is being analyzed

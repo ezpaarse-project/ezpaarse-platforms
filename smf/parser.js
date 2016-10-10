@@ -28,7 +28,6 @@ module.exports = new Parser(function analyseEC(parsedUrl, ec) {
     ///en/Publications/Bulletin/144/pdf/smf_bull_144_1-52.pdf
     //Publications//SeminairesCongres/2015/29/pdf/smf_sem-cong_29_x+119.pdf
     //Publications/Bulletin/144/html/smf_bull_144_1-52.php
-    result.rtype    = 'ARTICLE';
     result.mime     = match[6].toUpperCase();
     result.title_id = match[2];
     result.unitid   = match[7];
@@ -41,7 +40,7 @@ module.exports = new Parser(function analyseEC(parsedUrl, ec) {
     if (match[8] == 'php') {
       result.rtype = 'REF';
     }
-  } else if ((match = /^(\/en)?\/[a-z]+\/([a-z\S+]+)\/([0-9\/]+)?([a-z\/]+)?/i.exec(path)) !== null) {
+  } else if ((match = /^(\/en)?\/[a-z]+\/([a-z]+)\s([a-z]+)\/([0-9\/]+)?([a-z\/]+)?/i.exec(path)) !== null) {
     //en/Publications/Bulletin/144/html/
     //Publications/Annale Sens/
     result.rtype    = 'TOC';
