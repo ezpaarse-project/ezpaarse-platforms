@@ -112,6 +112,10 @@
     "code": "METADATA",
     "description": "Metadonnées",
     "comment": "cas des plateformes Istex, etc."
+    },{
+    "code": "OPENURL",
+    "description": "Lien vers une url résolver de lien",
+    "comment": "cas de la plateforme Ebscohost"
   },{
     "code": "SEARCH",
     "description": "Recherche de ressources documentaires",
