@@ -40,21 +40,17 @@ module.exports = new Parser(function analyseEC(parsedUrl, ec) {
     if (match[8] == 'php') {
       result.rtype = 'REF';
     }
-  } else if ((match = /^(\/en)?\/[a-z]+\/([a-z]+)\s([a-z]+)\/([0-9\/]+)?([a-z\/]+)?/i.exec(path)) !== null) {
+  } else if ((match = /^(\/en)?\/[a-z]+\/([a-z\s]*)\/([0-9\/]+)?([a-z\/]+)?/i.exec(path)) !== null) {
     //en/Publications/Bulletin/144/html/
     //Publications/Annale Sens/
     result.rtype    = 'TOC';
     result.mime     = 'HTML';
-    result.title_id = match[2].split('/')[0];
+    result.title_id = match[2];
   } else if ((match = /^\/RechercheSite\/$/i.exec(path)) !== null) {
     //http://smf4.emath.fr/RechercheSite/
     result.rtype    = 'SEARCH';
     result.mime     = 'HTML';
   }
-
-
-
-
   return result;
 });
 
