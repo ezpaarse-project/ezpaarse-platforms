@@ -24,31 +24,43 @@ module.exports = new Parser(function analyseEC(parsedUrl, ec) {
 
   var match;
 
-  if ((match = /^\/([a-z]+)\/([a-z0-9]+)$/.exec(path)) !== null) {
+  if ((match = /^\/([a-z]+)\/([a-z0-9]+)$/i.exec(path)) !== null) {
     // http://www.nber.org/papers/w20518
-    result.rtype    = 'ABS';
-    result.mime     = 'HTML';
-    result.unitid   = match[2];
-  } else if ((match = /^\/(([a-z]+).html)$/.exec(path)) !== null) {
-    // http://www.nber.org/papers.html
-    result.rtype    = 'TOC';
-    result.mime     = 'HTML';
-    result.unitid   = match[1];
-  }  else if ((match = /^\/([a-z]+)\/([a-z0-9]+).pdf$/.exec(path)) !== null) {
-    // http://www.nber.org/papers/w20518.pdf
-    result.rtype    = 'ARTICLE';
-    result.mime     = 'PDF';
-    result.unitid   = match[2];
-  } else if ((match = /^\/([a-z]+).html$/.exec(path)) !== null) {
-    // http://www.nber.org/papers/w20518.pdf
-    result.rtype    = 'TOC';
-    result.mime     = 'HTML';
-    result.unitid   = match[1];
-  } else if ((match = /^\/([a-z]+)\/([a-z]+)\/([a-z0-9]+)$/.exec(path)) !== null) {
-    // http://www.nber.org/papers/mail/w21683
-    result.rtype    = 'WORKING_PAPER';
-    result.mime     = 'HTML';
-    result.unitid   = match[3];
+    result.rtype  = 'REF';
+    result.mime   = 'HTML';
+    result.unitid = match[2];
+    if (match[1] == 'papers') {
+      result.rtype = 'ABS';
+    }
+  } else if ((match = /^\/(([a-z]+).html)$/i.exec(path)) !== null) {
+    // /papers.html
+    result.rtype = 'TOC';
+    result.mime  = 'HTML';
+
+  } else if ((match = /^\/([a-z]+)\/([a-z0-9]+).pdf$/i.exec(path)) !== null) {
+    // papers/w20518.pdf
+    result.rtype  = 'BOOK';
+    result.mime   = 'PDF';
+    result.unitid = match[2];
+    if (match[1] == 'papers') {
+      result.doi   = '10.3386/' + match[2];
+      result.rtype = 'WORKING_PAPER';
+    }
+  } else if ((match = /^\/[a-z]+\/[a-z]+\/([a-z0-9]+)$/i.exec(path)) !== null) {
+    // /papers/mail/w21683
+    result.rtype  = 'WORKING_PAPER';
+    result.mime   = 'HTML';
+    result.unitid = match[1];
+  } else if (/^\/([a-z]+)\/$/i.test(path)) {
+    // /booksbyyear/
+    result.rtype = 'TOC';
+    result.mime  = 'MISC';
+  } else if ((match = /^\/([a-z]+)\/([a-z0-9\-]*)(.html)?$/i.exec(path)) !== null) {
+    // /booksbyyear/1920s.html
+    //books/mitc21-1
+    result.rtype  = 'TOC';
+    result.mime   = 'HTML';
+    result.unitid = match[2];
   }
 
   return result;

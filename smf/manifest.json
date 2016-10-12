@@ -1,0 +1,22 @@
+{
+  "version": "2016-10-06",
+  "status": "beta",
+  "domains": [
+    "smf4.emath.fr"
+  ],
+  "recognize": {
+    "rid": [
+      "title_id",
+      "unitid",
+      "vol",
+      "first_page",
+      "last_page"
+    ]
+  },
+  "name": "smf",
+  "longname": "Société Mathématique de France",
+  "describe": "Recognizes the accesses to the platform Société Mathématique de France",
+  "docurl": "http://ang.couperin.org/platforms/576016c63b090e932e8db856",
+  "contact": "abderrazzak.loukili",
+  "pkb": false
+}
