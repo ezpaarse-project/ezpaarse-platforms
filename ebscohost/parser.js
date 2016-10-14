@@ -31,8 +31,12 @@ module.exports = new Parser(function analyseEC(parsedUrl, ec) {
 
   let match;
 
-  if ((match = /^\/ehost\/([a-z]+)(?:\/[a-z]+)?$/i.exec(path)) !== null) {
-    const category = match[1].toLowerCase();
+  if ((match = /^\/(ehost|eds)\/([a-z]+)(?:\/[a-z]+)?$/i.exec(path)) !== null) {
+    const category = match[2].toLowerCase();
+
+    if (match[1].toLowerCase() === 'eds') {
+      result.platform_name = 'EBSCO Discovery Service';
+    }
 
     switch (category) {
     case 'results':
