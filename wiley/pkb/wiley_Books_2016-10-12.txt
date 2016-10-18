@@ -1,0 +1,16 @@
+publication_title	print_identifier	online_identifier	date_first_issue_online	num_first_vol_online	num_first_issue_online	date_last_issue_online	num_last_vol_online	num_last_issue_online	title_url	first_author	title_id	embargo_info	coverage_depth	coverage_notes	publisher_name	publication_type	date_monograph_published_print	date_monograph_published_online	monograph_volume	monograph_edition	first_editor	parent_publication_title_id	preceding_publication_title_id	access_type
+Horticultural Reviews, Vol. 15	9780471573388	9780470650530							http://onlinelibrary.wiley.com/book/10.1002/9780470650547		9780470650547													
+International Trade and Agriculture	9781405108003	9780470759165							http://onlinelibrary.wiley.com/book/10.1002/9780470759189		9780470759189													
+Wheat: Science and Trade	9780813820248	9780813819235							http://onlinelibrary.wiley.com/book/10.1002/9780813818832		9780813818832													
+Biofuels from Agricultural Wastes and Byproducts	9780813802527	9780813823683							http://onlinelibrary.wiley.com/book/10.1002/9780813822716		9780813822716													
+Horticultural Reviews, V. 10	9781118064368	9781118060957							http://onlinelibrary.wiley.com/book/10.1002/9781118060834		9781118060834													
+Horticultural Reviews, V. 12	9781118064382	9781118060971							http://onlinelibrary.wiley.com/book/10.1002/9781118060858		9781118060858													
+Agricultural Medicine: Occupational and Environmental Health for the Health Professions, Second Edition	9781118647202	9781118647219							http://onlinelibrary.wiley.com/book/10.1002/9781118647356		9781118647356													
+Fruit and Vegetables - Harvesting, Handling and Storage - 2 Vol Set	9781118654040	9781118654002							http://onlinelibrary.wiley.com/book/10.1002/9781118653975		9781118653975													
+An Introduction to Plant Breeding	9781405133449	9781118685235							http://onlinelibrary.wiley.com/book/10.1002/9781118685228		9781118685228													
+Crop Variety Trials: Data Management and Analysis	9781118688649	9781118688557							http://onlinelibrary.wiley.com/book/10.1002/9781118688571		9781118688571													
+Atlas of Weed Mapping	9781118720738	9781118720714							http://onlinelibrary.wiley.com/book/10.1002/9781118720691		9781118720691													
+Grapevine in a Changing Environment - A Molecularand Ecophysiological Perspective	9781118736050	9781118736012							http://onlinelibrary.wiley.com/book/10.1002/9781118735985		9781118735985													
+Sugarcane: Physiology, Biochemistry, and Funcational Biology	9780813821214	9781118771198							http://onlinelibrary.wiley.com/book/10.1002/9781118771280		9781118771280													
+Physiological Responses of Plants to Attack	9781444333299	9781118783078							http://onlinelibrary.wiley.com/book/10.1002/9781118783054		9781118783054													
+Herbicides and Plant Physiology 2e	9781405129350	9781444327809							http://onlinelibrary.wiley.com/book/10.1002/9781444327793		9781444327793													
