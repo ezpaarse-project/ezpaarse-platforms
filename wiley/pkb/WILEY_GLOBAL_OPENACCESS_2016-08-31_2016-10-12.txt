@@ -1,0 +1,14 @@
+publication_title	print_identifier	online_identifier	date_first_issue_online	num_first_vol_online	num_first_issue_online	date_last_issue_online	num_last_vol_online	num_last_issue_online	title_url	first_author	title_id	embargo_info	coverage_depth	notes	publisher_name	publication_type	date_monograph_published_print	date_monograph_published_online	monograph_volume	monograph_edition	first_editor	parent_publication_title_id	preceding_publication_title_id	access_type
+Hereditas		1601-5223	1920	1	1	2015	151	6	http://onlinelibrary.wiley.com/journal/10.1111/(ISSN)1601-5223		(ISSN)1601-5223		fulltext	transfer out (2016): Biomed Central. content remaining on WOL. Open Access		serial								P
+Journal of Advances in Modeling Earth Systems		1942-2466	2014	8	1				http://agupubs.onlinelibrary.wiley.com/agu/journal/10.1002/(ISSN)1942-2466/		(ISSN)1942-2466/		fulltext			serial								P
+Food Science and Nutrition		2048-7177	2013	1					http://onlinelibrary.wiley.com/journal/10.1002/(ISSN)2048-7177		(ISSN)2048-7177		fulltext			serial								P
+Regeneration		2052-4412	2014	1	1				http://onlinelibrary.wiley.com/journal/10.1002/(ISSN)2052-4412		(ISSN)2052-4412		fulltext			serial								P
+Veterinary Medicine and Science		2053-1095	2015	1	1				http://onlinelibrary.wiley.com/journal/10.1002/(ISSN)2053-1095		(ISSN)2053-1095		fulltext			serial								P
+Obesity Science & Practice		2055-2238	2015	1	1				http://onlinelibrary.wiley.com/journal/10.1002/(ISSN)2055-2238		(ISSN)2055-2238		fulltext	Open Access		serial								P
+ESC Heart Failure	2055-5822		2014	1	1				http://onlinelibrary.wiley.com/journal/10.1002/(ISSN)2055-5822		(ISSN)2055-5822		fulltext			serial								P
+Remote Sensing in Ecology and Conservation		2056-3485	2015	1	1				http://onlinelibrary.wiley.com/journal/10.1002/(ISSN)2056-3485		(ISSN)2056-3485		fulltext	Open Access		serial								P
+Global Challenges		2056-6646							http://onlinelibrary.wiley.com/journal/10.1002/(ISSN)2056-6646		(ISSN)2056-6646		fulltext	Open Access. content not yet available		serial								P
+Continuing Cardiology Education		2059-1594	2015	1	1				http://onlinelibrary.wiley.com/journal/10.1002/(ISSN)2059-1594		(ISSN)2059-1594		fulltext	Open Access. New 2016		serial								P
+Journal of Cachexia, Sarcopenia and Muscle	2190-5991	2190-6009	2010	1	1				http://onlinelibrary.wiley.com/journal/10.1111/(ISSN)2190-6009		(ISSN)2190-6009		fulltext	Open Access		serial								P
+Earth's Future		2328-4277	2014	1					http://agupubs.onlinelibrary.wiley.com/agu/journal/10.1002/(ISSN)2328-4277/		(ISSN)2328-4277/		fulltext			serial								P
+Annals of Clinical and Translational Neurology		2328-9503	2014	1	1				http://onlinelibrary.wiley.com/journal/10.1002/(ISSN)2328-9503		(ISSN)2328-9503		fulltext			serial								P
