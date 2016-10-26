@@ -6,7 +6,7 @@
 const URL    = require('url');
 const pkbKbp = require('../../.lib/parsXmlKb+.js');
 
-pkbKbp.generatePkbKbp(957, 'tf', rowModifier);
+pkbKbp.generatePkbKbp(957, 'tf', 'AllTitles', rowModifier);
 
 function rowModifier(row) {
   if (!row.title_url) { return row; }
