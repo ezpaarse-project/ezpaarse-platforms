@@ -1,0 +1,7 @@
+publication_title	print_identifier	online_identifier	date_first_issue_online	num_first_vol_online	num_first_issue_online	date_last_issue_online	num_last_vol_online	num_last_issue_online	title_url	first_author	title_id	embargo_info	coverage_depth	notes	publisher_name	publication_type	date_monograph_published_print	date_monograph_published_online	monograph_volume	monograph_edition	first_editor	parent_publication_title_id	preceding_publication_title_id	access_type
+Annales scientifiques de l'ENS	0012-9593	1873-2151	01/01/1997						http://smf4.emath.fr/Publications/AnnalesENS/		AnnalesENS		fulltext		Société Mathématique de France
+Astérisque	0303-1179	2492-5926	01/01/1995						http://smf4.emath.fr/Publications/Asterisque/		Asterisque		fulltext		Société Mathématique de France
+Bulletin de la Société mathématique de France	0037-9484	2102-622X	01/01/2000						http://smf4.emath.fr/Publications/Bulletin/		Bulletin		fulltext		Société Mathématique de France
+Mémoires de la Société mathématique de France	0249-633X	2275-3230	01/01/2014						http://smf4.emath.fr/Publications/Memoires/		Memoires		fulltext		Société Mathématique de France
+Revue d'histoire des mathématiques	1262-022X	1777-568X	01/01/1995						http://smf4.emath.fr/Publications/RevueHistoireMath/		RevueHistoireMath		fulltext		Société Mathématique de France
+Gazette des mathématiciens	0224-8999	2275-0622	01/01/2010						http://smf4.emath.fr/Publications/Gazette/		Gazette		fulltext		Société Mathématique de France
