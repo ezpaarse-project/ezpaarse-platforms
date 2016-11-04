@@ -5,3 +5,4 @@ Bulletin de la Société mathématique de France	0037-9484	2102-622X	01/01/2000	
 Mémoires de la Société mathématique de France	0249-633X	2275-3230	01/01/2014						http://smf4.emath.fr/Publications/Memoires/		Memoires		fulltext		Société Mathématique de France
 Revue d'histoire des mathématiques	1262-022X	1777-568X	01/01/1995						http://smf4.emath.fr/Publications/RevueHistoireMath/		RevueHistoireMath		fulltext		Société Mathématique de France
 Gazette des mathématiciens	0224-8999	2275-0622	01/01/2010						http://smf4.emath.fr/Publications/Gazette/		Gazette		fulltext		Société Mathématique de France
+Séminaires et congrès	1285-2783	2275-3354	01/01/1996						http://smf4.emath.fr/Publications/SeminairesCongres/		SeminairesCongres		fulltext		Société Mathématique de France
