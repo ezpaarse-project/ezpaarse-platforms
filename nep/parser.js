@@ -45,7 +45,6 @@ module.exports = new Parser(function analyseEC(parsedUrl, ec) {
     }
   } else if (/^\/WebPages\/Pdf\/([a-zA-Z]+).aspx$/.test(path)) {
     //WebPages/Pdf/SearchResult.aspx?DocName=pdf%C2%B720160615%C2%B7VN_P%C2%B76228
-    
     if (param && param.DocName) {
       result.rtype    = 'ARTICLE';
       result.mime     = 'PDF';
