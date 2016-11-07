@@ -33,11 +33,18 @@ exports.generatePkb = function (platformName, callback) {
         if (!list[i]) {
           return callback(null, nbFileCreated);
         }
+
         var package_id = '';
         if (list[i].element.provider != data.baconprovider) {
           return checklist();
         }
 
+        if (data.bacon_match_packageid) {
+          let reg = new RegExp(data.bacon_match_packageid);
+          if (!reg.test(list[i].element.package_id)) {
+            return checklist();
+          }
+        }
         package_id = list[i].element.package_id;
         var pkb = new PkbRows(platformName);
         var pkbUrl = 'http://bacon.abes.fr/package2kbart/' + package_id + '.json';
@@ -63,7 +70,7 @@ exports.generatePkb = function (platformName, callback) {
           pkb.writeKbart();
           nbFileCreated++;
           console.log('File %s created', pkb.kbartFileName);
-          return checklist();
+          return callback();
         });
 
       })();
