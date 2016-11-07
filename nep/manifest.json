@@ -11,7 +11,7 @@
     ]
   },
   "baconprovider": "EUROPRESSE",
-  "type": "GLOBAL",
+  "bacon_match_packageid": "GLOBAL",
   "name": "nep",
   "longname": "Europresse nouvelle plateforme",
   "describe": "Recognizes the accesses to the platform Europresse nouvelle plateforme",

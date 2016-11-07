@@ -39,8 +39,8 @@ exports.generatePkb = function (platformName, callback) {
           return checklist();
         }
 
-        if (data.type) {
-          let reg = new RegExp(data.type);
+        if (data.bacon_match_packageid) {
+          let reg = new RegExp(data.bacon_match_packageid);
           if (!reg.test(list[i].element.package_id)) {
             return checklist();
           }
