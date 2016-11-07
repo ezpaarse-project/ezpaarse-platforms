@@ -33,14 +33,14 @@ exports.generatePkb = function (platformName, callback) {
         if (!list[i]) {
           return callback(null, nbFileCreated);
         }
+
         var package_id = '';
         if (list[i].element.provider != data.baconprovider) {
-
           return checklist();
         }
+
         if (data.type) {
-          let reg = / /;
-          reg.compile(data.type);
+          let reg = new RegExp(data.type);
           if (!reg.test(list[i].element.package_id)) {
             return checklist();
           }

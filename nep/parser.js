@@ -26,11 +26,11 @@ module.exports = new Parser(function analyseEC(parsedUrl, ec) {
     // /Document/ViewMobile?docKey=news·20160417·PJW·00842897&fromBasket=false
     result.rtype = 'ARTICLE';
     result.mime  = 'HTML';
-    if (param.docKey) {
+    if (param && param.docKey) {
       docKeySplit     = param.docKey.split('·');
       result.unitid   = param.docKey;
       result.title_id = docKeySplit[2];
-      if (docKeySplit[0] == 'web' || docKeySplit[0] == 'report') {
+      if (docKeySplit[0] === 'web' || docKeySplit[0] === 'report') {
         result.rtype = 'REF';
       }
     }
@@ -39,7 +39,7 @@ module.exports = new Parser(function analyseEC(parsedUrl, ec) {
     // /PDF/Document?docName=pdf.20160419·LM_P·10
     result.rtype = 'ARTICLE';
     result.mime  = 'PDF';
-    if (param.docName) {
+    if (param && param.docName) {
       result.unitid   = param.docName;
       result.title_id = param.docName.split('·')[1];
     }
