@@ -1,0 +1,21 @@
+{
+  "version": "2016-11-08",
+  "status": "beta",
+  "domains": [
+    "www.tandfebooks.com"
+  ],
+  "recognize": {
+    "rid": [
+      "title_id",
+      "unitid",
+      "doi",
+      "online_identifier"
+    ]
+  },
+  "name": "tfe",
+  "longname": "Taylor & Francis eBooks",
+  "describe": "Recognizes the accesses to the platform Taylor & Francis eBooks",
+  "docurl": "http://ang.couperin.org/platforms/581ca683fda765dc6c90ab43",
+  "contact": "abderrazzak.loukili@inist.fr",
+  "pkb": false
+}
