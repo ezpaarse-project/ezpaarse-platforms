@@ -29,18 +29,18 @@ module.exports = new Parser(function analyseEC(parsedUrl, ec) {
     result.rtype = 'BOOK';
     result.mime  = 'PDFPLUS';
     if (param) {
-      result.title_id = param.id || '';
-      result.unitid   = param.cat || '';
+      result.title_id = param.id;
+      result.unitid   = param.cat;
     }
-  } else if ((match = /^\/articles\/([a-z]+).php$/.exec(path)) !== null) {
+  } else if ((match = /^\/articles\/bibtex.php$/.exec(path)) !== null) {
     // http://www.numir.org/articles/bibtex.php?id=AMAS_1999_136
     result.rtype = 'REF';
     result.mime  = 'BIBTEX';
     if (param && param.id) {
-      result.title_id         = param.id.split('_')[0] || '';
-      result.publication_date = param.id.split('_')[1] || '';
-      result.vol              = param.id.split('_')[2] || '';
-      result.unitid           = param.id || '';
+      result.title_id         = param.id.split('_')[0];
+      result.publication_date = param.id.split('_')[1];
+      result.vol              = param.id.split('_')[2];
+      result.unitid           = param.id;
     }
 
   } else if ((match = /^\/ouvrage\/([A-Z]+)\/([\w\_]+)\/(([A-Z]+)\_([0-9]{4})\_([0-9]+)).pdf$/.exec(path)) !== null) {
