@@ -63,6 +63,32 @@ module.exports = new Parser(function analyseEC(parsedUrl) {
     result.print_identifier = match[3];
     result.rtype    = 'BOOK_SECTION';
     result.mime     = 'PDF';
+  } else if ((match = /^\/(article|issue|journal|book|chapter)\/([0-9]+)(\/(pdf))?$/.exec(parsedUrl.pathname)) !== null) {
+    //http://muse.jhu.edu.gate3.inist.fr/article/627750
+    result.unitid = match[2];
+    switch (match[1]) {
+    case 'article' :
+      result.rtype = 'ARTICLE';
+      result.mime  = 'HTML';
+      break;
+    case 'issue' :
+      result.rtype = 'TOC';
+      result.mime  = 'MISC';
+      break;
+    case 'book' :
+    case 'journal' :
+      result.title_id = match[2];
+      result.rtype = 'TOC';
+      result.mime  = 'MISC';
+      break;
+    case 'chapter' :
+      result.rtype = 'BOOK_SECTION';
+      result.mime  = 'PDF';
+      break;
+    }
+    if (match[3]) {
+      result.mime = 'PDF';
+    }
   }
 
   return result;
