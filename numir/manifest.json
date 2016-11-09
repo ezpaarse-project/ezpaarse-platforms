@@ -1,0 +1,21 @@
+{
+  "version": "2016-11-09",
+  "status": "beta",
+  "domains": [
+    "www.numir.org"
+  ],
+  "recognize": {
+    "rid": [
+      "title_id",
+      "unitid",
+      "vol",
+      "publication_date"
+    ]
+  },
+  "name": "numir",
+  "longname": "Monographies Numérisées des bibliothèques Mathématiques Informatique Recherche des Universités Paris Diderot et Pierre et Marie Curie",
+  "describe": "Recognizes the accesses to the platform Monographies Numérisées des bibliothèques Mathématiques Informatique Recherche des Universités Paris Diderot et Pierre et Marie Curie",
+  "docurl": "http://ang.couperin.org/platforms/56bcb1a83b18b58a496ae54f",
+  "contact": "abderrazzak.loukili@inist.fr",
+  "pkb": false
+}

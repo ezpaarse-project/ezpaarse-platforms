@@ -10,8 +10,8 @@ out-print_identifier;out-title_id;out-unitid;out-rtype;out-mime;in-url
 ;notes;notes/summary/v064/64.4.beal;ABS;MISC;http://muse.jhu.edu:80/journals/notes/summary/v064/64.4.beal.html
 ;studies_in_eighteenth_century_culture;studies_in_eighteenth_century_culture/summary/v033/33.weber;ABS;MISC;http://muse.jhu.edu:80/journals/studies_in_eighteenth_century_culture/summary/v033/33.weber.html
 ;;627750;ARTICLE;HTML;http://muse.jhu.edu.gate3.inist.fr/article/627750
-;;680;TOC;MISC;http://muse.jhu.edu.gate3.inist.fr/journal/680
+;680;680;TOC;MISC;http://muse.jhu.edu.gate3.inist.fr/journal/680
 ;;33966;TOC;MISC;http://muse.jhu.edu.gate3.inist.fr/issue/33966
 ;;627752;ARTICLE;PDF;http://muse.jhu.edu.gate3.inist.fr/article/627752/pdf
-;;46092;TOC;MISC;http://muse.jhu.edu.gate3.inist.fr/book/46092
+;46092;46092;TOC;MISC;http://muse.jhu.edu.gate3.inist.fr/book/46092
 ;;1797675;BOOK_SECTION;PDF;http://muse.jhu.edu.gate3.inist.fr/chapter/1797675
