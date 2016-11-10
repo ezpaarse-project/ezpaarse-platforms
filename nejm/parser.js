@@ -68,6 +68,8 @@ module.exports = new Parser(function analyseEC(parsedUrl, ec) {
       result.title_id = param.doi.split('/')[1];
       result.unitid   = param.doi.split('/')[1];
       result.doi      = param.doi;
+      result.mime     = 'MISC';
+      result.rtype    = 'REF';
     }
 
   } else if ((match = /^\/doi\/([a-z]+)\/(([0-9]+).([0-9]+))\/(([a-z]+)_([0-9]+).([0-9]+).([a-z]+)-([0-9]+))$/.exec(path)) !== null) {
