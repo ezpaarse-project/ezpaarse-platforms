@@ -10,7 +10,7 @@ var moment        = require('moment');
 var fs            = require('graceful-fs');
 var path          = require('path');
 var request       = require('request');
-
+var pkbclean      = require('../../lib/pkb-cleaner.js');
 // Constructeur
 var PkbRows = function(providerName) {
   var self = this;
@@ -303,6 +303,10 @@ PkbRows.prototype.writeKbart = function (callback) {
     var row = self.rows[index];
     if (!row) {
       dstStream.end(callback);
+       var options = {
+        platform: self.providerName
+      };
+      pkbclean(options);
       return ;
     }
     var line = '';
