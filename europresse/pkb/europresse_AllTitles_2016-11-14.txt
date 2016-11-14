@@ -1,0 +1,3098 @@
+publication_title	print_identifier	online_identifier	date_first_issue_online	num_first_vol_online	num_first_issue_online	date_last_issue_online	num_last_vol_online	num_last_issue_online	title_url	first_author	title_id	embargo_info	coverage_depth	coverage_notes	publisher_name	publication_type	date_monograph_published_print	date_monograph_published_online	monograph_volume	monograph_edition	first_editor	parent_publication_title_id	preceding_publication_title_id	access_type
+Courrier Laval											AA													
+Annual Review Social Development in Pakistan											AANR													
+Azer News											AAZE													
+Azeri-Press News Agency (APA)											AAZI													
+Courrier Laval édition bilingue											AB													
+Balochistan Times, The											ABAL													
+BASA-Press											ABAS													
+40-Mile County Commentator, The (blogs)											ABB													
+Edson Leader, The (AB)											ABE													
+Hinton Parklander, The (AB)											ABH													
+40-Mile County Commentator, The (web site)											ABI													
+Biomedica Research Journal											ABIO													
+Business Review											ABUS													
+Cambodian Business Review											ACAM													
+CANA News											ACAN													
+Central Asia											ACEN													
+Amherst News (NS)											AD													
+Daily Balochistan Express											ADAB													
+Daily Messenger (Karachi, Pakistan)											ADAM													
+Dawn (Karachi, Pakistan)											ADAW													
+Defence Journal											ADEF													
+Democratic Voice of Burma											ADEM													
+Dialogue, The											ADIA													
+Diplomatic Insight, The											ADIP													
+Advisor (web site ref.)											ADV													
+Credit Union Magazine (web site ref.) 											ADW													
+Nouvelle, La (Embrun)											AE													
+Eastern Worker											AEAS													
+Energy Update											AENE													
+Engineering Review											AENG													
+Enterprise (Pakistan)											AENT													
+Express Tribune, The (Pakistan)											AEXP													
+AFP Infos Françaises	1187-0176										AF													
+AFP Doc											AFD													
+Flare											AFLA													
+Frontier Post, The (Pakistan)											AFRP													
+Frontier Star, The (Peshawar, Pakistan)											AFRS													
+Aurore boréale, L' (Whitehorse, YK) (site web)											AFX													
+Courrier de la Nouvelle-Écosse, Le (site web)											AFY													
+Citizen-Record, The (NS)	1194-1022										AG													
+Avantage gaspésien, L'											AGA													
+Geological Bulletin of the Punjab University											AGEO													
+Avantage Votre journal, L'											AGJ													
+Global Media Journal											AGLO													
+Gomal Journal of Medical Sciences											AGOJ													
+Gomal University Journal of Research											AGOM													
+Régional, Le (Gaspésie)											AGR													
+Courrier Laval du mercredi											AH													
+Hiba											AHIB													
+Hilal											AHIL													
+Hungarian Official News Digest											AHUN													
+AFP Infos Mondiales											AI													
+IJAR Accounting, Finance and Management Sciences											AIJA													
+IJAR Economics and Management Sciences											AIJE													
+IJAR Progressive Education and Development											AIJP													
+International Journal of Human Resource Studies											AINH													
+Insights											AINI													
+Insurance Journal											AINJ													
+International Journal of Agriculture and Biology											AINK													
+International Journal of Learning and Development											AINL													
+Intl J. of Academic Research in Business											AINR													
+Intl Research Journal of Arts and Humanities											AINS													
+Iqbal Review											AIQB													
+Islamic Studies											AISL													
+Connexions affaires Lanaudière											AJ													
+Journal of Agriculture and Social Sciences											AJAG													
+Journal of Animal and Plant Sciences, The											AJAN													
+Journal of Asian Civilizations											AJAS													
+Journal of Basic and Applied Sciences											AJBA													
+Journal of Behavioral Sciences											AJBE													
+Journal of Business Strategies											AJBU													
+Journal of Educational Research											AJED													
+Journal of European Studies											AJEU													
+Journal of Gender and Social Issues											AJGE													
+Journal of Himalayan Earth Sciences											AJHI													
+Journal of Humanities and Social Sciences											AJHU													
+Journal of Pakistan Association of Dermatologists											AJPA													
+Journal of Pakistan Medical Association											AJPM													
+Journal of Pakistan Vision											AJPN													
+Journal of Political Studies											AJPS													
+Journal of Postgraduate Medical Institute											AJPT													
+Journal of Research in Architecture and Planning											AJRA													
+Journal of Science and Technology											AJSC													
+Journal of Statistics											AJST													
+Journal of the Chemical Society of Pakistan											AJTC													
+Journal of the Pakistan Materials Society											AJTP													
+Journal of the Research Society of Pakistan											AJTR													
+Journal Le Courrier (Ste-Thérèse)											AK													
+KASBIT Business Research Journal											AKAB													
+Kashmir Journal of Language Research											AKAS													
+Khyber Medical University Journal											AKUS													
+Flambeau (Hochelaga)											AL													
+LETA											ALET													
+Lethbridge Herald, The (web site)											ALH													
+Lithuanian News Agency ELTA											ALIT													
+Matin DZ, Le (site web)											ALM													
+CTV - Canada AM											AM													
+Medical Channel											AMED													
+Medicine Hat News (web site)											AMH													
+Miadhu (Maldives)											AMIA													
+Mindanao Times											AMIN													
+Mizzima News											AMIZ													
+Muscat Daily											AMUS													
+Acadie Nouvelle	0829-1667										AN													
+Nation, The (Nigeria)											ANAG													
+Nation, The (Pakistan)											ANAI													
+Namibia Press Agency, The (NAMPA)											ANAM													
+National Herald Tribune (Pakistan)											ANAT													
+News Today, The (Dhaka, Bangladesh)											ANET													
+New Horizons											ANEW													
+Nukta Art											ANUK													
+Courrier Laval (Ste-Dorothée/Chomedey)											AP													
+Pakistan Food Journal											APAB													
+Pakistan Journal of Agriculture Sciences											APAC													
+Pakistan and Gulf Economist											APAE													
+Pakistan Armed Forces Medical Journal											APAF													
+Pakistan Business News											APBU													
+Pakistan Company News											APCO													
+Pakistan Economic and Social Review											APEC													
+People's Review											APEO													
+Pakistan Industrial Advisory Report											APIA													
+Pique (Pakistan)											APIQ													
+Pakistan J. of Analytical And Environmental Chm.											APJA													
+Pakistan J. of Library and Information Science											APJB													
+Pakistan Journal of Agricultural Research											APJC													
+Pakistan Journal of Clinical Psychology											APJD													
+Pakistan Journal of Criminology											APJE													
+Pakistan Journal of Forestry											APJF													
+Pakistan Journal of Geography											APJG													
+Pakistan Journal of Women’s Studies											APJH													
+Pakistan Journal of International Relations											APJI													
+Pakistan Journal of Life and Social Sciences											APJL													
+Pakistan Journal of Medical Research											APJM													
+Pakistan Journal of Medical Sciences											APJN													
+Pakistan Journal of Nematology											APJO													
+Pakistan Journal of Pathology											APJP													
+Pakistan Journal of Plant Sciences											APJQ													
+Pakistan Journal of Psychological Research											APJR													
+Pakistan Journal of Psychology											APJS													
+Pakistan Journal of Science											APJT													
+Pakistan Journal of Social and Clinical Psychology											APJU													
+Pakistan Journal of Social Sciences											APJV													
+Pakistan Journal of Weed Science Research											APJW													
+Pakistan Journal of Zoology											APJZ													
+Pakistan News Releases											APNE													
+Pakistan Observer											APOB													
+Pakistan Official News											APOF													
+Policy Perspectives											APOL													
+Pakistan Oral and Dental Journal											APOR													
+Prairie Post (web site)											APP													
+Pakistan Perspectives											APPE													
+Phnom Penh Post, The											APPP													
+Pakistan Sugar Journal											APSU													
+Pakistan Textile Journal											APTE													
+Pakistan Today											APTO													
+Patriot, The (Islamabad, Pakistan)											APTR													
+Pulse International											APUL													
+Courrier Ste-Rose - Fabreville											AQ													
+Regional Times, The (Karachi, Pakistan)											AREG													
+Sarhad Journal of Agriculture											ASAR													
+Coaldale Sunny South News, The (blogs)											ASB													
+SBP Research Bulletin											ASBP													
+Science International											ASCI													
+Scrutiny											ASCR													
+Shaunavon Standard, The											ASH													
+Shan Herald Agency for News, The											ASHA													
+Slogan											ASLO													
+Coaldale Sunny South News, The (web site)											ASN													
+South Asia											ASOA													
+Soil and Environment											ASOI													
+South Asian Studies											ASOS													
+South African Official News											ASOU													
+Strategic Studies											ASTR													
+Lethbridge Sun Times, The (web site)											ASU													
+Trait d'Union Express, Le (Lachenaie)											AT													
+Technology Times											ATEC													
+Atlantico (site web)											ATL													
+Today's Zaman (Istanbul, Turkey)											ATOD													
+Taber Times, The (web site)											ATT													
+autoactu (site web)											AUT													
+Vauxhall Advance, The (web site)											AVA													
+Value Chain											AVAL													
+Moniteur Acadien, Le (Shédiac, NB) (site web)											AVI													
+Franco, Le (Edmonton, AB) (site web)											AVK													
+Gaboteur, Le (St John's, NL) (site web)											AVT													
+AFP World News											AW													
+Courrier Laval (SVP/LdR/Duvernay/Pont-Viau)											AX													
+Courrier Laval (Ste-Rose/Fabreville/Laval-Ouest)											AY													
+Trait d'Union, Le (Lachenaie)											AZ													
+Assurances des Particuliers											BA													
+Business of Green (blog)											BBR													
+CBC (blogs)											BCB													
+Banques des Entreprises	1168-0377										BD													
+Banques des Particuliers	1163-7773										BF													
+Burlington Free Press (web site ref.)											BFW													
+Boston Herald											BH													
+40-Mile County Commentator, The											BI													
+Banques des Professionnels	1148-1978										BJ													
+Banques Ressources Humaines											BK													
+Process Alimentaire (blogues)											BKB													
+Linéaires (site web)											BKX													
+Process Alimentaire (site web)											BKY													
+Rayon Boissons (site web)											BKZ													
+Bloomberg (web site ref.)											BLO													
+Banques Hebdo											BM													
+Electronic Banking News											BN													
+Financement des Particuliers											BO													
+Bien Public, Le											BP													
+Politico (web site ref.)											BPP													
+Lettre de la Fidélisation, La											BQ													
+Lettre du Conseil, La											BR													
+Observatoire des Produits Bancaires, L'	1285-5138										BS													
+ICI Radio-Canada - Blogues et carnets											BSR													
+Observatoire des Produits d'Assurance, L'											BT													
+Payment Systems News											BV													
+Business Wire											BW													
+Point Banque											BX													
+Sécurité Informatique											BY													
+Systèmes de Paiement - Le Courrier de la Monétique											BZ													
+4Ps Business and Marketing											CAAA													
+bizjournals - Atlanta (web site ref.)											CAB													
+ABC Live (India) (web site)											CABC													
+Canada Français, Le (site web)											CAC													
+Accommodation Times											CACC													
+ACE Update Magazine											CACE													
+Adgully (web site)											CADG													
+Aeromag Asia											CAER													
+Afaqs! (web site)											CAFA													
+Afternoon Despatch and Courier											CAFT													
+Agence Science-Presse (réf. site web)											CAG													
+Agriculture Today (India)											CAGR													
+Cold Lake Sun, The (AB) (web site ref.)											CAH													
+Western Review (Drayton Valley) (web site ref.)											CAK													
+bizjournals - Albany (web site ref.)											CAL													
+Alive Magazine											CALI													
+Canada Français, Le	0832-3003										CAN													
+Animation Xpress (web site)											CANI													
+Apparel Online (web site)											CAPP													
+Edson Leader, The (AB) (web site ref.)											CAQ													
+Caractère.hebdo											CAR													
+Architecture Update											CARC													
+Asianet India (web site)											CASB													
+AsiaSpa India											CASD													
+Assam Times (web site)											CASS													
+ASSOCHAM Bulletin											CAST													
+ASSOCHAM Studies and Surveys											CASU													
+Asia Times (web site ref.)											CAT													
+bizjournals - Austin (web site ref.)											CAU													
+AudienceMatters (web site)											CAUD													
+Fairview Post, The (AB) (web site ref.)											CAV													
+Atelier, L' (réf. site web)											CAX													
+Record, The (web site ref.)											CAZ													
+CBC Toronto (web site)											CBA													
+B2B Purchase											CBAB													
+Bank Bazaar (web site)											CBAK													
+Banking Frontiers											CBAN													
+Bar and Bench (web site)											CBAR													
+CBC British Colombia (web site)											CBB													
+CBC Calgary (web site)											CBC													
+CBC Edmonton (web site)											CBE													
+Best Media Info (web site)											CBES													
+bizjournals - Buffalo (web site ref.)											CBF													
+BFM - Banking, Finance, Markets											CBFM													
+County Market (Leduc, AB) (web site ref.)											CBG													
+CBC Windsor (web site)											CBI													
+Bike India											CBIK													
+CBC Newfoundland and Labrador (web site)											CBJ													
+CBC Montreal (web site)											CBL													
+CBC Manitoba (web site)											CBM													
+CBC North (web site)											CBN													
+CBC Ottawa (web site)											CBO													
+BPO Times (web site)											CBPO													
+Bankrate (web site ref.)											CBR													
+Brand Reporter, The											CBRA													
+Broadcast and CableSat											CBRO													
+CBC Saskatchewan (web site)											CBS													
+CBC Thunder Bay (web site)											CBT													
+CBC Sudbury (web site)											CBU													
+Business and Economy											CBUA													
+Business Barons											CBUB													
+Business India											CBUE													
+Business of Beauty											CBUG													
+Business of Fashion											CBUH													
+Business Sphere											CBUI													
+Businessworld (India)											CBUK													
+Business Week (web site ref.)											CBW													
+Camrose Canadian, The (AB) (web site ref.)											CBX													
+Computing Canada											CC													
+ICI Radio-Canada - Alberta (site web)											CCA													
+Car India											CCAI													
+Carazoo (web site)											CCAO													
+Cargo Talk											CCAR													
+Canadian Business (web site ref.)											CCB													
+Hanna Herald, The (AB) (web site ref.)											CCD													
+Cercle Finance (site web)											CCF													
+High River Times, The (AB) (web site ref.)											CCG													
+ChannelTimes (web site)											CCHA													
+Chennai online (web site)											CCHE													
+bizjournals - Cincinnati (web site ref.)											CCI													
+CIOL (web site)											CCIO													
+Lacombe Globe, The (AB) (web site ref.)											CCL													
+Courrier des maires et des élus locaux, Le											CCM													
+Lloydminster Meridian Booster (AB) (web site ref.)											CCO													
+Commercial Vehicle											CCOA													
+Commodity Online (web site)											CCOB													
+Communications Today											CCOC													
+Complete Wellbeing											CCOE													
+Mayerthorpe Freelancer, The (AB) (web site ref.)											CCP													
+bizjournals - Sacramento (web site ref.)											CCR													
+Nanton News, The (AB) (web site ref.)											CCU													
+Peace Country Sun, The (AB) (web site ref.)											CCV													
+Record-Gazette, The (Peace River) (web site ref.)											CCX													
+CXO Today (web site)											CCXO													
+Pincher Creek Echo, The (AB) (web site ref.)											CCY													
+Marketwired (english)											CD													
+bizjournals - Dayton (web site ref.)											CDA													
+Daily Bhaskar (web site)											CDAB													
+Daily Excelsior											CDAE													
+Daily Outlook Afghanistan											CDAF													
+Dalal Street Investment Journal											CDAL													
+Day After, The											CDAY													
+bizjournals - Dallas (web site ref.)											CDB													
+bizjournals - Denver (web site ref.)											CDE													
+Strathmore Standard, The (AB) (web site ref.)											CDH													
+Dhaka Calling											CDHA													
+Dion (web site)											CDIO													
+Vermilion Standard (AB) (web site ref.)											CDJ													
+Vulcan Advocate, The (AB) (web site ref.)											CDK													
+Wetaskiwin Times, The (AB) (web site ref.)											CDM													
+New York Daily News (web site ref.)											CDN													
+Whitecourt Star, The (AB) (web site ref.)											CDO													
+Domain-b (web site)											CDOM													
+Down To Earth (India)											CDOW													
+Melfort Journal, The (SK) (web site ref.)											CDQ													
+Nipawin Journal, The (SK) (web site ref.)											CDR													
+bizjournals - East Bay (web site ref.)											CEB													
+Economic and Political Weekly (web site)											CECN													
+Economic Challenger											CECO													
+bizjournals - Greater Triad Area (web site ref.)											CEE													
+EFY Times (web site)											CEFY													
+Daily Graphic (Portage La Prairie) (web site ref.)											CEH													
+eHealth											CEHE													
+Newsweek (web site ref.)											CEK													
+Universal, El (web site ref.)											CEL													
+Electrical Monitor (India)											CELB													
+Electronics Bazaar											CELC													
+Electronics For You											CELD													
+Electronics Today											CELE													
+Energy Next											CENE													
+Windsor This Week (ON) (web site ref.)											CEP													
+ICI Radio-Canada - Est du Québec (site web)											CEQ													
+Equipment India											CEQU													
+Exchange 4 Media (web site)											CEXC													
+Explore Sri Lanka											CEXP													
+Marketwired (français)											CF													
+Facts For You											CFAC													
+Delhi News-Record, The (ON) (web site ref.)											CFD													
+Goderich Signal-Star (web site ref.)											CFG													
+Ingersoll Times, The (ON) (web site ref.)											CFH													
+Northern Times, The (Kapuskasing) (web site ref.)											CFI													
+FICCI Banking and Finance Digest											CFIA													
+FICCI Business Digest											CFIB													
+FICCI Studies and Surveys											CFID													
+Financial Express, The (India)											CFIX													
+Daily Miner and News (Kenora, ON) (web site ref.)											CFJ													
+Lakeshore Advance (ON) (web site ref.)											CFN													
+Food 360°											CFOA													
+Food and Beverage News (web site)											CFOB													
+Food and Nightlife Magazine (web site)											CFOD													
+Lucknow Sentinel, The (ON) (web site ref.)											CFR													
+Franchise Plus											CFRA													
+Franchising World, The (web site)											CFRB													
+Mitchell Advocate, The (ON) (web site ref.)											CFS													
+Norwich Gazette, The (ON) (web site ref.)											CFT													
+Paris Star, The (ON) (web site ref.)											CFV													
+Huron Expositor, The (Seaforth) (web site ref.)											CFW													
+Shoreline Beacon (Port Elgin, ON) (web site ref.)											CFX													
+Geospatial Today											CGEO													
+Canadian Underwriter (web site ref.)											CGF													
+Gfiles											CGFI													
+bizjournals - Pittsburgh (web site ref.)											CGH													
+Globe and Mail (web site ref.)											CGM													
+Londoner (London, ON) (web site ref.)											CGN													
+U.S. Food and Drug Admin. Doc. (web site ref.)											CGV													
+Slate (web site ref.)											CGY													
+Barrie Examiner, The (ON)	0839-4156										CH													
+Charente libre	0247-7823										CHA													
+bizjournals - Pacific (web site ref.) 											CHB													
+Chef, Le											CHE													
+Headlines Today (web site)											CHEA													
+Health and Nutrition											CHEN													
+Tillsonburg News (ON) (web site ref.)											CHF													
+CBC Hamilton (web site)											CHH													
+Hill Times, The (web site ref.)											CHI													
+Hi INDiA											CHIA													
+Hill Post (web site)											CHIL													
+Himalayan Times, The (web site)											CHIM													
+Wiarton Echo (ON) (web site ref.)											CHK													
+Sentinel-Review (Woodstock, ON) (web site ref.)											CHL													
+Statistique Canada (réf. site web)											CHM													
+Huffington Post -  Canada, The (web site ref.)											CHN													
+bizjournals - Houston (web site ref.)											CHO													
+Hospitality Biz											CHOS													
+Statistics Canada (web site ref.)											CHP													
+Québec Hebdo (site web)											CHQ													
+Collectivités Express											CHR													
+Human Factor, The											CHUM													
+bizjournals - Birmingham (web site ref.)											CIB													
+Ideal Home and Garden, The											CIDE													
+Images Retail											CIMA													
+Impact											CIMP													
+India Blooms (web site)											CINB													
+India Business Journal											CINC													
+India Digest											CINE													
+India Digital Review (web site)											CINF													
+India Transport Portal (web site)											CINI													
+Indian Ports and Infrastructure Review											CINO													
+Indian Wine Academy (web site)											CINQ													
+Infrastructure Today											CINS													
+Insta Blogs (web site)											CINV													
+Investment Monitor (India)											CINW													
+Indian Television (web site)											CINX													
+Investors India											CINY													
+ItVar News (web site)											CITV													
+bizjournals - Phoenix (web site ref.)											CIX													
+Intelligencer, The (Belleville, ON)											CJ													
+Jeune Afrique l'intelligent (réf. site web)											CJA													
+bizjournals - Jacksonville (web site ref.)											CJB													
+Canoe - Infos Québec Canada (réf. site web)											CJM													
+Expositor, The (Brantford, ON)	1181-5663										CK													
+bizjournals - Kansas City (web site ref.)											CKC													
+Kerala IT News (web site)											CKER													
+Info07, Outaouais (site web)											CKF													
+CBC Kamloops (web site)											CKG													
+CBC Kitchener-Waterloo (web site)											CKM													
+Conference Board of Canada, The (web site ref.)											CKN													
+American Journalism Review (web site ref.)											CKO													
+Boursorama (réf. site web)											CKQ													
+Pharmaceutiques (réf. site web)											CKT													
+CBC Saskatoon (web site)											CKV													
+My Kawarta (web site ref.)											CKW													
+Citadin, Le											CL													
+bizjournals - Los Angeles (web site ref.)											CLA													
+Lanka Business online (web site)											CLAN													
+Law Is Greek (web site)											CLAW													
+bizjournals - Louisville (web site ref.)											CLB													
+TVA Nouvelles (réf. site web)											CLC													
+Legally India (web site)											CLEG													
+London Free Press, The (web site ref.)											CLF													
+Liberté (Algérie) (site web)											CLG													
+Linux For You											CLIN													
+Liberté (Algérie) (blogues)											CLJ													
+Matin, Le (réf. site web)											CLM													
+bizjournals - Charlotte (web site ref.)											CLO													
+ICI Radio-Canada - Saguenay-Lac-St-Jean (site web)											CLS													
+bizjournals - Baltimore (web site ref.)											CLT													
+BC Business (web site ref.)											CLY													
+Northern Ontario Business (web site ref.)											CLZ													
+Management Compass											CMAC													
+Management Next											CMAD													
+Maritime Gateway											CMAG													
+bizjournals - Memphis (web site ref.)											CMB													
+Middle East Online (web site ref.)											CME													
+Media Watch											CMEA													
+MediaNama (web site)											CMEB													
+Medical Buyer											CMEC													
+MensXP (web site)											CMEN													
+Metalworld											CMEW													
+MGS Architecture											CMGS													
+Flamborough Review (web site ref.)											CMH													
+Mid Day											CMID													
+bizjournals - Milwaukee (web site ref.)											CMK													
+Mashable (web site ref.)											CML													
+Inside Halton (web site ref.)											CMM													
+Money Times											CMOL													
+Moneylife											CMOM													
+Mother and Baby											CMOT													
+bizjournals - Twin Cities (web site ref.)											CMS													
+York Region (web site ref.)											CMY													
+CTV - CTV News											CN													
+CBC New Brunswick (web site)											CNB													
+NBM and CW											CNBM													
+Internet Actu (réf. site web)											CNC													
+CBC Nova Scotia (web site)											CNE													
+News Tonight (web site)											CNEI													
+Newsline (Pakistan)											CNEL													
+NewsWorms (web site)											CNEW													
+Wingham Advance-Times, The  (web site ref.)											CNG													
+Gens d'affaires - Richelieu-Estrie											CNK													
+Richelieu Agricole (St-Jean, Qc)	1485-6840										CNL													
+Express Affaires, L' (Granby, Qc)											CNM													
+CNN (web site ref.)											CNN													
+Coup d'Oeil (Napierville, Qc)											CNO													
+Coup d'Oeil (Napierville, Qc) (site web)											CNP													
+Granby Express (site web)											CNQ													
+Richelieu, Le (St-Jean, Qc)											CNR													
+Nova Scotia Business Journal (web site ref.)											CNS													
+Econostrum (site web)											CNT													
+Journal le Guide (Cowansville, QC)											CNU													
+Avenir et Des Rivières, L' (Farnham, Qc)											CNV													
+Granby Express (QC)											CNX													
+Granby Express (blogues)											CNZ													
+Thomson Reuters ONE (français)											CO													
+Metro (Calgary) (web site ref.)											COA													
+Courrier, Le (réf. site web)											COC													
+Metro (Edmonton) (web site ref.)											COD													
+Source	#ISSN										Code													
+Simcoe (web site ref.)											COE													
+Cofisem											COF													
+Metro (Winnipeg) (web site ref.)											COG													
+Metro (Halifax) (web site ref.)											COH													
+bizjournals - Columbus (web site ref.)											COM													
+OnlyMyHealth (web site)											CONL													
+Coup d'Oeil (Napierville, Qc) (blogues)											COP													
+Open (India)											COPE													
+Metro (Ottawa) (web site ref.)											COQ													
+bizjournals - Orlando (web site ref.)											COR													
+Outdoor Asia											COUT													
+Metro (Vancouver) (web site ref.)											COV													
+Canadian Press, The											CP													
+bizjournals - Portland (web site ref.)											CPB													
+Presse Canadienne, La (webtélé)											CPC													
+People's Daily Online (web site ref.)											CPD													
+CBC Prince Edward Island (web site)											CPE													
+Press Gazette (web site ref.)											CPG													
+bizjournals - Philadelphia (web site ref.)											CPH													
+Pharma Leaders											CPHC													
+Pitch											CPIT													
+PLC (Packaging, Labels and Converting)											CPLC													
+Point-of-Purchase											CPOI													
+Postnoon											CPOS													
+Power Insight											CPOT													
+Power Politics											CPOU													
+Power Watch India											CPOW													
+Canadian Press, The (web TV)											CPP													
+Pravda (web site ref.)											CPR													
+Press Ideas											CPRE													
+Progressive Grocer (India)											CPRG													
+Project Monitor											CPRH													
+Projects Today											CPRJ													
+Projects Vendor											CPRK													
+Palestinian Information Center (web site ref.)											CPT													
+Chatham Daily News, The (ON)	0844-0654										CQ													
+bizjournals - Albuquerque (web site ref.)											CQU													
+ICI Radio-Canada - Abitibi-T. (site web)											CRA													
+Ranchi Express											CRAN													
+bizjournals - Raleigh-Durham (web site ref.)											CRD													
+ICI Radio-Canada - Estrie (site web)											CRE													
+Real Estate Observer											CREA													
+Realty Plus											CREB													
+ICI Radio-Canada - Manitoba (site web)											CRM													
+Metro (Toronto) (web site ref.)											CRO													
+ICI Radio-Canada - Saskatchewan (site web)											CRS													
+ICI Radio-Canada - Mauricie-Centre (site web)											CRU													
+bizjournals - San Antonio (web site ref.)											CSA													
+Sahara Time											CSAH													
+Samay Live (web site)											CSAM													
+Savvy											CSAV													
+bizjournals - San Francisco (web site ref.)											CSB													
+bizjournals - Seattle (web site ref.)											CSE													
+Selling World Travel											CSEL													
+bizjournals - South Florida (web site ref.)											CSF													
+bizjournals - Nashville (web site ref.)											CSH													
+Shoes and Accessories											CSHO													
+Shopping Center News											CSHP													
+bizjournals - San Jose (web site ref.)											CSJ													
+bizjournals - St. Louis (web site ref.)											CSL													
+South China Morning Post (web site ref.)											CSM													
+Smart Manager, The (web site)											CSMF													
+Smart Photography											CSMG													
+ICI Radio-Canada - Ontario (site web)											CSN													
+ICI Radio-Canada - Montréal (site web)											CSO													
+Society											CSOC													
+Society Interiors											CSOI													
+Sportswear International (India)											CSPA													
+Sportz Power (web site)											CSPB													
+SP's Airbuz											CSPC													
+SP'S Aviation											CSPD													
+SP's Land Forces											CSPE													
+SP's Naval Forces											CSPF													
+ICI Radio-Canada - Québec (site web)											CSQ													
+ICI Radio-Canada - Colombie-Brit.-Yukon (site web)											CSR													
+bizjournals - Boston (web site ref.)											CST													
+Stardust											CSTA													
+StarWeek											CSTB													
+Steam and Boiler Review											CSTE													
+SteelGuru (web site)											CSTG													
+StitchWorld											CSTI													
+Stockwatch (web site)											CSTO													
+ICI Radio-Canada - Acadie (site web)											CSU													
+Sucheta Dalal (web site)											CSUC													
+Sunday Guardian, The (web site)											CSUG													
+Sunday Indian, The											CSUI													
+Sunday Indian, The (web site)											CSUJ													
+ICI Radio-Canada - Ottawa-Gatineau (site web)											CSW													
+Synergy Online, The (web site)											CSYN													
+Tax India International (web site)											CTAX													
+Tax India Online (web site)											CTAY													
+bizjournals - Tampa Bay (web site ref.)											CTB													
+Trading Sat (site web)											CTD													
+Techcircle (web site)											CTEA													
+Technology Next											CTEB													
+TechTree (web site)											CTEC													
+TelecomTiger (web site)											CTEK													
+Textile Review											CTEX													
+TellyChakkar (web site)											CTEY													
+EE Times Europe (web site ref.)											CTM													
+Trak (web site)											CTRA													
+TravelBiz Monitor											CTRB													
+TravTalk India											CTRC													
+TravTalk Middle East											CTRD													
+Taipei Times, The (web site ref.)											CTT													
+Time online edition (web site ref.)											CTU													
+Ukrainian News Agency											CUKR													
+Business Insurance (web site ref.) 											CUS													
+Budapest Business Journal (web site ref.)											CVB													
+VCCircle (web site)											CVCC													
+VJ Media Works											CVJM													
+Vie Immo, La (site web)											CVM													
+Canada NewsWire (english)											CW													
+bizjournals - Washington (web site ref.)											CWA													
+bizjournals - Wichita (web site ref.)											CWB													
+Woman's era											CWOM													
+Standard-Freeholder (Cornwall, ON)	0842-0319										CX													
+Presse, La (site web)											CY													
+Presse, La (blogues)											CYB													
+Tyee, The (web site ref.)											CYE													
+YourStory (web site)											CYOU													
+CTV - W-FIVE											CZ													
+Prince Albert Daily Herald (SK)											DH													
+Direction informatique	0842-1951										DI													
+Truro Daily News (NS)											DN													
+Jdf - AGP (site web)											DP													
+Dépêche du Bassin, La (site web)											DPG													
+Dépêche du Midi, La											DPM													
+Nouvelle République des Pyrénées, La											DPN													
+Petit Bleu de Lot-et-Garonne, Le											DPP													
+Chronicle, The (Dunnville, ON)											DQ													
+Droit-Inc (site web)											DRO													
+Daily Telegraph, The (London, UK)											DT													
+Northern News (Kirkland Lake, ON)											DU													
+Post, The (Hanover, ON)											DX													
+Expansion, L'											EA													
+Echos, Les - Avis financiers (deutsch)											EAD													
+Echos, Les - Avis financiers (english)											EAE													
+Echos, Les - Avis financiers (français)											EAF													
+Echos, Les - Avis financiers (italiano)											EAI													
+IT Business (web site)											EB													
+Economist Intell. Unit - Business Africa											EBA													
+Economist Intell. Unit - Business Asia											EBB													
+Economist Intell. Unit - Business China											EBC													
+Economist Intell. Unit - Business Eastern Europe											EBD													
+Economist Intell. Unit - Business Europe											EBE													
+Economist Intell. Unit - Business India											EBF													
+Economist Intell. Unit - Business Latin America											EBG													
+Economist Intell. Unit - Business Middle East											EBH													
+Echos, Les	1636-9653										EC													
+Echos Business, Les											ECA													
+Economist, The (blogs)											ECB													
+Economist Intell. Unit - Country Reports											ECC													
+Economist Intell. Unit - Country Monitor											ECD													
+Echos, Les (site web)											ECF													
+Economist, The	0013-0613										ECN													
+Economist Intell. Unit - ViewsWire											ECV													
+Echos Business, Les (site web)											ECW													
+EDGE											ED													
+Édition Beauce-Nord											EDI													
+Investment Executive	1202-7405										EE													
+Finance et Investissement	1493-2792										EF													
+Communications and Networking											EG													
+AGEFI, L - Nominations	1264-9864										EH													
+Enjeux - Les Echos	1167-2196										EJ													
+eBanking and Payments News											EK													
+Pipeline, The											EL													
+Watan, El (blogues)											ELB													
+Watan, El (site web)	1111-0333										ELW													
+Hebdo Journal du mercredi, L (Cap-de-la-Madeleine)											EM													
+News, The (New Glasgow)											EN													
+Lettre de l'Expansion, La											EO													
+Entreprise, L'	1243-4167										EP													
+Équipe, L'	0153-1069										EQ													
+Équipe magazine, L'											EQA													
+France Football											EQB													
+Thomson Reuters ONE (nederlands)											ER													
+Est Républicain, L'	0240-4958										ERP													
+Actualidad económica (sitio web ref.)											ESA													
+Studio Ciné Live											EST													
+Telegram, The (St. John's)	1487-6019										ET													
+Technologies Bancaires											EU													
+Technologies et Assurances											EV													
+Evene (site web)											EVE													
+Evene - Biographies											EVI													
+Computer Dealer News											EW													
+Action Commerciale (réf. site web)											EWA													
+Chef d'Entreprise (réf. site web)											EWC													
+Décision Achats (réf. site web)											EWD													
+E-commerce (réf. site web)											EWE													
+Côté Maison (site web)											EWI													
+Entreprise, L' (site web)											EWJ													
+Expansion, L' (site web)											EWK													
+Express, L' (site web)											EWL													
+E-marketing (réf. site web)											EWM													
+Relation Client (réf. site web)											EWR													
+Express, L'	0245-9949										EX													
+Décoration Internationale											EXD													
+Maison Française											EXE													
+Maison Française Magazine											EXF													
+Maisons Côté Est											EXG													
+Maisons Côté Ouest											EXH													
+Maisons Côté Sud											EXI													
+Vivre Côté Cuisines et Bains											EXJ													
+Vivre Côté Paris											EXK													
+Zeste Cuisinons simple et bon											EXL													
+Classica											EXM													
+KR Home-Studio											EXN													
+18h, Le (site web)											EY													
+Cartes Mag	1953-5538										EZ													
+Point Banque (site web)											EZA													
+Banking in France											EZB													
+ElectroniqueS											EZC													
+ElectroniqueS (site web)											EZD													
+Courrier de la Monétique											EZE													
+Mesures											EZM													
+Mesures (site web)											EZN													
+Anadolu Agency (Turkey)											FAAY													
+Accountancy Age											FACC													
+Accord Fintech											FACF													
+African Manager											FAFM													
+Arabian Business (web site)											FARA													
+Assam Tribune, The (Guwahati, India)											FASM													
+Point de Vue Laurentides (Sainte-Agathe)											FB													
+M2 Banking and Credit News											FBAC													
+Bahrain News Agency											FBAH													
+Business Times (Malaysia)											FBTM													
+Business Recorder											FBUR													
+Business Today (India)											FBUT													
+Courrier Frontenac	0704-0474										FC													
+China Daily (web site)											FCHI													
+Cihan News Agency (CNA)											FCIH													
+Computeractive	1461-6211										FCOA													
+Computing	2040-0756										FCOM													
+Computer News Middle East											FCON													
+CPI Financial											FCPI													
+Daily The Pakistan Banker											FDPB													
+Daily Times (Pakistan)											FDTP													
+AFP Infos Economiques	1293-3260										FE													
+Journal Le Nord (St-Jérôme)											FF													
+Financial Director	0961-2556										FFID													
+Financial Express, The (Bangladesh)											FFIE													
+Financial Daily, The											FFIN													
+Fredericton Daily Gleaner, The	0821-6983										FG													
+Gulf Industry (Bahrain)											FGUI													
+Gulf Construction											FGUL													
+Gulf Weekly (Bahrain)											FGUW													
+Indo-Asian News Service (IANS)											FIAN													
+Independent Television News Limited (ITN)											FIBD													
+India Business Insight Database											FIBI													
+Finyear (site web)											FIN													
+India Today											FIND													
+Abitibi Express Rouyn-Noranda/Abitibi-Ouest											FJ													
+Abitibi Express Vallée-de-l'Or/Amos-Harricana											FK													
+Point de Vue Laurentides (Mont-Tremblant)											FL													
+Legal Week (web site)	1466-1489										FLEG													
+Journal des Finances Magazine, Le											FM													
+M2 M and A Navigator											FMAA													
+Mail Today (New Delhi, India)											FMAI													
+New Nation, The (Bangladesh)											FNEW													
+Philippine Daily Inquirer											FPHD													
+Philippines News Agency, The											FPHI													
+Fusions et Acquisitions magazine	#0942-2055										FQ													
+Investir (site web)											FR													
+Berry républicain, Le	0988-8357										FRB													
+Echo républicain, L'											FRE													
+Journal du Centre, Le	0996-1259										FRJ													
+Montagne, La	1282-9188										FRM													
+Populaire du Centre, Le	1625-1385										FRP													
+République du Centre, La	0221-1750										FRR													
+Yonne républicaine, L'	0247-8293										FRY													
+Filing Services Canada											FSC													
+7 Days (Dubai)											FSEV													
+Statesman, The (Pakistan)											FSTA													
+Times of Central Asia, The											FTCA													
+FranceTv Info (web TV)											FTD													
+France 3 - Régions (site web)											FTE													
+FranceTv Info (site web)											FTF													
+Funds											FUN													
+United News of Bangladesh											FUNB													
+United News of India (UNI)											FUNI													
+Canada NewsWire (français)											FW													
+Aurore boréale, L' (Whitehorse, YK)	1917-6686										FX													
+Courrier de la Nouvelle-Écosse, Le	1184-2008										FY													
+Voix acadienne, La (Summerside, PEI)	1195-5066										FZ													
+AGEFI Quotidien, L'	0755-1940										GA													
+Argus de l'assurance, L' (site web)											GAAB													
+Guardian, The (Charlottetown)	0832-2708										GC													
+JCN Newswire											GDC													
+M2 PressWIRE											GDG													
+Pakistan Press International (PPI)											GDP													
+PR Newswire Europe (english)											GDS													
+Financial Times (web site)											GE													
+Biographies - L'AGEFI											GEB													
+Emballages magazine (site web)											GEMB													
+Guide des Etats-Majors - Sociétés - L'AGEFI											GES													
+Echo touristique, L' (site web)											GETB													
+Financial Times											GF													
+Evening Standard, The (London, UK)											GFL													
+Middle East, The											GFP													
+AGEFI Actifs, L'											GG													
+AGEFI Hebdo, L'											GH													
+Investir-Le Journal des finances											GI													
+Argus de l'assurance, L'											GIA													
+Automobile et l'entreprise, L'											GIC													
+Décision Atelier											GID													
+Echo touristique, L'											GIE													
+Decision Atelier PL											GIF													
+Industrie et Technologies											GII													
+LSA											GIL													
+Néorestauration											GIN													
+Industrie et Technologies (site web)											GITB													
+Usine Nouvelle, L'											GIU													
+Journal des finances, Le	0021-8049										GJ													
+Al Arabiya (Dubai, UAE)											GJA													
+Journal de l'environnement (site web)											GJDE													
+Daily News Egypt											GJE													
+Dar Al Hayat (Beirut, Lebanon)											GJF													
+Emirates News Agency (WAM)											GJI													
+Gulf News (United Arab Emirates)											GJQ													
+Moj News Agency (Tehran, Iran)											GJU													
+Oil and Gas News											GJW													
+Pajhwok Afghan News (Kabul, Afghanistan)											GJY													
+AGEFI, L' (site web)											GK													
+Annuaire de la finance  - Sociétés - L'AGEFI											GKA													
+Egyptian Gazette, The (Cairo, Egypt)											GLC													
+Palestine Chronicle, The (Mountlake Terrace, WA)											GLF													
+Tripoli Post, The (Tripoli, Libya)											GLH													
+Week, The (Muscat, Oman)											GLI													
+Times of Oman (Muscat, Oman)											GLN													
+TradeArabia (Manama, Bahrain)											GLO													
+Yemen Times (Sana'a, Yemen)											GLP													
+LSA (site web)											GLSB													
+Néorestauration (site web)											GNRB													
+JdF (site web)											GO													
+Investissement Conseils	1161-8116										GQ													
+GreenUnivers (site web)											GRE													
+Stratégies Logistique (site web)											GSLB													
+Usine Nouvelle, L' (site web)											GUNB													
+Gestion de Fortune	1163-720X										GW													
+Journal Nouvelles Hebdo											GZ													
+Daily News, The (Halifax)											HA													
+Arômes Ingrédients Additifs	1260-9978										HB													
+CosmeticNews Weekly 											HC													
+Community Herald (Halifax)											HCH													
+Cosmétique Hebdo											HD													
+Cosmétique Mag											HE													
+Chronicle Herald, The (Halifax, NS)	0828-1807										HH													
+Chronicle Herald, The (Halifax, NS) (web site)											HHW													
+Canadian Press, The - Broadcast wire											HI													
+Parfums Cosmétiques Actualités (english)											HJ													
+Aéronautique Business											HK													
+Automobile et Composants											HL													
+Capital Finance											HM													
+Hémicycle, l'											HMC													
+HazMat Management (web site ref.)											HMW													
+Énergies news											HO													
+Lettre des Télécommunications, La											HP													
+Lettre du Transport et de la Logistique, La											HQ													
+Presse Canadienne, La - Le fil radio											HR													
+Hamilton Spectator (web site ref.)											HSW													
+Sport Finance et Marketing											HT													
+Humanité, L'	0242-6870										HU													
+Thomson Reuters ONE (danske)											HUDA													
+Thomson Reuters ONE (deutsch)											HUDE													
+Thomson Reuters ONE (español)											HUES													
+Thomson Reuters ONE (íslenska)											HUIS													
+Thomson Reuters ONE (italiano)											HUIT													
+Thomson Reuters ONE (norske)											HUNO													
+Thomson Reuters ONE (português)											HUPO													
+Thomson Reuters ONE (suomalainen)											HUSU													
+Thomson Reuters ONE (svenska)											HUSV													
+Huffington Post - UK, The (web site ref.)											HUU													
+Africa Energy Intelligence	1635-2742										HV													
+Africa Mining Intelligence	1624-0022										HW													
+Maghreb Confidential											HX													
+Indian Ocean Newsletter, The											HY													
+Intelligence Online											HZ													
+Courrier du Lac, Le (Alma)											IA													
+Courrier Bordeaux-Cartierville											IB													
+Barrie Examiner, The (ON) (web site ref.)											IBAR													
+Intelligencer, The (Belleville) (web site ref.)											IBEL													
+Expositor, The (Brantford, ON) (web site ref.)											IBRF													
+Computer Dealer News (web site)											ICD													
+Chatham Daily News (ON) (web site ref.)											ICHA													
+Simcoe Reformer (ON) (web site ref.)											ICHR													
+CIO Canada (web site)											ICI													
+Enterprise-Bulletin (Collingwood) (web site ref.)											ICOE													
+Computer World Canada (web site)											ICW													
+Voix Pop, La (Côte St-Paul, St-Henri, Ville Émard)											ID													
+Direction informatique (site web)											IDI													
+Messager Lachine et Dorval, Le (QC)											IE													
+Standard, The (Elliot Lake, ON) (web site ref.)											IELL													
+Messager LaSalle, Le											IF													
+Créativité Montréal (site web)											IFC													
+Guide annuel médias											IFG													
+Guide COM											IFH													
+Guide COM, Le											IFI													
+Novae (site web)											IFN													
+Infopresse (site web)											IFP													
+Guide événement											IFV													
+Gananoque Reporter, The (ON) (web site ref.)											IGAN													
+International New York Times	0294-8052										IH													
+Post, The (Hanover, ON) (web site ref.)											IHAN													
+Hinton Parklander, The (AB) (web site ref.)											IHIN													
+Innisfil Examiner (ON) (web site ref.)											IINN													
+Inport News (Port Colborne, ON) (web site ref.)											IINP													
+IT World Canada (web site)											IIT													
+Messager Verdun, Le											IJ													
+Kingston Whig Standard, The (ON) (web site ref.)											IKIN													
+Northern News (Kirkland Lake, ON) (web site ref.)											IKIR													
+Courrier International	1154-516X										IL													
+Investir Magazine											IM													
+Metro (Hamilton) (web site ref.)											IMEH													
+Metro (Kitchener) (web site ref.)											IMEK													
+Metro (Regina) (web site ref.)											IMEN													
+Metro (Saskatoon) (web site ref.)											IMES													
+Metro (Victoria) (web site ref.)											IMEV													
+Metro (Windsor) (web site ref.)											IMEW													
+Network World Canada (web site)											INE													
+International New York Times (site web)											INH													
+Niagara Falls Review (ON) (web site ref.)											INIA													
+North Bay Nugget (ON) (web site ref.)											INOR													
+IntelliNews											INT													
+Nouvelles Saint-Laurent News (QC)											IO													
+Packet and Times (Orillia, ON) (web site ref.)											IORI													
+Sun Times, The (Owen Sound, ON) (web site ref.)											IOWE													
+Express de Mont-Royal, L'											IP													
+Pelham News (ON) (web site ref.)											IPEL													
+Daily Observer, The (Pembroke, ON) (web site ref.)											IPEM													
+Peterborough Examiner, The (ON) (web site ref.)											IPET													
+Express d'Outremont, L'											IQ													
+Express d'Outremont/Mont Royal, L'											IR													
+Magazine de l'Île-des-Soeurs, Le (QC)											IS													
+Sarnia Observer (ON) (web site ref.)											ISAR													
+Sarnia This Week (ON) (web site ref.)											ISAT													
+Sault Star, The (ON) (web site ref.)											ISAU													
+SMB eXtra											ISM													
+Standard, The (St. Catharines, ON) (web site ref.)											ISTC													
+Standard-Freeholder (Cornwall, ON) (web site ref.)											ISTF													
+Sudbury Star, The (ON) (web site ref.)											ISUD													
+Daily Press, The (Timmins, ON) (web site ref.)											ITID													
+ITN (web site ref.)											ITN													
+Today's Farmer (Chatham, ON) (web site ref.)											ITOA													
+Computer Dealer News (web site ref.)											ITWA													
+Direction Informatique (site web réf.)											ITWB													
+IT Business Canada (web site ref.)											ITWC													
+IT World Canada (web site ref.)											ITWD													
+Forum											IU													
+Courier Press (Wallaceburg, ON) (web site ref.)											IWAL													
+Welland Tribune (ON) (web site ref.)											IWEN													
+Nouvelle Union édition Weekend, La (Victoriaville)											IX													
+Express, L' (éd. du mercredi)  (Drummondville, QC)											IY													
+Avenir de l'Érable, L' (Plessisville)											IZ													
+Avenir de l'Est (Pointe-aux-Trembles - Mtl-Est)											JA													
+Aite Group (web site ref.)											JAG													
+Courrier Ahuntsic											JB													
+Boston Consulting Group (web site ref.)											JBC													
+Flambeau (Mercier - Anjou)											JC													
+CapGemini Financial Services (web site ref.)											JCF													
+Celent (web site ref.)											JCL													
+Concorde, La (Saint-Eustache)											JCO													
+Concorde, La - Cahier											JCP													
+Éveil Agricole, L'											JCQ													
+Faubourg Boisbriand											JCR													
+Guide de Montréal-Nord											JD													
+Journal des entreprises, Le											JDE													
+Jdf.com - Guide SRD											JDF													
+Deloitte Financial Services (web site ref.)											JDS													
+Hebdo Rive Nord (week-end) (Repentigny, QC)											JE													
+Éveil, L' (Saint-Eustache)											JEV													
+Journal de Rosemont La Petite-Patrie (QC)											JF													
+Hebdo Rive Nord (Repentigny)											JG													
+Grant Thornton (web site ref.)											JGT													
+Informateur de Rivière-des-Prairies, L'											JH													
+Plateau, Le											JI													
+Progrès Villeray - Parc Extension (QC)											JJ													
+VM Ville-Marie, Vieux-Montréal, Le											JK													
+Nouvelles Hochelaga-Maisonneuve											JL													
+Progrès Saint-Léonard											JM													
+Reflet du Lac, Le (Magog)											JN													
+Nord Info (Sainte-Thérèse)											JNO													
+Express, L' (éd. du dimanche)  (Drummondville, QC)											JO													
+Journal, Le - Barreau du Québec											JOU													
+Journal-Pioneer, The (Summerside)											JP													
+Nouvelle Union mercredi, La (Victoriaville, QC)											JQ													
+Régional, Le (Est de Montréal)											JR													
+Action D'Autray, L' (Berthierville)											JS													
+Québec Inc.	1714-0323										JSQ													
+Journal de l'assurance, Le	1198-4678										JSS													
+Insurance and Investment Journal, The	1205-6189										JST													
+Echo de Maskinongé, L' (Louiseville)											JT													
+Action mercredi, L' (Joliette, QC)											JU													
+Action week-end, L' (Joliette)											JV													
+Voix des Mille-Iles, La (Sainte-Thérèse)											JVO													
+Voix des Mille-Iles, La - Cahier											JVP													
+Moose Jaw Times Herald (SK)	0841-6729										JW													
+Éveil, L' (site web)											JWE													
+Nord Info (site web)											JWN													
+Express Montcalm, L'											JX													
+Roussillon Express											JY													
+Journal Matawinie des gens d'en haut, Le											JZ													
+Advocate, The (Pictou County, NS)											KB													
+Contra Costa Times (San Francisco, CA)											KC													
+Kitchissippi Times											KD													
+Wichita Eagle, The (KS)											KE													
+Star-Telegram (Fort Worth, TX)											KF													
+Atlantic Boating News											KG													
+Lexington Herald-Leader (KY)											KH													
+Philadelphia Inquirer, The (PA)											KI													
+Mercury News, The (San Jose, CA)											KJ													
+Kansas City Star, The (MO)											KK													
+Times Leader (Wilkes-Barre, PA)											KL													
+Miami Herald, The (FL)											KM													
+News-Sentinel, The (Fort Wayne, IN)											KN													
+Charlotte Observer, The (NC)											KO													
+Pioneer Press (St. Paul, MN)											KP													
+Atlantic Fisherman											KQ													
+Detroit Free Press (MI)											KS													
+Duluth News Tribune (MN)											KT													
+Tribune, The (San Luis Obispo, CA)											KU													
+Hub Now											KV													
+McClatchy Washington Bureau											KW													
+Linéaires											KX													
+Process Alimentaire											KY													
+Rayon Boissons											KZ													
+Presse, La	0317-9249										LA													
+Presse+, La											LAA													
+LiveActu Capital											LAC													
+Antiquités Pratique											LAN													
+Argent et Patrimoine											LAR													
+Automobile Revue											LAT													
+Lettre de l'audiovisuel, La											LAU													
+Automobile Revue 4x4 et SUV											LAV													
+CBC Television - Country Canada											LB													
+Belles Régions de France											LBE													
+Bio et Nature Magazine											LBI													
+Boursier (site web)											LBO													
+Croix, La	0242-6056										LC													
+Carnets de la Philosophie, Les											LCA													
+Célébrité Magazine											LCE													
+Création d'Entreprise Magazine											LCR													
+Cuisine Magazine											LCU													
+Cuisine Revue											LCV													
+Cuisiner Au Jour le Jour											LCX													
+Devoir, Le	0319-0722										LE													
+Europe 1 (site web)											LEA													
+Devoir, Le (blogues)											LEB													
+Entreprendre											LEN													
+Essentiel de la Déco, L'											LEP													
+Essentiel de la Moto, L'											LEQ													
+Essentiel de la Psycho, L'											LER													
+Science Revue											LES													
+Essentiel de l'Auto, L'											LET													
+Devoir, Le (site web)											LEW													
+Essentiel du Jardin, L'											LEX													
+Figaro, Le	0182-5852										LF													
+Faire Soi-Même											LFA													
+Féminin Déco											LFD													
+Figaro, Le (site web)											LFF													
+Féminin Maison											LFG													
+Féminin Psycho											LFI													
+Féminin Santé											LFJ													
+Foot, Le											LFK													
+Foot Lyon, Le											LFL													
+Figaro Magazine, Le	0184-9336										LFM													
+Foot Marseille, Le											LFP													
+Foot St-Etienne, Le											LFR													
+Sport 24 (site web)											LFS													
+TV Mag (site web)											LFT													
+Franchise et Business											LFX													
+Figaro Étudiant, Le (site web)											LFY													
+Madame Figaro (site web)											LFZ													
+Presse Affaires Magazine, La											LG													
+Gazette de l'Info, La											LGA													
+Foot Gazette des transferts, Le											LGB													
+SouthShore Now (blogs)											LGG													
+Progress Bulletin (Lunenburg Co., NS)											LGP													
+SouthShore Now (web site)											LGS													
+Lethbridge Herald, The	0839-4938										LH													
+Libération	0335-1793										LI													
+Libération (blogues)											LIB													
+LibéBordeaux (site web)											LID													
+Écrans (site web)											LIE													
+Libération (site web)											LIF													
+LibéLille (site web)											LII													
+LibéLyon (site web)											LIL													
+LibéMarseille (site web)											LIM													
+LibéOrléans (site web)											LIO													
+LibéRennes (site web)											LIR													
+LibéStrasbourg (site web)											LIS													
+LibéToulouse (site web)											LIT													
+CBC Television - Disclosure											LJ													
+Jdd, Le (site web)											LJD													
+Jour de France											LJF													
+CBC Television - Marketplace											LK													
+CBC Television - the fifth estate											LL													
+Lettre A, La	0220-1127										LLA													
+Monde, Le	0395-2037										LM													
+Magazine, Le											LMA													
+Magazine des Livres, Le											LMB													
+Monde de l'Éducation, Le	1297-2185										LME													
+Monde, Le (site web)											LMF													
+Maison Décoration Campagne											LMG													
+M Le Magazine du Monde											LMM													
+Maison Revue Brocante											LMR													
+CBC Television - Venture's Dreamers and Schemers											LN													
+CBC Television - Saturday Report											LO													
+Orient-Le Jour, L'											LOJ													
+Paris Match (site web)											LPB													
+Philosophie Pratique											LPH													
+Presse News 											LPN													
+Pourquoi Magazine											LPO													
+Pratique Cuisine											LPQ													
+Pratique Magazine											LPR													
+Pratique Santé											LPS													
+CBC Television - Sunday Night											LQ													
+Question Santé											LQS													
+Lire	0338-5019										LR													
+Rugby Magazine, Le											LRU													
+Soleil, Le	0319-0730										LS													
+Santé Revue											LSA													
+Santé Revue Seniors											LSB													
+Science Magazine											LSC													
+S'Enrichir Magazine											LSF													
+Spécial Chats											LSJ													
+Spécial Chiens											LSK													
+Sport Magazine, Le											LSM													
+Star Fan											LSR													
+Stop Arnaques											LST													
+Droit, Le	0839-4865										LT													
+Terroirs de France											LTE													
+CBC Television - The National											LU													
+CBC Radio - Quirks and Quarks											LV													
+Micro Pratique											LVA													
+Monde du Camping-Car, Le											LVB													
+Moto Revue											LVC													
+Quotidien du Tourisme, Le											LVD													
+Rock and Folk											LVE													
+Transport Info Hebdo											LVF													
+CBC Radio - The World at Six											LW													
+West Africa Newsletter											LWA													
+CBC Radio - The World this Weekend											LX													
+Lyon Plus											LY													
+Presse Affaires, La (site web)											LZ													
+Actu Labo	1764-1837										MCA													
+Macleans (web site ref.)											MCL													
+Contrats Publics											MCO													
+Lettre Valloire, La	0986-6523										MCV													
+Monde diplomatique, Le	0026-9395										MD													
+Monde diplomatique, Le (carnets)											MDC													
+Marianne (site web)											MDQ													
+Mer et Marine (site web)											MEA													
+Centre Presse Aveyron											MF													
+Medicine Hat News	0834-9584										MH													
+Investor's Business Daily											MIB													
+Kirkus Reviews	0042-6598										MKR													
+Midi Libre											ML													
+Midi Libre (blogues)											MLB													
+Midi Libre (site web)											MLE													
+Marketing Magazine (web site ref.)											MMW													
+Indépendant, L'											MN													
+Indépendant, L' (blogues)											MNB													
+Indépendant, L' (site web)											MNE													
+Métro (Montréal)											MO													
+AMC Le Moniteur Architecture	0998-4194										MOA													
+Gazette des communes, La (blogues)											MOB													
+Cahiers Techniques du Bâtiment, Les	0241-6794										MOC													
+Bulletin Européen du Moniteur, Le											MOD													
+Moniteur Entrepreneurs et Installateurs, Le	2105-8342										MOE													
+Gazette des communes, La											MOG													
+Gazette des communes, La (site web)											MOH													
+Opérations Immobilières											MOI													
+Journal du Chauffage et du Sanitaire, Le	1148-554X										MOJ													
+Négoce	0767-4430										MON													
+Paysage Actualités	0395-2916										MOP													
+Gazette Santé-Social, La											MOS													
+Moniteur des Travaux Publics et du Bâtiment, Le											MOT													
+Moniteur, Le (site web)											MOV													
+Nouveau Marianne, Le	1275-7500										MQ													
+Moncton Times and Transcript, The	1912-1504										MT													
+ThomasNet											MTI													
+Manière de voir	1241-6290										MX													
+Monde diplomatique, Le (english edition)	0026-9395										MZ													
+Nouvelle République Dimanche, La											NA													
+Age, The (Australia) (Abstracts)											NAAG													
+Australian, The (Abstracts)											NAAI													
+Australian Financial Review, The (Abstracts)											NAAJ													
+Australian Financial Review Boss, The (Abstracts)											NAAK													
+Australian Financial Review, The (Capital)											NAAL													
+Australian Financial Review Magazine (Abstracts)											NAAM													
+BRW (Abstracts)											NABR													
+News-Insurances (web site)											NAI													
+Albawaba (web site)											NALC													
+Money Management (Australia) (Abstracts)											NAMO													
+News-Assurances Pro (site web)											NAP													
+Arkansas Daily Weblog											NARD													
+Arkansas Times											NARK													
+News-Assurances (site web)											NAS													
+Sydney Morning Herald, The (Abstracts)											NASY													
+Telegraph-Journal (NB)	1910-8001										NB													
+Blogs - Arts and culture											NBAR													
+Blogs - Automotive											NBAU													
+Blogs - Aviation											NBAV													
+Blogs - Business											NBBU													
+Blogs - Consumer affairs											NBCO													
+Blogs - Education											NBED													
+Blogs - Energy											NBEN													
+Blogs - Environment											NBEV													
+Blogs - Fashion and beauty											NBFA													
+Blogs - Finance											NBFI													
+Blogs - Food											NBFO													
+Blogs - Health											NBHE													
+Blogs - Information Science											NBIN													
+Blogs - Law											NBLA													
+Blogs - Marketing											NBMA													
+Blogs - Media											NBME													
+Blogs - Management											NBMG													
+Blogs - News											NBNE													
+Blogs - Politics											NBPO													
+Blogs - Real estate											NBRE													
+News-Banques (site web)											NBS													
+Blogs - Science and technology											NBSC													
+Blogs - Society											NBSO													
+Blogs - Sports and leisure											NBSP													
+Blogs - Travel and tourism											NBTR													
+Queens County Advance, The (Liverpool, NS)											NC													
+AdnKronos International (Italy)											NCAA													
+Ada Evening News (OK)											NCAB													
+Agweek Magazine											NCAC													
+Aiken Standard (SC)											NCAD													
+Aegis, The (Bel Air, MD)											NCAE													
+Austin American-Statesman (TX)											NCAF													
+Ashland Daily Tidings (OR)											NCAG													
+Austin Daily Herald (MN)											NCAH													
+Arbutus Times (Catonsville, Md)											NCAI													
+Al Jazeera											NCAJ													
+Alamogordo Daily News (NM)											NCAK													
+Alaska Journal of Commerce (Anchorage)											NCAL													
+Albuquerque Journal (NM)											NCAM													
+AllBusiness (web site)											NCAN													
+AME Info - Abu Dhabi, United Arab Emirates											NCAO													
+American News (Aberdeen, SD)											NCAP													
+Anna-Melissa Tribune, The (Van Alstyne, TX)											NCAQ													
+Americus Times Recorder (Columbus, GA)											NCAR													
+Anniston Star, The (AL)											NCAS													
+Arab News											NCAT													
+Arizona Daily Star, The (Tucson)											NCAU													
+Arizona Daily Sun, The (Flagstaff)											NCAV													
+Athens Banner-Herald (GA)											NCAW													
+Athens Daily Review (TX)											NCAX													
+Atlanta Journal-Constitution, The (GA)											NCAY													
+Augusta Chronicle, The (GA)											NCAZ													
+Baltimore Sun, The (MD)											NCBA													
+Bangkok Post											NCBB													
+Beaufort Gazette, The (SC)											NCBC													
+Bartlesville Examiner-Enterprise (OK)											NCBD													
+Belleville News-Democrat (IL)											NCBF													
+Billings Gazette (MT)											NCBG													
+Baker City Herald (OR)											NCBH													
+Bismarck Tribune, The (ND)											NCBI													
+Bluefield Daily Telegraph (WV)											NCBJ													
+Bradenton Herald, The (FL)											NCBL													
+Broomfield Enterprise (CO)											NCBM													
+Breckenridge American (TX)											NCBN													
+Bristol Herald Courier (VA)											NCBO													
+Brownsville Herald, The (TX)											NCBQ													
+Brunswick News, The (GA)											NCBR													
+Brush News-Tribune (CO)											NCBS													
+Baltimore Messenger (Towson, MD)											NCBT													
+Cary News (NC)											NCCA													
+Cedar Creek Pilot (TX)											NCCB													
+Chapel Hill News, The (NC)											NCCC													
+Charleston Daily Mail (WV)											NCCD													
+Charleston Gazette, The (WV)											NCCE													
+Chattanooga Times/Free Press (TN)											NCCF													
+Claremore Daily Progress (OK)											NCCG													
+Clay Center Dispatch (KS)											NCCH													
+Cleburne Times-Review (TX)											NCCI													
+Clinton Herald (IA)											NCCJ													
+Clovis News Journal (NM)											NCCK													
+Columbian, The (Vancouver, WA)											NCCM													
+Columbus Telegram (NE)											NCCN													
+Commerce Journal, The (Commerce, TX)											NCCO													
+Commercial Appeal, The (Memphis, TN)											NCCP													
+Commercial-News (Danville, IL)											NCCQ													
+Commonwealth Journal (Somerset, KY)											NCCR													
+Computer Column											NCCS													
+Cordele Dispatch (GA)											NCCT													
+Corsicana Daily Sun (TX)											NCCU													
+Creston News Advertiser (IA)											NCCV													
+Crossville Chronicle (TN)											NCCW													
+Cullman Times, The (AL)											NCCX													
+Culpeper Star-Exponent (VA)											NCCY													
+Cumberland Times-News (MD)											NCCZ													
+Daily Camera (Boulder, CO)											NCDA													
+Daily Citizen, The (Dalton, GA)											NCDB													
+Daily Gazette, The (Sterling, IL)											NCDC													
+Daily Independent, The (Ashland, KY)											NCDD													
+Daily Iowegian (Centerville, IA)											NCDE													
+Daily News, The (Bowling Green, KY)											NCDF													
+Daily Progress, The (Charlottesville, VA)											NCDH													
+Daily Republic, The (Mitchell, SD)											NCDI													
+Daily Southerner, The (Tarboro, NC)											NCDJ													
+Daily Star, The (Beirut, Lebanon)											NCDK													
+Superior Telegram (WI)											NCDL													
+Daily Times (Pryor, OK)											NCDM													
+Daily Times, The (Farmington, NM)											NCDN													
+Danville Register and Bee (VA)											NCDO													
+Day, The (New London, CT)											NCDP													
+Decatur Daily, The (AL)											NCDQ													
+Deming Headlight, The (NM)											NCDR													
+Destin Log, The (FL)											NCDS													
+Dickinson Press, The (ND)											NCDT													
+Dominion Post, The (Morgantown, WV)											NCDU													
+Dothan Eagle, The (AL)											NCDV													
+Duncan Banner, The (OK)											NCDW													
+Daily Star-Journal, The (Warrensburg, MO)											NCDX													
+Daily Inter Lake (Kalispell, MT)											NCDY													
+Dowagiac Daily News (MI)											NCDZ													
+Eagle, The (Bryan, TX)											NCEA													
+Eastern Wake News (Zebulon, NC)											NCEB													
+Economic Times, The											NCEC													
+Edmond Sun, The (OK)											NCED													
+Easley Progress, The (SC)											NCEE													
+Effingham Daily News (IL)											NCEF													
+Estes Park Trail-Gazette (CO)											NCEG													
+Edwardsburg Argus (MI)											NCEH													
+Paso Times, El (TX)											NCEL													
+Emergency Management											NCEM													
+Enid News and Eagle (OK)											NCEN													
+Enterprise Ledger, The (AL)											NCEP													
+Entrepreneur Column											NCER													
+Eufaula Tribune (AL)											NCET													
+Evening News and Tribune (Jeffersonville, IN)											NCEV													
+Education Week (web site)											NCEW													
+Express-Star, The (Chickasha, OK)											NCEX													
+Farm Talk Newspaper (Parsons, KS)											NCFA													
+Fayette Tribune, The (Oak Hill, WV)											NCFB													
+Fayetteville Observer, The (NC)											NCFC													
+Foster's Daily Democrat (Dover, NH)											NCFD													
+Fergus Falls Daily Journal (MN)											NCFF													
+Florence Morning News (SC)											NCFG													
+Florida Keys Keynoter (Marathon)											NCFK													
+Florida Times-Union, The (Jacksonville)											NCFL													
+Fort Mill Times (SC)											NCFM													
+Fort Morgan Times, The (CO)											NCFN													
+Frederick News-Post, The (MD)											NCFP													
+Free Lance-Star, The (Fredericksburg, VA)											NCFR													
+Free Press, The (Kinston, NC)											NCFS													
+Fuquay-Varina Independent (NC)											NCFU													
+Gainesville Daily Register (TX)											NCGA													
+Governing											NCGB													
+Garden City Telegram, The (KS)											NCGC													
+Gazette, The (Cedar Rapids, IA)											NCGD													
+Government Technology											NCGE													
+Glasgow Daily Times (KY)											NCGG													
+Grand Haven Tribune (MI)											NCGH													
+Globes											NCGL													
+Goshen News (IN)											NCGM													
+Graham Leader, The (TX)											NCGN													
+Grayson Journal-Enquirer (KY)											NCGO													
+Greeley Tribune (CO)											NCGQ													
+Greene County Record (Stanardsville, Va)											NCGR													
+Greensburg Daily News (IN)											NCGS													
+Greenville Herald-Banner (TX)											NCGT													
+Gulf Daily News											NCGU													
+Havelock News (NC)											NCHA													
+Hawk Eye (Burlington, IA)											NCHB													
+Howard County Times (Columbia, MD)											NCHC													
+Hays Daily News, The (KS)											NCHD													
+Hendricks County Flyer (Avon, IN)											NCHE													
+Herald and Review (Decatur, IL)											NCHF													
+Herald Bulletin, The (Anderson, IN)											NCHG													
+Herald, The (Rock Hill, SC)											NCHH													
+Herald Democrat (Sherman, TX)											NCHI													
+Herald-Journal (Spartanburg, SC)											NCHJ													
+Herald-Sun, The (Durham, NC)											NCHL													
+Herald-Times (Bloomington, IN)											NCHM													
+Herald-Tribune, The (Batesville, IN)											NCHN													
+Hernando Today (Brooksville, FL)											NCHO													
+Hickory Daily Record (NC)											NCHP													
+High Point Enterprise (NC)											NCHQ													
+Highlands Today (Sebring, FL)											NCHR													
+Hindustan Times (New Delhi)											NCHS													
+Hour, The (Norwalk, CT)											NCHT													
+Houston Chronicle (TX)											NCHU													
+Honolulu Star-Advertiser (HI), The											NCHV													
+Huntsville Item, The (TX)											NCHX													
+Hutchinson News, The (KS)											NCHY													
+Independent Record (Helena, MT)											NCIA													
+Independent Tribune (Concord, NC)											NCIC													
+Indianapolis Star, The (IN)											NCID													
+Independent McClatchy Features											NCIN													
+Ironton Tribune, The (OH)											NCIT													
+Jackson County Floridan (Marianna, FL)											NCJA													
+Jacksonville Daily Progress (TX)											NCJD													
+Jacksonville Journal-Courier (IL)											NCJJ													
+Jamestown Sun, The (ND)											NCJM													
+Janesville Gazette, The (WI)											NCJN													
+Japan Times											NCJP													
+Joplin Globe, The (MO)											NCJQ													
+Jordan Times, The											NCJR													
+Journal Star (Peoria, IL)											NCJS													
+Journal-Advocate (Sterling, CO)											NCJV													
+Journal-World (Lawrence, KS)											NCJW													
+Kerrville Daily Times (TX)											NCKE													
+Khaleej Times											NCKH													
+Kilgore News Herald (TX)											NCKI													
+Knoxville News Sentinel, The (TN)											NCKN													
+Kokomo Tribune (IN)											NCKO													
+Keene Sentinel, The (NH)											NCKS													
+Kuwait Times											NCKU													
+Crosse Tribune, La (WI)											NCLA													
+Laredo Morning Times (TX)											NCLB													
+Lake Country Sun (Graford, TX)											NCLC													
+Laurel Leader (MD)											NCLD													
+Lamar Ledger, The (CO)											NCLE													
+Las Cruces Sun-News (NM)											NCLF													
+Leader-Telegram, The (Eau Claire, WI)											NCLM													
+Lebanon Reporter, The (IN)											NCLN													
+Los Gatos Weekly-Times (CA)											NCLO													
+Ledger, The (Lakeland, FL)											NCLR													
+Lubbock Avalanche-Journal (TX)											NCLU													
+Lake Wylie Pilot (SC)											NCLW													
+Madison County Eagle (VA)											NCMA													
+Mail Tribune (Medford, OR)											NCMB													
+Manila Times, The											NCMC													
+Mint (New Delhi)											NCMD													
+McAlester News-Capital (OK)											NCME													
+McCreary County Record (Whitley City, KY)											NCMF													
+McDowell News, The (Marion, NC)											NCMG													
+McLeansboro Times-Leader (IL)											NCMH													
+Media General Washington Bureau											NCMI													
+Meridian Star, The (MS)											NCMJ													
+Messenger-Inquirer (Owensboro, KY)											NCMK													
+Mineral Wells Index (TX)											NCML													
+Manchester Journal (VT)											NCMM													
+Monitor, The (McAllen, TX)											NCMN													
+Montana Standard, The (Butte, MT)											NCMO													
+Montgomery Advertiser (AL)											NCMP													
+Montgomery Herald, The (WV)											NCMQ													
+Moore American, The (Norman, OK)											NCMR													
+Morehead News, The (KY)											NCMS													
+Moultrie Observer, The (GA)											NCMT													
+Mountaineer, The (Waynesville, NC)											NCMU													
+Mt. Vernon Register-News (IL)											NCMV													
+Muskogee Phoenix (OK)											NCMX													
+Mortgage Daily (web site)											NCMY													
+Natchez Democrat, The (MS)											NCNA													
+News and Advance, The (Lynchburg, VA)											NCNB													
+News and Messenger (Manassas, VA)											NCNC													
+News and Record (Greensboro, NC)											NCND													
+News Courier, The (Athens, AL)											NCNE													
+Niles Daily Star (MI)											NCNF													
+News Herald, The (Morganton, NC)											NCNH													
+News Herald, The (Panama City, FL)											NCNI													
+News Virginian, The (Waynesboro, VA)											NCNJ													
+News-Gazette, The (Champaign-Urbana, IL)											NCNK													
+News-Topic (Lenoir, NC)											NCNL													
+Newton Record, The (MS)											NCNN													
+North County News (Towson, MD)											NCNO													
+Norman Transcript, The (OK)											NCNR													
+North Jefferson News, The (Gardendale, AL)											NCNS													
+Northeast Mississippi Daily Journal (Tupelo, MS)											NCNT													
+Northwest Florida Daily News (Fort Walton Beach)											NCNW													
+Observer, The (La Grande, OR)											NCOB													
+Ocala Star-Banner (FL)											NCOC													
+Odessa American (TX)											NCOD													
+Owings Mills Times (Towson, MD)											NCOI													
+Oklahoman, The (Oklahoma City, OK)											NCOK													
+Olney Enterprise, The (TX)											NCOM													
+Opelika-Auburn News (AL)											NCOP													
+Orange County Review (VA)											NCOQ													
+Orange Leader, The (TX)											NCOR													
+Oregonian, The (Portland, OR)											NCOT													
+Oskaloosa Herald, The (IA)											NCOV													
+Ottumwa Courier (IA)											NCOX													
+Centre Presse (Vienne)	1144-4126										NCP													
+Pacifica Tribune (CA)											NCPA													
+Paducah Sun, The (KY)											NCPB													
+Palestine Herald-Press (TX)											NCPC													
+Palm Beach Post, The (FL)											NCPD													
+Palos Verdes Peninsula News (CA)											NCPE													
+Pantagraph, The (Bloomington, IL)											NCPF													
+Park Record (Park City, UT)											NCPG													
+Pasadena Star-News (CA)											NCPH													
+Pilot, The (Pilot Mountain, NC)											NCPI													
+Pauls Valley Daily Democrat (OK)											NCPJ													
+Prosper Press (Van Alstyne, TX)											NCPK													
+Pella Chronicle (IA)											NCPL													
+Portsmouth Herald (NH)											NCPM													
+Peninsula Gateway, The (Gig Harbor, WA)											NCPN													
+Pharos-Tribune (Logansport, IN)											NCPO													
+Picayune Item (MS)											NCPP													
+Poplarville Democrat, The (MS)											NCPQ													
+Port Arthur News, The (TX)											NCPR													
+Portales News-Tribune, The (NM)											NCPS													
+Post and Courier, The (Charleston, SC)											NCPT													
+Post-Crescent, The (Appleton, WI)											NCPU													
+Progress-Index, The (Petersburg, VA)											NCPV													
+Pueblo Chieftain, The (CO)											NCPX													
+Puyallup Herald (WA)											NCPY													
+Quay County Sun (Tucumcari, NM)											NCQA													
+Register-Guard, The (Eugene, OR)											NCRA													
+Register-Herald, The (Beckley, WV)											NCRB													
+Reidsville Review, The (NC)											NCRC													
+Reporter, The (Tavernier, FL)											NCRD													
+Republican and Herald (Pottsville, PA)											NCRE													
+Record, The (Bel Air, MD)											NCRF													
+Richmond Register (KY)											NCRG													
+Richmond Times-Dispatch (VA)											NCRI													
+Roanoke Times, The (VA)											NCRM													
+Rockwall County Herald-Banner (Greenville, TX)											NCRO													
+Royse City Herald-Banner (TX)											NCRR													
+Ruidoso News (NM)											NCRS													
+Rushville Republican, The (IN)											NCRU													
+Red Springs Citizen, The (NC)											NCRZ													
+Salina Journal, The (KS)											NCSA													
+Salt Lake Tribune, The (UT)											NCSB													
+San Marcos Daily Record (TX)											NCSC													
+Sanford Herald, The (NC)											NCSD													
+Santa Fe New Mexican, The (NM)											NCSE													
+Savannah Morning News (GA)											NCSF													
+Sedalia Democrat, The (MO)											NCSG													
+Sentinel Echo, The (London, KY)											NCSH													
+Shelbyville Daily Union (IL)											NCSI													
+Silver City Sun-News (NM)											NCSJ													
+Skagit Valley Herald (Mount Vernon, WA)											NCSK													
+Smithfield Herald, The (NC)											NCSL													
+Spokesman-Review, The (Spokane, WA)											NCSN													
+St. Clair News-Aegis (Pell City, AL)											NCSO													
+St. Joseph News-Press (MO)											NCSP													
+Stafford County Sun (VA)											NCSR													
+Standard-Examiner (Ogden, UT)											NCSS													
+Stanly News and Press, The (Albemarle, NC)											NCST													
+Star, The (Shelby, NC)											NCSU													
+Star-Herald, The (Kosciusko, MS)											NCSV													
+Star-News (Wilmington, NC)											NCSW													
+Statesville Record and Landmark (NC)											NCSX													
+Stillwater NewsPress (OK)											NCSY													
+Sudan Tribune (web site)											NCSZ													
+Tahlequah Daily Press (OK)											NCTA													
+Tampa Tribune (FL)											NCTB													
+Tribune, The (Elkin, NC)											NCTC													
+Trend News Agency (Azerbaijan)											NCTD													
+Telegraph, The (Alton, IL)											NCTE													
+Tribune Washington Bureau											NCTG													
+Thomasville Times-Enterprise (GA)											NCTH													
+Tifton Gazette, The (GA)											NCTI													
+Times and Democrat, The (Orangeburg, SC)											NCTJ													
+Times of India, The											NCTK													
+Times West Virginian, The (Fairmont, WV)											NCTL													
+Times, The (Munster, IN)											NCTM													
+Times-News (Burlington, NC)											NCTN													
+Times-News, The (Twin Falls, ID)											NCTO													
+Tom Hamilton Real Estate Queries Column											NCTQ													
+Tribune-Star (Terre Haute, IN)											NCTS													
+Tri-City Herald (Kennewick, WA)											NCTT													
+Tulsa World (OK)											NCTU													
+Towson Times (MD)											NCTW													
+Times-Tribune, The (Lexington, KY)											NCTX													
+Tyler Morning Telegraph (TX)											NCTY													
+Union-Recorder, The (Milledgeville, GA)											NCUR													
+Valdosta Daily Times, The (GA)											NCVA													
+Van Alstyne Leader (TX)											NCVB													
+View from Ellicott City, The (Columbia, Md)											NCVC													
+Virgin Islands Daily News, The (St. Thomas)											NCVD													
+Valley Morning Star (Harlingen, TX)											NCVE													
+Virginia Gazette, The (Williamsburg)											NCVG													
+Victoria Advocate (TX)											NCVI													
+Virginian-Pilot, The (Norfolk, VA)											NCVP													
+V3.co.uk (web site)											NCVT													
+Walla Walla Union-Bulletin (WA)											NCWB													
+Walton Sun (Santa Rosa Beach, FL)											NCWC													
+Washington Times-Herald (IN)											NCWH													
+Wine Press Northwest (Kennewick, WA)											NCWI													
+Waterloo-Cedar Falls Courier (IA)											NCWL													
+Waurika News-Democrat (OK)											NCWN													
+Wayne County Outlook, The (Monticello, KY)											NCWO													
+Weatherford Democrat (TX)											NCWP													
+Wenatchee World, The (WA)											NCWQ													
+Whittier Daily News, The (CA)											NCWR													
+Wilson Daily Times, The (NC)											NCWS													
+Winston-Salem Journal (NC)											NCWT													
+Wisconsin State Journal, The (Madison)											NCWU													
+Woodward News, The (OK)											NCWW													
+Wyoming Tribune-Eagle											NCWY													
+Yakima Herald-Republic (WA)											NCYH													
+Zionsville Times Sentinel (IN)											NCZT													
+Auto Express (web site)											NDAU													
+bit-tech (web site)											NDBI													
+CarBuyer (web site)											NDCA													
+Channel Pro (web site)											NDCH													
+Cloud Pro (web site)											NDCL													
+Den of Geek (web site)											NDDE													
+Digital SLR Photography (web site)											NDDI													
+evo (web site)											NDEV													
+Expert Reviews (web site)											NDEX													
+Octane (web site)											NDOC													
+Week, The (UK) (web site)											NDWE													
+Kings County Advertiser, The (NS)											NE													
+eWorldWire											NEWO													
+GlobalPost											NGPT													
+Deh Cho Drum (NWT)											NH													
+Hindu Business Line, The											NHBL													
+Inuvik Drum (NWT)											NI													
+Info-Prod Research											NIPR													
+Nice-Matin (réf. site web)											NIW													
+Corse-Matin (réf. site web)											NIX													
+Var-Matin (réf. site web)											NIY													
+Kings County Register (NS)											NJ													
+Shelburne County Coast Guard, The (NS)											NK													
+Asia News Network											NKAA													
+Akron Beacon Journal, The (OH)											NKAB													
+Anson Record, The (Wadesboro, NC)											NKAC													
+Albany Herald, The (GA)											NKAD													
+Albert Lea Tribune (MN)											NKAE													
+Ames Tribune (IA)											NKAF													
+Abilene Reporter-News (TX)											NKAG													
+Agerpres											NKAH													
+Akron News-Reporter (CO)											NKAK													
+AM New York (NY)											NKAM													
+Alaska Dispatch (Anchorage)											NKAN													
+Andover Townsman (MA)											NKAO													
+Appeal-Democrat (Marysville, CA)											NKAP													
+Argus, The (Fremont, CA)											NKAR													
+Asbury Park Press (NJ)											NKAS													
+Bakersfield Californian, The (CA)											NKBA													
+Bangor Daily News (ME)											NKBB													
+Beach Reporter, The (CA)											NKBC													
+Bladen Journal (Elizabethtown, NC)											NKBD													
+Beaver County Times (PA)											NKBE													
+Bigfork Eagle (MT)											NKBF													
+Bellingham Herald, The (WA)											NKBG													
+Bemidji Pioneer, The (MN)											NKBI													
+Bennington Banner (VT)											NKBJ													
+Berkshire Eagle, The (Pittsfield, MA)											NKBK													
+Blade, The (Toledo, OH)											NKBL													
+Blairsville Dispatch, The (PA)											NKBM													
+Buffalo News, The (NY)	0745-2691										NKBN													
+Brattleboro Reformer (VT)											NKBO													
+Burbank Leader (Glendale, CA)											NKBU													
+Bland County Messenger, The (Wytheville, VA)											NKBW													
+Cape Cod Times (Hyannis, MA)											NKCA													
+Carlsbad Current-Argus (NM)											NKCB													
+Capital, The (Annapolis, MD)											NKCC													
+Centre Daily Times, The (State College, PA)											NKCD													
+Chicago Tribune (IL)											NKCE													
+Columbia Flier (MD)											NKCF													
+Carroll Eagle (Westminster, Md)											NKCG													
+Chico Enterprise-Record (CA)											NKCH													
+Citizens' Voice, The (Wilkes-Barre, PA)											NKCI													
+Carroll News, The (Hillsville, VA)											NKCJ													
+Colorado Daily (Boulder)											NKCK													
+Columbus Dispatch, The (OH)											NKCL													
+Columbus Ledger-Enquirer (Columbus, GA)											NKCM													
+Colusa County Sun-Herald (CA)											NKCN													
+Chronicle, The (Centralia, WA)											NKCO													
+Campbell Reporter, The (CA)											NKCP													
+Claiborne County Progress (Tazewell, TN)											NKCQ													
+Corning Observer (CA)											NKCR													
+Coal Valley News (Madison, WV)											NKCS													
+Cupertino Courier (CA)											NKCU													
+Catonsville Times (Ellicott City, Md)											NKCV													
+Caribbean News Now											NKCW													
+Cayman Net News (Cayman Islands)											NKCY													
+Community Common, The (Portsmouth, OH)											NKCZ													
+Daily Breeze (Torrance, CA)											NKDA													
+Daily Pilot (Costa Mesa, CA)											NKDB													
+Daily Courier, The (Connellsville, PA)											NKDC													
+Daily Democrat, The (Woodland, CA)											NKDD													
+Daily World, The (Aberdeen, WA)											NKDF													
+Daily Globe, The (Worthington, MN)											NKDG													
+Daily Sentinel, The (Pomeroy, OH)											NKDH													
+Daily Item, The (Sunbury, PA)											NKDI													
+Dispatch, The (Lexington, NC)											NKDJ													
+Durham News, The (NC)											NKDK													
+Daily News (Los Angeles, CA)											NKDL													
+Daily Times-Call (Longmont, CO)											NKDM													
+Daily News of Newburyport, The (MA)											NKDN													
+Daily Press (Newport News, VA)											NKDO													
+Daily Press (Victorville, CA)											NKDP													
+Daily Review, The (Hayward, CA)											NKDQ													
+Daily Review, The (Towanda, PA)											NKDR													
+Daily Star, The (Oneonta, NY)											NKDS													
+Dallas Morning News, The (TX)											NKDT													
+Dayton Daily News (OH)											NKDU													
+Durant Daily Democrat (OK)											NKDV													
+Derry News, The (NH)											NKDW													
+Desert Dispatch (Barstow, CA)											NKDX													
+Dispatch, The (Gilroy, CA)											NKDY													
+Daily Herald, The (Columbia, TN)											NKDZ													
+Eagle Times (Claremont, NH)											NKEA													
+Edwardsville Intelligencer, The (IL)											NKEB													
+Eagle-Tribune, The (North Andover, MA)											NKEE													
+East Valley Tribune (Mesa, AZ)											NKEM													
+Erie Times-News (PA)											NKER													
+Evening Sun, The (Hanover, PA)											NKEV													
+Fox CT (Hartford, CT)											NKFC													
+Financial Mail on Sunday (London, UK)											NKFI													
+Floyd Press, The (VA)											NKFL													
+Fox 43 (York, PA)											NKFO													
+Free Press, The (Mankato, MN)											NKFP													
+Fresno Bee, The (CA)											NKFR													
+Fox 59 (Indianapolis, IN)											NKFX													
+Floyd County Times, The (Prestonburg, KY)											NKFY													
+Gazette, The (Colorado Springs, CO)											NKGA													
+Gleaner, The (Henderson, KY)											NKGB													
+Gloucester Daily Times (MA)											NKGD													
+Glendale News-Press (CA)											NKGE													
+Grand Forks Herald (Grand Forks, ND)											NKGF													
+Grunion Gazette (Long Beach, CA)											NKGG													
+Gallipolis Daily Tribune (OH)											NKGL													
+Grayson County News-Gazette (Leitchfield, KY)											NKGR													
+Hartford Courant, The (CT)											NKHA													
+Huntington Beach Independent (CA)											NKHB													
+Huron Daily Tribune (Bad Axe, MI)											NKHC													
+Herald Independent, The (Winnsboro, SC)											NKHE													
+Haverhill Gazette, The (MA)											NKHG													
+Harlan Daily Enterprise (KY)											NKHL													
+Herald-Palladium, The (St. Joseph, MI)											NKHP													
+Hesperia Star (CA)											NKHS													
+Huffington Post, The (web site)											NKHT													
+Humboldt Beacon, The (Fortuna, CA)											NKHU													
+Hungry Horse News (Columbia Falls, MT)											NKHY													
+Hazard Herald, The (KY)											NKHZ													
+Idaho Statesman, The (Boise, ID)											NKIA													
+Independent Mail (Anderson, SC)											NKIB													
+Inland Valley Daily Bulletin (CA)											NKID													
+KIAH-TV (Houston, TX)											NKIH													
+Independent Herald (Pineville, WV)											NKIN													
+Island Packet, The (Hilton Head, SC)											NKIP													
+Independent Weekly (Durham, NC)											NKIW													
+Jefferson Post (West Jefferson, NC)											NKJE													
+Journal-News, The (Hamilton, OH)											NKJN													
+Journal-Register, The (Medina, NY)											NKJR													
+Sun Journal (Lewiston, ME)											NKJS													
+33, The (Dallas/Fort Worth, TX)											NKKD													
+Kennebec Journal (Augusta, ME)											NKKJ													
+Knoxville Journal Express (IA)											NKKN													
+Kitsap Sun (Bremerton, WA)											NKKS													
+KTLA-TV (Los Angeles, CA)											NKKT													
+Las Vegas Sun (NV)											NKKV													
+Fox 5 (San Diego, CA)											NKKW													
+Fox 40 (Sacramento, CA)											NKKX													
+Lake County News-Chronicle (Two Harbors, MN)											NKLA													
+Lake County Record Bee (Lakeport, CA)											NKLB													
+Intelligencer Journal / Lancaster New Era (PA)											NKLC													
+Land, The (Mankato, MN)											NKLD													
+Leader-Times, The (Kittanning, PA)											NKLE													
+Lebanon Daily News (PA)											NKLF													
+Lewiston Morning Tribune (ID)											NKLG													
+Laguna Beach Coastline Pilot (Costa Mesa, CA)											NKLH													
+Lima News, The (OH)											NKLI													
+Laurinburg Exchange, The (NC)											NKLJ													
+Lockport Union-Sun and Journal (NY)											NKLK													
+Lebanon Democrat, The (TN)											NKLL													
+Lodi News-Sentinel (CA)											NKLN													
+Los Banos Enterprise (CA)											NKLO													
+Lake City News and Post (SC)											NKLP													
+Logan Banner (WV)											NKLR													
+La Cañada Valley Sun (La Cañada Flintridge, CA)											NKLS													
+Los Angeles Times (CA)											NKLT													
+LaGrange Daily News (GA)											NKLW													
+Macon Telegraph, The (Macon, GA)											NKMA													
+Marion Star and Mullins Enterprise (Marion, SC)											NKMB													
+Macon County Times (Lafayette, TN)											NKMC													
+Marin Independent Journal, The (Novato, CA)											NKMD													
+Meadville Tribune, The (PA)											NKME													
+Merced Sun-Star (CA)											NKMF													
+Messenger, The (Hartsville, SC)											NKMG													
+Midland Daily News (MI)											NKMH													
+Middletown Journal (OH)											NKMI													
+Milwaukee Journal Sentinel (WI)											NKMJ													
+Middlesboro Daily News (KY)											NKML													
+Manhattan Mercury, The (KS)											NKMM													
+Mount Airy News, The (NC)											NKMN													
+Modesto Bee, The (CA)											NKMO													
+Morning Call, The (Allentown, PA)											NKMR													
+Morning Sentinel (Waterville, ME)											NKMS													
+Moscow-Pullman Daily News (ID)											NKMW													
+Morris Daily Herald (IL)											NKMY													
+New Castle News (PA)											NKNA													
+New Haven Register (CT)											NKNB													
+News and Observer, The (Raleigh, N.C.)											NKNC													
+News Tribune, The (Tacoma, WA)											NKND													
+Newsday (Melville, NY)											NKNE													
+New Hampshire Union Leader (Manchester)											NKNF													
+Naples Daily News (FL)											NKNG													
+News-Herald, The (Willoughby, OH)											NKNH													
+News-Item, The (Shamokin, PA)											NKNI													
+Northeast Booster (Towson, MD)											NKNJ													
+News-Democrat and Leader (Russellville, KY)											NKNL													
+Niagara Gazette (Niagara Falls, NY)											NKNN													
+North Adams Transcript (MA)											NKNO													
+Norwalk Reflector (OH)											NKNR													
+North County Times (Escondido, CA)											NKNT													
+Newberry Observer, The (SC)											NKNV													
+Newton Daily News (IA)											NKNW													
+News, The (Mexico City)											NKNX													
+Oakland Tribune, The (CA)											NKOA													
+Olympian, The (Olympia, WA)											NKOL													
+Orange County Register, The (Santa Ana, CA)											NKON													
+Orland Press Register (CA)											NKOR													
+Orlando Sentinel, The (FL)											NKOS													
+Korea Times, The											NKOT													
+Oroville Mercury-Register (CA)											NKOY													
+Palo Alto Daily News (CA)											NKPA													
+Patriot-News, The (Harrisburg, PA)											NKPB													
+Pocono Record, The (Stroudsburg, PA)											NKPC													
+Philadelphia Daily News, The (PA)											NKPD													
+Pine Journal, The (Cloquet, MN)											NKPE													
+Professional Pensions											NKPF													
+Pittsburgh Post-Gazette (PA)											NKPG													
+Portsmouth Daily Times (OH)											NKPH													
+Pittsburgh Tribune-Review, The (PA)											NKPI													
+Porterville Recorder, The (CA)											NKPJ													
+Point Pleasant Register (WV)											NKPK													
+Press Democrat, The (Santa Rosa, CA)											NKPM													
+Press of Atlantic City, The (Pleasantville, NJ)											NKPN													
+Post-Star, The (Glens Falls, NY)											NKPO													
+Portland Press Herald (ME)											NKPP													
+Plainview Daily Herald (TX)											NKPQ													
+Press-Enterprise, The (Riverside, CA)											NKPR													
+Press-Republican, The (Plattsburgh, NY)											NKPS													
+Press-Telegram (Long Beach, CA)											NKPT													
+Providence Journal, The (RI)											NKPV													
+Public Opinion (Chambersburg, PA)											NKPX													
+Q13 Fox (Seattle, WA)											NKQT													
+Reading Eagle (PA)											NKRA													
+Record, The (Hackensack, NJ)											NKRB													
+Record, The (Stockton, CA)											NKRC													
+Record-Eagle, The (Traverse City, MI)											NKRD													
+Red Bluff Daily News (CA)											NKRE													
+Redlands Daily Facts (CA)											NKRF													
+Randolph Guide, The (Asheboro, NC)											NKRG													
+Redding Record Searchlight (CA)											NKRH													
+Richmond County Daily Journal (NC)											NKRI													
+Richlands News-Press (VA)											NKRN													
+Robesonian, The (Lumberton, NC)											NKRO													
+Redwood Times (Garberville, CA)											NKRT													
+Reporter, The (Vacaville, CA)											NKRV													
+Sacramento Bee, The (CA)											NKSA													
+Salem News (Beverly, MA)											NKSB													
+San Bernardino County Sun (CA)											NKSC													
+San Gabriel Valley Tribune (West Covina, CA)											NKSE													
+San Mateo County Times (CA)											NKSF													
+Santa Barbara News-Press (CA)											NKSG													
+Santa Cruz Sentinel (CA)											NKSH													
+Seattle Times, The (WA)											NKSI													
+Sentinel and Enterprise (Fitchburg, MA)											NKSJ													
+Sierra Star (Oakhurst, CA)											NKSK													
+St. Louis Post-Dispatch (MO)											NKSL													
+Standard-Speaker (Hazleton, PA)											NKSN													
+Star Beacon (Ashtabula, OH)											NKSO													
+Sun Journal (New Bern, NC)											NKSP													
+Sun News, The (Myrtle Beach, SC)											NKSQ													
+Star Tribune (Minneapolis, MN)											NKSR													
+State, The (Columbia, SC)											NKSS													
+Stateline.org											NKST													
+Sun Herald, The (Biloxi, MS)											NKSU													
+Sun Sentinel (Fort Lauderdale, FL)											NKSV													
+Sun, The (Lowell, MA)											NKSW													
+Sun, The (Midwest City, OK)											NKSX													
+Sun, The (Yuma, AZ)											NKSZ													
+Telegraph, The (Nashua, NH)											NKTA													
+Times Record News (Wichita Falls, TX)											NKTB													
+Times-Herald (Vallejo, CA)											NKTC													
+Treasure Coast Newspapers (Stuart, FL)											NKTD													
+Tennessean, The (Nashville, TN)											NKTE													
+Times Record (Fort Smith, AR)											NKTF													
+Times-Standard (Eureka, CA)											NKTI													
+Times-Tribune, The (Scranton, PA)											NKTJ													
+Turks and Caicos Net News											NKTK													
+Tico Times, The (Costa Rica)											NKTM													
+Tonawanda News (North Tonawanda, NY)											NKTO													
+Tampa Bay Times (St. Petersburg, FL)											NKTP													
+Tribune-Democrat (Johnstown, PA)											NKTR													
+Tribune-Review (Greensburg, PA)											NKTS													
+Thomaston Times, The (GA)											NKTT													
+Tri-Valley Herald (Pleasanton, CA)											NKTV													
+Ukiah Daily Journal, The (CA)											NKUD													
+Union Daily Times, The (SC)											NKUN													
+Valley Independent, The (Monessen, PA)											NKVA													
+Valley News-Dispatch, The (Tarentum, PA)											NKVD													
+Ventura County Star (CA)											NKVE													
+Vindicator (Youngstown, OH)											NKVI													
+Waterbury Republican-American (CT)											NKWA													
+Washington County News (Abingdon, VA)											NKWC													
+Watertown Daily Times (NY)											NKWD													
+West Central Tribune (Willmar, MN)											NKWE													
+Willits News, The (CA)											NKWI													
+Williamson Daily News (WV)											NKWL													
+Western News, The (Libby, MT)											NKWN													
+Weekly Observer, The (Hemingway, SC)											NKWO													
+WPIX-TV (New York, NY)											NKWP													
+WGN-TV (Chicago, IL)											NKWT													
+Fox 17 (Grand Rapids, MI)											NKWX													
+Wytheville Enterprise (VA)											NKWY													
+Yadkin Ripple, The (Yadkinville, NC)											NKYA													
+York Daily Record (PA)											NKYD													
+York Dispatch, The (PA)											NKYK													
+Kyodo News International											NKYN													
+Zap2it (web site)											NKZA													
+Digby County Courier, The (NS)											NM													
+All Africa (web site)											NMAF													
+M2 Airline Industry Information											NMCA													
+M2 Best Books											NMCB													
+M2 Corporate IT Update											NMCC													
+EquityBites											NMCE													
+M2 Internet Business News											NMCI													
+M2 Nordic Business Report											NMCN													
+M2 Telecomworldwire											NMCT													
+M2 Worldwide Computer Products News											NMCW													
+News North (NWT)	1717-6581										NN													
+PR Newswire Asia											NPRA													
+PR Newswire Europe (danske)											NPRB													
+PR Newswire Europe (deutsch)											NPRC													
+PR Newswire Europe (español)											NPRD													
+PR Newswire Europe (suomalainen)											NPRE													
+PR Newswire Europe (français)											NPRF													
+PR Newswire Europe (italiano)											NPRG													
+PR Newswire Europe (nederlands)											NPRH													
+PR Newswire Europe (norske)											NPRI													
+PR Newswire Europe (português)											NPRJ													
+PR Newswire UK Disclose											NPRK													
+PR Newswire Europe (svenska)											NPRL													
+Hants Journal, The (Windsor, NS)											NQ													
+Nouvelle République du Centre-Ouest, La											NR													
+Canada At A Glance											NRCA													
+Canadian Forex (Bond Comment)											NRCB													
+Canadian Dollar And Business Outlook											NRCD													
+Canadian Forex											NRCF													
+Canadian Grain and Livestock Newswire											NRCG													
+Canada Sportsbreak											NRCS													
+TSX Review											NRTR													
+Thomson Reuters ONE (english)											NS													
+SinoCast Daily Business Beat											NSCB													
+SinoCast's China Financial Watch											NSCF													
+SinoCast's China IT Watch											NSCI													
+SinoCast's China Transportation Watch											NSCT													
+Selected Tweets											NTWA													
+Canadian Politwits											NTWC													
+Nunavut News North	1710-4831										NU													
+Arizona Daily Wildcat (U. of Arizona)											NUAR													
+Branding Iron (U. of Wyoming)											NUBI													
+Brock Press (Brock U., ON)											NUBR													
+Colorado Daily (U. of Colorado)											NUCO													
+Crimson White, The (U. of Alabama)											NUCR													
+Daily Cardinal, The (U. of Wisconsin-Madison)											NUDA													
+Daily Collegian (Pennsylvania State U.)											NUDB													
+Daily Egyptian, The (Southern Illinois U.)											NUDD													
+Daily Free Press, The (Boston U., MA)											NUDF													
+Daily Northwestern (Northwestern U., IL)											NUDG													
+Daily Princetonian (Princeton U., NJ)											NUDH													
+Daily Targum (Rutgers U., NJ)											NUDI													
+District Chronicles, The (Howard U., DC)											NUDJ													
+Daily Californian, The (U. of California)											NUDK													
+Harvard Political Review											NUHA													
+Hoya, The (Georgetown U., DC)											NUHO													
+Indiana Daily Student (Indiana U.)											NUIN													
+Johns Hopkins News-Letter, The (J.H.U., MD)											NUJO													
+Lafayette, The (Lafayette Coll., PA)											NULA													
+Leader, The (Elmhurst Coll., IL)											NULE													
+McGill Tribune, The (McGill U., QC)											NUMA													
+Michigan Daily (U. of Michigan)											NUMB													
+Minaret, The (U. of Tampa, FL)											NUMD													
+Peak, The (Simon Fraser U., BC)											NUPE													
+NewsUSA											NUSA													
+Tech, The (MIT, MA)											NUTE													
+Yale Herald, The (Yale U., CT)											NUYA													
+Nouvelliste, Le (Trois-Rivières)	0832-0934										NV													
+CRN											NVCR													
+NewsPress (français)											NW													
+NewsPress (english)											NWA													
+Annapolis County Spectator, The (NS)											NX													
+Cheraw Chronicle, The (SC)											NXCA													
+Columbia Basin Herald (Moses Lake, WA)											NXCB													
+Courier-Tribune, The (Asheboro, NC)											NXCC													
+Corpus Christi Caller-Times (TX)											NXCD													
+Converge											NXCO													
+Saratoga News (CA)											NXSA													
+South Bend Tribune (IN)											NXSB													
+Smyth County News and Messenger (Marion, VA)											NXSC													
+SourceWire											NXSD													
+Sentinel, The (Carlisle, PA)											NXSE													
+Soundoff! (Ft. Meade, MD)											NXSF													
+San Angelo Standard-Times (TX)											NXSG													
+Swedish Wire, The											NXSK													
+Sampson Independent, The (Clinton, NC)											NXSM													
+Stokes News, The (Walnut Cove, NC)											NXSO													
+Springfield News-Sun (OH)											NXSP													
+Stars and Stripes											NXSS													
+St. Cloud Times (MN)											NXST													
+Sunnyvale Sun, The (CA)											NXSU													
+Suwannee Democrat (Live Oak, FL)											NXSW													
+New York Times, The	0362-4331										NY													
+New York Times, The (blogs)											NYB													
+Business Insider (blogs)											NYBU													
+Yomiuri Shimbun, The											NYOS													
+Yarmouth County Vanguard, The (NS)											NZ													
+Daily App Show, The (web TV)											NZD													
+Deutsche Welle (web TV)											NZE													
+Google (web TV)											NZG													
+Into Tomorrow (web TV)											NZJ													
+Market News Video (web TV)											NZM													
+New York Financial Press (web TV)											NZN													
+Pop17 (web TV)											NZP													
+This Week In, Inc. (web TV)											NZS													
+Ottawa Business Journal (blogs)											OBB													
+Ottawa Business Journal (web site)											OBJ													
+Courrier de l'Ouest, Le											OCO													
+Courrier de l'Ouest, Le (site web)											OCW													
+Ouest-France	0999-2138										OF													
+Presse Océan	1771-2319										OFP													
+Ouest-France (site web)											OFW													
+Ottawa Business Journal	1207-8166										OJ													
+Journal Habitation (Qc, Lévis, Beauce et Portneuf)	1203-3359										OK													
+Maine Libre, Le											OML													
+Maine Libre, Le (site web)											OMW													
+Presse Océan (site web)											OOW													
+Journal de Montréal, Le	0839-5179										OP													
+Agence Option Finance (AOF)											OPA													
+Option Droit et Affaires											OPD													
+Opinion, L'											OPI													
+Opinion, L' (site web)											OPJ													
+Option Finance											OPT													
+Option Finance (site web)											OPU													
+Journal de Montréal, Le (réf. site web)											OPW													
+Journal de Québec, Le	0839-1106										OR													
+Journal de Québec, Le (réf. site web)											ORW													
+Étoile du Lac, L' (Roberval)											OX													
+Lac-St-Jean, Le (Alma, QC)											OY													
+Courrier Sud, Le (Bécancour/Nicolet-Yamaska, QC)											OZ													
+Parisien, Le	0767-3558										PA													
+100 Mile House Free Press (South Cariboo)	0843-0403										PAA													
+Abbotsford News, The	0839-3648										PAB													
+Agassiz-Harrison Observer, The	1194-448X										PAC													
+Alberni Valley News	0839-3648										PAE													
+Aldergrove Star											PAG													
+Paris-Normandie	0999-2154										PAN													
+Arrow Lakes News (Nakusp)											PAR													
+Ashcroft Cache Creek Journal, The	0824-6394										PAS													
+Cape Breton Post	0839-4970										PB													
+North Thompson Star/Journal	0823-7425										PBA													
+BC Local News											PBC													
+Bowen Island Undercurrent	0229-2793										PBI													
+Burnaby NewsLeader											PBN													
+Cape Breton Community Post											PBP													
+Business Examiner - Fraser Valley											PBS													
+Business Examiner - Thompson Okanagan											PBT													
+Business Examiner - Vancouver Island											PBV													
+Presse canadienne, La											PC													
+Caledonia Courier (Fort St. James)											PCA													
+Campbell River Mirror	1484-2769										PCB													
+Capital News (Kelowna)	1717-6042										PCE													
+Castlegar News											PCG													
+Chilliwack Progress, The	0839-2986										PCL													
+Chronicle, The (Ladysmith)	0841-3592										PCO													
+Cloverdale Reporter	1719-5888										PCR													
+Comox Valley Record (Courtenay)	#0836-0880										PCV													
+Cowichan News Leader (Duncan), The	0703-9220										PCW													
+Creston Valley Advance											PCY													
+Progrès-dimanche, Le	0841-8357										PD													
+Points de Vente											PDV													
+Parisien Économie, Le											PE													
+Eagle Valley News (Sicamous)	0828-833X										PEA													
+Pèlerin											PEL													
+Free Press, The (Fernie)											PFP													
+Parisien, Le (site web)											PFR													
+Golden Star, The	0844-0409										PGA													
+Grand Forks Gazette											PGF													
+Goldstream News Gazette (Victoria)	0383-1213										PGO													
+Growers' Journal (Kelowna)											PGR													
+Gulf Islands Driftwood (Salt Spring Island)	1198-7782										PGW													
+Havre Libre											PHL													
+Havre Presse, Le											PHP													
+Hope Standard, The	0841-3614										PHS													
+Houston Today											PHT													
+Indulge Magazine											PID													
+Interior News, The (Smithers)											PIN													
+Aujourd'hui en France	1247-4282										PJ													
+Kamloops This Week	0841-2243										PKA													
+Keremeos Review											PKE													
+Kitimat Northern Sentinel	1186-4761										PKI													
+Kootenay News Advertiser (Cranbrook)											PKN													
+Nelson Star (Castlegar)											PKO													
+Kootenay Woman											PKW													
+Lake Country Calendar											PLA													
+Lake Cowichan Gazette, The											PLC													
+Lakes District News (Burns Lake)	1184-4760										PLD													
+Langley Times, The	0711-7450										PLG													
+Merritt Herald											PME													
+Mission Record											PMI													
+Monday Magazine											PMO													
+Morning Star, The (Vernon)	0842-4349										PMV													
+Nanaimo News Bulletin	1717-791X										PNA													
+New Westminster News Leader											PNC													
+News, The (Maple Ridge)	0227-2598										PND													
+News, The (Parksville Qualicum Beach)	1719-1866										PNE													
+North Island Gazette (Port Hardy)	1181-4128										PNG													
+North Island MidWeek (Campbell River)											PNI													
+North Shore Outlook	1495-7612										PNO													
+North Thomson Times, The (Clearwater)											PNT													
+Northern View, The (Prince Rupert)											PNV													
+Point, Le	0242-6005										PO													
+Oak Bay News (Victoria)											POA													
+Okanagan Falls Review (Keremeos)											POK													
+Point, Le (site web)											POR													
+Omineca Express (Vanderhoof)											POV													
+Prairie Post											PP													
+Peace Arch News (White Rock)	0700-9003										PPA													
+Peninsula News Review (Sidney)											PPE													
+Penticton Western News											PPN													
+Prince George Free Press	1207-7062										PPS													
+Progrès de Coaticook, Le (QC)											PQ													
+Quesnel Cariboo Observer	1195-5023										PQC													
+Progrès, Le (Lyon)	2102-6807										PR													
+Revelstoke Times Review											PRE													
+Progrès de Fécamp, Le											PRF													
+Richmond Review, The	1490-5027										PRI													
+Provence, La											PRV													
+Halifax Weekly News, The (NS)											PS													
+Saanich News (Victoria)	0838-9217										PSA													
+Salmon Arm Observer											PSB													
+Similkameen Spotlight (Princeton)											PSI													
+Sooke News Mirror											PSK													
+South Delta Leader											PSL													
+Summerland Review											PSR													
+Surrey Leader, The	1490-7526										PSY													
+Bedford-Sackville Weekly News, The (NS)											PT													
+Terrace Standard	0841-9264										PTA													
+Trail-Rossland News											PTL													
+Tri-City News (Port Coquitlam)	0839-4741										PTN													
+Trail Daily Times											PTR													
+Dartmouth-Cole Harbour Weekly News, The (NS)											PU													
+Protégez-vous	0701-8517										PV													
+Valley Echo, The (Invermere)											PVA													
+Victoria News	0846-4235										PVI													
+Protégez-vous (site web)											PVW													
+Prairie Post West											PW													
+WE Vancouver											PWE													
+Williams Lake Tribune, The											PWL													
+Wine Trails											PWN													
+Express, L' (Orleans)											PX													
+Orléans Star											PY													
+East Ottawa Star											PZ													
+Écho La Tuque - Haut St-Maurice, L'											QA													
+2 Rives, Les (Sorel-Tracy, QC)											QAA													
+Actualités, Les (Asbestos, QC)											QAC													
+Agri Vallée (Valleyfield, QC)											QAG													
+Avant-Poste, L' (Matane, QC)											QAV													
+Beauport Express											QB													
+Beauce Média											QBM													
+Brossard Éclair (QC)											QBR													
+Charlesbourg Express											QC													
+Citoyen Rouyn-Noranda - Abitibi-Ouest, Le (QC)											QCA													
+Camrose Canadian, The (AB)											QCAM													
+Citoyen Vallée de l'Or - Harricana, Le (QC)											QCB													
+Courrier du Fleuve, Le (Rimouski, QC)											QCF													
+Courrier du Sud, Le (Longueuil, QC)											QCO													
+Cold Lake Sun, The (AB)											QCOL													
+Courier Press, The (Wallaceburg, ON)											QCOP													
+Crowsnest Pass Promoter, The (AB)											QCRO													
+Actuel, L' (Haute-Saint-Charles / Les Rivières)											QD													
+Delhi News-Record, The (ON)											QDEL													
+Appel, L' (Sainte-Foy)											QE													
+Écho Abitibien, L' (Val-d'Or, QC)											QEA													
+Écho de La Baie, L' (Gaspé, QC)											QEB													
+Écho de la Lièvre, L' (Mont-Laurier, QC)											QEC													
+Écho de la Rive-Nord, L' (Ste-Thérèse, QC)											QED													
+Écho de Laval, L' (QC)											QEF													
+Écho de Repentigny, L' (QC)											QEG													
+Écho de Saint-Eustache, L' (QC)											QEH													
+Écho de Saint-Jean-sur-Richelieu, L' (QC)											QEI													
+Écho de Shawinigan, L' (QC)											QEJ													
+Écho de Trois-Rivières, L' (QC)											QEK													
+Écho de Victoriaville, L' (QC)											QEL													
+Écho du Nord, L' (St-Jérôme, QC)											QEM													
+Éclaireur-Progrès, L' (St-Georges, QC)											QEN													
+Voix du Sud, La (Lac-Etchemin, QC)											QF													
+Fairview Post, The (AB)											QFAI													
+Frontière, La (Rouyn-Noranda, QC)											QFR													
+Jacques-Cartier, Le											QG													
+Gananoque Reporter, The (ON)											QGAN													
+Gleaner, The (Huntingdon, QC)											QGL													
+Guelph Review (ON)											QGUE													
+Journal Économique, Le											QH													
+Havre, Le (Gaspé, QC)											QHA													
+Hanna Herald, The (AB)											QHAN													
+Hebdo Régional de Beauce (QC)											QHE													
+High River Times, The (AB)											QHIG													
+Huron Expositor, The (Seaforth, ON)											QHUR													
+Québec Express (La Cité / Limoilou)											QI													
+Impact de Drummondville, L' (QC)											QIA													
+Independent on Sunday (UK)											QIAAB													
+Information d'Affaires Rive-Sud, L' (Beloeil, QC)											QIB													
+Information du Nord, L' - Mont-Tremblant (QC)											QIC													
+Information du Nord, L' - Ste-Agathe (QC)											QID													
+Information du Nord, L' - Vallée de la Rouge (QC)											QIE													
+Information Ste-Julie/Varennes/St-Amable, L' (QC)											QIF													
+Information, L' (Mont-Joli, QC)											QIG													
+Ingersoll Times, The (ON)											QING													
+Innisfil Examiner (ON)											QINN													
+InPort News (Port Colborne, ON)											QINP													
+Cités Nouvelles (Dollard-des-Ormeaux)											QJ													
+Jamésien, Le (Chibougamau, QC)											QJA													
+Journal de Chambly, Le (QC)											QJB													
+Journal de Joliette, Le (QC)											QJC													
+Journal de Magog, Le (QC)											QJD													
+Journal de Saint-Bruno/St-Basile, Le (QC)											QJE													
+Journal de Saint-Hubert, Le (QC)											QJF													
+Journal de Sherbrooke, Le (QC)											QJG													
+Journal des Pays-d'en-Haut La Vallée, Le (QC)											QJH													
+Journal L'Aviron (Campbellton, NB)											QJI													
+Journal Saint-François, Le (Valleyfield, QC)											QJJ													
+Monitor - West End Edition, The	1707-925X										QK													
+Kincardine News, The (ON)											QKIN													
+Kitchener-Waterloo Review (ON)											QKIT													
+Chronicle, The (West Island)											QL													
+Lacombe Globe, The (AB)											QLAC													
+Leamington Post (ON)											QLEA													
+Londoner (London, ON)											QLON													
+Westmount Examiner (QC)	0834-7557										QM													
+Meadow Lake Progress, The (SK)											QMEA													
+Melfort Journal, The (SK)											QMEL													
+Mirabel, Le (St-Jérôme, QC)											QMI													
+Bonjour Dimanche (Gatineau)											QN													
+New African											QNA													
+Nanton News, The (AB)											QNAN													
+Nipawin Journal, The (SK)											QNIP													
+Nord-Est, Le (Sept-Îles, QC)											QNO													
+Northeast Sun (Melfort/Nipawin, SK)											QNOM													
+Norwich Gazette, The (ON)											QNOR													
+Québec Hebdo											QO													
+Oeil Régional, L' (Beloeil, QC)											QOE													
+Ottawa Capital City News (ON)											QOTT													
+CTV - Question Period											QP													
+Peuple - Lévis, Le (QC)											QPA													
+Paris Star, The (ON)											QPAR													
+Peuple - Lotbinière, Le (QC)											QPB													
+Peace Country Sun, The (AB)											QPEA													
+Pelham News (ON)											QPEL													
+Pharillon, Le (Gaspé, QC)											QPH													
+Pincher Creek Echo, The (AB)											QPIN													
+Plein Jour de Baie-Comeau (QC)											QPL													
+Point du Lac Saint-Jean, Le (St-Félicien, QC)											QPN													
+Port-Cartois, Le (QC)											QPO													
+Progrès-Écho (Rimouski, QC)											QPR													
+Petite-Nation, La (Saint-André-Avellin)											QQ													
+Revue, La (Gatineau)											QR													
+Reflet, Le (Delson, QC)											QRD													
+Réveil, Le (Jonquière, QC)											QRE													
+Record-Gazette, The (Peace River, AB)											QREC													
+Rimouskois, Le (QC)											QRI													
+Riverain, Le (Ste-Anne-des-Monts, QC)											QRJ													
+Bulletin, Le (Gatineau, QC)											QS													
+Sunday Telegraph (UK)											QSABC													
+Québec Science											QSC													
+Seigneurie, La (Boucherville, QC)											QSE													
+Sentinelle, La (Chibougamau, QC)											QSF													
+Shoreline Beacon (Port Elgin, ON)											QSHO													
+Soleil de Châteauguay, Le (QC) (éd. du mercredi)											QSL													
+Soleil de Châteauguay, Le (QC) (éd. du samedi)											QSM													
+Soleil de Salaberry-de-Valleyfield, Le (QC)											QSN													
+Sortir - Vivre en Montérégie (QC)											QSO													
+St-Laurent Portage, Le (Rivière-du-Loup, QC)											QST													
+Strathmore Standard, The (AB)											QSTR													
+Source du Haut St-Laurent, La (Huntingdon, QC)											QSU													
+Quotidien, Le	1486-1879										QT													
+24 hours Calgary											QTHC													
+24 hours Edmonton											QTHE													
+24 hours Ottawa											QTHO													
+24 hours Toronto											QTHT													
+24 hours Vancouver											QTHV													
+Tillsonburg News (ON)											QTIL													
+Today's Farmer (Chatham, ON)											QTOD													
+Transgaspésien, Le (Gaspé, QC)											QTR													
+Régional, Le (Aylmer, Hull)											QU													
+Revue du samedi, La (Gatineau)											QV													
+Vermilion Standard (AB)											QVER													
+24 heures Montréal											QVHM													
+Vision Terre et Forêt (Rimouski, QC)											QVI													
+Voix de la Matanie, La (QC)											QVM													
+Voix Gaspésienne, La (QC)											QVN													
+Voix, La (Sorel-Tracy, QC)											QVO													
+Vulcan Advocate, The (AB)											QVUL													
+Hebdo du Saint-Maurice, L' (Shawinigan)											QW													
+Western Review, The (Drayton Valley, AB)											QWES													
+Wetaskiwin Times, The (AB)											QWET													
+Whitecourt Star, The (AB)											QWHI													
+Windsor This Week (ON)											QWIN													
+Hebdo Journal, L' (Cap-de-la-Madeleine)											QX													
+Hebdo Mékinac - Des Chenaux, L' (St-Tite)											QZ													
+Reuters World General News											RA													
+ABC News (web site ref.)											RAB													
+RiskAssur-hebdo	1632-3106										RAH													
+Reuters général											RB													
+BBC News (web site ref.)											RBC													
+ICI Radio-Canada - Le Radiojournal											RC													
+News - Government of Canada (web site ref.)											RCG													
+Red Deer Advocate	1186-3110										RD													
+République des Pyrénées, La (blogues)											RDB													
+République des Pyrénées, La (site web)											RDP													
+Nouvelles - Gouvernement du Canada (réf. site web)											RGC													
+Reuters Health E-Line											RHA													
+Reuters Health Industry Briefing											RHB													
+Reuters Medical News											RHC													
+CBC Radio - The House											RI													
+InternetNews (web site ref.)											RIN													
+Inter Press Service (web site ref.)											RIP													
+CBC Radio - World Report											RK													
+Reuters Economic											RM													
+Nouvelle, La (Sherbrooke)											RN													
+Places Matter (web site ref.)											RNW													
+Reports (Premium)											RPL													
+Reports (Public)											RPP													
+Reuters économique											RQ													
+Infopresse	0827-4711										RS													
+Revue Parlementaire, La											RU													
+ICI Radio-Canada Télé - Le Téléjournal											RV													
+Bangladesh Government News											RVBA													
+Canadian Government News											RVCA													
+Daily Today's Muslim											RVDA													
+European Union News											RVEU													
+Financial Law Reporter											RVFI													
+Islamic Banking and Insurance News											RVIS													
+Malaysian Government News											RVMA													
+Pakistan Company Updates											RVPA													
+Pakistan Law Reporter											RVPB													
+Pakistan Tenders Info Service											RVPC													
+Plus Financial Reports											RVPK													
+Plus Patent News											RVPL													
+Plus News Pakistan											RVPN													
+Post, The (Pakistan)											RVPO													
+Premium Official News											RVPR													
+South Asian Company Newswire											RVSA													
+South Asian Government News											RVSB													
+Turkish Newswire, The											RVTU													
+US Official News											RVUS													
+Weekly Cutting Edge											RVWE													
+PR Newswire US											RW													
+Wired (web site ref.)											RWI													
+CBC Radio - As It Happens 											RX													
+CTV - The Verdict											RY													
+BFM Business											RZA													
+RMC											RZI													
+Journal de Saône et Loire, Le	1620-8943										SA													
+24 x 7 News (Bahrain) (web site)											SAAA													
+ABN Newswire											SABN													
+Above The Law (web site)											SABO													
+Addis Fortune (Ethiopia)											SADD													
+ADP News Middle East and Africa											SADP													
+African Banker											SAFB													
+Africa Review (web site)											SAFC													
+AfricaFocus Bulletin											SAFD													
+Afghan Islamic Press (AIP)											SAFG													
+African Press Organization (APO)											SAFP													
+African Business											SAFR													
+Agence d'Informations du Burkina (AIB)											SAGB													
+Agence de Presse Africaine (APAnews)											SAGE													
+Agence Mauritanienne d'Information (AMI)											SAGM													
+AKIpress News Agency											SAKI													
+Al Ain Times (Abu Dhabi)											SALA													
+Al-Arab											SALB													
+Al Bayane (Maroc)											SALC													
+Al Riyadh (Saudi Arabia)											SALD													
+Al-Akhbar English (Lebanon)											SALE													
+Al Alam (Iran) (web site)											SALF													
+Algeria Press Service											SALG													
+Al-Ahram Hebdo											SALH													
+Albany Tribune (OR) (web site)											SALI													
+All Iraq News Agency (AIN)											SALJ													
+All Africa (site web)											SALL													
+Alrroya (web site)											SALR													
+Al-Shorfa (web site)											SALS													
+Al-Ahram Weekly											SALW													
+American Bedu (blog)											SAME													
+Andy McTiernan Property and Economy Bulletin											SAND													
+Angry Arab News Service, The											SANG													
+ANSAmed											SANS													
+Arab Finance											SARA													
+Arab Times (Kuwait)											SARB													
+Arabian Gazette (web site)											SARC													
+Arabic Literature (blogs)											SARD													
+Arab Ad											SARE													
+Arabian Oil and Gas (web site)											SARG													
+Agence Rwandaise d'Information (ARI-RNA)											SARI													
+Arabian Money (web site)											SARM													
+Armenpress News Agency											SARN													
+ArmInfo - Business Bulletin											SARO													
+ArmInfo - Newswire											SARP													
+Arabian Supply Chain (web site)											SARS													
+Asharq Alawsat											SASH													
+Asian Tribune											SASI													
+Aswat Masriya (Egypt) (web site)											SASM													
+Aswat Al Iraq											SASW													
+Australian Government News											SAUS													
+Auto MiddleEast (web site)											SAUT													
+Banker Africa											SBAF													
+Bahrain Bourse											SBAH													
+Bakhtar News Agency (Afghanistan)											SBAK													
+Banker Middle East											SBAN													
+Bahrain Confidential											SBAR													
+Bashdar Pusho Ismaeel (blog)											SBAS													
+BBC GoodFood Middle East											SBBC													
+Broadview Express, The (SK)											SBE													
+Bgreen (Dubai) (web site)											SBGR													
+Big News Network (web site)											SBIF													
+Big Project Middle East, The											SBIG													
+Bihar Times (India)											SBIH													
+Bikya Masr (Egypt)											SBIK													
+Bina Shah (blog)											SBIN													
+BioSpectrum India											SBIO													
+Bizcommunity (web site)											SBIZ													
+Blogs and Bloggers (India)											SBLO													
+Breaking Defense (web site)											SBRD													
+Breaking Energy (web site)											SBRE													
+Broadcast Pro Middle East											SBRO													
+Bulgarian Stock Exchange News											SBU													
+Business Benchmark Middle East											SBUB													
+Business Daily											SBUD													
+BusinessToday (Oman)											SBUE													
+Business Today More (India)											SBUM													
+Bureaucracy Today (India)											SBUR													
+Business Law Daily											SBUS													
+Business Traveller Middle East											SBUT													
+Cape Argus (South Africa)											SCAA													
+Campaign Middle East											SCAM													
+Cameroon POSTline (web site)											SCAO													
+Capital (Addis Ababa, Ethiopia)											SCAP													
+Cape Times (South Africa)											SCAQ													
+Car Trade India											SCAR													
+Cashy											SCAS													
+Central Asian News Service											SCEN													
+ChinaBidding - Tender Awards (web site)											SCHA													
+China Daily - Africa (web site)											SCHB													
+China Daily - Europe											SCHC													
+China Daily - Hong Kong (web site)											SCHD													
+China Daily - USA (web site)											SCHE													
+China Watch Blog											SCHI													
+ChinaBidding - Tender Notices (web site)											SCHN													
+Citizen, The (Tanzania)											SCIT													
+Climate Control Middle East											SCLI													
+CNE - Company News in Egypt (web site)											SCNE													
+ICI Radio-Canada Télé - Les coulisses du pouvoir											SCO													
+Columnists (India, Pakistan)											SCOL													
+CommsMEA (web site)											SCOM													
+Construction Week Online											SCON													
+Construction Machinery Middle East											SCOO													
+CommsUpdate (web site)											SCOP													
+Cosmopolitan (India)											SCOS													
+CTO Forum, The											SCTO													
+Cyprus Mail											SCYP													
+Daily Financial Post (Karachi, Pakistan)											SDAF													
+Daily Mirror (Colombo, Sri Lanka)											SDAM													
+Daily News (Sri Lanka)											SDAN													
+Daily News 365 (India)											SDAO													
+Daily News (South Africa)											SDAP													
+Daily Tribune (Bahrain)											SDAR													
+Data Quest (India)											SDAT													
+Daily Monitor (Uganda)											SDAU													
+Daily Nation (Kenya)											SDAY													
+DealCurry (web site)											SDEA													
+Dealbreaker (web site)											SDEB													
+Dental News (Lebanon)											SDEN													
+DesignMENA (web site)											SDES													
+DFA - Diamond Fields Advertiser (Kimberley, SA)											SDFA													
+Dhaka Courier (Bangladesh)											SDHA													
+Digit (India)											SDIG													
+Digital Production Middle East (web site)											SDIP													
+DQ Channels (India)											SDQC													
+DQ Week (India), The											SDQW													
+Deep South Star, The (SK)											SDS													
+Sackville Tribune Post											SE													
+Acteurs Publics (site web)	1765-2022										SEA													
+Early Times (India)											SEAR													
+East African, The (Kenya)											SEAS													
+Acteurs Publics - Nominations (site web)											SEB													
+Éconews, L' (site web)											SECO													
+ICN (web site)											SECP													
+Haute Gironde, La (site web)											SEG													
+Egypt Today											SEGA													
+Egyptian Exchange, The (EGX)											SEGB													
+Egypt Independent											SEGY													
+Hebdo de Charente-Maritime, L' (site web)											SEI													
+Journal du Médoc, Le  (site web)											SEM													
+EMBIN (Emerging Markets Business Information News)											SEMB													
+Emirates Review											SEMI													
+Energy Bangla											SENE													
+Energy Monitor Worldwide											SENM													
+Acteurs Publics - Biographies											SEP													
+Express News (Sri Lanka)											SEPN													
+Expression, L' (Algérie)											SEPS													
+Emerging Markets Brokers Rep. Africa Middle East											SEQ													
+Emerging Markets Brokers Rep. Central E. Europe											SER													
+Emerging Markets Brokers Reports Latin America											SES													
+Ethiopian News Agency (ENA)											SETH													
+ET Net (web site)											SETN													
+Eurasia Review (web site)											SEUR													
+Executive Appointments Worldwide											SEXA													
+San Francisco Chronicle											SF													
+Fadi Abu Sa'da (Palestine)											SFAD													
+FairWarning (web site)											SFAI													
+FARS News Agency (Iran)											SFAR													
+Fashionista (web site)											SFAS													
+Financial Services Monitor Worldwide											SFIA													
+Financial Mirror (Cyprus)											SFIN													
+First Avenue Magazine											SFIR													
+FooDiva (blog)											SFOO													
+ForexPros											SFOR													
+France 24 (site web)											SFRA													
+France 24 (web site)											SFRB													
+Friday Times, The (Lahore, Pakistan)											SFRI													
+Fustany (web site)											SFUS													
+FYi											SFY													
+Gadgets and Gizmos (India)											SGAD													
+Garhwal Post (India)											SGAR													
+GCTL Insights Magazine											SGCT													
+Gender Links - Opinion and Commentary Service											SGEN													
+Ghana News Agency (GNA)											SGHA													
+GHN News Agency (Georgia)											SGHN													
+Global Data Point (web site)											SGLA													
+GlobalData (India)											SGLD													
+Global Property Guide											SGLO													
+Global Times (China)											SGLT													
+Good Housekeeping (India)											SGOO													
+Green Prophet (web site)											SGRE													
+Grenfell Sun, The (SK)											SGS													
+GCTL8 (web site)											SGTS													
+Gulf Insider (Bahrain)											SGUA													
+Gulf Business											SGUB													
+Gulf, The											SGUF													
+Gulf Oil and Gas											SGUL													
+Gulf Times (Qatar)											SGUT													
+Sunday Herald, The											SH													
+Health-e (South Africa)											SHEA													
+Histoire, L'	0182-2411										SHI													
+Hotelier Middle East (web site)											SHOM													
+Horizons (Algérie)											SHOR													
+Historia	0998-0091										SHS													
+ICI Radio-Canada Télé - Une heure sur Terre											SHT													
+H2O Middle East											SHTW													
+Courrier de Chicoutimi, Le (QC)											SI													
+Ibex (Pakistan)											SIBE													
+ICT Monitor Worldwide											SICT													
+IDentity (Dubai)											SIDE													
+Courrier du Fjord, Le (QC)											SIF													
+Courrier de Jonquière, Le (QC)											SIJ													
+Imphal Free Press (India)											SIMP													
+InPR											SIN													
+India First Edition											SINA													
+India Prwire											SINB													
+Indian Currents											SINC													
+Indian eGov Newswire											SIND													
+India Today Travel Plus											SINE													
+Independent on Saturday, The (South Africa)											SINF													
+India Automobile News											SING													
+India Energy News											SINH													
+India Insurance News											SINI													
+India Investment News											SINJ													
+India Pharma News											SINK													
+India Retail News											SINL													
+Indian Banking News											SINM													
+Indian Patents News											SINN													
+Indian Trademark News											SINO													
+Industry 2.0											SINT													
+IPR Strategic Information Databases											SIPR													
+Iran Investment Monthly											SIRA													
+Iranian Government News											SIRB													
+Iranian Students News Agency (ISNA)											SIRC													
+Iran News											SIRD													
+Iran Daily											SIRE													
+IRIN (français)											SIRF													
+IRIN Africa											SIRI													
+IRIN Asia											SIRR													
+IRIN Middle East											SIRT													
+Islamic Business and Finance											SISB													
+Islamic Finance News Supplements											SISF													
+Islamic Globe, The											SISG													
+IT Mag (Algérie)											SITM													
+ITP (web site)											SITP													
+ITWeb (web site)											SITW													
+Jagran Post (web site)											SJAG													
+Jerusalem Post (Israel) (web site)											SJER													
+Jordan News Agency (Petra)											SJOR													
+Journal de St-Michel											SK													
+Kazakhstan Government News											SKA													
+Kabul Press											SKAB													
+Kamil Pasha (blog)											SKAH													
+Kashmir Images											SKAI													
+Kashmir Monitor, The (Srinagar, India)											SKAM													
+Kashmir Observer (Srinagar, India)											SKAO													
+Kashmir Times (India)											SKAS													
+Kathmandu Post, The (Nepal)											SKAT													
+Kazakhstan Stock Exchange News											SKB													
+Killid Weekly (Afghanistan)											SKIL													
+KippReport											SKIP													
+Skoar!											SKOA													
+Kurdish Globe, The (Erbil, Iraq)											SKUR													
+Kuwait News Agency (KUNA)											SKUW													
+Law Update (UAE)											SLAW													
+Legal Monitor Worldwide											SLEG													
+Living Digital (India)											SLIV													
+Christian Science Monitor											SM													
+Ma'an News Agency											SMAA													
+Malta Business Weekly, The											SMAB													
+Magharebia (web site)											SMAH													
+Majalla, The (UK, UAE)											SMAJ													
+Malta Independent, The (web site)											SMAK													
+MaltaToday (web site)											SMAL													
+Malta Now											SMAN													
+MBC TV (Dubai)											SMBC													
+MediAvataarME (web site)											SMED													
+MegaWhat (Middle East)											SMEG													
+Men's Health (India)											SMEH													
+Mehr News Agency (MNA)											SMEN													
+MeriNews (India)											SMER													
+Mercury, The (South Africa)											SMEY													
+Middle East Business News											SMIB													
+MICE Middle East (web site)											SMIC													
+Mid East Information											SMID													
+Middle East Interiors											SMII													
+Middle East Reporter, The (MER)											SMIR													
+Magazine Littéraire, Le	0024-9807										SML													
+CBC Television - Mansbridge One on One											SMO													
+Mobile88 (web site)											SMOB													
+Money Today (India)											SMON													
+Moscow Times, The (web site)											SMOS													
+Mouatamer (web site)											SMOU													
+Muftah (web site)											SMUF													
+Coaldale Sunny South News, The											SN													
+Naharnet (web site)											SNAH													
+National News Agency Lebanon (NNA)											SNAN													
+Nasser Arrabyee (blog)											SNAS													
+National, The (Abu Dhabi)											SNAT													
+News Central Asia (nCa)											SNCA													
+New African Woman (français)											SNEB													
+New Dawn, The (Liberia)											SNED													
+New Times, The (Rwanda)											SNEF													
+New Vision (Uganda) (web site)											SNEG													
+NewsDay (Zimbabwe) (web site)											SNEH													
+New Indian Express, The											SNEI													
+New Libya News											SNEL													
+New African (français)											SNEW													
+NextBigWhat (web site)											SNEX													
+Newzglobe (web site)											SNEZ													
+Northlines, The (India)											SNOR													
+Nouvelle Tribune, La (Maroc)											SNOU													
+States News Services											SNS													
+Sud Ouest											SO													
+Sud Ouest (site web)											SOE													
+OER Dossier											SOER													
+Sud Ouest (blogues)											SOF													
+Oxbow Herald, The (SK)											SOH													
+Oil and Gas Review											SOIL													
+Oman News Agency (ONA)											SOMA													
+Oman Tribune											SOMB													
+Oman Economic Review (OER)											SOME													
+Palestine News and Info Agency (WAFA)											SPAL													
+Palestine News Network (PNN)											SPAN													
+PalFX (web site)											SPAX													
+PC Quest											SPCQ													
+Peninsula, The (Qatar)											SPEN													
+Pioneer, The (India)											SPIO													
+PluGGd-in											SPLG													
+PlusNews											SPLU													
+Political and Business Daily, The (Delhi, India)											SPOL													
+Post (South Africa)											SPOS													
+Power + Water Middle East											SPOW													
+CBC Television - Power and Politics											SPP													
+PR News Channel											SPRC													
+Press TV (Iran)											SPRE													
+PrintWeek MEA											SPRI													
+Pretoria News											SPRN													
+Progrès Égyptien, Le											SPRO													
+Property Times (UAE)											SPRT													
+Prevention (India)											SPRV													
+Qatar Exchange											SQAE													
+Qatar News Agency (QNA)											SQAN													
+Qatar Tribune (Doha)											SQAT													
+Quotidien du Médecin, Le											SQU													
+Quotidien du Médecin, Le (site web)											SQW													
+Soir, Le	1375-5668										SR													
+CBC News (web site)											SRA													
+Radio and Television Business Report (RBR-TVBR)											SRAD													
+ICI Radio-Canada - Nouvelles (site web)											SRC													
+Recherche, La	0029-5671										SRE													
+Real Estate Monitor Worldwide											SREA													
+RFI (site web) (français)											SRFA													
+RFI (web site) (english)											SRFB													
+RFI (sitio web) (español)											SRFC													
+RFI (web site) (português)											SRFD													
+Right Vision News (Lahore, Pakistan)											SRIG													
+Radville Star, The (SK)											SRS													
+Russian Banks and Brokers Reports											SRU													
+Ruwad											SRUW													
+Russian Government News											SRV													
+SeeNews - The Corporate Wire											SSA													
+Sarke Daily News (Georgia)											SSAC													
+Sarke Economic Press Monitor (Georgia)											SSAD													
+Saudi Election (web site)											SSAE													
+Saudi in Focus (web site)											SSAF													
+Saudi Gazette, The (web site)											SSAG													
+SarkariTel (India) (web site)											SSAR													
+Saudi Stock Exchange (Tadawul)											SSAS													
+Saturday Star (South Africa)											SSAT													
+Saudi Press Agency (SPA)											SSAU													
+SeeNews (Austria)											SSB													
+SeeNews (Belgium)											SSC													
+Science Africa											SSCI													
+SeeNews (China)											SSD													
+SeeNews (France)											SSE													
+Send2Press (Neotrope)											SSEN													
+SeeNews (Germany)											SSF													
+SeeNews (Hungary)											SSG													
+SeeNews (Italy)											SSH													
+SeeNews (Latin America)											SSI													
+Signature											SSIG													
+Sikkim Times											SSIM													
+SeeNews (Middle East and Africa)											SSJ													
+SeeNews (Netherlands)											SSK													
+Southern Life (SK)											SSL													
+SeeNews (Nordic)											SSM													
+SmartArabs (web site)											SSMA													
+SmartOman (web site)											SSMB													
+SME World (web site)											SSMD													
+SME Advisor Middle East											SSME													
+SeeNews (Portugal)											SSN													
+SeeNews Renewables											SSO													
+South African Food Review (web site)											SSOA													
+Southern Eye (Zimbabwe) (web site)											SSOB													
+Sourcing Electricals and Lighting (India)											SSOE													
+Sourcing Hardware (India)											SSOH													
+Soir-Échos, Le (Maroc)											SSOI													
+South Asian Journal											SSOJ													
+South Asian Media Net											SSOM													
+South Sudan News Agency (SSNA)											SSOU													
+SeeNews Shipping											SSP													
+SeeNews (Spain)											SSQ													
+ICI Radio-Canada Télé - Second regard											SSR													
+SeeNews (Switzerland)											SSS													
+Star of Mysore (India)											SSTA													
+Standard, The (Zimbabwe)											SSTB													
+Star, The (South Africa)											SSTC													
+Sudan News Agency (SUNA)											SSUD													
+Sultan's Seal, The (blog)											SSUL													
+Sun, The (Lagos, Nigeria)											SSUN													
+Sunday Independent, The (South Africa)											SSUO													
+Sunday Nation (Kenya)											SSUP													
+Sunday Tribune (South Africa)											SSUQ													
+Sunday Times, The (Singapore)											SSUR													
+ICI Radio-Canada Télé - La semaine verte											SSV													
+SWOL - Soccer WithOut Limits (web site)											SSWO													
+Syria Deeply (web site)											SSYD													
+Syrian Arab News Agency (SANA)											SSYR													
+Stratégies	0180-6424										ST													
+Taragana (India)											STAR													
+Tayyar (Lebanon)											STAY													
+T-break Technology											STBR													
+TendersInfo - Contract Awards											STEC													
+Tehran Times											STEG													
+Tehelka (India)											STEH													
+TendersInfo - News											STEI													
+Temps d'Algérie, Le											STEM													
+TendersInfo - Project Notices											STEP													
+CBC Television - George Stroumboulopoulos Tonight											STH													
+Thai News Service											STHA													
+Triangle News (Coronach, SK)											STN													
+Today India											STOD													
+TOLOnews (web site)											STOL													
+TopNews (web site)											STON													
+Travel and Tourism News Middle East											STRA													
+ICI Radio-Canada Télé - Tout le monde en parlait											STT													
+TTG Middle East (web site)											STTG													
+Tunis-Afrique Presse (TAP) News Agency											STUN													
+Turan Information Agency											STUQ													
+Turkish Government News											STUR													
+Lethbridge Sun Times, The											SU													
+Ukrainian Government News											SUK													
+UK Government News											SUKG													
+UMCI News (Potomac Falls, VA)											SUMC													
+Utilities-ME (web site)											SUTI													
+Uzbekistan National News Agency (UzA)											SUZB													
+Uzbekistan National News Agency (OuzA) (français)											SUZF													
+Rive-Sud Express											SV													
+Ventures Africa (web site)											SVEN													
+Vicky (India)											SVIC													
+Voice and Data (India)											SVOD													
+Voice of Sikkim											SVOI													
+Southwest Booster (Swift Current, SK)											SW													
+WebNewswire (India)											SWEB													
+Weekend Argus (South Africa)											SWEE													
+Wheels Unplugged (India)											SWHE													
+Woman, The (Oman)											SWOM													
+Solid Waste and Recycling (web site ref.)											SWW													
+Record, The (Springhill, NS)											SX													
+XPRESS (UAE)											SXPR													
+Northern Visitor, The (Prince Albert, SK)											SY													
+Yemen News Agency (SABA)											SYEM													
+Yemen Observer											SYEO													
+Yemen Post											SYEP													
+Yerepouni Daily News (web site)											SYER													
+Your Middle East											SYOU													
+Rural Roots (Prince Albert, SK)	1197-124X										SZ													
+Zimbabwe Independent, The											SZIL													
+Zimbabwean, The											SZIM													
+Télérama	0040-2699										TA													
+Advertising Age Mediaworks (web site ref.)											TAD													
+Association can. des journaux (réf. site web)											TAS													
+Tribune, La (Sherbrooke, QC)	0832-3194										TB													
+Canadian Newspaper Association (web site ref.)											TCC													
+Corus Entertainment (web site ref.)											TCE													
+98.5 FM (Montréal, QC) (réf. site web)											TCO													
+Thunder Bay Chronicle-Journal, The	0842-0084										TD													
+DMNews (web site ref.)											TDM													
+Temps, Le											TE													
+Tribune, La (France) (site web)											TF													
+Technology in Government											TG													
+International Paper (web site ref.)											TIN													
+Montréal Express - Édition Centre											TJ													
+Montréal Express - Édition Est											TK													
+Télégramme, Le (Bretagne)	0751-5928										TL													
+Télégramme, Le (Bretagne) (site web)											TLA													
+Masthead Online (web site ref.)											TMA													
+Media In Canada (web site ref.)											TME													
+News and Tech (web site ref.)											TNE													
+ToulÉco (site web)											TOU													
+Montréal Express - Édition Mont-Royal											TP													
+PI World (web site ref.)											TPI													
+Print Action (web site ref.)											TPR													
+Print Week (web site ref.)											TPW													
+Montréal Express - Édition Ouest											TQ													
+Tribune, La (France)	#0989-1922										TR													
+Tribune, La - Acteurs de l'économie - Rhône-Alpes											TRA													
+Tribune, La - Objectif Aquitaine											TRB													
+Tribune, La - ObjectifNEWS											TRC													
+Tribune du Grand Paris, La											TRD													
+Tribune Hebdomadaire, La											TRH													
+Tribune de l'assurance, La											TRI													
+Taber Times, The											TT													
+Toronto Star (web site ref.)											TTS													
+24/7 Wall St. (web site ref.)											TTW													
+Actualité, L'	0024-9815										TU													
+Montréal Express - Édition Sud											TV													
+CB News	#0988-3581										TW													
+Parole d'affaires, La											TX													
+Presse Techno, La (site web)											TY													
+Terre de chez nous, La	0040-3830										TZ													
+BFM TV											TZB													
+IT for Business											UAT													
+Caractère											UE													
+01 net	#1276-519X										UK													
+01 net - Hors-série											UKA													
+Lettre du Continent, La											UL													
+Maghreb Confidentiel	1150-4447										UM													
+Universia Audio											UN													
+Infocentre littéraire des écrivains - Biographies											UNB													
+Lettre de l'Océan Indien, La											UO													
+ICI Radio-Canada Télé - L'Épicerie											UP													
+ICI Radio-Canada Télé - 5 sur 5											UQ													
+ICI Radio-Canada Télé - Découverte											UR													
+U.S. Newswire											US													
+ICI Radio-Canada Télé - La Facture											UT													
+Intelligence Online - Édition française											UU													
+Africa Mining Intelligence - Édition française	1624-0014										UV													
+CTV - Power Play with Don Martin											UW													
+ICI Radio-Canada Télé - Enquête											UX													
+Africa Energy Intelligence - Édition française	1635-9003										UY													
+ICI Radio-Canada Télé - Zone Doc											UZ													
+Vauxhall Advance, The											VA													
+Valeurs Actuelles	0049-5794										VAA													
+Votre Argent (site web)											VAF													
+Droit de la Voirie et du Domaine Public	1151-5430										VAV													
+Aquilon L' (Yellowknife, TNO)	0834-1443										VB													
+Valleyfield Express											VC													
+Environnement Magazine et Energie											VCE													
+Recyclage Récupération											VCH													
+Recyclage Récupération Hebdo	1156-962X										VCR													
+Droit de l'Environnement											VD													
+Voix de l'Est, La	1493-2350										VE													
+E-news Environnement Magazine - Déchets (site web)											VED													
+E-news Environnement Magazine - Énergie (site web)											VEE													
+E-news Hydroplus (site web)											VEH													
+E-news Journal des communes (site web)											VEJ													
+Fil d'info Envirojob (site web)											VFI													
+Nord, Le (Hearst, ON)											VG													
+Hydroplus (français)											VH													
+Moniteur Acadien, Le (Shédiac, NB)											VI													
+Journal des Communes Durables	0021-8030										VJ													
+Franco, Le (Edmonton, AB)											VK													
+Lettre de l'Environnement, La											VL													
+Environnement Magazine	1163-2720										VM													
+Environnement Magazine (site web)											VMO													
+Voix du Nord, La	0999-2189										VN													
+Nord Éclair	0755-3803										VNE													
+Nord Littoral	0989-8492										VNL													
+Voix de l'Est Plus, La											VO													
+VOCM Radio (web site ref.)											VOC													
+Hydroplus (english)											VP													
+24 heures Montréal (réf. site web)											VQM													
+24 hours Vancouver (web site ref.)											VQV													
+Voir (réf. site web)											VRW													
+Environnement Magazine hebdomadaire											VS													
+Spectacle du Monde, Le	#0038-6994										VSM													
+Gaboteur, Le (St John's, NL)	0836-8155										VT													
+Sunday Times (Moose Jaw)											VU													
+Mieux vivre votre argent	1145-623X										VV													
+Courier Weekend (St. Stephen, NB)											VW													
+Nord Éclair (site web)											VWE													
+Voix du Nord, La (site web)											VWN													
+West Island Sports de l’Ouest-de-l’Île											VZ													
+Alberta Sweetgrass	1199-6773										WAS													
+Western Star, The (Corner Brook)											WB													
+World Bank (web site ref.)											WBA													
+Banque mondiale (réf. site web)											WBF													
+Laker, The (Enfield, NS)											WC													
+CLUBIC (réf. site web)											WCB													
+Hindu, The (web site ref.)											WCG													
+Telegraph India, The (web site ref.)											WCH													
+Business Standard (web site ref.)											WCJ													
+Journal du Net (réf. site web)											WCL													
+McKinsey Quarterly, The (web site ref.)											WCR													
+AltAssets (web site ref.)											WCY													
+Red Deer Life											WD													
+Deal, The (web site ref.)											WDL													
+Southern Gazette, The (Burin Peninsula, NL)	0319-6224										WE													
+ElectricNews (web site ref.)											WEN													
+Winnipeg Free Press	0828-1785										WF													
+Berry républicain, Le (site web)											WFRB													
+Journal du Centre, Le (site web)											WFRJ													
+Montagne, La (site web)											WFRM													
+Populaire du Centre , Le (site web)											WFRP													
+Yonne républicaine , L' (site web)											WFRY													
+Winnipeg Free Press (web site)											WFW													
+Tribune de Genève											WG													
+Brandon Sun (MB) (web site)											WGB													
+Headliner, The (Winnipeg, MB) (web site)											WGG													
+Herald, The (Winnipeg, MB) (web site)											WGH													
+Lance, The (Winnipeg, MB) (web site)											WGL													
+Metro, The (Winnipeg, MB) (web site)											WGM													
+Sou'Wester, The (Winnipeg, MB) (web site)											WGS													
+Times, The (Winnipeg, MB) (web site)											WGT													
+Whitehorse Daily Star	0837-2365										WH													
+Bilan											WI													
+Bilan (blogues)											WIC													
+Bilan (site web)											WID													
+InfoWorld (web site ref.)											WIW													
+Light, The (Tatamagouche, NS)											WJ													
+Journal de Morges											WJM													
+CBC Television - Business Weekly											WK													
+Ocean Resources											WL													
+Broye, La											WLB													
+Lloyds (web site ref)											WLJ													
+Matin, Le											WM													
+Morningstar  (web site ref.)											WMS													
+Reporter, The (Port Hawkesbury, NS)											WO													
+World Health Organization (web site ref.)											WOA													
+Ontario Birchbark	1702-9295										WOB													
+OCDE (réf. site web)											WOC													
+OEDC (web site ref.)											WOE													
+Organisation mondiale de la santé (réf. site web)											WOM													
+Compass, The (Carbonear, NL)	0833-1049										WP													
+GlobeNewswire (web site ref.)											WPZ													
+Chambly Express											WQ													
+2 Rives, Les (Sorel-Tracy, QC) (site web)											WQAA													
+Actualités, Les (Asbestos, QC) (site web)											WQAC													
+Avant-Poste, L' (Matane, QC) (site web)											WQAV													
+Beauce Média (QC) (site web)											WQBM													
+Brossard Éclair (QC) (site web)											WQBR													
+Chronicle, The (West Island) (web site)											WQCH													
+Courrier du Sud, Le (Longueuil, QC) (site web)											WQCO													
+Écho Abitibien, L' (Val-d'Or, QC) (site web)											WQEA													
+Écho de La Baie, L' (Gaspé, QC) (site web)											WQEB													
+Écho de la Lièvre, L' (QC) (site web)											WQEC													
+Écho de la Rive-Nord, L' (QC) (site web)											WQED													
+Écho de Laval, L' (QC) (site web)											WQEF													
+Écho de Repentigny, L' (QC) (site web)											WQEG													
+Écho de Saint-Jean-sur-Richelieu, L' (site web)											WQEI													
+Écho de Shawinigan, L' (QC) (site web)											WQEJ													
+Écho de Trois-Rivières, L' (QC) (site web)											WQEK													
+Écho de Victoriaville, L' (QC) (site web)											WQEL													
+Écho du Nord, L' (St-Jérôme, QC) (site web)											WQEM													
+Éclaireur-Progrès, L' (St-Georges, QC) (site web)											WQEN													
+Frontière, La (Rouyn-Noranda, QC) (site web)											WQFR													
+Gleaner, The - La Source (QC) (site web)											WQGL													
+Havre, Le (Gaspé, QC) (site web)											WQHA													
+Impact de Drummondville, L' (QC) (site web)											WQIA													
+Information du Nord, L' - Mt-Tremblant (site web)											WQIC													
+Information du Nord, L' - Ste-Agathe (site web)											WQID													
+Information du Nord, L' - La Rouge (site web)											WQIE													
+Information Ste-Julie - Varennes, L' (site web)											WQIF													
+Information, L' (Mont-Joli, QC) (site web)											WQIG													
+Journal de Chambly, Le (QC) (site web)											WQJB													
+Journal de Joliette, Le (QC) (site web)											WQJC													
+Journal de Magog, Le (QC) (site web)											WQJD													
+Journal de Saint-Bruno, Le (QC) (site web)											WQJE													
+Journal de Saint-Hubert, Le (QC) (site web)											WQJF													
+Journal de Sherbrooke, Le (QC) (site web)											WQJG													
+Journal des Pays-d'en-Haut La Vallée (site web)											WQJH													
+Nord-Est, Le (Sept-Îles, QC) (site web)											WQNO													
+Oeil Régional, L' (Beloeil, QC) (site web)											WQOE													
+Peuple - Lévis, Le (QC) (site web)											WQPA													
+Peuple - Lotbinière, Le (QC) (site web)											WQPB													
+Pharillon, Le (Gaspé, QC) (site web)											WQPH													
+Plein Jour de Baie-Comeau (QC) (site web)											WQPL													
+Point du Lac Saint-Jean, Le (QC) (site web)											WQPN													
+Port-Cartois, Le (QC) (site web)											WQPO													
+Reflet, Le (Delson, QC) (site web)											WQRD													
+Réveil, Le (Jonquière, QC) (site web)											WQRE													
+Rimouskois, Le (QC) (site web)											WQRI													
+Riverain, Le (Ste-Anne-des-Monts, QC) (site web)											WQRJ													
+Seigneurie, La (Boucherville, QC) (site web)											WQSE													
+Sentinelle, La (Chibougamau, QC) (site web)											WQSF													
+Soleil de Châteauguay, Le (QC) (site web)											WQSL													
+Soleil de Salaberry-de-Valleyfield, Le (site web)											WQSN													
+St-Laurent Portage, Le (QC) (site web)											WQST													
+Voix de la Matanie, La (QC) (site web)											WQVM													
+Sou'Wester (NS)											WR													
+Raven's Eye	1206-0321										WRE													
+Windspeaker	0834-177X										WS													
+Saskatchewan Sage	1206-0313										WSA													
+Washington Times, The											WT													
+Tribune, The (India) (web site ref.)											WTI													
+TradingMarkets  (web site ref.)											WTM													
+Châteauguay Express											WU													
+24 Heures (Suisse)											WV													
+ITespresso (réf. site web)											WVN													
+Saint Croix Courier, The (NB)											WW													
+Sorel-Tracy Express											WX													
+Vallée du Richelieu Express											WY													
+Weekly Press, The (Enfield, NS)											WZ													
+ZDNet (web site ref.)											WZD													
+Xinhua - News Agency - Economy											XA													
+Xinhua - Agence de presse											XC													
+Daily Mail (London, UK)											XD													
+Kingston Whig Standard, The (ON)	1197-4397										XG													
+Lindsay Post, The (ON)											XH													
+Independent, The (London, UK)											XI													
+Niagara Falls Review (ON)	0839-1572										XJ													
+North Bay Nugget (ON)	1197-9941										XK													
+Packet and Times (Orillia, ON)	0845-7506										XL													
+Xinhua - News Agency											XN													
+Sun Times, The (Owen Sound, ON)	0846-4049										XQ													
+Daily Observer, The (Pembroke, ON)	0832-2864										XR													
+Peterborough Examiner, The (ON)	0839-0878										XS													
+Observer, The (Sarnia, ON)	0839-1246										XU													
+Sault Star, The (ON)	0839-203X										XV													
+Standard, The (St. Catharines, ON)	0837-3426										XW													
+Sudbury Star, The (ON)	0839-2544										XX													
+Daily Press, The (Timmins, ON)											XY													
+Tribune, The (Welland, ON)	0841-632X										XZ													
+AdWeek (web site ref.)											YAD													
+Editor and Publisher (web site ref.)											YEP													
+HealthDay (web site ref.)											YHD													
+Yellowknifer	0844-0697										YK													
+LiveScience (web site ref.)											YLS													
+Motley Fool (web site ref.)											YMF													
+Nation, The (web site ref.)											YNA													
+oneworld (web site ref.)											YOW													
+PCWorld (web site ref.)											YPW													
+SPACE (web site ref.)											YSL													
+TechWeb (web site ref.)											YTW													
+Sortir Lanaudière											YU													
+Ziff Davis (web site ref.)											YZD													
+Affaires Plus, Les	1924-4088										ZA													
+Advertiser (Grand Falls-Windsor, NL)											ZB													
+Commerce	0380-9811										ZC													
+Aurora, The (Labrador City, NL)											ZD													
+Beacon, The (Gander, NL)											ZG													
+Charter, The (Placentia, NL)											ZH													
+Coaster (Harbour Breton, NL)											ZI													
+AFP - Journal Internet AFP (english)											ZJ													
+AFP - Journal Internet AFP (français)											ZK													
+Affaires, Les	0229-3404										ZL													
+Affaires tablette, Les											ZLA													
+Affaires, Les - profils											ZLP													
+Georgian, The (Stephenville, NL)											ZM													
+Gulf News, The (Channel - Port-aux-Basques, NL)											ZO													
+PME	0828-8089										ZP													
+Labradorian, The (Happy Valley - Goose Bay, NL)											ZQ													
+Northern Pen (St. Anthony, NL)											ZS													
+Nor'wester (Springdale, NL)											ZT													
+Packet, The (Clarenville, NL)											ZU													
+Pilot, The (Lewisporte, NL)											ZV													
+Affaires, Les (site web)											ZW													
+AFP - Journal Internet AFP (deutsch)											ZX													
+AFP - Journal Internet AFP (español)											ZY													
+Écrivains québécois - dossiers (L'Ile)											ZZ													
