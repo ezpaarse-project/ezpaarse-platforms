@@ -303,11 +303,10 @@ PkbRows.prototype.writeKbart = function (callback) {
     var row = self.rows[index];
     if (!row) {
       dstStream.end(callback);
-       var options = {
+
+      return pkbclean({
         platform: self.providerName
-      };
-      pkbclean(options);
-      return ;
+      });
     }
     var line = '';
     fields.forEach(function (field, idx) {
