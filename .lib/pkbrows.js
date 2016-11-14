@@ -303,7 +303,7 @@ PkbRows.prototype.writeKbart = function (callback) {
     var row = self.rows[index];
     if (!row) {
       dstStream.end(callback);
-       var options = {
+      var options = {
         platform: self.providerName
       };
       pkbclean(options);
