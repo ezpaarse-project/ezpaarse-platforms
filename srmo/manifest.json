@@ -1,0 +1,19 @@
+{
+  "version": "2016-11-18",
+  "status": "beta",
+  "domains": [
+    "http://methods.sagepub.com",
+    "http://srmo.sagepub.com"
+  ],
+  "recognize": {
+    "rid": [
+      "unitid"
+    ]
+  },
+  "name": "srmo",
+  "longname": "Sage Research Methods Online",
+  "describe": "Recognizes the accesses to the platform Sage Research Methods Online",
+  "docurl": "http://ang.couperin.org/platforms/53a9840509fa6026bcf19942",
+  "contact": "abderrazzak.loukili@inist.fr",
+  "pkb": false
+}
