@@ -35,13 +35,11 @@ module.exports = new Parser(function analyseEC(parsedUrl, ec) {
     result.unitid   = match[1].split('_')[1];
   } else if ((match = /^\/([a-z]+)\/download\/(([0-9]+)([a-z]+)\.pdf)$/.exec(path)) !== null) {
     //docserver/download/9215051e.pdf
-    //docserver/download/9215051ec008.pdf
     result.rtype    = 'BOOK';
     result.mime     = 'PDF';
     result.unitid   = match[2];
 
   } else if ((match = /^\/([a-z]+)\/download\/(([0-9]+)([a-z]+)([0-9]+)\.pdf)$/.exec(path)) !== null) {
-    //docserver/download/9215051e.pdf
     //docserver/download/9215051ec008.pdf
     result.mime     = 'PDF';
     result.unitid   = match[2];
