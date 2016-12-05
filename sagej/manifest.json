@@ -1,0 +1,20 @@
+{
+  "version": "2016-12-05",
+  "status": "beta",
+  "domains": [
+    "journals.sagepub.com"
+  ],
+  "recognize": {
+    "rid": [
+      "title_id",
+      "unitid",
+      "doi"
+    ]
+  },
+  "name": "sagej",
+  "longname": "Sage Journals",
+  "describe": "Recognizes the accesses to the platform Sage Journals",
+  "docurl": "http://ang.couperin.org/platforms/5587c180b51a32a3375cfe1d",
+  "contact": "abderrazzak.loukili@inist.fr",
+  "pkb": false
+}
