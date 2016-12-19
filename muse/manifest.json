@@ -12,6 +12,7 @@
 	"domains": [
     "muse.jhu.edu"
 	],
+  "baconprovider": "PROJECTMUSE",
   "recognize": {
     "rid": [
       "title_id",
