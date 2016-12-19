@@ -1,0 +1,1852 @@
+<!DOCTYPE html>
+<html lang="en" class="pb-page"  data-request-id="55fd0253-f6c0-4192-b239-5074d0458b91"  
+><head data-pb-dropzone="head"><meta name="pbContext" content=";website:website:scitation;wgroup:string:Publication Websites;page:string:404;pageGroup:string:Error"/><meta data-pb-head="head-widgets-start"/>
+
+
+
+
+
+
+
+<meta charset="UTF-8">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    <meta name="viewport" content="width=device-width,initial-scale=1,maximum-scale=1, user-scalable=0"/>
+
+
+
+
+
+
+
+<title></title>
+
+
+
+
+<meta data-pb-head="head-widgets-end"/>
+<link rel="stylesheet" type="text/css" href="/wro/product.css"><link rel="stylesheet" type="text/css" href="/pb/css/t1481940316000-v1481940316000/default.css" id="pb-css" data-pb-css-id="t1481940316000-v1481940316000/default.css"/>
+
+
+<script type="text/javascript">
+    if (window.location.hash && window.location.hash == '#_=_') {
+        window.location.hash = '';
+    }
+</script>
+<script type="text/javascript" src="/wro/product.js"></script>
+
+<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1"/>
+
+<script type="text/javascript">
+    var oas_tag = oas_tag || {};
+    oas_tag.url = 'oascentral.scitation.org';
+    oas_tag.sizes = function () { //size is required [width, height]
+        oas_tag.definePos('Top', [728,90]);
+        oas_tag.definePos('Right', [300,250]);
+        oas_tag.definePos('Right1', [120,600]);
+        oas_tag.definePos('Bottom', [728,90]);
+	oas_tag.definePos('Bottom1', [728,90]);
+    };
+    oas_tag.site_page = 'www.scitation.org';
+    oas_tag.query = 'site=scitation&journal=&volume=&issue=&doi=';
+    oas_tag.analytics = true;
+    (function() {
+        oas_tag.version ='1';
+        oas_tag.loadAd = oas_tag.loadAd || function(){};
+        var oas = document.createElement('script'),
+            protocol = 'https:' == document.location.protocol?'https://':'http://',
+            node = document.getElementsByTagName('script')[0];
+        oas.type = 'text/javascript';
+        oas.async = true;
+        oas.src = protocol + oas_tag.url + '/om/' + oas_tag.version + '.js';
+        node.parentNode.insertBefore(oas, node);
+    })();
+</script>
+
+<script>
+  dataLayer = [{
+    'site': 'scitation',
+    'journal': '',
+    'volume': '',
+    'issue': '',
+    'doi': ''
+  }];
+</script>
+
+
+
+<!-- link rel="stylesheet" type="text/css" href="/pb-assets/css/temp.css"/ -->
+<style>
+.error {
+    color: rgb(239, 70, 35);
+}
+
+/* move this style to the pb-ad div that's rendered if/when there's an ad to display */
+.header-ad-container {
+    padding-top: 0;
+    padding-bottom: 0;
+    text-align: inherit;
+}
+.header-ad-container .pb-ad {
+    padding-top: 30px;
+    padding-bottom: 10px;
+    text-align: center;
+}
+
+/* so the sign up for alerts link and journal title don't turn blue */
+.main-menu-container .sign-up-for-alerts a {
+    color: #111111;
+}
+.header-journal-section .header-journal-title a {
+    color: #111111;
+}
+
+/* title is too close to log e.g. see http://aip.scitation.org.aip-prod.literatumonline.com/ */
+.header-journal-info .header-journal-title {
+    margin-left: 10px;
+}
+
+
+/* Updates to the footer */
+.desktop-footer .footer-left {
+    width: 75%;
+    border-right: 1px solid gray;
+}
+
+.desktop-footer h4 {
+    font-size: 20px;
+    font-weight: normal;
+    color: white;
+}
+
+.site-footer {
+    background-color: #111111;
+    padding-top: 0px;
+    padding-bottom: 40px;
+    margin-top: 60px;
+}
+
+.site-footer .footer-sections {
+    margin-bottom: 30px;
+    background-color: #222222;
+    padding-top: 30px;
+    padding-bottom: 10px;
+}
+
+.inline-icon a {
+  display:inline;
+  padding-right: 10px;
+}
+
+/* -- Rich Text Widget -- */
+.pb-rich-text ul {
+    padding-left: 16px;
+    list-style-type: disc;
+    list-style-position: inside;
+    text-indent: -32px;
+    margin-left: 16px;
+}
+
+/* --- Journal Home --- */
+.recentIssuesCover {
+    font-size: 14px;
+    color: #111;
+}
+
+/* --- Browse Journals Page --- */
+
+.browseJournals .media {
+    max-width: 100%;
+    width: 100%;
+}
+
+.browseJournals .recentIssuesCover {
+    clear: both;
+    height: 170px;
+    margin-top: 25px;
+    margin-bottom: 30px;
+    border-bottom: 1px solid #ccc;
+}
+
+.browseJournals .most-read .latest-articles-container .latest-article {
+    padding-bottom: 10px;
+    border-top: 0;
+}
+
+/* .browseJournals .recentIssuesCover .coverImage img {
+    box-shadow: 3px 3px 4px #ccc;
+} */
+
+
+.publicationCoverImage img {
+    box-shadow: 3px 3px 5px #aaa;
+}
+
+@media (min-width: 960px) {
+    .rightSidebar {
+        margin-left: 20px;
+    }
+    .borderLeft {
+        padding-left: 20px;
+        border-left: 1px solid #ccd;
+    }
+}
+
+@media (max-width: 719px) {
+    .recentIssuesCover {
+        display: block;
+    }
+    .latest-jobs .PT-content  .all-jobs {
+        text-align: center;
+        width: 100%;
+    }
+}
+
+/* --- TOC page --- */
+
+.sub-section .ads {
+    display: none;
+}
+
+.volumes.expandable li > a:hover {
+    color: #111111;
+}
+
+.issue-item > a:hover {
+    color: #777777;
+}
+
+.toc-content {
+    width: 100%;
+}
+
+.toc-content .pagenation {
+    margin-bottom: 40px;
+    margin-right: 15px;
+}
+
+.toc-content .journal-img img {
+    box-shadow: 3px 3px 3px rgba(0, 0, 0, 0.15);
+}
+
+.toc-content a {
+    color: #111111;
+}
+
+.toc-content a:hover {
+    color: #777777;
+}
+
+/* Hiding the FULL TEXT link on TOC because not enough room w/ CHORUS link (LIT-140205)
+.toc-content a.ref.nowrap.full {
+    display: none;
+}
+*/
+
+.figureViewer-overlay a {
+    color: white;
+}
+
+@media (max-width: 960px) {
+	.toc-content .article-tabs .show-pdf {
+	    border-right: none;
+	}
+}
+
+.conference-details {
+    color: #777777;
+}
+
+@media (min-width: 720px) {
+	.conference-details {
+    		margin-top: -35px;
+	}
+}
+
+.conference-editors .contrib {
+    display: inline;
+}
+
+/* --- temporary while LIT-140648 is being updated --- */
+.apc .conference-name,
+.pma .conference-date:last-child,
+.pma .conference-volume,
+.pma .conference-editors,
+.pma .conference-isbn {
+    display: none;
+}
+
+.pma .issue-header {
+    box-shadow: none;
+}
+
+/* --- Article Page --- */
+.NLM_paragraph {
+    margin-bottom: 1.5em;
+}
+
+.articleMetaDrop.publicationContentDropZone.advertisement {
+    float: right;
+}
+
+.references td.refnumber {
+    vertical-align: top;
+    padding-right: .5em;
+}
+
+.references td {
+    padding-bottom: .75em;
+}
+
+table.listgroup td:first-child {
+    padding-right: 10px;
+}
+
+.crossmark-logo {
+    float: right;
+    width: 35px!important;
+}
+.cross-mark {
+    text-align: right;
+}
+
+a.showMoreAuthors {
+    font-size: 14px;
+    margin-left: 5px;
+    vertical-align: text-bottom;
+}
+
+/* --- Physics Today Article Page --- */
+
+.date-download-container .pull-right {
+    border: 1px solid #c8544b;
+    border-radius: 3px;
+}
+
+.pt-submit-btn {
+    border: 0;
+}
+
+.author-images img {
+    width: 60px;
+    height: 60px;
+    object-fit: cover;
+}
+
+.PT-header .topic-list a {
+    background: #c8544b;
+    color: #ffffff;
+    margin: 0 10px 10px 0;
+    padding: 0px 20px;
+    border-radius: 3px;
+    text-transform: uppercase;
+    line-height: 30px;
+    display: inline-block;
+}
+
+.PT-article-section .ReviewedArticle {
+    background: #eee;
+    padding: 15px;
+    margin-bottom: 10px;
+}
+
+.PT-article-section .ReviewedArticle .source b {
+    font-family: 'Montserrat', sans-serif;
+    font-size: 22px;
+}
+
+/* --- Topic Browse Page --- */
+
+.topicalIndex {
+    width: auto;
+    margin: auto;
+    box-shadow: none;
+}
+
+/* --- Special topic pages, e.g. MMM and JASA-EL --- */
+.topic-results {
+    margin-top: 45px;
+}
+
+.topic-results .search-results-header {
+    display: none;
+}
+
+
+/* --- Denial Page --- */
+
+.denial .textInput {
+    padding-left: 10px;
+    height: 35px;
+    border-radius: 3px;
+    border: 1px solid #cccccc;
+    box-sizing: border-box;
+}
+
+.denial .addOffer .defButton {
+    text-transform: uppercase;
+    font-size: 14px;
+}
+
+.ecommDeep a {
+    background-color: #00aeef;
+    color: #ffffff;
+    border: 1px solid #00aeef;
+    border-radius: 3px;
+    padding: 5px 20px;
+    text-transform: uppercase;
+    font-size: 14px;
+}
+
+.ecommDeep {
+    margin-top: 25px;
+}
+
+/* --- Physics Today Header --- */
+
+.header-journal-img-pt {
+    max-width: 485px;
+}
+
+/* --- Shibboleth (/action/ssostart) --- */
+@media (min-width: 960px) {
+  section.shibboleth {
+      width: 58%;
+      margin-left: 20%;
+    }
+}
+section.shibboleth {
+    padding: 20px 25px;
+    border: 3px solid #00aeef;
+    -webkit-border-radius: 12px;
+    -moz-border-radius: 12px;
+    border-radius: 12px;
+    margin-top: 20px;
+}
+
+.shibboleth .header {
+    padding-top: 0;
+    padding-bottom: 0;
+}
+
+.shibboleth .content {
+    padding-left: 0;
+}
+
+.shibboleth .federation .name {
+    font-size: 18px;
+    padding: 0;
+    margin: 0;
+}
+.shibboleth .federation .name a {
+  color: #333;
+}
+
+.shibboleth .institutions .header {
+  margin-top: 0;
+  border-bottom: 1px solid #eee;
+  color: #00aeef;
+  font-size: 28px;
+}
+
+.shibboleth li a {
+  color: #00aeef;
+}
+
+.shibboleth .input-group,
+.shibboleth .content {
+    margin-left: 25px;
+}
+
+.shibboleth .institutions .input-group input {
+    margin-top: 15px;
+    margin-bottom: 15px;
+}
+
+.shibboleth .federation {
+    padding-bottom: 0;
+}
+
+.shibboleth .federation ul,
+.shibboleth ul {
+    margin-left: 25px;
+}
+
+/* --- Alerts Page --- */
+
+.customPanel-showMore:after,
+.publicationPanel-showMore:after {
+    font-family: 'icomoon';
+    font-size: 8px;
+    margin-left: 5px;
+    content: '\e61c';
+    vertical-align: middle;
+}
+
+.customPanel-hideMore:after,
+.publicationPanel-hideMore:after {
+    font-family: 'icomoon';
+    font-size: 8px;
+    margin-left: 5px;
+    content: '\e61d';
+    vertical-align: middle;
+}
+
+.alertSubmitButton {
+    margin-top: 40px;
+}
+
+.profile-widget-content .manageAlertsWidget .showHideButton {
+    color: #757575;
+}
+
+/* --- INSTITUTION ADMIN --- */
+.ip-ranges-table tr.row:last-child {
+    display: none;
+}
+
+.literatumProfileMainWidget .ip-ranges-table {
+    margin-bottom: 20px;
+}
+
+.activateInst input[type="text"] {
+    margin-bottom: 20px;
+}
+
+/* --- DISQUS --- */
+.feedback-container .number a {
+    color: #c8544b;
+}
+
+/* --- MOST COMMENTED --- */
+.most-commented .title,
+.most-commented .titleHR {
+    display: none;
+}
+
+.most-commented a {
+    color: #111;
+    font-size: 16px;
+    font-weight: bold;
+    padding: 5px 0px;
+    display: inline-block;
+}
+
+.most-commented li {
+    padding: 20px 0;
+    border-top: 1px solid #e0e0e0;
+}
+
+/* --- PHYSICS JOBS RSS FEED READER --- */
+.general-rss-feed-reader a.title {
+    display: none;
+}
+
+/* --- ADD THIS --- */
+
+.addthis_inline_share_toolbox {
+    display: inline-block;
+}
+
+.at4-count {
+    font-family: 'Montserrat', sans-serif!important;
+    line-height: 24px!important;
+    font-weight: bold!important;
+    color: #c8544b!important;
+}
+
+.at4-jumboshare .at4-count-container {
+    min-width: 0!important;
+    border-right: none!important;
+    padding-right: 0!important;
+  }
+
+.at4-jumboshare .at4-count {
+    font-size: 42px!important;
+    line-height: 21px!important;
+}
+
+.addthis_inline_share_toolbox_ac0y {
+    display: inline-block;
+    vertical-align: middle;
+    padding-left: 10px;
+}
+.PT-header .addthis_inline_share_toolbox{
+  margin-top: 16px;
+  vertical-align: top;
+}
+.PT-header .at4-jumboshare .at4-share-container {
+  padding-top: 5px;
+}
+.PT-header .at4-jumboshare .at4-title {
+  color: black!important;
+  font-size: 12px;
+  line-height: 18px;
+}
+/* --- LOGIN PAGES --- */
+@media (min-width: 720px) {
+  .registration-pages-container .container,
+  .login-page-wrapper {
+      position: relative;
+      width: 450px;
+      margin: auto;
+  }
+}
+
+.loginWidget {
+    margin-top: 20px;
+}
+
+/* --- REGISTRATION --- */
+a.cancel {
+    text-transform: capitalize;
+    margin-left: 5px;
+}
+
+.literatumProfileMainWidget .input-group input, .changePasswordPopup .input-group input, .registration .input-group input {
+    padding: 0 10px;
+}
+
+.password-eye-icon {
+    top: 32px;
+    right: 3px;
+}
+
+.pass-strength-popup {
+    display: none;
+}
+
+.textZone.normal-txt {
+    float: right;
+    width: 92%;
+    padding-bottom: 15px;
+}
+
+/* --- SAVED SEARCH --- */
+
+@media (max-width: 600px) {
+  th.search-heading:nth-child(2), th.search-heading:nth-child(3) {
+      display: none;
+  }
+
+  td.search-alert, td.search-alert, td.search-date, td.search-last-run {
+      display: none;
+  }
+
+  th.search-heading:nth-child(4) a {
+      display: none!important;
+  }
+}
+
+/* --- DEPARTMENT PAGE --- */
+
+.PT-header .daily-edition-image {
+    width: auto;
+    padding: 0;
+    background: none;
+}
+
+/* lshabi removed this to fix LIT-143348 
+.PT-header .daily-edition-image img {
+    width: 160px;
+}
+*/
+/* lshabi added to remove margin from boxes */
+.PT-header .daily-edition .thumbnail-container {
+    margin-bottom: 0px;
+}
+.PT-header .daily-edition-text {
+    margin-bottom: 20px;
+    min-height: 160px;
+    display: block;
+}
+
+.department-page .follow-results-container {
+    margin: 0 0 15px 67px;
+}
+
+.department-page .search-result-row.search-results-header {
+    display: none;
+}
+
+.department-page h1 {
+    color: #c8544b;
+    font-size: 32px;
+    margin: 0 65px;
+    text-transform: uppercase;
+    line-height: 65px;
+}
+
+.department-page h1 {
+    color: #c8544b;
+    font-size: 32px;
+    margin: 5px 65px;
+    text-transform: uppercase;
+}
+
+.department-page .facetHeader strong {
+    color: #c8544b;
+}
+
+.department-page .queryFilters .rmFilters {
+    color: #c8544b;
+}
+
+.queryFilters .resetFilter {
+    border: 1px solid #c8544b;
+}
+
+.PT-header .recommended-articles {
+    margin-bottom: 0;
+}
+
+.PT-header h3 {
+    margin-bottom: 0;
+}
+
+.PT-header .recommended-articles {
+    margin-bottom: 0;
+    margin-top: 25px;
+}
+
+.PT-header .article-description {
+    padding-bottom: 0;
+}
+
+/* --- DAILY EDITION DO PAGE --- */
+
+.magazinepostimage {
+    float: left;
+    margin: 10px 20px 10px 0;
+}
+
+.PT-header .latest-article {
+    border-bottom: 1px solid #e0e0e0;
+    padding: 20px 0;
+}
+
+.PT-header .latest-articles-container .title a {
+    font-family: 'Lora', serif;
+    margin: 10px 0 15px 0;
+    font-size: 20px;
+    line-height: 28px;
+    display: block;
+    color: black;
+    font-weight: bold;
+    margin-block-start: 1.67em;
+    margin-block-end: 1.67em;
+}
+
+.PT-header .PT-article-container {
+    padding-top: 10px;
+}
+
+.PT-header .date-download-container {
+    padding: 10px 0px 10px;
+}
+
+.PT-header .entryAuthor p {
+    padding-left: 0;
+}
+
+/* --- PT HOME PAGE --- */
+.PT-content .tabs-widget .tab-nav li a {
+    padding: 10px 27px;
+}
+
+
+/* --- PROFILE PAGES --- */
+
+.literatumProfileMainWidget .access-widget .tab-pane-content .access-row .access-cell {
+    padding: 5px;
+    text-align: left;
+}
+
+/* --- PUBLICATION PAGE --- */
+
+	/* -- Begin AIP-414: Temporarily remove Views until we can update logic */ 
+	.share-view-menu {
+	    min-width: 14%;
+	    width: 14%;
+	}
+	.share-view-menu .feedback-container {
+	    	display: none;
+	}
+	/* -- End AIP-414 */
+
+div#StandAloneMedia {
+    font-family: 'Montserrat', sans-serif;
+    margin: 74px 0 96px 0;
+}
+
+div#StandAloneMedia .captionLabel {
+    display: block;
+    margin-bottom: 5px;
+    color: #999999;
+}
+
+/* --- HELP FORM --- */
+.custom-form input[type="text"] {
+    display: block;
+    height: 40px;
+    border: 1px solid #cccccc;
+    color: #212121;
+    padding-left: 10px;
+    box-sizing: border-box;
+    border-radius: 3px;
+}
+
+.custom-form input[type="submit"] {
+    background-color: #00aeef;
+    color: #ffffff;
+    border: 1px solid #00aeef;
+    margin: 0;
+    height: 40px;
+    padding: 0 20px;
+    font-weight: bold;
+    text-transform: uppercase;
+    font-size: 12px;
+}
+
+.custom-form input[type="submit"]:hover {
+    background-color: #06b8fa;
+    border: 1px solid #06b8fa;
+}
+
+/* --- REFERENCES SECTION --- */
+
+.article-paragraphs ol li {
+    font-size: 20px;
+}
+
+.article-paragraphs a {
+    font-size: 20px;
+}
+
+.article-paragraphs .sectionInfo h4 {
+    font-size: 24px;
+    font-weight: bold;
+    font-family: 'Montserrat', sans-serif;
+}
+
+/* --- OAS AD TAGS --- */
+
+div#oas_Bottom1,
+div#oas_Bottom,
+div#oas_Right {
+    margin: 15px 0;
+    text-align: center;
+}
+
+/* --- On TOC pages (http://physicstoday.scitation.org/toc/pto/current) there's a gap between the footer and the content, which is messing up the effect with the gray background --- */
+
+.site-footer.loi-toc-footer {
+    margin-top: 0px;
+}
+
+/* --- AIP-525: Temporarily disable display of view and citation counts --- */
+
+span.view-count,
+span.citation-count {
+    display: none;
+}
+
+/* --- LIT-140796 need to be moved to less files --- */
+/* --- .journals-scitation .pupular-articles when we add recent widget this will be change it's own class --- */
+.latest-articles-container .access-text-state{
+  font-size: 12px;
+  text-transform: uppercase;
+}
+@media (max-width: 719px){
+  .journals-scitation .left-side{
+      padding-right: 0px;
+  }
+  .journals-scitation .pupular-articles {
+    border-bottom: 0px solid #e0e0e0;
+  }
+}
+@media (min-width: 1279px){
+  .share-section-scitation .social-media-container .addthis-wrapper{
+        padding-right: 3%;
+  }
+}
+
+/* --- PHYSICS TODAY HOME PAGE --- */
+
+.PT-content .boxes-publication .page-heading h4 {
+    border-bottom: 10px solid #c8544b;
+    padding-bottom: 5px;
+    margin-bottom: 10px;
+    margin-top: 50px;
+    text-transform: uppercase;
+}
+
+.PT-content .boxes-publication .latest-article {
+    margin-top: 0;
+}
+
+.PT-content .boxes-publication .latest-articles-container .latest-article, 
+.PT-content .featured-article .latest-articles-container .latest-article, 
+.PT-content .most-read .latest-articles-container .latest-article {
+    border-top: none;
+    border-bottom: 1px solid #eee;
+    padding-bottom: 20px;
+}
+
+.PT-content .latest-articles-container .published-date {
+    text-transform: uppercase;
+    color: #c8544b;
+}
+
+.PT-content a.more {
+    color: #333;
+    float: right;
+    margin-top: 60px;
+}
+
+.subscibe-container .pt-subscribe-newsletter {
+    margin-bottom: 40px;
+}
+
+.PT-content .recentIssuesCover {
+    margin-top: 20px;
+}
+/* lshabi added to make toolbar for pt article page LIT-142011 */
+/* lshabi added .follow-journal .icon-Rss to fix this LIT-143291 */
+@media (max-width: 719px){
+    .PT-header .PT-article-section .pt-submit-btn {
+        display: inline-block;
+        z-index: 1;
+        position: fixed;
+        bottom: 0px;
+        left: 0px;
+        color: #fff;
+        background: #c8544b;
+        width: 49.99%;
+        padding: 10px 0px;
+        border-radius: 0px;
+    }
+    .PT-header .PT-article-section .pt-submit-btn:nth-child(2) {
+        right: 0px;
+        left: auto;
+        border-left: 1px solid #fff;
+    }
+    .follow-journal .icon-Rss {
+        font-size: 14px;
+        background-color: #fff;
+        border-radius: 50%;
+        color: #24323d;
+        padding: 3.5px;
+        margin: 0px 20px;
+    }
+}
+/* --- to fix LIT-143548  --- */
+.boxes-publication .graphical-abstract img , .two-columns img {
+    transform: translateY(-50%);
+    -webkit-transform: translateY(-50%);
+    -ms-transform: translateY(-50%);
+}
+</style>
+
+
+
+
+
+
+
+
+    
+        
+    
+
+
+
+
+
+
+
+
+    
+</head>
+<body class="pb-ui">
+
+
+
+
+
+
+    
+        <!-- Google Tag Manager -->
+        
+        
+
+        <noscript>
+            <iframe src="//www.googletagmanager.com/ns.html?id=GTM-P4TNS3"
+                    height="0" width="0" style="display:none;visibility:hidden"></iframe>
+        </noscript>
+        <script>(function (w, d, s, l, i) {
+            w[l] = w[l] || [];
+            w[l].push(
+                    {'gtm.start': new Date().getTime(), event: 'gtm.js'}
+            );
+            var f = d.getElementsByTagName(s)[0],
+                    j = d.createElement(s), dl = l != 'dataLayer' ? '&l=' + l : '';
+            j.async = true;
+            j.src =
+                    '//www.googletagmanager.com/gtm.js?id=' + i + dl;
+            f.parentNode.insertBefore(j, f);
+        })(window, document, 'script', 'dataLayer', 'GTM-P4TNS3');</script>
+        <!-- End Google Tag Manager -->
+    
+
+    <div id="pb-page-content" data-ng-non-bindable>
+        <div data-pb-dropzone="main" data-pb-dropzone-name="Main">
+
+
+
+
+        <div widget-def="pageHeader" widget-id="62175478-b98a-43d5-90f2-1f2045ac1a7e">
+            <header class="page-header">
+    <div data-pb-dropzone="main">
+    
+
+
+
+        <div widget-def="responsive-layout" widget-id="54bdc76a-e6af-4e67-82e1-528de4e4c737"
+             
+             class="top-header">
+            
+
+
+
+
+        
+    
+<div class="container">
+    <div class="row row-xs  ">
+        
+            <div class="col-xs-1-6 top-menu-column">
+                <div class="contents" data-pb-dropzone="contents0">
+                    
+                    
+                        
+                            
+
+
+
+        <div widget-def="general-html" widget-id="3f7c87bd-832d-4f3e-87ff-cfbe5219f893">
+            <div class="top-header-menu-btn" id="top-header-menu-btn">
+    <span class="icon-grid"></span>
+    <span class="menu-label">MENU</span>
+</div>
+
+
+        </div>
+    
+
+
+                        
+                    
+                </div>
+            </div>
+        
+            <div class="col-xs-5-6 user-info-column">
+                <div class="contents" data-pb-dropzone="contents1">
+                    
+                    
+                        
+                            
+
+
+
+        <div widget-def="general-html" widget-id="a88a04ba-4368-4c68-8ae6-3c4f5d7dd5f3">
+            <div class="top-header-log-in">
+    <div class="loginBar">
+        <a href="#">SIGN IN</a>
+    </div>
+</div>
+
+
+        </div>
+    
+
+
+                        
+                            
+
+
+
+        <div widget-def="responsive-layout" widget-id="71a82bf4-1aba-4a34-afb5-2202cbb8910e"
+             
+             class="header-user-info">
+            
+
+
+
+
+        
+    
+<div class="container-fluid">
+    <div class="row row-sm  ">
+        
+            <div class="col-sm-1-1 ">
+                <div class="contents" data-pb-dropzone="contents0">
+                    
+                    
+                        
+                            
+
+
+
+        <div widget-def="literatumInstitutionBanner" widget-id="56f47787-2960-4548-8b11-ff940b040b3d"
+             
+             class="access-provider">
+            
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div class="welcome">
+    
+    
+        <span>
+            
+                    Access provided by Atypon Institution
+                
+        </span>
+    
+    
+</div></div>
+    
+
+
+                        
+                            
+
+
+
+        <div widget-def="literatumNavigationLoginBar" widget-id="7df7bc7a-a596-471c-b3b6-6acfa97a0d17"
+             
+             class="login-widget">
+            
+
+
+
+
+    
+
+
+
+
+
+
+
+<div class="loginBar login-open">
+    <a href="https://scitation.aip.org/action/showLogin?uri=" class="show-login">
+        <span class="icon-profile_empty"></span>
+        <span class="sign-in-label">Sign in</span>
+    </a>
+</div>
+
+
+</div>
+    
+
+
+                        
+                    
+                </div>
+            </div>
+        
+    </div>
+</div></div>
+    
+
+
+                        
+                            
+
+
+
+        <div widget-def="responsiveQuickSearchWidget" widget-id="e22cf250-4a1f-422d-892a-a381d4a2d799"
+             
+             class="responsiveQuickSearchWidget page-header-quick-search">
+            
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div class="quickSearchFormContainer">
+    
+        <a class="icon-search mini-search mini-search" href="#">
+            <label class="sr-only">Enter words / phrases / DOI / ISBN / authors / keywords / etc.</label>
+        </a>
+    
+
+    
+
+
+    <form action="/action/doSearch" name="quickSearch" class="quickSearchForm search-open resQuickSearchForm" title="Quick Search" method="get"><div class="container">
+        
+        
+            
+                
+
+
+
+
+
+
+
+
+
+
+
+
+    
+
+
+
+
+<span class="searchDropDownDivLeft">
+    
+            
+                    
+                    
+                
+        
+    <label for="searchInSelector" class="visuallyhidden">Search in:</label>
+    
+    <select id="searchInSelector" class="custom-dropdown js__searchInSelector">
+
+
+        
+
+        
+            
+            
+        
+
+        
+        
+            <option value="" data-search-in="default">Anywhere</option>
+        
+
+        
+
+
+        
+
+        
+
+        
+
+        
+
+        
+            <option value="citation" data-search-in="citation">
+                Citation
+            </option>
+        
+
+    </select>
+
+
+</span>
+            
+        
+
+        
+        
+
+        
+                <div class="quicksearch-container">
+                    
+                        
+
+
+
+
+    
+
+
+<span class="citationSearchBoxContainer hidden">
+    <input name="quickLinkJournal" autoPopulate="true" data-auto-complete-target="Title" autoComplete="off" type="search" title="Journal"
+           class="journalName mediumTextInput textIndent autocomplete" placeholder="Journal"
+           value=""/>
+
+        
+
+    <input type="hidden" name="quickLink" value="true" />
+    <input class="year smallTextInput" title="Year" type="search" name="quickLinkYear" value="" autocomplete="false" placeholder="Year" />
+    <input class="volume smallTextInput" title="Volume" type="search" name="quickLinkVolume" value="" autocomplete="false" placeholder="Volume" />
+    <input class="issue smallTextInput" title="Issue" type="search" name="quickLinkIssue" value="" autocomplete="false" placeholder="Issue" />
+    <input class="page smallTextInput" title="Page" type="search" name="quickLinkPage" value="" autocomplete="false" placeholder="Page" />
+    <button class="citation-mainSearchButton">
+        <span class="icon-search"></span>
+    </button>
+</span>
+
+                    
+                    <div class="simpleSearchBoxContainer">
+                            <input name="AllField"
+               class="searchText magicsuggest main-search-field textIndent autocomplete"
+               value=""
+               type="search" id="searchText"
+               title="Type search term here"
+               placeholder="Enter words / phrases / DOI / ISBN / authors / keywords / etc." autocomplete="off"
+               data-history-items-conf="3"
+               data-publication-titles-conf="3"
+               data-topics-conf="3"
+               data-contributors-conf="3"
+               data-auto-complete-target="auto-complete"/>
+                            <button class="mainSearchButton">
+                                <label class="sr-only">search</label>
+                                <span class="icon-search icon-search-btn"></span>
+                            </button>
+                    </div>
+
+                    <div class="quicksearch-actions">
+                        <a class="responsiveAdvanceSearch" href="/search/advanced" title="Advanced">
+                            <span class="visible-sm visible-xs">
+                                Advanced
+                            </span>
+                            <span class="hidden-xs hidden-sm icon-advanced_search"></span>
+                        </a>
+                    </div>
+                </div>
+            
+
+        
+            
+        
+
+
+        
+        
+            </div></form>
+</div>
+
+
+    <div class="search-bg overlay-fixed"></div>
+
+
+
+<div class="advancedSearchLinkDropZone" data-pb-dropzone="advancedSearchLinkDropZone">
+    
+</div></div>
+    
+
+
+                        
+                    
+                </div>
+            </div>
+        
+    </div>
+</div></div>
+    
+
+
+
+
+
+        <div widget-def="responsive-layout" widget-id="3c821a75-29b6-4dcf-9ad7-9b92dae6e2e6"
+             
+             class="top-menu">
+            
+
+
+
+
+        
+    
+<div class="container">
+    <div class="row row-sm  ">
+        
+            <div class="col-sm-1-4 ">
+                <div class="contents" data-pb-dropzone="contents0">
+                    
+                    
+                        
+                            
+
+
+
+        <div widget-def="general-html" widget-id="dbbbb381-d04a-4fae-a8fa-e70f51e3e921"
+             
+             class="top-menu-section">
+            <ul class="main-section right-section">
+    <li><a href="http://www.scitation.org#publishersdd">Publishers</a></li>
+    <li><a href="http://aip.scitation.org/journal/apc">Conference Proceedings</a></li>
+    <li><a href="https://publishing.aip.org/authors" target="_blank">Author Resources</a></li>
+    <li><a href="https://publishing.aip.org/librarians" target="_blank">Librarian Resources</a></li>
+    <li><a href="http://www.scitation.org/contact">Contact Us</a></li>
+    <li><a href="http://www.scitation.org/help">Help</a></li>
+</ul>
+
+</div>
+    
+
+
+                        
+                            
+
+
+
+        <div widget-def="general-html" widget-id="54e08018-0515-4954-9449-51ac0f9c6888"
+             
+             class="top-menu-section">
+            <ul class="main-section right-section">
+    <li><a href="http://www.scitation.org"><img src="/pb-assets/images/publishers/scitation.jpg" alt="Scitation Home"></a></li>
+    </ul>
+
+</div>
+    
+
+
+                        
+                    
+                </div>
+            </div>
+        
+            <div class="col-sm-3-8 ">
+                <div class="contents" data-pb-dropzone="contents1">
+                    
+                    
+                        
+                            
+
+
+
+        <div widget-def="general-html" widget-id="c6c15f86-3b58-42d1-810c-5b86a06b7b3f"
+             
+             class="top-menu-section">
+            <ul class="main-section">
+    <li class="has-items">
+        <a href="#" class="section-title">Publications<span class="icon icon-arrow_d_n"></span></a>
+        <ul class="sub-section">
+            <li><a href="/journal/apl">Applied Physics Letters</a></li>
+            <li><a href="/journal/jap">Journal of Applied Physics</a></li>
+            <li><a href="/journal/jcp">The Journal of Chemical Physics</a></li>
+            <li><a href="/journal/pto">Physics Today</a></li>
+            <li><a href="/journal/jas">The Journal of the Acoustical Society of America</a></li>
+            <li><a href="/journal/rsi">Review of Scientific Instruments</a></li>
+            <li><a href="/journal/ajp">American Journal of Physics</a></li>
+            <li><a href="/journal/phf">Physics of Fluids</a></li>
+            <li><a href="/journal/php">Physics of Plasmas</a></li>
+            <li><a href="/journal/adv">AIP Advances</a></li>
+            <li class="more"><a href="http://www.scitation.org/publications">More</a></li>
+        </ul>
+    </li>
+</ul>
+
+</div>
+    
+
+
+                        
+                    
+                </div>
+            </div>
+        
+            <div class="col-sm-3-8 ">
+                <div class="contents" data-pb-dropzone="contents2">
+                    
+                    
+                        
+                            
+
+
+
+        <div widget-def="general-html" widget-id="56117610-d1c2-4614-8cc2-3ed8163dddd9"
+             
+             class="top-menu-section">
+            <ul class="main-section">
+    <li class="has-items">
+        <a href="#" class="section-title">Topics<span class="icon icon-arrow_d_n"></span></a>
+        <ul class="sub-section">
+            <li><a href="/topic/107">Acoustics</a></li>
+            <li><a href="/topic/604">Biological Physics</a></li>
+            <li><a href="/topic/1156">Condensed Matter Physics</a></li>
+            <li><a href="/topic/1890">Energy</a></li>
+            <li><a href="/topic/3820">Materials Science</a></li>
+            <li><a href="/topic/3832">Mathematical Physics</a></li>
+            <li><a href="/topic/4803">Optics and Optical Physics</a></li>
+            <li><a href="/topic/5111">Physical Chemistry</a></li>
+            <li><a href="/topic/5255">Plasma Physics</a></li>
+            <li><a href="/topic/5851">Rheology and Fluid Dynamics</a></li>
+            <li class="more"><a href="/topics">More</a></li>
+        </ul>
+    </li>
+</ul>
+
+</div>
+    
+
+
+                        
+                    
+                </div>
+            </div>
+        
+    </div>
+</div></div>
+    
+
+
+
+
+
+        <div widget-def="literatumAd" widget-id="eda81f15-961b-48b5-9579-250e825ae84b"
+             
+             class="header-ad-container container">
+            
+
+
+        <div class="pb-ad">
+            <div id="oas_Top"></div>
+<script type="text/javascript">oas_tag.loadAd("Top");</script>
+        </div>
+    
+</div>
+    
+
+    </div>
+</header>
+
+        </div>
+    
+
+
+
+
+
+        <div widget-def="pageBody" widget-id="72100436-7a82-49fc-933b-c6c9d8c42914">
+            <!--begin pagefulltext-->
+<div class="page-body pagefulltext">
+    <div data-pb-dropzone="main">
+    
+
+
+
+        <div widget-def="responsive-layout" widget-id="38971843-2702-4c06-9166-dc8bc1c364b8">
+            
+
+
+
+
+        
+    
+<div class="container-fluid">
+    <div class="row row-md  ">
+        
+            <div class="col-md-1-1 ">
+                <div class="contents" data-pb-dropzone="contents0">
+                    
+                    
+                        
+                            
+
+
+
+        <div widget-def="literatumError" widget-id="99485a79-a93e-4729-8be5-ef1d24a926b1">
+            
+
+
+
+<p class="error"></p>
+
+
+
+        </div>
+    
+
+
+                        
+                            
+
+
+
+        <div widget-def="general-rich-text" widget-id="3c37642c-fd12-4b33-8456-ef2e86cb5e69">
+            <div id="rich-text-3c37642c-fd12-4b33-8456-ef2e86cb5e69" class="pb-rich-text" >
+        <p><strong> Not Found</strong></p>
+<p>404: Page not found</p>
+</div>
+
+        </div>
+    
+
+
+                        
+                    
+                </div>
+            </div>
+        
+    </div>
+</div>
+        </div>
+    
+
+
+
+
+
+        <div widget-def="responsive-layout" widget-id="efa2ef1c-83fd-4aee-a171-332349626ce0"
+             
+             class="padded-content">
+            
+
+
+
+
+        
+    
+<div class="container">
+    <div class="row row-md gutterless ">
+        
+            <div class="col-md-1-1 article-cont">
+                <div class="contents" data-pb-dropzone="contents0">
+                    
+                    
+                </div>
+            </div>
+        
+    </div>
+</div></div>
+    
+
+    </div>
+</div><!--end pagefulltext-->
+        </div>
+    
+
+
+
+
+
+        <div widget-def="pageFooter" widget-id="38e4b213-1be6-4c89-84c1-0cc5ce4cfd7b"
+             
+             class="site-footer">
+            <footer class="page-footer">
+    <div data-pb-dropzone="main">
+    
+
+
+
+        <div widget-def="responsive-layout" widget-id="7ec5c84f-97a7-4143-841f-4d0492e6002f"
+             
+             class="footer-sections">
+            
+
+
+
+
+        
+    
+<div class="container">
+    <div class="row row-sm  ">
+        
+            <div class="col-sm-1-4 ">
+                <div class="contents" data-pb-dropzone="contents0">
+                    
+                    
+                        
+                            
+
+
+
+        <div widget-def="general-html" widget-id="019a6239-2b08-4873-a40e-05b1864ad59d"
+             
+             class="footer-left">
+            <h4 class="footer-section-title">Resources</h4>
+<ul>
+    <li><a href="https://publishing.aip.org/authors" target="_blank">AUTHOR</a></li>
+    <li><a href="https://publishing.aip.org/librarians" target="_blank">LIBRARIAN</a></li>
+    <li><a href="http://www.scitation.org/advertising">ADVERTISER</a></li>
+</ul>
+
+</div>
+    
+
+
+                        
+                    
+                </div>
+            </div>
+        
+            <div class="col-sm-1-3 ">
+                <div class="contents" data-pb-dropzone="contents1">
+                    
+                    
+                        
+                            
+
+
+
+        <div widget-def="general-html" widget-id="2cdb02b9-4a80-49ce-a918-2484c742e48f">
+            <h4 class="footer-section-title">General Information</h4>
+<ul>
+    <li><a href="http://www.scitation.org/about">ABOUT</a></li>
+    <li><a href="http://www.scitation.org/contact">CONTACT</a></li>
+    <li><a href="http://www.scitation.org/help">HELP</a></li>
+</ul>
+
+
+        </div>
+    
+
+
+                        
+                    
+                </div>
+            </div>
+        
+            <div class="col-sm-5-12 ">
+                <div class="contents" data-pb-dropzone="contents2">
+                    
+                    
+                        
+                            
+
+
+
+        <div widget-def="general-html" widget-id="76259b72-8e49-4ec8-8d45-d5688ba558b2"
+             
+             class="footer-right">
+            <h4 class="footer-section-title">&nbsp;</h4>
+<ul>
+    <li><a href="http://www.scitation.org/privacy">PRIVACY POLICY</a></li>
+    <li><a href="http://www.scitation.org/terms">TERMS OF USE</a></li>
+    <li class="inline-icon">
+        <a href="http://www.scitation.org">FOLLOW AIP PUBLISHING:</a>
+        <a href="https://www.facebook.com/AIPPublishing/"><span class="icon icon-facebook-square"></span></a>
+        <a href="https://twitter.com/AIP_Publishing"><span class="icon icon-twitter-square"></span></a>
+        <a href="https://www.linkedin.com/company/10306347"><span class="icon icon-linkedin-square"></span></a>
+    </li>
+</ul>
+
+</div>
+    
+
+
+                        
+                    
+                </div>
+            </div>
+        
+    </div>
+</div></div>
+    
+
+
+
+
+
+        <div widget-def="responsive-layout" widget-id="88b458c3-4098-4fa5-85a0-72c2845ffba3"
+             
+             class="footer-copyright-wrapper">
+            
+
+
+
+
+        
+    
+<div class="container">
+    <div class="row row-md  ">
+        
+            <div class="col-md-1-1 ">
+                <div class="contents" data-pb-dropzone="contents0">
+                    
+                    
+                        
+                            
+
+
+
+        <div widget-def="general-html-asset" widget-id="e3833212-4fc4-420a-a080-c4ca84ac3ed6">
+            <script type="text/javascript">
+setTimeout(function(){var a=document.createElement("script");
+var b=document.getElementsByTagName("script")[0];
+a.src=document.location.protocol+"//script.crazyegg.com/pages/scripts/0011/5927.js?"+Math.floor(new Date().getTime()/3600000);
+a.async=true;a.type="text/javascript";b.parentNode.insertBefore(a,b)}, 1);
+</script>
+        </div>
+    
+
+
+                        
+                            
+
+
+
+        <div widget-def="general-html" widget-id="4a153430-619e-48ee-a7f9-df4133694aa5">
+            <div class="footer-copyright">Website &copy; 2016 AIP Publishing LLC. Article copyright remains as specified within the article.</div>
+<div style="position:absolute; bottom: 0; right: 0;"><img src="/pb-assets/images/scitation_logo-type_gray_small.png" alt="Scitation logo"></div>
+
+
+        </div>
+    
+
+
+                        
+                    
+                </div>
+            </div>
+        
+    </div>
+</div></div>
+    
+
+    </div>
+</footer></div>
+    
+
+        </div>
+    </div>
+</body>
+</html>
