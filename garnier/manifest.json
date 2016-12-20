@@ -1,0 +1,13 @@
+{
+  "version": "2016-12-20",
+  "status": "beta",
+  "domains": [
+    "www.classiques-garnier.com"
+  ],
+  "name": "garnier",
+  "longname": "Garnier Numérique",
+  "describe": "Recognizes the accesses to the platform Garnier Numérique",
+  "docurl": "http://ang.couperin.org/platforms/542571b3e08961280f40e8ee",
+  "contact": "yannick.schurter at gmail.com",
+  "pkb": false
+}
