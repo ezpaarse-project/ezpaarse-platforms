@@ -1,0 +1,678 @@
+publication_title	print_identifier	online_identifier	date_first_issue_online	num_first_vol_online	num_first_issue_online	date_last_issue_online	num_last_vol_online	num_last_issue_online	title_url	first_author	title_id	embargo_info	coverage_depth	notes	publisher_name	publication_type	date_monograph_published_print	date_monograph_published_online	monograph_volume	monograph_edition	first_editor	parent_publication_title_id	preceding_publication_title_id	access_type	DOI	ISSNs	eISSNs	ISBNs	eISBNs	access_start_date	access_end_date	access_status		coverage_notes
+Twentieth-Century China	1521-5385	1940-5065	2007-01-01	33	1	2010-04-30	35	2	http://muse.jhu.edu/journal/390		1053		fulltext	No longer contributing to Project MUSE		serial										1521-5385	1940-5065					Current		
+American Literary Scholarship	0065-9142	1527-2125	1998-01-01						http://muse.jhu.edu/journal/9		1087		fulltext			serial										0065-9142	1527-2125					Current		
+American Literature	0002-9831	1527-2117	1999-01-01	71	3	2004-12-31	76	4	http://muse.jhu.edu/journal/7		1088		fulltext	No longer contributing to Project MUSE		serial										0002-9831	1527-2117					Current		
+American Speech	0003-1283	1527-2133	2000-01-01	75	1	2004-12-31	79	4	http://muse.jhu.edu/journal/16		1089		fulltext	No longer contributing to Project MUSE		serial										0003-1283	1527-2133					Current		
+boundary 2	0190-3659	1527-2141	1999-01-01	26	3	2004-12-31	31	3	http://muse.jhu.edu/journal/21		1090		fulltext	No longer contributing to Project MUSE		serial										0190-3659	1527-2141					Current		
+Camera Obscura	0270-5346	1529-1510	2000-01-01	15	1	2004-12-31	19	3	http://muse.jhu.edu/journal/35		1091		fulltext	No longer contributing to Project MUSE		serial										0270-5346	1529-1510					Current		
+Common Knowledge	0961-754X	1538-4578	2002-01-01	8	1				http://muse.jhu.edu/journal/32		1092		fulltext			serial										0961-754X	1538-4578					Current		
+Comparative Studies of South Asia, Africa and the Middle East	1089-201X	1548-226X	2000-01-01	20	01-Feb				http://muse.jhu.edu/journal/256		1094		fulltext			serial										1089-201X	1548-226X					Current		
+Cultural Politics	1743-2197	1751-7435	2012-01-01	8	1				http://muse.jhu.edu/journal/548		1095		fulltext			serial										1743-2197	1751-7435					Current		
+differences: A Journal of Feminist Cultural Studies	1040-7391	1527-1986	1998-01-01	10	3	2004-12-31	15	3	http://muse.jhu.edu/journal/47		1096		fulltext	No longer contributing to Project MUSE		serial										1040-7391	1527-1986					Current		
+EASTS: East Asian Science, Technology and Society: An International Journal	1875-2160	1875-2152	2007-01-01	1	1				http://muse.jhu.edu/journal/543		1097		fulltext			serial										1875-2160	1875-2152					Current		
+Eighteenth-Century Life	0098-2601	1086-3192	1996-01-01	20	1				http://muse.jhu.edu/journal/53		1098		fulltext			serial										0098-2601	1086-3192					Current		
+Ethnohistory	0014-1801	1527-5477	1999-01-01	46	4	2004-12-31	51	4	http://muse.jhu.edu/journal/61		1099		fulltext	No longer contributing to Project MUSE		serial										0014-1801	1527-5477					Current		
+French Historical Studies	0016-1071	1527-5493	1999-01-01	22	4	2004-12-31	27	4	http://muse.jhu.edu/journal/62		1100		fulltext	No longer contributing to Project MUSE		serial										0016-1071	1527-5493					Current		
+GLQ: A Journal of Lesbian and Gay Studies	1064-2684	1527-9375	1999-01-01	5	3				http://muse.jhu.edu/journal/67		1102		fulltext			serial										1064-2684	1527-9375					Current		
+Hispanic American Historical Review	0018-2168	1527-1900	1999-08-01	79	3	2004-11-30	84	4	http://muse.jhu.edu/journal/70		1103		fulltext	No longer contributing to Project MUSE		serial										0018-2168	1527-1900					Current		
+History of Political Economy	0018-2702	1527-1919	2000-01-01	32	1	2004-12-31	36	4	http://muse.jhu.edu/journal/75		1104		fulltext	No longer contributing to Project MUSE		serial										0018-2702	1527-1919					Current		
+Journal of Health Politics, Policy and Law	0361-6878	1527-1927	2000-01-01	25	1	2004-12-31	29	6	http://muse.jhu.edu/journal/93		1105		fulltext	No longer contributing to Project MUSE		serial										0361-6878	1527-1927					Current		
+Journal of Medieval and Early Modern Studies	1082-9636	1527-8263	2000-01-01	30	1	2004-12-31	34	3	http://muse.jhu.edu/journal/95		1106		fulltext	No longer contributing to Project MUSE		serial										1082-9636	1527-8263					Current		
+Labor: Studies in Working-Class History of the Americas	1547-6715	1558-1454	2016-03-01	13	1				http://muse.jhu.edu/journal/679		1108		fulltext	New for 2016		serial										1547-6715	1558-1454			2016-03-01		Current		
+Mediterranean Quarterly	1047-4552	1527-1935	2000-01-01	11	1				http://muse.jhu.edu/journal/124		1109		fulltext			serial										1047-4552	1527-1935					Current		
+minnesota review	0026-5667	2157-4189	1973-01-01		1				http://muse.jhu.edu/journal/520		1110		fulltext			serial										0026-5667	2157-4189					Current		
+Modern Language Quarterly	0026-7929	1527-1943	1999-06-01	60	2	2004-12-31	65	4	http://muse.jhu.edu/journal/129		1111		fulltext	No longer contributing to Project MUSE		serial										0026-7929	1527-1943					Current		
+Nka: Journal of African Contemporary Art	1075-7163	2152-7792	1994-01-01		1				http://muse.jhu.edu/journal/522		1113		fulltext			serial										1075-7163	2152-7792					Current		
+Pedagogy	1531-4200	1533-6255	2001-01-01	1	1				http://muse.jhu.edu/journal/154		1115		fulltext			serial										1531-4200	1533-6255					Current		
+Poetics Today	0333-5372	1527-5507	1999-01-01	20	3	2004-12-31	25	4	http://muse.jhu.edu/journal/161		1117		fulltext	No longer contributing to Project MUSE		serial										0333-5372	1527-5507					Current		
+positions: east asia cultures critique	1067-9847	1527-8271	2000-01-01	8	1				http://muse.jhu.edu/journal/162		1118		fulltext			serial										1067-9847	1527-8271					Current		
+Public Culture	0899-2363	1527-8018	1999-01-01	11	2	2004-12-31	16	3	http://muse.jhu.edu/journal/153		1119		fulltext	No longer contributing to Project MUSE		serial										0899-2363	1527-8018					Current		
+Radical History Review	0163-6545	1534-1453	2001-01-01		79	2004-12-31		90	http://muse.jhu.edu/journal/173		1120		fulltext	No longer contributing to Project MUSE		serial										0163-6545	1534-1453					Current		
+Small Axe	0799-0537	1534-6714	2001-01-01	5	1				http://muse.jhu.edu/journal/185		1121		fulltext			serial										0799-0537	1534-6714					Current		
+Social Science History	0145-5532	1527-8034	1999-01-01	23	4				http://muse.jhu.edu/journal/188		1122		fulltext			serial										0145-5532	1527-8034					Current		
+Social Text	0164-2472	1527-1951	2000-01-01	18	1	2004-12-31	22	4	http://muse.jhu.edu/journal/186		1123		fulltext	No longer contributing to Project MUSE		serial										0164-2472	1527-1951					Current		
+South Atlantic Quarterly	0038-2876	1527-8026	1999-01-01	98	3	2004-12-31	103	4	http://muse.jhu.edu/journal/175		1124		fulltext	No longer contributing to Project MUSE		serial										0038-2876	1527-8026					Current		
+Theater	0161-0775	1527-196X	2000-01-01	30	1	2004-12-31	34	3	http://muse.jhu.edu/journal/195		1125		fulltext	No longer contributing to Project MUSE		serial										0161-0775	1527-196X					Current		
+Tikkun	0887-9982	2164-0041	2006-01-01	21	1				http://muse.jhu.edu/journal/583		1126		fulltext			serial										0887-9982	2164-0041					Current		
+Anthropologica	0003-5459		2014-05-01	56	1				http://muse.jhu.edu/journal/624		13578		fulltext	New for 2014		serial										0003-5459						Current		
+Canadian Journal of History: Annales Canadiennes d'Histoire	0008-4107	2292-8502	2015-01-01	50	1				http://muse.jhu.edu/journal/650		13582		fulltext	New for 2015		serial										0008-4107	2292-8502			2015-09-01		Current		
+Social Research: An International Quarterly	0037-783X	1944-768X	2004-03-01	71	1				http://muse.jhu.edu/journal/644		13620		fulltext	New for 2014		serial										0037-783X	1944-768X					Current		
+Journal of Haitian Studies	1090-3488		2013-03-01	19	1				http://muse.jhu.edu/journal/632		13699		fulltext	New for 2014		serial										1090-3488						Current		
+The Journal of Southern History	0022-4642	2325-6893	2016-02-01	82	1				https://muse.jhu.edu/journal/685		13766		fulltext	New for 2016		serial										0022-4642	2325-6893			2016-04-01		Current		
+The William and Mary Quarterly	0043-5597	1933-7698	2015-01-01	72	1				http://muse.jhu.edu/journal/664		13821		fulltext	New for 2015		serial										0043-5597	1933-7698			2015-02-01		Current		
+Pacific Coast Philology	0078-7469	2326-067X	2014-04-01	49	1				http://muse.jhu.edu/journal/635		14032		fulltext	New for 2014		serial										0078-7469	2326-067X					Current		
+Twentieth Century Literature	0041-462X		2015-03-01	61	1				https://muse.jhu.edu/journal/652		14063		fulltext	New for 2015		serial										0041-462X				2015-05-05		Current		
+Annales. Histoire, Sciences Sociales	0395-2649	1953-8146	2014-01-01	69					http://muse.jhu.edu/journal/640		14171		fulltext	New for 2014 		serial										0395-2649	1953-8146			2014-09-05		Current		
+The Massachusetts Review	0025-4878		2015-03-01	56	1				https://muse.jhu.edu/journal/660		14256		fulltext	New for 2015		serial										0025-4878				2015-03-30		Current		
+Acadiensis	0044-5851	1712-7432	2016-01-01	45	1				https://muse.jhu.edu/journal/683		14459		fulltext	New for 2016		serial										0044-5851	1712-7432			2016-05-01		Current		
+Music and the Moving Image	2167-8464	1940-7610	2015-01-01	8	1				http://muse.jhu.edu/journal/657		14575		fulltext	New for 2015		serial										2167-8464	1940-7610			2015-09-01		Current		
+African Arts	0001-9933	1937-2108	2016-03-01	49	1				http://muse.jhu.edu/journal/675		15050		fulltext	New for 2016		serial										0001-9933	1937-2108			2016-05-01		Current		
+Huntington Library Quarterly	0018-7895	1544-399X	2015-01-01	78	1				http://muse.jhu.edu/journal/677		15094		fulltext	New for 2016		serial										0018-7895	1544-399X			2016-03-01		Current		
+Leviathan	1525-6995	1750-1849	1999-01-01	1	1				http://muse.jhu.edu/journal/601		1529		fulltext			serial									10.1111/(ISSN)1750-1849	1525-6995	1750-1849					Current		
+Confluencia	0888-6091		2014-09-01	30	1				http://muse.jhu.edu/journal/667		15868		fulltext	New for 2015		serial										0888-6091				2015-02-01		Current		
+Poe Studies	1947-4644	1754-6095	2008-01-01	41	1				http://muse.jhu.edu/journal/613		1593		fulltext	New: 2013 previously: Poe Studies/Dark Romanticism (1986-2006)		serial									10.1111/(ISSN)1754-6095	1947-4644	1754-6095					Current		
+Illinois Classical Studies	0363-1923	2328-5265	2015-01-01	40	1				http://muse.jhu.edu/journal/653		16100		fulltext	New for 2015		serial										0363-1923	2328-5265			2015-09-01		Current		
+Jewish Film & New Media	2169-0324	2169-0332	2013-01-01	1	1				http://muse.jhu.edu/journal/642		16129		fulltext	New for 2014		serial										2169-0324	2169-0332			2014-02-01		Current		
+Journal of Animal Ethics	2156-5414	2160-1267	2016-03-01	6	1				http://muse.jhu.edu/journal/678		16132		fulltext	New for 2016		serial										2156-5414	2160-1267			2016-08-01		Current		
+The Journal of Ayn Rand Studies	1526-1018	2169-7132	2014-07-01	14	1				http://muse.jhu.edu/journal/631		16136		fulltext	New for 2014		serial										1526-1018	2169-7132			2014-08-01		Current		
+Journal of West African History	2327-1868	2327-1876							https://muse.jhu.edu/		16158		fulltext	New for 2017 - content not yet available		serial										2327-1868	2327-1876			2017-12-01		Expected		
+QED: A Journal in GLBTQ Worldmaking	2327-1574	2327-1590	2013-11-01	Inaugural Issue					http://muse.jhu.edu/journal/639		16204		fulltext	New for 2014		serial										2327-1574	2327-1590					Current		
+Women, Gender and Families of Color	2326-0939	2326-0947	2013-01-01	1	1				http://muse.jhu.edu/journal/623		16249		fulltext			serial										2326-0939	2326-0947					Current		
+SAIS Review of International Affairs	1945-4716	1945-4724	2004-01-01	24	1				http://muse.jhu.edu/journal/174		16256		fulltext	Previously: SAIS review (Paul H. Nitze School of Advanced International Studies) (1990-2003)		serial										1945-4716	1945-4724					Current		
+Steinbeck Review	1546-007X	1754-6087	2006-01-01	3	1				http://muse.jhu.edu/journal/377		1656		fulltext	Incorporated:Steinbeck Studies (2006). Missing 2008-2009		serial									10.1111/(ISSN)1754-6087	1546-007X	1754-6087					Current		
+The F. Scott Fitzgerald Review	1543-3951	1755-6333	2013-01-01	11					http://muse.jhu.edu/journal/620		1685		fulltext	New for 2013 		serial									10.1111/(ISSN)1755-6333	1543-3951	1755-6333					Current		
+The Mark Twain Annual	1553-0981	1756-2597	2013-01-01	11					http://muse.jhu.edu/journal/603		1711		fulltext			serial									10.1111/(ISSN)1756-2597	1553-0981	1756-2597					Current		
+Journal of Chinese Literature and Culture	2329-0048	2329-0056	2014-11-01	1	01-Feb				http://muse.jhu.edu/journal/659		17412		fulltext	New for 2015		serial										2329-0048	2329-0056			2015-01-18		Current		
+ARIEL : A Review of International English Literature	0004-1327		2014-01-01	44					http://muse.jhu.edu/journal/625		17420		fulltext	New for 2014 		serial										0004-1327						Current		
+British Journal of Canadian Studies	0269-9222	1757-8078	2014-01-01	27	1				http://muse.jhu.edu/journal/637		17421		fulltext	New for 2014 		serial										0269-9222	1757-8078					Current		
+Bulletin of Friends' Historical Society of Philadelphia	2330-8079		1906-01-01	1	1	1923-12-31	12	2	http://muse.jhu.edu/journal/394		17422		fulltext	Now: Quaker History (1962 -) continues: Bulletin of Friends Historical Association (1924-1961)		serial										2330-8079						Current		
+Bulletin of Medieval Canon Law	0146-2989		2013-01-01	30					http://muse.jhu.edu/journal/626		17423		fulltext	New for 2014		serial										0146-2989				2014-07-01		Current		
+Canadian Review of Comparative Literature	0319-051X		2014-03-01	41	1				http://muse.jhu.edu/journal/638		17424		fulltext	New for 2014 		serial										0319-051X						Current		
+Ghana Studies	1536-5514		2014-12-01	17	1				http://muse.jhu.edu/journal/641		17425		fulltext	New for 2014		serial										1536-5514				2014-12-07		Current		
+Great Plains Quarterly	0275-7664		2014-01-01	34	1				http://muse.jhu.edu/journal/627		17426		fulltext	New for 2014 		serial										0275-7664						Current		
+Great Plains Research	1052-5165	2334-2463	2014-04-01	24	1				http://muse.jhu.edu/journal/628		17427		fulltext	New for 2014		serial										1052-5165	2334-2463					Current		
+International Journal of Canadian Studies	1180-3991	1923-5291	2013-01-01	47					http://muse.jhu.edu/journal/629		17428		fulltext	New for 2014 		serial										1180-3991	1923-5291					Current		
+Journal of Japanese Philosophy	2327-0195	2327-0209	2013-01-01						http://muse.jhu.edu/journal/634		17430		fulltext	New for 2014		serial										2327-0195	2327-0209			2014-09-01		Current		
+Journal of Southeast Asian Economies	2339-5095	2339-5206	2013-04-01	30	1				http://muse.jhu.edu/journal/347		17431		fulltext	Previously: ASEAN Economic Bulletin (2003-2012)		serial										2339-5095	2339-5206					Current		
+The Journal of Individual Psychology	1522-2527		2014-03-01	70	1				http://muse.jhu.edu/journal/633		17433		fulltext	New for 2014		serial										1522-2527						Current		
+The Undecidable Unconscious: A Journal of Deconstruction and Psychoanalysis	2328-4048		2014-01-01	1					http://muse.jhu.edu/journal/636		17434		fulltext	New for 2015		serial										2328-4048				2015-02-22		Current		
+Cervantes: Bulletin of the Cervantes Society of America	0277-6995	1943-3840	2014-01-01	34	1				http://muse.jhu.edu/journal/643		17440		fulltext	New for 2014		serial										0277-6995	1943-3840			2014-09-01		Current		
+Italian Culture	0161-4622	1559-0909	2005-01-01	23		2008-12-31	26		http://muse.jhu.edu/journal/328		1749		fulltext	No longer contributing to Project MUSE		serial										0161-4622	1559-0909					Current		
+Theoretical & Applied Ethics		2156-7174	2013-06-01	2	1				http://muse.jhu.edu/journal/645		18054		fulltext	New for 2014		serial											2156-7174					Current		
+Human Biology	0018-7143	1534-6617	2001-01-01	73	1				http://muse.jhu.edu/journal/79		1821		fulltext			serial										0018-7143	1534-6617					Current		
+European Journal of Language Policy	1757-6822	1757-6830	2014-09-01	6	2				http://muse.jhu.edu/journal/651		18321		fulltext	New for 2015		serial										1757-6822	1757-6830			2015-01-18		Current		
+Pacific Science	0030-8870	1534-6188	2001-01-01	55	1	2007-10-31	61	4	http://muse.jhu.edu/journal/166		1876		fulltext	No longer contributing to Project MUSE		serial										0030-8870	1534-6188					Current		
+Music and Letters	0027-4224	1477-4631	2004-01-01	85	1				http://muse.jhu.edu/journal/266		1936		fulltext			serial										0027-4224	1477-4631					Current		
+Social Forces	0037-7732	1534-7605	2001-01-01	79	3				http://muse.jhu.edu/journal/187		1940		fulltext			serial										0037-7732	1534-7605					Current		
+Journal of the American Academy of Religion	0002-7189	1477-4585	2006-01-01	74	1	2007-12-31	75	4	http://muse.jhu.edu/journal/350		1946		fulltext	No longer contributing to Project MUSE		serial										0002-7189	1477-4585					Current		
+Journal of the History of Medicine and Allied Sciences	0022-5045	1468-4373	2000-01-01	55	1				http://muse.jhu.edu/journal/92		1953		fulltext			serial										0022-5045	1468-4373					Current		
+French Studies	0016-1128	1468-2931	2006-01-01	60	31				http://muse.jhu.edu/journal/346		1955		fulltext			serial										0016-1128	1468-2931					Current		
+Essays in Criticism	0014-0856	1471-6852	2006-01-01	56	1	2007-10-31	57	4	http://muse.jhu.edu/journal/325		1961		fulltext	No longer contributing to Project MUSE		serial										0014-0856	1471-6852					Current		
+Past & Present	0031-2746	1477-464X	2005-01-01		188	2007-11-30		197	http://muse.jhu.edu/journal/306		1963		fulltext	No longer contributing to Project MUSE		serial										0031-2746	1477-464X					Current		
+The Cambridge Quarterly	0008-199X	1471-6836	2006-01-01	35	1				http://muse.jhu.edu/journal/314		1979		fulltext			serial										0008-199X	1471-6836					Current		
+Journal of Social History	0022-4529	1527-1897	1999-01-01	33	1				http://muse.jhu.edu/journal/103		1983		fulltext			serial										0022-4529	1527-1897					Current		
+Early Music	0306-1078	1741-7260	2004-01-01	32	1	2007-11-30	35	4	http://muse.jhu.edu/journal/265		1992		fulltext	No longer contributing to Project MUSE		serial										0306-1078	1741-7260					Current		
+The Oral History Review	0094-0798	1533-8592	2008-01-01	35	1				http://muse.jhu.edu/journal/389		1994		fulltext			serial										0094-0798	1533-8592					Current		
+History Workshop Journal	1363-3554	1477-4569	2004-01-01		57				http://muse.jhu.edu/journal/277		1997		fulltext			serial										1363-3554	1477-4569					Current		
+Modern Judaism	0276-1114	1086-3273	1996-01-01	16	1				http://muse.jhu.edu/journal/127		2009		fulltext			serial										0276-1114	1086-3273					Current		
+The Opera Quarterly	0736-0053	1476-2870	2002-01-01	18	1				http://muse.jhu.edu/journal/148		2016		fulltext			serial										0736-0053	1476-2870					Current		
+Holocaust and Genocide Studies	8756-6583	1476-7937	2003-01-01	17	1				http://muse.jhu.edu/journal/220		2028		fulltext			serial										8756-6583	1476-7937					Current		
+American Literary History	0896-7148	1468-4365	2000-01-01	12	1				http://muse.jhu.edu/journal/8		2049		fulltext			serial										0896-7148	1468-4365					Current		
+Social Politics: International Studies in Gender, State & Society	1072-4745	1468-2893	2003-01-01	10	1				http://muse.jhu.edu/journal/234		2071		fulltext			serial										1072-4745	1468-2893					Current		
+Enterprise and Society	1467-2227	1467-2235	2003-01-01	4	1				http://muse.jhu.edu/journal/216		2096		fulltext			serial										1467-2227	1467-2235					Current		
+Asian Journal of English Language Teaching	1026-2652	2333-7192	2014-01-01	23					http://muse.jhu.edu/journal/648		20996		fulltext			serial										1026-2652	2333-7192					Current		
+The Library	0024-2160	1744-8581	2006-01-01	7	1				http://muse.jhu.edu/journal/345		2128		fulltext			serial										0024-2160	1744-8581					Current		
+The Canadian Journal of Human Sexuality	1188-4517	2291-7063	2014-04-01	23	1				http://muse.jhu.edu/journal/649		21907		fulltext	New for 2014		serial										1188-4517	2291-7063					Current		
+Bulletin of Friends Historical Association	0361-1957	2334-3265	1924-04-01	13	1	1961-12-31	50	2	http://muse.jhu.edu/journal/394		21937		fulltext	Now: Quaker History. Previously: Bulletin of the Friends' Historical Society of Philadelphia (1906-1923)		serial										0361-1957	2334-3265					Current		
+Early Modern Women	1933-0065		2015-08-01	10	1				http://muse.jhu.edu/journal/665		21958		fulltext	New for 2015		serial										1933-0065				2015-12-31		Current		
+Fontes Artis Musicae	0015-6191		2016-01-01	63	1				https://muse.jhu.edu/journal/688		21964		fulltext	New for 2016		serial										0015-6191				2016-04-01		Current		
+Islamic Africa	2333-262X	2154-0993	2014-03-01	5	1				http://muse.jhu.edu/journal/630		21987		fulltext	New for 2014		serial										2333-262X	2154-0993			2014-08-11		Current		
+Studies in American Humor	0095-280X	2333-9934	2015-01-01	1	1				http://muse.jhu.edu/journal/656		22073		fulltext	New for 2015		serial										0095-280X	2333-9934			2015-09-01		Current		
+Dickens Quarterly	0742-5473	2169-5377	2015-03-01	32	1				https://muse.jhu.edu/journal/654		22144		fulltext	New for 2015		serial										0742-5473	2169-5377			2015-03-01		Current		
+Milton Studies	0076-8820	2330-796X	2012-01-01	53					http://muse.jhu.edu/journal/570		22199		fulltext			serial										0076-8820	2330-796X					Current		
+Postmodern Culture	1053-1920		1990-01-01	1	1				http://muse.jhu.edu/journal/160		22221		fulltext			serial										1053-1920						Current		
+Southern Quarterly	0038-4496		2014-09-01	52	1				http://muse.jhu.edu/journal/666		22239		fulltext	New for 2015		serial										0038-4496				2015-02-15		Current		
+Studies in the Fantastic	1942-7190		2015-12-01		3				https://muse.jhu.edu/journal/692		22246		fulltext	New for 2016		serial										1942-7190				2016-02-01		Current		
+Style	0039-4238	2374-6629	2016-01-01	50	1				http://muse.jhu.edu/journal/680		22248		fulltext	 New for 2016		serial										0039-4238	2374-6629			2016-03-01		Current		
+The Cormac McCarthy Journal	2333-3065	2333-3073	2015-01-01	13					http://muse.jhu.edu/journal/658		22254		fulltext	New for 2015		serial										2333-3065	2333-3073			2015-10-19		Current		
+Virginia Quarterly Review: a national journal of literature and discussion	0042-675X	2154-6932	2014-01-01	90	1				http://muse.jhu.edu/journal/647		22273		fulltext	New for 2014		serial										0042-675X	2154-6932					Current		
+Ohio Valley History	1544-4058		2015-01-01	15	1				https://muse.jhu.edu/journal/661		24314		fulltext	New for 2015. Formed (2001-) by the union of Queen City Heritage (1930-2000) and Filson History Quarterly (2001-2002)		serial										1544-4058				2015-06-01		Current		
+Journal of Chinese Linguistics	0091-3723	2411-3484	2015-01-01	43	1A				https://muse.jhu.edu/journal/655		24315		fulltext	New for 2015		serial										0091-3723	2411-3484			2015-06-15		Current		
+Journal of Ecumenical Studies	0022-0558		2015-01-01	50	1				http://muse.jhu.edu/journal/668		24617		fulltext	New for 2015		serial										0022-0558				2015-09-01		Current		
+Lutheran Quarterly	0024-7499		2016-03-01	30	1				https://muse.jhu.edu/journal/691		24643		fulltext	New for 2016		serial										0024-7499				2016-04-01		Current		
+Al-ʿArabiyya	0889-8731	2375-4036	2014-01-01	47					http://muse.jhu.edu/journal/646		27700		fulltext	New for 2014		serial										0889-8731	2375-4036			2014-11-02		Current		
+Calíope: Journal of the Society for Renaissance and Baroque Hispanic Poetry	1084-1490		2015-03-01	20	1				https://muse.jhu.edu/journal/662		27737		fulltext	New for 2015		serial										1084-1490				2015-06-15		Current		
+Mediaevalia	0361-946X	2161-8046	2011-01-01	32					http://muse.jhu.edu/journal/580		27738		fulltext			serial										0361-946X	2161-8046					Current		
+Quaestiones Disputatae	2150-5756	2374-555X	2014-09-01	5	1				http://muse.jhu.edu/journal/669		27739		fulltext	New for 2015		serial										2150-5756	2374-555X			2015-09-01		Current		
+Women in French Studies	1077-825X	2166-5486	1993-01-01	1					http://muse.jhu.edu/journal/591		27740		fulltext			serial										1077-825X	2166-5486					Current		
+Genocide Studies International	2291-1855	2291-1847	2014-01-01	8	1				http://muse.jhu.edu/journal/690		28280		fulltext	Previously: Genocide Studies and Prevention (2006-2012)		serial										2291-1855	2291-1847					Current		
+Middle West Review	2372-5664	2372-5672	2014-09-01	1	1				http://muse.jhu.edu/journal/672		28520			New for 2015		serial										2372-5664	2372-5672			2015-01-18		Current		
+Gettysburg Magazine	2372-6059	2377-0783	2015-01-01		52				http://muse.jhu.edu/journal/670		28994		fulltext	New for 2015		serial										2372-6059	2377-0783			2015-01-01		Current		
+Journal of Black Sexuality and Relationships	2334-2668	2376-7510	2014-07-01	1	1				http://muse.jhu.edu/journal/671		28995		fulltext	New for 2015		serial										2334-2668	2376-7510			2015-03-01		Current		
+Resilience: A Journal of the Environmental Humanities		2330-8117	2013-12-01	1	1				https://muse.jhu.edu/journal/673/		28996		fulltext	New for 2015		serial											2330-8117			2015-03-01		Current		
+Native American and Indigenous Studies Journal	2332-1261								https://muse.jhu.edu/		29233		fulltext	New for 2017 - content not yet available		serial										2332-1261				2017-12-01		Expected		
+Neotestamentica	0254-8356								https://muse.jhu.edu		29341		fulltext	New for 2017. Content not yet available		serial										0254-8356				2017-12-01		Expected		
+Georgetown Journal of International Affairs	1526-0054		2016-01-01	17	1				http://muse.jhu.edu/journal/681		29508		fulltext	New for 2016		serial										1526-0054				2016-05-01		Current		
+Demokratizatsiya: The Journal of Post-Soviet Democratization	1074-6846	1940-4603	2015-01-01	23	1				https://muse.jhu.edu/journal/674		29533		fulltext	New for 2015		serial										1074-6846	1940-4603			2015-05-05		Current		
+Canadian Bulletin of Medical History	0823-2105	2371-0179							https://muse.jhu.edu/		30779		fulltext	New for 2017 - content not yet available		serial										0823-2105	2371-0179			2017-12-01		Expected		
+Early Theatre: A Journal associated with the Records of Early English Drama	1206-9078	2293-7609	2016-01-01	19	1				https://muse.jhu.edu/journal/687/		31887		fulltext	New for 2016		serial										1206-9078	2293-7609			2016-07-01		Current		
+Hawaiian Journal of History	0440-5145	2169-7639	2015-01-01	49					https://muse.jhu.edu/journal/676		31888		fulltext	New for 2016		serial										0440-5145	2169-7639			2016-02-01		Current		
+Nova et vetera	1542-7315		2016-01-01	14	1				http://muse.jhu.edu/journal/686		31889		fulltext	New for 2016		serial										1542-7315				2016-03-01		Current		
+Pleiades: Literature in Context	1063-3391		2016-01-01	36	1				https://muse.jhu.edu/journal/682		31890		fulltext	New for 2016		serial										1063-3391				2016-02-01		Current		
+ASAP/Journal	2381-4705	2381-4721	2016-01-01	1	1				https://muse.jhu.edu/journal/684		31891		fulltext	New for 2016		serial										2381-4705	2381-4721			2016-02-01		Current		
+Transformations: The Journal of Inclusive Scholarship and Pedagogy	1052-5017	2377-9578	2016-01-01	26	1				http://muse.jhu.edu/journal/706		33332		fulltext	New for 2017		serial										1052-5017	2377-9578					Current		
+Manuscript Studies	2381-5329	2380-1190	2016-03-01	1	1				https://muse.jhu.edu/journal/698/		33479		fulltext	New for 2016		serial										2381-5329	2380-1190					Current		
+Comparative Critical Studies	1744-1854	1750-0109	2006-01-01	3	01-Feb	2008-12-31	5	02-Mar	http://muse.jhu.edu/journal/319		3520		fulltext	No longer contributing to Project MUSE		serial										1744-1854	1750-0109					Current		
+Dance Research: The Journal of the Society for Dance Research	0264-2875	1750-0095	2006-01-01	24	1	2008-12-31	26	2	http://muse.jhu.edu/journal/320		3522		fulltext	No longer contributing to Project MUSE		serial										0264-2875	1750-0095					Current		
+Holy Land Studies	1474-9475	1750-0125	2006-01-01	5	1	2008-11-30	7	2	http://muse.jhu.edu/journal/327		3526		fulltext	No longer contributing to Project MUSE		serial										1474-9475	1750-0125					Current		
+Paragraph	0264-8334	1750-0176	2006-01-01	29	1	2008-11-30	31	3	http://muse.jhu.edu/journal/335		3536		fulltext	No longer contributing to Project MUSE		serial										0264-8334	1750-0176					Current		
+Romanticism	1354-991X	1750-0192	2006-01-01	12	1	2008-12-31	14	3	http://muse.jhu.edu/journal/337		3538		fulltext	No longer contributing to Project MUSE		serial										1354-991X	1750-0192					Current		
+Studies in World Christianity	1354-9901	1750-0230	2006-01-01	12	1	2008-12-31	14	3	http://muse.jhu.edu/journal/341		3540		fulltext	No longer contributing to Project MUSE		serial										1354-9901	1750-0230					Current		
+The Innes Review	0020-157X	1745-5219	2007-01-01	58	1	2008-12-31	59	2	http://muse.jhu.edu/journal/368		3541		fulltext	No longer contributing to Project MUSE		serial										0020-157X	1745-5219					Current		
+The Scottish Historical Review	0036-9241	1750-0222	2006-01-01	85	1	2008-10-31	87	2	http://muse.jhu.edu/journal/338		3543		fulltext	No longer contributing to Project MUSE		serial										0036-9241	1750-0222					Current		
+Translation and Literature	0968-1361	1750-0214	2006-01-01	15	1	2008-12-31	17	2	http://muse.jhu.edu/journal/344		3544		fulltext	No longer contributing to Project MUSE		serial										0968-1361	1750-0214					Current		
+RSF: The Russell Sage Foundation Journal of the Social Sciences	2377-8253	2377-8261	2015-11-01	1	1				http://muse.jhu.edu/journal/693		36720		fulltext	Open Access		serial										2377-8253	2377-8261			2016-04-01		Current		
+Palapala		2381-2478	2016-09-01	1	1				https://muse.jhu.edu		36721		fulltext	Open Access. Content not yet available		serial								F			2381-2478			2017-02-01		Expected		
+Thomist: a Speculative Quarterly Review	0040-6325		2016-01-01	80	1				https://muse.jhu.edu/journal/694/		39989		fulltext	New for 2016		serial										0040-6325				2016-07-01		Current		
+Behavioral Science & Policy	2379-4607	2379-4615	2015-03-01	1	1				https://muse.jhu.edu/journal/696		40019		fulltext	New for 2016		serial										2379-4607	2379-4615			2016-07-01		Current		
+College Student Affairs Journal	0888-210X	2381-2338	2015-09-01	33	1				https://muse.jhu.edu/journal/689		40020		fulltext	New for 2016		serial										0888-210X	2381-2338					Current		
+Diálogo	1090-4972	2471-1039	2012-03-01	15	1				https://muse.jhu.edu/journal/697/		40021		fulltext	New for 2016		serial										1090-4972	2471-1039			2016-07-01		Current		
+Florilegium	0709-5201	2369-7180							https://muse.jhu.edu/		40025		fulltext	New for 2017 - content not yet available		serial										0709-5201	2369-7180			2017-12-01		Expected		
+Inks	2473-5191	2473-5205							http://muse.jhu.edu/journal/701/		40026		fulltext	New for 2017 - content not yet available		serial										2473-5191	2473-5205			2017-12-01		Expected		
+Journal of Buddhist Philosophy	2374-247X								https://muse.jhu.edu/		40027		fulltext	New for 2017 - content not yet available		serial										2374-247X				2017-12-01		Expected		
+Mande Studies	1536-5506	2379-5506							https://muse.jhu.edu/		40028		fulltext	New for 2017 - content not yet available		serial										1536-5506	2379-5506			2017-12-01		Expected		
+Labor Studies Journal	0160-449X	1538-9758	2002-01-01	27	1	2007-01-31	31	4	http://muse.jhu.edu/journal/110		4163		fulltext	No longer contributing to Project MUSE		serial										0160-449X	1538-9758					Current		
+Antiphon	1543-9925								https://muse.jhu.edu		43476		fulltext	New for 2017. Content not yet available		serial										1543-9925				2017-12-01		Expected		
+Expressions Maghrébines	1540-0085								https://muse.jhu.edu		43477		fulltext	New for 2017. Content not yet available		serial										1540-0085				2017-12-01		Expected		
+Subtropics	1559-0704								https://muse.jhu.edu		43478		fulltext	New for 2017 - content not yet available		serial										1559-0704				2017-12-01		Expected		
+World Policy Journal	0740-2775	1936-0924	2010-01-01	27	1				http://muse.jhu.edu/journal/479		4563		fulltext	Missing vols 29-32 (2012-2015)		serial										0740-2775	1936-0924					Current		
+a/b: Auto/Biography Studies	0898-9575	2151-7290	2009-01-01	24	1	2013-12-31	28	2	http://muse.jhu.edu/journal/483		6254		fulltext	Transitioning to Archive-Only in 2013		serial										0898-9575	2151-7290					Current		
+American Imago	0065-860X	1085-7931	1995-01-01	52	1				http://muse.jhu.edu/journal/1		6255		fulltext			serial										0065-860X	1085-7931					Current		
+American Journal of Philology	0002-9475	1086-3168	1996-01-01	117	1				http://muse.jhu.edu/journal/6		6256		fulltext			serial										0002-9475	1086-3168					Current		
+American Journal of Theology & Philosophy	0194-3448	2156-4795	2010-01-01	31	1				http://muse.jhu.edu/journal/496		6257		fulltext			serial										0194-3448	2156-4795					Current		
+American Literary Realism	1540-3084	1940-5103	2007-01-01	40	1				http://muse.jhu.edu/journal/379		6258		fulltext			serial										1540-3084	1940-5103					Current		
+American Music	0734-4392	1945-2349	2009-01-01	27	1				http://muse.jhu.edu/journal/448		6259		fulltext			serial										0734-4392	1945-2349					Current		
+American Periodicals: A Journal of History, Criticism, and Bibliography	1054-7479	1548-4238	2003-01-01	13					http://muse.jhu.edu/journal/263		6260		fulltext			serial										1054-7479	1548-4238					Current		
+Archives of Asian Art	0066-6637	1944-6497	2008-01-01	58					http://muse.jhu.edu/journal/427		6261		fulltext			serial										0066-6637	1944-6497					Current		
+Arethusa	0004-0975	1080-6504	1996-01-01	29	1				http://muse.jhu.edu/journal/14		6262		fulltext			serial										0004-0975	1080-6504					Current		
+Arizona Journal of Hispanic Cultural Studies	1096-2492	1934-9009	1997-01-01	1					http://muse.jhu.edu/journal/357		6263		fulltext			serial										1096-2492	1934-9009					Current		
+Arizona Quarterly: A Journal of American Literature, Culture, and Theory	0004-1610	1558-9595	1988-08-01	44	3				http://muse.jhu.edu/journal/311		6264		fulltext			serial										0004-1610	1558-9595					Current		
+Asian Music	0044-9202	1553-5630	2005-01-01	36	1				http://muse.jhu.edu/journal/281		6265		fulltext			serial										0044-9202	1553-5630					Current		
+Asian Theatre Journal	0742-5457	1527-2109	1999-01-01	16	2				http://muse.jhu.edu/journal/20		6266		fulltext			serial										0742-5457	1527-2109					Current		
+Biography	0162-4962	1529-1456	1978-01-01	1	1				http://muse.jhu.edu/journal/25		6267		fulltext			serial										0162-4962	1529-1456					Current		
+Book History	1098-7371	1529-1499	1998-01-01	1					http://muse.jhu.edu/journal/23		6268		fulltext			serial										1098-7371	1529-1499					Current		
+Buddhist-Christian Studies	0882-0945	1527-9472	1999-01-01	19					http://muse.jhu.edu/journal/22		6269		fulltext			serial										0882-0945	1527-9472					Current		
+Buildings & Landscapes: Journal of the Vernacular Architecture Forum	1936-0886	1934-6832	2007-01-01	14					http://muse.jhu.edu/journal/360		6270		fulltext			serial										1936-0886	1934-6832					Current		
+The Byron Journal	0301-7257	1757-0263	2009-01-01	37	1				http://muse.jhu.edu/journal/421		6271		fulltext			serial										0301-7257	1757-0263					Current		
+Callaloo	0161-2492	1080-6512	1995-01-01	18	1				http://muse.jhu.edu/journal/27		6272		fulltext			serial										0161-2492	1080-6512					Current		
+Canadian Journal of Philosophy	0045-5091	1911-0820	2006-01-01	36	1	2012-12-31	42	03-Apr	http://muse.jhu.edu/journal/354		6273		fulltext	No longer contributing to Project MUSE 		serial										0045-5091	1911-0820					Current		
+The Catholic Historical Review	0008-8080	1534-0708	2000-01-01	86	3				http://muse.jhu.edu/journal/28		6274		fulltext			serial										0008-8080	1534-0708					Current		
+The Chaucer Review	0009-2002	1528-4204	2000-01-01	34	3				http://muse.jhu.edu/journal/38		6275		fulltext			serial										0009-2002	1528-4204					Current		
+Children's Literature	0092-8208	1543-3374	1972-01-01	1					http://muse.jhu.edu/journal/214		6276		fulltext			serial										0092-8208	1543-3374					Current		
+Children's Literature Association Quarterly	0885-0429	1553-1201	1976-01-01	1	1				http://muse.jhu.edu/journal/301		6277		fulltext	Previously: ChLA 1976-79		serial										0885-0429	1553-1201					Current		
+Cinema Journal	0009-7101	1527-2087	1999-01-01	39	1				http://muse.jhu.edu/journal/31		6278		fulltext			serial										0009-7101	1527-2087					Current		
+Classical World	0009-8418	1558-9234	2005-01-01	99	1				http://muse.jhu.edu/journal/317		6279		fulltext			serial										0009-8418	1558-9234					Current		
+College Literature	0093-3139	1542-4286	2003-01-01	30	1				http://muse.jhu.edu/journal/215		6280		fulltext			serial										0093-3139	1542-4286					Current		
+The Comparatist	0195-7678	1559-0887	2005-01-01	29					http://muse.jhu.edu/journal/342		6281		fulltext			serial										0195-7678	1559-0887					Current		
+Comparative Drama	0010-4078	1936-1637	2000-01-01	34	1				http://muse.jhu.edu/journal/358		6282		fulltext			serial										0010-4078	1936-1637					Current		
+Comparative Literature Studies	0010-4132	1528-4212	2000-01-01	37	1				http://muse.jhu.edu/journal/33		6283		fulltext			serial										0010-4132	1528-4212					Current		
+Computer Music Journal	0148-9267	1531-5169	2001-01-01	25	1				http://muse.jhu.edu/journal/34		6284		fulltext			serial										0148-9267	1531-5169					Current		
+Configurations	1063-1801	1080-6520	1993-01-01	1	1				http://muse.jhu.edu/journal/36		6285		fulltext			serial										1063-1801	1080-6520					Current		
+Conradiana	0010-6356	1935-0252	2007-01-01	39	1				http://muse.jhu.edu/journal/362		6286		fulltext			serial										0010-6356	1935-0252					Current		
+Conservative Judaism	0010-6542	1947-4717	2008-01-01	61					http://muse.jhu.edu/journal/451		6287		fulltext			serial										0010-6542	1947-4717					Current		
+Contagion: Journal of Violence, Mimesis, and Culture	1075-7201	1930-1200	1994-01-01	1					http://muse.jhu.edu/journal/385		6288		fulltext			serial										1075-7201	1930-1200					Current		
+Contemporary Literature	0010-7484	1548-9949	2004-01-01	45	1				http://muse.jhu.edu/journal/261		6289		fulltext			serial										0010-7484	1548-9949					Current		
+La corónica: A Journal of Medieval Hispanic Languages, Literatures, and Cultures	0193-3892	1947-4261	2000-01-01	29	1				http://muse.jhu.edu/journal/452		6290		fulltext			serial										0193-3892	1947-4261					Current		
+Criticism: a Quarterly for Literature and the Arts	0011-1589	1536-0342	2001-01-01	43	1				http://muse.jhu.edu/journal/40		6291		fulltext			serial										0011-1589	1536-0342					Current		
+Cultural Critique	0882-4371	1534-5203	2001-01-01	47					http://muse.jhu.edu/journal/41		6292		fulltext			serial										0882-4371	1534-5203					Current		
+Diacritics	0300-7162	1080-6539	1996-01-01	26	1				http://muse.jhu.edu/journal/46		6293		fulltext			serial										0300-7162	1080-6539					Current		
+Discourse	1522-5321	1536-1810	2000-01-01	22	3				http://muse.jhu.edu/journal/48		6294		fulltext			serial										1522-5321	1536-1810					Current		
+Early American Literature	0012-8163	1534-147X	2000-01-01	35	3				http://muse.jhu.edu/journal/49		6295		fulltext			serial										0012-8163	1534-147X					Current		
+The Eighteenth Century	0193-5380	1935-0201	2006-01-01	47	1				http://muse.jhu.edu/journal/364		6296		fulltext			serial										0193-5380	1935-0201					Current		
+Eighteenth-Century Fiction	0840-6286	1911-0243	1988-01-01	1	1				http://muse.jhu.edu/journal/324		6297		fulltext			serial										0840-6286	1911-0243					Current		
+Eighteenth-Century Studies	0013-2586	1086-315X	1995-01-01	29	1				http://muse.jhu.edu/journal/55		6298		fulltext			serial										0013-2586	1086-315X					Current		
+Éire-Ireland	0013-2683	1550-5162	2004-01-01	39	01-Feb				http://muse.jhu.edu/journal/244		6299		fulltext			serial										0013-2683	1550-5162					Current		
+ELH	0013-8304	1080-6547	1993-01-01	60	4				http://muse.jhu.edu/journal/58		6300		fulltext			serial										0013-8304	1080-6547					Current		
+The Emily Dickinson Journal	1059-6879	1096-858X	1992-01-01	1	1				http://muse.jhu.edu/journal/56		6301		fulltext			serial										1059-6879	1096-858X					Current		
+English Literature in Transition, 1880-1920	0013-8339	1559-2715	1957-01-01	1	1				http://muse.jhu.edu/journal/361		6302		fulltext			serial										0013-8339	1559-2715					Current		
+Episteme	1742-3600	1750-0117	2006-01-01	3		2008-12-31	5	3	http://muse.jhu.edu/journal/353		6303		fulltext	No longer contributing to Project MUSE 		serial										1742-3600	1750-0117					Current		
+ESC: English Studies in Canada	0317-0802	1913-4835	2005-01-01	31	1				http://muse.jhu.edu/journal/369		6304		fulltext			serial										0317-0802	1913-4835					Current		
+L'Esprit Créateur	0014-0767	1931-0234	1996-01-01	36	1				http://muse.jhu.edu/journal/333		6305		fulltext			serial										0014-0767	1931-0234					Current		
+ESQ: A Journal of the American Renaissance	0093-8297	1935-021X	2003-01-01	49	01-Mar				http://muse.jhu.edu/journal/375		6306		fulltext			serial										0093-8297	1935-021X					Current		
+Film & History: An Interdisciplinary Journal of Film and Television Studies	0360-3695	1548-9922	1971-01-01	1	1				http://muse.jhu.edu/journal/242		6307		fulltext			serial										0360-3695	1548-9922					Current		
+Film History: An International Journal	0892-2160	1553-3905	2005-01-01	17	1				http://muse.jhu.edu/journal/285		6308		fulltext			serial										0892-2160	1553-3905					Current		
+Framework: The Journal of Cinema and Media	0306-7661	1559-7989	2006-01-01	47	1				http://muse.jhu.edu/journal/326		6309		fulltext			serial										0306-7661	1559-7989					Current		
+Franciscan Studies	0080-5459	1945-9718	1990-01-01	50					http://muse.jhu.edu/journal/457		6310		fulltext			serial										0080-5459	1945-9718					Current		
+French Forum	0098-9355	1534-1836	2001-01-01	26	1				http://muse.jhu.edu/journal/63		6311		fulltext			serial										0098-9355	1534-1836					Current		
+George Herbert Journal	0161-7435	1931-1192	1996-01-01	20					http://muse.jhu.edu/journal/349		6312		fulltext			serial										0161-7435	1931-1192					Current		
+The Global South	1932-8648	1932-8656	2007-01-01	1					http://muse.jhu.edu/journal/391		6313		fulltext			serial										1932-8648	1932-8656					Current		
+Goethe Yearbook	0734-3329	1940-9087	1982-01-01	1					http://muse.jhu.edu/journal/411		6314		fulltext			serial										0734-3329	1940-9087					Current		
+Helios	0160-0923	1935-0228	2007-01-01	34	1				http://muse.jhu.edu/journal/363		6315		fulltext			serial										0160-0923	1935-0228					Current		
+The Hemingway Review	0276-3362	1548-4815	2000-01-01	20	1				http://muse.jhu.edu/journal/275		6316		fulltext			serial										0276-3362	1548-4815					Current		
+The Henry James Review	0273-0340	1080-6555	1979-01-01	1	1				http://muse.jhu.edu/journal/72		6317		fulltext			serial										0273-0340	1080-6555					Current		
+Hispania	0018-2133	2153-6414	2010-01-01	93	1				http://muse.jhu.edu/journal/472		6318		fulltext			serial										0018-2133	2153-6414					Current		
+Hispanic Review	0018-2176	1553-0639	2005-01-01	73	1				http://muse.jhu.edu/journal/289		6319		fulltext			serial										0018-2176	1553-0639					Current		
+Hume Studies	0319-7336	1947-9921	1975-01-01	1	1				http://muse.jhu.edu/journal/432		6320		fulltext			serial										0319-7336	1947-9921					Current		
+Hypatia	0887-5367	1527-2001	1999-01-01	14	1	2008-12-31	23	4	http://muse.jhu.edu/journal/80		6321		fulltext	No longer contributing to Project MUSE		serial									10.1111/(ISSN)1527-2001	0887-5367	1527-2001					Current		
+James Joyce Quarterly	0021-4183	1938-6036	2006-01-01	44	1				http://muse.jhu.edu/journal/372		6322		fulltext			serial										0021-4183	1938-6036					Current		
+Journal of English and Germanic Philology	0363-6941	1945-662X	2009-01-01	108	1				http://muse.jhu.edu/journal/450		6323		fulltext			serial										0363-6941	1945-662X					Current		
+Jewish Quarterly Review, The	0021-6682	1553-0604	2001-01-01	92	1				http://muse.jhu.edu/journal/292		6324		fulltext			serial										0021-6682	1553-0604					Current		
+Journal for Early Modern Cultural Studies	1531-0485	1553-3786	2001-01-01	1	1				http://muse.jhu.edu/journal/293		6325		fulltext			serial										1531-0485	1553-3786					Current		
+The Journal of Aesthetic Education	0021-8510	1543-7809	2003-01-01	37	1				http://muse.jhu.edu/journal/235		6326		fulltext			serial										0021-8510	1543-7809					Current		
+Journal of Early Christian Studies	1067-6341	1086-3184	1993-01-01	1	1				http://muse.jhu.edu/journal/50		6327		fulltext			serial										1067-6341	1086-3184					Current		
+Journal of Feminist Studies in Religion	8755-4178	1553-3913	2005-01-01	21	1				http://muse.jhu.edu/journal/294		6328		fulltext			serial										8755-4178	1553-3913					Current		
+Journal of Late Antiquity	1939-6716	1942-1273	2008-01-01	1	1				http://muse.jhu.edu/journal/399		6329		fulltext			serial										1939-6716	1942-1273					Current		
+Journal of Modern Greek Studies	0738-1727	1086-3265	1983-01-01	1	1				http://muse.jhu.edu/journal/126		6330		fulltext			serial										0738-1727	1086-3265					Current		
+Journal of Modern Literature	0022-281X	1529-1464	1998-01-01	22	2				http://muse.jhu.edu/journal/97		6331		fulltext			serial										0022-281X	1529-1464					Current		
+Journal of Narrative Theory	1549-0815	1548-9248	1999-01-01	29	1				http://muse.jhu.edu/journal/262		6332		fulltext			serial										1549-0815	1548-9248					Current		
+The Journal of Nietzsche Studies	0968-8005	1538-4594	2002-01-01		23				http://muse.jhu.edu/journal/142		6333		fulltext			serial										0968-8005	1538-4594					Current		
+The Journal of Speculative Philosophy	0891-625X	1527-9383	2000-01-01	14	1				http://muse.jhu.edu/journal/104		6334		fulltext			serial										0891-625X	1527-9383					Current		
+Journal of the History of Philosophy	0022-5053	1538-4586	1963-01-01	1	1				http://muse.jhu.edu/journal/76		6335		fulltext			serial										0022-5053	1538-4586					Current		
+Journal of the Royal Musical Association	0269-0403	1471-6933	2005-01-01	130	1	2008-12-31	133	2	http://muse.jhu.edu/journal/305		6336		fulltext	No longer contributing to Project MUSE		serial										0269-0403	1471-6933					Current		
+Journal of Victorian Culture	1355-5502	1750-0133	2006-01-01	11	1	2008-12-31	13	2	http://muse.jhu.edu/journal/332		6337		fulltext	No longer contributing to Project MUSE		serial										1355-5502	1750-0133					Current		
+Joyce Studies Annual	1049-0809	1538-4241	2001-01-01	12					http://muse.jhu.edu/journal/101		6338		fulltext			serial										1049-0809	1538-4241					Current		
+Kennedy Institute of Ethics Journal	1054-6863	1086-3249	1991-01-01	1	1				http://muse.jhu.edu/journal/107		6339		fulltext			serial										1054-6863	1086-3249					Current		
+Latin American Music Review / Revista de Música Latinoamericana	0163-0350	1536-0199	2001-01-01	22	1				http://muse.jhu.edu/journal/113		6340		fulltext			serial										0163-0350	1536-0199					Current		
+Legacy: A Journal of American Women Writers	0748-4321	1534-0643	2000-01-01	17	2				http://muse.jhu.edu/journal/115		6341		fulltext			serial										0748-4321	1534-0643					Current		
+Leonardo	0024-094X	1530-9282	2001-01-01	34	1				http://muse.jhu.edu/journal/116		6342		fulltext			serial										0024-094X	1530-9282					Current		
+Leonardo Music Journal	0961-1215	1531-4812	2000-01-01	10					http://muse.jhu.edu/journal/119		6343		fulltext			serial										0961-1215	1531-4812					Current		
+Libraries & the Cultural Record	1932-4855	1932-9555	2006-07-01	41	3	2011-12-31	46	4	http://muse.jhu.edu/journal/111		6344		fulltext	Now:Information & Culture: A Journal of History  Previously: Libraries & Culture (2001-2001)		serial										1932-4855	1932-9555					Current		
+The Lion and the Unicorn	0147-2593	1080-6563	1977-01-01	1	1				http://muse.jhu.edu/journal/201		6345		fulltext			serial										0147-2593	1080-6563					Current		
+Literature and Medicine	0278-9671	1080-6571	1982-01-01	1					http://muse.jhu.edu/journal/118		6346		fulltext			serial										0278-9671	1080-6571					Current		
+Logos: A Journal of Catholic Thought and Culture	1091-6687	1533-791X	1997-01-01	1	1				http://muse.jhu.edu/journal/120		6347		fulltext			serial										1091-6687	1533-791X					Current		
+Luso-Brazilian Review	0024-7413	1548-9957	2004-01-01	41	1				http://muse.jhu.edu/journal/273		6348		fulltext			serial										0024-7413	1548-9957					Current		
+Manoa	1045-7909	1527-943X	1999-01-01	11	2				http://muse.jhu.edu/journal/121		6349		fulltext			serial										1045-7909	1527-943X					Current		
+Mechademia	1934-2489	2152-6648	2006-01-01	1					http://muse.jhu.edu/journal/461		6350		fulltext			serial										1934-2489	2152-6648					Current		
+MFS Modern Fiction Studies	0026-7724	1080-658X	1985-01-01	31	1				http://muse.jhu.edu/journal/125		6351		fulltext			serial										0026-7724	1080-658X					Current		
+MLN	0026-7910	1080-6598	1995-01-01	110	1				http://muse.jhu.edu/journal/128		6352		fulltext			serial										0026-7910	1080-6598					Current		
+Modern Drama	0026-7694	1712-5286	1958-05-01	1	1				http://muse.jhu.edu/journal/302		6353		fulltext	Currently gaps in holdings for vols. 5, 8, and 32		serial										0026-7694	1712-5286					Current		
+Modernism/modernity	1071-6068	1080-6601	1994-01-01	1	1				http://muse.jhu.edu/journal/131		6354		fulltext			serial										1071-6068	1080-6601					Current		
+Monatshefte	0026-9271	1934-2810	2007-01-01	99	1				http://muse.jhu.edu/journal/359		6355		fulltext			serial										0026-9271	1934-2810					Current		
+Mouseion: Journal of the Classical Association of Canada	1496-9343	1913-5416	2007-01-01	7	1				http://muse.jhu.edu/journal/366		6356		fulltext			serial										1496-9343	1913-5416					Current		
+The Moving Image: The Journal of the Association of Moving Image Archivists	1532-3978	1542-4235	2003-01-01	3	1				http://muse.jhu.edu/journal/232		6357		fulltext			serial										1532-3978	1542-4235					Current		
+Nabokov Studies	1080-1219	1548-9965	1994-01-01	1					http://muse.jhu.edu/journal/257		6358		fulltext			serial										1080-1219	1548-9965					Current		
+Narrative	1063-3685	1538-974X	2002-01-01	10	1				http://muse.jhu.edu/journal/135		6359		fulltext			serial										1063-3685	1538-974X					Current		
+New Hibernia Review / Iris Éireannach Nua	1092-3977	1534-5815	2001-01-01	5	1				http://muse.jhu.edu/journal/141		6360		fulltext			serial										1092-3977	1534-5815					Current		
+New Literary History	0028-6087	1080-661X	1995-01-01	26	1				http://muse.jhu.edu/journal/144		6361		fulltext			serial										0028-6087	1080-661X					Current		
+Nineteenth-Century French Studies	0146-7891	1536-0172	2001-01-01	29	03-Apr				http://muse.jhu.edu/journal/137		6362		fulltext			serial										0146-7891	1536-0172					Current		
+Notes	0027-4380	1534-150X	2000-01-01	57	1				http://muse.jhu.edu/journal/145		6363		fulltext			serial										0027-4380	1534-150X					Current		
+Nuevo Texto Crítico	1048-6380	1940-9079	2008-01-01	21	41-42				http://muse.jhu.edu/journal/412		6364		fulltext			serial										1048-6380	1940-9079					Current		
+PAJ: A Journal of Performance and Art	1520-281X	1537-9477	1998-01-01	20	1				http://muse.jhu.edu/journal/149		6365		fulltext	Previously: Performing Arts Journal (1976-1997)		serial										1520-281X	1537-9477					Current		
+Parergon	0313-6221	1832-8334	1983-01-01	1	1				http://muse.jhu.edu/journal/309		6366		fulltext			serial										0313-6221	1832-8334					Current		
+Partial Answers: Journal of Literature and the History of Ideas	1565-3668	1936-9247	2003-01-01	1	1				http://muse.jhu.edu/journal/376		6367		fulltext			serial										1565-3668	1936-9247					Current		
+Philosophy and Literature	0190-0013	1086-329X	1976-01-01	1	1				http://muse.jhu.edu/journal/158		6368		fulltext			serial										0190-0013	1086-329X					Current		
+Philosophy and Rhetoric	0031-8213	1527-2079	1999-01-01	32	2				http://muse.jhu.edu/journal/151		6369		fulltext			serial										0031-8213	1527-2079					Current		
+Philosophy East and West	0031-8221	1529-1898	2000-01-01	50	4				http://muse.jhu.edu/journal/156		6370		fulltext			serial										0031-8221	1529-1898					Current		
+Philosophy of Music Education Review	1063-5734	1543-3412	2001-01-01	9	2				http://muse.jhu.edu/journal/228		6371		fulltext			serial										1063-5734	1543-3412					Current		
+Prooftexts	0272-9601	1086-3311	1998-01-01	18	1				http://muse.jhu.edu/journal/167		6373		fulltext			serial										0272-9601	1086-3311					Current		
+Quaker History	0033-5053	1934-1504	1962-01-01	51	1				http://muse.jhu.edu/journal/394		6374		fulltext	Previoulsy: Bulletin of the Friends' Historical Society of Philadelphia (1906-1923), Bulletin of Friends Historical Association (1924-1961)		serial										0033-5053	1934-1504					Current		
+Qui Parle: Critical Humanities and Social Sciences	1041-8385	1938-8020	2009-01-01	18	1				http://muse.jhu.edu/journal/477		6375		fulltext			serial										1041-8385	1938-8020					Current		
+Renaissance Quarterly	0034-4338	1935-0236	2005-01-01	58	1	2008-12-31	61	4	http://muse.jhu.edu/journal/374		6376		fulltext	No longer contributing to Project MUSE		serial										0034-4338	1935-0236					Current		
+Research in African Literatures	0034-5210	1527-2044	1999-01-01	30	1				http://muse.jhu.edu/journal/169		6377		fulltext			serial										0034-5210	1527-2044					Current		
+Restoration: Studies in English Literary Culture, 1660-1700	0162-9905	1941-952X	2008-01-01	32	1				http://muse.jhu.edu/journal/415		6378		fulltext			serial										0162-9905	1941-952X					Current		
+SEL Studies in English Literature 1500-1900	0039-3657	1522-9270	1999-01-01	39	1				http://muse.jhu.edu/journal/178		6379		fulltext			serial										0039-3657	1522-9270					Current		
+Seminar: A Journal of Germanic Studies	0037-1939	1911-026X	2006-01-01	42	1				http://muse.jhu.edu/journal/351		6380		fulltext			serial										0037-1939	1911-026X					Current		
+Shakespeare Bulletin	0748-2558	1931-1427	2006-01-01	24	1				http://muse.jhu.edu/journal/339		6381		fulltext			serial										0748-2558	1931-1427					Current		
+Shakespeare Quarterly	0037-3222	1538-3555	2001-01-01	52	1				http://muse.jhu.edu/journal/182		6382		fulltext			serial										0037-3222	1538-3555					Current		
+SHAW The Annual of Bernard Shaw Studies	0741-5842	1529-1480	2000-01-01	20					http://muse.jhu.edu/journal/180		6383		fulltext			serial										0741-5842	1529-1480					Current		
+South Central Review	0743-6831	1549-3377	2004-01-01	21	1				http://muse.jhu.edu/journal/245		6384		fulltext			serial										0743-6831	1549-3377					Current		
+The Southern Literary Journal	0038-4291	1534-1461	2000-01-01	33	1				http://muse.jhu.edu/journal/183		6385		fulltext			serial										0038-4291	1534-1461					Current		
+Spiritus: A Journal of Christian Spirituality	1533-1709	1535-3117	2001-01-01	1	1				http://muse.jhu.edu/journal/176		6386		fulltext			serial										1533-1709	1535-3117					Current		
+Studies in American Fiction	0091-8083	2158-415X	1973-01-01	1	1				http://muse.jhu.edu/journal/478		6387		fulltext			serial										0091-8083	2158-415X					Current		
+Studies in American Indian Literatures	0730-3238	1548-9590	2004-01-01	16	1				http://muse.jhu.edu/journal/246		6388		fulltext			serial										0730-3238	1548-9590					Current		
+Studies in American Jewish Literature (1981-)	0271-9274	1948-5077	2008-01-01	27					http://muse.jhu.edu/journal/443		6389		fulltext			serial										0271-9274	1948-5077					Current		
+Studies in Bibliography	0081-7600	1553-3891	2002-01-01	55					http://muse.jhu.edu/journal/298		6390		fulltext			serial										0081-7600	1553-3891					Current		
+Studies in Eighteenth Century Culture	0360-2370	1938-6133	1991-01-01	20					http://muse.jhu.edu/journal/378		6391		fulltext			serial										0360-2370	1938-6133					Current		
+Studies in Latin American Popular Culture	0730-9139	2157-2941	2010-01-01	28					http://muse.jhu.edu/journal/506		6392		fulltext			serial										0730-9139	2157-2941					Current		
+Studies in Philology	0039-3738	1543-0383	2003-01-01	100	1				http://muse.jhu.edu/journal/233		6393		fulltext			serial										0039-3738	1543-0383					Current		
+Studies in the Age of Chaucer	0190-2407	1949-0755	2008-01-01	30					http://muse.jhu.edu/journal/416		6394		fulltext			serial										0190-2407	1949-0755					Current		
+SubStance	0049-2426	1527-2095	2000-01-01	29	1				http://muse.jhu.edu/journal/189		6395		fulltext			serial										0049-2426	1527-2095					Current		
+symploke	1069-0697	1534-0627	1997-01-01	5	01-Feb				http://muse.jhu.edu/journal/190		6396		fulltext			serial										1069-0697	1534-0627					Current		
+TDR: The Drama Review (1988-)	1054-2043	1531-4715	1999-01-01	43	3				http://muse.jhu.edu/journal/193		6397		fulltext			serial										1054-2043	1531-4715					Current		
+Texas Studies in Literature and Language	0040-4691	1534-7303	2001-01-01	43	1				http://muse.jhu.edu/journal/199		6398		fulltext			serial										0040-4691	1534-7303					Current		
+Theatre Journal	0192-2882	1086-332X	1996-01-01	48	1				http://muse.jhu.edu/journal/196		6399		fulltext			serial										0192-2882	1086-332X					Current		
+Theatre Topics	1054-8378	1086-3346	1991-01-01	1	1				http://muse.jhu.edu/journal/200		6400		fulltext			serial										1054-8378	1086-3346					Current		
+Theory & Event		1092-311X	1997-01-01	1	1				http://muse.jhu.edu/journal/191		6401		fulltext			serial											1092-311X					Current		
+Tolkien Studies	1547-3155	1547-3163	2004-01-01	1					http://muse.jhu.edu/journal/299		6402		fulltext			serial										1547-3155	1547-3163					Current		
+Transactions of the American Philological Association (1974-)	0360-5949	1533-0699	2000-01-01	130					http://muse.jhu.edu/journal/12		6403		fulltext			serial										0360-5949	1533-0699					Current		
+Transactions of the Charles S. Peirce Society: A Quarterly Journal in American Philosophy	0009-1774	1558-9587	2005-01-01	41	1				http://muse.jhu.edu/journal/343		6404		fulltext			serial										0009-1774	1558-9587					Current		
+Tulsa Studies in Women's Literature	0732-7730	1936-1645	2007-01-01	26	1				http://muse.jhu.edu/journal/373		6405		fulltext			serial										0732-7730	1936-1645					Current		
+University of Toronto Quarterly	0042-0247	1712-5278	1977-09-01	47	1				http://muse.jhu.edu/journal/303		6406		fulltext			serial										0042-0247	1712-5278					Current		
+U.S. Catholic Historian	0735-8318	1947-8224	2009-01-01	27	1				http://muse.jhu.edu/journal/446		6407		fulltext			serial										0735-8318	1947-8224					Current		
+The Velvet Light Trap	0149-1830	1542-4251	2003-01-01	51					http://muse.jhu.edu/journal/230		6408		fulltext			serial										0149-1830	1542-4251					Current		
+Victorian Periodicals Review	0709-4698	1712-526X	2005-01-01	38	1				http://muse.jhu.edu/journal/304		6409		fulltext			serial										0709-4698	1712-526X					Current		
+Victorian Poetry	0042-5206	1530-7190	2000-01-01	38	1				http://muse.jhu.edu/journal/204		6410		fulltext			serial										0042-5206	1530-7190					Current		
+Victorian Studies	0042-5222	1527-2052	1999-01-01	42	2				http://muse.jhu.edu/journal/203		6411		fulltext			serial										0042-5222	1527-2052					Current		
+Western American Literature	0043-3462	1948-7142	2009-01-01	44	1				http://muse.jhu.edu/journal/418		6412		fulltext			serial										0043-3462	1948-7142					Current		
+William Carlos Williams Review	0196-6286	1935-0244	2006-01-01	26	1				http://muse.jhu.edu/journal/365		6413		fulltext			serial										0196-6286	1935-0244					Current		
+Women and Music: A Journal of Gender and Culture	1090-7505	1553-0612	2004-01-01	8					http://muse.jhu.edu/journal/300		6414		fulltext			serial										1090-7505	1553-0612					Current		
+The Yearbook of Comparative Literature	0084-3695	1947-2978	2008-01-01	54					http://muse.jhu.edu/journal/447		6415		fulltext			serial										0084-3695	1947-2978					Current		
+Advertising & Society Review		1534-7311	2000-01-01	1	1				http://muse.jhu.edu/journal/18		6416		fulltext			serial											1534-7311					Current		
+Africa: Journal of the International African Institute	0001-9720	1750-0184	2006-01-01	76	1				http://muse.jhu.edu/journal/310		6417		fulltext			serial										0001-9720	1750-0184					Current		
+Africa Today	0001-9887	1527-1978	1999-01-01	46	1				http://muse.jhu.edu/journal/19		6418		fulltext			serial										0001-9887	1527-1978					Current		
+African Economic History	0145-2258	2163-9108	2008-01-01	36					http://muse.jhu.edu/journal/482		6419		fulltext			serial										0145-2258	2163-9108					Current		
+African Studies Review	0002-0206	1555-2462	2005-01-01	48	1				http://muse.jhu.edu/journal/282		6420		fulltext			serial										0002-0206	1555-2462					Current		
+American Annals of the Deaf	0002-726X	1543-0375	1980-02-01	125	1				http://muse.jhu.edu/journal/213		6421		fulltext			serial										0002-726X	1543-0375					Current		
+The American Indian Quarterly	0095-182X	1534-1828	2000-01-01	24	3				http://muse.jhu.edu/journal/2		6422		fulltext			serial										0095-182X	1534-1828					Current		
+Anthropological Quarterly	0003-5491	1534-1518	2000-01-01	73	3				http://muse.jhu.edu/journal/10		6423		fulltext			serial										0003-5491	1534-1518					Current		
+ASEAN Economic Bulletin	0217-4472	1793-2831	2003-01-01	20	1	2013-12-31	29	3	http://muse.jhu.edu/journal/347		6424		fulltext	Now: Journal of Southeast Asian Economies		serial										0217-4472	1793-2831					Current		
+Brookings Papers on Economic Activity	0007-2303	1533-4465	2000-01-01		1				http://muse.jhu.edu/journal/52		6425		fulltext			serial										0007-2303	1533-4465					Current		
+Brookings Papers on Education Policy	1096-2719	1533-4457	2000-01-01			2006-12-31		9	http://muse.jhu.edu/journal/155		6426		fulltext	Ceased: 2007		serial										1096-2719	1533-4457					Current		
+Brookings Trade Forum	1520-5479	1534-0635	2000-01-01			2008-01-01			http://muse.jhu.edu/journal/26		6427		fulltext	Ceased: 2009		serial										1520-5479	1534-0635					Current		
+Brookings-Wharton Papers on Urban Affairs	1528-7084	1533-4449	2000-01-01			2009-01-01			http://muse.jhu.edu/journal/202		6428		fulltext	Ceased: 2009		serial										1528-7084	1533-4449					Current		
+Bulletin of the History of Medicine	0007-5140	1086-3176	1996-01-01	70	1				http://muse.jhu.edu/journal/24		6429		fulltext			serial										0007-5140	1086-3176					Current		
+Canadian Ethnic Studies	0008-3496	1913-8253	2007-01-01	39	12				http://muse.jhu.edu/journal/370		6430		fulltext			serial										0008-3496	1913-8253					Current		
+The Canadian Historical Review	0008-3755	1710-1093	1960-03-01	41	1				http://muse.jhu.edu/journal/248		6431		fulltext			serial										0008-3755	1710-1093					Current		
+Canadian Journal of Criminology and Criminal Justice	1707-7753	1911-0219	2006-01-01	48	1				http://muse.jhu.edu/journal/315		6432		fulltext			serial										1707-7753	1911-0219					Current		
+Canadian Journal of Law and Society	0829-3201	1911-0227	2005-01-01	20	1				http://muse.jhu.edu/journal/356		6433		fulltext			serial										0829-3201	1911-0227					Current		
+Canadian Journal of Women and the Law	0832-8781	1911-0235	2005-01-01	17	1				http://muse.jhu.edu/journal/316		6434		fulltext			serial										0832-8781	1911-0235					Current		
+Canadian Journal on Aging/Revue canadienne du vieillissement	0714-9808	1710-1107	2004-01-01	23	1				http://muse.jhu.edu/journal/271		6435		fulltext			serial										0714-9808	1710-1107					Current		
+Canadian Public Policy / Analyse de Politiques	0317-0861	1911-9917	2009-01-01	35	1				http://muse.jhu.edu/journal/438		6436		fulltext			serial										0317-0861	1911-9917					Current		
+China: An International Journal	0219-7472	0219-8614	2003-01-01	1	1				http://muse.jhu.edu/journal/267		6437		fulltext			serial										0219-7472	0219-8614					Current		
+Comparative Technology Transfer and Society	1542-0132	1543-3404	2003-01-01	1	1	2009-12-31	7		http://muse.jhu.edu/journal/237		6438		fulltext	Ceased: 2009		serial										1542-0132	1543-3404					Current		
+The Contemporary Pacific	1043-898X	1527-9464	2000-01-01	12	1				http://muse.jhu.edu/journal/37		6439		fulltext			serial										1043-898X	1527-9464					Current		
+Contemporary Southeast Asia: A Journal of International and Strategic Affairs	0129-797X	1793-284X	2003-01-01	25	1				http://muse.jhu.edu/journal/348		6440		fulltext			serial										0129-797X	1793-284X					Current		
+Demography	0070-3370	1533-7790	2000-01-01	37	4	2010-11-30	47	4	http://muse.jhu.edu/journal/44		6441		fulltext	No longer contributing to Project MUSE		serial										0070-3370	1533-7790					Current		
+Diaspora: A Journal of Transnational Studies	1044-2057	1911-1568	1991-01-01	1	1				http://muse.jhu.edu/journal/321		6442		fulltext			serial										1044-2057	1911-1568					Current		
+e-Service Journal	1528-8226	1528-8234	2001-01-01	1	1				http://muse.jhu.edu/journal/60		6443		fulltext			serial										1528-8226	1528-8234					Current		
+Eastern Africa Social Science Research Review	1027-1775	1684-4173	2002-01-01	18	1				http://muse.jhu.edu/journal/51		6444		fulltext			serial										1027-1775	1684-4173					Current		
+Economía	1529-7470	1533-6239	2000-01-01	1	1				http://muse.jhu.edu/journal/54		6445		fulltext			serial										1529-7470	1533-6239					Current		
+Feminist Formations	2151-7363	2151-7371	2010-01-01	22	1				http://muse.jhu.edu/journal/146		6446		fulltext	Previously: NWSA Journal 1999 - 2009		serial										2151-7363	2151-7371					Current		
+Feminist Teacher	0882-4843	1934-6034	2007-01-01	18	1				http://muse.jhu.edu/journal/381		6447		fulltext			serial										0882-4843	1934-6034					Current		
+French Colonial History	1539-3402	1543-7787	2002-01-01	1					http://muse.jhu.edu/journal/218		6448		fulltext			serial										1539-3402	1543-7787					Current		
+The Future of Children	1054-8289	1550-1558	2005-01-01	15	1				http://muse.jhu.edu/journal/286		6449		fulltext			serial										1054-8289	1550-1558					Current		
+Global Environmental Politics	1526-3800	1536-0091	2003-01-01	3	1				http://muse.jhu.edu/journal/219		6450		fulltext			serial										1526-3800	1536-0091					Current		
+The Good Society	1089-0017	1538-9731	2002-01-01	11	1				http://muse.jhu.edu/journal/69		6451		fulltext			serial										1089-0017	1538-9731					Current		
+Hastings Center Report, The	0093-0334	1552-146X	2005-01-01	35	1	2011-12-31	41	6	http://muse.jhu.edu/journal/287		6452		fulltext	No longer contributing to Project MUSE		serial										0093-0334	1552-146X					Current		
+The High School Journal	0018-1498	1534-5157	2001-01-01	84	3				http://muse.jhu.edu/journal/78		6453		fulltext			serial										0018-1498	1534-5157					Current		
+Histoire sociale/Social history	0018-2257	1918-6576	2008-01-01	41	81				http://muse.jhu.edu/journal/440		6454		fulltext			serial										0018-2257	1918-6576					Current		
+Historically Speaking	1941-4188	1944-6438	1999-01-01	1	1	2013-11-30	14	5	http://muse.jhu.edu/journal/441		6455		fulltext	Transitioning to Archive-Only in 2014		serial										1941-4188	1944-6438					Current		
+Human Rights Quarterly	0275-0392	1085-794X	1995-01-01	17	1				http://muse.jhu.edu/journal/77		6456		fulltext			serial										0275-0392	1085-794X					Current		
+Indiana Journal of Global Legal Studies	1080-0727	1543-0367	2003-01-01	10	1				http://muse.jhu.edu/journal/236		6457		fulltext			serial										1080-0727	1543-0367					Current		
+Innovations: Technology, Governance, Globalization	1558-2477	1558-2485	2012-01-01	7	1	2013-12-31	8	03-Apr	http://muse.jhu.edu/journal/554		6458		fulltext	Transitioning to Archive-Only in 2014		serial										1558-2477	1558-2485					Current		
+International Security	0162-2889	1531-4804	1976-01-01	1	1				http://muse.jhu.edu/journal/84		6459		fulltext			serial										0162-2889	1531-4804					Current		
+Israel Studies	1084-9513	1527-201X	1996-01-01	1	1				http://muse.jhu.edu/journal/85		6460		fulltext			serial										1084-9513	1527-201X					Current		
+Journal for the Study of Radicalism	1930-1189	1930-1197	2007-01-01	1	1				http://muse.jhu.edu/journal/386		6461		fulltext			serial										1930-1189	1930-1197					Current		
+Journal of Chinese Overseas	1793-0391	1793-2548	2005-01-01	1	1	2008-11-30	4	2	http://muse.jhu.edu/journal/331		6462		fulltext	No longer contributing to Project MUSE		serial										1793-0391	1793-2548					Current		
+Journal of Cold War Studies	1520-3972	1531-3298	1999-01-01	1	1				http://muse.jhu.edu/journal/43		6463		fulltext			serial										1520-3972	1531-3298					Current		
+Journal of Colonialism and Colonial History		1532-5768	2000-01-01	1	1				http://muse.jhu.edu/journal/29		6464		fulltext			serial											1532-5768					Current		
+Journal of Democracy	1045-5736	1086-3214	1990-01-01	1	1				http://muse.jhu.edu/journal/98		6465		fulltext			serial										1045-5736	1086-3214					Current		
+The Journal of Developing Areas	0022-037X	1548-2278	2003-01-01	37	1				http://muse.jhu.edu/journal/258		6466		fulltext			serial										0022-037X	1548-2278					Current		
+Journal of Education Finance	0098-9495	1944-6470	2009-01-01	35	1				http://muse.jhu.edu/journal/442		6467		fulltext			serial										0098-9495	1944-6470					Current		
+Journal of Health Care for the Poor and Underserved	1049-2089	1548-6869	1990-01-01	1	1				http://muse.jhu.edu/journal/278		6468		fulltext			serial										1049-2089	1548-6869					Current		
+The Journal of Higher Education	0022-1546	1538-4640	2002-01-01	73	1	2016-12-31	87	6	http://muse.jhu.edu/journal/90		6469		fulltext	Transitioning to Archive-Only in 2017		serial										0022-1546	1538-4640					Current		
+Journal of Human Resources, The	0022-166X	1548-8004	2008-01-01	43	1				http://muse.jhu.edu/journal/556		6470		fulltext			serial										0022-166X	1548-8004					Current		
+The Journal of Japanese Studies	0095-6848	1549-4721	2004-01-01	30	1				http://muse.jhu.edu/journal/268		6471		fulltext			serial										0095-6848	1549-4721					Current		
+Journal of Latin American Geography	1545-2476	1548-5811	2002-01-01	1	1				http://muse.jhu.edu/journal/240		6472		fulltext			serial										1545-2476	1548-5811					Current		
+Journal of Literature and Trauma Studies	2162-3627		2012-01-01	1	1				http://muse.jhu.edu/journal/572		6473		fulltext			serial										2162-3627						Current		
+Journal of Middle East Women's Studies	1552-5864	1558-9579	2005-01-01	1	1				http://muse.jhu.edu/journal/329		6474		fulltext			serial										1552-5864	1558-9579					Current		
+The Journal of Military History	0899-3718	1543-7795	2003-01-01	67	1	2009-10-31	73	4	http://muse.jhu.edu/journal/96		6475		fulltext	No longer contributing to Project MUSE		serial										0899-3718	1543-7795					Current		
+Journal of Policy History	0898-0306	1528-4190	2000-01-01	12	1				http://muse.jhu.edu/journal/102		6476		fulltext			serial										0898-0306	1528-4190					Current		
+Journal of Women's History	1042-7961	1527-2036	1989-01-01	1	1				http://muse.jhu.edu/journal/100		6477		fulltext			serial										1042-7961	1527-2036					Current		
+Journal of World History	1045-6007	1527-8050	1996-01-01	7	1				http://muse.jhu.edu/journal/106		6478		fulltext			serial										1045-6007	1527-8050					Current		
+Korean Studies	0145-840X	1529-1529	1977-01-01	1					http://muse.jhu.edu/journal/109		6479		fulltext			serial										0145-840X	1529-1529					Current		
+Labour / Le Travail	0700-3862	1911-4842	2010-01-01	66					http://muse.jhu.edu/journal/537		6480		fulltext			serial										0700-3862	1911-4842					Current		
+Land Economics	0023-7639	1543-8325	2008-01-01	84	1				http://muse.jhu.edu/journal/560		6481		fulltext			serial										0023-7639	1543-8325					Current		
+Latin American Research Review	0023-8791	1542-4278	2003-01-01	38	1	2016-12-31	51	4	http://muse.jhu.edu/journal/226		6482		fulltext	Transitioning to Archive-Only in 2017		serial										0023-8791	1542-4278					Current		
+Le mouvement social	0027-2671	1961-8646	2009-01-01	226					http://muse.jhu.edu/journal/423		6483		fulltext			serial										0027-2671	1961-8646					Current		
+The Middle East Journal	0026-3141	1940-3461	2009-01-01	63	1				http://muse.jhu.edu/journal/459		6484		fulltext			serial										0026-3141	1940-3461					Current		
+Northeast African Studies	0740-9133	1535-6574	1994-01-01	1	1				http://muse.jhu.edu/journal/136		6485		fulltext			serial										0740-9133	1535-6574					Current		
+Population Review	0032-471X	1549-0955	2003-01-01	42	01-Feb				http://muse.jhu.edu/journal/247		6486		fulltext			serial										0032-471X	1549-0955					Current		
+Progress in Community Health Partnerships: Research, Education, and Action	1557-0541	1557-055X	2007-01-01	1	1				http://muse.jhu.edu/journal/318		6487		fulltext			serial										1557-0541	1557-055X					Current		
+The Review of Higher Education	0162-5748	1090-7009	1996-01-01	20	1				http://muse.jhu.edu/journal/172		6488		fulltext			serial										0162-5748	1090-7009					Current		
+Rhetoric & Public Affairs	1094-8392	1534-5238	1998-01-01	1	1				http://muse.jhu.edu/journal/171		6489		fulltext			serial										1094-8392	1534-5238					Current		
+SAIS Review	0036-0775		1981-01-01	1	1	1989-12-31	9	2	http://muse.jhu.edu/journal/174		6490		fulltext	Previously: SAIS Review 1981-2008		serial										0036-0775						Current		
+Sojourn: Journal of Social Issues in Southeast Asia	0217-9520	1793-2858	2003-01-01	18	1				http://muse.jhu.edu/journal/352		6491		fulltext			serial										0217-9520	1793-2858					Current		
+Southeastern Geographer	0038-366X	1549-6929	1961-01-01	1	1				http://muse.jhu.edu/journal/279		6492		fulltext			serial										0038-366X	1549-6929					Current		
+Technology and Culture	0040-165X	1097-3729	1998-01-01	39	3				http://muse.jhu.edu/journal/194		6493		fulltext			serial										0040-165X	1097-3729					Current		
+The Tocqueville Review/La revue Tocqueville	0730-479X	1918-6649	2009-01-01	30	1				http://muse.jhu.edu/journal/445		6494		fulltext			serial										0730-479X	1918-6649					Current		
+Transformation: Critical Perspectives on Southern Africa	0258-7696	1726-1368	2002-01-01	49					http://muse.jhu.edu/journal/198		6495		fulltext			serial										0258-7696	1726-1368					Current		
+Transportation Journal	0041-1612	2157-328X	2012-01-01	51	1				http://muse.jhu.edu/journal/569		6496		fulltext			serial										0041-1612	2157-328X					Current		
+The Washington Quarterly	0163-660X	1530-9177	2000-01-01	23	1	2008-12-31	31	4	http://muse.jhu.edu/journal/209		6497		fulltext	No longer contributing to Project MUSE		serial										0163-660X	1530-9177					Current		
+Wicazo Sa Review	0749-6427	1533-7901	2000-01-01	15	2				http://muse.jhu.edu/journal/207		6498		fulltext			serial										0749-6427	1533-7901					Current		
+World Politics	0043-8871	1086-3338	1995-01-01	48	1				http://muse.jhu.edu/journal/208		6499		fulltext			serial										0043-8871	1086-3338					Current		
+Yearbook of the Association of Pacific Coast Geographers	0066-9628	1551-3211	1935-01-01	1					http://muse.jhu.edu/journal/280		6500		fulltext			serial										0066-9628	1551-3211					Current		
+Ab Imperio	2166-4072	2164-9731	2011-01-01		4				http://muse.jhu.edu/journal/573		6501		fulltext			serial										2166-4072	2164-9731					Current		
+African American Review	1062-4783	1945-6182	2009-01-01	43	1				http://muse.jhu.edu/journal/434		6502		fulltext			serial										1062-4783	1945-6182					Current		
+African Conflict & Peacebuilding Review	2156-695X	2156-7263	2011-01-01	1	1				http://muse.jhu.edu/journal/509		6503		fulltext			serial										2156-695X	2156-7263					Current		
+Alabama Review	0002-4341		2007-01-01	60	1				http://muse.jhu.edu/journal/576		6504		fulltext			serial										0002-4341						Current		
+Aleph: Historical Studies in Science and Judaism	1565-1525	1553-3956	2001-01-01	1					http://muse.jhu.edu/journal/283		6505		fulltext			serial										1565-1525	1553-3956					Current		
+American Book Review	0149-9408	2153-4578	2009-01-01	31	1				http://muse.jhu.edu/journal/467		6506		fulltext			serial										0149-9408	2153-4578					Current		
+American Catholic Studies	0002-7790	2161-8534	2011-01-01	122	1				http://muse.jhu.edu/journal/544		6507		fulltext			serial										0002-7790	2161-8534					Current		
+American Jewish History	0164-0178	1086-3141	1996-01-01	84	1				http://muse.jhu.edu/journal/4		6508		fulltext			serial										0164-0178	1086-3141					Current		
+The American Journal of Bioethics	1526-5161	1536-0075	2001-01-01	1	1	2004-12-31	4	2	http://muse.jhu.edu/journal/3		6509		fulltext	No longer contributing to Project MUSE		serial										1526-5161	1536-0075					Current		
+American Journal of Mathematics	0002-9327	1080-6377	1996-01-01	118	1				http://muse.jhu.edu/journal/5		6510		fulltext			serial										0002-9327	1080-6377					Current		
+American Quarterly	0003-0678	1080-6490	1996-01-01	48	1				http://muse.jhu.edu/journal/13		6511		fulltext			serial										0003-0678	1080-6490					Current		
+American Studies	0026-3079	2153-6856	2007-01-01	48	1				http://muse.jhu.edu/journal/460		6512		fulltext			serial										0026-3079	2153-6856					Current		
+The Americas	0003-1615	1533-6247	2000-01-01	57	2				http://muse.jhu.edu/journal/192		6513		fulltext			serial										0003-1615	1533-6247					Current		
+An Sionnach: A Journal of Literature, Culture, and the Arts	1554-8953	1944-6535	2009-01-01	5	1	2009-12-31	5	2	http://muse.jhu.edu/journal/435		6514		fulltext	No longer contributing to Project MUSE 		serial										1554-8953	1944-6535					Current		
+Anales Galdosianos	0569-9924	2161-301X	2011-01-01	46					http://muse.jhu.edu/journal/510		6515		fulltext			serial										0569-9924	2161-301X					Current		
+Anthropological Linguistics	0003-5483	1944-6527	2009-01-01	51	1				http://muse.jhu.edu/journal/436		6516		fulltext			serial										0003-5483	1944-6527					Current		
+Appalachian Heritage	0363-2318	1940-5081	2008-01-01	36	1				http://muse.jhu.edu/journal/383		6517		fulltext			serial										0363-2318	1940-5081					Current		
+Arctic Anthropology	0066-6939	1933-8139	2003-01-01	40	1				http://muse.jhu.edu/journal/384		6518		fulltext			serial										0066-6939	1933-8139					Current		
+Arthuriana	1078-6279	1934-1539	2008-01-01	18	1				http://muse.jhu.edu/journal/397		6519		fulltext			serial										1078-6279	1934-1539					Current		
+Asia Policy	1559-0968	1559-2960	2006-01-01		1				http://muse.jhu.edu/journal/511		6520		fulltext			serial										1559-0968	1559-2960					Current		
+Asian Bioethics Review	1793-8759	1793-9453	2008-01-01		Inaugral Edition				http://muse.jhu.edu/journal/538		6521		fulltext			serial										1793-8759	1793-9453					Current		
+Asian Perspectives	0066-8435	1535-8283	2000-01-01	39	1				http://muse.jhu.edu/journal/17		6522		fulltext			serial										0066-8435	1535-8283					Current		
+Azalea: Journal of Korean Literature & Culture	1939-6120	1944-6500	2007-01-01	1					http://muse.jhu.edu/journal/429		6523		fulltext			serial										1939-6120	1944-6500					Current		
+Black Camera	1536-3155	1947-4237	2009-01-01	1	1				http://muse.jhu.edu/journal/468		6524		fulltext			serial										1536-3155	1947-4237					Current		
+Black Music Research Journal	0276-3605	1946-1615	2010-01-01	30	1				http://muse.jhu.edu/journal/469		6525		fulltext			serial										0276-3605	1946-1615					Current		
+Black Women, Gender & Families	1935-2743	1944-6462	2009-01-01	3	1	2012-12-31	6	2	http://muse.jhu.edu/journal/437		6526		fulltext	No longer contributing to Project MUSE		serial										1935-2743	1944-6462					Current		
+Bookbird: A Journal of International Children's Literature	0006-7377	1918-6983	2008-01-01	46	1				http://muse.jhu.edu/journal/409		6527		fulltext			serial										0006-7377	1918-6983					Current		
+Bridges: A Jewish Feminist Journal	1046-8358	1558-9552	1999-01-01	11	1	2011-04-30	16	1	http://muse.jhu.edu/journal/312		6528		fulltext	No longer contributing to Project MUSE		serial										1046-8358	1558-9552					Current		
+Brookings-Wharton Papers on Financial Services	1098-3651	1533-4430	2000-01-01			2004-01-01			http://muse.jhu.edu/journal/157		6529		fulltext	No longer contributing to Project MUSE		serial										1098-3651	1533-4430					Current		
+The Bulletin of Hispanic Studies	1475-3839	1478-3398	2009-01-01	86	1	2010-12-31	87	8	http://muse.jhu.edu/journal/419		6530		fulltext	No longer contributing to Project MUSE 		serial										1475-3839	1478-3398					Current		
+Bulletin of the Center for Children's Books	0008-9036	1558-6766	2005-01-01	59	1				http://muse.jhu.edu/journal/313		6531		fulltext			serial										0008-9036	1558-6766					Current		
+Bulletin of the Comediantes	0007-5108	1944-0928	2009-01-01	61	1				http://muse.jhu.edu/journal/425		6532		fulltext			serial										0007-5108	1944-0928					Current		
+Canadian Journal of Information and Library Science	1195-096X	1920-7239	2010-01-01	34	1				http://muse.jhu.edu/journal/497		6533		fulltext			serial										1195-096X	1920-7239					Current		
+The Canadian Journal of Linguistics / La revue canadienne de linguistique	0008-4131	1710-1115	2003-01-01	48					http://muse.jhu.edu/journal/270		6534		fulltext			serial										0008-4131	1710-1115					Current		
+The Canadian Journal of Sociology / Cahiers canadiens de sociologie	0318-6431	1710-1123	2004-01-01	29	1	2007-12-31	32	4	http://muse.jhu.edu/journal/249		6535		fulltext	No longer contributing to Project MUSE		serial										0318-6431	1710-1123					Current		
+The Canadian Modern Language Review / La revue canadienne des langues vivantes	0008-4506	1710-1131	2004-01-01	61	1				http://muse.jhu.edu/journal/272		6536		fulltext			serial										0008-4506	1710-1131					Current		
+Canadian Review of American Studies	0007-7720	1710-114X	2004-01-01	34	1				http://muse.jhu.edu/journal/269		6537		fulltext			serial										0007-7720	1710-114X					Current		
+Canadian Theatre Review	0315-0836	1920-941X	2010-01-01		141				http://muse.jhu.edu/journal/470		6538		fulltext			serial										0315-0836	1920-941X					Current		
+Caribbean Studies	0008-6533	1940-9095	2008-01-01	36	1				http://muse.jhu.edu/journal/413		6539		fulltext			serial										0008-6533	1940-9095					Current		
+Change Over Time	2153-053X	2153-0548	2011-01-01	1	1				http://muse.jhu.edu/journal/545		6540		fulltext			serial										2153-053X	2153-0548					Current		
+China Review International	1069-5834	1527-9367	1994-01-01	1	1				http://muse.jhu.edu/journal/39		6541		fulltext			serial										1069-5834	1527-9367					Current		
+Civil War History	0009-8078	1533-6271	1955-01-01	1	1				http://muse.jhu.edu/journal/42		6542		fulltext			serial										0009-8078	1533-6271					Current		
+Collaborative Anthropologies	1943-2550	2152-4009	2008-01-01	1					http://muse.jhu.edu/journal/471		6543		fulltext			serial										1943-2550	2152-4009					Current		
+Comitatus: A Journal of Medieval and Renaissance Studies	0069-6412	1557-0290	2002-01-01	33					http://muse.jhu.edu/journal/546		6544		fulltext			serial										0069-6412	1557-0290					Current		
+Community Literacy Journal	1555-9734		2010-01-01	5	1				http://muse.jhu.edu/journal/539		6545		fulltext			serial										1555-9734						Current		
+CR: The New Centennial Review	1532-687X	1539-6630	2001-01-01	1	1				http://muse.jhu.edu/journal/139		6546		fulltext			serial										1532-687X	1539-6630					Current		
+Cream City Review	0884-3457		2012-01-01	36	1				http://muse.jhu.edu/journal/592		6547		fulltext			serial										0884-3457						Current		
+Cross-Currents: East Asian History and Culture Review	2158-9666		2012-01-01	1	1				http://muse.jhu.edu/journal/514		6548		fulltext			serial										2158-9666						Current		
+Cuban Studies	0361-4441	1548-2464	2003-01-01	34					http://muse.jhu.edu/journal/260		6549		fulltext			serial										0361-4441	1548-2464					Current		
+Dance Research Journal	0149-7677	1940-509X	2008-01-01	40	1				http://muse.jhu.edu/journal/380		6550		fulltext			serial										0149-7677	1940-509X					Current		
+Dante Studies, with the Annual Report of the Dante Society	0070-2862		2015-01-01	133					http://muse.jhu.edu/journal/549		6551		fulltext			serial										0070-2862				2015-12-31		Current		
+Dictionaries: Journal of the Dictionary Society of North America	0197-6745	2160-5076	1979-01-01	1					http://muse.jhu.edu/journal/540		6552		fulltext			serial										0197-6745	2160-5076					Current		
+Digital Philology: A Journal of Medieval Cultures	2162-9544	2162-9552	2012-01-01	1	1				http://muse.jhu.edu/journal/550		6553		fulltext			serial										2162-9544	2162-9552					Current		
+Dissent	0012-3846	1946-0910	2005-01-01	52	1				http://muse.jhu.edu/journal/464		6554		fulltext			serial										0012-3846	1946-0910					Current		
+Dublin James Joyce Journal	2009-1850	2009-4507	2008-01-01		1				http://muse.jhu.edu/journal/579		6555		fulltext			serial										2009-1850	2009-4507					Current		
+Early American Studies: An Interdisciplinary Journal	1543-4273	1559-0895	2003-01-01	1	1				http://muse.jhu.edu/journal/322		6556		fulltext			serial										1543-4273	1559-0895					Current		
+Ecological Restoration	1543-4060	1543-4079	2010-01-01	28	1				http://muse.jhu.edu/journal/498		6557		fulltext			serial										1543-4060	1543-4079					Current		
+Ecotone	1553-1775	2165-2651	2005-01-01	1	1				http://muse.jhu.edu/journal/587		6558		fulltext			serial										1553-1775	2165-2651					Current		
+Education and Culture	1085-4908	1559-1786	2006-01-01	22	1				http://muse.jhu.edu/journal/323		6559		fulltext			serial										1085-4908	1559-1786					Current		
+Education and Treatment of Children	0748-8491	1934-8924	2007-01-01	30	1				http://muse.jhu.edu/journal/371		6560		fulltext			serial										0748-8491	1934-8924					Current		
+Essays in Medieval Studies	1043-2213	1538-4608	2001-01-01	18					http://muse.jhu.edu/journal/59		6561		fulltext			serial										1043-2213	1538-4608					Current		
+Ethics & the Environment	1085-6633	1535-5306	1999-01-01	4	1				http://muse.jhu.edu/journal/57		6562		fulltext			serial										1085-6633	1535-5306					Current		
+Eudora Welty Review	1947-3370		2009-01-01	1					http://muse.jhu.edu/journal/590		6563		fulltext			serial										1947-3370						Current		
+Eugene O'Neill Review, The	1040-9483	2161-4318	2012-01-01	33	1				http://muse.jhu.edu/journal/551		6564		fulltext			serial										1040-9483	2161-4318					Current		
+Forum Modernes Theater	0930-5874		2010-01-01	25	1				http://muse.jhu.edu/journal/574		6565		fulltext			serial										0930-5874						Current		
+Fourth Genre: Explorations in Nonfiction	1522-3868	1544-1733	1999-01-01	1	1				http://muse.jhu.edu/journal/217		6566		fulltext			serial										1522-3868	1544-1733					Current		
+Francophonies d'Amérique	1183-2487	1710-1158	2004-01-01	17		2004-12-31		18	http://muse.jhu.edu/journal/253		6567		fulltext	No longer contributing to Project MUSE		serial										1183-2487	1710-1158					Current		
+Frontiers: A Journal of Women Studies	0160-9009	1536-0334	2001-01-01	22	1				http://muse.jhu.edu/journal/64		6568		fulltext			serial										0160-9009	1536-0334					Current		
+Future Anterior: Journal of Historic Preservation, History, Theory, and Criticism	1549-9715	1934-6026	2008-01-01	5	1				http://muse.jhu.edu/journal/407		6569		fulltext			serial										1549-9715	1934-6026					Current		
+Genocide Studies and Prevention	1911-0359	1911-9933	2006-01-01	1	1	2012-12-31	7	02-Mar	http://muse.jhu.edu/journal/439		6570		fulltext	Now: Genocide Studies International (2014-)		serial										1911-0359	1911-9933					Current		
+Geographical Analysis	0016-7363	1538-4632	2002-01-01	34	1	2004-10-31	36	4	http://muse.jhu.edu/journal/66		6571		fulltext	No longer contributing to Project MUSE		serial									10.1111/(ISSN)1538-4632	0016-7363	1538-4632					Current		
+German Studies Review	0149-7952	2164-8646	2012-01-01	35	1				http://muse.jhu.edu/journal/552		6572		fulltext			serial										0149-7952	2164-8646					Current		
+The Harvard International Journal of Press/Politics	1081-180X	1531-328X	1999-01-01	4	3	2000-10-31	5	4	http://muse.jhu.edu/journal/165		6573		fulltext	No longer contributing to Project MUSE		serial										1081-180X	1531-328X					Current		
+Harvard Journal of Asiatic Studies	0073-0548	1944-6454	2009-01-01	69	1				http://muse.jhu.edu/journal/433		6574		fulltext			serial										0073-0548	1944-6454					Current		
+Hebrew Studies	0146-4094	2158-1681	1990-01-01	31					http://muse.jhu.edu/journal/512		6575		fulltext			serial										0146-4094	2158-1681					Current		
+Hesperia: The Journal of the American School of Classical Studies at Athens	0018-098X	1553-5622	2005-01-01	74	1	2005-12-31	74	4	http://muse.jhu.edu/journal/288		6576		fulltext	No longer contributing to Project MUSE		serial										0018-098X	1553-5622					Current		
+Hispanófila	0018-2206	2165-6185	2011-01-01	162					http://muse.jhu.edu/journal/586		6577		fulltext			serial										0018-2206	2165-6185					Current		
+Histories of Anthropology Annual	1557-637X	1940-5138	2005-01-01	1	1				http://muse.jhu.edu/journal/401		6578		fulltext			serial										1557-637X	1940-5138					Current		
+History & Memory	0935-560X	1527-1994	1998-01-01	10	1				http://muse.jhu.edu/journal/71		6579		fulltext			serial										0935-560X	1527-1994					Current		
+History in Africa	0361-5413	1558-2744	2005-01-01	32					http://muse.jhu.edu/journal/290		6580		fulltext			serial										0361-5413	1558-2744					Current		
+The Hopkins Review	1939-6589	1939-9774	2008-01-01	1	1				http://muse.jhu.edu/journal/398		6581		fulltext			serial										1939-6589	1939-9774					Current		
+Hopscotch: A Cultural Review	1098-6995	1527-800X	1999-01-01	1	3	2001-12-31	2	4	http://muse.jhu.edu/journal/73		6582		fulltext	Ceased:2001		serial										1098-6995	1527-800X					Current		
+Humanity: An International Journal of Human Rights, Humanitarianism, and Development	2151-4364	2151-4372	2010-01-01	1	1				http://muse.jhu.edu/journal/499		6583		fulltext			serial										2151-4364	2151-4372					Current		
+Annals of the History of Computing, IEEE	1058-6180		2008-01-01	30	1				http://muse.jhu.edu/journal/393		6584		fulltext			serial										1058-6180						Current		
+Imagine	1071-605X	1086-3230	1996-01-01	4	1	1999-06-30	6	5	http://muse.jhu.edu/journal/82		6585		fulltext	No longer contributing to Project MUSE		serial										1071-605X	1086-3230					Current		
+Indonesia	0019-7289	2164-8654	2012-01-01		93				http://muse.jhu.edu/journal/553		6586		fulltext			serial										0019-7289	2164-8654					Current		
+Interdisciplinary Literary Studies	1524-8429	2161-427X	2012-01-01	14	1				http://muse.jhu.edu/journal/555		6587		fulltext			serial										1524-8429	2161-427X					Current		
+International Journal of Feminist Approaches to Bioethics	1937-4585	1937-4577	2008-01-01	1	1				http://muse.jhu.edu/journal/431		6588		fulltext			serial										1937-4585	1937-4577					Current		
+International Organization	0020-8183	1531-5088	2002-01-01	56	1	2002-12-31	56	4	http://muse.jhu.edu/journal/83		6589		fulltext	No longer contributing to Project MUSE		serial										0020-8183	1531-5088					Current		
+Intertexts	1092-0625	2156-5465	2009-01-01	13	1				http://muse.jhu.edu/journal/428		6590		fulltext			serial										1092-0625	2156-5465					Current		
+Jeunesse: Young People, Texts, Cultures	1920-2601	1920-261X	2009-01-01	1	1				http://muse.jhu.edu/journal/500		6591		fulltext			serial										1920-2601	1920-261X					Current		
+Jewish Social Studies	0021-6704	1527-2028	1999-01-01	5	3				http://muse.jhu.edu/journal/105		6592		fulltext			serial										0021-6704	1527-2028					Current		
+Journal for the Psychoanalysis of Culture and Society		1543-3390	2003-01-01	8	1	2003-12-31	8	2	http://muse.jhu.edu/journal/222		6593		fulltext	No longer contributing to Project MUSE		serial											1543-3390					Current		
+Journal of American Folklore, The	0021-8715	1535-1882	2001-01-01	114	451				http://muse.jhu.edu/journal/87		6594		fulltext			serial										0021-8715	1535-1882					Current		
+Journal of Asian American Studies	1097-2129	1096-8598	1998-01-01	1	1				http://muse.jhu.edu/journal/86		6595		fulltext			serial										1097-2129	1096-8598					Current		
+Journal of Assessment and Institutional Effectiveness	2160-6765	2160-6757	2012-01-01	2	1				http://muse.jhu.edu/journal/565		6596		fulltext			serial										2160-6765	2160-6757					Current		
+Journal of Biblical Literature	0021-9231	1934-3876	2011-01-01	130	1				http://muse.jhu.edu/journal/513		6597		fulltext			serial										0021-9231	1934-3876					Current		
+Journal of Burma Studies	1094-799X	2010-314X	1997-01-01	1					http://muse.jhu.edu/journal/529		6598		fulltext			serial										1094-799X	2010-314X					Current		
+Journal of Canadian Studies/Revue d'études canadiennes	0021-9495	1911-0251	2005-01-01	39	1				http://muse.jhu.edu/journal/330		6599		fulltext			serial										0021-9495	1911-0251					Current		
+Journal of College Student Development	0897-5264	1543-3382	2003-01-01	44	1				http://muse.jhu.edu/journal/238		6600		fulltext			serial										0897-5264	1543-3382					Current		
+Journal of Dramatic Theory and Criticism	0888-3203	2165-2686	2011-01-01	26	1				http://muse.jhu.edu/journal/571		6601		fulltext			serial										0888-3203	2165-2686					Current		
+Journal of Film and Video	0742-4671	1934-6018	2008-01-01	60	1				http://muse.jhu.edu/journal/382		6602		fulltext			serial										0742-4671	1934-6018					Current		
+Journal of Folklore Research	0737-7037	1543-0413	2003-01-01	40	1				http://muse.jhu.edu/journal/223		6603		fulltext			serial										0737-7037	1543-0413					Current		
+The Journal of General Education	0021-3667	1527-2060	1999-01-01	48	2				http://muse.jhu.edu/journal/89		6604		fulltext			serial										0021-3667	1527-2060					Current		
+Journal of Interdisciplinary History, The	0022-1953	1530-9169	1999-01-01	30	1				http://muse.jhu.edu/journal/94		6605		fulltext			serial										0022-1953	1530-9169					Current		
+Journal of Jewish Identities	1939-7941	1946-2522	2008-01-01	1	1				http://muse.jhu.edu/journal/463		6606		fulltext			serial										1939-7941	1946-2522					Current		
+Journal of Korean Religions	2093-7288	2167-2040	2010-09-01	1	01-Feb				http://muse.jhu.edu/journal/557		6607		fulltext			serial										2093-7288	2167-2040					Current		
+Journal of Korean Studies, The	0731-1613	2158-1665	1969-01-01	1					http://muse.jhu.edu/journal/515		6608		fulltext			serial										0731-1613	2158-1665					Current		
+Journal of Literary & Cultural Disability Studies	1757-6458	1757-6466	2009-01-01	3	1				http://muse.jhu.edu/journal/456		6609		fulltext			serial										1757-6458	1757-6466					Current		
+The Journal of Medieval Religious Cultures	1947-6566	2153-9650	2010-01-01	36	1				http://muse.jhu.edu/journal/484		6610		fulltext			serial										1947-6566	2153-9650					Current		
+The Journal of Modern Periodical Studies	1947-6574	2152-9272	2010-01-01	1	1				http://muse.jhu.edu/journal/473		6611		fulltext			serial										1947-6574	2152-9272					Current		
+Journal of Money, Credit and Banking	0022-2879	1538-4616	2002-01-01	34	1	2006-12-31	38	8	http://muse.jhu.edu/journal/123		6612		fulltext	No longer contributing to Project MUSE		serial									10.1111/(ISSN)1538-4616	0022-2879	1538-4616					Current		
+Journal of Moravian History	1933-6632	2161-6310	2012-01-01	12	1				http://muse.jhu.edu/journal/558		6613		fulltext			serial										1933-6632	2161-6310					Current		
+Journal of Religion and Popular Culture	1703-289X		2012-01-01	24	1				http://muse.jhu.edu/journal/559		6614		fulltext			serial										1703-289X						Current		
+Journal of Scholarly Publishing	1198-9742	1710-1166	2003-01-01	35	1				http://muse.jhu.edu/journal/251		6615		fulltext			serial										1198-9742	1710-1166					Current		
+Journal of Shi'a Islamic Studies	1748-9423		2012-01-01	5	1				http://muse.jhu.edu/journal/582		6616		fulltext			serial										1748-9423						Current		
+Journal of Slavic Linguistics	1068-2090	1543-0391	2008-01-01	16	1				http://muse.jhu.edu/journal/406		6617		fulltext			serial										1068-2090	1543-0391					Current		
+Journal of Song-Yuan Studies	1059-3152	2154-6665	2009-01-01	39					http://muse.jhu.edu/journal/424		6618		fulltext			serial										1059-3152	2154-6665					Current		
+Journal of Sport History	0094-1700	#2155-8455	2010-01-01	37	1				http://muse.jhu.edu/journal/474		6619		fulltext			serial										0094-1700	2155-8455					Current		
+Journal of Sports Media	1558-4313	1940-5073	2006-01-01	1					http://muse.jhu.edu/journal/402		6620		fulltext			serial										1558-4313	1940-5073					Current		
+The Journal of the Civil War Era	2154-4727	2159-9807	2011-01-01	1	1				http://muse.jhu.edu/journal/516		6621		fulltext			serial										2154-4727	2159-9807					Current		
+Journal of the Early Republic	0275-1275	1553-0620	2005-01-01	25	1				http://muse.jhu.edu/journal/295		6622		fulltext			serial										0275-1275	1553-0620					Current		
+Journal of the History of Ideas	0022-5037	1086-3222	1996-01-01	57	1				http://muse.jhu.edu/journal/91		6623		fulltext			serial										0022-5037	1086-3222					Current		
+Journal of the History of Sexuality	1043-4070	1535-3605	2001-01-01	10	1				http://muse.jhu.edu/journal/179		6624		fulltext			serial										1043-4070	1535-3605					Current		
+The Journal of the History of Childhood and Youth	1939-6724	1941-3599	2008-01-01	1	1				http://muse.jhu.edu/journal/400		6625		fulltext			serial										1939-6724	1941-3599					Current		
+Journal of the Malaysian Branch of the Royal Asiatic Society	0126-7353	2180-4338	2010-01-01	83	1				http://muse.jhu.edu/journal/480		6626		fulltext			serial										0126-7353	2180-4338					Current		
+Journal of the Midwest Modern Language Association	0742-5562		2012-03-01	1	Spring				http://muse.jhu.edu/journal/517		6627		fulltext			serial										0742-5562						Current		
+Journal of the Society of Christian Ethics	1540-7942		2012-01-01	32	1				http://muse.jhu.edu/journal/584		6628		fulltext			serial										1540-7942						Current		
+Journal of the Southwest	0894-8410	2158-1371	2011-01-01	53	1				http://muse.jhu.edu/journal/530		6629		fulltext			serial										0894-8410	2158-1371					Current		
+The Jurist: Studies in Church Law and Ministry	0022-6858		2012-01-01	72	1				http://muse.jhu.edu/journal/566		6630		fulltext			serial										0022-6858						Current		
+Ka Ho'oilina/The Legacy	1535-3133	1542-4243	2002-01-01	1	1	2006-12-31	5		http://muse.jhu.edu/journal/225		6631		fulltext	Ceased:2006		serial										1535-3133	1542-4243					Current		
+Kritika: Explorations in Russian and Eurasian History	1531-023X	1538-5000	2000-01-01	1	1				http://muse.jhu.edu/journal/108		6632		fulltext			serial										1531-023X	1538-5000					Current		
+Landscape Journal: design, planning, and management of the land	0277-2426	1553-2704	2011-01-01	30	1				http://muse.jhu.edu/journal/518		6633		fulltext			serial										0277-2426	1553-2704					Current		
+Language	0097-8507	1535-0665	1974-12-01	50	4				http://muse.jhu.edu/journal/112		6634		fulltext	(With scattered issues prior to 2001)		serial										0097-8507	1535-0665					Current		
+Late Imperial China	0884-3236	1086-3257	1985-01-01	6	1				http://muse.jhu.edu/journal/114		6635		fulltext	Previously: Ch'ing-shih wen-t'I 1965-1984		serial										0884-3236	1086-3257					Current		
+Latin American Politics and Society	1531-426X	1548-2456	2004-01-01	46	1	2007-12-31	49	4	http://muse.jhu.edu/journal/259		6636		fulltext	No longer contributing to Project MUSE		serial									10.1111/(ISSN)1548-2456	1531-426X	1548-2456					Current		
+Latin American Theatre Review	0023-8813	2161-0576	2005-01-01	39	1				http://muse.jhu.edu/journal/519		6637		fulltext			serial										0023-8813	2161-0576					Current		
+Levinas Studies	1554-7000	2153-8433	2011-01-01	6					http://muse.jhu.edu/journal/535		6638		fulltext			serial										1554-7000	2153-8433					Current		
+Library Trends	0024-2594	1559-0682	2005-01-01	54	1				http://muse.jhu.edu/journal/334		6639		fulltext			serial										0024-2594	1559-0682					Current		
+Linguistic Inquiry	0024-3892	1530-9150	2000-01-01	31	4				http://muse.jhu.edu/journal/117		6640		fulltext			serial										0024-3892	1530-9150					Current		
+Magic, Ritual, and Witchcraft	1556-8547	1940-5111	2006-01-01	1	1				http://muse.jhu.edu/journal/387		6641		fulltext			serial										1556-8547	1940-5111					Current		
+Marvels & Tales	1521-4281	1536-1802	2001-01-01	15	1				http://muse.jhu.edu/journal/122		6642		fulltext			serial										1521-4281	1536-1802					Current		
+Mediterranean Studies	1074-164X	2161-4741	2012-01-01	20	1				http://muse.jhu.edu/journal/561		6644		fulltext			serial										1074-164X	2161-4741					Current		
+MELUS: Multi-Ethnic Literature of the U.S.	0163-755X	1946-3170	2009-01-01	34	1				http://muse.jhu.edu/journal/458		6645		fulltext			serial										0163-755X	1946-3170					Current		
+Meridians: feminism, race, transnationalism	1536-6936	1547-8424	2001-01-01	1	2				http://muse.jhu.edu/journal/254		6646		fulltext			serial										1536-6936	1547-8424					Current		
+Merrill-Palmer Quarterly (1982-)	0272-930X	1535-0266	2001-01-01	47	1				http://muse.jhu.edu/journal/132		6647		fulltext			serial										0272-930X	1535-0266					Current		
+Milton Quarterly	0026-4326	1094-348X	1997-01-01	31	1	2000-12-31	34	4	http://muse.jhu.edu/journal/133		6648		fulltext	No longer contributing to Project MUSE		serial									10.1111/(ISSN)1094-348X	0026-4326	1094-348X					Current		
+The Missouri Review	0191-1961	1548-9930	1978-01-01	1	1				http://muse.jhu.edu/journal/241		6650		fulltext			serial										0191-1961	1548-9930					Current		
+Monumenta Nipponica	0027-0741	1880-1390	2005-01-01	60	1				http://muse.jhu.edu/journal/308		6651		fulltext			serial										0027-0741	1880-1390					Current		
+Mosaic: an interdisciplinary critical journal	0027-1276	1925-5683	2011-01-01	44	1				http://muse.jhu.edu/journal/536		6652		fulltext	Mosaic has changed its subtitle. 1.1 (1967) to 12.4 (1979), a journal for the comparative study of literature and ideas; 13.1 (1979) to 49.1 (2016), a journal for the interdisciplinary study of literature; 49.2 (2016-), an interdisciplinary critical journal		serial										0027-1276	1925-5683					Current		
+Music, Sound, and the Moving Image	1753-0768	1753-0776	2007-01-01	1	1				http://muse.jhu.edu/journal/465		6653		fulltext			serial										1753-0768	1753-0776					Current		
+Narrative Inquiry in Bioethics	2157-1732	2157-1740	2011-01-01	1	1				http://muse.jhu.edu/journal/521		6654		fulltext			serial										2157-1732	2157-1740					Current		
+Nashim: A Journal of Jewish Women's Studies & Gender Issues	0793-8934	1565-5288	2003-01-01	6					http://muse.jhu.edu/journal/243		6655		fulltext			serial										0793-8934	1565-5288					Current		
+Native Plants Journal	1522-8339	1548-4785	2004-01-01	5	1				http://muse.jhu.edu/journal/276		6656		fulltext			serial										1522-8339	1548-4785					Current		
+Native South	1943-2569	2152-4025	2008-01-01	1					http://muse.jhu.edu/journal/475		6657		fulltext			serial										1943-2569	2152-4025					Current		
+Nepantla: Views from South	1527-0858	1529-1650	2000-01-01	1	1	2003-12-31	4	3	http://muse.jhu.edu/journal/140		6658		fulltext	Ceased:2003		serial										1527-0858	1529-1650					Current		
+New England Review (1990-)	1053-1297	2161-9131	2011-01-01	32	1				http://muse.jhu.edu/journal/541		6659		fulltext			serial										1053-1297	2161-9131					Current		
+New Labor Forum	1095-7960	1557-2978	2010-01-01	19	1	2012-12-31	21	3	http://muse.jhu.edu/journal/501		6660		fulltext	No longer contributing to Project MUSE		serial										1095-7960	1557-2978					Current		
+NINE: A Journal of Baseball History and Culture	1188-9330	1534-1844	2000-01-01	9	01-Feb				http://muse.jhu.edu/journal/143		6661		fulltext			serial										1188-9330	1534-1844					Current		
+Nouvelles Études Francophones	1552-3152	2156-9428	2010-01-01	25	1				http://muse.jhu.edu/journal/502		6662		fulltext			serial										1552-3152	2156-9428					Current		
+Oceanic Linguistics	0029-8115	1527-9421	1999-01-01	38	2				http://muse.jhu.edu/journal/147		6663		fulltext			serial										0029-8115	1527-9421					Current		
+Ohio History	0030-0934	1934-6042	2007-01-01	114					http://muse.jhu.edu/journal/388		6664		fulltext			serial										0030-0934	1934-6042					Current		
+Oral Tradition	0883-5365	1542-4308	2003-01-01	18	1				http://muse.jhu.edu/journal/227		6665		fulltext			serial										0883-5365	1542-4308					Current		
+Parliamentary History	0264-2824	1750-0206	2006-01-01	25	1	2007-12-31	26	3	http://muse.jhu.edu/journal/336		6666		fulltext	No longer contributing to Project MUSE		serial									10.1111/(ISSN)1750-0206	0264-2824	1750-0206					Current		
+Pennsylvania History: A Journal of Mid-Atlantic Studies	0031-4528	2153-2109	2010-01-01	77	1				http://muse.jhu.edu/journal/476		6667		fulltext			serial										0031-4528	2153-2109					Current		
+Perspectives in Biology and Medicine	0031-5982	1529-8795	1957-09-01	1	1				http://muse.jhu.edu/journal/152		6668		fulltext	(gaps in vols. 22, 23)		serial										0031-5982	1529-8795					Current		
+Perspectives on Science	1063-6145	1530-9274	1998-01-01	6	01-Feb				http://muse.jhu.edu/journal/163		6669		fulltext			serial										1063-6145	1530-9274					Current		
+Philip Roth Studies	1547-3929	1940-5278	2005-01-01	1	1				http://muse.jhu.edu/journal/503		6670		fulltext			serial										1547-3929	1940-5278					Current		
+Philippine Studies	0031-7837	2012-2489	2011-01-01	59	1	2011-12-31	59	4	http://muse.jhu.edu/journal/531		6671		fulltext	Now: Philippine Studies: Historical and Ethnographic Viewpoints		serial										0031-7837	2012-2489					Current		
+philoSOPHIA	2155-0891		2011-01-01	1	1				http://muse.jhu.edu/journal/581		6672		fulltext			serial										2155-0891						Current		
+Philosophy and Public Affairs	0048-3915	1088-4963	2001-01-01	30	1	2003-12-31	31	4	http://muse.jhu.edu/journal/150		6673		fulltext	No longer contributing to Project MUSE		serial									10.1111/(ISSN)1088-4963	0048-3915	1088-4963					Current		
+Philosophy, Psychiatry, & Psychology	1071-6076	1086-3303	1994-01-01	1	1				http://muse.jhu.edu/journal/164		6674		fulltext			serial										1071-6076	1086-3303					Current		
+Ploughshares	0048-4474	2162-0903	2011-01-01	37	1				http://muse.jhu.edu/journal/542		6675		fulltext			serial										0048-4474	2162-0903					Current		
+The Pluralist	1930-7365	1944-6489	2009-01-01	4	1				http://muse.jhu.edu/journal/449		6676		fulltext			serial										1930-7365	1944-6489					Current		
+Population, English edition	1634-2941	1958-9190	2008-01-01	63	1				http://muse.jhu.edu/journal/410		6677		fulltext			serial										1634-2941	1958-9190					Current		
+portal: Libraries and the Academy	1531-2542	1530-7131	2001-01-01	1	1				http://muse.jhu.edu/journal/159		6678		fulltext			serial										1531-2542	1530-7131					Current		
+Prairie Schooner	0032-6682	1542-426X	2003-01-01	77	1				http://muse.jhu.edu/journal/229		6679		fulltext			serial										0032-6682	1542-426X					Current		
+Preternature: Critical and Historical Studies on the Preternatural	2161-2196	2161-2188	2012-01-01	1	1				http://muse.jhu.edu/journal/562		6680		fulltext			serial										2161-2196	2161-2188					Current		
+Pushkin Review	1526-1476	2165-0683	2011-01-01	14					http://muse.jhu.edu/journal/532		6681		fulltext			serial										1526-1476	2165-0683					Current		
+Race/Ethnicity: Multidisciplinary Global Contexts	1935-8644	1935-8652	2007-01-01	1	1	2011-12-31	5	1	http://muse.jhu.edu/journal/430		6682		fulltext	No longer contributing to Project MUSE		serial										1935-8644	1935-8652					Current		
+Radical Teacher	0191-4847	1941-0832	2008-01-01	81					http://muse.jhu.edu/journal/414		6683		fulltext			serial										0191-4847	1941-0832					Current		
+Red Cedar Review	0034-1967	1554-6721	2003-01-01	38		2012-12-31	47		http://muse.jhu.edu/journal/297		6684		fulltext	No longer contributing to Project MUSE		serial										0034-1967	1554-6721					Current		
+Region: Regional Studies of Russia, Eastern Europe, and Central Asia	2166-4307	2165-0659	2012-01-01	1	1				http://muse.jhu.edu/journal/585		6685		fulltext			serial										2166-4307	2165-0659					Current		
+Register of the Kentucky Historical Society	0023-0243	2161-0355	2010-01-01	108					http://muse.jhu.edu/journal/524		6686		fulltext			serial										0023-0243	2161-0355					Current		
+Renaissance Drama	0486-3739	2164-3415	2010-01-01	38		2012-12-31	40		http://muse.jhu.edu/journal/533		6687		fulltext	No longer contributing to Project MUSE		serial										0486-3739	2164-3415					Current		
+Resources for American Literary Study	0048-7384	1529-1502	1999-01-01	25	2	2001-12-31	27	2	http://muse.jhu.edu/journal/170		6688		fulltext	No longer contributing to Project MUSE		serial										0048-7384	1529-1502					Current		
+Reviews in American History	0048-7511	1080-6628	1995-01-01	23	1				http://muse.jhu.edu/journal/168		6689		fulltext			serial										0048-7511	1080-6628					Current		
+Revista de Estudios Hispánicos	0034-818X	2164-9308	2012-01-01	46	1				http://muse.jhu.edu/journal/563		6690		fulltext			serial										0034-818X	2164-9308					Current		
+Revista Hispánica Moderna	0034-9593	1944-6446	2007-01-01	60	1				http://muse.jhu.edu/journal/426		6691		fulltext			serial										0034-9593	1944-6446					Current		
+River Teeth: A Journal of Nonfiction Narrative	1544-1849	1548-3339	2003-01-01	5	1				http://muse.jhu.edu/journal/239		6692		fulltext			serial										1544-1849	1548-3339					Current		
+Rocky Mountain Review	1948-2825	1948-2833	2011-01-01	65	1				http://muse.jhu.edu/journal/525		6693		fulltext			serial										1948-2825	1948-2833					Current		
+Romance Notes	0035-7995	2165-7599	2010-01-01	50	1				http://muse.jhu.edu/journal/588		6694		fulltext			serial										0035-7995	2165-7599					Current		
+Romani Studies	1528-0748	1757-2274	2009-01-01	19	1				http://muse.jhu.edu/journal/420		6695		fulltext			serial										1528-0748	1757-2274					Current		
+Scandinavian Studies	0036-5637	2163-8195	2011-01-01	83	1				http://muse.jhu.edu/journal/526		6696		fulltext			serial										0036-5637	2163-8195					Current		
+Science Fiction Film and Television	1754-3770	1754-3789	2008-01-01	1	1				http://muse.jhu.edu/journal/466		6697		fulltext			serial										1754-3770	1754-3789					Current		
+The Scriblerian and the Kit-Cats	0190-731X	2165-0624	2011-01-01	44	1				http://muse.jhu.edu/journal/567		6698		fulltext			serial										0190-731X	2165-0624					Current		
+Serbian Studies: Journal of the North American Society for Serbian Studies	0742-3330	1941-9511	2006-01-01	20	1				http://muse.jhu.edu/journal/405		6699		fulltext			serial										0742-3330	1941-9511					Current		
+Sewanee Review, The	0037-3052	1934-421X	2007-01-01	115	1				http://muse.jhu.edu/journal/367		6700		fulltext			serial										0037-3052	1934-421X					Current		
+Shofar: An Interdisciplinary Journal of Jewish Studies	0882-8539	1534-5165	2001-01-01	19	3				http://muse.jhu.edu/journal/181		6701		fulltext			serial										0882-8539	1534-5165					Current		
+Sign Language Studies	0302-1475	1533-6263	1972-01-01	1	1				http://muse.jhu.edu/journal/184		6702		fulltext	Publication suspended 1997-1999		serial										0302-1475	1533-6263					Current		
+Sirena: poesia, arte y critica	1548-6400	1554-7655	2005-01-01		1	2010-12-31	2		http://muse.jhu.edu/journal/307		6703		fulltext	No longer contributing to Project MUSE		serial										1548-6400	1554-7655					Current		
+Soundings: An Interdisciplinary Journal	0038-1861	2161-6302	2012-01-01	95	1				http://muse.jhu.edu/journal/564		6704		fulltext			serial										0038-1861	2161-6302					Current		
+Southeast Asian Affairs	0377-5437	1793-9135	2003-01-01	20	3				http://muse.jhu.edu/journal/462		6705		fulltext			serial										0377-5437	1793-9135					Current		
+Southern Cultures	1068-8218	1534-1488	1993-01-01						http://muse.jhu.edu/journal/177		6706		fulltext			serial										1068-8218	1534-1488					Current		
+Southwestern Historical Quarterly	0038-478X	1558-9560	2006-01-01	110	1				http://muse.jhu.edu/journal/340		6707		fulltext			serial										0038-478X	1558-9560					Current		
+Spectrum: A Journal on Black Men	2162-3244	2162-3252	2012-01-01	1	1				http://muse.jhu.edu/journal/575		6708		fulltext			serial										2162-3244	2162-3252					Current		
+Steinbeck Studies	0898-7734	1551-6903	2004-01-01	15	1	2005-12-31	16		http://muse.jhu.edu/journal/274		6710		fulltext	Now: Steinbeck Review		serial										0898-7734	1551-6903					Current		
+StoryWorlds: A Journal of Narrative Studies	1946-2204	2156-7204	2009-01-01	1					http://muse.jhu.edu/journal/505		6711		fulltext			serial										1946-2204	2156-7204					Current		
+Studies in American Naturalism	1931-2555	1944-6519	2009-01-01	4	1				http://muse.jhu.edu/journal/455		6712		fulltext			serial										1931-2555	1944-6519					Current		
+Studies in the Literary Imagination	0039-3819		2011-01-01	44	1				http://muse.jhu.edu/journal/589		6713		fulltext			serial										0039-3819						Current		
+Studies in the Novel	0039-3827	1934-1512	2008-01-01	40	1				http://muse.jhu.edu/journal/395		6714		fulltext			serial										0039-3827	1934-1512					Current		
+Syllecta Classica	1040-3612	2160-5157	1989-01-01	1					http://muse.jhu.edu/journal/534		6715		fulltext			serial										1040-3612	2160-5157					Current		
+Tenso	0890-3352	1944-0146	1985-01-01	1	01-Feb				http://muse.jhu.edu/journal/444		6716		fulltext			serial										0890-3352	1944-0146					Current		
+Textual Cultures: Texts, Contexts, Interpretation	1559-2936	1933-7418	2006-01-01	1	1				http://muse.jhu.edu/journal/392		6717		fulltext			serial										1559-2936	1933-7418					Current		
+Theatre History Studies	0733-2033		2007-01-01	27					http://muse.jhu.edu/journal/577		6718		fulltext			serial										0733-2033						Current		
+Theatre Symposium	1065-4917		2007-01-01	15					http://muse.jhu.edu/journal/578		6719		fulltext			serial										1065-4917						Current		
+Theory Into Practice	0040-5841	1543-0421	2003-01-01	42	1	2004-12-31	43	4	http://muse.jhu.edu/journal/231		6720		fulltext	No longer contributing to Project MUSE		serial										0040-5841	1543-0421					Current		
+Toronto Journal of Theology	0826-9831	1918-6371	2011-01-01	27	1				http://muse.jhu.edu/journal/527		6721		fulltext			serial										0826-9831	1918-6371					Current		
+Transition	0041-1191	1527-8042	2000-01-01	9	81&82				http://muse.jhu.edu/journal/197		6723		fulltext			serial										0041-1191	1527-8042					Current		
+University of Toronto Law Journal	0042-0220	1710-1174	2004-01-01	54	1				http://muse.jhu.edu/journal/303		6724		fulltext			serial										0042-0220	1710-1174					Current		
+Utopian Studies	1045-991X	2154-9648	2010-01-01	21	1				http://muse.jhu.edu/journal/507		6725		fulltext			serial										1045-991X	2154-9648					Current		
+Victorian Review	0848-1512		2009-01-01	35	1				http://muse.jhu.edu/journal/508		6726		fulltext			serial										0848-1512						Current		
+Visual Arts Research	0736-0770	2151-8009	2010-01-01	36	1				http://muse.jhu.edu/journal/481		6727		fulltext			serial										0736-0770	2151-8009					Current		
+Wallace Stevens Journal	0148-7132	2160-0570	2011-01-01	35	1				http://muse.jhu.edu/journal/528		6728		fulltext			serial										0148-7132	2160-0570					Current		
+West Virginia History: A Journal of Regional Studies	0043-325X	1940-5057	2007-01-01	1	1				http://muse.jhu.edu/journal/408		6729		fulltext			serial										0043-325X	1940-5057					Current		
+Wide Angle	0160-6840	1086-3354	1996-01-01	18	1	1999-10-31	21	4	http://muse.jhu.edu/journal/206		6730		fulltext	Ceased:1999		serial										0160-6840	1086-3354					Current		
+Women in German Yearbook: Feminist Studies in German Literature & Culture	1058-7446	1940-512X	1985-01-01	1					http://muse.jhu.edu/journal/403		6732		fulltext			serial										1058-7446	1940-512X					Current		
+WSQ: Women's Studies Quarterly	0732-1562	1934-1520	2008-01-01	36	01-Feb				http://muse.jhu.edu/journal/396		6733		fulltext			serial										0732-1562	1934-1520					Current		
+The Yale Journal of Criticism	0893-5378	1080-6636	1996-01-01	9	1	2005-12-31	18	2	http://muse.jhu.edu/journal/210		6734		fulltext	Ceased:2005		serial										0893-5378	1080-6636					Current		
+Poe Studies/Dark Romanticism	1543-1789		2001-01-01	34	01-Feb	2006-12-31	40		http://muse.jhu.edu/journal/613		9737			now: Poe Studies		serial									10.1111/(ISSN)1754-6095a	1543-1789						Current		
+Information & Culture: A Journal of History	2164-8034	2166-3033	2012-01-01	47	1				http://muse.jhu.edu/journal/111		9778		fulltext	Previously: Libraries & Culture and Libraries & the Cultural Record		serial										2164-8034	2166-3033					Current		
+Libraries and Culture	0894-8631		2001-01-01	36	1	2006-04-01	41	2	http://muse.jhu.edu/journal/111		9779		fulltext	Now:Information & Culture: A Journal of History  Continues: Libraries & the Cultural Record (2007-2011)		serial										0894-8631						Current		
+NWSA Journal	1040-0656	1527-1889	1999-01-01	11	2	2009-01-01	21	3	http://muse.jhu.edu/journal/146		9780		fulltext	Now: Feminist Formations 2010 -		serial										1040-0656	1527-1889					Current		
+AUDEM: The International Journal of Higher Education and Democracy	2157-8583	2157-8591	2010-01-01	1					http://muse.jhu.edu/journal/608		9851		fulltext			serial										2157-8583	2157-8591					Current		
+Cartographica: The International Journal for Geographic Information and Geovisualization	0317-7173	1911-9925	2013-01-01	48	1				http://muse.jhu.edu/journal/615		9852		fulltext			serial										0317-7173	1911-9925					Current		
+CEA Critic	0007-8069		2013-01-01	75	1				http://muse.jhu.edu/journal/593		9853		fulltext			serial										0007-8069						Current		
+Ch'ing-shih wen-t'i	0577-9235		1965-01-01	1	1	1984-01-01	5	2	http://muse.jhu.edu/journal/114		9854		fulltext	Now: Late Imperial China 1985-		serial										0577-9235						Current		
+China Review	1680-2012		2013-01-01	13	1				http://muse.jhu.edu/journal/621		9855		fulltext			serial										1680-2012						Current		
+Colorado Review	1046-3348		2013-01-01	40	1				http://muse.jhu.edu/journal/594		9856		fulltext			serial										1046-3348						Current		
+Critical Philosophy of Race	2165-8684	2165-8692	2013-01-01	1	1				http://muse.jhu.edu/journal/595		9857		fulltext			serial										2165-8684	2165-8692					Current		
+The Edgar Allan Poe Review	2150-0428	2166-2932	2013-01-01	14	1				http://muse.jhu.edu/journal/597		9858		fulltext			serial										2150-0428	2166-2932					Current		
+Forum Journal	1536-1012	2325-7296	2012-01-01	27	1				http://muse.jhu.edu/journal/616		9859		fulltext			serial										1536-1012	2325-7296					Current		
+J19: The Journal of Nineteenth-Century Americanists	2166-742X	2166-7438	2013-01-01	1	1				http://muse.jhu.edu/journal/596		9860		fulltext			serial										2166-742X	2166-7438					Current		
+Journal of Africana Religions	2165-5405	2165-5413	2013-01-01	1	1				http://muse.jhu.edu/journal/598		9861		fulltext			serial										2165-5405	2165-5413					Current		
+Journal of Austrian Studies	2165-669X	2327-1809	2012-01-01	45	01-Feb				http://muse.jhu.edu/journal/599		9862		fulltext			serial										2165-669X	2327-1809					Current		
+Journal of Eastern Mediterranean Archaeology and Heritage Studies	2166-3548	2166-3556	2013-01-01	1	1				http://muse.jhu.edu/journal/600		9863		fulltext			serial										2166-3548	2166-3556					Current		
+Keats-Shelley Journal	0453-4387		2013-01-01	62					http://muse.jhu.edu/journal/619		9864		fulltext	New for 2013 - added 2014		serial										0453-4387						Current		
+New Formations: a journal of culture/theory/politics	0950-2378	1741-0789	2013-01-01	78					http://muse.jhu.edu/journal/617		9865		fulltext			serial										0950-2378	1741-0789					Current		
+Palimpsest: A Journal on Women, Gender, and the Black International	2165-1604		2012-01-01	1	1				http://muse.jhu.edu/journal/609		9866		fulltext			serial										2165-1604						Current		
+Performing Arts Journal	0735-8393	1086-3281	1996-01-01	18	1	1997-01-01	19	3	http://muse.jhu.edu/journal/149		9867		fulltext	Now: PAJ: A Journal of Performance and Art 1998-		serial										0735-8393	1086-3281					Current		
+Philippine Studies: Historical and Ethnographic Viewpoints	2244-1093	2244-1638	2012-01-01	60	1				http://muse.jhu.edu/journal/531		9868		fulltext	Previously: Philipine Studies		serial										2244-1093	2244-1638					Current		
+Philosophical Topics	0276-2080	2154-154X	2010-01-01	38	1				http://muse.jhu.edu/journal/610		9869		fulltext			serial										0276-2080	2154-154X					Current		
+Reception: Texts, Readers, Audiences, History	2168-0604	2155-7888	2013-01-01	5					http://muse.jhu.edu/journal/602		9870		fulltext	New for 2013		serial										2168-0604	2155-7888					Current		
+Review of Japanese Culture and Society	0913-4700	2329-9770	2012-01-01	24					http://muse.jhu.edu/journal/604		9871		fulltext			serial										0913-4700	2329-9770					Current		
+SAIS Review (Paul H. Nitze School of Advanced International Studies)	1946-4444	1088-3142	1990-01-01	10	1	2003-01-01	23	2	http://muse.jhu.edu/journal/174		9872		fulltext	Now: SAIS Review of International Affairs. Previously: SAIS Review (1981-1989)		serial										1946-4444	1088-3142					Current		
+Scottish Literary Review	1756-5634		2013-01-01	5	1				http://muse.jhu.edu/journal/614		9873		fulltext			serial										1756-5634						Current		
+Seoul Journal of Korean Studies	1225-0201		2013-06-01	26	1				http://muse.jhu.edu/journal/622		9874		fulltext			serial										1225-0201						Current		
+Soundings: A journal of politics and culture	1362-6620	1741-0797	2013-01-01		53				http://muse.jhu.edu/journal/618		9875		fulltext	New for 2013		serial										1362-6620	1741-0797					Current		
+Southern Review	0038-4534	2168-5541	2013-01-01	49	1				http://muse.jhu.edu/journal/611		9876		fulltext			serial										0038-4534	2168-5541					Current		
+Tampa Review	0896-064X		2013-01-01	45/46					http://muse.jhu.edu/journal/605		9877		fulltext			serial										0896-064X						Current		
+Teaching and Learning Inquiry: The ISSOTL Journal	2167-4779	2167-4787	2013-01-01	1	1				http://muse.jhu.edu/journal/606		9878		fulltext			serial										2167-4779	2167-4787					Current		
+Theatre Notebook	0040-5523		2013-01-01	67	1				http://muse.jhu.edu/journal/612		9879		fulltext			serial										0040-5523						Current		
+Traditio	0362-1529	2166-5508	2011-01-01	66					http://muse.jhu.edu/journal/568		9880		fulltext			serial										0362-1529	2166-5508					Current		
+U.S.-Japan Women's Journal	2330-5029		2013-01-01	43					http://muse.jhu.edu/journal/607		9881		fulltext			serial										2330-5029						Current		
