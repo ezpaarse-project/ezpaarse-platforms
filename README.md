@@ -7,7 +7,7 @@ ezpaarse-platforms
 
 Platforms parsers, scrapers and PKBs for ezPAARSE
 
-### Running tests ###
+## Running tests
 ```bash
   # Install dependencies
   make install
@@ -16,3 +16,6 @@ Platforms parsers, scrapers and PKBs for ezPAARSE
   # Test only SD and NPG
   make test sd npg
 ```
+
+## Documentation
+You'll find all information about ezPAARSE's resources in the [online documentation](https://ezpaarse.readthedocs.io/en/master/development/platforms.html)
