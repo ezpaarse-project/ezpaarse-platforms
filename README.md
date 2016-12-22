@@ -18,4 +18,4 @@ Platforms parsers, scrapers and PKBs for ezPAARSE
 ```
 
 ## Documentation
-You'll find all information about ezPAARSE's platforms and parsers in the [online documentation](https://ezpaarse.readthedocs.io/en/master/features/exclusions.html)
+You'll find all information about ezPAARSE's platforms and parsers in the [online documentation](https://ezpaarse.readthedocs.io/en/master/development/platforms.html)
