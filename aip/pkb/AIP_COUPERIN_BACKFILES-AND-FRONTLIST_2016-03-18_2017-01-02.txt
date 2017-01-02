@@ -1,0 +1,22 @@
+publication_title	print_identifier	online_identifier	date_first_issue_online	num_first_vol_online	num_first_issue_online	date_last_issue_online	num_last_vol_online	num_last_issue_online	title_url	first_author	title_id	embargo_info	coverage_depth	notes	publisher_name	publication_type	date_monograph_published_print	date_monograph_published_online	monograph_volume	monograph_edition	first_editor	parent_publication_title_id	preceding_publication_title_id	access_type
+AIP Conference Proceedings	0094-243X	1551-7616	1970	1					http://scitation.aip.org/content/aip/proceeding/aipcp		aipcp		fulltext	Some volumes are in Open Access		serial								P
+Applied Physics Letters	0003-6951	1077-3118	1962	1	1				http://scitation.aip.org/content/aip/journal/apl		apl		fulltext			serial								P
+Applied Physics Reviews		1931-9401	1980	1980	1	2013	2013	1	http://scitation.aip.org/content/aip/journal/apr		apr		fulltext			serial								P
+Applied Physics Reviews		1931-9401	2014	1	1				http://scitation.aip.org/content/aip/journal/apr2/browse		apr2		fulltext			serial								P
+Biomicrofluidics	1932-1058		2007	1	1				http://scitation.aip.org/content/aip/journal/bmf		bmf		fulltext			serial								P
+Chaos: An Interdisciplinary Journal of Nonlinear Science	1054-1500	1089-7682	1991	1	1				http://scitation.aip.org/content/aip/journal/chaos		chaos		fulltext			serial								P
+Chinese Journal of Chemical Physics	1674-0068		2006	19	1				http://scitation.aip.org/content/cps/journal/cjcp		cjcp		fulltext			serial								P
+Journal of Applied Physics	0021-8979	1089-7550	1931	1	1				http://scitation.aip.org/content/aip/journal/jap		jap		fulltext			serial								P
+The Journal of Chemical Physics	0021-9606	1089-7690	1933	1	1				http://scitation.aip.org/content/aip/journal/jcp		jcp		fulltext			serial								P
+Journal of Laser Applications	1042-346X		1988	1	1				http://scitation.aip.org/content/lia/journal/jla		jla		fulltext			serial								P
+Journal of Mathematical Physics	0022-2488	1089-7658	1960	1	1				http://scitation.aip.org/content/aip/journal/jmp		jmp		fulltext			serial								P
+Journal of Physical and Chemical Reference Data	0047-2689	1529-7845	1972	1	1				http://scitation.aip.org/content/aip/journal/jpcrd		jpcrd		fulltext			serial								P
+Journal of Renewable and Sustainable Energy	1941-7012		2009	1	1				http://scitation.aip.org/content/aip/journal/jrse		jrse		fulltext			serial								P
+Low Temperature Physics	1063-777X	1090-6517	1997	23	1				http://scitation.aip.org/content/aip/journal/ltp		ltp		fulltext			serial								P
+Physics Today	0031-9228		1948	1	1				http://scitation.aip.org/content/aip/magazine/physicstoday		physicstoday		fulltext			serial								P
+Physics of Fluids (1958)	0031-9171		1958	1	1	1988	31	12	http://scitation.aip.org/content/aip/journal/pof1/browse		pof1		fulltext	Absorbed into Physics of Fluids and Physics of Plasma		serial								P
+Physics of Fluids	1070-6631	1089-7666	1994	6	1				http://scitation.aip.org/content/aip/journal/pof2		pof2		fulltext	Previously: Physics of Fluids (1958) (1979-1988) and Physics of Fluids A (1989-1993)		serial							pofa	P
+Physics of Fluids. A, Fluid dynamics	0899-8213	2163-5013	1989	1	1	1993	5	12	http://scitation.aip.org/content/aip/journal/pofa/browse		pofa		fulltext	Now: Physics of Fluids. Previously: Physics of Fluids (1958)		serial							pof1	P
+Physics of Fluids. B, Plasma Physics	0899-8221	2163-503X	1989	1	1	1993	5	12	http://scitation.aip.org/content/aip/journal/pofb/browse		pofb		fulltext	Now: Physics of Plasmas		serial							pof1	P
+Physics of Plasmas	1070-664X	1089-7674	1994	1	1				http://scitation.aip.org/content/aip/journal/pop		pop		fulltext			serial							pofb	P
+Review of Scientific Instruments	0034-6748	1089-7623	1930	1	1				http://scitation.aip.org/content/aip/journal/rsi		rsi		fulltext			serial								P

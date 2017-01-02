@@ -9,6 +9,7 @@
   "docurl": "http://analogist.couperin.org/platforms/american-institute-of-physics/",
   "contact": "Thomas Jouneau",
   "pkb": true,
+  "baconprovider": "AIP",
 	"domains": [
     "scitation.aip.org",
     "www.aip.org",
