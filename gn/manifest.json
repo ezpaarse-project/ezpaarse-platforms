@@ -9,6 +9,7 @@
       "unitid"
     ]
   },
+  "baconprovider": "CLASSIQUESGARNIER",
   "name": "gn",
   "longname": "Garnier Numérique",
   "describe": "Recognizes the accesses to the platform Garnier Numérique",
