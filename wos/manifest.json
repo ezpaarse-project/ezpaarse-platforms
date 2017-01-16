@@ -1,0 +1,21 @@
+{
+  "version": "2017-01-13",
+  "status": "beta",
+  "domains": [
+    "apps.webofknowledge.com",
+    "jcr.incites.thomsonreuters.com",
+    "esi.incites.thomsonreuters.com"
+  ],
+  "recognize": {
+    "rid": [
+      "title_id",
+      "unitid"
+    ]
+  },
+  "name": "wos",
+  "longname": "Web of Science",
+  "describe": "Recognizes the accesses to the platform Web of Science",
+  "docurl": "http://ang.couperin.org/platforms/5878908edb308a343cf604c6",
+  "contact": "abderrazzak.loukili@inist.fr",
+  "pkb": false
+}
