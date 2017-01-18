@@ -66,9 +66,17 @@ module.exports = new Parser(function analyseEC(parsedUrl, ec) {
     case 'JCRJournalProfileAction' :
       result.rtype = 'TABLE';
       result.mime  = 'HTML';
+
+      if (param.journalTitle) {
+        result.publication_title = param.journalTitle;
+      }
+      if (param.journal) {
+        result.title_id = param.journal;
+        result.unitid   = `impact/${param.journal}/${param.year}`;
+      }
       break;
     case 'IndicatorsAction' :
-      result.rtype = 'TABLE';
+      result.rtype = 'MAP';
       result.mime  = 'MISC';
       break;
     case 'DocumentsAction' :
@@ -77,12 +85,6 @@ module.exports = new Parser(function analyseEC(parsedUrl, ec) {
       break;
     default:
       return {};
-    }
-    if (param.journal) {
-      result.title_id = param.journal;
-    }
-    if (param.journalTitle) {
-      result.unitid = param.journalTitle;
     }
   }
 
