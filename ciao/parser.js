@@ -24,6 +24,6 @@ module.exports = new Parser(function analyseEC(parsedUrl, ec) {
   if ((match = /^\/record\/([0-9]+)$/i.exec(path)) !== null) {
     // record/34963?search=1
     result.unitid = match[1];
-  } 
+  }
   return result;
 });
