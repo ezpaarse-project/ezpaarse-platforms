@@ -75,6 +75,8 @@ module.exports = new Parser(function analyseEC(parsedUrl, ec) {
       result.rtype = 'GRAPH';
       result.mime  = 'MISC';
       break;
+    default:
+      return {};
     }
     if (param.journal) {
       result.title_id = param.journal;
