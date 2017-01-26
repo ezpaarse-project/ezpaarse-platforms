@@ -75,7 +75,7 @@ module.exports = new Parser(function analyseEC(parsedUrl, ec) {
     result.title_id = match[2];
     result.vol      = match[3];
 
-  } else if ((match = /^\/[a-z]+\/backfile\/Content_public\/Journal\/([a-z]+)\/([0-9]+)\/[0-9]+\/([0-9]{2}\.[0-9]{4}\/([a-z]+\/[0-9\.]+))\/[0-9]+\/[0-9\-]*.pdf$/i.exec(path)) !== null) {
+  } else if ((match = /^\/[a-z]+\/backfile\/Content_public\/Journal\/([a-z]+)\/([0-9]+)\/[0-9]+\/([0-9]{2}\.[0-9]{4}\/([a-z]+\/[a-z0-9\.\-]+))\/[0-9]+\/[a-z0-9\.\-]+.pdf$/i.exec(path)) !== null) {
     // /oup/backfile/Content_public/Journal/toxsci/29/1/10.1093/toxsci/29.1.18/2/29-1-18.pdf
     result.rtype    = 'ARTICLE';
     result.mime     = 'PDF';
