@@ -61,6 +61,56 @@ module.exports = new Parser(function analyseEC(parsedUrl, ec) {
     result.istex_rtype = 'metadata';
     result.unitid      = match[1];
     result.mime        = 'JSON';
+
+  } else if (/^\/document\/openurl$/i.test(path)) {
+    result.rtype = 'OPENURL';
+    result.mime  = 'MISC';
+
+    for (const p in param) {
+      const value = param[p];
+
+      if (!value) { continue; }
+
+      switch (p) {
+      case 'rft_id':
+      case 'rft_pii':
+      case 'rft_pmid':
+        const idMatch = /^info:(doi|pii|pmid)\/(.+)/i.exec(value);
+
+        if (idMatch) {
+          result[idMatch[1]] = idMatch[2];
+        }
+        break;
+      case 'rft.atitle':
+      case 'rft.jtitle':
+      case 'rft.btitle':
+        result.publication_title = value;
+        break;
+      case 'rft.issn':
+      case 'rft.isbn':
+        result.print_identifier = value;
+        break;
+      case 'rft.date':
+        result.publication_date = value;
+        break;
+      case 'rft.volume':
+        result.vol = value;
+        break;
+      case 'rft.issue':
+        result.issue = value;
+        break;
+      case 'rft.spage':
+        result.first_page = value;
+        break;
+      case 'rft.epage':
+        result.last_page = value;
+        break;
+      default:
+        if (p.startsWith('rft')) {
+          result[p] = value;
+        }
+      }
+    }
   }
 
   return result;
