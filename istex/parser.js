@@ -90,6 +90,10 @@ module.exports = new Parser(function analyseEC(parsedUrl, ec) {
       case 'rft.isbn':
         result.print_identifier = value;
         break;
+      case 'rft.eissn':
+      case 'rft.eisbn':
+        result.online_identifier = value;
+        break;
       case 'rft.date':
         result.publication_date = value;
         break;
