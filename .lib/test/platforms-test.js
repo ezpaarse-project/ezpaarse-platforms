@@ -84,6 +84,7 @@ function extractTestData(testDir, callback) {
       const csvConverter = new Converter({
         delimiter: ';',
         checkType: false,
+        flatKeys: true,
         ignoreEmpty: true
       });
 
