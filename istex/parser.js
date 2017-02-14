@@ -74,13 +74,14 @@ module.exports = new Parser(function analyseEC(parsedUrl, ec) {
       switch (p) {
       case 'rft_id':
       case 'rft_pii':
-      case 'rft_pmid':
+      case 'rft_pmid': {
         const idMatch = /^info:(doi|pii|pmid)\/(.+)/i.exec(value);
 
         if (idMatch) {
           result[idMatch[1]] = idMatch[2];
         }
         break;
+      }
       case 'rft.atitle':
       case 'rft.jtitle':
       case 'rft.btitle':
