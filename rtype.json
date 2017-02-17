@@ -120,5 +120,13 @@
     "code": "SEARCH",
     "description": "Recherche de ressources documentaires",
     "comment": "cas des base de données: ZbMATH, MathSciNet..."
+  },{
+    "code": "QUESTION",
+    "description": "Question",
+    "comment": "cas de la plateforme Reaxys"
+  },{
+    "code": "CONNECTION",
+    "description": "Connection",
+    "comment": "cas de la plateforme Reaxys"
   }
 ]
