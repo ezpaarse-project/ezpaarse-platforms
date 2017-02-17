@@ -16,40 +16,58 @@ module.exports = new Parser(function analyseEC(parsedUrl) {
 
 // console.log(path);
 
-  if ((match = /\/reaxys\/secured\/(search.do)(;jsessionid=([A-Za-z0-9]+))?/.exec(path)) !== null) {
-  // https://www-reaxys-com.chimie.gate.inist.fr/reaxys/secured/search.do;jsessionid=0EB47AD4DCFA2DCE08A94DFB47A68F20
-    result.rtype    = 'MISC';
-    result.mime     = 'MISC';
-    result.title_id = match[1];
-    if (match[3]) { result.unitid = match[3]; } else {
-      result.unitid =match[1];
-    }
-  } else if ((match = /\/reaxys\/secured\/(paging.do)(;jsessionid=([A-Za-z0-9]+))?/.exec(path)) !== null) {
-    // https://www-reaxys-com.chimie.gate.inist.fr/reaxys/secured/paging.do?performed=true&action=restore
-    result.rtype    = 'REF';
-    result.mime     = 'MISC';
-    result.title_id = match[1];
-    if (match[3]) { result.unitid = match[3]; } else {
-      result.unitid =match[1];
-    }
-  } else if ((match = /\/(xflink)/.exec(path)) !== null) {
-    // http://sc.elsevier.com.chimie.gate.inist.fr/xflink?pubno=US2006%2F40881&pubdate=2006&kindcode=A1
-    result.rtype = 'REF';
+  if (/^\/reaxys\/secured\/search.do;jsessionid=[a-z0-9]+$/i.test(path)) {
+    // /reaxys/secured/search.do;jsessionid=863534A86F402E0CFB72AD9548BDF7D2
+
+    result.rtype = 'CONNECTION';
     result.mime  = 'MISC';
-    result.title_id    = match[1];
-    if (param.issn)  {
-      result.print_identifier  = param.issn;
-      result.online_identifier = param.issn;
+
+  } else if (/^\/reaxys\/secured\/paging.do(;jsessionid=[a-z0-9]+)?$/i.test(path)) {
+    // /reaxys/secured/paging.do?ajax=true&performed=true&size=1&searchName=H044_4115296650168273587&action=gotopage&workflowId=1451660439381&workflowStep=1&page=1&tabContextIndex=2&tabContext=substances&pageSize=9&changeMultiplier=1&multiplier=1
+    result.rtype = 'SEARCH';
+    result.mime  = 'MISC';
+
+  } else if (/^\/xflink$/i.test(path)) {
+    // /xflink?aulast=Heffernan&title=Chemical%20Communications&volume=49&issue=23&spage=2314&date=2013&coden=CHCOF&doi=10.1039%2Fc3cc00273j&issn=1364-548X
+
+    result.rtype = 'LINK';
+    result.mime  = 'MISC';
+
+    for (const prop in param) {
+      switch (prop) {
+      case 'datetime':
+      case 'timestamp':
+        break;
+      case 'title':
+        result.publication_title = param[prop];
+        break;
+      case 'volume':
+        result.vol = param[prop];
+        break;
+      case 'spage':
+        result.first_page = param[prop];
+        break;
+      case 'epage':
+        result.last_page = param[prop];
+        break;
+      case 'date':
+        result.publication_date = param[prop];
+        break;
+      case 'issn':
+        result.online_identifier = param[prop];
+        break;
+      default:
+        result[prop] = param[prop];
+      }
     }
-    if (param.doi)   { result.doi    = param.doi;   }
-    if (param.coden) { result.coden  = param.coden; }
-    if (param.pubno) { result.unitid = param.pubno; }
-  } else if ((match = /\/reaxys\/(printing)\/reaxys_anonymous_([A-Za-z0-9_]+)\.(xls|doc|pdf)/.exec(path)) !== null) {
-    // https://www-reaxys-com.chimie.gate.inist.fr/reaxys/printing/reaxys_anonymous_20131128_115334_393.xls
-    result.rtype    = 'ARTICLE';
-    result.mime     = match[3].toUpperCase();
-    result.unitid   = match[2];
-    result.title_id = match[1];
+
+  } else if ((match = /^\/reaxys\/printing\/reaxys_anonymous_([a-z0-9_]+)\.(xls|doc|pdf)$/i.exec(path)) !== null) {
+    // /reaxys/printing/reaxys_anonymous_20160201_111402_168.xls
+
+    result.rtype  = 'ARTICLE';
+    result.mime   = match[2].toUpperCase();
+    result.unitid = match[1];
+
   }
   /* temporarily disabled
   /* line to add to the test file :

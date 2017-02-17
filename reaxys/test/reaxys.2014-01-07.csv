@@ -1,7 +1,7 @@
-out-title_id;out-unitid;out-rtype;out-mime;in-url
-search.do;0EB47AD4DCFA2DCE08A94DFB47A68F20;MISC;MISC;"https://www-reaxys-com.chimie.gate.inist.fr/reaxys/secured/search.do;jsessionid=0EB47AD4DCFA2DCE08A94DFB47A68F20"
-paging.do;paging.do;REF;MISC;https://www-reaxys-com.chimie.gate.inist.fr/reaxys/secured/paging.do?performed=true&action=restore
-xflink;US2006/40881;REF;MISC;http://sc.elsevier.com.chimie.gate.inist.fr/xflink?pubno=US2006%2F40881&pubdate=2006&kindcode=A1
-printing;20131128_093730_783;ARTICLE;PDF;https://www-reaxys-com.chimie.gate.inist.fr/reaxys/printing/reaxys_anonymous_20131128_093730_783.pdf
-printing;20131128_115029_666;ARTICLE;DOC;https://www-reaxys-com.chimie.gate.inist.fr/reaxys/printing/reaxys_anonymous_20131128_115029_666.doc
-printing;20131128_115334_393;ARTICLE;XLS;https://www-reaxys-com.chimie.gate.inist.fr/reaxys/printing/reaxys_anonymous_20131128_115334_393.xls
+out-unitid;out-coden;out-aulast;out-rtype;out-mime;out-vol;out-issue;out-publication_date;out-doi;out-first_page;out-online_identifier;out-publication_title;in-url
+20160201_111402_168;;;ARTICLE;XLS;;;;;;;;https://www.reaxys.com:443/reaxys/printing/reaxys_anonymous_20160201_111402_168.xls
+;;;CONNECTION;MISC;;;;;;;;"https://www.reaxys.com:443/reaxys/secured/search.do;jsessionid=863534A86F402E0CFB72AD9548BDF7D2"
+;;;SEARCH;MISC;;;;;;;;https://www.reaxys.com:443/reaxys/secured/paging.do?ajax=true&performed=true&size=1&searchName=H044_4115296650168273587&action=gotopage&workflowId=1451660439381&workflowStep=1&page=1&tabContextIndex=2&tabContext=substances&pageSize=9&changeMultiplier=1&multiplier=1
+;CHCOF;Heffernan;LINK;MISC;49;23;2013;10.1039/c3cc00273j;2314;1364-548X;Chemical Communications;http://sc.elsevier.com:80/xflink?aulast=Heffernan&title=Chemical%20Communications&volume=49&issue=23&spage=2314&date=2013&coden=CHCOF&doi=10.1039%2Fc3cc00273j&issn=1364-548X
+20160210_055124_313;;;ARTICLE;DOC;;;;;;;;https://www.reaxys.com:443/reaxys/printing/reaxys_anonymous_20160210_055124_313.doc
+20160107_114901_657;;;ARTICLE;PDF;;;;;;;;https://www.reaxys.com:443/reaxys/printing/reaxys_anonymous_20160107_114901_657.pdf
