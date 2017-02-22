@@ -128,5 +128,9 @@
     "code": "LINK",
     "description": "Redirection d'un lien vers un article",
     "comment": "cas de la plateforme Reaxys"
+  },{
+    "code": "ANALYSIS",
+    "description": "analyse",
+    "comment": "cas de la plateforme WOS"
   }
 ]
