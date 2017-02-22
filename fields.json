@@ -229,7 +229,27 @@
       "code": "METADATA",
       "description": "Metadonnées",
       "comment": "cas des plateformes Istex, etc."
-    }
+    },{
+    "code": "OPENURL",
+    "description": "Lien vers une url résolver de lien",
+    "comment": "cas de la plateforme Ebscohost"
+  },{
+    "code": "SEARCH",
+    "description": "Recherche de ressources documentaires",
+    "comment": "cas des base de données: ZbMATH, MathSciNet..."
+  },{
+    "code": "CONNECTION",
+    "description": "Connection",
+    "comment": "cas de la plateforme Reaxys"
+  },{
+    "code": "LINK",
+    "description": "Redirection d'un lien vers un article",
+    "comment": "cas de la plateforme Reaxys"
+  },{
+    "code": "ANALYSIS",
+    "description": "analyse",
+    "comment": "cas de la plateforme WOS"
+  }
   ],
   "other": [
     {
