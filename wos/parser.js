@@ -17,11 +17,12 @@ module.exports = new Parser(function analyseEC(parsedUrl, ec) {
 
   let match;
 
-  if ((match = /^\/([a-zA-z\_]+)\.do$/i.exec(path)) !== null) {
+  if ((match = /^\/([a-z\_]+)\.do$/i.exec(path)) !== null) {
     // /UA_GeneralSearch_input.do?product=UA&search_mode=GeneralSearch
     // /Search.do?product=UA&search_mode=GeneralSearch&prID=dcfade3d-550a-4076-92a6-bd6708e2c64c
     // /full_record.do?product=UA&search_mode=GeneralSearch&qid=14&page=1&doc=2
     // /InterService.do?product=WOS&toPID=WOS&action=AllCitationService&isLinks=yes&highlighted_tab=WOS&last_prod=WOS&fromPID=UA&search_mode=CitedRefList
+    // /CitationReport.do?product=WOS&search_mode=CitationReport&SID=3B7nnGH8MSgIpEdYq5j&page=1&cr_pqid=3&viewType=summary&colName=WOS
 
     let productId = Array.isArray(param.product) ? param.product[0] : param.product;
 
@@ -41,9 +42,16 @@ module.exports = new Parser(function analyseEC(parsedUrl, ec) {
         result.title_id = productId;
       }
       break;
+    case 'CitationReport' :
+      result.rtype = 'ANALYSIS';
+      result.mime  = 'MISC';
+      if (productId) {
+        result.title_id = productId;
+      }
+      break;
     }
 
-    if (/^([A-z]+)_GeneralSearch_input/.test(match[1])) {
+    if (/^([a-z]+)_GeneralSearch_input/i.test(match[1])) {
       result.rtype = 'SEARCH';
       result.mime  = 'HTML';
 
@@ -86,6 +94,10 @@ module.exports = new Parser(function analyseEC(parsedUrl, ec) {
     default:
       return {};
     }
+  } else if ((match = /^\/([a-z]{2,3})\/analyze\.do$/i.exec(path)) !== null) {
+    // /RA/analyze.do
+    result.rtype = 'ANALYSIS';
+    result.mime  = 'MISC';
   }
 
   return result;
