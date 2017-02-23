@@ -3,6 +3,7 @@
   "status": "beta",
   "domains": [
     "apps.webofknowledge.com",
+    "wcs.webofknowledge.com",
     "jcr.incites.thomsonreuters.com",
     "esi.incites.thomsonreuters.com"
   ],
