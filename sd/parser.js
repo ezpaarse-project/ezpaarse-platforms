@@ -104,10 +104,11 @@ module.exports = new Parser(function analyseEC(parsedUrl) {
       }
       break;
     }
-  } else if ((match = /^\/science\/article\/pii\/(([SB])?([0-9]{7}[0-9]{5}?[0-9Xx])[0-9A-Za-z]*)(\/pdf(?:ft)?)?$/.exec(path)) !== null) {
+  } else if ((match = /^\/science\/article\/pii\/(([SB])?([0-9A-Za-z]{7}[0-9]{5}?[0-9Xx])[0-9A-Za-z]*)(\/pdf(?:ft)?)?$/.exec(path)) !== null) {
     // /science/article/pii/S1369526612001653/pdfft
     // /science/article/pii/S2212671612001011
     // /science/article/pii/B9780124200029100009
+    // /science/article/pii/S0012821X17300651
 
     result.pii    = match[1];
     result.unitid = match[1];
@@ -158,12 +159,13 @@ module.exports = new Parser(function analyseEC(parsedUrl) {
     result.rtype            = 'ARTICLE';
     result.mime             = 'PDF';
 
-  } else if ((match = /^\/(([SB])?([0-9]{7}[0-9]{5}?[0-9Xx])[0-9A-Za-z]*)\/[0-9A-Za-z\-\.]*-main\.pdf$/.exec(path)) !== null) {
+  } else if ((match = /^\/(([SB])?([0-9A-Za-z]{7}[0-9]{5}?[0-9Xx])[0-9A-Za-z]*)\/[0-9A-Za-z\-\.]*-main\.pdf$/.exec(path)) !== null) {
     // http://ac.els-cdn.com/S0967586808000258/1-s2.0-S0967586808000258-main.pdf?
     // _tid=2146516a-82a7-11e3-a57f-00000aab0f6b&acdnat=1390314188_e595d0b375febbda9fdd48d069be9b55
     // ou
     // http://ac.els-cdn.com/0001871677800035/1-s2.0-0001871677800035-main.pdf?
     // _tid=65623530-1280-11e4-9d32-00000aab0f6b&acdnat=1406130519_9a8661aeed578bd5ef6727f8e65547b2
+    // /S0012821X17300651/1-s2.0-S0012821X17300651-main.pdf?_tid=750996d4-fcd1-11e6-a952-00000aacb362&acdnat=1488188902_a509a7506facc7e84c53586141ff1d04
     result.pii    = match[1];
     result.unitid = match[1];
     result.mime   = 'PDF';
