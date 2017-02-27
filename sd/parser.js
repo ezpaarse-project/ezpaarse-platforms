@@ -104,7 +104,7 @@ module.exports = new Parser(function analyseEC(parsedUrl) {
       }
       break;
     }
-  } else if ((match = /^\/science\/article\/pii\/(([SB])?([0-9A-Za-z]{7}[0-9]{5}?[0-9Xx])[0-9A-Za-z]*)(\/pdf(?:ft)?)?$/.exec(path)) !== null) {
+  } else if ((match = /^\/science\/article\/pii\/(([SB])?([0-9]{7}(?:[0-9]{5})?[0-9Xx])[0-9A-Za-z]*)(\/pdf(?:ft)?)?$/.exec(path)) !== null) {
     // /science/article/pii/S1369526612001653/pdfft
     // /science/article/pii/S2212671612001011
     // /science/article/pii/B9780124200029100009
@@ -159,7 +159,7 @@ module.exports = new Parser(function analyseEC(parsedUrl) {
     result.rtype            = 'ARTICLE';
     result.mime             = 'PDF';
 
-  } else if ((match = /^\/(([SB])?([0-9A-Za-z]{7}[0-9]{5}?[0-9Xx])[0-9A-Za-z]*)\/[0-9A-Za-z\-\.]*-main\.pdf$/.exec(path)) !== null) {
+  } else if ((match = /^\/(([SB])?([0-9]{7}(?:[0-9]{5})?[0-9Xx])[0-9A-Za-z]*)\/[0-9A-Za-z\-\.]*-main\.pdf$/.exec(path)) !== null) {
     // http://ac.els-cdn.com/S0967586808000258/1-s2.0-S0967586808000258-main.pdf?
     // _tid=2146516a-82a7-11e3-a57f-00000aab0f6b&acdnat=1390314188_e595d0b375febbda9fdd48d069be9b55
     // ou
