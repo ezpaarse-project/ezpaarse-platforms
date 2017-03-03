@@ -10,7 +10,8 @@
   "contact": "celia.lentretien at univ-lorraine point fr",
   "pkb": true,
 	"domains": [
-    "iopscience.iop.org"
+    "iopscience.iop.org",
+    "www.iop.org"
 	],
   "recognize": {
     "rid": [
