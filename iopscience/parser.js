@@ -12,7 +12,7 @@ module.exports = new Parser(function analyseEC(parsedUrl) {
   var path   = parsedUrl.pathname;
   var hash   = parsedUrl.hash || {};
   var match;
-console.log(parsedUrl);
+
   if ((match = /^\/([0-9]{4}\-[0-9]{3}([0-9Xx])?)(\/[0-9]+\/[0-9]+)$/.exec(path)) !== null) {
     // http://iopscience.iop.org/1758-5090/5/3
     result.rtype    = 'TOC';
