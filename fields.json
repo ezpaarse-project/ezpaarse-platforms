@@ -256,6 +256,9 @@
       "code": "vol",
       "description": "numéro de volume"
     },{
+      "code": "issue",
+      "description": "numéro"
+    },{
       "code": "first_page",
       "description": "page où commence l'article"
     },{
