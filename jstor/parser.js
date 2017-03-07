@@ -94,7 +94,7 @@ module.exports = new Parser(function analyseEC(parsedUrl) {
     result.doi =  match[1] +'/'+ match[2];
     result.rtype = 'ARTICLE';
     result.mime = 'HTML';
-  } else if ((match = /\/stable\/pdf\/([0-9]{2}\.[0-9]{4})\/(([a-z]+)\.([0-9]+)\.([0-9]+)\.([0-9]+)\.([^.]+)).pdf$/.exec(path)) !== null) {
+  } else if ((match = /\/stable\/pdf\/([0-9]{2}\.[0-9]+)\/(([a-z]+)(\.)?([0-9]+)\.([0-9]+)\.([0-9]+)\.([0-9]+)).pdf$/.exec(path)) !== null) {
     // /stable/10.7312/cari13424
 
     result.unitid =  match[2];
