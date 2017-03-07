@@ -41,11 +41,8 @@ module.exports = new Parser(function analyseEC(parsedUrl) {
     // article/10.1088/1748-0221/6/12/C12060/meta
     //article/10.3847/0004-637X/819/2/158/pdf
     result.rtype = 'ARTICLE';
-    result.mime  = 'HTML';
-    if (match[8] === 'pdf') {
-      result.rtype = 'ARTICLE';
-      result.mime  = 'PDF';
-    }
+    result.mime  = match[8] === 'pdf' ? 'PDF' : 'HTML';
+
     if (hash && hash === '#artAbst') {
       result.rtype = 'ABS';
     }
@@ -54,6 +51,17 @@ module.exports = new Parser(function analyseEC(parsedUrl) {
     result.issue  = match[5];
     result.doi    = match[1] + '/' + match[2];
     result.unitid = match[2];
+  } else if ((match = /^\/article\/([0-9]{2}\.[0-9]{4,5}\/([A-Z]+([0-9]{4})v0*([0-9]+)n0*([0-9]+)[a-z0-9]+))\/pdf$/i.exec(path)) !== null) {
+    // /article/10.1070/SM1967v001n04ABEH001994/pdf
+    result.rtype = 'ARTICLE';
+    result.mime  = 'PDF';
+
+    result.doi              = match[1];
+    result.unitid           = match[2];
+    result.publication_date = match[3];
+    result.vol              = match[4];
+    result.issue            = match[5];
+
   } else if ((match = /^\/issue\/([0-9]{4}\-[0-9A-Z]*)\/([0-9]+)\/([0-9]+)$/.exec(path)) !== null) {
     ///issue/0004-637X/831/2
     result.rtype  = 'TOC';
