@@ -16,6 +16,10 @@ module.exports = new Parser(function analyseEC(parsedUrl, ec) {
   let param  = parsedUrl.query || {};
   let match;
 
+  if (param.sid) {
+    result.sid = param.sid;
+  }
+
   if (param.q) {
     result.istex_rtype = 'QUERY';
     result.rtype       = 'QUERY';
