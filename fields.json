@@ -249,7 +249,10 @@
     "code": "ANALYSIS",
     "description": "analyse",
     "comment": "cas de la plateforme WOS"
-  }
+  },{
+    "code": "ARTICLE_SECTION",
+    "description": "partie d'article",
+    "comment": "cas de la plateforme JSTOR"
   ],
   "other": [
     {
