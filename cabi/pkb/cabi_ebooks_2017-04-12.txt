@@ -1,0 +1,818 @@
+"publication_title"	"print_identifier"	"online_identifier"	"date_first_issue_online"	"num_first_vol_online"	"num_first_issue_online"	"date_last_issue_online"	"num_last_vol_online"	"num_last_issue_online"	"title_url"	"first_author"	"title_id"	"embargo_info"	"coverage_depth"	"coverage_notes"	"notes"	"publisher_name"	"publication_type"	"date_monograph_published_print"	"date_monograph_published_online"	"monograph_volume"	"monograph_edition"	"first_editor"	"parent_publication_title_id"	"preceding_publication_title_id"	"access_type"
+The mineral nutrition of livestock.	0-85199-128-9	10.1079/9780851991283.0000	1999						http://www.cabi.org/cabebooks/ebook/19991414404		19991414404													
+Meat science: an introductory text.	0-85199-424-5	10.1079/9780851994246.0000	1999						http://www.cabi.org/cabebooks/ebook/20000105880		20000105880													
+The genetics of the horse.	0-85199-429-6	10.1079/9780851994291.0000	2000						http://www.cabi.org/cabebooks/ebook/20000107795		20000107795													
+Forest tourism and recreation: case studies in environmental management.	0-85199-414-8	10.1079/9780851994147.0000	1999						http://www.cabi.org/cabebooks/ebook/20000608416		20000608416													
+Forest history: international studies on socio-economic and forest ecosystem change. Report No.2 of the IUFRO Task Force on Environmental Change.	0-85199-419-9	10.1079/9780851994192.0000	2000						http://www.cabi.org/cabebooks/ebook/20000611261		20000611261													
+Methods and approaches in forest history	0-85199-420-2	10.1079/9780851994208.0000	2000						http://www.cabi.org/cabebooks/ebook/20000613884		20000613884													
+Forests in sustainable mountain development: a state of knowledge report for 2000. Task Force on Forests in Sustainable Mountain Development.	0-85199-446-6	10.1079/9780851994468.0000	2000						http://www.cabi.org/cabebooks/ebook/20000614040		20000614040													
+Air pollution and the forests of developing and rapidly industrializing regions. Report No. 4 of the IUFRO Task Force on Environmental Change.	0-85199-481-4	10.1079/9780851994819.0000	2000						http://www.cabi.org/cabebooks/ebook/20000614391		20000614391													
+"Seed biology: advances and applications. Proceedings of the Sixth International Workshop on Seeds, Merida, Mexico, 1999."	0-85199-404-0	10.1079/9780851994048.0000	2000						http://www.cabi.org/cabebooks/ebook/20000708430		20000708430													
+Crop pollination by bees.	0-85199-448-2	10.1079/9780851994482.0000	2000						http://www.cabi.org/cabebooks/ebook/20000709824		20000709824													
+Dormancy in plants: from whole plant behaviour to cellular control	0-85199-447-4	10.1079/9780851994475.0000	2000						http://www.cabi.org/cabebooks/ebook/20000711449		20000711449													
+Nematode parasites of vertebrates: their development and transmission.	0-85199-421-0	10.1079/9780851994215.0000	2000						http://www.cabi.org/cabebooks/ebook/20000804788		20000804788													
+"Fire blight: the disease and its causative agent, <i>Erwinia amylovora</i>."	0-85199-294-3	10.1079/9780851992945.0000	2000						http://www.cabi.org/cabebooks/ebook/20001008052		20001008052													
+Invertebrates as webmasters in ecosystems.	0-85199-394-X	10.1079/9780851993942.0000	2000						http://www.cabi.org/cabebooks/ebook/20001105031		20001105031													
+Bioassays of entomopathogenic microbes and nematodes.	0-85199-422-9	10.1079/9780851994222.0000	2000						http://www.cabi.org/cabebooks/ebook/20001108781		20001108781													
+Sampling and monitoring in crop protection: the theoretical basis for developing practical decision guides.	0-85199-347-8	10.1079/9780851993478.0000	2000						http://www.cabi.org/cabebooks/ebook/20001109850		20001109850													
+Hemp diseases and pests: management and biological control - an advanced treatise.	0-85199-454-7	10.1079/9780851994543.0000	2000						http://www.cabi.org/cabebooks/ebook/20001110005		20001110005													
+"Chemical pesticide markets, health risks and residues."	0-85199-476-8	10.1079/9780851994765.0000	2000						http://www.cabi.org/cabebooks/ebook/20001110971		20001110971													
+Priorities in biopesticide research and development in developing countries.	0-85199-479-2	10.1079/9780851994796.0000	2000						http://www.cabi.org/cabebooks/ebook/20001111313		20001111313													
+Insect pest management.	0-85199-340-0\0-85199-341-9	10.1079/9780851993409.0000	2000						http://www.cabi.org/cabebooks/ebook/20001111389		20001111389													
+Forage evaluation in ruminant nutrition.	0-85199-344-3	10.1079/9780851993447.0000	2000						http://www.cabi.org/cabebooks/ebook/20001414568		20001414568													
+Farm animal metabolism and nutrition.	0-85199-378-8	10.1079/9780851993782.0000	2000						http://www.cabi.org/cabebooks/ebook/20001415368		20001415368													
+Modelling nutrient utilization in farm animals.	0-85199-449-0	10.1079/9780851994499.0000	2000						http://www.cabi.org/cabebooks/ebook/20001417705		20001417705													
+Tourism and development in mountain regions.	0-85199-391-5	10.1079/9780851993911.0000	1999						http://www.cabi.org/cabebooks/ebook/20001804734		20001804734													
+Central and Eastern European agriculture in an expanding European Union.	0-85199-425-3	10.1079/9780851994253.0000	2000						http://www.cabi.org/cabebooks/ebook/20001808109		20001808109													
+A history of farming systems research.	0-85199-405-9	10.1079/9780851994055.0000	2000						http://www.cabi.org/cabebooks/ebook/20001808537		20001808537													
+"Leisure education, community development and populations with special needs."	0-85199-444-X	10.1079/9780851994444.0000	2000						http://www.cabi.org/cabebooks/ebook/20001810000		20001810000													
+Environmental indicators and agricultural policy.	0-85199-289-7	10.1079/9780851992891.0000	1999						http://www.cabi.org/cabebooks/ebook/20001810928		20001810928													
+"CAP regimes and the European countryside: prospects for integration between agricultural, regional and environmental policies."	0-85199-354-0	10.1079/9780851993546.0000	2000						http://www.cabi.org/cabebooks/ebook/20001811682		20001811682													
+Strategic management in tourism.	0-85199-282-X	10.1079/9780851992822.0000	1999						http://www.cabi.org/cabebooks/ebook/20001812013		20001812013													
+"Trends in outdoor recreation, leisure and tourism."	0-85199-403-2	10.1079/9780851994031.0000	2000						http://www.cabi.org/cabebooks/ebook/20001812666		20001812666													
+"Agriculture and intellectual property rights: economic, institutional and implementation issues in biotechnology."	0-85199-457-1	10.1079/9780851994574.0000	2000						http://www.cabi.org/cabebooks/ebook/20001814192		20001814192													
+Climate change and global crop productivity.	0-85199-439-3	10.1079/9780851994390.0000	2000						http://www.cabi.org/cabebooks/ebook/20001909204		20001909204													
+<i>Salmonella</i> in domestic animals.	0-85199-261-7	10.1079/9780851992617.0000	2000						http://www.cabi.org/cabebooks/ebook/20002210517		20002210517													
+Livestock handling and transport.	0-85199-409-1	10.1079/9780851994093.0000	2000						http://www.cabi.org/cabebooks/ebook/20002212771		20002212771													
+The biology of animal stress: basic principles and implications for animal welfare.	0-85199-359-1	10.1079/9780851993591.0000	2000						http://www.cabi.org/cabebooks/ebook/20002215200		20002215200													
+Grazing ecology and forest history	0-85199-442-3	10.1079/9780851994420.0000	2000						http://www.cabi.org/cabebooks/ebook/20003001196		20003001196													
+"Ruminant physiology: digestion, metabolism, growth and reproduction"	0-85199-463-6	10.1079/9780851994635.0000	2000						http://www.cabi.org/cabebooks/ebook/20003001284		20003001284													
+Employment dynamics in rural Europe	0-85199-499-7	10.1079/9780851994994.0000	2000						http://www.cabi.org/cabebooks/ebook/20003009824		20003009824													
+Nutrient elements in grassland: soil-plant-animal relationships	0-85199-437-7	10.1079/9780851994376.0000	2000						http://www.cabi.org/cabebooks/ebook/20003011639		20003011639													
+Field and laboratory methods for grassland and animal production research	0-85199-351-6	10.1079/9780851993515.0000	2000						http://www.cabi.org/cabebooks/ebook/20003011913		20003011913													
+Grassland ecophysiology and grazing ecology	0-85199-452-0	10.1079/9780851994529.0000	2000						http://www.cabi.org/cabebooks/ebook/20003019237		20003019237													
+"Tradeoffs or synergies? Agricultural intensification, economic development and the environment"	0-85199-435-0	10.1079/9780851994352.0000	2001						http://www.cabi.org/cabebooks/ebook/20003025923		20003025923													
+"Dogs, zoonoses and public health"	0-85199-436-9	10.1079/9780851994369.0000	2000						http://www.cabi.org/cabebooks/ebook/20003033827		20003033827													
+Carbohydrates in grain legume seeds: improving nutritional quality and agronomic characteristics	0-85199-467-9	10.1079/9780851994673.0000	2000						http://www.cabi.org/cabebooks/ebook/20003034246		20003034246													
+Sustainable management of soil organic matter	0-85199-465-2	10.1079/9780851994659.0000	2001						http://www.cabi.org/cabebooks/ebook/20003034523		20003034523													
+Planning agricultural research: a sourcebook	0-85199-401-6	10.1079/9780851994017.0000	2001						http://www.cabi.org/cabebooks/ebook/20003035170		20003035170													
+Seeds: the ecology of regeneration in plant communities	0-85199-432-6	10.1079/9780851994321.0000	2000						http://www.cabi.org/cabebooks/ebook/20003037616		20003037616													
+"Forests and landscapes: linking ecology, sustainability and aesthetics"	0-85199-500-4	10.1079/9780851995007.0000	2001						http://www.cabi.org/cabebooks/ebook/20013004428		20013004428													
+Enzymes in farm animal nutrition	0-85199-393-1	10.1079/9780851993935.0000	2000						http://www.cabi.org/cabebooks/ebook/20013005160		20013005160													
+Broadening the genetic base of crop production	0-85199-411-3	10.1079/9780851994116.0000	2001						http://www.cabi.org/cabebooks/ebook/20013016603		20013016603													
+Tylenchida: parasites of plants and insects	0-85199-202-1	10.1079/9780851992020.0000	2000						http://www.cabi.org/cabebooks/ebook/20013025037		20013025037													
+Ganoderma diseases of perennial crops	0-85199-388-5	10.1079/9780851993881.0000	2000						http://www.cabi.org/cabebooks/ebook/20013028270		20013028270													
+"The biology of wetas, king crickets and their allies"	0-85199-408-3	10.1079/9780851994086.0000	2001						http://www.cabi.org/cabebooks/ebook/20013037484		20013037484													
+"Evaluating indirect ecological effects of biological control. Key papers from the symposium 'Indirect ecological effects in biological control', Montpellier, France, 17-20 October 1999"	0-85199-453-9	10.1079/9780851994536.0000	2001						http://www.cabi.org/cabebooks/ebook/20013037564		20013037564													
+Tourism ecolabelling: certification and promotion of sustainable management	0-85199-506-3	10.1079/9780851995069.0000	2001						http://www.cabi.org/cabebooks/ebook/20013042883		20013042883													
+Cultural attractions and European tourism	0-85199-440-7	10.1079/9780851994406.0000	2001						http://www.cabi.org/cabebooks/ebook/20013051009		20013051009													
+The encyclopedia of ecotourism	0-85199-368-0	10.1079/9780851993683.0000	2000						http://www.cabi.org/cabebooks/ebook/20013051142		20013051142													
+Social behaviour in farm animals	0-85199-397-4	10.1079/9780851993973.0000	2001						http://www.cabi.org/cabebooks/ebook/20013051694		20013051694													
+"Parasitic nematodes: molecular biology, biochemistry and immunology"	0-85199-423-7	10.1079/9780851994239.0000	2001						http://www.cabi.org/cabebooks/ebook/20013064204		20013064204													
+Agricultural technologies and tropical deforestation	0-85199-451-2	10.1079/9780851994512.0000	2001						http://www.cabi.org/cabebooks/ebook/20013065233		20013065233													
+"The biotechnology revolution in global agriculture: innovation, invention and investment in the canola industry"	0-85199-513-6	10.1079/9780851995137.0000	2001						http://www.cabi.org/cabebooks/ebook/20013066813		20013066813													
+"Insect movement: mechanisms and consequences. Proceedings of the Royal Entomological Society's 20th Symposium, London, UK, September 1999"	0-85199-456-3	10.1079/9780851994567.0000	2001						http://www.cabi.org/cabebooks/ebook/20013080279		20013080279													
+Insects on palms	0-85199-326-5	10.1079/9780851993263.0000	2001						http://www.cabi.org/cabebooks/ebook/20013091640		20013091640													
+"Consumer psychology of tourism, hospitality and leisure. Volume 2"	0-85199-535-7	10.1079/9780851995359.0000	2001						http://www.cabi.org/cabebooks/ebook/20013092649		20013092649													
+"Digestive physiology in pigs. Proceedings of the 8th Symposium, Swedish University of Agricultural Sciences, Uppsala, Sweden, 20-22 June 2000"	0-85199-517-9	10.1079/9780851995175.0000	2001						http://www.cabi.org/cabebooks/ebook/20013093648		20013093648													
+Biotic interactions in plant-pathogen associations	0-85199-512-8	10.1079/9780851995120.0000	2001						http://www.cabi.org/cabebooks/ebook/20013097520		20013097520													
+Food safety and international competitiveness: the case of beef	0-85199-518-7	10.1079/9780851995182.0000	2001						http://www.cabi.org/cabebooks/ebook/20013105824		20013105824													
+Quantitative trait loci analysis in animals	0-85199-402-4	10.1079/9780851994024.0000	2001						http://www.cabi.org/cabebooks/ebook/20013112831		20013112831													
+Nitrogen fixation in tropical cropping systems	0-85199-417-2	10.1079/9780851994178.0000	2001						http://www.cabi.org/cabebooks/ebook/20013118217		20013118217													
+Plant genotyping: the DNA fingerprinting of plants	0-85199-515-2	10.1079/9780851995151.0000	2001						http://www.cabi.org/cabebooks/ebook/20013120156		20013120156													
+Rural tourism and recreation: principles to practice	0-85199-540-3	10.1079/9780851995403.0000	2001						http://www.cabi.org/cabebooks/ebook/20013121169		20013121169													
+The sustainable management of vertisols	0-85199-450-4	10.1079/9780851994505.0000	2001						http://www.cabi.org/cabebooks/ebook/20013121252		20013121252													
+"Fungi as biocontrol agents: progress, problems and potential"	0-85199-356-7	10.1079/9780851993560.0000	2001						http://www.cabi.org/cabebooks/ebook/20013125175		20013125175													
+The biology of terrestrial molluscs	0-85199-318-4	10.1079/9780851993188.0000	2001						http://www.cabi.org/cabebooks/ebook/20013129610		20013129610													
+The impact of carbon dioxide and other greenhouse gases on forest ecosystems. Report No.3 of the IUFRO task force on environmental change	0-85199-551-9	10.1079/9780851995519.0000	2001						http://www.cabi.org/cabebooks/ebook/20013134404		20013134404													
+Invasive alien species: a toolkit of best prevention and management practices	0-85199-569-1	10.1079/9780851995694.0000	2001						http://www.cabi.org/cabebooks/ebook/20013135502		20013135502													
+"Crop science: progress and prospects. Papers presented at the Third International Crop Science Congress, Hamburg, Germany, 17-22 August 2000"	0-85199-530-6	10.1079/9780851995304.0000	2001						http://www.cabi.org/cabebooks/ebook/20013138826		20013138826													
+Environmental policies for agricultural pollution control	0-85199-399-0	10.1079/9780851993997.0000	2001						http://www.cabi.org/cabebooks/ebook/20013143233		20013143233													
+Tourism and the less developed world: issues and case studies	0-85199-433-4	10.1079/9780851994338.0000	2001						http://www.cabi.org/cabebooks/ebook/20013143323		20013143323													
+Volunteer tourism: experiences that make a difference	0-85199-533-0	10.1079/9780851995335.0000	2001						http://www.cabi.org/cabebooks/ebook/20013143345		20013143345													
+The genetics of the dog	0-85199-520-9	10.1079/9780851995205.0000	2001						http://www.cabi.org/cabebooks/ebook/20013143476		20013143476													
+Recreational and environmental markets for forest enterprises: a new approach towards marketability of public goods	0-85199-480-6	10.1079/9780851994802.0000	2001						http://www.cabi.org/cabebooks/ebook/20013150628		20013150628													
+Waste composting for urban and peri-urban agriculture: closing the rural-urban nutrient cycle in Sub-Saharan Africa	0-85199-548-9	10.1079/9780851995489.0000	2001						http://www.cabi.org/cabebooks/ebook/20013155315		20013155315													
+"The weaner pig: nutrition and management. Proceedings of a British Society of Animal Science Occasional Meeting, University of Nottingham, UK, September 2000"	0-85199-532-2	10.1079/9780851995328.0000	2001						http://www.cabi.org/cabebooks/ebook/20013155798		20013155798													
+"Nitrate and man: toxic, harmless or beneficial?"	0-85199-566-7	10.1079/9780851995663.0000	2001						http://www.cabi.org/cabebooks/ebook/20013171431		20013171431													
+Tourism in Western Europe: a collection of case histories	0-85199-572-1	10.1079/9780851995724.0000	2002						http://www.cabi.org/cabebooks/ebook/20013172122		20013172122													
+Plant pathologist's pocketbook	0-85199-458-X	10.1079/9780851994581.0000	2001						http://www.cabi.org/cabebooks/ebook/20013172321		20013172321													
+Competition and succession in pastures	0-85199-441-5	10.1079/9780851994413.0000	2001						http://www.cabi.org/cabebooks/ebook/20013173772		20013173772													
+Agricultural biotechnology: country case studies - a decade of development	0-85198-816-4	10.1079/9780851988160.0000	2002						http://www.cabi.org/cabebooks/ebook/20013177247		20013177247													
+"Biological Control Programmes in Canada, 1981-2000"	0-85199-527-6	10.1079/9780851995274.0000	2001						http://www.cabi.org/cabebooks/ebook/20013181858		20013181858													
+Principles of tropical agronomy	0-85199-136-X	10.1079/9780851991368.0000	2001						http://www.cabi.org/cabebooks/ebook/20023001792		20023001792													
+"Managing plant genetic diversity. Proceedings of an international conference, Kuala Lumpur, Malaysia, 12-16 June 2000"	0-85199-522-5	10.1079/9780851995229.0000	2002						http://www.cabi.org/cabebooks/ebook/20023003557		20023003557													
+Worms and human disease	0-85199-516-0	10.1079/9780851995168.0000	2002						http://www.cabi.org/cabebooks/ebook/20023007000		20023007000													
+Nutrient requirements and feeding of finfish for aquaculture	0-85199-519-5	10.1079/9780851995199.0000	2002						http://www.cabi.org/cabebooks/ebook/20023021712		20023021712													
+Entomopathogenic nematology	0-85199-567-5	10.1079/9780851995670.0000	2002						http://www.cabi.org/cabebooks/ebook/20023023437		20023023437													
+"Public concerns, environmental standards and agricultural trade"	0-85199-586-1	10.1079/9780851995861.0000	2002						http://www.cabi.org/cabebooks/ebook/20023025457		20023025457													
+Integrated plant nutrient management in sub-Saharan Africa: from concept to practice 	0-85199-576-4	10.1079/9780851995762.0000	2001						http://www.cabi.org/cabebooks/ebook/20023026723		20023026723													
+"Seed dispersal and frugivory: ecology, evolution and conservation. Third International Symposium-Workshop on Frugivores and Seed Dispersal, São Pedro, Brazil, 6-11 August 2000"	0-85199-525-X	10.1079/9780851995250.0000	2002						http://www.cabi.org/cabebooks/ebook/20023028574		20023028574													
+Agricultural biotechnology and transatlantic trade: regulatory barriers to GM crops	0-85199-580-2	10.1079/9780851995809.0000	2002						http://www.cabi.org/cabebooks/ebook/20023036280		20023036280													
+Market development for genetically modified foods	0-85199-573-X	10.1079/9780851995731.0000	2001						http://www.cabi.org/cabebooks/ebook/20023038252		20023038252													
+"Tropical mycology: volume 1, macromycetes"	0-85199-542-X	10.1079/9780851995427.0000	2001						http://www.cabi.org/cabebooks/ebook/20023039602		20023039602													
+The ecology and silviculture of oaks	0-85199-570-5	10.1079/9780851995700.0000	2002						http://www.cabi.org/cabebooks/ebook/20023045440		20023045440													
+"'Criteria and indicators for sustainable forest management'. Papers  presented at a IUFRO/CIFOR/FAO conference 'Sustainable forest management: fostering stakeholder input to advance development of scientifically based indicators' held in Melbourne, Australia, August 1998"	0-85199-392-3	10.1079/9780851993928.0000	2001						http://www.cabi.org/cabebooks/ebook/20023045646		20023045646													
+Molluscs as crop pests	0-85199-320-6	10.1079/9780851993201.0000	2002						http://www.cabi.org/cabebooks/ebook/20023046835		20023046835													
+"Cassava: biology, production and utilization"	0-85199-524-1	10.1079/9780851995243.0000	2002						http://www.cabi.org/cabebooks/ebook/20023050811		20023050811													
+"Nitrogen fixation: global perspectives. Proceedings of the 13th International Congress on Nitrogen Fixation, Hamilton, Ontario, Canada, 2-7 July 2001"	0-85199-591-8	10.1079/9780851995915.0000	2002						http://www.cabi.org/cabebooks/ebook/20023058764		20023058764													
+Forestry budgets and accounts	0-85199-328-1	10.1079/9780851993287.0000	2001						http://www.cabi.org/cabebooks/ebook/20023062467		20023062467													
+"Tropical mycology: volume 2, micromycetes"	0-85199-543-8	10.1079/9780851995434.0000	2002						http://www.cabi.org/cabebooks/ebook/20023069146		20023069146													
+Desiccation and survival in plants: drying without dying	0-85199-534-9	10.1079/9780851995342.0000	2002						http://www.cabi.org/cabebooks/ebook/20023069464		20023069464													
+Plant resistance to parasitic nematodes	0-85199-466-0	10.1079/9780851994666.0000	2002						http://www.cabi.org/cabebooks/ebook/20023071284		20023071284													
+<i>Verticillium</i> wilts	0-85199-529-2	10.1079/9780851995298.0000	2002						http://www.cabi.org/cabebooks/ebook/20023073035		20023073035													
+The ethology of domestic animals: an introductory text	0-85199-602-7	10.1079/9780851996028.0000	2002						http://www.cabi.org/cabebooks/ebook/20023076019		20023076019													
+Natural resources management in African agriculture: understanding and improving current practices	0-85199-584-5	10.1079/9780851995847.0000	2002						http://www.cabi.org/cabebooks/ebook/20023087414		20023087414													
+"Farmers, scientists and plant breeding: integrating knowledge and practice"	0-85199-585-3	10.1079/9780851995854.0000	2002						http://www.cabi.org/cabebooks/ebook/20023094661		20023094661													
+The tourist as a metaphor of the social world	0-85199-606-X	10.1079/9780851996066.0000	2002						http://www.cabi.org/cabebooks/ebook/20023098345		20023098345													
+Responsible marine aquaculture	0-85199-604-3	10.1079/9780851996042.0000	2002						http://www.cabi.org/cabebooks/ebook/20023099965		20023099965													
+Economic and social issues in agricultural biotechnology	0-85199-618-3	10.1079/9780851996189.0000	2002						http://www.cabi.org/cabebooks/ebook/20023100352		20023100352													
+"Poultry feedstuffs: supply, composition and nutritive value"	0-85199-464-4	10.1079/9780851994642.0000	2002						http://www.cabi.org/cabebooks/ebook/20023102677		20023102677													
+Agricultural research policy in an era of privatization	0-85199-600-0	10.1079/9780851996004.0000	2002						http://www.cabi.org/cabebooks/ebook/20023109942		20023109942													
+The behavioural ecology of parasites	0-85199-615-9	10.1079/9780851996158.0000	2002						http://www.cabi.org/cabebooks/ebook/20023113138		20023113138													
+Allium crop science: recent advances	0-85199-510-1	10.1079/9780851995106.0000	2002						http://www.cabi.org/cabebooks/ebook/20023117383		20023117383													
+"Tropical fruit pests and pollinators: biology, economic importance, natural enemies and control"	0-85199-434-2	10.1079/9780851994345.0000	2002						http://www.cabi.org/cabebooks/ebook/20023117384		20023117384													
+"The avocado: botany, production and uses"	0-85199-357-5	10.1079/9780851993577.0000	2002						http://www.cabi.org/cabebooks/ebook/20023117390		20023117390													
+Crop-soil simulation models: applications in developing countries	0-85199-563-2	10.1079/9780851995632.0000	2002						http://www.cabi.org/cabebooks/ebook/20023117834		20023117834													
+"Global rangelands: progress and prospects. VI International Rangeland Congress on 'People and Rangelands: Building the Future', Townsville, Australia, 1999"	0-85199-523-3	10.1079/9780851995236.0000	2002						http://www.cabi.org/cabebooks/ebook/20023123696		20023123696													
+Benchmarking in tourism and hospitality industries: the selection of benchmarking partners	0-85199-553-5	10.1079/9780851995533.0000	2002						http://www.cabi.org/cabebooks/ebook/20023127410		20023127410													
+Sheep Nutrition	0-85199-595-0	10.1079/9780851995953.0000	2002						http://www.cabi.org/cabebooks/ebook/20023139752		20023139752													
+Trees on the farm: assessing the adoption potential of agroforestry practices in Africa	0-85199-561-6	10.1079/9780851995618.0000	2002						http://www.cabi.org/cabebooks/ebook/20023147366		20023147366													
+Growth of farm animals	0-85199-484-9	10.1079/9780851994840.0000	2002						http://www.cabi.org/cabebooks/ebook/20023148105		20023148105													
+Leisure and tourism policy and planning	0-85199-546-2	10.1079/9780851995465.0000	2002						http://www.cabi.org/cabebooks/ebook/20023148501		20023148501													
+Globalization and the developing countries: emerging strategies for rural development and poverty alleviation	0-85199-575-6	10.1079/9780851995755.0000	2002						http://www.cabi.org/cabebooks/ebook/20023148611		20023148611													
+"Lyme borreliosis: biology, epidemiology and control"	0-85199-632-9	10.1079/9780851996325.0000	2002						http://www.cabi.org/cabebooks/ebook/20023157170		20023157170													
+Environmental changes and geomorphic hazards in forests	0-85199-598-5	10.1079/9780851995984.0000	2002						http://www.cabi.org/cabebooks/ebook/20023157415		20023157415													
+"Quantitative genetics, genomics and plant breeding"	0-85199-601-9	10.1079/9780851996011.0000	2001						http://www.cabi.org/cabebooks/ebook/20023157761		20023157761													
+Ecotourism programme planning	0-85199-610-8	10.1079/9780851996103.0000	2002						http://www.cabi.org/cabebooks/ebook/20023159469		20023159469													
+<i>Taenia solium</i> cysticercosis: from basic to clinical science	0-85199-628-0	10.1079/9780851996288.0000	2002						http://www.cabi.org/cabebooks/ebook/20023159843		20023159843													
+"Agriculture, hydrology and water quality"	0-85199-545-4	10.1079/9780851995458.0000	2002						http://www.cabi.org/cabebooks/ebook/20023163221		20023163221													
+Nutrition and immune function	0-85199-583-7	10.1079/9780851995830.0000	2002						http://www.cabi.org/cabebooks/ebook/20023164010		20023164010													
+Methods in agricultural chemical analysis: a practical handbook	0-85199-608-6	10.1079/9780851996080.0000	2002						http://www.cabi.org/cabebooks/ebook/20023165853		20023165853													
+The dynamics of hired farm labour: constraints and community responses	0-85199-603-5	10.1079/9780851996035.0000	2002						http://www.cabi.org/cabebooks/ebook/20023174537		20023174537													
+Tourism in national parks and protected areas: planning and management	0-85199-589-6	10.1079/9780851995892.0000	2002						http://www.cabi.org/cabebooks/ebook/20023174557		20023174557													
+Intellectual property rights in animal breeding and genetics	0-85199-641-8	10.1079/9780851996417.0000	2002						http://www.cabi.org/cabebooks/ebook/20023182646		20023182646													
+"The pineapple: botany, production and uses"	0-85199-503-9	10.1079/9780851995038.0000	2003						http://www.cabi.org/cabebooks/ebook/20023183451		20023183451													
+Persistence and change in rural communities: a 50-year follow-up to six classic studies	0-85199-521-7	10.1079/9780851995212.0000	2002						http://www.cabi.org/cabebooks/ebook/20023183586		20023183586													
+Animal domestication and behavior	0-85199-597-7	10.1079/9780851995977.0000	2002						http://www.cabi.org/cabebooks/ebook/20023187189		20023187189													
+Macrocyclic lactones in antiparasitic therapy	0-85199-617-5	10.1079/9780851996172.0000	2002						http://www.cabi.org/cabebooks/ebook/20023189371		20023189371													
+Diseases and disorders of finfish in cage culture	0-85199-443-1	10.1079/9780851994437.0000	2002						http://www.cabi.org/cabebooks/ebook/20023191648		20023191648													
+Forest policy for private forestry: global and regional challenges	0-85199-599-3	10.1079/9780851995991.0000	2003						http://www.cabi.org/cabebooks/ebook/20023193899		20023193899													
+Tourism in destination communities	0-85199-611-6	10.1079/9780851996110.0000	2003						http://www.cabi.org/cabebooks/ebook/20033017717		20033017717													
+Crop variety improvement and its effect on productivity: the impact of international agricultural research	0-85199-549-7	10.1079/9780851995496.0000	2003						http://www.cabi.org/cabebooks/ebook/20033022606		20033022606													
+Responsible fisheries in the marine ecosystem	0-85199-633-7	10.1079/9780851996332.0000	2003						http://www.cabi.org/cabebooks/ebook/20033025812		20033025812													
+Ecotourism policy and planning	0-85199-609-4	10.1079/9780851996097.0000	2003						http://www.cabi.org/cabebooks/ebook/20033025978		20033025978													
+"Trees, crops and soil fertility: concepts and research methods"	0-85199-593-4	10.1079/9780851995939.0000	2002						http://www.cabi.org/cabebooks/ebook/20033029498		20033029498													
+Weed ecology in natural and agricultural systems	0-85199-528-4	10.1079/9780851995281.0000	2003						http://www.cabi.org/cabebooks/ebook/20033037775		20033037775													
+Service quality in leisure and tourism	0-85199-541-1	10.1079/9780851995410.0000	2003						http://www.cabi.org/cabebooks/ebook/20033044820		20033044820													
+Banana wars: the anatomy of a trade dispute	0-85199-637-X	10.1079/9780851996370.0000	2003						http://www.cabi.org/cabebooks/ebook/20033051451		20033051451													
+"Health, nutrition and food demand"	0-85199-647-7	10.1079/9780851996479.0000	2003						http://www.cabi.org/cabebooks/ebook/20033055789		20033055789													
+Amino acids in animal nutrition	0-85199-654-X	10.1079/9780851996547.0000	2003						http://www.cabi.org/cabebooks/ebook/20033071519		20033071519													
+Case studies in ecotourism	0-85199-665-5	10.1079/9780851996653.0000	2003						http://www.cabi.org/cabebooks/ebook/20033074381		20033074381													
+Stable isotopes in human nutrition: laboratory methods and research applications	0-85199-676-0	10.1079/9780851996769.0000	2003						http://www.cabi.org/cabebooks/ebook/20033074481		20033074481													
+Food safety: contaminants and toxins	0-85199-607-8	10.1079/9780851996073.0000	2003						http://www.cabi.org/cabebooks/ebook/20033074690		20033074690													
+Weeds and weed management on arable land: an ecological approach	0-85199-651-5	10.1079/9780851996516.0000	2003						http://www.cabi.org/cabebooks/ebook/20033075735		20033075735													
+"Crocodiles: biology, husbandry and diseases"	0-85199-656-6	10.1079/9780851996561.0000	2003						http://www.cabi.org/cabebooks/ebook/20033077525		20033077525													
+"Apples: botany, production and uses"	0-85199-592-6	10.1079/9780851995922.0000	2003						http://www.cabi.org/cabebooks/ebook/20033083468		20033083468													
+Diseases of tropical fruit crops	0-85199-390-7	10.1079/9780851993904.0000	2003						http://www.cabi.org/cabebooks/ebook/20033099826		20033099826													
+"Poultry genetics, breeding and biotechnology"	0-85199-660-4	10.1079/9780851996608.0000	2003						http://www.cabi.org/cabebooks/ebook/20033104574		20033104574													
+Quality control and production of biological control agents: theory and testing procedures	0-85199-688-4	10.1079/9780851996882.0000	2003						http://www.cabi.org/cabebooks/ebook/20033105657		20033105657													
+Biological control in IPM systems in Africa	0-85199-639-6	10.1079/9780851996394.0000	2003						http://www.cabi.org/cabebooks/ebook/20033109564		20033109564													
+Nutrients for sugar beet production: soil-plant relationships	0-85199-623-X	10.1079/9780851996233.0000	2003						http://www.cabi.org/cabebooks/ebook/20033119862		20033119862													
+"Integrated natural resources management: linking productivity, the environment and development"	0-85199-731-7	10.1079/9780851997315.0000	2003						http://www.cabi.org/cabebooks/ebook/20033120138		20033120138													
+The competitive destination: a sustainable tourism perspective	0-85199-664-7	10.1079/9780851996646.0000	2003						http://www.cabi.org/cabebooks/ebook/20033123622		20033123622													
+Principles of plant health and quarantine	0-85199-680-9	10.1079/9780851996806.0000	2003						http://www.cabi.org/cabebooks/ebook/20033126825		20033126825													
+Molecular nutrition	0-85199-679-5	10.1079/9780851996790.0000	2003						http://www.cabi.org/cabebooks/ebook/20033135734		20033135734													
+"Mites of greenhouses: identification, biology and control"	0-85199-590-X	10.1079/9780851995908.0000	2003						http://www.cabi.org/cabebooks/ebook/20033142338		20033142338													
+"Modelling forest systems. Workshop on the interface between reality, modelling and the parameter estimation processes, Sesimbra, Portugal, 2-5 June 2002"	0-85199-693-0	10.1079/9780851996936.0000	2003						http://www.cabi.org/cabebooks/ebook/20033156904		20033156904													
+The ecology of soil decomposition	0-85199-661-2	10.1079/9780851996615.0000	2003						http://www.cabi.org/cabebooks/ebook/20033157571		20033157571													
+Water productivity in agriculture: limits and opportunities for improvement	0-85199-669-8	10.1079/9780851996691.0000	2003						http://www.cabi.org/cabebooks/ebook/20033158263		20033158263													
+Organic fruit growing	0-85199-640-X	10.1079/9780851996400.0000	2003						http://www.cabi.org/cabebooks/ebook/20033158664		20033158664													
+Laboratory production of cattle embryos	0-85199-666-3	10.1079/9780851996660.0000	2003						http://www.cabi.org/cabebooks/ebook/20033162568		20033162568													
+Soil fertility decline in the tropics: with case studies on plantations	0-85199-670-1	10.1079/9780851996707.0000	2003						http://www.cabi.org/cabebooks/ebook/20033167775		20033167775													
+"The biology of seeds: recent research advances. Proceedings of the Seventh International Workshop on Seeds, Salamanca, Spain, 2002"	0-85199-653-1	10.1079/9780851996530.0000	2003						http://www.cabi.org/cabebooks/ebook/20033178266		20033178266													
+Integrated pest management in the global arena	0-85199-652-3	10.1079/9780851996523.0000	2003						http://www.cabi.org/cabebooks/ebook/20033178709		20033178709													
+Plant evolution and the origin of crop species	0-85199-685-X	10.1079/9780851996851.0000	2003						http://www.cabi.org/cabebooks/ebook/20033189219		20033189219													
+Water dynamics in plant production	0-85199-694-9	10.1079/9780851996943.0000	2003						http://www.cabi.org/cabebooks/ebook/20033191068		20033191068													
+Applied animal endocrinology	0-85199-594-2	10.1079/9780851995946.0000	2003						http://www.cabi.org/cabebooks/ebook/20033194014		20033194014													
+"Nature-based tourism, environment and land management"	0-85199-732-5	10.1079/9780851997322.0000	2003						http://www.cabi.org/cabebooks/ebook/20033194507		20033194507													
+Poisonous plants and related toxins	0-85199-614-0	10.1079/9780851996141.0000	2004						http://www.cabi.org/cabebooks/ebook/20033204155		20033204155													
+"Agriculture and international trade: law, policy and the WTO"	0-85199-663-9	10.1079/9780851996639.0000	2003						http://www.cabi.org/cabebooks/ebook/20033204365		20033204365													
+"Genetics, evolution and biological control"	0-85199-735-X	10.1079/9780851997353.0000	2004						http://www.cabi.org/cabebooks/ebook/20033208626		20033208626													
+Managing soil quality: challenges in modern agriculture	0-85199-671-X	10.1079/9780851996714.0000	2004						http://www.cabi.org/cabebooks/ebook/20033208653		20033208653													
+Fluorides in the environment: effects on plants and animals	0-85199-683-3	10.1079/9780851996837.0000	2004						http://www.cabi.org/cabebooks/ebook/20033214577		20033214577													
+Animal health and welfare in organic agriculture	0-85199-668-X	10.1079/9780851996684.0000	2004						http://www.cabi.org/cabebooks/ebook/20043002077		20043002077													
+"Destination benchmarking: concepts, practices and operations"	0-85199-745-7	10.1079/9780851997452.0000	2004						http://www.cabi.org/cabebooks/ebook/20043004313		20043004313													
+Biodiversity of West African forests: an ecological atlas of woody plant species	0-85199-734-1	10.1079/9780851997346.0000	2004						http://www.cabi.org/cabebooks/ebook/20043016378		20043016378													
+Forests at the land-atmosphere interface	0-85199-677-9	10.1079/9780851996776.0000	2004						http://www.cabi.org/cabebooks/ebook/20043019014		20043019014													
+"Consumer psychology of tourism, hospitality and leisure"	0-85199-749-X	10.1079/9780851997490.0000	2004						http://www.cabi.org/cabebooks/ebook/20043021067		20043021067													
+Cycad classification: concepts and recommendations	0-85199-741-4	10.1079/9780851997414.0000	2004						http://www.cabi.org/cabebooks/ebook/20043021917		20043021917													
+Aquaculture and fisheries biotechnology: genetic approaches	0-85199-596-9	10.1079/9780851995960.0000	2004						http://www.cabi.org/cabebooks/ebook/20043030835		20043030835													
+Bacteria from fish and other aquatic animals: a practical identification manual	0-85199-738-4	10.1079/9780851997384.0000	2004						http://www.cabi.org/cabebooks/ebook/20043038092		20043038092													
+Coping with risk in agriculture	0-85199-831-3	10.1079/9780851998312.0000	2004						http://www.cabi.org/cabebooks/ebook/20043056174		20043056174													
+The regulation of agricultural biotechnology	0-85199-742-2	10.1079/9780851997421.0000	2004						http://www.cabi.org/cabebooks/ebook/20043056990		20043056990													
+Volunteering as leisure/leisure as volunteering: an international assessment	0-85199-750-3	10.1079/9780851997506.0000	2004						http://www.cabi.org/cabebooks/ebook/20043069393		20043069393													
+The family business in tourism and hospitality	0-85199-808-9	10.1079/9780851998084.0000	2004						http://www.cabi.org/cabebooks/ebook/20043073048		20043073048													
+Consumer acceptance of genetically modified foods	0-85199-747-3	10.1079/9780851997476.0000	2004						http://www.cabi.org/cabebooks/ebook/20043074503		20043074503													
+<i>Phoma</i> identification manual. Differentiation of specific and infra-specific taxa in culture	0-85199-743-0	10.1079/9780851997438.0000	2004						http://www.cabi.org/cabebooks/ebook/20043086550		20043086550													
+The encyclopedia of farm animal nutrition	0-85199-369-9	10.1079/9780851993690.0000	2004						http://www.cabi.org/cabebooks/ebook/20043093373		20043093373													
+Good statistical practice for natural resources research	0-85199-722-8	10.1079/9780851997223.0000	2004						http://www.cabi.org/cabebooks/ebook/20043094015		20043094015													
+Forest biodiversity: lessons from history for conservation	0-85199-802-X	10.1079/9780851998022.0000	2004						http://www.cabi.org/cabebooks/ebook/20043094048		20043094048													
+"Integrated pest management: potential, constraints and challenges"	0-85199-686-8	10.1079/9780851996868.0000	2004						http://www.cabi.org/cabebooks/ebook/20043099898		20043099898													
+Nematode behaviour	0-85199-818-6	10.1079/9780851998183.0000	2004						http://www.cabi.org/cabebooks/ebook/20043108371		20043108371													
+"Tourism and transition: governance, transformation and development"	0-85199-748-1	10.1079/9780851997483.0000	2004						http://www.cabi.org/cabebooks/ebook/20043108958		20043108958													
+Biostatistics for animal science	0-85199-820-8	10.1079/9780851998206.0000	2004						http://www.cabi.org/cabebooks/ebook/20043113065		20043113065													
+Postharvest physiology and hypobaric storage of fresh produce	0-85199-801-1	10.1079/9780851998015.0000	2004						http://www.cabi.org/cabebooks/ebook/20043113444		20043113444													
+Wastewater use in irrigated agriculture: confronting the livelihood and environmental realities	0-85199-823-2	10.1079/9780851998237.0000	2004						http://www.cabi.org/cabebooks/ebook/20043115021		20043115021													
+Natural enemies of terrestrial molluscs	0-85199-319-2	10.1079/9780851993195.0000	2004						http://www.cabi.org/cabebooks/ebook/20043115141		20043115141													
+Introgression from genetically modified plants into wild relatives	0-85199-816-X	10.1079/9780851998169.0000	2004						http://www.cabi.org/cabebooks/ebook/20043122855		20043122855													
+The trypanosomiases	0-85199-475-X	10.1079/9780851994758.0000	2004						http://www.cabi.org/cabebooks/ebook/20043124833		20043124833													
+"Welfare of the laying hen. Papers from the 27th Poultry Science Symposium of the World's Poultry Science Association (UK Branch), Bristol, UK, July 2003"	0-85199-813-5	10.1079/9780851998138.0000	2004						http://www.cabi.org/cabebooks/ebook/20043127394		20043127394													
+Environmental impacts of ecotourism	0-85199-810-0	10.1079/9780851998107.0000	2004						http://www.cabi.org/cabebooks/ebook/20043135893		20043135893													
+Fetal nutrition and adult disease: programming of chronic disease through fetal exposure to undernutrition	0-85199-821-6	10.1079/9780851998213.0000	2004						http://www.cabi.org/cabebooks/ebook/20043136080		20043136080													
+Measuring and auditing broiler welfare	0-85199-805-4	10.1079/9780851998053.0000	2004						http://www.cabi.org/cabebooks/ebook/20043140428		20043140428													
+Below-ground interactions in tropical agroecosystems: concepts and models with multiple plant components	0-85199-673-6	10.1079/9780851996738.0000	2004						http://www.cabi.org/cabebooks/ebook/20043146776		20043146776													
+A bond scheme for common agricultural policy reform	0-85199-744-9	10.1079/9780851997445.0000	2004						http://www.cabi.org/cabebooks/ebook/20043150292		20043150292													
+"Muscle development of livestock animals: physiology, genetics and meat quality"	0-85199-811-9	10.1079/9780851998114.0000	2004						http://www.cabi.org/cabebooks/ebook/20043167599		20043167599													
+New horizons in tourism: strange experiences and stranger practices	0-85199-863-1	10.1079/9780851998633.0000	2004						http://www.cabi.org/cabebooks/ebook/20043168169		20043168169													
+Integrated resource and environmental management: the human dimension	0-85199-834-8	10.1079/9780851998343.0000	2004						http://www.cabi.org/cabebooks/ebook/20043168279		20043168279													
+Improving tourism and hospitality services	0-85199-995-6	10.1079/9780851999951.0000	2004						http://www.cabi.org/cabebooks/ebook/20043172043		20043172043													
+Saving seeds: the economics of conserving crop genetic resources <i>ex situ</i> in the future harvest centres of the CGIAR	0-85199-859-3	10.1079/9780851998596.0000	2004						http://www.cabi.org/cabebooks/ebook/20043172090		20043172090													
+Environmental risk assessment of genetically modified organisms. Volume 1: A case study of Bt maize in Kenya	0-85199-861-5	10.1079/9780851998619.0000	2004						http://www.cabi.org/cabebooks/ebook/20043172093		20043172093													
+GIS and spatial analysis in veterinary science	0-85199-634-5	10.1079/9780851996349.0000	2004						http://www.cabi.org/cabebooks/ebook/20043183502		20043183502													
+Dairy sheep nutrition	0-85199-681-7	10.1079/9780851996813.0000	2004						http://www.cabi.org/cabebooks/ebook/20043188298		20043188298													
+Nematology: advances and perspectives. Volume 2: Nematode management and utilization	0-85199-646-9	10.1079/9780851996462.0000	2004						http://www.cabi.org/cabebooks/ebook/20043189771		20043189771													
+Reproductive technologies in farm animals	0-85199-862-3	10.1079/9780851998626.0000	2004						http://www.cabi.org/cabebooks/ebook/20043190616		20043190616													
+Environmental impacts of sugar production: the cultivation and processing of sugarcane and sugar beet	0-85199-981-6	10.1079/9780851999814.0000	2004						http://www.cabi.org/cabebooks/ebook/20043201178		20043201178													
+"Climate change in contrasting river basins: adaptation strategies for water, food and environment"	0-85199-835-6	10.1079/9780851998350.0000	2004						http://www.cabi.org/cabebooks/ebook/20043205139		20043205139													
+Natural resource management in agriculture: methods for assessing economic and environmental impacts	0-85199-828-3	10.1079/9780851998282.0000	2005						http://www.cabi.org/cabebooks/ebook/20043206486		20043206486													
+Organic phosphorus in the environment	0-85199-822-4	10.1079/9780851998220.0000	2005						http://www.cabi.org/cabebooks/ebook/20043210888		20043210888													
+Communicable disease epidemiology and control: a global perspective	0-85199-902-6	10.1079/9780851999029.0000	2005						http://www.cabi.org/cabebooks/ebook/20043211225		20043211225													
+Soy protein and formulated meat products	0-85199-864-X	10.1079/9780851998640.0000	2004						http://www.cabi.org/cabebooks/ebook/20043212200		20043212200													
+Mammalian genomics	0-85199-910-7	10.1079/9780851999104.0000	2005						http://www.cabi.org/cabebooks/ebook/20043216833		20043216833													
+Western corn rootworm: ecology and management	0-85199-817-8	10.1079/9780851998176.0000	2005						http://www.cabi.org/cabebooks/ebook/20053000947		20053000947													
+Biotechnology of fruit and nut crops	0-85199-662-0	10.1079/9780851996622.0000	2005						http://www.cabi.org/cabebooks/ebook/20053001306		20053001306													
+Plant diversity and evolution: genotypic and phenotypic variation in higher plants	0-85199-904-2	10.1079/9780851999043.0000	2005						http://www.cabi.org/cabebooks/ebook/20053001658		20053001658													
+"Conflict, social capital and managing natural resources: a West African case study"	0-85199-948-4	10.1079/9780851999487.0000	2005						http://www.cabi.org/cabebooks/ebook/20053001851		20053001851													
+"Seed fate: predation, dispersal and seedling establishment"	0-85199-806-2	10.1079/9780851998060.0000	2005						http://www.cabi.org/cabebooks/ebook/20053005215		20053005215													
+Flower seeds: biology and technology	0-85199-906-9	10.1079/9780851999067.0000	2005						http://www.cabi.org/cabebooks/ebook/20053005270		20053005270													
+Irrigation and river basin management: options for governance and institutions	0-85199-672-8	10.1079/9780851996721.0000	2005						http://www.cabi.org/cabebooks/ebook/20053039203		20053039203													
+"Litchi and longan: botany, production and uses"	0-85199-696-5	10.1079/9780851996967.0000	2005						http://www.cabi.org/cabebooks/ebook/20053056817		20053056817													
+Free time and leisure participation: international perspectives	0-85199-620-5	10.1079/9780851996202.0000	2005						http://www.cabi.org/cabebooks/ebook/20053057556		20053057556													
+The genetic diversity of cacao and its utilization	0-85199-619-1	10.1079/9780851996196.0000	2005						http://www.cabi.org/cabebooks/ebook/20053073504		20053073504													
+Irrigation and drainage performance assessment: practical guidelines	0-85199-967-0	10.1079/9780851999678.0000	2005						http://www.cabi.org/cabebooks/ebook/20053084282		20053084282													
+Valuing mediterranean forests: towards total economic value	0-85199-997-2	10.1079/9780851999975.0000	2005						http://www.cabi.org/cabebooks/ebook/20053085140		20053085140													
+The African food crisis: lessons from the Asian Green Revolution	0-85199-998-0	10.1079/9780851999982.0000	2005						http://www.cabi.org/cabebooks/ebook/20053098668		20053098668													
+Plant parasitic nematodes in subtropical and tropical agriculture	0-85199-727-9	10.1079/9780851997278.0000	2005						http://www.cabi.org/cabebooks/ebook/20053099499		20053099499													
+"Tourism SMEs, service quality and destination competitiveness"	0-85199-011-8	10.1079/9780851990118.0000	2005						http://www.cabi.org/cabebooks/ebook/20053105761		20053105761													
+Tourism research methods: integrating theory with practice	0-85199-996-4	10.1079/9780851999968.0000	2005						http://www.cabi.org/cabebooks/ebook/20053116138		20053116138													
+Urban aquaculture	0-85199-829-1	10.1079/9780851998299.0000	2005						http://www.cabi.org/cabebooks/ebook/20053122026		20053122026													
+Rust diseases of willow and poplar	0-85199-999-9	10.1079/9780851999999.0000	2005						http://www.cabi.org/cabebooks/ebook/20053125493		20053125493													
+Starter packs: a strategy to fight hunger in developing countries? Lessons from the Malawi experience 1998-2003	0-85199-008-8	10.1079/9780851990088.0000	2005						http://www.cabi.org/cabebooks/ebook/20053142997		20053142997													
+"Nitrate, agriculture and the environment"	0-85199-913-1	10.1079/9780851999135.0000	2005						http://www.cabi.org/cabebooks/ebook/20053150327		20053150327													
+Monitoring for a sustainable tourism transition: the challenge of developing and using indicators	0-85199-051-7	10.1079/9780851990514.0000	2005						http://www.cabi.org/cabebooks/ebook/20053167399		20053167399													
+"Insect evolutionary ecology: Proceedings of the Royal Entomological Society's 22nd Symposium, Reading, UK, 2003"	0-85199-812-7	10.1079/9780851998121.0000	2005						http://www.cabi.org/cabebooks/ebook/20053169998		20053169998													
+Hormonal regulation of farm animal growth	0-85199-080-0	10.1079/9780851990804.0000	2005						http://www.cabi.org/cabebooks/ebook/20053173601		20053173601													
+Tourism behaviour: travellers' decisions and actions	0-85199-021-5	10.1079/9780851990217.0000	2005						http://www.cabi.org/cabebooks/ebook/20053185039		20053185039													
+Forestry and environmental change: socioeconomic and political dimensions. Report No.5 of the IUFRO Task Force on environmental change	0-85199-002-9	10.1079/9780851990026.0000	2005						http://www.cabi.org/cabebooks/ebook/20053186784		20053186784													
+Tropical forests of the Guiana shield: ancient forests in a modern world	0-85199-536-5	10.1079/9780851995366.0000	2005						http://www.cabi.org/cabebooks/ebook/20053187749		20053187749													
+Linear models for the prediction of animal breeding values	0-85199-000-2	10.1079/9780851990002.0000	2005						http://www.cabi.org/cabebooks/ebook/20053196805		20053196805													
+The measurement of roundwood: methodologies and conversion ratios	0-85199-079-7\978-0-85199-079-8	10.1079/9780851990798.0000	2005						http://www.cabi.org/cabebooks/ebook/20053198139		20053198139													
+Fishery co-management: a practical handbook	0-85199-088-6\978-0-85199-088-0	10.1079/9780851990880.0000	2005						http://www.cabi.org/cabebooks/ebook/20053223063		20053223063													
+Nematodes as biocontrol agents	0-85199-0177	10.1079/9780851990170.0000	2005						http://www.cabi.org/cabebooks/ebook/20053223405		20053223405													
+Tomatoes	0-85199-396-6	10.1079/9780851993966.0000	2005						http://www.cabi.org/cabebooks/ebook/20053224743		20053224743													
+Valuing crop biodiversity: on-farm genetic resources and economic change	0-85199-083-5\978-0-85199-083-5	10.1079/9780851990835.0000	2005						http://www.cabi.org/cabebooks/ebook/20053225513		20053225513													
+Nitrogen and phosphorus nutrition of cattle: reducing the environmental impact of cattle operations	0-85199-013-4	10.1079/9780851990132.0000	2005						http://www.cabi.org/cabebooks/ebook/20053225676		20053225676													
+Quantitative aspects of ruminant digestion and metabolism	0-85199-814-3	10.1079/9780851998145.0000	2005						http://www.cabi.org/cabebooks/ebook/20053225686		20053225686													
+Researching the culture in agri-culture: social research for international development	0-85199-003-7\978-0-85199-003-3	10.1079/9780851990033.0000	2005						http://www.cabi.org/cabebooks/ebook/20063001364		20063001364													
+Microbiological methods for assessing soil quality	0-85199-098-3\978-0-85199-098-9	10.1079/9780851990989.0000	2005						http://www.cabi.org/cabebooks/ebook/20063009474		20063009474													
+Testing methods for seed-transmitted viruses: principles and protocols	0-85199-016-9	10.1079/9780851990163.0000	2006						http://www.cabi.org/cabebooks/ebook/20063015109		20063015109													
+"Land use change in tropical watersheds: evidence, causes and remedies"	978-0-85199-912-8\0-85199-912-3	10.1079/9780851999128.0000	2005						http://www.cabi.org/cabebooks/ebook/20063019175		20063019175													
+"Silvopastoralism and sustainable land management. Proceedings of an international congress on silvopastoralism and sustainable management held in Lugo, Spain, April 2004"	978-1-84593-001-1\1-84593-001-0	10.1079/9781845930011.0000	2005						http://www.cabi.org/cabebooks/ebook/20063019644		20063019644													
+Toxocara: the enigmatic parasite	1-84593-026-6\978-1-84593-026-4	10.1079/9781845930264.0000	2005						http://www.cabi.org/cabebooks/ebook/20063030129		20063030129													
+Rural gender relations: issues and case studies	0-85199-030-4\978-0-85199-030-9	10.1079/9780851990309.0000	2006						http://www.cabi.org/cabebooks/ebook/20063039627		20063039627													
+"Cold hardiness in plants: molecular genetics, cell biology and physiology. Seventh International Plant Cold Hardiness Seminar, Sapporo, Japan, 10-15 July 2004"	978-0-85199-059-0\0-85199-059-2	10.1079/9780851990590.0000	2005						http://www.cabi.org/cabebooks/ebook/20063040128		20063040128													
+Freshwater nematodes: ecology and taxonomy	0-85199-009-6\978-0-85199-009-5	10.1079/9780851990095.0000	2006						http://www.cabi.org/cabebooks/ebook/20063048499		20063048499													
+Soil biodiversity in Amazonian and other Brazilian ecosystems	978-1-84593-032-5\1-84593-032-0	10.1079/9781845930325.0000	2006						http://www.cabi.org/cabebooks/ebook/20063069224		20063069224													
+"The economics of livestock disease insurance: concepts, issues and international case studies"	0-85199-077-0\978-0-85199-077-4	10.1079/9780851990774.0000	2005						http://www.cabi.org/cabebooks/ebook/20063069954		20063069954													
+International trade and policies for genetically modified products	0-85199-056-8	10.1079/9780851990569.0000	2006						http://www.cabi.org/cabebooks/ebook/20063078140		20063078140													
+Environmental risk assessment of genetically modified organisms. Volume 2: methodologies for assessing Bt cotton in Brazil	1-84593-000-2\978-1-84593-000-4	10.1079/9781845930004.0000	2006						http://www.cabi.org/cabebooks/ebook/20063080855		20063080855													
+Vacation decision making	1-84593-040-1\978-1-84593-040-0	10.1079/9781845930400.0000	2006						http://www.cabi.org/cabebooks/ebook/20063081658		20063081658													
+"Development with identity: community, culture and sustainability in the Andes"	0-85199-949-2\978-0-85199-949-4	10.1079/9780851999494.0000	2006						http://www.cabi.org/cabebooks/ebook/20063082135		20063082135													
+Tilapia culture	978-0-85199-014-9\0-85199-014-2	10.1079/9780851990149.0000	2006						http://www.cabi.org/cabebooks/ebook/20063084667		20063084667													
+Global development of organic agriculture: challenges and prospects	1-84593-078-9\978-1-84593-078-3	10.1079/9781845930783.0000	2006						http://www.cabi.org/cabebooks/ebook/20063090468		20063090468													
+Nutrient digestion and utilization in farm animals: modelling approaches	978-1-84593-005-9\1-84593-005-3	10.1079/9781845930059.0000	2006						http://www.cabi.org/cabebooks/ebook/20063093893		20063093893													
+Nutrition and behavior: a multidisciplinary approach	0-85199-674-4\978-0-85199-674-5	10.1079/9780851996745.0000	2006						http://www.cabi.org/cabebooks/ebook/20063094265		20063094265													
+Phytobacteriology: principles and practice	978-1-84593-025-7\1-84593-025-8	10.1079/9781845930257.0000	2005						http://www.cabi.org/cabebooks/ebook/20063102507		20063102507													
+The molecular biology and biotechnology of flowering	978-1-84593-042-4\1-84593-042-8	10.1079/9781845930424.0000	2006						http://www.cabi.org/cabebooks/ebook/20063104849		20063104849													
+Environmental impact of invertebrates for biological control of arthropods: methods and risk assessment	0-85199-058-4\978-0-85199-058-3	10.1079/9780851990583.0000	2006						http://www.cabi.org/cabebooks/ebook/20063106167		20063106167													
+Plant nematology	1-84593-056-8\978-1-84593-056-1	10.1079/9781845930561.0000	2006						http://www.cabi.org/cabebooks/ebook/20063106959		20063106959													
+"The oestrid flies: biology, host-parasite relationships, impact and management"	0-85199-684-1\978-0-85199-684-4	10.1079/9780851996844.0000	2006						http://www.cabi.org/cabebooks/ebook/20063111420		20063111420													
+Olive oil and health	1-84593-068-1\978-1-84593-068-4	10.1079/9781845930684.0000	2006						http://www.cabi.org/cabebooks/ebook/20063115768		20063115768													
+Protein turnover	0-85199-613-2\978-0-85199-613-4	10.1079/9780851996134.0000	2006						http://www.cabi.org/cabebooks/ebook/20063115785		20063115785													
+Policy reform and adjustment in the agricultural sectors of developed countries	1-84593-033-9\978-1-84593-033-2	10.1079/9781845930332.0000	2006						http://www.cabi.org/cabebooks/ebook/20063116060		20063116060													
+Integrated food safety and veterinary public health	0-85199-908-5\978-0-85199-908-1	10.1079/9780851999081.0000	2006						http://www.cabi.org/cabebooks/ebook/20063117048		20063117048													
+"Parasitic flatworms: molecular biology, biochemistry, immunology and physiology"	978-0-85199-027-9\0-85199-027-4	10.1079/9780851990279.0000	2005						http://www.cabi.org/cabebooks/ebook/20063118431		20063118431													
+WTO negotiations and agricultural trade liberalization: the effect of developed countries' policies on developing countries	1-84593-050-9\978-1-84593-050-9	10.1079/9781845930509.0000	2006						http://www.cabi.org/cabebooks/ebook/20063119990		20063119990													
+"'E' issues for agribusiness: the 'what', 'why', 'how'"	1-84593-071-1\978-1-84593-071-4	10.1079/9781845930714.0000	2006						http://www.cabi.org/cabebooks/ebook/20063120982		20063120982													
+The Glycaemic Index: a physiological classification of dietary carbohydrate	978-1-84593-051-6\1-84593-051-7	10.1079/9781845930516.0000	2006						http://www.cabi.org/cabebooks/ebook/20063122948		20063122948													
+Fish diseases and disorders. Volume 1: protozoan and metazoan infections	978-0-85199-015-6\0-85199-015-0	10.1079/9780851990156.0000	2006						http://www.cabi.org/cabebooks/ebook/20063124513		20063124513													
+The amenity migrants: seeking and sustaining mountains and their cultures	0-85199-084-3\978-0-85199-084-2	10.1079/9780851990842.0000	2006						http://www.cabi.org/cabebooks/ebook/20063126695		20063126695													
+Destination recommendation systems: behavioural foundations and applications	0-85199-023-1\978-0-85199-023-1	10.1079/9780851990231.0000	2006						http://www.cabi.org/cabebooks/ebook/20063136636		20063136636													
+"Multiple dwelling and tourism: negotiating place, home and identity"	0-84593-120-3\978-1-84593-120-9	10.1079/9780845931202.0000	2006						http://www.cabi.org/cabebooks/ebook/20063139092		20063139092													
+Mechanistic modelling in pig & poultry production	1-84593-070-3\978-1-84593-070-7	10.1079/9781845930707.0000	2006						http://www.cabi.org/cabebooks/ebook/20063139798		20063139798													
+Sociological perspectives of organic agriculture: from pioneer to policy	1-84593-038-X\978-1-84593-038-7	10.1079/9781845930387.0000	2006						http://www.cabi.org/cabebooks/ebook/20063139861		20063139861													
+Environment and livelihoods in tropical coastal zones: managing agriculture-fishery-aquaculture conflicts	978-1-84593-107-0\1-84593-107-6	10.1079/9781845931070.0000	2006						http://www.cabi.org/cabebooks/ebook/20063150601		20063150601													
+"Soil erosion and sediment redistribution in river catchments: measurement, modelling and management"	0-85199-050-9\978-0-85199-050-7	10.1079/9780851990507.0000	2006						http://www.cabi.org/cabebooks/ebook/20063153004		20063153004													
+Animal and human health and welfare: a comparative philosophical analysis	1-84593-059-2\978-1-84593-059-2	10.1079/9781845930592.0000	2006						http://www.cabi.org/cabebooks/ebook/20063156154		20063156154													
+Cruise ship tourism	1-84593-048-7\978-1-84593-048-6	10.1079/9781845930486.0000	2006						http://www.cabi.org/cabebooks/ebook/20063157024		20063157024													
+Pink tourism: holidays of gay men and lesbians	1-84593-076-2\978-1-84593-076-9	10.1079/9781845930769.0000	2006						http://www.cabi.org/cabebooks/ebook/20063157629		20063157629													
+Leisure in contemporary society	978-1-84593-069-1\1-84593-069-X	10.1079/9781845930691.0000	2006						http://www.cabi.org/cabebooks/ebook/20063157630		20063157630													
+"Tourism and welfare: ethics, responsibility and sustained well-being"	1-84593-066-5\978-1-84593-066-0	10.1079/9781845930660.0000	2006						http://www.cabi.org/cabebooks/ebook/20063157631		20063157631													
+Indigenous ecotourism: sustainable development and management	1-84593-124-6\978-1-84593-124-7	10.1079/9781845931247.0000	2006						http://www.cabi.org/cabebooks/ebook/20063157632		20063157632													
+Ecotourism in Scandinavia: lessons in theory and practice	1-84593-134-3	10.1079/9781845931346.0000	2006						http://www.cabi.org/cabebooks/ebook/20063158132		20063158132													
+Fundamentals of tropical turf management	1-84593-030-4\978-1-84593-030-1	10.1079/9781845930301.0000	2006						http://www.cabi.org/cabebooks/ebook/20063161983		20063161983													
+The Common Agricultural Policy and organic farming: an institutional perspective on continuity and change	1-84593-114-9\978-1-84593-114-8	10.1079/9781845931148.0000	2006						http://www.cabi.org/cabebooks/ebook/20063168317		20063168317													
+Tourism consumption and representation: narratives of place and self	0-85199-678-7\978-0-85199-678-3	10.1079/9780851996783.0000	2006						http://www.cabi.org/cabebooks/ebook/20063172763		20063172763													
+Tourism in the new Europe: the challenges and opportunities of EU enlargement	978-1-84593-117-9\1-84593-117-3	10.1079/9781845931179.0000	2006						http://www.cabi.org/cabebooks/ebook/20063172797		20063172797													
+Managing tourism and hospitality services: theory and international applications	1-84593-012-6\978-1-84593-012-7	10.1079/9781845930127.0000	2006						http://www.cabi.org/cabebooks/ebook/20063173698		20063173698													
+Rights to plant genetic resources and traditional knowledge: basic issues and perspectives	978-0-85199-033-0\0-85199-033-9	10.1079/9780851990330.0000	2006						http://www.cabi.org/cabebooks/ebook/20063178832		20063178832													
+"Global wine tourism: research, management and marketing"	1-84593-170-X\978-1-84593-170-4	10.1079/9781845931704.0000	2006						http://www.cabi.org/cabebooks/ebook/20063180771		20063180771													
+Home parenteral nutrition	1-84593-156-4\978-1-84593-156-8	10.1079/9781845931568.0000	2006						http://www.cabi.org/cabebooks/ebook/20063180886		20063180886													
+Protective effects of tea on human health	1-84593-112-2\978-1-84593-112-4	10.1079/9781845931124.0000	2006						http://www.cabi.org/cabebooks/ebook/20063181635		20063181635													
+Feeding in domestic vertebrates: from structure to behaviour	1-84593-063-0\978-1-84593-063-9	10.1079/9781845930639.0000	2006						http://www.cabi.org/cabebooks/ebook/20063181660		20063181660													
+Growing older: tourism and leisure behaviour of older adults	1-84593-065-7\978-1-84593-065-3	10.1079/9781845930653.0000	2006						http://www.cabi.org/cabebooks/ebook/20063203027		20063203027													
+Adventure tourism	1-84593-122-X\978-1-84593-122-3	10.1079/9781845931223.0000	2006						http://www.cabi.org/cabebooks/ebook/20063203959		20063203959													
+Climate change in developing countries: results from the Netherlands Climate Change Studies Assistance Programme	1-84593-077-0\978-1-84593-077-6	10.1079/9781845930776.0000	2006						http://www.cabi.org/cabebooks/ebook/20063218940		20063218940													
+The conservation of cultural landscapes	1-84593-074-6\978-1-84593-074-5	10.1079/9781845930745.0000	2006						http://www.cabi.org/cabebooks/ebook/20063220962		20063220962													
+Forests and society: sustainability and life cycles of forests in human landscapes	1-84593-098-3\978-1-84593-098-1	10.1079/9781845930981.0000	2006						http://www.cabi.org/cabebooks/ebook/20063232841		20063232841													
+Tourism in peripheries: perspectives from the far north and south	1-84593-177-7\978-1-84593-177-3	10.1079/9781845931773.0000	2007						http://www.cabi.org/cabebooks/ebook/20063241014		20063241014													
+Vegetable brassicas and related crucifers	0-85199-395-8	10.1079/9780851993959.0000	2006						http://www.cabi.org/cabebooks/ebook/20073006205		20073006205													
+Stereotypic animal behaviour: fundamentals and applications to welfare	978-0-85199-004-0\0-85199-004-5	10.1079/9780851990040.0000	2006						http://www.cabi.org/cabebooks/ebook/20073011847		20073011847													
+The behavioural biology of dogs	1-84593-187-4\978-1-84593-1872	10.1079/9781845931872.0000	2007						http://www.cabi.org/cabebooks/ebook/20073020027		20073020027													
+Avian gut function in health and disease	978-1-84593-1803\1-84593-1807	10.1079/9781845931803.0000	2006						http://www.cabi.org/cabebooks/ebook/20073020050		20073020050													
+Going organic: mobilizing networks for environmentally responsible food production	1-84593-132-7\978-1-84593-132-2	10.1079/9781845931322.0000	2006						http://www.cabi.org/cabebooks/ebook/20073025966		20073025966													
+Microbial ecology of aerial plant surfaces	1-84593-061-4\978-1-84593-061-5	10.1079/9781845930615.0000	2006						http://www.cabi.org/cabebooks/ebook/20073026252		20073026252													
+Crisis management in tourism	1-84593-047-9\978-1-84593-047-9	10.1079/9781845930479.0000	2007						http://www.cabi.org/cabebooks/ebook/20073028042		20073028042													
+"Molecular approaches to soil, rhizosphere and plant microorganism analysis"	1-84593-062-2\978-1-84593-0622	10.1079/9781845930622.0000	2006						http://www.cabi.org/cabebooks/ebook/20073032501		20073032501													
+Ecologically based integrated pest management	1-84593-064-9\978-184593-064-6	10.1079/9781845930646.0000	2007						http://www.cabi.org/cabebooks/ebook/20073034902		20073034902													
+Ecology and management of giant hogweed (<i>Heracleum mantegazzianum</i>)	978-1-84593-206-0	10.1079/9781845932060.0000	2007						http://www.cabi.org/cabebooks/ebook/20073039317		20073039317													
+The agricultural groundwater revolution: opportunities and threats to development	978-1-84593-172-8	10.1079/9781845931728.0000	2007						http://www.cabi.org/cabebooks/ebook/20073043512		20073043512													
+Greenhouse gas sinks	978-1-84593-189-6	10.1079/9781845931896.0000	2007						http://www.cabi.org/cabebooks/ebook/20073047892		20073047892													
+Inositol phosphates: linking agriculture and the environment	1-84593-152-1\978-1-84593-152-0	10.1079/9781845931520.0000	2007						http://www.cabi.org/cabebooks/ebook/20073069288		20073069288													
+No-tillage seeding in conservation agriculture	1-84593-116-5\978-1-84593-116-2	10.1079/9781845931162.0000	2006						http://www.cabi.org/cabebooks/ebook/20073070355		20073070355													
+"Seeds: biology, development and ecology. Proceedings of the Eighth International Workshop on Seeds, Brisbane, Australia, May 2005"	978-1-84593-197-1	10.1079/9781845931971.0000	2007						http://www.cabi.org/cabebooks/ebook/20073071829		20073071829													
+"Transfrontier conservation in Africa: at the confluence of capital, politics and nature"	978-1-84593-221-3	10.1079/9781845932213.0000	2007						http://www.cabi.org/cabebooks/ebook/20073072152		20073072152													
+Sustainable forestry: from monitoring and modelling to knowledge management and policy science	978-1-84593-1742	10.1079/9781845931742.0000	2007						http://www.cabi.org/cabebooks/ebook/20073072208		20073072208													
+"Global supply chains, standards and the poor: how the globalization of food systems and standards affects rural development and poverty"	978-1-84593-1858	10.1079/9781845931858.0000	2007						http://www.cabi.org/cabebooks/ebook/20073072361		20073072361													
+Nutrition and feeding of organic pigs	978-1-84593-191-9	10.1079/9781845931919.0000	2007						http://www.cabi.org/cabebooks/ebook/20073072446		20073072446													
+Tourism and protected areas: benefits beyond boundaries. The Vth IUCN World Parks Congress	978-0-85199-022-4	10.1079/9780851990224.0000	2007						http://www.cabi.org/cabebooks/ebook/20073091373		20073091373													
+China's livestock revolution: agribusiness and policy developments in the sheep meat industry	978-1-84593-246-6	10.1079/9781845932466.0000	2007						http://www.cabi.org/cabebooks/ebook/20073092879		20073092879													
+Animal welfare and meat production	978-1-84593-215-2	10.1079/9781845932152.0000	2007						http://www.cabi.org/cabebooks/ebook/20073092888		20073092888													
+Chickpea breeding and management	1-84593-2137-7\978-1-84593-213-8	10.1079/9781845932138.000	2007						http://www.cabi.org/cabebooks/ebook/20073094744		20073094744													
+The psychology of food choice	978-0-85199-032-3\0-85199-032-0	10.1079/9780851990323.0000	2006						http://www.cabi.org/cabebooks/ebook/20073101502		20073101502													
+The global theme park industry	978-1-84593-208-4	10.1079/9781845932084.0000	2007						http://www.cabi.org/cabebooks/ebook/20073104166		20073104166													
+Protozoal abortion in farm ruminants: guidelines for diagnosis and control 	978-1-84593-211-4	10.1079/9781845932114.0000	2007						http://www.cabi.org/cabebooks/ebook/20073106129		20073106129													
+Multifunctional agriculture: a transition theory perspective	978-1-84593-256-5	10.1079/9781845932565.0000	2007						http://www.cabi.org/cabebooks/ebook/20073109026		20073109026													
+"Coffee pests, diseases and their management"	978-1-84593-129-2	10.1079/9781845931292.0000	2007						http://www.cabi.org/cabebooks/ebook/20073122704		20073122704													
+Prospects for polar tourism	978-1-84593-247-3	10.1079/9781845932473.0000	2007						http://www.cabi.org/cabebooks/ebook/20073125101		20073125101													
+Dietary supplements for the health and quality of cultured fish	978-1-84593-199-5	10.1079/9781845931995.0000	2007						http://www.cabi.org/cabebooks/ebook/20073138656		20073138656													
+Religious tourism and pilgrimage festivals management: an international perspective	978-1-84593-225-1\1-84593-225-0	10.1079/9781845932251.0000	2007						http://www.cabi.org/cabebooks/ebook/20073138799		20073138799													
+"The public, the media and agricultural biotechnology"	978-1-84593-204-6	10.1079/9781845932046.0000	2007						http://www.cabi.org/cabebooks/ebook/20073138817		20073138817													
+Understanding western tourists in developing countries	978-1-84593-195-7	10.1079/9781845931957.0000	2007						http://www.cabi.org/cabebooks/ebook/20073138834		20073138834													
+Cross-sectoral policy developments in forestry	978-1-84593-250-3	10.1079/9781845932503.0000	2007						http://www.cabi.org/cabebooks/ebook/20073140377		20073140377													
+Marine ecotourism: between the devil and the deep blue sea	978-1-84593-259-6	10.1079/9781845932596.0000	2007						http://www.cabi.org/cabebooks/ebook/20073163466		20073163466													
+Agricultural biotechnology and intellectual property: seeds of change	978-1-84593-201-5	10.1079/9781845932015.0000	2007						http://www.cabi.org/cabebooks/ebook/20073163478		20073163478													
+Livestock handling and transport	978-1-84593-219-0\1-84593-219-6	10.1079/9781845932190.0000	2007						http://www.cabi.org/cabebooks/ebook/20073164594		20073164594													
+Aphids as crop pests	978-0-85199-819-0	10.1079/9780851998190.0000	2007						http://www.cabi.org/cabebooks/ebook/20073203983		20073203983													
+Heat treatments for postharvest pest control: theory and practice	978-1-84593-252-7	10.1079/9781845932527.0000	2007						http://www.cabi.org/cabebooks/ebook/20073204015		20073204015													
+Forest genetics	978-1-84593-285-5	10.1079/9781845932855.0000	2007						http://www.cabi.org/cabebooks/ebook/20073206655		20073206655													
+Decentralization and the social economics of development: lessons from Kenya	978-1-84593-269-5	10.1079/9781845932695.0000	2007						http://www.cabi.org/cabebooks/ebook/20073207857		20073207857													
+Insect conservation biology	978-1-84593-254-1	10.1079/9781845932541.0000	2007						http://www.cabi.org/cabebooks/ebook/20073210676		20073210676													
+Biological control: a global perspective	978-1-84593-265-7	10.1079/9781845932657.0000	2007						http://www.cabi.org/cabebooks/ebook/20073244756		20073244756													
+Seed dispersal: theory and its application in a changing world	978-1-84593-165-0	10.1079/9781845931650.0000	2007						http://www.cabi.org/cabebooks/ebook/20073244834		20073244834													
+Redesigning animal agriculture: the challenge of the 21st Century	978-1-84593-223-7	10.1079/9781845932237.0000	2007						http://www.cabi.org/cabebooks/ebook/20073245166		20073245166													
+Voluntary food intake and diet selection in farm animals	978-1-84593-279-4	10.1079/9781845932794.0000	2007						http://www.cabi.org/cabebooks/ebook/20073245179		20073245179													
+"Irrigation systems: design, planning and construction"	978-1-84593-263-3	10.1079/9781845932633.0000	2007						http://www.cabi.org/cabebooks/ebook/20073246210		20073246210													
+Sustainable poverty reduction in less-favoured areas	978-1-84593-2770	10.1079/9781845932770.0000	2007						http://www.cabi.org/cabebooks/ebook/20073253225		20073253225													
+Impact of science on African agriculture and food security	978-1-84593-267-1	10.1079/9781845932671.0000	2007						http://www.cabi.org/cabebooks/ebook/20073254339		20073254339													
+Quality assurance and certification in ecotourism	978-1-84593-237-4	10.1079/9781845932374.0000	2007						http://www.cabi.org/cabebooks/ebook/20073257061		20073257061													
+Organic farming: an international history	978-0-85199-833-6	10.1079/9780851998336.0000	2007						http://www.cabi.org/cabebooks/ebook/20073257634		20073257634													
+Forestry and climate change	978-1-84593-294-7	10.1079/9781845932947.0000	2007						http://www.cabi.org/cabebooks/ebook/20073266007		20073266007													
+"Environmental risk assessment of genetically modified organisms, Volume 3. Methodologies for transgenic fish"	9781-84593-2961	10.1079/9781845932961.0000	2007						http://www.cabi.org/cabebooks/ebook/20073267246		20073267246													
+"Landscape trees and shrubs: selection, use and management"	1-84593-054-1\978-1-84593-054-7	10.1079/9781845930547.0000	2006						http://www.cabi.org/cabebooks/ebook/20073273399		20073273399													
+"Tourism and gender: embodiment, sensuality and experience"	978-1-84593-271-8	10.1079/9781845932718.0000	2007						http://www.cabi.org/cabebooks/ebook/20083016461		20083016461													
+"Tourism, culture and regeneration"	978-1-84593-130-8\1-84593-130-0	10.1079/9781845931308.0000	2006						http://www.cabi.org/cabebooks/ebook/20083052566		20083052566													
+"Tourism management: analysis, behaviour and strategy"	978-1-84593-323-4	10.1079/9781845933234.0000	2008						http://www.cabi.org/cabebooks/ebook/20083075447		20083075447													
+Dairy goats feeding and nutrition	978-1-84593-348-7	10.1079/9781845933487.0000	2008						http://www.cabi.org/cabebooks/ebook/20083075568		20083075568													
+"Non-chemical weed management: principles, concepts and technology"	978-1-84593-290-9\978-1-84593-291-6	10.1079/9781845932909.0000	2007						http://www.cabi.org/cabebooks/ebook/20083080285		20083080285													
+Globalization and the least developed countries: potentials and pitfalls	978-1-84593-308-1	10.1079/9781845933081.0000	2007						http://www.cabi.org/cabebooks/ebook/20083095687		20083095687													
+The Olympic games: a social science perspective	978-1-84593-346-3	10.1079/9781845933463.0000	2007						http://www.cabi.org/cabebooks/ebook/20083095694		20083095694													
+International research on natural resource management: advances in impact assessment	978-1-84593-283-1	10.1079/9781845932831.0000	2007						http://www.cabi.org/cabebooks/ebook/20083095706		20083095706													
+"Citrus genetics, breeding and biotechnology"	978-0-85199-019-4	10.1079/9780851990194.0000	2007						http://www.cabi.org/cabebooks/ebook/20083096339		20083096339													
+Biotechnology and plant disease management	978-1-84593-288-6	10.1079/9781845932886.0000	2007						http://www.cabi.org/cabebooks/ebook/20083096357		20083096357													
+Irrigation water pricing: the gap between theory and practice	978-1-84593-292-3	10.1079/9781845932923.0000	2007						http://www.cabi.org/cabebooks/ebook/20083096898		20083096898													
+Community-based water law and water resource management reform in developing countries	978-1-84593-326-5	10.1079/9781845933265.0000	2007						http://www.cabi.org/cabebooks/ebook/20083096913		20083096913													
+Biodiversity loss and conservation in fragmented forest landscapes: the forests of montane Mexico and temperate South America	978-1-84593-261-9	10.1079/9781845932619.0000	2007						http://www.cabi.org/cabebooks/ebook/20083096929		20083096929													
+Integrated watershed management: connecting people to their land and water	978-1-84593-281-7	10.1079/9781845932817.0000	2007						http://www.cabi.org/cabebooks/ebook/20083096945		20083096945													
+Domestic animal behaviour and welfare	978-1-84593-287-9	10.1079/9781845932879.0000	2007						http://www.cabi.org/cabebooks/ebook/20083100834		20083100834													
+Journeys of discovery in volunteer tourism: international case study perspectives	978-1-84593-380-7	10.1079/9781845933807.0000	2008						http://www.cabi.org/cabebooks/ebook/20083128878		20083128878													
+Marine wildlife and tourism management: insights from the natural and social sciences	978-1-84593-345-6	10.1079/9781845933456.0000	2007						http://www.cabi.org/cabebooks/ebook/20083128968		20083128968													
+Long distance transport and welfare of farm animals	978-1-84593-403-3	10.1079/9781845934033.0000	2008						http://www.cabi.org/cabebooks/ebook/20083128990		20083128990													
+"School health, nutrition and education for all: levelling the playing field"	978-1-84593-311-1	10.1079/9781845933111.0000	2007						http://www.cabi.org/cabebooks/ebook/20083132007		20083132007													
+"Indigenous fruit trees in the tropics: domestication, utilization and commercialization"	978-1-84593-110-0	10.1079/9781845931100.0000	2007						http://www.cabi.org/cabebooks/ebook/20083134897		20083134897													
+Areawide pest management: theory and implementation	978-1-84593-372-2	10.1079/9781845933722.0000	2008						http://www.cabi.org/cabebooks/ebook/20083134919		20083134919													
+Pest management and phytosanitary trade barriers	978-1-84593-343-2	10.1079/9781845933432.0000	2008						http://www.cabi.org/cabebooks/ebook/20083134941		20083134941													
+Conserving plant genetic diversity in protected areas: population management of crop wild relatives	978-1-84593-282-4	10.1079/9781845932824.0000	2008						http://www.cabi.org/cabebooks/ebook/20083134955		20083134955													
+Plant genotyping II: SNP technology	978-1-84593-382-1	10.1079/9781845933821.0000	2008						http://www.cabi.org/cabebooks/ebook/20083134963		20083134963													
+Poultry production in hot climates	978-1-84593-258-9	10.1079/9781845932589.0000	2008						http://www.cabi.org/cabebooks/ebook/20083163627		20083163627													
+Mathematical modelling in animal nutrition	978-1-84593-354-8	10.1079/9781845933548.0000	2008						http://www.cabi.org/cabebooks/ebook/20083163640		20083163640													
+Global pesticide resistance in arthropods	978-1-84593-353-1	10.1079/9781845933531.0000	2008						http://www.cabi.org/cabebooks/ebook/20083164901		20083164901													
+Plant membrane and vacuolar transporters	978-1-84593-402-6	10.1079/9781845934026.0000	2008						http://www.cabi.org/cabebooks/ebook/20083189541		20083189541													
+"Mycotoxins: detection methods, management, public health and agricultural trade"	978-1-84593-082-0	10.1079/9781845930820.0000	2008						http://www.cabi.org/cabebooks/ebook/20083189556		20083189556													
+Onions and other vegetable alliums	978-1-84593-399-9	10.1079/9781845933999.0000	2008						http://www.cabi.org/cabebooks/ebook/20083197696		20083197696													
+Tourism and mobilities: local-global connections	978-1-84593-404-0	10.1079/9781845934040.0000	2008						http://www.cabi.org/cabebooks/ebook/20083214135		20083214135													
+Nutrition and feeding of organic poultry	978-1-84593-406-4	10.1079/9781845934064.0000	2008						http://www.cabi.org/cabebooks/ebook/20083215095		20083215095													
+Chemistry of spices	978-1-84593-405-7	10.1079/9781845934057.0000	2008						http://www.cabi.org/cabebooks/ebook/20083217094		20083217094													
+"Environmental risk assessment of genetically modified organisms: challenges and opportunities with Bt cotton in Vietnam, Vol.4"	978-1-84593-390-6	10.1079/9781845933906.0000	2008						http://www.cabi.org/cabebooks/ebook/20083217119		20083217119													
+Animal nutrition science	978-1-84593-412-5	10.1079/9781845934125.0000	2008						http://www.cabi.org/cabebooks/ebook/20083234558		20083234558													
+Aquatic insects: challenges to populations	978-1-84593-396-8	10.1079/9781845933968.0000	2008						http://www.cabi.org/cabebooks/ebook/20083235313		20083235313													
+Building community capacity for tourism development	978-1-84593-447-7	10.1079/9781845934477.0000	2008						http://www.cabi.org/cabebooks/ebook/20083237554		20083237554													
+"Conserving land, protecting water"	978-1-84593-387-6	10.1079/9781845933876.0000	2008						http://www.cabi.org/cabebooks/ebook/20083237767		20083237767													
+"Herbal radiomodulators: applications in medicine, homeland defence and space"	978-1-84593-395-1	10.1079/9781845933951.0000	2008						http://www.cabi.org/cabebooks/ebook/20083238021		20083238021													
+Domestic duck production: science and practice	978-0-85199-054-5	10.1079/9780851990545.0000	2008						http://www.cabi.org/cabebooks/ebook/20083257814		20083257814													
+Ecotourism and conservation in the Americas	978-1-84593-400-2	10.1079/9781845934002.0000	2008						http://www.cabi.org/cabebooks/ebook/20083258104		20083258104													
+Root feeders: an ecosystem approach	978-1-84593-461-3	10.1079/9781845934613.0000	2008						http://www.cabi.org/cabebooks/ebook/20083284375		20083284375													
+Health benefits of organic food: effects of the environment	978-1-84593-459-0	10.1079/9781845934590.0000	2008						http://www.cabi.org/cabebooks/ebook/20083284864		20083284864													
+"The peach: botany, production and uses"	978-1-84593-386-9	10.1079/9781845933869.0000	2008						http://www.cabi.org/cabebooks/ebook/20083291729		20083291729													
+"Equine reproductive physiology, breeding and stud management"	978-1-84593-450-7	10.1079/9781845934507.0000	2008						http://www.cabi.org/cabebooks/ebook/20083315479		20083315479													
+"Ecohydrology: processes, models and case studies: an approach to the sustainable management of water resources"	978-1-84593-002-8	10.1079/9781845930028.0000	2008						http://www.cabi.org/cabebooks/ebook/20083317652		20083317652													
+"Tourism, recreation and sustainability: linking culture and the environment"	978-1-84593-470-5	10.1079/9781845934705.0000	2008						http://www.cabi.org/cabebooks/ebook/20093000264		20093000264													
+Environmental impacts of pasture-based farming	978-1-84593-411-8	10.1079/9781845934118.0000	2008						http://www.cabi.org/cabebooks/ebook/20093001810		20093001810													
+"Proceedings of the XII International Symposium on Biological Control of Weeds, La Grande Motte, France, 22-27 April, 2007"	978-1-84593-506-1	10.1079/9781845935061.0000	2008						http://www.cabi.org/cabebooks/ebook/20093001821		20093001821													
+Mycoplasma diseases of ruminants	978-0-85199-012-5	10.1079/9780851990125.0000	2008						http://www.cabi.org/cabebooks/ebook/20093002833		20093002833													
+Resource allocation theory applied to farm animal production	978-1-84593-394-4	10.1079/9781845933944.0000	2008						http://www.cabi.org/cabebooks/ebook/20093002848		20093002848													
+"Tropical root and tuber crops: cassava, sweet potato, yams and aroids"	978-1-84593-424-8	10.1079/9781845934248.0000	2008						http://www.cabi.org/cabebooks/ebook/20093020206		20093020206													
+Olives	978-1-84593-458-3	10.1079/9781845934583.0000	2008						http://www.cabi.org/cabebooks/ebook/20093020235		20093020235													
+The economics of animal health and production	978-1-84593-194-0	10.1079/9781845931940.0000	2008						http://www.cabi.org/cabebooks/ebook/20093020677		20093020677													
+The ecosystem approach to fisheries	978-1-84593-414-9	10.1079/9781845934149.0000	2008						http://www.cabi.org/cabebooks/ebook/20093020704		20093020704													
+RNA interference: methods for plants and animals	978-1-84593-410-1	10.1079/9781845934101.0000	2008						http://www.cabi.org/cabebooks/ebook/20093020724		20093020724													
+Sustainable farmland management: transdisciplinary approaches	978-1-84593-351-7	10.1079/9781845933517.0000	2008						http://www.cabi.org/cabebooks/ebook/20093021037		20093021037													
+Grapes	978-1-84593-401-9	10.1079/9781845934019.0000	2009						http://www.cabi.org/cabebooks/ebook/20093040127		20093040127													
+Rainfed agriculture: unlocking the potential	978-1-84593-389-0	10.1079/9781845933890.0000	2009						http://www.cabi.org/cabebooks/ebook/20093041375		20093041375													
+River tourism	978-1-84593-468-2	10.1079/9781845934682.0000	2009						http://www.cabi.org/cabebooks/ebook/20093069357		20093069357													
+Environmental impact of genetically modified crops	978-1-84593-409-5	10.1079/9781845934095.0000	2009						http://www.cabi.org/cabebooks/ebook/20093074618		20093074618													
+"Tourism development: growth, myths and inequalities"	978-1-84593-425-5	10.1079/9781845934255.0000	2008						http://www.cabi.org/cabebooks/ebook/20093078645		20093078645													
+Potatoes postharvest	978-0-85199-502-1	10.1079/9780851995021.0000	2009						http://www.cabi.org/cabebooks/ebook/20093080566		20093080566													
+<i>Giardia</i> and <i>Cryptosporidium</i>: from molecules to disease	978-1-84593-391-3	10.1079/9781845933913.0000	2009						http://www.cabi.org/cabebooks/ebook/20093086271		20093086271													
+Insect pathogens: molecular approaches and techniques	978-1-84593-478-1	10.1079/9781845934781.0000	2009						http://www.cabi.org/cabebooks/ebook/20093093999		20093093999													
+Quantitative trait loci analysis in animals	978-1-84593-467-5	10.1079/9781845934675.0000	2009						http://www.cabi.org/cabebooks/ebook/20093097527		20093097527													
+Agritourism	978-1-84593-482-8	10.1079/9781845934828.0000	2009						http://www.cabi.org/cabebooks/ebook/20093120380		20093120380													
+"The mango: botany, production and uses"	978-1-84593-489-7	10.1079/9781845934897.0000	2009						http://www.cabi.org/cabebooks/ebook/20093143199		20093143199													
+Intellectual property rights and food security	978-1-84593-560-3	10.1079/9781845935603.0000	2009						http://www.cabi.org/cabebooks/ebook/20093148110		20093148110													
+Peptides in energy balance and obesity	978-1-84593-407-1	10.1079/9781845934071.0000	2009						http://www.cabi.org/cabebooks/ebook/20093157534		20093157534													
+Biorational tree-fruit pest management	978-1-84593-484-2	10.1079/9781845934842.0000	2009						http://www.cabi.org/cabebooks/ebook/20093168681		20093168681													
+Biology of breeding poultry	978-1-84593-375-3	10.1079/9781845933753.0000	2009						http://www.cabi.org/cabebooks/ebook/20093172194		20093172194													
+Nematodes as environmental indicators	978-1-84593-385-2	10.1079/9781845933852.0000	2009						http://www.cabi.org/cabebooks/ebook/20093184806		20093184806													
+People and work in events and conventions: a research perspective	978-1-84593-476-7	10.1079/9781845934767.0000	2009						http://www.cabi.org/cabebooks/ebook/20093191832		20093191832													
+"The lentil: botany, production and uses"	978-1-84593-487-3	10.1079/9781845934873.0000	2009						http://www.cabi.org/cabebooks/ebook/20093211138		20093211138													
+Rangeland degradation and recovery in China's pastoral lands	978-1-84593-496-5	10.1079/9781845934965.0000	2009						http://www.cabi.org/cabebooks/ebook/20093214939		20093214939													
+Tourism strategies and local responses in Southern Africa	978-1-84593-508-5	10.1079/9781845935085.0000	2009						http://www.cabi.org/cabebooks/ebook/20093216048		20093216048													
+Prioritizing agricultural research for development: experiences and lessons	978-1-84593-566-5	10.1079/9781845935665.0000	2009						http://www.cabi.org/cabebooks/ebook/20093244536		20093244536													
+Applied mycology	978-1-84593-534-4	10.1079/9781845935344.0000	2009						http://www.cabi.org/cabebooks/ebook/20093260125		20093260125													
+Agro-industries for development	978-1-84593-576-4	10.1079/9781845935764.0000	2009						http://www.cabi.org/cabebooks/ebook/20093261261		20093261261													
+"River basin trajectories: societies, environments and development"	978-1-84593-538-2	10.1079/9781845935382.0000	2009						http://www.cabi.org/cabebooks/ebook/20093267218		20093267218													
+Crop wild relative conservation and use	978-1-84593-099-8	10.1079/9781845930998.0000	2007						http://www.cabi.org/cabebooks/ebook/20093268662		20093268662													
+Event management and sustainability	978-1-84593-524-5	10.1079/9781845935245.0000	2009						http://www.cabi.org/cabebooks/ebook/20093278812		20093278812													
+"Planted forests: uses, impacts and sustainability"	978-1-84593-564-1	10.1079/9781845935641.0000	2009						http://www.cabi.org/cabebooks/ebook/20093280652		20093280652													
+The ecology and silviculture of oaks	978-1-84593-474-3	10.1079/9781845934743.0000	2009						http://www.cabi.org/cabebooks/ebook/20093280662		20093280662													
+Molecular plant-microbe interactions	978-1-84593-574-0	10.1079/9781845935740.0000	2009						http://www.cabi.org/cabebooks/ebook/20093281804		20093281804													
+"Biofuels: production, application and development"	978-1-84593-592-4	10.1079/9781845935924.0000	2009						http://www.cabi.org/cabebooks/ebook/20093295677		20093295677													
+Vegetable seed production	978-1-84593-521-4	10.1079/9781845935214.0000	2009						http://www.cabi.org/cabebooks/ebook/20093330163		20093330163													
+Root-knot nematodes	978-1-84593-492-7	10.1079/9781845934927.0000	2009						http://www.cabi.org/cabebooks/ebook/20093330180		20093330180													
+Farm business management: the human factor	978-1-84593-598-6	10.1079/9781845935986.0000	2009						http://www.cabi.org/cabebooks/ebook/20093345350		20093345350													
+Introduction to pandemic influenza	978-1-84593-625-9	10.1079/9781845936259.0000	2009						http://www.cabi.org/cabebooks/ebook/20093345846		20093345846													
+"Phytoplasmas: genomes, plant hosts and vectors"	978-1-84593-530-6	10.1079/9781845935306.0000	2009						http://www.cabi.org/cabebooks/ebook/20093353123		20093353123													
+Principles of cattle production	978-1-84593-397-5	10.1079/9781845933975.0000	2009						http://www.cabi.org/cabebooks/ebook/20103000595		20103000595													
+City tourism: national capital perspectives	978-1-84593-546-7	10.1079/9781845935467.0000	2009						http://www.cabi.org/cabebooks/ebook/20103004779		20103004779													
+Tourism and Generation Y	978-1-84593-601-3	10.1079/9781845936013.0000	2009						http://www.cabi.org/cabebooks/ebook/20103056772		20103056772													
+The next rural economies: constructing rural place in global economies	978-1-84593-581-8	10.1079/9781845935818.0000	2009						http://www.cabi.org/cabebooks/ebook/20103056792		20103056792													
+"Citrus mites: identification, bionomy and control "	978-1-84593-498-9	10.1079/9781845934989.0000	2009						http://www.cabi.org/cabebooks/ebook/20103057587		20103057587													
+Improving animal welfare: a practical approach	978-1-84593-541-2	10.1079/9781845935412.000	2009						http://www.cabi.org/cabebooks/ebook/20103091595		20103091595													
+"Paratuberculosis: organism, disease, control"	978-1-84593-613-6	10.1079/9781845936136.0000	2010						http://www.cabi.org/cabebooks/ebook/20103091636		20103091636													
+Plant cold hardiness: from the laboratory to the field	978-1-84593-513-9	10.1079/9781845935139.0000	2009						http://www.cabi.org/cabebooks/ebook/20103094822		20103094822													
+Management of fungal plant pathogens	978-1-84593-603-7	10.1079/9781845936037.0000	2010						http://www.cabi.org/cabebooks/ebook/20103095221		20103095221													
+Molecular plant breeding	978-1-84593-392-0	10.1079/9781845933920.0000	2010						http://www.cabi.org/cabebooks/ebook/20103101750		20103101750													
+Phosphorus and calcium utilization and requirements in farm animals	978-1-84593-626-6	10.1079/9781845936266.0000	2010						http://www.cabi.org/cabebooks/ebook/20103120575		20103120575													
+"Fish diseases and disorders, Volume 2"	978-1-84593-553-5	10.1079/9781845935535.0000	2010						http://www.cabi.org/cabebooks/ebook/20103120624		20103120624													
+Irrigation management: principles and practices	978-1-84593-516-0	10.1079/9781845935160.0000	2010						http://www.cabi.org/cabebooks/ebook/20103124309		20103124309													
+Finfish aquaculture diversification	978-1-84593-494-1	10.1079/9781845934941.0000	2010						http://www.cabi.org/cabebooks/ebook/20103134907		20103134907													
+Coffee wilt disease	978-1-84593-641-9	10.1079/9781845936419.0000	2010						http://www.cabi.org/cabebooks/ebook/20103151287		20103151287													
+The behaviour and welfare of the horse	978-1-84593-628-0	10.1079/9781845936280.0000	2010						http://www.cabi.org/cabebooks/ebook/20103153915		20103153915													
+"Tourism and visual culture, Volume 1: Theories and concepts"	978-1-84593-609-9	10.1079/9781845936099.0000	2010						http://www.cabi.org/cabebooks/ebook/20103161230		20103161230													
+"Tourism, progress and peace"	978-1-84593-677-8	10.1079/9781845936778.0000	2010						http://www.cabi.org/cabebooks/ebook/20103161250		20103161250													
+Mastitis control in dairy herds	978-1-84593-550-4	10.1079/9781845935504.0000	2010						http://www.cabi.org/cabebooks/ebook/20103163287		20103163287													
+Nutrition of the rabbit	978-1-84593-669-3	10.1079/9781845936693.0000	2010						http://www.cabi.org/cabebooks/ebook/20103205027		20103205027													
+Climate change and crop production	978-1-84593-633-4	10.1079/9781845936334.0000	2010						http://www.cabi.org/cabebooks/ebook/20103205516		20103205516													
+Veterinary treatment for working equines	978-1-84593-655-6	10.1079/9781845936556.0000	2010						http://www.cabi.org/cabebooks/ebook/20103227141		20103227141													
+"Tropical deltas and coastal zones: Food production, communities and environment at the land and water interface"	978-1-84593-618-1	10.1079/9781845936181.0000	2010						http://www.cabi.org/cabebooks/ebook/20103227401		20103227401													
+"Tourism and visual culture, Volume 2: Methods and cases"	978-1-84593-611-2	10.1079/9781845936112.0000	2010						http://www.cabi.org/cabebooks/ebook/20103227783		20103227783													
+Cultural tourism research methods	978-1-84593-518-4	10.1079/9781845935184.0000	2010						http://www.cabi.org/cabebooks/ebook/20103227807		20103227807													
+<i>Helicobacter pylori</i> in the 21st Century	978-1-84593-594-8	10.1079/9781845935948.0000	2010						http://www.cabi.org/cabebooks/ebook/20103227933		20103227933													
+"Nutrition, immunity and infection"	978-0-85199-531-1	10.1079/9780851995311.0000	2010						http://www.cabi.org/cabebooks/ebook/20103250985		20103250985													
+Agri-food chain relationships	978-1-84593-642-6	10.1079/9781845936426.0000	2010						http://www.cabi.org/cabebooks/ebook/20103251104		20103251104													
+"The soybean: botany, production and uses"	978-1-84593-644-0	10.1079/9781845936440.0000	2010						http://www.cabi.org/cabebooks/ebook/20103251168		20103251168													
+Controlled atmosphere storage of fruits and vegetables	978-1-84593-646-4	10.1079/9781845936464.0000	2010						http://www.cabi.org/cabebooks/ebook/20103257949		20103257949													
+Mineral nutrition of livestock	978-1-84593-472-9	10.1079/9781845934729.0000	2010						http://www.cabi.org/cabebooks/ebook/20103291114		20103291114													
+Farm business management: the core skills	978-1-84593-667-9	10.1079/9781845936679.0000	2010						http://www.cabi.org/cabebooks/ebook/20103291996		20103291996													
+"Bread, beer and the seeds of change: Agriculture's imprint on world history"	978-1-84593-705-8	10.1079/9781845937058.0000	2010						http://www.cabi.org/cabebooks/ebook/20103292002		20103292002													
+Giants of tourism	978-1-84593-652-5	10.1079/9781845936525.0000	2010						http://www.cabi.org/cabebooks/ebook/20103292026		20103292026													
+Industrial crops and uses	978-1-84593-616-7	10.1079/9781845936167.0000	2010						http://www.cabi.org/cabebooks/ebook/20103292592		20103292592													
+Invasive plant ecology in natural and agricultural systems	978-1-84593-605-1	10.1079/9781845936051.0000	2010						http://www.cabi.org/cabebooks/ebook/20103309631		20103309631													
+Events management	978-1-84593-682-2	10.1079/9781845936822.0000	2010						http://www.cabi.org/cabebooks/ebook/20103317803		20103317803													
+Bananas and plantains	978-1-84593-658-7	10.1079/9781845936587.0000	2010						http://www.cabi.org/cabebooks/ebook/20103319750		20103319750													
+"Antimicrobial peptides: discovery, design and novel therapeutic strategies"	978-1-84593-657-0	10.1079/9781845936570.0000	2010						http://www.cabi.org/cabebooks/ebook/20103329665		20103329665													
+Natural products in plant pest management	978-1-84593-671-6	10.1079/9781845936716.0000	2011						http://www.cabi.org/cabebooks/ebook/20103343011		20103343011													
+Biopesticides: pest management and regulation	978-1-84593-559-7	10.1079/9781845935597.0000	2010						http://www.cabi.org/cabebooks/ebook/20103343023		20103343023													
+Breeding for disease resistance in farm animals	978-1-84593-555-9	10.1079/9781845935559.0000	2010						http://www.cabi.org/cabebooks/ebook/20103344606		20103344606													
+Conservation tourism	978-1-84593-665-5	10.1079/9781845936655.0000	2010						http://www.cabi.org/cabebooks/ebook/20103344935		20103344935													
+"Nourishing the land, nourishing the people: a Madagascar success story"	978-1-84593-739-3	10.1079/9781845937393.0000	2010						http://www.cabi.org/cabebooks/ebook/20103344990		20103344990													
+Tourism and inequality: problems and prospects	978-1-84593-662-4	10.1079/9781845936624.0000	2010						http://www.cabi.org/cabebooks/ebook/20103348696		20103348696													
+Zoonotic pathogens in the food chain	978-1-84593-681-5	10.1079/9781845936815.0000	2011						http://www.cabi.org/cabebooks/ebook/20103350423		20103350423													
+"Tropical fruits, Volume 1"	978-1-84593-672-3	10.1079/9781845936723.0000	2011						http://www.cabi.org/cabebooks/ebook/20103354984		20103354984													
+Enzymes in farm animal nutrition	978-1-84593-674-7	10.1079/9781845936747.0000	2010						http://www.cabi.org/cabebooks/ebook/20103355606		20103355606													
+Medicinal plant biotechnology	978-1-84593-678-5	10.1079/9781845936785.0000	2010						http://www.cabi.org/cabebooks/ebook/20103366972		20103366972													
+Disappearing destinations: Climate change and future challenges for coastal tourism	978-1-84593-548-1	10.1079/9781845935481.0000	2011						http://www.cabi.org/cabebooks/ebook/20103379660		20103379660													
+Combating micronutrient deficiencies: food-based approaches	978-1-84593-714-0	10.1079/9781845937140.0000	2011						http://www.cabi.org/cabebooks/ebook/20103380332		20103380332													
+Human-livestock interactions: The stockperson and the productivity and welfare of intensively farmed animals	978-1-84593-673-0	10.1079/9781845936730.0000	2011						http://www.cabi.org/cabebooks/ebook/20103380749		20103380749													
+Tropical vegetable production	978-1-84593-753-9	10.1079/9781845937539.0000	2011						http://www.cabi.org/cabebooks/ebook/20103382703		20103382703													
+Turfgrass physiology and ecology: advanced management principles	978-1-84593-648-8	10.1079/9781845936488.0000	2011						http://www.cabi.org/cabebooks/ebook/20113001185		20113001185													
+Research themes for tourism	978-1-84593-684-6	10.1079/9781845936846.0000	2011						http://www.cabi.org/cabebooks/ebook/20113005517		20113005517													
+"African smallholders. Food crops, markets and policy"	978-1-84593-716-4	10.1079/9781845937164.0000	2011						http://www.cabi.org/cabebooks/ebook/20113005550		20113005550													
+The genetics of the pig	978-1-84593-756-0	10.1079/9781845937560.0000	2011						http://www.cabi.org/cabebooks/ebook/20113037234		20113037234													
+Small-scale fisheries management: frameworks and approaches for the developing world	978-1-84593-607-5	10.1079/9781845936075.0000	2011						http://www.cabi.org/cabebooks/ebook/20113041422		20113041422													
+"Fish diseases and disorders. Volume 3: viral, bacterial and fungal infections"	978-1-84593-554-2	10.1079/9781845935542.0000	2011						http://www.cabi.org/cabebooks/ebook/20113056589		20113056589													
+Innovation in forestry: territorial and value chain relationships	978-1-84593-689-1	10.1079/9781845936891.0000	2011						http://www.cabi.org/cabebooks/ebook/20113061368		20113061368													
+Island tourism: sustainable perspectives	978-1-84593-679-2	10.1079/9781845936792.0000	2011						http://www.cabi.org/cabebooks/ebook/20113094518		20113094518													
+Strategic management in tourism	978-1-84593-588-7	10.1079/9781845935887.0000	2011						http://www.cabi.org/cabebooks/ebook/20113094547		20113094547													
+Molecular and physiological basis of nematode survival	978-1-84593-687-7	10.1079/9781845936877.0000	2011						http://www.cabi.org/cabebooks/ebook/20113096513		20113096513													
+Medical tourism	978-1-84593-660-0	10.1079/9781845936600.0000	2011						http://www.cabi.org/cabebooks/ebook/20113100495		20113100495													
+Nutrition and feeding of organic cattle	978-1-84593-758-4	10.1079/9781845937584.0000	2011						http://www.cabi.org/cabebooks/ebook/20113101632		20113101632													
+Agrobiodiversity management for food security: a critical review	978-1-84593-761-4	10.1079/9781845937614.0000	2011						http://www.cabi.org/cabebooks/ebook/20113102107		20113102107													
+"Poisoning by plants, mycotoxins and related toxins"	978-1-84593-833-8	10.1079/9781845938338.0000	2011						http://www.cabi.org/cabebooks/ebook/20113141861		20113141861													
+Chemical food safety	978-1-84593-676-1	10.1079/9781845936761.0000	2011						http://www.cabi.org/cabebooks/ebook/20113143132		20113143132													
+"Labels of origin for food: local development, global recognition"	978-1-84593-352-4	10.1079/9781845933524.0000	2011						http://www.cabi.org/cabebooks/ebook/20113165522		20113165522													
+African seed enterprises: sowing the seeds of food security	978-1-84593-843-7	10.1079/9781845938437.0000	2011						http://www.cabi.org/cabebooks/ebook/20113181052		20113181052													
+"Tourist destination governance: practice, theory and issues"	978-1-84593-794-2	10.1079/9781845937942.0000	2011						http://www.cabi.org/cabebooks/ebook/20113183423		20113183423													
+Food security in Africa and Asia: strategies for small-scale agricultural development	978-1-84593-841-3	10.1079/9781845938413.0000	2011						http://www.cabi.org/cabebooks/ebook/20113205931		20113205931													
+Vegetable production and marketing in Africa: socio-economic research	978-1-84593-649-5	10.1079/9781845936495.0000	2011						http://www.cabi.org/cabebooks/ebook/20113221523		20113221523													
+Stress response in pathogenic bacteria	978-1-84593-760-7	10.1079/9781845937607.0000	2011						http://www.cabi.org/cabebooks/ebook/20113232605		20113232605													
+"Soil hydrology, land use and agriculture: measurement and modelling"	978-1-84593-797-3	10.1079/9781845937973.0000	2011						http://www.cabi.org/cabebooks/ebook/20113256943		20113256943													
+Destination marketing and management: theories and applications	978-1-84593-762-1	10.1079/9781845937621.0000	2011						http://www.cabi.org/cabebooks/ebook/20113269954		20113269954													
+Biology of <i>Hevea</i> rubber	978-1-84593-666-2	10.1079/9781845936662.0000	2011						http://www.cabi.org/cabebooks/ebook/20113282803		20113282803													
+Lyme disease: an evidence-based approach	978-1-84593-804-8	10.1079/9781845938048.0000	2011						http://www.cabi.org/cabebooks/ebook/20113284356		20113284356													
+Farm business management: analysis of farming systems	978-1-84593-839-0	10.1079/9781845938390.0000	2011						http://www.cabi.org/cabebooks/ebook/20113297684		20113297684													
+"Planning for tourism, leisure and sustainability: international case studies"	978-1-84593-742-3	10.1079/9781845937423.0000	2011						http://www.cabi.org/cabebooks/ebook/20113297699		20113297699													
+Aquaculture and fisheries biotechnology: genetic approaches	978-1-84593-651-8	10.1079/9781845936518.0000	2011						http://www.cabi.org/cabebooks/ebook/20113319351		20113319351													
+Biology and breeding of food legumes	978-1-84593-766-9	10.1079/9781845937669.0000	2011						http://www.cabi.org/cabebooks/ebook/20113319811		20113319811													
+Health-promoting properties of fruit and vegetables	978-1-84593-528-3	10.1079/9781845935283.0000	2011						http://www.cabi.org/cabebooks/ebook/20113328619		20113328619													
+The architecture and biology of soils: life in inner space	978-1-84593-532-0	10.1079/9781845935320.0000	2011						http://www.cabi.org/cabebooks/ebook/20113333031		20113333031													
+Natural antimicrobials in food safety and quality	978-1-84593-769-0	10.1079/9781845937690.0000	2011						http://www.cabi.org/cabebooks/ebook/20113333881		20113333881													
+Urban pest management: an environmental perspective	978-1-84593-803-1	10.1079/9781845938031.0000	2011						http://www.cabi.org/cabebooks/ebook/20113334975		20113334975													
+Deafness in dogs and cats	978-1-84593-764-5	10.1079/9781845937645.0000	2011						http://www.cabi.org/cabebooks/ebook/20113341820		20113341820													
+Grassland productivity and ecosystem services	978-1-84593-809-3	10.1079/9781845938093.0000	2011						http://www.cabi.org/cabebooks/ebook/20113342882		20113342882													
+Agricultural seed production	978-1-84593-819-2	10.1079/9781845938192.0000	2011						http://www.cabi.org/cabebooks/ebook/20113350132		20113350132													
+Crop stress management and global climate change	978-1-84593-680-8	10.1079/9781845936808.0000	2011						http://www.cabi.org/cabebooks/ebook/20113359078		20113359078													
+"Plants, biotechnology and agriculture"	978-1-84593-913-7	10.1079/9781845939137.0000	2011						http://www.cabi.org/cabebooks/ebook/20113359089		20113359089													
+Amino acids in human nutrition and health	978-1-84593-798-0	10.1079/9781845937980.0000	2012						http://www.cabi.org/cabebooks/ebook/20113376157		20113376157													
+Temperature adaptation in a changing climate: nature at risk	978-1-84593-822-2	10.1079/9781845938222.0000	2012						http://www.cabi.org/cabebooks/ebook/20113380753		20113380753													
+Invasive alien plants: an ecological appraisal for the Indian subcontinent	978-1-84593-907-6	10.1079/9781845939076.0000	2012						http://www.cabi.org/cabebooks/ebook/20113382165		20113382165													
+"The food and financial crises in sub-Saharan Africa: origins, impacts and policy implications"	978-1-84593-828-4	10.1079/9781845938284.0000	2011						http://www.cabi.org/cabebooks/ebook/20113384855		20113384855													
+Restoring community connections to the land: building resilience through community-based rangeland management in China and Mongolia	978-1-84593-894-9	10.1079/9781845938949.0000	2012						http://www.cabi.org/cabebooks/ebook/20113385035		20113385035													
+The business and management of ocean cruises	978-1-84593-845-1	10.1079/9781845938451.0000	2012						http://www.cabi.org/cabebooks/ebook/20113385047		20113385047													
+Fish parasites: pathobiology and protection	978-1-84593-806-2	10.1079/9781845938062.0000	2012						http://www.cabi.org/cabebooks/ebook/20113395255		20113395255													
+Fungicide resistance in crop protection: risk and management	978-1-84593-905-2	10.1079/9781845939052.0000	2012						http://www.cabi.org/cabebooks/ebook/20113397623		20113397623													
+Agrobiodiversity conservation: securing the diversity of crop wild relatives and landraces	978-1-84593-851-2	10.1079/9781845938512.0000	2012						http://www.cabi.org/cabebooks/ebook/20113397645		20113397645													
+The biology of mosquitoes. Volume 3: Transmission of viruses and interactions with bacteria	978-1-84593-242-8	10.1079/9781845932428.0000	2012						http://www.cabi.org/cabebooks/ebook/20113397688		20113397688													
+Goat meat production and quality	978-1-84593-849-9	10.1079/9781845938499.0000	2012						http://www.cabi.org/cabebooks/ebook/20113399771		20113399771													
+Controversies in tourism	978-1-84593-813-0	10.1079/9781845938130.0000	2012						http://www.cabi.org/cabebooks/ebook/20113399873		20113399873													
+External parasites of small ruminants. A practical guide to their prevention and control	978-1-84593-664-8	10.1079/9781845936648.0000	2012						http://www.cabi.org/cabebooks/ebook/20123038731		20123038731													
+Small animal soft tissue surgery	978-1-84593-821-5	10.1079/9781845938215.0000	2012						http://www.cabi.org/cabebooks/ebook/20123038742		20123038742													
+Blueberries	978-1-84593-826-0	10.1079/9781845939045.0000	2012						http://www.cabi.org/cabebooks/ebook/20123043483		20123043483													
+"Peppers: botany, production and uses"	978-1-84593-767-6	10.1079/9781845937676.0000	2012						http://www.cabi.org/cabebooks/ebook/20123048660		20123048660													
+A handbook for the sheep clinician	978-1-84593-973-1	10.1079/9781845939731.0000	2012						http://www.cabi.org/cabebooks/ebook/20123073898		20123073898													
+Fungal plant pathogens	978-1-84593-668-6	10.1079/9781845936686.0000	2012						http://www.cabi.org/cabebooks/ebook/20123084569		20123084569													
+"Modeling physiology of crop development, growth and yield"	978-1-84593-970-0	10.1079/9781845939700.0000	2012						http://www.cabi.org/cabebooks/ebook/20123098608		20123098608													
+Invasive plant ecology and management: linking processes to practice	978-1-84593-811-6	10.1079/9781845938116.0000	2012						http://www.cabi.org/cabebooks/ebook/20123104019		20123104019													
+Agricultural policies for poverty reduction	978-17-8064-105-8	10.1079/9781780641058.0000	2012						http://www.cabi.org/cabebooks/ebook/20123105267		20123105267													
+The genetics of the dog	978-1-84593-940-3	10.1079/9781845939403.0000	2012						http://www.cabi.org/cabebooks/ebook/20123105811		20123105811													
+"Alternative systems for poultry: health, welfare and productivity"	978-1-84593-824-6	10.1079/9781845938246.0000	2012						http://www.cabi.org/cabebooks/ebook/20123105853		20123105853													
+"Life at extremes: environments, organisms and strategies for survival"	978-1-84593-814-7	10.1079/9781845938147.0000	2012						http://www.cabi.org/cabebooks/ebook/20123106263		20123106263													
+Sustainable livestock management for poverty alleviation and food security	978-1-84593-827-7	10.1079/9781845938277.0000	2012						http://www.cabi.org/cabebooks/ebook/20123107004		20123107004													
+Veterinary treatment of sheep and goats	978-1-78064-003-7	10.1079/9781780640037.0000	2012						http://www.cabi.org/cabebooks/ebook/20123130337		20123130337													
+Peppers: vegetable and spice capsicums	978-1-84593-825-3	10.1079/9781845938253.0000	2012						http://www.cabi.org/cabebooks/ebook/20123134730		20123134730													
+Serbia on the road to EU accession. Consequences for agricultural policy and the agri-food chain	978-1-78064-145-4	10.1079/9781780641454.0000	2012						http://www.cabi.org/cabebooks/ebook/20123140905		20123140905													
+Plant stress physiology	978-1-84593-995-3	10.1079/9781845939953.0000	2012						http://www.cabi.org/cabebooks/ebook/20123151319		20123151319													
+Disease resistance in wheat	978-1-84593-818-5	10.1079/9781845938185.0000	2012						http://www.cabi.org/cabebooks/ebook/20123159054		20123159054													
+Rethinking park protection: treading the uncommon ground of environmental beliefs	978-1-84593-999-1	10.1079/9781845939991.0000	2012						http://www.cabi.org/cabebooks/ebook/20123169573		20123169573													
+Frameworks for tourism research	978-1-84593-898-7	10.1079/9781845938987.0000	2012						http://www.cabi.org/cabebooks/ebook/20123169580		20123169580													
+Maternal and perinatal health in developing countries	978-1-84593-745-4	10.1079/9781845937454.0000	2012						http://www.cabi.org/cabebooks/ebook/20123188912		20123188912													
+"Farm incomes, wealth and agricultural policy: filling the CAP's core information gap"	978-1-84593-847-5	10.1079/9781845938475.0000	2012						http://www.cabi.org/cabebooks/ebook/20123189069		20123189069													
+Insect pests in tropical forestry	978-1-84593-636-5	10.1079/9781845936365.0000	2012						http://www.cabi.org/cabebooks/ebook/20123223688		20123223688													
+Living with the trees of life. Towards the transformation of tropical agriculture	978-1-78064-099-0	10.1079/9781780640990.0000	2012						http://www.cabi.org/cabebooks/ebook/20123229959		20123229959													
+Plant evolution and the origin of crop species	978-1-84593-801-7	10.1079/9781845938017.0000	2012						http://www.cabi.org/cabebooks/ebook/20123230136		20123230136													
+Integrated pest management: principles and practice	978-1-84593-808-6	10.1079/9781845938086.0000	2012						http://www.cabi.org/cabebooks/ebook/20123239030		20123239030													
+Veterinary treatment of llamas and alpacas	978-1-78064-006-8	10.1079/9781780640068.0000	2012						http://www.cabi.org/cabebooks/ebook/20123245319		20123245319													
+Feline behaviour and welfare	978-1-84593-926-7	10.1079/9781845939267.0000	2012						http://www.cabi.org/cabebooks/ebook/20123283396		20123283396													
+Managing outdoor recreation: case studies in the National Parks	978-1-84593-931-1	10.1079/9781845939311.0000	2012						http://www.cabi.org/cabebooks/ebook/20123287418		20123287418													
+Crop plant anatomy	978-1-78064-019-8	10.1079/9781780640198.0000	2012						http://www.cabi.org/cabebooks/ebook/20123295452		20123295452													
+Productivity growth in agriculture: an international perspective	978-1-84593-921-2	10.1079/9781845939212.0000	2012						http://www.cabi.org/cabebooks/ebook/20123305091		20123305091													
+Antimicrobial drug discovery: emerging strategies	978-1-84593-943-4	10.1079/9781845939434.0000	2012						http://www.cabi.org/cabebooks/ebook/20123306539		20123306539													
+Bacteriophages in health and disease	978-1-84593-984-7	10.1079/9781845939847.0000	2012						http://www.cabi.org/cabebooks/ebook/20123317556		20123317556													
+"Responsible tourism: concepts, theory and practice"	978-1-84593-987-8	10.1079/9781845939878.0000	2012						http://www.cabi.org/cabebooks/ebook/20123320917		20123320917													
+Arthropod pests of horticultural crops in tropical Asia	978-1-84593-951-9	10.1079/9781845939519.0000	2012						http://www.cabi.org/cabebooks/ebook/20123322861		20123322861													
+The economics of regulation in agriculture: compliance with public and private standards	978-1-84593-557-3	10.1079/9781845935573.0000	2012						http://www.cabi.org/cabebooks/ebook/20123330219		20123330219													
+Plant mutation breeding and biotechnology	978-1-78064-085-3	10.1079/9781780640853.0000	2012						http://www.cabi.org/cabebooks/ebook/20123349331		20123349331													
+"Tropical fruits, Volume 2"	978-1-84593-789-8	10.1079/9781845937898.0000	2012						http://www.cabi.org/cabebooks/ebook/20123357661		20123357661													
+The behaviour of the domestic cat	978-1-84593-992-2	10.1079/9781845939922.0000	2012						http://www.cabi.org/cabebooks/ebook/20123371601		20123371601													
+Veterinary practice management	978-1-84593-980-9	10.1079/9781845939809.0000	2012						http://www.cabi.org/cabebooks/ebook/20123371614		20123371614													
+Microbial biotechnology: energy and environment	978-1-84593-956-4	10.1079/9781845939564.0000	2012						http://www.cabi.org/cabebooks/ebook/20123375140		20123375140													
+Innovation in agri-food clusters: theory and case studies	978-1-78064-041-9	10.1079/9781780640419.0000	2013						http://www.cabi.org/cabebooks/ebook/20123378738		20123378738													
+Camel meat and meat products	978-1-78064-101-0	10.1079/9781780641010.0000	2013						http://www.cabi.org/cabebooks/ebook/20123381050		20123381050													
+"Beneficial microorganisms in agriculture, food and the environment: safety assessment and regulation"	978-1-84593-810-9	10.1079/9781845938109.0000	2012						http://www.cabi.org/cabebooks/ebook/20123382895		20123382895													
+Plant pest risk analysis: concepts and application	978-1-78064-036-5	10.1079/9781780640365.0000	2012						http://www.cabi.org/cabebooks/ebook/20123382938		20123382938													
+Shifting cultivation and secondary succession in the tropics	978-1-78064-043-3	10.1079/9781780640434.0000	2013						http://www.cabi.org/cabebooks/ebook/20123383846		20123383846													
+Dairy herd health	978-1-84593-997-7	10.1079/9781845939977.0000	2012						http://www.cabi.org/cabebooks/ebook/20123387548		20123387548													
+Radar entomology: observing insect flight and migration	978-1-84593-556-6	10.1079/9781845935566.0000	2012						http://www.cabi.org/cabebooks/ebook/20123388775		20123388775													
+The host gaze in global tourism	978-1-78064-021-1	10.1079/9781780640211.0000	2013						http://www.cabi.org/cabebooks/ebook/20123403335		20123403335													
+Ticks and tick-borne diseases: geographical distribution and control strategies in the Euro-Asia region	978-1-84593-853-6	10.1079/9781845938536.0000	2013						http://www.cabi.org/cabebooks/ebook/20123411190		20123411190													
+Pandemic influenza	978-1-84593-856-7	10.1079/9781845938567.0000	2012						http://www.cabi.org/cabebooks/ebook/20123413619		20123413619													
+Nutrition and physical activity in inflammatory diseases	978-1-84593-910-6	10.1079/9781845939106.0000	2013						http://www.cabi.org/cabebooks/ebook/20123413712		20123413712													
+Greenhouse technology and management	978-1-78064-103-4	10.1079/9781780641034.0000	2013						http://www.cabi.org/cabebooks/ebook/20123415774		20123415774													
+Developing successful agriculture: an Australian case study	978-1-84593-945-8	10.1079/9781845939458.0000	2013						http://www.cabi.org/cabebooks/ebook/20133010308		20133010308													
+"Dogs, zoonoses and public health"	978-1-84593-835-2	10.1079/9781845938352.0000	2013						http://www.cabi.org/cabebooks/ebook/20133011776		20133011776													
+"The avocado: botany, production and uses"	978-1-84593-701-0	10.1079/9781845937010.0000	2013						http://www.cabi.org/cabebooks/ebook/20133051561		20133051561													
+The silviculture of trees used in British forestry	978-1-78064-026-6	10.1079/9781780640266.0000	2013						http://www.cabi.org/cabebooks/ebook/20133078469		20133078469													
+Cultural tourism	978-1-84593-923-6	10.1079/9781845939236.0000	2013						http://www.cabi.org/cabebooks/ebook/20133092981		20133092981													
+Animal machines	978-1-78064-284-0	10.1079/9781780642840.0000	2013						http://www.cabi.org/cabebooks/ebook/20133103564		20133103564													
+<i>Phytophthora</i>: a global perspective	978-1-78064-093-8	10.1079/9781780640938.0000	2013						http://www.cabi.org/cabebooks/ebook/20133113100		20133113100													
+Farm animal medicine and surgery for small animal veterinarians	978-1-84593-882-6	10.1079/9781845938826.0000	2013						http://www.cabi.org/cabebooks/ebook/20133128389		20133128389													
+Raspberries	978-1-84593-791-1	10.1079/9781845937911.0000	2013						http://www.cabi.org/cabebooks/ebook/20133131748		20133131748													
+Rabbit production	978-1-78064-012-9	10.1079/9781780640129.0000	2013						http://www.cabi.org/cabebooks/ebook/20133135521		20133135521													
+Tuberculosis: laboratory diagnosis and treatment strategies	978-1-84593-807-9	10.1079/9781845938079.0000	2013						http://www.cabi.org/cabebooks/ebook/20133149032		20133149032													
+Agricultural markets in a transitioning economy: an Albanian case study	978-1-78064-100-3	10.1079/9781780641003.0000	2013						http://www.cabi.org/cabebooks/ebook/20133151474		20133151474													
+Transformational tourism: tourist perspectives	978-1-78064-209-3	10.1079/9781780642093.0000	2013						http://www.cabi.org/cabebooks/ebook/20133151487		20133151487													
+Animal abuse: helping animals and people	978-1-84593-983-0	10.1079/9781845939830.0000	2013						http://www.cabi.org/cabebooks/ebook/20133154177		20133154177													
+Natural antioxidants and biocides from wild medicinal plants	978-1-78064-233-8	10.1079/9781780642338.0000	2013						http://www.cabi.org/cabebooks/ebook/20133157002		20133157002													
+Biological and environmental control of disease vectors	978-1-84593-986-1	10.1079/9781845939861.0000	2013						http://www.cabi.org/cabebooks/ebook/20133171931		20133171931													
+Garden tourism	978-1-78064-195-9	10.1079/9781780641959.0000	2013						http://www.cabi.org/cabebooks/ebook/20133173464		20133173464													
+"Biofuel crops: production, physiology and genetics"	978-1-84593-885-7	10.1079/9781845938857.0000	2013						http://www.cabi.org/cabebooks/ebook/20133196014		20133196014													
+Infectious forest diseases	978-1-78064-040-2	10.1079/9781780640402.0000	2013						http://www.cabi.org/cabebooks/ebook/20133214044		20133214044													
+"Parasitic nematodes: molecular biology, biochemistry and immunology"	978-1-84593-759-1	10.1079/9781845937591.0000	2013						http://www.cabi.org/cabebooks/ebook/20133214073		20133214073													
+<i>Salmonella</i> in domestic animals	978-1-84593-902-1	10.1079/9781845939021.0000	2013						http://www.cabi.org/cabebooks/ebook/20133229789		20133229789													
+Potential invasive pests of agricultural crops	978-1-84593-829-1	10.1079/9781845938291.0000	2013						http://www.cabi.org/cabebooks/ebook/20133231085		20133231085													
+Nautical tourism	978-1-78064-244-4	10.1079/9781780642444.0000	2013						http://www.cabi.org/cabebooks/ebook/20133261140		20133261140													
+Horse genetics	978-1-78064-329-8	10.1079/9781780643298.0000	2013						http://www.cabi.org/cabebooks/ebook/20133264280		20133264280													
+Meningitis: cellular and molecular basis	978-1-78064-162-1	10.1079/9781780641621.0000	2013						http://www.cabi.org/cabebooks/ebook/20133287826		20133287826													
+Managing water and agroecosystems for food security	978-1-78064-088-4	10.1079/9781780640884.0000	2013						http://www.cabi.org/cabebooks/ebook/20133290911		20133290911													
+International volunteer tourism: integrating travellers and communities	978-1-84593-696-9	10.1079/9781845936969.0000	2013						http://www.cabi.org/cabebooks/ebook/20133292868		20133292868													
+"Disaster management: medical preparedness, response and homeland security"	978-1-84593-929-8	10.1079/9781845939298.0000	2013						http://www.cabi.org/cabebooks/ebook/20133296418		20133296418													
+Trichoderma: biology and applications	978-1-78064-247-5	10.1079/9781780642475.0000	2013						http://www.cabi.org/cabebooks/ebook/20133317299		20133317299													
+Rural women in leadership: positive factors for leadership development	978-1-78064-160-7	10.1079/9781780641607.0000	2013						http://www.cabi.org/cabebooks/ebook/20133320238		20133320238													
+Hemp: industrial production and uses	978-1-84593-793-5	10.1079/9781845937935.0000	2013						http://www.cabi.org/cabebooks/ebook/20133324464		20133324464													
+"Quinoa: botany, production and uses"	978-1-78064-226-0	10.1079/9781780642260.0000	2013						http://www.cabi.org/cabebooks/ebook/20133324486		20133324486													
+Geographic health data: fundamental techniques for analysis	978-1-78064-089-1	10.1079/9781780640891.0000	2013						http://www.cabi.org/cabebooks/ebook/20133330007		20133330007													
+Plant nematology	978-1-78064-151-5	10.1079/9781780641515.0000	2013						http://www.cabi.org/cabebooks/ebook/20133355713		20133355713													
+Biological control programmes in Canada 2001-2012	978-1-78064-257-4	10.1079/9781780642574.0000	2013						http://www.cabi.org/cabebooks/ebook/20133355730		20133355730													
+Research themes for events	978-1-78064-252-9	10.1079/9781780642529.0000	2013						http://www.cabi.org/cabebooks/ebook/20133358960		20133358960													
+Realizing Africa's rice promise	978-1-84593-812-3	10.1079/9781845938123.0000	2013						http://www.cabi.org/cabebooks/ebook/20133365285		20133365285													
+Forestry in a global context	978-1-78064-156-0	10.1079/9781780641560.0000	2013						http://www.cabi.org/cabebooks/ebook/20133384621		20133384621													
+Green biosynthesis of nanoparticles: mechanisms and applications	978-1-78064-223-9	10.1079/9781780642239.0000	2013						http://www.cabi.org/cabebooks/ebook/20133395759		20133395759													
+Mononegaviruses of veterinary importance. Volume I: Pathobiology and molecular diagnosis	978-1-78064-179-9	10.1079/9781780641799.0000	2013						http://www.cabi.org/cabebooks/ebook/20133399502		20133399502													
+Banana systems in the humid highlands of sub-Saharan Africa: enhancing resilience and productivity	978-1-78064-231-4	10.1079/9781780642314.0000	2013						http://www.cabi.org/cabebooks/ebook/20133402647		20133402647													
+Plant genetic resources and climate change	978-1-78064-197-3	10.1079/9781780641973.0000	2014						http://www.cabi.org/cabebooks/ebook/20133402676		20133402676													
+Promoting investment in agriculture for increased production and productivity	978-1-78064-388-5	10.1079/9781780643885.0000	2013						http://www.cabi.org/cabebooks/ebook/20133407286		20133407286													
+Seeds: the ecology of regeneration in plant communities	978-1-78064-183-6	10.1079/9781780641836.0000	2014						http://www.cabi.org/cabebooks/ebook/20133410602		20133410602													
+Veterinary treatment of pigs	978-1-78064-172-0	10.1079/9781780641720.0000	2013						http://www.cabi.org/cabebooks/ebook/20133419188		20133419188													
+Animal nutrition with transgenic plants	978-1-78064-176-8	10.1079/9781780641768.0000	2013						http://www.cabi.org/cabebooks/ebook/20133419205		20133419205													
+Sustainable animal agriculture	978-1-78064-042-6	10.1079/9781780640426.0000	2013						http://www.cabi.org/cabebooks/ebook/20133419221		20133419221													
+Conservation agriculture: global prospects and challenges	978-1-78064-259-8	10.1079/9781780642598.0000	2014						http://www.cabi.org/cabebooks/ebook/20133423246		20133423246													
+Nutrient deficiencies of field crops: guide to diagnosis and management	978-1-78064-278-9	10.1079/9781780642789.0000	2013						http://www.cabi.org/cabebooks/ebook/20133423263		20133423263													
+Plant adaptation to environmental change: significance of amino acids and their derivatives	978-1-78064-273-4	10.1079/9781780642734.0000	2014						http://www.cabi.org/cabebooks/ebook/20143023049		20143023049													
+Poplars and willows: trees for society and the environment	978-1-78064-108-9	10.1079/9781780641089.0000	2014						http://www.cabi.org/cabebooks/ebook/20143048413		20143048413													
+Phytochemicals of nutraceutical importance	978-1-78064-363-2	10.1079/9781780643632.0000	2014						http://www.cabi.org/cabebooks/ebook/20143083504		20143083504													
+Linear models for the prediction of animal breeding values	978-1-78064-391-5	10.1079/9781780643915.0000	2014						http://www.cabi.org/cabebooks/ebook/20143084331		20143084331													
+"Bacterial pili: structure, synthesis and role in disease"	978-1-78064-255-0	10.1079/9781780642550.0000	2014						http://www.cabi.org/cabebooks/ebook/20143103806		20143103806													
+Dilemmas in animal welfare	978-1-78064-216-1	10.1079/9781780642161.0000	2014						http://www.cabi.org/cabebooks/ebook/20143138804		20143138804													
+Improving diets and nutrition: food-based approaches	978-1-78064-299-4	10.1079/9781780642994.0000	2014						http://www.cabi.org/cabebooks/ebook/20143140786		20143140786													
+Natural environments and human health	978-1-84593-919-9	10.1079/9781845939199.0000	2014						http://www.cabi.org/cabebooks/ebook/20143140823		20143140823													
+Biological control of plant-parasitic nematodes: soil ecosystem management in sustainable agriculture	978-1-78064-415-8	10.1079/9781780644158.0000	2014						http://www.cabi.org/cabebooks/ebook/20143165339		20143165339													
+The human microbiota and microbiome	978-1-78064-049-5	10.1079/9781780640495.0000	2014						http://www.cabi.org/cabebooks/ebook/20143165354		20143165354													
+Animal andrology: theories and applications	978-1-78064-316-8	10.1079/9781780643168.0000	2014						http://www.cabi.org/cabebooks/ebook/20143171288		20143171288													
+A manual for tilapia business management	978-1-78064-136-2	10.1079/9781780641362.0000	2014						http://www.cabi.org/cabebooks/ebook/20143207858		20143207858													
+Livestock handling and transport	978-1-78064-321-2	10.1079/9781780643212.0000	2014						http://www.cabi.org/cabebooks/ebook/20143217251		20143217251													
+Creating experience value in tourism	978-1-78064-348-9	10.1079/9781780643489.0000	2014						http://www.cabi.org/cabebooks/ebook/20143234492		20143234492													
+Climate change impact and adaptation in agricultural systems	978-1-78064-289-5	10.1079/9781780642895.0000	2014						http://www.cabi.org/cabebooks/ebook/20143234512		20143234512													
+Diseases and disorders of finfish in cage culture	978-1-78064-207-9	10.1079/9781780642079.0000	2014						http://www.cabi.org/cabebooks/ebook/20143236457		20143236457													
+"Fruit ripening: physiology, signalling and genomics"	978-1-84593-962-5	10.1079/9781845939625.0000	2014						http://www.cabi.org/cabebooks/ebook/20143245604		20143245604													
+Practical canine behaviour: for veterinary nurses and technicians	978-1-78064-430-1	10.1079/9781780644301.0000	2014						http://www.cabi.org/cabebooks/ebook/20143277711		20143277711													
+Sentience and animal welfare	978-1-78064-403-5	10.1079/9781780644035.0000	2014						http://www.cabi.org/cabebooks/ebook/20143282083		20143282083													
+Introduction to tourism transport	9781-78064-214-7	10.1079/9781780642147.0000	2014						http://www.cabi.org/cabebooks/ebook/20143282285		20143282285													
+Invasive species and global climate change	978-1-78064-164-5	10.1079/9781780641645.0000	2014						http://www.cabi.org/cabebooks/ebook/20143298942		20143298942													
+Dengue and dengue hemorrhagic fever	978-1-84593-964-9	10.1079/9781845939649.0000	2014						http://www.cabi.org/cabebooks/ebook/20143309279		20143309279													
+Global forest fragmentation	978-1-78064-203-1	10.1079/9781780642031.0000	2014						http://www.cabi.org/cabebooks/ebook/20143317935		20143317935													
+Climate change and global health	978-1-78064-265-9	10.1079/9781780642659.0000	2014						http://www.cabi.org/cabebooks/ebook/20143328422		20143328422													
+Urban insect pests: sustainable management strategies	978-1-78064-275-8	10.1079/9781780642758.0000	2014						http://www.cabi.org/cabebooks/ebook/20143328770		20143328770													
+Canine and feline epilepsy: diagnosis and management	978-1-78064-109-6	10.1079/9781780641096.0000	2014						http://www.cabi.org/cabebooks/ebook/20143333679		20143333679													
+Transgenic insects: techniques and applications	978-1-78064-451-6	10.1079/9781780644516.0000	2014						http://www.cabi.org/cabebooks/ebook/20143353569		20143353569													
+Fungicides in crop protection	978-1-78064-166-9	10.1079/9781780641669.0000	2014						http://www.cabi.org/cabebooks/ebook/20143353592		20143353592													
+Plant-derived pharmaceuticals: principles and applications for developing countries	978-1-78064-343-4	10.1079/9781780643434.0000	2014						http://www.cabi.org/cabebooks/ebook/20143368007		20143368007													
+Pig disease identification and diagnosis guide	978-1-78064-212-3	10.1079/9781780642123.0000	2014						http://www.cabi.org/cabebooks/ebook/20143370970		20143370970													
+Metabolomics and systems biology in human health and medicine	978-1-78064-200-0	10.1079/9781780642000.0000	2014						http://www.cabi.org/cabebooks/ebook/20143378153		20143378153													
+Transition pathways towards sustainability in agriculture: case studies from Europe	978-1-78064-219-2	10.1079/9781780642192.0000	2015						http://www.cabi.org/cabebooks/ebook/20143393222		20143393222													
+Dogs in the leisure experience	978-1-78064-318-2	10.1079/9781780643182.0000	2014						http://www.cabi.org/cabebooks/ebook/20143399926		20143399926													
+The genetics of cattle	978-1-78064-221-5	10.1079/9781780642215.0000	2015						http://www.cabi.org/cabebooks/ebook/20143400398		20143400398													
+Tourism crisis and disaster management in the Asia-Pacific	978-1-78064-325-0	10.1079/9781780643250.0000	2015						http://www.cabi.org/cabebooks/ebook/20143405761		20143405761													
+Food tourism: a practical marketing guide	978-1-78064-501-8	10.1079/9781780645018.0000	2015						http://www.cabi.org/cabebooks/ebook/20143413788		20143413788													
+"Tourism enterprise: developments, management and sustainability"	978-1-78064-356-4	10.1079/9781780643564.0000	2015						http://www.cabi.org/cabebooks/ebook/20143413799		20143413799													
+Home parenteral nutrition	978-1-78064-311-3	10.1079/9781780643113.0000	2015						http://www.cabi.org/cabebooks/ebook/20143413841		20143413841													
+"Rabbit behaviour, health and care"	978-1-78064-190-4	10.1079/9781780641904.0000	2015						http://www.cabi.org/cabebooks/ebook/20143414046		20143414046													
+"Soil carbon: science, management and policy for multiple benefits"	978-1-78064-532-2	10.1079/9781780645322.0000	2015						http://www.cabi.org/cabebooks/ebook/20143414605		20143414605													
+"The potato: botany, production and uses"	978-1-78064-280-2	10.1079/9781780642802.0000	2014						http://www.cabi.org/cabebooks/ebook/20143417132		20143417132													
+Plants as a source of natural antioxidants	978-1-78064-266-6	10.1079/9781780642666.0000	2015						http://www.cabi.org/cabebooks/ebook/20143417152		20143417152													
+"Ideological, social and cultural aspects of events"	978-1-78064-352-6	10.1079/9781780643526.0000	2015						http://www.cabi.org/cabebooks/ebook/20143421934		20143421934													
+Nutritional modelling for pigs and poultry	978-1-78064-411-0	10.1079/9781780644110.0000	2015						http://www.cabi.org/cabebooks/ebook/20143422829		20143422829													
+Bacteria and fungi from fish and other aquatic animals: A practical identification manual	978-1-84593-805-5	10.1079/9781845938055.0000	2014						http://www.cabi.org/cabebooks/ebook/20153016346		20153016346													
+Exotic fruits and nuts of the New World	978-1-78064-505-6	10.1079/9781780645056.0000	2015						http://www.cabi.org/cabebooks/ebook/20153017861		20153017861													
+"Bioenergy and biological invasions: ecological, agronomic and policy perspectives on minimising risk"	978-1-78064-330-4	10.1079/9781780643304.0000	2015						http://www.cabi.org/cabebooks/ebook/20153042838		20153042838													
+One Health: the theory and practice of integrated health approaches	978-1-78064-341-0	10.1079/9781780643410.0000	2015						http://www.cabi.org/cabebooks/ebook/20153067399		20153067399													
+Biosecurity surveillance: quantitative approaches	978-1-78064-359-5	10.1079/9781780643595.0000	2015						http://www.cabi.org/cabebooks/ebook/20153078038		20153078038													
+Pest risk modelling and mapping for invasive alien species	978-1-78064-394-6	10.1079/9781780643946.0000	2015						http://www.cabi.org/cabebooks/ebook/20153099608		20153099608													
+Amino acids in higher plants	978-1-78064-263-5	10.1079/9781780642635.0000	2015						http://www.cabi.org/cabebooks/ebook/20153121410		20153121410													
+Livestock production and climate change	978-1-78064-432-5	10.1079/9781780644325.0000	2015						http://www.cabi.org/cabebooks/ebook/20153123668		20153123668													
+The nature of crops: how we came to eat the plants we do	978-1-78064-508-7	10.1079/9781780645087.0000	2015						http://www.cabi.org/cabebooks/ebook/20153137219		20153137219													
+Coping with risk in agriculture: applied decision analysis	978-1-78064-574-2	10.1079/9781780645742.0000	2015						http://www.cabi.org/cabebooks/ebook/20153137229		20153137229													
+Bt resistance: characterization and strategies for GM crops producing <i>Bacillus thuringiensis</i> toxins	978-1-78064-437-0	10.1079/9781780644370.0000	2015						http://www.cabi.org/cabebooks/ebook/20153137243		20153137243													
+Rodent pests and their control	978-1-84593-817-8	10.1079/9781845938178.0000	2015						http://www.cabi.org/cabebooks/ebook/20153154910		20153154910													
+"Transition to agricultural market economies: the future of Kazakhstan, Russia and Ukraine"	978-1-78064-535-3	10.1079/9781780645353.0000	2015						http://www.cabi.org/cabebooks/ebook/20153199060		20153199060													
+Conservation agriculture in subsistence farming. Case studies from South Asia and beyond	978-1-78064-423-3	10.1079/9781780644233.0000	2015						http://www.cabi.org/cabebooks/ebook/20153202583		20153202583													
+Biocontrol agents of phytonematodes	978-1-78064-375-5	10.1079/9781780643755.0000	2015						http://www.cabi.org/cabebooks/ebook/20153216568		20153216568													
+Europe's changing woods and forests: from wildwood to managed landscapes	978-1-78064-337-3	10.1079/9781780643373.0000	2015						http://www.cabi.org/cabebooks/ebook/20153218016		20153218016													
+Epidemiology for field veterinarians: an introduction	978-1-84593-683-9	10.1079/9781845936839.0000	2015						http://www.cabi.org/cabebooks/ebook/20153250588		20153250588													
+Abiotic stresses in crop plants	978-1-78064-373-1	10.1079/9781780643731.0000	2015						http://www.cabi.org/cabebooks/ebook/20153251273		20153251273													
+Transformational tourism: host perspectives	978-1-78064-392-2	10.1079/9781780643922.0000	2015						http://www.cabi.org/cabebooks/ebook/20153265855		20153265855													
+The animal trade	978-1-78064-313-7	10.1079/9781780643137.0000	2015						http://www.cabi.org/cabebooks/ebook/20153306031		20153306031													
+"Tuberculosis, leprosy and mycobacterial diseases of man and animals: the many hosts of mycobacteria"	978-1-78064-396-0	10.1079/9781780643960.0000	2015						http://www.cabi.org/cabebooks/ebook/20153322759		20153322759													
+Land-use change impacts on soil processes: tropical and savannah ecosystems	978-1-78064-210-9	10.1079/9781780642109.0000	2015						http://www.cabi.org/cabebooks/ebook/20153323443		20153323443													
+Religious tourism and pilgrimage management: an international perspective	978-1-78064-523-0	10.1079/9781780645230.0000	2015						http://www.cabi.org/cabebooks/ebook/20153323720		20153323720													
+Garden centre management	978-1-78064-308-3	10.1079/9781780643083.0000	2015						http://www.cabi.org/cabebooks/ebook/20153325821		20153325821													
+Climate change and insect pests	978-1-78064-378-6	10.1079/9781780643786.0000	2015						http://www.cabi.org/cabebooks/ebook/20153325832		20153325832													
+Brassica oilseeds: breeding and management	978-1-78064-483-7	10.1079/9781780644837.0000	2015						http://www.cabi.org/cabebooks/ebook/20153325847		20153325847													
+Disease selection: the way disease changed the world	978-1-78064-682-4	10.1079/9781780646824.0000	2015						http://www.cabi.org/cabebooks/ebook/20153355990		20153355990													
+Tree-crop interactions: agroforestry in a changing climate	978-1-78064-511-7	10.1079/9781780645117.0000	2015						http://www.cabi.org/cabebooks/ebook/20153360035		20153360035													
+"Crop improvement, adoption, and impact of improved varieties in food crops in sub-Saharan Africa"	978-1-78064-401-1	10.1079/9781780644011.0000	2015						http://www.cabi.org/cabebooks/ebook/20153367536		20153367536													
+Potato and sweetpotato in Africa: transforming the value chains for food and nutrition security	978-1-78064-420-2	10.1079/9781780644202.0000	2015						http://www.cabi.org/cabebooks/ebook/20153367558		20153367558													
+Visual soil evaluation: realising potential crop production with minimum environmental impact	978-1-78064-470-7	10.1079/9781780644707.0000	2015						http://www.cabi.org/cabebooks/ebook/20153370757		20153370757													
+Sustainable crop disease management using natural products	978-1-78064-323-6	10.1079/9781780643236.0000	2015						http://www.cabi.org/cabebooks/ebook/20153389342		20153389342													
+Food supply networks: trust and e-business	978-1-84593-639-6	10.1079/9781845936396.0000	2016						http://www.cabi.org/cabebooks/ebook/20153402647		20153402647													
+Regenerating forests and livelihoods in Nepal: a new lease of life. Unfolding the experience of 20 years of poverty alleviation through leasehold forestry in the Himalayas	978-1-78064-631-2	10.1079/9781780646312.0000	2015						http://www.cabi.org/cabebooks/ebook/20153402670		20153402670													
+Climate change challenges and adaptations at farm-level: case studies from Asia and Africa	978-1-78064-463-9	10.1079/9781780644639.0000	2015						http://www.cabi.org/cabebooks/ebook/20153402678		20153402678													
+"Destination competitiveness, the environment and sustainability: challenges and cases"	978-1-78064-697-8	10.1079/9781780646978.0000	2016						http://www.cabi.org/cabebooks/ebook/20153411703		20153411703													
+Climate change and agricultural water management in Developing Countries	978-1-78064-366-3	10.1079/9781780643663.0000	2016						http://www.cabi.org/cabebooks/ebook/20153417459		20153417459													
+Virus diseases of tropical and subtropical crops	978-1-78064-426-4	10.1079/9781780644264.0000	2015						http://www.cabi.org/cabebooks/ebook/20153421742		20153421742													
+Analytical techniques for natural product research	978-1-78064-473-8	10.1079/9781780644738.0000	2016						http://www.cabi.org/cabebooks/ebook/20153421761		20153421761													
+Chronic non-communicable diseases in low and middle-income countries	978-1-78064-332-8	10.1079/9781780643328.0000	2016						http://www.cabi.org/cabebooks/ebook/20153429879		20153429879													
+Transformative travel in a mobile world	978-1-78064-399-1	10.1079/9781780643991.0000	2016						http://www.cabi.org/cabebooks/ebook/20163000313		20163000313													
+"Mountain tourism: experiences, communities, environments and sustainable futures"	978-1-78064-460-8	10.1079/9781780644608.0000	2016						http://www.cabi.org/cabebooks/ebook/20163054755		20163054755													
+Climate change and cotton production in modern farming systems	978-1-78064-890-3	10.1079/9781780648903.0000	2016						http://www.cabi.org/cabebooks/ebook/20163079569		20163079569													
+Biocontrol of major grapevine diseases: leading research	978-1-78064-712-8	10.1079/9781780647128.0000	2016						http://www.cabi.org/cabebooks/ebook/20163105575		20163105575													
+Molecular methods in plant disease diagnostics	978-1-78064-147-8	10.1079/9781780641478.0000	2016						http://www.cabi.org/cabebooks/ebook/20163122715		20163122715													
+Sustainable poultry production in Europe	978-1-78064-530-8	10.1079/9781780645308.0000	2016						http://www.cabi.org/cabebooks/ebook/20163136485		20163136485													
+Equine thermography in practice	978-1-78064-787-6	10.1079/9781780647876.0000	2016						http://www.cabi.org/cabebooks/ebook/20163155055		20163155055													
+"Heritage tourism destinations: preservation, communication and development"	978-1-78064-677-0	10.1079/9781780646770.0000	2016						http://www.cabi.org/cabebooks/ebook/20163173509		20163173509													
+The handbook of microbial bioresources	978-1-78064-521-6	10.1079/9781780645216.0000	2016						http://www.cabi.org/cabebooks/ebook/20163199943		20163199943													
+Enhancing crop genepool use: capturing wild relative and landrace diversity for crop improvement	978-1-78064-613-8	10.1079/9781780646138.0000	2016						http://www.cabi.org/cabebooks/ebook/20163201704		20163201704													
+Practical veterinary forensics	978-1-78064-294-9	10.1079/9781780642949.0000	2016						http://www.cabi.org/cabebooks/ebook/20163206692		20163206692													
+Africa Soil Health Consortium: Handbook for integrated soil fertility management	978-1-78064-285-7	10.1079/9781780642857.0000	2012						http://www.cabi.org/cabebooks/ebook/20163213016		20163213016													
+International trade and food security: the future of Indian agriculture	978-1-78064-282-6	10.1079/9781780642826.0000	2016						http://www.cabi.org/cabebooks/ebook/20163222599		20163222599													
+Tropical forage legumes: harnessing the potential of <i>Desmanthus</i> and other genera for heavy clay soils	978-1-78064-628-2	10.1079/9781780646282.0000	2016						http://www.cabi.org/cabebooks/ebook/20163250801		20163250801													
+Sustainable water management in smallholder farming: theory and practice	978-1-78064-686-2	10.1079/9781780646862.0000	2016						http://www.cabi.org/cabebooks/ebook/20163250821		20163250821													
+"Leafy medicinal herbs: botany, chemistry, postharvest technology and uses"	978-1-78064-559-9	10.1079/9781780645599.0000	2016						http://www.cabi.org/cabebooks/ebook/20163250834		20163250834													
+Health emergency preparedness and response	978-1-78064-455-4	10.1079/9781780644554.0000	2016						http://www.cabi.org/cabebooks/ebook/20163273994		20163273994													
+Nutrition experiments in pigs and poultry: a practical guide	978-1-78064-700-5	10.1079/9781780647005.0000	2016						http://www.cabi.org/cabebooks/ebook/20163274199		20163274199													
+Millets value chain for nutritional security: a replicable success model from India	978-1-78064-830-9	10.1079/9781780648309.0000	2016						http://www.cabi.org/cabebooks/ebook/20163278523		20163278523													
+"Raptor medicine, surgery, and rehabilitation"	978-1-78064-746-3	10.1079/9781780647463.0000	2016						http://www.cabi.org/cabebooks/ebook/20163299282		20163299282													
+"Forest hydrology: processes, management and assessment"	978-1-78064-660-2	10.1079/9781780646602.0000	2016						http://www.cabi.org/cabebooks/ebook/20163299396		20163299396													
+Harnessing dividends from drylands: innovative scaling up with soil nutrients	978-1-78064-815-6	10.1079/9781780648156.0000	2016						http://www.cabi.org/cabebooks/ebook/20163299414		20163299414													
+Global health research in an unequal world: ethics case studies from Africa	978-1-78639-004-2	10.1079/9781786390042.0000	2016						http://www.cabi.org/cabebooks/ebook/20163308509		20163308509													
+"Farm-level modelling: techniques, applications and policy"	978-1-78064-428-8	10.1079/9781780644288.0000	2016						http://www.cabi.org/cabebooks/ebook/20163313832		20163313832													
+Biotechnology of major cereals	978-1-78064-519-3	10.1079/9781780645193.0000	2016						http://www.cabi.org/cabebooks/ebook/20163314709		20163314709													
+Intellectual property issues in biotechnology	978-1-78064-653-4	10.1079/9781780646534.0000	2016						http://www.cabi.org/cabebooks/ebook/20163314726		20163314726													
+Plants and planting on landscape sites: selection and supervision	978-1-78064-618-3	10.1079/9781780646183.0000	2016						http://www.cabi.org/cabebooks/ebook/20163314748		20163314748													
+Postharvest: an introduction to the physiology and handling of fruit and vegetables	978-1-78639-148-3	10.1079/9781786391483.0000	2016						http://www.cabi.org/cabebooks/ebook/20163314760		20163314760													
+"Big data's big potential in developing economies: impact on agriculture, health and environmental security"	978-1-78064-868-2	10.1079/9781780648682.0000	2016						http://www.cabi.org/cabebooks/ebook/20163345656		20163345656													
+"Strawberry: growth, development and diseases"	978-1-78064-663-3	10.1079/9781780646633.0000	2016						http://www.cabi.org/cabebooks/ebook/20163346597		20163346597													
+Tourist behaviour: an international perspective	978-1-78064-812-5	10.1079/9781780648125.0000	2016						http://www.cabi.org/cabebooks/ebook/20163365970		20163365970													
+The handbook of naturally occurring insecticidal toxins	978-1-78064-270-3	10.1079/9781780642703.0000	2016						http://www.cabi.org/cabebooks/ebook/20163369107		20163369107													
+Pilgrimage and tourism to holy cities: ideological and management perspectives	978-1-78064-738-8	10.1079/9781780647388.0000	2017						http://www.cabi.org/cabebooks/ebook/20163376690		20163376690													
+Climate change impacts on urban pests	978-1-78064-537-7	10.1079/9781780645377.0000	2017						http://www.cabi.org/cabebooks/ebook/20163381090		20163381090													
+Companion animal economics: the economic impact of companion animals in the UK. Research report	978-1-78639-172-8	10.1079/9781786391728.0000	2017						http://www.cabi.org/cabebooks/ebook/20163382591		20163382591													
+Visitor management in tourism destinations	978-1-78064-735-7	10.1079/9781780647357.0000	2017						http://www.cabi.org/cabebooks/ebook/20163382835		20163382835													
+"Tourism theory: concepts, models and systems"	978-1-78064-715-9	10.1079/9781780647159.0000	2017						http://www.cabi.org/cabebooks/ebook/20163390571		20163390571													
+"Plant biodiversity: monitoring, assessment and conservation"	978-1-78064-694-7	10.1079/9781780646947.0000	2017						http://www.cabi.org/cabebooks/ebook/20163392717		20163392717													
+Mononegaviruses of veterinary importance. Volume 2: molecular epidemiology and control	978-1-78064-417-2	10.1079/9781780644172.0000	2016						http://www.cabi.org/cabebooks/ebook/20163393365		20163393365													
+Sustainable island tourism: competitiveness and quality of life	978-1-78064-542-1	10.1079/9781780645421.0000	2016						http://www.cabi.org/cabebooks/ebook/20163393407		20163393407													
+Natural polymers for drug delivery	978-1-78064-447-9	10.1079/9781780644479.0000	2017						http://www.cabi.org/cabebooks/ebook/20163397214		20163397214													
+Antimicrobial stewardship: principles and practice	978-1-78064-439-4	10.1079/9781780644394.0000	2017						http://www.cabi.org/cabebooks/ebook/20163402692		20163402692													
+Training guide on integrated pest management in tobacco	978-1-78639-238-1	10.1079/9781786392381.0000	2016						http://www.cabi.org/cabebooks/ebook/20163403494		20163403494													
+Plant stress physiology	978-1-78064-729-6	10.1079/9781780647296.0000	2017						http://www.cabi.org/cabebooks/ebook/20173015065		20173015065													

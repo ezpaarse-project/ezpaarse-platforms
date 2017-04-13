@@ -1,0 +1,27 @@
+{
+  "version": "2017-04-06",
+  "status": "beta",
+  "domains": [
+    "cabi.org",
+    "www.cabi.org"	
+  ],
+  "recognize": {
+    "rid": [
+      "unitid",
+      "title_id"
+    ],
+    "rtype": [
+      "BOOK_SECTION"
+    ],
+    "mime": [
+      "HTML",
+      "PDF"
+    ]
+  },
+  "name": "cabi",
+  "longname": "CAB eBooks",
+  "describe": "Recognizes the accesses to the platform CAB eBooks",
+  "docurl": "http://ang.couperin.org/platforms/58e79c891983529fd37568a7",
+  "contact": "Aurelian Popescu",
+  "pkb": true
+}
