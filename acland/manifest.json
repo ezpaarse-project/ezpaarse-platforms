@@ -1,0 +1,28 @@
+{
+  "version": "2016-09-14",
+  "status": "beta",
+  "domains": [
+    "aclandanatomy.com",
+    "www.aclandanatomy.com",
+    "es.aclandanatomy.com"	
+  ],
+  "recognize": {
+    "rid": [
+      "title_id",
+      "unitid"
+    ],
+    "rtype": [
+      "TOC",
+      "VIDEO"
+    ],
+    "mime": [
+      "HTML"
+    ]
+  },
+  "name": "acland",
+  "longname": "Acland's Video Atlas of Human Anatomy",
+  "describe": "Recognizes the accesses to the platform Acland's Video Atlas of Human Anatomy",
+  "docurl": "http://ang.couperin.org/platforms/58ef620d737439f28e01fa28",
+  "contact": "Aurelian Popescu",
+  "pkb": false
+}
