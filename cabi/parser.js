@@ -34,7 +34,7 @@ module.exports = new Parser(function analyseEC(parsedUrl, ec) {
     result.mime     = 'HTML';
     result.unitid   = match[1];
     result.title_id = match[1];
-    
+
   }
 
   return result;
