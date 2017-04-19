@@ -1,0 +1,28 @@
+{
+  "version": "2016-10-18",
+  "status": "beta",
+  "domains": [
+    "www.archivesdirect.amdigital.co.uk"
+  ],
+  "recognize": {
+    "rid": [
+      "unitid",
+      "title_id"
+    ],
+    "rtype": [
+      "SEARCH",
+      "BOOK"
+    ],
+    "mime": [
+      "MISC",
+      "PDF",
+      "HTML"
+    ]
+  },
+  "name": "amdigital",
+  "longname": "Archives Direct - Adam Matthew Digital",
+  "describe": "Recognizes the accesses to the platform Archives Direct - Adam Matthew Digital",
+  "docurl": "http://ang.couperin.org/platforms/58f75fe5f44d7f7aa7b4135d",
+  "contact": "Aurelian Popescu",
+  "pkb": true
+}
