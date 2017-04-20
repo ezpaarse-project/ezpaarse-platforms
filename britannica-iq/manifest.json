@@ -1,0 +1,26 @@
+{
+  "version": "2017-03-20",
+  "status": "beta",
+  "domains": [
+    "quest.eb.com"
+  ],
+  "recognize": {
+    "rid": [
+      "unitid"
+    ],
+    "rtype": [
+      "IMAGE",
+      "ENCYCLOPAEDIA_ENTRY"
+    ],
+    "mime": [
+      "MISC",
+      "HTML"
+    ]
+  },
+  "name": "britannica-iq",
+  "longname": "Britannica Image Quest",
+  "describe": "Recognizes the accesses to the platform Britannica Image Quest",
+  "docurl": "http://ang.couperin.org/platforms/58f8750954055c13046eca31",
+  "contact": "Aurelian Popescu",
+  "pkb": false
+}
