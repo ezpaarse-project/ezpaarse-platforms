@@ -1,5 +1,8 @@
-out-title_id;out-unitid;out-rtype;out-mime;in-url
-chaos;1.3665984.pdf;ARTICLE;PDF;http://scitation.aip.org/docserver/fulltext/aip/journal/chaos/21/4/1.3665984.pdf?expires=1400664132&id=id&accname=guest&checksum=A1D9EB9DD2847952DE7DF7519F89B6F7
-chaos;1.4875040.html;ARTICLE;HTML;http://scitation.aip.org/docserver/ahah/fulltext/aip/journal/chaos/24/2/1.4875040.html
-chaos;chaos/21/4;TOC;HTML;http://scitation.aip.org/content/aip/journal/chaos/21/4
-chaos;chaos;TOC;HTML;http://scitation.aip.org/content/aip/journal/chaos/browse
+out-title_id;out-unitid;out-rtype;out-mime;out-issue;out-vol;out-doi;in-url
+chaos;1.3665984.pdf;ARTICLE;PDF;;;;http://scitation.aip.org/docserver/fulltext/aip/journal/chaos/21/4/1.3665984.pdf?expires=1400664132&id=id&accname=guest&checksum=A1D9EB9DD2847952DE7DF7519F89B6F7
+chaos;1.4875040.html;ARTICLE;HTML;;;;http://scitation.aip.org/docserver/ahah/fulltext/aip/journal/chaos/24/2/1.4875040.html
+chaos;chaos/21/4;TOC;HTML;;;;http://scitation.aip.org/content/aip/journal/chaos/21/4
+chaos;chaos;TOC;HTML;;;;http://scitation.aip.org/content/aip/journal/chaos/browse
+;1.4979418;ARTICLE;PDF;;;10.1063/1.4979418;http://aip.scitation.org/doi/pdf/10.1063/1.4979418
+;1.4979417;ABS;HTML;;;10.1063/1.4979417;http://aip.scitation.org/doi/abs/10.1063/1.4979417
+apc;1827/1;TOC;MISC;1;1827;;http://aip.scitation.org/toc/apc/1827/1?expanded=1827
