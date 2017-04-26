@@ -1,0 +1,24 @@
+{
+  "version": "2016-09-16",
+  "status": "beta",
+  "domains": [
+    "tv.theiet.org"
+  ],
+  "recognize": {
+    "rid": [
+      "unitid"
+    ],
+    "rtype": [
+      "VIDEO"
+    ],
+    "mime": [
+      "HTML"
+    ]
+  },
+  "name": "iet.tv",
+  "longname": "IET.tv",
+  "describe": "Recognizes the accesses to the platform IET.tv",
+  "docurl": "http://ang.couperin.org/platforms/5900ba7b38d024cd0308a17f",
+  "contact": "Aurelian Popescu",
+  "pkb": false
+}
