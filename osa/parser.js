@@ -44,6 +44,12 @@ module.exports = new Parser(function analyseEC(parsedUrl, ec) {
     result.mime     = 'PDF';
     result.title_id = match[1];
     result.unitid   = param.uri;
+  } else if ((match = /^\/([a-z]+)\/fulltext.cfm$/i.exec(path)) !== null) {
+    // https://www.osapublishing.org/boe/fulltext.cfm?uri=boe-8-5-2599&id=363221
+    result.rtype    = 'ARTICLE';
+    result.mime     = 'HTML';
+    result.title_id = match[1];
+    result.unitid   = param.uri;
   }
   return result;
 });
