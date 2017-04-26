@@ -1,0 +1,7 @@
+out-rtype;out-mime;out-unitid;out-doi;out-title_id;in-url
+BOOK;HTML;perics1e;;perics1e;http://digital-library.theiet.org/content/books/se/perics1e
+ARTICLE;HTML;;10.1049/etr.2013.9002;etr;http://digital-library.theiet.org/content/reference/10.1049/etr.2013.9002
+ARTICLE;PDF;20140116;10.1049/et.2014.0116;;http://digital-library.theiet.org/deliver/fulltext/et/9/1/20140116.pdf?itemId=/content/journals/10.1049/et.2014.0116&mimeType=pdf&isFastTrackArticle=
+ARTICLE;PDF;20150030;10.1049/ibc.2015.0030;;http://digital-library.theiet.org/deliver/fulltext/conference/ibc2015/20150030.pdf?itemId=/content/conferences/10.1049/ibc.2015.0030&mimeType=pdf&isFastTrackArticle=
+BOOK;PDF;PERICS1E;;PERICS1E;http://digital-library.theiet.org/deliver/fulltext/books/se/perics1e/PERICS1E.pdf?itemId=/content/books/se/perics1e&mimeType=pdf&isFastTrackArticle=
+ARTICLE;PDF;ETR.2013.9002;10.1049/etr.2013.9002;;http://digital-library.theiet.org/deliver/fulltext/10.1049/etr.2013.9002/ETR.2013.9002.pdf?itemId=/content/reference/10.1049/etr.2013.9002&mimeType=pdf&isFastTrackArticle=
