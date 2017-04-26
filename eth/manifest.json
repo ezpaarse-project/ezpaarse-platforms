@@ -1,0 +1,27 @@
+{
+  "version": "2017-03-08",
+  "status": "beta",
+  "domains": [
+    "ethraadl.com",
+    "vew.ethraadl.com"
+  ],
+  "recognize": {
+    "rid": [
+      "unitid"
+    ],
+    "rtype": [
+      "ABS",
+      "ARTICLE"
+    ],
+    "mime": [
+      "HTML",
+      "PDF"
+    ]
+  },
+  "name": "eth",
+  "longname": "Obeikan Digital Library",
+  "describe": "Recognizes the accesses to the platform Obeikan Digital Library",
+  "docurl": "http://ang.couperin.org/platforms/59005e1a9b2afe7eb72de9da",
+  "contact": "Aurelian Popescu",
+  "pkb": false
+}
