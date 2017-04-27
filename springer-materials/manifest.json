@@ -6,8 +6,8 @@
   "longname": "SpringerMaterials",
   "publisher_name" : "Springer",
   "describe": "Recognizes the accesses to the platform SpringerMaterials",
-  "docurl": "http://ang.couperin.org/platforms/to_be_completed/",
-  "contact": "Mihai Gabroveanu <mihai.gabroveanu@museglobal.ro>",
+  "docurl": "http://ang.couperin.org/platforms/5901f0ba363036f569885c91",
+  "contact": "Aurelian Popescu",
   "recognize": {
     "rid": [
       "unitid",
