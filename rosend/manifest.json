@@ -1,0 +1,26 @@
+{
+  "version": "2017-01-29",
+  "status": "beta",
+  "domains": [
+    "chemistry.rosendigital.com",
+    "biology.rosendigital.com",
+    "periodictable.rosendigital.com"
+  ],
+  "recognize": {
+    "rid": [
+      "unitid"
+    ],
+    "rtype": [
+      "ARTICLE"
+    ],
+    "mime": [
+      "HTML"
+    ]
+  },
+  "name": "rosend",
+  "longname": "Rosen Digital",
+  "describe": "Recognizes the accesses to the platform Rosen Digital",
+  "docurl": "http://ang.couperin.org/platforms/5901cac4830cef0506e71557",
+  "contact": "Aurelian Popescu",
+  "pkb": false
+}
