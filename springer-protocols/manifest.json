@@ -1,0 +1,29 @@
+{
+  "version": "2016-09-13",
+  "status": "beta",
+  "domains": [
+    "www.springerprotocols.com",
+    "m.springerprotocols.com"
+  ],
+  "recognize": {
+    "rid": [
+      "unitid",
+      "doi",
+      "online_identifier"
+    ],
+    "rtype": [
+      "ABS",
+      "BOOK"
+    ],
+    "mime": [
+      "HTML",
+      "PDF"
+    ]
+  },
+  "name": "springer-protocols",
+  "longname": "SpringerProtocols",
+  "describe": "Recognizes the accesses to the platform SpringerProtocols",
+  "docurl": "http://ang.couperin.org/platforms/590204b4d9654a2420fac2b1",
+  "contact": "Aurelian Popescu",
+  "pkb": true
+}
