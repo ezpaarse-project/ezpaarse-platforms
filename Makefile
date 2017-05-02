@@ -1,6 +1,6 @@
 SHELL:=/bin/bash
 
-.PHONY: help install test
+.PHONY: help install test lint
 
 .DEFAULT_GOAL := help
 
@@ -11,10 +11,10 @@ help:
 SUPPORTED_COMMANDS := test2
 SUPPORTS_MAKE_ARGS := $(findstring $(firstword $(MAKECMDGOALS)), $(SUPPORTED_COMMANDS))
 ifneq "$(SUPPORTS_MAKE_ARGS)" ""
-    # use the rest as arguments for the command
-    COMMAND_ARGS := $(wordlist 2,$(words $(MAKECMDGOALS)),$(MAKECMDGOALS))
-    # ...and turn them into do-nothing targets
-    $(eval $(COMMAND_ARGS):;@:)
+	# use the rest as arguments for the command
+	COMMAND_ARGS := $(wordlist 2,$(words $(MAKECMDGOALS)),$(MAKECMDGOALS))
+	# ...and turn them into do-nothing targets
+	$(eval $(COMMAND_ARGS):;@:)
 endif
 
 install: ## Install dependencies
@@ -22,3 +22,6 @@ install: ## Install dependencies
 
 test: ## Tests every platforms. You can also select one or more. Ex: make test sd npg
 	cd .lib && EZPAARSE_PLATFORM_TO_TEST="$(COMMAND_ARGS)" npm test
+
+lint: ## Run syntax verification on javascript files
+	cd .lib && npm run lint
