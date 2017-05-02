@@ -1,0 +1,11 @@
+publication_title	print_identifier	online_identifier	date_first_issue_online	num_first_vol_online	num_first_issue_online	date_last_issue_online	num_last_vol_online	num_last_issue_online	title_url	first_author	title_id	embargo_info	coverage_depth	coverage_notes	publisher_name	publication_type	date_monograph_published_print	date_monograph_published_online	monograph_volume	monograph_edition	first_editor	parent_publication_title_id	preceding_publication_title_id	access_type
+Seminars in Cutaneous Medicine and Surgery	1085-5629								http://www.sciencedirect.com/science/journal/10855629		10855629													
+The Journal of Supportive Oncology	1544-6794								http://www.sciencedirect.com/science/journal/15446794		15446794													
+Community Oncology	1548-5315								http://www.sciencedirect.com/science/journal/15485315		15485315													
+Translational Proteomics	2212-9634								http://www.sciencedirect.com/science/journal/22129634		22129634													
+The American Journal of Human Genetics	0002-9297	1537-6605							http://www.sciencedirect.com/science/journal/00029297		29297				University of Chicago Press
+Biophysical Journal	0006-3495	1542-0086							http://www.sciencedirect.com/science/journal/00063495		63495				
+Cell	0092-8674	1097-4172							http://www.sciencedirect.com/science/journal/00928674		928674				
+Current Biology	0960-9822	1879-0445							http://www.sciencedirect.com/science/journal/09609822		9609822				
+Neuron	0896-6273	1097-4199							http://www.sciencedirect.com/science/journal/08966273		8966273				
+Structure	0969-2126	1878-4186							http://www.sciencedirect.com/science/journal/09692126		9692126				
