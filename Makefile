@@ -11,10 +11,10 @@ help:
 SUPPORTED_COMMANDS := test2
 SUPPORTS_MAKE_ARGS := $(findstring $(firstword $(MAKECMDGOALS)), $(SUPPORTED_COMMANDS))
 ifneq "$(SUPPORTS_MAKE_ARGS)" ""
-	# use the rest as arguments for the command
-	COMMAND_ARGS := $(wordlist 2,$(words $(MAKECMDGOALS)),$(MAKECMDGOALS))
-	# ...and turn them into do-nothing targets
-	$(eval $(COMMAND_ARGS):;@:)
+  # use the rest as arguments for the command
+  COMMAND_ARGS := $(wordlist 2,$(words $(MAKECMDGOALS)),$(MAKECMDGOALS))
+  # ...and turn them into do-nothing targets
+  $(eval $(COMMAND_ARGS):;@:)
 endif
 
 install: ## Install dependencies
