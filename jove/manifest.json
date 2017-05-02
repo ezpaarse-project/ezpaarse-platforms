@@ -1,0 +1,20 @@
+{
+  "version": "2016-10-04",
+  "status": "beta",
+  "domains": [
+    "www.jove.com"
+  ],
+  "recognize": {
+    "rid": [
+      "unitid",
+      "title_id",
+      "doi"
+    ]
+  },
+  "name": "jove",
+  "longname": "jove",
+  "describe": "Recognizes the accesses to the platform jove",
+  "docurl": "http://ang.couperin.org/platforms/565d7485d5d046415b5db469",
+  "contact": "pamphile.isch@univ-psl.fr",
+  "pkb": false
+}
