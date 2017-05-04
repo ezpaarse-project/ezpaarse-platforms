@@ -13,16 +13,11 @@ const Parser = require('../.lib/parser.js');
 module.exports = new Parser(function analyseEC(parsedUrl, ec) {
   let result = {};
   let pathname = parsedUrl.pathname;
-  let path = parsedUrl.path;
-  // uncomment this line if you need parameters
-  //let param = parsedUrl.query || {};
-
-  // use console.error for debuging
-  console.error(parsedUrl);
+  let param = parsedUrl.query || {};
 
   let match;
 
-  if ((match = /^\/DBPRO\/FR\/([a-z]+)\/html\/([a-z]+)\/([a-z\_]+)\/([0-9a-z\-\/\_\.\~]+)$/i.exec(pathname)) !== null) {
+  if ((match = /^\/DBPRO\/FR\/([a-z]+)\/html\/([a-z]+)\/([a-z\_]+)\/([0-9a-z\-\_\.\~]+)\/?/i.exec(pathname)) !== null) {
     //DBPro/fr/AdvancedSearch/html/getForm/se_rech/20170407-prod-2392-58e7668d6e9ee4-75323819
     //DBPro/FR/Search/html/breadcrumb/se_src_publ_jur/jur_int_oit/1/20170407-prod-6142-58e762ea352ad7-37590738
     //DBPro/FR/Document/html/getDocFromDbpro/se_src_publ_jur/epo_D0016_16/0/20170407-prod-8670-58e7709a503e47-24424947
@@ -36,19 +31,18 @@ module.exports = new Parser(function analyseEC(parsedUrl, ec) {
 
     switch (match[1]) {
     case 'AdvancedSearch':
-      result.unitid   = match[1];
       result.rtype    = 'SEARCH';
       break;
     case 'Search':
-      result.title_id = match[4].split('/')[0];
+      result.title_id = match[4];
       result.rtype    = 'SEARCH';
       break;
     case 'Document':
-      result.unitid   = match[4].split('/')[0];
+      result.unitid   = match[4];
       result.rtype    = 'ARTICLE';
       break;
     case 'SearchResultEditor':
-      result.title_id = match[4].split('/')[0];
+      result.title_id = match[4];
       result.rtype    = 'SEARCH';
       break;
     default:
@@ -60,7 +54,9 @@ module.exports = new Parser(function analyseEC(parsedUrl, ec) {
     // https://www.stradalex.eu/DBPro/FR/Home/html
     result.rtype     = 'OTHER';
     result.mime      = 'HTML';
-  } else if ((match = /^\/\?page=Dbpro.Controller.SearchResultEditor&/i.exec(path)) !== null) {
+  }
+
+  if (param.page == 'Dbpro.Controller.SearchResultEditor') {
     //?page=Dbpro.Controller.SearchResultEditor&action=search&dbpc=se_rev_editor&lang=FR&uniqid=20170310-prod-5097-58c27ee91135e0-21376885
     result.rtype     = 'SEARCH';
     result.mime      = 'HTML';
