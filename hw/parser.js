@@ -140,7 +140,7 @@ module.exports = new Parser(function analyseEC(parsedUrl, ec) {
       result.rtype  = 'ARTICLE';
       result.mime   = (match[2] === 'pdf' ? 'PDF' : 'HTML');
     }
-  } else if ((match = /^\/\w+\/toc\.htm/.test(path)) !== null) {
+  } else if (/^\/\w+\/toc\.htm/.test(path)) {
     // /bsr/toc.htm;
     result.unitid = hostname;
     result.rtype  = 'TOC';
