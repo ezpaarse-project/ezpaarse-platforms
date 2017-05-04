@@ -1,0 +1,19 @@
+{
+  "version": "2017-05-02",
+  "status": "beta",
+  "domains": [
+    "www.stradalex.eu"
+  ],
+  "recognize": {
+    "rid": [
+      "unitid",
+      "title_id"
+    ]
+  },
+  "name": "strada",
+  "longname": "Strada Lex",
+  "describe": "Recognizes the accesses to the platform Strada Lex",
+  "docurl": "http://ang.couperin.org/platforms/5899c822dcdc613363b6e08c/",
+  "contact": "maxime.weiten@inist.fr",
+  "pkb": true
+}
