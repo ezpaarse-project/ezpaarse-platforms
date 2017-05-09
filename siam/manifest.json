@@ -1,0 +1,21 @@
+{
+  "version": "2017-05-09",
+  "status": "beta",
+  "domains": [
+    "epubs.siam.org"
+  ],
+  "recognize": {
+    "rid": [
+      "doi",
+      "title_id",
+      "publication_date",
+      "unitid"
+    ]
+  },
+  "name": "siam",
+  "longname": "siam",
+  "describe": "Recognizes the accesses to the platform siam",
+  "docurl": "http://ang.couperin.org/platforms/565d788344d4ba734b6613e1",
+  "contact": "maxime.weiten@inist.fr",
+  "pkb": false
+}
