@@ -87,29 +87,28 @@ module.exports = new Parser(function analyseEC(parsedUrl) {
     //core/journals/journal-of-the-history-of-economic-thought/issue/CF230263144D4D
     //core/journals/journal-of-the-history-of-economic-thought/article/old-generation-of-economists-and-the-new-an-intellectual-historians-approach-to-a-significant-transition/A95C410BA1767D60C3DA96901466AABD/core-reader
     //core/services/aop-cambridge-core/content/view/A95C410BA1767D60C3DA96901466AABD/S1053837209990411a.pdf/old_generation_of_economists_and_the_new_an_intellectual_historians_approach_to_a_significant_transition.pdf
-    let pathNameArray = pathname.split('/');
+    let pathname_array = pathname.split('/');
 
-    if (pathNameArray[pathNameArray.length - 1] == 'core-reader') {
+    if (pathname_array[pathname_array.length - 1] == 'core-reader') {
       result.mime = 'HTML';
       result.rtype = 'ARTICLE';
-      result.unitid = pathNameArray[pathNameArray.length - 3];
-      result.title_id = pathNameArray[pathNameArray.length - 5];
-    } else if (pathNameArray[pathNameArray.length - 4] == 'view') {
+      result.unitid = pathname_array[pathname_array.length - 3];
+      result.title_id = pathname_array[pathname_array.length - 5];
+    } else if (pathname_array[pathname_array.length - 4] == 'view') {
       result.mime = 'PDF';
       result.rtype = 'ARTICLE';
 
-      let title_id_container = match[2].split('/');
-      let title_id_string = title_id_container[title_id_container.length - 2];
+      let title_id_string = pathname_array[pathname_array.length - 2];
 
       result.unitid = /([a-z][0-9]+)/i.exec(title_id_string)[0]; //remove 'a.pdf' in this case
       result.pii = result.unitid;
     }
 
-    if (pathNameArray[pathNameArray.length - 2] == 'issue') {
+    if (pathname_array[pathname_array.length - 2] == 'issue') {
       result.mime = 'MISC';
       result.rtype = 'TOC';
-      result.title_id = pathNameArray[pathNameArray.length - 3];
-      result.unitid =pathNameArray[pathNameArray.length - 3] + '/' + pathNameArray[pathNameArray.length - 2] + '/';
+      result.title_id = pathname_array[pathname_array.length - 3];
+      result.unitid =pathname_array[pathname_array.length - 3] + '/' + pathname_array[pathname_array.length - 2] + '/';
     }
   } else {
     // if nothing recognized remove jid
