@@ -44,24 +44,29 @@ module.exports = new Parser(function analyseEC(parsedUrl, ec) {
     result.mime     = 'PDF';
     result.unitid   = match[2];
 
+  } else if ((match = /^\/docserver\/download\/([0-9a-z]+.pdf)$/.exec(path)) !== null) {
+    //docserver/download/5jm55j9p9rmx.pdf?expires=1455188323&id=id&accname=guest&checksum=0B9EABFE2B513028DA472EF8C0E03086
+    result.rtype    = 'WORKING_PAPER';
+    result.mime     = 'PDF';
+    result.unitid   = match[1];
   } else if ((match = /^\/([A-Za-z\-]*)\/oecd\/([a-z]+)\/(([a-z\-\_]+)(([0-9]+)([a-z\-]+)))$/.exec(path)) !== null) {
     //Digital-Asset-Management/oecd/economics/the-future-of-productivity_9789264248533-en#page1
     result.rtype    = 'BOOK';
     result.mime     = 'HTML';
     result.doi = '10.1787/' + match[5];
     result.unitid   = match[3].split('_')[1];
-  } else if ((match = /^\/economics\/([0-9a-z\-]+)\/([0-9a-z\-\_]+)$/.exec(path)) !== null) {
+  } else if ((match = /^\/economics\/[0-9a-z\-]+\/([0-9a-z\-\_]+)$/.exec(path)) !== null) {
     //economics/the-future-of-productivity/the-role-of-public-policy_9789264248533-8-en
     result.rtype    = 'ABS';
     result.mime     = 'HTML';
-    result.unitid   = match[2].split('_')[1];
-    result.doi      = '10.1787/' + match[2].split('_')[1];
-  } else if ((match = /^\/([A-Za-z\-]*)\/oecd\/([a-z]+)\/([a-z\-]+)\/([0-9a-z\-\_]+)$/.exec(path)) !== null) {
+    result.unitid   = match[1].split('_')[1];
+    result.doi      = '10.1787/' + match[1].split('_')[1];
+  } else if ((match = /^\/[A-Za-z\-]*\/oecd\/[a-z]+\/[a-z\-]+\/([0-9a-z\-\_]+)$/.exec(path)) !== null) {
     //Digital-Asset-Management/oecd/economics/the-future-of-productivity/the-role-of-public-policy_9789264248533-8-en#page1
     result.rtype    = 'BOOK_SECTION';
     result.mime     = 'HTML';
-    result.unitid   = match[4].split('_')[1];
-    result.doi      = '10.1787/' + match[4].split('_')[1];
+    result.unitid   = match[1].split('_')[1];
+    result.doi      = '10.1787/' + match[1].split('_')[1];
   } else if ((match = /^\/employment\/([a-z0-9\-]*)\/([0-9a-z\-\_]+)$/.exec(path)) !== null) {
     //employment/oecd-employment-outlook-2016/qualification-mismatch-and-skills-use_empl_outlook-2016-table26-en
     result.rtype    = 'ABS';
@@ -107,13 +112,8 @@ module.exports = new Parser(function analyseEC(parsedUrl, ec) {
     result.mime     = 'HTML';
     result.unitid   = match[3];
     result.doi      = '10.1787/' + match[3].split('_')[1];
-  } else if ((match = /^\/docserver\/([a-z]+)\/(([0-9a-z]+).pdf)$/.exec(path)) !== null) {
-    //docserver/download/5jm55j9p9rmx.pdf?expires=1455188323&id=id&accname=guest&checksum=0B9EABFE2B513028DA472EF8C0E03086
-    result.rtype    = 'WORKING_PAPER';
-    result.mime     = 'PDF';
-    result.unitid   = match[2];
   } else if ((match = /^\/hha\/(([a-z\-]+).htm)$/.exec(path)) !== null) {
-    //docserver/download/5jm55j9p9rmx.pdf?expires=1455188323&id=id&accname=guest&checksum=0B9EABFE2B513028DA472EF8C0E03086
+    //hha/household-disposable-income.htm
     result.rtype    = 'DATA';
     result.mime     = 'HTML';
     result.unitid   = match[1];
