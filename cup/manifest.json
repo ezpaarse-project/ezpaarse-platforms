@@ -10,7 +10,8 @@
   "contact": "yannick.schurter at inist.fr",
   "pkb": true,
   "domains": [
-    "journals.cambridge.org"
+    "journals.cambridge.org",
+    "cambridge.org"
   ],
   "recognize": {
     "rid": [
