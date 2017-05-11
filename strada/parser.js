@@ -31,35 +31,46 @@ module.exports = new Parser(function analyseEC(parsedUrl, ec) {
 
     switch (match[1]) {
     case 'AdvancedSearch':
-      result.rtype    = 'SEARCH';
+      result.rtype = 'SEARCH';
       break;
     case 'Search':
       result.title_id = match[4];
-      result.rtype    = 'SEARCH';
+      result.rtype = 'SEARCH';
       break;
     case 'Document':
-      result.unitid   = match[4];
-      result.rtype    = 'ARTICLE';
+      result.unitid = match[4];
+      result.rtype = 'ARTICLE';
+
+      switch (match[3]) {
+      case 'se_legi':
+        result.rtype = 'BOOK_SECTION';
+        break;
+      case 'se_mono':
+        result.rtype = 'BOOK_SECTION';
+        break;
+      case 'se_src_publ_jur':
+        result.rtype = 'JURISPRUDENCE';
+        break;
+      }
+
       break;
     case 'SearchResultEditor':
       result.title_id = match[4];
-      result.rtype    = 'SEARCH';
+      result.rtype = 'SEARCH';
       break;
     default:
       break;
     }
-
-
   } else if ((match = /^\/DBPRO\/FR\/home\/html$/i.exec(pathname)) !== null) {
     // https://www.stradalex.eu/DBPro/FR/Home/html
-    result.rtype     = 'OTHER';
-    result.mime      = 'HTML';
+    result.rtype = 'OTHER';
+    result.mime = 'HTML';
   }
 
   if (param.page == 'Dbpro.Controller.SearchResultEditor') {
     //?page=Dbpro.Controller.SearchResultEditor&action=search&dbpc=se_rev_editor&lang=FR&uniqid=20170310-prod-5097-58c27ee91135e0-21376885
-    result.rtype     = 'SEARCH';
-    result.mime      = 'HTML';
+    result.rtype = 'SEARCH';
+    result.mime = 'HTML';
   }
 
   return result;
