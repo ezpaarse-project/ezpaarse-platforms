@@ -34,11 +34,13 @@ module.exports = new Parser(function analyseEC(parsedUrl) {
     result.vol      = match[2];
     result.issue    = match[3];
 
-  } else if ((match = /^\/doi\/(abs|pdf|full)\/([0-9]{2}\.[0-9]{4}\/(annurev(\-|\.)([^\-]+)(\-|\.)[^\-]+(\-|\.)[^\-]+))$/.exec(path)) !== null) {
+  } else if ((match = /^\/doi\/(abs|pdf|full)\/([0-9]{2}\.[0-9]{4}\/(annurev[\.\-]([a-z]+)[\.\-0-9-a-z]+))$/.exec(path)) !== null) {
     // http://www.annualreviews.org.gate1.inist.fr/doi/abs/10.1146/annurev-neuro-062111-150343
+    // http://www.annualreviews.org.gate1.inist.fr/doi/pdf/10.1146/annurev.anchem.1.031207.113026
+    // http://www.annualreviews.org.insmi.bib.cnrs.fr/doi/full/10.1146/annurev-st-04-022817-100001
     result.doi      = match[2];
     result.unitid   = match[3];
-    result.title_id = match[5].split('.')[0];
+    result.title_id = match[4];
 
     switch (match[1]) {
     case 'abs':
