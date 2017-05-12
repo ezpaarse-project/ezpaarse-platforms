@@ -29,10 +29,11 @@ module.exports = new Parser(function analyseEC(parsedUrl, ec) {
     if (param.publication) {
       result.title_id = param.publication;
     }
-  } else if ((match = /^\/doi\/([a-z]+)\/(([0-9\.]+)\/([0-9]+))/i.exec(path)) !== null) {
+  } else if ((match = /^\/doi\/([a-z]+)\/(([0-9\.]+)\/([0-9a-z]+))/i.exec(path)) !== null) {
     // http://epubs.siam.org.insmi.bib.cnrs.fr/doi/pdf/10.1137/100811970
     // http://epubs.siam.org.insmi.bib.cnrs.fr/doi/ref/10.1137/100811970
     // http://epubs.siam.org.insmi.bib.cnrs.fr/doi/abs/10.1137/100811970
+    // http://epubs.siam.org.insis.bib.cnrs.fr/doi/abs/10.1137/15M1013857
     switch (match[1]) {
     case 'abs':
       result.rtype = 'ABS';
