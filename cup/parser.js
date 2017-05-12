@@ -82,33 +82,30 @@ module.exports = new Parser(function analyseEC(parsedUrl) {
       result.title_id = null;
       break;
     }
-  } else if (
-    (match = /^\/core\/([a-z]+)\/([0-9a-z\-\_\.\/]+)/i.exec(pathname)) !== null) {
-    //core/journals/journal-of-the-history-of-economic-thought/issue/CF230263144D4D
-    //core/journals/journal-of-the-history-of-economic-thought/article/old-generation-of-economists-and-the-new-an-intellectual-historians-approach-to-a-significant-transition/A95C410BA1767D60C3DA96901466AABD/core-reader
+  } else if ((match = /^\/core\/services\/aop-cambridge-core\/content\/view\/[a-z0-9]+\/([a-z0-9\.]+)\//i.exec(pathname)) !== null) {
     //core/services/aop-cambridge-core/content/view/A95C410BA1767D60C3DA96901466AABD/S1053837209990411a.pdf/old_generation_of_economists_and_the_new_an_intellectual_historians_approach_to_a_significant_transition.pdf
-    let pathname_array = pathname.split('/');
-
-    if (pathname_array[pathname_array.length - 1] == 'core-reader') {
+    result.mime = 'PDF';
+    result.rtype = 'ARTICLE';
+    let unitid = /^([a-z0-9]+)/i.exec(match[1])[0]; //remove '.pdf' in this case
+    result.unitid = unitid.substring(0, unitid.length - 1);
+    result.pii = result.unitid;
+    console.log(match);
+  } else if ((match = /^\/core\/journals\/([a-z\-]+)\/(article|issue)\/([a-z0-9\-]+)/i.exec(pathname)) !== null) {
+    //core/journals/journal-of-the-history-of-economic-thought/article/old-generation-of-economists-and-the-new-an-intellectual-historians-approach-to-a-significant-transition/A95C410BA1767D60C3DA96901466AABD/core-reader
+    //core/journals/journal-of-the-history-of-economic-thought/issue/CF230263144D4D
+    switch (match[2]) {
+    case 'article':
       result.mime = 'HTML';
       result.rtype = 'ARTICLE';
-      result.unitid = pathname_array[pathname_array.length - 3];
-      result.title_id = pathname_array[pathname_array.length - 5];
-    } else if (pathname_array[pathname_array.length - 4] == 'view') {
-      result.mime = 'PDF';
-      result.rtype = 'ARTICLE';
-
-      let title_id_string = pathname_array[pathname_array.length - 2];
-
-      result.unitid = /([a-z][0-9]+)/i.exec(title_id_string)[0]; //remove 'a.pdf' in this case
-      result.pii = result.unitid;
-    }
-
-    if (pathname_array[pathname_array.length - 2] == 'issue') {
+      result.unitid = match[3].split('/')[0];
+      result.title_id = match[1];
+      break;
+    case 'issue':
       result.mime = 'MISC';
       result.rtype = 'TOC';
-      result.title_id = pathname_array[pathname_array.length - 3];
-      result.unitid =pathname_array[pathname_array.length - 3] + '/' + pathname_array[pathname_array.length - 2] + '/';
+      result.unitid = match[1] + '/issue/';
+      result.title_id = match[1];
+      break;
     }
   } else {
     // if nothing recognized remove jid

@@ -11,7 +11,7 @@
   "pkb": true,
   "domains": [
     "journals.cambridge.org",
-    "cambridge.org"
+    "www.cambridge.org"
   ],
   "recognize": {
     "rid": [
