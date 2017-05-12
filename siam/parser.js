@@ -49,7 +49,7 @@ module.exports = new Parser(function analyseEC(parsedUrl, ec) {
     }
 
     result.unitid = match[4];
-    result.title_id = match[2];
+    result.doi = match[2];
   }
 
   return result;
