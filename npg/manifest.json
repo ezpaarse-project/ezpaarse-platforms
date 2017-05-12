@@ -11,7 +11,8 @@
   "pkb": true,
 	"domains": [
     "www.nature.com",
-    "chimie.gate.inist.fr"
+    "chimie.gate.inist.fr",
+    "nano.nature.com"
 	],
    "baconprovider": "NPG",
   "recognize": {
