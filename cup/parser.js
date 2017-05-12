@@ -109,7 +109,7 @@ module.exports = new Parser(function analyseEC(parsedUrl) {
     }
   } else {
     // if nothing recognized remove jid
-    result.title_id = 'null';
+    result.title_id = null;
   }
   return result;
 });
