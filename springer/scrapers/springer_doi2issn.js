@@ -39,8 +39,10 @@ request.get(url, function (error, response, body) {
 
     // extract issn from the html (easy with jquery !)
     // example :   <dd id="abstract-about-issn">0256-2499</dd>
-    var output = { 'pissn': $('#abstract-about-issn').text().trim(),
-                   'eissn': $('#abstract-about-electronic-issn').text().trim() };
+    var output = {
+      'pissn': $('#abstract-about-issn').text().trim(),
+      'eissn': $('#abstract-about-electronic-issn').text().trim()
+    };
     process.stdout.write(JSON.stringify(output, null, '  ') + '\n');
 
     process.exit(0);

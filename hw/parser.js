@@ -9,6 +9,7 @@ module.exports = new Parser(function analyseEC(parsedUrl, ec) {
 
   const path     = parsedUrl.pathname;
   const hostname = parsedUrl.hostname;
+  const query    = parsedUrl.query || {};
   const fileSize = parseInt(ec.size, 10);
 
   let result = {};
@@ -32,6 +33,8 @@ module.exports = new Parser(function analyseEC(parsedUrl, ec) {
     }
 
   } else if (path.startsWith('/content')) {
+    if (query.abspop) { return {}; }
+
     const extReg = '(?:\\.(abstract|full|full\\.pdf|pdf|toc)(?:\\+html)?)?$';
 
     // /content/6/4/458.full
@@ -137,7 +140,7 @@ module.exports = new Parser(function analyseEC(parsedUrl, ec) {
       result.rtype  = 'ARTICLE';
       result.mime   = (match[2] === 'pdf' ? 'PDF' : 'HTML');
     }
-  } else if ((match = /^\/\w+\/toc\.htm/.test(path)) !== null) {
+  } else if (/^\/\w+\/toc\.htm/.test(path)) {
     // /bsr/toc.htm;
     result.unitid = hostname;
     result.rtype  = 'TOC';
