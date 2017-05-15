@@ -1,0 +1,19 @@
+{
+  "version": "2017-05-15",
+  "status": "beta",
+  "domains": [
+    "projecteuclid.org"
+  ],
+  "recognize": {
+    "rid": [
+      "unitid",
+      "title_id"
+    ]
+  },
+  "name": "pe",
+  "longname": "peuclid",
+  "describe": "Recognizes the accesses to the platform peuclid",
+  "docurl": "http://ang.couperin.org/platforms/5917389b05a53e18dc1a7e43",
+  "contact": "weit maxime",
+  "pkb": false
+}
