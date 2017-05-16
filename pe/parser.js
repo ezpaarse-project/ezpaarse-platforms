@@ -13,7 +13,7 @@ const Parser = require('../.lib/parser.js');
 module.exports = new Parser(function analyseEC(parsedUrl, ec) {
   let result = {};
   let path   = parsedUrl.pathname;
-
+  let hash   = parsedUrl.hash;
   let match;
 
   if ((match = /^\/download\/(pdf|pdfview)_[0-9]+\/([a-z\.]+)\/([0-9]+)$/i.exec(path)) !== null) {
@@ -31,8 +31,13 @@ module.exports = new Parser(function analyseEC(parsedUrl, ec) {
     result.title_id = match[1];
   } else if ((match = /^\/([a-z\.]+)\/([0-9]+)$/i.exec(path)) !== null) {
     // http://projecteuclid.org.insis.bib.cnrs.fr/euclid.ndjfl/1452520241
-    result.rtype    = 'ABS';
-    result.mime     = 'HTML';
+    if (hash) {
+      result.rtype    = 'TOC';
+      result.mime     = 'MISC';
+    } else {
+      result.rtype    = 'ABS';
+      result.mime     = 'HTML';
+    }
     result.title_id = match[1];
     result.unitid   = match[2];
   }
