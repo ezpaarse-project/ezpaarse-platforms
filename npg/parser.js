@@ -136,7 +136,7 @@ module.exports = new Parser(function analyseEC(parsedUrl) {
     result.mime  = 'MISC';
   }
 
-  if ((match = /\/(search|facet-search)/.exec(path)) !== null) {
+  else if ((match = /^\/(search|facet-search)/.exec(path)) !== null) {
     // http://nano.nature.com.insb.bib.cnrs.fr/search?q=nanoparticules&workflow=article&term=concept%3A%22nanoparticles%22&new-search=true
     if (params.q) {
       result.mime   = 'HTML';
@@ -145,14 +145,14 @@ module.exports = new Parser(function analyseEC(parsedUrl) {
     }
   }
 
-  if ((match = /\/nano\/([a-z0-9\-]+)/i.exec(path)) !== null) {
+  else if ((match = /^\/nano\/([a-z0-9\-]+)/i.exec(path)) !== null) {
     // http://nano.nature.com.insb.bib.cnrs.fr/nano/GR-M21079
     result.mime   = 'HTML';
     result.rtype  = 'REF';
     result.unitid = match[1];
   }
 
-  if ((match = /\/related-nanoobject-summary/i.exec(path)) !== null) {
+  else if ((match = /^\/related-nanoobject-summary/i.exec(path)) !== null) {
     // http://nano.nature.com/related-nanoobject-summary?doi=10.2147/IJN.S59290
     if (params.doi) {
       result.mime   = 'MISC';
