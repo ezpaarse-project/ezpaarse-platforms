@@ -42,6 +42,7 @@ module.exports = new Parser(function analyseEC(parsedUrl, ec) {
   } else if ((match = /^\/([a-z]+)\/download\/(([0-9]+)([a-z]+)([0-9]+)\.pdf)$/.exec(path)) !== null) {
     //docserver/download/9215051ec008.pdf
     result.mime     = 'PDF';
+    result.rtype    = 'ARTICLE';
     result.unitid   = match[2];
 
   } else if ((match = /^\/docserver\/download\/([0-9a-z]+.pdf)$/.exec(path)) !== null) {
