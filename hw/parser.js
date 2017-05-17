@@ -35,7 +35,7 @@ module.exports = new Parser(function analyseEC(parsedUrl, ec) {
   } else if (path.startsWith('/content')) {
     if (query.abspop) { return {}; }
 
-    const extReg = '(?:\\.(abstract|full|full\\.pdf|pdf|toc)(?:\\+html)?)?$';
+    const extReg = '(?:\\.(abstract|full|full\\.pdf|pdf|toc))?$';
 
     // /content/6/4/458.full
     // /content/78/2/B49.full
