@@ -13,6 +13,8 @@ module.exports = new Parser(function analyseEC(parsedUrl) {
   var match;
   var id;
 
+  console.error();
+  //ancienne plateforme
   if ((match = /\/weblextenso\/article\/afficher/.exec(path)) !== null) {
     // http://www.lextenso.fr/weblextenso/article/afficher
     if (param['id']) {
@@ -35,16 +37,32 @@ module.exports = new Parser(function analyseEC(parsedUrl) {
         result.unitid = param['d'];
       }
     }
-  } else if ((match = /\/([a-z\_]+)\/([a-z\-]+)\/([0-9]+)\/([0-9]+)\/([0-9\,]+)$/.exec(path)) !== null) {
+  } 
+  
+  //nouvelle plateforme
+  else if ((match = /\/numero_revue\/(([a-z\-]+)\/([0-9]+)\/([0-9]+)\/([0-9\,]+))$/.exec(path)) !== null) {
     //numero_revue/bulletin-joly-bourse/158/3/1456786800
+    //numero_revue/flash-defrenois/163/7/1455663600%2C1456095600
     result.rtype = 'TOC';
     result.mime = 'HTML';
+    result.unitid = match[1];
     result.title_id = match[2];
-  } else if ((match = /\/([a-z]+)\/([a-z]+)\/([a-zA-Z0-9\:]+)$/.exec(path)) !== null) {
-    //lextenso/ud/urn%3AEDCO2016023
-    result.rtype = 'ARTICLE';
+  } 
+  
+  else if ((match = /\/lextenso\/ud\/urn:([a-zA-Z0-9]+)$/.exec(path)) !== null) {
     result.mime = 'HTML';
-    result.unitid = match[3].split(':')[1];
+    result.unitid = match[1];
+    //EDCO;EDCO2016023;ARTICLE;HTML;http://www.lextenso.fr/lextenso/ud/urn%3AEDCO2016023
+    //PA;PA201602013;ARTICLE;HTML;http://www.lextenso.fr/lextenso/ud/urn%3APA201602013
+    //CONSTEXT;CONSTEXT000031256027;JURISPRUDENCE;HTML;http://www.lextenso.fr/lextenso/ud/urn%3ACONSTEXT000031256027
+    if ((match = /([A-Z]+)[0-9]+/.exec(result.unitid)) !== null){
+      result.title_id = match[1];
+      if (result.title_id === 'CONSTEXT') {
+        result.rtype = 'JURISPRUDENCE';
+      } else {
+        result.rtype = 'ARTICLE';
+      }
+    }
   }
 
   return result;
