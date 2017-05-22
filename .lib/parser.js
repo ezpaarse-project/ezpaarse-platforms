@@ -101,6 +101,7 @@ Parser.prototype.execute = function (ec) {
             return;
           }
           var parsedUrl = URL.parse(url, true);
+          ec.url = url;
           process.stdout.write(JSON.stringify(self.analyse(parsedUrl, ec)) + '\n');
         });
     lazy.on('end', function () {
