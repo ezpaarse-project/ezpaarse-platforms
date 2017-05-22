@@ -15,9 +15,11 @@ module.exports = new Parser(function analyseEC(parsedUrl, ec) {
   let path   = parsedUrl.pathname;
   // uncomment this line if you need parameters
   let param = parsedUrl.query || {};
+  let rawUrl = ec.url;
 
   // use console.error for debuging
   // console.error(parsedUrl);
+  //console.error('rawUrl: ' + rawUrl);
 
   let match;
 
@@ -43,20 +45,54 @@ module.exports = new Parser(function analyseEC(parsedUrl, ec) {
     result.title_id = citationData.docId.split('_')[1];
   }
 
-//;FP_FP-617751_0KT0;ENCYCLOPAEDIA_ENTRY;HTML;https://webanalytics.lexisnexis.com:443/wa_k4c.watag?js=1&rf=https%3A%2F%2Fwww-lexis360-fr.bases-doc.univ-lorraine.fr%2Fsearch.aspx%3Fpid%3D6%26portletId%3D79%26tsid%3Dportalpage42_&lc=https%3A%2F%2Fwww-lexis360-fr.bases-doc.univ-lorraine.fr%2FDocument%2Fn_3217_preparer_ses_examens%2FZsfF73PHuzboctUxOJMYP2nWRYaEUoe_zWzSfAzjON01%3Fdata%3Dc0luZGV4PTImckNvdW50PTEzJg%3D%3D%26rndNum%3D1099977257%26tsid%3Dsearch20_&rs=1920x1080&cd=24&ln=fr&jv=1&tz=GMT%20%2B01%3A00&site=k4c&wa_PageName=Format%20des%20documents%20&wa_ProductId=69&un=THOMAS.JOUNEAUU2447445205&wa_UserType=Subscribed&wa_SessionId=228945b0-0a48-11e7-af02-00000aab0d6b&wa_ClientID=%23%24%25none%25%24%23&wa_transID=05d9824d-8592-4b02-969c-f9a445500bb9&wa_DocId=FP_FP-617751_0KT0&wa_DocSourceType=FicheMethodo&wa_UserAction=ViewDoc&wa_RequestEndTime=Thu%2C%2016%20Mar%202017%2015%3A57%3A55%20GMT&ets=1489679875173.841&ts=1489679875173.713&ck=WA_ANONCOOKIE%3DZFdM2qWagxa5_44212
-//;FP_FP-620713_0KT0;ENCYCLOPAEDIA_ENTRY;HTML;https://webanalytics.lexisnexis.com:443/wa_k4c.watag?js=1&rf=https%3A%2F%2Fwww-lexis360-fr.bases-doc.univ-lorraine.fr%2FContenus&lc=https%3A%2F%2Fwww-lexis360-fr.bases-doc.univ-lorraine.fr%2Fdocview.aspx%3Ftsid%3Dsearch21_&rs=1920x1080&cd=24&ln=fr&jv=1&tz=GMT%20%2B01%3A00&site=k4c&wa_PageName=Format%20des%20documents%20&wa_ProductId=69&un=THOMAS.JOUNEAUU2447445205&wa_UserType=Subscribed&wa_SessionId=228945b0-0a48-11e7-af02-00000aab0d6b&wa_ClientID=%23%24%25none%25%24%23&wa_transID=0768a48d-b571-435d-b4a9-32ab97a14a85&wa_DocId=FP_FP-620713_0KT0&wa_DocSourceType=FicheRevision&wa_UserAction=ViewDoc&wa_RequestEndTime=Thu%2C%2016%20Mar%202017%2016%3A01%3A52%20GMT&ets=1489680112027.152&ts=1489680112027.958&ck=WA_ANONCOOKIE%3DZFdM2qWagxa5_44212
+  else if ((match = /^\/wa_k4c.watag$/i.exec(path)) !== null) {
+    //plateforme webanalytics : on travaille avec l'URL brute, non parsée
+    let match3;
+    if ((match3 = /&wa_DocId=([0-9a-zA-Z_\-]+)&/i.exec(rawUrl)) !== null){
+      result.unitid = match3[1];
+      let match3a;
+      if ((match3a = /PS_([A-Z]+)/.exec(result.unitid)) !== null){
+        result.title_id = match3a[1];
+      }
+    }
 
-//  else if ((match = /^\/wa_k4c.watag$/i.exec(path)) !== null) {
-//    //plateforme webanalytics
-//    //https://webanalytics.lexisnexis.com:443/wa_k4c.watag
-//    console.error("BING " + param.wa_SessionId + " - " + param.wa_ClientID);
-//    //result.unitid = param.wa_DocId;
-//
-//    if (param.wa_DocSourceType === "FicheMethodo" || param.wa_DocSourceType === "FicheRevision"){
-//      result.rtype    = 'ENCYCLOPAEDIA_ENTRY';
-//      result.mime     = 'HTML';
-//    }
-//  }
-
+    let match4;
+    let matchLegislation;
+    if ((match4 = /&wa_DocSourceType=([0-9a-z%é_]+)&/i.exec(rawUrl)) !== null){
+      let docSourceType = match4[1];
+      if (docSourceType === 'FicheMethodo' || docSourceType === 'FicheRevision'){
+        result.rtype    = 'ENCYCLOPAEDIA_ENTRY';
+        result.mime     = 'HTML';
+      }
+      else if (docSourceType === 'PresseSommaire'){
+        result.rtype    = 'TOC';
+        result.mime     = 'HTML';
+      }
+      else if (docSourceType === 'Presse'){
+        result.rtype    = 'ARTICLE';
+        result.mime     = 'HTML';
+      }
+      else if (docSourceType === 'En_eFascicule'){
+        let match5;
+        if ((match5 = /&wa_UserAction=([a-zA-Z]+)&/i.exec(rawUrl)) !== null){
+          let userAction = match5[1];
+          if (userAction === 'ViewDoc' || userAction === 'ChangeToc'){
+            result.rtype    = 'ENCYCLOPAEDIA_ENTRY';
+            result.mime     = 'HTML';
+          }
+        }
+      }
+      else if ((matchLegislation = /L[é%C3A9]+gislationconsolid[é%C3A9]+e/.exec(docSourceType)) !== null){
+        let match6;
+        if ((match6 = /&wa_UserAction=([a-zA-Z]+)&/i.exec(rawUrl)) !== null){
+          let userAction = match6[1];
+          if (userAction === 'ViewDoc' || userAction === 'ChangeToc'){
+            result.rtype    = 'CODES';
+            result.mime     = 'HTML';
+          }
+        }
+      }
+    }
+  }
   return result;
 });
