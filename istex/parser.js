@@ -52,8 +52,8 @@ module.exports = new Parser(function analyseEC(parsedUrl, ec) {
   } else if ((match = /^\/document\/([0-9a-z]{40})\/([a-z]+)\/?/i.exec(path)) !== null) {
     // /document/4C46BB8FC3AE3CB005C44243414E9D0E9C8C6057/enrichments/
 
-    result.istex_rtype = 'TOC';
-    result.rtype       = 'TOC';
+    result.istex_rtype = 'OTHER';
+    result.rtype       = 'OTHER';
     result.mime        = 'JSON';
     result.unitid      = match[1];
 
