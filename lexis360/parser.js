@@ -48,45 +48,70 @@ module.exports = new Parser(function analyseEC(parsedUrl, ec) {
   else if ((match = /^\/wa_k4c.watag$/i.exec(path)) !== null) {
     //plateforme webanalytics : on travaille avec l'URL brute, non parsée
     let match3;
-    if ((match3 = /&wa_DocId=([0-9a-zA-Z_\-]+)&/i.exec(rawUrl)) !== null){
+    if ((match3 = /&wa_DocId=([0-9a-zA-Z_\-]+)&/i.exec(rawUrl)) !== null) {
       result.unitid = match3[1];
       let match3a;
-      if ((match3a = /PS_([A-Z]+)/.exec(result.unitid)) !== null){
+      if ((match3a = /PS_([A-Z]+)/.exec(result.unitid)) !== null) {
         result.title_id = match3a[1];
       }
     }
 
     let match4;
-    let matchLegislation;
-    if ((match4 = /&wa_DocSourceType=([0-9a-z%é_]+)&/i.exec(rawUrl)) !== null){
+    if ((match4 = /&wa_DocSourceType=([0-9a-z%é_]+)&/i.exec(rawUrl)) !== null) {
+
       let docSourceType = match4[1];
-      if (docSourceType === 'FicheMethodo' || docSourceType === 'FicheRevision'){
+      if (docSourceType === 'FicheMethodo' || docSourceType === 'FicheRevision') {
         result.rtype    = 'ENCYCLOPAEDIA_ENTRY';
         result.mime     = 'HTML';
       }
-      else if (docSourceType === 'PresseSommaire'){
+      else if (docSourceType === 'PresseSommaire') {
         result.rtype    = 'TOC';
         result.mime     = 'HTML';
       }
-      else if (docSourceType === 'Presse'){
+      else if (docSourceType === 'Presse') {
         result.rtype    = 'ARTICLE';
         result.mime     = 'HTML';
       }
-      else if (docSourceType === 'En_eFascicule'){
+      else if (docSourceType === 'En_eFascicule') {
         let match5;
-        if ((match5 = /&wa_UserAction=([a-zA-Z]+)&/i.exec(rawUrl)) !== null){
+        if ((match5 = /&wa_UserAction=([a-zA-Z]+)&/i.exec(rawUrl)) !== null) {
           let userAction = match5[1];
-          if (userAction === 'ViewDoc' || userAction === 'ChangeToc'){
+          if (userAction === 'ViewDoc' || userAction === 'ChangeToc') {
             result.rtype    = 'ENCYCLOPAEDIA_ENTRY';
             result.mime     = 'HTML';
           }
         }
       }
-      else if ((matchLegislation = /L[é%C3A9]+gislationconsolid[é%C3A9]+e/.exec(docSourceType)) !== null){
+
+      if (/L[é%C3A9]+gislationconsolid[é%C3A9]+e/.test(docSourceType)) {
+        // https://webanalytics.lexisnexis.com:443/
+        // wa_k4c.watag?js=1
+        // &rf=https%3A%2F%2Fwww-lexis360-fr.bases-doc.univ-lorraine.fr%2FContenus
+        // &lc=https%3A%2F%2Fwww-lexis360-fr.bases-doc.univ-lorraine.fr%2Fdocview.aspx%3Ftsid%3Dsearch25_
+        // &rs=1920x1080
+        // &cd=24
+        // &ln=fr
+        // &jv=1
+        // &tz=GMT%20%2B01%3A00
+        // &site=k4c
+        // &wa_PageName=Format%20des%20documents%20
+        // &wa_ProductId=69
+        // &un=xxxxxxxxxxxxxxxxxxxxxxx
+        // &wa_UserType=Subscribed
+        // &wa_SessionId=228945b0-0a48-11e7-af02-00000aab0d6b
+        // &wa_ClientID=%23%24%25none%25%24%23
+        // &wa_transID=bd42b88b-50c4-4672-a9e5-646773b61dd2
+        // &wa_DocId=LG_SLD-LEGISCTA000032227360_0WJN
+        // &wa_DocSourceType=L%C3%A9gislationconsolid%C3%A9e
+        // &wa_UserAction=ViewDoc
+        // &wa_RequestEndTime=Thu%2C%2016%20Mar%202017%2016%3A22%3A21%20GMT
+        // &ets=1489681341375.843
+        // &ts=1489681341375.264
+        // &ck=WA_ANONCOOKIE%3DZFdM2qWagxa5_44212
         let match6;
-        if ((match6 = /&wa_UserAction=([a-zA-Z]+)&/i.exec(rawUrl)) !== null){
+        if ((match6 = /&wa_UserAction=([a-zA-Z]+)&/i.exec(rawUrl)) !== null) {
           let userAction = match6[1];
-          if (userAction === 'ViewDoc' || userAction === 'ChangeToc'){
+          if (userAction === 'ViewDoc' || userAction === 'ChangeToc') {
             result.rtype    = 'CODES';
             result.mime     = 'HTML';
           }
