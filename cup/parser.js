@@ -1,8 +1,5 @@
 #!/usr/bin/env node
 
-// ##EZPAARSE
-
-/*jslint maxlen: 200*/
 'use strict';
 var Parser = require('../.lib/parser.js');
 
@@ -17,8 +14,7 @@ module.exports = new Parser(function analyseEC(parsedUrl) {
   }
   if (param.fileId && !/\|/.exec(param.fileId)) {
     // if fileId contains some '|', ignore (pre-click to PDF)
-    result.print_identifier =
-      param.fileId.substr(1, 4) + '-' + param.fileId.substr(5, 4);
+    result.print_identifier = param.fileId.substr(1, 4) + '-' + param.fileId.substr(5, 4);
     result.unitid = param.fileId;
   }
   result.title_id = param.jid;
@@ -30,16 +26,14 @@ module.exports = new Parser(function analyseEC(parsedUrl) {
       result.unitid = param.jid;
       result.rtype = 'TOC';
       result.mime = 'MISC';
-
       break;
     case 'displayJournalTab':
-        // http://journals.cambridge.org.gate1.inist.fr/action/displayJournal?jid=VNS&bVolume=y
+      // http://journals.cambridge.org.gate1.inist.fr/action/displayJournal?jid=VNS&bVolume=y
       result.rtype = 'TOC';
       result.mime = 'MISC';
-
       break;
     case 'displayIssue':
-        // http://journals.cambridge.org.gate1.inist.fr/action/displayIssue?decade=2010&jid=VNS&volumeId=27&issueId=3-4&iid=7880012
+      // http://journals.cambridge.org.gate1.inist.fr/action/displayIssue?decade=2010&jid=VNS&volumeId=27&issueId=3-4&iid=7880012
       result.rtype = 'TOC';
       result.mime = 'MISC';
       result.unitid = param.iid;
@@ -48,15 +42,15 @@ module.exports = new Parser(function analyseEC(parsedUrl) {
       break;
     case 'displayFulltext':
       if (param.pdftype) {
-          // http://journals.cambridge.org.gate1.inist.fr/action/displayFulltext?type=1&pdftype=1&fid=7880027&jid=VNS&volumeId=27&issueId=3-4&aid=7880025
+        // http://journals.cambridge.org.gate1.inist.fr/action/displayFulltext?type=1&pdftype=1&fid=7880027&jid=VNS&volumeId=27&issueId=3-4&aid=7880025
         result.unitid = param.aid;
         result.rtype = 'ARTICLE';
         result.mime = 'PDF';
         result.volume = param.volumeId;
         result.issue = param.issueId;
       } else {
-          // if (param.fulltextType == 'RA')
-          // http://journals.cambridge.org.gate1.inist.fr/action/displayFulltext?type=6&fid=7880026&jid=VNS&volumeId=27&issueId=3-4&aid=7880025&fulltextType=RA&fileId=S0952523810000179
+        // if (param.fulltextType == 'RA')
+        // http://journals.cambridge.org.gate1.inist.fr/action/displayFulltext?type=6&fid=7880026&jid=VNS&volumeId=27&issueId=3-4&aid=7880025&fulltextType=RA&fileId=S0952523810000179
         if (!result.unitid) {
           result.unitid = param.aid;
         }
@@ -70,7 +64,7 @@ module.exports = new Parser(function analyseEC(parsedUrl) {
       }
       break;
     case 'displayAbstract':
-        // http://journals.cambridge.org.gate1.inist.fr/action/displayAbstract?fromPage=online&aid=9010487&fulltextType=RV&fileId=S0952523813000345
+      // http://journals.cambridge.org.gate1.inist.fr/action/displayAbstract?fromPage=online&aid=9010487&fulltextType=RV&fileId=S0952523813000345
       result.rtype = 'ABS';
       result.mime = 'HTML';
       if (param.fileId) {
@@ -78,7 +72,7 @@ module.exports = new Parser(function analyseEC(parsedUrl) {
       }
       break;
     default:
-        // if nothing recognized remove jid
+      // if nothing recognized remove jid
       result.title_id = null;
       break;
     }
@@ -89,7 +83,6 @@ module.exports = new Parser(function analyseEC(parsedUrl) {
     let unitid = /^([a-z0-9]+)/i.exec(match[1])[0]; //remove '.pdf' in this case
     result.unitid = unitid.substring(0, unitid.length - 1);
     result.pii = result.unitid;
-    console.log(match);
   } else if ((match = /^\/core\/journals\/([a-z\-]+)\/(article|issue)\/([a-z0-9\-]+)/i.exec(pathname)) !== null) {
     //core/journals/journal-of-the-history-of-economic-thought/article/old-generation-of-economists-and-the-new-an-intellectual-historians-approach-to-a-significant-transition/A95C410BA1767D60C3DA96901466AABD/core-reader
     //core/journals/journal-of-the-history-of-economic-thought/issue/CF230263144D4D
