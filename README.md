@@ -11,10 +11,15 @@ Platforms parsers, scrapers and PKBs for ezPAARSE
 ```bash
   # Install dependencies
   make install
+  
   # Test all platforms
   make test
+  
   # Test only SD and NPG
   make test sd npg
+  
+  # Initialize a new parser
+  make init
 ```
 
 ## Documentation

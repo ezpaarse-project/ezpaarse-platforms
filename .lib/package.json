@@ -5,6 +5,7 @@
   "scripts": {
     "test": "mocha test/*-test.js",
     "lint": "eslint --ext .js --ignore-path .gitignore ..",
+    "create-parser": "node ./platform-init.js",
     "precommit": "./pre-commit"
   },
   "repository": {
@@ -12,12 +13,16 @@
     "url": "git+https://github.com/ezpaarse-project/ezpaarse-platforms.git"
   },
   "devDependencies": {
+    "co": "^4.6.0",
     "csvtojson": "^0.5.3",
     "eslint": "^3.19.0",
     "husky": "^0.13.3",
+    "inquirer": "^3.0.6",
     "lazy": "^1.0.11",
+    "listr": "^0.12.0",
     "mocha": "^2.5.3",
     "moment": "^2.12.0",
+    "request": "^2.81.0",
     "yargs": "^4.3.2"
   }
 }

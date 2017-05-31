@@ -25,3 +25,6 @@ test: ## Tests every platforms. You can also select one or more. Ex: make test s
 
 lint: ## Run syntax verification on javascript files
 	cd .lib && npm run lint
+
+init: ## Initialize a new parser
+	cd .lib && npm run create-parser
