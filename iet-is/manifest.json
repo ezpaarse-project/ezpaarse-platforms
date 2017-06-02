@@ -1,0 +1,24 @@
+{
+  "version": "2016-09-21",
+  "status": "beta",
+  "domains": [
+    "inspecdirect-service.theiet.org"
+  ],
+  "recognize": {
+    "rid": [
+      "unitid"
+    ],
+    "rtype": [
+      "ARTICLE"
+    ],
+    "mime": [
+      "HTML"
+    ]
+  },
+  "name": "iet-is",
+  "longname": "IET InspectDirect",
+  "describe": "Recognizes the accesses to the platform IET InspectDirect",
+  "docurl": "http://ang.couperin.org/platforms/to_be_completed/",
+  "contact": "Aurelian Popescu",
+  "pkb": false
+}

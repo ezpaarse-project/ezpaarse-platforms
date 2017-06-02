@@ -1,0 +1,27 @@
+{
+  "version": "2017-01-31",
+  "status": "beta",
+  "domains": [
+    "dlib.eastview.com"
+  ],
+  "recognize": {
+    "rid": [
+      "title_id",
+      "unitid"	
+    ],
+   "rtype": [
+      "BOOK_SECTION",
+      "IMAGE"
+    ],
+"mime": [
+      "JPEG",
+      "MISC"
+    ]	
+  },
+  "name": "eastview",
+  "longname": "East View",
+  "describe": "Recognizes the accesses to the platform East View",
+  "docurl": "http://ang.couperin.org/platforms/58f8afce3a0cd8cfcbdd2518",
+  "contact": "Aurelian Popescu",
+  "pkb": false
+}

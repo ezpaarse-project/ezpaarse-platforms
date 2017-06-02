@@ -1,0 +1,28 @@
+{
+  "version": "2016-09-16",
+  "status": "beta",
+  "domains": [
+    "digital-library.theiet.org"
+  ],
+  "recognize": {
+    "rid": [
+      "unitid",
+      "title_id",
+      "doi"
+    ],
+    "rtype": [
+      "ARTICLE",
+      "BOOK"
+    ],
+    "mime": [
+      "HTML",
+      "PDF"
+    ]
+  },
+  "name": "iet-dl",
+  "longname": "IET Digital Library",
+  "describe": "Recognizes the accesses to the platform IET Digital Library",
+  "docurl": "http://ang.couperin.org/platforms/590074567ef45a71d8c7deb1",
+  "contact": "Aurelian Popescu",
+  "pkb": true
+}

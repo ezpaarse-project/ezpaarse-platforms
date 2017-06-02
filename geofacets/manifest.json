@@ -1,0 +1,33 @@
+{
+  "version": "2017-03-22",
+  "status": "beta",
+  "domains": [
+    "www.geofacets.com"
+  ],
+  "recognize": {
+    "rid": [
+      "unitid",
+      "title_id"
+    ],
+    "rtype": [
+      "TABLE",
+      "MAP",
+      "ABS",
+      "IMAGE"
+    ],
+    "mime": [
+      "HTML",
+      "PDF",
+      "ZIP",
+      "TIFF",
+      "JPEG",
+      "MISC"
+    ]
+  },
+  "name": "Geofacets",
+  "longname": "Geofacets",
+  "describe": "Recognizes the accesses to the platform Geofacets",
+  "docurl": "http://ang.couperin.org/platforms/590064b43d057fb293270a38",
+  "contact": "Aurelian Popescu",
+  "pkb": false
+}

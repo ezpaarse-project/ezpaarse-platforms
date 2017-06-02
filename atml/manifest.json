@@ -1,0 +1,29 @@
+{
+  "version": "2017-03-13",
+  "status": "beta",
+  "domains": [
+    "atomiclearning.com"
+  ],
+  "recognize": {
+    "rid": [
+      "unitid",
+      "title_id"
+    ],
+    "rtype": [
+      "VIDEO",
+      "ARTICLE",
+      "ABS"
+    ],
+    "mime": [
+      "ZIP",
+      "HTML",
+      "MISC"
+    ]
+  },
+  "name": "atml",
+  "longname": "Atomic Learning",
+  "describe": "Recognizes the accesses to the platform Atomic Learning",
+  "docurl": "http://ang.couperin.org/platforms/58f84c4084548ccf60f5bd9a",
+  "contact": "Aurelian Popescu",
+  "pkb": false
+}

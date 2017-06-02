@@ -1,0 +1,26 @@
+{
+  "version": "2017-01-25",
+  "status": "beta",
+  "domains": [
+    "ekb.discoveryeducation.com",
+    "en.discoveryeducation.ekb.eg",
+    "discoveryeducation.ekb.eg"
+  ],
+  "recognize": {
+    "rid": [
+      "unitid"
+    ],
+    "rtype": [
+      "VIDEO"
+    ],
+    "mime": [
+      "MISC"
+    ]
+  },
+  "name": "discovery",
+  "longname": "Discovery Education",
+  "describe": "Recognizes the accesses to the platform Discovery Education",
+  "docurl": "http://ang.couperin.org/platforms/58f8ad250a0a2962aadf8c23",
+  "contact": "Aurelian Popescu",
+  "pkb": false
+}
