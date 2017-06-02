@@ -16,23 +16,13 @@ module.exports = new Parser(function analyseEC(parsedUrl, ec) {
   // uncomment this line if you need parameters
   let param = parsedUrl.query || {};
 
-  // use console.error for debuging
-  // console.error(parsedUrl);
-
-  let match;
-
-  if ((match = /^\/oeb_entry.aspx$/i.exec(path)) !== null) {
+  if (/^\/oeb_entry.aspx$/i.test(path)) {
     // http://oeb.griffith.ox.ac.uk/oeb_entry.aspx?item=23151
     // http://oeb.griffith.ox.ac.uk/oeb_entry.aspx?parent=239578
-    result.rtype    = 'ARTICLE';
-    result.mime     = 'HTML';
-    let id = param.parent;
-    if (id == null){
-			id = param.item;
-    } 
-    result.unitid = id;	
-
-  } 
+    result.rtype  = 'ARTICLE';
+    result.mime   = 'HTML';
+    result.unitid = param.parent || param.item;
+  }
 
   return result;
 });

@@ -1,10 +1,7 @@
 #!/usr/bin/env node
 
-// ##EZPAARSE
-
-/*jslint maxlen: 150*/
 'use strict';
-var Parser = require('../.lib/parser.js');
+const Parser = require('../.lib/parser.js');
 
 /**
  * Recognizes the accesses to the platform SpringerProtocols
@@ -14,45 +11,38 @@ var Parser = require('../.lib/parser.js');
  * @return {Object} the result
  */
 module.exports = new Parser(function analyseEC(parsedUrl, ec) {
-  var result = {};
-  var path = parsedUrl.pathname;
-  //var param = parsedUrl.query || {};
+  let result = {};
+  let path   = parsedUrl.pathname;
+  let match;
 
-  // use console.error for debuging
-  // console.error(parsedUrl);
+  if ((match = /^\/(Abstract|Full|Pdf)\/doi\/([0-9]+\.[0-9]+\/([^\/]+))$/.exec(path)) !== null) {
+    // Abstract http://www.springerprotocols.com/Abstract/doi/10.1007/978-1-59259-128-2_1
+    // Fulltext HTML  http://www.springerprotocols.com/Full/doi/10.1007/978-1-59259-128-2_1?encCode=T0lCOjFfMi04MjEtOTUyOTUtMS04Nzk=
+    // Fulltext PDF	http://www.springerprotocols.com/Pdf/doi/10.1007/978-1-59259-128-2_1?encCode=T0lCOjFfMi04MjEtOTUyOTUtMS04Nzk=
 
-  var match;
+    result.doi    = match[2];
+    result.unitid = match[3];
 
-  if ((match = /^\/(Abstract|Full|Pdf)\/doi\/([0-9]+\.[0-9]+\/[^\/]+)$/.exec(path)) !== null) {
-    //Abstract http://www.springerprotocols.com/Abstract/doi/10.1007/978-1-59259-128-2_1
-    //Fulltext HTML  http://www.springerprotocols.com/Full/doi/10.1007/978-1-59259-128-2_1?encCode=T0lCOjFfMi04MjEtOTUyOTUtMS04Nzk=
-    //Fulltext PDF	http://www.springerprotocols.com/Pdf/doi/10.1007/978-1-59259-128-2_1?encCode=T0lCOjFfMi04MjEtOTUyOTUtMS04Nzk=
+    if (result.unitid) {
+      result.online_identifier = result.unitid.split('_')[0];
+    }
 
-    result.doi = match[2];
-    result.unitid = match[2].split('/')[1];
-    if (result.unitid){
-    	result.online_identifier = result.unitid.split('_')[0];
-  	}
-
-    switch(match[1]) {
-
-      case 'Abstract':
-        //Example: http://www.springerprotocols.com/Abstract/doi/10.1007/978-1-59259-128-2_1
-        result.rtype = 'ABS';
-        result.mime = 'HTML';
-        break;
-
-      case 'Full':
-        //Example:  http://www.springerprotocols.com/Full/doi/10.1007/978-1-59259-128-2_1
-        result.rtype = 'BOOK';
-        result.mime = 'HTML';
-        break;
-      case 'Pdf':
-        //Example:	  http://www.springerprotocols.com/Pdf/doi/10.1007/978-1-59259-128-2_1?encCode=T0lCOjFfMi04MjEtOTUyOTUtMS04Nzk=
-
-        result.rtype = 'BOOK';
-        result.mime = 'PDF';
-        break;
+    switch (match[1]) {
+    case 'Abstract':
+      // Example: http://www.springerprotocols.com/Abstract/doi/10.1007/978-1-59259-128-2_1
+      result.rtype = 'ABS';
+      result.mime  = 'HTML';
+      break;
+    case 'Full':
+      // Example: http://www.springerprotocols.com/Full/doi/10.1007/978-1-59259-128-2_1
+      result.rtype = 'BOOK';
+      result.mime  = 'HTML';
+      break;
+    case 'Pdf':
+      // Example: http://www.springerprotocols.com/Pdf/doi/10.1007/978-1-59259-128-2_1?encCode=T0lCOjFfMi04MjEtOTUyOTUtMS04Nzk=
+      result.rtype = 'BOOK';
+      result.mime  = 'PDF';
+      break;
     }
   }
 

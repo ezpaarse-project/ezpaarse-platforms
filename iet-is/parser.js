@@ -1,10 +1,7 @@
 #!/usr/bin/env node
 
-// ##EZPAARSE
-
-/*jslint maxlen: 150*/
 'use strict';
-var Parser = require('../.lib/parser.js');
+const Parser = require('../.lib/parser.js');
 
 /**
  * Recognizes the accesses to the platform IET InspectDirect
@@ -14,21 +11,16 @@ var Parser = require('../.lib/parser.js');
  * @return {Object} the result
  */
 module.exports = new Parser(function analyseEC(parsedUrl, ec) {
-  var result = {};
-  var path   = parsedUrl.pathname;
+  let result = {};
+  let path   = parsedUrl.pathname;
   // uncomment this line if you need parameters
-  var param  = parsedUrl.query || {};
+  let param  = parsedUrl.query || {};
 
-  // use console.error for debuging
-  // console.error(parsedUrl);
-
-  var match;
-
-  if ((match = /^\/(private|Private)\/CurrentRecord.aspx$/.exec(path)) !== null) {
+  if (/^\/(private|Private)\/CurrentRecord.aspx$/.test(path)) {
     // https://inspecdirect-service.theiet.org/private/CurrentRecord.aspx?RecordId=20163016209874
-    result.rtype    = 'ARTICLE';
-    result.mime     = 'HTML';
-    result.unitid   = param.RecordId;
+    result.rtype  = 'ARTICLE';
+    result.mime   = 'HTML';
+    result.unitid = param.RecordId;
   }
 
   return result;

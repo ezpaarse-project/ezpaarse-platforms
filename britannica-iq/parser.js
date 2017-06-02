@@ -1,10 +1,7 @@
 #!/usr/bin/env node
 
-// ##EZPAARSE
-
-/*jslint maxlen: 150*/
 'use strict';
-var Parser = require('../.lib/parser.js');
+const Parser = require('../.lib/parser.js');
 
 /**
  * Recognizes the accesses to the platform Britannica
@@ -14,26 +11,20 @@ var Parser = require('../.lib/parser.js');
  * @return {Object} the result
  */
 module.exports = new Parser(function analyseEC(parsedUrl, ec) {
-  var result = {};
-  var path   = parsedUrl.pathname;
-  // uncomment this line if you need parameters
-  var param  = parsedUrl.query || {};
+  let result = {};
+  let path   = parsedUrl.pathname;
+  let match;
 
-  // use console.error for debuging
-  // console.error(parsedUrl);
-
-  var match;
-
- if ((match = /^\/asset\/download\/([0-9]+_?[0-9]+)$/i.exec(path)) !== null) {
-    //http://quest.eb.com/asset/download/132_1279562?translate=false	
-	result.rtype = 'IMAGE';
-      result.mime  = 'MISC';
-      result.unitid = match[1];
+  if ((match = /^\/asset\/download\/([0-9]+_?[0-9]+)$/i.exec(path)) !== null) {
+    // http://quest.eb.com/asset/download/132_1279562?translate=false
+    result.rtype  = 'IMAGE';
+    result.mime   = 'MISC';
+    result.unitid = match[1];
   } else if ((match = /^\/search\/([0-9]+_?[0-9]+)\/[0-9]+\/([0-9]+_?[0-9]+)\/detail\/more$/i.exec(path)) !== null) {
-    //http://quest.eb.com/search/138_1063502/1/138_1063502/detail/more
-        result.rtype = 'ENCYCLOPAEDIA_ENTRY';
-      result.mime  = 'HTML';
-      result.unitid = match[1];
+    // http://quest.eb.com/search/138_1063502/1/138_1063502/detail/more
+    result.rtype  = 'ENCYCLOPAEDIA_ENTRY';
+    result.mime   = 'HTML';
+    result.unitid = match[1];
   }
 
   return result;

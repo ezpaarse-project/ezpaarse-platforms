@@ -7,29 +7,18 @@
 
 'use strict';
 
-var request     = require('request').defaults({
-  proxy: process.env.http_proxy ||
-         process.env.HTTP_PROXY ||
-         process.env.https_proxy ||
-         process.env.HTTPS_PROXY
-});
-
-var CSV         = require('csv-string');
-// var URL         = require('url');
-
-var PkbRows     = require('../../.lib/pkbrows.js');
-var pkb         = new PkbRows('amdigital');
+var request = require('request');
+var CSV     = require('csv-string');
+var PkbRows = require('../../.lib/pkbrows.js');
+var pkb     = new PkbRows('amdigital');
 
 // setKbartName() is required to fix the kbart output file name
 //pkb.consortiumName = 'BooksAndNavigator';       // default empty
 pkb.packageName = 'Confidential_Print_Middle_East'; // default AllTitles
 pkb.setKbartName();
 
-
 var journalsUrl = 'http://galileo.museglobal.ro/~vali/Confidential_Print_Middle_East.csv';
 console.error('Downloading: ' + journalsUrl);
-var y = new Date();
-var yeartoday = y.getFullYear();
 
 request.get({uri: journalsUrl, encoding: 'binary'}, function (err, resp, body) {
   if (err) { throw err; }
@@ -86,7 +75,6 @@ request.get({uri: journalsUrl, encoding: 'binary'}, function (err, resp, body) {
   // search the Department Code
   var departmentCodeIdx   = csvHeader.indexOf('departmentcode');
   console.error('Department Code column number:   ' + departmentCodeIdx);
-  
 
   // Loop on the CSV entries
   csvSource.forEach(function (csvRow) {
@@ -97,22 +85,22 @@ request.get({uri: journalsUrl, encoding: 'binary'}, function (err, resp, body) {
     // initialize a kbart record
     journalInfo = pkb.initRow(journalInfo);
 
-		journalInfo.title_url     = csvRow[urlIdx];
-		journalInfo.publication_title      = csvRow[titleIdx];
-		journalInfo.title_id      = csvRow[referenceIdx];
-		journalInfo.date_monograph_published_print     = csvRow[dateMonographPublishedPrintIdx];
-		journalInfo.date_monograph_published_online    = csvRow[dateMonographPublishedOnlineIdx];
-		journalInfo.collection      = 'Confidential Print: Middle East';
-		journalInfo.notes        = csvRow[notesIdx];
-		
-		//NEW fields
-		journalInfo.department_code      = csvRow[departmentCodeIdx];
-		journalInfo.continent        = csvRow[continentIdx];
-		journalInfo.country      = csvRow[countryIdx];
-		journalInfo.places     = csvRow[placesIdx];
-		journalInfo.people      = csvRow[peopleIdx];
-    journalInfo.topics      = csvRow[topicsIdx];
-    
+    journalInfo.title_url                       = csvRow[urlIdx];
+    journalInfo.publication_title               = csvRow[titleIdx];
+    journalInfo.title_id                        = csvRow[referenceIdx];
+    journalInfo.date_monograph_published_print  = csvRow[dateMonographPublishedPrintIdx];
+    journalInfo.date_monograph_published_online = csvRow[dateMonographPublishedOnlineIdx];
+    journalInfo.collection                      = 'Confidential Print: Middle East';
+    journalInfo.notes                           = csvRow[notesIdx];
+
+    //NEW fields
+    journalInfo.department_code = csvRow[departmentCodeIdx];
+    journalInfo.continent       = csvRow[continentIdx];
+    journalInfo.country         = csvRow[countryIdx];
+    journalInfo.places          = csvRow[placesIdx];
+    journalInfo.people          = csvRow[peopleIdx];
+    journalInfo.topics          = csvRow[topicsIdx];
+
     pkb.addRow(journalInfo);
 
   });

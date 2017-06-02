@@ -1,10 +1,7 @@
 #!/usr/bin/env node
 
-// ##EZPAARSE
-
-/*jslint maxlen: 150*/
 'use strict';
-var Parser = require('../.lib/parser.js');
+const Parser = require('../.lib/parser.js');
 
 /**
  * Recognizes the accesses to the platform Discovery Education
@@ -14,26 +11,16 @@ var Parser = require('../.lib/parser.js');
  * @return {Object} the result
  */
 module.exports = new Parser(function analyseEC(parsedUrl, ec) {
-  var result = {};
-  var path   = parsedUrl.pathname;
+  let result = {};
+  let path   = parsedUrl.pathname;
   // uncomment this line if you need parameters
-  var param  = parsedUrl.query || {};
+  let param  = parsedUrl.query || {};
 
-  // use console.error for debuging
-  // console.error(parsedUrl);
-
-  // var match;
-
-  if ((/^\/video\/$/.exec(path)) !== null) {
+  if (/^\/video\/$/.test(path)) {
     // http://ekb.discoveryeducation.com/video/?guid=a020a716-20c4-48f8-9329-053fd6e860d4
-    result.rtype    = 'VIDEO';
-    result.mime     = 'MISC';
-   // result.title_id = match[1];
-    //unitid is a crucial information needed to filter double-clicks phenomenon, like described by COUNTER
-    //it described the most fine-grained of what's being accessed by the user
-    //it can be a DOI, an internal identifier or a part of the accessed URL
-    //see http://ezpaarse.couperin.org/doc/ec-attributes.html#description-de-unitid for more details
-    result.unitid   = param.guid;
+    result.rtype  = 'VIDEO';
+    result.mime   = 'MISC';
+    result.unitid = param.guid;
   }
 
   return result;

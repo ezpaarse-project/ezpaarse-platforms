@@ -1,10 +1,7 @@
 #!/usr/bin/env node
 
-// ##EZPAARSE
-
-/*jslint maxlen: 150*/
 'use strict';
-var Parser = require('../.lib/parser.js');
+const Parser = require('../.lib/parser.js');
 
 /**
  * Recognizes the accesses to the platform IET.tv
@@ -14,19 +11,14 @@ var Parser = require('../.lib/parser.js');
  * @return {Object} the result
  */
 module.exports = new Parser(function analyseEC(parsedUrl, ec) {
-  var result = {};
-  //var path   = parsedUrl.pathname;
-  // uncomment this line if you need parameters
-  var param  = parsedUrl.query || {};
-
-  // use console.error for debuging
-  // console.error(parsedUrl);
+  let result = {};
+  let param  = parsedUrl.query || {};
 
   if (param && param.videoid) {
     // https://tv.theiet.org/?videoid=8132
-    result.rtype    = 'VIDEO';
-    result.mime     = 'HTML';
-    result.unitid   = param.videoid;
+    result.rtype  = 'VIDEO';
+    result.mime   = 'HTML';
+    result.unitid = param.videoid;
   }
 
   return result;
