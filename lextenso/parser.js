@@ -37,8 +37,8 @@ module.exports = new Parser(function analyseEC(parsedUrl) {
         result.unitid = param['d'];
       }
     }
-  } 
-  
+  }
+
   //nouvelle plateforme
   else if ((match = /\/numero_revue\/(([a-z\-]+)\/([0-9]+)\/([0-9]+)\/([0-9\,]+))$/.exec(path)) !== null) {
     //numero_revue/bulletin-joly-bourse/158/3/1456786800
@@ -47,15 +47,15 @@ module.exports = new Parser(function analyseEC(parsedUrl) {
     result.mime = 'HTML';
     result.unitid = match[1];
     result.title_id = match[2];
-  } 
-  
+  }
+
   else if ((match = /\/lextenso\/ud\/urn:([a-zA-Z0-9]+)$/.exec(path)) !== null) {
     result.mime = 'HTML';
     result.unitid = match[1];
     //EDCO;EDCO2016023;ARTICLE;HTML;http://www.lextenso.fr/lextenso/ud/urn%3AEDCO2016023
     //PA;PA201602013;ARTICLE;HTML;http://www.lextenso.fr/lextenso/ud/urn%3APA201602013
     //CONSTEXT;CONSTEXT000031256027;JURISPRUDENCE;HTML;http://www.lextenso.fr/lextenso/ud/urn%3ACONSTEXT000031256027
-    if ((match = /([A-Z]+)[0-9]+/.exec(result.unitid)) !== null){
+    if ((match = /([A-Z]+)[0-9]+/.exec(result.unitid)) !== null) {
       result.title_id = match[1];
       if (result.title_id === 'CONSTEXT') {
         result.rtype = 'JURISPRUDENCE';
