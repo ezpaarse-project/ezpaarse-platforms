@@ -17,6 +17,7 @@
     "portal1.cyberlibris.com",
     "sciences.cyberlibris.com",
     "static.cyberlibris.fr",
+    "static.cyberlibris.com",
     "u-pec.cyberlibris.com",
     "cnam.cyberlibris.fr",
     "univ-bpclermont.cyberlibris.fr",
@@ -24,7 +25,12 @@
     "univ-bium.cyberlibris.com",
     "sciences.scholarvox.com",
     "upf.cyberlibris.fr",
-    "univ.scholarvox.com"
+    "univ.scholarvox.com",
+    "www.scholartext.com",
+    "international.scholarvox.com",
+    "www.scholarvox.com",
+    "bts.scholarvox.com",
+    "scholartext.com"
   ],
   "recognize": {
     "rid": [
