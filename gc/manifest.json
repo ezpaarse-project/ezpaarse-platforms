@@ -1,15 +1,28 @@
 {
-  "version": "2016-05-11",
+  "version": "2017-06-23",
   "status": "beta",
   "domains": [
     "galegroup.com",
     "go.galegroup.com",
-    "rs.go.galegroup.com"
+    "rs.go.galegroup.com",
+    "gdc.galegroup.com",
+    "natgeo.galegroup.com"
   ],
   "recognize": {
     "rid": [
       "title_id",
       "unitid"
+    ],
+    "rtype": [
+      "ENCYCLOPAEDIA_ENTRY",
+      "TOC",
+      "BOOK",
+      "ARTICLE"
+    ],
+    "mime": [
+      "HTML",
+      "PDF",
+      "MISC"
     ]
   },
   "name": "gc",
