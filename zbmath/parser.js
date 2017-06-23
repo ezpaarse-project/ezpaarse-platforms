@@ -17,7 +17,7 @@ module.exports = new Parser(function analyseEC(parsedUrl, ec) {
   var result = {};
   var path   = parsedUrl.pathname;
   // uncomment this line if you need parameters
-  // var param  = parsedUrl.query || {};
+  var param  = parsedUrl.query || {};
 
   // use console.error for debuging
   // console.error(parsedUrl);
@@ -50,6 +50,11 @@ module.exports = new Parser(function analyseEC(parsedUrl, ec) {
     result.rtype    = 'SEARCH';
     result.mime     = 'HTML';
     result.unitid   = '0';
+  } else if (param && param.q) {
+    // https://zbmath.org/?q=an:06210326
+    result.rtype    = 'ABS';
+    result.mime     = 'HTML';
+    result.unitid   = param.q;
   }
 
   return result;
