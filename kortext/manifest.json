@@ -1,0 +1,24 @@
+{
+  "version": "2017-04-06",
+  "status": "beta",
+  "domains": [
+    "app.kortext.com"
+  ],
+  "recognize": {
+    "rid": [
+      "unitid"
+    ],
+    "rtype": [
+      "BOOK"
+    ],
+    "mime": [
+      "HTML"
+    ]
+  },
+  "name": "kortext",
+  "longname": "Kortext",
+  "describe": "Recognizes the accesses to the platform Kortext",
+  "docurl": "http://ang.couperin.org/platforms/594d0d98f2d8fda9353eefbe",
+  "contact": "Aurelian Popescu",
+  "pkb": false
+}
