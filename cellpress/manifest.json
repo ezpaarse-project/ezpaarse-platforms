@@ -1,0 +1,32 @@
+{
+  "version": "2017-05-16",
+  "status": "beta",
+  "domains": [
+    "www.cell.com"
+  ],
+  "recognize": {
+    "rid": [
+      "unitid",
+      "title_id"
+    ],
+    "rtype": [
+      "ABS",
+      "ARTICLE",
+      "REF",
+      "SEARCH"
+    ],
+    "mime": [
+      "HTML",
+      "PDF",
+      "MISC",
+      "PDFPLUS",
+      "PPT"
+    ]
+  },
+  "name": "cellpress",
+  "longname": "Cell Press",
+  "describe": "Recognizes the accesses to the platform Cell Press",
+  "docurl": "http://ang.couperin.org/platforms/to_be_completed/",
+  "contact": "user",
+  "pkb": false
+}
