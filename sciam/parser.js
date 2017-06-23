@@ -1,7 +1,7 @@
 #!/usr/bin/env node
 
 'use strict';
-const Parser = require('../.lib/parser.js');
+var Parser = require('../.lib/parser.js');
 
 /**
  * Recognizes the accesses to the platform Scientific American
@@ -11,15 +11,15 @@ const Parser = require('../.lib/parser.js');
  * @return {Object} the result
  */
 module.exports = new Parser(function analyseEC(parsedUrl, ec) {
-  let result = {};
-  let path   = parsedUrl.pathname;
+  var result = {};
+  var path   = parsedUrl.pathname;
   // uncomment this line if you need parameters
-  let param = parsedUrl.query || {};
+  var param = parsedUrl.query || {};
 
   // use console.error for debuging
   // console.error(parsedUrl);
 
-  let match;
+  var match;
 
   // https://www.scientificamerican.com
 
