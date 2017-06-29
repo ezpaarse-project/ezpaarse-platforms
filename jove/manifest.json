@@ -1,0 +1,20 @@
+{
+  "version": "2017-05-16",
+  "status": "beta",
+  "domains": [
+    "www.jove.com",
+    "answzer",
+    "answer"
+  ],
+  "recognize": {
+    "rid": [
+      "unit_id"
+    ]
+  },
+  "name": "jove",
+  "longname": "Jove",
+  "describe": "Identifie les consultations de la plateforme jove",
+  "docurl": "http://ang.couperin.org/platforms/565d7485d5d046415b5db469",
+  "contact": "pamphile.isch@univ-psl.fr",
+  "pkb": false
+}
