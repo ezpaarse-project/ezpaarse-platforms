@@ -1,30 +1,29 @@
 #!/usr/bin/env node
 
-// ##EZPAARSE
-
-/*jslint maxlen: 150*/
 'use strict';
-var Parser = require('../.lib/parser.js');
+const Parser = require('../.lib/parser.js');
 
 module.exports = new Parser(function analyseEC(parsedUrl) {
-  var result = {};
-  var param  = parsedUrl.query || {};
-  var path   = parsedUrl.pathname;
-  path = decodeURIComponent(path).replace(/\"/g, '');
+  const result = {};
+  const param  = parsedUrl.query || {};
+  const path   = decodeURIComponent(parsedUrl.pathname).replace(/\"/g, '');
 
-  var match;
+  let match;
 
-// console.log(path);
-
-  if (/^\/reaxys\/secured\/search.do;jsessionid=[a-z0-9]+$/i.test(path)) {
+  if ((match = /^\/reaxys\/secured\/search.do(;jsessionid=[a-z0-9]+)?$/i.exec(path)) !== null) {
     // /reaxys/secured/search.do;jsessionid=863534A86F402E0CFB72AD9548BDF7D2
 
-    result.rtype = 'CONNECTION';
-    result.mime  = 'MISC';
+    if (match[1]) {
+      result.rtype = 'CONNECTION';
+      result.mime  = 'MISC';
+    } else {
+      result.rtype = 'QUESTION';
+      result.mime  = 'MISC';
+    }
 
   } else if (/^\/reaxys\/secured\/paging.do(;jsessionid=[a-z0-9]+)?$/i.test(path)) {
     // /reaxys/secured/paging.do?ajax=true&performed=true&size=1&searchName=H044_4115296650168273587&action=gotopage&workflowId=1451660439381&workflowStep=1&page=1&tabContextIndex=2&tabContext=substances&pageSize=9&changeMultiplier=1&multiplier=1
-    result.rtype = 'SEARCH';
+    result.rtype = 'QUESTION';
     result.mime  = 'MISC';
 
   } else if (/^\/xflink$/i.test(path)) {
@@ -76,7 +75,7 @@ module.exports = new Parser(function analyseEC(parsedUrl) {
   } else if ((match = /\/reaxys\/secured\/(downloadmol.do)/.exec(path)) !== null) {
     // https://www.reaxys.com:443/reaxys/secured/downloadmol.do?
     // fileName=083DF887DC80B547FA540D13E4AE8599/mol_images/H080__1515723734110955264/RX3
-    var f_match;
+    const f_match;
     result.rtype = 'MISC';
     result.mime  = 'MISC';
     if (param.fileName && (f_match = /[A-Za-z0-9_]+\/mol_images\/([A-Za-z0-9_\/]+)/.exec(param.fileName))) {
