@@ -1,22 +1,15 @@
 {
-  "version": "2016-06-28",
-  "status": "beta",
-  "domains": [
-    "www.vocable.fr",
-    "vocable.immanens.com",
-    "pveditorsla6.immanens.com",
-    "pveditorsla6.immanens.com"
-  ],
-  "recognize": {
-    "rid": [
-      "unitid",
-      "title_id"
-    ]
-  },
+  "longname": "Vocable Numérique",
   "name": "vn",
-  "longname": "Vocalble Numérique",
-  "describe": "Recognizes the accesses to the platform Vocalble Numérique",
+  "describe": "Recognizes the accesses to the platform Vocable Numérique",
+  "contact": "N.Starobinsky, SevG, Frederic Truong inist",
+  "pkb": false,
   "docurl": "http://ang.couperin.org/platforms/56338332fb42a2198aed7654",
-  "contact": "abderrazzak.loukili@inist.fr",
-  "pkb": false
+  "domains": [
+    "pveditorsla6.immanens.com",
+    "www.vocable.fr",
+    "vocable.immanens.com"
+  ],
+  "version": "2017-07-05",
+  "status": "beta"
 }
