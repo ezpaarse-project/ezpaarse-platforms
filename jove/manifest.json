@@ -6,11 +6,6 @@
     "answzer",
     "answer"
   ],
-  "recognize": {
-    "rid": [
-      "unit_id"
-    ]
-  },
   "name": "jove",
   "longname": "Jove",
   "describe": "Identifie les consultations de la plateforme jove",

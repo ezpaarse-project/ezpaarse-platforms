@@ -2,6 +2,7 @@
 
 'use strict';
 const Parser = require('../.lib/parser.js');
+const doiPrefix = '10.3791';
 
 /**
  * Identifie les consultations de la plateforme jove
@@ -13,58 +14,81 @@ const Parser = require('../.lib/parser.js');
 module.exports = new Parser(function analyseEC(parsedUrl, ec) {
   let result = {};
   let path   = parsedUrl.pathname;
-  // uncomment this line if you need parameters
-  // let param = parsedUrl.query || {};
-
-  // use console.error for debuging
-  // console.error(parsedUrl);
+  let param  = parsedUrl.query || {};
 
   let match;
 
-  /*if ((match = /^\/platform\/path\/to\/(document\-([0-9]+)\-test\.pdf)$/i.exec(path)) !== null) {
-    // http://parser.skeleton.js/platform/path/to/document-123456-test.pdf?sequence=1
-    result.rtype    = 'ARTICLE';
-    result.mime     = 'PDF';
-    result.title_id = match[1];
-*/
+  if ((match = /^\/(video|science-education)\/([0-9]+)\/[a-z0-9\-]+?$/i.exec(path)) !== null) {
+    // /video/54732/determination-relative-cell-surface-total-expression-recombinant-ion
+    // /science-education/5019/une-introduction-la-centrifugeuse?language=French
 
+    result.unitid = match[2];
 
-  if ((match = /^\/video\/([0-9]+)(\/[a-z0-9\-]+)?$/i.exec(path)) !==null) {
-	//http://www.jove.com/video/54732/determination-relative-cell-surface-total-expression-recombinant-ion
-    result.unit_id = match[1]+match[2];
-    result.rtype = 'ARTICLE';
-    result.mime = 'HTML';
-	//result.title_id= match[2];
+    if (match[1].toLowerCase() === 'video') {
+      result.rtype = 'ARTICLE';
+      result.mime  = 'HTML';
+      result.doi   = `${doiPrefix}/${match[2]}`;
+    } else {
+      result.rtype = 'VIDEO';
+      result.mime  = 'MISC';
+    }
+
+  } else if ((match = /^\/pdf(?:-materials)?\/([0-9]+)\/[a-z0-9\-]+?$/i.exec(path)) !== null) {
+    // /pdf/54732/jove-protocol-54732-determination-relative-cell-surface-total-expression-recombinant-ion
+    // /pdf-materials/54732/jove-materials-54732-determination-relative-cell-surface-total-expression-recombinant-ion
+    result.rtype  = 'ARTICLE';
+    result.mime   = 'PDF';
+    result.unitid = match[1];
+    result.doi    = `${doiPrefix}/${match[1]}`;
+
+  } else if ((match = /^\/xml\/([0-9]+)$/i.exec(path)) !== null) {
+    // /xml/54732
+    result.rtype  = 'METADATA';
+    result.mime   = 'XML';
+    result.unitid = match[1];
+    result.doi    = `${doiPrefix}/${match[1]}`;
+
+  } else if (/^\/api\/articles\/v[0-9]+\/GetRIS\.php$/i.test(path)) {
+    // /api/articles/v0/GetRIS.php?id=54732
+    result.rtype = 'METADATA';
+    result.mime  = 'RIS';
+
+    if (param.id) {
+      result.unitid = param.id;
+      result.doi    = `${doiPrefix}/${param.id}`;
+    }
+
+  } else if ((match = /^\/author\/([a-z_-]+)$/i.exec(path)) !== null) {
+    // /author/Emilie_Segura
+    result.rtype  = 'TOC';
+    result.mime   = 'MISC';
+    result.unitid = match[1].toLowerCase();
+
+  } else if ((match = /^\/archive\/([0-9]+)\/[a-z0-9-]+$/i.exec(path)) !== null) {
+    // /archive/112/june-2016
+    result.rtype  = 'TOC';
+    result.mime   = 'MISC';
+    result.unitid = match[1];
+    result.issue  = match[1];
+
+  } else if ((match = /^\/institutions\/[a-z-]+\/[a-z-]+\/[a-z-]+\/([a-z0-9-]+)$/i.exec(path)) !== null) {
+    // /institutions/NA-north-america/US-united-states/CA-california/16242-university-of-california-irvine
+    result.rtype  = 'TOC';
+    result.mime   = 'MISC';
+    result.unitid = match[1];
+
+  } else if ((match = /^\/(biology|archive)$/i.exec(path)) !== null) {
+    // /biology
+    // /archive
+    result.rtype  = 'TOC';
+    result.mime   = 'MISC';
+    result.unitid = match[1];
+
+  } else if (/^\/search$/i.test(path)) {
+    // /search?q=aluminum&filter_type_1=and&filter_type_2=or&filter_type_3=not&exclude_sections=0+1+2+4+11+12+14+15+16+17+18+19+20+28+29+30+32+33+34+35+36+37+38+39+40+41+42+43+44+45+46+47+48+49+50+51+52+53+54+55+56+57+58
+    result.rtype  = 'SEARCH';
+    result.mime   = 'MISC';
   }
-
-  else if ((match = /^\/pdf\/([0-9]+)(\/[a-z0-9\-]+)?$/i.exec(path)) !==null) {
-///pdf/54732/jove-protocol-54732-determination-relative-cell-surface-total-expression-recombinant-ion
-    result.unit_id = match[1]+match[2];
-    result.rtype = 'ARTICLE';
-    result.mime = 'PDF';
-	//result.title_id= match[2];
-
-  }
-
-
-
-/**
-     * unitid is a crucial information needed to filter double-clicks phenomenon, like described by COUNTER
-     * it described the most fine-grained of what's being accessed by the user
-     * it can be a DOI, an internal identifier or a part of the accessed URL
-     * more at http://ezpaarse.readthedocs.io/en/master/essential/ec-attributes.html#unitid
-     */
-
-/*
-
-else if ((match = /^\/platform\/path\/to\/(document\-([0-9]+)\-test\.html)$/i.exec(path)) !== null) {
-    // http://parser.skeleton.js/platform/path/to/document-123456-test.html?sequence=1
-    result.rtype    = 'ARTICLE';
-    result.mime     = 'HTML';
-    result.title_id = match[1];
-    result.unitid   = match[2];
-  }
-*/
 
   return result;
 });
