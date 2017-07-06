@@ -1,10 +1,8 @@
 {
-  "version": "2017-05-16",
+  "version": "2017-07-05",
   "status": "beta",
   "domains": [
-    "www.jove.com",
-    "answzer",
-    "answer"
+    "www.jove.com"
   ],
   "name": "jove",
   "longname": "Jove",
