@@ -14,15 +14,15 @@
   },
   "devDependencies": {
     "co": "^4.6.0",
-    "csvtojson": "^0.5.3",
-    "eslint": "^3.19.0",
-    "husky": "^0.13.3",
+    "csvtojson": "^1.1.7",
+    "eslint": "^4.2.0",
+    "husky": "^0.14.3",
     "inquirer": "^3.0.6",
     "lazy": "^1.0.11",
     "listr": "^0.12.0",
-    "mocha": "^2.5.3",
-    "moment": "^2.12.0",
+    "mocha": "^3.4.2",
+    "moment": "^2.18.1",
     "request": "^2.81.0",
-    "yargs": "^4.3.2"
+    "yargs": "^8.0.2"
   }
 }
