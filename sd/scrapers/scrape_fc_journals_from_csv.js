@@ -77,13 +77,13 @@ request.get({uri: journalsUrl, encoding: 'binary'}, function (err, resp, body) {
       var match;
 
       journalInfo.publication_title      = csvRow[titleIdx];
-//    journalInfo.pissn      = csvRow[pissnIdx];
+      //    journalInfo.pissn      = csvRow[pissnIdx];
       if ((match = /([0-9]{4})([0-9]{3}[0-9Xx])/.exec(csvRow[pissnIdx])) !== null) {
         journalInfo.print_identifier = match[1] + '-' + match[2];
       }
       journalInfo.online_identifier      = '';
       journalInfo.title_url     = csvRow[urlIdx];
-  //    journalInfo.pid        = csvRow[idIdx]; // le product ID reflete une filiation, mais les issn et les url sont differentes
+      //    journalInfo.pid        = csvRow[idIdx]; // le product ID reflete une filiation, mais les issn et les url sont differentes
       journalInfo.title_id        = csvRow[pissnIdx];
       pkb.addRow(journalInfo);
     }

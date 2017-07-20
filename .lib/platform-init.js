@@ -184,8 +184,8 @@ function* askForDomains (remoteAnalyses) {
 
   if (remoteAnalyses) {
     const remoteDomains = new Set(remoteAnalyses.filter(a => a.url)
-                                                .map(a => URL.parse(a.url).hostname)
-                                                .filter(host => host));
+      .map(a => URL.parse(a.url).hostname)
+      .filter(host => host));
     if (remoteDomains.size > 0) {
       console.log('The following domain names were extracted from the remote analysis.');
       console.log();

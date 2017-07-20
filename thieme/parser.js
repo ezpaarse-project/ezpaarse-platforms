@@ -18,7 +18,7 @@ module.exports = new Parser(function analyseEC(parsedUrl, ec) {
   var match;
 
   if ((match = /^\/products\/([a-z]+)\/([a-z]+)\/([0-9]{2}.[0-9]+)\/(([a-z]{1})-([0-9]+)-([0-9]+))$/.exec(path)) !== null) {
-   // https://www.thieme-connect.com/products/ejournals/html/10.1055/s-0033-1357180
+    // https://www.thieme-connect.com/products/ejournals/html/10.1055/s-0033-1357180
 
     if (match[2] === 'html') {
       result.mime  = 'HTML';
@@ -33,7 +33,7 @@ module.exports = new Parser(function analyseEC(parsedUrl, ec) {
     result.title_id = match[4];
 
   } else if ((match = /^\/products\/([a-z]+)\/([a-z]+)\/([0-9]{2}.[0-9]+)\/(([a-z]{1})-([0-9]+)-([0-9]+)).pdf$/.exec(path)) !== null) {
-   // https://www.thieme-connect.de/products/ejournals/pdf/10.1055/s-0034-1369742.pdf
+    // https://www.thieme-connect.de/products/ejournals/pdf/10.1055/s-0034-1369742.pdf
     result.unitid   =  match[4];
     result.doi      = match[3] + '/' + match[4];
     result.rtype    = 'ARTICLE';

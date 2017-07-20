@@ -45,8 +45,8 @@ module.exports = new Parser(function analyseEC(parsedUrl) {
       result.mime  = 'HTML';
       break;
     case 'FULL':
-        // http://www.nature.com/nature/journal/v493/n7431/full/493166a.html
-        // http://www.nature.com/nrm/journal/vaop/ncurrent/full/nrm3940.html
+      // http://www.nature.com/nature/journal/v493/n7431/full/493166a.html
+      // http://www.nature.com/nrm/journal/vaop/ncurrent/full/nrm3940.html
       result.rtype = 'ARTICLE';
       result.mime  = 'HTML';
       break;

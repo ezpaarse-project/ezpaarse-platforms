@@ -9,9 +9,9 @@ var request  = require('request');
 var jsdom    = require('jsdom');
 // var $        = require('jquery');
 var optimist = require('optimist')
-    .usage('Translate DOI to ISSN\nUsage: $0 --doi="[doi-string]"')
-    .demand('doi')
-    .describe('doi', 'DOI example: 10.1007/s12046-009-0052-7');
+  .usage('Translate DOI to ISSN\nUsage: $0 --doi="[doi-string]"')
+  .demand('doi')
+  .describe('doi', 'DOI example: 10.1007/s12046-009-0052-7');
 var argv = optimist.argv;
 
 // show usage if --help option is used

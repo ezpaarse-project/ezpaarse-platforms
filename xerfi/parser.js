@@ -1,10 +1,7 @@
 #!/usr/bin/env node
 
-// ##EZPAARSE
-
-/*jslint maxlen: 150*/
 'use strict';
-var Parser = require('../.lib/parser.js');
+const Parser = require('../.lib/parser.js');
 
 /**
  * Recognizes the accesses to the platform Xerfi
@@ -14,25 +11,20 @@ var Parser = require('../.lib/parser.js');
  * @return {Object} the result
  */
 module.exports = new Parser(function analyseEC(parsedUrl, ec) {
-  var result = {};
-  var path   = parsedUrl.pathname;
-  // uncomment this line if you need parameters
-  // var param  = parsedUrl.query || {};
+  let result = {};
+  let path   = parsedUrl.pathname;
+  let match;
 
-  // use console.error for debuging
-  // console.error(parsedUrl);
-
-  var match;
-  if ((match = /^\/([a-z]+)\/([a-z\-]+)\/([A-Za-z\-]+)$/.exec(path)) !== null) {
+  if ((match = /^\/[a-z]+\/[a-z-]+\/([A-Za-z-]+)$/.exec(path)) !== null) {
     //xerfifrance/extrait-video-report/Les-marches-du-luxe-et-la-consommation-collaborative
-    result.rtype    = 'VIDEO';
-    result.mime     = 'MISC';
-    result.unitid   = match[3];
-  } else if ((match = /^\/([A-Za-z\_]+)\/([a-z0-9]+)\/pdf\/([A-Za-z0-9\-]+).pdf$/.exec(path)) !== null) {
+    result.rtype  = 'VIDEO';
+    result.mime   = 'MISC';
+    result.unitid = match[1];
+  } else if ((match = /^\/[A-Za-z_]+\/[a-z0-9]+\/pdf\/([A-Za-z0-9-]+).pdf$/.exec(path)) !== null) {
     //Etudes_sectorielles_non_imprimablesE/secteur700doc/pdf/4DIS28-jyJAXyVY.pdf
-    result.rtype    = 'ETUDE_SECTORIELLE';
-    result.mime     = 'PDF';
-    result.unitid   = match[3];
+    result.rtype  = 'ETUDE_SECTORIELLE';
+    result.mime   = 'PDF';
+    result.unitid = match[1];
   }
 
   return result;

@@ -15,7 +15,7 @@ module.exports = new Parser(function analyseEC(parsedUrl, ec) {
   let path   = parsedUrl.pathname;
   let match;
 
-  if ((match = /^\/(Abstract|Full|Pdf)\/doi\/([0-9]+\.[0-9]+\/([^\/]+))$/.exec(path)) !== null) {
+  if ((match = /^\/(Abstract|Full|Pdf)\/doi\/([0-9]+\.[0-9]+\/([^/]+))$/i.exec(path)) !== null) {
     // Abstract http://www.springerprotocols.com/Abstract/doi/10.1007/978-1-59259-128-2_1
     // Fulltext HTML  http://www.springerprotocols.com/Full/doi/10.1007/978-1-59259-128-2_1?encCode=T0lCOjFfMi04MjEtOTUyOTUtMS04Nzk=
     // Fulltext PDF	http://www.springerprotocols.com/Pdf/doi/10.1007/978-1-59259-128-2_1?encCode=T0lCOjFfMi04MjEtOTUyOTUtMS04Nzk=

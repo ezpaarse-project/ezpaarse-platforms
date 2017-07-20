@@ -20,7 +20,7 @@ module.exports = new Parser(function analyseEC(parsedUrl, ec) {
   var param  = parsedUrl.query || {};
 
   // use console.error for debuging
-   //console.error(path);
+  //console.error(path);
 
   var match;
 
@@ -37,14 +37,14 @@ module.exports = new Parser(function analyseEC(parsedUrl, ec) {
     result.unitid   = match[1];
   } else if ((match = /^\/library\/([a-zA-Z]+)\.jsp/.exec(path)) !== null) {
     // http://library.artstor.org/library/printImage.jsp?imageurl=http%3A//imgserver.artstor.net/ucsd/d0554/41822000605996.fpx/2sT5h8273vyCDgz3zjXLWw/1418307806/%3Fcell%3D400%2C400%26rgnn%3D0%2C0%2C1%2C1%26cvt%3DJPEG
-   //   console.error(match);
+    //   console.error(match);
     result.rtype    = 'PRINT';
     result.mime     = 'HTML';
     var parametre =param.imageurl;
     var matchparam ;
     if ((matchparam  = /.*\/ucsd\/([a-z0-9]+)\/([0-9]+).([a-z]+)\/([a-zA-Z0-9]+)\/([0-9]+)\/.*/.exec(parametre)) !== null) {
-   //imageurl=http%3A//imgserver.artstor.net/ucsd/d0554/41822000605996.fpx/2sT5h8273vyCDgz3zjXLWw/1418307806/%3Fcell%3D400%2C400%26rgnn%3D0%2C0%2C1%2C1%26cvt%3DJPEG
-   //   console.error(match);
+      //imageurl=http%3A//imgserver.artstor.net/ucsd/d0554/41822000605996.fpx/2sT5h8273vyCDgz3zjXLWw/1418307806/%3Fcell%3D400%2C400%26rgnn%3D0%2C0%2C1%2C1%26cvt%3DJPEG
+      //   console.error(match);
       result.title_id = matchparam[1];
       result.unitid   = matchparam[1];
     }
@@ -56,7 +56,7 @@ module.exports = new Parser(function analyseEC(parsedUrl, ec) {
   //http://library.artstor.org/library/IGDescPrintTemplate.html
     result.rtype    = 'PRINT';
     result.mime     = 'HTML';
-   // result.title_id = '';
+    // result.title_id = '';
     //see the comment block above
     result.unitid   = match[1]+ 'Print' + match[2];
 

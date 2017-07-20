@@ -62,7 +62,7 @@ module.exports = new Parser(function analyseEC(parsedUrl) {
     result.mime  = 'MISC';
 
     result.unitid =  matchUrl[2]+'/' +matchUrl[3] +'/' +matchUrl[4];
-   // result.unitid = elementUnitId[2] +"/" +elementUnitId[3] +"/" +elementUnitId[4] +"/" + matchUrl[7];
+    // result.unitid = elementUnitId[2] +"/" +elementUnitId[3] +"/" +elementUnitId[4] +"/" + matchUrl[7];
 
 
   }

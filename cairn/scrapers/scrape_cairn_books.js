@@ -103,68 +103,68 @@ getMatchingList(function (err, matchings) {
   console.error('Downloading %s', csvUrl);
 
   request.get({ uri: csvUrl })
-  .pipe(iconv.decodeStream('windows-1252'))
-  .pipe(iconv.encodeStream('utf8'))
-  .pipe(parser)
-  .on('error', function (err) {
-    console.error(err);
-    process.exit(1);
-  })
-  .on('readable', function () {
-    books.push(parser.read());
-  })
-  .on('end', function () {
+    .pipe(iconv.decodeStream('windows-1252'))
+    .pipe(iconv.encodeStream('utf8'))
+    .pipe(parser)
+    .on('error', function (err) {
+      console.error(err);
+      process.exit(1);
+    })
+    .on('readable', function () {
+      books.push(parser.read());
+    })
+    .on('end', function () {
 
-    var notFound     = 0;
-    var foundByVisit = 0;
-    var i = 0;
-    (function scrapeBooks(callback) {
-      var book = books[i++];
-      if (!book) { return callback(); }
+      var notFound     = 0;
+      var foundByVisit = 0;
+      var i = 0;
+      (function scrapeBooks(callback) {
+        var book = books[i++];
+        if (!book) { return callback(); }
 
-      var kbartInfo = pkb.initRow({
-        publication_title: book['TITRE'],
-        print_identifier:  book['ISBN'],
-        online_identifier: book['ISBN EPUB'],
-        first_author:      book['SOUS LA DIRECTION DE'],
-        title_url:         book['URL DU SOMMAIRE'],
-        publisher_name:    book['EDITEUR'],
-        date_monograph_published_online: book['MISE EN LIGNE']
-      });
+        var kbartInfo = pkb.initRow({
+          publication_title: book['TITRE'],
+          print_identifier:  book['ISBN'],
+          online_identifier: book['ISBN EPUB'],
+          first_author:      book['SOUS LA DIRECTION DE'],
+          title_url:         book['URL DU SOMMAIRE'],
+          publisher_name:    book['EDITEUR'],
+          date_monograph_published_online: book['MISE EN LIGNE']
+        });
 
-      // 9782749211091 --> ERES_BOUTI_2009_01
-      kbartInfo.title_id = matchings[kbartInfo.print_identifier];
+        // 9782749211091 --> ERES_BOUTI_2009_01
+        kbartInfo.title_id = matchings[kbartInfo.print_identifier];
 
-      // If a matching was found, create an entry
-      if (kbartInfo.title_id) {
-        pkb.addRow(kbartInfo);
-        return scrapeBooks(callback);
-      }
-
-      console.error('No identifier matching %s, trying to scrape from the URL', kbartInfo.print_identifier);
-      // If no matching found, try to browse the title URL to get the ID
-      getID(kbartInfo.title_url, function (err, id) {
-        if (err || !id) { console.error('No ID found for %s', kbartInfo.title_id); }
-
-        if (id) {
-          foundByVisit++;
-          kbartInfo.title_id = id;
+        // If a matching was found, create an entry
+        if (kbartInfo.title_id) {
           pkb.addRow(kbartInfo);
-        } else {
-          notFound++;
+          return scrapeBooks(callback);
         }
 
-        setTimeout(function() {
-          scrapeBooks(callback);
-        }, 1000);
-      });
-    })(function allDone() {
-      pkb.writeKbart(function () {
-        console.error('Cairn scraping is finished.');
-        console.error('%d title_id not found', notFound);
-        console.error('%d title_id found by visiting title_url', foundByVisit);
-        console.error('File : %s', pkb.kbartFileName);
+        console.error('No identifier matching %s, trying to scrape from the URL', kbartInfo.print_identifier);
+        // If no matching found, try to browse the title URL to get the ID
+        getID(kbartInfo.title_url, function (err, id) {
+          if (err || !id) { console.error('No ID found for %s', kbartInfo.title_id); }
+
+          if (id) {
+            foundByVisit++;
+            kbartInfo.title_id = id;
+            pkb.addRow(kbartInfo);
+          } else {
+            notFound++;
+          }
+
+          setTimeout(function() {
+            scrapeBooks(callback);
+          }, 1000);
+        });
+      })(function allDone() {
+        pkb.writeKbart(function () {
+          console.error('Cairn scraping is finished.');
+          console.error('%d title_id not found', notFound);
+          console.error('%d title_id found by visiting title_url', foundByVisit);
+          console.error('File : %s', pkb.kbartFileName);
+        });
       });
     });
-  });
 });

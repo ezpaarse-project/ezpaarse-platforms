@@ -12,9 +12,8 @@ const Parser = require('../.lib/parser.js');
  */
 module.exports = new Parser(function analyseEC(parsedUrl, ec) {
   let result = {};
-  let path = parsedUrl.pathname;
-  // uncomment this line if you need parameters
-  let param = parsedUrl.query || {};
+  let path   = parsedUrl.pathname;
+  let param  = parsedUrl.query || {};
 
   let match;
 
@@ -22,14 +21,15 @@ module.exports = new Parser(function analyseEC(parsedUrl, ec) {
     // http://epubs.siam.org.insmi.bib.cnrs.fr/action/doSearch?publication=40000033
     // http://epubs.siam.org.insmi.bib.cnrs.fr/action/doSearch?publication=40000033&startPage=&Year=2013
     result.rtype = 'TOC';
-    result.mime = 'MISC';
+    result.mime  = 'MISC';
+
     if (param.Year) {
       result.publication_date = param.Year;
     }
     if (param.publication) {
       result.title_id = param.publication;
     }
-  } else if ((match = /^\/doi\/([a-z]+)\/(([0-9\.]+)\/([0-9a-z]+))/i.exec(path)) !== null) {
+  } else if ((match = /^\/doi\/([a-z]+)\/(([0-9.]+)\/([0-9a-z]+))/i.exec(path)) !== null) {
     // http://epubs.siam.org.insmi.bib.cnrs.fr/doi/pdf/10.1137/100811970
     // http://epubs.siam.org.insmi.bib.cnrs.fr/doi/ref/10.1137/100811970
     // http://epubs.siam.org.insmi.bib.cnrs.fr/doi/abs/10.1137/100811970

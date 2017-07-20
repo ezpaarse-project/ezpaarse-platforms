@@ -55,12 +55,12 @@ var kbartFiles = [
     }
 
     req.pipe(new EscapeStream())
-    .pipe(fs.createWriteStream(path.join(__dirname, '../pkb/', filename)))
-    .on('finish', download)
-    .on('error', function (err) {
-      console.error('Failed to download %s (err: %s)', kbartUrl, err);
-      download();
-    });
+      .pipe(fs.createWriteStream(path.join(__dirname, '../pkb/', filename)))
+      .on('finish', download)
+      .on('error', function (err) {
+        console.error('Failed to download %s (err: %s)', kbartUrl, err);
+        download();
+      });
   });
 })();
 

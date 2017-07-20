@@ -34,39 +34,39 @@ console.error('Downloading: ' + journalsUrl);
 var parser = csvParse({ delimiter: ',', columns: true});
 
 request.get({ uri: journalsUrl }).pipe(parser)
-.on('error', function (err) {
-  console.error(err);
-  process.exit(1);
-})
-.on('readable', function () {
+  .on('error', function (err) {
+    console.error(err);
+    process.exit(1);
+  })
+  .on('readable', function () {
 
-  var data        = parser.read();
-  var journalInfo = pkb.initRow({});
-  var match;
+    var data        = parser.read();
+    var journalInfo = pkb.initRow({});
+    var match;
 
-  // collect informations
-  if (data && data['Title'] && data['BioOne URL']) {
-    journalInfo.publication_title = data['Title'].trim();
-    journalInfo.print_identifier  = data['ISSN'].trim();
-    journalInfo.online_identifier = data['E-ISSN'].trim();
-    journalInfo.title_url         = data['BioOne URL'].trim();
-  }
-  if (journalInfo.title_url.length) {
-    var parsedUrl = URL.parse(journalInfo.title_url, true);
-    if ((match = /\/loi\/([^\/]+)/.exec(parsedUrl.pathname))) {
+    // collect informations
+    if (data && data['Title'] && data['BioOne URL']) {
+      journalInfo.publication_title = data['Title'].trim();
+      journalInfo.print_identifier  = data['ISSN'].trim();
+      journalInfo.online_identifier = data['E-ISSN'].trim();
+      journalInfo.title_url         = data['BioOne URL'].trim();
+    }
+    if (journalInfo.title_url.length) {
+      var parsedUrl = URL.parse(journalInfo.title_url, true);
+      if ((match = /\/loi\/([^\/]+)/.exec(parsedUrl.pathname))) {
       // http://www.bioone.org/loi/rama
-      journalInfo.title_id = match[1];
-    } else if ((match = /\/action\/showBookSeries/.exec(parsedUrl.pathname))) {
+        journalInfo.title_id = match[1];
+      } else if ((match = /\/action\/showBookSeries/.exec(parsedUrl.pathname))) {
       // http://www.bioone.org/action/showBookSeries?seriesCode=rbba
-      if (parsedUrl.query['seriesCode']) {
-        journalInfo.title_id = parsedUrl.query['seriesCode'];
+        if (parsedUrl.query['seriesCode']) {
+          journalInfo.title_id = parsedUrl.query['seriesCode'];
+        }
       }
     }
-  }
 
-  pkb.addRow(journalInfo);
-})
-.on('end', function () {
-  pkb.writeKbart();
-  console.error('BioOne scraping is finished..\nFile : ' + pkb.kbartFileName + ' generated');
-});
+    pkb.addRow(journalInfo);
+  })
+  .on('end', function () {
+    pkb.writeKbart();
+    console.error('BioOne scraping is finished..\nFile : ' + pkb.kbartFileName + ' generated');
+  });

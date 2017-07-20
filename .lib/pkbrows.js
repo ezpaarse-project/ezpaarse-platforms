@@ -19,7 +19,7 @@ var PkbRows = function(providerName) {
   self.rows      = [];
   self.sorted    = true;
   self.providerName = providerName || '';
-    // provider name will be filled with platform name from path
+  // provider name will be filled with platform name from path
   self.consortiumName = '';       // default empty
   self.packageName = 'AllTitles'; // default AllTitles
   self.kbartFileName = '';
@@ -28,10 +28,10 @@ var PkbRows = function(providerName) {
     .boolean(['f', 'v'])
     .alias('force', 'f')
     .describe('force',
-              'If provided, force overwriting of kbart output.')
+      'If provided, force overwriting of kbart output.')
     .alias('verbose', 'v')
     .describe('verbose',
-              'show detailed actions.');
+      'show detailed actions.');
   self.argv = yargs.argv;
 
   var match;
@@ -335,9 +335,9 @@ PkbRows.prototype.getKbartFromKBPlus = function (KBPlusPkg, callback) {
   callback = callback || function () {};
   var self = this;
 
-// we use json JUSP format because CSV is not well formated : eg non quoted " in title
-// json format contains a header like this :
-/*{"header":
+  // we use json JUSP format because CSV is not well formated : eg non quoted " in title
+  // json format contains a header like this :
+  /*{"header":
    {
     "version":"2.0",
     "jcid":"",
@@ -394,8 +394,8 @@ PkbRows.prototype.getKbartFromKBPlus = function (KBPlusPkg, callback) {
         journalInfo.title_url = jsonRow.hostPlatformURL;
         var titleUrlParts;
         if ((titleUrlParts =
-          /(^http:\/\/www\.sciencedirect\.com\/science\/(?:journal|bookseries)\/(aip\/)?([^\/]+))$/
-          .exec(jsonRow.hostPlatformURL))) {
+          /(^http:\/\/www\.sciencedirect\.com\/science\/(?:journal|bookseries)\/(aip\/)?([^/]+))$/
+            .exec(jsonRow.hostPlatformURL))) {
           // make title_id from parts of titleUrl
           // ex : science direct master list
           // "titleUrl":"http://www.sciencedirect.com/science/journal/22126716"

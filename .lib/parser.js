@@ -75,35 +75,35 @@ Parser.prototype.execute = function (ec) {
   } else {
     var lazy = new Lazy(process.stdin);
     lazy.lines
-        .map(String)
-        .map(function (line) {
-          var url;
-          var ec = {};
+      .map(String)
+      .map(function (line) {
+        var url;
+        var ec = {};
 
-          try {
-            if (self.json) {
-              ec   = JSON.parse(line);
-              if (self.jsonprefix) {
-                Object.keys(ec).forEach(function (field) {
-                  // remove "in-"
-                  if (new RegExp('^in-').test(field)) {
-                    var fieldWithoutPrefix = field.slice(3);
-                    ec[fieldWithoutPrefix] = ec[field];
-                    delete ec[field];
-                  }
-                });
-              }
-              line = ec.url;
+        try {
+          if (self.json) {
+            ec   = JSON.parse(line);
+            if (self.jsonprefix) {
+              Object.keys(ec).forEach(function (field) {
+                // remove "in-"
+                if (new RegExp('^in-').test(field)) {
+                  var fieldWithoutPrefix = field.slice(3);
+                  ec[fieldWithoutPrefix] = ec[field];
+                  delete ec[field];
+                }
+              });
             }
-            url = decodeURIComponent(line);
-          } catch (e) {
-            process.stdout.write('{}\n');
-            return;
+            line = ec.url;
           }
-          var parsedUrl = URL.parse(url, true);
-          ec.url = url;
-          process.stdout.write(JSON.stringify(self.analyse(parsedUrl, ec)) + '\n');
-        });
+          url = decodeURIComponent(line);
+        } catch (e) {
+          process.stdout.write('{}\n');
+          return;
+        }
+        var parsedUrl = URL.parse(url, true);
+        ec.url = url;
+        process.stdout.write(JSON.stringify(self.analyse(parsedUrl, ec)) + '\n');
+      });
     lazy.on('end', function () {
       process.exit(0);
     });

@@ -1,16 +1,13 @@
 #!/usr/bin/env node
 
-// ##EZPAARSE
-
-/*jslint maxlen: 150*/
 'use strict';
-var Parser = require('../.lib/parser.js');
+const Parser = require('../.lib/parser.js');
 
 module.exports = new Parser(function analyseEC(parsedUrl) {
-  var result = {};
-  var param  = parsedUrl.query || {};
-  var path   = parsedUrl.pathname;
-  var match;
+  let result = {};
+  let param  = parsedUrl.query || {};
+  let path   = parsedUrl.pathname;
+  let match;
 
 
   if (param._ob) {
@@ -93,7 +90,7 @@ module.exports = new Parser(function analyseEC(parsedUrl) {
 
       if (param._imagekey && param._piikey) {
         result.pii = param._piikey;
-        if ((match = /.?-[^\-]+-([0-9]{4})([0-9]{3}[0-9Xx])([0-9A-Za-z]*)-main.pdf$/.exec(param._imagekey)) !== null) {
+        if ((match = /.?-[^-]+-([0-9]{4})([0-9]{3}[0-9Xx])([0-9A-Za-z]*)-main.pdf$/.exec(param._imagekey)) !== null) {
           // http://www.sciencedirect.com:80/science?_ob=PdfExcerptURL&_imagekey=1-s2.0-0304419X91900078-main.pdf
           // &_piikey=0304419X91900078&_cdi=271120&_user=4046392&_acct=C000061186&_version=1&_userid=4046392
           // &md5=558d565a13699ae0796cdf1f600dafa6&ie=/excerpt.pdf
@@ -150,7 +147,7 @@ module.exports = new Parser(function analyseEC(parsedUrl) {
       break;
     }
 
-  } else if ((match = /^\/science\/MiamiMultiMediaURL\/[^\/]+(S([0-9]{4})([0-9]{3}[0-9Xx])[a-zA-Z0-9]*).*\.pdf$/.exec(path)) !== null) {
+  } else if ((match = /^\/science\/MiamiMultiMediaURL\/[^/]+(S([0-9]{4})([0-9]{3}[0-9Xx])[a-zA-Z0-9]*).*\.pdf$/.exec(path)) !== null) {
     // http://www.sciencedirect.com:80/science/MiamiMultiMediaURL/1-s2.0-S0960982213001917/1-s2.0-S0960982213001917-mmc1.pdf
     // /272099/FULL/S0960982213001917/b60b292cd91d2846ac711a4e83db83a3/mmc1.pdf
     result.pii              = result.unitid = match[1];
@@ -159,7 +156,7 @@ module.exports = new Parser(function analyseEC(parsedUrl) {
     result.rtype            = 'ARTICLE';
     result.mime             = 'PDF';
 
-  } else if ((match = /^\/(([SB])?([0-9]{7}(?:[0-9]{5})?[0-9Xx])[0-9A-Za-z]*)\/[0-9A-Za-z\-\.]*-main\.pdf$/.exec(path)) !== null) {
+  } else if ((match = /^\/(([SB])?([0-9]{7}(?:[0-9]{5})?[0-9Xx])[0-9A-Za-z]*)\/[0-9A-Za-z\-.]*-main\.pdf$/.exec(path)) !== null) {
     // http://ac.els-cdn.com/S0967586808000258/1-s2.0-S0967586808000258-main.pdf?
     // _tid=2146516a-82a7-11e3-a57f-00000aab0f6b&acdnat=1390314188_e595d0b375febbda9fdd48d069be9b55
     // ou

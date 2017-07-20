@@ -78,61 +78,61 @@ getMatchingList(function (err, matchings) {
   console.error('Downloading %s', csvUrl);
 
   request.get({ uri: csvUrl })
-  .pipe(iconv.decodeStream('windows-1252'))
-  .pipe(iconv.encodeStream('utf8'))
-  .pipe(parser)
-  .on('error', function (err) {
-    console.error(err);
-    process.exit(1);
-  })
-  .on('readable', function () {
-    encyclopedies.push(parser.read());
-  })
-  .on('end', function () {
+    .pipe(iconv.decodeStream('windows-1252'))
+    .pipe(iconv.encodeStream('utf8'))
+    .pipe(parser)
+    .on('error', function (err) {
+      console.error(err);
+      process.exit(1);
+    })
+    .on('readable', function () {
+      encyclopedies.push(parser.read());
+    })
+    .on('end', function () {
 
 
-    var i = 0;
-    (function scrapeEncyclopedies(callback) {
-      var encyclopedia = encyclopedies[i++];
-      if (!encyclopedia) { return callback(); }
+      var i = 0;
+      (function scrapeEncyclopedies(callback) {
+        var encyclopedia = encyclopedies[i++];
+        if (!encyclopedia) { return callback(); }
 
-      var kbartInfo = pkb.initRow({
-        publication_title: encyclopedia['TITRE'],
-        print_identifier:  encyclopedia['ISBN'],
-        online_identifier: encyclopedia['ISBN EPUB'],
-        first_author:      encyclopedia['AUTEUR'],
-        title_url:         encyclopedia['URL DU SOMMAIRE'],
-        date_monograph_published_online: encyclopedia['MISE EN LIGNE']
-      });
+        var kbartInfo = pkb.initRow({
+          publication_title: encyclopedia['TITRE'],
+          print_identifier:  encyclopedia['ISBN'],
+          online_identifier: encyclopedia['ISBN EPUB'],
+          first_author:      encyclopedia['AUTEUR'],
+          title_url:         encyclopedia['URL DU SOMMAIRE'],
+          date_monograph_published_online: encyclopedia['MISE EN LIGNE']
+        });
 
-      // 9782130574286 --> PUF_GOUNE_2009_01
-      kbartInfo.title_id = matchings[kbartInfo.print_identifier];
+        // 9782130574286 --> PUF_GOUNE_2009_01
+        kbartInfo.title_id = matchings[kbartInfo.print_identifier];
 
-      // If a matching was found, create an entry
-      if (kbartInfo.title_id) {
-        pkb.addRow(kbartInfo);
-        return scrapeEncyclopedies(callback);
-      }
-
-      console.error('No identifier matching %s, trying to scrape from the URL', kbartInfo.title_id);
-      // If no matching found, try to browse the title URL to get the ID
-      getID(kbartInfo.title_url, function (err, id) {
-        if (err || !id) { console.error('No ID found for %s', kbartInfo.title_id); }
-
-        if (id) {
-          kbartInfo.title_id = id;
+        // If a matching was found, create an entry
+        if (kbartInfo.title_id) {
           pkb.addRow(kbartInfo);
+          return scrapeEncyclopedies(callback);
         }
 
-        setTimeout(function() {
-          scrapeEncyclopedies(callback);
-        }, 1000);
-      });
-    })(function allDone() {
-      pkb.writeKbart(function () {
-        console.error('Cairn scraping is finished..');
-        console.error('File : %s', pkb.kbartFileName);
+        console.error('No identifier matching %s, trying to scrape from the URL', kbartInfo.title_id);
+        // If no matching found, try to browse the title URL to get the ID
+        getID(kbartInfo.title_url, function (err, id) {
+          if (err || !id) { console.error('No ID found for %s', kbartInfo.title_id); }
+
+          if (id) {
+            kbartInfo.title_id = id;
+            pkb.addRow(kbartInfo);
+          }
+
+          setTimeout(function() {
+            scrapeEncyclopedies(callback);
+          }, 1000);
+        });
+      })(function allDone() {
+        pkb.writeKbart(function () {
+          console.error('Cairn scraping is finished..');
+          console.error('File : %s', pkb.kbartFileName);
+        });
       });
     });
-  });
 });

@@ -17,7 +17,7 @@ module.exports = new Parser(function analyseEC(parsedUrl, ec) {
 
   let match;
 
-  if ((match = /^\/data\/Journals\/([a-zA-Z]*)\/[0-9]+\/([a-zA-Z0-9\_]*).pdf$/i.exec(path)) !== null) {
+  if ((match = /^\/data\/Journals\/([a-zA-Z]*)\/[0-9]+\/([a-zA-Z0-9_]*).pdf$/i.exec(path)) !== null) {
     // /data/Journals/JOTUEI/935001/turbo_138_06_061004.pdf
     result.rtype    = 'ARTICLE';
     result.mime     = 'PDF';
@@ -75,7 +75,7 @@ module.exports = new Parser(function analyseEC(parsedUrl, ec) {
     result.title_id = match[2];
     result.vol      = match[3];
 
-  } else if ((match = /^\/[a-z]+\/backfile\/Content_public\/Journal\/([a-z]+)\/([0-9]+)\/[0-9]+\/([0-9]{2}\.[0-9]{4}\/([a-z]+\/[a-z0-9\.\-]+))\/[0-9]+\/[a-z0-9\.\-]+.pdf$/i.exec(path)) !== null) {
+  } else if ((match = /^\/[a-z]+\/backfile\/Content_public\/Journal\/([a-z]+)\/([0-9]+)\/[0-9]+\/([0-9]{2}\.[0-9]{4}\/([a-z]+\/[a-z0-9.-]+))\/[0-9]+\/[a-z0-9.-]+.pdf$/i.exec(path)) !== null) {
     // /oup/backfile/Content_public/Journal/toxsci/29/1/10.1093/toxsci/29.1.18/2/29-1-18.pdf
     result.rtype    = 'ARTICLE';
     result.mime     = 'PDF';
@@ -84,7 +84,7 @@ module.exports = new Parser(function analyseEC(parsedUrl, ec) {
     result.doi      = match[3];
     result.unitid   = match[4];
 
-  } else if ((match = /^\/([a-z]+)\/(article|article-abstract)\/([0-9]+)\/[0-9]+\/([0-9]+)\/([0-9]+)\/[a-zA-Z\-]+$/i.exec(path)) !== null) {
+  } else if ((match = /^\/([a-z]+)\/(article|article-abstract)\/([0-9]+)\/[0-9]+\/([0-9]+)\/([0-9]+)\/[a-z-]+$/i.exec(path)) !== null) {
     // /humrep/article/32/1/14/2645576/Is-the-understanding-of-AMH-being-confounded-by
     result.mime       = 'HTML';
     result.rtype      = match[2] === 'article' ? 'ARTICLE' : 'ABS';

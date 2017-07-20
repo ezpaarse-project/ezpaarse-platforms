@@ -17,7 +17,7 @@ module.exports = new Parser(function analyseEC(parsedUrl, ec) {
 
   let match;
 
-  if ((match = /^\/([a-z\_]+)\.do$/i.exec(path)) !== null) {
+  if ((match = /^\/([a-z_]+)\.do$/i.exec(path)) !== null) {
     // /UA_GeneralSearch_input.do?product=UA&search_mode=GeneralSearch
     // /Search.do?product=UA&search_mode=GeneralSearch&prID=dcfade3d-550a-4076-92a6-bd6708e2c64c
     // /full_record.do?product=UA&search_mode=GeneralSearch&qid=14&page=1&doc=2
@@ -60,7 +60,7 @@ module.exports = new Parser(function analyseEC(parsedUrl, ec) {
       }
     }
 
-  } else if ((match = /^\/([a-zA-z\_]*)\.action$/i.exec(path)) !== null) {
+  } else if ((match = /^\/([a-zA-z_]*)\.action$/i.exec(path)) !== null) {
     // /JCRJournalHomeAction.action?
     // https://jcr-incites-thomsonreuters-com.inee.bib.cnrs.fr/JCRJournalProfileAction.action?
     // https://esi-incites-thomsonreuters-com.inee.bib.cnrs.fr/IndicatorsAction.action?

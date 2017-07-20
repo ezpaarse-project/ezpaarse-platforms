@@ -24,7 +24,7 @@ module.exports = new Parser(function analyseEC(parsedUrl, ec) {
 
   var match;
 
-  if ((match = /^\/pdf\/([0-9\.]+)\.pdf$/.exec(path)) !== null) {
+  if ((match = /^\/pdf\/([0-9.]+)\.pdf$/.exec(path)) !== null) {
     // https://zbmath.org/pdf/06497268.pdf
     result.rtype    = 'REF';
     result.mime     = 'PDF';
@@ -33,13 +33,13 @@ module.exports = new Parser(function analyseEC(parsedUrl, ec) {
     //it can be a DOI, an internal identifier or a part of the accessed URL
     //see http://ezpaarse.couperin.org/doc/ec-attributes.html#description-de-unitid for more details
     result.unitid   = match[1];
-  } else if ((match = /^\/xml\/([0-9\.]+)\.xml$/.exec(path)) !== null) {
+  } else if ((match = /^\/xml\/([0-9.]+)\.xml$/.exec(path)) !== null) {
     // https://zbmath.org/xml/06497268.xml
     result.rtype    = 'REF';
     result.mime     = 'XML';
     //see the comment block above
     result.unitid   = match[1];
-  } else if ((match = /^\/bibtex\/([0-9\.]+)\.bib$/.exec(path)) !== null) {
+  } else if ((match = /^\/bibtex\/([0-9.]+)\.bib$/.exec(path)) !== null) {
     // https://zbmath.org/bibtex/06497268.bib
     result.rtype    = 'REF';
     result.mime     = 'BIBTEX';

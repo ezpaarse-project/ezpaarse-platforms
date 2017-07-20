@@ -36,11 +36,11 @@ function getJournalInfo(journalUrl, cb) {
     journalInfo.publication_title = $('.title').text();
     //var issnInfo = $('.issnInfo').text().replace('\n', '');
     var issnInfo = $('.issnInfo')
-                   .first().contents()
-                   //.filter(function() {
-                   //  return this.nodeType == 3; //Node.TEXT_NODE;
-                   //})
-                   .text().replace(/\n|\r/g, '').replace(/ /g, '');
+      .first().contents()
+      //.filter(function() {
+      //  return this.nodeType == 3; //Node.TEXT_NODE;
+      //})
+      .text().replace(/\n|\r/g, '').replace(/ /g, '');
     var printISSN = '';
     if (issnInfo.match(/^ISSN/)) {
       printISSN = issnInfo.replace(/^ISSN:/, '').replace(/eISSN.*/, '');
@@ -68,12 +68,12 @@ function getPage(pageIdx, cb) {
   request(journalsUrl, function (err, resp, body) {
     if (err) { return cb(err); }
     var $ = cheerio.load(body);
-//    console.error($.html());
-//.page > ul:nth-child(5) > li:nth-child(1)
-//.page > h3:nth-child(2)
+    //    console.error($.html());
+    //.page > ul:nth-child(5) > li:nth-child(1)
+    //.page > h3:nth-child(2)
     $('.page > ul > li > a').each(function () {
-//      console.error("bing: " + $(this));
-//      console.error("bing: " + $(this).attr('href'));
+      //      console.error("bing: " + $(this));
+      //      console.error("bing: " + $(this).attr('href'));
       journalsInPage.push('http://ascelibrary.org' + $(this).attr('href'));
     });
     cb(null, journalsInPage);

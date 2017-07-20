@@ -24,7 +24,7 @@ module.exports = new Parser(function analyseEC(parsedUrl, ec) {
     result.rtype = 'SEARCH';
     result.mime  = 'HTML';
 
-  } else if ((match = /^\/([^\/]+)\/docs\/([^\/]+)$/.exec(path)) !== null) {
+  } else if ((match = /^\/([^/]+)\/docs\/([^/]+)$/.exec(path)) !== null) {
     // View Abstract Example:
     // TOC:  http://materials.springer.com/bp/docs/978-3-540-40017-2
     // HTML: http://materials.springer.com/lb/docs/sm_lbs_978-3-540-75486-2_199
@@ -35,7 +35,7 @@ module.exports = new Parser(function analyseEC(parsedUrl, ec) {
     result.mime   = 'HTML';
     result.unitid = match[2];
 
-  } else if ((match = /^\/citation\/download\/(bib|endnote|ris)\/([^\/]+)\/(.*)$/.exec(path)) !== null) {
+  } else if ((match = /^\/citation\/download\/(bib|endnote|ris)\/([^/]+)\/(.*)$/.exec(path)) !== null) {
     // Export Citation Examples:
     // http://materials.springer.com/citation/download/bib/sm_lbs_978-3-540-75486-2_199/lbs
     // http://materials.springer.com/citation/download/endnote/sm_lbs_978-3-540-75486-2_199/lbs
@@ -58,7 +58,7 @@ module.exports = new Parser(function analyseEC(parsedUrl, ec) {
       break;
     }
 
-  } else if ((match = /^\/assets\/([^\/]+)\/([0-9]+)\/([^\/]+)\/([^\/]+)$/.exec(path)) !== null && param.ext) {
+  } else if ((match = /^\/assets\/([^/]+)\/([0-9]+)\/([^/]+)\/([^/]+)$/.exec(path)) !== null && param.ext) {
     // Download artice, datasets, figures
     // Fulltext Access: http://materials-static.springer.com/assets/sm_lbs/675/sm_lbs_978-3-540-75486-2_199/sm_lbs_978-3-540-75486-2_199.pdf?auth66=1473939009_9faf82c0988e589da4e37661f88410a4&ext=.pdf
     // CSV: http://materials-static.springer.com/assets/sm_ads/087/ads000340/ads000340-data.csv?auth66=1473945067_658f5bc6cda84094c57fab3e1dc56bc7&ext=.csv
@@ -82,7 +82,7 @@ module.exports = new Parser(function analyseEC(parsedUrl, ec) {
       break;
     }
 
-  } else if ((match = /^\/tables\/([^\/]+)\/([^\/]+)$/.exec(path)) !== null) {
+  } else if ((match = /^\/tables\/([^/]+)\/([^/]+)$/.exec(path)) !== null) {
     // Download tables
     // http://materials.springer.com/tables/sm_ptd/athas_0011?data-table=Calculated%20Heat%20Capacity%20and%20Thermodynamic%20Functions&data-table=Experimental%20Heat%20Capacity%20(Amorphous%20Phase)&data-table=Experimental%20Heat%20Capacity%20(Crystalline%20Phase)
 
@@ -97,7 +97,7 @@ module.exports = new Parser(function analyseEC(parsedUrl, ec) {
         result.title_id = param['data-table'];
       }
     }
-  } else if ((match = /^\/([^\/]+)\/phase-diagram\/docs\/([^\/]+)$/.exec(path)) !== null) {
+  } else if ((match = /^\/([^/]+)\/phase-diagram\/docs\/([^/]+)$/.exec(path)) !== null) {
     // View Diagrams
     // http://materials.springer.com/msi/phase-diagram/docs/sm_msi_r_20_012479_01_full_LnkDia0
 

@@ -19,8 +19,8 @@ module.exports = new Parser(function analyseEC(parsedUrl) {
     result.unitid   = match[2];
     result.rtype    = 'TOC';
     result.mime     = 'MISC';
-  } else if ((match = /^\/(article|book|protocol)\/([0-9]+\.[0-9]+\/[^\/]+)(\/page\/[0-9]+)?(\/fulltext.html)?/.exec(path)) !== null) {
-    result.doi  = match[2];
+  } else if ((match = /^\/(article|book|protocol)\/([0-9]+\.[0-9]+\/[^/]+)(\/page\/[0-9]+)?(\/fulltext.html)?/.exec(path)) !== null) {
+    result.doi    = match[2];
     result.unitid = match[2].split('/')[1] + (match[3] || '');
 
     switch (match[1]) {
@@ -39,7 +39,7 @@ module.exports = new Parser(function analyseEC(parsedUrl) {
       // example : http://link.springer.com.gate1.inist.fr/book/10.1007/BFb0009075/page/1
       result.rtype = 'BOOK';
       result.mime  = 'HTML';
-      if (/^\/book\/([0-9]+\.[0-9]+\/([0-9\-])+)$/.test(path)) {
+      if (/^\/book\/([0-9]+\.[0-9]+\/([0-9-])+)$/.test(path)) {
         //http://link.springer.com.gate1.inist.fr/book/10.1007/978-3-642-45082-2
         result.rtype             = 'TOC';
         result.mime              = 'MISC';
@@ -77,7 +77,7 @@ module.exports = new Parser(function analyseEC(parsedUrl) {
     result.unitid = match[1];
     result.rtype  = 'ABS';
     result.mime   = 'MISC';
-  } else if ((match = /^\/chapter\/(([0-9]+\.[0-9]+)\/([^\/]*))(\/([a-z]+)\.html)?/.exec(path)) !== null) {
+  } else if ((match = /^\/chapter\/(([0-9]+\.[0-9]+)\/([^/]*))(\/([a-z]+)\.html)?/.exec(path)) !== null) {
     // example : http://link.springer.com.gate1.inist.fr/chapter/10.1007/978-3-540-71233-6_4
     result.doi    = match[1];
     result.unitid = match[3];
@@ -105,7 +105,7 @@ module.exports = new Parser(function analyseEC(parsedUrl) {
       result.rtype = 'TOC';
       result.mime  = 'MISC';
     }
-  } else if ((match = /^\/static\/pdf\/([0-9]+)\/([a-zA-Z]{3})([^\/]+)\.pdf/.exec(path)) !== null) {
+  } else if ((match = /^\/static\/pdf\/([0-9]+)\/([a-zA-Z]{3})([^/]+)\.pdf/.exec(path)) !== null) {
     if ((param.ext && param.ext == '.pdf') || param.token2) {
       // example : http://download.springer.com.gate1.inist.fr/static/pdf/523/
       // bfm%253A978-1-60761-847-8%252F1.pdf?auth66=1384533099_d84ec41bfb54c7ebeec4c5604109e82f&ext=.pdf
@@ -144,7 +144,7 @@ module.exports = new Parser(function analyseEC(parsedUrl) {
         break;
       }
     }
-  } else if ((match = /^\/(download|static)\/([a-z]+)\/(([0-9\.]*)\/([^\/]*)).epub/.exec(path)) !== null) {
+  } else if ((match = /^\/(download|static)\/([a-z]+)\/(([0-9.]*)\/([^/]*)).epub/.exec(path)) !== null) {
     // example : download/epub/10.1007/978-1-4939-1360-2.epub
     if (/([0-9]+)\.([0-9]+)/.test(match[4])) {
       result.doi      = match[3];
@@ -152,7 +152,7 @@ module.exports = new Parser(function analyseEC(parsedUrl) {
       result.print_identifier = match[5];
     } else {
       var testunitid = '';
-      if ((testunitid = /([\w\%]*)[A-Z]{1}([0-9\-]+)/.exec(match[5])) !== null) {
+      if ((testunitid = /([\w%]*)[A-Z]{1}([0-9-]+)/.exec(match[5])) !== null) {
         result.unitid   = testunitid[2] + '.epub';
         result.print_identifier = testunitid[2];
       }

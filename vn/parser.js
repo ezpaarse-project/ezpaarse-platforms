@@ -28,7 +28,7 @@ module.exports = new Parser(function analyseEC(parsedUrl, ec) {
       result.unitid = `${param.puc}${param.nu}`;
     }
 
-  } else if ((match = /^\/basearticle\/artfiles\/([0-9]+\/[^\/]+)\.pdf$/i.exec(path)) !== null) {
+  } else if ((match = /^\/basearticle\/artfiles\/([0-9]+\/[^/]+)\.pdf$/i.exec(path)) !== null) {
     // /basearticle/artfiles/4184/Pages%20de%20VocGB715-2.pdf
     result.rtype  = 'ARTICLE';
     result.mime   = 'PDF';

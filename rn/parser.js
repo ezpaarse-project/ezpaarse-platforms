@@ -17,7 +17,7 @@ module.exports = new Parser(function analyseEC(parsedUrl, ec) {
 
   let match;
 
-  if ((match = /^\/journal\/([a-z\-]+)\/([a-z0-9\-]+)\/([0-9\/]+)/i.exec(path)) !== null) {
+  if ((match = /^\/journal\/([a-z-]+)\/([a-z0-9-]+)\/([0-9/]+)/i.exec(path)) !== null) {
     // http://www.retronews.fr.inshs.bib.cnrs.fr/journal/l-echo-de-paris/9-mai-1906/120/615281/2
     result.mime = 'HTML';
     result.rtype = 'ARTICLE_SECTION';
@@ -26,7 +26,7 @@ module.exports = new Parser(function analyseEC(parsedUrl, ec) {
     result.unitid = match[3];
   }
 
-  if ((match = /^\/reader\/([0-9\/]+)/i.exec(path)) !== null) {
+  if ((match = /^\/reader\/([0-9/]+)/i.exec(path)) !== null) {
     // http://www.retronews.fr.inshs.bib.cnrs.fr/reader/40/343297/3
     result.mime = 'HTML';
     result.rtype = 'ARTICLE_SECTION';
@@ -41,7 +41,7 @@ module.exports = new Parser(function analyseEC(parsedUrl, ec) {
     }
   }
 
-  if ((match = /^\/(edito|actualite|dossier)\/([a-z0-9\-]+)/i.exec(path)) !== null) {
+  if ((match = /^\/(edito|actualite|dossier)\/([a-z0-9-]+)/i.exec(path)) !== null) {
     // http://www.retronews.fr.inshs.bib.cnrs.fr/edito/et-lelection-presidentielle-devint-un-evenement-mediatique
     // http://www.retronews.fr.inshs.bib.cnrs.fr/dossier/lexposition-coloniale-de-1931
     // http://www.retronews.fr.inshs.bib.cnrs.fr/actualite/le-deuxieme-plus-jeune-president-de-lhistoire
@@ -50,7 +50,7 @@ module.exports = new Parser(function analyseEC(parsedUrl, ec) {
     result.unitid = match[2];
   }
 
-  if ((match = /^\/thematique\/([0-9a-z\-]+)\/([0-9]+)/i.exec(path)) !== null) {
+  if ((match = /^\/thematique\/([0-9a-z-]+)\/([0-9]+)/i.exec(path)) !== null) {
     // http://www.retronews.fr.inshs.bib.cnrs.fr/thematique/histoire-de-la-presse/1368
     result.mime = 'MISC';
     result.rtype = 'TOC';

@@ -18,52 +18,52 @@ if (process.env.EZPAARSE_PLATFORM_TO_TEST) {
 }
 
 platforms
-.filter(item => !item.startsWith('.'))
-.map(item => path.resolve(platformsDir, item))
-.filter(item => fs.statSync(item).isDirectory())
-.forEach(platform => {
+  .filter(item => !item.startsWith('.'))
+  .map(item => path.resolve(platformsDir, item))
+  .filter(item => fs.statSync(item).isDirectory())
+  .forEach(platform => {
 
-  let manifest;
-  try { manifest = require(path.resolve(platform, 'manifest.json')); }
-  catch (e) { manifest = e; }
+    let manifest;
+    try { manifest = require(path.resolve(platform, 'manifest.json')); }
+    catch (e) { manifest = e; }
 
-  describe(manifest && manifest.longname || path.basename(platform), () => {
-    it('works', done => {
-      if (manifest instanceof Error) { return done(manifest); }
+    describe(manifest && manifest.longname || path.basename(platform), () => {
+      it('works', done => {
+        if (manifest instanceof Error) { return done(manifest); }
 
-      const testDir = path.resolve(platform, 'test');
+        const testDir = path.resolve(platform, 'test');
 
-      extractTestData(testDir, (err, testData) => {
-        if (err) { return done(err); }
+        extractTestData(testDir, (err, testData) => {
+          if (err) { return done(err); }
 
-        let parser;
-        try {
-          parser = require(path.resolve(platform, 'parser.js'));
-          parser.debugMode(true);
-        }
-        catch (e) { done(e); }
+          let parser;
+          try {
+            parser = require(path.resolve(platform, 'parser.js'));
+            parser.debugMode(true);
+          }
+          catch (e) { done(e); }
 
-        for (let i = testData.length - 1; i >= 0; i--) {
-          const record = testData[i];
-          assert(record.in.url, 'some entries in the test file have no URL');
+          for (let i = testData.length - 1; i >= 0; i--) {
+            const record = testData[i];
+            assert(record.in.url, 'some entries in the test file have no URL');
 
-          const parsed   = parser.execute(record.in);
-          const allProps = Object.keys(record.out).concat(Object.keys(parsed));
-          const equal    = allProps.every(p => record.out[p] === parsed[p]);
+            const parsed   = parser.execute(record.in);
+            const allProps = Object.keys(record.out).concat(Object.keys(parsed));
+            const equal    = allProps.every(p => record.out[p] === parsed[p]);
 
-          if (!equal) {
-            return done(new Error(`result does not match
+            if (!equal) {
+              return done(new Error(`result does not match
             input: ${JSON.stringify(record.in, null, 2)}
             result: ${JSON.stringify(parsed, null, 2)}
             expected: ${JSON.stringify(record.out, null, 2)}`));
+            }
           }
-        }
 
-        done();
+          done();
+        });
       });
     });
   });
-});
 
 /**
  * Takes a test directory and extracts parse the CSV files

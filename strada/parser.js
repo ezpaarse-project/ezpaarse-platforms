@@ -17,7 +17,7 @@ module.exports = new Parser(function analyseEC(parsedUrl, ec) {
 
   let match;
 
-  if ((match = /^\/DBPRO\/FR\/([a-z]+)\/html\/([a-z]+)\/([a-z\_]+)\/([0-9a-z\-\_\.\~]+)\/?/i.exec(pathname)) !== null) {
+  if ((match = /^\/DBPRO\/FR\/([a-z]+)\/html\/([a-z]+)\/([a-z_]+)\/([0-9a-z\-_.~]+)\/?/i.exec(pathname)) !== null) {
     //DBPro/fr/AdvancedSearch/html/getForm/se_rech/20170407-prod-2392-58e7668d6e9ee4-75323819
     //DBPro/FR/Search/html/breadcrumb/se_src_publ_jur/jur_int_oit/1/20170407-prod-6142-58e762ea352ad7-37590738
     //DBPro/FR/Document/html/getDocFromDbpro/se_src_publ_jur/epo_D0016_16/0/20170407-prod-8670-58e7709a503e47-24424947
@@ -35,11 +35,11 @@ module.exports = new Parser(function analyseEC(parsedUrl, ec) {
       break;
     case 'Search':
       result.title_id = match[4];
-      result.rtype = 'SEARCH';
+      result.rtype    = 'SEARCH';
       break;
     case 'Document':
       result.unitid = match[4];
-      result.rtype = 'ARTICLE';
+      result.rtype  = 'ARTICLE';
 
       switch (match[3]) {
       case 'se_legi':
@@ -64,13 +64,13 @@ module.exports = new Parser(function analyseEC(parsedUrl, ec) {
   } else if ((match = /^\/DBPRO\/FR\/home\/html$/i.exec(pathname)) !== null) {
     // https://www.stradalex.eu/DBPro/FR/Home/html
     result.rtype = 'OTHER';
-    result.mime = 'HTML';
+    result.mime  = 'HTML';
   }
 
   if (param.page == 'Dbpro.Controller.SearchResultEditor') {
     //?page=Dbpro.Controller.SearchResultEditor&action=search&dbpc=se_rev_editor&lang=FR&uniqid=20170310-prod-5097-58c27ee91135e0-21376885
     result.rtype = 'SEARCH';
-    result.mime = 'HTML';
+    result.mime  = 'HTML';
   }
 
   return result;

@@ -31,15 +31,15 @@ var q = async.queue(function (task, callback) {
 }, 1);
 
 csv()
-.from('cairn.journals.20130919.csv', {
-//.from('cairn.magazines.pkb.csv', {
-  columns: true,
-  delimiter: ';'
-})
-.to.stream(process.stdout, {
-  columns: ['title', 'pid', 'url', 'pissn', 'eissn'],
-  end: false
-})
-.transform(function (data, index, callback) {
-  q.push({ 'data': data, 'tcallback': callback });
-});
+  .from('cairn.journals.20130919.csv', {
+    //.from('cairn.magazines.pkb.csv', {
+    columns: true,
+    delimiter: ';'
+  })
+  .to.stream(process.stdout, {
+    columns: ['title', 'pid', 'url', 'pissn', 'eissn'],
+    end: false
+  })
+  .transform(function (data, index, callback) {
+    q.push({ 'data': data, 'tcallback': callback });
+  });

@@ -50,19 +50,19 @@ r.on('response', function (res) {
 
   var nbEntries = 0;
   res.pipe(unzip.Parse())
-  .on('entry', function (entry) {
-    if (++nbEntries > 1) {
-      console.error('[Warning] the zip file contains multiple entries, ignoring ' + entry.path);
-      entry.autodrain();
-    } else {
-      console.error('[Info] writing ' + entry.path + ' into ' + filePath);
-    }
-    entry
-    .pipe(iconv.decodeStream('utf16-le'))
-    .pipe(iconv.encodeStream('utf8'))
-    .pipe(fileStream);
-  })
-  .on('close', function () {
-    console.error('[Info] Completed');
-  });
+    .on('entry', function (entry) {
+      if (++nbEntries > 1) {
+        console.error('[Warning] the zip file contains multiple entries, ignoring ' + entry.path);
+        entry.autodrain();
+      } else {
+        console.error('[Info] writing ' + entry.path + ' into ' + filePath);
+      }
+      entry
+        .pipe(iconv.decodeStream('utf16-le'))
+        .pipe(iconv.encodeStream('utf8'))
+        .pipe(fileStream);
+    })
+    .on('close', function () {
+      console.error('[Info] Completed');
+    });
 });

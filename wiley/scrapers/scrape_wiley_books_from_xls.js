@@ -57,7 +57,7 @@ function parseXLS(xls) {
       if (xls.Sheets[sheetName][sheetColTitleURL+i]) { journalInfo.title_url     = xls.Sheets[sheetName][sheetColTitleURL+i].v; }
       pkb.addRow(journalInfo);
     }
-/* */
+    /* */
   }
 
   console.error('Writing KBart file.');

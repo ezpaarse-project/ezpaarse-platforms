@@ -57,7 +57,7 @@ module.exports = new Parser(function analyseEC(parsedUrl) {
     result.year = match[3];
     result.title_id = match[2];
   } else if ((match = /^\/(public|prive)\/(SCD_T_(\d{4})_(.*\.pdf))$/.exec(path)) !== null) {
-      //thèse doctorat UHP
+    //thèse doctorat UHP
 
     // /public/SCD_T_2011_0134_KATRIB.pdf
     result.institution = 'UHP';

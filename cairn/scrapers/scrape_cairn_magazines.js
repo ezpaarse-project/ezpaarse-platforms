@@ -71,83 +71,83 @@ getMatchingList(function (err, matchings) {
   console.error('Downloading %s', csvUrl);
 
   request.get({ uri: csvUrl })
-  .pipe(iconv.decodeStream('windows-1252'))
-  .pipe(iconv.encodeStream('utf8'))
-  .pipe(parser)
-  .on('error', function (err) {
-    console.error(err);
-    process.exit(1);
-  })
-  .on('readable', function () {
-    var data      = parser.read();
-    if (!data) { return; }
+    .pipe(iconv.decodeStream('windows-1252'))
+    .pipe(iconv.encodeStream('utf8'))
+    .pipe(parser)
+    .on('error', function (err) {
+      console.error(err);
+      process.exit(1);
+    })
+    .on('readable', function () {
+      var data      = parser.read();
+      if (!data) { return; }
 
-    var kbartInfo = pkb.initRow({
-      publication_title:    data['MAGAZINE'],
-      print_identifier:     data['ISSN'],
-      online_identifier:    data['ISSN VERSION EN LIGNE'],
-      publisher_name:       data['EDITEUR'],
-      title_url:            data['URL DU MAGAZINE'],
-      date_monograph_published_online: data['MISE EN LIGNE']
-    });
+      var kbartInfo = pkb.initRow({
+        publication_title:    data['MAGAZINE'],
+        print_identifier:     data['ISSN'],
+        online_identifier:    data['ISSN VERSION EN LIGNE'],
+        publisher_name:       data['EDITEUR'],
+        title_url:            data['URL DU MAGAZINE'],
+        date_monograph_published_online: data['MISE EN LIGNE']
+      });
 
-    var m1 = /([0-9]+)$/.exec(data['PREMIER NUMERO DISPO'].trim());
-//    var m2 = /([0-9]+)$/.exec(data['DERNIER NUMERO DISPO'].trim());
-// big mistake in csv source file, can't get it unless manual correction
+      var m1 = /([0-9]+)$/.exec(data['PREMIER NUMERO DISPO'].trim());
+      //    var m2 = /([0-9]+)$/.exec(data['DERNIER NUMERO DISPO'].trim());
+      // big mistake in csv source file, can't get it unless manual correction
 
-    if (m1) { kbartInfo.num_first_vol_online = m1[1]; }
-//    if (m2) { kbartInfo.num_last_vol_online = m2[1]; }
+      if (m1) { kbartInfo.num_first_vol_online = m1[1]; }
+      //    if (m2) { kbartInfo.num_last_vol_online = m2[1]; }
 
-    // http://www.cairn.info/magazine-le-magazine-litteraire.htm--> magazine-le-magazine-litteraire
-    var match = /\/([^\/]+)\.htm$/.exec(kbartInfo.title_url);
-    if (match) {
-      kbartInfo.title_id = match[1];
-    }
-
-    magazines.push(kbartInfo);
-    pkb.addRow(kbartInfo);
-  })
-  .on('end', function () {
-
-    var i = 0;
-    (function scrapeMagazines(callback) {
-      var magazine = magazines[i++];
-      if (!magazine) { return callback(); }
-
-      var secondaryID = matchings[magazine.title_id];
-
-        // If a matching was found, create an entry
-      if (secondaryID) {
-        var newMagazine = {};
-        for (var p in magazine) { newMagazine[p] = magazine[p]; }
-        newMagazine.title_id = secondaryID;
-
-        pkb.addRow(newMagazine);
-        return scrapeMagazines(callback);
+      // http://www.cairn.info/magazine-le-magazine-litteraire.htm--> magazine-le-magazine-litteraire
+      var match = /\/([^\/]+)\.htm$/.exec(kbartInfo.title_url);
+      if (match) {
+        kbartInfo.title_id = match[1];
       }
 
-      console.error('No matching found for %s, trying to scrape from the URL', magazine.title_id);
-      // If no matching found, try to browse the title URL to get the second ID
-      getSecondaryID(magazine.title_url, function (err, id) {
-        if (err || !id) { console.error('No secondary ID found for %s', magazine.title_id); }
+      magazines.push(kbartInfo);
+      pkb.addRow(kbartInfo);
+    })
+    .on('end', function () {
 
-        if (id) {
+      var i = 0;
+      (function scrapeMagazines(callback) {
+        var magazine = magazines[i++];
+        if (!magazine) { return callback(); }
+
+        var secondaryID = matchings[magazine.title_id];
+
+        // If a matching was found, create an entry
+        if (secondaryID) {
           var newMagazine = {};
           for (var p in magazine) { newMagazine[p] = magazine[p]; }
-          newMagazine.title_id = id;
+          newMagazine.title_id = secondaryID;
 
           pkb.addRow(newMagazine);
+          return scrapeMagazines(callback);
         }
 
-        setTimeout(function() {
-          scrapeMagazines(callback);
-        }, 1000);
-      });
-    })(function allDone() {
-      pkb.writeKbart(function () {
-        console.error('Cairn scraping is finished..');
-        console.error('File : %s', pkb.kbartFileName);
+        console.error('No matching found for %s, trying to scrape from the URL', magazine.title_id);
+        // If no matching found, try to browse the title URL to get the second ID
+        getSecondaryID(magazine.title_url, function (err, id) {
+          if (err || !id) { console.error('No secondary ID found for %s', magazine.title_id); }
+
+          if (id) {
+            var newMagazine = {};
+            for (var p in magazine) { newMagazine[p] = magazine[p]; }
+            newMagazine.title_id = id;
+
+            pkb.addRow(newMagazine);
+          }
+
+          setTimeout(function() {
+            scrapeMagazines(callback);
+          }, 1000);
+        });
+      })(function allDone() {
+        pkb.writeKbart(function () {
+          console.error('Cairn scraping is finished..');
+          console.error('File : %s', pkb.kbartFileName);
+        });
       });
     });
-  });
 });
