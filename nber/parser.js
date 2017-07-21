@@ -1,10 +1,7 @@
 #!/usr/bin/env node
 
-// ##EZPAARSE
-
-/*jslint maxlen: 150*/
 'use strict';
-var Parser = require('../.lib/parser.js');
+const Parser = require('../.lib/parser.js');
 
 /**
  * Recognizes the accesses to the platform NBER
@@ -14,25 +11,20 @@ var Parser = require('../.lib/parser.js');
  * @return {Object} the result
  */
 module.exports = new Parser(function analyseEC(parsedUrl, ec) {
-  var result = {};
-  var path   = parsedUrl.pathname;
-  // uncomment this line if you need parameters
-  // var param  = parsedUrl.query || {};
-
-  // use console.error for debuging
-  // console.error(parsedUrl);
-
-  var match;
+  let result = {};
+  let path   = parsedUrl.pathname;
+  let match;
 
   if ((match = /^\/([a-z]+)\/([a-z0-9]+)$/i.exec(path)) !== null) {
     // http://www.nber.org/papers/w20518
     result.rtype  = 'REF';
     result.mime   = 'HTML';
     result.unitid = match[2];
-    if (match[1] == 'papers') {
+
+    if (match[1] === 'papers') {
       result.rtype = 'ABS';
     }
-  } else if ((match = /^\/(([a-z]+).html)$/i.exec(path)) !== null) {
+  } else if (/^\/[a-z]+.html$/i.test(path)) {
     // /papers.html
     result.rtype = 'TOC';
     result.mime  = 'HTML';
@@ -51,13 +43,15 @@ module.exports = new Parser(function analyseEC(parsedUrl, ec) {
     result.rtype  = 'WORKING_PAPER';
     result.mime   = 'HTML';
     result.unitid = match[1];
-  } else if (/^\/([a-z]+)\/$/i.test(path)) {
+
+  } else if (/^\/([a-z]+)\/?$/i.test(path)) {
     // /booksbyyear/
     result.rtype = 'TOC';
     result.mime  = 'MISC';
-  } else if ((match = /^\/([a-z]+)\/([a-z0-9\-]*)(.html)?$/i.exec(path)) !== null) {
+
+  } else if ((match = /^\/([a-z]+)\/([a-z0-9-]*)(.html)?$/i.exec(path)) !== null) {
     // /booksbyyear/1920s.html
-    //books/mitc21-1
+    // /books/mitc21-1
     result.rtype  = 'TOC';
     result.mime   = 'HTML';
     result.unitid = match[2];

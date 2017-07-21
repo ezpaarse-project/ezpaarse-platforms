@@ -1,10 +1,7 @@
 #!/usr/bin/env node
 
-// ##EZPAARSE
-
-/*jslint maxlen: 150*/
 'use strict';
-var Parser = require('../.lib/parser.js');
+const Parser = require('../.lib/parser.js');
 
 /**
  * Identifie les consultations de la plateforme Aerospace Research Central
@@ -14,15 +11,9 @@ var Parser = require('../.lib/parser.js');
  * @return {Object} the result
  */
 module.exports = new Parser(function analyseEC(parsedUrl, ec) {
-  var result = {};
-  var path   = parsedUrl.pathname;
-  // uncomment this line if you need parameters
-  // var param  = parsedUrl.query || {};
-
-  // use console.error for debuging
-  // console.error(parsedUrl);
-
-  var match;
+  let result = {};
+  let path   = parsedUrl.pathname;
+  let match;
 
   if ((match = /\/loi\/([a-zA-Z]+)$/.exec(path)) !== null) {
     // http://arc.aiaa.org/loi/aiaaj
@@ -40,7 +31,7 @@ module.exports = new Parser(function analyseEC(parsedUrl, ec) {
     result.vol      = match[3];
     result.issue    = match[4];
 
-  } else if ((match = /\/doi\/(abs|full|pdf|pdfplus)\/([0-9\.]+\/([^\/\.]+\.[^\/]+))$/.exec(path)) !== null) {
+  } else if ((match = /\/doi\/(abs|full|pdf|pdfplus)\/([0-9.]+\/([^/.]+\.[^/]+))$/.exec(path)) !== null) {
     // http://arc.aiaa.org/doi/abs/10.2514/1.J052182
     result.title_id = match[3];
     result.unitid   = match[2];

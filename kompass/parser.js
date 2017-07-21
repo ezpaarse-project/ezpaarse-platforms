@@ -1,10 +1,7 @@
 #!/usr/bin/env node
 
-// ##EZPAARSE
-
-/*jslint maxlen: 150*/
 'use strict';
-var Parser = require('../.lib/parser.js');
+const Parser = require('../.lib/parser.js');
 
 /**
  * Recognizes the accesses to the platform Kompass
@@ -14,27 +11,21 @@ var Parser = require('../.lib/parser.js');
  * @return {Object} the result
  */
 module.exports = new Parser(function analyseEC(parsedUrl, ec) {
-  var result = {};
-  var path   = parsedUrl.pathname;
-  // uncomment this line if you need parameters
-  // var param  = parsedUrl.query || {};
+  let result = {};
+  let path   = parsedUrl.pathname;
+  let match;
 
-  // use console.error for debuging
-  // console.error(parsedUrl);
+  if ((match = /^\/([a-z]+)$/i.exec(path)) !== null) {
+    // http://fr.kompass.com/easybusiness#/detail/10/0
+    result.rtype  = 'FICHE_ENTREPRISE';
+    result.mime   = 'HTML';
+    result.unitid = match[1];
 
-  var match;
-
-  if ((match = /^\/([a-z]+)$/.exec(path)) !== null) {
-    //    http://fr.kompass.com/easybusiness#/detail/10/0
-    result.rtype    = 'FICHE_ENTREPRISE';
-    result.mime     = 'HTML';
-    result.unitid   = match[1];
-
-  } else if ((match = /^\/([a-z\-]+)\/([a-z]+)\/([a-z]+)/.exec(path)) !== null) {
+  } else if ((match = /^\/([a-z-]+)\/([a-z]+)\/([a-z]+)/i.exec(path)) !== null) {
     // https://fr.kompass.com/my-account/easybusiness/history#/
-    result.rtype    = 'FICHE_ENTREPRISE';
-    result.mime     = 'HTML';
-    result.unitid   = match[2];
+    result.rtype  = 'FICHE_ENTREPRISE';
+    result.mime   = 'HTML';
+    result.unitid = match[2];
   }
 
   return result;

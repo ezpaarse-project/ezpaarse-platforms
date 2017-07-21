@@ -1,10 +1,7 @@
 #!/usr/bin/env node
 
-// ##EZPAARSE
-
-/*jslint maxlen: 150*/
 'use strict';
-var Parser = require('../.lib/parser.js');
+const Parser = require('../.lib/parser.js');
 
 /**
  * Recognizes the accesses to the platform Centre de diffusion de revues Académiques Mathématiques
@@ -14,32 +11,29 @@ var Parser = require('../.lib/parser.js');
  * @return {Object} the result
  */
 module.exports = new Parser(function analyseEC(parsedUrl, ec) {
-  var result = {};
-  var path   = parsedUrl.pathname;
-  // uncomment this line if you need parameters
-  var param  = parsedUrl.query || {};
+  let result = {};
+  let path   = parsedUrl.pathname;
+  let param  = parsedUrl.query || {};
+  let match;
 
-  // use console.error for debuging
-  // console.error(parsedUrl);
-
-  var match;
-
-  if ((match = /^\/([a-z\-]+)\/([a-z]+)\/(([A-Z]+)([0-9\_]+)).(pdf|tex)$/.exec(path)) !== null) {
-    //http://jep.cedram.org/cedram-bin/article/JEP_2015__2__1_0.pdf
+  if ((match = /^\/[a-z]+-bin\/[a-z]+\/(([a-z]+)[0-9_]+).(pdf|tex)$/i.exec(path)) !== null) {
+    // http://jep.cedram.org/cedram-bin/article/JEP_2015__2__1_0.pdf
     result.rtype    = 'ARTICLE';
-    result.mime     = 'PDF';
-    if (match[6] === 'tex') {
-      result.mime = 'TEX';
-    }
-    result.title_id = match[4];
-    result.unitid   = match[3];
-  } else if ((match = /^\/([a-z\-]+)\/([a-z]+)$/.exec(path)) !== null) {
+    result.mime     = match[3] === 'tex' ? 'TEX' : 'PDF';
+    result.title_id = match[2];
+    result.unitid   = match[1];
+
+  } else if ((match = /^\/[a-z]+-bin\/([a-z]+)$/i.exec(path)) !== null) {
     // http://jep.cedram.org/cgi-bin/feuilleter?id=JEP_2015__2_
-    result.rtype    = 'TOC';
-    result.mime     = 'HTML';
-    if (match[2] !== 'feuilleter') {
-      result.rtype    = 'REF';
+
+    if (match[1] === 'feuilleter') {
+      result.rtype = 'TOC';
+      result.mime  = 'HTML';
+    } else {
+      result.rtype = 'REF';
+      result.mime  = 'HTML';
     }
+
     if (param.id) {
       result.title_id = param.id.split('_')[0];
       result.unitid   = param.id;

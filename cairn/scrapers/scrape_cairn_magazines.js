@@ -99,7 +99,7 @@ getMatchingList(function (err, matchings) {
       //    if (m2) { kbartInfo.num_last_vol_online = m2[1]; }
 
       // http://www.cairn.info/magazine-le-magazine-litteraire.htm--> magazine-le-magazine-litteraire
-      var match = /\/([^\/]+)\.htm$/.exec(kbartInfo.title_url);
+      var match = /\/([^/]+)\.htm$/.exec(kbartInfo.title_url);
       if (match) {
         kbartInfo.title_id = match[1];
       }

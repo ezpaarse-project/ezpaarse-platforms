@@ -1,10 +1,7 @@
 #!/usr/bin/env node
 
-// ##EZPAARSE
-
-/*jslint maxlen: 150*/
 'use strict';
-var Parser = require('../.lib/parser.js');
+const Parser = require('../.lib/parser.js');
 
 /**
  * Identifie les consultations de la plateforme ELnet
@@ -14,64 +11,64 @@ var Parser = require('../.lib/parser.js');
  * @return {Object} the result
  */
 module.exports = new Parser(function analyseEC(parsedUrl, ec) {
-  var result = {};
-  var path   = parsedUrl.pathname;
-  // uncomment this line if you need parameters
-  var param  = parsedUrl.query || {};
+  let result = {};
+  let path   = parsedUrl.pathname;
+  let param  = parsedUrl.query || {};
+  let match;
 
-  // use console.error for debuging
-  // console.error(param);
-
-  var match, match_FromId;
-
-  if ((match = /^\/documentation\/Document$/.exec(path)) !== null) {
+  if (/^\/documentation\/Document$/i.test(path)) {
     // http://www.elnet.fr/documentation/Document?id=Y4IDXJRP
-    result.rtype    = 'ARTICLE';
-    result.mime     = 'MISC';
+    result.rtype = 'ARTICLE';
+    result.mime  = 'MISC';
+
     if (param.id) {
       result.title_id = param.id;
-      result.unitid= param.id;
+      result.unitid   = param.id;
     }
-    if (param.FromId) {
+
+    let idMatch = /(CODE|JRP|TXT|FORM|ET)$/.exec(param.FromId);
+
+    if (idMatch) {
       // http://www.elnet.fr/documentation/Document?id=ASSU&FromId=Z4LSTCODE
       // http://www.elnet.fr/documentation/Document?id=A197461&FromId=Y4IDXJRP
       // http://www.elnet.fr/documentation/Document?id=Y3M08&FromId=Y3LSTFORM
       // http://www.elnet.fr/documentation/Document?id=Y3LSTET-1
-      match_FromId = param.FromId.match(/(CODE|JRP|TXT|FORM|ET)$/);
-      switch (match_FromId[0]) {
+      switch (idMatch[1]) {
       case 'CODE':
-        result.rtype    = 'CODES';
+        result.rtype = 'CODES';
         break;
       case 'JRP':
-        result.rtype    = 'JURISPRUDENCE';
+        result.rtype = 'JURISPRUDENCE';
         break;
       case 'FORM':
-        result.rtype    = 'FORMULES';
+        result.rtype = 'FORMULES';
         break;
       case 'ET':
-        result.rtype    = 'ARTICLE';
+        result.rtype = 'ARTICLE';
         break;
       }
     }
-  } else if ((match = /^\/documentation\/hulkStatic\/EL\/(.*)\/([^\/]+)\.pdf$/.exec(path)) !== null) {
+  } else if ((match = /^\/documentation\/hulkStatic\/EL\/(.*)\/([^/]+)\.pdf$/i.exec(path)) !== null) {
     // http://www.elnet.fr/documentation/hulkStatic/EL/CD13/DPFORM2/Y3M10/sharp_/ANX/y3m313001.pdf
     result.rtype    = 'ARTICLE';
-    if (match[1] && match[1].indexOf('FORM') != -1) {
-      result.rtype    = 'FORMULES';
-    }
     result.mime     = 'PDF';
     result.title_id = match[2];
-    result.unitid = match[2];
-  } else if ((match = /^\/aboveille\/(editdoc|logon)\.do$/.exec(path)) !== null) {
+    result.unitid   = match[2];
+
+    if (match[1] && match[1].indexOf('FORM') != -1) {
+      result.rtype = 'FORMULES';
+    }
+  } else if ((match = /^\/aboveille\/(editdoc|logon)\.do$/i.exec(path)) !== null) {
     // http://www.editions-legislatives.fr/aboveille/editdoc.do?attId=150868
-    result.rtype    = 'ARTICLE';
-    result.mime     = 'PDF';
+    result.rtype = 'ARTICLE';
+    result.mime  = 'PDF';
+
     if (match[1] === 'logon') {
-      result.mime     = 'HTML';
+      result.mime = 'HTML';
     }
     if (param.attId) {
       result.title_id = param.attId;
-      result.unitid= param.attId;
+      result.unitid   = param.attId;
     }
   }
 

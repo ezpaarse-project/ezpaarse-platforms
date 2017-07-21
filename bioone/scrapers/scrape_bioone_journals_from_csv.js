@@ -53,7 +53,7 @@ request.get({ uri: journalsUrl }).pipe(parser)
     }
     if (journalInfo.title_url.length) {
       var parsedUrl = URL.parse(journalInfo.title_url, true);
-      if ((match = /\/loi\/([^\/]+)/.exec(parsedUrl.pathname))) {
+      if ((match = /\/loi\/([^/]+)/.exec(parsedUrl.pathname))) {
       // http://www.bioone.org/loi/rama
         journalInfo.title_id = match[1];
       } else if ((match = /\/action\/showBookSeries/.exec(parsedUrl.pathname))) {

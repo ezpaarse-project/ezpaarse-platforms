@@ -18,7 +18,7 @@ module.exports = new Parser(function analyseEC(parsedUrl, ec) {
 
   let match;
 
-  if ((match = /^\/(video|science-education)\/([0-9]+)\/[a-z0-9\-]+?$/i.exec(path)) !== null) {
+  if ((match = /^\/(video|science-education)\/([0-9]+)\/[a-z0-9-]+?$/i.exec(path)) !== null) {
     // /video/54732/determination-relative-cell-surface-total-expression-recombinant-ion
     // /science-education/5019/une-introduction-la-centrifugeuse?language=French
 
@@ -33,7 +33,7 @@ module.exports = new Parser(function analyseEC(parsedUrl, ec) {
       result.mime  = 'MISC';
     }
 
-  } else if ((match = /^\/pdf(?:-materials)?\/([0-9]+)\/[a-z0-9\-]+?$/i.exec(path)) !== null) {
+  } else if ((match = /^\/pdf(?:-materials)?\/([0-9]+)\/[a-z0-9-]+?$/i.exec(path)) !== null) {
     // /pdf/54732/jove-protocol-54732-determination-relative-cell-surface-total-expression-recombinant-ion
     // /pdf-materials/54732/jove-materials-54732-determination-relative-cell-surface-total-expression-recombinant-ion
     result.rtype  = 'ARTICLE';

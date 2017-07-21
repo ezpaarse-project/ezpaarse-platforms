@@ -1,7 +1,5 @@
 #!/usr/bin/env node
 
-// ##EZPAARSE
-
 'use strict';
 const Parser = require('../.lib/parser.js');
 
@@ -24,7 +22,7 @@ module.exports = new Parser(function analyseEC(parsedUrl, ec) {
 
   if (path.startsWith('/content/suppl')) {
     // /content/suppl/2014/02/03/JCO.2013.50.9539.DC1/DS1_JCO.2013.50.9539.pdf
-    const reg = new RegExp('^/content/suppl/(\\d+)/(\\d+/\\d+/([\\w\\.]+/)?[\\w\\.]+?)\.pdf');
+    const reg = new RegExp('^/content/suppl/(\\d+)/(\\d+/\\d+/([\\w\\.]+/)?[\\w\\.]+?)\\.pdf');
 
     if ((match = reg.exec(path)) !== null) {
       result.rtype  = 'SUPPL';
@@ -41,7 +39,7 @@ module.exports = new Parser(function analyseEC(parsedUrl, ec) {
     // /content/78/2/B49.full
     // /content/2012/5/pdb.top069344.full.pdf
     // /content/1/2-3/69.1.full.pdf+html
-    const reg1 = new RegExp(`^/content/(?:[a-z]+/)?((\\d+)/(\\d+(?:\-\\d+)?)/([\\w\\.]+?))${extReg}`);
+    const reg1 = new RegExp(`^/content/(?:[a-z]+/)?((\\d+)/(\\d+(?:-\\d+)?)/([\\w\\.]+?))${extReg}`);
 
     // /content/bmj/343/bmj.d4464.full.pdf
     // /content/bloodjournal/early/2015/02/25/blood-2014-10-608596.full.pdf
@@ -117,7 +115,7 @@ module.exports = new Parser(function analyseEC(parsedUrl, ec) {
 
   } else if (path.startsWith('/docserver')) {
     // http://www.sgmjournals.org/docserver/fulltext/ijsem/65/8/2410_ijs000272.pdf
-    const docReg = new RegExp('^/docserver/\\w+/(\\w+/\\d+/\\d+/\\w+)\.pdf$');
+    const docReg = new RegExp('^/docserver/\\w+/(\\w+/\\d+/\\d+/\\w+)\\.pdf$');
 
     if ((match = docReg.exec(path)) !== null) {
       result.unitid = `${hostname}/${match[1]}`;

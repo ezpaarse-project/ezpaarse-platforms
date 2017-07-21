@@ -1,10 +1,7 @@
 #!/usr/bin/env node
 
-// ##EZPAARSE
-
-/*jslint maxlen: 150*/
 'use strict';
-var Parser = require('../.lib/parser.js');
+const Parser = require('../.lib/parser.js');
 
 /**
  * Recognizes the accesses to the platform Delphes Indexpresse0
@@ -14,26 +11,23 @@ var Parser = require('../.lib/parser.js');
  * @return {Object} the result
  */
 module.exports = new Parser(function analyseEC(parsedUrl, ec) {
-  var result = {};
-  var path   = parsedUrl.pathname;
-  // uncomment this line if you need parameters
-  var param  = parsedUrl.query || {};
+  let result = {};
+  let path   = parsedUrl.pathname;
+  let param  = parsedUrl.query || {};
+  let match;
 
-  // use console.error for debuging
-  // console.error(parsedUrl);
-
-  var match;
-
-  if ((match = /^\/([a-z\-]+)\/([a-z]+)\/([0-9]+)\/([0-9]+)\/(([\w\W]+).pdf)$/.exec(path)) !== null) {
+  if ((match = /^\/wp-content\/uploads\/[0-9]+\/[0-9]+\/((.+?)_.+)\.pdf$/i.exec(path)) !== null) {
     // wp-content/uploads/2014/01/Delphes2014_Liste_the%CC%81matique.pdf
     result.rtype    = 'LISTE';
     result.mime     = 'PDF';
-    result.title_id = match[6].split('_')[0];
-    result.unitid   = match[5];
-  } else if ((match = /^\/([a-z]+).asp$/.exec(path)) !== null) {
-    //http://www.delphes-indexpresse.com/resultat.asp?connecteur=y&BI=1157678
-    result.rtype    = 'REF';
-    result.mime     = 'HTML';
+    result.title_id = match[2];
+    result.unitid   = match[1];
+
+  } else if (/^\/resultat.asp$/i.test(path)) {
+    // http://www.delphes-indexpresse.com/resultat.asp?connecteur=y&BI=1157678
+    result.rtype = 'REF';
+    result.mime  = 'HTML';
+
     if (param.BI) {
       result.title_id = param.BI;
       result.unitid   = param.BI;

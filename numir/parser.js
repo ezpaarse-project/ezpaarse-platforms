@@ -1,10 +1,7 @@
 #!/usr/bin/env node
-
-// ##EZPAARSE
-
-/*jslint maxlen: 150*/
 'use strict';
-var Parser = require('../.lib/parser.js');
+
+const Parser = require('../.lib/parser.js');
 
 /**
  * Recognizes the accesses to the platform Monographies Numérisées des bibliothèques Mathématiques Informatique Recherche des Universités Paris Diderot et Pierre et Marie Curie
@@ -14,17 +11,12 @@ var Parser = require('../.lib/parser.js');
  * @return {Object} the result
  */
 module.exports = new Parser(function analyseEC(parsedUrl, ec) {
-  var result = {};
-  var path   = parsedUrl.pathname;
-  // uncomment this line if you need parameters
-  var param  = parsedUrl.query || {};
+  let result = {};
+  let path   = parsedUrl.pathname;
+  let param  = parsedUrl.query || {};
+  let match;
 
-  // use console.error for debuging
-  // console.error(parsedUrl);
-
-  var match;
-
-  if ((match = /^\/articles\/articles.php$/.exec(path)) !== null) {
+  if (/^\/articles\/articles.php$/i.test(path)) {
     // http://www.numir.org/articles/articles.php?id=171&cat=5
     result.rtype = 'BOOK';
     result.mime  = 'PDFPLUS';
@@ -32,7 +24,7 @@ module.exports = new Parser(function analyseEC(parsedUrl, ec) {
       result.title_id = param.id;
       result.unitid   = param.cat;
     }
-  } else if ((match = /^\/articles\/bibtex.php$/.exec(path)) !== null) {
+  } else if (/^\/articles\/bibtex.php$/i.test(path)) {
     // http://www.numir.org/articles/bibtex.php?id=AMAS_1999_136
     result.rtype = 'REF';
     result.mime  = 'BIBTEX';
@@ -43,13 +35,13 @@ module.exports = new Parser(function analyseEC(parsedUrl, ec) {
       result.unitid           = param.id;
     }
 
-  } else if ((match = /^\/ouvrage\/([A-Z]+)\/([\w\_]+)\/(([A-Z]+)\_([0-9]{4})\_([0-9]+)).pdf$/.exec(path)) !== null) {
+  } else if ((match = /^\/ouvrage\/([A-Z]+)\/[\w_]+\/([A-Z]+_([0-9]{4})_[0-9]+).pdf$/i.exec(path)) !== null) {
     // http://www.numir.org/ouvrage/AOM/AOM_1985_10/AOM_1985_10.pdf
     result.rtype            = 'BOOK';
     result.mime             = 'PDF';
     result.title_id         = match[1];
-    result.publication_date = match[5];
-    result.unitid           = match[3];
+    result.unitid           = match[2];
+    result.publication_date = match[3];
 
   }
 

@@ -1,9 +1,7 @@
 #!/usr/bin/env node
 
-// ##EZPAARSE
-
 'use strict';
-var Parser = require('../.lib/parser.js');
+const Parser = require('../.lib/parser.js');
 
 /**
  * Identifie les consultations de la plateforme NEJM - New England Journal of Medicine
@@ -13,29 +11,26 @@ var Parser = require('../.lib/parser.js');
  * @return {Object} the result
  */
 module.exports = new Parser(function analyseEC(parsedUrl, ec) {
-  var result = {};
-  var path   = parsedUrl.pathname;
-  // uncomment this line if you need parameters
-  var param  = parsedUrl.query || {};
+  let result = {};
+  let path   = parsedUrl.pathname;
+  let param  = parsedUrl.query || {};
+  let match;
 
-  // use console.error for debuging
-  // console.error(parsedUrl);
-
-  var match;
-  var matchparam;
   if ((match = /^\/toc\/([a-z]+)\/(([a-z]+)-([a-z]+))$/.exec(path)) !== null) {
     // http://www.nejm.org.ezproxy.unilim.fr/toc/nejm/medical-journal
     result.rtype    = 'TOC';
     result.mime     = 'MISC';
     result.title_id = match[2];
     result.unitid   = 'toc/' + match[1] + '/' + match[2];
+
   } else if ((match = /^\/doi\/([a-z]+)\/(([0-9]+).([0-9]+))\/(([A-Z]+)([a-z]+)([0-9]+))$/.exec(path)) !== null) {
     // http://www.nejm.org.ezproxy.unilim.fr/doi/full/10.1056/NEJMp1501140
-    //http://www.nejm.org.ezproxy.unilim.fr/doi/pdf/10.1056/NEJMra1403672
+    // http://www.nejm.org.ezproxy.unilim.fr/doi/pdf/10.1056/NEJMra1403672
     result.title_id = match[5];
     result.unitid   = match[5];
     result.rtype    = 'ARTICLE';
     result.doi =  match[2] + '/' + match[5];
+
     if (match[1] === 'pdf') {
       result.mime = 'PDF';
     } else if (match[1] === 'ref') {
@@ -60,7 +55,9 @@ module.exports = new Parser(function analyseEC(parsedUrl, ec) {
 
     result.mime = 'MISC';
 
-    if ((matchparam = /(([a-z]+_[0-9]+\.[0-9]+\.[a-z]+\-[0-9]+)\.[a-z]+)\.mp3$/.exec(param.a)) !== null) {
+    let matchparam = /(([a-z]+_[0-9]+\.[0-9]+\.[a-z]+-[0-9]+)\.[a-z]+)\.mp3$/.exec(param.a);
+
+    if (matchparam) {
       result.rtype    = 'TOC';
       result.title_id = matchparam[2];
       result.unitid   = matchparam[1];
@@ -79,6 +76,7 @@ module.exports = new Parser(function analyseEC(parsedUrl, ec) {
     result.title_id = match[5];
     result.doi      = match[2] + '/' + match[5];
     result.unitid   = match[5];
+
   } else if ((match = /^\/doi\/([a-z]+)\/(([0-9]+).([0-9]+))\/(([A-Z]+)([a-z]+)([0-9]+))\/([a-z_]+)\/(([a-z0-9]+)_([a-z]+)).pdf$/.exec(path)) !== null) {
     // http://www.nejm.org.ezproxy.unilim.fr/doi/suppl/10.1056/NEJMoa1410489/suppl_file/nejmoa1410489_appendix.pdf
     result.rtype    = 'ARTICLE';
@@ -86,6 +84,7 @@ module.exports = new Parser(function analyseEC(parsedUrl, ec) {
     result.title_id = match[10];
     result.unitid   = match[5];
     result.doi      = match[2] + '/' + match[5];
+
   } else if ((match = /^\/doi\/([a-z]+)\/(([0-9]+).([0-9]+))\/(([A-Z]+)([0-9]+))$/.exec(path)) !== null) {
     // http://www.nejm.org.gate1.inist.fr/doi/pdf/10.1056/NEJM199301073280104
     result.rtype    = 'ARTICLE';

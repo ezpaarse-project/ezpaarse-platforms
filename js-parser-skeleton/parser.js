@@ -21,7 +21,7 @@ module.exports = new Parser(function analyseEC(parsedUrl, ec) {
 
   let match;
 
-  if ((match = /^\/platform\/path\/to\/(document\-([0-9]+)\-test\.pdf)$/i.exec(path)) !== null) {
+  if ((match = /^\/platform\/path\/to\/(document-([0-9]+)-test\.pdf)$/i.exec(path)) !== null) {
     // http://parser.skeleton.js/platform/path/to/document-123456-test.pdf?sequence=1
     result.rtype    = 'ARTICLE';
     result.mime     = 'PDF';
@@ -35,7 +35,7 @@ module.exports = new Parser(function analyseEC(parsedUrl, ec) {
      */
     result.unitid = match[2];
 
-  } else if ((match = /^\/platform\/path\/to\/(document\-([0-9]+)\-test\.html)$/i.exec(path)) !== null) {
+  } else if ((match = /^\/platform\/path\/to\/(document-([0-9]+)-test\.html)$/i.exec(path)) !== null) {
     // http://parser.skeleton.js/platform/path/to/document-123456-test.html?sequence=1
     result.rtype    = 'ARTICLE';
     result.mime     = 'HTML';

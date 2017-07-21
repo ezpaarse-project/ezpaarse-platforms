@@ -1,11 +1,7 @@
 #!/usr/bin/env node
 
-// ##EZPAARSE
-
-
 'use strict';
-/*jslint maxlen: 200*/
-var Parser = require('../.lib/parser.js');
+const Parser = require('../.lib/parser.js');
 
 /**
  * Identifie les consultations de la plateforme De Gruyter
@@ -15,21 +11,15 @@ var Parser = require('../.lib/parser.js');
  * @return {Object} the result
  */
 module.exports = new Parser(function analyseEC(parsedUrl, ec) {
-  var result = {};
-  var path   = parsedUrl.pathname;
-  // uncomment this line if you need parameters
-  // var param  = parsedUrl.query || {};
+  let result = {};
+  let path   = parsedUrl.pathname;
+  let match;
+  let info;
 
-  // use console.error for debuging
-  // console.error(parsedUrl);
+  // letiable qui va contenir le volume l'issue et numéro de page
+  let infodetail;
 
-  var match;
-  var info;
-
-  // variable qui va contenir le volume l'issue et buméro de page
-  var infodetail;
-
-  if ((match = /^\/view\/([a-z]+)\/(([a-z]+)\.([0-9]+)\.([0-9]+)\.([a-z]+)\-([0-9]+))\/([a-z0-9\-]*)\/([^]*).xml$/.exec(path)) !== null) {
+  if ((match = /^\/view\/([a-z]+)\/(([a-z]+)\.([0-9]+)\.([0-9]+)\.([a-z]+)-([0-9]+))\/([a-z0-9-]*)\/([^]*).xml$/i.exec(path)) !== null) {
     //view/j/jtms.2014.1.issue-2/issue-files/jtms.2014.1.
     //issue-2.xml
     //view/j/jtms.2014.1.issue-2/jtms-2014-0026/jtms-2014-0026.xml?format=INT
@@ -41,12 +31,12 @@ module.exports = new Parser(function analyseEC(parsedUrl, ec) {
     result.unitid           = match[9];
     result.publication_date = match[4];
 
-    if (match[8] != 'issue-files') {
-      result.doi    = '10.1515/' + match[8];
-      result.rtype  = 'PREVIEW';
+    if (match[8] !== 'issue-files') {
+      result.doi   = '10.1515/' + match[8];
+      result.rtype = 'PREVIEW';
     }
 
-  } else if ((match = /^\/dg\/([^]*)\/([^]*)\/([a-z0-9\-]+).pdf$/.exec(path)) !== null) {
+  } else if ((match = /^\/dg\/([^]*)\/([^]*)\/([a-z0-9-]+).pdf$/i.exec(path)) !== null) {
     ///dg/viewarticle.fullcontentlink:pdfeventlink/$002fj$002fling.2012.50.issue-4$002fling-2012-0026$002fling-2012-0026.pdf/ling-2012-0026.pdf
 
     info = match[2].split('$002f');
@@ -56,7 +46,7 @@ module.exports = new Parser(function analyseEC(parsedUrl, ec) {
     result.issue            = info[2].split('.')[3].replace('issue-', '');
     result.unitid           = info[4];
 
-    if ((infodetail = /^([a-z]+)\.([0-9]+)\.([0-9]+)\.([0-9\-]+)\.([0-9]+)\.([a-z]+)/.exec(info[4])) !== null) {
+    if ((infodetail = /^([a-z]+)\.([0-9]+)\.([0-9]+)\.([0-9-]+)\.([0-9]+)\.([a-z]+)/.exec(info[4])) !== null) {
       result.vol        = infodetail[3];
       result.first_page = infodetail[5];
     }
@@ -69,7 +59,7 @@ module.exports = new Parser(function analyseEC(parsedUrl, ec) {
       result.rtype = 'TOC';
     }
 
-  } else if ((match = /^\/dg\/([^]*)\/([^]*)$/.exec(path)) !== null) {
+  } else if ((match = /^\/dg\/([^]*)\/([^]*)$/i.exec(path)) !== null) {
     //dg/viewarticle.fullcontentlink:pdfeventlink/$002fj$002fetly.2011.2011.
     //issue-1$002f9783110239423.200$002f9783110239423.200.pdf?
 
@@ -85,12 +75,12 @@ module.exports = new Parser(function analyseEC(parsedUrl, ec) {
     result.issue            = info[2].split('.')[3].replace('issue-', '');
     result.unitid           = info[4];
 
-    if ((infodetail = /^([a-z]+)\.([0-9]+)\.([0-9]+)\.([0-9\-]+)\.([0-9]+)\.([a-z]+)/.exec(info[4])) !== null) {
+    if ((infodetail = /^([a-z]+)\.([0-9]+)\.([0-9]+)\.([0-9-]+)\.([0-9]+)\.([a-z]+)/.exec(info[4])) !== null) {
       result.vol        = infodetail[3];
       result.first_page = infodetail[5];
     }
 
-    result.mime             = 'PDF';
+    result.mime = 'PDF';
 
     if (match[1].split('.')[0] === 'viewarticle') {
       result.rtype = 'ARTICLE';
@@ -98,8 +88,8 @@ module.exports = new Parser(function analyseEC(parsedUrl, ec) {
       result.rtype = 'TOC';
     }
 
-  } else if ((match = /^\/downloadpdf\/([a-z]{1})\/([^]*)\/([^]*)\/([^]*).xml$/.exec(path)) !== null) {
-    //downloadpdf/j/acs.2016.9.issue-1/acs-2016-0003/acs-2016-0003.xml
+  } else if ((match = /^\/downloadpdf\/([a-z]{1})\/([^]*)\/([^]*)\/([^]*).xml$/i.exec(path)) !== null) {
+    // /downloadpdf/j/acs.2016.9.issue-1/acs-2016-0003/acs-2016-0003.xml
 
     info                    = match[2].split('.');
     result.publication_date = info[1];
@@ -110,7 +100,6 @@ module.exports = new Parser(function analyseEC(parsedUrl, ec) {
     result.rtype            = 'ARTICLE';
 
   }
-
 
   return result;
 });

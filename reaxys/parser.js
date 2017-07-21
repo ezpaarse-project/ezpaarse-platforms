@@ -6,7 +6,7 @@ const Parser = require('../.lib/parser.js');
 module.exports = new Parser(function analyseEC(parsedUrl) {
   const result = {};
   const param  = parsedUrl.query || {};
-  const path   = decodeURIComponent(parsedUrl.pathname).replace(/\"/g, '');
+  const path   = decodeURIComponent(parsedUrl.pathname).replace(/"/g, '');
 
   let match;
 

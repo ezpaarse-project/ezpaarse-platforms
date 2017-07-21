@@ -112,7 +112,7 @@ module.exports = new Parser(function analyseEC(parsedUrl, ec) {
     }
 
     if (param.pages) {
-      const pagesMatch = /^(\d+)\-(\d+)$/.exec(param.pages);
+      const pagesMatch = /^(\d+)-(\d+)$/.exec(param.pages);
 
       if (pagesMatch) {
         result.first_page = pagesMatch[1];

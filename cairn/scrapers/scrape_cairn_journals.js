@@ -98,7 +98,7 @@ getMatchingList(function (err, matchings) {
       if (m2) { kbartInfo.num_last_vol_online = m2[1]; }
 
       // http://www.cairn.info/journal-le-journal-litteraire.htm--> journal-le-journal-litteraire
-      var match = /\/([^\/]+)\.htm$/.exec(kbartInfo.title_url);
+      var match = /\/([^/]+)\.htm$/.exec(kbartInfo.title_url);
       if (match) {
         kbartInfo.title_id = match[1];
       }

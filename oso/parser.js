@@ -1,10 +1,7 @@
 #!/usr/bin/env node
 
-// ##EZPAARSE
-
-/*jslint maxlen: 250*/
 'use strict';
-var Parser = require('../.lib/parser.js');
+const Parser = require('../.lib/parser.js');
 
 /**
  * Identifie les consultations de la plateforme Oxford Scholarship Online
@@ -14,14 +11,11 @@ var Parser = require('../.lib/parser.js');
  * @return {Object} the result
  */
 module.exports = new Parser(function analyseEC(parsedUrl, ec) {
-  var result = {};
-  var path   = parsedUrl.pathname;
+  let result = {};
+  let path   = parsedUrl.pathname.replace(/\$002f/g, '/');
+  let match;
 
-  path = path.replace(/\$002f/g, '/');
-
-  var match;
-
-  if ((match = /^(?:\/mobile)?\/view\/([0-9]+\.[0-9]+\/((?:[a-z:]+\/)?[0-9]+)\.[0-9]+\.[0-9]+)\/[a-z]+\-([0-9]+)(\-chapter\-[0-9]+)?$/.exec(path)) !== null) {
+  if ((match = /^(?:\/mobile)?\/view\/([0-9]+\.[0-9]+\/((?:[a-z:]+\/)?[0-9]+)\.[0-9]+\.[0-9]+)\/[a-z]+-([0-9]+)(-chapter-[0-9]+)?$/.exec(path)) !== null) {
     // http://www.oxfordscholarship.com/view/10.1093/0199242666.001.0001/acprof-9780199242665
     // http://www.oxfordscholarship.com/view/10.1093/0199242666.001.0001/acprof-9780199242665-chapter-1
     // http://www.oxfordscholarship.com/view/10.1093/acprof:oso/9780199575008.001.0001/acprof-9780199575008
@@ -36,7 +30,7 @@ module.exports = new Parser(function analyseEC(parsedUrl, ec) {
     if (result.rtype === 'BOOK_SECTION' && ec.size && ec.size < 18000) {
       result._granted = false;
     }
-  } else if ((match = /^\/[a-z]+\/download[a-z\.:]+\/\/?([0-9]+\.[0-9]+\/((?:[a-z:]+\/)?[0-9]+)\.[0-9]+\.[0-9]+)\/[a-z]+\-([0-9]+)\-chapter\-[0-9]+\/.*/.exec(path)) !== null) {
+  } else if ((match = /^\/[a-z]+\/download[a-z.:]+\/\/?([0-9]+\.[0-9]+\/((?:[a-z:]+\/)?[0-9]+)\.[0-9]+\.[0-9]+)\/[a-z]+-([0-9]+)-chapter-[0-9]+\/.*/.exec(path)) !== null) {
     /**
      * http://www.oxfordscholarship.com/oso/downloaddoclightbox.downloaddoc:download/$002f10.1093$002f0199242666.001.0001$002facprof-9780199242665-chapter-1/Introduction:$0020Abortion$002c$0020Women$0027s$0020Movements$002c$0020and
      * $0020Democratic$0020Politics?t:ac=$002f10.1093$002f0199242666.001.0001$002facprof-9780199242665-chapter-1/Introduction:$0020Abortion$002c$0020Women$0027s$0020Movements$002c$0020and$0020Democratic$0020Politics

@@ -4,11 +4,7 @@
 // Write on stderr the progression
 // Usage : ./scrape_erudit_journals.js
 
-
-/*jslint maxlen: 180*/
-
 'use strict';
-
 
 var async   = require('async');
 var request = require('request').defaults({ jar: true });
@@ -38,7 +34,7 @@ function getJournalRealUrl(journalData, cb) {
     //console.log("trying to find real url " + $('meta').attr('content'));
     var metaContent = $('meta').attr('content');
     var match, realURL;
-    if (match == /[\W]([\w/\.]+)$/.exec(metaContent)) {
+    if (match == /[\W]([\w/.]+)$/.exec(metaContent)) {
       realURL = match[1];
       //console.log("found real url " + realURL);
     }

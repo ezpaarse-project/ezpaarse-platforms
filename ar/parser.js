@@ -1,21 +1,16 @@
 #!/usr/bin/env node
 
-// ##EZPAARSE
-
-/*jslint maxlen: 180*/
-
 /**
  * parser for www.annualreviews.org platform
  * http://analogist.couperin.org/platforms/annualreviews/
  */
 'use strict';
-var Parser = require('../.lib/parser.js');
+const Parser = require('../.lib/parser.js');
 
 module.exports = new Parser(function analyseEC(parsedUrl) {
-  var result = {};
-  var path   = parsedUrl.pathname;
-
-  var match;
+  let result = {};
+  let path   = parsedUrl.pathname;
+  let match;
 
   if ((match = /^\/(journal|loi|toc)\/([a-z]+[0-9]?)(\/current)?$/.exec(path)) !== null) {
     // /journal/achre4
@@ -34,7 +29,7 @@ module.exports = new Parser(function analyseEC(parsedUrl) {
     result.vol      = match[2];
     result.issue    = match[3];
 
-  } else if ((match = /^\/doi\/(abs|pdf|full)\/([0-9]{2}\.[0-9]{4}\/(annurev[\.\-]([a-z]+)[\.\-0-9-a-z]+))$/.exec(path)) !== null) {
+  } else if ((match = /^\/doi\/(abs|pdf|full)\/([0-9]{2}\.[0-9]{4}\/(annurev[.-]([a-z]+)[.\-0-9-a-z]+))$/.exec(path)) !== null) {
     // http://www.annualreviews.org.gate1.inist.fr/doi/abs/10.1146/annurev-neuro-062111-150343
     // http://www.annualreviews.org.gate1.inist.fr/doi/pdf/10.1146/annurev.anchem.1.031207.113026
     // http://www.annualreviews.org.insmi.bib.cnrs.fr/doi/full/10.1146/annurev-st-04-022817-100001

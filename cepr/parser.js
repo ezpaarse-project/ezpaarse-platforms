@@ -1,10 +1,7 @@
 #!/usr/bin/env node
 
-// ##EZPAARSE
-
-/*jslint maxlen: 150*/
 'use strict';
-var Parser = require('../.lib/parser.js');
+const Parser = require('../.lib/parser.js');
 
 /**
  * Recognizes the accesses to the platform Center for economic policy research
@@ -14,40 +11,37 @@ var Parser = require('../.lib/parser.js');
  * @return {Object} the result
  */
 module.exports = new Parser(function analyseEC(parsedUrl, ec) {
-  var result = {};
-  var path   = parsedUrl.pathname;
-  // uncomment this line if you need parameters
-  var param  = parsedUrl.query || {};
+  let result = {};
+  let path   = parsedUrl.pathname;
+  let param  = parsedUrl.query || {};
+  let match;
 
-  // use console.error for debuging
-  // console.error(parsedUrl);
-
-  var match;
-
-  if ((match = /^\/active\/([a-z]+)\/([a-z\_]+)\/(([a-z\_]*)\.php)$/.exec(path)) !== null) {
+  if ((match = /^\/active\/[a-z]+\/[a-z_]+\/[a-z_]+?(_pdf)?\.php$/i.exec(path)) !== null) {
     // /active/publications/discussion_papers/dp.php?dpno=10922
-    //http://cepr.org/active/publications/discussion_papers/view_pdf.php?dpno=10922
-    result.rtype    = 'ABS';
-    result.mime     = 'HTML';
+    // /active/publications/discussion_papers/view_pdf.php?dpno=10922
+    result.rtype = 'ABS';
+    result.mime  = 'HTML';
+
     if (param.dpno) {
-      result.unitid   = param.dpno;
+      result.unitid = param.dpno;
     } else if (param.pino) {
-      result.unitid   = param.pino;
+      result.unitid = param.pino;
     }
-    var testpdf = match[4].split('_')[1];
-    if (testpdf == 'pdf') {
-      result.rtype    = 'WORKING_PAPER';
-      result.mime     = 'PDF';
+
+    if (match[1]) {
+      result.rtype = 'WORKING_PAPER';
+      result.mime  = 'PDF';
     }
-  } else if ((match = /^\/content\/([a-z\-]+)$/.exec(path)) !== null) {
-    //http://cepr.org/content/discussion-papers
-    result.rtype    = 'TOC';
-    result.mime     = 'HTML';
-  } else if ((match = /^\/sites\/([a-z]+)\/([a-z]+)\/([a-z\_]+)\/([A-Za-z]+)([0-9]+).pdf$/.exec(path)) !== null) {
-    //sites/default/files/policy_insights/PolicyInsight83.pdf
-    result.rtype    = 'WORKING_PAPER';
-    result.mime     = 'PDF';
-    result.unitid   = match[5];
+  } else if (/^\/content\/([a-z-]+)$/i.test(path)) {
+    // /content/discussion-papers
+    result.rtype = 'TOC';
+    result.mime  = 'HTML';
+
+  } else if ((match = /^\/sites\/[a-z]+\/[a-z]+\/[a-z_]+\/[a-z]+([0-9]+).pdf$/i.exec(path)) !== null) {
+    // /sites/default/files/policy_insights/PolicyInsight83.pdf
+    result.rtype  = 'WORKING_PAPER';
+    result.mime   = 'PDF';
+    result.unitid = match[1];
   }
 
   return result;

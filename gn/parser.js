@@ -35,7 +35,7 @@ module.exports = new Parser(function analyseEC(parsedUrl, ec) {
       result.unitid = cleanLink;
       break;
     }
-  } else if ((match = /^\/doi\/[a-z]+\-([a-z]+)?$/.exec(path)) !== null) {
+  } else if ((match = /^\/doi\/[a-z]+-([a-z]+)?$/.exec(path)) !== null) {
     // /doi/article-pdf?article=HpeMS02_9
 
     if (match[1] === 'pdf') {

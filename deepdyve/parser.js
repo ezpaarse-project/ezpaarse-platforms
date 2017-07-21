@@ -1,12 +1,9 @@
 #!/usr/bin/env node
 
-// ##EZPAARSE
-
-/*jslint maxlen: 150*/
 'use strict';
-var Parser = require('../.lib/parser.js');
+const Parser = require('../.lib/parser.js');
 
-var patterns = {
+const patterns = {
   issn: '([0-9]{4}-[0-9]{3}[0-9xX])',
   issn_short: '(([0-9]{4})([0-9]{3}[0-9xX]))',
   doi: '((10[.][0-9]+)/([^.]+))',
@@ -24,17 +21,12 @@ var patterns = {
  * @return {Object} the result
  */
 module.exports = new Parser(function analyseEC(parsedUrl, ec) {
-  var result = {};
-  var path   = parsedUrl.pathname;
-  var param  = parsedUrl.query || {};
+  let result = {};
+  let path   = parsedUrl.pathname;
+  let param  = parsedUrl.query || {};
+  let match;
 
-  // use console.error for debuging
-  // console.error(parsedUrl);
-
-  var match, pi_string_doi;
-  var pi_regexp_issn_s, pi_regexp_doi;
-
-  if ((match = /^\/rental-link$/.exec(path)) !== null) {
+  if (/^\/rental-link$/i.test(path)) {
 
     result._granted = false; // These ECs are denied access
 
@@ -48,67 +40,85 @@ module.exports = new Parser(function analyseEC(parsedUrl, ec) {
 
     // default behavior
     // for example springer (don't need to change platform name)
-    if (param.affiliateId !== undefined) {
+    if (param.affiliateId) {
       result.platform = param.affiliateId;
       result.rtype    = 'ARTICLE';
-      if (param.journal) { result.print_identifier = param.journal; }
+
+      if (param.journal) {
+        result.print_identifier = param.journal;
+      }
     }
 
-    if (param.docId !== undefined) {
+    if (param.docId) {
       result.unitid = param.docId;
-      if (param.fieldName == 'journal_doi') {
+
+      if (param.fieldName === 'journal_doi') {
         result.doi = param.docId;
       }
     }
 
     // override defaults in same cases
     if (result.platform === 'elsevier' && param.journal) {
-      pi_regexp_issn_s = new RegExp(patterns.issn_short);
-      if ((match = param.journal.match(pi_regexp_issn_s))) {
+      result.platform = 'sd'; // real short name of platform
+
+      if ((match = param.journal.match(new RegExp(patterns.issn_short)))) {
         result.print_identifier = match[2] + '-' + match[3];
       }
-      result.platform = 'sd'; // real short name of platform
+
     } else if (result.platform === 'nature' && param.docId) {
-      pi_regexp_doi = new RegExp(patterns.DOI);
       result.platform = 'npg'; // real short name of platform
-      if ((match = param.docId.match(pi_regexp_doi))) {
-        pi_string_doi = match[3].match(/[a-z]{2,}/); // 10.1038/ng0692
-        result.title_id = pi_string_doi[0];
+
+      if ((match = param.docId.match(new RegExp(patterns.DOI)))) {
+        let piStringDoi = match[3].match(/[a-z]{2,}/); // 10.1038/ng0692
+
+        if (piStringDoi) {
+          result.title_id = piStringDoi[0];
+        }
       }
+
     } else if (result.platform === 'wiley' && param.docId) {
-      pi_regexp_doi = new RegExp(patterns.DOI);
-      if ((match = param.docId.match(pi_regexp_doi))) {
+
+      if ((match = param.docId.match(new RegExp(patterns.DOI)))) {
         // j.1600-0390.2012.00514.x
         // anie.201209878
         // 9781118268117.ch3
-        //console.log(match);
-        if (param.journal) { result.print_identifier = param.journal; }
+
+        if (param.journal) {
+          result.print_identifier = param.journal;
+        }
+
         if (match[3]) {
-          var m;
-          var r1, r2, r3;
+          let m;
+          let r1, r2, r3;
           r1 = new RegExp('^(' + patterns.issn + ')');
           r2 = new RegExp('j.(' + patterns.issn + ')');
-          r3 = new RegExp('(' + patterns.title_id + ')([^\/]+)');
+          r3 = new RegExp('(' + patterns.title_id + ')([^/]+)');
+
           if ((m = match[3].match(r1))) {
             result.print_identifier = m[1];
             result.rtype = 'TOC';
+
           } else if ((m = match[3].match(r2))) {
             result.print_identifier = m[1];
             result.rtype = 'TOC';
+
           } else if ((m = match[3].match(r3))) {
+            result.title_id = m[2];
+
             if (m[3].match('ch.+')) {
               result.rtype = 'BOOK_SECTION';
               result.print_identifier = m[2];
-            } else { result.rtype = 'TOC'; }
-            result.title_id = m[2];
+            } else {
+              result.rtype = 'TOC';
+            }
           }
         }
-      // } else {
-        // alert on new affiliateId
       }
     }
-    result.mime     = 'DEEPDYVE';
+
+    result.mime = 'DEEPDYVE';
   }
+
   return result;
 });
 

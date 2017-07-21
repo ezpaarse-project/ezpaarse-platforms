@@ -14,7 +14,7 @@ request(url, function (err, resp, body) {
   $('.resources-table a').each(function () {
     var testurl = $(this).attr('href');
     var match ;
-    if ((match = /http\:\/\/ieeexplore\.ieee\.org\/otherfiles\/IEEEXplore\_Global\_All\-([\w\W]+).txt/.exec(testurl)) !== null) {
+    if ((match = /http:\/\/ieeexplore\.ieee\.org\/otherfiles\/IEEEXplore_Global_All-([\w\W]+).txt/.exec(testurl)) !== null) {
       var titre = {};
       titre.titre = match[1];
       titre.url = testurl;

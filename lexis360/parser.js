@@ -13,26 +13,19 @@ const Parser = require('../.lib/parser.js');
 module.exports = new Parser(function analyseEC(parsedUrl, ec) {
   let result = {};
   let path   = parsedUrl.pathname;
-  // uncomment this line if you need parameters
-  let param = parsedUrl.query || {};
+  let param  = parsedUrl.query || {};
   let rawUrl = ec.url;
-
-  // use console.error for debuging
-  // console.error(parsedUrl);
-  //console.error('rawUrl: ' + rawUrl);
-
   let match;
 
   //if ((match = /^\/platform\/path\/to\/(document\-([0-9]+)\-test\.pdf)$/i.exec(path)) !== null) {
-  if ((match = /^\/Document\/([\w]+)\/([\w\-]+)$/i.exec(path)) !== null) {
-    //http://www.lexis360.fr/Document/droit_fiscal_29_septembre_2016_n_39/EQoofIo2izxXAW-NWTzsDkSV01q3G5HXt9qLfVgetxD6vmamzHEa7qFKMR2TVPp30?data=c0luZGV4PTEmckNvdW50PTE3NjIm&rndNum=869697884&tsid=search7_
-    result.rtype    = 'TOC';
-    result.mime     = 'HTML';
-    result.unitid   = param.rndNum;
-    let metadata = match[1];
-    let match2;
-    if ((match2 = /([a-z_]+)_(\d+_\w+_\d+)_n_(\d+)/i.exec(metadata)) !== null) {
-      result.title_id = match2[1];
+  if ((match = /^\/Document\/([\w]+)\/([\w-]+)$/i.exec(path)) !== null) {
+    // http://www.lexis360.fr/Document/droit_fiscal_29_septembre_2016_n_39/EQoofIo2izxXAW-NWTzsDkSV01q3G5HXt9qLfVgetxD6vmamzHEa7qFKMR2TVPp30?data=c0luZGV4PTEmckNvdW50PTE3NjIm&rndNum=869697884&tsid=search7_
+    result.rtype  = 'TOC';
+    result.mime   = 'HTML';
+    result.unitid = param.rndNum;
+
+    if ((match = /([a-z_]+)_(\d+_\w+_\d+)_n_(\d+)/i.exec(match[1])) !== null) {
+      result.title_id = match[1];
     }
   }
 
@@ -46,9 +39,9 @@ module.exports = new Parser(function analyseEC(parsedUrl, ec) {
   }
 
   else if ((match = /^\/wa_k4c.watag$/i.exec(path)) !== null) {
-    //plateforme webanalytics : on travaille avec l'URL brute, non parsée
+    // plateforme webanalytics : on travaille avec l'URL brute, non parsée
     let match3;
-    if ((match3 = /&wa_DocId=([0-9a-zA-Z_\-]+)&/i.exec(rawUrl)) !== null) {
+    if ((match3 = /&wa_DocId=([0-9a-zA-Z_-]+)&/i.exec(rawUrl)) !== null) {
       result.unitid = match3[1];
       let match3a;
       if ((match3a = /PS_([A-Z]+)/.exec(result.unitid)) !== null) {
@@ -111,9 +104,10 @@ module.exports = new Parser(function analyseEC(parsedUrl, ec) {
         let match6;
         if ((match6 = /&wa_UserAction=([a-zA-Z]+)&/i.exec(rawUrl)) !== null) {
           let userAction = match6[1];
+
           if (userAction === 'ViewDoc' || userAction === 'ChangeToc') {
-            result.rtype    = 'CODES';
-            result.mime     = 'HTML';
+            result.rtype = 'CODES';
+            result.mime  = 'HTML';
           }
         }
       }

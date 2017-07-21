@@ -1,18 +1,15 @@
 #!/usr/bin/env node
 
-// ##EZPAARSE
-
-/*jslint maxlen: 180*/
 'use strict';
-var Parser = require('../.lib/parser.js');
+const Parser = require('../.lib/parser.js');
 
 module.exports = new Parser(function analyseEC(parsedUrl) {
-  var result = {};
-  var param  = parsedUrl.query || {};
-  var url    = parsedUrl.href;
-  var match;
+  let result = {};
+  let param  = parsedUrl.query || {};
+  let url    = parsedUrl.href;
+  let domain = parsedUrl.hostname;
+  let match;
 
-  var domain = parsedUrl.hostname;
   result.title_id = domain;
 
   // if a param url is here, take it, else it's the path
@@ -24,7 +21,7 @@ module.exports = new Parser(function analyseEC(parsedUrl) {
     result.mime   = 'MISC';
     result.unitid = param.option;
 
-  } else if ((match = /\/articles\/\w+\/(abs|full_html|pdf|ref)\/([0-9]{4}\/[0-9]{2}|first)\/([\w\-]+)(?:\/[\w\-]+)?\.[a-z]{2,4}$/.exec(url)) !== null) {
+  } else if ((match = /\/articles\/\w+\/(abs|full_html|pdf|ref)\/([0-9]{4}\/[0-9]{2}|first)\/([\w-]+)(?:\/[\w-]+)?\.[a-z]{2,4}$/.exec(url)) !== null) {
     // /articles/apido/abs/2010/06/contents/contents.html
     // /articles/apido/abs/2010/06/m08176/m08176.html
     // /articles/medsci/full_html/2013/09/medsci2013298-9p765/F2.html

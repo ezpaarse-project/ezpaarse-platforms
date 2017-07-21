@@ -1,7 +1,5 @@
 #!/usr/bin/env node
 
-// ##EZPAARSE
-
 'use strict';
 
 const Parser = require('../.lib/parser.js');
@@ -13,7 +11,7 @@ module.exports = new Parser(function analyseEC(parsedUrl) {
   var params = parsedUrl.query || {};
   let match;
 
-  if ((match = /^\/([a-zA-Z0-9]+)\/journal\/v([a-z0-9]+)\/n([0-9]+|current)\/(pdf|full|abs|extref)\/([a-zA-Z0-9\.\-_]+)\.[a-z]{2,4}$/.exec(path)) !== null) {
+  if ((match = /^\/([a-zA-Z0-9]+)\/journal\/v([a-z0-9]+)\/n([0-9]+|current)\/(pdf|full|abs|extref)\/([a-zA-Z0-9.\-_]+)\.[a-z]{2,4}$/.exec(path)) !== null) {
     // http://www.nature.com/nrm/journal/vaop/ncurrent/full/nrm3940.html
     result.title_id = match[1];
     result.vol = match[2];
@@ -100,6 +98,7 @@ module.exports = new Parser(function analyseEC(parsedUrl) {
     result.unitid   = `${match[1]}/v${match[2]}/n${match[3]}`;
     result.rtype    = 'TOC';
     result.mime     = 'MISC';
+
   } else if ((match = /\/articles\/(?:doi:[0-9]+\.[0-9]+\/)?([a-zA-Z0-9\-_]+)\.epdf/.exec(path)) !== null) {
     // http://www.nature.com:80/articles/doi:10.1038/nature16976.epdf?parent_url=http%3A%2F%2Fwww.readcube.com%2Farticles%2F10.1038%252Fnature16976&pdf_url=http%3A%2F%2Fwww.nature.com%2Fnature%2Fjournal%2Fv531%2Fn7592%2Fpdf%2Fnature16976.pdf
     // http://www.nature.com:80/articles/nature16976.epdf?parent_url=http%3A%2F%2Fwww.readcube.com%2Farticles%2F10.1038%252Fnature16976&pdf_url=http%3A%2F%2Fwww.nature.com%2Fnature%2Fjournal%2Fv531%2Fn7592%2Fpdf%2Fnature16976.pdf
@@ -117,12 +116,14 @@ module.exports = new Parser(function analyseEC(parsedUrl) {
     result.title_id = match[1];
     result.rtype    = 'TOC';
     result.mime     = 'MISC';
-  } else if ((match = /\/news\/([^\/]+)/.exec(path)) !== null) {
+
+  } else if ((match = /\/news\/([^/]+)/.exec(path)) !== null) {
     // http://www.nature.com/news/work-resumes-on-lethal-flu-strains-1.12266
     result.unitid   = match[1];
     result.title_id = 'nature';
     result.rtype    = 'ARTICLE';
     result.mime     = 'HTML';
+
   } else if ((match = /\/polopoly_fs\/.+\/([a-zA-Z0-9]+)\.pdf/.exec(path)) !== null) {
     // http://www.nature.com/polopoly_fs/1.12266
     result.unitid   = match[1];
@@ -130,29 +131,27 @@ module.exports = new Parser(function analyseEC(parsedUrl) {
     result.title_id = 'nature';
     result.rtype    = 'ARTICLE';
     result.mime     = 'PDF';
+
   } else if (path === '/siteindex/index.html') {
     // http://www.nature.com/siteindex/index.html
     result.rtype = 'TOC';
     result.mime  = 'MISC';
-  }
 
-  else if ((match = /^\/(search|facet-search)/.exec(path)) !== null) {
+  } else if ((match = /^\/(search|facet-search)/.exec(path)) !== null) {
     // http://nano.nature.com.insb.bib.cnrs.fr/search?q=nanoparticules&workflow=article&term=concept%3A%22nanoparticles%22&new-search=true
     if (params.q) {
       result.mime   = 'HTML';
       result.rtype  = 'SEARCH';
       result.unitid = params.q;
     }
-  }
 
-  else if ((match = /^\/nano\/([a-z0-9\-]+)/i.exec(path)) !== null) {
+  } else if ((match = /^\/nano\/([a-z0-9-]+)/i.exec(path)) !== null) {
     // http://nano.nature.com.insb.bib.cnrs.fr/nano/GR-M21079
     result.mime   = 'HTML';
     result.rtype  = 'REF';
     result.unitid = match[1];
-  }
 
-  else if ((match = /^\/related-nanoobject-summary/i.exec(path)) !== null) {
+  } else if ((match = /^\/related-nanoobject-summary/i.exec(path)) !== null) {
     // http://nano.nature.com/related-nanoobject-summary?doi=10.2147/IJN.S59290
     if (params.doi) {
       result.mime   = 'MISC';

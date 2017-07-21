@@ -50,7 +50,7 @@ function scrapeGSW(callback) {
         });
 
         if (journal.print_identifier) {
-          let match = /(([a-z0-9\-]+)\s*([a-z0-9\-]+))/i.exec(journal.print_identifier);
+          let match = /(([a-z0-9-]+)\s*([a-z0-9-]+))/i.exec(journal.print_identifier);
           if (match) {
             journal.print_identifier  = match[1];
             journal.online_identifier = match[2];
