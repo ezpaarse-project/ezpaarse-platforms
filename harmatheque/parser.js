@@ -6,6 +6,7 @@ const Parser = require('../.lib/parser.js');
 module.exports = new Parser(function analyseEC(parsedUrl) {
   let result = {};
   let path   = parsedUrl.pathname;
+  let param  = parsedUrl.query || {};
   let match;
 
   if ((match = /^\/playebook\/(([a-z0-9_-]+?)(-[0-9]+)?)$/i.exec(path)) !== null) {
@@ -50,6 +51,17 @@ module.exports = new Parser(function analyseEC(parsedUrl) {
     result.mime     = 'HTML';
     result.title_id = match[2];
     result.unitid   = match[1];
+
+  } else if (/^\/dlp.php$/i.test(path)) {
+    // http://liseuse.harmattan.fr/dlp.php?a=9782343122533&b=1470951914&c=130&d=b5a0728d5dc7160cf81e9588dffdff93&e=js&f=HTQ2a88341f5c5c0fa3ca09d899cee91d9b&r=20170725085152
+    result.rtype = 'BOOK_SECTION';
+    result.mime  = 'HTML';
+
+    if (param.a) {
+      result.print_identifier = param.a;
+      result.title_id         = param.a;
+      result.unitid           = `${param.a}-${param.c || '0'}`;
+    }
 
   } else if (/^\/rechercheavancee\/result$/i.test(path)) {
     // http://www.harmatheque.com/rechercheavancee/result
