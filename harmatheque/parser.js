@@ -55,7 +55,7 @@ module.exports = new Parser(function analyseEC(parsedUrl) {
   } else if (/^\/dlp.php$/i.test(path)) {
     // http://liseuse.harmattan.fr/dlp.php?a=9782343122533&b=1470951914&c=130&d=b5a0728d5dc7160cf81e9588dffdff93&e=js&f=HTQ2a88341f5c5c0fa3ca09d899cee91d9b&r=20170725085152
     result.rtype = 'BOOK_SECTION';
-    result.mime  = 'HTML';
+    result.mime  = 'PDF';
 
     if (param.a) {
       result.print_identifier = param.a;
