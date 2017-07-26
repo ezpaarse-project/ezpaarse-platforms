@@ -10,7 +10,8 @@
   "contact": "stephane.gully at inist point fr",
 	"domains": [
     "www.harmatheque.com",
-    "pdf.harmattan.fr"
+    "pdf.harmattan.fr",
+    "liseuse.harmattan.fr"
 	],
   "pkb": false,
   "recognize": {
