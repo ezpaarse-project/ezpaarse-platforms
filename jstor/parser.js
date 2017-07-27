@@ -6,14 +6,15 @@
  */
 'use strict';
 
-var Parser = require('../.lib/parser.js');
+const Parser = require('../.lib/parser.js');
+const doiPrefix = '10.2307';
 
 module.exports = new Parser(function analyseEC(parsedUrl) {
-  var result = {};
-  var path   = parsedUrl.pathname;
-  var query  = parsedUrl.query;
+  let result = {};
+  let path   = parsedUrl.pathname;
+  let query  = parsedUrl.query;
 
-  var match;
+  let match;
 
   if ((match = /^\/journal\/([a-z0-9]+)$/i.exec(path)) !== null) {
     result.rtype    = 'TOC';
@@ -21,7 +22,7 @@ module.exports = new Parser(function analyseEC(parsedUrl) {
     result.unitid   = match[1];
     result.title_id = match[1];
 
-  } else if ((match = /^\/stable\/[0-9]{2}\.[0-9]{4}\/(([a-z]+)\.([0-9]+)\.([0-9]+)\.issue-([0-9]+))$/i.exec(path)) !== null) {
+  } else if ((match = /^\/stable\/10\.[0-9]+\/(([a-z]+)\.([0-9]+)\.([0-9]+)\.issue-([0-9]+))$/i.exec(path)) !== null) {
     // /stable/10.1525/cmr.2013.55.issue-2
     // /stable/10.5325/jmedirelicult.39.2.issue-2
     result.unitid   = match[1];
@@ -37,7 +38,7 @@ module.exports = new Parser(function analyseEC(parsedUrl) {
       result.vol = match[3];
     }
 
-  } else if ((match = /^\/stable\/(([0-9]{2}\.[0-9]{4}\/)?([a-z0-9]+))$/i.exec(path)) !== null) {
+  } else if ((match = /^\/stable\/((10\.[0-9]+\/)?([a-z0-9]+))$/i.exec(path)) !== null) {
     // /stable/10.1086/665036
     // /stable/10.7312/cari13424
     // /stable/i25703249
@@ -56,7 +57,7 @@ module.exports = new Parser(function analyseEC(parsedUrl) {
     result.rtype    = 'TOC';
     result.mime     = 'MISC';
 
-  } else if ((match = /^\/action\/showPublication$/i.exec(path)) !== null) {
+  } else if (/^\/action\/showPublication$/i.test(path)) {
     // /action/showPublication?journalCode=harvardreview
     if (query.journalCode) {
       result.title_id = query.journalCode;
@@ -65,7 +66,7 @@ module.exports = new Parser(function analyseEC(parsedUrl) {
       result.mime     = 'MISC';
     }
 
-  } else if ((match = /^\/stable\/(get_image|pdf|pdfplus)\/((10\.[0-9]+\/)?([\w.]+?))(?:\.pdf)?$/i.exec(path)) !== null) {
+  } else if ((match = /^\/stable\/(get_image|pdf|pdfplus)\/((10\.[0-9]+\/)?([a-z0-9.]+?))(?:\.pdf)?$/i.exec(path)) !== null) {
     // /stable/get_image/23098031
     // /stable/get_image/10.1525/gfc.2010.10.4.cover
     // /stable/get_image/10.1525/gfc.2010.10.4.103a
@@ -75,10 +76,7 @@ module.exports = new Parser(function analyseEC(parsedUrl) {
     // /stable/pdf/10.1525/gfc.2010.10.4.98a.pdf
 
     result.unitid = match[4];
-
-    if (match[3]) {
-      result.doi = match[2];
-    }
+    result.doi    = match[3] ? match[2] : `${doiPrefix}/${match[2]}`;
 
     switch (match[1]) {
     case 'get_image':
