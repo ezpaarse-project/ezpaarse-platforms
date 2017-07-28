@@ -12,23 +12,7 @@
 	"domains": [
     "muse.jhu.edu"
 	],
-  "baconprovider": "PROJECTMUSE",
-  "recognize": {
-    "rid": [
-      "title_id",
-      "print_identifier",
-      "unitid"
-    ],
-    "rtype": [
-      "BOOK_SECTION",
-      "ARTICLE",
-      "ABS",
-      "TOC"
-    ],
-    "mime": [
-      "HTML",
-      "PDF",
-      "MISC"
-    ]
+  "bacon": {
+    "provider": "PROJECTMUSE"
   }
 }

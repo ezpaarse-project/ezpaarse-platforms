@@ -9,25 +9,13 @@
   "docurl": "http://analogist.couperin.org/platforms/american-institute-of-physics/",
   "contact": "Thomas Jouneau",
   "pkb": true,
-  "baconprovider": "AIP",
+  "bacon": {
+    "provider": "AIP"
+  },
 	"domains": [
     "scitation.aip.org",
-    "aip.scitation.org",		
+    "aip.scitation.org",
     "www.aip.org",
     "publishing.aip.org"
-	],
-  "recognize": {
-    "rid": [
-      "title_id",
-      "unitid"
-    ],
-    "rtype": [
-      "TOC",
-      "ARTICLE"
-    ],
-    "mime": [
-      "HTML",
-      "PDF"
-    ]
-  }
+	]
 }

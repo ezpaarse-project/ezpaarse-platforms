@@ -10,23 +10,7 @@
   "contact": "yannick.schurter at inist.fr",
   "pkb": true,
   "pkb-domains": "title_id",
-   "baconprovider": "EDPSCIENCES",
-  "recognize": {
-    "rid": [
-      "title_id",
-      "print_identifier",
-      "unitid"
-    ],
-    "rtype": [
-      "TOC",
-      "ABS",
-      "ARTICLE",
-      "REF"
-    ],
-    "mime": [
-      "HTML",
-      "PDF",
-      "MISC"
-    ]
+  "bacon": {
+    "provider": "EDPSCIENCES"
   }
 }

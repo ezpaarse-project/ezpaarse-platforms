@@ -8,7 +8,9 @@
   "docurl": "http://analogist.couperin.org/platforms/springer/",
   "contact": "yannick.schurter at inist.fr, stephane.gully at inist.fr",
   "pkb": true,
-  "baconprovider": "SPRINGER",
+  "bacon": {
+    "provider": "SPRINGER"
+  },
   "domains": [
     "link.springer.com",
     "www.springerlink.com",
@@ -16,26 +18,5 @@
     "download.springer.com",
     "download-v2.springer.com",
     "academy.springer.com"
-  ],
-  "recognize": {
-    "rid": [
-      "title_id",
-      "doi",
-      "print_identifier",
-      "online_identifier",
-      "unitid"
-    ],
-    "rtype": [
-      "TOC",
-      "ARTICLE",
-      "ABS",
-      "BOOK",
-      "BOOKSERIE"
-    ],
-    "mime": [
-      "HTML",
-      "PDF",
-      "MISC"
-    ]
-  }
+  ]
 }
