@@ -3,48 +3,79 @@
 
 const fs      = require('fs');
 const path    = require('path');
-const co      = require('co');
 const request = require('request');
+const Listr   = require('listr');
 
 /**
  * Download the packages of a platform, given its root directory
  * @param {String} platformDir platform root directory
  */
-exports.downloadPackages = co.wrap(function* (platformDir) {
-  if (!platformDir) { return Promise.reject(new Error('no platform directory given')); }
+exports.downloadPackages = function (platformDir) {
+  if (!platformDir) {
+    console.error('no platform directory given');
+    process.exit(1);
+  }
 
   const { bacon } = require(path.resolve(platformDir, 'manifest.json'));
 
   if (!bacon || !bacon.provider) {
-    console.log('no bacon provider in the manifest');
-    return Promise.resolve();
+    return console.log('no bacon provider in the manifest');
   }
 
-  let list = yield exports.fetchPackagesList();
+  const tasks = [
+    {
+      title: 'Fetching Bacon packages list',
+      task (ctx) {
+        return fetchPackagesList().then(list => {
+          list = list.filter(pkg => pkg.provider === bacon.provider);
 
-  list = list.filter(pkg => pkg.provider === bacon.provider);
+          if (bacon.matches) {
+            let regs = bacon.matches.map(match => new RegExp(match, 'i'));
+            list = list.filter(pkg => regs.some(reg => reg.test(pkg.package)));
+          }
 
-  if (bacon.matches) {
-    let regs = bacon.matches.map(match => new RegExp(match, 'i'));
-    list = list.filter(pkg => regs.some(reg => reg.test(pkg.package)));
-  }
+          ctx.list = list;
+        });
+      }
+    },
+    {
+      title: 'Downloading packages',
+      task (ctx) {
+        const downloadTasks = ctx.list.map(pkg => {
+          const file = path.resolve(platformDir, 'pkb', `${pkg.package_id}.txt`);
 
-  for (const { package_id } of list) {
-    const file = path.resolve(platformDir, 'pkb', `${package_id}.txt`);
+          return {
+            title: pkg.package_id,
+            skip () {
+              return fileExists(file).then(exists => {
+                return exists && 'Package already exists';
+              });
+            },
+            task () {
+              return downloadPackage(pkg.package_id, file);
+            }
+          };
+        });
 
-    if (yield fileExists(file)) {
-      console.log(`  [No changes]  ${package_id}`);
-    } else {
-      console.log(`  [Downloading] ${package_id}`);
-      yield downloadPackage(package_id, file);
+        return new Listr(downloadTasks, {
+          concurrent: true,
+          exitOnError: false
+        });
+      }
     }
-  }
-});
+  ];
+
+  const listr = new Listr(tasks, { collapse: false });
+  listr.run().catch(e => {
+    console.error(e.message);
+    process.exit(1);
+  });
+};
 
 /**
  * Fetch the list of all packages
  */
-exports.fetchPackagesList = function () {
+function fetchPackagesList () {
   return new Promise((resolve, reject) => {
     request.get('https://bacon.abes.fr/list.json', (err, res, body) => {
       if (err) { return reject(err); }
@@ -59,7 +90,7 @@ exports.fetchPackagesList = function () {
       resolve(list.map(pkg => pkg.element));
     });
   });
-};
+}
 
 /**
  * Download a package
@@ -68,10 +99,17 @@ exports.fetchPackagesList = function () {
  */
 function downloadPackage(packageId, dest) {
   return new Promise((resolve, reject) => {
-    request.get(`https://bacon.abes.fr/package2kbart/${packageId}`)
-      .pipe(fs.createWriteStream(dest))
+    request.get(`https://bacon.abes.fr/package2kbart/${packageId}.txt`)
       .on('error', reject)
-      .on('finish', resolve);
+      .on('response', response => {
+        if (response.statusCode !== 200) {
+          return reject(new Error(`${response.statusCode} ${response.statusMessage}`));
+        }
+
+        response.pipe(fs.createWriteStream(dest))
+          .on('error', reject)
+          .on('finish', resolve);
+      });
   });
 }
 
