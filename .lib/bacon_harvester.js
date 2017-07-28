@@ -24,9 +24,9 @@ exports.downloadPackages = co.wrap(function* (platformDir) {
 
   list = list.filter(pkg => pkg.provider === bacon.provider);
 
-  if (bacon.filter) {
-    let reg = new RegExp(bacon.filter, 'i');
-    list = list.filter(pkg => reg.test(pkg.package));
+  if (bacon.matches) {
+    let regs = bacon.matches.map(match => new RegExp(match, 'i'));
+    list = list.filter(pkg => regs.some(reg => reg.test(pkg.package)));
   }
 
   for (const { package_id } of list) {
