@@ -4,14 +4,10 @@
   "domains": [
     "nouveau.europresse.com"
   ],
-  "recognize": {
-    "rid": [
-      "title_id",
-      "unitid"
-    ]
+  "bacon": {
+    "provider": "EUROPRESSE",
+    "matches": ["GLOBAL"]
   },
-  "baconprovider": "EUROPRESSE",
-  "bacon_match_packageid": "GLOBAL",
   "name": "nep",
   "longname": "Europresse nouvelle plateforme",
   "describe": "Recognizes the accesses to the platform Europresse nouvelle plateforme",

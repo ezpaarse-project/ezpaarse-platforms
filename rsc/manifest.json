@@ -5,22 +5,8 @@
   "domains": [
     "pubs.rsc.org"
   ],
-  "baconprovider": "RSC",
-  "recognize": {
-    "rid": [
-      "print_identifier",
-      "title_id"
-    ],
-    "rtype": [
-      "TOC",
-      "ARTICLE",
-      "BOOK_SECTION"
-    ],
-    "mime": [
-      "MISC",
-      "HTML",
-      "PDF"
-    ]
+  "bacon": {
+    "provider": "RSC"
   },
   "name": "rsc",
   "longname": "Royal Society of Chemistry",

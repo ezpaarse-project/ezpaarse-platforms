@@ -4,24 +4,8 @@
   "domains": [
      "www.degruyter.com"
   ],
-  "baconprovider": "DEGRUYTER",
-  "recognize": {
-    "rid": [
-      "title_id",
-      "issue",
-      "publication_date",
-      "unitid",
-      "doi"
-    ],
-    "rtype": [
-      "TOC",
-      "PREVIEW",
-      "ARTICLE"
-    ],
-    "mime": [
-      "HTML",
-      "PDF"
-    ]
+  "bacon": {
+    "provider": "DEGRUYTER"
   },
   "name": "degruyter",
   "longname": "De Gruyter",

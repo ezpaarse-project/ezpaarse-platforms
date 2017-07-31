@@ -13,23 +13,7 @@
     "onlinelibrary.wiley.com",
     "agupubs.onlinelibrary.wiley.com"
 	],
-  "baconprovider":"WILEY",
-  "recognize": {
-    "rid": [
-      "title_id",
-      "online_identifier",
-      "unitid"
-    ],
-    "rtype": [
-      "TOC",
-      "ARTICLE",
-      "ABS",
-      "BOOK_SECTION"
-    ],
-    "mime": [
-      "HTML",
-      "PDF",
-      "MISC"
-    ]
+  "bacon": {
+    "provider": "WILEY"
   }
 }

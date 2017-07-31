@@ -12,25 +12,7 @@
 	"domains": [
     "www.cairn.info"
 	],
-   "baconprovider": "CAIRN",
-  "recognize": {
-    "rid": [
-      "title_id",
-      "print_identifier",
-      "unitid"
-    ],
-    "rtype": [
-      "BOOKMARK",
-      "BOOK_SECTION",
-      "ARTICLE",
-      "ABS",
-      "PREVIEW",
-      "TOC"
-    ],
-    "mime": [
-      "HTML",
-      "PDF",
-      "MISC"
-    ]
+  "bacon": {
+    "provider": "CAIRN"
   }
 }

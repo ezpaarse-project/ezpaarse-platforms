@@ -13,20 +13,7 @@
     "www.nature.com",
     "nano.nature.com"
 	],
-   "baconprovider": "NPG",
-  "recognize": {
-    "rid": [
-      "title_id",
-      "unitid"
-    ],
-    "rtype": [
-      "ARTICLE",
-      "TOC"
-    ],
-    "mime": [
-      "HTML",
-      "PDF",
-      "MISC"
-    ]
+  "bacon": {
+    "provider": "NPG"
   }
 }

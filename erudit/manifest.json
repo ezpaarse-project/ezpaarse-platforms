@@ -12,21 +12,7 @@
     "www.erudit.org",
     "etudinuit.erudit.org"
   ],
-   "baconprovider": "ERUDIT",
-  "recognize": {
-    "rid": [
-      "title_id",
-      "unitid"
-    ],
-    "rtype": [
-      "TOC",
-      "ARTICLE",
-      "REF"
-    ],
-    "mime": [
-      "HTML",
-      "PDF",
-      "MISC"
-    ]
+  "bacon": {
+    "provider": "ERUDIT"
   }
 }

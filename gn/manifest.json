@@ -4,12 +4,9 @@
   "domains": [
     "www.classiques-garnier.com"
   ],
-  "recognize": {
-    "rid": [
-      "unitid"
-    ]
+  "bacon": {
+    "provider": "CLASSIQUESGARNIER"
   },
-  "baconprovider": "CLASSIQUESGARNIER",
   "name": "gn",
   "longname": "Garnier Numérique",
   "describe": "Recognizes the accesses to the platform Garnier Numérique",
