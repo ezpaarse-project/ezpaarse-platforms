@@ -34,12 +34,12 @@ module.exports = new Parser(function analyseEC(parsedUrl, ec) {
       result.unitid = match[2];
     }
 
-  } else if ((match = /^\/([a-z]+)(?:\/articles)?\/[a-z0-9]+\/pdf\/[a-z0-9_-]*?([a-z0-9-]+)\.pdf$/i.exec(path)) !== null) {
+  } else if ((match = /^\/([a-z]+)(?:\/articles)?\/([a-z0-9]+)\/pdf\/([a-z0-9_-]+)\.pdf$/i.exec(path)) !== null) {
     // /pmc/articles/PMC2378811/pdf/canfamphys00307-0091.pdf
     // /books/NBK236371/pdf/Bookshelf_NBK236371.pdf
     result.mime   = 'PDF';
     result.rtype  = match[1] === 'books' ? 'BOOK': 'ARTICLE';
-    result.unitid = match[2];
+    result.unitid = `${match[2]}/${match[3]}`;
 
   } else if ((match = /^\/[a-z]+\/(articles|issues)\/([a-z0-9]+)(\/epub)?\/?$/i.exec(path)) !== null) {
     // /pmc/articles/PMC2378811/?page=1
