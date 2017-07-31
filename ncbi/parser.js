@@ -27,9 +27,12 @@ module.exports = new Parser(function analyseEC(parsedUrl, ec) {
   } else if ((match = /^\/([a-z]+)\/([a-z0-9]+)\/?$/i.exec(path)) !== null) {
     // /pubmed/28750474
     // /books/NBK435759/
-    result.mime   = 'HTML';
-    result.rtype  = match[1] === 'books' ? 'BOOK_SECTION' : 'ABS';
-    result.unitid = match[2];
+
+    if (!/^[a-z]+$/.test(match[2])) {
+      result.mime   = 'HTML';
+      result.rtype  = match[1] === 'books' ? 'BOOK_SECTION' : 'ABS';
+      result.unitid = match[2];
+    }
 
   } else if ((match = /^\/([a-z]+)(?:\/articles)?\/[a-z0-9]+\/pdf\/[a-z0-9_-]*?([a-z0-9-]+)\.pdf$/i.exec(path)) !== null) {
     // /pmc/articles/PMC2378811/pdf/canfamphys00307-0091.pdf
