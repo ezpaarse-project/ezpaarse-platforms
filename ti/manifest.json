@@ -19,6 +19,10 @@
       "PDF"
     ]
   },
+  "bacon": {
+    "provider": "TI",
+    "matches": ["^GLOBAL_ALLTITLES$"]
+  },
   "name": "ti",
   "longname": "Techniques de l'Ingénieur",
   "describe": "Identifie les consultations de la plateforme Techniques de l'Ingénieur",
