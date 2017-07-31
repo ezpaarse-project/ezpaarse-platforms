@@ -1,10 +1,7 @@
 #!/usr/bin/env node
 
-// ##EZPAARSE
-
-/*jslint maxlen: 150*/
 'use strict';
-var Parser = require('../.lib/parser.js');
+const Parser = require('../.lib/parser.js');
 
 /**
  * Identifie les consultations de la plateforme ZentralBlatt
@@ -14,47 +11,40 @@ var Parser = require('../.lib/parser.js');
  * @return {Object} the result
  */
 module.exports = new Parser(function analyseEC(parsedUrl, ec) {
-  var result = {};
-  var path   = parsedUrl.pathname;
-  // uncomment this line if you need parameters
-  var param  = parsedUrl.query || {};
-
-  // use console.error for debuging
-  // console.error(parsedUrl);
-
-  var match;
+  let result = {};
+  let path   = parsedUrl.pathname;
+  let param  = parsedUrl.query || {};
+  let match;
 
   if ((match = /^\/pdf\/([0-9.]+)\.pdf$/.exec(path)) !== null) {
     // https://zbmath.org/pdf/06497268.pdf
-    result.rtype    = 'REF';
-    result.mime     = 'PDF';
-    //unitid is a crucial information needed to filter double-clicks phenomenon, like described by COUNTER
-    //it described the most fine-grained of what's being accessed by the user
-    //it can be a DOI, an internal identifier or a part of the accessed URL
-    //see http://ezpaarse.couperin.org/doc/ec-attributes.html#description-de-unitid for more details
-    result.unitid   = match[1];
+    result.rtype  = 'REF';
+    result.mime   = 'PDF';
+    result.unitid = match[1];
+
   } else if ((match = /^\/xml\/([0-9.]+)\.xml$/.exec(path)) !== null) {
     // https://zbmath.org/xml/06497268.xml
-    result.rtype    = 'REF';
-    result.mime     = 'XML';
-    //see the comment block above
-    result.unitid   = match[1];
+    result.rtype  = 'REF';
+    result.mime   = 'XML';
+    result.unitid = match[1];
+
   } else if ((match = /^\/bibtex\/([0-9.]+)\.bib$/.exec(path)) !== null) {
     // https://zbmath.org/bibtex/06497268.bib
-    result.rtype    = 'REF';
-    result.mime     = 'BIBTEX';
-    //see the comment block above
-    result.unitid   = match[1];
-  } else if ((match = /^\/(authors|journals|classification)\/\?*$/.exec(path)) !== null) {
+    result.rtype  = 'REF';
+    result.mime   = 'BIBTEX';
+    result.unitid = match[1];
+
+  } else if (/^\/(authors|journals|classification)\/?$/.test(path)) {
     // https://zbmath.org/authors/?...
-    result.rtype    = 'SEARCH';
-    result.mime     = 'HTML';
-    result.unitid   = '0';
+    result.rtype  = 'SEARCH';
+    result.mime   = 'HTML';
+    result.unitid = '0';
+
   } else if (param && param.q) {
     // https://zbmath.org/?q=an:06210326
-    result.rtype    = 'ABS';
-    result.mime     = 'HTML';
-    result.unitid   = param.q;
+    result.rtype  = 'ABS';
+    result.mime   = 'HTML';
+    result.unitid = param.q;
   }
 
   return result;
