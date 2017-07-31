@@ -24,7 +24,7 @@ exports.downloadPackages = function (platformDir) {
 
   const tasks = [
     {
-      title: 'Fetching Bacon packages list',
+      title: 'Fetch Bacon packages list',
       task (ctx) {
         return fetchPackagesList().then(list => {
           list = list.filter(pkg => pkg.provider === bacon.provider);
@@ -39,7 +39,13 @@ exports.downloadPackages = function (platformDir) {
       }
     },
     {
-      title: 'Downloading packages',
+      title: 'Check PKB folder',
+      task (ctx) {
+        return makeDir(path.resolve(platformDir, 'pkb'));
+      }
+    },
+    {
+      title: 'Download packages',
       task (ctx) {
         const downloadTasks = ctx.list.map(pkg => {
           const file = path.resolve(platformDir, 'pkb', `${pkg.package_id}.txt`);
@@ -64,6 +70,7 @@ exports.downloadPackages = function (platformDir) {
       }
     }
   ];
+
 
   const listr = new Listr(tasks, { collapse: false });
   listr.run().catch(e => {
@@ -110,6 +117,19 @@ function downloadPackage(packageId, dest) {
           .on('error', reject)
           .on('finish', resolve);
       });
+  });
+}
+
+/**
+ * Create a directory
+ * @param {String} dir path of the directory
+ */
+function makeDir(dir) {
+  return new Promise((resolve, reject) => {
+    fs.mkdir(dir, err => {
+      if (err && err.code !== 'EEXIST') { return reject(err); }
+      resolve();
+    });
   });
 }
 
