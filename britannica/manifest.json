@@ -4,7 +4,8 @@
   "domains": [
     "global.britannica.com",
     "academic.eb.com",
-    "www.britannica.com"
+    "www.britannica.com",
+    "library.eb.co.uk"
   ],
   "recognize": {
     "rid": [

@@ -1,5 +1,5 @@
 {
-  "version": "2017-02-02",
+  "version": "2017-06-23",
   "status": "beta",
   "domains": [
     "oeb.griffith.ox.ac.uk"
@@ -18,7 +18,7 @@
   "name": "oxoeb",
   "longname": "Online Egyptological Bibliography, University of Oxford",
   "describe": "Recognizes the accesses to the platform Online Egyptological Bibliography, University of Oxford",
-  "docurl": "http://ang.couperin.org/platforms/to_be_completed/",
+  "docurl": "http://ang.couperin.org/platforms/5900f46a017cdcf79200e752",
   "contact": "Aurelian Popescu",
   "pkb": false
 }

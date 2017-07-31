@@ -1,0 +1,29 @@
+{
+  "version": "2017-03-22",
+  "status": "beta",
+  "domains": [
+    "www.engineeringvillage.com"
+  ],
+  "recognize": {
+     "rid": [
+      "unitid"
+    ],
+    "rtype": [
+      "ABS",
+      "PREVIEW"
+    ],
+    "mime": [
+      "HTML",
+      "PDF",
+      "XLS",
+      "TEXT",
+      "RIS"
+    ]
+  },
+  "name": "engv",
+  "longname": "Engineering Village",
+  "describe": "Recognizes the accesses to the platform Engineering Village",
+  "docurl": "http://ang.couperin.org/platforms/542571c23463a4ae5b94b698",
+  "contact": "Aurelian Popescu",
+  "pkb": false
+}

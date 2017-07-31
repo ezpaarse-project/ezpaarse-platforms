@@ -1,0 +1,29 @@
+{
+  "version": "2017-06-15",
+  "status": "beta",
+  "domains": [
+    "www.scientificamerican.com"
+  ],
+  "recognize": {
+    "rid": [
+      "unitid",
+      "title_id"
+    ],
+    "rtype": [
+      "SEARCH",
+      "AUDIO",
+      "VIDEO",
+      "ARTICLE"
+    ],
+    "mime": [
+      "MISC",
+      "HTML"
+    ]
+  },
+  "name": "sciam",
+  "longname": "Scientific American",
+  "describe": "Recognizes the accesses to the platform Scientific American",
+  "docurl": "http://ang.couperin.org/platforms/594ba453b86333032f60cd43",
+  "contact": "Aurelian Popescu",
+  "pkb": false
+}
