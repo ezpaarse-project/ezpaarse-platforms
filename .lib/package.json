@@ -13,6 +13,7 @@
     "url": "git+https://github.com/ezpaarse-project/ezpaarse-platforms.git"
   },
   "devDependencies": {
+    "cheerio": "^1.0.0-rc.2",
     "co": "^4.6.0",
     "csvtojson": "^1.1.7",
     "eslint": "^4.2.0",
