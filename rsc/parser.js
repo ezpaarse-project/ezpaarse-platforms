@@ -4,6 +4,8 @@
 const Parser = require('../.lib/parser.js');
 const URL    = require('url');
 
+const doiPrefix = '10.1039';
+
 /**
  * Identifie les consultations de la plateforme Royal Society of Chemistry
  * @param  {Object} parsedUrl an object representing the URL to analyze
@@ -14,6 +16,7 @@ const URL    = require('url');
 module.exports = new Parser(function analyseEC(parsedUrl, ec) {
   let result = {};
   let path   = parsedUrl.pathname;
+  let param  = parsedUrl.query || {};
 
   let match;
   let hashedUrl;
@@ -22,45 +25,50 @@ module.exports = new Parser(function analyseEC(parsedUrl, ec) {
     hashedUrl = URL.parse(parsedUrl.hash.replace('#!', '/?'), true);
   }
 
-  if ((match = /^\/en\/journals\/journalissues\/([a-zA-Z]{2,})$/.exec(path)) !== null) {
-    // https://pubs-rsc-org.bibliopam-evry.univ-evry.fr/en/journals/journalissues/ay
+  if ((match = /^\/en\/journals\/journalissues\/([a-zA-Z]{2,})$/i.exec(path)) !== null) {
+    // /en/journals/journalissues/ay
     // #!issueid=ay006014&type=current&issnprint=1759-9660
     result.rtype    = 'TOC';
     result.mime     = 'MISC';
     result.title_id = match[1];
+
     if (hashedUrl && hashedUrl.query) {
       if (hashedUrl.query.issnprint) { result.print_identifier = hashedUrl.query.issnprint; }
       if (hashedUrl.query.issueid) { result.unitid = hashedUrl.query.issueid; }
     }
-  } else if ((match = /^\/en\/content\/article(html|pdf)\/([0-9]+)\/([^/]+)\/([^/]+)$/.exec(path)) !== null) {
-    // https://pubs-rsc-org.bibliopam-evry.univ-evry.fr/en/content/articlehtml/2014/rp/c4rp00006d
+
+  } else if ((match = /^\/en\/content\/article(html|pdf)\/([0-9]+)\/([a-z0-9]+)\/([a-z0-9]+)$/i.exec(path)) !== null) {
+    // /en/content/articlehtml/2014/rp/c4rp00006d
     result.rtype    = 'ARTICLE';
     result.mime     = match[1].toUpperCase();
     result.title_id = match[3].toLowerCase();
     result.unitid   = match[4].toLowerCase();
-    result.doi      = '10.1039/' + match[4];
+    result.doi      = `${doiPrefix}/${result.unitid}`;
 
     result.publication_date = match[2];
 
-  } else if ((match = /^\/en\/content\/ebook\/([^/]+)$/.exec(path)) !== null) {
-    // https://pubs-rsc-org.bibliopam-evry.univ-evry.fr/en/content/ebook/978-1-84973-424-0#!divbookcontent
-    if (hashedUrl && hashedUrl.query && hashedUrl.query.divbookcontent === '') { result.rtype    = 'TOC'; }
-    result.mime     = 'MISC';
-    result.title_id = result.unitid = result.print_identifier = match[1];
-    result.print_identifier = match[1].split('#')[0];
+  } else if ((match = /^\/en\/content\/ebook\/([0-9-]+)$/i.exec(path)) !== null) {
+    // /en/content/ebook/978-1-84973-424-0#!divbookcontent
+    if (hashedUrl && hashedUrl.query && !hashedUrl.query.divbookcontent) {
+      result.rtype = 'TOC';
+    }
 
-  } else if ((match = /^\/en\/content\/chapterpdf\/([0-9]+)\/([^/]+)$/.exec(path)) !== null) {
-    // https://pubs-rsc-org.bibliopam-evry.univ-evry.fr/en/content/chapterpdf/2013/9781849734738-00001
-    // ?isbn=978-1-84973-424-0&sercode=bk
+    result.mime             = 'MISC';
+    result.unitid           = match[1].replace(/-/g, '');
+    result.print_identifier = match[1].replace(/-/g, '');
+
+  } else if ((match = /^\/en\/content\/chapterpdf\/([0-9]+)\/(([0-9]+)-[0-9]+)$/i.exec(path)) !== null) {
+    // /en/content/chapterpdf/2013/9781849734738-00001?isbn=978-1-84973-424-0&sercode=bk
     result.rtype  = 'BOOK_SECTION';
     result.mime   = 'PDF';
     result.unitid = match[2];
-    result.doi    = '10.1039/' + match[2];
+    result.doi    = `${doiPrefix}/${match[2]}`;
 
-    result.publication_date = match[1];
+    result.online_identifier = match[3];
+    result.publication_date  = match[1];
 
-    if (parsedUrl.query && parsedUrl.query.isbn) {
-      result.title_id = result.print_identifier = parsedUrl.query.isbn;
+    if (param.isbn) {
+      result.print_identifier = param.isbn.replace(/-/g, '');
     }
   }
 
