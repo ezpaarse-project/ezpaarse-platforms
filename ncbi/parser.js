@@ -18,14 +18,10 @@ module.exports = new Parser(function analyseEC(parsedUrl, ec) {
   let match;
 
 
-  if ((match = /^\/([a-z]+)(\/advanced)?\/?$/i.exec(path)) !== null) {
+  if ((match = /^\/[a-z]+\/advanced\/?$/i.exec(path)) !== null) {
     // /pubmed/advanced
-    // /pubmed/?term=blood
-
-    if (match[1] !== 'stat') {
-      result.rtype = match[2] ? 'SEARCH' : 'TOC';
-      result.mime  = 'HTML';
-    }
+    result.rtype = 'SEARCH';
+    result.mime  = 'HTML';
 
   } else if ((match = /^\/([a-z]+)\/([a-z0-9]+)\/?$/i.exec(path)) !== null) {
     // /pubmed/28750474
