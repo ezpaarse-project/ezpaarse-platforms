@@ -1,0 +1,92 @@
+publication_title	print_identifier	online_identifier	date_first_issue_online	num_first_vol_online	num_first_issue_online	date_last_issue_online	num_last_vol_online	num_last_issue_online	title_url	first_author	title_id	embargo_info	coverage_depth	coverage_notes	publisher_name	publication_type	date_monograph_published_print	date_monograph_published_online	monograph_volume	monograph_edition	first_editor	parent_publication_title_id	preceding_publication_title_id	access_type	discipline
+Abstract and Applied Analysis	1085-3375	1687-0409							http://projecteuclid.org/aaa		aaa				Hindawi	serial									Applied Mathematics, Mathematics
+Acta Mathematica	0001-5962	1871-2509							http://projecteuclid.org/acta		acta				Institut Mittag-Leffler	serial								F	Mathematics
+Advances in Applied Probability	0001-8678	1475-6064							http://projecteuclid.org/aap		aap				Applied Probability Trust	serial								P	Statistics and Probability
+Advances in Differential Equations	1079-9389								http://projecteuclid.org/ade		ade				Khayyam Publishing, Inc.	serial								P	Applied Mathematics, Mathematics
+Advances in Theoretical and Mathematical Physics	1095-0761	1095-0753							http://projecteuclid.org/atmp		atmp				International Press of Boston	serial									Applied Mathematics, Mathematical Physics
+African Diaspora Journal of Mathematics									http://projecteuclid.org/adjm		adjm				Mathematical Research Publishers	serial									Mathematics
+Afrika Statistika									http://projecteuclid.org/as		as				The Statistics and Probability African Society	serial									Statistics and Probability
+Annales de l'Institut Henri Poincaré, Probabilités et Statistiques	0246-0203								http://projecteuclid.org/aihp		aihp				Institut Henri Poincaré	serial									Statistics and Probability
+The Annals of Applied Probability	1050-5164	2168-8737							http://projecteuclid.org/aoap		aoap				The Institute of Mathematical Statistics	serial									Statistics and Probability
+The Annals of Applied Statistics	1932-6157	1941-7330							http://projecteuclid.org/aoas		aoas				The Institute of Mathematical Statistics	serial									Statistics and Probability
+Annals of Functional Analysis		2008-8752							http://projecteuclid.org/afa		afa				Duke University Press	serial									Mathematics
+The Annals of Mathematical Statistics	0003-4851	2168-8990							http://projecteuclid.org/aoms		aoms				The Institute of Mathematical Statistics	serial								F	Statistics and Probability
+The Annals of Probability	0091-1798								http://projecteuclid.org/aop		aop				The Institute of Mathematical Statistics	serial									Statistics and Probability
+The Annals of Statistics	0090-5364	2168-8966							http://projecteuclid.org/aos		aos				The Institute of Mathematical Statistics	serial									Statistics and Probability
+Arkiv för Matematik	0004-2080	1871-2487							http://projecteuclid.org/afm		afm				Institut Mittag-Leffler	serial								F	Mathematics
+Asian Journal of Mathematics	1093-6106	1945-0036							http://projecteuclid.org/ajm		ajm				International Press of Boston	serial									Mathematics
+Banach Journal of Mathematical Analysis		1735-8787							http://projecteuclid.org/bjma		bjma				Duke University Press	serial									Mathematics
+Bayesian Analysis	1936-0975	1931-6690							http://projecteuclid.org/ba		ba				International Society for Bayesian Analysis	serial								F	Statistics and Probability
+Berkeley Symposium on Mathematical Statistics and Probability	0097-0433								http://projecteuclid.org/bsmsp		bsmsp				University of California Press	serial								F	Statistics and Probability
+Bernoulli	1350-7265								http://projecteuclid.org/bj		bj				Bernoulli Society for Mathematical Statistics and Probability	serial									Statistics and Probability
+Books by Independent Authors									http://projecteuclid.org/bia		bia				Project Euclid (distributor)	monograph								F	Mathematics
+Brazilian Journal of Probability and Statistics	0103-0752								http://projecteuclid.org/bjps		bjps				Brazilian Statistical Association	serial									Statistics and Probability
+Bulletin of Symbolic Logic	1079-8986	1943-5894							http://projecteuclid.org/bsl		bsl				Association for Symbolic Logic	serial								P	Logic
+Bulletin of the American Mathematical Society	0002-9904								http://projecteuclid.org/bams		bams				American Mathematical Society	serial								F	Mathematics
+Bulletin of the Belgian Mathematical Society - Simon Stevin	1370-1444								http://projecteuclid.org/bbms		bbms				The Belgian Mathematical Society	serial									Mathematics
+Communications in Information & Systems	1526-7555	2163-4548							http://projecteuclid.org/cis		cis				International Press of Boston	serial									Applied Mathematics, Computer Science
+Communications in Mathematical Analysis		1938-9787							http://projecteuclid.org/cma		cma				Mathematical Research Publishers	serial									Mathematics
+Communications in Mathematical Physics	0010-3616	1432-0916							http://projecteuclid.org/cmp		cmp				Springer	serial								F	Applied Mathematics, Mathematical Physics, Mathematics
+Communications in Mathematical Sciences	1539-6746	1945-0796							http://projecteuclid.org/cms		cms				International Press of Boston	serial									Mathematics
+Cornell University Library Historical Math Monographs									http://projecteuclid.org/chmm		chmm					monograph								F	Mathematics
+Current Developments in Mathematics	1089-6384								http://projecteuclid.org/cdm		cdm				International Press of Boston	serial									Mathematics
+Differential and Integral Equations	0893-4983								http://projecteuclid.org/die		die				Khayyam Publishing, Inc.	serial								P	Applied Mathematics, Mathematics
+Duke Mathematical Journal	0012-7094	1547-7398							http://projecteuclid.org/dmj		dmj				Duke University Press	serial								P	Mathematics
+Electronic Communications in Probability									http://projecteuclid.org/ecp		ecp				The Institute of Mathematical Statistics and the Bernoulli Society	serial								F	Statistics and Probability
+Electronic Journal of Probability		1083-6489							http://projecteuclid.org/ejp		ejp				The Institute of Mathematical Statistics and the Bernoulli Society	serial								F	Statistics and Probability
+Electronic Journal of Statistics		1935-7524							http://projecteuclid.org/ejs		ejs				The Institute of Mathematical Statistics and the Bernoulli Society	serial								F	Statistics and Probability
+Experimental Mathematics	1058-6458								http://projecteuclid.org/em		em				A K Peters, Ltd.	serial									Computer Science, Mathematics
+Functiones et Approximatio Commentarii Mathematici	0208-6573								http://projecteuclid.org/facm		facm				Adam Mickiewicz University, Faculty of Mathematics and Computer Science	serial									Mathematics
+Hiroshima Mathematical Journal	0386-3026								http://projecteuclid.org/hmj		hmj				Hiroshima University, Department of Mathematics	serial								F	Mathematics
+Hokkaido Mathematical Journal	0385-4035								http://projecteuclid.org/hokmj		hokmj				Hokkaido University, Department of Mathematics	serial									Mathematics
+Homology, Homotopy and Applications	1532-0073	1532-0081							http://projecteuclid.org/hha		hha				International Press of Boston	serial									Mathematics
+Illinois Journal of Mathematics	0019-2082								http://projecteuclid.org/ijm		ijm				University of Illinois at Urbana-Champaign, Department of Mathematics	serial									Mathematics
+Institute of Mathematical Statistics Collections	1939-4039								http://projecteuclid.org/imsc		imsc				The Institute of Mathematical Statistics	monograph								F	Statistics and Probability
+Institute of Mathematical Statistics Lecture Notes - Monograph Series	0749-2170								http://projecteuclid.org/lnms		lnms				The Institute of Mathematical Statistics	monograph								F	Statistics and Probability
+International Journal of Differential Equations	1687-4099	1687-4102							http://projecteuclid.org/ijde		ijde				Hindawi	serial									Applied Mathematics, Mathematics
+International Statistical Review	0306-7734								http://projecteuclid.org/isr		isr				International Statistical Institute	serial									Statistics and Probability
+Internet Mathematics	1542-7951	1944-9488							http://projecteuclid.org/im		im				A K Peters, Ltd.	serial									Applied Mathematics, Computer Science
+Japan Journal of Industrial and Applied Mathematics	0916-7005								http://projecteuclid.org/jjiam		jjiam				Japan Society for Industrial and Applied Mathematics	serial									Applied Mathematics
+Journal of Applied Mathematics									http://projecteuclid.org/jam		jam				Hindawi	serial									Applied Mathematics
+Journal of Applied Probability	0021-9002	1475-6072							http://projecteuclid.org/jap		jap				Applied Probability Trust	serial								P	Statistics and Probability
+Journal of Commutative Algebra	1939-2346								http://projecteuclid.org/jca		jca				Rocky Mountain Mathematics Consortium	serial									Mathematics
+Journal of Differential Geometry									http://projecteuclid.org/jdg		jdg				Lehigh University	serial									Mathematics
+Journal of Generalized Lie Theory and Applications	1736-5279	1736-4337							http://projecteuclid.org/jglta		jglta				OMICS International	serial									Mathematics, Mathematical Physics
+Journal of Geometry and Symmetry in Physics	1312-5192	1314-5673							http://projecteuclid.org/jgsp		jgsp				Institute of Biophysics and Biomedical Engineering, Bulgarian Academy of Sciences	serial									Applied Mathematics, Mathematical Physics, Mathematics
+Journal of Integral Equations and Applications	0897-3962								http://projecteuclid.org/jiea		jiea				Rocky Mountain Mathematics Consortium	serial									Mathematics, Applied Mathematics
+Journal of Physical Mathematics	2090-0899	2090-0902							http://projecteuclid.org/jpm		jpm				OMICS International	serial									Mathematics, Mathematical Physics
+Journal of Symbolic Logic	0022-4812	1943-5886							http://projecteuclid.org/jsl		jsl				Association for Symbolic Logic	serial								P	Logic
+Journal of Symplectic Geometry	1527-5256	1540-2347							http://projecteuclid.org/jsg		jsg				International Press of Boston	serial									Mathematics
+Journal of the Mathematical Society of Japan	0025-5645	1881-1167							http://projecteuclid.org/jmsj		jmsj				Mathematical Society of Japan	serial									Mathematics
+Kodai Mathematical Journal	0023-2599								http://projecteuclid.org/kmj		kmj				Tokyo Institute of Technology, Department of Mathematics	serial									Mathematics
+Kyoto Journal of Mathematics	0368-8887								http://projecteuclid.org/kjm		kjm				Duke University Press	serial									Mathematics
+Lecture Notes in Logic									http://projecteuclid.org/lnl		lnl				Association for Symbolic Logic	monograph								F	Logic
+Mathematical Society of Japan Memoirs		2189-1494							http://projecteuclid.org/msjm		msjm				Mathematical Society of Japan	monograph									Mathematics
+Methods and Applications of Analysis	1073-2772	1945-0001							http://projecteuclid.org/maa		maa				International Press of Boston	serial									Applied Mathematics
+The Michigan Mathematical Journal	0026-2285	1945-2365							http://projecteuclid.org/mmj		mmj				University of Michigan, Department of Mathematics	serial									Mathematics
+Missouri Journal of Mathematical Sciences	0899-6180	1085-2581							http://projecteuclid.org/mjms		mjms				University of Central Missouri, Department of Mathematics and Computer Science	serial									Mathematics
+Nagoya Mathematical Journal	0027-7630								http://projecteuclid.org/nmj		nmj				Duke University Press	serial									Mathematics
+Nihonkai Mathematical Journal	0549-4834								http://projecteuclid.org/nihmj		nihmj				Niigata University, Department of Mathematics	serial									Mathematics
+Notre Dame Journal of Formal Logic	0029-4527	1939-0726							http://projecteuclid.org/ndjfl		ndjfl				Duke University Press	serial									Logic
+Notre Dame Mathematical Lectures									http://projecteuclid.org/ndml		ndml				University of Notre Dame	monograph								F	Mathematics
+NSF-CBMS Regional Conference Series in Probability and Statistics									http://projecteuclid.org/cbms		cbms				The Institute of Mathematical Statistics	monograph								F	Statistics and Probability
+Osaka Journal of Mathematics	0388-0516								http://projecteuclid.org/ojm		ojm				Osaka University and Osaka City University, Departments of Mathematics	serial								F	Mathematics
+Pacific Journal of Mathematics	0030-8730								http://projecteuclid.org/pjm		pjm				Pacific Journal of Mathematics, A Non-profit Corporation	serial								F	Mathematics
+Perspectives in Logic									http://projecteuclid.org/pl		pl				Association for Symbolic Logic	monograph								F	Logic
+Probability Surveys		1549-5787							http://projecteuclid.org/ps		ps				The Institute of Mathematical Statistics and the Bernoulli Society	serial								F	Statistics and Probability
+Proceedings of the Centre for Mathematics and its Applications	1328-5076								http://projecteuclid.org/pcma		pcma				The Australian National University, Mathematical Sciences Institute, Centre for Mathematics & its Applications	serial								F	Applied Mathematics, Mathematics
+Proceedings of the International Conference on Geometry, Integrability and Quantization	1314-3247	2367-7147							http://projecteuclid.org/pgiq		pgiq				Institute of Biophysics and Biomedical Engineering, Bulgarian Academy of Sciences	serial									Applied Mathematics, Mathematical Physics, Mathematics
+Proceedings of the Japan Academy, Series A, Mathematical Sciences	0369-9846								http://projecteuclid.org/pja		pja				The Japan Academy	serial								F	Mathematics
+Publicacions Matemàtiques	0214-1493								http://projecteuclid.org/pm		pm				Universitat Autònoma de Barcelona, Departament de Matemàtiques	serial									Mathematics
+Real Analysis Exchange	0147-1937	1930-1219							http://projecteuclid.org/rae		rae				Michigan State University Press	serial									Mathematics
+The Review of Modern Logic	1047-5982	1943-7390							http://projecteuclid.org/rml		rml				The Review of Modern Logic	serial									Logic
+Revista Matemática Iberoamericana	0213-2230								http://projecteuclid.org/rmi		rmi				Real Sociedad Matemática Española	serial									Mathematics
+Rocky Mountain Journal of Mathematics	0035-7596								http://projecteuclid.org/rmjm		rmjm				Rocky Mountain Mathematics Consortium	serial									Mathematics
+Statistical Science	0883-4237	2168-8745							http://projecteuclid.org/ss		ss				The Institute of Mathematical Statistics	serial									Statistics and Probability
+Statistics Surveys	1935-7516								http://projecteuclid.org/ssu		ssu				The American Statistical Association, the Bernoulli Society, the Institute of Mathematical Statistics, and the Statistical Society of Canada	serial								F	Statistics and Probability
+Stochastic Systems		1946-5238							http://projecteuclid.org/ssy		ssy				INFORMS Applied Probability Society	serial								F	Applied Mathematics, Statistics and Probability
+Taiwanese Journal of Mathematics	1027-5487	2224-6851							http://projecteuclid.org/twjm		twjm				Mathematical Society of the Republic of China	serial								F	Mathematics
+Tohoku Mathematical Journal	0040-8735								http://projecteuclid.org/tmj		tmj				Tohoku University, Mathematical Institute	serial									Mathematics
+Tokyo Journal of Mathematics	0387-3870								http://projecteuclid.org/tjm		tjm				Publication Committee for the Tokyo Journal of Mathematics	serial									Mathematics
+Topological Methods in Nonlinear Analysis	1230-3429								http://projecteuclid.org/tmna		tmna				Nicolaus Copernicus University, Juliusz P. Schauder Centre for Nonlinear Studies	serial									Mathematics
+Tsukuba Journal of Mathematics	0387-4982								http://projecteuclid.org/tkbjm		tkbjm				University of Tsukuba, Institute of Mathematics	serial									Mathematics
