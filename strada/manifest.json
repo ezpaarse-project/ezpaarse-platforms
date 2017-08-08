@@ -1,15 +1,9 @@
 {
-  "version": "2017-05-02",
+  "version": "2017-08-08",
   "status": "beta",
   "domains": [
     "www.stradalex.eu"
   ],
-  "recognize": {
-    "rid": [
-      "unitid",
-      "title_id"
-    ]
-  },
   "name": "strada",
   "longname": "Strada Lex",
   "describe": "Recognizes the accesses to the platform Strada Lex",
