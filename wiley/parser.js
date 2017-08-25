@@ -184,14 +184,14 @@ module.exports = new Parser(function analyseEC(parsedUrl) {
     }
 
 
-  } else if ((match = /^\/store\/(10\.[0-9]+\/(([a-z]+)\.([0-9]{4})[0-9]+\/[a-z]+\/[a-z]+[0-9]+)).pdf$/i.exec(path)) !== null) {
+  } else if ((match = /^\/store\/(10\.[0-9]+\/(([a-z]+)\.([0-9]{4})[0-9]+))\/asset\/[a-z]+[0-9]+.pdf$/i.exec(path)) !== null) {
     // /store/10.15252/embr.201439742/asset/embr201439742.pdf
     result.doi      = match[1];
     result.unitid   = match[2];
-    result.title_id = match[2].toUpperCase();
+    result.title_id = match[3].toUpperCase();
     result.mime     = 'PDF';
 
-    result.publication_date = match[3];
+    result.publication_date = match[4];
 
   } else if ((match = /^\/doi\/(10\.[0-9]+\/(([0-9]{2,4})([a-z]+)[0-9]+))\/(pdf|full)$/i.exec(path)) !== null) {
     // /doi/10.1002/2015TC003829/pdf
