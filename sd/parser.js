@@ -7,8 +7,10 @@ module.exports = new Parser(function analyseEC(parsedUrl) {
   let result = {};
   let param  = parsedUrl.query || {};
   let path   = parsedUrl.pathname;
-  let match;
+  // use console.error for debuging
+  // console.error(parsedUrl);
 
+  let match;
 
   if (param._ob) {
     if (param._cdi) { result.title_id = param._cdi; }
