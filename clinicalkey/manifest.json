@@ -1,0 +1,20 @@
+{
+  "name": "clinicalkey",
+  "version": "2017-10-05",
+  "status": "stable",
+  "trello": "",
+  "longname": "ClinicalKey",
+  "describe": "Search for conditions, procedures, drugs, and more",
+  "docurl": "",
+  "contact": "",
+	"domains": [
+    "www.clinicalkey.com",
+    "www-clinicalkey-com"
+	],
+  "recognize": {
+    "rtype": [
+      "journal",
+      "book"
+    ]
+  }
+}
