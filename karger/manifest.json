@@ -1,0 +1,13 @@
+{
+  "longname": "Karger",
+  "name": "karger",
+  "describe": "Recognizes the accesses to the platform Karger",
+  "contact": "Maud Soverini, Frederic Truong inist",
+  "pkb": false,
+  "docurl": "http://analyses.ezpaarse.org/platforms/53cce8c1af1a9772d2f5ee0a",
+  "domains": [
+    "www.karger.com"
+  ],
+  "version": "2017-10-06",
+  "status": "beta"
+}
