@@ -1,0 +1,3 @@
+out-unitid;out-title_id;out-mime;out-rtype;in-url
+123456;document-123456-test.pdf;PDF;ARTICLE;http://parser.template.js/platform/path/to/document-123456-test.pdf?sequence=1
+78910;document-78910-test.html;HTML;ARTICLE;http://parser.template.js/platform/path/to/document-78910-test.html?sequence=8
