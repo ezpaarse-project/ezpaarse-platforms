@@ -9,16 +9,11 @@
     "academic.oup.com",
     "oup.silverchair-cdn.com"
   ],
-  "recognize": {
-    "rid": [
-      "title_id",
-      "unitid"
-    ]
-  },
   "name": "silverchair",
   "longname": "silverchair",
   "describe": "Recognizes the accesses to the platform silverchair",
   "docurl": "http://ang.couperin.org/platforms/57fb57bc94980fc7c97ac721",
   "contact": "Sylvie FRANCK Frédéric TRUONG",
-  "pkb": false
+  "pkb": true,
+  "pkb-domains": "pkb-domain"
 }
