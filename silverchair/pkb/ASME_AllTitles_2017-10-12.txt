@@ -1,0 +1,32 @@
+publication_title	print_identifier	online_identifier	date_first_issue_online	num_first_vol_online	num_first_issue_online	date_last_issue_online	num_last_vol_online	num_last_issue_online	title_url	first_author	title_id	embargo_info	coverage_depth	coverage_notes	publisher_name	pkb-domain
+Applied Mechanics Reviews									http://appliedmechanicsreviews.asmedigitalcollection.asme.org/journal.aspx		appliedmechanicsreviews					appliedmechanicsreviews.asmedigitalcollection.asme.org
+ASCE-ASME Journal of Risk and Uncertainty in Engineering Systems, Part B:  Mechanical Engineering									http://risk.asmedigitalcollection.asme.org/journal.aspx		risk					risk.asmedigitalcollection.asme.org
+Journal of Applied Mechanics									http://appliedmechanics.asmedigitalcollection.asme.org/journal.aspx		appliedmechanics					appliedmechanics.asmedigitalcollection.asme.org
+Journal of Biomechanical Engineering									http://biomechanical.asmedigitalcollection.asme.org/journal.aspx		biomechanical					biomechanical.asmedigitalcollection.asme.org
+Journal of Computational and Nonlinear Dynamics									http://computationalnonlinear.asmedigitalcollection.asme.org/journal.aspx		computationalnonlinear					computationalnonlinear.asmedigitalcollection.asme.org
+Journal of Computing and Information Science in Engineering									http://computingengineering.asmedigitalcollection.asme.org/journal.aspx		computingengineering					computingengineering.asmedigitalcollection.asme.org
+Journal of Dynamic Systems, Measurement, and Control									http://dynamicsystems.asmedigitalcollection.asme.org/journal.aspx		dynamicsystems					dynamicsystems.asmedigitalcollection.asme.org
+Journal of Electrochemical Energy Conversion and Storage									http://electrochemical.asmedigitalcollection.asme.org/journal.aspx		electrochemical					electrochemical.asmedigitalcollection.asme.org
+Journal of Electronic Packaging									http://electronicpackaging.asmedigitalcollection.asme.org/journal.aspx		electronicpackaging					electronicpackaging.asmedigitalcollection.asme.org
+Journal of Energy Resources Technology									http://energyresources.asmedigitalcollection.asme.org/journal.aspx		energyresources					energyresources.asmedigitalcollection.asme.org
+Journal of Engineering and Science in Medical Diagnostics and Therapy									http://medicaldiagnostics.asmedigitalcollection.asme.org/journal.aspx		medicaldiagnostics					medicaldiagnostics.asmedigitalcollection.asme.org
+Journal of Engineering for Gas Turbines and Power									http://gasturbinespower.asmedigitalcollection.asme.org/journal.aspx		gasturbinespower					gasturbinespower.asmedigitalcollection.asme.org
+Journal of Engineering Materials and Technology									http://materialstechnology.asmedigitalcollection.asme.org/journal.aspx		materialstechnology					materialstechnology.asmedigitalcollection.asme.org
+Journal of Fluids Engineering									http://fluidsengineering.asmedigitalcollection.asme.org/journal.aspx		fluidsengineering					fluidsengineering.asmedigitalcollection.asme.org
+Journal of Heat Transfer									http://heattransfer.asmedigitalcollection.asme.org/journal.aspx		heattransfer					heattransfer.asmedigitalcollection.asme.org
+Journal of Manufacturing Science and Engineering									http://manufacturingscience.asmedigitalcollection.asme.org/journal.aspx		manufacturingscience					manufacturingscience.asmedigitalcollection.asme.org
+Journal of Mechanical Design									http://mechanicaldesign.asmedigitalcollection.asme.org/journal.aspx		mechanicaldesign					mechanicaldesign.asmedigitalcollection.asme.org
+Journal of Mechanisms and Robotics									http://mechanismsrobotics.asmedigitalcollection.asme.org/journal.aspx		mechanismsrobotics					mechanismsrobotics.asmedigitalcollection.asme.org
+Journal of Medical Devices									http://medicaldevices.asmedigitalcollection.asme.org/journal.aspx		medicaldevices					medicaldevices.asmedigitalcollection.asme.org
+Journal of Micro and Nano-Manufacturing									http://micronanomanufacturing.asmedigitalcollection.asme.org/journal.aspx		micronanomanufacturing					micronanomanufacturing.asmedigitalcollection.asme.org
+Journal of Nanotechnology in Engineering and Medicine									http://nanoengineeringmedical.asmedigitalcollection.asme.org/journal.aspx		nanoengineeringmedical					nanoengineeringmedical.asmedigitalcollection.asme.org
+Journal of Nondestructive Evaluation, Diagnostics and Prognostics of Engineering Systems									http://nondestructive.asmedigitalcollection.asme.org/journal.aspx		nondestructive					nondestructive.asmedigitalcollection.asme.org
+Journal of Nuclear Engineering and Radiation Science									http://nuclearengineering.asmedigitalcollection.asme.org/journal.aspx		nuclearengineering					nuclearengineering.asmedigitalcollection.asme.org
+Journal of Offshore Mechanics and Arctic Engineering									http://offshoremechanics.asmedigitalcollection.asme.org/journal.aspx		offshoremechanics					offshoremechanics.asmedigitalcollection.asme.org
+Journal of Pressure Vessel Technology									http://pressurevesseltech.asmedigitalcollection.asme.org/journal.aspx		pressurevesseltech					pressurevesseltech.asmedigitalcollection.asme.org
+Journal of Solar Energy Engineering									http://solarenergyengineering.asmedigitalcollection.asme.org/journal.aspx		solarenergyengineering					solarenergyengineering.asmedigitalcollection.asme.org
+Journal of Thermal Science and Engineering Applications									http://thermalscienceapplication.asmedigitalcollection.asme.org/journal.aspx		thermalscienceapplication					thermalscienceapplication.asmedigitalcollection.asme.org
+Journal of Tribology									http://tribology.asmedigitalcollection.asme.org/journal.aspx		tribology					tribology.asmedigitalcollection.asme.org
+Journal of Turbomachinery									http://turbomachinery.asmedigitalcollection.asme.org/journal.aspx		turbomachinery					turbomachinery.asmedigitalcollection.asme.org
+Journal of Verification, Validation and Uncertainty Quantification									http://verification.asmedigitalcollection.asme.org/journal.aspx		verification					verification.asmedigitalcollection.asme.org
+Journal of Vibration and Acoustics									http://vibrationacoustics.asmedigitalcollection.asme.org/journal.aspx		vibrationacoustics					vibrationacoustics.asmedigitalcollection.asme.org
