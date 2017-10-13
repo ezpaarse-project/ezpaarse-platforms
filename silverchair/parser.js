@@ -14,6 +14,7 @@ module.exports = new Parser(function analyseEC(parsedUrl, ec) {
   let result = {};
   let path   = parsedUrl.pathname;
   let param  = parsedUrl.query || {};
+  let host   = parsedUrl.host;
 
   let match;
 
@@ -33,6 +34,10 @@ module.exports = new Parser(function analyseEC(parsedUrl, ec) {
       result.unitid = param.articleID;
     }
 
+    if ((match = /^([a-z]+)\.asmedigitalcollection\.asme\.org/i.exec(host))) {
+      result.title_id = match[1];
+    }
+
   } else if (/^\/issue\.aspx$/i.test(path)) {
     // http://turbomachinery.asmedigitalcollection.asme.org/issue.aspx?journalid=135&issueid=935001&direction=P
     // http://appliedmechanicsreviews.asmedigitalcollection.asme.org/issue.aspx?journalid=113&issueid=935281&direction=P
@@ -43,6 +48,11 @@ module.exports = new Parser(function analyseEC(parsedUrl, ec) {
     if (param.issueid) {
       result.unitid = param.issueid;
     }
+
+    if ((match = /^([a-z]+)\.asmedigitalcollection\.asme\.org/i.exec(host))) {
+      result.title_id = match[1];
+    }
+
   } else if ((match = /^\/journals\/([a-z]+)\/(fullarticle|article-abstract)\/([0-9]+)$/i.exec(path)) !== null) {
     // http://jamanetwork.com/journals/jama/fullarticle/2481003
     // http://jamanetwork.com/journals/jama/article-abstract/2480993
