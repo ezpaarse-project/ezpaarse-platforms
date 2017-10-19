@@ -32,11 +32,8 @@ module.exports = new Parser(function analyseEC(parsedUrl, ec) {
 
     result.title_id = match[1];
     result.unitid = match[3];
+    result.pii = match[3].replace(/[^a-z0-9]/ig, '');
     result.print_identifier = match[4];
-
-    if (/^[SB]/i.test(match[3])) {
-      result.pii = match[3].replace(/[^a-z0-9]/ig, '');
-    }
 
     switch (match[2]) {
     case 'fulltext':
