@@ -13,6 +13,10 @@
       "description": "Reconnaissance du DOI",
       "comment": "croisé avec la PKB quand elle existe"
     },{
+      "code": "pii",
+      "description": "Reconnaissance du PII",
+      "comment": "Interrogé via Crossref"
+    },{
       "code": "online_identifier",
       "description": "(KBART) Identifiant électronique (eISSN, eISBN...)",
       "comment": "croisé avec la PKB quand elle existe"
@@ -219,7 +223,7 @@
       "code": "TOOL",
       "description": "Outil de comparaison de données",
       "comment": "cas de plateforme Britannica, Financial Times, Kluwer arbitration"
-       
+
     },{
       "code": "REPORT",
       "comment": "cas de plateformes Columbia International Affairs Online, Financial Times, rapports en tout genre qui ne sont pas publiés sous la forme d'un article ou d'un working paper "
