@@ -1,6 +1,8 @@
-out-unitid;out-title_id;out-rtype;out-mime;in-url
-;;SEARCH;MISC;http://www.cell.com/action/doSearch?journalCode=&searchText1=car&occurrences1=all&op1=and&searchText2=&occurrences2=all&searchScope=fullSite&date=range&dateRange=&searchAttempt=&searchType=advanced&doSearch=Search
-S2405-8033(16)30122-4;2405-8033;ARTICLE;HTML;http://www.cell.com/trends/cancer/fulltext/S2405-8033(16)30122-4
-S1074-7613(16)00030-3;1074-7613;ARTICLE;PDF;http://www.cell.com/immunity/pdf/S1074-7613(16)00030-3.pdf
-S1074-7613(16)00030-3;1074-7613;ARTICLE;PDFPLUS;http://www.cell.com/immunity/pdfExtended/S1074-7613(16)00030-3
-S1074-7613(16)00030-3;1074-7613;REF;HTML;http://www.cell.com/immunity/references/S1074-7613(16)00030-3
+out-pii;out-print_identifier;out-unitid;out-title_id;out-rtype;out-mime;in-url
+;;;;SEARCH;MISC;http://www.cell.com/action/doSearch?journalCode=&searchText1=car&occurrences1=all&op1=and&searchText2=&occurrences2=all&searchScope=fullSite&date=range&dateRange=&searchAttempt=&searchType=advanced&doSearch=Search
+S2405803316301224;2405-8033;S2405-8033(16)30122-4;cancer;ARTICLE;HTML;http://www.cell.com/trends/cancer/fulltext/S2405-8033(16)30122-4
+S1074761316000303;1074-7613;S1074-7613(16)00030-3;immunity;ARTICLE;PDF;http://www.cell.com/immunity/pdf/S1074-7613(16)00030-3.pdf
+S1074761316000303;1074-7613;S1074-7613(16)00030-3;immunity;ARTICLE;PDFPLUS;http://www.cell.com/immunity/pdfExtended/S1074-7613(16)00030-3
+S1074761316000303;1074-7613;S1074-7613(16)00030-3;immunity;REF;HTML;http://www.cell.com/immunity/references/S1074-7613(16)00030-3
+S0092867410012432;0092-8674;S0092-8674(10)01243-2;cell;ARTICLE;HTML;http://www.cell.com/cell/fulltext/S0092-8674(10)01243-2
+S0092867416313253;0092-8674;S0092-8674(16)31325-3;cell;ARTICLE;PDF;http://www.cell.com/cell/pdf/S0092-8674(16)31325-3.pdf
