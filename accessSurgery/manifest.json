@@ -1,0 +1,33 @@
+{
+  "name": "accessSurgery",
+  "version": "2017-10-10",
+  "status": "active",
+  "trello": "https://trello.com/c/esdhC1jL",
+  "longname": "AccessSurgery",
+  "publisher_name": "McGraw-Hill Medicall",
+  "describe": "",
+  "docurl": "http://ang.couperin.org/platforms/59e51628c4acdcc8db867c74",
+  "contact": "alexander.cooper@emory.edu",
+  "pkb": true,
+	"domains": [
+    "accesssurgery.mhmedical.com",
+    "accesssurgery.com",
+    "mhmedical.com",
+    "gsm.com",
+    "goldstandard.com",
+    "books.mcgraw-hill.com"
+	],
+  "recognize": {
+    "rid": [
+      "unitid"
+    ],
+    "rtype": [
+      "BOOK",
+      "BOOK_SECTION",
+      "REF"
+    ],
+    "mime": [
+      "HTML"
+    ]
+  }
+}
