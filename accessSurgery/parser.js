@@ -70,7 +70,11 @@ module.exports = new Parser(function analyseEC(parsedUrl, ec) {
   } else if ((match = /drugs.aspx\/displayMonograph/.exec(path)) !== null) {
     // http://accesssurgery.mhmedical.com:80/drugs.aspx/displayMonograph
     result.rtype    = 'REF';
-    result.mime     = 'HTML'
+    result.mime     = 'HTML';
+  } else if ((match = /drugs.aspx\/displayDrug/.exec(path)) !== null) {
+    // http://accesssurgery.mhmedical.com:80/drugs.aspx/displayDrugDetailByNDC9FromLexiAPI
+    result.rtype    = 'REF';
+    result.mime     = 'HTML';
   }
 
   return result;
