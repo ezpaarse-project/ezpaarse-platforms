@@ -46,10 +46,10 @@ module.exports = new Parser(function analyseEC(parsedUrl, ec) {
     result.rtype    = 'REF';
     result.mime     = 'HTML';
     result.unitid   = match[1];
-  } else if ((match = /content.aspx\?bookid=/.exec(path)) !== null) {
+  } else if ((match = /content.aspx\?bookid=.*&sectionid=/.exec(path)) !== null) {
     // http://accesssurgery.mhmedical.com:80/content.aspx?bookid=2057&sectionid=156216523
-    match = /bookid=(.*?)&/.exec(path);
-    result.rtype    = 'BOOK';
+    match = /sectionid=(.*)/.exec(path);
+    result.rtype    = 'BOOK_SECTION';
     result.mime     = 'HTML';
     result.unitid   = match[1];
   } else if ((match = /SearchResults/.exec(path)) !== null) {
@@ -57,8 +57,8 @@ module.exports = new Parser(function analyseEC(parsedUrl, ec) {
     result.mime     = 'HTML';
   } else if ((match = /content.aspx\?sectionid=.*?&bookid/.exec(path)) !== null) {
     // http://accesssurgery.mhmedical.com:80/content.aspx?sectionid=80027398&bookid=1340&jumpsectionID=80027404&Resultclick=2
-    match = /bookid=(.*?)&/.exec(path);
-    result.rtype    = 'BOOK';
+    match = /sectionid=(.*?)&/.exec(path);
+    result.rtype    = 'BOOK_SECTION';
     result.mime     = 'HTML';
     result.unitid   = match[1];
   } else if ((match = /\/Content\/CaseContent\//.exec(path)) !== null) {
