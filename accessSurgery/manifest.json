@@ -4,7 +4,7 @@
   "status": "active",
   "trello": "https://trello.com/c/esdhC1jL",
   "longname": "AccessSurgery",
-  "publisher_name": "McGraw-Hill Medicall",
+  "publisher_name": "McGraw-Hill Medical",
   "describe": "",
   "docurl": "http://ang.couperin.org/platforms/59e51628c4acdcc8db867c74",
   "contact": "alexander.cooper@emory.edu",
@@ -27,7 +27,8 @@
       "REF"
     ],
     "mime": [
-      "HTML"
+      "HTML",
+      "PDF"
     ]
   }
 }
