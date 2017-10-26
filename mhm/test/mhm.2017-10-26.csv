@@ -1,0 +1,8 @@
+out-unitid;out-mime;out-rtype;in-url
+853;HTML;BOOK;http://accesssurgery.mhmedical.com:80/UserDashboard/AddFavorites?ResourceId=853&ResourceType=Book
+5481748;MISC;VIDEO;http://accesssurgery.mhmedical.com:80/UserDashboard/AddFavorites?ResourceId=5481748&ResourceType=Multimedia
+367753;HTML;REF;http://accesssurgery.mhmedical.com:80/UserDashboard/UpdateRecentlyViewed?ResourceId=367753&ResourceType=gbos&IsDeleted=false
+;HTML;SEARCH;http://accesssurgery.mhmedical.com:80/SearchResults.aspx?q=trauma+zones
+130873251;HTML;REF;http://accesssurgery.mhmedical.com:80/Content/CaseContent/TakeQuizOneByOne?sectionId=130873251
+;HTML;REF;http://accesssurgery.mhmedical.com:80/drugs.aspx/displayMonograph
+;HTML;REF;http://accesssurgery.mhmedical.com:80/drugs.aspx/displayDrugDetailByNDC9FromLexiAP

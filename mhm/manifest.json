@@ -1,0 +1,64 @@
+{
+  "name": "mhm",
+  "version": "2017-10-10",
+  "status": "active",
+  "trello": "https://trello.com/c/UIcaR0QT/154-mcgraw-hill-medical",
+  "longname": "McGraw-Hill Medical",
+  "publisher_name": "McGraw-Hill Medical",
+  "describe": "Recognizes the accesses to the platform McGraw-Hill Medical",
+  "docurl": "http://ang.couperin.org/platforms/546613c0d939376d11f89098",
+  "contact": "alexander.cooper@emory.edu",
+  "pkb": true,
+	"domains": [
+    "mhmedical.com",
+    "accesssurgery.com",
+    "accesssurgery.mhmedical.com",
+    "www.accesssurgery.com",
+    "www.accesssurgery.mhmedical.com",
+    "accessanesthesiology.com",
+    "accessanesthesiology.mhmedical.com",
+    "www.accessanesthesiology.com",
+    "www.accessanesthesiology.mhmedical.com",
+    "accessemergencymedicine.com",
+    "accessemergencymedicine.mhmedical.com",
+    "www.accessemergencymedicine.com",
+    "www.accessemergencymedicine.mhmedical.com",
+    "accessmedicine.com",
+    "accessmedicine.mhmedical.com",
+    "www.accessmedicine.com",
+    "www.accessmedicine.mhmedical.com",
+    "accesspediatrics.com",
+    "accesspediatrics.mhmedical.com",
+    "www.accesspediatrics.com",
+    "www.accesspediatrics.mhmedical.com",
+    "accesspharmacy.com",
+    "accesspharmacy.mhmedical.com",
+    "www.accesspharmacy.com",
+    "www.accesspharmacy.mhmedical.com",
+    "accessphysiotherapy.com",
+    "accessphysiotherapy.mhmedical.com",
+    "www.accessphysiotherapy.com",
+    "www.accessphysiotherapy.mhmedical.com",
+    "accesssurgery.com",
+    "accesssurgery.mhmedical.com",
+    "www.accesssurgery.com",
+    "www.accesssurgery.mhmedical.com",
+    "gsm.com",
+    "goldstandard.com",
+    "books.mcgraw-hill.com"
+	],
+  "recognize": {
+    "rid": [
+      "unitid"
+    ],
+    "rtype": [
+      "BOOK",
+      "BOOK_SECTION",
+      "REF"
+    ],
+    "mime": [
+      "HTML",
+      "PDF"
+    ]
+  }
+}
