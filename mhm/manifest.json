@@ -11,6 +11,7 @@
   "pkb": true,
 	"domains": [
     "mhmedical.com",
+    "www.mhmedical.com",
     "accesssurgery.com",
     "accesssurgery.mhmedical.com",
     "www.accesssurgery.com",
@@ -43,22 +44,47 @@
     "accesssurgery.mhmedical.com",
     "www.accesssurgery.com",
     "www.accesssurgery.mhmedical.com",
+    "clinicalaccess.mhmedical.com",
+    "www.clinicalaccess.mhmedical.com",
+    "harrisonmedicina.mhmedical.com",
+    "www.harrisonmedicina.mhmedical.com",
+    "jamaevidence.com",
+    "jamaevidence.mhmedical.com",
+    "www.jamaevidence.com",
+    "www.jamaevidence.mhmedical.com",
+    "m.accessmedicine.com",
+    "m.accesssurgery.com",
+    "neurology.mhmedical.com",
+    "www.neurology.mhmedical.com",
+    "obgyn.mhmedical.com",
+    "www.obgyn.mhmedical.com",
+    "ommbid.com",
+    "ommbidblog.com",
+    "ommbid.mhmedical.com",
+    "www.ommbid.com",
+    "www.ommbid.mhmedical.com",
+    "ppp.mhmedical.com",
+    "www.ppp.mhmedical.com",
+    "hemonc.mhmedical.com",
     "gsm.com",
     "goldstandard.com",
     "books.mcgraw-hill.com"
 	],
   "recognize": {
     "rid": [
-      "unitid"
+      "unitid",
+      "title_id"
     ],
     "rtype": [
       "BOOK",
       "BOOK_SECTION",
-      "REF"
+      "REF",
+      "VIDEO"
     ],
     "mime": [
       "HTML",
-      "PDF"
+      "PDF",
+      "MISC"
     ]
   }
 }
