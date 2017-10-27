@@ -1,13 +1,13 @@
 out-publication_title;out-unitid;out-mime;out-rtype;in-url
-;853;HTML;BOOK;http://accesssurgery.mhmedical.com:80/UserDashboard/AddFavorites?ResourceId=853&ResourceType=Book
-;5481748;MISC;VIDEO;http://accesssurgery.mhmedical.com:80/UserDashboard/AddFavorites?ResourceId=5481748&ResourceType=Multimedia
-;367753;HTML;REF;http://accesssurgery.mhmedical.com:80/UserDashboard/UpdateRecentlyViewed?ResourceId=367753&ResourceType=gbos&IsDeleted=false
-;;HTML;SEARCH;http://accesssurgery.mhmedical.com:80/SearchResults.aspx?q=trauma+zones
-;130873251;HTML;REF;http://accesssurgery.mhmedical.com:80/Content/CaseContent/TakeQuizOneByOne?sectionId=130873251
-;;HTML;REF;http://accesssurgery.mhmedical.com:80/drugs.aspx/displayMonograph
-;;HTML;REF;http://accesssurgery.mhmedical.com:80/drugs.aspx/displayDrugDetailByNDC9FromLexiAP
-;61357444;HTML;BOOK_SECTION;http://jamaevidence.mhmedical.com:80/UserDashboard/UpdateRecentlyViewed?ResourceId=61357444&ResourceType=section&IsDeleted=false
-;14704220;PDF;REF;http://accesssurgery.mhmedical.com:80/pdfaccess.ashx?PDFSource=15&ResourceID=14704220&url=/data/gboscontainer/123/ac_abdominalpain_dx.pdf
-;142830;HTML;REF;http://jamaevidence.mhmedical.com:80/calculator.aspx?calc=142830
-Guyatt_Cut_K.mp3;;MP3;AUDIO;http://books.mcgraw-hill.com:80/podcast/jamaevidencepc/Guyatt_Cut_K.mp3
-new-syndrome-of-gnb5-deficiency;;HTML;REF;https://ommbidblog.com:443/2016/08/17/new-syndrome-of-gnb5-deficiency/
+Access Surgery;853;HTML;BOOK;http://accesssurgery.mhmedical.com:80/UserDashboard/AddFavorites?ResourceId=853&ResourceType=Book
+Access Surgery;5481748;MISC;VIDEO;http://accesssurgery.mhmedical.com:80/UserDashboard/AddFavorites?ResourceId=5481748&ResourceType=Multimedia
+Access Surgery;367753;HTML;REF;http://accesssurgery.mhmedical.com:80/UserDashboard/UpdateRecentlyViewed?ResourceId=367753&ResourceType=gbos&IsDeleted=false
+Access Surgery;;HTML;SEARCH;http://accesssurgery.mhmedical.com:80/SearchResults.aspx?q=trauma+zones
+Access Surgery;130873251;HTML;REF;http://accesssurgery.mhmedical.com:80/Content/CaseContent/TakeQuizOneByOne?sectionId=130873251
+Access Surgery;;HTML;REF;http://accesssurgery.mhmedical.com:80/drugs.aspx/displayMonograph
+Access Surgery;;HTML;REF;http://accesssurgery.mhmedical.com:80/drugs.aspx/displayDrugDetailByNDC9FromLexiAP
+JAMAevidence;61357444;HTML;BOOK_SECTION;http://jamaevidence.mhmedical.com:80/UserDashboard/UpdateRecentlyViewed?ResourceId=61357444&ResourceType=section&IsDeleted=false
+Access Surgery;14704220;PDF;REF;http://accesssurgery.mhmedical.com:80/pdfaccess.ashx?PDFSource=15&ResourceID=14704220&url=/data/gboscontainer/123/ac_abdominalpain_dx.pdf
+JAMAevidence;142830;HTML;REF;http://jamaevidence.mhmedical.com:80/calculator.aspx?calc=142830
+;Guyatt_Cut_K.mp3;MP3;AUDIO;http://books.mcgraw-hill.com:80/podcast/jamaevidencepc/Guyatt_Cut_K.mp3
+OMMBID;new-syndrome-of-gnb5-deficiency;HTML;REF;https://ommbidblog.com:443/2016/08/17/new-syndrome-of-gnb5-deficiency/

@@ -13,13 +13,15 @@ const Parser = require('../.lib/parser.js');
 module.exports = new Parser(function analyseEC(parsedUrl, ec) {
   let result = {};
   let path   = parsedUrl.path;
+  let hostname = parsedUrl.hostname;
   // uncomment this line if you need parameters
   // let param = parsedUrl.query || {};
 
   // use console.error for debuging
-  console.error(parsedUrl);
+  // console.error(parsedUrl);
 
   let match;
+  let pub_title;
 
   /**
    * unitid is a crucial information needed to filter double-clicks phenomenon, like described by COUNTER
@@ -94,13 +96,58 @@ module.exports = new Parser(function analyseEC(parsedUrl, ec) {
     // http://books.mcgraw-hill.com:80/podcast/jamaevidencepc/Guyatt_Cut_K.mp3
     result.rtype    = 'AUDIO';
     result.mime     = 'MP3';
-    result.publication_title = match[2];
+    result.unitid = match[2];
   } else if ((match = /\/[0-9]*\/[0-9]*\/[0-9]*\/(.*?)\//.exec(path)) !== null) {
     // https://ommbidblog.com:443/2016/08/17/new-syndrome-of-gnb5-deficiency/
     result.rtype    = 'REF';
     result.mime     = 'HTML';
-    result.publication_title = match[1];
+    result.unitid = match[1];
   }
+    if ((pub_title = /(.*?)\.(.*?)/.exec(hostname)) !== null) {
+      if (pub_title[1] == 'accesssurgery') {
+        result.publication_title = 'Access Surgery';
+      } else if (pub_title[1] == 'ommbidblog') {
+        result.publication_title = 'OMMBID';
+      } else if (pub_title[1] == 'ommbid') {
+        result.publication_title = 'OMMBID';
+      } else if (pub_title[1] == 'accessemergencymedicine') {
+        result.publication_title = 'Access Emergency Medicine';
+      } else if (pub_title[1] == 'accessmedicine') {
+        result.publication_title = 'Access Medicine';
+      } else if (pub_title[1] == 'jamaevidence') {
+        result.publication_title = 'JAMAevidence';
+      } else if (pub_title[1] == 'accessanesthesiology') {
+        result.publication_title = 'Access Anesthesiology';
+      } else if (pub_title[1] == 'accesscardiology') {
+        result.publication_title = 'Access Cardiology';
+      } else if (pub_title[1] == 'hemonc') {
+        result.publication_title = 'Access HemOnc';
+      } else if (pub_title[1] == 'accessmedicina') {
+        result.publication_title = 'Access Medicina';
+      } else if (pub_title[1] == 'neurology') {
+        result.publication_title = 'Access Neurology';
+      } else if (pub_title[1] == 'obgyn') {
+        result.publication_title = 'Access ObGyn';
+      } else if (pub_title[1] == 'accesspediatrics') {
+        result.publication_title = 'Access Pediatrics';
+      } else if (pub_title[1] == 'accesspharmacy') {
+        result.publication_title = 'Access Pharmacy';
+      } else if (pub_title[1] == 'accessphysiotherapy') {
+        result.publication_title = 'Access Physiotherapy';
+      } else if (pub_title[1] == 'casefiles') {
+        result.publication_title = 'Access Medicine: Case Files';
+      } else if (pub_title[1] == 'csm') {
+        result.publication_title = 'Access Medicine: Clinical Sports Medicine Collection';
+      } else if (pub_title[1] == 'fadavispt') {
+        result.publication_title = 'Access Physiotherapy: F.A. Davis PT';
+      } else if (pub_title[1] == 'harrisonmedicina') {
+        result.publication_title = 'Harrison Medicina';
+      } else if (pub_title[1] == 'murtagh') {
+        result.publication_title = 'Access Medicine: John Murtagh\'s General Practice';
+      } else if (pub_title[1] == 'ppp') {
+        result.publication_title = 'Access Pharmacy: Pharmacotherapy Principles and Practice';
+      }
+    }
 
   return result;
 });
