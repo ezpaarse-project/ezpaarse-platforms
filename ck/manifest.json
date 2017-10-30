@@ -1,0 +1,20 @@
+{
+  "version": "2017-10-19",
+  "status": "active",
+  "domains": [
+    "www.clinicalkey.com",
+    "www.clinicalkey.es"
+  ],
+  "recognize": {
+    "rid": [
+      "unitid"
+    ]
+  },
+  "name": "ck",
+  "longname": "ClinicalKey",
+  "publisher_name": "Elsevier",
+  "describe": "Recognizes the accesses to the platform ClinicalKey",
+  "docurl": "http://ang.couperin.org/platforms/to_be_completed/",
+  "contact": "alexander.cooper@emory.edu",
+  "pkb": false
+}
