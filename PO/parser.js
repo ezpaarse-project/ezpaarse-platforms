@@ -13,7 +13,7 @@ const Parser = require('../.lib/parser.js');
 module.exports = new Parser(function analyseEC(parsedUrl, ec) {
   let result = {};
   let path   = parsedUrl.path;
-  let hostname = parsedUrl.hostname
+  let hostname = parsedUrl.hostname;
   // uncomment this line if you need parameters
   // let param = parsedUrl.query || {};
 
@@ -33,7 +33,7 @@ module.exports = new Parser(function analyseEC(parsedUrl, ec) {
     result.doi = match[1];
     result.unitid = match[2];
     if ((/appi\.books\.(.*)/.exec(match[2])) !== null) {
-      result.print_identifier = (/appi\.books\.(.*)\./.exec(match[2]))[1]
+      result.print_identifier = (/appi\.books\.(.*)\./.exec(match[2]))[1];
     }
 
   /**
@@ -59,7 +59,7 @@ module.exports = new Parser(function analyseEC(parsedUrl, ec) {
     // http://ajp.psychiatryonline.org:80/audio
     result.rtype    = 'AUDIO';
     result.mime     = 'MISC';
-  } else if ((match = /journals\/ajp\/audio\/2017\/(.*)/.exec(path)) !== null) {
+  } else if ((match = /journals\/ajp\/audio\/\d\d\d\d\/(.*)/.exec(path)) !== null) {
     // http://ajp.psychiatryonline.org:80/pb/assets/raw/journals/ajp/audio/2017/October_2017.mp3
     result.rtype    = 'AUDIO';
     result.mime     = 'MISC';
@@ -81,7 +81,7 @@ module.exports = new Parser(function analyseEC(parsedUrl, ec) {
     result.mime     = 'HTML';
     result.doi      = match[1];
     result.unitid   = match[2];
-    result.print_identifier = (/appi\.books\.(.*)/.exec(path))[1]
+    result.print_identifier = (/appi\.books\.(.*)/.exec(path))[1];
   } else if ((match = /doi\/([0-9]*\.[0-9]*?)\/(.*)/.exec(path)) !== null) {
     // http://ps.psychiatryonline.org:80/doi/10.1176/appi.ps.201700055
     result.rtype    = 'ARTICLE';
