@@ -38,7 +38,7 @@ module.exports = new Parser(function analyseEC(parsedUrl, ec) {
     result.rtype    = 'ARTICLE';
     result.mime     = 'HTML';
     result.unitid   = match[1];
-    match = /eid=1-s2\.0-(.*?)&/.exec(path)
+    match = /eid=1-s2\.0-(.*?)&/.exec(path);
     result.pii      = match[1];
   } else if ((match = /\/service\/content\/pdf\/watermarked\/1-s2\./.exec(path)) !== null) {
     // https://www.clinicalkey.com:443/service/content/pdf/watermarked/1-s2.0-S0003999317303908.pdf?locale=en_US
@@ -46,7 +46,7 @@ module.exports = new Parser(function analyseEC(parsedUrl, ec) {
     result.rtype    = 'ARTICLE';
     result.mime     = 'PDF';
     result.unitid   = match[1];
-    match = /watermarked\/1-s2\.0-(.*?)\./.exec(path)
+    match = /watermarked\/1-s2\.0-(.*?)\./.exec(path);
     result.pii      = match[1];
   } else if ((match = /ui\/service\/content\/ck\/31-s2\./.exec(path)) !== null) {
     // https://www.clinicalkey.com:443/ui/service/content/ck/31-s2.0-50300
@@ -72,7 +72,7 @@ module.exports = new Parser(function analyseEC(parsedUrl, ec) {
     result.rtype    = 'BOOK';
     result.mime     = 'HTML';
     result.unitid   = match[1];
-    match = /eid=3-s2\.0-(.*?)&/.exec(path)
+    match = /eid=3-s2\.0-(.*?)&/.exec(path);
     result.pii      = match[1];
   } else if ((match = /\/service\/browse\/.*?\/toc\?/.exec(path)) !== null) {
     // https://www.clinicalkey.com:443/service/browse/1-s2.0-S0306460317X00117/toc?hubeid=1-s2.0-S0306460317X00117&product=en_US&rows=9999&start=0
