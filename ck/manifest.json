@@ -7,7 +7,8 @@
   ],
   "recognize": {
     "rid": [
-      "unitid"
+      "unitid",
+      "pii"
     ]
   },
   "name": "ck",
