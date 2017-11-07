@@ -55,12 +55,13 @@ module.exports = new Parser(function analyseEC(parsedUrl, ec) {
     // http://ajp.psychiatryonline.org:80/pb/assets/raw/journals/ajp/audio/2017/October_2017.mp3
     result.rtype    = 'AUDIO';
     result.mime     = 'MISC';
-    result.title_id = match[1];
-  } else if ((match =/toc\/ajp\/(.*)/.exec(path)) !== null) {
+    result.unitid = match[1];
+  } else if ((match =/toc\/ajp\/(.*?)\/(.*)/.exec(path)) !== null) {
     // http://ajp.psychiatryonline.org.proxytest.library.emory.edu/toc/ajp/174/10
     result.rtype    = 'TOC';
     result.mime     = 'HTML';
-    result.title_id = match[1];
+    result.vol      = match[1];
+    result.issue    = match[2];
   } else if ((match = /doi\/abs\/(.*?)\/(.*)/.exec(path)) !== null) {
     // http://ajp.psychiatryonline.org:80/doi/abs/10.1176/appi.ajp.2017.17070796
     result.rtype    = 'ABS';
