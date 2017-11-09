@@ -47,7 +47,7 @@ module.exports = new Parser(function analyseEC(parsedUrl, ec) {
     result.mime     = 'HTML';
     result.doi      = match[1] + '/' + match[2];
     result.unitid   = match[2];
-  } else if ((match = /doi\/figure\/(.*?)\/(.*)/.exec(path)) !== null) { 
+  } else if ((match = /doi\/figure\/(.*?)\/(.*)/.exec(path)) !== null) {
     // http://ascopubs.org:80/doi/figure/10.1200/JCO.2013.54.7893
     result.rtype    = 'FIGURE';
     result.mime     = 'HTML';
