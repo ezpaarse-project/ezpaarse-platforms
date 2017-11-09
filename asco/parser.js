@@ -47,6 +47,12 @@ module.exports = new Parser(function analyseEC(parsedUrl, ec) {
     result.mime     = 'HTML';
     result.doi      = match[1] + '/' + match[2];
     result.unitid   = match[2];
+  } else if ((match = /doi\/figure\/(.*?)\/(.*)/.exec(path)) !== null) { 
+    // http://ascopubs.org:80/doi/figure/10.1200/JCO.2013.54.7893
+    result.rtype    = 'FIGURE';
+    result.mime     = 'HTML';
+    result.doi      = match[1] + '/' + match[2];
+    result.unitid   = match[2];
   } else if ((match = /jobs\/(.*?)\//.exec(path)) !== null) {
     // https://careercenter-asco-org.proxytest.library.emory.edu/jobs/melanoma/
     result.rtype    = 'REF';
@@ -79,6 +85,12 @@ module.exports = new Parser(function analyseEC(parsedUrl, ec) {
     // http://ascopubs.org:80/action/doSearch?ConceptID=114&target=topic&SeriesKey=jco
     result.rtype    = 'SEARCH';
     result.mime     = 'HTML';
+  } else if ((match = /jco\/(.*?)(podcast)/.exec(path)) !== null) {
+    // http://ascopubs.org:80/jco/art-of-oncology-podcast
+    result.rtype    = 'AUDIO';
+    result.mime     = 'MISC';
+    result.unitid   = match[1] + match[2];
+    result.publication_title = 'Journal of Clinical Oncology';
   }
 
   if (/([A-Za-z]*?)\./.exec(result.unitid) !== null) {
