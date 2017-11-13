@@ -11,7 +11,12 @@
   "pkb": true,
 	"domains": [
     "onlinelibrary.wiley.com",
-    "agupubs.onlinelibrary.wiley.com"
+    "agupubs.onlinelibrary.wiley.com".
+    "aasldpubs.onlinelibrary.wiley.com",
+    "anthrosource.onlinelibrary.wiley.com",
+    "ascpt.onlinelibrary.wiley.com",
+    "aslopubs.onlinelibrary.wiley.com",
+    "www.wiley.com"
 	],
   "bacon": {
     "provider": "WILEY"
