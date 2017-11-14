@@ -1,4 +1,4 @@
-### Example:star::star:
+### Example:star::star: :
 
 
 ### Priority: 
