@@ -10,7 +10,9 @@
   "contact": "sylvain.machefert at u-bordeaux3.fr",
   "pkb": true,
 	"domains": [
-    "muse.jhu.edu"
+    "muse.jhu.edu",
+    "www.press.jhu.edu",
+    "www.muse.jhu.edu"
 	],
   "bacon": {
     "provider": "PROJECTMUSE"
