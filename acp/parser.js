@@ -33,7 +33,7 @@ module.exports = new Parser(function analyseEC(parsedUrl, ec) {
     result.rtype    = 'ARTICLE';
     result.mime     = 'HTML';
     result.title_id = match[1];
-  } else if ((match = /^\/aim\/fullarticle\/([0-9]+)\/(.*)$/i.exec(path)) !== null) {
+  } else if ((match = /^\/aim\/fullarticle\/([0-9]+)\/([a-zA-Z0-9-]+)/i.exec(path)) !== null) {
     // http://annals.org:80/aim/fullarticle/2661483/self-administered-versus-directly-observed-once-weekly-isoniazid-rifapentine-treatment
     result.rtype    = 'ARTICLE';
     result.mime     = 'HTML';
@@ -61,6 +61,16 @@ module.exports = new Parser(function analyseEC(parsedUrl, ec) {
     // http://www.acphospitalist.org:80/search/?site=ACP_Hospitalist&q=%22Clinical+Medicine%22&requiredfields=keywords:clinical+medicine
     result.rtype    = 'SEARCH';
     result.mime     = 'HTML';
+  } else if ((match = /^\/acp-newsroom\/multimedia\/\?bclid=([0-9]+)&bctid=([0-9]+)$/i.exec(path)) !== null) {
+    // https://www.acponline.org/acp-newsroom/multimedia/?bclid=782539368001&bctid=4715367376001
+    result.rtype    = 'VIDEO';
+    result.mime     = 'MISC';
+    result.unitid   = match[1];
+    result.title_id = match[2];
+  } else if ((match = /^\/practice-resources/i.exec(path)) !== null) {
+    //  https://www.acponline.org:443/practice-resources/
+    result.rtype    = 'REF';
+    result.mime     = 'HTML';
   } else if (hostname === 'advocacyblog.acponline.org') {
     // http://advocacyblog.acponline.org:80/2017/08/
     if ((match = /([0-9]+\/[0-9]+)/.exec(path)) !== null) {
@@ -78,6 +88,8 @@ module.exports = new Parser(function analyseEC(parsedUrl, ec) {
     result.publication_title = 'ACP Hospitalist';
   } else if (hostname === 'advocacyblog.acponline.org') {
     result.publication_title = 'ACP Advocate Blog';
+  } else if (hostname === 'annualmeeting.acponline.org') {
+    result.publication_title = 'Internal Medicine Meeting'
   }
 
   return result;

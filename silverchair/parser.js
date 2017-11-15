@@ -15,8 +15,6 @@ module.exports = new Parser(function analyseEC(parsedUrl, ec) {
   let path   = parsedUrl.pathname;
   let param  = parsedUrl.query || {};
   let host   = parsedUrl.host;
-  // use console.error for debuging
-  console.error(parsedUrl);
 
   let match;
 
@@ -79,18 +77,12 @@ module.exports = new Parser(function analyseEC(parsedUrl, ec) {
     result.title_id = match[1];
     result.unitid   = match[2];
 
-  } else if ((match = /^\/journals\/([a-z]+)\/[a-z]+\/[0-9]+\/(.*?)\.pdf$/i.exec(path)) !== null) {
+  } else if ((match = /^\/journals\/([a-z]+)\/articlepdf\/[0-9]+\/(.*?)\.pdf$/i.exec(path)) !== null) {
     // https://jamanetwork.com:443/journals/jamasurgery/articlepdf/2661292/jamasurgery_yousef_2017_cg_170017.pdf
     result.rtype    = 'ARTICLE';
     result.mime     = 'PDF';
     result.title_id = match[1];
     result.unitid   = match[2];
-
-  } else if ((match = /x/.exec(path)) !== null) {
-    // https://jamanetwork.com:443/journals/jamaneurology/articlepdf/2661301/jamaneurology_hamid_2017_oi_170080.pdf
-    result.rtype    = 'ARTICLE';
-    result.mime     = 'HTML';
-    result.title_id = 
 
   } else if ((match = /^(\/journals)?\/([a-z]+)\/issue\/([0-9]+)\/([0-9]+)$/i.exec(path)) !== null) {
     // http://jamanetwork.com/journals/jama/issue/315/2
