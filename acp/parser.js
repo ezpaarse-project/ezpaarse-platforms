@@ -89,7 +89,7 @@ module.exports = new Parser(function analyseEC(parsedUrl, ec) {
   } else if (hostname === 'advocacyblog.acponline.org') {
     result.publication_title = 'ACP Advocate Blog';
   } else if (hostname === 'annualmeeting.acponline.org') {
-    result.publication_title = 'Internal Medicine Meeting'
+    result.publication_title = 'Internal Medicine Meeting';
   }
 
   return result;
