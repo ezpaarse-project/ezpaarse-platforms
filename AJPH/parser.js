@@ -68,7 +68,7 @@ module.exports = new Parser(function analyseEC(parsedUrl, ec) {
     result.rtype    = 'BOOK';
     result.mime     = 'PDFPLUS';
     result.doi      = match[1] + '/' + match[2];
-    result.print_identifier = match[2]
+    result.print_identifier = match[2];
   } else if ((match = /^\/doi\/pdfplus\/(.*?)\/([A-Z].*)$/i.exec(path)) !== null) {
     // http://ajph.aphapublications.org:80/doi/pdfplus/10.2105/AJPH.2012.301107
     result.rtype    = 'ARTICLE';
@@ -98,10 +98,11 @@ module.exports = new Parser(function analyseEC(parsedUrl, ec) {
     result.rtype    = 'AUDIO';
     result.mime     = 'MISC';
     result.unitid   = match[1];
-  } else if ((match = /^\/toc\/ajph\//i.exec(path)) !== null) {
+  } else if ((match = /^\/toc\/ajph\/(.*)/i.exec(path)) !== null) {
     // http://ajph.aphapublications.org:80/toc/ajph/current
     result.rtype    = 'TOC';
     result.mime     = 'HTML';
+    result.unitid   = match[1];
   } else if ((match = /^\/topic\/([a-z]+)$/i.exec(path)) !== null) {
     // http://ajph.aphapublications.org:80/topic/drugs
     result.rtype    = 'REF';
