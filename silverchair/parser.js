@@ -77,6 +77,13 @@ module.exports = new Parser(function analyseEC(parsedUrl, ec) {
     result.title_id = match[1];
     result.unitid   = match[2];
 
+  } else if ((match = /^\/journals\/([a-z]+)\/articlepdf\/[0-9]+\/(.*?)\.pdf$/i.exec(path)) !== null) {
+    // https://jamanetwork.com:443/journals/jamasurgery/articlepdf/2661292/jamasurgery_yousef_2017_cg_170017.pdf
+    result.rtype    = 'ARTICLE';
+    result.mime     = 'PDF';
+    result.title_id = match[1];
+    result.unitid   = match[2];
+
   } else if ((match = /^(\/journals)?\/([a-z]+)\/issue\/([0-9]+)\/([0-9]+)$/i.exec(path)) !== null) {
     // http://jamanetwork.com/journals/jama/issue/315/2
     // /toxsci/issue/29/1
