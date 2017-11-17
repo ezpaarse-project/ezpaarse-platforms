@@ -12,6 +12,7 @@ out-print_identifier;out-doi;out-unitid;out-rtype;out-mime;in-url
 ;10.2105/AJPH.2017.303839;AJPH.2017.303839;SUPPL;HTML;http://ajph.aphapublications.org:80/doi/suppl/10.2105/AJPH.2017.303839
 ;10.2105/AJPH.2017.303839;AJPH.2017.303839;REF;HTML;http://ajph.aphapublications.org:80/doi/10.2105/AJPH.2017.303839
 ;;2017-10_Chinese.mp3;AUDIO;MISC;http://ajph.aphapublications.org:80/pb-assets/podcasts/2017-10_Chinese.mp3
-;;;TOC;HTML;http://ajph.aphapublications.org:80/toc/ajph/current
+;;current;TOC;HTML;http://ajph.aphapublications.org:80/toc/ajph/current
 ;;drugs;REF;HTML;http://ajph.aphapublications.org:80/topic/drugs
 ;;;SEARCH;HTML;http://ajph.aphapublications.org:80/action/doSearch?AllField=cancer
+;;CFP_PHE_MedicalCountermeasures;REF;PDF;http://ajph.aphapublications.org:80/pb-assets/downloads/CFP_PHE_MedicalCountermeasures.pdf

@@ -112,6 +112,11 @@ module.exports = new Parser(function analyseEC(parsedUrl, ec) {
     // http://ajph.aphapublications.org:80/action/doSearch?AllField=cancer
     result.rtype    = 'SEARCH';
     result.mime     = 'HTML';
+  } else if ((match = /^\/pb-assets\/downloads\/(.*?)\.pdf$/i.exec(path)) !== null) {
+    // http://ajph.aphapublications.org:80/pb-assets/downloads/CFP_PHE_MedicalCountermeasures.pdf
+    result.rtype    = 'REF';
+    result.mime     = 'PDF';
+    result.unitid   = match[1];
   }
 
   return result;
