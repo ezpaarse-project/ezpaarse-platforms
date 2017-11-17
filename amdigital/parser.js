@@ -55,6 +55,11 @@ module.exports = new Parser(function analyseEC(parsedUrl, ec) {
       titleID = titleID.substring(0, 2) + ' ' + titleID.substring(3, titleID.length).replace('_', '/');
       result.title_id = titleID;
     }
+  } else if ((match = /\/Image\/(.*)$/i.exec(path)) !== null) {
+    // http://www.globalcommodities.amdigital.co.uk:80/FurtherResources/VisualResources/Image/TNA_POWE_33_287/131
+    result.rtype    = 'IMAGE';
+    result.mime     = 'MISC';
+    result.unitid   = match[1];
   }
 
   return result;
