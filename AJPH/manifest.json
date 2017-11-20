@@ -1,0 +1,21 @@
+{
+  "version": "2017-11-16",
+  "status": "beta",
+  "domains": [
+    "ajph.aphapublications.org"
+  ],
+  "recognize": {
+    "rid": [
+      "doi",
+      "print_identifier"
+    ]
+  },
+  "name": "AJHP",
+  "longname": "American Journal of Public Health",
+  "publisher_name": "American Public Health Association",
+  "describe": "Recognizes the accesses to the platform American Journal of Public Health",
+  "docurl": "http://ang.couperin.org/platforms/573b356237cfe8c752b31b66",
+  "trello": "https://trello.com/c/MYQDjxzI/352-american-journal-of-public-health-ajph",
+  "contact": "alexander.cooper@emory.edu",
+  "pkb": false
+}
