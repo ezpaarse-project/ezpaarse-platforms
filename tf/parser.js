@@ -13,10 +13,12 @@ const Parser = require('../.lib/parser.js');
 module.exports = new Parser(function analyseEC(parsedUrl, ec) {
   let result = {};
   let path = parsedUrl.pathname;
+  // use console.error for debuging
+  // console.error(parsedUrl);
 
   let match;
 
-  if ((match = /^\/doi\/(full|pdf|abs)\/([0-9.]+\/([0-9a-z.]+))$/.exec(path)) !== null) {
+  if ((match = /^\/doi\/(full|pdf|abs|ref|figure)\/([0-9.]+\/([0-9a-zA-Z.]+))$/.exec(path)) !== null) {
     result.doi    = match[2];
     result.unitid = match[3];
 
@@ -38,6 +40,14 @@ module.exports = new Parser(function analyseEC(parsedUrl, ec) {
       // http://www.tandfonline.com:80/doi/abs/10.1080/00039420412331273295
       // http://www-tandfonline-com.inshs.bib.cnrs.fr/doi/abs/10.1179/amb.1991.38.1.1
       result.rtype = 'ABS';
+      result.mime  = 'HTML';
+    } else if (match[1].toUpperCase() == 'REF') {
+      // http://www.tandfonline.com:80/doi/ref/10.1080/00039420412331273295
+      result.rtype = 'REF';
+      result.mime  = 'HTML';
+    } else if (match[1].toUpperCase() == 'FIGURE') {
+      // http://www.tandfonline.com:80/doi/figure/10.1080/00039420412331273295
+      result.rtype = 'FIGURE';
       result.mime  = 'HTML';
     }
   } else if ((match = /^\/toc\/([a-zA-Z0-9]+)\/current$/.exec(path)) !== null) {
