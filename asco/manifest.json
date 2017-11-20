@@ -1,0 +1,30 @@
+{
+  "version": "2017-11-06",
+  "status": "beta",
+  "domains": [
+    "www.ascopubs.org",
+    "jco.ascopubs.org",
+    "jop.ascopubs.org",
+    "jgo.ascopubs.org",
+    "edbook.ascopubs.org",
+    "meetinglibrary.asco.org",
+    "www.globaloncologyjournal.org",
+    "globaloncologyjournal.org",
+    "click.broadcastemail.asco.org",
+    "ascopubs.org",
+    "asco.org"
+  ],
+  "recognize": {
+    "rid": [
+      "doi",
+      "unitid"
+    ]
+  },
+  "name": "asco",
+  "longname": "American Society of Clinical Oncology",
+  "describe": "Recognizes the accesses to the platform American Society of Clinical Oncology",
+  "docurl": "http://ang.couperin.org/platforms/5a009badc492d16d2d45cc81",
+  "trello": "https://trello.com/c/jLrTRT3G/433-american-society-of-clinical-oncology-asco",
+  "contact": "alexander.cooper@emory.edu",
+  "pkb": false
+}
