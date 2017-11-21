@@ -1,0 +1,16 @@
+{
+  "name": "kanopy",
+  "version": "2017-11-21",
+  "status": "beta",
+  "trello": "",
+  "longname": "KanopyStreaming",
+  "describe": "Modele de parseur tres simple",
+  "docurl": "http://ang.couperin.org/platforms/parserskeleton",
+  "contact": "dominique.lechaudel at inist point fr",
+	"domains": [
+    "www.kanopystreaming.com",
+    "emory.kanopystreaming.com",
+    "help.kanopystreaming.com"
+	],
+  "pkb": false
+}
