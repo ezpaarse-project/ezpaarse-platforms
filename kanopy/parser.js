@@ -23,14 +23,14 @@ module.exports = new Parser(function analyseEC(parsedUrl, ec) {
 
   if ((match = /^\/wayf\/product\/(.*)$/i.exec(path)) !== null) {
     // https://www.kanopystreaming.com:443/wayf/product/fridays-farm
-    result.rtype    = 'VIDEO';
-    result.mime     = 'MISC';
+    result.rtype    = 'ABS';
+    result.mime     = 'HTML';
     result.title_id = match[1];
     result.unitid   = match[1];
   } else if ((match = /^\/product\/(.*)$/i.exec(path)) !== null) {
     // http://emory.kanopystreaming.com:80/product/fridays-farm
-    result.rtype    = 'VIDEO';
-    result.mime     = 'MISC';
+    result.rtype    = 'ABS';
+    result.mime     = 'HTML';
     result.title_id = match[1];
     result.unitid   = match[1];
   } else if ((match = /^\/video\/(.*)$/i.exec(path)) !== null) {
@@ -39,17 +39,23 @@ module.exports = new Parser(function analyseEC(parsedUrl, ec) {
     result.mime     = 'MISC';
     result.title_id = match[1];
     result.unitid   = match[1];
-  } else if ((match = /^\/s[?]query=(.*)$/i.exec(path)) !== null) {
+  } else if ((match = /^\/s\?query=(.*)$/i.exec(path)) !== null) {
     // https://www.kanopystreaming.com:443/s?query=groundhog%20day
     result.rtype    = 'SEARCH';
     result.mime     = 'HTML';
-    result.title_id = match[1];
-    result.unitid   = match[1];
   } else if ((match = /^\/node\/(.*?)\//i.exec(path)) !== null) {
     // http://emory.kanopystreaming.com:80/node/100481/preview
-    result.rtype    = 'VIDEO';
+    result.rtype    = 'PREVIEW';
     result.mime     = 'MISC';
     result.unitid   = match[1];
+  } else if ((match = /^\/catalog\/(.*)$/i.exec(path)) !== null) {
+    // https://www.kanopystreaming.com/catalog/documentaries
+    result.rtype    = 'SEARCH';
+    result.mime     = 'HTML';
+  } else if ((match = /^\/category\/catalog\/(.*)$/i.exec(path)) !== null) {
+    // https://www.kanopystreaming.com:443/category/catalog/business/career-development
+    result.rtype    = 'SEARCH';
+    result.mime     = 'HTML';
   }
 
   return result;
