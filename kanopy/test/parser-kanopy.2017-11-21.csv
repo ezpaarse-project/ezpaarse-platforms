@@ -1,0 +1,8 @@
+out-unitid;out-title_id;out-mime;out-rtype;in-url
+fridays-farm;fridays-farm;HTML;ABS;https://www.kanopystreaming.com:443/wayf/product/fridays-farm
+fridays-farm;fridays-farm;HTML;ABS;http://emory.kanopystreaming.com:80/product/fridays-farm
+fridays-farm;fridays-farm;MISC;VIDEO;http://emory.kanopystreaming.com:80/video/fridays-farm
+;;HTML;SEARCH;https://www.kanopystreaming.com:443/s?query=groundhog%20day
+100481;;MISC;PREVIEW;http://emory.kanopystreaming.com:80/node/100481/preview
+;;HTML;SEARCH;https://www.kanopystreaming.com/catalog/documentaries
+;;HTML;SEARCH;https://www.kanopystreaming.com:443/category/catalog/business/career-development
