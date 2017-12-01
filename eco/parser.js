@@ -111,10 +111,10 @@ module.exports = new Parser(function analyseEC(parsedUrl, ec) {
     result.unitid   = match[2];
   } else if ((match = /^\/blog\/(.*)$/i.exec(path)) !== null) {
     // https://execed.economist.com:443/blog/career-hacks/digital-distractions-make-leaders-less-influential
-      result.rtype    = 'REF';
-      result.mime     = 'HTML';
-      result.title_id = match[1];
-      result.unitid   = match[1];
+    result.rtype    = 'REF';
+    result.mime     = 'HTML';
+    result.title_id = match[1];
+    result.unitid   = match[1];
   }
 
   if (result.mime != null) {
