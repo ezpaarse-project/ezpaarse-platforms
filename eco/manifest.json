@@ -1,0 +1,33 @@
+{
+  "name": "eco",
+  "version": "2017-11-29",
+  "status": "beta",
+  "trello": "https://trello.com/c/Tl5Ofdu9/439-the-economist-eco",
+  "longname": "The Economist",
+  "publisher_name": "The Economist Group",
+  "describe": "Recognizes the accesses to the platform The Economist",
+  "docurl": "http://ang.couperin.org/platforms/5a0f29b9ab9976bf1f8621bc",
+  "contact": "alexander.cooper@emory.edu",
+  "pkb": "false",
+	"domains": [
+    "www.economist.com",
+    "economist.com",
+    "radio.economist.com",
+    "film.economist.com",
+    "1843magazine.com",
+    "www.eiu.com",
+    "eiu.com",
+    "country.eiu.com",
+    "debates.economist.com",
+    "www.rollcall.com",
+    "cdn.videos.rollcall.com",
+    "data.rollcall.com"
+	],
+  "recognize": {
+    "rid": [
+      "unitid",
+      "title_id",
+      "publication_title"
+    ]
+  }
+}
