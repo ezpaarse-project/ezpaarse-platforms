@@ -12,7 +12,8 @@ const Parser = require('../.lib/parser.js');
  */
 module.exports = new Parser(function analyseEC(parsedUrl, ec) {
   let result = {};
-  let path   = parsedUrl.path;
+  let path   = parsedUrl.pathname;
+
   // uncomment this line if you need parameters
   // let param = parsedUrl.query || {};
 
@@ -39,7 +40,7 @@ module.exports = new Parser(function analyseEC(parsedUrl, ec) {
     result.mime     = 'MISC';
     result.title_id = match[1];
     result.unitid   = match[1];
-  } else if ((match = /^\/s\?query=(.*)$/i.exec(path)) !== null) {
+  } else if (/^\/s$/i.test(path)) {
     // https://www.kanopystreaming.com:443/s?query=groundhog%20day
     result.rtype    = 'SEARCH';
     result.mime     = 'HTML';
@@ -48,11 +49,11 @@ module.exports = new Parser(function analyseEC(parsedUrl, ec) {
     result.rtype    = 'PREVIEW';
     result.mime     = 'MISC';
     result.unitid   = match[1];
-  } else if ((match = /^\/catalog\/(.*)$/i.exec(path)) !== null) {
+  } else if (/^\/catalog\/.*$/i.test(path)) {
     // https://www.kanopystreaming.com/catalog/documentaries
     result.rtype    = 'SEARCH';
     result.mime     = 'HTML';
-  } else if ((match = /^\/category\/catalog\/(.*)$/i.exec(path)) !== null) {
+  } else if (/^\/category\/catalog\/.*$/i.test(path)) {
     // https://www.kanopystreaming.com:443/category/catalog/business/career-development
     result.rtype    = 'SEARCH';
     result.mime     = 'HTML';
@@ -60,4 +61,3 @@ module.exports = new Parser(function analyseEC(parsedUrl, ec) {
 
   return result;
 });
-
