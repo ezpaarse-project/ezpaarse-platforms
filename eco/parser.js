@@ -28,7 +28,7 @@ module.exports = new Parser(function analyseEC(parsedUrl, ec) {
     result.rtype    = 'ARTICLE';
     result.mime     = 'HTML';
     result.title_id = match[1];
-    result.unitid   = match[3];
+    result.unitid   = match[1];
   } else if ((match = /^\/blogs\/([a-z0-9-]*)/i.exec(path)) !== null) {
     // https://www.economist.com:443/blogs/graphicdetail/2017/11/daily-chart-23
     // http://www.economist.com:80/blogs/buttonwood
@@ -79,13 +79,13 @@ module.exports = new Parser(function analyseEC(parsedUrl, ec) {
     result.rtype    = 'VIDEO';
     result.mime     = 'MISC';
     result.title_id = match[1];
-    result.unitid   = match[3];
+    result.unitid   = match[1];
   } else if ((match = /^\/news\/((.*?)\/(.*))/i.exec(path)) !== null) {
     // http://www.rollcall.com:80/news/politics/joe-biden-returns-defend-bfd
     result.rtype    = 'ARTICLE';
     result.mime     = 'HTML';
     result.title_id = match[1];
-    result.unitid   = match[3];
+    result.unitid   = match[1];
   } else if ((match = /eiu.com.*article_id=([0-9]*)/i.exec(href)) !== null) {
     // http://viewswire.eiu.com:80/index.asp?layout=RKArticleVW3&article_id=1046042488&refm=rkHome&page_title=Latest%20risk%20analysis&fs=true&fs=true
     result.rtype    = 'ARTICLE';
@@ -107,7 +107,7 @@ module.exports = new Parser(function analyseEC(parsedUrl, ec) {
     // http://www.eiu.com:80/industry/article/1196129903/isabel-dos-santos-loses-sonangol-position/2017-11-1
     result.rtype    = 'ARTICLE';
     result.mime     = 'HTML';
-    result.title_id = match[1];
+    result.title_id = match[2];
     result.unitid   = match[2];
   } else if ((match = /^\/blog\/(.*)$/i.exec(path)) !== null) {
     // https://execed.economist.com:443/blog/career-hacks/digital-distractions-make-leaders-less-influential
@@ -119,6 +119,12 @@ module.exports = new Parser(function analyseEC(parsedUrl, ec) {
     // https://www.economist.com/sections/briefings
     result.rtype    = 'TOC';
     result.mime     = 'HTML';
+  } else if ((match = /^\/na\/printedition\/(.*)$/i.exec(path)) !== null) {
+    // https://www.economist.com:443/na/printedition/2017-12-02
+    result.rtype    = 'TOC';
+    result.mime     = 'HTML';
+    result.title_id = match[1];
+    result.unitid   = match[1];
   }
 
   if (result.mime != null) {
