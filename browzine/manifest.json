@@ -1,0 +1,19 @@
+{
+  "version": "2017-12-06",
+  "status": "beta",
+  "domains": [
+    "browzine.com",
+    "api.thirdiron.com"
+  ],
+  "recognize": {
+    "rid": []
+  },
+  "name": "browzine",
+  "longname": "BrowZine",
+  "describe": "Recognizes the accesses to the platform Browzine",
+  "publisher_name": "Third Iron",
+  "trello": "",
+  "docurl": "",
+  "contact": "alexander.cooper@emory.edu",
+  "pkb": "false"
+}
