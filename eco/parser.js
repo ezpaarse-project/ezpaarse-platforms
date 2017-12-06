@@ -34,7 +34,7 @@ module.exports = new Parser(function analyseEC(parsedUrl, ec) {
     result.rtype    = 'REF';
     result.mime     = 'HTML';
     result.unitid   = match[1];
-  } else if ((match = /^\/blogs\/([a-z0-9-\/]*)$/i.exec(path)) !== null) {
+  } else if ((match = /^\/blogs\/([a-z0-9-/]*)$/i.exec(path)) !== null) {
     // https://www.economist.com:443/blogs/graphicdetail/2017/11/daily-chart-23
     // http://www.economist.com:80/blogs/buttonwood?id=2512631
     result.rtype    = 'REF';
