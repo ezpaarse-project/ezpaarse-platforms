@@ -45,7 +45,7 @@ module.exports = new Parser(function analyseEC(parsedUrl) {
     result.title_id = match[2];
   }
 
-  else if ((match = /\/lextenso\/ud\/urn:([a-zA-Z0-9]+)$/i.exec(path)) !== null) {
+  else if ((match = /\/lextenso\/ud\/urn:([a-z0-9_-]+)$/i.exec(path)) !== null) {
     //EDCO;EDCO2016023;ARTICLE;HTML;http://www.lextenso.fr/lextenso/ud/urn%3AEDCO2016023
     //PA;PA201602013;ARTICLE;HTML;http://www.lextenso.fr/lextenso/ud/urn%3APA201602013
     //CONSTEXT;CONSTEXT000031256027;JURISPRUDENCE;HTML;http://www.lextenso.fr/lextenso/ud/urn%3ACONSTEXT000031256027
