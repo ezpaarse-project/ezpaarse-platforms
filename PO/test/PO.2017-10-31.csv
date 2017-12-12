@@ -4,7 +4,7 @@ out-vol;out-issue;out-doi;out-print_identifier;out-unitid;out-rtype;out-mime;out
 ;;10.1176/appi.ajp.2017.17050539;;appi.ajp.2017.17050539;ARTICLE;PDFPLUS;American Journal of Psychiatry;http://ajp.psychiatryonline.org:80/doi/pdfplus/10.1176/appi.ajp.2017.17050539
 ;;;;;AUDIO;MISC;American Journal of Psychiatry;http://ajp.psychiatryonline.org:80/audio
 ;;;;October_2017.mp3;AUDIO;MISC;American Journal of Psychiatry;http://ajp.psychiatryonline.org:80/pb/assets/raw/journals/ajp/audio/2017/October_2017.mp3
-174;10;;;;TOC;HTML;American Journal of Psychiatry;http://ajp.psychiatryonline.org.proxytest.library.emory.edu/toc/ajp/174/10
+174;10;;;174/10;TOC;HTML;American Journal of Psychiatry;http://ajp.psychiatryonline.org.proxytest.library.emory.edu/toc/ajp/174/10
 ;;10.1176/appi.ajp.2017.17070796;;appi.ajp.2017.17070796;ABS;HTML;American Journal of Psychiatry;http://ajp.psychiatryonline.org:80/doi/abs/10.1176/appi.ajp.2017.17070796
 ;;10.1176/appi.books.9781585624836;9781585624836;appi.books.9781585624836;BOOK;HTML;DSM Library;http://dsm.psychiatryonline.org:80/doi/book/10.1176/appi.books.9781585624836
 ;;10.1176/appi.ps.201700055;;appi.ps.201700055;ARTICLE;HTML;Psychiatric Services;http://ps.psychiatryonline.org:80/doi/10.1176/appi.ps.201700055
