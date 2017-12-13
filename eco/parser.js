@@ -161,7 +161,7 @@ module.exports = new Parser(function analyseEC(parsedUrl, ec) {
     result.mime     = 'HTML';
     result.title_id = query.campaignid;
     result.unitid   = query.campaignid;
-  } else if ((match = /^$/i.exec(path)) !== null) {
+  } else if ((match = /^\/Handlers\/WhitepaperHandler/i.exec(path)) !== null) {
     // http://www.eiu.com:80/Handlers/WhitepaperHandler.ashx?fi=BePreparedEIUHealthcare2017.pdf&mode=wp&campaignid=InvasiveMosquitoes
     result.rtype    = 'ARTICLE';
     result.mime     = 'PDF';
