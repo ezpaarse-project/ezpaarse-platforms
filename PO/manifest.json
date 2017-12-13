@@ -1,6 +1,6 @@
 {
   "version": "2017-10-31",
-  "status": "beta",
+  "status": "active",
   "domains": [
     "psychiatryonline.org",
     "www.psychiatryonline.org",
@@ -23,6 +23,7 @@
   },
   "name": "PO",
   "longname": "PsychiatryOnline",
+  "publisher_name": "American Psychiatric Associations",
   "describe": "Recognizes the accesses to the platform PsychiatryOnline",
   "trello": "https://trello.com/c/VX4gydMO/351-psychiatryonline-po",
   "docurl": "http://analyses.ezpaarse.org/platforms/573b34ffc6bd6e67576d6750/analyses",
