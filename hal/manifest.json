@@ -1,5 +1,5 @@
 {
-  "version": "2015-03-17",
+  "version": "2017-11-27",
   "status": "beta",
   "domains": [
     "hal.archives-ouvertes.fr"
@@ -8,6 +8,10 @@
     "rid": [
       "title_id",
       "unitid"
+    ],
+    "idtype": [
+      "IDENTIFIANT",
+      "DOCID"
     ],
     "rtype": [
       "ARTICLE",
