@@ -1,0 +1,19 @@
+{
+  "version": "2017-12-13",
+  "status": "beta",
+  "domains": [
+    "www.policymap.com",
+    "policymap.com"
+  ],
+  "recognize": {
+    "rid": [
+      "unitid"
+    ]
+  },
+  "name": "pm",
+  "longname": "PolicyMap",
+  "describe": "Recognizes the accesses to the platform PolicyMap",
+  "docurl": "http://ang.couperin.org/platforms/5a319d6f6028b1e159cd8144",
+  "contact": "alexander.cooper@emory.edu",
+  "pkb": false
+}
