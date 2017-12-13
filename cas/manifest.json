@@ -1,6 +1,6 @@
 {
   "version": "2017-12-06",
-  "status": "beta",
+  "status": "active",
   "domains": [
     "www.cas.org",
     "scifinder.cas.org"
@@ -12,6 +12,7 @@
   },
   "name": "cas",
   "longname": "SciFinder / Chemical Abstracts",
+  "publisher_name": "Chemical Abstracts Service",
   "describe": "Recognizes the accesses to the platform SciFinder / Chemical Abstracts",
   "docurl": "http://ang.couperin.org/platforms/5571584be8ce3e33965b39f1",
   "trello": "https://trello.com/c/kwTPXYAn/246-scifinder-chemical-abstracts-chemabs-cas",
