@@ -13,7 +13,7 @@ const Parser = require('../.lib/parser.js');
 module.exports = new Parser(function analyseEC(parsedUrl, ec) {
   let result = {};
   let path   = parsedUrl.path;
-  let hostname = parsedUrl.hostname
+  let hostname = parsedUrl.hostname;
   // uncomment this line if you need parameters
   // let param = parsedUrl.query || {};
 
@@ -89,7 +89,7 @@ module.exports = new Parser(function analyseEC(parsedUrl, ec) {
   } else if (hostname === 'advocacyblog.acponline.org') {
     result.publication_title = 'ACP Advocate Blog';
   } else if (hostname === 'annualmeeting.acponline.org') {
-    result.publication_title = 'Internal Medicine Meeting'
+    result.publication_title = 'Internal Medicine Meeting';
   }
 
   return result;
