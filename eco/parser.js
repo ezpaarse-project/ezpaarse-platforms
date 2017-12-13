@@ -142,7 +142,7 @@ module.exports = new Parser(function analyseEC(parsedUrl, ec) {
     result.rtype    = 'TOC';
     result.mime     = 'HTML';
     result.title_id = match[1];
-    result.unitid   = match[1]; 
+    result.unitid   = match[1];
   } else if ((match = /^\/na\/printedition\/(.*)$/i.exec(path)) !== null) {
     // https://www.economist.com:443/na/printedition/2017-12-02
     result.rtype    = 'TOC';
