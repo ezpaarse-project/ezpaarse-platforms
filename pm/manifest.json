@@ -3,6 +3,7 @@
   "status": "beta",
   "domains": [
     "www.policymap.com",
+    "emory.policymap.com",
     "policymap.com"
   ],
   "recognize": {
