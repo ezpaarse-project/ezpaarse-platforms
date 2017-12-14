@@ -32,6 +32,10 @@ module.exports = new Parser(function analyseEC(parsedUrl, ec) {
       result.rtype   = 'REF';
       result.mime    = 'HTML';
       result.unitid  = param.i;
+    } else if (param.pid) {
+      result.rtype   = 'REF';
+      result.mime    = 'HTML';
+      result.unitid  = param.pid;
     }
   }
 
