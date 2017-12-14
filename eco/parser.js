@@ -179,6 +179,12 @@ module.exports = new Parser(function analyseEC(parsedUrl, ec) {
     result.mime     = 'HTML';
     result.title_id = match[1];
     result.unitid   = match[1];
+  } else if ((match = /^\/whichmba\/(.*)$/i.exec(path)) !== null) {
+    // http://www.economist.com:80/whichmba/mba-diary-sweet-chocolate
+    result.rtype    = 'ARTICLE';
+    result.mime     = 'HTML';
+    result.title_id = match[1];
+    result.unitid   = match[1];
   }
 
   if (result.mime != null) {
