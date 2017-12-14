@@ -24,7 +24,7 @@ module.exports = new Parser(function analyseEC(parsedUrl, ec) {
 
   let match;
 
-  if ((match = /^\/news\/((.*)\/(.*))$/i.exec(path)) !== null) {
+  if ((match = /^\/news\/(.*)$/i.exec(path)) !== null) {
     // https://www.economist.com:443/news/world-week/21731696-politics-week
     result.rtype    = 'ARTICLE';
     result.mime     = 'HTML';
@@ -79,16 +79,16 @@ module.exports = new Parser(function analyseEC(parsedUrl, ec) {
     result.mime     = 'HTML';
     result.title_id = match[1];
     result.unitid   = match[1];
-  } else if ((match = /^\/videos\/((.*)\/(.*))/i.exec(path)) !== null) {
-    // http://cdn.videos.rollcall.com/videos/201701/Biden_Being_Biden_03.webm
+  } else if ((match = /^\/video\/(.*)$/i.exec(path)) !== null) {
+    // http://www.rollcall.com:80/video/joe_biden_s_full_dnc_speech
     result.rtype    = 'VIDEO';
     result.mime     = 'MISC';
     result.title_id = match[1];
     result.unitid   = match[1];
-  } else if ((match = /^\/news\/((.*?)\/(.*))/i.exec(path)) !== null) {
-    // http://www.rollcall.com:80/news/politics/joe-biden-returns-defend-bfd
-    result.rtype    = 'ARTICLE';
-    result.mime     = 'HTML';
+  } else if ((match = /^\/videos\/(.*)/i.exec(path)) !== null) {
+    // http://cdn.videos.rollcall.com/videos/201701/Biden_Being_Biden_03.webm
+    result.rtype    = 'VIDEO';
+    result.mime     = 'MISC';
     result.title_id = match[1];
     result.unitid   = match[1];
   } else if (/ArticleVW/i.test(query.layout)) {
@@ -137,6 +137,12 @@ module.exports = new Parser(function analyseEC(parsedUrl, ec) {
     // https://www.economist.com/sections/briefings
     result.rtype    = 'TOC';
     result.mime     = 'HTML';
+  } else if ((match = /^\/printedition\/(.*)$/i.exec(path)) !== null) {
+    // http://www.economist.com:80/printedition/2017-11-18
+    result.rtype    = 'TOC';
+    result.mime     = 'HTML';
+    result.title_id = match[1];
+    result.unitid   = match[1];
   } else if ((match = /^\/na\/printedition\/(.*)$/i.exec(path)) !== null) {
     // https://www.economist.com:443/na/printedition/2017-12-02
     result.rtype    = 'TOC';
@@ -145,6 +151,36 @@ module.exports = new Parser(function analyseEC(parsedUrl, ec) {
     result.unitid   = match[1];
   } else if ((match = /^\/((technology-quarterly)\/(.*))\//i.exec(path)) !== null) {
     // http://www.economist.com/technology-quarterly/2017-05-01/language#section-2
+    result.rtype    = 'ARTICLE';
+    result.mime     = 'HTML';
+    result.title_id = match[1];
+    result.unitid   = match[1];
+  } else if ((match = /^\/public\/topical_report/i.exec(path)) !== null) {
+    // http://www.eiu.com:80/public/topical_report.aspx?campaignid=InvasiveMosquitoes
+    result.rtype    = 'ABS';
+    result.mime     = 'HTML';
+    result.title_id = query.campaignid;
+    result.unitid   = query.campaignid;
+  } else if ((match = /^\/Handlers\/WhitepaperHandler/i.exec(path)) !== null) {
+    // http://www.eiu.com:80/Handlers/WhitepaperHandler.ashx?fi=BePreparedEIUHealthcare2017.pdf&mode=wp&campaignid=InvasiveMosquitoes
+    result.rtype    = 'ARTICLE';
+    result.mime     = 'PDF';
+    result.title_id = query.fi;
+    result.unitid   = query.fi;
+  } else if ((match = /^\/industry\/commodities\/article\/((.*?)\/(.*))$/i.exec(path)) !== null) {
+    // http://www.eiu.com:80/industry/commodities/article/286113812/cocoa/2017-12-01
+    result.rtype    = 'ARTICLE';
+    result.mime     = 'HTML';
+    result.title_id = match[1];
+    result.unitid   = match[2];
+  } else if ((match = /^\/multimedia\/(.*)$/i.exec(path)) !== null) {
+    // http://www.economist.com/multimedia/theworldin2012
+    result.rtype    = 'TOC';
+    result.mime     = 'HTML';
+    result.title_id = match[1];
+    result.unitid   = match[1];
+  } else if ((match = /^\/whichmba\/(.*)$/i.exec(path)) !== null) {
+    // http://www.economist.com:80/whichmba/mba-diary-sweet-chocolate
     result.rtype    = 'ARTICLE';
     result.mime     = 'HTML';
     result.title_id = match[1];
