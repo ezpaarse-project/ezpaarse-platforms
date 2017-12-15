@@ -12,6 +12,7 @@
   },
   "name": "emb",
   "longname": "Embase",
+  "publisher_name": "Elsevier",
   "describe": "Recognizes the accesses to the platform Embase",
   "docurl": "http://ang.couperin.org/platforms/5a14420c66ebb553abd43b7a",
   "contact": "alexander.cooper@emory.edu",
