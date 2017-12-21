@@ -1,0 +1,46 @@
+{
+  "version": "2017-12-18",
+  "status": "beta",
+  "domains": [
+    "www.oxfordscholarship.com",
+    "yale.universitypressscholarship.com",
+    "princeton.universitypressscholarship.com",
+    "nyu.universitypressscholarship.com",
+    "mitpress.universitypressscholarship.com",
+    "cornell.universitypressscholarship.com",
+    "northcarolina.universitypressscholarship.com",
+    "cairo.universitypressscholarship.com",
+    "britishacademy.universitypressscholarship.com",
+    "columbia.universitypressscholarship.com",
+    "edinburgh.universitypressscholarship.com",
+    "fordham.universitypressscholarship.com",
+    "hongkong.universitypressscholarship.com",
+    "liverpool.universitypressscholarship.com",
+    "manchester.universitypressscholarship.com",
+    "stanford.universitypressscholarship.com",
+    "florida.universitypressscholarship.com",
+    "kentucky.universitypressscholarship.com",
+    "mississippi.universitypressscholarship.com",
+    "california.universitypressscholarship.com",
+    "chicago.universitypressscholarship.com",
+    "hawaii.universitypressscholarship.com",
+    "illinois.universitypressscholarship.com",
+    "minnesota.universitypressscholarship.com",
+    "policypress.universitypressscholarship.com",
+    "www.universitypressscholarship.com",
+    "universitypressscholarship.com"
+  ],
+  "recognize": {
+    "rid": [
+      "title_id",
+      "unitid"
+    ]
+  },
+  "name": "University Press Scholarship Online ",
+  "longname": "upso",
+  "describe": "Recognizes the accesses to the platform upso",
+  "docurl": "http://ang.couperin.org/platforms/573b2ce4a9a670fcddddabc3",
+  "trello": "https://trello.com/c/aTeRUGDW/346-university-press-scholarship-online-upso",
+  "contact": "alexander.cooper@emory.edu",
+  "pkb": false
+}
