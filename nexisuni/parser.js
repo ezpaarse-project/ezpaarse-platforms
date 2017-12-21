@@ -43,8 +43,8 @@ module.exports = new Parser(function analyseEC(parsedUrl, ec) {
   } else if (/^\/en-us\/about-us\/media\/press-release.page$/i.test(path)) {
     // http://www.lexisnexis.com:80/en-us/about-us/media/press-release.page?id=1485461802825730&y=2017
     result.rtype    = 'REF';
-    result.mime     = 'html';
-    result.id       = param.id;
+    result.mime     = 'HTML';
+    result.unitid   = param.id;
     result.publication_date = param.y;
   } else if (/\/practice-advisor-browse-results\/$/i.test(path)) {
     // https://advance.lexis.com:443/open/practice-advisor-browse-results/?pdcatfilters=UHJhY3RpY2VBcmVhXnVybjp0b3BpYzo4NjRCRTQ0MjhDN0QzRTJCOEIxMkY2OTExRjJFNkY0Q3xDb250ZW50VHlwZV5BUlRJQ0xFUw&pdbcts=1513798142432&crid=ee519864-de91-4aca-a60d-4cc39438ee24&prid=90072459-91ea-4f7d-87cc-2d0a6dfde4c5&pdpt=Articles
