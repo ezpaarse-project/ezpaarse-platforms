@@ -21,38 +21,30 @@ module.exports = new Parser(function analyseEC(parsedUrl, ec) {
 
   let match;
 
-  if ((match = /doi\/full\/(.*?)\/(.*)/.exec(path)) !== null) {
+  if ((match = /^\/doi\/full\/((.*?)\/(.*))$/i.exec(path)) !== null) {
     // http://ascopubs.org:80/doi/full/10.1200/JCO.2017.75.4721
     result.rtype    = 'ARTICLE';
     result.mime     = 'HTML';
-    result.doi   = match[1] + '/' + match[2];
-
-    /**
-     * unitid is a crucial information needed to filter double-clicks phenomenon, like described by COUNTER
-     * it described the most fine-grained of what's being accessed by the user
-     * it can be a DOI, an internal identifier or a part of the accessed URL
-     * more at http://ezpaarse.readthedocs.io/en/master/essential/ec-attributes.html#unitid
-     */
-    result.unitid = match[2];
-
-  } else if ((match = /doi\/pdf\/(.*?)\/(.*)/.exec(path)) !== null) {
+    result.doi   = match[1];
+    result.unitid = match[3];
+  } else if ((match = /^\/doi\/pdf\/((.*?)\/(.*))$/.exec(path)) !== null) {
     // http://ascopubs.org:80/doi/pdf/10.1200/JCO.2017.75.4721
     result.rtype    = 'ARTICLE';
     result.mime     = 'PDF';
-    result.doi      = match[1] + '/' + match[2];
-    result.unitid   = match[2];
-  } else if ((match = /doi\/abs\/(.*?)\/(.*)/.exec(path)) !== null) {
+    result.doi      = match[1];
+    result.unitid   = match[3];
+  } else if ((match = /^\/doi\/abs\/((.*?)\/(.*))$/.exec(path)) !== null) {
     // http://ascopubs.org:80/doi/abs/10.1200/JOP.2017.025536
     result.rtype    = 'ABS';
     result.mime     = 'HTML';
-    result.doi      = match[1] + '/' + match[2];
-    result.unitid   = match[2];
-  } else if ((match = /doi\/figure\/(.*?)\/(.*)/.exec(path)) !== null) {
+    result.doi      = match[1];
+    result.unitid   = match[3];
+  } else if ((match = /^\/doi\/figure\/((.*?)\/(.*))$/.exec(path)) !== null) {
     // http://ascopubs.org:80/doi/figure/10.1200/JCO.2013.54.7893
     result.rtype    = 'FIGURE';
     result.mime     = 'HTML';
-    result.doi      = match[1] + '/' + match[2];
-    result.unitid   = match[2];
+    result.doi      = match[1];
+    result.unitid   = match[3];
   } else if ((match = /jobs\/(.*?)\//.exec(path)) !== null) {
     // https://careercenter-asco-org.proxytest.library.emory.edu/jobs/melanoma/
     result.rtype    = 'REF';
