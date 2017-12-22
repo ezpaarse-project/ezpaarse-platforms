@@ -1,0 +1,22 @@
+{
+  "version": "2017-10-19",
+  "status": "active",
+  "domains": [
+    "www.clinicalkey.com",
+    "www.clinicalkey.es"
+  ],
+  "recognize": {
+    "rid": [
+      "unitid",
+      "pii"
+    ]
+  },
+  "name": "ck",
+  "longname": "ClinicalKey",
+  "publisher_name": "Elsevier",
+  "describe": "Recognizes the accesses to the platform ClinicalKey",
+  "trello": "https://trello.com/c/1a8Iwpfv/153-clinicalkey-ck",
+  "docurl": "http://ang.couperin.org/platforms/546615a3e045b7ad9d271db8",
+  "contact": "alexander.cooper@emory.edu",
+  "pkb": false
+}
