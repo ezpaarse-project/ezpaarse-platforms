@@ -31,7 +31,7 @@ module.exports = new Parser(function analyseEC(parsedUrl, ec) {
     result.mime     = 'HTML';
     result.title_id = match[1];
     result.unitid   = match[3];
-  } else if ((match = /\/scifinder\/R42\/sciplanner\/(.*).htm$/i.exec(path)) !== null) {
+  } else if ((match = /\/scifinder\/R42\/sciplanner\/(.*)\.htm$/i.exec(path)) !== null) {
     // https://scifinder.cas.org:443/help/scifinder/R42/sciplanner/video_manipulate_workspace_objects.htm
     result.rtype    = 'VIDEO';
     result.mime     = 'MISC';
@@ -45,7 +45,7 @@ module.exports = new Parser(function analyseEC(parsedUrl, ec) {
     // https://scifinder.cas.org:443/scifinder/substancesImage/structure/AjU8gQ_b8V62mSUUKQflpbWMytVNJ3_hLowMYw8bCjrMjXEWqX0Edd0rWjkhsPzjtLVHhOuAmx0qA3keLsc_7BU1BrhqsOPaSmqW_4uuk30CBdJ0z_wBnpjxBwsmbf_Umuij7R2wmlJvBnHegU99gg?imageMaxWidth=2000&scale=0.03&isReactionImage=false
     result.rtype    = 'IMAGE';
     result.mime     = 'MISC';
-  } else if (/^\/scifinder\/substances\/answers\/.*.html$/i.test(path)) {
+  } else if (/^\/scifinder\/substances\/answers\/.*\.html$/i.test(path)) {
     // https://scifinder.cas.org:443/scifinder/substances/answers/27A3CCCEX86F35094X3341EB425496620440:27F22503X86F35093X7774DEFC1439F415B9/1.html?key=REGISTRY_1328895-95-9&title=1328895-95-9&launchSrc=sublist&pageNum=1&nav=eNpb85aBtYSBMbGEQcXI3M3IyNTAOMLCzM3Y1MDSOMLc3NzExdXN2dDE2NLNxNDUyRKoNKm4iEEwK7EsUS8nMS9dzzOvJDU9tUjo0YIl3xvbLZgYGD0ZWMsSc0pTK4oYBBDq_Epzk1KL2tZMleWe8qCbiYGhooCBgUEcaGBGCQN3cGiAa1B8kL-PazBQJL-4kKGOgRkoz1jCwFRUhmqjU35-Tmpi3lmFooarc369A9oYBbOxgAEAg04-rQ&sortKey=SUBSTANCE_ID&sortOrder=DESCENDING
     result.rtype    = 'REF';
     result.mime     = 'HTML';
