@@ -3,6 +3,7 @@
 'use strict';
 const Parser = require('../.lib/parser.js');
 const doiPrefix = '10.1787';
+const doiUn     = '10.18356';
 
 /**
  * Recognizes the accesses to the platform OECD iLibrary
@@ -15,6 +16,10 @@ module.exports = new Parser(function analyseEC(parsedUrl, ec) {
   let result = {};
   let path   = parsedUrl.pathname;
   let param  = parsedUrl.query || {};
+
+  // use console.error for debuging
+  console.error(parsedUrl);
+
   let match;
 
   if ((match = /^\/economics\/[0-9a-z_-]+_([0-9a-z-]+)$/i.exec(path)) !== null) {

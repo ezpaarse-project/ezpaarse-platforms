@@ -45,7 +45,7 @@ module.exports = new Parser(function analyseEC(parsedUrl, ec) {
     result.mime     = 'HTML';
     result.doi      = match[1];
     result.unitid   = match[3];
-  } else if ((match = /jobs\/(.*?)\//.exec(path)) !== null) {
+  } else if (/jobs\/(.*?)\//.test(path)) {
     // https://careercenter-asco-org.proxytest.library.emory.edu/jobs/melanoma/
     result.rtype    = 'REF';
     result.mime     = 'HTML';
@@ -73,15 +73,15 @@ module.exports = new Parser(function analyseEC(parsedUrl, ec) {
     } else if (match[1] == 'po') {
       result.publication_title = 'Precision Oncology';
     }
-  } else if ((match = /action\/doSearch/.exec(path)) !== null) {
+  } else if (/action\/doSearch/.test(path)) {
     // http://ascopubs.org:80/action/doSearch?ConceptID=114&target=topic&SeriesKey=jco
     result.rtype    = 'SEARCH';
     result.mime     = 'HTML';
-  } else if ((match = /jco\/(.*?)(podcast)/.exec(path)) !== null) {
+  } else if ((match = /jco\/((.*?)(podcast))/.exec(path)) !== null) {
     // http://ascopubs.org:80/jco/art-of-oncology-podcast
     result.rtype    = 'AUDIO';
     result.mime     = 'MISC';
-    result.unitid   = match[1] + match[2];
+    result.unitid   = match[1];
     result.publication_title = 'Journal of Clinical Oncology';
   }
 
