@@ -21,25 +21,25 @@ module.exports = new Parser(function analyseEC(parsedUrl, ec) {
 
   let match;
 
-  if ((match = /^\/doi\/full\/((.*?)\/(.*))$/i.exec(path)) !== null) {
+  if ((match = /^\/doi\/full\/((.*)\/(.*))$/i.exec(path)) !== null) {
     // http://ascopubs.org:80/doi/full/10.1200/JCO.2017.75.4721
     result.rtype    = 'ARTICLE';
     result.mime     = 'HTML';
     result.doi   = match[1];
     result.unitid = match[3];
-  } else if ((match = /^\/doi\/pdf\/((.*?)\/(.*))$/.exec(path)) !== null) {
+  } else if ((match = /^\/doi\/pdf\/((.*)\/(.*))$/.exec(path)) !== null) {
     // http://ascopubs.org:80/doi/pdf/10.1200/JCO.2017.75.4721
     result.rtype    = 'ARTICLE';
     result.mime     = 'PDF';
     result.doi      = match[1];
     result.unitid   = match[3];
-  } else if ((match = /^\/doi\/abs\/((.*?)\/(.*))$/.exec(path)) !== null) {
+  } else if ((match = /^\/doi\/abs\/((.*)\/(.*))$/.exec(path)) !== null) {
     // http://ascopubs.org:80/doi/abs/10.1200/JOP.2017.025536
     result.rtype    = 'ABS';
     result.mime     = 'HTML';
     result.doi      = match[1];
     result.unitid   = match[3];
-  } else if ((match = /^\/doi\/figure\/((.*?)\/(.*))$/.exec(path)) !== null) {
+  } else if ((match = /^\/doi\/figure\/((.*)\/(.*))$/.exec(path)) !== null) {
     // http://ascopubs.org:80/doi/figure/10.1200/JCO.2013.54.7893
     result.rtype    = 'FIGURE';
     result.mime     = 'HTML';
@@ -58,7 +58,7 @@ module.exports = new Parser(function analyseEC(parsedUrl, ec) {
     } else if (match[1] == 'jop') {
       result.publication_title = 'Journal of Oncology Practice';
     }
-  } else if ((match = /toc\/([a-z]*?)\//.exec(path)) !== null) {
+  } else if ((match = /toc\/([a-z]*)\//.exec(path)) !== null) {
     // http://ascopubs.org:80/toc/cci/1
     result.rtype    = 'TOC';
     result.mime     = 'HTML';
@@ -83,6 +83,24 @@ module.exports = new Parser(function analyseEC(parsedUrl, ec) {
     result.mime     = 'MISC';
     result.unitid   = match[1];
     result.publication_title = 'Journal of Clinical Oncology';
+  } else if ((match = /^\/doi\/(([0-9].*)\/(.*))$/i.exec(path)) !== null) {
+    // http://ascopubs.org:80/doi/10.1200/PO.17.00149
+    result.rtype    = 'ARTICLE';
+    result.mime     = 'HTML';
+    result.doi      = match[1];
+    result.unitid   = match[3];
+  } else if ((match = /^\/doi\/pdfdirect\/(([0-9].*)\/(.*))$/i.exec(path)) !== null) {
+    // http://ascopubs.org:80/doi/pdfdirect/10.1200/JCO.2017.73.4947
+    result.rtype    = 'ARTICLE';
+    result.mime     = 'PDF';
+    result.doi      = match[1];
+    result.unitid   = match[3];
+  } else if ((match = /^\/doi\/suppl\/(([0-9].*)\/(.*))\/suppl_file\/(.*).pdf$/i.exec(path)) !== null) {
+    // http://ascopubs.org:80/doi/suppl/10.1200/JCO.2017.75.7724/suppl_file/ms_2017.757724.pdf
+    result.rtype    = 'SUPPL';
+    result.mime     = 'PDF';
+    result.doi      = match[1];
+    result.unitid   = match[3];
   }
 
   if (/([A-Za-z]*?)\./.exec(result.unitid) !== null) {
