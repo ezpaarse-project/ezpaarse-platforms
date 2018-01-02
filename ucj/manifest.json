@@ -1,0 +1,20 @@
+{
+  "version": "2018-01-02",
+  "status": "beta",
+  "domains": [
+    "www.journals.uchicago.edu"
+  ],
+  "recognize": {
+    "rid": [
+      "unitid",
+      "doi"
+    ]
+  },
+  "name": "ucj",
+  "longname": "University of Chicago Journals",
+  "describe": "Recognizes the accesses to the platform University of Chicago Journals",
+  "docurl": "http://ang.couperin.org/platforms/5a4bf2fb5849c10c30fa5b72",
+  "trello": "https://trello.com/c/IzM2CrYF/448-university-of-chicago-journals-ucj",
+  "contact": "alexander.cooper@emory.edu",
+  "pkb": false
+}
