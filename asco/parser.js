@@ -21,39 +21,31 @@ module.exports = new Parser(function analyseEC(parsedUrl, ec) {
 
   let match;
 
-  if ((match = /doi\/full\/(.*?)\/(.*)/.exec(path)) !== null) {
+  if ((match = /^\/doi\/full\/((.*?)\/(.*))$/i.exec(path)) !== null) {
     // http://ascopubs.org:80/doi/full/10.1200/JCO.2017.75.4721
     result.rtype    = 'ARTICLE';
     result.mime     = 'HTML';
-    result.doi   = match[1] + '/' + match[2];
-
-    /**
-     * unitid is a crucial information needed to filter double-clicks phenomenon, like described by COUNTER
-     * it described the most fine-grained of what's being accessed by the user
-     * it can be a DOI, an internal identifier or a part of the accessed URL
-     * more at http://ezpaarse.readthedocs.io/en/master/essential/ec-attributes.html#unitid
-     */
-    result.unitid = match[2];
-
-  } else if ((match = /doi\/pdf\/(.*?)\/(.*)/.exec(path)) !== null) {
+    result.doi   = match[1];
+    result.unitid = match[3];
+  } else if ((match = /^\/doi\/pdf\/((.*?)\/(.*))$/.exec(path)) !== null) {
     // http://ascopubs.org:80/doi/pdf/10.1200/JCO.2017.75.4721
     result.rtype    = 'ARTICLE';
     result.mime     = 'PDF';
-    result.doi      = match[1] + '/' + match[2];
-    result.unitid   = match[2];
-  } else if ((match = /doi\/abs\/(.*?)\/(.*)/.exec(path)) !== null) {
+    result.doi      = match[1];
+    result.unitid   = match[3];
+  } else if ((match = /^\/doi\/abs\/((.*?)\/(.*))$/.exec(path)) !== null) {
     // http://ascopubs.org:80/doi/abs/10.1200/JOP.2017.025536
     result.rtype    = 'ABS';
     result.mime     = 'HTML';
-    result.doi      = match[1] + '/' + match[2];
-    result.unitid   = match[2];
-  } else if ((match = /doi\/figure\/(.*?)\/(.*)/.exec(path)) !== null) {
+    result.doi      = match[1];
+    result.unitid   = match[3];
+  } else if ((match = /^\/doi\/figure\/((.*?)\/(.*))$/.exec(path)) !== null) {
     // http://ascopubs.org:80/doi/figure/10.1200/JCO.2013.54.7893
     result.rtype    = 'FIGURE';
     result.mime     = 'HTML';
-    result.doi      = match[1] + '/' + match[2];
-    result.unitid   = match[2];
-  } else if ((match = /jobs\/(.*?)\//.exec(path)) !== null) {
+    result.doi      = match[1];
+    result.unitid   = match[3];
+  } else if (/jobs\/(.*?)\//.test(path)) {
     // https://careercenter-asco-org.proxytest.library.emory.edu/jobs/melanoma/
     result.rtype    = 'REF';
     result.mime     = 'HTML';
@@ -81,15 +73,15 @@ module.exports = new Parser(function analyseEC(parsedUrl, ec) {
     } else if (match[1] == 'po') {
       result.publication_title = 'Precision Oncology';
     }
-  } else if ((match = /action\/doSearch/.exec(path)) !== null) {
+  } else if (/action\/doSearch/.test(path)) {
     // http://ascopubs.org:80/action/doSearch?ConceptID=114&target=topic&SeriesKey=jco
     result.rtype    = 'SEARCH';
     result.mime     = 'HTML';
-  } else if ((match = /jco\/(.*?)(podcast)/.exec(path)) !== null) {
+  } else if ((match = /jco\/((.*?)(podcast))/.exec(path)) !== null) {
     // http://ascopubs.org:80/jco/art-of-oncology-podcast
     result.rtype    = 'AUDIO';
     result.mime     = 'MISC';
-    result.unitid   = match[1] + match[2];
+    result.unitid   = match[1];
     result.publication_title = 'Journal of Clinical Oncology';
   } else if ((match = /^\/doi\/(([0-9].*)\/(.*))$/i.exec(path)) !== null) {
     // http://ascopubs.org:80/doi/10.1200/PO.17.00149

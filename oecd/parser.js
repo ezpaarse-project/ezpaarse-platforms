@@ -15,6 +15,10 @@ module.exports = new Parser(function analyseEC(parsedUrl, ec) {
   let result = {};
   let path   = parsedUrl.pathname;
   let param  = parsedUrl.query || {};
+
+  // use console.error for debuging
+  // console.error(parsedUrl);
+
   let match;
 
   if ((match = /^\/economics\/[0-9a-z_-]+_([0-9a-z-]+)$/i.exec(path)) !== null) {
