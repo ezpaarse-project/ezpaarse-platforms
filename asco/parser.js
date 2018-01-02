@@ -91,6 +91,24 @@ module.exports = new Parser(function analyseEC(parsedUrl, ec) {
     result.mime     = 'MISC';
     result.unitid   = match[1] + match[2];
     result.publication_title = 'Journal of Clinical Oncology';
+  } else if ((match = /^\/doi\/(([0-9].*)\/(.*))$/i.exec(path)) !== null) {
+    // http://ascopubs.org:80/doi/10.1200/PO.17.00149
+    result.rtype    = 'ARTICLE';
+    result.mime     = 'HTML';
+    result.doi      = match[1];
+    result.unitid   = match[3];
+  } else if ((match = /^\/doi\/pdfdirect\/(([0-9].*)\/(.*))$/i.exec(path)) !== null) {
+    // http://ascopubs.org:80/doi/pdfdirect/10.1200/JCO.2017.73.4947
+    result.rtype    = 'ARTICLE';
+    result.mime     = 'PDF';
+    result.doi      = match[1];
+    result.unitid   = match[3];
+  } else if ((match = /^\/doi\/suppl\/(([0-9].*)\/(.*))\/suppl_file\/(.*).pdf$/i.exec(path)) !== null) {
+    // http://ascopubs.org:80/doi/suppl/10.1200/JCO.2017.75.7724/suppl_file/ms_2017.757724.pdf
+    result.rtype    = 'SUPPL';
+    result.mime     = 'PDF';
+    result.doi      = match[1];
+    result.unitid   = match[3];
   }
 
   if (/([A-Za-z]*?)\./.exec(result.unitid) !== null) {
