@@ -49,7 +49,16 @@ module.exports = new Parser(function analyseEC(parsedUrl, ec) {
     // https://www.wetfeet.com:443/polls/new
     result.rtype    = 'TOOL';
     result.mime     = 'HTML';
+  } else if (/^\/articles$/i.test(path)) {
+    // https://www.wetfeet.com:443/articles
+    result.rtype    = 'TOC';
+    result.mime     = 'HTML';
+  } else if (/^\/guides$/i.test(path)) {
+    // https://www.wetfeet.com:443/guides
+    result.rtype    = 'TOC';
+    result.mime     = 'HTML';
   }
+
   return result;
 
 });
