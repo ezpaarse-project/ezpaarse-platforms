@@ -18,7 +18,7 @@ module.exports = new Parser(function analyseEC(parsedUrl, ec) {
   let param  = parsedUrl.query || {};
   let match;
   // use console.error for debuging
-  console.error(parsedUrl);
+  // console.error(parsedUrl);
 
   if ((match = /^\/economics\/[0-9a-z_-]+_([0-9a-z-]+)$/i.exec(path)) !== null) {
     // /economics/the-future-of-productivity_9789264248533-en
@@ -146,6 +146,14 @@ module.exports = new Parser(function analyseEC(parsedUrl, ec) {
     result.rtype  = 'TOC';
     result.mime   = 'HTML';
     result.unitid = match[1];
+
+  } else if ((match = /^\/[a-z-]*\/data\/[a-z0-9-]*\/[a-z-]*_(.*)$/i.exec(path)) !== null) {
+    // http://www.oecd-ilibrary.org/urban-rural-and-regional-development/data/small-regions-tl3/demographic-statistics_data-00525-en
+    result.rtype  = 'REF';
+    result.mime   = 'HTML';
+    result.doi    = `${doiOECD}/${match[1]}`;
+    result.unitid = match[1];
+
   } else if (/^\/deliver\/fulltext$/i.test(path)) {
     // http://www.un-ilibrary.org:80/deliver/fulltext?contentType=%2fns%2fUNPBook%2c%2fns%2fBook&itemId=%2fcontent%2fbook%2f70388b69-es&mimeType=freepreview&containerItemId=%2fcontent%2fserial%2fd3229fb0-en&accessItemIds=&redirecturl=http%3a%2f%2fwww.keepeek.com%2fDigital-Asset-Management%2foecd%2feconomic-and-social-development%2finforme-de-los-objetivos-de-desarrollo-sostenible-2017_70388b69-es&isPreview=true
     match         = /^\/content\/book\/(.*)$/i.exec(param.itemId);
@@ -153,6 +161,7 @@ module.exports = new Parser(function analyseEC(parsedUrl, ec) {
     result.mime   = 'HTML';
     result.doi    = `${doiUN}/${match[1]}`;
     result.unitid = match[1];
+
   } else if (/^\/[0-9a-z].*\.pdf$/i.test(path)) {
     // http://www.un-ilibrary.org:80/informe-de-los-objetivos-de-desarrollo-sostenible-2017_70388b69-es.pdf?contentType=%2fns%2fUNPBook%2c%2fns%2fBook&itemId=%2fcontent%2fbook%2f70388b69-es&mimeType=application%2fpdf&containerItemId=%2fcontent%2fserial%2fd3229fb0-en&accessItemIds=&option6=imprint&value6=http%3a%2f%2foecd.metastore.ingenta.com%2fcontent%2fimprint%2funp
     match         = /^\/content\/book\/(.*)$/i.exec(param.itemId);
@@ -160,6 +169,7 @@ module.exports = new Parser(function analyseEC(parsedUrl, ec) {
     result.mime   = 'PDF';
     result.doi    = `${doiUN}/${match[1]}`;
     result.unitid = match[1];
+
   } else if (/^\/search$/i.test(path)) {
     // http://www.un-ilibrary.org:80/search?option1=titleAbstract&option2=&value2=&option3=&value3=&option4=&value4=&option5=&value5=&option6=imprint&value6=http%3A%2F%2Foecd.metastore.ingenta.com.proxy.library.emory.edu%2Fcontent%2Fimprint%2Funp&option23=&value23=&option7=&value7=&option8=&value8=&option9=&value9=&option10=&value10=&option11=&value11=&option12=&value12=&option13=&value13=&option14=&value14=&option15=&value15=&option16=&value16=&option17=&value17=&option22=excludeKeyTableEditions&value22=true&option18=sort&value18=&form_name=quick&discontin=factbooks&value1=war
     result.rtype  = 'SEARCH';
