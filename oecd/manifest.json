@@ -2,7 +2,8 @@
   "version": "2016-08-23",
   "status": "beta",
   "domains": [
-    "www.oecd.ilibrary.org",
+    "www.oecd-ilibrary.org",
+    "www.un-ilibrary.org",
     "www.keepeek.com",
     "data.oecd.org",
     "stats.oecd.org"
