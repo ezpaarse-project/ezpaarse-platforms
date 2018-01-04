@@ -1,4 +1,11 @@
-out-unitid;out-doi;out-rtype;out-mime;in-url
-;;SEARCH;HTML;http://www.journals.uchicago.edu:80/action/doSearch?SeriesKey=aft&AllField=picasso
-676545;10.1086/676545;ARTICLE;HTML;http://www.journals.uchicago.edu:80/doi/full/10.1086/676545
-449144;10.1086/449144;ARTICLE;PDFPLUS;http://www.journals.uchicago.edu:80/doi/pdfplus/10.1086/449144
+out-publication_date;out-issue;out-unitid;out-doi;out-rtype;out-mime;in-url
+;;;;SEARCH;HTML;http://www.journals.uchicago.edu:80/action/doSearch?SeriesKey=aft&AllField=picasso
+;;676545;10.1086/676545;ARTICLE;HTML;http://www.journals.uchicago.edu:80/doi/full/10.1086/676545
+;;449144;10.1086/449144;ARTICLE;PDFPLUS;http://www.journals.uchicago.edu:80/doi/pdfplus/10.1086/449144
+2010;25;;;TOC;HTML;http://www.journals.uchicago.edu:80/toc/aft/2010/25/+
+;;693954;10.1086/693954;ARTICLE;HTML;http://www.journals.uchicago.edu:80/doi/10.1086/693954
+;current;;;TOC;HTML;http://www.journals.uchicago.edu:80/toc/aje/current
+;;;;TOC;HTML;http://www.journals.uchicago.edu:80/journals/rq/received
+;;;;TOC;HTML;http://www.journals.uchicago.edu:80/loi/jacr
+;;RQ-books-received-70-3;;REF;PDF;http://www.journals.uchicago.edu:80/pb-assets/docs/journals/rq-books-recd/RQ-books-received-70-3.pdf
+;;693161;10.1086/693161;REF;HTML;http://www.journals.uchicago.edu:80/doi/citedby/10.1086/693161

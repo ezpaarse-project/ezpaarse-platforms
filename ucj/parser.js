@@ -49,6 +49,36 @@ module.exports = new Parser(function analyseEC(parsedUrl, ec) {
     result.mime     = 'HTML';
     result.publication_date = match[1];
     result.issue    = match[2];
+  } else if ((match = /^\/doi\/(([0-9.]*)\/([0-9]*))$/i.exec(path)) !== null) {
+    // http://www.journals.uchicago.edu:80/doi/10.1086/693954
+    result.rtype    = 'ARTICLE';
+    result.mime     = 'HTML';
+    result.doi      = match[1];
+    result.unitid   = match[3];
+  } else if ((match = /^\/toc\/[a-z]*\/([a-z]*)$/i.exec(path)) !== null) {
+    // http://www.journals.uchicago.edu:80/toc/aje/current
+    result.rtype    = 'TOC';
+    result.mime     = 'HTML';
+    result.issue    = match[1];
+  } else if (/^\/journals\/[a-z]*\/received$/i.test(path)) {
+    // http://www.journals.uchicago.edu:80/journals/rq/received
+    result.rtype    = 'TOC';
+    result.mime     = 'HTML';
+  } else if (/^\/loi\/[a-z]*$/i.test(path)) {
+    // http://www.journals.uchicago.edu:80/loi/jacr
+    result.rtype    = 'TOC';
+    result.mime     = 'HTML';
+  } else if ((match = /^\/pb-assets\/docs\/journals\/[a-z]*-books-recd\/(.*)\.pdf$/i.exec(path)) !== null) {
+    // http://www.journals.uchicago.edu:80/pb-assets/docs/journals/rq-books-recd/RQ-books-received-70-3.pdf
+    result.rtype    = 'REF';
+    result.mime     = 'PDF';
+    result.unitid   = match[1];
+  } else if ((match = /^\/doi\/citedby\/((.*)\/(.*))$/i.exec(path)) !== null) {
+    // http://www.journals.uchicago.edu:80/doi/citedby/10.1086/693161
+    result.rtype    = 'REF';
+    result.mime     = 'HTML';
+    result.doi      = match[1];
+    result.unitid   = match[3];
   }
 
   return result;
