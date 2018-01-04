@@ -148,14 +148,14 @@ module.exports = new Parser(function analyseEC(parsedUrl, ec) {
     result.unitid = match[1];
   } else if (/^\/deliver\/fulltext$/i.test(path)) {
     // http://www.un-ilibrary.org:80/deliver/fulltext?contentType=%2fns%2fUNPBook%2c%2fns%2fBook&itemId=%2fcontent%2fbook%2f70388b69-es&mimeType=freepreview&containerItemId=%2fcontent%2fserial%2fd3229fb0-en&accessItemIds=&redirecturl=http%3a%2f%2fwww.keepeek.com%2fDigital-Asset-Management%2foecd%2feconomic-and-social-development%2finforme-de-los-objetivos-de-desarrollo-sostenible-2017_70388b69-es&isPreview=true
-    match         = /^\/content\/book\/(.*)$/i.exec(param.itemId)
+    match         = /^\/content\/book\/(.*)$/i.exec(param.itemId);
     result.rtype  = 'BOOK';
     result.mime   = 'HTML';
     result.doi    = `${doiUN}/${match[1]}`;
     result.unitid = match[1];
   } else if (/^\/[0-9a-z].*\.pdf$/i.test(path)) {
     // http://www.un-ilibrary.org:80/informe-de-los-objetivos-de-desarrollo-sostenible-2017_70388b69-es.pdf?contentType=%2fns%2fUNPBook%2c%2fns%2fBook&itemId=%2fcontent%2fbook%2f70388b69-es&mimeType=application%2fpdf&containerItemId=%2fcontent%2fserial%2fd3229fb0-en&accessItemIds=&option6=imprint&value6=http%3a%2f%2foecd.metastore.ingenta.com%2fcontent%2fimprint%2funp
-    match         = /^\/content\/book\/(.*)$/i.exec(param.itemId)
+    match         = /^\/content\/book\/(.*)$/i.exec(param.itemId);
     result.rtype  = 'BOOK';
     result.mime   = 'PDF';
     result.doi    = `${doiUN}/${match[1]}`;
