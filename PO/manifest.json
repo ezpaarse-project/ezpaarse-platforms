@@ -1,0 +1,34 @@
+{
+  "version": "2017-10-31",
+  "status": "stable",
+  "domains": [
+    "psychiatryonline.org",
+    "www.psychiatryonline.org",
+    "www.psychiatryonline.com",
+    "psychiatryonline.com",
+    "ajp.psychiatryonline.org",
+    "focus.psychiatryonline.org",
+    "dsm.psychiatryonline.org",
+    "ps.psychiatryonline.org",
+    "neuro.psychiatryonline.org",
+    "psychnews.psychiatryonline.org",
+    "www.appi.org",
+    "appi.org"
+  ],
+  "recognize": {
+    "rid": [
+      "doi",
+      "unitid",
+      "print_identifier",
+      "title_id"
+    ]
+  },
+  "name": "PO",
+  "longname": "PsychiatryOnline",
+  "describe": "Recognizes the accesses to the platform PsychiatryOnline",
+  "publisher_name" : "American Psychiatric Associations",
+  "trello": "https://trello.com/c/VX4gydMO/351-psychiatryonline-po",
+  "docurl": "http://analyses.ezpaarse.org/platforms/573b34ffc6bd6e67576d6750/analyses",
+  "contact": "alexander.cooper@emory.edu",
+  "pkb": false
+}
