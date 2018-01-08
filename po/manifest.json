@@ -6,23 +6,9 @@
     "www.psychiatryonline.org",
     "www.psychiatryonline.com",
     "psychiatryonline.com",
-    "ajp.psychiatryonline.org",
-    "focus.psychiatryonline.org",
-    "dsm.psychiatryonline.org",
-    "ps.psychiatryonline.org",
-    "neuro.psychiatryonline.org",
-    "psychnews.psychiatryonline.org",
     "www.appi.org",
     "appi.org"
   ],
-  "recognize": {
-    "rid": [
-      "doi",
-      "unitid",
-      "print_identifier",
-      "title_id"
-    ]
-  },
   "name": "po",
   "longname": "PsychiatryOnline",
   "describe": "Recognizes the accesses to the platform PsychiatryOnline",
@@ -30,5 +16,6 @@
   "trello": "https://trello.com/c/VX4gydMO/351-psychiatryonline-po",
   "docurl": "http://analyses.ezpaarse.org/platforms/573b34ffc6bd6e67576d6750/analyses",
   "contact": "alexander.cooper@emory.edu",
-  "pkb": false
+  "pkb": true,
+  "pkb-domains": "pkb-domain"
 }
