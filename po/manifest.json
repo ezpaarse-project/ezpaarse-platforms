@@ -23,7 +23,7 @@
       "title_id"
     ]
   },
-  "name": "PO",
+  "name": "po",
   "longname": "PsychiatryOnline",
   "describe": "Recognizes the accesses to the platform PsychiatryOnline",
   "publisher_name" : "American Psychiatric Associations",
