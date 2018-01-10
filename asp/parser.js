@@ -58,15 +58,15 @@ module.exports = new Parser(function analyseEC(parsedUrl, ec) {
     // https://bltc.alexanderstreet.com:443/cgi-bin/asp/philo/bltc/getvolume.pl?S7673
     result.rtype    = 'BOOK';
     result.mime     = 'HTML';
-    for (var i in param) {
-      result.unitid   = i;
+    for (var x in param) {
+      result.unitid   = x;
     }
   } else if (/\/getdoc.pl$/i.test(path)) {
     // https://cwld.alexanderstreet.com:443/cgi-bin/asp/philo/cwld/getdoc.pl?S109-D112
     result.rtype    = 'BOOK_SECTION';
     result.mime     = 'HTML';
-    for (var i in param) {
-      result.unitid = i;
+    for (var y in param) {
+      result.unitid = y;
     }
   } else if (/\/sourceidx.pl$/i.test(path)) {
     // https://cwld.alexanderstreet.com:443/cgi-bin/asp/philo/cwld/sourceidx.pl?sourceid=S109&showfullrecord=ON
