@@ -1,12 +1,12 @@
-out-unitid;out-rtype;out-mime;in-url
-;SEARCH;HTML;https://search.alexanderstreet.com:443/search?searchstring=barth
-1790283;VIDEO;MISC;https://search.alexanderstreet.com:443/view/work/bibliographic_entity%7Cvideo_work%7C1790283
-367256;AUDIO;MISC;https://search.alexanderstreet.com:443/view/work/bibliographic_entity%7Crecorded_track%7C367256
-;TOC;HTML;https://dkbl.alexanderstreet.com:443/cgi-bin/asp/philo/dkbl/volumes_toc.pl?&church=ON
-CD0101;TOC;HTML;https://dkbl.alexanderstreet.com:443/cgi-bin/asp/philo/dkbl/works_toc.pl?&volumeID=CD0101&church=ON
-;SEARCH;HTML;https://dkbl.alexanderstreet.com:443/cgi-bin/asp/philo/dkbl/search3t?word=catholic&CONJUNCT=PHRASE&DISTANCE=3&dbname=barth&CONJUNCT=PHRASE&DISTANCE=2&PROXY=or+fewer&OUTPUT=conc&philodocid=828%3A1.barth&sortorder=&verbose=
-4563;REF;HTML;https://dkbl.alexanderstreet.com:443/cgi-bin/asp/philo/dkbl/details_toc.pl?&philodocid=4563&showfullrecord=ON&kirch=ON
-S7673;BOOK;HTML;https://bltc.alexanderstreet.com:443/cgi-bin/asp/philo/bltc/getvolume.pl?S7673
-S109-D112;BOOK_SECTION;HTML;https://cwld.alexanderstreet.com:443/cgi-bin/asp/philo/cwld/getdoc.pl?S109-D112
-S109;REF;HTML;https://cwld.alexanderstreet.com:443/cgi-bin/asp/philo/cwld/sourceidx.pl?sourceid=S109&showfullrecord=ON
-A3BIO;BIO;HTML;https://cwld.alexanderstreet.com:443/bios/A3BIO.html
+out-publication_title;out-unitid;out-rtype;out-mime;in-url
+;;SEARCH;HTML;https://search.alexanderstreet.com:443/search?searchstring=barth
+;1790283;VIDEO;MISC;https://search.alexanderstreet.com:443/view/work/bibliographic_entity%7Cvideo_work%7C1790283
+;367256;AUDIO;MISC;https://search.alexanderstreet.com:443/view/work/bibliographic_entity%7Crecorded_track%7C367256
+The Digital Karl Barth Library;;TOC;HTML;https://dkbl.alexanderstreet.com:443/cgi-bin/asp/philo/dkbl/volumes_toc.pl?&church=ON
+The Digital Karl Barth Library;CD0101;TOC;HTML;https://dkbl.alexanderstreet.com:443/cgi-bin/asp/philo/dkbl/works_toc.pl?&volumeID=CD0101&church=ON
+The Digital Karl Barth Library;;SEARCH;HTML;https://dkbl.alexanderstreet.com:443/cgi-bin/asp/philo/dkbl/search3t?word=catholic&CONJUNCT=PHRASE&DISTANCE=3&dbname=barth&CONJUNCT=PHRASE&DISTANCE=2&PROXY=or+fewer&OUTPUT=conc&philodocid=828%3A1.barth&sortorder=&verbose=
+The Digital Karl Barth Library;4563;REF;HTML;https://dkbl.alexanderstreet.com:443/cgi-bin/asp/philo/dkbl/details_toc.pl?&philodocid=4563&showfullrecord=ON&kirch=ON
+Black Thought and Culture;S7673;BOOK;HTML;https://bltc.alexanderstreet.com:443/cgi-bin/asp/philo/bltc/getvolume.pl?S7673
+The American Civil War: Letters and Diaries;S109-D112;BOOK_SECTION;HTML;https://cwld.alexanderstreet.com:443/cgi-bin/asp/philo/cwld/getdoc.pl?S109-D112
+The American Civil War: Letters and Diaries;S109;REF;HTML;https://cwld.alexanderstreet.com:443/cgi-bin/asp/philo/cwld/sourceidx.pl?sourceid=S109&showfullrecord=ON
+The American Civil War: Letters and Diaries;A3BIO;BIO;HTML;https://cwld.alexanderstreet.com:443/bios/A3BIO.html

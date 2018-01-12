@@ -15,6 +15,7 @@ module.exports = new Parser(function analyseEC(parsedUrl, ec) {
   let path   = parsedUrl.pathname;
   // uncomment this line if you need parameters
   let param = parsedUrl.query || {};
+  let hostname = parsedUrl.hostname;
 
   // use console.error for debuging
   // console.error(parsedUrl);
@@ -78,6 +79,63 @@ module.exports = new Parser(function analyseEC(parsedUrl, ec) {
     result.rtype    = 'BIO';
     result.mime     = 'HTML';
     result.unitid   = match[1];
+  }
+  if (hostname === 'aadr.alexanderstreet.com') {
+    result.publication_title = 'Asian American Drama';
+  } else if (hostname === 'aamr.alexanderstreet.com') {
+    result.publication_title = 'African American Music Reference';
+  } else if (hostname === 'afso.alexanderstreet.com') {
+    result.publication_title = 'American Film Scripts';
+  } else if (hostname === 'area.alexanderstreet.com') {
+    result.publication_title = 'Area Studies Video Online';
+  } else if (hostname === 'bld2.alexanderstreet.com') {
+    result.publication_title = 'Black Drama Second Edition';
+  } else if (hostname === 'bldr.alexanderstreet.com') {
+    result.publication_title = 'Black Drama';
+  } else if (hostname === 'bltc.alexanderstreet.com') {
+    result.publication_title = 'Black Thought and Culture';
+  } else if (hostname === 'bwl2.alexanderstreet.com') {
+    result.publication_title = 'British and Irish Women\'s Letters and Diaries';
+  } else if (hostname === 'bwld.alexanderstreet.com') {
+    result.publication_title = 'British and Irish Women\'s Letters and Diaries';
+  } else if (hostname === 'comx.alexanderstreet.com') {
+    result.publication_title = 'Underground and Independent Comics';
+  } else if (hostname === 'cwld.alexanderstreet.com') {
+    result.publication_title = 'The American Civil War: Letters and Diaries';
+  } else if (hostname === 'divo.alexanderstreet.com') {
+    result.publication_title = 'Ethnic Studies Video Online';
+  } else if (hostname === 'dkbl.alexanderstreet.com') {
+    result.publication_title = 'The Digital Karl Barth Library';
+  } else if (hostname === 'dlcr.alexanderstreet.com') {
+    result.publication_title = 'The Digital Library of the Catholic Reformation';
+  } else if (hostname === 'eena.alexanderstreet.com') {
+    result.publication_title = 'Early Encounters in North America';
+  } else if (hostname === 'eenz.alexanderstreet.com') {
+    result.publication_title = 'Early Experiences in Australasia';
+  } else if (hostname === 'imld.alexanderstreet.com') {
+    result.publication_title = 'North American Inmmigrant Letters, Diaries, and Oral Histories';
+  } else if (hostname === 'indr.alexanderstreet.com') {
+    result.publication_title = 'North American Indian Drama';
+  } else if (hostname === 'lit.alexanderstreet.com') {
+    result.publication_title = 'Alexander Street Literature';
+  } else if (hostname === 'lrho.alexanderstreet.com') {
+    result.publication_title = 'Images of America';
+  } else if (hostname === 'nadr.alexanderstreet.com') {
+    result.publication_title = 'Twentieth Century North American Drama';
+  } else if (hostname === 'nwld.alexanderstreet.com') {
+    result.publication_title = 'North American Women\'s Letters and Diaries';
+  } else if (hostname === 'rom2.alexanderstreet.com') {
+    result.publication_title = 'Romanticism Redefined';
+  } else if (hostname === 'soth.alexanderstreet.com') {
+    result.publication_title = 'Social Theory';
+  } else if (hostname === 'tcpt.alexanderstreet.com') {
+    result.publication_title = 'The Digital Library of Classical Protestant Texts';
+  } else if (hostname === 'tcr1.alexanderstreet.com') {
+    result.publication_title = 'Twentieth Century Religious Thought: Volume I, Christianity';
+  } else if (hostname === 'tcrb.alexanderstreet.com') {
+    result.publication_title = 'Tentieth Century Religious Thought Library';
+  } else if (hostname === 'wodr.alexanderstreet.com') {
+    result.publication_title = 'North American Women\'s Drama';
   }
 
   return result;
