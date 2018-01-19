@@ -84,7 +84,7 @@ module.exports = new Parser(function analyseEC(parsedUrl) {
     result.doi      = match[1];
     result.unitid   = match[2];
     result.title_id = match[2].toUpperCase();
-    result.rtype    = 'BOOK_SECTION';
+    result.rtype    = 'TOC';
     result.mime     = 'MISC';
 
     result.print_identifier = match[2];
