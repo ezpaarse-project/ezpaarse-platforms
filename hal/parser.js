@@ -16,16 +16,21 @@ module.exports = new Parser(function analyseEC(parsedUrl, ec) {
 
   let match;
 
-  if ((match = /^\/file\/index\/(docid|identifiant)\/(([a-z]+-)?0*([0-9]+)(v[0-9]+)?)\/filename\/[^/]+.pdf$/i.exec(path)) !== null) {
+  if ((match = /^\/file\/index\/(docid|identifiant)\/(([a-z]+-)?0*([0-9]+))(v[0-9]+)?\/filename\/[^/]+.pdf$/i.exec(path)) !== null) {
     //Accès à un document
     // /file/index/docid/544258/filename/jafari_Neurocomp07.pdf
     result.rtype    = 'ARTICLE';
     result.mime     = 'PDF';
     result.idtype   = match[1].toUpperCase();
-    result.title_id = match[2];
-    result.unitid   = match[2];
 
-  } else if ((match = /^\/?([A-Z-0-9]+)?\/([a-z]+-0*([0-9]+)(?:v[0-9]+)?)\/?(document|image|video|player)?\/?$/i.exec(path)) !== null) {
+    if (result.idtype == 'DOCID') {
+      result.docid = match[2];
+      result.title_id = match[2];
+    } else {
+        result.title_id = match[2];
+    }
+
+  } else if ((match = /^\/?([A-Z-0-9]+)?\/([a-z]+-0*([0-9]+))(v[0-9]+)?\/?(document|image|video|player)?\/?$/i.exec(path)) !== null) {
     //Accès à un document ou à une notice sans collection (avec et sans versions)
     // /hal-01085760/document
     // /hal-01085760/image
@@ -37,13 +42,12 @@ module.exports = new Parser(function analyseEC(parsedUrl, ec) {
     // COLLECTION
     result.collection = match[1];
 
-    result.rtype    = match[4] ? 'ARTICLE' : 'ABS';
-    result.mime     = match[4] ? 'PDF' : 'HTML';
+    result.rtype    = match[5] ? 'ARTICLE' : 'ABS';
+    result.mime     = match[5] ? 'PDF' : 'HTML';
     result.idtype   = 'IDENTIFIANT';
     result.title_id = match[2];
-    result.unitid   = match[2];
 
-  } else if ((match = /^\/?([A-Z-0-9]+)?\/view\/index(\/|\?)(docid|identifiant)(\/|=)(([a-z]+-)?0*([0-9]+)(v[0-9]+)?)\/?$/i.exec(path)) !== null) {
+  } else if ((match = /^\/?([A-Z-0-9]+)?\/view\/index(\/|\?)(docid|identifiant)(\/|=)(([a-z]+-)?0*([0-9]+))(v[0-9]+)?\/?$/i.exec(path)) !== null) {
     // Accès à une notice HTML (avec et sans versions) (avec et sans collections)
     // /view/index/docid/1302902
     // /view/index?docid=1302902
@@ -59,10 +63,14 @@ module.exports = new Parser(function analyseEC(parsedUrl, ec) {
     result.rtype    = 'ABS';
     result.mime     = 'HTML';
     result.idtype   = match[3].toUpperCase();
-    result.title_id = match[5];
-    result.unitid = match[5];
 
-  } else if ((match = /^\/?([A-Z-0-9]+)?\/file\/index(\/|\?)(docid|identifiant)(\/|=)(([a-z]+-)?0*([0-9]+)(v[0-9]+)?)((\/|\&)fileid(\/|=)1)?(\/|\&)main(\/|=)(1|true)\/?$/i.exec(path)) !== null) {
+      if (result.idtype == 'DOCID') {
+          result.docid = match[5];
+          result.title_id = match[5];
+      } else {
+          result.title_id = match[5];
+      }
+  } else if ((match = /^\/?([A-Z-0-9]+)?\/file\/index(\/|\?)(docid|identifiant)(\/|=)(([a-z]+-)?0*([0-9]+))(v[0-9]+)?((\/|\&)fileid(\/|=)1)?(\/|\&)main(\/|=)(1|true)\/?$/i.exec(path)) !== null) {
     //Accès à un document (avec et sans versions) (avec et sans collections)
     // /file/index/docid/1302902/main/1
     // /file/index/identifiant/hal-01302902/main/1
@@ -79,10 +87,15 @@ module.exports = new Parser(function analyseEC(parsedUrl, ec) {
     result.rtype    = 'ARTICLE';
     result.mime     = 'PDF';
     result.idtype   = match[3].toUpperCase();
-    result.title_id = match[5];
-    result.unitid = match[5];
+
+      if (result.idtype == 'DOCID') {
+          result.docid = match[5];
+          result.title_id = match[5];
+      } else {
+          result.title_id = match[5];
+      }
     
-  } else if ((match = /^\/?([A-Z0-9\-]+)?\/([a-z]+-[0-9]+v?[0-9]+?)\/file\/[^/]+.pdf$/i.exec(path)) !== null) {
+  } else if ((match = /^\/?([A-Z0-9\-]+)?\/(([a-z]+-)?0*([0-9]+))(v[0-9]+)?\/file\/[^/]+.pdf$/i.exec(path)) !== null) {
     //Accès à un document (avec et sans versions) (avec et sans collections)
     // /hal-00137415/file/jafari_Neurocomp07.pdf
 
@@ -93,7 +106,6 @@ module.exports = new Parser(function analyseEC(parsedUrl, ec) {
     result.mime     = 'PDF';
     result.idtype   = 'IDENTIFIANT';
     result.title_id = match[2];
-    result.unitid   = match[2];
   }
     
     /** Accès à une notice dans un format d'export : qu'est-ce qu'on en fait ?
