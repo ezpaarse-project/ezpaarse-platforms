@@ -80,16 +80,12 @@ module.exports = new Parser(function analyseEC(parsedUrl) {
 
   } else if ((match = /^\/chapter\/(([0-9]+\.[0-9]+)\/([^/]*))(\/([a-z]+)\.html)?/.exec(path)) !== null) {
     // example : http://link.springer.com/chapter/10.1007/978-3-540-71233-6_4
+    //http://link.springer.com/chapter/10.1007/978-3-642-45082-2_1/fulltext.html
     result.doi    = match[1];
     result.unitid = match[3];
-    result.rtype  = 'ABS';
-    result.mime   = 'MISC';
+    result.rtype  = 'BOOK_SECTION';
+    result.mime   = 'HTML';
 
-    if (match[4]) {
-      //http://link.springer.com/chapter/10.1007/978-3-642-45082-2_1/fulltext.html
-      result.rtype  = 'BOOK_SECTION';
-      result.mime   = 'HTML';
-    }
   } else if ((match = /^\/(book)?series\/([0-9]+)/.exec(path)) !== null) {
     // example : http://link.springer.com/bookseries/7651
     // other example : http://www.springer.com/series/7651
