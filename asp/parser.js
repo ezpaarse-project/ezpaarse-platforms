@@ -79,7 +79,31 @@ module.exports = new Parser(function analyseEC(parsedUrl, ec) {
     result.rtype    = 'BIO';
     result.mime     = 'HTML';
     result.unitid   = match[1];
+  } else if ((match = /^\/([a-z]*)\/view\/(.*)$/.exec(path)) !== null) {
+    // http://lit.alexanderstreet.com:80/lali/view/1000029515
+    // http://lit.alexanderstreet.com:80/blfi/view/1000067868
+    result.rtype    = 'BOOK';
+    result.mime     = 'HTML';
+    result.unitid   = match[2];
+    if (match[1] === 'lali') {
+      result.publication_title = 'Latino Literature';
+    } else if (match[1] === 'blfi') {
+      result.publication_title = 'Black Short Fiction and Folklore';
+    } else if (match[1] === 'blww') {
+      result.publication_title = 'Black Women Writers';
+    } else if (match[1] === 'cali') {
+      result.publication_title = 'Caribbean Literature';
+    } else if (match[1] === 'iwrp') {
+      result.publication_title = 'Irish Women Poets of the Romantic Period';
+    } else if (match[1] === 'laww') {
+      result.publication_title = 'Latin American Women Writers';
+    } else if (match[1] === 'swrp') {
+      result.publication_title = 'Scottish Women Poets of the Romantic Period';
+    } else if (match[1] === 'sali') {
+      result.publication_title = 'South and Southeast Asian Literature';
+    } 
   }
+
   if (hostname === 'aadr.alexanderstreet.com') {
     result.publication_title = 'Asian American Drama';
   } else if (hostname === 'aamr.alexanderstreet.com') {
@@ -116,8 +140,6 @@ module.exports = new Parser(function analyseEC(parsedUrl, ec) {
     result.publication_title = 'North American Inmmigrant Letters, Diaries, and Oral Histories';
   } else if (hostname === 'indr.alexanderstreet.com') {
     result.publication_title = 'North American Indian Drama';
-  } else if (hostname === 'lit.alexanderstreet.com') {
-    result.publication_title = 'Alexander Street Literature';
   } else if (hostname === 'lrho.alexanderstreet.com') {
     result.publication_title = 'Images of America';
   } else if (hostname === 'nadr.alexanderstreet.com') {
