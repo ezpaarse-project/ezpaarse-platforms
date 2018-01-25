@@ -101,7 +101,7 @@ module.exports = new Parser(function analyseEC(parsedUrl, ec) {
       result.publication_title = 'Scottish Women Poets of the Romantic Period';
     } else if (match[1] === 'sali') {
       result.publication_title = 'South and Southeast Asian Literature';
-    } 
+    }
   }
 
   if (hostname === 'aadr.alexanderstreet.com') {
