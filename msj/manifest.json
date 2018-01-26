@@ -1,0 +1,27 @@
+{
+  "version": "2018-01-25",
+  "status": "beta",
+  "domains": [
+    "www.microbiologyresearch.org",
+    "mic.microbiologyresearch.org",
+    "jgv.microbiologyresearch.org",
+    "jmm.microbiologyresearch.org",
+    "jmmcr.microbiologyresearch.org",
+    "mgen.microbiologyresearch.org",
+    "ijs.microbiologyresearch.org"
+  ],
+  "recognize": {
+    "rid": [
+      "title_id",
+      "unitid",
+      "doi"
+    ]
+  },
+  "name": "msj",
+  "longname": "Microbiology Society Journals",
+  "describe": "Recognizes the accesses to the platform Microbiology Society Journals",
+  "trello": "https://trello.com/c/PTqpQMRX/452-microbiology-society-journals-msj",
+  "docurl": "http://ang.couperin.org/platforms/5a679e014126d7ef385d3413",
+  "contact": "alexander.cooper@emory.edu",
+  "pkb": false
+}
