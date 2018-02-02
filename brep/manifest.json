@@ -1,0 +1,19 @@
+{
+  "version": "2018-01-29",
+  "status": "beta",
+  "domains": [
+    "www.brepolsonline.net"
+  ],
+  "recognize": {
+    "rid": [
+      "doi",
+      "unitid"
+    ]
+  },
+  "name": "brep",
+  "longname": "Brepols Online",
+  "describe": "Recognizes the accesses to the platform Brepols Online",
+  "docurl": "http://ang.couperin.org/platforms/5571a5583d42b4db783dc4a0",
+  "contact": "alexander.cooper@emory.edu",
+  "pkb": false
+}
