@@ -44,7 +44,7 @@ module.exports = new Parser(function analyseEC(parsedUrl, ec) {
         result.rtype = 'SUPPL';
       }
     }
-  } else if ((match = /^\/content\/journal\/[a-z]*\/((.*)\/([a-z]*\.[0-9]*\..*))$/i.exec(path)) !== null) {
+  } else if ((match = /^\/content\/journal\/[a-z]*\/((.*)\/([a-z]*\.[0-9]*\.[0-9]*))$/i.exec(path)) !== null) {
     // http://jgv.microbiologyresearch.org:80/content/journal/jgv/10.1099/jgv.0.001012
     result.rtype    = 'ABS';
     result.mime     = 'HTML';
