@@ -13,7 +13,59 @@ module.exports = new Parser(function analyseEC(parsedUrl) {
   let param  = parsedUrl.query || {};
   let match;
 
-  if ((match = /\/journal\/(10\.[0-9]+\/(\(ISSN\)([0-9]{4}-[0-9]{3}[0-9xX])))/i.exec(path)) !== null) {
+  if ((match = /^\/pdf\/(10\.[0-9]+\/([0-9x]+))(\.ch[0-9]+)$/i.exec(path)) !== null) {
+    // /pdf/10.1002/9781118638323.ch3
+    result.rtype  = 'BOOK_SECTION';
+    result.mime   = 'PDF';
+    result.doi    = match[1];
+    result.unitid = `${match[2]}${match[3]}`;
+    result.online_identifier = match[2];
+
+  } else if ((match = /^\/doi(\/[a-z]+)?\/(10\.[0-9]+\/([a-z0-9._-]+))$/i.exec(path)) !== null) {
+    result.doi    = match[2];
+    result.unitid = match[3];
+
+    switch (match[1]) {
+    case '/pdf':
+    case '/epdf':
+      // /doi/pdf/10.1002/brb3.590
+      // /doi/epdf/10.1002/brb3.590
+      result.rtype = 'ARTICLE';
+      result.mime  = 'PDF';
+      break;
+    case '/full':
+      // /doi/full/10.1002/brb3.590
+      result.rtype = 'ARTICLE';
+      result.mime  = 'HTML';
+      break;
+    case '/abs':
+      // /doi/abs/10.1002/brb3.590
+      result.rtype = 'ABS';
+      result.mime  = 'HTML';
+      break;
+    default:
+      // /doi/10.1002/brb3.590
+      result.rtype = 'ARTICLE';
+      result.mime  = 'HTML';
+      break;
+    }
+
+  } else if ((match = /^\/toc\/toc\/(([0-9]+)\/([0-9]+)\/([0-9]+))$/i.exec(path)) !== null) {
+    // /toc/toc/21579032/7/1
+    result.rtype    = 'TOC';
+    result.mime     = 'MISC';
+    result.unitid   = match[1];
+    result.title_id = match[2];
+    result.vol      = match[3];
+    result.issue    = match[4];
+
+  } else if ((match = /^\/journal\/([0-9]+)$/i.exec(path)) !== null) {
+    // /journal/21579032
+    result.rtype    = 'TOC';
+    result.mime     = 'MISC';
+    result.title_id = match[1];
+
+  } else if ((match = /\/journal\/(10\.[0-9]+\/(\(ISSN\)([0-9]{4}-[0-9]{3}[0-9xX])))/i.exec(path)) !== null) {
     // /journal/10.1111/%28ISSN%291600-5724
     result.doi    = match[1];
     result.unitid = match[2];
