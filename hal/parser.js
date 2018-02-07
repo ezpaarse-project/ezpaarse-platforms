@@ -62,7 +62,7 @@ module.exports = new Parser(function analyseEC(parsedUrl, ec) {
     result.title_id = match[5];
     result.unitid = match[5];
 
-  } else if ((match = /^\/?([A-Z-0-9]+)?\/file\/index(\/|\?)(docid|identifiant)(\/|=)(([a-z]+-)?0*([0-9]+)(v[0-9]+)?)((\/|\&)fileid(\/|=)1)?(\/|\&)main(\/|=)(1|true)\/?$/i.exec(path)) !== null) {
+  } else if ((match = /^\/?([A-Z-0-9]+)?\/file\/index(\/|\?)(docid|identifiant)(\/|=)(([a-z]+-)?0*([0-9]+)(v[0-9]+)?)((\/|&)fileid(\/|=)1)?(\/|&)main(\/|=)(1|true)\/?$/i.exec(path)) !== null) {
     //Accès à un document (avec et sans versions) (avec et sans collections)
     // /file/index/docid/1302902/main/1
     // /file/index/identifiant/hal-01302902/main/1
@@ -80,9 +80,9 @@ module.exports = new Parser(function analyseEC(parsedUrl, ec) {
     result.mime     = 'PDF';
     result.idtype   = match[3].toUpperCase();
     result.title_id = match[5];
-    result.unitid = match[5];
-    
-  } else if ((match = /^\/?([A-Z0-9\-]+)?\/([a-z]+-[0-9]+v?[0-9]+?)\/file\/[^/]+.pdf$/i.exec(path)) !== null) {
+    result.unitid   = match[5];
+
+  } else if ((match = /^\/?([A-Z0-9-]+)?\/([a-z]+-[0-9]+v?[0-9]+?)\/file\/[^/]+.pdf$/i.exec(path)) !== null) {
     //Accès à un document (avec et sans versions) (avec et sans collections)
     // /hal-00137415/file/jafari_Neurocomp07.pdf
 
@@ -95,14 +95,14 @@ module.exports = new Parser(function analyseEC(parsedUrl, ec) {
     result.title_id = match[2];
     result.unitid   = match[2];
   }
-    
-    /** Accès à une notice dans un format d'export : qu'est-ce qu'on en fait ?
-         /hal-00137415/tei
-         /view/index/docid/1302902/tei
-         /view/index?docid=1302902/tei
-         /view/index/identifiant/hal-01302902/tei
-         /view/index?identifiant=hal-01302902/tei
-    */
+
+  /** Accès à une notice dans un format d'export : qu'est-ce qu'on en fait ?
+       /hal-00137415/tei
+        /view/index/docid/1302902/tei
+        /view/index?docid=1302902/tei
+        /view/index/identifiant/hal-01302902/tei
+        /view/index?identifiant=hal-01302902/tei
+  */
 
   return result;
 });
