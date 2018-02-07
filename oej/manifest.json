@@ -1,17 +1,15 @@
 {
-  "version": "2016-04-28",
+  "version": "2018-02-07",
   "status": "beta",
-  "recognize": {
-    "rid": [
-      "title_id",
-      "unitid"
-    ]
-  },
   "name": "oej",
   "longname": "OpenEdition Journals",
   "describe": "Recognizes the accesses to the platform OpenEdition Journals",
   "docurl": "http://ang.couperin.org/platforms/552ce133ebbceb95b6a3f9b8",
   "contact": "abderrazzak.loukili@inist.fr, thomas.porquet@couperin.org",
   "pkb": true,
+  "domains": [
+    "journals.openedition.org",
+    "books.openedition.org"
+  ],
   "pkb-domains": "pkb-piddomain"
 }
