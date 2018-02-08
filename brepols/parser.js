@@ -22,7 +22,8 @@ module.exports = new Parser(function analyseEC(parsedUrl, ec) {
   // use console.error for debuging
   // console.error(parsedUrl);
 
-  var match;
+  let match;
+  let title;
 
   if ((match = /^\/([a-z]+)\/search.cfm$/.exec(path)) !== null) {
     // http://apps.brepolis.net/bmb/search.cfm?action=search_simple_detail_single&startrow=1&
@@ -54,7 +55,46 @@ module.exports = new Parser(function analyseEC(parsedUrl, ec) {
       result.rtype    = 'ARTICLE';
       result.mime     = 'MISC';
     }
+  } else if (/^\/action\/doSearch$/i.test(path)) {
+    // http://www.brepolsonline.net:80/action/doSearch?AllField=hitler
+    result.rtype    = 'SEARCH';
+    result.mime     = 'HTML';
+  } else if (/^\/author\/.*$/i.test(path)) {
+    // http://www.brepolsonline.net:80/author/Payen%2C+Pascal
+    result.rtype    = 'SEARCH';
+    result.mime     = 'HTML';
+  } else if ((match = /^\/doi\/(([0-9.]*)\/(.*))$/i.exec(path)) !== null) {
+    // http://www.brepolsonline.net:80/doi/10.1484/J.VIATOR.2.301507
+    result.rtype    = 'ARTICLE';
+    result.mime     = 'HTML';
+    result.doi      = match[1];
+    result.unitid   = match[3];
+  } else if ((match = /^\/doi\/abs\/(([0-9.]*)\/(.*))$/i.exec(path)) !== null) {
+    // http://www.brepolsonline.net:80/doi/abs/10.1484/J.ASH.1.102901
+    result.rtype    = 'ABS';
+    result.mime     = 'HTML';
+    result.doi      = match[1];
+    result.unitid   = match[3];
+  } else if ((match = /^\/doi\/book\/(([0-9.]*)\/(.*))$/i.exec(path)) !== null) {
+    // http://www.brepolsonline.net:80/doi/book/10.1484/M.AS-EB.5.107423
+    result.rtype    = 'TOC';
+    result.mime     = 'HTML';
+    result.doi      = match[1];
+    result.unitid   = match[3];
+  } else if ((match = /^$/i.exec(path)) !== null) {
+    // http://www.brepolsonline.net:80/doi/pdf/10.1484/J.ASH.1.102904
+    result.mime     = 'PDF';
+    result.doi      = match[1];
+    result.unitid   = match[3];
+  } else if ((match = /^\/loi\/([a-z]*)$/i.exec(path)) !== null) {
+    // http://www.brepolsonline.net:80/loi/aboll
+    result.rtype    = 'ABS';
+    result.mime     = 'HTML';
+    title           = match[1];
+    if (title === 'aboll') {
+      result.publication_title = 'Analecta Bollandiana';
+    }
   }
+
   return result;
 });
-
