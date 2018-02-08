@@ -1,6 +1,6 @@
 {
-  "version": "2018-02-07",
-  "status": "beta",
+  "version": "2018-02-08",
+  "status": "stable",
   "name": "oej",
   "longname": "OpenEdition Journals",
   "describe": "Recognizes the accesses to the platform OpenEdition Journals",
@@ -8,8 +8,7 @@
   "contact": "abderrazzak.loukili@inist.fr, thomas.porquet@couperin.org",
   "pkb": true,
   "domains": [
-    "journals.openedition.org",
-    "books.openedition.org"
+    "journals.openedition.org"
   ],
   "pkb-domains": "pkb-piddomain"
 }
