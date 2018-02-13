@@ -2,6 +2,7 @@
 'use strict';
 
 const Parser = require('../.lib/parser.js');
+const doiPrefix = '10.4000';
 
 /**
  * Recognizes the accesses to the platform OpenEdition Journals
@@ -31,6 +32,7 @@ module.exports = new Parser(function analyseEC(parsedUrl, ec) {
     result.mime     = match[2].toUpperCase();
     result.title_id = match[1] ? match[1].substr(1) : host.split('.')[0];
     result.unitid   = `${result.title_id}/${match[3]}`;
+    result.doi      = `${doiPrefix}/${result.title_id}.${match[3]}`;
 
   } else if ((match = /^(\/[a-z-]+)?\/([0-9]+)$/i.exec(path)) !== null) {
     // http://socio.revues.org/1877
@@ -42,6 +44,7 @@ module.exports = new Parser(function analyseEC(parsedUrl, ec) {
       result.mime     = 'HTML';
       result.title_id = match[1] ? match[1].substr(1) : host.split('.')[0];
       result.unitid   = `${result.title_id}/${match[2]}`;
+      result.doi      = `${doiPrefix}/${result.title_id}.${match[2]}`;
     }
   }
 
