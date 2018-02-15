@@ -1,5 +1,6 @@
 out-title_id;out-doi;out-publication_date;out-vol;out-issue;out-unitid;out-rtype;out-mime;in-url
 nature;;;;;nature;TOC;MISC;http://www.nature.com/nature/index.html
+nature;;;;;nature;TOC;MISC;http://www.nature.com/nature/
 nature;;;;;nature;TOC;MISC;http://www.nature.com/nature/current_issue.html
 nature;;;493;7431;nature/v493/n7431;TOC;MISC;http://www.nature.com/nature/journal/v493/n7431/index.html
 nature;10.1038/493166a;;493;7431;10.1038/493166a;ARTICLE;HTML;http://www.nature.com/nature/journal/v493/n7431/full/493166a.html
@@ -60,3 +61,4 @@ nm;10.1038/nm0999_964;;5;9;10.1038/nm0999_964;ARTICLE;PDF;http://www.nature.com:
 ;10.1038/nmat5046;;;;nmat5046;ARTICLE;HTML;http://www.nature.com/articles/nmat5046
 ;10.1038/s41598-018-21122-5;;;;s41598-018-21122-5;ARTICLE;HTML;http://www.nature.com/articles/s41598-018-21122-5
 ;10.1038/s41598-018-21122-5;;;;s41598-018-21122-5;ARTICLE;PDF;http://www.nature.com/articles/s41598-018-21122-5.pdf
+;10.1038/nrn.2017.71;;;;nrn.2017.71;ARTICLE;PDF;http://www.nature.com/articles/nrn.2017.71.pdf
