@@ -1,0 +1,19 @@
+{
+  "version": "2018-02-16",
+  "status": "stable",
+  "domains": [
+    "www.psychiatrist.com"
+  ],
+  "recognize": {
+    "rid": [
+      "unitid",
+      "publication_title"
+    ]
+  },
+  "name": "jcp",
+  "longname": "Journal of Clinical Psychiatry",
+  "describe": "Recognizes the accesses to the platform Journal of Clinical Psychiatry",
+  "docurl": "http://ang.couperin.org/platforms/to_be_completed/",
+  "contact": "alexander.cooper@emory.edu",
+  "pkb": false
+}
