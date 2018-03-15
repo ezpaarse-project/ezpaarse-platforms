@@ -1,0 +1,347 @@
+publication_title	print_identifier	online_identifier	date_first_issue_online	num_first_vol_online	num_first_issue_online	date_last_issue_online	num_last_vol_online	num_last_issue_online	title_url	first_author	title_id	embargo_info	coverage_depth	notes	publisher_name	publication_type	date_monograph_published_print	date_monograph_published_online	monograph_volume	monograph_edition	first_editor	parent_publication_title_id	preceding_publication_title_id	access_type
+Academic Emergency Medicine	1069-6563	1553-2712	2013						http://onlinelibrary.wiley.com/journal/10.1111/(ISSN)1553-2712		10.1111/(ISSN)1553-2712		fulltext		Wiley	serial								P
+Acta Anaesthesiologica Scandinavica	0001-5172	1399-6576	2013						http://onlinelibrary.wiley.com/journal/10.1111/(ISSN)1399-6576		10.1111/(ISSN)1399-6576		fulltext		Wiley	serial								P
+Acta Neurologica Scandinavica	0001-6314	1600-0404	2013						http://onlinelibrary.wiley.com/journal/10.1111/(ISSN)1600-0404		10.1111/(ISSN)1600-0404		fulltext		Wiley	serial								P
+Acta Obstetricia Et Gynecologica Scandinavica	0001-6349	1600-0412	2013						http://onlinelibrary.wiley.com/journal/10.1111/(ISSN)1600-0412		10.1111/(ISSN)1600-0412		fulltext		Wiley	serial								P
+Acta Ophthalmologica Scandinavica	1395-3907	1600-0420	1997			2007			http://onlinelibrary.wiley.com/journal/10.1111/(ISSN)1755-3768		10.1111/(ISSN)1755-3768		fulltext		Wiley	serial								P
+Acta Paediatrica	0803-5253	1651-2227	2013						http://onlinelibrary.wiley.com/journal/10.1111/(ISSN)1651-2227		10.1111/(ISSN)1651-2227		fulltext		Wiley	serial								P
+Acta Physiologica	1748-1708	1748-1716	2013						http://onlinelibrary.wiley.com/journal/10.1111/(ISSN)1748-1716		10.1111/(ISSN)1748-1716		fulltext		Wiley	serial								P
+Acta Psychiatrica Scandinavica	0001-690X	1600-0447	2013						http://onlinelibrary.wiley.com/journal/10.1111/(ISSN)1600-0447		10.1111/(ISSN)1600-0447		fulltext		Wiley	serial								P
+Addiction	0965-2140	1360-0443	2013						http://onlinelibrary.wiley.com/journal/10.1111/(ISSN)1360-0443		10.1111/(ISSN)1360-0443		fulltext		Wiley	serial								P
+Addiction Biology	1355-6215	1369-1600	2013						http://onlinelibrary.wiley.com/journal/10.1111/(ISSN)1369-1600		10.1111/(ISSN)1369-1600		fulltext		Wiley	serial								P
+Alcoholism: Clinical And Experimental Research	0145-6008	1530-0277	2013						http://onlinelibrary.wiley.com/journal/10.1111/(ISSN)1530-0277		10.1111/(ISSN)1530-0277		fulltext		Wiley	serial								P
+Alimentary Pharmacology & Therapeutics	0269-2813	1365-2036	1997	11					http://onlinelibrary.wiley.com/journal/10.1111/(ISSN)1365-2036		10.1111/(ISSN)1365-2036		fulltext		Wiley	serial								P
+Allergy	0105-4538	1398-9995	1997	52					http://onlinelibrary.wiley.com/journal/10.1111/(ISSN)1398-9995		10.1111/(ISSN)1398-9995		fulltext		Wiley	serial								P
+American Journal Of Hematology	0361-8609	1096-8652	1996	51					http://onlinelibrary.wiley.com/journal/10.1002/(ISSN)1096-8652		10.1002/(ISSN)1096-8652		fulltext		Wiley	serial								P
+American Journal Of Industrial Medicine	0271-3586	1097-0274	2013						http://onlinelibrary.wiley.com/journal/10.1002/(ISSN)1097-0274		10.1002/(ISSN)1097-0274		fulltext		Wiley	serial								P
+American Journal Of Reproductive Immunology	1046-7408	1600-0897	2013						http://onlinelibrary.wiley.com/journal/10.1111/(ISSN)1600-0897		10.1111/(ISSN)1600-0897		fulltext		Wiley	serial								P
+American Journal Of Transplantation	1600-6135	1600-6143	2001	1					http://onlinelibrary.wiley.com/journal/10.1111/(ISSN)1600-6143		10.1111/(ISSN)1600-6143		fulltext		Wiley	serial								P
+Anaesthesia	0003-2409	1365-2044	1997	52					http://onlinelibrary.wiley.com/journal/10.1111/(ISSN)1365-2044		10.1111/(ISSN)1365-2044		fulltext		Wiley	serial								P
+Andrologia	0303-4569		2013						http://onlinelibrary.wiley.com/journal/10.1111/(ISSN)1439-0272/issues		10.1111/(ISSN)1439-0272		fulltext		Wiley	serial								P
+Andrology	2047-2919	2047-2927	2013	1					http://onlinelibrary.wiley.com/journal/10.1111/(ISSN)2047-2927		10.1111/(ISSN)2047-2927		fulltext		Wiley	serial								P
+Animal Genetics	0268-9146	1365-2052	2013						http://onlinelibrary.wiley.com/journal/10.1111/(ISSN)1365-2052		10.1111/(ISSN)1365-2052		fulltext		Wiley	serial								P
+Annals Of Human Genetics	0003-4800	1469-1809	2012						http://onlinelibrary.wiley.com/journal/10.1111/(ISSN)1469-1809		10.1111/(ISSN)1469-1809		fulltext		Wiley	serial								P
+Annals Of Neurology	0364-5134	1531-8249	2013						http://onlinelibrary.wiley.com/journal/10.1002/(ISSN)1531-8249		10.1002/(ISSN)1531-8249		fulltext		Wiley	serial								P
+Annals Of Noninvasive Electrocardiology	1082-720X	1542-474X	2013						http://onlinelibrary.wiley.com/journal/10.1111/(ISSN)1542-474X		10.1111/(ISSN)1542-474X		fulltext		Wiley	serial								P
+Anz Journal Of Surgery	1445-1433	1445-2197	2013						http://onlinelibrary.wiley.com/journal/10.1111/(ISSN)1445-2197		10.1111/(ISSN)1445-2197		fulltext		Wiley	serial								P
+Apmis	0903-4641	1600-0463	2013						http://onlinelibrary.wiley.com/journal/10.1111/(ISSN)1600-0463		10.1111/(ISSN)1600-0463		fulltext		Wiley	serial								P
+Arthritis And Rheumatism	0004-3591	1529-0131	2013						http://onlinelibrary.wiley.com/journal/10.1002/(ISSN)1529-0131		10.1002/(ISSN)1529-0131		fulltext		Wiley	serial								P
+Arthritis Care And Research	2151-464X	2151-4658	1999						http://onlinelibrary.wiley.com/journal/10.1002/(ISSN)2151-4658		10.1002/(ISSN)2151-4658		fulltext		Wiley	serial								P
+Artificial Organs	0160-564X	1525-1594	2013						http://onlinelibrary.wiley.com/journal/10.1111/(ISSN)1525-1594		10.1111/(ISSN)1525-1594		fulltext		Wiley	serial								P
+Asia-pacific Journal Of Clinical Oncology	1743-7555	1743-7563	2013						http://onlinelibrary.wiley.com/journal/10.1111/(ISSN)1743-7563		10.1111/(ISSN)1743-7563		fulltext		Wiley	serial								P
+Asian Journal Of Endoscopic Surgery	1758-5902	1758-5910	2013						http://onlinelibrary.wiley.com/journal/10.1111/(ISSN)1758-5910		10.1111/(ISSN)1758-5910		fulltext		Wiley	serial								P
+Australasian Journal Of Dermatology	0004-8380	1440-0960	2013						http://onlinelibrary.wiley.com/journal/10.1111/(ISSN)1440-0960		10.1111/(ISSN)1440-0960		fulltext		Wiley	serial								P
+Australasian Journal Of Ultrasound In Medicine	1836-6864	2205-0140	2009	12					http://onlinelibrary.wiley.com/journal/10.1002/(ISSN)2205-0140		10.1002/(ISSN)2205-0140		fulltext		Wiley	serial								P
+Australasian Journal On Ageing	1440-6381	1741-6612	2013						http://onlinelibrary.wiley.com/journal/10.1111/(ISSN)1741-6612		10.1111/(ISSN)1741-6612		fulltext		Wiley	serial								P
+Australian And New Zealand Journal Of Obstetrics And Gynaecology	0004-8666	1479-828X	2013						http://onlinelibrary.wiley.com/journal/10.1111/(ISSN)1479-828X		10.1111/(ISSN)1479-828X		fulltext		Wiley	serial								P
+Australian Journal Of Rural Health	1038-5282	1440-1584	2013						http://onlinelibrary.wiley.com/journal/10.1111/(ISSN)1440-1584		10.1111/(ISSN)1440-1584		fulltext		Wiley	serial								P
+Australian Occupational Therapy Journal	0045-0766	1440-1630	2013						http://onlinelibrary.wiley.com/journal/10.1111/(ISSN)1440-1630		10.1111/(ISSN)1440-1630		fulltext		Wiley	serial								P
+Autism Research	1939-3792	1939-3806	2008	1					http://onlinelibrary.wiley.com/journal/10.1002/(ISSN)1939-3806		10.1002/(ISSN)1939-3806		fulltext		Wiley	serial								P
+Autonomic And Autacoid Pharmacology	1474-8665	1474-8673	2013						http://onlinelibrary.wiley.com/journal/10.1111/(ISSN)1474-8673		10.1111/(ISSN)1474-8673		fulltext		Wiley	serial								P
+Biochemistry And Molecular Biology Education	1470-8175	1539-3429	2000						http://onlinelibrary.wiley.com/journal/10.1002/(ISSN)1539-3429		10.1002/(ISSN)1539-3429		fulltext		Wiley	serial								P
+Biofactors	0951-6433	1872-8081	2013						http://onlinelibrary.wiley.com/journal/10.1002/(ISSN)1872-8081		10.1002/(ISSN)1872-8081		fulltext		Wiley	serial								P
+Biological Reviews	1464-7931	1469-185X	2013						http://onlinelibrary.wiley.com/journal/10.1111/(ISSN)1469-185X		10.1111/(ISSN)1469-185X		fulltext		Wiley	serial								P
+Biology Of The Cell	0248-4900	1768-322X	2013						http://onlinelibrary.wiley.com/journal/10.1111/(ISSN)1768-322X		10.1111/(ISSN)1768-322X		fulltext		Wiley	serial								P
+Biopharmaceutics & Drug Disposition	0142-2782		2013						http://onlinelibrary.wiley.com/journal/10.1002/(ISSN)1099-081X/issues		10.1002/(ISSN)1099-081X		fulltext		Wiley	serial								P
+Biotechnology And Applied Biochemistry	0885-4513	1470-8744	2013						http://onlinelibrary.wiley.com/journal/10.1002/(ISSN)1470-8744		10.1002/(ISSN)1470-8744		fulltext		Wiley	serial								P
+Biotechnology Progress	8756-7938	1520-6033	2013						http://onlinelibrary.wiley.com/journal/10.1021/(ISSN)1520-6033		10.1021/(ISSN)1520-6033		fulltext		Wiley	serial								P
+Bipolar Disorders	1398-5647	1399-5618	2013						http://onlinelibrary.wiley.com/journal/10.1111/(ISSN)1399-5618		10.1111/(ISSN)1399-5618		fulltext		Wiley	serial								P
+Birth	0730-7659	1523-536X	2013						http://onlinelibrary.wiley.com/journal/10.1111/(ISSN)1523-536X		10.1111/(ISSN)1523-536X		fulltext		Wiley	serial								P
+Bjog : An International Journal Of Obstetrics And Gynaecology	1470-0328	1471-0528	2012						http://onlinelibrary.wiley.com/journal/10.1111/%28ISSN%291471-0528/issues		10.1111/%28ISSN%291471-0528		fulltext		Wiley	serial								P
+Brain Pathology	1015-6305	1750-3639	2013						http://onlinelibrary.wiley.com/journal/10.1111/(ISSN)1750-3639		10.1111/(ISSN)1750-3639		fulltext		Wiley	serial								P
+British Journal Of Clinical Pharmacology	0306-5251	1365-2125	1997	43					http://onlinelibrary.wiley.com/journal/10.1111/(ISSN)1365-2125		10.1111/(ISSN)1365-2125		fulltext		Wiley	serial								P
+British Journal Of Dermatology	0007-0963	1365-2133	2013						http://onlinelibrary.wiley.com/journal/10.1111/(ISSN)1365-2133/issues		10.1111/(ISSN)1365-2133		fulltext		Wiley	serial								P
+British Journal Of Haematology	0007-1048	1365-2141	1997	100					http://onlinelibrary.wiley.com/journal/10.1111/(ISSN)1365-2141		10.1111/(ISSN)1365-2141		fulltext		Wiley	serial								P
+British Journal Of Pharmacology	0007-1188	1476-5381	1996	120					http://onlinelibrary.wiley.com/journal/10.1111/(ISSN)1476-5381		10.1111/(ISSN)1476-5381		fulltext		Wiley	serial								P
+British Journal Of Surgery	0007-1323	1365-2168	2013						http://onlinelibrary.wiley.com/journal/10.1002/(ISSN)1365-2168		10.1002/(ISSN)1365-2168		fulltext		Wiley	serial								P
+British Journal Of Urology	0007-1331	1365-2176	1997			1998			http://onlinelibrary.wiley.com/journal/10.1111/(ISSN)1464-410X		10.1111/(ISSN)1464-410X		fulltext		Wiley	serial								P
+Cancer	0008-543X	1097-0142	1997	79					http://onlinelibrary.wiley.com/journal/10.1002/(ISSN)1097-0142		10.1002/(ISSN)1097-0142		fulltext		Wiley	serial								P
+Cardiovascular Therapeutics	1755-5914	1755-5922	2008						http://onlinelibrary.wiley.com/journal/10.1111/(ISSN)1755-5922		10.1111/(ISSN)1755-5922		fulltext		Wiley	serial								P
+Catheterization And Cardiovascular Interventions	1522-1946	1522-726X	2013						http://onlinelibrary.wiley.com/journal/10.1002/(ISSN)1522-726X		10.1002/(ISSN)1522-726X		fulltext		Wiley	serial								P
+Cell Biochemistry And Function	0263-6484	1099-0844	2013						http://onlinelibrary.wiley.com/journal/10.1002/(ISSN)1099-0844		10.1002/(ISSN)1099-0844		fulltext		Wiley	serial								P
+Cell Biology International	1065-6995	1095-8355	2013						http://onlinelibrary.wiley.com/journal/10.1002/(ISSN)1095-8355		10.1002/(ISSN)1095-8355		fulltext		Wiley	serial								P
+Cell Proliferation	0960-7722	1365-2184	2013						http://onlinelibrary.wiley.com/journal/10.1111/(ISSN)1365-2184		10.1111/(ISSN)1365-2184		fulltext		Wiley	serial								P
+Cellular Microbiology	1462-5814	1462-5822	1999	1					http://onlinelibrary.wiley.com/journal/10.1111/(ISSN)1462-5822		10.1111/(ISSN)1462-5822		fulltext		Wiley	serial								P
+Chemical Biology & Drug Design	1747-0277	1747-0285	2013						http://onlinelibrary.wiley.com/journal/10.1111/(ISSN)1747-0285		10.1111/(ISSN)1747-0285		fulltext		Wiley	serial								P
+Clinical & Experimental Allergy	0954-7894	1365-2222	2013						http://onlinelibrary.wiley.com/journal/10.1111/(ISSN)1365-2222		10.1111/(ISSN)1365-2222		fulltext		Wiley	serial								P
+Clinical & Experimental Immunology	0009-9104	1365-2249	1997	107					http://onlinelibrary.wiley.com/journal/10.1111/(ISSN)1365-2249		10.1111/(ISSN)1365-2249		fulltext		Wiley	serial								P
+Clinical & Experimental Ophthalmology	1442-6404	1442-9071	2013						http://onlinelibrary.wiley.com/journal/10.1111/(ISSN)1442-9071		10.1111/(ISSN)1442-9071		fulltext		Wiley	serial								P
+Clinical Advances In Periodontics	2573-8046	2163-0097	1996	9					http://onlinelibrary.wiley.com/journal/10.1902/(ISSN)2163-0097		10.1902/(ISSN)2163-0097		fulltext		Wiley	serial								P
+Clinical And Experimental Dermatology	0307-6938	1365-2230	2013						http://onlinelibrary.wiley.com/journal/10.1111/(ISSN)1365-2230		10.1111/(ISSN)1365-2230		fulltext		Wiley	serial								P
+Clinical And Experimental Neuroimmunology		1759-1961	2013						http://onlinelibrary.wiley.com/journal/10.1111/(ISSN)1759-1961		10.1111/(ISSN)1759-1961		fulltext		Wiley	serial								P
+Clinical And Experimental Optometry	0816-4622	1444-0938	1997	80					http://onlinelibrary.wiley.com/journal/10.1111/(ISSN)1444-0938		10.1111/(ISSN)1444-0938		fulltext		Wiley	serial								P
+Clinical And Experimental Pharmacology And Physiology	0305-1870	1440-1681	2013						http://onlinelibrary.wiley.com/journal/10.1111/(ISSN)1440-1681		10.1111/(ISSN)1440-1681		fulltext		Wiley	serial								P
+Clinical Endocrinology	0300-0664	1365-2265	2013						http://onlinelibrary.wiley.com/journal/10.1111/(ISSN)1365-2265		10.1111/(ISSN)1365-2265		fulltext		Wiley	serial								P
+Clinical Genetics	0009-9163	1399-0004	2013						http://onlinelibrary.wiley.com/journal/10.1111/(ISSN)1399-0004		10.1111/(ISSN)1399-0004		fulltext		Wiley	serial								P
+Clinical Implant Dentistry And Related Research	1523-0899	1708-8208	2013						http://onlinelibrary.wiley.com/journal/10.1111/(ISSN)1708-8208		10.1111/(ISSN)1708-8208		fulltext		Wiley	serial								P
+Clinical Obesity	1758-8103	1758-8111	2013						http://onlinelibrary.wiley.com/journal/10.1111/(ISSN)1758-8111		10.1111/(ISSN)1758-8111		fulltext		Wiley	serial								P
+Clinical Oral Implants Research	0905-7161	1600-0501	2013						http://onlinelibrary.wiley.com/journal/10.1111/(ISSN)1600-0501		10.1111/(ISSN)1600-0501		fulltext		Wiley	serial								P
+Clinical Otolaryngology	1749-4478	1749-4486	2013						http://onlinelibrary.wiley.com/journal/10.1111/(ISSN)1749-4486		10.1111/(ISSN)1749-4486		fulltext		Wiley	serial								P
+Clinical Pharmacology In Drug Development	2160-763X	2160-7648	2013						http://onlinelibrary.wiley.com/journal/10.1002/(ISSN)2160-7648/issues		10.1002/(ISSN)2160-7648		fulltext		Wiley	serial								P
+Clinical Physiology And Functional Imaging	1475-0961	1475-097X	2013						http://onlinelibrary.wiley.com/journal/10.1111/(ISSN)1475-097X		10.1111/(ISSN)1475-097X		fulltext		Wiley	serial								P
+Clinical Transplantation	0902-0063	1399-0012	2013						http://onlinelibrary.wiley.com/journal/10.1111/(ISSN)1399-0012		10.1111/(ISSN)1399-0012		fulltext		Wiley	serial								P
+Cns: Neuroscience And Therapeutics	1755-5930	1755-5949	2008						http://onlinelibrary.wiley.com/journal/10.1111/(ISSN)1755-5949		10.1111/(ISSN)1755-5949		fulltext		Wiley	serial								P
+Colorectal Disease	1462-8910	1463-1318	2013						http://onlinelibrary.wiley.com/journal/10.1111/(ISSN)1463-1318		10.1111/(ISSN)1463-1318		fulltext		Wiley	serial								P
+Community Dentistry And Oral Epidemiology	0301-5661	1600-0528	2013						http://onlinelibrary.wiley.com/journal/10.1111/(ISSN)1600-0528		10.1111/(ISSN)1600-0528		fulltext		Wiley	serial								P
+Concepts In Magnetic Resonance Part A	1546-6086	1552-5023	2013						http://onlinelibrary.wiley.com/journal/10.1002/(ISSN)1552-5023		10.1002/(ISSN)1552-5023		fulltext		Wiley	serial								P
+Concepts In Magnetic Resonance Part B: Magnetic Resonance Engineering	1552-5031	1552-504X	2013						http://onlinelibrary.wiley.com/journal/10.1002/(ISSN)1552-504X		10.1002/(ISSN)1552-504X		fulltext		Wiley	serial								P
+Congenital Anomalies	0914-3505	1741-4520	2013						http://onlinelibrary.wiley.com/journal/10.1111/(ISSN)1741-4520		10.1111/(ISSN)1741-4520		fulltext		Wiley	serial								P
+Congenital Heart Disease	1747-079X	1747-0803	2013						http://onlinelibrary.wiley.com/journal/10.1111/(ISSN)1747-0803		10.1111/(ISSN)1747-0803		fulltext		Wiley	serial								P
+Contact Dermatitis	0105-1873	1600-0536	2013						http://onlinelibrary.wiley.com/journal/10.1111/(ISSN)1600-0536		10.1111/(ISSN)1600-0536		fulltext		Wiley	serial								P
+Cytopathology	0956-5507	1365-2303	2013						http://onlinelibrary.wiley.com/journal/10.1111/(ISSN)1365-2303		10.1111/(ISSN)1365-2303		fulltext		Wiley	serial								P
+Depression And Anxiety	1091-4269	1520-6394	2013						http://onlinelibrary.wiley.com/journal/10.1002/(ISSN)1520-6394		10.1002/(ISSN)1520-6394		fulltext		Wiley	serial								P
+Dermatologic Therapy	1396-0296	1529-8019	2013						http://onlinelibrary.wiley.com/journal/10.1111/(ISSN)1529-8019		10.1111/(ISSN)1529-8019		fulltext		Wiley	serial								P
+Developmental Medicine & Child Neurology	0012-1622	1469-8749	1997	39					http://onlinelibrary.wiley.com/journal/10.1111/(ISSN)1469-8749		10.1111/(ISSN)1469-8749		fulltext		Wiley	serial								P
+Diabetes, Obesity And Metabolism	1462-8902	1463-1326	2013						http://onlinelibrary.wiley.com/journal/10.1111/(ISSN)1463-1326		10.1111/(ISSN)1463-1326		fulltext		Wiley	serial								P
+Diabetes/metabolism Research And Reviews	1520-7552	1520-7560	2013						http://onlinelibrary.wiley.com/journal/10.1002/(ISSN)1520-7560		10.1002/(ISSN)1520-7560		fulltext		Wiley	serial								P
+Diabetic Medicine	0742-3071	1464-5491	2013						http://onlinelibrary.wiley.com/journal/10.1111/(ISSN)1464-5491		10.1111/(ISSN)1464-5491		fulltext		Wiley	serial								P
+Diagnostic Cytopathology	8755-1039	1097-0339	2013						http://onlinelibrary.wiley.com/journal/10.1002/(ISSN)1097-0339		10.1002/(ISSN)1097-0339		fulltext		Wiley	serial								P
+Digestive Endoscopy	0915-5635	1443-1661	2013						http://onlinelibrary.wiley.com/journal/10.1111/(ISSN)1443-1661		10.1111/(ISSN)1443-1661		fulltext		Wiley	serial								P
+Drug And Alcohol Review	0959-5236	1465-3362	2013						http://onlinelibrary.wiley.com/journal/10.1111/(ISSN)1465-3362		10.1111/(ISSN)1465-3362		fulltext		Wiley	serial								P
+Early Intervention In Psychiatry	1751-7885	1751-7893	2013						http://onlinelibrary.wiley.com/journal/10.1111/(ISSN)1751-7893		10.1111/(ISSN)1751-7893		fulltext		Wiley	serial								P
+Echocardiography	0742-2822	1540-8175	2013						http://onlinelibrary.wiley.com/journal/10.1111/(ISSN)1540-8175		10.1111/(ISSN)1540-8175		fulltext		Wiley	serial								P
+Emergency Medicine Australasia	1742-6731	1742-6723	2013						http://onlinelibrary.wiley.com/journal/10.1111/(ISSN)1742-6723		10.1111/(ISSN)1742-6723		fulltext		Wiley	serial								P
+Environmental And Molecular Mutagenesis	0893-6692	1098-2280	2013						http://onlinelibrary.wiley.com/journal/10.1002/(ISSN)1098-2280		10.1002/(ISSN)1098-2280		fulltext		Wiley	serial								P
+Epilepsia	0013-9580	1528-1167	1997	38					http://onlinelibrary.wiley.com/journal/10.1111/(ISSN)1528-1167		10.1111/(ISSN)1528-1167		fulltext		Wiley	serial								P
+Epileptic Disorders	1294-9361	1950-6945	2014						http://onlinelibrary.wiley.com/journal/10.1684/(ISSN)1950-6945		10.1684/(ISSN)1950-6945		fulltext		Wiley	serial								P
+European Journal Of Cancer Care	0961-5423	1365-2354	2013						http://onlinelibrary.wiley.com/journal/10.1111/(ISSN)1365-2354		10.1111/(ISSN)1365-2354		fulltext		Wiley	serial								P
+European Journal Of Clinical Investigation	0014-2972	1365-2362	2013						http://onlinelibrary.wiley.com/journal/10.1111/(ISSN)1365-2362		10.1111/(ISSN)1365-2362		fulltext		Wiley	serial								P
+European Journal Of Haematology	0902-4441	1600-0609	2013						http://onlinelibrary.wiley.com/journal/10.1111/(ISSN)1600-0609		10.1111/(ISSN)1600-0609		fulltext		Wiley	serial								P
+European Journal Of Heart Failure	1388-9842	1879-0844	2013						http://onlinelibrary.wiley.com/journal/10.1002/(ISSN)1879-0844		10.1002/(ISSN)1879-0844		fulltext		Wiley	serial								P
+European Journal Of Neurology	1351-5101	1468-1331	2013						http://onlinelibrary.wiley.com/journal/10.1111/(ISSN)1468-1331		10.1111/(ISSN)1468-1331		fulltext		Wiley	serial								P
+European Journal Of Neuroscience	0953-816X	1460-9568	2013						http://onlinelibrary.wiley.com/journal/10.1111/(ISSN)1460-9568		10.1111/(ISSN)1460-9568		fulltext		Wiley	serial								P
+European Journal Of Oral Sciences	0909-8836	1600-0722	2013						http://onlinelibrary.wiley.com/journal/10.1111/(ISSN)1600-0722/issues		10.1111/(ISSN)1600-0722		fulltext		Wiley	serial								P
+European Journal Of Pain	1090-3801	1532-2149	2013						http://onlinelibrary.wiley.com/journal/10.1002/(ISSN)1532-2149/issues		10.1002/(ISSN)1532-2149		fulltext		Wiley	serial								P
+Experimental Dermatology	0906-6705	1600-0625	2013						http://onlinelibrary.wiley.com/journal/10.1111/(ISSN)1600-0625		10.1111/(ISSN)1600-0625		fulltext		Wiley	serial								P
+Experimental Physiology	0958-0670	1469-445X	1999	84					http://onlinelibrary.wiley.com/journal/10.1111/(ISSN)1469-445X		10.1111/(ISSN)1469-445X		fulltext		Wiley	serial								P
+Febs Letters		1873-3468	1996	589					http://onlinelibrary.wiley.com/journal/10.1002/(ISSN)1873-3468		10.1002/(ISSN)1873-3468		fulltext		Wiley	serial								P
+Focus On Alternative And Complementary Therapies	1465-3753	2042-7166	2013						http://onlinelibrary.wiley.com/journal/10.1111/(ISSN)2042-7166		10.1111/(ISSN)2042-7166		fulltext		Wiley	serial								P
+Fundamental & Clinical Pharmacology	0767-3981	1472-8206	2013						http://onlinelibrary.wiley.com/journal/10.1111/(ISSN)1472-8206		10.1111/(ISSN)1472-8206		fulltext		Wiley	serial								P
+Future Prescriber	1468-9871	1931-2261	2013						http://onlinelibrary.wiley.com/journal/10.1002/(ISSN)1931-2261		10.1002/(ISSN)1931-2261		fulltext		Wiley	serial								P
+Genes, Brain And Behavior	1601-1848	1601-183X	2002	1					http://onlinelibrary.wiley.com/journal/10.1111/(ISSN)1601-183X		10.1111/(ISSN)1601-183X		fulltext		Wiley	serial								P
+Genes, Chromosomes And Cancer	1045-2257	1098-2264	2013						http://onlinelibrary.wiley.com/journal/10.1002/(ISSN)1098-2264		10.1002/(ISSN)1098-2264		fulltext		Wiley	serial								P
+Genesis	1526-954X	1526-968X	2013						http://onlinelibrary.wiley.com/journal/10.1002/(ISSN)1526-968X		10.1002/(ISSN)1526-968X		fulltext		Wiley	serial								P
+Geriatrics & Gerontology International	1444-1586	1447-0594	2013						http://onlinelibrary.wiley.com/journal/10.1111/(ISSN)1447-0594		10.1111/(ISSN)1447-0594		fulltext		Wiley	serial								P
+Gerodontology	0734-0664		2013						http://onlinelibrary.wiley.com/journal/10.1111/(ISSN)1741-2358/issues		10.1111/(ISSN)1741-2358		fulltext		Wiley	serial								P
+Haemophilia	1351-8216	1365-2516	2013						http://onlinelibrary.wiley.com/journal/10.1111/(ISSN)1365-2516		10.1111/(ISSN)1365-2516		fulltext		Wiley	serial								P
+Head & Neck	1043-3074	1097-0347	2013						http://onlinelibrary.wiley.com/journal/10.1002/(ISSN)1097-0347		10.1002/(ISSN)1097-0347		fulltext		Wiley	serial								P
+Headache: The Journal Of Head And Face Pain	0017-8748	1526-4610	2013						http://onlinelibrary.wiley.com/journal/10.1111/(ISSN)1526-4610		10.1111/(ISSN)1526-4610		fulltext		Wiley	serial								P
+Health & Social Care In The Community	0966-0410	1365-2524	2013						http://onlinelibrary.wiley.com/journal/10.1111/(ISSN)1365-2524		10.1111/(ISSN)1365-2524		fulltext		Wiley	serial								P
+Health Libraries Review	0265-6647	1365-2532	2000			2000			http://onlinelibrary.wiley.com/journal/10.1111/(ISSN)1471-1842		10.1111/(ISSN)1471-1842		fulltext		Wiley	serial								P
+Helicobacter	1083-4389	1523-5378	2013						http://onlinelibrary.wiley.com/journal/10.1111/(ISSN)1523-5378		10.1111/(ISSN)1523-5378		fulltext		Wiley	serial								P
+Hematological Oncology	0278-0232	1099-1069	2013						http://onlinelibrary.wiley.com/journal/10.1002/(ISSN)1099-1069		10.1002/(ISSN)1099-1069		fulltext		Wiley	serial								P
+Hemodialysis International	1492-7535	1542-4758	2013						http://onlinelibrary.wiley.com/journal/10.1111/(ISSN)1542-4758		10.1111/(ISSN)1542-4758		fulltext		Wiley	serial								P
+Hepatology	0270-9139	1527-3350	1996	23					http://onlinelibrary.wiley.com/journal/10.1002/(ISSN)1527-3350		10.1002/(ISSN)1527-3350		fulltext		Wiley	serial								P
+Hepatology Research	1386-6346	1872-034X	2013						http://onlinelibrary.wiley.com/journal/10.1111/(ISSN)1872-034X		10.1111/(ISSN)1872-034X		fulltext		Wiley	serial								P
+Histopathology	0309-0167	1365-2559	2013						http://onlinelibrary.wiley.com/journal/10.1111/(ISSN)1365-2559		10.1111/(ISSN)1365-2559		fulltext		Wiley	serial								P
+Hiv Medicine	1464-2662	1468-1293	1999	1					http://onlinelibrary.wiley.com/journal/10.1111/(ISSN)1468-1293		10.1111/(ISSN)1468-1293		fulltext		Wiley	serial								P
+Human Psychopharmacology: Clinical And Experimental	0885-6222	1099-1077	2013						http://onlinelibrary.wiley.com/journal/10.1002/(ISSN)1099-1077		10.1002/(ISSN)1099-1077		fulltext		Wiley	serial								P
+Immunological Reviews	0105-2896	1600-065X	2013						http://onlinelibrary.wiley.com/journal/10.1111/(ISSN)1600-065X		10.1111/(ISSN)1600-065X		fulltext		Wiley	serial								P
+Immunology	0019-2805	1365-2567	1997	90					http://onlinelibrary.wiley.com/journal/10.1111/(ISSN)1365-2567		10.1111/(ISSN)1365-2567		fulltext		Wiley	serial								P
+Immunology And Cell Biology	0818-9641	1440-1711	1997	7					http://onlinelibrary.wiley.com/journal/10.1111/(ISSN)1440-1711		10.1111/(ISSN)1440-1711		fulltext		Wiley	serial								P
+Indoor Air	0905-6947	1600-0668	2013						http://onlinelibrary.wiley.com/journal/10.1111/(ISSN)1600-0668		10.1111/(ISSN)1600-0668		fulltext		Wiley	serial								P
+Insect Molecular Biology	0962-1075	1365-2583	2013						http://onlinelibrary.wiley.com/journal/10.1111/(ISSN)1365-2583		10.1111/(ISSN)1365-2583		fulltext		Wiley	serial								P
+Internal Medicine Journal	1444-0903	1445-5994	2013						http://onlinelibrary.wiley.com/journal/10.1111/(ISSN)1445-5994		10.1111/(ISSN)1445-5994		fulltext		Wiley	serial								P
+International Dental Journal	0020-6539	1875-595X	2013						http://onlinelibrary.wiley.com/journal/10.1002/(ISSN)1875-595X		10.1002/(ISSN)1875-595X		fulltext		Wiley	serial								P
+International Endodontic Journal	0143-2885	1365-2591	2013						http://onlinelibrary.wiley.com/journal/10.1111/(ISSN)1365-2591		10.1111/(ISSN)1365-2591		fulltext		Wiley	serial								P
+International Forum Of Allergy & Rhinology	2042-6976	2042-6984	2014						http://onlinelibrary.wiley.com/journal/10.1002/(ISSN)2042-6984		10.1002/(ISSN)2042-6984		fulltext		Wiley	serial								P
+International Journal Of Cancer	0020-7136	1097-0215	1996	65					http://onlinelibrary.wiley.com/journal/10.1002/(ISSN)1097-0215		10.1002/(ISSN)1097-0215		fulltext		Wiley	serial								P
+International Journal Of Clinical Practice	1368-5031	1742-1241	2013						http://onlinelibrary.wiley.com/journal/10.1111/(ISSN)1742-1241		10.1111/(ISSN)1742-1241		fulltext		Wiley	serial								P
+International Journal Of Cosmetic Science	0142-5463	1468-2494	2013						http://onlinelibrary.wiley.com/journal/10.1111/(ISSN)1468-2494		10.1111/(ISSN)1468-2494		fulltext		Wiley	serial								P
+International Journal Of Dental Hygiene	1601-5029	1601-5037	2013						http://onlinelibrary.wiley.com/journal/10.1111/(ISSN)1601-5037		10.1111/(ISSN)1601-5037		fulltext		Wiley	serial								P
+International Journal Of Dermatology	0011-9059		2013						http://onlinelibrary.wiley.com/journal/10.1111/(ISSN)1365-4632/issues		10.1111/(ISSN)1365-4632		fulltext		Wiley	serial								P
+International Journal Of Experimental Pathology	0959-9673	1365-2613	2013						http://onlinelibrary.wiley.com/journal/10.1111/(ISSN)1365-2613		10.1111/(ISSN)1365-2613		fulltext		Wiley	serial								P
+International Journal Of Geriatric Psychiatry	0885-6230	1099-1166	2013						http://onlinelibrary.wiley.com/journal/10.1002/(ISSN)1099-1166		10.1002/(ISSN)1099-1166		fulltext		Wiley	serial								P
+International Journal Of Gynecology & Obstetrics	0020-7292	1879-3479	1981	19					http://onlinelibrary.wiley.com/journal/10.1002/(ISSN)1879-3479		10.1002/(ISSN)1879-3479		fulltext		Wiley	serial								P
+International Journal Of Imaging Systems And Technology	0899-9457	1098-1098	2013						http://onlinelibrary.wiley.com/journal/10.1002/(ISSN)1098-1098		10.1002/(ISSN)1098-1098		fulltext		Wiley	serial								P
+International Journal Of Immunogenetics	1744-3121	1744-313X	2013						http://onlinelibrary.wiley.com/journal/10.1111/(ISSN)1744-313X		10.1111/(ISSN)1744-313X		fulltext		Wiley	serial								P
+International Journal Of Laboratory Hematology	1751-5521	1751-553X	2013						http://onlinelibrary.wiley.com/journal/10.1111/(ISSN)1751-553X		10.1111/(ISSN)1751-553X		fulltext		Wiley	serial								P
+International Journal Of Mental Health Nursing	1445-8330	1447-0349	2013						http://onlinelibrary.wiley.com/journal/10.1111/(ISSN)1447-0349		10.1111/(ISSN)1447-0349		fulltext		Wiley	serial								P
+International Journal Of Methods In Psychiatric Research	1049-8931	1557-0657	2013						http://onlinelibrary.wiley.com/journal/10.1002/(ISSN)1557-0657		10.1002/(ISSN)1557-0657		fulltext		Wiley	serial								P
+International Journal Of Nursing Practice	1322-7114	1440-172X	2013						http://onlinelibrary.wiley.com/journal/10.1111/(ISSN)1440-172X		10.1111/(ISSN)1440-172X		fulltext		Wiley	serial								P
+International Journal Of Older People Nursing	1748-3735	1748-3743	2013						http://onlinelibrary.wiley.com/journal/10.1111/(ISSN)1748-3743		10.1111/(ISSN)1748-3743		fulltext		Wiley	serial								P
+International Journal Of Paediatric Dentistry	0960-7439	1365-263X	2013						http://onlinelibrary.wiley.com/journal/10.1111/(ISSN)1365-263X		10.1111/(ISSN)1365-263X		fulltext		Wiley	serial								P
+International Journal Of Pharmacy Practice	0961-7671	2042-7174	2013						http://onlinelibrary.wiley.com/journal/10.1111/(ISSN)2042-7174		10.1111/(ISSN)2042-7174		fulltext		Wiley	serial								P
+International Journal Of Rheumatic Diseases	1756-1841	1756-185X	2013						http://onlinelibrary.wiley.com/journal/10.1111/(ISSN)1756-185X		10.1111/(ISSN)1756-185X		fulltext		Wiley	serial								P
+International Journal Of Urological Nursing	1749-7701	1749-771X	2013						http://onlinelibrary.wiley.com/journal/10.1111/(ISSN)1749-771X		10.1111/(ISSN)1749-771X		fulltext		Wiley	serial								P
+International Journal Of Urology	0919-8172	1442-2042	2013						http://onlinelibrary.wiley.com/journal/10.1111/(ISSN)1442-2042		10.1111/(ISSN)1442-2042		fulltext		Wiley	serial								P
+International Nursing Review	0020-8132	1466-7657	2013						http://onlinelibrary.wiley.com/journal/10.1111/(ISSN)1466-7657		10.1111/(ISSN)1466-7657		fulltext		Wiley	serial								P
+International Wound Journal	1742-4801	1742-481X	2013						http://onlinelibrary.wiley.com/journal/10.1111/(ISSN)1742-481X		10.1111/(ISSN)1742-481X		fulltext		Wiley	serial								P
+Isbt Science Series	1751-2816	1751-2824	2013						http://onlinelibrary.wiley.com/journal/10.1111/(ISSN)1751-2824		10.1111/(ISSN)1751-2824		fulltext		Wiley	serial								P
+Japan Journal Of Nursing Science	1742-7932	1742-7924	2013						http://onlinelibrary.wiley.com/journal/10.1111/(ISSN)1742-7924		10.1111/(ISSN)1742-7924		fulltext		Wiley	serial								P
+Jddg: Journal Der Deutschen Dermatologischen Gesellschaft	1610-0379	1610-0387	2013						http://onlinelibrary.wiley.com/journal/10.1111/(ISSN)1610-0387		10.1111/(ISSN)1610-0387		fulltext		Wiley	serial								P
+Journal For Specialists In Pediatric Nursing	1539-0136	1744-6155	2013						http://onlinelibrary.wiley.com/journal/10.1111/(ISSN)1744-6155		10.1111/(ISSN)1744-6155		fulltext		Wiley	serial								P
+Journal Für Praktische Chemie	1436-9966	1521-3897	1999			2000			http://onlinelibrary.wiley.com/journal/10.1002/(ISSN)1615-4169		10.1002/(ISSN)1615-4169		fulltext		Wiley	serial								P
+Journal Of Advanced Nursing	0309-2402	1365-2648	2013						http://onlinelibrary.wiley.com/journal/10.1111/(ISSN)1365-2648		10.1111/(ISSN)1365-2648		fulltext		Wiley	serial								P
+Journal Of Anatomy	0021-8782	1469-7580	1997	190					http://onlinelibrary.wiley.com/journal/10.1111/(ISSN)1469-7580		10.1111/(ISSN)1469-7580		fulltext		Wiley	serial								P
+Journal Of Applied Biobehavioral Research	1071-2089	1751-9861	2013						http://onlinelibrary.wiley.com/journal/10.1111/(ISSN)1751-9861		10.1111/(ISSN)1751-9861		fulltext		Wiley	serial								P
+Journal Of Biophotonics	1864-063X	1864-0648	2008	1					http://onlinelibrary.wiley.com/journal/10.1002/(ISSN)1864-0648		10.1002/(ISSN)1864-0648		fulltext		Wiley	serial								P
+Journal Of Bone And Mineral Research	0884-0431	1523-4681	1997	12					http://onlinelibrary.wiley.com/journal/10.1002/(ISSN)1523-4681		10.1002/(ISSN)1523-4681		fulltext		Wiley	serial								P
+Journal Of Cardiac Surgery	0886-0440	1540-8191	2013						http://onlinelibrary.wiley.com/journal/10.1111/(ISSN)1540-8191		10.1111/(ISSN)1540-8191		fulltext		Wiley	serial								P
+Journal Of Cardiovascular Electrophysiology	1045-3873	1540-8167	2013						http://onlinelibrary.wiley.com/journal/10.1111/(ISSN)1540-8167		10.1111/(ISSN)1540-8167		fulltext		Wiley	serial								P
+Journal Of Child And Adolescent Psychiatric Nursing	1073-6077	1744-6171	2013						http://onlinelibrary.wiley.com/journal/10.1111/(ISSN)1744-6171		10.1111/(ISSN)1744-6171		fulltext		Wiley	serial								P
+Journal Of Clinical Apheresis	0733-2459	1098-1101	2013						http://onlinelibrary.wiley.com/journal/10.1002/(ISSN)1098-1101		10.1002/(ISSN)1098-1101		fulltext		Wiley	serial								P
+Journal Of Clinical Laboratory Analysis	0887-8013	1098-2825	2013						http://onlinelibrary.wiley.com/journal/10.1002/(ISSN)1098-2825		10.1002/(ISSN)1098-2825		fulltext		Wiley	serial								P
+Journal Of Clinical Nursing	0962-1067	1365-2702	2013						http://onlinelibrary.wiley.com/journal/10.1111/(ISSN)1365-2702		10.1111/(ISSN)1365-2702		fulltext		Wiley	serial								P
+Journal Of Clinical Periodontology	0303-6979	1600-051X	2013						http://onlinelibrary.wiley.com/journal/10.1111/(ISSN)1600-051X		10.1111/(ISSN)1600-051X		fulltext		Wiley	serial								P
+Journal Of Clinical Pharmacology	0091-2700	1552-4604	1997	37					http://onlinelibrary.wiley.com/journal/10.1002/(ISSN)1552-4604		10.1002/(ISSN)1552-4604		fulltext		Wiley	serial								P
+Journal Of Clinical Pharmacy And Therapeutics	0269-4727	1365-2710	2013						http://onlinelibrary.wiley.com/journal/10.1111/(ISSN)1365-2710		10.1111/(ISSN)1365-2710		fulltext		Wiley	serial								P
+Journal Of Clinical Ultrasound	0091-2751	1097-0096	2013						http://onlinelibrary.wiley.com/journal/10.1002/(ISSN)1097-0096		10.1002/(ISSN)1097-0096		fulltext		Wiley	serial								P
+Journal Of Cosmetic Dermatology	1473-2130	1473-2165	2013						http://onlinelibrary.wiley.com/journal/10.1111/(ISSN)1473-2165		10.1111/(ISSN)1473-2165		fulltext		Wiley	serial								P
+Journal Of Cutaneous Pathology	0303-6987	1600-0560	2013						http://onlinelibrary.wiley.com/journal/10.1111/(ISSN)1600-0560		10.1111/(ISSN)1600-0560		fulltext		Wiley	serial								P
+Journal Of Diabetes	1753-0393	1753-0407	2013						http://onlinelibrary.wiley.com/journal/10.1111/(ISSN)1753-0407		10.1111/(ISSN)1753-0407		fulltext		Wiley	serial								P
+Journal Of Digestive Diseases	1751-2972	1751-2980	2013						http://onlinelibrary.wiley.com/journal/10.1111/(ISSN)1751-2980		10.1111/(ISSN)1751-2980		fulltext		Wiley	serial								P
+Journal Of Esthetic And Restorative Dentistry	1496-4155	1708-8240	2013						http://onlinelibrary.wiley.com/journal/10.1111/(ISSN)1708-8240		10.1111/(ISSN)1708-8240		fulltext		Wiley	serial								P
+Journal Of Evaluation In Clinical Practice	1356-1294	1365-2753	2013						http://onlinelibrary.wiley.com/journal/10.1111/(ISSN)1365-2753		10.1111/(ISSN)1365-2753		fulltext		Wiley	serial								P
+Journal Of Evidence-based Medicine	1756-5383		2013						http://onlinelibrary.wiley.com/journal/10.1111/(ISSN)1756-5391/issues		10.1111/(ISSN)1756-5391		fulltext		Wiley	serial								P
+Journal Of Forensic Sciences	0022-1198	1556-4029	2013						http://onlinelibrary.wiley.com/journal/10.1111/(ISSN)1556-4029		10.1111/(ISSN)1556-4029		fulltext		Wiley	serial								P
+Journal Of Gastroenterology And Hepatology	0815-9319	1440-1746	2013						http://onlinelibrary.wiley.com/journal/10.1111/(ISSN)1440-1746		10.1111/(ISSN)1440-1746		fulltext		Wiley	serial								P
+Journal Of Hepato-biliary-pancreatic Sciences	1868-6974	1868-6982	2013						http://onlinelibrary.wiley.com/journal/10.1002/(ISSN)1868-6982/issues		10.1002/(ISSN)1868-6982		fulltext		Wiley	serial								P
+Journal Of Heterocyclic Chemistry	0022-152X	1943-5193	2013						http://onlinelibrary.wiley.com/journal/10.1002/(ISSN)1943-5193		10.1002/(ISSN)1943-5193		fulltext		Wiley	serial								P
+Journal Of Human Nutrition And Dietetics	0952-3871	1365-277X	2013						http://onlinelibrary.wiley.com/journal/10.1111/(ISSN)1365-277X		10.1111/(ISSN)1365-277X		fulltext		Wiley	serial								P
+Journal Of Internal Medicine	0954-6820	1365-2796	2012						http://onlinelibrary.wiley.com/journal/10.1111/(ISSN)1365-2796/issues		10.1111/(ISSN)1365-2796		fulltext		Wiley	serial								P
+Journal Of Interventional Cardiology	0896-4327	1540-8183	2013						http://onlinelibrary.wiley.com/journal/10.1111/(ISSN)1540-8183		10.1111/(ISSN)1540-8183		fulltext		Wiley	serial								P
+Journal Of Investigative And Clinical Dentistry	2041-1618	2041-1626	2013						http://onlinelibrary.wiley.com/journal/10.1111/(ISSN)2041-1626		10.1111/(ISSN)2041-1626		fulltext		Wiley	serial								P
+Journal Of Magnetic Resonance Imaging	1053-1807	1522-2586	2013						http://onlinelibrary.wiley.com/journal/10.1002/(ISSN)1522-2586		10.1002/(ISSN)1522-2586		fulltext		Wiley	serial								P
+Journal Of Medical Imaging And Radiation Oncology	1754-9477	1754-9485	2013						http://onlinelibrary.wiley.com/journal/10.1111/(ISSN)1754-9485/issues		10.1111/(ISSN)1754-9485		fulltext		Wiley	serial								P
+Journal Of Medical Primatology	0047-2565	1600-0684	2013						http://onlinelibrary.wiley.com/journal/10.1111/(ISSN)1600-0684		10.1111/(ISSN)1600-0684		fulltext		Wiley	serial								P
+Journal Of Medical Virology	0146-6615	1096-9071	2013						http://onlinelibrary.wiley.com/journal/10.1002/(ISSN)1096-9071		10.1002/(ISSN)1096-9071		fulltext		Wiley	serial								P
+Journal Of Midwifery & Women’s Health	1526-9523	1542-2011	2013						http://onlinelibrary.wiley.com/journal/10.1111/(ISSN)1542-2011		10.1111/(ISSN)1542-2011		fulltext		Wiley	serial								P
+Journal Of Neurochemistry	0022-3042	1471-4159	2012						http://onlinelibrary.wiley.com/journal/10.1111/(ISSN)1471-4159		10.1111/(ISSN)1471-4159		fulltext		Wiley	serial								P
+Journal Of Neuroendocrinology	0953-8194	1365-2826	2013						http://onlinelibrary.wiley.com/journal/10.1111/(ISSN)1365-2826		10.1111/(ISSN)1365-2826		fulltext		Wiley	serial								P
+Journal Of Neuroimaging	1051-2284	1552-6569	2013						http://onlinelibrary.wiley.com/journal/10.1111/(ISSN)1552-6569		10.1111/(ISSN)1552-6569		fulltext		Wiley	serial								P
+Journal Of Nursing Management	0966-0429	1365-2834	2013						http://onlinelibrary.wiley.com/journal/10.1111/(ISSN)1365-2834		10.1111/(ISSN)1365-2834		fulltext		Wiley	serial								P
+Journal Of Nursing Scholarship	1527-6546	1547-5069	2013						http://onlinelibrary.wiley.com/journal/10.1111/(ISSN)1547-5069		10.1111/(ISSN)1547-5069		fulltext		Wiley	serial								P
+Journal Of Obstetrics And Gynaecology Research	1341-8076	1447-0756	2013						http://onlinelibrary.wiley.com/journal/10.1111/(ISSN)1447-0756		10.1111/(ISSN)1447-0756		fulltext		Wiley	serial								P
+Journal Of Oral Pathology & Medicine	0904-2512	1600-0714	2013						http://onlinelibrary.wiley.com/journal/10.1111/(ISSN)1600-0714		10.1111/(ISSN)1600-0714		fulltext		Wiley	serial								P
+Journal Of Oral Rehabilitation	0305-182X	1365-2842	2013						http://onlinelibrary.wiley.com/journal/10.1111/(ISSN)1365-2842		10.1111/(ISSN)1365-2842		fulltext		Wiley	serial								P
+Journal Of Orthopaedic Research	0736-0266	1554-527X	2013						http://onlinelibrary.wiley.com/journal/10.1002/(ISSN)1554-527X		10.1002/(ISSN)1554-527X		fulltext		Wiley	serial								P
+Journal Of Paediatrics And Child Health	1034-4810	1440-1754	2013						http://onlinelibrary.wiley.com/journal/10.1111/(ISSN)1440-1754		10.1111/(ISSN)1440-1754		fulltext		Wiley	serial								P
+Journal Of Periodontal Research	0022-3484	1600-0765	2013						http://onlinelibrary.wiley.com/journal/10.1111/(ISSN)1600-0765		10.1111/(ISSN)1600-0765		fulltext		Wiley	serial								P
+Journal Of Periodontology	0022-3492	1943-3670	1997	65					http://onlinelibrary.wiley.com/journal/10.1902/(ISSN)1943-3670		10.1902/(ISSN)1943-3670		fulltext		Wiley	serial								P
+Journal Of Pharmaceutical Health Services Research	1759-8885	1759-8893	2013						http://onlinelibrary.wiley.com/journal/10.1111/(ISSN)1759-8893		10.1111/(ISSN)1759-8893		fulltext		Wiley	serial								P
+Journal Of Pharmacy And Pharmacology	0022-3573	2042-7158	2013						http://onlinelibrary.wiley.com/journal/10.1111/(ISSN)2042-7158		10.1111/(ISSN)2042-7158		fulltext		Wiley	serial								P
+Journal Of Pharmacy Practice And Research	1445-937X	2055-2335	2013						http://onlinelibrary.wiley.com/journal/10.1002/(ISSN)2055-2335/issues		10.1002/(ISSN)2055-2335		fulltext		Wiley	serial								P
+Journal Of Pineal Research	0742-3098	1600-079X	2013						http://onlinelibrary.wiley.com/journal/10.1111/(ISSN)1600-079X		10.1111/(ISSN)1600-079X		fulltext		Wiley	serial								P
+Journal Of Prosthodontics	1059-941X	1532-849X	2013						http://onlinelibrary.wiley.com/journal/10.1111/(ISSN)1532-849X		10.1111/(ISSN)1532-849X		fulltext		Wiley	serial								P
+Journal Of Psychiatric And Mental Health Nursing	1351-0126	1365-2850	2013						http://onlinelibrary.wiley.com/journal/10.1111/(ISSN)1365-2850		10.1111/(ISSN)1365-2850		fulltext		Wiley	serial								P
+Journal Of Public Health Dentistry	0022-4006	1752-7325	2013						http://onlinelibrary.wiley.com/journal/10.1111/(ISSN)1752-7325		10.1111/(ISSN)1752-7325		fulltext		Wiley	serial								P
+Journal Of Renal Care	1755-6678	1755-6686	2013						http://onlinelibrary.wiley.com/journal/10.1111/(ISSN)1755-6686		10.1111/(ISSN)1755-6686		fulltext		Wiley	serial								P
+Journal Of Sleep Research	0962-1105	1365-2869	1997	6					http://onlinelibrary.wiley.com/journal/10.1111/(ISSN)1365-2869		10.1111/(ISSN)1365-2869		fulltext		Wiley	serial								P
+Journal Of Surgical Oncology	0022-4790	1096-9098	2013						http://onlinelibrary.wiley.com/journal/10.1002/(ISSN)1096-9098		10.1002/(ISSN)1096-9098		fulltext		Wiley	serial								P
+Journal Of The American Geriatrics Society	0002-8614	1532-5415	2013						http://onlinelibrary.wiley.com/journal/10.1111/(ISSN)1532-5415		10.1111/(ISSN)1532-5415		fulltext		Wiley	serial								P
+Journal Of The European Academy Of Dermatology And Venereology	0926-9959	1468-3083	2013						http://onlinelibrary.wiley.com/journal/10.1111/(ISSN)1468-3083		10.1111/(ISSN)1468-3083		fulltext		Wiley	serial								P
+Journal Of The Peripheral Nervous System	1085-9489	1529-8027	2013						http://onlinelibrary.wiley.com/journal/10.1111/(ISSN)1529-8027		10.1111/(ISSN)1529-8027		fulltext		Wiley	serial								P
+Journal Of Thrombosis And Haemostasis	1538-7933	1538-7836	2003	1					http://onlinelibrary.wiley.com/journal/10.1111/(ISSN)1538-7836		10.1111/(ISSN)1538-7836		fulltext		Wiley	serial								P
+Journal Of Tissue Engineering And Regenerative Medicine	1932-6254	1932-7005	2013						http://onlinelibrary.wiley.com/journal/10.1002/(ISSN)1932-7005		10.1002/(ISSN)1932-7005		fulltext		Wiley	serial								P
+Journal Of Traumatic Stress	0894-9867	1573-6598	2013						http://onlinelibrary.wiley.com/journal/10.1002/(ISSN)1573-6598		10.1002/(ISSN)1573-6598		fulltext		Wiley	serial								P
+Journal Of Veterinary Medicine Series A	0041-1132	1537-2995	2013						http://onlinelibrary.wiley.com/journal/10.1111/(ISSN)1537-2995		10.1111/(ISSN)1537-2995		fulltext		Wiley	serial								P
+Journal Of Viral Hepatitis	1352-0504	1365-2893	2013						http://onlinelibrary.wiley.com/journal/10.1111/(ISSN)1365-2893		10.1111/(ISSN)1365-2893		fulltext		Wiley	serial								P
+Lasers In Surgery And Medicine	0196-8092	1096-9101	2013						http://onlinelibrary.wiley.com/journal/10.1002/(ISSN)1096-9101		10.1002/(ISSN)1096-9101		fulltext		Wiley	serial								P
+Liver International	1478-3223	1478-3231	2013						http://onlinelibrary.wiley.com/journal/10.1111/(ISSN)1478-3231		10.1111/(ISSN)1478-3231		fulltext		Wiley	serial								P
+Liver Transplantation And Surgery	1074-3022	2331-3293	1995			1999			http://onlinelibrary.wiley.com/journal/10.1002/(ISSN)1527-6473		10.1002/(ISSN)1527-6473		fulltext		Wiley	serial								P
+Luts: Lower Urinary Tract Symptoms	1757-5664	1757-5672	2013						http://onlinelibrary.wiley.com/journal/10.1111/(ISSN)1757-5672		10.1111/(ISSN)1757-5672		fulltext		Wiley	serial								P
+Magnetic Resonance In Medicine	0740-3194	1522-2594	2013						http://onlinelibrary.wiley.com/journal/10.1002/(ISSN)1522-2594		10.1002/(ISSN)1522-2594		fulltext		Wiley	serial								P
+Maternal & Child Nutrition	1740-8695	1740-8709	2013						http://onlinelibrary.wiley.com/journal/10.1111/(ISSN)1740-8709		10.1111/(ISSN)1740-8709		fulltext		Wiley	serial								P
+Medical And Veterinary Entomology	0269-283X	1365-2915	2013						http://onlinelibrary.wiley.com/journal/10.1111/(ISSN)1365-2915		10.1111/(ISSN)1365-2915		fulltext		Wiley	serial								P
+Medical Education	0308-0110	1365-2923	2013						http://onlinelibrary.wiley.com/journal/10.1111/(ISSN)1365-2923		10.1111/(ISSN)1365-2923		fulltext		Wiley	serial								P
+Medicinal Research Reviews	0198-6325	1098-1128	2013						http://onlinelibrary.wiley.com/journal/10.1002/(ISSN)1098-1128		10.1002/(ISSN)1098-1128		fulltext		Wiley	serial								P
+Microcirculation	1073-9688	1476-556X	2013						http://onlinelibrary.wiley.com/journal/10.1111/(ISSN)1549-8719/issues		10.1111/(ISSN)1549-8719		fulltext		Wiley	serial								P
+Microsurgery	0738-1085	1098-2752	2013						http://onlinelibrary.wiley.com/journal/10.1002/(ISSN)1098-2752		10.1002/(ISSN)1098-2752		fulltext		Wiley	serial								P
+Molecular Carcinogenesis	0899-1987	1098-2744	2013						http://onlinelibrary.wiley.com/journal/10.1002/(ISSN)1098-2744		10.1002/(ISSN)1098-2744		fulltext		Wiley	serial								P
+Molecular Oral Microbiology	2041-1006	2041-1014	2013						http://onlinelibrary.wiley.com/journal/10.1111/(ISSN)2041-1014		10.1111/(ISSN)2041-1014		fulltext		Wiley	serial								P
+Movement Disorders	0885-3185	1531-8257	2013						http://onlinelibrary.wiley.com/journal/10.1002/(ISSN)1531-8257		10.1002/(ISSN)1531-8257		fulltext		Wiley	serial								P
+Muscle & Nerve	0148-639X	1097-4598	2013						http://onlinelibrary.wiley.com/journal/10.1002/(ISSN)1097-4598		10.1002/(ISSN)1097-4598		fulltext		Wiley	serial								P
+Musculoskeletal Care	1478-2189	1557-0681	2013						http://onlinelibrary.wiley.com/journal/10.1002/(ISSN)1557-0681		10.1002/(ISSN)1557-0681		fulltext		Wiley	serial								P
+Mycoses	0933-7407	1439-0507	2013						http://onlinelibrary.wiley.com/journal/10.1111/(ISSN)1439-0507		10.1111/(ISSN)1439-0507		fulltext		Wiley	serial								P
+Nephrology	1320-5358		2013						http://onlinelibrary.wiley.com/journal/10.1111/(ISSN)1440-1797/issues		10.1111/(ISSN)1440-1797		fulltext		Wiley	serial								P
+Neurogastroenterology And Motility	1350-1925	1365-2982	2012						http://onlinelibrary.wiley.com/journal/10.1111/(ISSN)1365-2982		10.1111/(ISSN)1365-2982		fulltext		Wiley	serial								P
+Neuromodulation: Technology At The Neural Interface	1094-7159	1525-1403	2013						http://onlinelibrary.wiley.com/journal/10.1111/(ISSN)1525-1403		10.1111/(ISSN)1525-1403		fulltext		Wiley	serial								P
+Neuropathology	0919-6544	1440-1789	2013						http://onlinelibrary.wiley.com/journal/10.1111/(ISSN)1440-1789		10.1111/(ISSN)1440-1789		fulltext		Wiley	serial								P
+Neuropathology And Applied Neurobiology	0305-1846	1365-2990	2013						http://onlinelibrary.wiley.com/journal/10.1111/(ISSN)1365-2990		10.1111/(ISSN)1365-2990		fulltext		Wiley	serial								P
+Neurourology And Urodynamics	0733-2467	1520-6777	2013						http://onlinelibrary.wiley.com/journal/10.1002/(ISSN)1520-6777		10.1002/(ISSN)1520-6777		fulltext		Wiley	serial								P
+Nmr In Biomedicine	0952-3480	1099-1492	2013						http://onlinelibrary.wiley.com/journal/10.1002/(ISSN)1099-1492		10.1002/(ISSN)1099-1492		fulltext		Wiley	serial								P
+Nursing & Health Sciences	1441-0745		2013						http://onlinelibrary.wiley.com/journal/10.1111/(ISSN)1442-2018/issues		10.1111/(ISSN)1442-2018		fulltext		Wiley	serial								P
+Nursing Forum	0029-6473	1744-6198	2013						http://onlinelibrary.wiley.com/journal/10.1111/(ISSN)1744-6198		10.1111/(ISSN)1744-6198		fulltext		Wiley	serial								P
+Nursing In Critical Care	1362-1017	1478-5153	2013						http://onlinelibrary.wiley.com/journal/10.1111/(ISSN)1478-5153		10.1111/(ISSN)1478-5153		fulltext		Wiley	serial								P
+Nursing Inquiry	1320-7881	1440-1800	2013						http://onlinelibrary.wiley.com/journal/10.1111/(ISSN)1440-1800		10.1111/(ISSN)1440-1800		fulltext		Wiley	serial								P
+Nursing Philosophy	1466-7681	1466-769X	2013						http://onlinelibrary.wiley.com/journal/10.1111/(ISSN)1466-769X		10.1111/(ISSN)1466-769X		fulltext		Wiley	serial								P
+Nutrition & Dietetics	1446-6368	1747-0080	2013						http://onlinelibrary.wiley.com/journal/10.1111/(ISSN)1747-0080		10.1111/(ISSN)1747-0080		fulltext		Wiley	serial								P
+Nutrition Bulletin	1471-9827	1467-3010	2013						http://onlinelibrary.wiley.com/journal/10.1111/(ISSN)1467-3010		10.1111/(ISSN)1467-3010		fulltext		Wiley	serial								P
+Obesity Research	1071-7323	1550-8528	1993			2005			http://onlinelibrary.wiley.com/journal/10.1002/(ISSN)1930-739X		10.1002/(ISSN)1930-739X		fulltext		Wiley	serial								P
+Obesity Reviews	1467-7881	1467-789X	2013						http://onlinelibrary.wiley.com/journal/10.1111/(ISSN)1467-789X		10.1111/(ISSN)1467-789X		fulltext		Wiley	serial								P
+Ophthalmic And Physiological Optics	0275-5408	1475-1313	2013						http://onlinelibrary.wiley.com/journal/10.1111/(ISSN)1475-1313		10.1111/(ISSN)1475-1313		fulltext		Wiley	serial								P
+Oral Diseases	1354-523X	1601-0825	2013						http://onlinelibrary.wiley.com/journal/10.1111/(ISSN)1601-0825		10.1111/(ISSN)1601-0825		fulltext		Wiley	serial								P
+Oral Surgery	1752-2471	1752-248X	2013						http://onlinelibrary.wiley.com/journal/10.1111/(ISSN)1752-248X		10.1111/(ISSN)1752-248X		fulltext		Wiley	serial								P
+Orthopaedic Surgery	1757-7853	1757-7861	2013						http://onlinelibrary.wiley.com/journal/10.1111/(ISSN)1757-7861		10.1111/(ISSN)1757-7861		fulltext		Wiley	serial								P
+Pacing And Clinical Electrophysiology	0147-8389	1540-8159	2013						http://onlinelibrary.wiley.com/journal/10.1111/(ISSN)1540-8159		10.1111/(ISSN)1540-8159		fulltext		Wiley	serial								P
+Paediatric And Perinatal Epidemiology	0269-5022	1365-3016	2013						http://onlinelibrary.wiley.com/journal/10.1111/(ISSN)1365-3016		10.1111/(ISSN)1365-3016		fulltext		Wiley	serial								P
+Pain Practice	1530-7085	1533-2500	2013						http://onlinelibrary.wiley.com/journal/10.1111/(ISSN)1533-2500		10.1111/(ISSN)1533-2500		fulltext		Wiley	serial								P
+Parasite Immunology	0141-9838	1365-3024	1997	19					http://onlinelibrary.wiley.com/journal/10.1111/(ISSN)1365-3024		10.1111/(ISSN)1365-3024		fulltext		Wiley	serial								P
+Pathology International	1320-5463	1440-1827	2013						http://onlinelibrary.wiley.com/journal/10.1111/(ISSN)1440-1827		10.1111/(ISSN)1440-1827		fulltext		Wiley	serial								P
+Pediatric Allergy And Immunology	0905-6157	1399-3038	2013						http://onlinelibrary.wiley.com/journal/10.1111/(ISSN)1399-3038		10.1111/(ISSN)1399-3038		fulltext		Wiley	serial								P
+Pediatric Anesthesia	1155-5645	1460-9592	2013						http://onlinelibrary.wiley.com/journal/10.1111/(ISSN)1460-9592		10.1111/(ISSN)1460-9592		fulltext		Wiley	serial								P
+Pediatric Blood & Cancer	1545-5009	1545-5017	2013						http://onlinelibrary.wiley.com/journal/10.1002/(ISSN)1545-5017		10.1002/(ISSN)1545-5017		fulltext		Wiley	serial								P
+Pediatric Dermatology	0736-8046	1525-1470	2013						http://onlinelibrary.wiley.com/journal/10.1111/(ISSN)1525-1470		10.1111/(ISSN)1525-1470		fulltext		Wiley	serial								P
+Pediatric Diabetes	1399-543X	1399-5448	2013						http://onlinelibrary.wiley.com/journal/10.1111/(ISSN)1399-5448		10.1111/(ISSN)1399-5448		fulltext		Wiley	serial								P
+Pediatric Obesity	2047-6302	2047-6310	2013						http://onlinelibrary.wiley.com/journal/10.1111/(ISSN)2047-6310/issues		10.1111/(ISSN)2047-6310		fulltext		Wiley	serial								P
+Pediatric Pulmonology	8755-6863	1099-0496	2013						http://onlinelibrary.wiley.com/journal/10.1002/(ISSN)1099-0496		10.1002/(ISSN)1099-0496		fulltext		Wiley	serial								P
+Pediatric Transplantation	1397-3142	1399-3046	2013						http://onlinelibrary.wiley.com/journal/10.1111/(ISSN)1399-3046		10.1111/(ISSN)1399-3046		fulltext		Wiley	serial								P
+Pediatrics International	1328-8067	1442-200X	2013						http://onlinelibrary.wiley.com/journal/10.1111/(ISSN)1442-200X		10.1111/(ISSN)1442-200X		fulltext		Wiley	serial								P
+Periodontology 2000	0906-6713	1600-0757	2013						http://onlinelibrary.wiley.com/journal/10.1111/(ISSN)1600-0757		10.1111/(ISSN)1600-0757		fulltext		Wiley	serial								P
+Perspectives In Psychiatric Care	0031-5990	1744-6163	2013						http://onlinelibrary.wiley.com/journal/10.1111/(ISSN)1744-6163		10.1111/(ISSN)1744-6163		fulltext		Wiley	serial								P
+Pharmacoepidemiology And Drug Safety	1053-8569	1099-1557	2013						http://onlinelibrary.wiley.com/journal/10.1002/(ISSN)1099-1557		10.1002/(ISSN)1099-1557		fulltext		Wiley	serial								P
+Pharmacology & Toxicology	0901-9928	1600-0773	1997			2003			http://onlinelibrary.wiley.com/journal/10.1111/(ISSN)1742-7843		10.1111/(ISSN)1742-7843		fulltext		Wiley	serial								P
+Pharmacotherapy: The Journal Of Human Pharmacology And Drug Therapy	0277-0008	1875-9114	2013						http://onlinelibrary.wiley.com/journal/10.1002/(ISSN)1875-9114		10.1002/(ISSN)1875-9114		fulltext		Wiley	serial								P
+Photodermatology, Photoimmunology & Photomedicine	0905-4383	1600-0781	2013						http://onlinelibrary.wiley.com/journal/10.1111/(ISSN)1600-0781		10.1111/(ISSN)1600-0781		fulltext		Wiley	serial								P
+Phytotherapy Research	0951-418X	1099-1573	2013						http://onlinelibrary.wiley.com/journal/10.1002/(ISSN)1099-1573		10.1002/(ISSN)1099-1573		fulltext		Wiley	serial								P
+Pigment Cell & Melanoma Research	1755-1471	1755-148X	2013						http://onlinelibrary.wiley.com/journal/10.1111/(ISSN)1755-148X		10.1111/(ISSN)1755-148X		fulltext		Wiley	serial								P
+Practical Diabetes (2011)	2047-2897	2047-2900	2013						http://onlinelibrary.wiley.com/journal/10.1002/(ISSN)2047-2900/issues		10.1002/(ISSN)2047-2900		fulltext		Wiley	serial								P
+Prenatal Diagnosis	0197-3851	1097-0223	2013						http://onlinelibrary.wiley.com/journal/10.1002/(ISSN)1097-0223		10.1002/(ISSN)1097-0223		fulltext		Wiley	serial								P
+Prescriber	0959-6682	1931-2253	2013						http://onlinelibrary.wiley.com/journal/10.1002/(ISSN)1931-2253		10.1002/(ISSN)1931-2253		fulltext		Wiley	serial								P
+Progress In Neurology And Psychiatry	1367-7543	1931-227X	2013						http://onlinelibrary.wiley.com/journal/10.1002/(ISSN)1931-227X		10.1002/(ISSN)1931-227X		fulltext		Wiley	serial								P
+Proteomics - Clinical Applications	1862-8346	1862-8354	2007	1					http://onlinelibrary.wiley.com/journal/10.1002/(ISSN)1862-8354		10.1002/(ISSN)1862-8354		fulltext		Wiley	serial								P
+Psychiatry And Clinical Neurosciences	1323-1316	1440-1819	2012						http://onlinelibrary.wiley.com/journal/10.1111/(ISSN)1440-1819		10.1111/(ISSN)1440-1819		fulltext		Wiley	serial								P
+Psycho-oncology	1057-9249	1099-1611	2013						http://onlinelibrary.wiley.com/journal/10.1002/(ISSN)1099-1611		10.1002/(ISSN)1099-1611		fulltext		Wiley	serial								P
+Psychogeriatrics	1346-3500	1479-8301	2013						http://onlinelibrary.wiley.com/journal/10.1111/(ISSN)1479-8301		10.1111/(ISSN)1479-8301		fulltext		Wiley	serial								P
+Public Health Nursing	0737-1209	1525-1446	2013						http://onlinelibrary.wiley.com/journal/10.1111/(ISSN)1525-1446		10.1111/(ISSN)1525-1446		fulltext		Wiley	serial								P
+Research In Nursing & Health	0160-6891	1098-240X	2013						http://onlinelibrary.wiley.com/journal/10.1002/(ISSN)1098-240X		10.1002/(ISSN)1098-240X		fulltext		Wiley	serial								P
+Respirology	1323-7799	1440-1843	2013						http://onlinelibrary.wiley.com/journal/10.1111/(ISSN)1440-1843		10.1111/(ISSN)1440-1843		fulltext		Wiley	serial								P
+Reviews In Medical Virology	1052-9276	1099-1654	2013						http://onlinelibrary.wiley.com/journal/10.1002/(ISSN)1099-1654		10.1002/(ISSN)1099-1654		fulltext		Wiley	serial								P
+Scandinavian Journal Of Caring Sciences	0283-9318	1471-6712	2013						http://onlinelibrary.wiley.com/journal/10.1111/(ISSN)1471-6712		10.1111/(ISSN)1471-6712		fulltext		Wiley	serial								P
+Scandinavian Journal Of Immunology	0300-9475	1365-3083	1997	45					http://onlinelibrary.wiley.com/journal/10.1111/(ISSN)1365-3083		10.1111/(ISSN)1365-3083		fulltext		Wiley	serial								P
+Scandinavian Journal Of Medicine & Science In Sports	0905-7188	1600-0838	2013						http://onlinelibrary.wiley.com/journal/10.1111/(ISSN)1600-0838		10.1111/(ISSN)1600-0838		fulltext		Wiley	serial								P
+Seminars In Dialysis	0894-0959	1525-139X	2013						http://onlinelibrary.wiley.com/journal/10.1111/(ISSN)1525-139X		10.1111/(ISSN)1525-139X		fulltext		Wiley	serial								P
+Skin Research And Technology	0909-752X	1600-0846	2013						http://onlinelibrary.wiley.com/journal/10.1111/(ISSN)1600-0846		10.1111/(ISSN)1600-0846		fulltext		Wiley	serial								P
+Sonography	2202-8323	2054-6750	2014	1					http://onlinelibrary.wiley.com/journal/10.1002/(ISSN)2054-6750		10.1002/(ISSN)2054-6750		fulltext		Wiley	serial								P
+Special Care In Dentistry	0275-1879	1754-4505	2013						http://onlinelibrary.wiley.com/journal/10.1111/(ISSN)1754-4505		10.1111/(ISSN)1754-4505		fulltext		Wiley	serial								P
+Stress And Health	1532-3005	1532-2998	2013						http://onlinelibrary.wiley.com/journal/10.1002/(ISSN)1532-2998		10.1002/(ISSN)1532-2998		fulltext		Wiley	serial								P
+Surgical Practice	1744-1625	1744-1633	2013						http://onlinelibrary.wiley.com/journal/10.1111/(ISSN)1744-1633		10.1111/(ISSN)1744-1633		fulltext		Wiley	serial								P
+The American Journal On Addictions	1055-0496	1521-0391	2013						http://onlinelibrary.wiley.com/journal/10.1111/(ISSN)1521-0391		10.1111/(ISSN)1521-0391		fulltext		Wiley	serial								P
+The Breast Journal	1075-122X	1524-4741	2013						http://onlinelibrary.wiley.com/journal/10.1111/(ISSN)1524-4741		10.1111/(ISSN)1524-4741		fulltext		Wiley	serial								P
+The Clinical Respiratory Journal	1752-6981	1752-699X	2013						http://onlinelibrary.wiley.com/journal/10.1111/(ISSN)1752-699X		10.1111/(ISSN)1752-699X		fulltext		Wiley	serial								P
+The Clinical Teacher	1743-4971	1743-498X	2013						http://onlinelibrary.wiley.com/journal/10.1111/(ISSN)1743-498X		10.1111/(ISSN)1743-498X		fulltext		Wiley	serial								P
+The Febs Journal	1742-464X	1742-4658	2005						http://onlinelibrary.wiley.com/journal/10.1111/(ISSN)1742-4658		10.1111/(ISSN)1742-4658		fulltext		Wiley	serial								P
+The International Journal Of Health Planning And Management	0749-6753	1099-1751	2013						http://onlinelibrary.wiley.com/journal/10.1002/(ISSN)1099-1751		10.1002/(ISSN)1099-1751		fulltext		Wiley	serial								P
+The International Journal Of Medical Robotics And Computer Assisted Surgery	1478-5951	1478-596X	2013						http://onlinelibrary.wiley.com/journal/10.1002/(ISSN)1478-596X		10.1002/(ISSN)1478-596X		fulltext		Wiley	serial								P
+The Journal Of Dermatology	0385-2407	1346-8138	2013						http://onlinelibrary.wiley.com/journal/10.1111/(ISSN)1346-8138		10.1111/(ISSN)1346-8138		fulltext		Wiley	serial								P
+The Journal Of Gene Medicine	1099-498X	1521-2254	2013						http://onlinelibrary.wiley.com/journal/10.1002/(ISSN)1521-2254		10.1002/(ISSN)1521-2254		fulltext		Wiley	serial								P
+The Journal Of Pathology	0022-3417	1096-9896	2013						http://onlinelibrary.wiley.com/journal/10.1002/(ISSN)1096-9896		10.1002/(ISSN)1096-9896		fulltext		Wiley	serial								P
+The Journal Of Physiology	0022-3751	1469-7793	1997	501					http://onlinelibrary.wiley.com/journal/10.1111/(ISSN)1469-7793		10.1111/(ISSN)1469-7793		fulltext		Wiley	serial								P
+The Journal Of Rural Health	0890-765X	1748-0361	2013						http://onlinelibrary.wiley.com/journal/10.1111/(ISSN)1748-0361		10.1111/(ISSN)1748-0361		fulltext		Wiley	serial								P
+The Laryngoscope	0023-852X	1091-756X	2013						http://onlinelibrary.wiley.com/journal/10.1002/(ISSN)1531-4995/issues		10.1002/(ISSN)1531-4995		fulltext		Wiley	serial								P
+The Obstetrician & Gynaecologist	1467-2561	1744-4667	1999	1					http://onlinelibrary.wiley.com/journal/10.1111/(ISSN)1744-4667		10.1111/(ISSN)1744-4667		fulltext		Wiley	serial								P
+The Prostate	0270-4137	1097-0045	2013						http://onlinelibrary.wiley.com/journal/10.1002/(ISSN)1097-0045		10.1002/(ISSN)1097-0045		fulltext		Wiley	serial								P
+Therapeutic Apheresis And Dialysis	1744-9979	1744-9987	2013						http://onlinelibrary.wiley.com/journal/10.1111/(ISSN)1744-9987		10.1111/(ISSN)1744-9987		fulltext		Wiley	serial								P
+Tissue Antigens	0001-2815	1399-0039	2013						http://onlinelibrary.wiley.com/journal/10.1111/(ISSN)1399-0039		10.1111/(ISSN)1399-0039		fulltext		Wiley	serial								P
+Traffic	1398-9219	1600-0854	2000	1					http://onlinelibrary.wiley.com/journal/10.1111/(ISSN)1600-0854		10.1111/(ISSN)1600-0854		fulltext		Wiley	serial								P
+Transfusion Medicine	0958-7578	1365-3148	2013						http://onlinelibrary.wiley.com/journal/10.1111/(ISSN)1365-3148		10.1111/(ISSN)1365-3148		fulltext		Wiley	serial								P
+Transplant Infectious Disease	1398-2273	1399-3062	2013						http://onlinelibrary.wiley.com/journal/10.1111/(ISSN)1399-3062		10.1111/(ISSN)1399-3062		fulltext		Wiley	serial								P
+Transplant International	0934-0874	1432-2277	1997	10					http://onlinelibrary.wiley.com/journal/10.1111/(ISSN)1432-2277		10.1111/(ISSN)1432-2277		fulltext		Wiley	serial								P
+Trends In Urology & Men's Health	2044-3730	2044-3749	2013						http://onlinelibrary.wiley.com/journal/10.1002/(ISSN)2044-3749		10.1002/(ISSN)2044-3749		fulltext		Wiley	serial								P
+Tropical Medicine & International Health	1360-2276	1365-3156	1997	2					http://onlinelibrary.wiley.com/journal/10.1111/(ISSN)1365-3156		10.1111/(ISSN)1365-3156		fulltext		Wiley	serial								P
+Ultrasound In Obstetrics & Gynecology	0960-7692	1469-0705	1991	1					http://onlinelibrary.wiley.com/journal/10.1002/(ISSN)1469-0705		10.1002/(ISSN)1469-0705		fulltext		Wiley	serial								P
+Vox Sanguinis	0042-9007	1423-0410	2013						http://onlinelibrary.wiley.com/journal/10.1111/(ISSN)1423-0410		10.1111/(ISSN)1423-0410		fulltext		Wiley	serial								P
+Worldviews On Evidence-based Nursing	1545-102X	1741-6787	2013						http://onlinelibrary.wiley.com/journal/10.1111/(ISSN)1741-6787		10.1111/(ISSN)1741-6787		fulltext		Wiley	serial								P
+Wound Repair And Regeneration	1067-1927	1524-475X	2013						http://onlinelibrary.wiley.com/journal/10.1111/(ISSN)1524-475X		10.1111/(ISSN)1524-475X		fulltext		Wiley	serial								P
+Xenotransplantation	0908-665X	1399-3089	2013						http://onlinelibrary.wiley.com/journal/10.1111/(ISSN)1399-3089		10.1111/(ISSN)1399-3089		fulltext		Wiley	serial								P

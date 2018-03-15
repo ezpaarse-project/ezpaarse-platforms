@@ -1,0 +1,481 @@
+publication_title	print_identifier	online_identifier	publisher_name	title_url	date_monograph_published_online	date_first_issue_online	num_first_vol_online	num_first_issue_online	date_last_issue_online	num_last_vol_online	num_last_issue_online	first_author	title_id	embargo_info	coverage_depth	coverage_notes	publication_type	date_monograph_published_print	monograph_volume	monograph_edition	first_editor	parent_publication_title_id	preceding_publication_title_id	access_type
+Mille huit cent quatre-vingt-quinze	0769-0959	1960-6176	AFRHC	http://www.cairn.info/revue-1895.htm			75			81			revue-1895											
+@GRH	2034-9130	2295-9149	De Boeck Supérieur	http://www.cairn.info/revue-@grh.htm			1			24			revue-@grh											
+A contrario	1660-7880	1662-8667	BSN Press	http://www.cairn.info/revue-a-contrario.htm			1			24			revue-a-contrario											
+ACCRA			Association Francophone de Comptabilité	http://www.cairn.info/revue-accra.htm			1			1			revue-accra											
+Actes de la recherche en sciences sociales	0335-5322	1955-2564	Le Seuil	http://www.cairn.info/revue-actes-de-la-recherche-en-sciences-sociales.htm			137			220			revue-actes-de-la-recherche-en-sciences-sociales											
+Actualités en analyse transactionnelle	1377-8935	2272-060X	Institut français d'analyse transactionnelle	http://www.cairn.info/revue-actualites-en-analyse-transactionnelle.htm			125			161			revue-actualites-en-analyse-transactionnelle											
+Actuel Marx	0994-4524	1969-6728	Presses Universitaires de France	http://www.cairn.info/revue-actuel-marx.htm			31			62			revue-actuel-marx											
+Administration et Éducation	0222-674X	2554-8395	Association Française des Acteurs de l'Éducation	http://www.cairn.info/revue-administration-et-education.htm			141			156			revue-administration-et-education											
+Adolescence	0751-7696	1969-6736	Editions GREUPP	http://www.cairn.info/revue-adolescence.htm			49			2			revue-adolescence											
+Africultures	1276-2458	2271-1732	Africultures	http://www.cairn.info/revue-africultures.htm			54			106			revue-africultures											
+Afrique contemporaine	0002-0478	1782-138X	De Boeck Supérieur	http://www.cairn.info/revue-afrique-contemporaine.htm			205			259			revue-afrique-contemporaine											
+Afrique et histoire	1764-1977	1776-2766	Verdier	http://www.cairn.info/revue-afrique-et-histoire.htm			1			7			revue-afrique-et-histoire											
+Agone	1157-6790	1953-7999	Agone	http://www.cairn.info/revue-agone.htm			50			61			revue-agone											
+Agora débats/jeunesses	1268-5666	1968-3758	Presses de Sciences Po (P.F.N.S.P.)	http://www.cairn.info/revue-agora-debats-jeunesses.htm			43			78			revue-agora-debats-jeunesses											
+Allemagne d'aujourd'hui	0002-5712	2551-9409	Association pour la connaissance de l'Allemagne d'aujourd'hui	http://www.cairn.info/revue-allemagne-d-aujourd-hui.htm			203			222			revue-allemagne-d-aujourd-hui											
+Analyse Freudienne Presse	1253-1472	1969-6744	ERES	http://www.cairn.info/revue-analyse-freudienne-presse.htm			3			24			revue-analyse-freudienne-presse											
+Annales. Histoire, Sciences Sociales	0395-2649	1953-8146	Éditions de l'EHESS	http://www.cairn.info/revue-annales.htm									revue-annales											
+Annales de Bretagne et des pays de l’Ouest	0399-0826	2108-6443	Presses universitaires de Rennes	http://www.cairn.info/revue-annales-de-bretagne-et-des-pays-de-l-ouest.htm			1			4			revue-annales-de-bretagne-et-des-pays-de-l-ouest											
+Annales de démographie historique	0066-2062	1776-2774	Belin	http://www.cairn.info/revue-annales-de-demographie-historique.htm			101			134			revue-annales-de-demographie-historique											
+Annales de géographie	0003-4010	1777-5884	Armand Colin	http://www.cairn.info/revue-annales-de-geographie.htm			641			718			revue-annales-de-geographie											
+Annales de Normandie	0003-4134	2261-4427	Association Les Annales de Normandie	http://www.cairn.info/revue-annales-de-normandie.htm									revue-annales-de-normandie											
+Annales historiques de l’électricité	1762-3227	2272-8023	Victoires éditions	http://www.cairn.info/revue-annales-historiques-de-l-electricite.htm			1			12			revue-annales-historiques-de-l-electricite											
+Annales historiques de la Révolution française	0003-4436	1952-403X	Armand Colin	http://www.cairn.info/revue-annales-historiques-de-la-revolution-francaise.htm			371			390			revue-annales-historiques-de-la-revolution-francaise											
+L'Année épigraphique	0066-2348	2492-0509	Presses Universitaires de France	http://www.cairn.info/revue-annee-epigraphique.htm			2007			2014			revue-annee-epigraphique											
+Annuel de l'APF	1964-5007	2426-5489	Presses Universitaires de France	http://www.cairn.info/revue-annuel-de-l-apf.htm			2007			2018			revue-annuel-de-l-apf											
+Revue d'anthropologie des connaissances		1760-5393	S.A.C.	http://www.cairn.info/revue-anthropologie-des-connaissances.htm			1			1			revue-anthropologie-des-connaissances											
+Approche Centrée sur la Personne. Pratique et recherche	1774-5314	1961-8670	ACP-PR	http://www.cairn.info/revue-approche-centree-sur-la-personne.htm			1			24			revue-approche-centree-sur-la-personne											
+Après-demain	0003-7176	2552-0563	Association Après-demain	http://www.cairn.info/revue-apres-demain.htm									revue-apres-demain											
+Revue archéologique	0035-0737	2104-3868	Presses Universitaires de France	http://www.cairn.info/revue-archeologique.htm			31			64			revue-archeologique											
+ArchéoSciences	1960-1360	2104-3728	Presses universitaires de Rennes	http://www.cairn.info/revue-archeosciences.htm			39			2			revue-archeosciences											
+Archives d'histoire doctrinale et littéraire du Moyen Âge	0373-5478	2109-9529	Vrin	http://www.cairn.info/revue-archives-d-histoire-doctrinale-et-litteraire-du-moyen-age.htm			68			83			revue-archives-d-histoire-doctrinale-et-litteraire-du-moyen-age											
+Archives de Philosophie	0003-9632	1769-681X	Centre Sèvres	http://www.cairn.info/revue-archives-de-philosophie.htm			64			81			revue-archives-de-philosophie											
+Archives de politique criminelle	0242-5637	2105-2670	Editions A. Pédone	http://www.cairn.info/revue-archives-de-politique-criminelle.htm			23			39			revue-archives-de-politique-criminelle											
+Archives de sciences sociales des religions	0335-5985	1777-5825	Éditions de l'EHESS	http://www.cairn.info/revue-archives-de-sciences-sociales-des-religions.htm			169			178			revue-archives-de-sciences-sociales-des-religions											
+Archives Juives	0003-9837	1965-0531	Les Belles lettres	http://www.cairn.info/revue-archives-juives.htm			34			50			revue-archives-juives											
+Autrepart	1278-3986	2109-9561	Presses de Sciences Po (P.F.N.S.P.)	http://www.cairn.info/revue-autrepart.htm			17			80			revue-autrepart											
+Bulletin d’études orientales	0253-1623	2077-4079	Presses de l’Ifpo	http://www.cairn.info/revue-bulletin-d-etudes-orientales.htm						65			revue-bulletin-d-etudes-orientales											
+Bulletin de l'Institut Pierre Renouvin	1276-8944	1775-4305	UMR Sirice	http://www.cairn.info/revue-bulletin-de-l-institut-pierre-renouvin.htm			25			45			revue-bulletin-de-l-institut-pierre-renouvin											
+Bulletin de psychologie	0007-4403	1968-3766	Groupe d'études de psychologie	http://www.cairn.info/revue-bulletin-de-psychologie.htm			475			554			revue-bulletin-de-psychologie											
+Cahiers Bruxellois ? Brusselse Cahiers	1784-5157	2466-8443	Archives de la Ville de Bruxelles	http://www.cairn.info/revue-cahiers-bruxellois.htm									revue-cahiers-bruxellois											
+Cahiers critiques de thérapie familiale et de pratiques de réseaux	1372-8202	1782-1398	De Boeck Supérieur	http://www.cairn.info/revue-cahiers-critiques-de-therapie-familiale.htm			26			59			revue-cahiers-critiques-de-therapie-familiale											
+Cahiers d'économie Politique / Papers in Political Economy	0154-8344	1969-6779	L'Harmattan	http://www.cairn.info/revue-cahiers-d-economie-politique.htm			39			73			revue-cahiers-d-economie-politique											
+Cahiers d'études africaines	0008-0055	1777-5353	Éditions de l'EHESS	http://www.cairn.info/revue-cahiers-d-etudes-africaines.htm			217			228			revue-cahiers-d-etudes-africaines											
+Cahiers d’études hispaniques médiévales	1779-4684	2108-7083	E.N.S. Editions	http://www.cairn.info/revue-cahiers-d-etudes-hispaniques-medievales.htm			1			40			revue-cahiers-d-etudes-hispaniques-medievales											
+Cahiers d'histoire de l'aluminium	0990-6908	2272-8856	Institut pour l’histoire de l’aluminium	http://www.cairn.info/revue-cahiers-d-histoire-de-l-aluminium.htm			41			59			revue-cahiers-d-histoire-de-l-aluminium											
+Cahiers de Gestalt-thérapie	1277-6874	1775-4348	Collège européen de Gestalt-thérapie	http://www.cairn.info/revue-cahiers-de-gestalt-therapie.htm			9			39			revue-cahiers-de-gestalt-therapie											
+Cahiers de l’action	1772-2101	2552-0334	Institut national de la jeunesse et de l’éducation populaire	http://www.cairn.info/revue-cahiers-de-l-action.htm			27			49			revue-cahiers-de-l-action											
+Les cahiers de la LCD	2496-4956		L'Harmattan	http://www.cairn.info/revue-cahiers-de-la-lcd-lutte-contre-les-discriminations.htm			1			1			revue-cahiers-de-la-lcd-lutte-contre-les-discriminations											
+Cahiers de PréAut	1767-3151	2273-2225	ERES	http://www.cairn.info/revue-cahiers-de-preaut.htm			1			14			revue-cahiers-de-preaut											
+Cahiers de psychologie clinique	1370-074X	1782-1401	De Boeck Supérieur	http://www.cairn.info/revue-cahiers-de-psychologie-clinique.htm			16			49			revue-cahiers-de-psychologie-clinique											
+Cahiers du Genre	1298-6046	1968-3928	L'Harmattan	http://www.cairn.info/revue-cahiers-du-genre.htm			30			63			revue-cahiers-du-genre											
+Cahiers du monde russe	1252-6576	1777-5388	Éditions de l'EHESS	http://www.cairn.info/revue-cahiers-du-monde-russe.htm			56			58			revue-cahiers-du-monde-russe											
+Cahiers internationaux de sociolinguistique	2257-6517	2273-1350	L'Harmattan	http://www.cairn.info/revue-cahiers-internationaux-de-sociolinguistique.htm			6			11			revue-cahiers-internationaux-de-sociolinguistique											
+Cahiers internationaux de sociologie	0008-0276	1969-6787	Presses Universitaires de France	http://www.cairn.info/revue-cahiers-internationaux-de-sociologie.htm			110			129			revue-cahiers-internationaux-de-sociologie											
+Cahiers Jaurès	1268-5399	1969-6809	Société d'études jaurésiennes	http://www.cairn.info/revue-cahiers-jaures.htm			159			226			revue-cahiers-jaures											
+Cahiers jungiens de psychanalyse	0984-8207	2262-4783	Les Cahiers jungiens de psychanalyse	http://www.cairn.info/revue-cahiers-jungiens-de-psychanalyse.htm			100			146			revue-cahiers-jungiens-de-psychanalyse											
+Cahiers philosophiques	0241-2799	2264-2641	Vrin	http://www.cairn.info/revue-cahiers-philosophiques.htm			111			151			revue-cahiers-philosophiques											
+Cahiers Sens public	1767-9397	1775-4356	Association Sens-Public	http://www.cairn.info/revue-cahiers-sens-public.htm			8			20			revue-cahiers-sens-public											
+Cancer(s) et psy(s)	2269-9201	2495-0920	ERES	http://www.cairn.info/revue-cancers-et-psys.htm			1			2			revue-cancers-et-psys											
+Carnet de notes sur les maltraitances infantiles	2295-5518	2406-4718	Office de la naissance et de l'enfance (O.N.E.)	http://www.cairn.info/revue-carnet-de-notes-sur-les-maltraitances-infantiles.htm			1			6			revue-carnet-de-notes-sur-les-maltraitances-infantiles											
+Carrefours de l'éducation	1262-3490	1969-6949	Armand Colin	http://www.cairn.info/revue-carrefours-de-l-education.htm			11			44			revue-carrefours-de-l-education											
+Champ lacanien	1767-6827	2606-5827	EPFCL-France	http://www.cairn.info/revue-champ-lacanien.htm			1			20			revue-champ-lacanien											
+Che Vuoi ?	0994-2424		Le Cercle freudien	http://www.cairn.info/revue-che-vuoi.htm			19			1			revue-che-vuoi											
+Chimères	0986-6035	2111-4412	ERES	http://www.cairn.info/revue-chimeres.htm			61			91			revue-chimeres											
+Cités	1299-5495	1969-6876	Presses Universitaires de France	http://www.cairn.info/revue-cites.htm			5			72			revue-cites											
+Civilisations	0009-8140	2032-0442	Université libre de Bruxelles (U.L.B.)	http://www.cairn.info/revue-civilisations.htm			64			64			revue-civilisations											
+Civitas Europa	1290-9653	2496-4514	IRENEE / Université de Lorraine	http://www.cairn.info/revue-civitas-europa.htm			28			39			revue-civitas-europa											
+Cliniques	2115-8177	1968-3944	ERES	http://www.cairn.info/revue-cliniques.htm			1			14			revue-cliniques											
+Cliniques méditerranéennes	0762-7491	1776-2790	ERES	http://www.cairn.info/revue-cliniques-mediterraneennes.htm			63			97			revue-cliniques-mediterraneennes											
+Clio	1252-7017	1777-5299	Belin	http://www.cairn.info/revue-clio-femmes-genre-histoire.htm			41			45			revue-clio-femmes-genre-histoire											
+Commentaire	0180-8214	2272-8988	Commentaire SA	http://www.cairn.info/revue-commentaire.htm			1			160			revue-commentaire											
+Communication et langages	0336-1500	1778-7459	Presses Universitaires de France	http://www.cairn.info/revue-communication-et-langages.htm			159			195			revue-communication-et-langages											
+Communication et Management	2269-7195	2271-734X	ESKA	http://www.cairn.info/revue-communication-et-management.htm			1			14			revue-communication-et-management											
+Communication et Organisation	1168-5549	1775-3546	Presses universitaires de Bordeaux	http://www.cairn.info/revue-communication-et-organisation.htm			47			51			revue-communication-et-organisation											
+Communications	0588-8018	2102-5924	Le Seuil	http://www.cairn.info/revue-communications.htm			82			101			revue-communications											
+Comptabilité - Contrôle - Audit	1262-2788	2313-514X	Association Francophone de Comptabilité	http://www.cairn.info/revue-comptabilite-controle-audit.htm			1			23			revue-comptabilite-controle-audit											
+Confluences Méditerranée	1148-2664	2102-5991	L'Harmattan	http://www.cairn.info/revue-confluences-mediterranee.htm			36			103			revue-confluences-mediterranee											
+Revue Congolaise de Gestion	1729-0228	2411-0884	Editions ICES	http://www.cairn.info/revue-congolaise-de-gestion.htm			13			23			revue-congolaise-de-gestion											
+Connexions	0337-3126	1776-2804	ERES	http://www.cairn.info/revue-connexions.htm			75			108			revue-connexions											
+Contraste	1254-7689	2259-3780	ERES	http://www.cairn.info/revue-contraste.htm			23			47			revue-contraste											
+Corps	1954-1228	1969-6957	C.N.R.S. Editions	http://www.cairn.info/revue-corps.htm			1			15			revue-corps											
+Corps et Psychisme	2496-4476	2553-6087	L’Esprit du temps	http://www.cairn.info/revue-corps-et-psychisme.htm			21			3			revue-corps-et-psychisme											
+Courrier hebdomadaire du CRISP	0008-9664	1782-141X	CRISP	http://www.cairn.info/revue-courrier-hebdomadaire-du-crisp.htm			0			2363			revue-courrier-hebdomadaire-du-crisp											
+Critique	0011-1600	1968-3901	Les Éditions de Minuit	http://www.cairn.info/revue-critique.htm			669			850			revue-critique											
+Critique internationale	1290-7839	1777-554X	Presses de Sciences Po (P.F.N.S.P.)	http://www.cairn.info/revue-critique-internationale.htm			10			78			revue-critique-internationale											
+Culture chiffres	1959-6928	2118-464X	Ministère de la Culture - DEPS	http://www.cairn.info/revue-culture-chiffres.htm			1			1			revue-culture-chiffres											
+Culture études	1959-691X	2118-4674	Ministère de la Culture - DEPS	http://www.cairn.info/revue-culture-etudes.htm			1			1			revue-culture-etudes											
+Culture méthodes	1959-6936	1968-3774	Ministère de la Culture - DEPS	http://www.cairn.info/revue-culture-methodes.htm			1			1			revue-culture-methodes											
+Culture prospective	1959-6944	2118-4631	Ministère de la Culture - DEPS	http://www.cairn.info/revue-culture-prospective.htm			1			1			revue-culture-prospective											
+Cultures et Conflits	1157-996X	1777-5345	L'Harmattan	http://www.cairn.info/revue-cultures-et-conflits.htm			97			107			revue-cultures-et-conflits											
+Revue d'assyriologie et d'archéologie orientale	0373-6032	2104-3817	Presses Universitaires de France	http://www.cairn.info/revue-d-assyriologie.htm			93			111			revue-d-assyriologie											
+Revue d'économie du développement	1245-4060	1782-1517	De Boeck Supérieur	http://www.cairn.info/revue-d-economie-du-developpement.htm			10			25			revue-d-economie-du-developpement											
+Revue d'économie financière	0987-3368	1777-5744	Association d'économie financière	http://www.cairn.info/revue-d-economie-financiere.htm			101			128			revue-d-economie-financiere											
+Revue d'économie industrielle	0154-3229	1773-0198	De Boeck Supérieur	http://www.cairn.info/revue-d-economie-industrielle.htm			149			158			revue-d-economie-industrielle											
+Revue d'économie politique	0373-2630	2105-2883	Dalloz	http://www.cairn.info/revue-d-economie-politique.htm			111			128			revue-d-economie-politique											
+Revue d’Économie Régionale et Urbaine	0180-7307	2107-0865	Armand Colin	http://www.cairn.info/revue-d-economie-regionale-et-urbaine.htm									revue-d-economie-regionale-et-urbaine											
+Revue d'éthique et de théologie morale	1266-0078	2118-4518	Editions du Cerf	http://www.cairn.info/revue-d-ethique-et-de-theologie-morale.htm			229			295			revue-d-ethique-et-de-theologie-morale											
+Revue d'histoire de la protection sociale	1969-9123	2491-3049	Comité d'histoire de la sécurité sociale	http://www.cairn.info/revue-d-histoire-de-la-protection-sociale.htm			1			10			revue-d-histoire-de-la-protection-sociale											
+Revue d'histoire des sciences	0151-4105	1969-6582	Armand Colin	http://www.cairn.info/revue-d-histoire-des-sciences.htm			59			70			revue-d-histoire-des-sciences											
+Revue d’histoire du XIX<sup>e</sup> siècle	1265-1354	1777-5329	Société de 1848	http://www.cairn.info/revue-d-histoire-du-dix-neuvieme-siecle.htm			50			54			revue-d-histoire-du-dix-neuvieme-siecle											
+Revue d'histoire littéraire de la France	0035-2411	2105-2689	Presses Universitaires de France	http://www.cairn.info/revue-d-histoire-litteraire-de-la-france.htm			101			116			revue-d-histoire-litteraire-de-la-france											
+Revue d’histoire moderne et contemporaine	0048-8003	1776-3045	Belin	http://www.cairn.info/revue-d-histoire-moderne-et-contemporaine.htm			4			4			revue-d-histoire-moderne-et-contemporaine											
+Revue de gestion des ressources humaines	1163-913X	2271-2186	ESKA	http://www.cairn.info/revue-de-gestion-des-ressources-humaines.htm			68			107			revue-de-gestion-des-ressources-humaines											
+Revue de l'enfance et de l'adolescence	2426-296X	2426-3648	ERES	http://www.cairn.info/revue-de-l-enfance-et-de-l-adolescence.htm			43			96			revue-de-l-enfance-et-de-l-adolescence											
+Revue de l’Entrepreneuriat	1766-2524	1630-7542	De Boeck Supérieur	http://www.cairn.info/revue-de-l-entrepreneuriat.htm			1			16			revue-de-l-entrepreneuriat											
+Revue de l'histoire des religions	0035-1423	2105-2573	Armand Colin	http://www.cairn.info/revue-de-l-histoire-des-religions.htm			232			234			revue-de-l-histoire-des-religions											
+La Revue de l'Ires	1145-1378	2104-3698	I.R.E.S.	http://www.cairn.info/revue-de-l-ires.htm			47			92			revue-de-l-ires											
+Revue de l'OCDE sur le développement	1992-0490	1996-5753	Editions de l'OCDE	http://www.cairn.info/revue-de-l-ocde-sur-le-developpement.htm			2			10			revue-de-l-ocde-sur-le-developpement											
+Revue de l'OFCE	1265-9576	1777-5647	OFCE	http://www.cairn.info/revue-de-l-ofce.htm			76			154			revue-de-l-ofce											
+Revue de l’organisation responsable	1951-0187	2105-3022	ESKA	http://www.cairn.info/revue-de-l-organisation-responsable.htm			1			12			revue-de-l-organisation-responsable											
+Revue de la BNF	1254-7700	2118-3376	Bibliothèque nationale de France (B.N.F.)	http://www.cairn.info/revue-de-la-bibliotheque-nationale-de-france.htm			31			56			revue-de-la-bibliotheque-nationale-de-france											
+Revue de littérature comparée	0035-1466	1965-0264	Klincksieck	http://www.cairn.info/revue-de-litterature-comparee.htm			297			363			revue-de-litterature-comparee											
+Revue de métaphysique et de morale	0035-1571	2102-5177	Presses Universitaires de France	http://www.cairn.info/revue-de-metaphysique-et-de-morale.htm			29			97			revue-de-metaphysique-et-de-morale											
+Revue de neuropsychologie	2101-6739	2102-6025	John Libbey Eurotext	http://www.cairn.info/revue-de-neuropsychologie.htm			1			9			revue-de-neuropsychologie											
+Revue de philologie, de littérature et d'histoire anciennes	0035-1652	1760-8430	Klincksieck	http://www.cairn.info/revue-de-philologie-litterature-et-histoire-anciennes.htm									revue-de-philologie-litterature-et-histoire-anciennes											
+Revue de philosophie économique	1376-0971	2118-4852	Vrin	http://www.cairn.info/revue-de-philosophie-economique.htm			10			18			revue-de-philosophie-economique											
+Revue de Psychologie Analytique	2268-8870	2271-2151	L’Esprit du temps	http://www.cairn.info/revue-de-psychologie-analytique.htm			1			3			revue-de-psychologie-analytique											
+Revue de psychothérapie psychanalytique de groupe	0297-1194	1776-2863	ERES	http://www.cairn.info/revue-de-psychotherapie-psychanalytique-de-groupe.htm			36			69			revue-de-psychotherapie-psychanalytique-de-groupe											
+Délibérée	2555-6266	2557-0498	La Découverte	http://www.cairn.info/revue-deliberee.htm			1			3			revue-deliberee											
+La Revue des Sciences de Gestion	1160-7742	1760-6136	Direction et Gestion (La RSG)	http://www.cairn.info/revue-des-sciences-de-gestion.htm			213			286			revue-des-sciences-de-gestion											
+Revue des sciences philosophiques et théologiques	0035-2209	2118-4445	Vrin	http://www.cairn.info/revue-des-sciences-philosophiques-et-theologiques.htm			85			101			revue-des-sciences-philosophiques-et-theologiques											
+Développements	2103-2874	2295-9726	De Boeck Supérieur	http://www.cairn.info/revue-developpements.htm			1			17			revue-developpements											
+Devenir	1015-8154	2235-2090	Médecine & Hygiène	http://www.cairn.info/revue-devenir.htm			13			29			revue-devenir											
+Déviance et Société	0378-7931	2296-4096	Médecine & Hygiène	http://www.cairn.info/revue-deviance-et-societe.htm			25			41			revue-deviance-et-societe											
+Dialogue	0242-8962	1961-8662	ERES	http://www.cairn.info/revue-dialogue.htm			151			218			revue-dialogue											
+Dialogues d'histoire ancienne	0755-7256	1955-270X	Presses Universitaires de Franche-Comté	http://www.cairn.info/revue-dialogues-d-histoire-ancienne.htm			1			2			revue-dialogues-d-histoire-ancienne											
+Diogène	0419-1633	2077-5253	Presses Universitaires de France	http://www.cairn.info/revue-diogene.htm			193			255			revue-diogene											
+Distances et savoirs	1765-0887	1965-0167	Lavoisier	http://www.cairn.info/revue-distances-et-savoirs.htm			1			9			revue-distances-et-savoirs											
+Dix-huitième siècle	0070-6760	1760-7892	La Découverte	http://www.cairn.info/revue-dix-huitieme-siecle.htm			38			49			revue-dix-huitieme-siecle											
+Dix-septième siècle	0012-4273	1969-6965	Presses Universitaires de France	http://www.cairn.info/revue-dix-septieme-siecle.htm			210			278			revue-dix-septieme-siecle											
+Document numérique	1279-5127	1963-1014	Lavoisier	http://www.cairn.info/revue-document-numerique.htm			5			20			revue-document-numerique											
+Dossiers du CRISP			CRISP	http://www.cairn.info/revue-dossiers-du-crisp.htm			78			88			revue-dossiers-du-crisp											
+Droit et société	0769-3362	1969-6973	Editions juridiques associées	http://www.cairn.info/revue-droit-et-societe.htm			47			97			revue-droit-et-societe											
+Droit, Santé et Société	0999-9809	2606-6645	ESKA	http://www.cairn.info/revue-droit-sante-et-societe.htm			1			1			revue-droit-sante-et-societe											
+Droits	0766-3838	2426-5519	Presses Universitaires de France	http://www.cairn.info/revue-droits.htm			33			64			revue-droits											
+Revue du MAUSS	1247-4819	1776-3053	La Découverte	http://www.cairn.info/revue-du-mauss.htm			17			50			revue-du-mauss											
+Revue du Nord	0035-2624	2271-7005	Association Revue du Nord	http://www.cairn.info/revue-du-nord.htm			339			420			revue-du-nord											
+Ecologie et politique	1166-3030	2118-3147	Editions Le Bord de l’eau	http://www.cairn.info/revue-ecologie-et-politique.htm			24			55			revue-ecologie-et-politique											
+Economie et prévision	0249-4744	1777-5795	La Documentation française	http://www.cairn.info/revue-economie-et-prevision.htm			147			212			revue-economie-et-prevision											
+Economie internationale	1240-8093	1777-5582	La Documentation française	http://www.cairn.info/revue-economie-internationale.htm			85			132			revue-economie-internationale											
+Économie rurale	0013-0559	2105-2581	Société française d’économie rurale	http://www.cairn.info/revue-economie-rurale.htm			345			362			revue-economie-rurale											
+Revue économique	0035-2764	1950-6694	Presses de Sciences Po (P.F.N.S.P.)	http://www.cairn.info/revue-economique.htm			52			69			revue-economique											
+Revue économique de l'OCDE	0255-0830	1684-3444	Editions de l'OCDE	http://www.cairn.info/revue-economique-de-l-ocde.htm			32			44			revue-economique-de-l-ocde											
+EcoRev'	1628-6391	2104-3760	Association EcoRev'	http://www.cairn.info/revue-ecorev.htm			39			45			revue-ecorev											
+Education et didactique	1956-3485	2111-4838	Presses universitaires de Rennes	http://www.cairn.info/revue-education-et-didactique.htm			9			11			revue-education-et-didactique											
+Education et sociétés	1373-847X	1782-1428	De Boeck Supérieur	http://www.cairn.info/revue-education-et-societes.htm			7			39			revue-education-et-societes											
+Égypte/Monde arabe	2090-7273	1110-5097	Centre d’études et de documentation économiques, juridiques et sociales	http://www.cairn.info/revue-egypte-monde-arabe.htm			12			16			revue-egypte-monde-arabe											
+Ela. Études de linguistique appliquée	0071-190X	1965-0477	Klincksieck	http://www.cairn.info/revue-ela.htm			121			185			revue-ela											
+Empan	1152-3336	1776-2812	ERES	http://www.cairn.info/revue-empan.htm			45			109			revue-empan											
+Enfance	0013-7545	1969-6981	Presses Universitaires de France	http://www.cairn.info/revue-enfance.htm			53			1			revue-enfance											
+Enfances et Psy	1286-5559	1776-2820	ERES	http://www.cairn.info/revue-enfances-et-psy.htm			12			75			revue-enfances-et-psy											
+Entreprendre et Innover	2034-7634	2034-7642	De Boeck Supérieur	http://www.cairn.info/revue-entreprendre-et-innover.htm			10			34			revue-entreprendre-et-innover											
+Entreprises et histoire	1161-2770	2100-9864	ESKA	http://www.cairn.info/revue-entreprises-et-histoire.htm			1			88			revue-entreprises-et-histoire											
+L’Espace géographique	0046-2497	1776-2936	Belin	http://www.cairn.info/revue-espace-geographique.htm			30			46			revue-espace-geographique											
+Espaces et sociétés	0014-0481	1961-8700	ERES	http://www.cairn.info/revue-espaces-et-societes.htm			117			171			revue-espaces-et-societes											
+Esprit	0014-0759	2111-4579	Editions Esprit	http://www.cairn.info/revue-esprit.htm									revue-esprit											
+Essaim	1287-258X	1776-2839	ERES	http://www.cairn.info/revue-essaim.htm			7			40			revue-essaim											
+Ethnologie française	0046-2616	2101-0064	Presses Universitaires de France	http://www.cairn.info/revue-ethnologie-francaise.htm			31			169			revue-ethnologie-francaise											
+Études	0014-1941	2102-5800	S.E.R.	http://www.cairn.info/revue-etudes.htm			394						revue-etudes											
+Études anglaises	0014-195X	1965-0159	Klincksieck	http://www.cairn.info/revue-etudes-anglaises.htm			54			70			revue-etudes-anglaises											
+Études Balkaniques-Cahiers Pierre Belon	1260-2116	2102-5525	Association Pierre Belon	http://www.cairn.info/revue-etudes-balkaniques-cahiers-pierre-belon.htm			15			21			revue-etudes-balkaniques-cahiers-pierre-belon											
+Études de communication	1270-6841	2101-0366	Université Lille-3	http://www.cairn.info/revue-etudes-de-communication.htm			44			48			revue-etudes-de-communication											
+Etudes économiques de l’OCDE	0304-3363	1684-3428	Editions de l'OCDE	http://www.cairn.info/revue-etudes-economiques-de-l-ocde.htm			21			18			revue-etudes-economiques-de-l-ocde											
+Études Germaniques	0014-2115	2426-5543	Klincksieck	http://www.cairn.info/revue-etudes-germaniques.htm			241			287			revue-etudes-germaniques											
+Etudes rurales	0014-2182	1777-537X	Éditions de l'EHESS	http://www.cairn.info/revue-etudes-rurales.htm			195			199			revue-etudes-rurales											
+Études sur la mort	1286-5702	1961-8654	L’Esprit du temps	http://www.cairn.info/revue-etudes-sur-la-mort.htm			119			150			revue-etudes-sur-la-mort											
+Études théâtrales	0778-8738		L'Harmattan	http://www.cairn.info/revue-etudes-theatrales.htm			32			64			revue-etudes-theatrales											
+Études théologiques et religieuses	0014-2239	2272-9011	Institut protestant de théologie	http://www.cairn.info/revue-etudes-theologiques-et-religieuses.htm			80			92			revue-etudes-theologiques-et-religieuses											
+Etudes Tsiganes	0014-2247	2426-6078	FNASAT	http://www.cairn.info/revue-etudes-tsiganes.htm			30			60			revue-etudes-tsiganes											
+Revue européenne des migrations internationales	0765-0752	1777-5418	Université de Poitiers	http://www.cairn.info/revue-europeenne-des-migrations-internationales.htm			31			33			revue-europeenne-des-migrations-internationales											
+Revue européenne des sciences sociales	0048-8046	1663-4446	Librairie Droz	http://www.cairn.info/revue-europeenne-des-sciences-sociales.htm			1			2			revue-europeenne-des-sciences-sociales											
+Extrême-Orient Extrême-Occident 	0754-5010	2108-7105	Presses universitaires de Vincennes	http://www.cairn.info/revue-extreme-orient-extreme-occident.htm			39			41			revue-extreme-orient-extreme-occident											
+Figures de la psychanalyse	1623-3883	1776-2847	ERES	http://www.cairn.info/revue-figures-de-la-psy.htm			4			34			revue-figures-de-la-psy											
+Finance	0752-6180	2101-0145	Presses universitaires de Grenoble	http://www.cairn.info/revue-finance.htm			26			38			revue-finance											
+Finance et Bien Commun	1422-4658	2295-9130	De Boeck Supérieur	http://www.cairn.info/revue-finance-et-bien-commun.htm			20			39			revue-finance-et-bien-commun											
+Flux	1154-2721	1958-9557	Université Paris-Est Marne la Vallée	http://www.cairn.info/revue-flux.htm			43			110			revue-flux											
+Formation emploi	0759-6340	2107-0946	Céreq	http://www.cairn.info/revue-formation-emploi.htm			129			140			revue-formation-emploi											
+Forum	0988-6486	2551-9921	Champ social	http://www.cairn.info/revue-forum.htm			147			153			revue-forum											
+Revue française d'administration publique	0152-7401	1965-0620	Ecole nationale d'administration (ENA)	http://www.cairn.info/revue-francaise-d-administration-publique.htm			101			163			revue-francaise-d-administration-publique											
+Revue française d'économie	0769-0479	1760-7388	Revue française d’économie	http://www.cairn.info/revue-francaise-d-economie.htm									revue-francaise-d-economie											
+Revue française d'éthique appliquée	2494-5757	2427-0687	ERES	http://www.cairn.info/revue-francaise-d-ethique-appliquee.htm			1			4			revue-francaise-d-ethique-appliquee											
+Revue française d’études américaines	0397-7870	1776-3061	Belin	http://www.cairn.info/revue-francaise-d-etudes-americaines.htm			87			151			revue-francaise-d-etudes-americaines											
+Revue Française d'Histoire des Idées Politiques	1266-7862	2119-3851	L'Harmattan	http://www.cairn.info/revue-francaise-d-histoire-des-idees-politiques.htm			13			46			revue-francaise-d-histoire-des-idees-politiques											
+Revue française d'histoire économique	2427-4062		L'Harmattan	http://www.cairn.info/revue-francaise-d-histoire-economique.htm			1			6			revue-francaise-d-histoire-economique											
+Revue française de droit constitutionnel	1151-2385	2105-2867	Presses Universitaires de France	http://www.cairn.info/revue-francaise-de-droit-constitutionnel.htm			45			112			revue-francaise-de-droit-constitutionnel											
+Revue française de gestion	0338-4551	1777-5663	Lavoisier	http://www.cairn.info/revue-francaise-de-gestion.htm			139			268			revue-francaise-de-gestion											
+Revue française de linguistique appliquée	1386-1204	1875-368X	Pub. linguistiques	http://www.cairn.info/revue-francaise-de-linguistique-appliquee.htm									revue-francaise-de-linguistique-appliquee											
+Revue française de pédagogie	0556-7807	2105-2913	E.N.S. Editions	http://www.cairn.info/revue-francaise-de-pedagogie.htm			190			195			revue-francaise-de-pedagogie											
+Revue française de psychanalyse	0035-2942	2105-2964	Presses Universitaires de France	http://www.cairn.info/revue-francaise-de-psychanalyse.htm			65			82			revue-francaise-de-psychanalyse											
+Revue française de psychosomatique	1164-4796	2105-2603	Presses Universitaires de France	http://www.cairn.info/revue-francaise-de-psychosomatique.htm			1			52			revue-francaise-de-psychosomatique											
+Revue française de science politique	0035-2950	1950-6686	Presses de Sciences Po (P.F.N.S.P.)	http://www.cairn.info/revue-francaise-de-science-politique.htm			51			67			revue-francaise-de-science-politique											
+Revue Française de Socio-Économie	1966-6608	2104-3833	La Découverte	http://www.cairn.info/revue-francaise-de-socio-economie.htm			1			19			revue-francaise-de-socio-economie											
+Revue française de sociologie	0035-2969	1958-5691	Presses de Sciences Po (P.F.N.S.P.)	http://www.cairn.info/revue-francaise-de-sociologie.htm			44			59			revue-francaise-de-sociologie											
+Revue française des affaires sociales	0035-2985	2111-4358	La Documentation française	http://www.cairn.info/revue-francaise-des-affaires-sociales.htm									revue-francaise-des-affaires-sociales											
+Genèses	1155-3219	1776-2944	Belin	http://www.cairn.info/revue-geneses.htm			38			109			revue-geneses											
+Géoéconomie	1620-9869	2258-7748	Editions Choiseul	http://www.cairn.info/revue-geoeconomie.htm			43			82			revue-geoeconomie											
+Géographie, économie, société	1295-926X	1958-5802	Lavoisier	http://www.cairn.info/revue-geographie-economie-societe.htm			6			20			revue-geographie-economie-societe											
+Annales des Mines - Gérer et comprendre	0295-4397	2271-7943	F.F.E.	http://www.cairn.info/revue-gerer-et-comprendre.htm			91			131			revue-gerer-et-comprendre											
+Germanica	0984-2632	2107-0784	Université Lille-3	http://www.cairn.info/revue-germanica.htm			56			61			revue-germanica											
+Gérontologie et société	0151-0193	2101-0218	Caisse nationale d'assurance vieillesse	http://www.cairn.info/revue-gerontologie-et-societe.htm			96			155			revue-gerontologie-et-societe											
+Gestalt	1154-5232	1950-6716	Société française de Gestalt (S.F.G.)	http://www.cairn.info/revue-gestalt.htm			22			51			revue-gestalt											
+Gestion	0701-0028	2369-1352	HEC Montréal	http://www.cairn.info/revue-gestion.htm			26			43			revue-gestion											
+Gestion 2000	0773-0543	2406-4734	Association de recherches et publications en management	http://www.cairn.info/revue-gestion-2000.htm			28			34			revue-gestion-2000											
+Gestion et management public		2116-8865	AIRMAP 	http://www.cairn.info/revue-gestion-et-management-public.htm			1			4			revue-gestion-et-management-public											
+Gouvernement et action publique	2260-0965	2262-340X	Presses de Sciences Po (P.F.N.S.P.)	http://www.cairn.info/revue-gouvernement-et-action-publique.htm			1			4			revue-gouvernement-et-action-publique											
+Gradhiva	0764-8928	1760-849X	Musée du quai Branly	http://www.cairn.info/revue-gradhiva.htm			21			26			revue-gradhiva											
+Guerres mondiales et conflits contemporains	0984-2292	2101-0137	Presses Universitaires de France	http://www.cairn.info/revue-guerres-mondiales-et-conflits-contemporains.htm			201			268			revue-guerres-mondiales-et-conflits-contemporains											
+Hermès, La Revue	0767-9513	1963-1006	C.N.R.S. Editions	http://www.cairn.info/revue-hermes-la-revue.htm			1			79			revue-hermes-la-revue											
+Hérodote	0338-487X	1776-2987	La Découverte	http://www.cairn.info/revue-herodote.htm			100			167			revue-herodote											
+Histoire de l’éducation	0221-6280	2102-5452	E.N.S. Editions	http://www.cairn.info/revue-histoire-de-l-education.htm			143			146			revue-histoire-de-l-education											
+Histoire de la justice	1639-4399	2271-7501	Association française pour l'histoire de la Justice	http://www.cairn.info/revue-histoire-de-la-justice.htm			16			28			revue-histoire-de-la-justice											
+Revue d'Histoire des Sciences Humaines	1622-468X	1963-1022	Editions Sciences Humaines	http://www.cairn.info/revue-histoire-des-sciences-humaines.htm			1			25			revue-histoire-des-sciences-humaines											
+Histoire, économie et société	0752-5702	1777-5906	Armand Colin	http://www.cairn.info/revue-histoire-economie-et-societe.htm									revue-histoire-economie-et-societe											
+Histoire et mesure	0982-1783	1957-7745	Éditions de l'EHESS	http://www.cairn.info/revue-histoire-et-mesure.htm									revue-histoire-et-mesure											
+Histoire et Sociétés Rurales	1254-728X	1950-666X	Association d'histoire des sociétés rurales (A.H.S.R.)	http://www.cairn.info/revue-histoire-et-societes-rurales.htm			15			48			revue-histoire-et-societes-rurales											
+Histoire, monde et cultures religieuses	2267-7313	2271-1848	Editions Karthala	http://www.cairn.info/revue-histoire-monde-et-cultures-religieuses.htm			1			42			revue-histoire-monde-et-cultures-religieuses											
+Histoire@Politique		1954-3670	Centre d'histoire de Sciences Po	http://www.cairn.info/revue-histoire-politique.htm			1			33			revue-histoire-politique											
+Histoire urbaine	1628-0482	2101-003X	Société française d'histoire urbaine	http://www.cairn.info/revue-histoire-urbaine.htm			1			50			revue-histoire-urbaine											
+Revue historique	0035-3264	2104-3825	Presses Universitaires de France	http://www.cairn.info/revue-historique.htm			617			684			revue-historique											
+Hommes et Migrations	1142-852X	2262-3353	Musée de l’histoire de l’immigration	http://www.cairn.info/revue-hommes-et-migrations.htm			1309			1319			revue-hommes-et-migrations											
+Horizons stratégiques	1958-3370	1760-8023	La Documentation française	http://www.cairn.info/revue-horizons-strategiques.htm			1			7			revue-horizons-strategiques											
+Humanisme et Entreprise	0018-7372	2271-1791	A.A.E.L.S.H.U.P	http://www.cairn.info/revue-humanisme-et-entreprise.htm			285			317			revue-humanisme-et-entreprise											
+Hypothèses	1298-6216	2101-0269	Éditions de la Sorbonne	http://www.cairn.info/revue-hypotheses.htm			1			20			revue-hypotheses											
+I2D ? Information, données et documents	2428-2111	2431-3467	A.D.B.S.	http://www.cairn.info/revue-i2d-information-donnees-et-documents.htm			38			54			revue-i2d-information-donnees-et-documents											
+Idées économiques et sociales	2257-5111	2264-2749	Réseau Canopé	http://www.cairn.info/revue-idees-economiques-et-sociales.htm			151			191			revue-idees-economiques-et-sociales											
+Imaginaire et Inconscient	1628-9676	1965-0183	L’Esprit du temps	http://www.cairn.info/revue-imaginaire-et-inconscient.htm			1			39			revue-imaginaire-et-inconscient											
+Revue internationale de soins palliatifs	1664-1531	2235-2155	Médecine & Hygiène	http://www.cairn.info/revue-infokara.htm			16			32			revue-infokara											
+Informations sociales	0046-9459	2101-0374	Caisse nationale d'allocations familiales (CNAF)	http://www.cairn.info/revue-informations-sociales.htm			121			195			revue-informations-sociales											
+Innovations	1267-4982	1965-0256	De Boeck Supérieur	http://www.cairn.info/revue-innovations.htm			13			55			revue-innovations											
+Insistance	1778-7807	1951-6258	ERES	http://www.cairn.info/revue-insistance.htm			1			13			revue-insistance											
+Revue interdisciplinaire d'études juridiques	0770-2310	2406-4742	Université Saint-Louis - Bruxelles	http://www.cairn.info/revue-interdisciplinaire-d-etudes-juridiques.htm			58			79			revue-interdisciplinaire-d-etudes-juridiques											
+Revue internationale d'intelligence économique	2101-647X	2102-6408	Lavoisier	http://www.cairn.info/revue-internationale-d-intelligence-economique.htm			1			7			revue-internationale-d-intelligence-economique											
+Revue internationale de droit économique	1010-8831	1782-1525	De Boeck Supérieur	http://www.cairn.info/revue-internationale-de-droit-economique.htm			1						revue-internationale-de-droit-economique											
+Revue internationale de droit pénal	0223-5404	1951-6312	ERES	http://www.cairn.info/revue-internationale-de-droit-penal.htm			72			86			revue-internationale-de-droit-penal											
+Revue internationale de philosophie	0048-8143	2033-0138	Association Revue internationale de philosophie	http://www.cairn.info/revue-internationale-de-philosophie.htm			216			283			revue-internationale-de-philosophie											
+Revue internationale de politique comparée	1370-0731	1782-1533	De Boeck Supérieur	http://www.cairn.info/revue-internationale-de-politique-comparee.htm			8			23			revue-internationale-de-politique-comparee											
+Revue internationale de psychologie sociale	0992-986X	2119-4130	Presses universitaires de Grenoble	http://www.cairn.info/revue-internationale-de-psychologie-sociale.htm			19			28			revue-internationale-de-psychologie-sociale											
+Revue internationale de psychosociologie et de gestion des comportements organisationnels	2262-8401	2430-3275	ESKA	http://www.cairn.info/revue-internationale-de-psychosociologie-de-gestion-des-comportements-organisationnels.htm									revue-internationale-de-psychosociologie-de-gestion-des-comportements-organisationnels											
+Revue internationale des études du développement	2554-3415	2554-3555	Éditions de la Sorbonne	http://www.cairn.info/revue-internationale-des-etudes-du-developpement.htm			173			233			revue-internationale-des-etudes-du-developpement											
+Revue Internationale des Sciences Administratives	0303-965X	2411-2909	I.I.S.A.	http://www.cairn.info/revue-internationale-des-sciences-administratives.htm			71			83			revue-internationale-des-sciences-administratives											
+Revue internationale des sciences de l'organisation		2551-3583	Management Prospective Ed.	http://www.cairn.info/revue-internationale-des-sciences-de-l-organisation.htm			1			4			revue-internationale-des-sciences-de-l-organisation											
+Revue internationale des sciences sociales 	0304-3037	2222-4610	ERES	http://www.cairn.info/revue-internationale-des-sciences-sociales.htm			167			196			revue-internationale-des-sciences-sociales											
+Revue internationale et stratégique	1287-1672	2104-3876	Armand Colin	http://www.cairn.info/revue-internationale-et-strategique.htm			41			109			revue-internationale-et-strategique											
+Journal de gestion et d'économie médicales	2262-5305	2270-2504	ESKA	http://www.cairn.info/revue-journal-de-gestion-et-d-economie-medicales.htm			26			35			revue-journal-de-gestion-et-d-economie-medicales											
+Journal de la psychanalyse de l'enfant	0994-7949	2264-590X	Presses Universitaires de France	http://www.cairn.info/revue-journal-de-la-psychanalyse-de-l-enfant.htm			1			7			revue-journal-de-la-psychanalyse-de-l-enfant											
+Journal de la Société des Océanistes	0300-953X	1760-7256	Société des océanistes	http://www.cairn.info/revue-journal-de-la-societe-des-oceanistes.htm			140			145			revue-journal-de-la-societe-des-oceanistes											
+Journal des anthropologues	1156-0428	2114-2203	Association Française des Anthropologues	http://www.cairn.info/revue-journal-des-anthropologues.htm			141			151			revue-journal-des-anthropologues											
+Journal du droit des jeunes	2114-2068	2259-6003	Association jeunesse et droit	http://www.cairn.info/revue-journal-du-droit-des-jeunes.htm			201			367			revue-journal-du-droit-des-jeunes											
+Journal français de psychiatrie	1260-5999	1776-2855	ERES	http://www.cairn.info/revue-journal-francais-de-psychiatrie.htm			12			45			revue-journal-francais-de-psychiatrie											
+Journal International de Bioéthique	2555-5111	2102-5169	ESKA	http://www.cairn.info/revue-journal-international-de-bioethique.htm			12			28			revue-journal-international-de-bioethique											
+Journal of Innovation Economics et Management		2032-5355	De Boeck Supérieur	http://www.cairn.info/revue-journal-of-innovation-economics.htm			1			25			revue-journal-of-innovation-economics											
+Journal of international Mobility	2296-5165	2296-519X	Presses Universitaires de France	http://www.cairn.info/revue-journal-of-international-mobility.htm			3			5			revue-journal-of-international-mobility											
+Jusqu’à la mort accompagner la vie	0768-6625	2428-3592	Presses universitaires de Grenoble	http://www.cairn.info/revue-jusqu-a-la-mort-accompagner-la-vie.htm			109			131			revue-jusqu-a-la-mort-accompagner-la-vie											
+L'Année balzacienne 	0084-6473	1969-6752	Presses Universitaires de France	http://www.cairn.info/revue-l-annee-balzacienne.htm			1			18			revue-l-annee-balzacienne											
+L’Année psychanalytique internationale	1661-8009	2273-1598	In Press	http://www.cairn.info/revue-l-annee-psychanalytique-internationale.htm			2007			2017			revue-l-annee-psychanalytique-internationale											
+L’Année psychologique	0003-5033	1955-2580	Presses Universitaires de France	http://www.cairn.info/revue-l-annee-psychologique.htm			109			118			revue-l-annee-psychologique											
+L'Année sociologique	0066-2399	1969-6760	Presses Universitaires de France	http://www.cairn.info/revue-l-annee-sociologique.htm			51			67			revue-l-annee-sociologique											
+L'Autre	1626-5378	2259-4566	La Pensée sauvage	http://www.cairn.info/revue-l-autre.htm			1			18			revue-l-autre											
+L'école des parents	0424-2238	2491-2875	ERES	http://www.cairn.info/revue-l-ecole-des-parents.htm			588			626			revue-l-ecole-des-parents											
+L'Économie politique	1293-6146	1965-0612	Altern. économiques	http://www.cairn.info/revue-l-economie-politique.htm			9			77			revue-l-economie-politique											
+L'en-je lacanien	1761-2861	1951-6231	ERES	http://www.cairn.info/revue-l-en-je-lacanien.htm			1			29			revue-l-en-je-lacanien											
+L'Europe en Formation	0014-2808	2410-9231	Centre international de formation européenne	http://www.cairn.info/revue-l-europe-en-formation.htm			350			382			revue-l-europe-en-formation											
+L'Expansion Management Review	1254-3179	2271-7749	L'Express - Roularta	http://www.cairn.info/revue-l-expansion-management-review.htm			116			155			revue-l-expansion-management-review											
+L'Homme	0439-4216	1953-8103	Éditions de l'EHESS	http://www.cairn.info/revue-l-homme.htm			213			222			revue-l-homme											
+L'Homme et la société	0018-4306	2101-0226	L'Harmattan	http://www.cairn.info/revue-l-homme-et-la-societe.htm			139			205			revue-l-homme-et-la-societe											
+L'Information géographique 	0020-0093	1777-5876	Armand Colin	http://www.cairn.info/revue-l-information-geographique.htm			70			81			revue-l-information-geographique											
+L'information littéraire	0020-0123	1961-8689	Les Belles lettres	http://www.cairn.info/revue-l-information-litteraire.htm			53			60			revue-l-information-litteraire											
+L'information psychiatrique	0020-0204	1952-4056	John Libbey Eurotext	http://www.cairn.info/revue-l-information-psychiatrique.htm			82			94			revue-l-information-psychiatrique											
+L'Observatoire	1165-2675	2553-615X	Observatoire des politiques culturelles	http://www.cairn.info/revue-l-observatoire.htm			32			51			revue-l-observatoire											
+La Cause Du Désir	2258-8051	2606-6041	L'École de la Cause freudienne	http://www.cairn.info/revue-la-cause-du-desir.htm			56			98			revue-la-cause-du-desir											
+La clinique lacanienne	1288-6629	1776-2782	ERES	http://www.cairn.info/revue-la-clinique-lacanienne.htm			5			29			revue-la-clinique-lacanienne											
+La linguistique	0075-966X	2101-0234	Presses Universitaires de France	http://www.cairn.info/revue-la-linguistique.htm			37			53			revue-la-linguistique											
+La nouvelle revue de l'adaptation et de la scolarisation	1957-0341	2426-6248	I.N.S.H.E.A.	http://www.cairn.info/revue-la-nouvelle-revue-de-l-adaptation-et-de-la-scolarisation.htm			33			80			revue-la-nouvelle-revue-de-l-adaptation-et-de-la-scolarisation											
+La pensée de midi	1621-5338	1950-604X	Actes sud	http://www.cairn.info/revue-la-pensee-de-midi.htm			1			31			revue-la-pensee-de-midi											
+La psychiatrie de l'enfant	0079-726X	2102-5320	Presses Universitaires de France	http://www.cairn.info/revue-la-psychiatrie-de-l-enfant.htm			44			61			revue-la-psychiatrie-de-l-enfant											
+La revue internationale de l'éducation familiale	1279-7766	1968-388X	L'Harmattan	http://www.cairn.info/revue-la-revue-internationale-de-l-education-familiale.htm			19			41			revue-la-revue-internationale-de-l-education-familiale											
+La revue lacanienne	1967-2055	2109-9553	ERES	http://www.cairn.info/revue-la-revue-lacanienne.htm			1			18			revue-la-revue-lacanienne											
+Labyrinthe	1288-6289	1950-6031	Hermann	http://www.cairn.info/revue-labyrinthe.htm									revue-labyrinthe											
+Laennec	1272-520X	2262-483X	Centre Laennec	http://www.cairn.info/revue-laennec.htm			50			71			revue-laennec											
+Langage et société	0181-4095	2101-0382	Éditions de la Maison des sciences de l'homme	http://www.cairn.info/revue-langage-et-societe.htm			91			163			revue-langage-et-societe											
+Langages	0458-726X	1958-9549	Armand Colin	http://www.cairn.info/revue-langages.htm			153			208			revue-langages											
+Langue française	0023-8368	1957-7982	Armand Colin	http://www.cairn.info/revue-langue-francaise.htm			141			196			revue-langue-francaise											
+Le Carnet PSY	1260-5921	2107-0954	Editions Cazaubon	http://www.cairn.info/revue-le-carnet-psy.htm			61			214			revue-le-carnet-psy											
+Le Coq-héron	0335-7899	1951-6290	ERES	http://www.cairn.info/revue-le-coq-heron.htm			168			231			revue-le-coq-heron											
+Le Courrier des pays de l'Est	0590-0239	1777-5787	La Documentation française	http://www.cairn.info/revue-le-courrier-des-pays-de-l-est.htm			1031			1067			revue-le-courrier-des-pays-de-l-est											
+Le Débat	0246-2346	2111-4587	Gallimard	http://www.cairn.info/revue-le-debat.htm			1			198			revue-le-debat											
+Le Divan familial	1292-668X	2118-1942	In Press	http://www.cairn.info/revue-le-divan-familial.htm			6			39			revue-le-divan-familial											
+Le français aujourd'hui	0184-7732	2107-0857	Armand Colin	http://www.cairn.info/revue-le-francais-aujourd-hui.htm			132			199			revue-le-francais-aujourd-hui											
+Le Genre humain	0293-0277	2540-3443	Le Seuil	http://www.cairn.info/revue-le-genre-humain.htm			1			58			revue-le-genre-humain											
+Le journal de l'école de Paris du management	1253-2711	2118-4585	Association des amis de l'Ecole de Paris	http://www.cairn.info/revue-le-journal-de-l-ecole-de-paris-du-management.htm			45			129			revue-le-journal-de-l-ecole-de-paris-du-management											
+Le Journal des psychologues	0752-501X	2118-3015	Martin Média	http://www.cairn.info/revue-le-journal-des-psychologues.htm			234			355			revue-le-journal-des-psychologues											
+Le Mouvement Social	0027-2671	1961-8646	La Découverte	http://www.cairn.info/revue-le-mouvement-social.htm			194			260			revue-le-mouvement-social											
+Le Moyen Age	0027-2841	1782-1436	De Boeck Supérieur	http://www.cairn.info/revue-le-moyen-age.htm									revue-le-moyen-age											
+Le Philosophoire	1283-7091	1968-3839	Vrin	http://www.cairn.info/revue-le-philosophoire.htm			7			48			revue-le-philosophoire											
+Le sociographe	1297-6628	2107-0636	Champ social	http://www.cairn.info/revue-le-sociographe.htm			27			61			revue-le-sociographe											
+Le sujet dans la cité	2112-7689	2263-7516	L'Harmattan	http://www.cairn.info/revue-le-sujet-dans-la-cite.htm			1			6			revue-le-sujet-dans-la-cite											
+Le Télémaque	1263-588X	2118-2191	Presses universitaires de Caen	http://www.cairn.info/revue-le-telemaque.htm			19			52			revue-le-telemaque											
+Le Temps des médias	1764-2507	2104-3671	Nouveau Monde éditions	http://www.cairn.info/revue-le-temps-des-medias.htm			1			30			revue-le-temps-des-medias											
+Le travail humain	0041-1868	2104-3663	Presses Universitaires de France	http://www.cairn.info/revue-le-travail-humain.htm			64			80			revue-le-travail-humain											
+LEGICOM	1244-9288	2272-8090	Victoires éditions	http://www.cairn.info/revue-legicom.htm			8			58			revue-legicom											
+Les Cahiers d'Outre Mer	0373-5834	1961-8603	Presses universitaires de Bordeaux	http://www.cairn.info/revue-les-cahiers-d-outre-mer.htm			269			273			revue-les-cahiers-d-outre-mer											
+Les Cahiers de l'Orient	0767-6468	2552-0016	Centre d'études et de recherches sur le Proche-Orient	http://www.cairn.info/revue-les-cahiers-de-l-orient.htm			89			129			revue-les-cahiers-de-l-orient											
+Les Cahiers de la Shoah	1262-0386	1965-0523	Les Belles lettres	http://www.cairn.info/revue-les-cahiers-de-la-shoah.htm			5			9			revue-les-cahiers-de-la-shoah											
+Les Cahiers du Centre Georges Canguilhem	1962-1086	2259-5309	Presses Universitaires de France	http://www.cairn.info/revue-les-cahiers-du-centre-georges-canguilhem.htm			1			6			revue-les-cahiers-du-centre-georges-canguilhem											
+Les Cahiers du numérique	1622-1494	2111-434X	Lavoisier	http://www.cairn.info/revue-les-cahiers-du-numerique.htm			2			14			revue-les-cahiers-du-numerique											
+Les Cahiers Dynamiques	1276-3780	2109-9545	ERES	http://www.cairn.info/revue-les-cahiers-dynamiques.htm			33			71			revue-les-cahiers-dynamiques											
+Les Cahiers Internationaux de Psychologie Sociale	0777-0707	2406-4696	Presses universitaires de Liège	http://www.cairn.info/revue-les-cahiers-internationaux-de-psychologie-sociale.htm			64			116			revue-les-cahiers-internationaux-de-psychologie-sociale											
+Les Cahiers Sirice	1967-2713	2118-0067	UMR Sirice	http://www.cairn.info/revue-les-cahiers-sirice.htm			1			19			revue-les-cahiers-sirice											
+Les Champs de Mars	1253-1871	2427-3244	Presses de Sciences Po (P.F.N.S.P.)	http://www.cairn.info/revue-les-champs-de-mars.htm			22			29			revue-les-champs-de-mars											
+Les Enjeux de l'information et de la communication		1778-4239	GRESEC	http://www.cairn.info/revue-les-enjeux-de-l-information-et-de-la-communication.htm			2001			18			revue-les-enjeux-de-l-information-et-de-la-communication											
+Les Études philosophiques	0014-2166	2101-0056	Presses Universitaires de France	http://www.cairn.info/revue-les-etudes-philosophiques.htm			56			175			revue-les-etudes-philosophiques											
+Les Études Sociales	0014-2204	2428-3509	Société d'économie et de science sociales	http://www.cairn.info/revue-les-etudes-sociales.htm			148			166			revue-les-etudes-sociales											
+Les Nouveaux Cahiers du Conseil constitutionnel	2112-2679	1968-3820	Lextenso	http://www.cairn.info/revue-les-nouveaux-cahiers-du-conseil-constitutionnel.htm			29			58			revue-les-nouveaux-cahiers-du-conseil-constitutionnel											
+Les Sciences de l'éducation - Pour l'Ère nouvelle	0755-9593	2259-3764	CERSE - Université de Caen	http://www.cairn.info/revue-les-sciences-de-l-education-pour-l-ere-nouvelle.htm			38			50			revue-les-sciences-de-l-education-pour-l-ere-nouvelle											
+Les Temps Modernes	0040-3075	2272-9356	Gallimard	http://www.cairn.info/revue-les-temps-modernes.htm			616			697			revue-les-temps-modernes											
+Les Tribunes de la santé	1765-8888	2105-2182	Presses de Sciences Po (P.F.N.S.P.)	http://www.cairn.info/revue-les-tribunes-de-la-sante.htm			1			56			revue-les-tribunes-de-la-sante											
+Libres cahiers pour la psychanalyse	1625-7480	2118-2760	In Press	http://www.cairn.info/revue-libres-cahiers-pour-la-psychanalyse.htm			1			30			revue-libres-cahiers-pour-la-psychanalyse											
+Ligeia	0989-6023	2606-6165	Éditions Ligeia	http://www.cairn.info/revue-ligeia.htm			68			164			revue-ligeia											
+Lignes	0988-5226	2272-818X	Editions Lignes	http://www.cairn.info/revue-lignes.htm			1			54			revue-lignes											
+Littérature	0047-4800	1958-5926	Armand Colin	http://www.cairn.info/revue-litterature.htm			141			188			revue-litterature											
+Littératures classiques	0992-5279	2260-8478	Presses universitaires du Midi	http://www.cairn.info/revue-litteratures-classiques.htm			54			94			revue-litteratures-classiques											
+Maghreb - Machrek	1762-3162	2271-6815	ESKA	http://www.cairn.info/revue-maghreb-machrek.htm			197			232			revue-maghreb-machrek											
+M@n@gement		1286-4692	AIMS	http://www.cairn.info/revue-management.htm			4			20			revue-management											
+Management et Avenir	1768-5958	1969-6574	Management Prospective Ed.	http://www.cairn.info/revue-management-et-avenir.htm			1			97			revue-management-et-avenir											
+Management et Avenir Santé		2426-5551	Management Prospective Ed.	http://www.cairn.info/revue-management-et-avenir-sante.htm			1			2			revue-management-et-avenir-sante											
+Marché et organisations	1953-6119	2264-525X	L'Harmattan	http://www.cairn.info/revue-marche-et-organisations.htm			1			31			revue-marche-et-organisations											
+Marges	1767-7114	2416-8742	Presses universitaires de Vincennes	http://www.cairn.info/revue-marges.htm			20			25			revue-marges											
+Matériaux pour l’histoire de notre temps 	0769-3206	1952-4226	BDIC	http://www.cairn.info/revue-materiaux-pour-l-histoire-de-notre-temps.htm			81			126			revue-materiaux-pour-l-histoire-de-notre-temps											
+Médiévales	0751-2708	1777-5892	Presses universitaires de Vincennes	http://www.cairn.info/revue-medievales.htm			68			73			revue-medievales											
+Médium	1771-3757	2259-5082	Association Médium	http://www.cairn.info/revue-medium.htm			1			54			revue-medium											
+Migrations Société	0995-7367	2551-9808	Centre d'information et d'études sur les migrations internationales	http://www.cairn.info/revue-migrations-societe.htm			109			170			revue-migrations-societe											
+Mil neuf cent. Revue d'histoire intellectuelle	1146-1225	1960-6648	Société d’études soréliennes	http://www.cairn.info/revue-mil-neuf-cent.htm			19			35			revue-mil-neuf-cent											
+Monde chinois	1767-3755	2271-1929	ESKA	http://www.cairn.info/revue-monde-chinois.htm			29			52			revue-monde-chinois											
+Monde(s)	2261-6268	2260-7927	Presses universitaires de Rennes	http://www.cairn.info/revue-mondes.htm			1			12			revue-mondes											
+Mondes en développement	0302-3052	1782-1444	De Boeck Supérieur	http://www.cairn.info/revue-mondes-en-developpement.htm			114			180			revue-mondes-en-developpement											
+Mots. Les langages du politique	0243-6450	1960-6001	E.N.S. Editions	http://www.cairn.info/revue-mots.htm			107			116			revue-mots											
+Mouvements	1291-6412	1776-2995	La Découverte	http://www.cairn.info/revue-mouvements.htm			13			92			revue-mouvements											
+Movement et Sport Sciences	2118-5735	2118-5743	EDP Sciences	http://www.cairn.info/revue-movement-and-sport-sciences.htm			45			98			revue-movement-and-sport-sciences											
+Multitudes	0292-0107	1777-5841	Association Multitudes	http://www.cairn.info/revue-multitudes.htm			1			69			revue-multitudes											
+Musurgia	1257-7537	2271-1856	ESKA	http://www.cairn.info/revue-musurgia.htm									revue-musurgia											
+Napoleonica. La Revue		2100-0123	La Fondation Napoléon	http://www.cairn.info/revue-napoleonica-la-revue.htm			1			28			revue-napoleonica-la-revue											
+NAQD	1111-4371		SARL NAQD	http://www.cairn.info/revue-naqd.htm			1			35			revue-naqd											
+Natures Sciences Sociétés	1240-1307	1765-2979	EDP Sciences	http://www.cairn.info/revue-natures-sciences-societes.htm			12			25			revue-natures-sciences-societes											
+Nectart	2429-2877	2554-8441	Éditions de l'Attribut	http://www.cairn.info/revue-nectart.htm			1			6			revue-nectart											
+Négociations	1780-9231	1782-1452	De Boeck Supérieur	http://www.cairn.info/revue-negociations.htm			1			28			revue-negociations											
+Nord'	0755-7884	2606-619X	Société de Littérature du Nord	http://www.cairn.info/revue-nord.htm			59			70			revue-nord											
+Norois	0029-182X	1760-8546	Presses universitaires de Rennes	http://www.cairn.info/revue-norois.htm			234			244			revue-norois											
+Notes du conseil d’analyse économique	2273-8525	2270-2385	Conseil d’analyse économique	http://www.cairn.info/revue-notes-du-conseil-d-analyse-economique.htm			1			45			revue-notes-du-conseil-d-analyse-economique											
+Nouvelle revue d’esthétique	1969-2269	2264-2595	Presses Universitaires de France	http://www.cairn.info/revue-nouvelle-revue-d-esthetique.htm			1			19			revue-nouvelle-revue-d-esthetique											
+Nouvelle revue de psychosociologie	1951-9532	1961-8697	ERES	http://www.cairn.info/revue-nouvelle-revue-de-psychosociologie.htm			1			24			revue-nouvelle-revue-de-psychosociologie											
+Nouvelle revue théologique	0029-4845	2406-4726	Association Nouvelle revue théologique	http://www.cairn.info/revue-nouvelle-revue-theologique.htm			125			140			revue-nouvelle-revue-theologique											
+Nouvelles FondationS	1951-9745	2101-0242	Fond. G. Péri	http://www.cairn.info/revue-nouvelles-fondations.htm			1			8			revue-nouvelles-fondations											
+Nouvelles Questions Féministes	0248-4951	2297-3850	Editions Antipodes	http://www.cairn.info/revue-nouvelles-questions-feministes.htm			21			36			revue-nouvelles-questions-feministes											
+Outre-Terre	1636-3671	1951-624X	L’Esprit du temps	http://www.cairn.info/revue-outre-terre.htm			3			52			revue-outre-terre											
+Pardès	0295-5652	2271-1880	In Press	http://www.cairn.info/revue-pardes.htm			30			59			revue-pardes											
+Parlement[s], Revue d'histoire politique	1768-6520	1760-6233	Presses universitaires de Rennes	http://www.cairn.info/revue-parlements.htm			1			12			revue-parlements											
+Participations	2034-7650	2034-7669	De Boeck Supérieur	http://www.cairn.info/revue-participations.htm			1			18			revue-participations											
+Pensée plurielle	1376-0963	1782-1479	De Boeck Supérieur	http://www.cairn.info/revue-pensee-plurielle.htm			3			47			revue-pensee-plurielle											
+Perspectives économiques de l'OCDE	0304-3274	1684-3436	Editions de l'OCDE	http://www.cairn.info/revue-perspectives-economiques-de-l-ocde.htm			69			100			revue-perspectives-economiques-de-l-ocde											
+Perspectives Psy	0031-6032	2118-4038	EDK, Groupe EDP Sciences	http://www.cairn.info/revue-perspectives-psy.htm			43			56			revue-perspectives-psy											
+Philosophia Scientiæ	1281-2463	1775-4283	Editions Kimé	http://www.cairn.info/revue-philosophia-scientiae.htm			1			1			revue-philosophia-scientiae											
+Philosophie	0294-1805	1968-391X	Les Éditions de Minuit	http://www.cairn.info/revue-philosophie.htm			69			137			revue-philosophie											
+Revue philosophique de la France et de l'étranger	0035-3833	2104-385X	Presses Universitaires de France	http://www.cairn.info/revue-philosophique.htm			126			143			revue-philosophique											
+Phronesis		1925-4873	Champ social	http://www.cairn.info/revue-phronesis.htm			4			7			revue-phronesis											
+Plein droit	0987-3260	2262-5135	GISTI	http://www.cairn.info/revue-plein-droit.htm			48			115			revue-plein-droit											
+Poetsie	0152-0032	2498-4191	Belin	http://www.cairn.info/revue-poesie.htm			111			161			revue-poesie											
+Poétique	1245-1274	1968-3871	Le Seuil	http://www.cairn.info/revue-poetique.htm			133			181			revue-poetique											
+Pôle Sud	1262-1676	1960-6656	ARPoS	http://www.cairn.info/revue-pole-sud.htm			20			47			revue-pole-sud											
+Politique africaine	0244-7827	2264-5047	Editions Karthala	http://www.cairn.info/revue-politique-africaine.htm			73			147			revue-politique-africaine											
+Politique américaine	1771-8848	2264-5306	L'Harmattan	http://www.cairn.info/revue-politique-americaine.htm			1			29			revue-politique-americaine											
+Politique étrangère	0032-342X	1958-8992	Institut français des relations internationales (IFRI)	http://www.cairn.info/revue-politique-etrangere.htm									revue-politique-etrangere											
+Politique européenne	1623-6297	2105-2875	L'Harmattan	http://www.cairn.info/revue-politique-europeenne.htm			1			57			revue-politique-europeenne											
+Politiques de communication	2271-068X	2426-5977	Presses universitaires de Grenoble	http://www.cairn.info/revue-politiques-de-communication.htm			1			1			revue-politiques-de-communication											
+Politiques et gestion de l'enseignement supérieur	1682-346X	1684-3592	Editions de l'OCDE	http://www.cairn.info/revue-politiques-et-gestion-de-l-enseignement-superieur.htm			14			20			revue-politiques-et-gestion-de-l-enseignement-superieur											
+Politix	0295-2319	1953-8286	De Boeck Supérieur	http://www.cairn.info/revue-politix.htm			1			120			revue-politix											
+Population	0032-4663	1957-7966	Institut national d'études démographiques (INED)	http://www.cairn.info/revue-population.htm			56			72			revue-population											
+Population et Avenir	0223-5706	1968-3952	Association Population & Avenir	http://www.cairn.info/revue-population-et-avenir.htm			671			737			revue-population-et-avenir											
+Pour	0245-9442	2426-6507	GREP	http://www.cairn.info/revue-pour.htm			193			231			revue-pour											
+Pouvoirs	0152-0768	2101-0390	Le Seuil	http://www.cairn.info/revue-pouvoirs.htm			96			164			revue-pouvoirs											
+Pratiques en santé mentale	1286-1286	2426-640X	Champ social	http://www.cairn.info/revue-pratique-en-sante-mentale.htm									revue-pratique-en-sante-mentale											
+Pratiques et Organisation des Soins	1952-9201	1961-9391	CNAMTS	http://www.cairn.info/revue-pratiques-et-organisation-des-soins.htm			39			43			revue-pratiques-et-organisation-des-soins											
+Présence Africaine	0032-7638	2271-197X	Editions Présence Africaine	http://www.cairn.info/revue-presence-africaine.htm			1			193			revue-presence-africaine											
+Problèmes d'Amérique latine	0765-1333	1968-3898	ESKA	http://www.cairn.info/revue-problemes-d-amerique-latine.htm			70			107			revue-problemes-d-amerique-latine											
+Projectics / Proyéctica / Projectique	2031-9703	2032-0043	De Boeck Supérieur	http://www.cairn.info/revue-projectique.htm			0			17			revue-projectique											
+Revue Projet	0033-0884	2108-6648	C.E.R.A.S	http://www.cairn.info/revue-projet.htm			265			362			revue-projet											
+Prospective et stratégie	2260-0299	2492-0606	APORS Éditions	http://www.cairn.info/revue-prospective-et-strategie.htm			1			7			revue-prospective-et-strategie											
+PSN	1639-8319	1955-2351	Editions Matériologiques	http://www.cairn.info/revue-psn.htm			10			15			revue-psn											
+Psychanalyse	1770-0078	1951-6320	ERES	http://www.cairn.info/revue-psychanalyse.htm			1			41			revue-psychanalyse											
+Psychologie Clinique	1145-1882	2118-4224	EDK, Groupe EDP Sciences	http://www.cairn.info/revue-psychologie-clinique.htm			27			44			revue-psychologie-clinique											
+Psychologie clinique et projective	1265-5449	2118-4496	ERES	http://www.cairn.info/revue-psychologie-clinique-et-projective.htm			7			23			revue-psychologie-clinique-et-projective											
+Psychosomatique relationnelle		2272-916X	Centre international de psychosomatique	http://www.cairn.info/revue-psychosomatique-relationnelle.htm			1			7			revue-psychosomatique-relationnelle											
+Psychothérapies	0251-737X	2235-2104	Médecine & Hygiène	http://www.cairn.info/revue-psychotherapies.htm			22			37			revue-psychotherapies											
+Psychotropes	1245-2092	1782-1487	De Boeck Supérieur	http://www.cairn.info/revue-psychotropes.htm			7			23			revue-psychotropes											
+Quaderni	0987-1381	2105-2956	Éditions de la Maison des sciences de l'homme	http://www.cairn.info/revue-quaderni.htm			86			95			revue-quaderni											
+Questions de communication	1633-5961	2259-8901	PUN - Editions universitaires de Lorraine	http://www.cairn.info/revue-questions-de-communication.htm			27			31			revue-questions-de-communication											
+Question(s) de management	2262-7030	2271-2127	I.M.C.F	http://www.cairn.info/revue-questions-de-management.htm			0			19			revue-questions-de-management											
+Raison publique	1767-0543	2268-5944	Editions Raison publique	http://www.cairn.info/revue-raison-publique.htm			17			22			revue-raison-publique											
+Raisons éducatives	1375-4459		Université de Genève	http://www.cairn.info/revue-raisons-educatives.htm			21			21			revue-raisons-educatives											
+Raisons politiques	1291-1941	1950-6708	Presses de Sciences Po (P.F.N.S.P.)	http://www.cairn.info/revue-raisons-politiques.htm			1			69			revue-raisons-politiques											
+Annales des Mines - Réalités industrielles	1148-7941	2271-7978	F.F.E.	http://www.cairn.info/revue-realites-industrielles.htm			2008			2018			revue-realites-industrielles											
+Recherche en soins infirmiers	0297-2964	2271-8362	Association de recherche en soins infirmiers (ARSI)	http://www.cairn.info/revue-recherche-en-soins-infirmiers.htm			80			131			revue-recherche-en-soins-infirmiers											
+Recherche et formation	0988-1824	1968-3936	E.N.S. Editions	http://www.cairn.info/revue-recherche-et-formation.htm			78			83			revue-recherche-et-formation											
+Recherches de Science Religieuse	0034-1258	2104-3884	Centre Sèvres	http://www.cairn.info/revue-recherches-de-science-religieuse.htm			89			106			revue-recherches-de-science-religieuse											
+Recherches économiques de Louvain	0770-4518	1782-1495	De Boeck Supérieur	http://www.cairn.info/revue-recherches-economiques-de-louvain.htm			67			80			revue-recherches-economiques-de-louvain											
+Recherches en didactiques	2116-9683		Association REDLCT	http://www.cairn.info/revue-recherches-en-didactiques.htm			11			23			revue-recherches-en-didactiques											
+Recherches en Sciences de Gestion	2259-6372	2271-2836	ISEOR	http://www.cairn.info/revue-recherches-en-sciences-de-gestion.htm			85			121			revue-recherches-en-sciences-de-gestion											
+Recherches familiales	1763-718X	2118-3252	Union nationale des associations familiales (UNAF)	http://www.cairn.info/revue-recherches-familiales.htm			1			15			revue-recherches-familiales											
+Recherches linguistiques de Vincennes	0986-6124	1958-9239	Presses universitaires de Vincennes	http://www.cairn.info/revue-recherches-linguistiques-de-vincennes.htm			43			43			revue-recherches-linguistiques-de-vincennes											
+Recherches sur Diderot et sur l’Encyclopédie	0769-0886	1955-2416	Société Diderot	http://www.cairn.info/revue-recherches-sur-diderot-et-sur-l-encyclopedie.htm			50			52			revue-recherches-sur-diderot-et-sur-l-encyclopedie											
+RECMA	1626-1682	2261-2599	Association Recma	http://www.cairn.info/revue-recma.htm			278			347			revue-recma											
+Reflets et perspectives de la vie économique	0034-2971	1782-1509	De Boeck Supérieur	http://www.cairn.info/revue-reflets-et-perspectives-de-la-vie-economique.htm									revue-reflets-et-perspectives-de-la-vie-economique											
+Réforme, Humanisme, Renaissance	1771-1347	1969-654X	Association d’études sur la Renaissance, l’Humanisme et la Réforme	http://www.cairn.info/revue-reforme-humanisme-renaissance.htm			80			85			revue-reforme-humanisme-renaissance											
+Réformes économiques	1813-2731	1813-274X	Editions de l'OCDE	http://www.cairn.info/revue-reformes-economiques.htm			1			8			revue-reformes-economiques											
+Regards	0988-6982	2552-0040	EN3S (École nationale supérieure de Sécurité sociale)	http://www.cairn.info/revue-regards.htm			45			52			revue-regards											
+Regards croisés sur l'économie	1956-7413	2119-3975	La Découverte	http://www.cairn.info/revue-regards-croises-sur-l-economie.htm			1			20			revue-regards-croises-sur-l-economie											
+Regards sur l'économie allemande	1156-8992	1965-0787	CIRAC	http://www.cairn.info/revue-regards-sur-l-economie-allemande.htm			117			119			revue-regards-sur-l-economie-allemande											
+Relations internationales	0335-2013	2105-2654	Presses Universitaires de France	http://www.cairn.info/revue-relations-internationales.htm			121			172			revue-relations-internationales											
+Reliance	1774-9743	1951-6282	ERES	http://www.cairn.info/revue-reliance.htm			15			29			revue-reliance											
+Repères, cahier de danse	2112-5147	2271-7811	La Briqueterie / CDC du Val-de-Marne	http://www.cairn.info/revue-reperes-cahier-de-danse.htm			17			40			revue-reperes-cahier-de-danse											
+Research in Psychoanalysis	1767-5448	1965-0213	Association Recherches en psychanalyse	http://www.cairn.info/revue-research-in-psychoanalysis.htm			1			24			revue-research-in-psychoanalysis											
+Réseaux	0751-7971	1777-5809	La Découverte	http://www.cairn.info/revue-reseaux.htm			2			207			revue-reseaux											
+Annales des Mines - Responsabilité et environnement	1268-4783	2271-8052	F.F.E.	http://www.cairn.info/revue-responsabilite-et-environnement.htm			49			89			revue-responsabilite-et-environnement											
+Retraite et société	1167-4687	1961-8719	La Documentation française	http://www.cairn.info/revue-retraite-et-societe.htm			34			75			revue-retraite-et-societe											
+Revue d’études comparatives Est-Ouest	0338-0599	2259-6100	Presses Universitaires de France	http://www.cairn.info/revue-revue-d-etudes-comparatives-est-ouest.htm			40			1			revue-revue-d-etudes-comparatives-est-ouest											
+Revue d’Histoire de la Shoah	2111-885X	2553-6141	Mémorial de la Shoah	http://www.cairn.info/revue-revue-d-histoire-de-la-shoah.htm			182			207			revue-revue-d-histoire-de-la-shoah											
+Revue juridique de l’environnement	0397-0299	2430-2848	Lavoisier	http://www.cairn.info/revue-revue-juridique-de-l-environnement.htm			35			43			revue-revue-juridique-de-l-environnement											
+Rhizome	1622-2032	2117-4520	Orspere-Samdarra ? Observatoire Santé mentale Vulnérabilités et Sociétés	http://www.cairn.info/revue-rhizome.htm			54			66			revue-rhizome											
+RIMHE : Revue Interdisciplinaire Management, Homme et Entreprise	2259-2490	2260-5584	ARIMHE	http://www.cairn.info/revue-rimhe.htm			1			30			revue-rimhe											
+Rives méditerranéennes	2103-4001	2119-4696	M.M.S.H.	http://www.cairn.info/revue-rives-mediterraneennes.htm			50			55			revue-rives-mediterraneennes											
+Roman 20-50	0295-5024	2492-0614	Société Roman 20-50	http://www.cairn.info/revue-roman2050.htm			39			64			revue-roman2050											
+Romantisme	0048-8593	1957-7958	Armand Colin	http://www.cairn.info/revue-romantisme.htm			123			178			revue-romantisme											
+Rue Descartes	1144-0821	2102-5819	Collège international de Philosophie	http://www.cairn.info/revue-rue-descartes.htm			31			92			revue-rue-descartes											
+Santé Publique	0995-3914	2104-3841	S.F.S.P.	http://www.cairn.info/revue-sante-publique.htm			13			30			revue-sante-publique											
+Savoir/Agir	1958-7856	1958-5535	Editions du Croquant	http://www.cairn.info/revue-savoir-agir.htm			1			42			revue-savoir-agir											
+Savoirs	1763-4229	2111-4390	L'Harmattan	http://www.cairn.info/revue-savoirs.htm			1			45			revue-savoirs											
+Savoirs et clinique	1634-3298	1776-2871	ERES	http://www.cairn.info/revue-savoirs-et-cliniques.htm			1			23			revue-savoirs-et-cliniques											
+Sciences du Design	2428-3711	2428-3614	Presses Universitaires de France	http://www.cairn.info/revue-sciences-du-design.htm			1			6			revue-sciences-du-design											
+Sciences Eaux et Territoires	2109-3016	1775-3783	Irstea	http://www.cairn.info/revue-sciences-eaux-et-territoires.htm			1			24			revue-sciences-eaux-et-territoires											
+Sciences sociales et santé	0294-0337	1777-5914	John Libbey Eurotext	http://www.cairn.info/revue-sciences-sociales-et-sante.htm			24			35			revue-sciences-sociales-et-sante											
+Sciences sociales et sport	1967-7359	2264-5748	L'Harmattan	http://www.cairn.info/revue-sciences-sociales-et-sport.htm			1			11			revue-sciences-sociales-et-sport											
+Sécurité et stratégie	2101-4736	2428-3622	Club des Directeurs de Sécurité des Entreprises	http://www.cairn.info/revue-securite-et-strategie.htm			1			28			revue-securite-et-strategie											
+Sécurité globale	1959-6782	2271-2194	ESKA	http://www.cairn.info/revue-securite-globale.htm			3			11			revue-securite-globale											
+Sens-Dessous	1951-0519	2430-2880	Edition de l'Association Paroles	http://www.cairn.info/revue-sens-dessous.htm			0			20			revue-sens-dessous											
+Société, droit et religion	2110-6657	2272-9054	C.N.R.S. Editions	http://www.cairn.info/revue-societe-droit-et-religion.htm			1			7			revue-societe-droit-et-religion											
+Sociétés	0765-3697	1782-155X	De Boeck Supérieur	http://www.cairn.info/revue-societes.htm			71			137			revue-societes											
+Sociétés contemporaines	1150-1944	1950-6899	Presses de Sciences Po (P.F.N.S.P.)	http://www.cairn.info/revue-societes-contemporaines.htm			42			108			revue-societes-contemporaines											
+Sociétés et Représentations	1262-2966	2104-404X	Éditions de la Sorbonne	http://www.cairn.info/revue-societes-et-representations.htm			1			44			revue-societes-et-representations											
+Sociologie	2108-8845	2108-6915	Presses Universitaires de France	http://www.cairn.info/revue-sociologie.htm			1			8			revue-sociologie											
+Sociologie de l'Art	0779-1674	2264-5209	L'Harmattan	http://www.cairn.info/revue-sociologie-de-l-art.htm			2			26			revue-sociologie-de-l-art											
+Sociologies pratiques	1295-9278	2104-3787	Presses de Sciences Po (P.F.N.S.P.)	http://www.cairn.info/revue-sociologies-pratiques.htm			10			35			revue-sociologies-pratiques											
+Spécificités	2256-7186	2426-6272	Champ social	http://www.cairn.info/revue-specificites.htm			1			10			revue-specificites											
+Spirale	1278-4699	1951-6274	ERES	http://www.cairn.info/revue-spirale.htm			17			84			revue-spirale											
+Staps	0247-106X	1782-1568	De Boeck Supérieur	http://www.cairn.info/revue-staps.htm			54			118			revue-staps											
+Stratégique	0224-0424	2430-2961	Institut de Stratégie Comparée	http://www.cairn.info/revue-strategique.htm			85			116			revue-strategique											
+Sud/Nord	1265-2067	1776-288X	ERES	http://www.cairn.info/revue-sud-nord.htm			14			27			revue-sud-nord											
+Revue sur le droit et la politique de la concurrence	1560-7798	1684-3452	Editions de l'OCDE	http://www.cairn.info/revue-sur-le-droit-et-la-politique-de-la-concurrence.htm			3			9			revue-sur-le-droit-et-la-politique-de-la-concurrence											
+Syntaxe et sémantique	1623-6742	2271-2852	Presses universitaires de Caen	http://www.cairn.info/revue-syntaxe-et-semantique.htm			1			18			revue-syntaxe-et-semantique											
+Systèmes d'information et management	1260-4984	2271-7188	ESKA	http://www.cairn.info/revue-systemes-d-information-et-management.htm			13			22			revue-systemes-d-information-et-management											
+Techniques et Culture	0248-6016	1952-420X	Éditions de l'EHESS	http://www.cairn.info/revue-techniques-et-culture.htm			63			68			revue-techniques-et-culture											
+Techniques Financières et Développement	1250-4165	2494-0739	Épargne sans frontière	http://www.cairn.info/revue-techniques-financieres-et-developpement.htm			110			124			revue-techniques-financieres-et-developpement											
+Télévision	2108-8926	2426-6264	C.N.R.S. Editions	http://www.cairn.info/revue-television.htm			1			8			revue-television											
+Terrains et travaux	1627-9506	2104-3779	ENS Paris-Saclay	http://www.cairn.info/revue-terrains-et-travaux.htm			1			31			revue-terrains-et-travaux											
+Thérapie Familiale	0250-4952	2235-2112	Médecine & Hygiène	http://www.cairn.info/revue-therapie-familiale.htm			22			38			revue-therapie-familiale											
+Topique	0040-9375	1965-0604	L’Esprit du temps	http://www.cairn.info/revue-topique.htm			74			141			revue-topique											
+Tous urbains	2265-9811	2496-431X	Presses Universitaires de France	http://www.cairn.info/revue-tous-urbains.htm			1			21			revue-tous-urbains											
+Transversalités	1286-9449	2259-3799	Institut Catholique de Paris	http://www.cairn.info/revue-transversalites.htm			105			144			revue-transversalites											
+Travail et emploi	0224-4365	1775-416X	DARES	http://www.cairn.info/revue-travail-et-emploi.htm			141			2017			revue-travail-et-emploi											
+Travail, genre et sociétés	1294-6303	2105-2174	La Découverte	http://www.cairn.info/revue-travail-genre-et-societes.htm			1			38			revue-travail-genre-et-societes											
+Travailler	1620-5340	2102-5150	Martin Média	http://www.cairn.info/revue-travailler.htm			5			39			revue-travailler											
+Travaux de linguistique	0082-6049	1782-1576	De Boeck Supérieur	http://www.cairn.info/revue-travaux-de-linguistique.htm			43			74			revue-travaux-de-linguistique											
+Tumultes	1243-549X	2118-2892	Editions Kimé	http://www.cairn.info/revue-tumultes.htm			16			49			revue-tumultes											
+Vacarme	1253-2479	2107-092X	Association Vacarme	http://www.cairn.info/revue-vacarme.htm			1			82			revue-vacarme											
+Vertigo	0985-1402	2428-3568	Editions Lignes	http://www.cairn.info/revue-vertigo.htm			23			48			revue-vertigo											
+Vie et sciences de l'entreprise	2262-5321	2262-5372	ANDESE	http://www.cairn.info/revue-vie-et-sciences-de-l-entreprise.htm			169			203			revue-vie-et-sciences-de-l-entreprise											
+Vie sociale	0042-5605	2271-717X	ERES	http://www.cairn.info/revue-vie-sociale.htm			1			19			revue-vie-sociale											
+VST - Vie sociale et traitements	0396-8669	1776-2898	ERES	http://www.cairn.info/revue-vie-sociale-et-traitements.htm			69			137			revue-vie-sociale-et-traitements											
+Vingtième Siècle. Revue d'histoire	0294-1759	1950-6678	Presses de Sciences Po (P.F.N.S.P.)	http://www.cairn.info/revue-vingtieme-siecle-revue-d-histoire.htm			69			137			revue-vingtieme-siecle-revue-d-histoire											
+Volume !	2117-4148	1950-568X	Editions Mélanie Seteun	http://www.cairn.info/revue-volume.htm			2			1			revue-volume											
+Vraiment durable	2260-2895	2272-8481	Victoires éditions	http://www.cairn.info/revue-vraiment-durable.htm			1			6			revue-vraiment-durable											
+Zilsel	2551-8313	2553-6133	Editions du Croquant	http://www.cairn.info/revue-zilsel.htm			1			3			revue-zilsel											

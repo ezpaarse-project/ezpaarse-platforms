@@ -1,0 +1,81 @@
+publication_title	print_identifier	online_identifier	date_first_issue_online	num_first_vol_online	num_first_issue_online	date_last_issue_online	num_last_vol_online	num_last_issue_online	title_url	first_author	title_id	embargo_info	coverage_depth	notes	publisher_name	publication_type	date_monograph_published_print	date_monograph_published_online	monograph_volume	monograph_edition	first_editor	parent_publication_title_id	preceding_publication_title_id	access_type
+African American Review	1062-4783	1945-6182	2009	43	1				https://muse.jhu.edu/journal/434		434		fulltext		Johns Hopkins University Press	serial								P
+American Book Review	0149-9408	2153-4578	2005	27	1				https://muse.jhu.edu/journal/467		467		fulltext		American Book Review	serial								P
+American Journal of Philology	0002-9475	1086-3168	1996	117	1				https://muse.jhu.edu/journal/6		6		fulltext		Johns Hopkins University Press	serial								P
+American Literary Realism	0002-9823	1940-5103	2007	40	1				https://muse.jhu.edu/journal/379		379		fulltext		University of Illinois Press	serial								P
+American Literary Scholarship	0065-9142	1527-2125	1998	98	1				https://muse.jhu.edu/journal/9		9		fulltext		Duke University Press	serial								P
+Arethusa	0004-0975	1080-6504	1996	29	1				https://muse.jhu.edu/journal/14		14		fulltext		Johns Hopkins University Press	serial								P
+Arizona Quarterly: A Journal of American Literature, Culture, and Theory	0004-1610	1558-9595	1988	44	3				https://muse.jhu.edu/journal/311		311		fulltext		Johns Hopkins University Press	serial								P
+Biography	0162-4962	1529-1456	1978	1	1				https://muse.jhu.edu/journal/25		25		fulltext		University of Hawai'i Press	serial								P
+CEA Critic	0007-8069	2327-5898	2013	75	1				https://muse.jhu.edu/journal/593		593		fulltext		Johns Hopkins University Press	serial								P
+Callaloo	0161-2492	1080-6512	1995	18	1				https://muse.jhu.edu/journal/27		27		fulltext		Johns Hopkins University Press	serial								P
+Canadian Review of Comparative Literature / Revue Canadienne de Littérature Comparée	0319-051X	1913-9659	2014	41	1				https://muse.jhu.edu/journal/638		638		fulltext		Canadian Review of Comparative Literature / Revue Canadienne de Littérature Comparée	serial								P
+Classical World	0009-8418	1558-9234	2005	99	1				https://muse.jhu.edu/journal/317		317		fulltext		Johns Hopkins University Press	serial								P
+College Literature	0093-3139	1542-4286	2003	30	1				https://muse.jhu.edu/journal/215		215		fulltext		Johns Hopkins University Press	serial								P
+Comparative Drama	0010-4078	1936-1637	1986	20	1				https://muse.jhu.edu/journal/358		358		fulltext		Western Michigan University	serial								P
+Comparative Literature Studies	0010-4132	1528-4212	1999	36	3				https://muse.jhu.edu/journal/33		33		fulltext		Penn State University Press	serial								P
+Configurations	1063-1801	1080-6520	1993	1	1				https://muse.jhu.edu/journal/36		36		fulltext		Johns Hopkins University Press	serial								P
+Contemporary Literature	0010-7484	1548-9949	2004	45	1				https://muse.jhu.edu/journal/261		261		fulltext		University of Wisconsin Press	serial								P
+Criticism	0011-1589	1536-0342	2001	43	1				https://muse.jhu.edu/journal/40		40		fulltext		Wayne State University Press	serial								P
+Discourse	1522-5321	1536-1810	2000	22	3				https://muse.jhu.edu/journal/48		48		fulltext		Wayne State University Press	serial								P
+ELH	0013-8304	1080-6547	1993	60	4				https://muse.jhu.edu/journal/58		58		fulltext		Johns Hopkins University Press	serial								P
+ESC: English Studies in Canada	0317-0802	1913-4835	2005	1	1				https://muse.jhu.edu/journal/369		369		fulltext		Association of Canadian College and University Teachers of English	serial								P
+ESQ: A Journal of Nineteenth-Century American Literature and Culture	0093-8297	1935-021X	2003	49	1				https://muse.jhu.edu/journal/375		375		fulltext		Washington State University	serial							961	P
+Early American Literature	0012-8163	1534-147X	2000	35	3				https://muse.jhu.edu/journal/49		49		fulltext		The University of North Carolina Press	serial								P
+Eighteenth-Century Fiction	0840-6286	1911-0243	1988	1	1				https://muse.jhu.edu/journal/324		324		fulltext		University of Toronto Press	serial								P
+English Literature in Transition, 1880-1920	0013-8339	1559-2715	1957	1	1				https://muse.jhu.edu/journal/361		361		fulltext		ELT Press	serial								P
+Hispania	0018-2133	2153-6414	2010	93	1				https://muse.jhu.edu/journal/472		472		fulltext		Johns Hopkins University Press	serial								P
+Hispanic Review	0018-2176	1553-0639	2005	73	1				https://muse.jhu.edu/journal/289		289		fulltext		University of Pennsylvania Press	serial								P
+Huntington Library Quarterly	0018-7895	1544-399X	2015	78	1				https://muse.jhu.edu/journal/677		677		fulltext		University of Pennsylvania Press	serial								P
+JEGP, Journal of English and Germanic Philology	0363-6941	1945-662X	2009	108	1				https://muse.jhu.edu/journal/450		450		fulltext		University of Illinois Press	serial								P
+James Joyce Quarterly	0021-4183	1938-6036	2006	1	1				https://muse.jhu.edu/journal/372		372		fulltext		The University of Tulsa	serial								P
+Journal of Modern Literature	0022-281X	1529-1464	1998	22	2				https://muse.jhu.edu/journal/97		97		fulltext		Indiana University Press	serial								P
+Journal of Narrative Theory	1549-0815	1548-9248	1999	29	1				https://muse.jhu.edu/journal/262		262		fulltext		Eastern Michigan University	serial								P
+Journal of the Midwest Modern Language Association	0742-5562	2162-6294	2011	44	1				https://muse.jhu.edu/journal/517		517		fulltext		Midwest Modern Language Association	serial								P
+Keats-Shelley Journal	0453-4387	2328-112X	2013	62	1				https://muse.jhu.edu/journal/619		619		fulltext		Keats-Shelley Association of America, Inc.	serial								P
+L'Esprit Créateur	0014-0767	1931-0234	1986	26	1				https://muse.jhu.edu/journal/333		333		fulltext		Johns Hopkins University Press	serial								P
+Legacy: A Journal of American Women Writers	0748-4321	1534-0643	2000	17	2				https://muse.jhu.edu/journal/115		115		fulltext		University of Nebraska Press	serial								P
+Literature and Medicine	0278-9671	1080-6571	1982	1	1				https://muse.jhu.edu/journal/118		118		fulltext		Johns Hopkins University Press	serial								P
+Luso-Brazilian Review	0024-7413	1548-9957	2004	41	1				https://muse.jhu.edu/journal/273		273		fulltext		University of Wisconsin Press	serial								P
+MFS Modern Fiction Studies	0026-7724	1080-658X	1985	31	1				https://muse.jhu.edu/journal/125		125		fulltext		Johns Hopkins University Press	serial								P
+MLN	0026-7910	1080-6598	1993	108	4				https://muse.jhu.edu/journal/128		128		fulltext		Johns Hopkins University Press	serial								P
+Modern Drama	0026-7694	1712-5286	1958	1	1				https://muse.jhu.edu/journal/302		302		fulltext		University of Toronto Press	serial								P
+Modernism/modernity	1071-6068	1080-6601	1994	1	1				https://muse.jhu.edu/journal/131		131		fulltext		Johns Hopkins University Press	serial								P
+Monatshefte	0026-9271	1934-2810	2007	99	1				https://muse.jhu.edu/journal/359		359		fulltext		University of Wisconsin Press	serial								P
+Mosaic: an interdisciplinary critical journal	0027-1276	1925-5683	2011	44	1				https://muse.jhu.edu/journal/536		536		fulltext		Mosaic, an interdisciplinary critical journal	serial								P
+Narrative	1063-3685	1538-974X	2002	10	1				https://muse.jhu.edu/journal/135		135		fulltext		The Ohio State University Press	serial								P
+New Literary History	0028-6087	1080-661X	1995	26	1				https://muse.jhu.edu/journal/144		144		fulltext		Johns Hopkins University Press	serial								P
+Nineteenth-Century French Studies	0146-7891	1536-0172	2001	29	3				https://muse.jhu.edu/journal/137		137		fulltext		University of Nebraska Press	serial								P
+Pacific Coast Philology	0078-7469	2326-067X	2014	49	1				https://muse.jhu.edu/journal/635		635		fulltext		Penn State University Press	serial								P
+Partial Answers: Journal of Literature and the History of Ideas	1565-3668	1936-9247	2003	1	1				https://muse.jhu.edu/journal/376		376		fulltext		Johns Hopkins University Press	serial								P
+Postmodern Culture		1053-1920	1990	1	1				https://muse.jhu.edu/journal/160		160		fulltext		Johns Hopkins University Press	serial								P
+Research in African Literatures	0034-5210	1527-2044	1999	30	1				https://muse.jhu.edu/journal/169		169		fulltext		Indiana University Press	serial								P
+Revista de Estudios Hispánicos	0034-818X	2164-9308	2012	46	1				https://muse.jhu.edu/journal/563		563		fulltext		Washington University in St. Louis	serial								P
+Rocky Mountain Review of Language and Literature	2159-4163	1948-2833	1975	29	1				https://muse.jhu.edu/journal/525		525		fulltext		Rocky Mountain Modern Language Association	serial							1116	P
+SEL Studies in English Literature 1500-1900	0039-3657	1522-9270	1999	39	1				https://muse.jhu.edu/journal/178		178		fulltext		Johns Hopkins University Press	serial								P
+SHAW: The Journal of Bernard Shaw Studies	0741-5842	1529-1480	2000	20	1				https://muse.jhu.edu/journal/180		180		fulltext		Penn State University Press	serial								P
+Shakespeare Quarterly	0037-3222	1538-3555	2001	52	1				https://muse.jhu.edu/journal/182		182		fulltext		Johns Hopkins University Press	serial								P
+South Central Review	0743-6831	1549-3377	2004	21	1				https://muse.jhu.edu/journal/245		245		fulltext		Johns Hopkins University Press	serial								P
+Studies in American Fiction	0091-8083	2158-415X	1973	1	1				https://muse.jhu.edu/journal/478		478		fulltext		Johns Hopkins University Press	serial								P
+Studies in Philology	0039-3738	1543-0383	2003	100	1				https://muse.jhu.edu/journal/233		233		fulltext		The University of North Carolina Press	serial								P
+Studies in the Literary Imagination	0039-3819	2165-2678	2011	44	1				https://muse.jhu.edu/journal/589		589		fulltext		Department of English, Georgia State University	serial								P
+Studies in the Novel	0039-3827	1934-1512	2008	40	1				https://muse.jhu.edu/journal/395		395		fulltext		Johns Hopkins University Press	serial								P
+Style	0039-4238	2374-6629	2015	50	1				https://muse.jhu.edu/journal/680		680		fulltext		Penn State University Press	serial								P
+Texas Studies in Literature and Language	0040-4691	1534-7303	2001	43	1				https://muse.jhu.edu/journal/199		199		fulltext		University of Texas Press	serial								P
+The Chaucer Review	0009-2002	1528-4204	2000	34	3				https://muse.jhu.edu/journal/38		38		fulltext		Penn State University Press	serial								P
+The Comparatist	0195-7678	1559-0887	1992	16					https://muse.jhu.edu/journal/342		342		fulltext		The University of North Carolina Press	serial								P
+The Henry James Review	0273-0340	1080-6555	1979	1	1				https://muse.jhu.edu/journal/72		72		fulltext		Johns Hopkins University Press	serial								P
+The Lion and the Unicorn	0147-2593	1080-6563	1977	1	1				https://muse.jhu.edu/journal/201		201		fulltext		Johns Hopkins University Press	serial								P
+The Southern Literary Journal	0038-4291	1534-1461	2000	33	1	2015	47	2	https://muse.jhu.edu/journal/183		183		fulltext		The University of North Carolina Press	serial								P
+Transactions of the American Philological Association	0360-5949	1533-0699	2000	130	1	2014	144	2	https://muse.jhu.edu/journal/12		12		fulltext		Johns Hopkins University Press	serial							549	P
+Tulsa Studies in Women's Literature	0732-7730	1936-1645	2007	1	1				https://muse.jhu.edu/journal/373		373		fulltext		The University of Tulsa	serial								P
+Twentieth-Century Literature	0041-462X	2325-8101	2015	61	1				https://muse.jhu.edu/journal/652		652		fulltext		Duke University Press	serial								P
+University of Toronto Quarterly	0042-0247	1712-5278	1931	1	1				https://muse.jhu.edu/journal/303		303		fulltext		University of Toronto Press	serial								P
+Victorian Periodicals Review	0709-4698	1712-526X	2005	38	1				https://muse.jhu.edu/journal/304		304		fulltext		Johns Hopkins University Press	serial								P
+Victorian Poetry	0042-5206	1530-7190	2000	38	1				https://muse.jhu.edu/journal/204		204		fulltext		West Virginia University Press	serial								P
+Victorian Studies	0042-5222	1527-2052	1999	42	2				https://muse.jhu.edu/journal/203		203		fulltext		Indiana University Press	serial								P
+Western American Literature	0043-3462	1948-7142	1966	1	1				https://muse.jhu.edu/journal/418		418		fulltext		University of Nebraska Press	serial								P
+Yearbook of Comparative and General Literature	0084-3695	1947-2978	2008	54	1	2008	54	1	https://muse.jhu.edu/journal/447		447		fulltext		University of Toronto Press	serial								P
+ariel: A Review of International English Literature	0004-1327	1920-1222	2013	44	1				https://muse.jhu.edu/journal/625		625		fulltext		Johns Hopkins University Press	serial								P
+diacritics	0300-7162	1080-6539	1996	26	1				https://muse.jhu.edu/journal/46		46		fulltext		Johns Hopkins University Press	serial								P
+symploke	1069-0697	1534-0627	1997	5	1				https://muse.jhu.edu/journal/190		190		fulltext		University of Nebraska Press	serial								P

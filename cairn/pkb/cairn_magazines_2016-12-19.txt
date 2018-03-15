@@ -2,14 +2,6 @@ publication_title	print_identifier	online_identifier	publisher_name	title_url	da
 Alternatives économiques	0247-3739		Altern. économiques	http://www.cairn.info/magazine-alternatives-economiques.htm			232						AE											
 Alternatives Internationales	1634-6386	2108-6575	Altern. économiques	http://www.cairn.info/magazine-alternatives-internationales.htm			20						AI											
 Les Grands Dossiers des Sciences Humaines	1777-375X	2108-6583	Ed. Sc. Humaines	http://www.cairn.info/magazine-les-grands-dossiers-des-sciences-humaines.htm			1						GDSH											
-Alternatives économiques	0247-3739		Altern. économiques	http://www.cairn.info/magazine-alternatives-economiques.htm			232						magazine-alternatives-economiques											
-Alternatives Internationales	1634-6386	2108-6575	Altern. économiques	http://www.cairn.info/magazine-alternatives-internationales.htm			20						magazine-alternatives-internationales											
-L'Histoire	0182-2411	2108-6753	Sophia Publications	http://www.cairn.info/magazine-l-histoire.htm			250						magazine-l-histoire											
-Le Magazine Littéraire	0024-9807	2108-6761	Sophia Publications	http://www.cairn.info/magazine-le-magazine-litteraire.htm			394						magazine-le-magazine-litteraire											
-Le Monde diplomatique	0026-9395		Le Monde diplomatique	http://www.cairn.info/magazine-le-monde-diplomatique.htm			562						magazine-le-monde-diplomatique											
-Les Grands Dossiers des Sciences Humaines	1777-375X	2108-6583	Ed. Sc. Humaines	http://www.cairn.info/magazine-les-grands-dossiers-des-sciences-humaines.htm			1						magazine-les-grands-dossiers-des-sciences-humaines											
-Manière de voir	1241-6290	2108-677X	Le Monde diplomatique	http://www.cairn.info/magazine-maniere-de-voir.htm			62						magazine-maniere-de-voir											
-Sciences humaines	0996-6994	1775-4232	Ed. Sc. Humaines	http://www.cairn.info/magazine-sciences-humaines.htm			104						magazine-sciences-humaines											
 Sciences humaines	0996-6994	1775-4232	Ed. Sc. Humaines	http://www.cairn.info/magazine-sciences-humaines.htm			104						SH											
 L'Histoire	0182-2411	2108-6753	Sophia Publications	http://www.cairn.info/magazine-l-histoire.htm			250						SNI_LHIST											
 Le Monde diplomatique	0026-9395		Le Monde diplomatique	http://www.cairn.info/magazine-le-monde-diplomatique.htm			562						SNI_LMD											

@@ -1,0 +1,503 @@
+publication_title	print_identifier	online_identifier	date_first_issue_online	num_first_vol_online	num_first_issue_online	date_last_issue_online	num_last_vol_online	num_last_issue_online	title_url	first_author	title_id	embargo_info	coverage_depth	notes	publisher_name	publication_type	date_monograph_published_print	date_monograph_published_online	monograph_volume	monograph_edition	first_editor	parent_publication_title_id	preceding_publication_title_id	access_type
+Acta Crystallographica Section A, Foundations Of Crystallography	0108-7673	1600-5724	2013						http://onlinelibrary.wiley.com/journal/10.1107/S20532733/issues		10.1107/S20532733		fulltext		Wiley	serial								P
+Acta Crystallographica Section C	0108-2701	1600-5759	2013						http://onlinelibrary.wiley.com/journal/10.1107/S20532296/issues		10.1107/S20532296		fulltext		Wiley	serial								P
+Acta Crystallographica Section F		1744-3091	2013						http://onlinelibrary.wiley.com/journal/10.1111/(ISSN)1744-3091		10.1111/(ISSN)1744-3091		fulltext		Wiley	serial								P
+Acta Crystallographica. Section B, Structural Science	0108-7681	1600-5740	2013						http://onlinelibrary.wiley.com/journal/10.1111/(ISSN)1600-5740		10.1111/(ISSN)1600-5740		fulltext		Wiley	serial								P
+Acta Crystallographica. Section D, Biological Crystallography.	0907-4449	1399-0047	2013						http://onlinelibrary.wiley.com/journal/10.1111/(ISSN)1399-0047		10.1111/(ISSN)1399-0047		fulltext		Wiley	serial								P
+Acta Geologica Sinica - English Edition	1000-9515	1755-6724	2013						http://onlinelibrary.wiley.com/journal/10.1111/(ISSN)1755-6724		10.1111/(ISSN)1755-6724		fulltext		Wiley	serial								P
+Acta Zoologica	0001-7272	1463-6395	2013						http://onlinelibrary.wiley.com/journal/10.1111/(ISSN)1463-6395		10.1111/(ISSN)1463-6395		fulltext		Wiley	serial								P
+Advanced Engineering Materials	1438-1656	1527-2648	1999	1					http://onlinelibrary.wiley.com/journal/10.1002/(ISSN)1527-2648		10.1002/(ISSN)1527-2648		fulltext		Wiley	serial								P
+Advanced Materials	0935-9648	1521-4095	1998	10					http://onlinelibrary.wiley.com/journal/10.1002/(ISSN)1521-4095		10.1002/(ISSN)1521-4095		fulltext		Wiley	serial								P
+Advanced Materials For Optics And Electronics	1057-9257	1099-0712	1997			2000			http://onlinelibrary.wiley.com/journal/10.1002/(ISSN)1616-3028		10.1002/(ISSN)1616-3028		fulltext		Wiley	serial								P
+Advances In Polymer Technology	0730-6679	1098-2329	2013						http://onlinelibrary.wiley.com/journal/10.1002/(ISSN)1098-2329		10.1002/(ISSN)1098-2329		fulltext		Wiley	serial								P
+Aggressive Behavior	0096-140X	1098-2337	2013						http://onlinelibrary.wiley.com/journal/10.1002/(ISSN)1098-2337		10.1002/(ISSN)1098-2337		fulltext		Wiley	serial								P
+Agricultural And Forest Entomology	1461-9555	1461-9563	2013						http://onlinelibrary.wiley.com/journal/10.1111/(ISSN)1461-9563		10.1111/(ISSN)1461-9563		fulltext		Wiley	serial								P
+Aiche Journal	0001-1541	1547-5905	2013						http://onlinelibrary.wiley.com/journal/10.1002/(ISSN)1547-5905		10.1002/(ISSN)1547-5905		fulltext		Wiley	serial								P
+American Journal Of Human Biology	1042-0533	1520-6300	2013						http://onlinelibrary.wiley.com/journal/10.1002/(ISSN)1520-6300		10.1002/(ISSN)1520-6300		fulltext		Wiley	serial								P
+American Journal Of Medical Genetics Part A	1552-4825	1552-4833	2013						http://onlinelibrary.wiley.com/journal/10.1002/(ISSN)1552-4833		10.1002/(ISSN)1552-4833		fulltext		Wiley	serial								P
+American Journal Of Medical Genetics Part B: Neuropsychiatric Genetics	1552-4841	1552-485X	2013						http://onlinelibrary.wiley.com/journal/10.1002/(ISSN)1552-485X		10.1002/(ISSN)1552-485X		fulltext		Wiley	serial								P
+American Journal Of Medical Genetics Part C: Seminars In Medical Genetics	1552-4868	1552-4876	2013						http://onlinelibrary.wiley.com/journal/10.1002/(ISSN)1552-4876		10.1002/(ISSN)1552-4876		fulltext		Wiley	serial								P
+American Journal Of Physical Anthropology	0002-9483	1096-8644	2013						http://onlinelibrary.wiley.com/journal/10.1002/(ISSN)1096-8644		10.1002/(ISSN)1096-8644		fulltext		Wiley	serial								P
+American Journal Of Primatology	0275-2565	1098-2345	2013						http://onlinelibrary.wiley.com/journal/10.1002/(ISSN)1098-2345		10.1002/(ISSN)1098-2345		fulltext		Wiley	serial								P
+Anatomia, Histologia, Embryologia	0340-2096	1439-0264	2013						http://onlinelibrary.wiley.com/journal/10.1111/(ISSN)1439-0264		10.1111/(ISSN)1439-0264		fulltext		Wiley	serial								P
+Angewandte Chemie	0044-8249	1521-3757	1997	110					http://onlinelibrary.wiley.com/journal/10.1002/(ISSN)1521-3757		10.1002/(ISSN)1521-3757		fulltext		Wiley	serial								P
+Angewandte Chemie International Edition	1433-7851	1521-3773	1997						http://onlinelibrary.wiley.com/journal/10.1002/(ISSN)1521-3773		10.1002/(ISSN)1521-3773		fulltext		Wiley	serial								P
+Animal Conservation	1367-9430	1469-1795	2013						http://onlinelibrary.wiley.com/journal/10.1111/(ISSN)1469-1795		10.1111/(ISSN)1469-1795		fulltext		Wiley	serial								P
+Animal Science Journal	1344-3941	1740-0929	2013						http://onlinelibrary.wiley.com/journal/10.1111/(ISSN)1740-0929		10.1111/(ISSN)1740-0929		fulltext		Wiley	serial								P
+Annalen Der Physik	0003-3804	1521-3889	1998	510					http://onlinelibrary.wiley.com/journal/10.1002/(ISSN)1521-3889		10.1002/(ISSN)1521-3889		fulltext		Wiley	serial								P
+Annals Of Applied Biology	0003-4746	1744-7348	2013						http://onlinelibrary.wiley.com/journal/10.1111/(ISSN)1744-7348/issues		10.1111/(ISSN)1744-7348		fulltext		Wiley	serial								P
+Annals Of The New York Academy Of Sciences	0077-8923	1749-6632	2013						http://onlinelibrary.wiley.com/journal/10.1111/(ISSN)1749-6632		10.1111/(ISSN)1749-6632		fulltext		Wiley	serial								P
+Applied Organometallic Chemistry	0268-2605		2013						http://onlinelibrary.wiley.com/journal/10.1002/(ISSN)1099-0739/issues		10.1002/(ISSN)1099-0739		fulltext		Wiley	serial								P
+Applied Stochastic Models In Business And Industry	1524-1904	1526-4025	2013						http://onlinelibrary.wiley.com/journal/10.1002/(ISSN)1526-4025		10.1002/(ISSN)1526-4025		fulltext		Wiley	serial								P
+Applied Vegetation Science	1402-2001	1654-109X	2013						http://onlinelibrary.wiley.com/journal/10.1111/(ISSN)1654-109X		10.1111/(ISSN)1654-109X		fulltext		Wiley	serial								P
+Aquaculture Nutrition	1353-5773	1365-2095	2013						http://onlinelibrary.wiley.com/journal/10.1111/(ISSN)1365-2095		10.1111/(ISSN)1365-2095		fulltext		Wiley	serial								P
+Aquaculture Research	1355-557X	1365-2109	2013						http://onlinelibrary.wiley.com/journal/10.1111/(ISSN)1365-2109/issues		10.1111/(ISSN)1365-2109		fulltext		Wiley	serial								P
+Aquatic Conservation: Marine And Freshwater Ecosystems	1052-7613	1099-0755	2013						http://onlinelibrary.wiley.com/journal/10.1002/(ISSN)1099-0755		10.1002/(ISSN)1099-0755		fulltext		Wiley	serial								P
+Archaeological Prospection	1075-2196	1099-0763	2013						http://onlinelibrary.wiley.com/journal/10.1002/(ISSN)1099-0763		10.1002/(ISSN)1099-0763		fulltext		Wiley	serial								P
+Archiv Der Pharmazie	0365-6233	1521-4184	1998	331					http://onlinelibrary.wiley.com/journal/10.1002/(ISSN)1521-4184		10.1002/(ISSN)1521-4184		fulltext		Wiley	serial								P
+Archives Of Insect Biochemistry And Physiology	0739-4462	1520-6327	2013						http://onlinelibrary.wiley.com/journal/10.1002/(ISSN)1520-6327		10.1002/(ISSN)1520-6327		fulltext		Wiley	serial								P
+Asia-pacific Journal Of Chemical Engineering	1932-2135	1932-2143	2013						http://onlinelibrary.wiley.com/journal/10.1002/(ISSN)1932-2143		10.1002/(ISSN)1932-2143		fulltext		Wiley	serial								P
+Asian Journal Of Control	1561-8625	1934-6093	2013						http://onlinelibrary.wiley.com/journal/10.1002/(ISSN)1934-6093		10.1002/(ISSN)1934-6093		fulltext		Wiley	serial								P
+Astronomische Nachrichten	0004-6337	1521-3994	1999	320					http://onlinelibrary.wiley.com/journal/10.1002/(ISSN)1521-3994		10.1002/(ISSN)1521-3994		fulltext		Wiley	serial								P
+Austral Ecology	1442-9985	1442-9993	2013						http://onlinelibrary.wiley.com/journal/10.1111/(ISSN)1442-9993		10.1111/(ISSN)1442-9993		fulltext		Wiley	serial								P
+Austral Entomology	2052-174X	2052-1758	1997	36					http://onlinelibrary.wiley.com/journal/10.1111/(ISSN)2052-1758		10.1111/(ISSN)2052-1758		fulltext		Wiley	serial								P
+Australian & New Zealand Journal Of Statistics	1369-1473	1467-842X	2013						http://onlinelibrary.wiley.com/journal/10.1111/(ISSN)1467-842X		10.1111/(ISSN)1467-842X		fulltext		Wiley	serial								P
+Australian Dental Journal	0045-0421	1834-7819	2012						http://onlinelibrary.wiley.com/journal/10.1111/(ISSN)1834-7819		10.1111/(ISSN)1834-7819		fulltext		Wiley	serial								P
+Australian Endodontic Journal	1329-1947	1747-4477	2013						http://onlinelibrary.wiley.com/journal/10.1111/(ISSN)1747-4477		10.1111/(ISSN)1747-4477		fulltext		Wiley	serial								P
+Australian Journal Of Grape And Wine Research	1322-7130	1755-0238	2013						http://onlinelibrary.wiley.com/journal/10.1111/(ISSN)1755-0238		10.1111/(ISSN)1755-0238		fulltext		Wiley	serial								P
+Australian Veterinary Journal	0005-0423	1751-0813	2013						http://onlinelibrary.wiley.com/journal/10.1111/(ISSN)1751-0813		10.1111/(ISSN)1751-0813		fulltext		Wiley	serial								P
+Basin Research	0950-091X	1365-2117	2013						http://onlinelibrary.wiley.com/journal/10.1111/(ISSN)1365-2117		10.1111/(ISSN)1365-2117		fulltext		Wiley	serial								P
+Bauphysik	0171-5445	1437-0980	2001	23					http://onlinelibrary.wiley.com/journal/10.1002/(ISSN)1437-0980		10.1002/(ISSN)1437-0980		fulltext		Wiley	serial								P
+Bautechnik	0932-8351	1437-0999	1998	75					http://onlinelibrary.wiley.com/journal/10.1002/(ISSN)1437-0999		10.1002/(ISSN)1437-0999		fulltext		Wiley	serial								P
+Berichte Zur Wissenschaftsgeschichte	0170-6233	1522-2365	2002	25					http://onlinelibrary.wiley.com/journal/10.1002/(ISSN)1522-2365		10.1002/(ISSN)1522-2365		fulltext		Wiley	serial								P
+Beton- Und Stahlbetonbau	0005-9900	1437-1006	1997	92					http://onlinelibrary.wiley.com/journal/10.1002/(ISSN)1437-1006		10.1002/(ISSN)1437-1006		fulltext		Wiley	serial								P
+Bioelectromagnetics	0197-8462	1521-186X	2013						http://onlinelibrary.wiley.com/journal/10.1002/(ISSN)1521-186X		10.1002/(ISSN)1521-186X		fulltext		Wiley	serial								P
+Bioessays	0265-9247	1521-1878	2013						http://onlinelibrary.wiley.com/journal/10.1002/(ISSN)1521-1878		10.1002/(ISSN)1521-1878		fulltext		Wiley	serial								P
+Biofuels, Bioproducts And Biorefining	1932-104X	1932-1031	2013						http://onlinelibrary.wiley.com/journal/10.1002/(ISSN)1932-1031		10.1002/(ISSN)1932-1031		fulltext		Wiley	serial								P
+Biologie In Unserer Zeit (biuz)	0045-205X	1521-415X	2000	30					http://onlinelibrary.wiley.com/journal/10.1002/(ISSN)1521-415X		10.1002/(ISSN)1521-415X		fulltext		Wiley	serial								P
+Biomedical Chromatography	0269-3879	1099-0801	2013						http://onlinelibrary.wiley.com/journal/10.1002/(ISSN)1099-0801		10.1002/(ISSN)1099-0801		fulltext		Wiley	serial								P
+Biometrical Journal	0323-3847	1521-4036	1998	40					http://onlinelibrary.wiley.com/journal/10.1002/(ISSN)1521-4036		10.1002/(ISSN)1521-4036		fulltext		Wiley	serial								P
+Biometrics	0006-341X	1541-0420	2013						http://onlinelibrary.wiley.com/journal/10.1111/(ISSN)1541-0420		10.1111/(ISSN)1541-0420		fulltext		Wiley	serial								P
+Biopolymers	0006-3525	1097-0282	2013						http://onlinelibrary.wiley.com/journal/10.1002/(ISSN)1097-0282		10.1002/(ISSN)1097-0282		fulltext		Wiley	serial								P
+Biotechnology And Bioengineering	0006-3592	1097-0290	2013						http://onlinelibrary.wiley.com/journal/10.1002/(ISSN)1097-0290		10.1002/(ISSN)1097-0290		fulltext		Wiley	serial								P
+Biotechnology Journal	1860-6768	1860-7314	2006	1					http://onlinelibrary.wiley.com/journal/10.1002/(ISSN)1860-7314		10.1002/(ISSN)1860-7314		fulltext		Wiley	serial								P
+Biotropica	0006-3606	1744-7429	2013						http://onlinelibrary.wiley.com/journal/10.1111/(ISSN)1744-7429		10.1111/(ISSN)1744-7429		fulltext		Wiley	serial								P
+Birth Defects Research Part A: Clinical And Molecular Teratology	1542-0752	1542-0760	2013						http://onlinelibrary.wiley.com/journal/10.1002/(ISSN)1542-0760		10.1002/(ISSN)1542-0760		fulltext		Wiley	serial								P
+Birth Defects Research Part B: Developmental And Reproductive Toxicology	1542-9733	1542-9741	2013						http://onlinelibrary.wiley.com/journal/10.1002/(ISSN)1542-9741		10.1002/(ISSN)1542-9741		fulltext		Wiley	serial								P
+Birth Defects Research Part C: Embryo Today: Reviews	1542-975X	1542-9768	2013						http://onlinelibrary.wiley.com/journal/10.1002/(ISSN)1542-9768		10.1002/(ISSN)1542-9768		fulltext		Wiley	serial								P
+Boreas	0300-9483	1502-3885	2013						http://onlinelibrary.wiley.com/journal/10.1111/(ISSN)1502-3885		10.1111/(ISSN)1502-3885		fulltext		Wiley	serial								P
+Bulletin Of The American Society For Information Science And Technology	1931-6550	1550-8366	2013						http://onlinelibrary.wiley.com/journal/10.1002/(ISSN)1550-8366/issues		10.1002/(ISSN)1550-8366		fulltext		Wiley	serial								P
+Bulletin Of The Korean Chemical Society		1229-5949	2015	36					http://onlinelibrary.wiley.com/journal/10.1002/(ISSN)1229-5949		10.1002/(ISSN)1229-5949		fulltext		Wiley	serial								P
+Bulletin Of The London Mathematical Society	0024-6093	1469-2120	1997	29					http://onlinelibrary.wiley.com/journal/10.1112/(ISSN)1469-2120		10.1112/(ISSN)1469-2120		fulltext		Wiley	serial								P
+Canadian Journal Of Statistics	0319-5724	1708-945X	2013						http://onlinelibrary.wiley.com/journal/10.1002/(ISSN)1708-945X		10.1002/(ISSN)1708-945X		fulltext		Wiley	serial								P
+Ce/papers		2509-7075	2017	1					http://onlinelibrary.wiley.com/journal/10.1002/(ISSN)2509-7075		10.1002/(ISSN)2509-7075		fulltext		Wiley	serial								P
+Chembioeng Reviews		2196-9744	2014	1					http://onlinelibrary.wiley.com/journal/10.1002/(ISSN)2196-9744		10.1002/(ISSN)2196-9744		fulltext		Wiley	serial								P
+Chemical Engineering & Technology (cet)	0930-7516	1521-4125	1998	21					http://onlinelibrary.wiley.com/journal/10.1002/(ISSN)1521-4125		10.1002/(ISSN)1521-4125		fulltext		Wiley	serial								P
+Chemie In Unserer Zeit (chiuz)	0009-2851	1521-3781	2000	34					http://onlinelibrary.wiley.com/journal/10.1002/(ISSN)1521-3781		10.1002/(ISSN)1521-3781		fulltext		Wiley	serial								P
+Chemie-ingenieur-technik (cit)	0009-286X	1522-2640	2000	72					http://onlinelibrary.wiley.com/journal/10.1002/(ISSN)1522-2640		10.1002/(ISSN)1522-2640		fulltext		Wiley	serial								P
+Chemistry & Biodiversity	1612-1872	1612-1880	2004	1					http://onlinelibrary.wiley.com/journal/10.1002/(ISSN)1612-1880		10.1002/(ISSN)1612-1880		fulltext		Wiley	serial								P
+Chemistry - A European Journal	0947-6539	1521-3765	1998	4					http://onlinelibrary.wiley.com/journal/10.1002/(ISSN)1521-3765		10.1002/(ISSN)1521-3765		fulltext		Wiley	serial								P
+Chemkon - Chemie Konkret, Forum Fuer Unterricht Und Didaktik	0944-5846	1521-3730	2002	9					http://onlinelibrary.wiley.com/journal/10.1002/(ISSN)1521-3730		10.1002/(ISSN)1521-3730		fulltext		Wiley	serial								P
+Chinese Journal Of Chemistry	1001-604X	1614-7065	2005	23					http://onlinelibrary.wiley.com/journal/10.1002/(ISSN)1614-7065		10.1002/(ISSN)1614-7065		fulltext		Wiley	serial								P
+Chirality	0899-0042	1520-636X	2013						http://onlinelibrary.wiley.com/journal/10.1002/(ISSN)1520-636X		10.1002/(ISSN)1520-636X		fulltext		Wiley	serial								P
+Cladistics	0748-3007	1096-0031	2013						http://onlinelibrary.wiley.com/journal/10.1111/(ISSN)1096-0031		10.1111/(ISSN)1096-0031		fulltext		Wiley	serial								P
+Clean - Soil, Air, Water	1863-0650	1863-0669	2007						http://onlinelibrary.wiley.com/journal/10.1002/(ISSN)1863-0669		10.1002/(ISSN)1863-0669		fulltext		Wiley	serial								P
+Clinical Anatomy	0897-3806	1098-2353	2013						http://onlinelibrary.wiley.com/journal/10.1002/(ISSN)1098-2353		10.1002/(ISSN)1098-2353		fulltext		Wiley	serial								P
+Color Research & Application	0361-2317	1520-6378	2013						http://onlinelibrary.wiley.com/journal/10.1002/(ISSN)1520-6378		10.1002/(ISSN)1520-6378		fulltext		Wiley	serial								P
+Coloration Technology	1472-3581	1478-4408	2013						http://onlinelibrary.wiley.com/journal/10.1111/(ISSN)1478-4408/issues		10.1111/(ISSN)1478-4408		fulltext		Wiley	serial								P
+Communications On Pure And Applied Mathematics	0010-3640	1097-0312	2013						http://onlinelibrary.wiley.com/journal/10.1002/(ISSN)1097-0312		10.1002/(ISSN)1097-0312		fulltext		Wiley	serial								P
+Comprehensive Reviews In Food Science And Food Safety		1541-4337	2006	5					http://onlinelibrary.wiley.com/journal/10.1111/(ISSN)1541-4337		10.1111/(ISSN)1541-4337		fulltext		Wiley	serial								P
+Computational Intelligence	0824-7935	1467-8640	2013						http://onlinelibrary.wiley.com/journal/10.1111/(ISSN)1467-8640		10.1111/(ISSN)1467-8640		fulltext		Wiley	serial								P
+Computer Animation And Virtual Worlds	1546-4261	1546-427X	2013						http://onlinelibrary.wiley.com/journal/10.1002/(ISSN)1546-427X		10.1002/(ISSN)1546-427X		fulltext		Wiley	serial								P
+Computer Applications In Engineering Education	1061-3773	1099-0542	2013						http://onlinelibrary.wiley.com/journal/10.1002/(ISSN)1099-0542		10.1002/(ISSN)1099-0542		fulltext		Wiley	serial								P
+Computer Graphics Forum	0167-7055	1467-8659	2013						http://onlinelibrary.wiley.com/journal/10.1111/(ISSN)1467-8659		10.1111/(ISSN)1467-8659		fulltext		Wiley	serial								P
+Computer-aided Civil And Infrastructure Engineering	1093-9687	1467-8667	2013						http://onlinelibrary.wiley.com/journal/10.1111/(ISSN)1467-8667		10.1111/(ISSN)1467-8667		fulltext		Wiley	serial								P
+Concurrency And Computation: Practice And Experience	1532-0626	1532-0634	2013						http://onlinelibrary.wiley.com/journal/10.1002/(ISSN)1532-0634		10.1002/(ISSN)1532-0634		fulltext		Wiley	serial								P
+Conservation Biology	0888-8892	1523-1739	2013						http://onlinelibrary.wiley.com/journal/10.1111/(ISSN)1523-1739		10.1111/(ISSN)1523-1739		fulltext		Wiley	serial								P
+Contributions To Plasma Physics	0863-1042	1521-3986	2000	40					http://onlinelibrary.wiley.com/journal/10.1002/(ISSN)1521-3986		10.1002/(ISSN)1521-3986		fulltext		Wiley	serial								P
+Crystal Research And Technology	0232-1300	1521-4079	1998	33					http://onlinelibrary.wiley.com/journal/10.1002/(ISSN)1521-4079		10.1002/(ISSN)1521-4079		fulltext		Wiley	serial								P
+Curtis's Botanical Magazine	1355-4905	1467-8748	2013						http://onlinelibrary.wiley.com/journal/10.1111/(ISSN)1467-8748		10.1111/(ISSN)1467-8748		fulltext		Wiley	serial								P
+Cytometry. Part A	1552-4922	1552-4930	2003						http://onlinelibrary.wiley.com/journal/10.1002/(ISSN)1552-4930		10.1002/(ISSN)1552-4930		fulltext		Wiley	serial								P
+Cytometry. Part B Clinical Cytometry	1552-4949	1552-4957	2003						http://onlinelibrary.wiley.com/journal/10.1002/(ISSN)1552-4957		10.1002/(ISSN)1552-4957		fulltext		Wiley	serial								P
+Cytoskeleton	1949-3584	1949-3592	2013						http://onlinelibrary.wiley.com/journal/10.1002/(ISSN)1949-3592		10.1002/(ISSN)1949-3592		fulltext		Wiley	serial								P
+Dental Traumatology	1600-4469	1600-9657	2013						http://onlinelibrary.wiley.com/journal/10.1111/(ISSN)1600-9657		10.1111/(ISSN)1600-9657		fulltext		Wiley	serial								P
+Development, Growth & Differentiation	0012-1592	1440-169X	1997	39					http://onlinelibrary.wiley.com/journal/10.1111/(ISSN)1440-169X		10.1111/(ISSN)1440-169X		fulltext		Wiley	serial								P
+Developmental Dynamics	1058-8388	1097-0177	1996	205					http://onlinelibrary.wiley.com/journal/10.1002/(ISSN)1097-0177		10.1002/(ISSN)1097-0177		fulltext		Wiley	serial								P
+Developmental Psychobiology	0012-1630	1098-2302	2013						http://onlinelibrary.wiley.com/journal/10.1002/(ISSN)1098-2302		10.1002/(ISSN)1098-2302		fulltext		Wiley	serial								P
+Diversity And Distributions	1366-9516	1472-4642	2013						http://onlinelibrary.wiley.com/journal/10.1111/(ISSN)1472-4642		10.1111/(ISSN)1472-4642		fulltext		Wiley	serial								P
+Drug Development Research	0272-4391	1098-2299	2013						http://onlinelibrary.wiley.com/journal/10.1002/(ISSN)1098-2299		10.1002/(ISSN)1098-2299		fulltext		Wiley	serial								P
+Earth Surface Processes And Landforms	0197-9337	1096-9837	2013						http://onlinelibrary.wiley.com/journal/10.1002/(ISSN)1096-9837		10.1002/(ISSN)1096-9837		fulltext		Wiley	serial								P
+Earthquake Engineering & Structural Dynamics	0098-8847	1096-9845	2013						http://onlinelibrary.wiley.com/journal/10.1002/(ISSN)1096-9845		10.1002/(ISSN)1096-9845		fulltext		Wiley	serial								P
+East African Wildlife Journal	0070-8038		2013						http://onlinelibrary.wiley.com/journal/10.1111/(ISSN)1365-2028/issues		10.1111/(ISSN)1365-2028		fulltext		Wiley	serial								P
+Ecography	0906-7590	1600-0587	2013						http://onlinelibrary.wiley.com/journal/10.1111/(ISSN)1600-0587		10.1111/(ISSN)1600-0587		fulltext		Wiley	serial								P
+Ecohydrology	1936-0584	1936-0592	2013						http://onlinelibrary.wiley.com/journal/10.1002/(ISSN)1936-0592		10.1002/(ISSN)1936-0592		fulltext		Wiley	serial								P
+Ecological Entomology	0307-6946	1365-2311	2013						http://onlinelibrary.wiley.com/journal/10.1111/(ISSN)1365-2311		10.1111/(ISSN)1365-2311		fulltext		Wiley	serial								P
+Ecological Management & Restoration	1442-7001	1839-3330	2013						http://onlinelibrary.wiley.com/journal/10.1111/(ISSN)1442-8903/issues		10.1111/(ISSN)1442-8903		fulltext		Wiley	serial								P
+Ecology Letters	1461-023X	1461-0248	2013						http://onlinelibrary.wiley.com/journal/10.1111/(ISSN)1461-0248		10.1111/(ISSN)1461-0248		fulltext		Wiley	serial								P
+Ecology Of Freshwater Fish	0906-6691	1600-0633	2013						http://onlinelibrary.wiley.com/journal/10.1111/(ISSN)1600-0633		10.1111/(ISSN)1600-0633		fulltext		Wiley	serial								P
+Electrical Engineering In Japan	0424-7760	1520-6416	2013						http://onlinelibrary.wiley.com/journal/10.1002/(ISSN)1520-6416		10.1002/(ISSN)1520-6416		fulltext		Wiley	serial								P
+Electroanalysis	1040-0397	1521-4109	1998	10					http://onlinelibrary.wiley.com/journal/10.1002/(ISSN)1521-4109		10.1002/(ISSN)1521-4109		fulltext		Wiley	serial								P
+Electronics And Communications In Japan	1942-9533	1942-9541	2013						http://onlinelibrary.wiley.com/journal/10.1002/(ISSN)1942-9541		10.1002/(ISSN)1942-9541		fulltext		Wiley	serial								P
+Electrophoresis	0173-0835	1522-2683	1999	20					http://onlinelibrary.wiley.com/journal/10.1002/(ISSN)1522-2683		10.1002/(ISSN)1522-2683		fulltext		Wiley	serial								P
+Embo Reports	1469-221X	1469-3178	2000	1					http://onlinelibrary.wiley.com/journal/10.1002/(ISSN)1469-3178		10.1002/(ISSN)1469-3178		fulltext		Wiley	serial								P
+Engineering In Life Sciences	1618-0240	1618-2863	2001	1					http://onlinelibrary.wiley.com/journal/10.1002/(ISSN)1618-2863		10.1002/(ISSN)1618-2863		fulltext		Wiley	serial								P
+Entomologia Experimentalis Et Applicata	0013-8703	1570-7458	2013						http://onlinelibrary.wiley.com/journal/10.1111/(ISSN)1570-7458		10.1111/(ISSN)1570-7458		fulltext		Wiley	serial								P
+Entomological Research	1738-2297	1748-5967	2013						http://onlinelibrary.wiley.com/journal/10.1111/(ISSN)1748-5967		10.1111/(ISSN)1748-5967		fulltext		Wiley	serial								P
+Entomological Science	1343-8786	1479-8298	2013						http://onlinelibrary.wiley.com/journal/10.1111/(ISSN)1479-8298		10.1111/(ISSN)1479-8298		fulltext		Wiley	serial								P
+Environmental Microbiology	1462-2912	1462-2920	2013						http://onlinelibrary.wiley.com/journal/10.1111/(ISSN)1462-2920		10.1111/(ISSN)1462-2920		fulltext		Wiley	serial								P
+Environmental Microbiology Reports		1758-2229	2013						http://onlinelibrary.wiley.com/journal/10.1111/(ISSN)1758-2229		10.1111/(ISSN)1758-2229		fulltext		Wiley	serial								P
+Environmental Progress & Sustainable Energy	1944-7442	1944-7450	2013						http://onlinelibrary.wiley.com/journal/10.1002/(ISSN)1944-7450		10.1002/(ISSN)1944-7450		fulltext		Wiley	serial								P
+Environmental Toxicology	1520-4081	1522-7278	2013						http://onlinelibrary.wiley.com/journal/10.1002/(ISSN)1522-7278		10.1002/(ISSN)1522-7278		fulltext		Wiley	serial								P
+Environmental Toxicology And Chemistry	0730-7268	1552-8618	2013						http://onlinelibrary.wiley.com/journal/10.1002/(ISSN)1552-8618		10.1002/(ISSN)1552-8618		fulltext		Wiley	serial								P
+Environmetrics	1180-4009		2013						http://onlinelibrary.wiley.com/journal/10.1002/(ISSN)1099-095X/issues		10.1002/(ISSN)1099-095X		fulltext		Wiley	serial								P
+Eppo Bulletin	0250-8052	1365-2338	2013						http://onlinelibrary.wiley.com/journal/10.1111/(ISSN)1365-2338		10.1111/(ISSN)1365-2338		fulltext		Wiley	serial								P
+Equine Veterinary Education	0957-7734	2042-3292	2013						http://onlinelibrary.wiley.com/journal/10.1001/(ISSN)2042-3292		10.1001/(ISSN)2042-3292		fulltext		Wiley	serial								P
+Equine Veterinary Journal	0425-1644	2042-3306	2013						http://onlinelibrary.wiley.com/journal/10.1001/(ISSN)2042-3306		10.1001/(ISSN)2042-3306		fulltext		Wiley	serial								P
+Ethology	0179-1613	1439-0310	2013						http://onlinelibrary.wiley.com/journal/10.1111/(ISSN)1439-0310		10.1111/(ISSN)1439-0310		fulltext		Wiley	serial								P
+European Eating Disorders Review	1072-4133	1099-0968	2013						http://onlinelibrary.wiley.com/journal/10.1002/(ISSN)1099-0968		10.1002/(ISSN)1099-0968		fulltext		Wiley	serial								P
+European Journal Of Dental Education	1396-5883	1600-0579	2013						http://onlinelibrary.wiley.com/journal/10.1111/(ISSN)1600-0579		10.1111/(ISSN)1600-0579		fulltext		Wiley	serial								P
+European Journal Of Immunology	0014-2980	1521-4141	1998	28					http://onlinelibrary.wiley.com/journal/10.1002/(ISSN)1521-4141		10.1002/(ISSN)1521-4141		fulltext		Wiley	serial								P
+European Journal Of Inorganic Chemistry	1434-1948	1099-0682	1998	131					http://onlinelibrary.wiley.com/journal/10.1002/(ISSN)1099-0682c		10.1002/(ISSN)1099-0682c		fulltext		Wiley	serial								P
+European Journal Of Organic Chemistry	1434-193X	1099-0690	1998	1998					http://onlinelibrary.wiley.com/journal/10.1002/(ISSN)1099-0690		10.1002/(ISSN)1099-0690		fulltext		Wiley	serial								P
+European Journal Of Soil Science	1351-0754	1365-2389	2013						http://onlinelibrary.wiley.com/journal/10.1111/(ISSN)1365-2389		10.1111/(ISSN)1365-2389		fulltext		Wiley	serial								P
+Evolution	0014-3820	1558-5646	2013						http://onlinelibrary.wiley.com/journal/10.1111/(ISSN)1558-5646		10.1111/(ISSN)1558-5646		fulltext		Wiley	serial								P
+Evolution & Development	1520-541X	1525-142X	2013						http://onlinelibrary.wiley.com/journal/10.1111/(ISSN)1525-142X		10.1111/(ISSN)1525-142X		fulltext		Wiley	serial								P
+Evolutionary Anthropology: Issues, News, And Reviews	1060-1538	1520-6505	2013						http://onlinelibrary.wiley.com/journal/10.1002/(ISSN)1520-6505		10.1002/(ISSN)1520-6505		fulltext		Wiley	serial								P
+Expert Systems	0266-4720	1468-0394	2013						http://onlinelibrary.wiley.com/journal/10.1111/(ISSN)1468-0394		10.1111/(ISSN)1468-0394		fulltext		Wiley	serial								P
+Fatigue & Fracture Of Engineering Materials & Structures	8756-758X	1460-2695	2013						http://onlinelibrary.wiley.com/journal/10.1111/(ISSN)1460-2695		10.1111/(ISSN)1460-2695		fulltext		Wiley	serial								P
+Feddes Repertorium	0014-8962	1522-239X	2002	113					http://onlinelibrary.wiley.com/journal/10.1002/(ISSN)1522-239Xb		10.1002/(ISSN)1522-239Xb		fulltext		Wiley	serial								P
+Fire And Materials	0308-0501		2013						http://onlinelibrary.wiley.com/journal/10.1002/(ISSN)1099-1018/issues		10.1002/(ISSN)1099-1018		fulltext		Wiley	serial								P
+Fish And Fisheries	1467-2960	1467-2979	2013						http://onlinelibrary.wiley.com/journal/10.1111/(ISSN)1467-2979		10.1111/(ISSN)1467-2979		fulltext		Wiley	serial								P
+Fisheries Management And Ecology	0969-997X	1365-2400	2013						http://onlinelibrary.wiley.com/journal/10.1111/(ISSN)1365-2400		10.1111/(ISSN)1365-2400		fulltext		Wiley	serial								P
+Fisheries Oceanography	1054-6006	1365-2419	2013						http://onlinelibrary.wiley.com/journal/10.1111/(ISSN)1365-2419		10.1111/(ISSN)1365-2419		fulltext		Wiley	serial								P
+Flavour And Fragrance Journal	0882-5734	1099-1026	2013						http://onlinelibrary.wiley.com/journal/10.1002/(ISSN)1099-1026		10.1002/(ISSN)1099-1026		fulltext		Wiley	serial								P
+Forest Pathology	1437-4781	1439-0329	2013						http://onlinelibrary.wiley.com/journal/10.1111/(ISSN)1439-0329		10.1111/(ISSN)1439-0329		fulltext		Wiley	serial								P
+Forschung	0172-1518	1522-2357	2001	26					http://onlinelibrary.wiley.com/journal/10.1002/(ISSN)1522-2357		10.1002/(ISSN)1522-2357		fulltext		Wiley	serial								P
+Fortschritte Der Physik/progress Of Physics	0015-8208	1521-3978	1998	46					http://onlinelibrary.wiley.com/journal/10.1002/(ISSN)1521-3978		10.1002/(ISSN)1521-3978		fulltext		Wiley	serial								P
+Freshwater Biology	0046-5070	1365-2427	2013						http://onlinelibrary.wiley.com/journal/10.1111/(ISSN)1365-2427		10.1111/(ISSN)1365-2427		fulltext		Wiley	serial								P
+Frontiers In Ecology And The Environment	1540-9295	1540-9309	2001	1					http://onlinelibrary.wiley.com/journal/10.1002/(ISSN)1540-9309		10.1002/(ISSN)1540-9309		fulltext		Wiley	serial								P
+Fuel Cells	1615-6846	1615-6854	2001	1					http://onlinelibrary.wiley.com/journal/10.1002/(ISSN)1615-6854		10.1002/(ISSN)1615-6854		fulltext		Wiley	serial								P
+Functional Ecology	0269-8463	1365-2435	1997	11					http://onlinelibrary.wiley.com/journal/10.1111/(ISSN)1365-2435		10.1111/(ISSN)1365-2435		fulltext		Wiley	serial								P
+Gamm - Mitteilungen	0936-7195	1522-2608	2007	30					http://onlinelibrary.wiley.com/journal/10.1002/(ISSN)1522-2608		10.1002/(ISSN)1522-2608		fulltext		Wiley	serial								P
+Genes To Cells	1356-9597	1365-2443	1997	2					http://onlinelibrary.wiley.com/journal/10.1111/(ISSN)1365-2443		10.1111/(ISSN)1365-2443		fulltext		Wiley	serial								P
+Genetic Epidemiology	0741-0395	1098-2272	2013						http://onlinelibrary.wiley.com/journal/10.1002/(ISSN)1098-2272		10.1002/(ISSN)1098-2272		fulltext		Wiley	serial								P
+Geoarchaeology	0883-6353	1520-6548	2013						http://onlinelibrary.wiley.com/journal/10.1002/(ISSN)1520-6548		10.1002/(ISSN)1520-6548		fulltext		Wiley	serial								P
+Geobiology	1472-4677	1472-4669	2013						http://onlinelibrary.wiley.com/journal/10.1111/(ISSN)1472-4669		10.1111/(ISSN)1472-4669		fulltext		Wiley	serial								P
+Geochemistry, Geophysics, Geosystems		1525-2027	2014						http://agupubs.onlinelibrary.wiley.com/agu/journal/10.1002/(ISSN)1525-2027/		10.1002/(ISSN)1525-2027		fulltext		Wiley	serial								P
+Geological Journal	0072-1050	1099-1034	2013						http://onlinelibrary.wiley.com/journal/10.1002/(ISSN)1099-1034		10.1002/(ISSN)1099-1034		fulltext		Wiley	serial								P
+Geology Today	0266-6979	1365-2451	2013						http://onlinelibrary.wiley.com/journal/10.1111/(ISSN)1365-2451		10.1111/(ISSN)1365-2451		fulltext		Wiley	serial								P
+Geomechanics And Tunnelling	1865-7362	1865-7389	2008	1					http://onlinelibrary.wiley.com/journal/10.1002/(ISSN)1865-7389		10.1002/(ISSN)1865-7389		fulltext		Wiley	serial								P
+Geophysical Prospecting	0016-8025	1365-2478	2013						http://onlinelibrary.wiley.com/journal/10.1111/(ISSN)1365-2478		10.1111/(ISSN)1365-2478		fulltext		Wiley	serial								P
+Geophysical Research Letters	0094-8276	1944-8007	2014						http://agupubs.onlinelibrary.wiley.com/hub/journal/10.1002/(ISSN)1944-8007/		10.1002/(ISSN)1944-8007		fulltext		Wiley	serial								P
+Geostandards And Geoanalytical Research	1639-4488	1751-908X	2013						http://onlinelibrary.wiley.com/journal/10.1111/(ISSN)1751-908X/issues		10.1111/(ISSN)1751-908X		fulltext		Wiley	serial								P
+Geotechnik	0172-6145	2190-6653	2011	1					http://onlinelibrary.wiley.com/journal/10.1002/(ISSN)2190-6653		10.1002/(ISSN)2190-6653		fulltext		Wiley	serial								P
+German Research	0172-1526	1522-2322	2001	23					http://onlinelibrary.wiley.com/journal/10.1002/(ISSN)1522-2322		10.1002/(ISSN)1522-2322		fulltext		Wiley	serial								P
+Glia	0894-1491	1098-1136	2013						http://onlinelibrary.wiley.com/journal/10.1002/(ISSN)1098-1136		10.1002/(ISSN)1098-1136		fulltext		Wiley	serial								P
+Global Biogeochemical Cycles	0886-6236	1944-9224	2014						http://agupubs.onlinelibrary.wiley.com/hub/journal/10.1002/(ISSN)1944-9224/		10.1002/(ISSN)1944-9224		fulltext		Wiley	serial								P
+Global Change Biology	1354-1013	1365-2486	2013						http://onlinelibrary.wiley.com/journal/10.1111/(ISSN)1365-2486		10.1111/(ISSN)1365-2486		fulltext		Wiley	serial								P
+Global Ecology And Biogeography	1466-822X	1466-8238	2013						http://onlinelibrary.wiley.com/journal/10.1111/(ISSN)1466-8238		10.1111/(ISSN)1466-8238		fulltext		Wiley	serial								P
+Grass And Forage Science	0142-5242	1365-2494	2013						http://onlinelibrary.wiley.com/journal/10.1111/(ISSN)1365-2494		10.1111/(ISSN)1365-2494		fulltext		Wiley	serial								P
+Grassland Science	1744-6961	1744-697X	2013						http://onlinelibrary.wiley.com/journal/10.1111/(ISSN)1744-697X		10.1111/(ISSN)1744-697X		fulltext		Wiley	serial								P
+Groundwater	0017-467X	1745-6584	2013						http://onlinelibrary.wiley.com/journal/10.1111/(ISSN)1745-6584		10.1111/(ISSN)1745-6584		fulltext		Wiley	serial								P
+Groundwater Monitoring & Remediation	1069-3629	1745-6592	2013						http://onlinelibrary.wiley.com/journal/10.1111/(ISSN)1745-6592		10.1111/(ISSN)1745-6592		fulltext		Wiley	serial								P
+Heat Transfer—asian Research	1099-2871	1523-1496	2013						http://onlinelibrary.wiley.com/journal/10.1002/(ISSN)1523-1496		10.1002/(ISSN)1523-1496		fulltext		Wiley	serial								P
+Helvetica Chimica Acta	0018-019X	1522-2675	1999	82					http://onlinelibrary.wiley.com/journal/10.1002/(ISSN)1522-2675		10.1002/(ISSN)1522-2675		fulltext		Wiley	serial								P
+Heteroatom Chemistry	1042-7163	1098-1071	2013						http://onlinelibrary.wiley.com/journal/10.1002/(ISSN)1098-1071		10.1002/(ISSN)1098-1071		fulltext		Wiley	serial								P
+Hippocampus	1050-9631	1098-1063	2013						http://onlinelibrary.wiley.com/journal/10.1002/(ISSN)1098-1063		10.1002/(ISSN)1098-1063		fulltext		Wiley	serial								P
+Human Brain Mapping	1065-9471	1097-0193	2013						http://onlinelibrary.wiley.com/journal/10.1002/(ISSN)1097-0193		10.1002/(ISSN)1097-0193		fulltext		Wiley	serial								P
+Human Factors And Ergonomics In Manufacturing & Service Industries	2157-4650		2013						http://onlinelibrary.wiley.com/journal/10.1002/(ISSN)1522-7111/issues		10.1002/(ISSN)1522-7111		fulltext		Wiley	serial								P
+Human Mutation	1059-7794	1098-1004	2013						http://onlinelibrary.wiley.com/journal/10.1002/(ISSN)1098-1004		10.1002/(ISSN)1098-1004		fulltext		Wiley	serial								P
+Hydrological Processes	0885-6087	1099-1085	2013						http://onlinelibrary.wiley.com/journal/10.1002/(ISSN)1099-1085		10.1002/(ISSN)1099-1085		fulltext		Wiley	serial								P
+Ibis	0019-1019	1474-919X	2013						http://onlinelibrary.wiley.com/journal/10.1111/(ISSN)1474-919X		10.1111/(ISSN)1474-919X		fulltext		Wiley	serial								P
+Ieej Transactions On Electrical And Electronic Engineering	1931-4973	1931-4981	2013						http://onlinelibrary.wiley.com/journal/10.1002/(ISSN)1931-4981		10.1002/(ISSN)1931-4981		fulltext		Wiley	serial								P
+Information Systems Journal	1350-1917	1365-2575	2013						http://onlinelibrary.wiley.com/journal/10.1111/(ISSN)1365-2575		10.1111/(ISSN)1365-2575		fulltext		Wiley	serial								P
+Insect Conservation And Diversity	1752-458X	1752-4598	2013						http://onlinelibrary.wiley.com/journal/10.1111/(ISSN)1752-4598		10.1111/(ISSN)1752-4598		fulltext		Wiley	serial								P
+Insect Science	1672-9609	1744-7917	2013						http://onlinelibrary.wiley.com/journal/10.1111/(ISSN)1744-7917		10.1111/(ISSN)1744-7917		fulltext		Wiley	serial								P
+Integrated Environmental Assessment And Management	1551-3777	1551-3793	2013						http://onlinelibrary.wiley.com/journal/10.1002/(ISSN)1551-3793		10.1002/(ISSN)1551-3793		fulltext		Wiley	serial								P
+Integrative Zoology		1749-4877	2014						http://onlinelibrary.wiley.com/journal/10.1111/(ISSN)1749-4877		10.1111/(ISSN)1749-4877		fulltext		Wiley	serial								P
+International Journal For Numerical And Analytical Methods In Geomechanics	0363-9061	1096-9853	2013						http://onlinelibrary.wiley.com/journal/10.1002/(ISSN)1096-9853		10.1002/(ISSN)1096-9853		fulltext		Wiley	serial								P
+International Journal For Numerical Methods In Biomedical Engineering	2040-7939	2040-7947	2013						http://onlinelibrary.wiley.com/journal/10.1002/(ISSN)2040-7947		10.1002/(ISSN)2040-7947		fulltext		Wiley	serial								P
+International Journal For Numerical Methods In Engineering	0029-5981	1097-0207	2013						http://onlinelibrary.wiley.com/journal/10.1002/(ISSN)1097-0207		10.1002/(ISSN)1097-0207		fulltext		Wiley	serial								P
+International Journal For Numerical Methods In Fluids	0271-2091	1097-0363	2013						http://onlinelibrary.wiley.com/journal/10.1002/(ISSN)1097-0363		10.1002/(ISSN)1097-0363		fulltext		Wiley	serial								P
+International Journal Of Adaptive Control And Signal Processing	0890-6327	1099-1115	2013						http://onlinelibrary.wiley.com/journal/10.1002/(ISSN)1099-1115		10.1002/(ISSN)1099-1115		fulltext		Wiley	serial								P
+International Journal Of Applied Ceramic Technology	1546-542X	1744-7402	2013						http://onlinelibrary.wiley.com/journal/10.1111/(ISSN)1744-7402		10.1111/(ISSN)1744-7402		fulltext		Wiley	serial								P
+International Journal Of Applied Glass Science	2041-1286	2041-1294	2013						http://onlinelibrary.wiley.com/journal/10.1111/(ISSN)2041-1294		10.1111/(ISSN)2041-1294		fulltext		Wiley	serial								P
+International Journal Of Chemical Kinetics	0538-8066	1097-4601	2013						http://onlinelibrary.wiley.com/journal/10.1002/(ISSN)1097-4601		10.1002/(ISSN)1097-4601		fulltext		Wiley	serial								P
+International Journal Of Circuit Theory And Applications	0098-9886	1097-007X	2013						http://onlinelibrary.wiley.com/journal/10.1002/(ISSN)1097-007X		10.1002/(ISSN)1097-007X		fulltext		Wiley	serial								P
+International Journal Of Climatology	0899-8418	1097-0088	2012						http://onlinelibrary.wiley.com/journal/10.1002/(ISSN)1097-0088		10.1002/(ISSN)1097-0088		fulltext		Wiley	serial								P
+International Journal Of Communication Systems	1074-5351	1099-1131	2013						http://onlinelibrary.wiley.com/journal/10.1002/(ISSN)1099-1131		10.1002/(ISSN)1099-1131		fulltext		Wiley	serial								P
+International Journal Of Dairy Technology	1364-727X	1471-0307	2013						http://onlinelibrary.wiley.com/journal/10.1111/(ISSN)1471-0307		10.1111/(ISSN)1471-0307		fulltext		Wiley	serial								P
+International Journal Of Eating Disorders	0276-3478	1098-108X	2013						http://onlinelibrary.wiley.com/journal/10.1002/(ISSN)1098-108X		10.1002/(ISSN)1098-108X		fulltext		Wiley	serial								P
+International Journal Of Energy Research	0363-907X	1099-114X	2013						http://onlinelibrary.wiley.com/journal/10.1002/(ISSN)1099-114X		10.1002/(ISSN)1099-114X		fulltext		Wiley	serial								P
+International Journal Of Food Science & Technology	0950-5423	1365-2621	2013						http://onlinelibrary.wiley.com/journal/10.1111/(ISSN)1365-2621		10.1111/(ISSN)1365-2621		fulltext		Wiley	serial								P
+International Journal Of Intelligent Systems	0884-8173	1098-111X	2013						http://onlinelibrary.wiley.com/journal/10.1002/(ISSN)1098-111X		10.1002/(ISSN)1098-111X		fulltext		Wiley	serial								P
+International Journal Of Network Management	1055-7148	1099-1190	2013						http://onlinelibrary.wiley.com/journal/10.1002/(ISSN)1099-1190		10.1002/(ISSN)1099-1190		fulltext		Wiley	serial								P
+International Journal Of Numerical Modelling: Electronic Networks, Devices And Fields	0894-3370	1099-1204	2013						http://onlinelibrary.wiley.com/journal/10.1002/(ISSN)1099-1204		10.1002/(ISSN)1099-1204		fulltext		Wiley	serial								P
+International Journal Of Osteoarchaeology	1047-482X	1099-1212	2013						http://onlinelibrary.wiley.com/journal/10.1002/(ISSN)1099-1212		10.1002/(ISSN)1099-1212		fulltext		Wiley	serial								P
+International Journal Of Quantum Chemistry	0020-7608	1097-461X	2013						http://onlinelibrary.wiley.com/journal/10.1002/(ISSN)1097-461X		10.1002/(ISSN)1097-461X		fulltext		Wiley	serial								P
+International Journal Of Rf And Microwave Computer-aided Engineering	1096-4290		2013						http://onlinelibrary.wiley.com/journal/10.1002/(ISSN)1099-047X/issues		10.1002/(ISSN)1099-047X		fulltext		Wiley	serial								P
+International Journal Of Robust And Nonlinear Control	1049-8923	1099-1239	2013						http://onlinelibrary.wiley.com/journal/10.1002/(ISSN)1099-1239		10.1002/(ISSN)1099-1239		fulltext		Wiley	serial								P
+International Journal Of Satellite Communications And Networking	1542-0973	1542-0981	2013						http://onlinelibrary.wiley.com/journal/10.1002/(ISSN)1542-0981		10.1002/(ISSN)1542-0981		fulltext		Wiley	serial								P
+International Review Of Hydrobiology	1434-2944	1522-2632	2000	85					http://onlinelibrary.wiley.com/journal/10.1002/(ISSN)1522-2632		10.1002/(ISSN)1522-2632		fulltext		Wiley	serial								P
+International Statistical Review	0306-7734	1751-5823	2013						http://onlinelibrary.wiley.com/journal/10.1111/(ISSN)1751-5823		10.1111/(ISSN)1751-5823		fulltext		Wiley	serial								P
+International Transactions On Electrical Energy Systems		2050-7038	2013						http://onlinelibrary.wiley.com/journal/10.1002/(ISSN)2050-7038		10.1002/(ISSN)2050-7038		fulltext		Wiley	serial								P
+International Zoo Yearbook	0074-9664	1748-1090	2013						http://onlinelibrary.wiley.com/journal/10.1111/(ISSN)1748-1090		10.1111/(ISSN)1748-1090		fulltext		Wiley	serial								P
+Invertebrate Biology	1077-8306	1744-7410	2013						http://onlinelibrary.wiley.com/journal/10.1111/(ISSN)1744-7410		10.1111/(ISSN)1744-7410		fulltext		Wiley	serial								P
+Irrigation And Drainage	1531-0353		2013						http://onlinelibrary.wiley.com/journal/10.1002/(ISSN)1531-0361/issues		10.1002/(ISSN)1531-0361		fulltext		Wiley	serial								P
+Island Arc	1038-4871	1440-1738	2013						http://onlinelibrary.wiley.com/journal/10.1111/(ISSN)1440-1738		10.1111/(ISSN)1440-1738		fulltext		Wiley	serial								P
+Israel Journal Of Chemistry	0021-2148	1869-5868	2014						http://onlinelibrary.wiley.com/journal/10.1002/(ISSN)1869-5868		10.1002/(ISSN)1869-5868		fulltext		Wiley	serial								P
+Iubmb Life	1521-6543	1521-6551	1999						http://onlinelibrary.wiley.com/journal/10.1002/(ISSN)1521-6551		10.1002/(ISSN)1521-6551		fulltext		Wiley	serial								P
+Jawra Journal Of The American Water Resources Association	1093-474X	1752-1688	2013						http://onlinelibrary.wiley.com/journal/10.1111/(ISSN)1752-1688		10.1111/(ISSN)1752-1688		fulltext		Wiley	serial								P
+Journal Of Agronomy And Crop Science	0931-2250	1439-037X	2013						http://onlinelibrary.wiley.com/journal/10.1111/(ISSN)1439-037X		10.1111/(ISSN)1439-037X		fulltext		Wiley	serial								P
+Journal Of Animal Breeding And Genetics	0931-2668	1439-0388	2013						http://onlinelibrary.wiley.com/journal/10.1111/(ISSN)1439-0388		10.1111/(ISSN)1439-0388		fulltext		Wiley	serial								P
+Journal Of Animal Ecology	0021-8790	1365-2656	1998	67					http://onlinelibrary.wiley.com/journal/10.1111/(ISSN)1365-2656		10.1111/(ISSN)1365-2656		fulltext		Wiley	serial								P
+Journal Of Animal Physiology And Animal Nutrition	0931-2439	1439-0396	2013						http://onlinelibrary.wiley.com/journal/10.1111/(ISSN)1439-0396		10.1111/(ISSN)1439-0396		fulltext		Wiley	serial								P
+Journal Of Applied Crystallography	0021-8898	1600-5767	2013						http://onlinelibrary.wiley.com/journal/10.1111/(ISSN)1600-5767		10.1111/(ISSN)1600-5767		fulltext		Wiley	serial								P
+Journal Of Applied Ecology	0021-8901	1365-2664	1998	35					http://onlinelibrary.wiley.com/journal/10.1111/(ISSN)1365-2664		10.1111/(ISSN)1365-2664		fulltext		Wiley	serial								P
+Journal Of Applied Entomology	0931-2048	1439-0418	2013						http://onlinelibrary.wiley.com/journal/10.1111/(ISSN)1439-0418		10.1111/(ISSN)1439-0418		fulltext		Wiley	serial								P
+Journal Of Applied Ichthyology	0175-8659	1439-0426	2013						http://onlinelibrary.wiley.com/journal/10.1111/(ISSN)1439-0426		10.1111/(ISSN)1439-0426		fulltext		Wiley	serial								P
+Journal Of Applied Microbiology	1364-5072	1365-2672	1997	82					http://onlinelibrary.wiley.com/journal/10.1111/(ISSN)1365-2672		10.1111/(ISSN)1365-2672		fulltext		Wiley	serial								P
+Journal Of Applied Polymer Science	0021-8995	1097-4628	2013						http://onlinelibrary.wiley.com/journal/10.1002/(ISSN)1097-4628		10.1002/(ISSN)1097-4628		fulltext		Wiley	serial								P
+Journal Of Applied Social Psychology	0021-9029	1559-1816	2013						http://onlinelibrary.wiley.com/journal/10.1111/(ISSN)1559-1816		10.1111/(ISSN)1559-1816		fulltext		Wiley	serial								P
+Journal Of Applied Toxicology	0260-437X	1099-1263	2013						http://onlinelibrary.wiley.com/journal/10.1002/(ISSN)1099-1263		10.1002/(ISSN)1099-1263		fulltext		Wiley	serial								P
+Journal Of Avian Biology	0908-8857	1600-048X	2013						http://onlinelibrary.wiley.com/journal/10.1111/(ISSN)1600-048X		10.1111/(ISSN)1600-048X		fulltext		Wiley	serial								P
+Journal Of Basic Microbiology	0233-111X	1521-4028	1998	38					http://onlinelibrary.wiley.com/journal/10.1002/(ISSN)1521-4028		10.1002/(ISSN)1521-4028		fulltext		Wiley	serial								P
+Journal Of Biochemical And Molecular Toxicology	1095-6670	1099-0461	2013						http://onlinelibrary.wiley.com/journal/10.1002/(ISSN)1099-0461		10.1002/(ISSN)1099-0461		fulltext		Wiley	serial								P
+Journal Of Biogeography	0305-0270	1365-2699	2013						http://onlinelibrary.wiley.com/journal/10.1111/(ISSN)1365-2699		10.1111/(ISSN)1365-2699		fulltext		Wiley	serial								P
+Journal Of Biomedical Materials Research Part A	1549-3296	1552-4965	2013						http://onlinelibrary.wiley.com/journal/10.1002/(ISSN)1552-4965		10.1002/(ISSN)1552-4965		fulltext		Wiley	serial								P
+Journal Of Biomedical Materials Research Part B: Applied Biomaterials	1552-4973	1552-4981	2013						http://onlinelibrary.wiley.com/journal/10.1002/(ISSN)1552-4981		10.1002/(ISSN)1552-4981		fulltext		Wiley	serial								P
+Journal Of Cellular Biochemistry	0730-2312	1097-4644	2013						http://onlinelibrary.wiley.com/journal/10.1002/(ISSN)1097-4644		10.1002/(ISSN)1097-4644		fulltext		Wiley	serial								P
+Journal Of Cellular Physiology	0021-9541	1097-4652	2013						http://onlinelibrary.wiley.com/journal/10.1002/(ISSN)1097-4652		10.1002/(ISSN)1097-4652		fulltext		Wiley	serial								P
+Journal Of Chemical Technology And Biotechnology	0268-2575	1097-4660	2013						http://onlinelibrary.wiley.com/journal/10.1002/(ISSN)1097-4660		10.1002/(ISSN)1097-4660		fulltext		Wiley	serial								P
+Journal Of Chemometrics	0886-9383	1099-128X	2013						http://onlinelibrary.wiley.com/journal/10.1002/(ISSN)1099-128X		10.1002/(ISSN)1099-128X		fulltext		Wiley	serial								P
+Journal Of Comparative Neurology	0021-9967	1096-9861	2013						http://onlinelibrary.wiley.com/journal/10.1002/(ISSN)1096-9861		10.1002/(ISSN)1096-9861		fulltext		Wiley	serial								P
+Journal Of Computational Chemistry	0192-8651	1096-987X	2013						http://onlinelibrary.wiley.com/journal/10.1002/(ISSN)1096-987X		10.1002/(ISSN)1096-987X		fulltext		Wiley	serial								P
+Journal Of Ecology	0022-0477	1365-2745	1998	86					http://onlinelibrary.wiley.com/journal/10.1111/(ISSN)1365-2745		10.1111/(ISSN)1365-2745		fulltext		Wiley	serial								P
+Journal Of Engineering Education	1069-4730	1524-4873	2013						http://onlinelibrary.wiley.com/journal/10.1002/(ISSN)2168-9830/issues		10.1002/(ISSN)2168-9830		fulltext		Wiley	serial								P
+Journal Of Eukaryotic Microbiology	1066-5234	1550-7408	2013						http://onlinelibrary.wiley.com/journal/10.1111/(ISSN)1550-7408		10.1111/(ISSN)1550-7408		fulltext		Wiley	serial								P
+Journal Of Evolutionary Biology	1010-061X	1420-9101	1997	10					http://onlinelibrary.wiley.com/journal/10.1111/(ISSN)1420-9101		10.1111/(ISSN)1420-9101		fulltext		Wiley	serial								P
+Journal Of Experimental Zoology Part A: Ecological Genetics And Physiology	1932-5223	1932-5231	2013						http://onlinelibrary.wiley.com/journal/10.1002/(ISSN)1932-5223		10.1002/(ISSN)1932-5223		fulltext		Wiley	serial								P
+Journal Of Experimental Zoology Part B: Molecular And Developmental Evolution	1552-5007	1552-5015	2013						http://onlinelibrary.wiley.com/journal/10.1002/(ISSN)1552-5015		10.1002/(ISSN)1552-5015		fulltext		Wiley	serial								P
+Journal Of Field Ornithology	0273-8570	1557-9263	2013						http://onlinelibrary.wiley.com/journal/10.1111/(ISSN)1557-9263		10.1111/(ISSN)1557-9263		fulltext		Wiley	serial								P
+Journal Of Field Robotics	1556-4959	1556-4967	2013						http://onlinelibrary.wiley.com/journal/10.1002/(ISSN)1556-4967		10.1002/(ISSN)1556-4967		fulltext		Wiley	serial								P
+Journal Of Fish Biology	0022-1112	1095-8649	2013						http://onlinelibrary.wiley.com/journal/10.1111/(ISSN)1095-8649		10.1111/(ISSN)1095-8649		fulltext		Wiley	serial								P
+Journal Of Fish Diseases	0140-7775	1365-2761	2013						http://onlinelibrary.wiley.com/journal/10.1111/(ISSN)1365-2761		10.1111/(ISSN)1365-2761		fulltext		Wiley	serial								P
+Journal Of Flood Risk Management		1753-318X	2014						http://onlinelibrary.wiley.com/journal/10.1111/(ISSN)1753-318X		10.1111/(ISSN)1753-318X		fulltext		Wiley	serial								P
+Journal Of Food Biochemistry	0145-8884	1745-4514	2013						http://onlinelibrary.wiley.com/journal/10.1111/(ISSN)1745-4514		10.1111/(ISSN)1745-4514		fulltext		Wiley	serial								P
+Journal Of Food Process Engineering	0145-8876	1745-4530	2013						http://onlinelibrary.wiley.com/journal/10.1111/(ISSN)1745-4530		10.1111/(ISSN)1745-4530		fulltext		Wiley	serial								P
+Journal Of Food Processing And Preservation	0145-8892	1745-4549	2013						http://onlinelibrary.wiley.com/journal/10.1111/(ISSN)1745-4549		10.1111/(ISSN)1745-4549		fulltext		Wiley	serial								P
+Journal Of Food Safety	0149-6085	1745-4565	2013						http://onlinelibrary.wiley.com/journal/10.1111/(ISSN)1745-4565		10.1111/(ISSN)1745-4565		fulltext		Wiley	serial								P
+Journal Of Food Science	0022-1147	1750-3841	2013						http://onlinelibrary.wiley.com/journal/10.1111/(ISSN)1750-3841		10.1111/(ISSN)1750-3841		fulltext		Wiley	serial								P
+Journal Of Food Science Education		1541-4329	2002	1					http://onlinelibrary.wiley.com/journal/10.1111/(ISSN)1541-4329		10.1111/(ISSN)1541-4329		fulltext		Wiley	serial								P
+Journal Of Geophysical Research: Atmospheres	2169-897X	2169-8996	2014						http://agupubs.onlinelibrary.wiley.com/hub/jgr/journal/10.1002/(ISSN)2169-8996/		10.1002/(ISSN)2169-8996		fulltext		Wiley	serial								P
+Journal Of Geophysical Research: Biogeosciences	2169-8953	2169-8961	2014						http://agupubs.onlinelibrary.wiley.com/hub/jgr/journal/10.1002/(ISSN)2169-8961/		10.1002/(ISSN)2169-8961		fulltext		Wiley	serial								P
+Journal Of Geophysical Research: Earth Surface	2169-9003	2169-9011	2014						http://agupubs.onlinelibrary.wiley.com/agu/jgr/journal/10.1002/(ISSN)2169-9011/		10.1002/(ISSN)2169-9011		fulltext		Wiley	serial								P
+Journal Of Geophysical Research: Oceans	2169-9275	2169-9291	2014						http://agupubs.onlinelibrary.wiley.com/agu/jgr/journal/10.1002/(ISSN)2169-9291/		10.1002/(ISSN)2169-9291		fulltext		Wiley	serial								P
+Journal Of Geophysical Research: Planets	2169-9097	2169-9100	2014						http://agupubs.onlinelibrary.wiley.com/agu/jgr/journal/10.1002/(ISSN)2169-9100/		10.1002/(ISSN)2169-9100		fulltext		Wiley	serial								P
+Journal Of Geophysical Research: Solid Earth	2169-9313	2169-9356	2014						http://agupubs.onlinelibrary.wiley.com/hub/jgr/journal/10.1002/(ISSN)2169-9356/		10.1002/(ISSN)2169-9356		fulltext		Wiley	serial								P
+Journal Of Geophysical Research: Space Physics	2169-9380	2169-9402	2014						http://agupubs.onlinelibrary.wiley.com/hub/jgr/journal/10.1002/(ISSN)2169-9402/		10.1002/(ISSN)2169-9402		fulltext		Wiley	serial								P
+Journal Of Graph Theory	0364-9024	1097-0118	2013						http://onlinelibrary.wiley.com/journal/10.1002/(ISSN)1097-0118		10.1002/(ISSN)1097-0118		fulltext		Wiley	serial								P
+Journal Of Industrial Ecology	1088-1980	1530-9290	2013						http://onlinelibrary.wiley.com/journal/10.1111/(ISSN)1530-9290		10.1111/(ISSN)1530-9290		fulltext		Wiley	serial								P
+Journal Of Integrative Plant Biology	1672-9072	1744-7909	2013						http://onlinelibrary.wiley.com/journal/10.1111/(ISSN)1744-7909		10.1111/(ISSN)1744-7909		fulltext		Wiley	serial								P
+Journal Of Labelled Compounds And Radiopharmaceuticals	0362-4803	1099-1344	2013						http://onlinelibrary.wiley.com/journal/10.1002/(ISSN)1099-1344		10.1002/(ISSN)1099-1344		fulltext		Wiley	serial								P
+Journal Of Mass Spectrometry	1076-5174	1096-9888	2013						http://onlinelibrary.wiley.com/journal/10.1002/(ISSN)1096-9888c		10.1002/(ISSN)1096-9888c		fulltext		Wiley	serial								P
+Journal Of Metamorphic Geology	0263-4929	1525-1314	2013						http://onlinelibrary.wiley.com/journal/10.1111/(ISSN)1525-1314		10.1111/(ISSN)1525-1314		fulltext		Wiley	serial								P
+Journal Of Microscopy	0022-2720	1365-2818	1997	185					http://onlinelibrary.wiley.com/journal/10.1111/(ISSN)1365-2818		10.1111/(ISSN)1365-2818		fulltext		Wiley	serial								P
+Journal Of Molecular Recognition	0952-3499	1099-1352	2013						http://onlinelibrary.wiley.com/journal/10.1002/(ISSN)1099-1352		10.1002/(ISSN)1099-1352		fulltext		Wiley	serial								P
+Journal Of Morphology	0362-2525	1097-4687	2013						http://onlinelibrary.wiley.com/journal/10.1002/(ISSN)1097-4687		10.1002/(ISSN)1097-4687		fulltext		Wiley	serial								P
+Journal Of Neurobiology	0022-3034	1097-4695	1996			2006			http://onlinelibrary.wiley.com/journal/10.1002/(ISSN)1932-846X		10.1002/(ISSN)1932-846X		fulltext		Wiley	serial								P
+Journal Of Neuroscience Research	0360-4012	1097-4547	2013						http://onlinelibrary.wiley.com/journal/10.1002/(ISSN)1097-4547		10.1002/(ISSN)1097-4547		fulltext		Wiley	serial								P
+Journal Of Peptide Science	1075-2617	1099-1387	2013						http://onlinelibrary.wiley.com/journal/10.1002/(ISSN)1099-1387		10.1002/(ISSN)1099-1387		fulltext		Wiley	serial								P
+Journal Of Petroleum Geology	0141-6421	1747-5457	2013						http://onlinelibrary.wiley.com/journal/10.1111/(ISSN)1747-5457		10.1111/(ISSN)1747-5457		fulltext		Wiley	serial								P
+Journal Of Phycology	0022-3646	1529-8817	2013						http://onlinelibrary.wiley.com/journal/10.1111/(ISSN)1529-8817		10.1111/(ISSN)1529-8817		fulltext		Wiley	serial								P
+Journal Of Physical Organic Chemistry	0894-3230	1099-1395	2013						http://onlinelibrary.wiley.com/journal/10.1002/(ISSN)1099-1395		10.1002/(ISSN)1099-1395		fulltext		Wiley	serial								P
+Journal Of Phytopathology	0931-1785	1439-0434	2013						http://onlinelibrary.wiley.com/journal/10.1111/(ISSN)1439-0434		10.1111/(ISSN)1439-0434		fulltext		Wiley	serial								P
+Journal Of Plant Nutrition And Soil Science	1436-8730	1522-2624	1999	162					http://onlinelibrary.wiley.com/journal/10.1002/(ISSN)1522-2624		10.1002/(ISSN)1522-2624		fulltext		Wiley	serial								P
+Journal Of Polymer Science Part A: Polymer Chemistry	0887-624X	1099-0518	2013						http://onlinelibrary.wiley.com/journal/10.1002/(ISSN)1099-0518		10.1002/(ISSN)1099-0518		fulltext		Wiley	serial								P
+Journal Of Polymer Science Part B: Polymer Physics	0887-6266	1099-0488	2013						http://onlinelibrary.wiley.com/journal/10.1002/(ISSN)1099-0488		10.1002/(ISSN)1099-0488		fulltext		Wiley	serial								P
+Journal Of Quaternary Science	0267-8179	1099-1417	2013						http://onlinelibrary.wiley.com/journal/10.1002/(ISSN)1099-1417		10.1002/(ISSN)1099-1417		fulltext		Wiley	serial								P
+Journal Of Raman Spectroscopy	0377-0486	1097-4555	2013						http://onlinelibrary.wiley.com/journal/10.1002/(ISSN)1097-4555		10.1002/(ISSN)1097-4555		fulltext		Wiley	serial								P
+Journal Of Research In Science Teaching	0022-4308	1098-2736	2013						http://onlinelibrary.wiley.com/journal/10.1002/(ISSN)1098-2736		10.1002/(ISSN)1098-2736		fulltext		Wiley	serial								P
+Journal Of Sensory Studies	0887-8250	1745-459X	2013						http://onlinelibrary.wiley.com/journal/10.1111/(ISSN)1745-459X		10.1111/(ISSN)1745-459X		fulltext		Wiley	serial								P
+Journal Of Separation Science	1615-9306	1615-9314	2001						http://onlinelibrary.wiley.com/journal/10.1002/(ISSN)1615-9314		10.1002/(ISSN)1615-9314		fulltext		Wiley	serial								P
+Journal Of Small Animal Practice	0022-4510	1748-5827	2013						http://onlinelibrary.wiley.com/journal/10.1111/(ISSN)1748-5827		10.1111/(ISSN)1748-5827		fulltext		Wiley	serial								P
+Journal Of Software: Evolution And Process	2047-7473	2047-7481	2013						http://onlinelibrary.wiley.com/journal/10.1002/(ISSN)2047-7481/issues		10.1002/(ISSN)2047-7481		fulltext		Wiley	serial								P
+Journal Of Synchrotron Radiation	0909-0495	1600-5775	2013						http://onlinelibrary.wiley.com/journal/10.1111/(ISSN)1600-5775		10.1111/(ISSN)1600-5775		fulltext		Wiley	serial								P
+Journal Of Systematics And Evolution	1674-4918	1759-6831	2013						http://onlinelibrary.wiley.com/journal/10.1111/(ISSN)1759-6831		10.1111/(ISSN)1759-6831		fulltext		Wiley	serial								P
+Journal Of Texture Studies	0022-4901	1745-4603	2013						http://onlinelibrary.wiley.com/journal/10.1111/(ISSN)1745-4603		10.1111/(ISSN)1745-4603		fulltext		Wiley	serial								P
+Journal Of The American Ceramic Society	0002-7820	1551-2916	2013						http://onlinelibrary.wiley.com/journal/10.1111/(ISSN)1551-2916		10.1111/(ISSN)1551-2916		fulltext		Wiley	serial								P
+Journal Of The American Society For Information Science And Technology	1532-2882	1532-2890	2013						http://onlinelibrary.wiley.com/journal/10.1002/(ISSN)1097-4571		10.1002/(ISSN)1097-4571		fulltext		Wiley	serial								P
+Journal Of The Chinese Chemical Society	0009-4536	2192-6549	1998	58					http://onlinelibrary.wiley.com/journal/10.1002/(ISSN)2192-6549		10.1002/(ISSN)2192-6549		fulltext		Wiley	serial								P
+Journal Of The Institute Of Brewing	0046-9750	2050-0416	2013						http://onlinelibrary.wiley.com/journal/10.1002/(ISSN)2050-0416		10.1002/(ISSN)2050-0416		fulltext		Wiley	serial								P
+Journal Of The London Mathematical Society	0024-6107	1469-7750	1997	55					http://onlinelibrary.wiley.com/journal/10.1112/(ISSN)1469-7750		10.1112/(ISSN)1469-7750		fulltext		Wiley	serial								P
+Journal Of The Royal Statistical Society: Series A (statistics In Society)	0964-1998	1467-985X	2013						http://onlinelibrary.wiley.com/journal/10.1111/(ISSN)1467-985X		10.1111/(ISSN)1467-985X		fulltext		Wiley	serial								P
+Journal Of The Royal Statistical Society: Series B (statistical Methodology)	1369-7412	1467-9868	2013						http://onlinelibrary.wiley.com/journal/10.1111/(ISSN)1467-9868		10.1111/(ISSN)1467-9868		fulltext		Wiley	serial								P
+Journal Of The Royal Statistical Society: Series C (applied Statistics)	0035-9254	1467-9876	2013						http://onlinelibrary.wiley.com/journal/10.1111/(ISSN)1467-9876		10.1111/(ISSN)1467-9876		fulltext		Wiley	serial								P
+Journal Of The Science Of Food And Agriculture	0022-5142	1097-0010	2013						http://onlinelibrary.wiley.com/journal/10.1002/(ISSN)1097-0010		10.1002/(ISSN)1097-0010		fulltext		Wiley	serial								P
+Journal Of The Society For Information Display	1071-0922	1938-3657	2013						http://onlinelibrary.wiley.com/journal/10.1002/(ISSN)1938-3657/issues		10.1002/(ISSN)1938-3657		fulltext		Wiley	serial								P
+Journal Of The World Aquaculture Society	0893-8849	1749-7345	2013						http://onlinelibrary.wiley.com/journal/10.1111/(ISSN)1749-7345		10.1111/(ISSN)1749-7345		fulltext		Wiley	serial								P
+Journal Of Time Series Analysis	0143-9782	1467-9892	2013						http://onlinelibrary.wiley.com/journal/10.1111/(ISSN)1467-9892		10.1111/(ISSN)1467-9892		fulltext		Wiley	serial								P
+Journal Of Vegetation Science	1100-9233	1654-1103	2013						http://onlinelibrary.wiley.com/journal/10.1111/(ISSN)1654-1103		10.1111/(ISSN)1654-1103		fulltext		Wiley	serial								P
+Journal Of Veterinary Emergency And Critical Care	1479-3261	1476-4431	2013						http://onlinelibrary.wiley.com/journal/10.1111/(ISSN)1476-4431		10.1111/(ISSN)1476-4431		fulltext		Wiley	serial								P
+Journal Of Veterinary Pharmacology And Therapeutics	0140-7783	1365-2885	2013						http://onlinelibrary.wiley.com/journal/10.1111/(ISSN)1365-2885		10.1111/(ISSN)1365-2885		fulltext		Wiley	serial								P
+Journal Of Vinyl And Additive Technology	1083-5601	1548-0585	2013						http://onlinelibrary.wiley.com/journal/10.1002/(ISSN)1548-0585/issues		10.1002/(ISSN)1548-0585		fulltext		Wiley	serial								P
+Journal Of Zoological Systematics And Evolutionary Research	0947-5745	1439-0469	2013						http://onlinelibrary.wiley.com/journal/10.1111/(ISSN)1439-0469		10.1111/(ISSN)1439-0469		fulltext		Wiley	serial								P
+Journal Of Zoology	0952-8369	1469-7998	2013						http://onlinelibrary.wiley.com/journal/10.1111/(ISSN)1469-7998/issues		10.1111/(ISSN)1469-7998		fulltext		Wiley	serial								P
+Lakes & Reservoirs: Research & Management	1320-5331	1440-1770	2013						http://onlinelibrary.wiley.com/journal/10.1111/(ISSN)1440-1770		10.1111/(ISSN)1440-1770		fulltext		Wiley	serial								P
+Land Degradation & Development	1085-3278	1099-145X	2013						http://onlinelibrary.wiley.com/journal/10.1002/(ISSN)1099-145X		10.1002/(ISSN)1099-145X		fulltext		Wiley	serial								P
+Laser & Photonics Reviews	1863-8880	1863-8899	2007	1					http://onlinelibrary.wiley.com/journal/10.1002/(ISSN)1863-8899		10.1002/(ISSN)1863-8899		fulltext		Wiley	serial								P
+Lethaia	0024-1164	1502-3931	2013						http://onlinelibrary.wiley.com/journal/10.1111/(ISSN)1502-3931		10.1111/(ISSN)1502-3931		fulltext		Wiley	serial								P
+Letters In Applied Microbiology	0266-8254	1472-765X	1997	24					http://onlinelibrary.wiley.com/journal/10.1111/(ISSN)1472-765X		10.1111/(ISSN)1472-765X		fulltext		Wiley	serial								P
+Limnology & Oceanography: Bulletin	1539-607X	1539-6088	2013						http://aslopubs.onlinelibrary.wiley.com/hub/journal/10.1002/(ISSN)1539-6088/issues/2015/		10.1002/(ISSN)1539-6088		fulltext		Wiley	serial								P
+Limnology & Oceanography: Methods	1541-5856	1541-5856	2013						http://aslopubs.onlinelibrary.wiley.com/hub/journal/10.1002/(ISSN)1541-5856/issues/		10.1002/(ISSN)1541-5856/		fulltext		Wiley	serial								P
+Limnology And Oceanography	0024-3590	1939-5590	1996	41					http://onlinelibrary.wiley.com/journal/10.1002/(ISSN)1939-5590		10.1002/(ISSN)1939-5590		fulltext		Wiley	serial								P
+Lipid / Fett	0931-5985	1521-4133	1998			1999			http://onlinelibrary.wiley.com/journal/10.1002/(ISSN)1438-9312		10.1002/(ISSN)1438-9312		fulltext		Wiley	serial								P
+Lipid Technology	0956-666X	1863-5377	2006	18					http://onlinelibrary.wiley.com/journal/10.1002/(ISSN)1863-5377		10.1002/(ISSN)1863-5377		fulltext		Wiley	serial								P
+Lubrication Science	0954-0075	1557-6833	2013						http://onlinelibrary.wiley.com/journal/10.1002/(ISSN)1557-6833		10.1002/(ISSN)1557-6833		fulltext		Wiley	serial								P
+Luminescence	1522-7235	1522-7243	2013						http://onlinelibrary.wiley.com/journal/10.1002/(ISSN)1522-7243		10.1002/(ISSN)1522-7243		fulltext		Wiley	serial								P
+Macromolecular Bioscience	1616-5187	1616-5195	2001	1					http://onlinelibrary.wiley.com/journal/10.1002/(ISSN)1616-5195		10.1002/(ISSN)1616-5195		fulltext		Wiley	serial								P
+Macromolecular Chemistry And Physics	1022-1352	1521-3935	1998	199					http://onlinelibrary.wiley.com/journal/10.1002/(ISSN)1521-3935		10.1002/(ISSN)1521-3935		fulltext		Wiley	serial								P
+Macromolecular Materials & Engineering	1438-7492	1439-2054	2000						http://onlinelibrary.wiley.com/journal/10.1002/(ISSN)1439-2054		10.1002/(ISSN)1439-2054		fulltext		Wiley	serial								P
+Macromolecular Rapid Communications	1022-1336	1521-3927	1998	20					http://onlinelibrary.wiley.com/journal/10.1002/(ISSN)1521-3927		10.1002/(ISSN)1521-3927		fulltext		Wiley	serial								P
+Macromolecular Reaction Engineering	1862-832X	1862-8338	2007	1					http://onlinelibrary.wiley.com/journal/10.1002/(ISSN)1862-8338		10.1002/(ISSN)1862-8338		fulltext		Wiley	serial								P
+Macromolecular Symposia	1022-1360	1521-3900	2000	149					http://onlinelibrary.wiley.com/journal/10.1002/(ISSN)1521-3900		10.1002/(ISSN)1521-3900		fulltext		Wiley	serial								P
+Macromolecular Theory And Simulations	1022-1344	1521-3919	1998	8					http://onlinelibrary.wiley.com/journal/10.1002/(ISSN)1521-3919		10.1002/(ISSN)1521-3919		fulltext		Wiley	serial								P
+Magnetic Resonance In Chemistry	0749-1581	1097-458X	2013						http://onlinelibrary.wiley.com/journal/10.1002/(ISSN)1097-458X		10.1002/(ISSN)1097-458X		fulltext		Wiley	serial								P
+Mammal Review	0305-1838	1365-2907	2013						http://onlinelibrary.wiley.com/journal/10.1111/(ISSN)1365-2907		10.1111/(ISSN)1365-2907		fulltext		Wiley	serial								P
+Marine Ecology	0173-9565	1439-0485	2013						http://onlinelibrary.wiley.com/journal/10.1111/(ISSN)1439-0485		10.1111/(ISSN)1439-0485		fulltext		Wiley	serial								P
+Marine Mammal Science	0824-0469	1748-7692	2013						http://onlinelibrary.wiley.com/journal/10.1111/(ISSN)1748-7692		10.1111/(ISSN)1748-7692		fulltext		Wiley	serial								P
+Mass Spectrometry Reviews	0277-7037	1098-2787	2013						http://onlinelibrary.wiley.com/journal/10.1002/(ISSN)1098-2787		10.1002/(ISSN)1098-2787		fulltext		Wiley	serial								P
+Materials And Corrosion/werkstoffe Und Korrosion	0947-5117	1521-4176	1998	49					http://onlinelibrary.wiley.com/journal/10.1002/(ISSN)1521-4176		10.1002/(ISSN)1521-4176		fulltext		Wiley	serial								P
+Materialwissenschaft Und Werkstofftechnik	0933-5137	1521-4052	1999	30					http://onlinelibrary.wiley.com/journal/10.1002/(ISSN)1521-4052		10.1002/(ISSN)1521-4052		fulltext		Wiley	serial								P
+Mathematical Methods In The Applied Sciences	0170-4214	1099-1476	2013						http://onlinelibrary.wiley.com/journal/10.1002/(ISSN)1099-1476		10.1002/(ISSN)1099-1476		fulltext		Wiley	serial								P
+Mathematische Nachrichten	0025-584X	1522-2616	2000	209					http://onlinelibrary.wiley.com/journal/10.1002/(ISSN)1522-2616		10.1002/(ISSN)1522-2616		fulltext		Wiley	serial								P
+Mauerwerk - European Journal Of Masonry	1432-3427	1437-1022	2001	5					http://onlinelibrary.wiley.com/journal/10.1002/(ISSN)1437-1022		10.1002/(ISSN)1437-1022		fulltext		Wiley	serial								P
+Meteoritics & Planetary Science	1086-9379	1945-5100	2013						http://onlinelibrary.wiley.com/journal/10.1111/(ISSN)1945-5100		10.1111/(ISSN)1945-5100		fulltext		Wiley	serial								P
+Meteorological Applications	1350-4827	1469-8080	1997	4					http://onlinelibrary.wiley.com/journal/10.1002/(ISSN)1469-8080		10.1002/(ISSN)1469-8080		fulltext		Wiley	serial								P
+Microbiology And Immunology	0385-5600	1348-0421	2013						http://onlinelibrary.wiley.com/journal/10.1111/(ISSN)1348-0421		10.1111/(ISSN)1348-0421		fulltext		Wiley	serial								P
+Microscopy Research And Technique	1059-910X	1097-0029	2013						http://onlinelibrary.wiley.com/journal/10.1002/(ISSN)1097-0029		10.1002/(ISSN)1097-0029		fulltext		Wiley	serial								P
+Microwave And Optical Technology Letters	0895-2477	1098-2760	2013						http://onlinelibrary.wiley.com/journal/10.1002/(ISSN)1098-2760		10.1002/(ISSN)1098-2760		fulltext		Wiley	serial								P
+Mlq- Mathematical Logic Quarterly	0942-5616	1521-3870	2000	46					http://onlinelibrary.wiley.com/journal/10.1002/(ISSN)1521-3870		10.1002/(ISSN)1521-3870		fulltext		Wiley	serial								P
+Molecular Ecology	0962-1083	1365-294X	2013						http://onlinelibrary.wiley.com/journal/10.1111/(ISSN)1365-294X		10.1111/(ISSN)1365-294X		fulltext		Wiley	serial								P
+Molecular Ecology Resources	1755-098X	1755-0998	2013						http://onlinelibrary.wiley.com/journal/10.1111/(ISSN)1755-0998		10.1111/(ISSN)1755-0998		fulltext		Wiley	serial								P
+Molecular Microbiology	0950-382X	1365-2958	1997	23					http://onlinelibrary.wiley.com/journal/10.1111/(ISSN)1365-2958		10.1111/(ISSN)1365-2958		fulltext		Wiley	serial								P
+Molecular Plant Pathology	1464-6722	1364-3703	2013						http://onlinelibrary.wiley.com/journal/10.1111/(ISSN)1364-3703		10.1111/(ISSN)1364-3703		fulltext		Wiley	serial								P
+Molecular Reproduction And Development	1040-452X	1098-2795	2013						http://onlinelibrary.wiley.com/journal/10.1002/(ISSN)1098-2795		10.1002/(ISSN)1098-2795		fulltext		Wiley	serial								P
+Nahrung	0027-769X	1521-3803	1998			2002			http://onlinelibrary.wiley.com/journal/10.1002/(ISSN)1613-4133		10.1002/(ISSN)1613-4133		fulltext		Wiley	serial								P
+Natural Resource Modeling	0890-8575	1939-7445	2013						http://onlinelibrary.wiley.com/journal/10.1111/(ISSN)1939-7445		10.1111/(ISSN)1939-7445		fulltext		Wiley	serial								P
+Naval Research Logistics (nrl)	0894-069X	1520-6750	2013						http://onlinelibrary.wiley.com/journal/10.1002/(ISSN)1520-6750		10.1002/(ISSN)1520-6750		fulltext		Wiley	serial								P
+Networks	0028-3045	1097-0037	2013						http://onlinelibrary.wiley.com/journal/10.1002/(ISSN)1097-0037		10.1002/(ISSN)1097-0037		fulltext		Wiley	serial								P
+New Phytologist	0028-646X	1469-8137	1997	135					http://onlinelibrary.wiley.com/journal/10.1111/(ISSN)1469-8137		10.1111/(ISSN)1469-8137		fulltext		Wiley	serial								P
+Nordic Journal Of Botany	0107-055X		2013						http://onlinelibrary.wiley.com/journal/10.1111/(ISSN)1756-1051/issues		10.1111/(ISSN)1756-1051		fulltext		Wiley	serial								P
+Numerical Linear Algebra With Applications	1070-5325	1099-1506	2013						http://onlinelibrary.wiley.com/journal/10.1002/(ISSN)1099-1506		10.1002/(ISSN)1099-1506		fulltext		Wiley	serial								P
+Numerical Methods For Partial Differential Equations	0749-159X	1098-2426	2013						http://onlinelibrary.wiley.com/journal/10.1002/(ISSN)1098-2426		10.1002/(ISSN)1098-2426		fulltext		Wiley	serial								P
+Oikos	0030-1299	1600-0706	2013						http://onlinelibrary.wiley.com/journal/10.1111/(ISSN)1600-0706		10.1111/(ISSN)1600-0706		fulltext		Wiley	serial								P
+Oil And Energy Trends	0950-1045	1744-7992	2013						http://onlinelibrary.wiley.com/journal/10.1111/(ISSN)1744-7992		10.1111/(ISSN)1744-7992		fulltext		Wiley	serial								P
+Oil And Energy Trends: Annual Statistical Review	0953-1033	1746-9066	2013						http://onlinelibrary.wiley.com/journal/10.1111/(ISSN)1746-9066/issues		10.1111/(ISSN)1746-9066		fulltext		Wiley	serial								P
+Optimal Control Applications And Methods	0143-2087	1099-1514	2013						http://onlinelibrary.wiley.com/journal/10.1002/(ISSN)1099-1514		10.1002/(ISSN)1099-1514		fulltext		Wiley	serial								P
+Orthodontics & Craniofacial Research	1601-6335	1601-6343	2013						http://onlinelibrary.wiley.com/journal/10.1111/(ISSN)1601-6343		10.1111/(ISSN)1601-6343		fulltext		Wiley	serial								P
+Packaging Technology And Science	0894-3214	1099-1522	2013						http://onlinelibrary.wiley.com/journal/10.1002/(ISSN)1099-1522		10.1002/(ISSN)1099-1522		fulltext		Wiley	serial								P
+Palaeontology	0031-0239	1475-4983	1999	42					http://onlinelibrary.wiley.com/journal/10.1111/(ISSN)1475-4983		10.1111/(ISSN)1475-4983		fulltext		Wiley	serial								P
+Paleoceanography And Paleoclimatology	2572-4517	2572-4525	2015	1					http://agupubs.onlinelibrary.wiley.com/hub/journal/10.1002/(ISSN)1944-9186/		10.1002/(ISSN)1944-9186		fulltext		Wiley	serial								P
+Papers In Palaeontology		2056-2802	2013						http://onlinelibrary.wiley.com/journal/10.1002/(ISSN)2056-2802/issues		10.1002/(ISSN)2056-2802		fulltext		Wiley	serial								P
+Particle & Particle Systems Characterization	0934-0866	1521-4117	1998	15					http://onlinelibrary.wiley.com/journal/10.1002/(ISSN)1521-4117		10.1002/(ISSN)1521-4117		fulltext		Wiley	serial								P
+Peptide Science		2475-8817	2006	45					http://onlinelibrary.wiley.com/journal/10.1002/(ISSN)2475-8817		10.1002/(ISSN)2475-8817		fulltext		Wiley	serial								P
+Permafrost And Periglacial Processes	1045-6740	1099-1530	2013						http://onlinelibrary.wiley.com/journal/10.1002/(ISSN)1099-1530		10.1002/(ISSN)1099-1530		fulltext		Wiley	serial								P
+Pest Management Science	1526-498X	1526-4998	2013						http://onlinelibrary.wiley.com/journal/10.1002/(ISSN)1526-4998		10.1002/(ISSN)1526-4998		fulltext		Wiley	serial								P
+Pharmaceutical Statistics	1539-1604	1539-1612	2013						http://onlinelibrary.wiley.com/journal/10.1002/(ISSN)1539-1612		10.1002/(ISSN)1539-1612		fulltext		Wiley	serial								P
+Photochemistry And Photobiology	0031-8655	1751-1097	2013						http://onlinelibrary.wiley.com/journal/10.1111/(ISSN)1751-1097		10.1111/(ISSN)1751-1097		fulltext		Wiley	serial								P
+Phycological Research	1322-0829	1440-1835	2013						http://onlinelibrary.wiley.com/journal/10.1111/(ISSN)1440-1835		10.1111/(ISSN)1440-1835		fulltext		Wiley	serial								P
+Physica Status Solidi (a) Applied Research	0031-8965	1521-396X	1997			2004			http://onlinelibrary.wiley.com/journal/10.1002/(ISSN)1862-6319		10.1002/(ISSN)1862-6319		fulltext		Wiley	serial								P
+Physica Status Solidi (b) Basic Solid State Physics	0370-1972	1521-3951	1997	199					http://onlinelibrary.wiley.com/journal/10.1002/(ISSN)1521-3951		10.1002/(ISSN)1521-3951		fulltext		Wiley	serial								P
+Physica Status Solidi (c) Current Topics In Solid State Physics	1862-6351	1610-1642	2006						http://onlinelibrary.wiley.com/journal/10.1002/(ISSN)1610-1642a		10.1002/(ISSN)1610-1642a		fulltext		Wiley	serial								P
+Physica Status Solidi - Rapid Research Letters	1862-6254	1862-6270	2007	1					http://onlinelibrary.wiley.com/journal/10.1002/(ISSN)1862-6270		10.1002/(ISSN)1862-6270		fulltext		Wiley	serial								P
+Physik In Unserer Zeit (phiuz)	0031-9252	1521-3943	2000	31					http://onlinelibrary.wiley.com/journal/10.1002/(ISSN)1521-3943		10.1002/(ISSN)1521-3943		fulltext		Wiley	serial								P
+Physiologia Plantarum	0031-9317	1399-3054	2013						http://onlinelibrary.wiley.com/journal/10.1111/(ISSN)1399-3054		10.1111/(ISSN)1399-3054		fulltext		Wiley	serial								P
+Physiological Entomology	0307-6962	1365-3032	2013						http://onlinelibrary.wiley.com/journal/10.1111/(ISSN)1365-3032		10.1111/(ISSN)1365-3032		fulltext		Wiley	serial								P
+Physiotherapy Research International	1358-2267	1471-2865	2013						http://onlinelibrary.wiley.com/journal/10.1002/(ISSN)1471-2865		10.1002/(ISSN)1471-2865		fulltext		Wiley	serial								P
+Phytochemical Analysis	0958-0344		2013						http://onlinelibrary.wiley.com/journal/10.1002/(ISSN)1099-1565/issues		10.1002/(ISSN)1099-1565		fulltext		Wiley	serial								P
+Plant Biology	1435-8603	1438-8677	2013						http://onlinelibrary.wiley.com/journal/10.1111/(ISSN)1438-8677		10.1111/(ISSN)1438-8677		fulltext		Wiley	serial								P
+Plant Breeding	0179-9541	1439-0523	2013						http://onlinelibrary.wiley.com/journal/10.1111/(ISSN)1439-0523		10.1111/(ISSN)1439-0523		fulltext		Wiley	serial								P
+Plant Cell & Environment	0140-7791	1365-3040	1997	20					http://onlinelibrary.wiley.com/journal/10.1111/(ISSN)1365-3040		10.1111/(ISSN)1365-3040		fulltext		Wiley	serial								P
+Plant Pathology	0032-0862	1365-3059	1997	46					http://onlinelibrary.wiley.com/journal/10.1111/(ISSN)1365-3059		10.1111/(ISSN)1365-3059		fulltext		Wiley	serial								P
+Plant Species Biology	0913-557X	1442-1984	2013						http://onlinelibrary.wiley.com/journal/10.1111/(ISSN)1442-1984		10.1111/(ISSN)1442-1984		fulltext		Wiley	serial								P
+Plasma Processes And Polymers	1612-8850	1612-8869	2004	1					http://onlinelibrary.wiley.com/journal/10.1002/(ISSN)1612-8869		10.1002/(ISSN)1612-8869		fulltext		Wiley	serial								P
+Polymer Composites	0272-8397		2013						http://onlinelibrary.wiley.com/journal/10.1002/(ISSN)1548-0569/issues		10.1002/(ISSN)1548-0569		fulltext		Wiley	serial								P
+Polymer Engineering & Science	0032-3888	1548-2634	2013						http://onlinelibrary.wiley.com/journal/10.1002/(ISSN)1548-2634/issues		10.1002/(ISSN)1548-2634		fulltext		Wiley	serial								P
+Polymer International	0959-8103	1097-0126	2013						http://onlinelibrary.wiley.com/journal/10.1002/(ISSN)1097-0126		10.1002/(ISSN)1097-0126		fulltext		Wiley	serial								P
+Polymers For Advanced Technologies	1042-7147	1099-1581	2013						http://onlinelibrary.wiley.com/journal/10.1002/(ISSN)1099-1581		10.1002/(ISSN)1099-1581		fulltext		Wiley	serial								P
+Proceedings In Applied Mathematics & Mechanics	1617-7061	1617-7061	2002	1					http://onlinelibrary.wiley.com/journal/10.1002/(ISSN)1617-7061		10.1002/(ISSN)1617-7061		fulltext		Wiley	serial								P
+Proceedings Of The American Society For Information Science & Technology	0044-7870	2373-9231	2002	39					http://onlinelibrary.wiley.com/journal/10.1002/(ISSN)2373-9231		10.1002/(ISSN)2373-9231		fulltext		Wiley	serial								P
+Proceedings Of The London Mathematical Society	0024-6115	1460-244X	1997	74					http://onlinelibrary.wiley.com/journal/10.1112/(ISSN)1460-244X		10.1112/(ISSN)1460-244X		fulltext		Wiley	serial								P
+Process Safety Progress	1066-8527	1547-5913	2013						http://onlinelibrary.wiley.com/journal/10.1002/(ISSN)1547-5913		10.1002/(ISSN)1547-5913		fulltext		Wiley	serial								P
+Progress In Photovoltaics: Research And Applications	1062-7995	1099-159X	2013						http://onlinelibrary.wiley.com/journal/10.1002/(ISSN)1099-159X		10.1002/(ISSN)1099-159X		fulltext		Wiley	serial								P
+Propellants, Explosives, Pyrotechnics	0721-3115	1521-4087	1998	23					http://onlinelibrary.wiley.com/journal/10.1002/(ISSN)1521-4087		10.1002/(ISSN)1521-4087		fulltext		Wiley	serial								P
+Protein Science	0961-8368	1469-896X	1992	1					http://onlinelibrary.wiley.com/journal/10.1002/(ISSN)1469-896X		10.1002/(ISSN)1469-896X		fulltext		Wiley	serial								P
+Proteins: Structure, Function, And Bioinformatics	0887-3585	1097-0134	2013						http://onlinelibrary.wiley.com/journal/10.1002/(ISSN)1097-0134		10.1002/(ISSN)1097-0134		fulltext		Wiley	serial								P
+Proteomics	1615-9853	1615-9861	2001	1					http://onlinelibrary.wiley.com/journal/10.1002/(ISSN)1615-9861		10.1002/(ISSN)1615-9861		fulltext		Wiley	serial								P
+Psych Journal	2046-0252	2046-0260	2013						http://onlinelibrary.wiley.com/journal/10.1002/(ISSN)2046-0260/issues		10.1002/(ISSN)2046-0260		fulltext		Wiley	serial								P
+Quality And Reliability Engineering International	0748-8017	1099-1638	2013						http://onlinelibrary.wiley.com/journal/10.1002/(ISSN)1099-1638		10.1002/(ISSN)1099-1638		fulltext		Wiley	serial								P
+Quantitative Structure-activity Relationships	0931-8771	1521-3838	1998			2002			http://onlinelibrary.wiley.com/journal/10.1002/(ISSN)1868-1751		10.1002/(ISSN)1868-1751		fulltext		Wiley	serial								P
+Quarterly Journal Of The Royal Meteorological Society	0035-9009	1477-870X	2001						http://onlinelibrary.wiley.com/journal/10.1002/(ISSN)1477-870X		10.1002/(ISSN)1477-870X		fulltext		Wiley	serial								P
+Radio Science	0048-6604	1944-799X	2014						http://agupubs.onlinelibrary.wiley.com/agu/journal/10.1002/(ISSN)1944-799X/		10.1002/(ISSN)1944-799X		fulltext		Wiley	serial								P
+Random Structures & Algorithms	1042-9832	1098-2418	2013						http://onlinelibrary.wiley.com/journal/10.1002/(ISSN)1098-2418		10.1002/(ISSN)1098-2418		fulltext		Wiley	serial								P
+Rapid Communications In Mass Spectrometry	0951-4198	1097-0231	2013						http://onlinelibrary.wiley.com/journal/10.1002/(ISSN)1097-0231		10.1002/(ISSN)1097-0231		fulltext		Wiley	serial								P
+Reproduction In Domestic Animals	0936-6768	1439-0531	2013						http://onlinelibrary.wiley.com/journal/10.1111/(ISSN)1439-0531		10.1111/(ISSN)1439-0531		fulltext		Wiley	serial								P
+Resource Geology	1344-1698	1751-3928	2013						http://onlinelibrary.wiley.com/journal/10.1111/(ISSN)1751-3928		10.1111/(ISSN)1751-3928		fulltext		Wiley	serial								P
+Restoration Ecology	1061-2971	1526-100X	2013						http://onlinelibrary.wiley.com/journal/10.1111/(ISSN)1526-100X		10.1111/(ISSN)1526-100X		fulltext		Wiley	serial								P
+Reviews In Aquaculture	1753-5123	1753-5131	2013						http://onlinelibrary.wiley.com/journal/10.1111/(ISSN)1753-5131		10.1111/(ISSN)1753-5131		fulltext		Wiley	serial								P
+Reviews Of Geophysics	8755-1209	1944-9208	2014						http://agupubs.onlinelibrary.wiley.com/agu/journal/10.1002/(ISSN)1944-9208/		10.1002/(ISSN)1944-9208		fulltext		Wiley	serial								P
+River Research And Applications	1535-1459	1535-1467	2013						http://onlinelibrary.wiley.com/journal/10.1002/(ISSN)1535-1467		10.1002/(ISSN)1535-1467		fulltext		Wiley	serial								P
+Scandinavian Journal Of Statistics	0303-6898	1467-9469	2013						http://onlinelibrary.wiley.com/journal/10.1111/(ISSN)1467-9469		10.1111/(ISSN)1467-9469		fulltext		Wiley	serial								P
+Science Education	0036-8326	1098-237X	2013						http://onlinelibrary.wiley.com/journal/10.1002/(ISSN)1098-237X		10.1002/(ISSN)1098-237X		fulltext		Wiley	serial								P
+Sedimentology	0037-0746	1365-3091	2013						http://onlinelibrary.wiley.com/journal/10.1111/(ISSN)1365-3091		10.1111/(ISSN)1365-3091		fulltext		Wiley	serial								P
+Sid Symposium Digest Of Technical Papers	0097-966X	2154-6746	2013						http://onlinelibrary.wiley.com/journal/10.1002/(ISSN)2168-0159/issues		10.1002/(ISSN)2168-0159		fulltext		Wiley	serial								P
+Significance	1740-9705	1740-9713	2013						http://onlinelibrary.wiley.com/journal/10.1111/(ISSN)1740-9713		10.1111/(ISSN)1740-9713		fulltext		Wiley	serial								P
+Small	1613-6810	1613-6829	2005	1					http://onlinelibrary.wiley.com/journal/10.1002/(ISSN)1613-6829		10.1002/(ISSN)1613-6829		fulltext		Wiley	serial								P
+Software Testing, Verification And Reliability	0960-0833	1099-1689	2013						http://onlinelibrary.wiley.com/journal/10.1002/(ISSN)1099-1689		10.1002/(ISSN)1099-1689		fulltext		Wiley	serial								P
+Software: Practice And Experience	0038-0644	1097-024X	2013						http://onlinelibrary.wiley.com/journal/10.1002/(ISSN)1097-024X		10.1002/(ISSN)1097-024X		fulltext		Wiley	serial								P
+Soil Use And Management	0266-0032	1475-2743	2013						http://onlinelibrary.wiley.com/journal/10.1111/(ISSN)1475-2743		10.1111/(ISSN)1475-2743		fulltext		Wiley	serial								P
+Space Weather		1542-7390	2014						http://agupubs.onlinelibrary.wiley.com/hub/journal/10.1002/(ISSN)1542-7390/		10.1002/(ISSN)1542-7390		fulltext		Wiley	serial								P
+Stahlbau	0038-9145	1437-1049	1998	67					http://onlinelibrary.wiley.com/journal/10.1002/(ISSN)1437-1049		10.1002/(ISSN)1437-1049		fulltext		Wiley	serial								P
+Starch / Staerke	0038-9056	1521-379X	1998	50					http://onlinelibrary.wiley.com/journal/10.1002/(ISSN)1521-379X		10.1002/(ISSN)1521-379X		fulltext		Wiley	serial								P
+Statistica Neerlandica	0039-0402	1467-9574	2013						http://onlinelibrary.wiley.com/journal/10.1111/(ISSN)1467-9574		10.1111/(ISSN)1467-9574		fulltext		Wiley	serial								P
+Statistical Analysis And Data Mining	1932-1864	1932-1872	2013						http://onlinelibrary.wiley.com/journal/10.1002/(ISSN)1932-1872		10.1002/(ISSN)1932-1872		fulltext		Wiley	serial								P
+Statistics In Medicine	0277-6715	1097-0258	2013						http://onlinelibrary.wiley.com/journal/10.1002/(ISSN)1097-0258		10.1002/(ISSN)1097-0258		fulltext		Wiley	serial								P
+Steel Construction - Design And Research	1867-0520	1867-0539	2008	1					http://onlinelibrary.wiley.com/journal/10.1002/(ISSN)1867-0539		10.1002/(ISSN)1867-0539		fulltext		Wiley	serial								P
+Steel Research International	1611-3683	1869-344X	2010	81					http://onlinelibrary.wiley.com/journal/10.1002/(ISSN)1869-344X		10.1002/(ISSN)1869-344X		fulltext		Wiley	serial								P
+Strain	0039-2103	1475-1305	2013						http://onlinelibrary.wiley.com/journal/10.1111/(ISSN)1475-1305		10.1111/(ISSN)1475-1305		fulltext		Wiley	serial								P
+Structural Concrete	1464-4177	1751-7648	2011	12					http://onlinelibrary.wiley.com/journal/10.1002/(ISSN)1751-7648		10.1002/(ISSN)1751-7648		fulltext		Wiley	serial								P
+Structural Control And Health Monitoring	1545-2255	1545-2263	2013						http://onlinelibrary.wiley.com/journal/10.1002/(ISSN)1545-2263		10.1002/(ISSN)1545-2263		fulltext		Wiley	serial								P
+Studies In Applied Mathematics	0022-2526	1467-9590	2013						http://onlinelibrary.wiley.com/journal/10.1111/(ISSN)1467-9590		10.1111/(ISSN)1467-9590		fulltext		Wiley	serial								P
+Surface And Interface Analysis	0142-2421	1096-9918	2013						http://onlinelibrary.wiley.com/journal/10.1002/(ISSN)1096-9918		10.1002/(ISSN)1096-9918		fulltext		Wiley	serial								P
+Synapse	0887-4476	1098-2396	2013						http://onlinelibrary.wiley.com/journal/10.1002/(ISSN)1098-2396		10.1002/(ISSN)1098-2396		fulltext		Wiley	serial								P
+Systematic Entomology	0307-6970	1365-3113	2013						http://onlinelibrary.wiley.com/journal/10.1111/(ISSN)1365-3113		10.1111/(ISSN)1365-3113		fulltext		Wiley	serial								P
+Systems Engineering	1098-1241	1520-6858	2013						http://onlinelibrary.wiley.com/journal/10.1002/(ISSN)1520-6858		10.1002/(ISSN)1520-6858		fulltext		Wiley	serial								P
+Teaching Statistics	0141-982X	1467-9639	2013						http://onlinelibrary.wiley.com/journal/10.1111/(ISSN)1467-9639		10.1111/(ISSN)1467-9639		fulltext		Wiley	serial								P
+Tectonics	0278-7407	1944-9194	2014						http://agupubs.onlinelibrary.wiley.com/hub/journal/10.1002/(ISSN)1944-9194/		10.1002/(ISSN)1944-9194		fulltext		Wiley	serial								P
+Terra Nova	0954-4879	1365-3121	2013						http://onlinelibrary.wiley.com/journal/10.1111/(ISSN)1365-3121		10.1111/(ISSN)1365-3121		fulltext		Wiley	serial								P
+The Anatomical Record. Part B, New Anatomist	1552-4906	1552-4914	2003			2006			http://onlinelibrary.wiley.com/journal/10.1002/(ISSN)1932-8494		10.1002/(ISSN)1932-8494		fulltext		Wiley	serial								P
+The Canadian Journal Of Chemical Engineering	0008-4034	1939-019X	2013						http://onlinelibrary.wiley.com/journal/10.1002/(ISSN)1939-019X		10.1002/(ISSN)1939-019X		fulltext		Wiley	serial								P
+The Chemical Record	1527-8999	1528-0691	2001	1					http://onlinelibrary.wiley.com/journal/10.1002/(ISSN)1528-0691		10.1002/(ISSN)1528-0691		fulltext		Wiley	serial								P
+The Embo Journal	0261-4189	1460-2075	1997	16					http://onlinelibrary.wiley.com/journal/10.1002/(ISSN)1460-2075		10.1002/(ISSN)1460-2075		fulltext		Wiley	serial								P
+The Journal Of Wildlife Management	0022-541X	1937-2817	2013						http://onlinelibrary.wiley.com/journal/10.1002/(ISSN)1937-2817		10.1002/(ISSN)1937-2817		fulltext		Wiley	serial								P
+The Plant Journal	0960-7412	1365-313X	1997	11					http://onlinelibrary.wiley.com/journal/10.1111/(ISSN)1365-313X		10.1111/(ISSN)1365-313X		fulltext		Wiley	serial								P
+The Structural Design Of Tall And Special Buildings	1541-7794	1541-7808	2013						http://onlinelibrary.wiley.com/journal/10.1002/(ISSN)1541-7808		10.1002/(ISSN)1541-7808		fulltext		Wiley	serial								P
+Traditional & Kampo Medicine		2053-4515	2014	1					http://onlinelibrary.wiley.com/journal/10.1002/(ISSN)2053-4515		10.1002/(ISSN)2053-4515		fulltext		Wiley	serial								P
+Transactions On Emerging Telecommunications Technologies	2161-5748	2161-3915	2013						http://onlinelibrary.wiley.com/journal/10.1002/(ISSN)2161-3915/issues		10.1002/(ISSN)2161-3915		fulltext		Wiley	serial								P
+Transboundary And Emerging Diseases	1865-1674	1865-1682	2013						http://onlinelibrary.wiley.com/journal/10.1111/(ISSN)1865-1682/issues		10.1111/(ISSN)1865-1682		fulltext		Wiley	serial								P
+Vakuum In Forschung Und Praxis	0947-076X	1522-2454	2000	12					http://onlinelibrary.wiley.com/journal/10.1002/(ISSN)1522-2454		10.1002/(ISSN)1522-2454		fulltext		Wiley	serial								P
+Veterinary And Comparative Oncology	1476-5810	1476-5829	2013						http://onlinelibrary.wiley.com/journal/10.1111/(ISSN)1476-5829		10.1111/(ISSN)1476-5829		fulltext		Wiley	serial								P
+Veterinary Clinical Pathology	0275-6382	1939-165X	2013						http://onlinelibrary.wiley.com/journal/10.1111/(ISSN)1939-165X		10.1111/(ISSN)1939-165X		fulltext		Wiley	serial								P
+Veterinary Dermatology	0959-4493	1365-3164	2013						http://onlinelibrary.wiley.com/journal/10.1111/(ISSN)1365-3164		10.1111/(ISSN)1365-3164		fulltext		Wiley	serial								P
+Veterinary Ophthalmology	1463-5216	1463-5224	2013						http://onlinelibrary.wiley.com/journal/10.1111/(ISSN)1463-5224		10.1111/(ISSN)1463-5224		fulltext		Wiley	serial								P
+Veterinary Radiology & Ultrasound	1058-8183	1740-8261	2013						http://onlinelibrary.wiley.com/journal/10.1111/(ISSN)1740-8261		10.1111/(ISSN)1740-8261		fulltext		Wiley	serial								P
+Veterinary Surgery	0161-3499	1532-950X	2013						http://onlinelibrary.wiley.com/journal/10.1111/(ISSN)1532-950X		10.1111/(ISSN)1532-950X		fulltext		Wiley	serial								P
+Vietnam Journal Of Chemistry	0866-7144	2572-8288	1997	13					http://onlinelibrary.wiley.com/journal/10.1002/(ISSN)2572-8288		10.1002/(ISSN)2572-8288		fulltext		Wiley	serial								P
+Water And Environment Journal	1747-6585	1747-6593	2013						http://onlinelibrary.wiley.com/journal/10.1111/(ISSN)1747-6593		10.1111/(ISSN)1747-6593		fulltext		Wiley	serial								P
+Water Resources Research	0043-1397	1944-7973	2014						http://agupubs.onlinelibrary.wiley.com/hub/journal/10.1002/(ISSN)1944-7973/		10.1002/(ISSN)1944-7973		fulltext		Wiley	serial								P
+Weather	0043-1656	1477-8696	2002	57					http://onlinelibrary.wiley.com/journal/10.1002/(ISSN)1477-8696		10.1002/(ISSN)1477-8696		fulltext		Wiley	serial								P
+Weed Biology And Management	1444-6162	1445-6664	2013						http://onlinelibrary.wiley.com/journal/10.1111/(ISSN)1445-6664		10.1111/(ISSN)1445-6664		fulltext		Wiley	serial								P
+Weed Research	0043-1737	1365-3180	2013						http://onlinelibrary.wiley.com/journal/10.1111/(ISSN)1365-3180		10.1111/(ISSN)1365-3180		fulltext		Wiley	serial								P
+Wildlife Monographs	0084-0173	1938-5455	2013						http://onlinelibrary.wiley.com/journal/10.1002/(ISSN)1938-5455		10.1002/(ISSN)1938-5455		fulltext		Wiley	serial								P
+Wildlife Society Bulletin	0091-7648	1938-5463	2013						http://onlinelibrary.wiley.com/journal/10.1002/(ISSN)1938-5463a		10.1002/(ISSN)1938-5463a		fulltext		Wiley	serial								P
+Wiley Interdisciplinary Reviews: Climate Change	1757-7780	1757-7799	2013						http://onlinelibrary.wiley.com/journal/10.1002/(ISSN)1757-7799		10.1002/(ISSN)1757-7799		fulltext		Wiley	serial								P
+Wiley Interdisciplinary Reviews: Cognitive Science	1939-5078	1939-5086	2013						http://onlinelibrary.wiley.com/journal/10.1002/(ISSN)1939-5086		10.1002/(ISSN)1939-5086		fulltext		Wiley	serial								P
+Wiley Interdisciplinary Reviews: Computational Molecular Science	1759-0876	1759-0884	2013						http://onlinelibrary.wiley.com/journal/10.1111/(ISSN)1759-0884		10.1111/(ISSN)1759-0884		fulltext		Wiley	serial								P
+Wiley Interdisciplinary Reviews: Computational Statistics	1939-5108	1939-0068	2013						http://onlinelibrary.wiley.com/journal/10.1002/(ISSN)1939-0068		10.1002/(ISSN)1939-0068		fulltext		Wiley	serial								P
+Wiley Interdisciplinary Reviews: Data Mining And Knowledge Discovery	1942-4787	1942-4795	2013						http://onlinelibrary.wiley.com/journal/10.1111/(ISSN)1942-4795		10.1111/(ISSN)1942-4795		fulltext		Wiley	serial								P
+Wiley Interdisciplinary Reviews: Developmental Biology	1759-7684	1759-7692	2013						http://onlinelibrary.wiley.com/journal/10.1111/(ISSN)1759-7692/issues		10.1111/(ISSN)1759-7692		fulltext		Wiley	serial								P
+Wiley Interdisciplinary Reviews: Energy And Environment	2041-8396	2041-840X	2013						http://onlinelibrary.wiley.com/journal/10.1002/(ISSN)2041-840X/issues		10.1002/(ISSN)2041-840X		fulltext		Wiley	serial								P
+Wiley Interdisciplinary Reviews: Nanomedicine And Nanobiotechnology	1939-5116	1939-0041	2013						http://onlinelibrary.wiley.com/journal/10.1002/(ISSN)1939-0041/issues		10.1002/(ISSN)1939-0041		fulltext		Wiley	serial								P
+Wiley Interdisciplinary Reviews: Rna	1757-7004	1757-7012	2013						http://onlinelibrary.wiley.com/journal/10.1002/(ISSN)1757-7012/issues		10.1002/(ISSN)1757-7012		fulltext		Wiley	serial								P
+Wiley Interdisciplinary Reviews: Systems Biology And Medicine	1939-5094	1939-005X	2013						http://onlinelibrary.wiley.com/journal/10.1002/(ISSN)1939-005X		10.1002/(ISSN)1939-005X		fulltext		Wiley	serial								P
+Wiley Interdisciplinary Reviews: Water		2049-1948	2014	1					http://onlinelibrary.wiley.com/journal/10.1002/(ISSN)2049-1948		10.1002/(ISSN)2049-1948		fulltext		Wiley	serial								P
+Wind Energy	1095-4244	1099-1824	2013						http://onlinelibrary.wiley.com/journal/10.1002/(ISSN)1099-1824		10.1002/(ISSN)1099-1824		fulltext		Wiley	serial								P
+World Oil Trade	0950-1029	1467-9728	2013						http://onlinelibrary.wiley.com/journal/10.1002/(ISSN)1467-9728/issues		10.1002/(ISSN)1467-9728		fulltext		Wiley	serial								P
+X-ray Spectrometry	0049-8246	1097-4539	2013						http://onlinelibrary.wiley.com/journal/10.1002/(ISSN)1097-4539		10.1002/(ISSN)1097-4539		fulltext		Wiley	serial								P
+Yeast	0749-503X	1097-0061	1996	12					http://onlinelibrary.wiley.com/journal/10.1002/(ISSN)1097-0061		10.1002/(ISSN)1097-0061		fulltext		Wiley	serial								P
+Zaac-journal Of Inorganic And General Chemistry	0044-2313	1521-3749	1998	624					http://onlinelibrary.wiley.com/journal/10.1002/(ISSN)1521-3749		10.1002/(ISSN)1521-3749		fulltext		Wiley	serial								P
+Zamm-zeitschrift Fuer Angewandte Mathematik Und Mechanik	0044-2267	1521-4001	1998	78					http://onlinelibrary.wiley.com/journal/10.1002/(ISSN)1521-4001		10.1002/(ISSN)1521-4001		fulltext		Wiley	serial								P
+Zoo Biology	0733-3188	1098-2361	2013						http://onlinelibrary.wiley.com/journal/10.1002/(ISSN)1098-2361		10.1002/(ISSN)1098-2361		fulltext		Wiley	serial								P
+Zoologica Scripta	0300-3256	1463-6409	2013						http://onlinelibrary.wiley.com/journal/10.1111/(ISSN)1463-6409		10.1111/(ISSN)1463-6409		fulltext		Wiley	serial								P
+Zoonoses And Public Health	1863-1959	1863-2378	2013						http://onlinelibrary.wiley.com/journal/10.1111/(ISSN)1863-2378		10.1111/(ISSN)1863-2378		fulltext		Wiley	serial								P

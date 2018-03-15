@@ -1,0 +1,74 @@
+publication_title	print_identifier	online_identifier	date_first_issue_online	num_first_vol_online	num_first_issue_online	date_last_issue_online	num_last_vol_online	num_last_issue_online	title_url	first_author	title_id	embargo_info	coverage_depth	notes	publisher_name	publication_type	date_monograph_published_print	date_monograph_published_online	monograph_volume	monograph_edition	first_editor	parent_publication_title_id	preceding_publication_title_id	access_type
+Al-ʿArabiyya: Journal of the American Association of Teachers of Arabic	0889-8731	2375-4036	2014	47	1				https://muse.jhu.edu/journal/646		646		fulltext		Georgetown University Press	serial								P
+American Periodicals: A Journal of History & Criticism	1054-7479	1548-4238	2003	13	1				https://muse.jhu.edu/journal/263		263		fulltext		The Ohio State University Press	serial								P
+Anales Galdosianos	0569-9924	2161-301X	2011	46	1				https://muse.jhu.edu/journal/510		510		fulltext		Asociación Internacional de Galdosistas	serial								P
+Arthuriana	1078-6279	1934-1539	1994	4	1				https://muse.jhu.edu/journal/397		397		fulltext		Scriptorium Press	serial								P
+Book History	1098-7371	1529-1499	1998	1	1				https://muse.jhu.edu/journal/23		23		fulltext		Johns Hopkins University Press	serial								P
+Bookbird: A Journal of International Children's Literature	0006-7377	1918-6983	2008	46	1				https://muse.jhu.edu/journal/409		409		fulltext		Johns Hopkins University Press	serial								P
+Bulletin of the Center for Children's Books	0008-9036	1558-6766	2005	59	1				https://muse.jhu.edu/journal/313		313		fulltext		Johns Hopkins University Press	serial								P
+Calíope: Journal of the Society for Renaissance and Baroque Hispanic Poetry	1084-1490	2377-9551	1995	1	1				https://muse.jhu.edu/journal/662		662		fulltext		The Society for Renaissance and Baroque Hispanic Poetry	serial								P
+Cervantes: Bulletin of the Cervantes Society of America	0277-6995	1943-3840	2014	34	1				https://muse.jhu.edu/journal/643		643		fulltext		Cervantes Society of America	serial								P
+Children's Literature	0092-8208	1543-3374	1972	1	1				https://muse.jhu.edu/journal/214		214		fulltext		Johns Hopkins University Press	serial								P
+Children's Literature Association Quarterly	0885-0429	1553-1201	1976	1	1				https://muse.jhu.edu/journal/301		301		fulltext		Johns Hopkins University Press	serial								P
+Confluencia: Revista Hispánica de Cultura y Literatura	0888-6091	2328-6962	2014	30	1				https://muse.jhu.edu/journal/667		667		fulltext		University of Northern Colorado	serial								P
+Conradiana	0010-6356	1935-0252	2007	1	1				https://muse.jhu.edu/journal/362		362		fulltext		Texas Tech University Press	serial								P
+Dante Studies	2470-4261	2470-427X	2015	133	1				https://muse.jhu.edu/journal/549		549		fulltext		Johns Hopkins University Press	serial								P
+Dickens Quarterly	0742-5473	2169-5377	2015	32	1				https://muse.jhu.edu/journal/654		654		fulltext		Johns Hopkins University Press	serial								P
+Eudora Welty Review	1947-3370	2165-266X	2009	1	1				https://muse.jhu.edu/journal/590		590		fulltext		Department of English, Georgia State University	serial								P
+French Forum	0098-9355	1534-1836	2001	26	1				https://muse.jhu.edu/journal/63		63		fulltext		University of Pennsylvania Press	serial								P
+George Herbert Journal	0161-7435	1931-1192	1977	1	1				https://muse.jhu.edu/journal/349		349		fulltext		George Herbert Journal	serial								P
+Goethe Yearbook	0734-3329	1940-9087	1982	1	1				https://muse.jhu.edu/journal/411		411		fulltext		North American Goethe Society	serial								P
+Hebrew Studies	0146-4094	2158-1681	1990	31	1				https://muse.jhu.edu/journal/512		512		fulltext		National Association of Professors of Hebrew	serial								P
+Helios	0160-0923	1935-0228	2007	1	1				https://muse.jhu.edu/journal/363		363		fulltext		Texas Tech University Press	serial								P
+Hispanófila	0018-2206	2165-6185	2008	151	151				https://muse.jhu.edu/journal/586		586		fulltext		The Department of Romance Languages and Literatures, The University of North Carolina at Chapel Hill	serial								P
+Illinois Classical Studies	0363-1923	2328-5265	2015	40	1				https://muse.jhu.edu/journal/653		653		fulltext		University of Illinois Press	serial								P
+J19: The Journal of Nineteenth-Century Americanists	2166-742X	2166-7438	2013	1	1				https://muse.jhu.edu/journal/596		596		fulltext		University of Pennsylvania Press	serial								P
+Jeunesse: Young People, Texts, Cultures	1920-2601	1920-261X	2009	1	1				https://muse.jhu.edu/journal/500		500		fulltext		The Centre for Research in Young People's Texts and Cultures, University of Winnipeg	serial								P
+Journal of Austrian Studies	2165-669X	2327-1809	2012	45	1				https://muse.jhu.edu/journal/599		599		fulltext		University of Nebraska Press	serial								P
+Joyce Studies Annual	1049-0809	1538-4241	2001	12	1				https://muse.jhu.edu/journal/101		101		fulltext		Fordham University Press	serial								P
+La corónica: A Journal of Medieval Hispanic Languages, Literatures, and Cultures	0193-3892	1947-4261	2000	29	1				https://muse.jhu.edu/journal/452		452		fulltext		La corónica: A Journal of Medieval Hispanic Languages, Literatures, and Cultures	serial								P
+Leviathan	1525-6995	1750-1849	1999	1	1				https://muse.jhu.edu/journal/601		601		fulltext		Johns Hopkins University Press	serial								P
+Marvels & Tales	1521-4281	1536-1802	2001	15	1				https://muse.jhu.edu/journal/122		122		fulltext		Wayne State University Press	serial								P
+Milton Studies	0076-8820	2330-796X	2012	53	1				https://muse.jhu.edu/journal/570		570		fulltext		Penn State University Press	serial								P
+Mouseion: Journal of the Classical Association of Canada	1496-9343	1913-5416	2001	1	1				https://muse.jhu.edu/journal/366		366		fulltext		University of Toronto Press	serial							1257	P
+Nabokov Studies	1080-1219	1548-9965	1994	1	1				https://muse.jhu.edu/journal/257		257		fulltext		International Vladimir Nabokov Society and Davidson College	serial								P
+Nouvelles Études Francophones	1552-3152	2156-9428	2010	25	1				https://muse.jhu.edu/journal/502		502		fulltext		University of Nebraska Press	serial								P
+Nuevo Texto Crítico	1048-6380	1940-9079	1988	1	1				https://muse.jhu.edu/journal/412		412		fulltext		Nuevo Texto Crítico	serial								P
+Pedagogy	1531-4200	1533-6255	2001	1	1				https://muse.jhu.edu/journal/154		154		fulltext		Duke University Press	serial								P
+Philip Roth Studies	1547-3929	1940-5278	2005	1	1				https://muse.jhu.edu/journal/503		503		fulltext		Purdue University Press	serial								P
+Poe Studies	1947-4644	1754-6095	2001	34	1				https://muse.jhu.edu/journal/613		613		fulltext		Johns Hopkins University Press	serial								P
+Prooftexts	0272-9601	1086-3311	1998	18	1				https://muse.jhu.edu/journal/167		167		fulltext		Indiana University Press	serial								P
+Pushkin Review	1526-1476	2165-0683	2011	14	1				https://muse.jhu.edu/journal/532		532		fulltext		Slavica Publishers	serial								P
+Restoration: Studies in English Literary Culture, 1660-1700	0162-9905	1941-952X	2008	32	1				https://muse.jhu.edu/journal/415		415		fulltext		University of Maryland	serial								P
+Revista Hispánica Moderna	0034-9593	1944-6446	2007	60	1				https://muse.jhu.edu/journal/426		426		fulltext		University of Pennsylvania Press	serial								P
+Romance Notes	0035-7995	2165-7599	2006	47	1				https://muse.jhu.edu/journal/588		588		fulltext		The Department of Romance Languages and Literatures, The University of North Carolina at Chapel Hill	serial								P
+Scottish Literary Review	1756-5634	2050-6678	2013	5	1				https://muse.jhu.edu/journal/614		614		fulltext		Association for Scottish Literary Studies	serial								P
+Seminar: A Journal of Germanic Studies	0037-1939	1911-026X	2006	42	1				https://muse.jhu.edu/journal/351		351		fulltext		University of Toronto Press	serial								P
+Shofar: An Interdisciplinary Journal of Jewish Studies	0882-8539	1534-5165	1990	9	1				https://muse.jhu.edu/journal/181		181		fulltext		Purdue University Press	serial								P
+Small Axe	0799-0537	1534-6714	2001	5	1				https://muse.jhu.edu/journal/185		185		fulltext		Duke University Press	serial								P
+Steinbeck Review	1546-007X	1938-6214	2006	1	1				https://muse.jhu.edu/journal/377		377		fulltext		Penn State University Press	serial								P
+Storyworlds: A Journal of Narrative Studies	1946-2204	2156-7204	2009	1	1				https://muse.jhu.edu/journal/505		505		fulltext		University of Nebraska Press	serial								P
+Studies in American Humor	0095-280X	2333-9934	2015	1	1				https://muse.jhu.edu/journal/656		656		fulltext		Penn State University Press	serial								P
+Studies in American Indian Literatures	0730-3238	1548-9590	2004	16	1				https://muse.jhu.edu/journal/246		246		fulltext		University of Nebraska Press	serial								P
+Studies in American Jewish Literature	0271-9274	1948-5077	2008	27	1				https://muse.jhu.edu/journal/443		443		fulltext		Penn State University Press	serial								P
+Studies in American Naturalism	1931-2555	1944-6519	2009	4	1				https://muse.jhu.edu/journal/455		455		fulltext		University of Nebraska Press	serial								P
+Studies in the Age of Chaucer	0190-2407	1949-0755	1979	1	1				https://muse.jhu.edu/journal/416		416		fulltext		The New Chaucer Society	serial								P
+Studies in the Fantastic	1942-7190	2470-3486	2016	3	1				https://muse.jhu.edu/journal/692		692		fulltext		University of Tampa Press	serial								P
+SubStance	0049-2426	1527-2095	1999	28	2				https://muse.jhu.edu/journal/189		189		fulltext		Johns Hopkins University Press	serial								P
+Syllecta Classica	1040-3612	2160-5157	1989	1	1				https://muse.jhu.edu/journal/534		534		fulltext		Department of Classics, University of Iowa	serial								P
+The Byron Journal	0301-7257	1757-0263	2009	37	1				https://muse.jhu.edu/journal/421		421		fulltext		Liverpool University Press	serial								P
+The Cormac McCarthy Journal	2333-3073	2333-3065	2015	13	1				https://muse.jhu.edu/journal/658		658		fulltext		Penn State University Press	serial								P
+The Emily Dickinson Journal	1059-6879	1096-858X	1992	1	1				https://muse.jhu.edu/journal/56		56		fulltext		Johns Hopkins University Press	serial								P
+The F. Scott Fitzgerald Review	1543-3951	1755-6333	2013	11	1				https://muse.jhu.edu/journal/620		620		fulltext		Penn State University Press	serial								P
+The Hemingway Review	0276-3362	1548-4815	2000	20	1				https://muse.jhu.edu/journal/275		275		fulltext		University of Idaho Department of English	serial								P
+The Journal of Modern Periodical Studies	1947-6574	2152-9272	2010	1	1				https://muse.jhu.edu/journal/473		473		fulltext		Penn State University Press	serial								P
+The Mark Twain Annual	1553-0981	1756-2597	2013	11	1				https://muse.jhu.edu/journal/603		603		fulltext		Penn State University Press	serial								P
+The Scriblerian and the Kit-Cats	0190-731X	2165-0624	2002	34	1				https://muse.jhu.edu/journal/567		567		fulltext		The Scriblerian and the Kit-Cats	serial								P
+The Southern Quarterly	0038-4496	2377-2050	2014	52	1				https://muse.jhu.edu/journal/666		666		fulltext		College of Arts and Letters, University of Southern Mississippi	serial								P
+Tolkien Studies	1547-3155	1547-3163	2004	1	1				https://muse.jhu.edu/journal/299		299		fulltext		West Virginia University Press	serial								P
+Utopian Studies	1045-991X	2154-9648	2010	21	1				https://muse.jhu.edu/journal/507		507		fulltext		Penn State University Press	serial								P
+Victorian Review	0848-1512	1923-3280	1990	16	1				https://muse.jhu.edu/journal/508		508		fulltext		Johns Hopkins University Press	serial								P
+Wallace Stevens Journal	0148-7132	2160-0570	2011	35	1				https://muse.jhu.edu/journal/528		528		fulltext		Johns Hopkins University Press	serial								P
+William Carlos Williams Review	0196-6286	1935-0244	2006	26	1				https://muse.jhu.edu/journal/365		365		fulltext		Penn State University Press	serial								P
+Women in French Studies	1077-825X	2166-5486	1993	1	1				https://muse.jhu.edu/journal/591		591		fulltext		Women in French Association	serial								P
+Women in German Yearbook: Feminist Studies in German Literature & Culture	1058-7446	1940-512X	1985	1	1				https://muse.jhu.edu/journal/403		403		fulltext		University of Nebraska Press	serial								P

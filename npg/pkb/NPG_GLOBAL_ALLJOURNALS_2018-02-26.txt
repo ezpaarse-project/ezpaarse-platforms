@@ -1,0 +1,153 @@
+publication_title	print_identifier	online_identifier	date_first_issue_online	num_first_vol_online	num_first_issue_online	date_last_issue_online	num_last_vol_online	num_last_issue_online	title_url	first_author	title_id	embargo_info	coverage_depth	notes	publisher_name	publication_type	date_monograph_published_print	date_monograph_published_online	monograph_volume	monograph_edition	first_editor	parent_publication_title_id	preceding_publication_title_id	access_type
+Acta Pharmacologica Sinica	1671-4083	1745-7254	2005	26	1				http://www.nature.com/aps		aps		fulltext			serial								P
+American Journal of Gastroenterology Supplements	1948-9498	1948-9501	2012	1	1				http://www.nature.com/ajgsup		ajgsup		fulltext			serial								P
+BDJ Open		2056-807X	2010						http://www.nature.com/bdjopen/		bdjopen		fulltext	Open Access New for 2016		serial								F
+BDJ Team		2054-7617	2014						http://www.nature.com/bdjteam/		bdjteam		fulltext	Open Access. Previously: Vital (2003-2013)		serial								F
+Blood Cancer Journal		2044-5385	2011	1					http://www.nature.com/bcj		bcj		fulltext	Open Access		serial								F
+Bone Marrow Transplantation	0268-3369	1476-5365	1997	19	1				http://www.nature.com/bmt		bmt		fulltext			serial								P
+Bone Research	2095-4700	2095-6231	2014						http://www.nature.com/boneres/		boneres		fulltext	Open Access		serial								F
+BoneKEy Reports		2047-6396	2012			2016	5		http://www.nature.com/bonekey/bonekeyreports/index.html		bonekeyreports		fulltext	Ceased:2016		serial								P
+British Dental Journal	0007-0610	1476-5373	1970	128	1				http://www.nature.com/bdj		bdj		fulltext			serial								P
+British Journal of Cancer	0007-0920	1532-1827	1947	1	1				http://www.nature.com/bjc		bjc		fulltext			serial								P
+Cancer Gene Therapy	0929-1903	1476-5500	1999	6	1				http://www.nature.com/cgt		cgt		fulltext			serial								P
+Cell Death Discovery		2058-7716	2015						http://www.nature.com/cddiscovery/archive		cddiscovery		fulltext	Open Access		serial								F
+Cell Death and Differentiation	1350-9047	1476-5403	1997	4	1				http://www.nature.com/cdd		cdd		fulltext			serial								P
+Cell Death and Disease		2041-4889	2010	1					http://www.nature.com/cddis		cddis		fulltext	Open Access		serial								F
+Cell Discovery		2056-5968	2015						http://www.nature.com/celldisc/		celldisc		fulltext	Open Access		serial								F
+Cell Research	1001-0602	1748-7838	1990	1	1				http://www.nature.com/cr		cr		fulltext			serial								P
+Cellular and Molecular Immunology	1672-7681	2042-0226	2008	5	1				http://www.nature.com/cmi		cmi		fulltext			serial								P
+Clinical & Translational Immunology		2050-0068	2012	1					http://www.nature.com/cti		cti		fulltext	Open Access		serial								F
+Clinical and Translational Gastroenterology		2155-384X	2010	1					http://www.nature.com/ctg		ctg		fulltext	Open Access		serial								F
+Emerging Microbes & Infections		2222-1751	2012	1					http://www.nature.com/emi		emi		fulltext	Open Access		serial								F
+European Journal of Clinical Nutrition	0954-3007	1476-5640	1997	51	1				http://www.nature.com/ejcn		ejcn		fulltext			serial								P
+European Journal of Human Genetics	1018-4813	1476-5438	1998	6	1				http://www.nature.com/ejhg		ejhg		fulltext			serial								P
+Evidence-Based Dentistry	1462-0049	1476-5446	1998	1	1				http://www.nature.com/ebd		ebd		fulltext			serial								P
+Experimental & Molecular Medicine	1226-3613	2092-6413	1996	28	1				http://www.nature.com/emm		emm		fulltext	Open Access		serial								F
+Eye	0950-222X	1476-5454	1987	1	1				http://www.nature.com/eye		eye		fulltext			serial								P
+Gene Therapy	0969-7128	1476-5462	1997	4	1				http://www.nature.com/gt		gt		fulltext			serial								P
+Genes and Immunity	1466-4879	1476-5470	1999	1	1				http://www.nature.com/gene		gene		fulltext			serial								P
+Genetics in Medicine	1098-3600	1530-0366	1998	1	1				http://www.nature.com/gim		gim		fulltext			serial								P
+Heredity	0018-067X	1365-2540	1947	1	1				http://www.nature.com/hdy		hdy		fulltext			serial								P
+Horticulture Research		2052-7276	2014	1					http://www.nature.com/hortres		hortres		fulltext	Open Access		serial								F
+Human Genome Variation		2054-345X	2014						http://www.nature.com/hgv/		hgv		fulltext	Open Access		serial								F
+Hypertension Research	0916-9636	1348-4214	2005	28	1				http://www.nature.com/hr		hr		fulltext			serial								P
+IBMS BoneKEy		1940-8692	2008			2016			http://www.nature.com/bonekey		bonekey		fulltext	Ceased: 2017		serial								P
+Immunology & Cell Biology	0818-9641	1440-1711	1987	65	1	2017	95	10	http://www.nature.com/icb/index.html		icb		fulltext	Previously: The Australian journal of experimental biology and medical science. Transfer out (2018):Wiley		serial								P
+International Journal of Impotence Research	0955-9930	1476-5489	1997	9	1				http://www.nature.com/ijir		ijir		fulltext			serial								P
+International Journal of Obesity	0307-0565	1476-5497	1997	21	1				http://www.nature.com/ijo		ijo		fulltext			serial								P
+International Journal of Obesity Supplements	2046-2166	2046-2174	2011	2011	1				http://www.nature.com/ijosup		ijosup		fulltext			serial								P
+International Journal of Oral Science	1674-2818	2049-3169	2009	1	1				http://www.nature.com/ijos		ijos		fulltext	Open Access		serial								F
+Journal of Exposure Science and Environmental Epidemiology	1559-0631	1559-064X	2006	16	1				http://www.nature.com/jes		jes		fulltext	Continues: Journal of Exposure Analysis and Environmental Epidemiology		serial								P
+Journal of Human Genetics	1434-5161	1435-232X	1977	22	1				http://www.nature.com/jhg		jhg		fulltext			serial								P
+Journal of Human Hypertension	0950-9240	1476-5527	1997	11	1				http://www.nature.com/jhh		jhh		fulltext			serial								P
+Journal of Investigative Dermatology	0022-202X	1523-1747	1938	1	1	2015			http://www.nature.com/jid		jid		fulltext	transfer our (2016): Elsevier		serial								P
+Journal of Investigative Dermatology Symposium Proceedings	1087-0024	1529-1774	1997	2	1	2015			http://www.nature.com/jidsp		jidsp		fulltext	transfer our (2016): Elsevier		serial								P
+Journal of Perinatology	0743-8346	1476-5543	1999	19	1				http://www.nature.com/jp		jp		fulltext			serial								P
+Kidney International	0085-2538	1523-1755	1972	1	1	2015			http://www.nature.com/ki		ki		fulltext	Transfer out (2016): Elsevier		serial								P
+Kidney International Supplements	2157-1724	2157-1716	2011	1	1	2015			http://www.nature.com/kisup		kisup		fulltext	Transfer out (2016): Elsevier		serial								P
+Lab Animal	0093-7355	1548-4475	2003	32	1				http://www.labanimal.com				fulltext			serial								P
+Laboratory Investigation	0023-6837	1530-0307	2000	80	1				http://www.nature.com/labinvest/index.html		labinvest		fulltext			serial								P
+Leukemia	0887-6924	1476-5551	1997	11	1				http://www.nature.com/leu		leu		fulltext			serial								P
+Leukemia Supplements	2044-5210	2044-5229	2012	1					http://www.nature.com/leusup		leusup		fulltext			serial								P
+Light: Science & Applications	2095-5545	2047-7538	2012	1					http://www.nature.com/lsa		lsa		fulltext	Open Access		serial								F
+Microsystems & Nanoengineering		2055-7434	2015						http://www.nature.com/micronano/		micronano		fulltext	Open Access		serial								F
+Modern Pathology	0893-3952	1530-0285	2000	13	1				http://www.nature.com/modpathol		modpathol		fulltext			serial								P
+Molecular Psychiatry	1359-4184	1476-5578	1997	2	1				http://www.nature.com/mp		mp		fulltext			serial								P
+Molecular Systems Biology		1744-4292	2005						http://www.nature.com/msb		msb		fulltext	Open Access		serial								F
+Molecular Therapy	1525-0016	1525-0024	2000	1	1	2016	25	12	http://www.nature.com/mt		mt		fulltext	Transfer out (2017): Cell Press Elsevier		serial								P
+Molecular Therapy Nucleic Acids		2162-2531	2012	1	1	2016	5		http://www.nature.com/mtna		mtna		fulltext	Transfer out (2017): Elsevier (Cell Press)		serial								F
+Molecular Therapy-Methods & Clinical Development		2329-0501	2014			2016			http://www.nature.com/mtm/		mtm		fulltext	Transfer out (2017): Elsevier (Cell Press)		serial								F
+Molecular Therapy-Oncolytics	2372-7705		2014			2016			http://www.nature.com/mto/		mto		fulltext	Transfer out (2017): Elsevier (Cell Press)		serial								F
+Mucosal Immunology	1933-0219	1935-3456	2008	1	1				http://www.nature.com/mi		mi		fulltext			serial								P
+NPG Asia Materials	1884-4049	1884-4057	2009	1	1				http://www.nature.com/am		am		fulltext	Open Access		serial								F
+Nature	0028-0836	1476-4687	1940	145	3662				http://www.nature.com/nature		nature		fulltext			serial								P
+Nature Astronomy		2397-3366	2017	1	1				http://www.nature.com/natastron/		natastron		fulltext	New for 2017		serial								P
+Nature Biomedical Engineering		2157-846X	2017	1	1				http://www.nature.com/natbiomedeng/		natbiomedeng		fulltext	New for 2017		serial								P
+Nature Biotechnology	1087-0156	1546-1696	1983	1	1				http://www.nature.com/nbt		nbt		fulltext			serial								P
+Nature Catalysis		2520-1158	2018	1	1				https://www.nature.com/natcatal/		natcatal		fulltext	New for 2018		serial								P
+Nature Cell Biology	1465-7392	1476-4679	1999	1	1				http://www.nature.com/ncb		ncb		fulltext			serial								P
+Nature Chemical Biology	1552-4450	1552-4469	2005	1	1				http://www.nature.com/nchembio		nchembio		fulltext			serial								P
+Nature Chemistry	1755-4330	1755-4349	2009	1	1				http://www.nature.com/nchem		nchem		fulltext			serial								P
+Nature Climate Change	1758-678X	1758-6798	2007	June	6				http://www.nature.com/natureclimatechange		natureclimatechange		fulltext			serial								P
+Nature Communications		2041-1723	2010						http://www.nature.com/naturecommunications		naturecommunications		fulltext	Will be fully open access from 2016		serial								F
+Nature Ecology & Evolution		2397-334X	2017	1	1				http://www.nature.com/natecolevol/		natecolevol		fulltext	New for 2017		serial								P
+Nature Electronics		2520-1131	2018	1	1				https://www.nature.com/natelectron/		natelectron		fulltext	New for 2018		serial								P
+Nature Energy		2058-7546	2016	1	1				http://www.nature.com/nenergy/		nenergy		fulltext	New for 2016		serial								P
+Nature Genetics	1061-4036	1546-1718	1992	1-2	1				http://www.nature.com/ng		ng		fulltext			serial								P
+Nature Geoscience	1752-0894	1752-0908	2008	1	1				http://www.nature.com/ngeo		ngeo		fulltext			serial								P
+Nature Human Behaviour		2397-3374	2017	1	1				http://www.nature.com/nathumbehav/		nathumbehav		fulltext	New for 2017		serial								P
+Nature Immunology	1529-2908	1529-2916	2000	1	1				http://www.nature.com/ni		ni		fulltext			serial								P
+Nature Materials	1476-1122	1476-4660	2002	1	1				http://www.nature.com/nmat		nmat		fulltext			serial								P
+Nature Medicine	1078-8956	1546-170X	1995	1	1				http://www.nature.com/nm		nm		fulltext			serial								P
+Nature Methods	1548-7091	1548-7105	2004	1	1				http://www.nature.com/nmeth/index.html		nmeth		fulltext			serial								P
+Nature Microbiology		2058-5276	2016	1	1				http://www.nature.com/nmicrobiol/		nmicrobiol		fulltext	New for 2016		serial								P
+Nature Nanotechnology	1748-3387	1748-3395	2006	1	1				http://www.nature.com/nnano		nnano		fulltext			serial								P
+Nature Neuroscience	1097-6256	1546-1726	1998	1	1				http://www.nature.com/neuro		neuro		fulltext			serial								P
+Nature Photonics	1749-4885	1749-4893	2007	1	1				http://www.nature.com/nphoton		nphoton		fulltext			serial								P
+Nature Physics	1745-2473	1745-2481	2005	1	1				http://www.nature.com/nphys		nphys		fulltext			serial								P
+Nature Plants	2055-026X	2055-0278	2015	1	1				http://www.nature.com/nplants/		nplants		fulltext	New for 2014		serial								P
+Nature Protocols	1754-2189	1750-2799	2006	1	1				http://www.nature.com/nprot		nprot		fulltext			serial								P
+Nature Reviews Cancer	1474-175X	1474-1768	2001	1	1				http://www.nature.com/nrc		nrc		fulltext			serial								P
+Nature Reviews Cardiology	1759-5002	1759-5010	2004	1	1				http://www.nature.com/nrcardio		nrcardio		fulltext			serial								P
+Nature Reviews Chemistry		2397-3358	2017	1	1				http://www.nature.com/natrevchem/		natrevchem		fulltext	New for 2017		serial								P
+Nature Reviews Clinical Oncology	1759-4774	1759-4782	2009	6	1				http://www.nature.com/nrclinonc		nrclinonc		fulltext	Previously:Nature Clinical Practice Oncology (2004-2009)		serial								P
+Nature Reviews Disease Primers		2056-676X	2015						http://www.nature.com/nrdp/		nrdp		fulltext	New for 2015		serial								P
+Nature Reviews Drug Discovery	1474-1776	1474-1784	2002	1	1				http://www.nature.com/nrd		nrd		fulltext			serial								P
+Nature Reviews Endocrinology	1759-5029	1759-5037	2009	5	4				http://www.nature.com/nrendo		nrendo		fulltext	Previously:Nature Clinical Practice Endocrinology & Metabolism (2005-2009)		serial								P
+Nature Reviews Gastroenterology and Hepatology	1759-5045	1759-5053	2004	1	1				http://www.nature.com/nrgastro		nrgastro		fulltext			serial								P
+Nature Reviews Genetics	1471-0056	1471-0064	2000	1	1				http://www.nature.com/nrg		nrg		fulltext			serial								P
+Nature Reviews Immunology	1474-1733	1474-1741	2001	1	1				http://www.nature.com/nri		nri		fulltext			serial								P
+Nature Reviews Materials		2058-8437	2016	1	1				http://www.nature.com/natrevmats/		natrevmats		fulltext	New for 2016		serial								P
+Nature Reviews Microbiology	1740-1526	1740-1534	2003	1	1				http://www.nature.com/nrmicro		nrmicro		fulltext			serial								P
+Nature Reviews Molecular Cell Biology	1471-0072	1471-0080	2000	1	1				http://www.nature.com/nrm		nrm		fulltext			serial								P
+Nature Reviews Nephrology	1759-5061	1759-507X	2005	1	1				http://www.nature.com/nrneph		nrneph		fulltext			serial								P
+Nature Reviews Neurology	1759-4758	1759-4766	2005	1	1				http://www.nature.com/nrneurol		nrneurol		fulltext			serial								P
+Nature Reviews Neuroscience	1471-003X	1471-0048	2000	1	1				http://www.nature.com/nrn		nrn		fulltext			serial								P
+Nature Reviews Rheumatology	1759-4790	1759-4804	2009	5	4				http://www.nature.com/nrrheum		nrrheum		fulltext	Previously:Nature Clinical Practice Rheumatology (2005-2009)		serial								P
+Nature Reviews Urology	1759-4812	1759-4820	2004	1	1				http://www.nature.com/nrurol		nrurol		fulltext			serial								P
+Nature Structural and Molecular Biology	1545-9993	1545-9985	1994	1	1				http://www.nature.com/nsmb		nsmb		fulltext			serial								P
+Nature Sustainability		2398-9629	2018	1	1				https://www.nature.com/natsustain/		natsustain		fulltext	New for 2018		serial								P
+Neuropsychopharmacology	0893-133X	1470-634X	1993	8	1				http://www.nature.com/npp		npp		fulltext			serial								P
+Nutrition and Diabetes		2044-4052	2011	1	1				http://www.nature.com/nutd		nutd		fulltext	Open Access		serial								F
+Oncogene	0950-9232	1476-5594	1997	14	1				http://www.nature.com/onc		onc		fulltext			serial								P
+Oncogenesis		2157-9024	2012						http://www.nature.com/oncsis		oncsis		fulltext	Open Access		serial								F
+Pediatric Research	0031-3998	1530-0447	1967	1	1				http://www.nature.com/pr		pr		fulltext			serial								P
+Polymer Journal	0032-3896	1349-0540	2006	38	1				http://www.nature.com/pj		pj		fulltext			serial								P
+Prostate Cancer and Prostatic Diseases	1365-7852	1476-5608	1997	1	2				http://www.nature.com/pcan		pcan		fulltext			serial								P
+SciBX: Scientce-Business Exchange		1945-3477	2008	1	1	2014	7	48	http://www.nature.com/scibx		scibx		fulltext	Now:BioCentury innovations		serial								P
+Scientific American	0036-8733	1946-7087	2006	294	1				http://www.nature.com/scientificamerican		scientificamerican		fulltext			serial								P
+Scientific American Mind	1555-2284	2331-379X	2004	14	1				http://www.nature.com/scientificamericanmind		scientificamericanmind		fulltext			serial								P
+Scientific Data		2052-4436	2014						http://www.nature.com/sdata/		sdata		fulltext	Open Access		serial								F
+Scientific Reports		2045-2322	2011						http://www.nature.com/srep		srep		fulltext	Open Access		serial								F
+Signal Transduction and Targeted Therapy		2059-3635	2016						http://www.nature.com/sigtrans/		sigtrans		fulltext	Open Access New for 2016		serial								F
+Spinal Cord	1362-4393	1476-5624	1996	34	4				http://www.nature.com/sc		sc		fulltext	Previously:Paraplegia (1963-1996) Free Access to archives		serial								P
+The American Journal of Gastroenterology	0002-9270	1572-0241	1998	1	1				http://www.nature.com/ajg		ajg		fulltext			serial								P
+The ISME Journal	1751-7362	1751-7370	2007	1	1				http://www.nature.com/ismej		ismej		fulltext			serial								P
+The Journal of Antibiotics	0021-8820	1881-1469	2005	58	1				http://www.nature.com/ja		ja		fulltext			serial								P
+The Pharmacogenomics Journal	1470-269X	1473-1150	2001	3	1				http://www.nature.com/tpj		tpj		fulltext			serial								P
+Translational Psychiatry		2158-3188	2011	1	1				http://www.nature.com/tp		tp		fulltext	Open Access		serial								F
+Vital	1741-7503	1471-7511	2003	Winter	1	2013			http://www.nature.com/vital		vital		fulltext	now:BDJ Team		serial								P
+npj 2D Materials and Applications		2397-7132	2017						http://www.nature.com/npj2dmaterials/		npj2dmaterials		fulltext	Open Access. New for 2017		serial								F
+npj Aging and Mechanisms of Disease		2056-3973	2015						http://www.nature.com/npjamd/		npjamd		fulltext	Open Access New for 2016		serial								F
+npj Biofilms and Microbiomes	2055-5008		2015						http://www.nature.com/npjbiofilms/		npjbiofilms		fulltext	Open Access		serial								F
+npj Breast Cancer		2374-4677	2015						http://www.nature.com/npjbcancer/		npjbcancer		fulltext	Open Access		serial								F
+npj Clean Water		2059-7037							http://www.nature.com/npjcleanwater/		npjcleanwater		fulltext	New for 2017. Open Access		serial								F
+npj Climate and Atmospheric Science		2397-3722	2018						http://www.nature.com/npjclimatsci/		npjclimatsci		fulltext	Open Access. new for 2016		serial								F
+npj Computational Materials		2057-3960	2015						http://www.nature.com/npjcompumats/		npjcompumats		fulltext	Open Access New for 2016		serial								F
+npj Flexible Electronics		2397-4621							http://www.nature.com/npjflexelectron/		npjflexelectron		fulltext	New for 2017. Open Access		serial								F
+npj Genomic Medicine		2056-7944	2016						http://www.nature.com/npjgenmed/		npjgenmed		fulltext	Open Access New for 2016		serial								F
+npj Materials Degradation		2397-2106							http://www.nature.com/npjmatdeg/		npjmatdeg		fulltext	New for 2017. Open Access		serial								F
+npj Microgravity		2373-8065	2015						http://www.nature.com/npjmgrav/		npjmgrav		fulltext	Open Access		serial								F
+npj Molecular Phenomics		2059-4690							http://www.nature.com/npjmolphen/		npjmolphen		fulltext	New for 2017. Open Access		serial								F
+npj Parkinson's Disease		2373-8057	2015						http://www.nature.com/npjparkd/		npjparkd		fulltext	Open Access		serial								F
+npj Pollution Control		2059-318X							http://www.nature.com/npjpollcon/		npjpollcon		fulltext	New for 2017. Open Access		serial								F
+npj Precision Oncology		2397-768X	2017						http://www.nature.com/npjprecisiononcology/		npjprecisiononcology		fulltext	Open Access. new for 2016		serial								F
+npj Primary Care Respiratory Medicine	2055-1010		2014						http://www.nature.com/npjpcrm/		npjpcrm		fulltext	Open Access		serial								F
+npj Quantum Information		2056-6387	2015						http://www.nature.com/npjqi/		npjqi		fulltext	Open Access New for 2016		serial								F
+npj Quantum Materials		2397-4648	2016						http://www.nature.com/npjquantmats/articles		npjquantmatsarticles		fulltext	Open Access		serial								F
+npj Regenerative Medicine		2057-3995	2016	1	1				http://www.nature.com/npjregenmed/		npjregenmed		fulltext	Open Access New for 2016		serial								F
+npj Schizophrenia		2334-265X	2015						http://www.nature.com/npjschz/		npjschz		fulltext	Open Access		serial								F
+npj Science of Food		2396-8370							http://www.nature.com/npjscifood/		npjscifood		fulltext	New for 2017. Open Access		serial								F
+npj Science of Learning		2056-7936	2016						http://www.nature.com/npjscilearn/		npjscilearn		fulltext	Open Access New for 2016		serial								F
+npj Systems Biology and Applications		2056-7189	2015						http://www.nature.com/npjsba/		npjsba		fulltext	Open Access New for 2016		serial								F
+npj Vaccines		2059-0105	2016						http://www.nature.com/npjvaccines/articles		npjvaccinesarticles		fulltext	New for 2017. Open Access		serial								F

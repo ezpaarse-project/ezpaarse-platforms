@@ -1,0 +1,37 @@
+publication_title	print_identifier	online_identifier	date_first_issue_online	num_first_vol_online	num_first_issue_online	date_last_issue_online	num_last_vol_online	num_last_issue_online	title_url	first_author	title_id	embargo_info	coverage_depth	notes	publisher_name	publication_type	date_monograph_published_print	date_monograph_published_online	monograph_volume	monograph_edition	first_editor	parent_publication_title_id	preceding_publication_title_id	access_type
+Archives of Asian Art	0066-6637	1944-6497	2008	58	1				https://muse.jhu.edu/journal/427		427		fulltext		Duke University Press	serial								P
+Asia Policy	1559-0968	1559-2960	2006	1	1				https://muse.jhu.edu/journal/511		511		fulltext		National Bureau of Asian Research	serial								P
+Asian Journal of English Language Teaching	1026-2652	2333-7192	2013	23	1	2014	24	24	https://muse.jhu.edu/journal/648		648		fulltext		Chinese University Press	serial								P
+Asian Music	0044-9202	1553-5630	2005	36	1				https://muse.jhu.edu/journal/281		281		fulltext		University of Texas Press	serial								P
+Asian Perspectives	0066-8435	1535-8283	2000	39	1				https://muse.jhu.edu/journal/17		17		fulltext		University of Hawai'i Press	serial								P
+Asian Theatre Journal	0742-5457	1527-2109	1999	16	2				https://muse.jhu.edu/journal/20		20		fulltext		University of Hawai'i Press	serial								P
+Azalea: Journal of Korean Literature & Culture	1939-6120	1944-6500	2007	1	1				https://muse.jhu.edu/journal/429		429		fulltext		University of Hawai'i Press	serial								P
+China Review	1680-2012	1015-6607	2013	13	1				https://muse.jhu.edu/journal/621		621		fulltext		Chinese University Press	serial								P
+China Review International	1069-5834	1527-9367	1994	1	1				https://muse.jhu.edu/journal/39		39		fulltext		University of Hawai'i Press	serial								P
+China: An International Journal	0219-7472	0219-8614	2003	1	1				https://muse.jhu.edu/journal/267		267		fulltext		NUS Press Pte Ltd	serial								P
+Comparative Studies of South Asia, Africa and the Middle East	1089-201X	1548-226X	2000	20	1				https://muse.jhu.edu/journal/256		256		fulltext		Duke University Press	serial								P
+Contemporary Southeast Asia: A Journal of International and Strategic Affairs	0129-797X	1793-284X	2003	25	1				https://muse.jhu.edu/journal/348		348		fulltext		ISEAS–Yusof Ishak Institute	serial								P
+East Asian Science, Technology and Society: an International Journal	1875-2160	1875-2152	2007	1	1				https://muse.jhu.edu/journal/543		543		fulltext		Duke University Press	serial								P
+Harvard Journal of Asiatic Studies	0073-0548	1944-6454	2009	69	1				https://muse.jhu.edu/journal/433		433		fulltext		Harvard-Yenching Institute	serial								P
+Hawaiian Journal of History	0440-5145	2169-7639	2015	49	1				https://muse.jhu.edu/journal/676		676		fulltext		University of Hawai'i Press	serial								P
+Indonesia	0019-7289	2164-8654	2012	93	1				https://muse.jhu.edu/journal/553		553		fulltext		Cornell University Press	serial								P
+Journal of Asian American Studies	1097-2129	1096-8598	1998	1	1				https://muse.jhu.edu/journal/86		86		fulltext		Johns Hopkins University Press	serial								P
+Journal of Burma Studies	1094-799X	2010-314X	1997	1	1				https://muse.jhu.edu/journal/529		529		fulltext		Northern Illinois University Press	serial								P
+Journal of Chinese Linguistics	0091-3723	2411-3484	2015	43	1				https://muse.jhu.edu/journal/655		655		fulltext		Chinese University Press	serial								P
+Journal of Chinese Literature and Culture	2329-0048	2329-0056	2014	1	1				https://muse.jhu.edu/journal/659		659		fulltext		Duke University Press	serial								P
+Journal of Korean Studies	0731-1613	2158-1665	1969	1	1				https://muse.jhu.edu/journal/515		515		fulltext		Duke University Press	serial								P
+Journal of Song-Yuan Studies	1059-3152	2154-6665	2008	38	1				https://muse.jhu.edu/journal/424		424		fulltext		The Society for Song, Yuan, and Conquest Dynasty Studies	serial								P
+Journal of Southeast Asian Economies (JSEAE)	2339-5095	2339-5206	2013	30	1				https://muse.jhu.edu/journal/347		347		fulltext		ISEAS–Yusof Ishak Institute	serial							924	P
+Journal of the Malaysian Branch of the Royal Asiatic Society	0128-5483	2180-4338	2010	83	1				https://muse.jhu.edu/journal/480		480		fulltext		Malaysian Branch of the Royal Asiatic Society	serial								P
+Korean Studies	0145-840X	1529-1529	1977	1	1				https://muse.jhu.edu/journal/109		109		fulltext		University of Hawai'i Press	serial								P
+Late Imperial China	0884-3236	1086-3257	1985	6	1				https://muse.jhu.edu/journal/114		114		fulltext		Johns Hopkins University Press	serial							1132	P
+Mechademia	1934-2489	2152-6648	2006	1	1				https://muse.jhu.edu/journal/461		461		fulltext		University of Minnesota Press	serial								P
+Monumenta Nipponica	0027-0741	1880-1390	2005	60	1				https://muse.jhu.edu/journal/308		308		fulltext		Sophia University	serial								P
+Oceanic Linguistics	0029-8115	1527-9421	1999	38	2				https://muse.jhu.edu/journal/147		147		fulltext		University of Hawai'i Press	serial								P
+Philippine Studies: Historical and Ethnographic Viewpoints	2244-1093	2244-1638	2012	60	1				https://muse.jhu.edu/journal/531		531		fulltext		Ateneo de Manila University	serial							1122	P
+Seoul Journal of Korean Studies	1225-0201	2331-4826	2013	26	1				https://muse.jhu.edu/journal/622		622		fulltext		The Kyujanggak Institute for Korean Studies	serial								P
+Sojourn: Journal of Social Issues in Southeast Asia	0217-9520	1793-2858	2003	18	1				https://muse.jhu.edu/journal/352		352		fulltext		ISEAS–Yusof Ishak Institute	serial								P
+Southeast Asian Affairs	0377-5437	1793-9135	2003	2003	1				https://muse.jhu.edu/journal/462		462		fulltext		ISEAS–Yusof Ishak Institute	serial								P
+The Journal of Japanese Studies	0095-6848	1549-4721	2004	30	1				https://muse.jhu.edu/journal/268		268		fulltext		Society for Japanese Studies	serial								P
+Yearbook of the Association of Pacific Coast Geographers	0066-9628	1551-3211	1935	1	1				https://muse.jhu.edu/journal/280		280		fulltext		University of Hawai'i Press	serial								P
+positions: east asia cultures critique	1067-9847	1527-8271	1999	7	2				https://muse.jhu.edu/journal/162		162		fulltext		Duke University Press	serial								P

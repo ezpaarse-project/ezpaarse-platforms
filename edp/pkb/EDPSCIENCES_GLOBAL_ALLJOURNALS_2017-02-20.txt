@@ -1,0 +1,34 @@
+publication_title	print_identifier	online_identifier	date_first_issue_online	num_first_vol_online	num_first_issue_online	date_last_issue_online	num_last_vol_online	num_last_issue_online	title_url	first_author	title_id	embargo_info	coverage_depth	notes	publisher_name	publication_type	date_monograph_published_print	date_monograph_published_online	monograph_volume	monograph_edition	first_editor	parent_publication_title_id	preceding_publication_title_id	access_type
+Agronomy for Sustainable Development	1774-0746	1773-0155	2005	25	1	2010	30	4	http://www.agronomy-journal.org		agro		fulltext		EDP Sciences	serial							agro	P
+Analusis	0365-4877	1286-482X	1998	26	1	2000	28	10	http://analusis.edpsciences.org		analusis		fulltext		EDP Sciences	serial								F
+Annales de Zootechnie	0003-424X	1297-9651	1952	1	1	2000	49	6	http://animres.edpsciences.org		animres		fulltext		EDP Sciences	serial								F
+Annals of Forest Science	1286-4560	1297-966X	1999	56	1	2010	67	8	http://www.afs-journal.org		forest		fulltext		EDP Sciences	serial							forest	F
+Apidologie	0044-8435	1297-9678	1970	1	1	2010	41	6	http://www.apidologie.org		apido		fulltext		EDP Sciences	serial							apido	F
+Cahiers Agricultures	1166-7699	1777-5949	2014	23	1				http://www.cahiersagricultures.fr		cagri		fulltext		EDP Sciences	serial								F
+Ciência e Técnica Vitivinícola		2416-3953	2014	29	1				http://www.ctv-jve-journal.org		ctv		fulltext		EDP Sciences	serial								F
+Dairy Science & Technology	1958-5586	1958-5594	2008	88	1	2010	90	6	http://www.dairy-journal.org		dst		fulltext		EDP Sciences	serial							lait	F
+E3S Web of Conferences		2267-1242	2013	1					http://www.e3s-conferences.org		e3sconf		fulltext		EDP Sciences	serial								F
+EPJ Applied Metamaterials		2272-2394	2014	1					http://epjam.edp-open.org		epjam		fulltext		EDP Sciences	serial								F
+EPJ Nonlinear Biomedical Physics		2195-0008	2013	1	1				http://www.epj-nbp.org		epjnbp		fulltext		EDP Sciences	serial								F
+EPJ Nuclear Sciences & Technologies		2491-9292	2015	1					http://www.epj-n.org		epjn		fulltext		EDP Sciences	serial								F
+European Journal of Economic and Social Systems	1292-8895	1292-8909	1999	13	1	2001	15	3	http://ejess.edpsciences.org		ejess		fulltext		EDP Sciences	serial								F
+Génétique Sélection Évolution	0754-0264	2056-4562	1983	15	1	1988	20	4	http://www.gse-journal.org		gse		fulltext		EDP Sciences	serial							gse	F
+Histoire Epistémologie Langage	0750-8069	1638-1580	2015	37	1				http://www.hel-journal.org		hel		fulltext		EDP Sciences	serial								P
+ITM Web of Conferences		2271-2097	2013	1					http://www.itm-conferences.org		itmconf		fulltext		EDP Sciences	serial								F
+Le Lait	0023-7302	1297-9694	1921	1	1	2007	87	6	http://lait.dairy-journal.org		lait		fulltext		EDP Sciences	serial								F
+Les Cahiers de Myologie	2108-2219	2496-1558	2016		13				http://www.cahiers-myologie.org		myolog		fulltext		EDP Sciences	serial								F
+Manufacturing Review		2265-4224	2014	1					http://mfr.edp-open.org		mfreview		fulltext		EDP Sciences	serial								F
+Oléagineux, Corps gras, Lipides	1258-8210	1950-697X	2000	7	1	2013	20	3	http://www.ocl-journal.org		ocl		fulltext		EDP Sciences	serial								F
+Photoniques	1629-4475	2269-8418	2008		37				http://www.photoniques.com		photon	R12M	fulltext		EDP Sciences	serial								P
+Quadrature	1142-2785	1760-4826	2002		46	2010		77	http://www.quadrature-journal.org		quadrature		fulltext		EDP Sciences	serial								P
+Reflets de la physique	1953-793X	2102-6777	2006		1				http://www.refletsdelaphysique.fr		refdp	R12M	fulltext		EDP Sciences	serial							refdp	P
+Regenerative Medicine Research		2050-490X	2013	1					http://www.regenmedres-journal.org		rmr		fulltext		EDP Sciences	serial								F
+Renewable Energy and Environmental Sustainability		2493-9439	2016	1					http://www.rees-journal.org		rees		fulltext		EDP Sciences	serial								F
+Reproduction Nutrition Développement	0181-1916		1980	20	1A	1988	28	S1	http://rnd.edpsciences.org		rnd		fulltext		EDP Sciences	serial							rnd	F
+Revue Française de Géotechnique	0181-0529	2493-8653	2016		146				http://www.geotechnique-journal.org		geotech		fulltext		EDP Sciences	serial								P
+Revue Générale Nucléaire	0335-5004		1975		1				http://rgn.publications.sfen.org		rgn		fulltext		EDP Sciences	serial								P
+Revue d’Orthodontie Clinique	2118-5654	2269-8876	2011		1				http://www.roc-journal.org		roc		fulltext		EDP Sciences	serial								P
+SICOT-J		2426-8887	2015	1					http://www.sicot-j.org		sicotj		fulltext		EDP Sciences	serial								F
+Sustainable Buildings		2492-6035	2016	1					http://www.sustainable-buildings-journal.org		sbuild		fulltext		EDP Sciences	serial								F
+Techniques Sciences Méthodes	0299-7258	2417-0097	2007		1				http://tsm.astee.org		tsm		fulltext		EDP Sciences	serial								P
+Veterinary Research	0928-4249	1297-9716	2000	31	1	2010	41	6	http://www.vetres.org		vetres		fulltext		EDP Sciences	serial								F

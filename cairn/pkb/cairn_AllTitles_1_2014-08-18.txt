@@ -1,6 +1,5 @@
 publication_title	print_identifier	online_identifier	date_first_issue_online	num_first_vol_online	num_first_issue_online	date_last_issue_online	num_last_vol_online	num_last_issue_online	title_url	publisher_name	first_author	title_id	embargo_info	coverage_depth	coverage_notes	publication_type	date_monograph_published_print	date_monograph_published_online	monograph_volume	monograph_edition	first_editor	parent_publication_title_id	preceding_publication_title_id	access_type
 Revue de l'Entrepreneuriat	1766-2524	1630-7542	2001	Vol. 1	1	2013	Vol. 9	4	http://www.cairn.info/revue--de-l-entrepreneuriat.htm	De Boeck Supérieur		revue--de-l-entrepreneuriat												
-Corps	1954-1228	1969-6957	2006	n° 1	1	2013	N° 9	2	http://www.cairn.info/revue-corps-dilecta.htm	Dilecta		revue-corps												
 Etudes balkaniques			2008	n° 15	1	2010	n° 17	1	http://www.cairn.info/revue-etudes-balkaniques.htm	Association Pierre Belon		revue-etudes-balkaniques												
 Italies	1275-7519	2108-6540							http://www.cairn.info/revue-italies.htm			revue-italies												
 Les Nouveaux Cahiers du Conseil constitutionnel	2112-2679	1968-3820	2010	N ° 31	1	2014	N° 44	4	http://www.cairn.info/revue-les-nouveaux-cahiers-du-conseil-constitutionnel.htm	Lextenso Editions		revue-les-nouveaux-cahiers-du-conseil-constitutionnelles-nouveaux-cahiers-du-conseil-c												

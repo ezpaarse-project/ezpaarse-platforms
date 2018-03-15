@@ -1,0 +1,4 @@
+publication_title	print_identifier	online_identifier	date_first_issue_online	num_first_vol_online	num_first_issue_online	date_last_issue_online	num_last_vol_online	num_last_issue_online	title_url	first_author	title_id	embargo_info	coverage_depth	notes	publisher_name	publication_type	date_monograph_published_print	date_monograph_published_online	monograph_volume	monograph_edition	first_editor	parent_publication_title_id	preceding_publication_title_id	access_type
+Astronomy & astrophysics	0004-6361	1432-0746	1969			1996			https://aa.springer.de/		aa.springer.de		fulltext		Springer Verl.Les Ulis : EDP Sciences	serial								P
+Reviews of physiology, biochemistry and pharmacology	0303-4240	1617-5786	1974			1996			https://link.springer.com/bookseries/8862		8862		fulltext			serial								P
+Topics in applied physics	0303-4216	1437-0859	1973			1996			https://link.springer.com/bookseries/560		560		fulltext			serial								P

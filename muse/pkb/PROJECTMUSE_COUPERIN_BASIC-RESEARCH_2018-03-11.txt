@@ -1,0 +1,46 @@
+publication_title	print_identifier	online_identifier	date_first_issue_online	num_first_vol_online	num_first_issue_online	date_last_issue_online	num_last_vol_online	num_last_issue_online	title_url	first_author	title_id	embargo_info	coverage_depth	notes	publisher_name	publication_type	date_monograph_published_print	date_monograph_published_online	monograph_volume	monograph_edition	first_editor	parent_publication_title_id	preceding_publication_title_id	access_type
+Advertising & Society Review		1534-7311	2000	1	1	2017	17	3	https://muse.jhu.edu/journal/18		18		fulltext		Advertising Educational Foundation	serial								P
+Africa: The Journal of the International African Institute	0001-9720	1750-0184	2005	2005	1				https://muse.jhu.edu/journal/310		310		fulltext		Cambridge University Press	serial								P
+Anthropological Linguistics	0003-5483	1944-6527	2009	51	1				https://muse.jhu.edu/journal/436		436		fulltext		University of Nebraska Press	serial								P
+Arctic Anthropology	0066-6939	1933-8139	2003	40	1				https://muse.jhu.edu/journal/384		384		fulltext		University of Wisconsin Press	serial								P
+CR: The New Centennial Review	1532-687X	1539-6630	2001	1	1				https://muse.jhu.edu/journal/139		139		fulltext		Michigan State University Press	serial								P
+Canadian Journal of Criminology and Criminal Justice	1707-7753	1911-0219	2006	48	1				https://muse.jhu.edu/journal/315		315		fulltext		University of Toronto Press	serial								P
+Canadian Journal of Philosophy	0045-5091	1911-0820	2006	36	1	2012	42	3	https://muse.jhu.edu/journal/354		354		fulltext		Canadian Journal of Philosophy	serial								P
+Canadian Journal on Aging / La Revue canadienne du vieillissement	0714-9808	1710-1107	2004	23	1				https://muse.jhu.edu/journal/271		271		fulltext		Cambridge University Press	serial								P
+Canadian Public Policy	0317-0861	1911-9917	2009	35	1				https://muse.jhu.edu/journal/438		438		fulltext		University of Toronto Press	serial								P
+Canadian Review of American Studies	0007-7720	1710-114X	2004	34	1				https://muse.jhu.edu/journal/269		269		fulltext		University of Toronto Press	serial								P
+Global Environmental Politics	1526-3800	1536-0091	2003	3	1				https://muse.jhu.edu/journal/219		219		fulltext		The MIT Press	serial								P
+History Workshop Journal	1363-3554	1477-4569	2004	57	1				https://muse.jhu.edu/journal/277		277		fulltext		Oxford University Press	serial								P
+Holocaust and Genocide Studies	8756-6583	1476-7937	2003	17	1				https://muse.jhu.edu/journal/220		220		fulltext		Oxford University Press	serial								P
+Indiana Journal of Global Legal Studies	1080-0727	1543-0367	2003	10	1				https://muse.jhu.edu/journal/236		236		fulltext		Indiana University Press	serial								P
+Israel Studies	1084-9513	1527-201X	1996	1	1				https://muse.jhu.edu/journal/85		85		fulltext		Indiana University Press	serial								P
+Jewish Social Studies	0021-6704	1527-2028	1999	5	3				https://muse.jhu.edu/journal/105		105		fulltext		Indiana University Press	serial								P
+Journal of Health Care for the Poor and Underserved	1049-2089	1548-6869	1990	1	1				https://muse.jhu.edu/journal/278		278		fulltext		Johns Hopkins University Press	serial								P
+Journal of Human Resources	0022-166X	1548-8004	2008	43	1				https://muse.jhu.edu/journal/556		556		fulltext		University of Wisconsin Press	serial								P
+Journal of Scholarly Publishing	1198-9742	1710-1166	2003	35	1				https://muse.jhu.edu/journal/251		251		fulltext		University of Toronto Press	serial								P
+Ka Ho'oilina/The Legacy	1535-3133	1542-4243	2002	1	1	2006	5	1	https://muse.jhu.edu/journal/225		225		fulltext		University of Hawai'i Press	serial								P
+Labor Studies Journal	0160-449X	1538-9758	2002	27	1	2007	31	4	https://muse.jhu.edu/journal/110		110		fulltext		West Virginia University Press	serial								P
+Land Economics	0023-7639	1543-8325	2008	4	1				https://muse.jhu.edu/journal/560		560		fulltext		University of Wisconsin Press	serial								P
+Mediterranean Quarterly	1047-4552	1527-1935	1999	10	3				https://muse.jhu.edu/journal/124		124		fulltext		Duke University Press	serial								P
+Merrill-Palmer Quarterly	0272-930X	1535-0266	2001	47	1				https://muse.jhu.edu/journal/132		132		fulltext		Wayne State University Press	serial								P
+Native Plants Journal	1552-8339	1548-4785	2004	5	1				https://muse.jhu.edu/journal/276		276		fulltext		University of Wisconsin Press	serial								P
+Oral Tradition	0883-5365	1542-4308	2003	18	1				https://muse.jhu.edu/journal/227		227		fulltext		Center for Studies in Oral Tradition	serial								P
+Perspectives on Science	1063-6145	1530-9274	1998	6	1				https://muse.jhu.edu/journal/163		163		fulltext		The MIT Press	serial								P
+Population Review	0032-471X	1549-0955	2003	42	1				https://muse.jhu.edu/journal/247		247		fulltext		Sociological Demography Press	serial								P
+Rhetoric & Public Affairs	1094-8392	1534-5238	1998	1	1				https://muse.jhu.edu/journal/171		171		fulltext		Michigan State University Press	serial								P
+Social Politics: International Studies in Gender, State and Society	1072-4745	1468-2893	2003	10	1				https://muse.jhu.edu/journal/234		234		fulltext		Oxford University Press	serial								P
+Southeastern Geographer	0038-366X	1549-6929	1961	1	1				https://muse.jhu.edu/journal/279		279		fulltext		The University of North Carolina Press	serial								P
+Southern Cultures	1068-8218	1534-1488	1993	1	1				https://muse.jhu.edu/journal/177		177		fulltext		The University of North Carolina Press	serial								P
+Studies in Bibliography	0081-7600	1553-3891	2002	55	1				https://muse.jhu.edu/journal/298		298		fulltext		Bibliographical Society of the University of Virginia	serial								P
+The Canadian Journal of Linguistics / La revue canadienne de linguistique	0008-4131	1710-1115	2003	48	1				https://muse.jhu.edu/journal/270		270		fulltext		Cambridge University Press	serial								P
+The Canadian Journal of Sociology	0318-6431	1710-1123	2004	29	1	2007	32	4	https://muse.jhu.edu/journal/249		249		fulltext		University of Toronto Press	serial								P
+The Eighteenth Century	0193-5380	1935-0201	2006	47	1				https://muse.jhu.edu/journal/364		364		fulltext		University of Pennsylvania Press	serial								P
+The Future of Children	1054-8289	1550-1558	2005	15	1				https://muse.jhu.edu/journal/286		286		fulltext		Princeton University	serial								P
+The High School Journal	0018-1498	1534-5157	2001	84	3				https://muse.jhu.edu/journal/78		78		fulltext		The University of North Carolina Press	serial								P
+The Journal of Developing Areas	0022-037X	1548-2278	2003	37	1				https://muse.jhu.edu/journal/258		258		fulltext		Tennessee State University College of Business	serial								P
+The Journal of General Education	0021-3667	1527-2060	1999	48	2				https://muse.jhu.edu/journal/89		89		fulltext		Penn State University Press	serial								P
+Theory & Event		1092-311X	1997	1	1				https://muse.jhu.edu/journal/191		191		fulltext		Johns Hopkins University Press	serial								P
+University of Toronto Law Journal	0042-0220	1710-1174	2004	54	1				https://muse.jhu.edu/journal/252		252		fulltext		University of Toronto Press	serial								P
+Wicazo Sa Review	0749-6427	1533-7901	2000	15	2				https://muse.jhu.edu/journal/207		207		fulltext		University of Minnesota Press	serial								P
+portal: Libraries and the Academy	1531-2542	1530-7131	2001	1	1				https://muse.jhu.edu/journal/159		159		fulltext		Johns Hopkins University Press	serial								P
+Éire-Ireland	0013-2683	1550-5162	1994	29	3	2017	52	3	https://muse.jhu.edu/journal/244		244		fulltext		Irish-American Cultural Institute	serial								P
