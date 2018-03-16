@@ -10,7 +10,6 @@ const Parser = require('../.lib/parser.js');
 module.exports = new Parser(function analyseEC(parsedUrl) {
   let result = {};
   let path   = parsedUrl.pathname;
-  let param  = parsedUrl.query || {};
   let match;
 
   if ((match = /^\/pdf\/(10\.[0-9]+\/([0-9x]+))(\.ch[0-9]+)$/i.exec(path)) !== null) {
@@ -178,18 +177,6 @@ module.exports = new Parser(function analyseEC(parsedUrl) {
     result.rtype    = 'TOC';
     result.mime     = 'HTML';
 
-  } else if (/^\/readcube$/i.test(path)) {
-    // /readcube?callback=jQuery21009089781963266432_1408430129173&resource=10.1002%2F2014GC005230&_=1408430129174
-    result.rtype = 'ARTICLE';
-    result.mime  = 'READCUBE';
-
-    if (param.resource) {
-      result.doi    = param.resource;
-      result.unitid = param.resource.split('/')[1];
-      if ((match = /(10\.[0-9]+)\/([0-9]{4})([a-z0-9]{2})([^/]+)$/i.exec(param.resource)) !== null) {
-        result.title_id = match[3].toUpperCase();
-      }
-    }
   } else if ((match = /^\/doi\/(10\.[0-9]+\/([a-z]{1}[0-9]{8}([0-9]{2})[a-z0-9]+))\/pdf$/i.exec(path)) !== null) {
     // /doi/10.1107/S1399004715000292/pdf
     result.doi      = match[1];
@@ -245,13 +232,12 @@ module.exports = new Parser(function analyseEC(parsedUrl) {
 
     result.publication_date = match[4];
 
-  } else if ((match = /^\/doi\/(10\.[0-9]+\/(([0-9]{2,4})([a-z]+)[0-9]+))\/(pdf|full)$/i.exec(path)) !== null) {
+  } else if ((match = /^\/doi\/(10\.[0-9]+\/(([0-9]{2,4})([a-z]+)[0-9]+))\/(e?pdf|full)$/i.exec(path)) !== null) {
     // /doi/10.1002/2015TC003829/pdf
     result.doi      = match[1];
     result.unitid   = match[2];
     result.title_id = match[4].toUpperCase();
     result.rtype    = 'ARTICLE';
-    result.mime     = match[5] === 'pdf' ? 'PDF' : 'HTML';
 
     result.publication_date = match[3];
 
@@ -259,12 +245,29 @@ module.exports = new Parser(function analyseEC(parsedUrl) {
       result.publication_date = '19' + match[3];
     }
 
-  } else if ((match = /^\/doi\/(10\.[0-9]+\/([^.]+))\/(pdf|full)$/i.exec(path)) !== null) {
+    switch (match[5]) {
+    case 'pdf':
+    case 'epdf':
+      result.mime = 'PDF';
+      break;
+    case 'full':
+      result.mime = 'HTML';
+    }
+
+  } else if ((match = /^\/doi\/(10\.[0-9]+\/([^.]+))\/(epdf|pdf|full)$/i.exec(path)) !== null) {
     // /doi/10.1029/JZ072i023p05799/pdf
     result.doi    = match[1];
     result.unitid = match[2];
     result.rtype  = 'ARTICLE';
-    result.mime   = match[3] === 'pdf' ? 'PDF' : 'HTML';
+
+    switch (match[3]) {
+    case 'pdf':
+    case 'epdf':
+      result.mime = 'PDF';
+      break;
+    case 'full':
+      result.mime = 'HTML';
+    }
   }
 
   return result;
