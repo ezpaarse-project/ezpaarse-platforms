@@ -10,7 +10,8 @@
   "contact": "joelle.guerrier at inist point fr",
   "domains": [
     "www.erudit.org",
-    "etudinuit.erudit.org"
+    "etudinuit.erudit.org",
+    "retro.erudit.org"
   ],
   "bacon": {
     "provider": "ERUDIT"
