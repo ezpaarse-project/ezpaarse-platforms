@@ -1,0 +1,21 @@
+{
+  "version": "2018-02-13",
+  "status": "active",
+  "domains": [
+    "access.newspaperarchive.com",
+    "iip.newspaperarchive.com",
+    "pdftojp2.newspaperarchive.com"
+  ],
+  "recognize": {
+    "rid": [
+      "unitid"
+    ]
+  },
+  "name": "npa",
+  "longname": "Newspaper Archive",
+  "describe": "Recognizes the accesses to the platform Newspaper Archive",
+  "docurl": "http://ang.couperin.org/platforms/5a833bf4c883df44fa43025f",
+  "trello": "https://trello.com/c/imBm9PIR/455-newspaper-archive-npa",
+  "contact": "alexander.cooper@emory.edu",
+  "pkb": false
+}
