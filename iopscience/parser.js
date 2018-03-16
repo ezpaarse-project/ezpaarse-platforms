@@ -1,17 +1,13 @@
 #!/usr/bin/env node
 
-// ##EZPAARSE
-
-/*jslint maxlen: 150*/
 'use strict';
-var Parser = require('../.lib/parser.js');
+const Parser = require('../.lib/parser.js');
 
 module.exports = new Parser(function analyseEC(parsedUrl) {
-  var result = {};
-  //var param  = parsedUrl.query || {};
-  var path   = parsedUrl.pathname;
-  var hash   = parsedUrl.hash || {};
-  var match;
+  const result = {};
+  const path   = parsedUrl.pathname;
+  const hash   = parsedUrl.hash;
+  let match;
 
   if ((match = /^\/([0-9]{4}-[0-9]{3}([0-9Xx])?)(\/[0-9]+\/[0-9]+)$/i.exec(path)) !== null) {
     // /1758-5090/5/3
@@ -49,8 +45,10 @@ module.exports = new Parser(function analyseEC(parsedUrl) {
     result.print_identifier = match[3];
     result.vol              = match[4];
     result.issue            = match[5];
-  } else if ((match = /^\/article\/(10\.[0-9]+\/(([0-9]{4}-[0-9]{3}[0-9x])\/[a-z0-9]+))\/(pdf|meta)/i.exec(path)) !== null) {
+
+  } else if ((match = /^\/article\/(10\.[0-9]+\/(([0-9]{4}-[0-9]{3}[0-9x])\/[a-z0-9]+))(?:\/(pdf|meta))?/i.exec(path)) !== null) {
     // /article/10.1088/2040-8986/aa6097/pdf
+    // /article/10.1088/1555-6611/aa9ebe
     result.rtype            = 'ARTICLE';
     result.mime             = match[4] === 'pdf' ? 'PDF': 'HTML';
     result.doi              = match[1];
