@@ -1,0 +1,16 @@
+{
+  "version": "2018-02-20",
+  "status": "active",
+  "domains": [
+    "http://library.cqpress.com/"
+  ],
+  "recognize": {
+    "rid": []
+  },
+  "name": "cqp",
+  "longname": "CQ Press Library",
+  "describe": "Recognizes the accesses to the platform CQ Press Library",
+  "docurl": "http://ang.couperin.org/platforms/5a8ca964fe5c22de9a3e6840/analyses",
+  "contact": "alexander.cooper@emory.edu",
+  "pkb": false
+}
