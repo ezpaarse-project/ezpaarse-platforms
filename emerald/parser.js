@@ -1,10 +1,7 @@
 #!/usr/bin/env node
 
-// ##EZPAARSE
-
-/*jslint maxlen: 150*/
 'use strict';
-var Parser = require('../.lib/parser.js');
+const Parser = require('../.lib/parser.js');
 
 /**
  * Identifie les consultations de la plateforme Emerald management ejournals archives et Business
@@ -14,98 +11,89 @@ var Parser = require('../.lib/parser.js');
  * @return {Object} the result
  */
 module.exports = new Parser(function analyseEC(parsedUrl, ec) {
-  var result = {};
-  var path   = parsedUrl.pathname;
-  // uncomment this line if you need parameters
-  // var param  = parsedUrl.query || {};
+  const result = {};
+  const path   = parsedUrl.pathname;
+  let match;
 
-  // use console.error for debuging
-  // console.error(parsedUrl);
-
-  var match;
-
-  if ((match = /^\/series\/([a-z]+)$/.exec(path)) !== null) {
-    // http://www.emeraldinsight.com/series/ail
+  if ((match = /^\/series\/([a-z]+)$/i.exec(path)) !== null) {
+    // /series/ail
     result.rtype    = 'BOOKSERIE';
     result.mime     = 'MISC';
     result.title_id = match[1];
-    result.unitid   = 'series/' +match[1];
-  } else if ((match = /^\/doi\/([a-z]+)\/([0-9]{2}\.[0-9]{4,5})\/(([A-Z]{1})([0-9]+)([-])([0-9]+)[(]([0-9]{4})[)]([0-9]+))$/.exec(path)) !== null) {
-    //http://www.emeraldinsight.com/doi/book/10.1108/S0065-2830%282012%2935
+    result.unitid   = match[1];
 
-    if (match[1] === 'abs') {
-      result.rtype    = 'ABS';
-      result.mime     = 'MISC';
-    } else if (match[1] === 'book') {
-      result.rtype    = 'BOOKSERIE';
-      result.mime     = 'MISC';
-    } else if (match[1] === 'full') {
-      result.mime     = 'HTML';
-      result.rtype    = 'ARTICLE';
-    } else if (match[1] === 'pdfplus') {
-      result.mime     = 'PDFPLUS';
-      result.rtype    = 'ARTICLE';
-    } else {
-      result.rtype    = 'ARTICLE';
-      result.mime     = 'MISC';
+  } else if ((match = /^\/doi\/([a-z]+)\/(10\.[0-9]{4,5}\/([A-Z]([0-9]{4}-[0-9]{4})\(?([0-9]{4})\)?[0-9]+))$/i.exec(path)) !== null) {
+    // /doi/book/10.1108/S0065-2830%282012%2935
+    // /doi/pdfplus/10.1108/S0882-614520170000034003
+
+    result.doi               = match[2];
+    result.unitid            = match[3];
+    result.online_identifier = match[4];
+    result.publication_date  = match[5];
+
+    switch (match[1]) {
+    case 'abs':
+      result.rtype = 'ABS';
+      result.mime  = 'MISC';
+      break;
+    case 'book':
+      result.rtype = 'BOOKSERIE';
+      result.mime  = 'MISC';
+      break;
+    case 'full':
+      result.mime  = 'HTML';
+      result.rtype = 'ARTICLE';
+      break;
+    case 'pdfplus':
+      result.mime  = 'PDFPLUS';
+      result.rtype = 'ARTICLE';
+      break;
+    default:
+      result.rtype = 'ARTICLE';
+      result.mime  = 'MISC';
     }
 
-    result.publication_date= match[8];
-    result.title_id = match[5] +match[6] +match[7];
-    //see the comment block above
-    result.unitid =result.doi  = match[2] + '/' + match[3];
-  } else if ((match = /^\/loi\/([a-z]+)$/.exec(path)) !== null) {
-    // http://www.emeraldinsight.com/loi/ejim
-
+  } else if ((match = /^\/loi\/([a-z]+)$/i.exec(path)) !== null) {
+    // /loi/ejim
     result.mime     = 'MISC';
     result.title_id = match[1];
-    result.unitid   = 'loi/' +match[1];
-  } else if ((match = /^\/toc\/([a-z]+)\/([0-9]+)\/([0-9]+)/.exec(path)) !== null) {
-    // http://www.emeraldinsight.com/toc/ejim/18/3
+    result.unitid   = match[1];
+
+  } else if ((match = /^\/toc\/(([a-z]+)\/[0-9]+\/[0-9]+)/.exec(path)) !== null) {
+    // /toc/ejim/18/3
     result.rtype    = 'TOC';
     result.mime     = 'MISC';
-    result.title_id = match[1];
-    result.unitid   = match[1] + '/' + match[2] + '/'+ match[3];
-  }  else if ((match = /^\/doi\/([a-z]+)\/([0-9]{2}\.[0-9]{4,5})\/(([A-Z]+)([-])([0-9]+)([-])([0-9]+)([-])([0-9]+))$/.exec(path)) !== null) {
-  //  http://www.emeraldinsight.com/doi/abs/10.1108/EJIM-10-2013-0115
+    result.title_id = match[2];
+    result.unitid   = match[1];
 
-    if (match[1] === 'abs') {
-      result.rtype    = 'ABS';
-      result.mime     = 'MISC';
-    } else if (match[1] === 'full') {
-      result.mime     = 'HTML';
-      result.rtype    = 'ARTICLE';
-    } else if (match[1] === 'pdfplus') {
-      result.mime     = 'PDFPLUS';
-      result.rtype    = 'ARTICLE';
-    } else {
-      result.rtype    = 'ARTICLE';
+  } else if ((match = /^\/doi\/([a-z]+)\/([0-9]{2}\.[0-9]{4,5}\/(([a-z]*)[0-9-]+))$/i.exec(path)) !== null) {
+    // /doi/abs/10.1108/EJIM-10-2013-0115
+    // /doi/pdfplus/10.1108/14601061211272358
+
+    result.unitid = match[3];
+    result.doi    = match[2];
+
+    if (match[4]) {
+      result.title_id = match[4];
     }
 
-
-    result.title_id = match[4] ;
-    //see the comment block above
-    result.unitid =result.doi  = match[2] + '/' + match[3];
-  } else if ((match = /^\/doi\/([a-z]+)\/([0-9]{2}\.[0-9]{4,5})\/([0-9]+)$/.exec(path)) !== null) {
-  //  http://www.emeraldinsight.com/doi/pdfplus/10.1108/14601061211272358
-
-    if (match[1] === 'abs') {
-      result.rtype    = 'ABS';
-      result.mime     = 'MISC';
-    } else if (match[1] === 'full') {
-      result.mime     = 'HTML';
-      result.rtype    = 'ARTICLE';
-    } else if (match[1] === 'pdfplus') {
-      result.mime     = 'PDFPLUS';
-      result.rtype    = 'ARTICLE';
-    } else {
-      result.rtype    = 'ARTICLE';
+    switch (match[1]) {
+    case 'abs':
+      result.rtype = 'ABS';
+      result.mime  = 'MISC';
+      break;
+    case 'full':
+      result.mime  = 'HTML';
+      result.rtype = 'ARTICLE';
+      break;
+    case 'pdfplus':
+      result.mime  = 'PDFPLUS';
+      result.rtype = 'ARTICLE';
+      break;
+    default:
+      result.rtype = 'ARTICLE';
     }
 
-
-    result.title_id = match[3] ;
-    //see the comment block above
-    result.unitid =result.doi  = match[2] + '/' + match[3];
   }
 
   return result;
