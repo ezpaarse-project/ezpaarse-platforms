@@ -99,7 +99,6 @@ Algorithmica	0178-4617	1432-0541	1986	1					https://link.springer.com/journal/45
 Allergo Journal	0941-8849	2195-6405	2012	21		2013	22		https://link.springer.com/journal/15007		15007		fulltext			serial								P
 Allergo Journal International		2197-0378	2014	23					https://link.springer.com/journal/40629		40629		fulltext	New Start in 2014. English Language translation of Allergo Journal. Starts with Volume 23 (parallel to German language Allergo Journal). Available in electronic format only. Open Access.		serial								F
 Allgemeines statistisches Archiv	0002-6018	1614-0176	2004	88		2006	90		https://link.springer.com/journal/10182		10182		fulltext	now: AStA Advances in Statistical Analysis		serial								P
-Alzheimer's Research & Therapy		1758-9193	2009	1					https://link.springer.com/				fulltext	All research articles are fully open access, subscription required for other content. For prices please see separate BioMed Central Price List. Available in electronic format only.		serial								P
 American Journal of Cancer	1175-6357	2230-6064	2002	1	1	2006	5	6	https://link.springer.com/journal/40280		40280		fulltext	Ceased (2006)		serial								P
 American Journal of Cardiovascular Drugs	1175-3277	1179-187X	2001	1					https://link.springer.com/journal/40256		40256		fulltext	Take-over in 2013		serial								P
 American Journal of Clinical Dermatology	1175-0561	1179-1888	2000	1					https://link.springer.com/journal/40257		40257		fulltext	Take-over in 2013		serial								P
@@ -115,7 +114,6 @@ Analog Integrated Circuits and Signal Processing	0925-1030	1573-1979	1991	1					
 Analysis Mathematica	0133-3852	1588-273X	1975	1					https://link.springer.com/journal/10476		10476		fulltext			serial								P
 Analysis and Mathematical Physics	1664-2368	1664-235X	2011	1					https://link.springer.com/journal/13324		13324		fulltext			serial								P
 Anatomical Science International	1447-6959	1447-073X	2002	77					https://link.springer.com/journal/12565		12565		fulltext			serial								P
-Angewandte Schmerztherapie und Palliativmedizin	1866-1424		2010	3	1	2014	7	4	https://link.springer.com/				fulltext	Ceased (2014)		serial								P
 Angiogenesis	0969-6970	1573-7209	1997	1					https://link.springer.com/journal/10456		10456		fulltext			serial								P
 Animal Cognition	1435-9448	1435-9456	1998	1					https://link.springer.com/journal/10071		10071		fulltext			serial								P
 Annalen der Philosophie und philosophischen Kritik	1866-6175		1924	4		1929	8		https://link.springer.com/journal/12375		12375		fulltext			serial								P
@@ -205,7 +203,6 @@ ArgoSpine News & Journal	1957-7729	1957-7737	2007	15		2012	24		https://link.spri
 Argumentation	0920-427X	1572-8374	1987	1					https://link.springer.com/journal/10503		10503		fulltext			serial								P
 Arid Ecosystems	2079-0961	2079-0988	2011	1					https://link.springer.com/journal/13330		13330		fulltext			serial								P
 Arkiv för Matematik	0004-2080	1871-2487	1949	1		2016	54	2	https://link.springer.com/journal/11512		11512		fulltext	transfer out (2017): International Press		serial								P
-Arktos	2364-9453	2364-9461	2015	1									fulltext			serial								P
 Arnold Mathematical Journal	2199-6792	2199-6806	2015	1	1				https://link.springer.com/journal/40598		40598		fulltext	new for 2015		serial								P
 Arthropod-Plant Interactions	1872-8855	1872-8847	2007	1					https://link.springer.com/journal/11829		11829		fulltext			serial								P
 Arthroskopie	0933-7946	1434-3924	1998	11					https://link.springer.com/journal/142		142		fulltext			serial								P
@@ -251,9 +248,6 @@ BMC Clinical Pharmacology		1472-6904	2001	1		2012	12		https://link.springer.com/
 BMC Pharmacology		1471-2210	2001	1		2012	12		https://link.springer.com/journal/12869		12869		fulltext			serial								P
 BMC Zoology		2056-3132	2015						https://link.springer.com/journal/40850		40850		fulltext	New (2015). Open Access. EISSN not in the issn portal		serial								F
 BT Technology Journal	1358-3948	1573-1995	1997	15		2007	25		https://link.springer.com/journal/10550		10550		fulltext			serial								P
-BankFachklasse inklusive Online Prüfungstraining	0170-6659	2192-8665							https://link.springer.com/				fulltext			serial								P
-Bankmagazin	0944-3223	2192-8770							https://link.springer.com/				fulltext			serial								P
-Bankmagazin inkl. Anlagepraxis	1616-0584								https://link.springer.com/				fulltext			serial								P
 Basic Research in Cardiology	0300-8428	1435-1803	1973	68	1				https://link.springer.com/journal/395		395		fulltext	Previously: Archiv für Kreislaufforschung (1937-1972)		serial								P
 Baurechtliche Blätter: bbl	1434-1832	1613-7612	2007	10		2012	15		https://link.springer.com/journal/738		738		fulltext			serial								P
 Behavior Analysis in Practice	1998-1929	2196-8934	2014	7					https://link.springer.com/journal/40617		40617		fulltext	Take-over in 2014. More content! Former publisher: Association for Behavior Analysis International		serial								P
@@ -320,7 +314,6 @@ Blätter der Deutschen Gesellschaft für Versicherungs- und Finanzmathematik e.V
 Boletín de la Sociedad Matemática Mexicana	1405-213X	2296-4495	2014	20					https://link.springer.com/journal/40590		40590		fulltext	Take-over in 2014. Former publisher: Sociedad Matematica Mexicana.		serial								P
 Bollettino dell'Unione Matematica Italiana	1972-6724		2014	7					https://link.springer.com/journal/40574		40574		fulltext	Take-over in 2014. Former publisher: Unione Matematica Italiana		serial								P
 Botanica Helvetica	0253-1453	1420-9063	2005	115	1	2010	120	2	https://link.springer.com/journal/35		35		fulltext	now: Alpine Botany		serial								P
-Botanical Magazine Tokyo	0006-808X		1972	85	1	1992	105	4					fulltext	now: Journal of Plant Research		serial								P
 Boundary-Layer Meteorology	0006-8314	1573-1472	1970	1					https://link.springer.com/journal/10546		10546		fulltext			serial								P
 Brain Imaging and Behavior	1931-7557	1931-7565	2007	1					https://link.springer.com/journal/11682		11682		fulltext			serial								P
 Brain Topography	0896-0267	1573-6792	1988	1					https://link.springer.com/journal/10548		10548		fulltext			serial								P
@@ -373,7 +366,6 @@ Cancer Microenvironment	1875-2292	1875-2284	2008	1					https://link.springer.com
 Cancer and Metastasis Reviews	0167-7659	1573-7233	1982	1					https://link.springer.com/journal/10555		10555		fulltext			serial								P
 Carbonates and Evaporites	0891-2556	1878-5212	1986	1					https://link.springer.com/journal/13146		13146		fulltext			serial								P
 Cardiac Electrophysiology Review	1385-2264	1573-725X	1997	1		2003	7		https://link.springer.com/journal/10572		10572		fulltext	Absorbed by Journal of Interventional Cardiac Electrophysiology but no 1997- access under this title.		serial								P
-Cardio News	1437-1073								https://link.springer.com/				fulltext			serial								P
 CardioVasc	1617-4933		2012	12	1				https://link.springer.com/journal/15027		15027		fulltext			serial								P
 Cardiovascular Drugs and Therapy	0920-3206	1573-7241	1987	1					https://link.springer.com/journal/10557		10557		fulltext			serial								P
 Cardiovascular Engineering	1567-8822	1573-6806	2001	1		2010	10		https://link.springer.com/journal/10558		10558		fulltext			serial								P
@@ -796,7 +788,6 @@ European Journal of Mathematics	2199-675X	2199-6768	2015	1	1				https://link.spr
 European Journal of Nuclear Medicine and Molecular Imaging	1619-7070	1619-7089	2002	29	1				https://link.springer.com/journal/259		259		fulltext	previously:European journal of nuclear medicine		serial								P
 European Journal of Plastic Surgery	0930-343X	1435-0130	1986	9	1				https://link.springer.com/journal/238		238		fulltext	Previously: Chirurgia Plastica (1971-1985)		serial								P
 European Journal of Political Research	0304-4130	1475-6765	1997	31		2001	40		https://link.springer.com/journal/11112		11112		fulltext			serial								P
-European Journal of Population / Revue Européenne de Démographie	0168-6577	1572-9885	1985	1					https://link.springer.com/				fulltext	previously: European Demographic Information Bulletin (1970-1983)		serial								P
 European Journal of Psychology of Education	0256-2928	1878-5174	1986	1					https://link.springer.com/journal/10212		10212		fulltext			serial								P
 European Journal on Criminal Policy and Research	0928-1371	1572-9869	1993	1					https://link.springer.com/journal/10610		10610		fulltext			serial								P
 European Orthopaedics and Traumatology	1867-4569	1867-4577	2011	1		2015	6		https://link.springer.com/journal/12570		12570		fulltext	ceased 2016		serial								P
@@ -915,7 +906,6 @@ Genes & Nutrition	1555-8932	1865-3499	2006	1					https://link.springer.com/journ
 Genetic Programming and Evolvable Machines	1389-2576	1573-7632	2000	1					https://link.springer.com/journal/10710		10710		fulltext			serial								P
 Genetic Vaccines and Therapy		1479-0556	2003	1		2012	10		https://link.springer.com/journal/12965		12965		fulltext			serial								P
 Genetica	0016-6707	1573-6857	1919	1					https://link.springer.com/journal/10709		10709		fulltext			serial								P
-Genus	0016-6987	2035-5556	2016	72									fulltext	Open Access		serial								F
 Geo-Marine Letters	0276-0460	1432-1157	1981	1					https://link.springer.com/journal/367		367		fulltext			serial								P
 Geo-Spatial Information Science	1009-5020	1993-5153	1999	2		2011	14		https://link.springer.com/journal/11806		11806		fulltext			serial								P
 GeoInformatica	1384-6175	1573-7624	1997	1					https://link.springer.com/journal/10707		10707		fulltext			serial								P
@@ -959,7 +949,6 @@ Gynecologic Oncology Research and Practice		2053-6844	2014	1	1				https://link.s
 Gynecological Surgery	1613-2076	1613-2084	2004	1					https://link.springer.com/journal/10397		10397		fulltext	moving to OA in 2017		serial								P
 Gynäkologische Endokrinologie	1610-2894	1610-2908	2002	0					https://link.springer.com/journal/10304		10304		fulltext			serial								P
 Gyroscopy and Navigation	2075-1087	2075-1109	2010	1					https://link.springer.com/journal/13140		13140		fulltext			serial								P
-H&V Journal	0936-9856	2192-8657							https://link.springer.com/				fulltext			serial								P
 HEADline	2210-4887	2352-1767	2014	31	1				https://link.springer.com/journal/40739		40739		fulltext	Transfer in (2014): Wolters Kluwer		serial								P
 HEC Forum	0956-2737	1572-8498	1989	1					https://link.springer.com/journal/10730		10730		fulltext			serial								P
 HMD Praxis der Wirtschaftsinformatik	1436-3011	2198-2775	2007	44					https://link.springer.com/journal/40702		40702		fulltext	Transfer in 2014: (former publisher: dpunkt.verlag)		serial								P
@@ -1016,7 +1005,6 @@ Human Rights Review	1524-8879	1874-6306	2000	1					https://link.springer.com/jou
 Human Studies	0163-8548	1572-851X	1978	1					https://link.springer.com/journal/10746		10746		fulltext			serial								P
 Human-Centric Computing and Information Sciences		2192-1962	2011	1					https://link.springer.com/journal/13673		13673		fulltext	Available in electronic format only. Open Access; Springer		serial								F
 Humangenetik	0018-7348		1964	1		1975	30		https://link.springer.com/journal/439		439		fulltext	now: Human Genetics (1976-)		serial								P
-Humanistic Management Journal	2366-603X	2366-6048	2016	1	1								fulltext	New for 2016		serial								P
 Hungarica Acta Physica		0367-6382	1947	1		1947	1		https://link.springer.com/journal/12659		12659		fulltext			serial								P
 Husserl Studies	0167-9848	1572-8501	1984	1					https://link.springer.com/journal/10743		10743		fulltext			serial								P
 Hydrobiologia	0018-8158	1573-5117	1948	1					https://link.springer.com/journal/10750		10750		fulltext	absorbed:International journal of salt lake research		serial								P
@@ -1182,7 +1170,6 @@ International Journal of System Assurance Engineering and Management	0975-6809	0
 International Journal of Technology and Design Education	0957-7572	1573-1804	1990	1					https://link.springer.com/journal/10798		10798		fulltext			serial								P
 International Journal of Theoretical Physics	0020-7748	1572-9575	1968	1					https://link.springer.com/journal/10773		10773		fulltext			serial								P
 International Journal of Thermophysics	0195-928X	1572-9567	1980	1					https://link.springer.com/journal/10765		10765		fulltext			serial								P
-International Journal of Value-Based Management	0895-8815	1572-8528	1988	1									fulltext	ceased 2003		serial								P
 International Journal of Wireless Information Networks	1068-9605	1572-8129	1994	1					https://link.springer.com/journal/10776		10776		fulltext			serial								P
 International Journal of the Classical Tradition	1073-0508	1874-6292	1994	1					https://link.springer.com/journal/12138		12138		fulltext			serial								P
 International Journal on Digital Libraries	1432-5012	1432-1300	1998	1					https://link.springer.com/journal/799		799		fulltext			serial								P
@@ -1209,7 +1196,6 @@ Investigational New Drugs	0167-6997	1573-0646	1983	1					https://link.springer.c
 Ionics	0947-7047	1862-0760	1995	1					https://link.springer.com/journal/11581		11581		fulltext			serial								P
 Iranian Journal of Science and Technology, Transaction of Civil Engineering	2228-6160	2364-1843	2016						https://link.springer.com/journal/40996		40996		fulltext	Transfer in (2015): Shiraz University		serial								P
 Iranian Journal of Science and Technology, Transaction of Electrical Engineering	2228-6179	2364-1827	2016	40	1				https://link.springer.com/journal/40998		40998		fulltext	Transfer in (2015): Shiraz University		serial								P
-Iranian Journal of Science and Technology, Transaction of Mechanical Engineering	2228-6187	2364-1835	2016	40	1								fulltext	Transfer in (2015): Shiraz University		serial								P
 Iranian Journal of Science and Technology, Transaction of Science	1028-6276	2364-1819	2016						https://link.springer.com/journal/40995		40995		fulltext	transfer in (2016): Shiraz University. Previosuly: Iranian journal of science and technology. Transaction A, Science		serial								P
 Iranian Polymer Journal	1026-1265	1735-5265	2012	21					https://link.springer.com/journal/13726		13726		fulltext			serial								P
 Irish Journal of Medical Science	0021-1265	1863-4362	1922	1					https://link.springer.com/journal/11845		11845		fulltext			serial								P
@@ -1750,7 +1736,6 @@ Magnetic Resonance Materials in Physics, Biology and Medicine	0968-5243	1352-866
 Mammal Research	2199-2401	2199-241X	2001	46	1				https://link.springer.com/journal/13364		13364		fulltext	previously:Acta Theriologica		serial								P
 Man and World	0025-1534	1573-1103	1968	1		1997	30	4	https://link.springer.com/journal/11007		11007		fulltext	now: Continental Philosophy Review		serial								P
 Management International Review : MIR : Journal of International Business	0938-8249	1861-8901	2006	46					https://link.springer.com/journal/11575		11575		fulltext			serial								P
-Management Review Quarterly	2198-1620	2198-1639	2005	55					https://link.springer.com/				fulltext	Title Change. Prior to Volume 64 (2014) published as Journal fuer Betriebswirtschaft in German Language		serial								P
 Mangroves and Salt Marshes	1386-3509	1572-977X	1997	1		1999	3		https://link.springer.com/journal/11000		11000		fulltext			serial								P
 Manuelle Medizin	0025-2514	1433-0466	1997	35					https://link.springer.com/journal/337		337		fulltext			serial								P
 Mapan	0970-3950	0974-9853	2009	24					https://link.springer.com/journal/12647		12647		fulltext			serial								P
@@ -2209,7 +2194,6 @@ Review Journal of Autism and Developmental Disorders	2195-7177	2195-7185	2014	1	
 Review Journal of Chemistry	2079-9780	2079-9799	2011	1					https://link.springer.com/journal/13392		13392		fulltext			serial								P
 Review of Accounting Studies	1380-6653	1573-7136	1996	1					https://link.springer.com/journal/11142		11142		fulltext			serial								P
 Review of Agricultural Food and Environmental Studies	2425-6870	2425-6897	2016						https://link.springer.com/journal/41130		41130		fulltext	Transferred from NecPlus		serial								P
-Review of Agricultural and Environmental Studies	1966-9607	2117-4857	2016	97	1								fulltext	Transfer out 2016: NecPlus.		serial								P
 Review of Derivatives Research	1380-6645	1573-7144	1996	1					https://link.springer.com/journal/11147		11147		fulltext			serial								P
 Review of Economic Design	1434-4742	1434-4750	1994	1					https://link.springer.com/journal/10058		10058		fulltext			serial								P
 Review of Economics of the Household	1569-5239	1573-7152	2003	1					https://link.springer.com/journal/11150		11150		fulltext			serial								P
@@ -2217,7 +2201,6 @@ Review of Industrial Organization	0889-938X	1573-7160	1984	1					https://link.sp
 Review of Managerial Science	1863-6683	1863-6691	2007	1					https://link.springer.com/journal/11846		11846		fulltext			serial								P
 Review of Philosophy and Psychology	1878-5158	1878-5166	2010	1					https://link.springer.com/journal/13164		13164		fulltext			serial								P
 Review of Quantitative Finance and Accounting	0924-865X	1573-7179	1991	1					https://link.springer.com/journal/11156		11156		fulltext			serial								P
-Review of Regional Research	0173-7600	1613-9836	2006	26					https://link.springer.com/				fulltext	Title Change. Prior to Volume 34 (2014) published as Jahrbuch fuer Regionalwissenschaft in German Language		serial								P
 Review of Religious Research	0034-673X	2211-4866	2011	53					https://link.springer.com/journal/13644		13644		fulltext			serial								P
 Reviews in Endocrine & Metabolic Disorders	1389-9155	1573-2606	2000	1					https://link.springer.com/journal/11154		11154		fulltext			serial								P
 Reviews in Environmental Science and Biotechnology	1569-1705	1572-9826	2002	1					https://link.springer.com/journal/11157		11157		fulltext			serial								P
@@ -2374,22 +2357,11 @@ Sports Engineering	1369-7072	1460-2687	2003	6					https://link.springer.com/jour
 Sports Medicine	0112-1642	1179-2035	1984	1					https://link.springer.com/journal/40279		40279		fulltext	Take-over in 2013		serial								P
 Sports Medicine - Open	2199-1170	2198-9761	2015	1	1				https://sportsmedicine-open.springeropen.com/		sportsmedicine-open		fulltext	Open Access		serial								F
 Sportwissenschaft	0342-2380	1868-1069	1971	1					https://link.springer.com/journal/12662		12662		fulltext			serial								P
-Spreekuur Cardiologie	2210-2027								https://link.springer.com/				fulltext			serial								P
-Spreekuur Dermatologie	2210-206X								https://link.springer.com/				fulltext			serial								P
-Spreekuur Farmacie	2210-2035								https://link.springer.com/				fulltext			serial								P
-Spreekuur Huisartsgeneeskunde	2210-2000								https://link.springer.com/				fulltext			serial								P
-Spreekuur Interne geneeskunde	2210-2019								https://link.springer.com/				fulltext			serial								P
-Spreekuur Longziekten	2210-2078								https://link.springer.com/				fulltext			serial								P
-Spreekuur Oncologie	2210-3368								https://link.springer.com/				fulltext			serial								P
-Spreekuur Reumatologie	2210-2086								https://link.springer.com/				fulltext			serial								P
-Spreekuur Urologie	2210-2051								https://link.springer.com/				fulltext			serial								P
-Spreekuur praktijkondersteuning	2210-3376								https://link.springer.com/				fulltext			serial								P
 Springer Healthcare News		2193-0961	2012	1		2012	1		https://link.springer.com/journal/40014		40014		fulltext	ceased (2012)		serial								P
 Springer Science Reviews		2213-7793	2013	1				no articles in 2014	https://link.springer.com/journal/40362		40362		fulltext	New Start in 2013. Available in electronic format only.		serial								P
 Springer Seminars in Immunopathology	0344-4325	1432-2196	1978	1		2006	28		https://link.springer.com/journal/281		281		fulltext	now:Seminars in Immunopathology		serial								P
 StK (München)	0946-0020								https://link.springer.com/journal/940		940		fulltext	now: Schmerzmedizin; Schmerztherapie. Content not yet available. previously: Schmerztherapeutisches Kolloquium: STK		serial								P
 Staff Papers - International Monetary Fund	0020-8027		1951			1998	45	4	https://link.springer.com/journal/41308		41308		fulltext	Now: IMF Economic Review. Continues: IMF Staff Papers (1999-2010) transfer in(2016): Palgrave		serial								P
-Standby	0922-310X		2005	19					https://link.springer.com/				fulltext			serial								P
 Standort - Zeitschrift für angewandte Geographie	0174-3635	1432-220X	1997	21					https://link.springer.com/journal/548		548		fulltext			serial								P
 Statistical Inference for Stochastic Processes	1387-0874	1572-9311	1998	1					https://link.springer.com/journal/11203		11203		fulltext			serial								P
 Statistical Methods and Applications	1618-2510	1613-981X	2001	10	1-3				https://link.springer.com/journal/10260		10260		fulltext	Previously: Journal of the Italian Statistical Society (1992-2000)		serial								P
@@ -2401,7 +2373,6 @@ Stem Cell Reviews and Reports	1550-8943	1558-6804	2005	1					https://link.spring
 Stimulus	0929-0591	1876-5599	1990	9		2011	28		https://link.springer.com/journal/12491		12491		fulltext			serial								P
 Stochastic Hydrology and Hydraulics	0931-1955	1435-151X	1987	1	1	1998	12	6	https://link.springer.com/journal/477		477		fulltext	now: Stochastic Environmental Research and Risk Assessment		serial								P
 Stochastic Partial Differential Equations: Analysis and Computations		2194-041X	2013	1					https://link.springer.com/journal/40072		40072		fulltext	New Start in 2013		serial								P
-Stomatologie	0946-3151	1613-7698	2007	104		2015	112	7-8	https://link.springer.com/				fulltext	ceased		serial								P
 Strahlentherapie und Onkologie	0179-7158	1439-099X	1997	173					https://link.springer.com/journal/66		66		fulltext			serial								P
 Stratigraphy and Geological Correlation	0869-5938	1555-6263	2006	14					https://link.springer.com/journal/11506		11506		fulltext			serial								P
 Strength of Materials	0039-2316	1573-9325	1969	1					https://link.springer.com/journal/11223		11223		fulltext			serial								P
@@ -2444,7 +2415,6 @@ TBV - Tijdschrift voor Bedrijfs- en Verzekeringsgeneeskunde	0929-600X	1876-5858	
 TCA Manual	0361-0268		1975	1	1	1979	5	4	https://link.springer.com/journal/11022		11022		fulltext	now:Journal of tissue culture methods;Methods in Cell Science		serial								P
 TEST	1133-0686		1992	1					https://link.springer.com/journal/11749		11749		fulltext			serial								P
 TOP	1134-5764	1863-8279	1993	1					https://link.springer.com/journal/11750		11750		fulltext	previously: Trabajos de Investigación Operativa (1986-1992)		serial								P
-Tandartsen vademecum	1873-8168								https://link.springer.com/				fulltext			serial								P
 Tandartspraktijk	0167-1685	1875-6808	2005	26					https://link.springer.com/journal/12496		12496		fulltext			serial								P
 Targeted Oncology	1776-2596	1776-260X	2006	1					https://link.springer.com/journal/11523		11523		fulltext			serial								P
 Teaching Business Ethics	1382-6891	1573-1944	1997	1		2003	7		https://link.springer.com/journal/11234		11234		fulltext			serial								P
@@ -2662,7 +2632,6 @@ World Wide Web	1386-145X	1573-1413	1998	1					https://link.springer.com/journal/
 Wuhan University Journal of Natural Sciences	1007-1202	1993-4998	1996	1					https://link.springer.com/journal/11859		11859		fulltext			serial								P
 Yearbook of International Humanitarian Law	1389-1359	1574-096X	1998	1					http://www.springer.com/series/8912		8912		fulltext	Transfer in (2015): CUP		serial								P
 ZDM	1863-9690	1863-9704	1997	29					https://link.springer.com/journal/11858		11858		fulltext			serial								P
-Zahn Arzt	1862-7560								http://www.springermedizin.at/fachbereiche-a-z/p-z/zahnheilkunde/				fulltext			serial								P
 Zeitschrift für Analytische Chemie	0372-7920		1862	1	1	1944	127	1	https://link.springer.com/journal/216		216		fulltext	now: Analytical and Bioanalytical Chemistry (2002-); Fresenius' Journal of Analytical Chemistry (1990-2001); Fresenius' Zeitschrift für Analytische Chemie (1947-1989)		serial								P
 Zeitschrift für Anatomie und Entwicklungsgeschichte	0044-2232		1922	63	1-2	1974	143	3	https://link.springer.com/journal/429		429		fulltext	previously: Anatomische Hefte. now: Anatomy and Embryology; Brain Structure and Function.		serial								P
 Zeitschrift für Angewandte Mathematik und Physik (ZAMP)	0044-2275	1420-9039	1950	1					https://link.springer.com/journal/33		33		fulltext			serial								P
@@ -2688,7 +2657,6 @@ Zeitschrift für Kinderheilkunde. Originalien	0178-4919		1912	3	1	1921	30	5-6	ht
 Zeitschrift für Krebsforschung und Klinische Onkologie	0084-5353		1971	76	1	1978	92	3	https://link.springer.com/journal/432		432		fulltext	Now: Journal of Cancer Research and Clinical Oncology. Previously: Zeitschrift für Krebsforschung (1903 -1971)		serial								P
 Zeitschrift für Literaturwissenschaft und Linguistik	0049-8653		1995	25	1				https://link.springer.com/journal/41244		41244		fulltext			serial								P
 Zeitschrift für Management	1861-4264	1865-9012	2006	1		2011	6		https://link.springer.com/journal/12354		12354		fulltext			serial								P
-Zeitschrift für Morphologie und Ökologie der Tiere	0372-9389	2365-0087	1924	1	1	1967	60	4				https://link.springer.com/journal/435	fulltext	split: Zeitschrift für Morphologie der Tiere (1967-1975) and Oecologia (1968-)		serial								P
 Zeitschrift für Nationalökonomie / Journal of Economics	0044-3158	2304-8360	1930	1		1985			https://link.springer.com/journal/712		712		fulltext	now: Journal of Economics (1986-)		serial								P
 Zeitschrift für Neurologie	0012-1037		1970	198	1	1974	206	4	https://link.springer.com/journal/415		415		fulltext	Now: Journal of Neurology. Previously: Deutsche Zeitschrift für Nervenheilkunde (1891-1970)		serial								P
 Zeitschrift für Operations-Research	0341-3306		1972			1975			https://link.springer.com/journal/186		186		fulltext	previously: Unternehmensforschung (1956-1971); now: ZOR. Zeitschrift für Operations-Research (1976-1995); Mathematical Methods of Operations Research (31/12/1996-)		serial								P

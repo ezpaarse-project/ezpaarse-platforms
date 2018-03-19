@@ -33,7 +33,6 @@ Ecology	0012-9658	1939-9170	1997	78					http://onlinelibrary.wiley.com/journal/1
 Economic Anthropology		2330-4847	2014	1					http://onlinelibrary.wiley.com/journal/10.1002/(ISSN)2330-4847		10.1002/(ISSN)2330-4847		fulltext		Wiley	serial								P
 Energy Technology	2194-4288	2194-4296	2013	1					http://onlinelibrary.wiley.com/journal/10.1002/(ISSN)2194-4296		10.1002/(ISSN)2194-4296		fulltext		Wiley	serial								P
 Greenhouse Gases: Science And Technology		2152-3878	2013						http://onlinelibrary.wiley.com/journal/10.1002/(ISSN)2152-3878		10.1002/(ISSN)2152-3878		fulltext		Wiley	serial								P
-High Frequency		2470-6981											fulltext		Wiley	serial								P
 Incose International Symposium		2334-5837	2013						http://onlinelibrary.wiley.com/journal/10.1002/(ISSN)2334-5837		10.1002/(ISSN)2334-5837		fulltext		Wiley	serial								P
 Insight	2156-485X	2156-4868	2013						http://onlinelibrary.wiley.com/journal/10.1002/(ISSN)2156-4868		10.1002/(ISSN)2156-4868		fulltext		Wiley	serial								P
 Journal Of Applied Corporate Finance	1936-8216	1745-6622	2013						http://onlinelibrary.wiley.com/journal/10.1111/(ISSN)1745-6622		10.1111/(ISSN)1745-6622		fulltext		Wiley	serial								P
@@ -42,10 +41,8 @@ Journal Of Geophysical Research: Earth Surface	2169-9003	2169-9011	2013						htt
 Journal Of Geophysical Research: Oceans	2169-9275	2169-9291	2013						http://agupubs.onlinelibrary.wiley.com/agu/jgr/journal/10.1002/(ISSN)2169-9291/		10.1002/(ISSN)2169-9291/		fulltext		Wiley	serial								P
 Journal Of Geophysical Research: Planets	2169-9097	2169-9100	2013						http://agupubs.onlinelibrary.wiley.com/agu/jgr/journal/10.1002/(ISSN)2169-9100/		10.1002/(ISSN)2169-9100/		fulltext		Wiley	serial								P
 Journal Of Topology	1753-8416	1753-8424	2008	1					http://onlinelibrary.wiley.com/journal/10.1112/(ISSN)1753-8424		10.1112/(ISSN)1753-8424		fulltext		Wiley	serial								P
-Journal Of Ultrasound In Medicine	0278-4297	1550-9613											fulltext		Wiley	serial								P
 Lebensmittelchemie	0937-1478	1521-3811	2013						http://onlinelibrary.wiley.com/journal/10.1002/(ISSN)1521-3811		10.1002/(ISSN)1521-3811		fulltext		Wiley	serial								P
 Limnology & Oceanography: Methods	1541-5856	1541-5856	2013						http://aslopubs.onlinelibrary.wiley.com/hub/journal/10.1002/(ISSN)1541-5856/issues/		10.1002/(ISSN)1541-5856		fulltext		Wiley	serial								P
-Medical Physics	0094-2405	2473-4209	1996	42									fulltext		Wiley	serial								P
 Methods In Ecology And Evolution		2041-210X	2010	1					http://onlinelibrary.wiley.com/journal/10.1111/(ISSN)2041-210X		10.1111/(ISSN)2041-210X		fulltext		Wiley	serial								P
 Movement Disorders Clinical Practice		2330-1619	2014	1					http://onlinelibrary.wiley.com/journal/10.1002/(ISSN)2330-1619		10.1002/(ISSN)2330-1619		fulltext		Wiley	serial								P
 Navigation	0028-1522	2161-4296	2013						http://onlinelibrary.wiley.com/journal/10.1002/(ISSN)2161-4296		10.1002/(ISSN)2161-4296		fulltext		Wiley	serial								P
