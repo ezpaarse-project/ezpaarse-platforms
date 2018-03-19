@@ -16,13 +16,13 @@ module.exports = new Parser(function analyseEC(parsedUrl) {
     // /revue/ac/1974/v7/n1/017030ar.html?vue=resume
 
     if (match[6] === 'index') {
-      result.rtype    = 'TOC';
-      result.mime     = 'MISC';
+      result.rtype = 'TOC';
+      result.mime  = 'MISC';
     } else {
-      result.rtype    = 'ARTICLE';
-      result.mime     = 'HTML';
-      result.unitid   = match[6];
-      result.doi      = `${doiPrefix}/${match[6]}`;
+      result.rtype  = 'ARTICLE';
+      result.mime   = 'HTML';
+      result.unitid = match[6];
+      result.doi    = `${doiPrefix}/${match[6]}`;
     }
 
     result.title_id = match[2];
