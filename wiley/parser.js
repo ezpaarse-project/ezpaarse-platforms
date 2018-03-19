@@ -24,6 +24,13 @@ module.exports = new Parser(function analyseEC(parsedUrl) {
     result.doi    = match[2];
     result.unitid = match[3];
 
+    if (!match[1]) {
+      // /doi/10.1002/brb3.590
+      result.rtype = 'ARTICLE';
+      result.mime  = 'HTML';
+      return result;
+    }
+
     switch (match[1]) {
     case '/pdf':
     case '/epdf':
@@ -42,10 +49,10 @@ module.exports = new Parser(function analyseEC(parsedUrl) {
       result.rtype = 'ABS';
       result.mime  = 'HTML';
       break;
-    default:
-      // /doi/10.1002/brb3.590
-      result.rtype = 'ARTICLE';
-      result.mime  = 'HTML';
+    case '/book':
+      // /doi/book/10.1002/047084289X
+      result.rtype = 'TOC';
+      result.mime  = 'MISC';
       break;
     }
 
