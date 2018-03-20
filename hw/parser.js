@@ -68,7 +68,7 @@ module.exports = new Parser(function analyseEC(parsedUrl, ec) {
       result.unitid = `${hostname}/${match[1]}`;
 
     } else if ((match = reg3.exec(path)) !== null) {
-      extension     = match[3] || 'full';
+      extension     = match[3] || 'toc';
       result.vol    = match[1];
       result.unitid = `${hostname}/${match[1]}/${match[2]}`;
 
