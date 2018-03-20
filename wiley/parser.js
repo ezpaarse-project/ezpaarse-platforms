@@ -20,7 +20,7 @@ module.exports = new Parser(function analyseEC(parsedUrl) {
     result.unitid = `${match[2]}${match[3]}`;
     result.online_identifier = match[2];
 
-  } else if ((match = /^\/doi(\/[a-z]+)?\/(10\.[0-9]+\/([a-z0-9._-]+))$/i.exec(path)) !== null) {
+  } else if ((match = /^\/doi(\/[a-z]+)?\/(10\.[0-9]+\/([a-z0-9._-]+?))(\.fmatter)?$/i.exec(path)) !== null) {
     result.doi    = match[2];
     result.unitid = match[3];
 
@@ -54,6 +54,12 @@ module.exports = new Parser(function analyseEC(parsedUrl) {
       result.rtype = 'TOC';
       result.mime  = 'MISC';
       break;
+    }
+
+    if (match[4]) {
+      // /doi/pdf/10.1002/9781118843109.fmatter
+      result.rtype = 'BOOK_SECTION';
+      result._granted = false;
     }
 
   } else if ((match = /^\/toc\/toc\/(([0-9]+)\/([0-9]+)\/([0-9]+))$/i.exec(path)) !== null) {
