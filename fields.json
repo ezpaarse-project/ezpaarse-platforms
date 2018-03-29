@@ -10,11 +10,14 @@
       "comment": "croisé avec la PKB quand elle existe"
     },{
       "code": "doi",
-      "description": "Reconnaissance du DOI",
-      "comment": "croisé avec la PKB quand elle existe"
+      "description": "Digital Object Identifier",
+      "comment": "Interrogé via Crossref"
+    },{
+      "code": "ark",
+      "description": "Archival Resource Key"
     },{
       "code": "pii",
-      "description": "Reconnaissance du PII",
+      "description": "Publisher Item Identifier",
       "comment": "Interrogé via Crossref"
     },{
       "code": "online_identifier",
