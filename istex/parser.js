@@ -26,15 +26,19 @@ module.exports = new Parser(function analyseEC(parsedUrl, ec) {
     result.istex_rtype = 'QUERY';
     result.rtype       = 'QUERY';
     result.mime        = 'JSON';
-  } else if ((match = /^\/document\/([0-9a-z]{40})\/([a-z]+)\/([a-z]+)\/?/i.exec(path)) !== null) {
+  } else if ((match = /^\/(?:document\/([0-9a-z]{40})|(ark:\/[0-9]+\/[0-9a-z-]+))\/([a-z]+)[/.]([a-z]+)\/?/i.exec(path)) !== null) {
     // /document/4C46BB8FC3AE3CB005C44243414E9D0E9C8C6057/enrichments/catWos
     // /document/55420CDEEA0F6538E215A511C72E2E5E57570138/fulltext/original
     // /document/55420CDEEA0F6538E215A511C72E2E5E57570138/metadata/xml
 
-    result.unitid      = match[1];
-    result.istex_rtype = match[2];
+    result.unitid      = match[1] || match[2];
+    result.istex_rtype = match[3];
 
-    switch (match[3]) {
+    if (match[2]) {
+      result.ark = match[2];
+    }
+
+    switch (match[4]) {
     case 'txt':
       result.mime = 'TEXT';
       break;
@@ -47,26 +51,34 @@ module.exports = new Parser(function analyseEC(parsedUrl, ec) {
       result.mime = 'TEI';
       break;
     case 'original':
-      result.mime = match[2] == 'metadata' ? 'XML' : 'PDF';
+      result.mime = match[3] == 'metadata' ? 'XML' : 'PDF';
       break;
     default:
-      result.mime = match[3].toUpperCase();
+      result.mime = match[4].toUpperCase();
     }
 
-  } else if ((match = /^\/document\/([0-9a-z]{40})\/([a-z]+)\/?/i.exec(path)) !== null) {
+  } else if ((match = /^\/(?:document\/([0-9a-z]{40})|(ark:\/[0-9]+\/[0-9a-z-]+))[/.]([a-z]+)\/?/i.exec(path)) !== null) {
     // /document/4C46BB8FC3AE3CB005C44243414E9D0E9C8C6057/enrichments/
 
     result.istex_rtype = 'OTHER';
     result.rtype       = 'OTHER';
     result.mime        = 'JSON';
-    result.unitid      = match[1];
+    result.unitid      = match[1] || match[2];
 
-  } else if ((match = /^\/document\/([0-9a-z]{40})\/?$/i.exec(path)) !== null) {
+    if (match[2]) {
+      result.ark = match[2];
+    }
+
+  } else if ((match = /^\/(?:document\/([0-9a-z]{40})|(ark:\/[0-9]+\/[0-9a-z-]+))\/?$/i.exec(path)) !== null) {
     // /document/5A30D5425B4E7A7A84075A5B2785BBA02FAFA3FC
 
     result.istex_rtype = 'metadata';
-    result.unitid      = match[1];
     result.mime        = 'JSON';
+    result.unitid      = match[1] || match[2];
+
+    if (match[2]) {
+      result.ark = match[2];
+    }
 
   } else if (/^\/document\/openurl$/i.test(path)) {
     result.rtype = 'OPENURL';
