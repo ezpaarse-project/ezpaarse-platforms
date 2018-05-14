@@ -7,7 +7,13 @@
     "books.publications.chestnet.org",
     "jamanetwork.com",
     "academic.oup.com",
-    "oup.silverchair-cdn.com"
+    "oup.silverchair-cdn.com",
+    "pubs.geoscienceworld.org",
+    "ammin.geoscienceworld.org",
+    "bulletin.geoscienceworld.org",
+    "rmg.geoscienceworld.org",
+    "econgeol.geoscienceworld.org",
+    "paleobiol.geoscienceworld.org"
   ],
   "name": "silverchair",
   "longname": "silverchair",
