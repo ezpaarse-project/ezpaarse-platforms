@@ -135,6 +135,9 @@
       "code": "BOOK_SECTION",
       "description": "Partie d'ouvrage"
     },{
+      "code": "BOOK_PAGE",
+      "description": "Page d'ouvrage"
+    },{
       "code": "OTHER",
       "description": "rtype non defini pour ISTEX",
       "comment": "fourre tout istex"
