@@ -97,9 +97,10 @@ module.exports = new Parser(function analyseEC(parsedUrl, ec) {
     result.doi      = `${match[4]}/${match[5]}`;
     result.unitid   = match[5];
 
-  } else if ((match = /^(?:\/segweb)?\/([a-z]+)\/(article|article-abstract)\/([0-9]+)\/([0-9]+)\/([0-9]+)\/([0-9]+)\/[a-z-]+$/i.exec(path)) !== null) {
+  } else if ((match = /^(?:\/[a-z]+)?\/([a-z]+)\/(article|article-abstract)\/([0-9]+)\/([0-9]+)\/([0-9]+)\/([0-9]+)\/[a-z-]+$/i.exec(path)) !== null) {
     // /humrep/article/32/1/14/2645576/Is-the-understanding-of-AMH-being-confounded-by
     // /segweb/economicgeology/article-abstract/108/1/1/128420/applying-stable-isotopes-to-mineral-exploration
+    // /gsa/lithosphere/article/10/2/172/527223/the-role-of-calcite-rich-metasedimentary-mylonites
     result.mime       = 'HTML';
     result.rtype      = match[2] === 'article' ? 'ARTICLE' : 'ABS';
     result.title_id   = match[1];
