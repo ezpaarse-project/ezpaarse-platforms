@@ -1,0 +1,8 @@
+out-pii;out-unitid;out-rtype;out-mime;in-url
+S0041134516000841;S0041134516000841;SUPPL;MISC;https://www.transplantation-proceedings.org:443/article/S0041-1345(16)00084-1/ppt
+S0041134512009931;S0041134512009931;ARTICLE;HTML;https://www.transplantation-proceedings.org:443/article/S0041-1345(12)00993-1/fulltext
+S0041134516000841;S0041134516000841;ARTICLE;PDF;https://www.transplantation-proceedings.org:443/article/S0041-1345(16)00084-1/pdf
+;;SEARCH;HTML;https://www.transplantation-proceedings.org:443/action/doSearchSecure?searchType=quick&searchText=brain&occurrences=all&journalCode=tps&searchScope=fullSite&code=tps-site
+;current;TOC;HTML;https://www.transplantation-proceedings.org:443/current
+;S0041134516X00140;TOC;HTML;https://www.transplantation-proceedings.org:443/issue/S0041-1345(16)X0014-0
+;;TOC;HTML;https://www.transplantation-proceedings.org:443/issues
