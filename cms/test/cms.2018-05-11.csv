@@ -1,0 +1,14 @@
+out-title_id;out-unitid;out-rtype;out-mime;in-url
+ed17;ed17/part1/ch02/psec004;BOOK_SECTION;HTML;http://www.chicagomanualofstyle.org:80/book/ed17/part1/ch02/psec004.html
+ed17;ed17/backmatter/glos;SUPPL;HTML;http://www.chicagomanualofstyle.org:80/book/ed17/backmatter/glos.html
+ed17;ed17/part2/ch09/tables/tbl001;SUPPL;HTML;http://www.chicagomanualofstyle.org:80/book/ed17/part2/ch09/tables/tbl001.html
+ed17;ed17/frontmatter/toc;TOC;HTML;http://www.chicagomanualofstyle.org.proxy.library.emory.edu/book/ed17/frontmatter/toc.html
+ed17;ed17/backmatter/biblio/toc;TOC;HTML;http://www.chicagomanualofstyle.org:80/book/ed17/backmatter/biblio/toc.html
+ed17;ed17/part1/ch02/toc;TOC;HTML;http://www.chicagomanualofstyle.org:80/book/ed17/part1/ch02/toc.html
+qanda;qanda/topicList;TOC;HTML;http://www.chicagomanualofstyle.org:80/qanda/topicList
+;;SEARCH;HTML;http://www.chicagomanualofstyle.org:80/search.html?clause=abbreviations
+tools_citationguide;;REF;HTML;http://www.chicagomanualofstyle.org:80/tools_citationguide.html
+tools_citationguide;tools_citationguide/citation-guide-2;REF;HTML;http://www.chicagomanualofstyle.org:80/tools_citationguide/citation-guide-2.html
+qanda;qanda/latest;REF;HTML;http://www.chicagomanualofstyle.org:80/qanda/latest.html
+qanda;qanda/data/faq/topics/LessorFewer;REF;HTML;http://www.chicagomanualofstyle.org:80/qanda/data/faq/topics/LessorFewer.html
+help-tools;help-tools/my-manual/notes;REF;HTML;http://www.chicagomanualofstyle.org:80/help-tools/my-manual/notes.html

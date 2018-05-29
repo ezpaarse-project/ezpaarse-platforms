@@ -1,0 +1,18 @@
+{
+  "version": "2018-05-11",
+  "status": "stable",
+  "domains": [
+    "www.chicagomanualofstyle.org"
+  ],
+  "recognize": {
+    "rid": [
+      "unitid"
+    ]
+  },
+  "name": "cms",
+  "longname": "Chicago Manual of Style",
+  "describe": "Recognizes the accesses to the platform Chicago Manual of Style",
+  "docurl": "http://ang.couperin.org/platforms/5af5da9fc2e4dfde3c4ed945",
+  "contact": "alexander.cooper@emory.edu",
+  "pkb": false
+}
