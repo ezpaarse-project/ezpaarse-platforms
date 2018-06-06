@@ -1,0 +1,25 @@
+{
+  "version": "2018-05-29",
+  "status": "stable",
+  "domains": [
+    "www.data-planet.com",
+    "data-planet.com",
+    "homepage.data-planet.com",
+    "readyreference.data-planet.com",
+    "statisticaldatasets.data-planet.com",
+    "data-planet.libguides.com"
+  ],
+  "recognize": {
+    "rid": [
+      "title_id",
+      "unitid"
+    ]
+  },
+  "name": "dp",
+  "longname": "Data-Planet",
+  "publisher_name": "SAGE Publishing",
+  "describe": "Recognizes the accesses to the platform Data-Planet",
+  "docurl": "http://ang.couperin.org/platforms/5b0dd3b143bc876237716558",
+  "contact": "alexander.cooper@emory.edu",
+  "pkb": false
+}
