@@ -14,12 +14,6 @@ module.exports = new Parser(function analyseEC(parsedUrl) {
       result.title_id = param.ID_REVUE;
       result.unitid   = param.AJOUTBIBLIO;
     }
-
-    if (param.AJOUTBIBLIO) {
-      result.rtype  = 'BOOKMARK';
-      result.mime   = 'MISC';
-      result.unitid = param.AJOUTBIBLIO; // plus précis que le précédent
-    }
   } else if (parsedUrl.pathname === '/load_pdf.php') {
     // journal article example: http://www.cairn.info/load_pdf.php?ID_ARTICLE=ARSS_195_0012
     // book section example: http://www.cairn.info/load_pdf.php?ID_ARTICLE=ERES_DUMEZ_2003_01_0009

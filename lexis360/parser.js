@@ -106,7 +106,7 @@ module.exports = new Parser(function analyseEC(parsedUrl, ec) {
           let userAction = match6[1];
 
           if (userAction === 'ViewDoc' || userAction === 'ChangeToc') {
-            result.rtype = 'CODES';
+            result.rtype = 'CODE_JURIDIQUE';
             result.mime  = 'HTML';
           }
         }

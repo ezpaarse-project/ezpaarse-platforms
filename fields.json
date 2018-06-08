@@ -89,11 +89,11 @@
     {
       "code": "ARTICLE"
     },{
-    "code": "ARTICLES_BUNDLE",
-    "description": "package de plusieurs articles pdf dans un téléchargement"
+      "code": "ARTICLES_BUNDLE",
+      "description": "package de plusieurs articles pdf dans un téléchargement"
     },{
-    "code": "CHAPTERS_BUNDLE",
-    "description": "package de plusieurs chapitres pdf d'un ebook dans un téléchargement"
+      "code": "BOOK_CHAPTERS_BUNDLE",
+      "description": "package de plusieurs chapitres pdf d'un ebook dans un téléchargement"
     },{
       "code": "ABS",
       "description": "Résumé d'un article"
@@ -110,11 +110,7 @@
       "code": "REF",
       "description": "Référence de document"
     },{
-      "code": "ENCYCLOPEDIES",
-      "description": "Encyclopédie",
-      "comment": "Cas des bases de données juridiques"
-    },{
-      "code": "CODES",
+      "code": "CODE_JURIDIQUE",
       "description": "Code juridique",
       "comment": "Cas des bases de données juridiques"
     },{
@@ -125,10 +121,6 @@
       "code": "PREVIEW",
       "description": "Premières lignes d'un article"
     },{
-      "code": "BOOKMARK",
-      "description": "Ajout de l'article dans un panier ou favoris",
-      "comment": "rencontré dans ajouter panier de cairn"
-    },{
       "code": "BOOK",
       "description": "Ouvrage complet"
     },{
@@ -138,16 +130,15 @@
       "code": "BOOK_PAGE",
       "description": "Page d'ouvrage"
     },{
+      "code": "RECORD",
+      "description": "Enregistrement non bibliographique d'une base de données"
+    },{
       "code": "OTHER",
       "description": "rtype non defini pour ISTEX",
       "comment": "fourre tout istex"
     },{
       "code": "FORMULES",
       "description": "Formule juridique",
-      "comment": "Cas des bases de données juridiques"
-    },{
-      "code": "BROCHES",
-      "description": "Livre broché",
       "comment": "Cas des bases de données juridiques"
     },{
       "code": "PHD_THESIS",
@@ -192,13 +183,7 @@
       "code": "FICHE_ENTREPRISE",
       "comment": "cas des plateformes en éco-gestion (xerfi, pointrisk, chelem)"
     },{
-      "code": "ETUDE_SECTORIELLE",
-      "comment": "cas des plateformes en éco-gestion (xerfi, pointrisk, chelem)"
-    },{
-      "code": "DONNEES_POLITIQUES",
-      "comment": "cas des plateforme politique et non économique (Columbia International Affairs Online)"
-    },{
-      "code": "DONNEES_ECONOMIQUES",
+      "code": "REPORT",
       "comment": "cas des plateformes en éco-gestion (xerfi, pointrisk, chelem)"
     },{
       "code": "FIGURE",
@@ -229,12 +214,11 @@
       "code": "TOOL",
       "description": "Outil de comparaison de données",
       "comment": "cas de plateforme Britannica, Financial Times, Kluwer arbitration"
-
     },{
       "code": "REPORT",
       "comment": "cas de plateformes Columbia International Affairs Online, Financial Times, rapports en tout genre qui ne sont pas publiés sous la forme d'un article ou d'un working paper "
     },{
-      "code": "DATA",
+      "code": "DATASET",
       "description": "Base de données, set de datas",
       "comment": "correspond à une base de données au sens large, peut convenir a des données statistiques pour OCDE"
     },{
@@ -250,7 +234,7 @@
       "description": "Recherche de ressources documentaires",
       "comment": "cas des base de données: ZbMATH, MathSciNet..."
     },{
-      "code": "CONNECTION",
+      "code": "SESSION",
       "description": "Connection",
       "comment": "cas de la plateforme Reaxys"
     },{
@@ -261,10 +245,6 @@
       "code": "ANALYSIS",
       "description": "analyse",
       "comment": "cas de la plateforme WOS"
-    },{
-      "code": "ARTICLE_SECTION",
-      "description": "partie d'article",
-      "comment": "cas de la plateforme JSTOR"
     },{
       "code": "ISSUE",
       "description": "consultation d'une revue complète",

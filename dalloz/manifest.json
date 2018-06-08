@@ -11,21 +11,5 @@
 	"domains": [
     "www.dalloz.fr",
     "bu.dalloz.fr"
-	],
-  "recognize": {
-    "rid": [
-      "title_id",
-      "unitid"
-    ],
-    "rtype": [
-      "TOC",
-      "ENCYCLOPEDIES",
-      "CODES",
-      "FORMULES",
-      "BROCHES"
-    ],
-    "mime": [
-      "MISC"
-    ]
-  }
+	]
 }

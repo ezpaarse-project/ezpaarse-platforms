@@ -1,7 +1,7 @@
 out-print_identifier;out-title_id;out-unitid;out-rtype;out-mime;in-url
 ;ARSS;ARSS_195_0012;ABS;MISC;http://www.cairn.info/resume.php?ID_ARTICLE=ARSS_195_0012
 ;ARSS;ARSS_195_0012;ARTICLE;PDF;http://www.cairn.info/load_pdf.php?ID_ARTICLE=ARSS_195_0012
-;ARSS;ARSS_195_0012;BOOKMARK;MISC;http://www.cairn.info/numero.php?ID_REVUE=ARSS&ID_NUMPUBLIE=ARSS_195&AJOUTBIBLIO=ARSS_195_0012
+;ARSS;ARSS_195_0012;;;http://www.cairn.info/numero.php?ID_REVUE=ARSS&ID_NUMPUBLIE=ARSS_195&AJOUTBIBLIO=ARSS_195_0012
 ;revue-@grh;revue-@grh;TOC;MISC;http://www.cairn.info/revue-@grh.htm
 ;revue-1895;revue-1895;TOC;MISC;http://www.cairn.info/revue-1895.htm
 ;ERES_DUMEZ_2003_01;ERES_DUMEZ_2003_01_0009;BOOK_SECTION;PDF;http://www.cairn.info/load_pdf.php?ID_ARTICLE=ERES_DUMEZ_2003_01_0009
