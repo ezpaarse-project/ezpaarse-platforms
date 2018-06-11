@@ -86,62 +86,42 @@ module.exports = new Parser(function analyseEC(parsedUrl) {
 
     result.online_identifier = match[3];
 
-  } else if ((match = /^\/doi\/(10\.[0-9]+\/(([^.]+)\.([0-9]{4})\.[^.]+\.[^.]+))\/issuetoc$/i.exec(path)) !== null) {
+  } else if ((match = /^\/doi\/(10\.[0-9]+\/([a-z0-9._-]+?(\.ch[0-9]+)?))\/([a-z]+)$/i.exec(path)) !== null) {
     // /doi/10.1111/aar.2012.83.issue-1/issuetoc
-    // title_id is upper case in PKB from wiley site
-    result.doi      = match[1];
-    result.unitid   = match[2];
-    result.title_id = match[3].toUpperCase();
-    result.rtype    = 'TOC';
-    result.mime     = 'MISC';
-
-    result.publication_date = match[4];
-
-  } else if ((match = /^\/doi\/(10\.[0-9]+\/(j\.([0-9]{4}-[0-9]{3}[0-9xX])\.([0-9]{4})\.[^.]+\.[^.]+))\/abstract$/i.exec(path)) !== null) {
     // /doi/10.1111/j.1600-0390.2012.00514.x/abstract
-    result.doi    = match[1];
-    result.unitid = match[2];
-    result.rtype  = 'ABS';
-    result.mime   = 'MISC';
-
-    result.online_identifier = match[3];
-    result.publication_date  = match[4];
-
-  } else if ((match = /^\/doi\/(10\.[0-9]+\/(([^.]+)\.([0-9]{4})[0-9]+))\/abstract$/i.exec(path)) !== null) {
     // /doi/10.1002/anie.201209878/abstract
-    result.doi      = match[1];
-    result.unitid   = match[2];
-    result.title_id = match[3].toUpperCase();
-    result.rtype    = 'ABS';
-    result.mime     = 'MISC';
-
-    result.publication_date = match[4];
-
-  } else if ((match = /^\/doi\/(10\.[0-9]+\/(([^.]+)\.[0-9]+))\/full$/i.exec(path)) !== null) {
+    // /doi/10.1107/S1399004715000292/abstract
     // /doi/10.1111/acv.12024/full
-    result.doi      = match[1];
-    result.unitid   = match[2];
-    result.title_id = match[3].toUpperCase();
-    result.rtype    = 'ARTICLE';
-    result.mime     = 'HTML';
-
-  } else if ((match = /^\/doi\/(10\.[0-9]+\/(j\.([0-9]{4}-[0-9]{3}[0-9xX])\.([0-9]{4})\.[^.]+\.[^.]+))\/pdf$/i.exec(path)) !== null) {
     // /doi/10.1111/j.1600-0390.2012.00514.x/pdf
+    // /doi/10.1002/anie.201209878/pdf
+    // /doi/10.1002/9781118268117.ch3/pdf
+    // /doi/10.1107/S1399004715000292/pdf
+    // /doi/10.1107/S139900471402286X/pdf
+    // /doi/10.1002/2015TC003829/pdf
+    // /doi/10.1029/JZ072i023p05799/pdf
+
     result.doi    = match[1];
     result.unitid = match[2];
-    result.rtype  = 'ARTICLE';
-    result.mime   = 'PDF';
 
-    result.online_identifier = match[3];
-    result.publication_date  = match[4];
-
-  } else if ((match = /^\/doi\/(10\.[0-9]+\/(([^.]+)\.[0-9]+))\/pdf$/i.exec(path)) !== null) {
-    // /doi/10.1002/anie.201209878/pdf
-    result.doi      = match[1];
-    result.unitid   = match[2];
-    result.title_id = match[3].toUpperCase();
-    result.rtype    = 'ARTICLE';
-    result.mime     = 'PDF';
+    switch (match[4]) {
+    case 'abstract':
+      result.rtype = 'ABS';
+      result.mime  = 'HTML';
+      break;
+    case 'pdf':
+    case 'epdf':
+      result.rtype = match[3] ? 'BOOK_SECTION' : 'ARTICLE';
+      result.mime  = 'PDF';
+      break;
+    case 'full':
+      result.rtype = match[3] ? 'BOOK_SECTION' : 'ARTICLE';
+      result.mime  = 'HTML';
+      break;
+    case 'issuetoc':
+      result.rtype = 'TOC';
+      result.mime  = 'MISC';
+      break;
+    }
 
   } else if ((match = /^\/book\/(10\.[0-9]+\/([0-9]+))$/i.exec(path)) !== null) {
     // /book/10.1002/9781118268117
@@ -152,16 +132,6 @@ module.exports = new Parser(function analyseEC(parsedUrl) {
     result.mime     = 'MISC';
 
     result.print_identifier = match[2];
-
-  } else if ((match = /^\/doi\/(10\.[0-9]+\/(([0-9]+)\.[^.]+))\/pdf$/i.exec(path)) !== null) {
-    // /doi/10.1002/9781118268117.ch3/pdf
-    result.doi      = match[1];
-    result.unitid   = match[2];
-    result.title_id = match[3].toUpperCase();
-    result.rtype    = 'BOOK_SECTION';
-    result.mime     = 'PDF';
-
-    result.print_identifier = match[3];
 
   } else if ((match = /^\/enhanced\/doi\/(10\.[0-9]+\/(([^.]+)\.[^/]+))\/?$/i.exec(path)) !== null) {
     // /enhanced/doi/10.1002/cjg2.20083/
@@ -190,51 +160,13 @@ module.exports = new Parser(function analyseEC(parsedUrl) {
     result.rtype    = 'TOC';
     result.mime     = 'HTML';
 
-  } else if ((match = /^\/doi\/(10\.[0-9]+\/([a-z]{1}[0-9]{8}([0-9]{2})[a-z0-9]+))\/pdf$/i.exec(path)) !== null) {
-    // /doi/10.1107/S1399004715000292/pdf
-    result.doi      = match[1];
-    result.unitid   = match[2];
-    result.title_id = match[2].toUpperCase();
-    result.rtype    = 'ARTICLE';
-    result.mime     = 'PDF';
-
-    result.publication_date = '20' + match[3];
-
-  } else if ((match = /^\/iucr\/(10\.[0-9]+\/([a-z]{1}[0-9]{8}([0-9]{2})[0-9a-z]+))/i.exec(path)) !== null) {
+  } else if ((match = /^\/iucr\/(10\.[0-9]+\/([a-z]{1}[0-9a-z]+))/i.exec(path)) !== null) {
     // /iucr/10.1107/S1399004715000292
     // /iucr/10.1107/S139900471402286X
-    result.doi      = match[1];
-    result.unitid   = match[2] ;
-    result.title_id = match[2].toUpperCase();
-    result.rtype    = 'ARTICLE';
-    result.mime     = 'HTML';
-
-    result.publication_date = '20' + match[3];
-
-  }  else if ((match = /^\/doi\/(10\.[0-9]+\/([a-z]{1}[0-9]{8}([0-9]{2})[0-9a-z]+))\/([a-z]+)$/i.exec(path)) !== null) {
-    // /doi/10.1107/S1399004715000292/abstract
-    // /doi/10.1107/S139900471402286X/pdf
-    result.doi      = match[1];
-    result.unitid   = match[2];
-    result.title_id = match[2].toUpperCase();
-
-    result.publication_date = '20' + match[3];
-
-    switch (match[4]) {
-    case 'abstract':
-      result.rtype = 'ABS';
-      result.mime  = 'MISC';
-      break;
-    case 'pdf':
-      result.rtype = 'ARTICLE';
-      result.mime  = 'PDF';
-      break;
-    case 'full':
-      result.mime  = 'PDF';
-      result.rtype = 'HTML';
-      break;
-    }
-
+    result.doi    = match[1];
+    result.unitid = match[2] ;
+    result.rtype  = 'ARTICLE';
+    result.mime   = 'HTML';
 
   } else if ((match = /^\/store\/(10\.[0-9]+\/(([a-z]+)\.([0-9]{4})[0-9]+))\/asset\/[a-z]+[0-9]+.pdf$/i.exec(path)) !== null) {
     // /store/10.15252/embr.201439742/asset/embr201439742.pdf
@@ -245,42 +177,6 @@ module.exports = new Parser(function analyseEC(parsedUrl) {
 
     result.publication_date = match[4];
 
-  } else if ((match = /^\/doi\/(10\.[0-9]+\/(([0-9]{2,4})([a-z]+)[0-9]+))\/(e?pdf|full)$/i.exec(path)) !== null) {
-    // /doi/10.1002/2015TC003829/pdf
-    result.doi      = match[1];
-    result.unitid   = match[2];
-    result.title_id = match[4].toUpperCase();
-    result.rtype    = 'ARTICLE';
-
-    result.publication_date = match[3];
-
-    if (match[3].length === 2) {
-      result.publication_date = '19' + match[3];
-    }
-
-    switch (match[5]) {
-    case 'pdf':
-    case 'epdf':
-      result.mime = 'PDF';
-      break;
-    case 'full':
-      result.mime = 'HTML';
-    }
-
-  } else if ((match = /^\/doi\/(10\.[0-9]+\/([^.]+))\/(epdf|pdf|full)$/i.exec(path)) !== null) {
-    // /doi/10.1029/JZ072i023p05799/pdf
-    result.doi    = match[1];
-    result.unitid = match[2];
-    result.rtype  = 'ARTICLE';
-
-    switch (match[3]) {
-    case 'pdf':
-    case 'epdf':
-      result.mime = 'PDF';
-      break;
-    case 'full':
-      result.mime = 'HTML';
-    }
   }
 
   return result;
