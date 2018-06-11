@@ -48,6 +48,16 @@ module.exports = new Parser(function analyseEC(parsedUrl) {
       result.title_id = param.ID_ARTICLE.split('_')[0];
       result.unitid   = param.ID_ARTICLE;
     }
+  } else if (parsedUrl.pathname === '/article.php') {
+    // https://www.cairn.info/article.php?ID_ARTICLE=VING_108_0003
+    result.rtype = 'ARTICLE';
+    result.mime  = 'HTML';
+
+    if (param.ID_ARTICLE) {
+      // title_id is the first part of ID_ARTICLE ("_" character is the separator)
+      result.title_id = param.ID_ARTICLE.split('_')[0];
+      result.unitid   = param.ID_ARTICLE;
+    }
   } else if (parsedUrl.pathname === '/feuilleter.php') {
     // leaf-through a book section, in a flash player
     // example: http://www.cairn.info/feuilleter.php?ID_ARTICLE=PUF_MAZIE_2010_01_0003
