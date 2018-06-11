@@ -26,7 +26,7 @@ module.exports = new Parser(function analyseEC(parsedUrl) {
     result.mime     = 'MISC';
     result.unitid   = match[1];
     result.title_id = match[2];
-    result.vol      = match[3] ;
+    result.vol      = match[3];
     result.issue    = match[4];
 
   } else if ((match = /^\/isbn\/([0-9]{13})$/i.exec(parsedUrl.pathname)) !== null) {
@@ -76,7 +76,8 @@ module.exports = new Parser(function analyseEC(parsedUrl) {
       result.mime  = 'HTML';
       break;
     default:
-      result.mime = 'HTML';
+      result.rtype = 'ARTICLE';
+      result.mime  = 'HTML';
     }
   }
 
