@@ -99,18 +99,29 @@ module.exports = new Parser(function analyseEC(parsedUrl) {
     result.rtype    = 'TOC';
     result.mime     = 'MISC';
 
-  } else if ((match = /^\/articles\/(?:doi:([0-9]+\.[0-9]+)\/)?([a-z0-9.\-_]+?)(\.e?pdf)?$/i.exec(path)) !== null) {
+  } else if ((match = /^\/articles\/(?:doi:([0-9]+\.[0-9]+)\/)?([a-z0-9.\-_]+?)(\.[a-z]{2,})?$/i.exec(path)) !== null) {
     // /articles/doi:10.1038/nature16976.epdf?parent_url=http%3A%2F%2Fwww.readcube.com%2Farticles%2F10.1038%252Fnature16976&pdf_url=http%3A%2F%2Fwww.nature.com%2Fnature%2Fjournal%2Fv531%2Fn7592%2Fpdf%2Fnature16976.pdf
     // /articles/nature16976.epdf?parent_url=http%3A%2F%2Fwww.readcube.com%2Farticles%2F10.1038%252Fnature16976&pdf_url=http%3A%2F%2Fwww.nature.com%2Fnature%2Fjournal%2Fv531%2Fn7592%2Fpdf%2Fnature16976.pdf
     // /articles/nmat5046.pdf
+    // /articles/nplants201718
     // /articles/nmat5046
     // /articles/s41598-018-21122-5
     // /articles/s41598-018-21122-5.pdf
 
-    result.doi    = `${match[1] || doiPrefix}/${match[2]}`;
-    result.unitid = match[2];
+    let doiSuffix = match[2];
+    const m = /^([a-z]+)(20[0-9]{2})([0-9]+)$/.exec(doiSuffix);
 
-    switch (match[3]) {
+    if (m) {
+      doiSuffix = `${m[1]}.${m[2]}.${m[3]}`;
+      result.title_id = m[1];
+    }
+
+    result.doi    = `${match[1] || doiPrefix}/${doiSuffix}`;
+    result.unitid = doiSuffix;
+
+    const extension = match[3] || '.full';
+
+    switch (extension) {
     case '.pdf':
       result.rtype = 'ARTICLE';
       result.mime  = 'PDF';
@@ -121,9 +132,12 @@ module.exports = new Parser(function analyseEC(parsedUrl) {
       }
       result.mime = 'READCUBE';
       break;
-    default:
+    case '.full':
       result.rtype = 'ARTICLE';
       result.mime  = 'HTML';
+      break;
+    default:
+      return {};
     }
 
   } else if ((match = /^\/([a-zA-Z0-9]+)\/(?:(?:archive\/)?(?:index|current_issue)\.html)?$/i.exec(path)) !== null) {
