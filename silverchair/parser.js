@@ -18,7 +18,13 @@ module.exports = new Parser(function analyseEC(parsedUrl, ec) {
 
   let match;
 
-  if ((match = /^\/data\/Journals\/([a-z0-9]+)\/[0-9]+\/([a-zA-Z0-9_]+).pdf$/i.exec(path)) !== null) {
+  if ((match = /^\/([a-z0-9_.-]+)\.pdf$/i.exec(path)) !== null) {
+    // /dew237.pdf
+    result.rtype    = 'ARTICLE';
+    result.mime     = 'PDF';
+    result.unitid   = match[1];
+
+  } else if ((match = /^\/data\/Journals\/([a-z0-9]+)\/[0-9]+\/([a-z0-9_]+)\.pdf$/i.exec(path)) !== null) {
     // /data/Journals/JOTUEI/935001/turbo_138_06_061004.pdf
     result.rtype    = 'ARTICLE';
     result.mime     = 'PDF';
