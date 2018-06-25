@@ -1,0 +1,18 @@
+{
+  "version": "2018-06-20",
+  "status": "stable",
+  "domains": [
+    "www.rtabstracts.org"
+  ],
+  "recognize": {
+    "rid": [
+      "title_id"
+    ]
+  },
+  "name": "rta",
+  "longname": "Religion and Theology Abstracts",
+  "describe": "Recognizes the accesses to the platform Religion and Theology Abstracts",
+  "docurl": "http://ang.couperin.org/platforms/5b2a78a2ea21db6f62aa88a0",
+  "contact": "alexander.cooper@emory.edu",
+  "pkb": false
+}
