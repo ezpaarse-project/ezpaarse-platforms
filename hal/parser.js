@@ -16,18 +16,16 @@ module.exports = new Parser(function analyseEC(parsedUrl, ec) {
 
   let match;
 
-  if ((match = /^\/file\/index\/(docid|identifiant)\/(([a-z]+-)?0*([0-9]+))(v[0-9]+)?\/filename\/[^/]+.pdf$/i.exec(path)) !== null) {
+  if ((match = /^\/file\/index\/(docid|identifiant)\/(([a-z]+-)?0*([0-9]+))(v[0-9]+)?\/filename\/[^\/]+.pdf$/i.exec(path)) !== null) {
     //Accès à un document
     // /file/index/docid/544258/filename/jafari_Neurocomp07.pdf
-    result.rtype    = 'ARTICLE';
+    result.rtype    = 'FULLTEXT';
     result.mime     = 'PDF';
-    result.idtype   = match[1].toUpperCase();
 
-    if (result.idtype == 'DOCID') {
-      result.docid = match[2];
-      result.title_id = match[2];
+    if (match[1].toUpperCase() == 'DOCID') {
+      result.hal_docid = match[2];
     } else {
-        result.title_id = match[2];
+        result.hal_identifiant = match[2];
     }
 
   } else if ((match = /^\/?([A-Z-0-9]+)?\/([a-z]+-0*([0-9]+))(v[0-9]+)?\/?(document|image|video|player)?\/?$/i.exec(path)) !== null) {
@@ -40,12 +38,23 @@ module.exports = new Parser(function analyseEC(parsedUrl, ec) {
     // Avec une collection pour toutes les URLS ci-dessus : /COL/hal-00137415/
 
     // COLLECTION
-    result.collection = match[1];
+    result.hal_collection = match[1];
 
-    result.rtype    = match[5] ? 'ARTICLE' : 'ABS';
+    result.rtype    = match[5] ? 'FULLTEXT' : 'NOTICE';
     result.mime     = match[5] ? 'PDF' : 'HTML';
-    result.idtype   = 'IDENTIFIANT';
-    result.title_id = match[2];
+    result.hal_identifiant = match[2];
+
+  } else if ((match = /^\/?([A-Z-0-9]+)?\/([a-z]+-0*([0-9]+))(v[0-9]+)?\/([a-zA-Z]*)\/?$/i.exec(path)) !== null) {
+      /** Accès à une notice dans un format d'export
+       /hal-00137415/tei
+       */
+
+      // COLLECTION
+      result.hal_collection = match[1];
+
+      result.rtype    = 'EXPORT';
+      result.mime     = match[5].toUpperCase();
+      result.hal_identifiant = match[2];
 
   } else if ((match = /^\/?([A-Z-0-9]+)?\/view\/index(\/|\?)(docid|identifiant)(\/|=)(([a-z]+-)?0*([0-9]+))(v[0-9]+)?\/?$/i.exec(path)) !== null) {
     // Accès à une notice HTML (avec et sans versions) (avec et sans collections)
@@ -58,18 +67,17 @@ module.exports = new Parser(function analyseEC(parsedUrl, ec) {
     // Avec une collection pour toutes les URLS ci-dessus : /COL/hal-00137415/
 
     // COLLECTION
-    result.collection = match[1];
+    result.hal_collection = match[1];
 
-    result.rtype    = 'ABS';
+    result.rtype    = 'NOTICE';
     result.mime     = 'HTML';
-    result.idtype   = match[3].toUpperCase();
 
-      if (result.idtype == 'DOCID') {
-          result.docid = match[5];
-          result.title_id = match[5];
+      if (match[3].toUpperCase() == 'DOCID') {
+          result.hal_docid = match[5];
       } else {
-          result.title_id = match[5];
+          result.hal_identifiant = match[5];
       }
+
   } else if ((match = /^\/?([A-Z-0-9]+)?\/file\/index(\/|\?)(docid|identifiant)(\/|=)(([a-z]+-)?0*([0-9]+))(v[0-9]+)?((\/|\&)fileid(\/|=)1)?(\/|\&)main(\/|=)(1|true)\/?$/i.exec(path)) !== null) {
     //Accès à un document (avec et sans versions) (avec et sans collections)
     // /file/index/docid/1302902/main/1
@@ -82,17 +90,15 @@ module.exports = new Parser(function analyseEC(parsedUrl, ec) {
     // /file/index?identifiant=hal-01302902&fileid=1&main=1
 
     // COLLECTION
-    result.collection = match[1];
+    result.hal_collection = match[1];
 
-    result.rtype    = 'ARTICLE';
+    result.rtype    = 'FULLTEXT';
     result.mime     = 'PDF';
-    result.idtype   = match[3].toUpperCase();
 
-      if (result.idtype == 'DOCID') {
-          result.docid = match[5];
-          result.title_id = match[5];
+      if (match[3].toUpperCase() == 'DOCID') {
+          result.hal_docid = match[5];
       } else {
-          result.title_id = match[5];
+          result.hal_identifiant = match[5];
       }
     
   } else if ((match = /^\/?([A-Z0-9\-]+)?\/(([a-z]+-)?0*([0-9]+))(v[0-9]+)?\/file\/[^/]+.pdf$/i.exec(path)) !== null) {
@@ -100,21 +106,31 @@ module.exports = new Parser(function analyseEC(parsedUrl, ec) {
     // /hal-00137415/file/jafari_Neurocomp07.pdf
 
     // COLLECTION
-    result.collection = match[1];
+    result.hal_collection = match[1];
 
-    result.rtype    = 'ARTICLE';
+    result.rtype    = 'FULLTEXT';
     result.mime     = 'PDF';
-    result.idtype   = 'IDENTIFIANT';
-    result.title_id = match[2];
+
+    result.hal_identifiant = match[2];
+
+  } else if ((match = /^\/?([A-Z-0-9]+)?\/view\/index(\/|\?)(docid|identifiant)(\/|=)(([a-z]+-)?0*([0-9]+))(v[0-9]+)?\/([a-zA-Z]*)\/?$/i.exec(path)) !== null) {
+      /** Accès à une notice dans un format d'export
+       /view/index/docid/1302902/tei
+       /view/index?docid=1302902/tei
+       /view/index/identifiant/hal-01302902/tei
+       /view/index?identifiant=hal-01302902/tei
+       */
+      result.hal_collection = match[1];
+
+      result.rtype    = 'EXPORT';
+      result.mime     = match[9].toUpperCase();
+
+      if (match[3].toUpperCase() == 'DOCID') {
+          result.hal_docid = match[5];
+      } else {
+          result.hal_identifiant = match[5];
+      }
   }
-    
-    /** Accès à une notice dans un format d'export : qu'est-ce qu'on en fait ?
-         /hal-00137415/tei
-         /view/index/docid/1302902/tei
-         /view/index?docid=1302902/tei
-         /view/index/identifiant/hal-01302902/tei
-         /view/index?identifiant=hal-01302902/tei
-    */
 
   return result;
 });
