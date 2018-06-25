@@ -1,8 +1,5 @@
-out-print_identifier;out-title_id;out-unitid;out-rtype;out-mime;in-url
-9782749202358;;a-l-ecole-du-sujet--9782749202358;TOC;MISC;http://www.cairn.info/a-l-ecole-du-sujet--9782749202358.htm
-9782749202358;;a-l-ecole-du-sujet--9782749202358-p-9;PREVIEW;MISC;http://www.cairn.info/a-l-ecole-du-sujet--9782749202358-p-9.htm
-9782749202358;;a-l-ecole-du-sujet--9782749202358-page-9;BOOK_SECTION;HTML;http://www.cairn.info/a-l-ecole-du-sujet--9782749202358-page-9.htm
-9782130585237;;l-analyse-du-discours--9782130585237-page-3;BOOK_SECTION;HTML;http://www.cairn.info/l-analyse-du-discours--9782130585237-page-3.htm
-;revue-a-contrario;revue-a-contrario-2012-2;TOC;MISC;http://www.cairn.info/revue-a-contrario-2012-2.htm
-;revue-actes-de-la-recherche-en-sciences-sociales;revue-actes-de-la-recherche-en-sciences-sociales-2012-5-p-4;PREVIEW;MISC;http://www.cairn.info/revue-actes-de-la-recherche-en-sciences-sociales-2012-5-p-4.htm
-;revue-actes-de-la-recherche-en-sciences-sociales;revue-actes-de-la-recherche-en-sciences-sociales-2012-5-page-4;ARTICLE;HTML;http://www.cairn.info/revue-actes-de-la-recherche-en-sciences-sociales-2012-5-page-4.htm
+out-first_page;out-print_identifier;out-title_id;out-unitid;out-rtype;out-mime;in-url
+;9782749202358;a-l-ecole-du-sujet;a-l-ecole-du-sujet--9782749202358;TOC;HTML;http://www.cairn.info/a-l-ecole-du-sujet--9782749202358.htm
+9;9782749202358;a-l-ecole-du-sujet;a-l-ecole-du-sujet--9782749202358-p-9;PREVIEW;HTML;http://www.cairn.info/a-l-ecole-du-sujet--9782749202358-p-9.htm
+9;9782749202358;a-l-ecole-du-sujet;a-l-ecole-du-sujet--9782749202358-page-9;BOOK_SECTION;HTML;http://www.cairn.info/a-l-ecole-du-sujet--9782749202358-page-9.htm
+3;9782130585237;l-analyse-du-discours;l-analyse-du-discours--9782130585237-page-3;BOOK_SECTION;HTML;http://www.cairn.info/l-analyse-du-discours--9782130585237-page-3.htm
