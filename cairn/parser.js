@@ -101,7 +101,7 @@ module.exports = new Parser(function analyseEC(parsedUrl) {
     // book example: http://www.cairn.info/a-l-ecole-du-sujet--9782749202358.htm
     result.mime             = 'HTML';
     result.unitid           = match[1];
-    result.title_id         = match[2]
+    result.title_id         = match[2];
     result.print_identifier = match[3];
 
     if (!match[4]) {
