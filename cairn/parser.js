@@ -73,7 +73,7 @@ module.exports = new Parser(function analyseEC(parsedUrl) {
                    split[2] + '_' +
                    split[3];
     }
-  } else if ((match = /^\/(?:revue-|magazine-)(([a-z0-9@-]+)-([0-9]{4})-([0-9]+)-(page|p)-([0-9]+))\.htm$/i.exec(parsedUrl.pathname)) !== null) {
+  } else if ((match = /^\/(((?:revue-|magazine-)[a-z0-9@-]+)-([0-9]{4})-([0-9]+)-(page|p)-([0-9]+))\.htm$/i.exec(parsedUrl.pathname)) !== null) {
     // journal example: http://www.cairn.info/revue-actes-de-la-recherche-en-sciences-sociales-2012-5-page-4.htm
     result.rtype            = match[5] === 'page' ? 'ARTICLE' : 'PREVIEW';
     result.mime             = 'HTML';
@@ -83,7 +83,7 @@ module.exports = new Parser(function analyseEC(parsedUrl) {
     result.issue            = match[4];
     result.first_page       = match[6];
 
-  } else if ((match = /^\/(?:revue-|magazine-)(([a-z0-9@-]+?)(?:-([0-9]{4})-([0-9]+))?)\.htm$/i.exec(parsedUrl.pathname)) !== null) {
+  } else if ((match = /^\/(((?:revue-|magazine-)[a-z0-9@-]+?)(?:-([0-9]{4})-([0-9]+))?)\.htm$/i.exec(parsedUrl.pathname)) !== null) {
     // journal example: http://www.cairn.info/revue-a-contrario.htm
     result.unitid   = match[1];
     result.title_id = match[2];

@@ -2,11 +2,11 @@ out-publication_date;out-issue;out-first_page;out-title_id;out-unitid;out-rtype;
 ;;;ARSS;ARSS_195_0012;ABS;HTML;http://www.cairn.info/resume.php?ID_ARTICLE=ARSS_195_0012
 ;;;ARSS;ARSS_195_0012;ARTICLE;PDF;http://www.cairn.info/load_pdf.php?ID_ARTICLE=ARSS_195_0012
 ;;;ARSS;ARSS_195_0012;;;http://www.cairn.info/numero.php?ID_REVUE=ARSS&ID_NUMPUBLIE=ARSS_195&AJOUTBIBLIO=ARSS_195_0012
-;;;@grh;@grh;TOC;HTML;http://www.cairn.info/revue-@grh.htm
-;;;1895;1895;TOC;HTML;http://www.cairn.info/revue-1895.htm
+;;;revue-@grh;revue-@grh;TOC;HTML;http://www.cairn.info/revue-@grh.htm
+;;;revue-1895;revue-1895;TOC;HTML;http://www.cairn.info/revue-1895.htm
 ;;;ERES_DUMEZ_2003_01;ERES_DUMEZ_2003_01_0009;BOOK_SECTION;PDF;http://www.cairn.info/load_pdf.php?ID_ARTICLE=ERES_DUMEZ_2003_01_0009
 ;;;PUF_MAZIE_2010_01;PUF_MAZIE_2010_01_0003;BOOK_SECTION;HTML;http://www.cairn.info/feuilleter.php?ID_ARTICLE=PUF_MAZIE_2010_01_0003
 ;;;VING;VING_108_0003;ARTICLE;HTML;https://www.cairn.info/article.php?ID_ARTICLE=VING_108_0003
-2012;2;;a-contrario;a-contrario-2012-2;TOC;HTML;http://www.cairn.info/revue-a-contrario-2012-2.htm
-2012;5;4;actes-de-la-recherche-en-sciences-sociales;actes-de-la-recherche-en-sciences-sociales-2012-5-p-4;PREVIEW;HTML;http://www.cairn.info/revue-actes-de-la-recherche-en-sciences-sociales-2012-5-p-4.htm
-2012;5;4;actes-de-la-recherche-en-sciences-sociales;actes-de-la-recherche-en-sciences-sociales-2012-5-page-4;ARTICLE;HTML;http://www.cairn.info/revue-actes-de-la-recherche-en-sciences-sociales-2012-5-page-4.htm
+2012;2;;revue-a-contrario;revue-a-contrario-2012-2;TOC;HTML;http://www.cairn.info/revue-a-contrario-2012-2.htm
+2012;5;4;revue-actes-de-la-recherche-en-sciences-sociales;revue-actes-de-la-recherche-en-sciences-sociales-2012-5-p-4;PREVIEW;HTML;http://www.cairn.info/revue-actes-de-la-recherche-en-sciences-sociales-2012-5-p-4.htm
+2012;5;4;revue-actes-de-la-recherche-en-sciences-sociales;revue-actes-de-la-recherche-en-sciences-sociales-2012-5-page-4;ARTICLE;HTML;http://www.cairn.info/revue-actes-de-la-recherche-en-sciences-sociales-2012-5-page-4.htm
