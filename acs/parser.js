@@ -44,6 +44,10 @@ module.exports = new Parser(function analyseEC(parsedUrl) {
     result.doi    = match[2];
     result.unitid = match[3];
 
+    if (result.unitid === 'undefined') {
+      return {};
+    }
+
     let doiMatch;
 
     if ((doiMatch = /^10\.[0-9]+\/([a-z0-9]+)-([0-9]{4})-[0-9]+\.ch0*([0-9]+)$/.exec(result.doi)) !== null) {
