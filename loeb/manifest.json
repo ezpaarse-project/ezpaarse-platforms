@@ -1,0 +1,20 @@
+{
+  "version": "2018-06-21",
+  "status": "beta",
+  "domains": [
+    "www.loebclassics.com"
+  ],
+  "recognize": {
+    "rid": [
+      "title_id",
+      "unitid"
+    ]
+  },
+  "name": "loeb",
+  "longname": "Digital Loeb Classical Library",
+  "describe": "Recognizes the accesses to the platform Digital Loeb Classical Library",
+  "publisher_name": "Harvard University Press",
+  "docurl": "http://ang.couperin.org/platforms/5b2bdf3352deebbf1025be9a",
+  "contact": "alexander.cooper@emory.edu",
+  "pkb": false
+}
