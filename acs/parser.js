@@ -44,7 +44,9 @@ module.exports = new Parser(function analyseEC(parsedUrl) {
     result.doi    = match[2];
     result.unitid = match[3];
 
-    if (result.unitid === 'undefined') {
+    switch (result.unitid) {
+    case 'undefined':
+    case 'build-info.json':
       return {};
     }
 
