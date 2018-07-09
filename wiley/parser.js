@@ -26,7 +26,8 @@ module.exports = new Parser(function analyseEC(parsedUrl) {
 
     if (!match[1]) {
       // /doi/10.1002/brb3.590
-      result.rtype = 'ARTICLE';
+      // /doi/10.1002/9780470294635.ch44
+      result.rtype = /\.ch[0-9]+$/.test(result.unitid) ? 'BOOK_SECTION' : 'ARTICLE';
       result.mime  = 'HTML';
       return result;
     }
@@ -36,12 +37,12 @@ module.exports = new Parser(function analyseEC(parsedUrl) {
     case '/epdf':
       // /doi/pdf/10.1002/brb3.590
       // /doi/epdf/10.1002/brb3.590
-      result.rtype = 'ARTICLE';
+      result.rtype = /\.ch[0-9]+$/.test(result.unitid) ? 'BOOK_SECTION' : 'ARTICLE';
       result.mime  = 'PDF';
       break;
     case '/full':
       // /doi/full/10.1002/brb3.590
-      result.rtype = 'ARTICLE';
+      result.rtype = /\.ch[0-9]+$/.test(result.unitid) ? 'BOOK_SECTION' : 'ARTICLE';
       result.mime  = 'HTML';
       break;
     case '/abs':
