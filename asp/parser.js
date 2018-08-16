@@ -22,11 +22,14 @@ module.exports = new Parser(function analyseEC(parsedUrl, ec) {
 
   let match;
 
-  if (/^\/search$/i.test(path)) {
+  if (/\/search$/i.test(path)) {
     // https://search.alexanderstreet.com:443/search?searchstring=barth
     result.rtype    = 'SEARCH';
     result.mime     = 'HTML';
-
+  } else if (/^\/avon\/browse/i.test(path)) {
+    // https://search.alexanderstreet.com:443/avon/browse/discipline
+    result.rtype    = 'SEARCH';
+    result.mime     = 'HTML';
   } else if ((match = /^\/view\/work\/bibliographic_entity%7C(([a-z_]*)%7C([0-9]*))$/i.exec(path)) !== null) {
     // https://search.alexanderstreet.com:443/view/work/bibliographic_entity%7Cvideo_work%7C1790283
     // https://search.alexanderstreet.com:443/view/work/bibliographic_entity%7Crecorded_track%7C367256
