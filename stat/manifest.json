@@ -1,0 +1,19 @@
+{
+  "version": "2018-08-10",
+  "status": "stable",
+  "domains": [
+    "www.statista.com"
+  ],
+  "recognize": {
+    "rid": [
+      "title_id",
+      "unitid"
+    ]
+  },
+  "name": "stat",
+  "longname": "Statista",
+  "describe": "Recognizes the accesses to the platform Statista",
+  "docurl": "http://ang.couperin.org/platforms/5b6dea5ec95e195b869d2558",
+  "contact": "alexander.cooper@emory.edu",
+  "pkb": false
+}
