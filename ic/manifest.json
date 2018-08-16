@@ -1,0 +1,14 @@
+{
+  "longname": "Ingenta Connect",
+  "name": "ic",
+  "describe": "Recognizes the accesses to the platform Ingenta Connect",
+  "contact": "Bibliothèques Muséum",
+  "pkb": false,
+  "docurl": "http://analyses.ezpaarse.org/platforms/5a7da6d275cd50e577d60849",
+  "domains": [
+    "docserver.ingentaconnect.com",
+    "www.ingentaconnect.com"
+  ],
+  "version": "2018-06-11",
+  "status": "beta"
+}

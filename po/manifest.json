@@ -1,0 +1,21 @@
+{
+  "version": "2017-10-31",
+  "status": "stable",
+  "domains": [
+    "psychiatryonline.org",
+    "www.psychiatryonline.org",
+    "www.psychiatryonline.com",
+    "psychiatryonline.com",
+    "www.appi.org",
+    "appi.org"
+  ],
+  "name": "po",
+  "longname": "PsychiatryOnline",
+  "describe": "Recognizes the accesses to the platform PsychiatryOnline",
+  "publisher_name" : "American Psychiatric Associations",
+  "trello": "https://trello.com/c/VX4gydMO/351-psychiatryonline-po",
+  "docurl": "http://analyses.ezpaarse.org/platforms/573b34ffc6bd6e67576d6750/analyses",
+  "contact": "alexander.cooper@emory.edu",
+  "pkb": true,
+  "pkb-domains": "pkb-domain"
+}

@@ -1,0 +1,9 @@
+out-unitid;out-doi;out-rtype;out-mime;in-url
+mic.0.000612;10.1099/mic.0.000612;ARTICLE;PDF;http://mic.microbiologyresearch.org:80/deliver/fulltext/micro/micro.000612.zip/mic000612.pdf?itemId=/content/journal/micro/10.1099/mic.0.000612.v1&mimeType=pdf&isFastTrackArticle=true
+jgv.0.001012;10.1099/jgv.0.001012;ARTICLE;HTML;http://jgv.microbiologyresearch.org:80/deliver/fulltext/jgv/jgv.001012.zip/jgv001012.html?itemId=/content/journal/jgv/10.1099/jgv.0.001012.v1&mimeType=html&fmt=ahah
+mgen.0.000150;10.1099/mgen.0.000150;SUPPL;PDF;http://mgen.microbiologyresearch.org:80/deliver/fulltext/mgen/mgen.000150.zip/000150_1.pdf?itemId=/content/suppdata/mgen/10.1099/mgen.0.000150.v1-1&mimeType=pdf&isFastTrackArticle=
+jgv.0.001012;10.1099/jgv.0.001012;ABS;HTML;http://jgv.microbiologyresearch.org:80/content/journal/jgv/10.1099/jgv.0.001012
+jgv.0.001012;10.1099/jgv.0.001012;FIGURE;HTML;http://jgv.microbiologyresearch.org:80/content/journal/jgv/10.1099/jgv.0.001012.v1/figures?fmt=ahah
+jmm.0.000636;10.1099/jmm.0.000636;REF;HTML;http://jmm.microbiologyresearch.org:80/metrics/usage.action?startDate=2017-11-29&endDate=2018-01-26&itemId=/content/journal/jmm/10.1099/jmm.0.000636
+jmm.0.000682;10.1099/jmm.0.000682;REF;HTML;http://jmm.microbiologyresearch.org:80/references/matchedRefsForItem.action?itemId=/content/journal/jmm/10.1099/jmm.0.000682.v1
+;;SEARCH;HTML;http://jmm.microbiologyresearch.org:80/search?value1=virus&option1=all&option2=pub_serialIdent&value2=&operator2=AND

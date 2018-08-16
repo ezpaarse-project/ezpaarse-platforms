@@ -1,0 +1,496 @@
+title_url	title_id	publisher_name	pkb-piddomain	publication_title	print_identifier	online_identifier	date_first_issue_online	num_first_vol_online	num_first_issue_online	date_last_issue_online	num_last_vol_online	num_last_issue_online	first_author	embargo_info	coverage_depth	coverage_notes	publication_type	date_monograph_published_print	date_monograph_published_online	monograph_volume	monograph_edition	first_editor	parent_publication_title_id	preceding_publication_title_id	access_type
+http://aa.uwpress.org	aa.uwpress.org	University of Wisconsin Press	aa.uwpress.org	Arctic Anthropology																					
+http://aac.asm.org	aac.asm.org	American Society for Microbiology	aac.asm.org	Antimicrobial Agents and Chemotherapy																					
+http://aancme.highwire.org	aancme.highwire.org	Lippincott Williams & Wilkins	aancme.highwire.org	Neurology Online CME																					
+http://aapg.geoscienceworld.org	aapg.geoscienceworld.org	American Association of Petroleum Geologists (AAPG)	aapg.geoscienceworld.org	American Association of Petroleum Geologists																					
+http://aapgbull.geoscienceworld.org	aapgbull.geoscienceworld.org	American Association of Petroleum Geologists (AAPG)	aapgbull.geoscienceworld.org	AAPG Bulletin																					
+http://aapgrandrounds.aappublications.org	aapgrandrounds.aappublications.org	American Academy of Pediatrics	aapgrandrounds.aappublications.org	AAP Grand Rounds																					
+http://aapnews.aappublications.org	aapnews.aappublications.org	American Academy of Pediatrics	aapnews.aappublications.org	AAP News																					
+http://abt.ucpress.edu	abt.ucpress.edu	University of California Press	abt.ucpress.edu	The American Biology Teacher																					
+http://acc.aacnjournals.org	acc.aacnjournals.org	American Association of Critical Care Nurses	acc.aacnjournals.org	AACN Advanced Critical Care																					
+http://adc.bmj.com	adc.bmj.com	BMJ Publishing Group Ltd	adc.bmj.com	Archives of Disease in Childhood																					
+http://admincenter.jneurosci.org	admincenter.jneurosci.org	Society for Neuroscience	admincenter.jneurosci.org	jneuro Admincenter																					
+http://advan.physiology.org	advan.physiology.org	American Physiological Society	advan.physiology.org	Advances in Physiology Education																					
+http://advances.nutrition.org	advances.nutrition.org	American Society for Nutrition	advances.nutrition.org	Advances in Nutrition: An International Review Journal																					
+http://aem.asm.org	aem.asm.org	American Society for Microbiology	aem.asm.org	Applied and Environmental Microbiology																					
+http://aim.bmj.com	aim.bmj.com	BMJ Publishing Group Ltd	aim.bmj.com	Acupuncture in Medicine																					
+http://ajcc.aacnjournals.org	ajcc.aacnjournals.org	American Association of Critical Care Nurses	ajcc.aacnjournals.org	American Journal of Critical Care																					
+http://ajcn.nutrition.org	ajcn.nutrition.org	American Society for Nutrition	ajcn.nutrition.org	The American Journal of Clinical Nutrition																					
+http://ajpcell.physiology.org	ajpcell.physiology.org	American Physiological Society	ajpcell.physiology.org	American Journal of Physiology - Cell Physiology																					
+http://ajpendo.physiology.org	ajpendo.physiology.org	American Physiological Society	ajpendo.physiology.org	American Journal of Physiology - Endocrinology and Metabolism																					
+http://ajpgi.physiology.org	ajpgi.physiology.org	American Physiological Society	ajpgi.physiology.org	American Journal of Physiology - Gastrointestinal and Liver Physiology																					
+http://ajpheart.physiology.org	ajpheart.physiology.org	American Physiological Society	ajpheart.physiology.org	American Journal of Physiology - Heart and Circulatory Physiology																					
+http://ajplegacy.physiology.org	ajplegacy.physiology.org	American Physiological Society	ajplegacy.physiology.org	American Journal of Physiology -- Legacy Content																					
+http://ajplung.physiology.org	ajplung.physiology.org	American Physiological Society	ajplung.physiology.org	American Journal of Physiology - Lung Cellular and Molecular Physiology																					
+http://ajpregu.physiology.org	ajpregu.physiology.org	American Physiological Society	ajpregu.physiology.org	American Journal of Physiology - Regulatory, Integrative and Comparative Physiology																					
+http://ajprenal.physiology.org	ajprenal.physiology.org	American Physiological Society	ajprenal.physiology.org	American Journal of Physiology - Renal Physiology																					
+http://als.dukejournals.org	als.dukejournals.org	Duke University Press	als.dukejournals.org	American Literary Scholarship																					
+http://amd.aom.org	amd.aom.org	Academy of Management	amd.aom.org	Academy of Management Discoveries																					
+http://americanliterature.dukejournals.org	americanliterature.dukejournals.org	Duke University Press	americanliterature.dukejournals.org	American Literature																					
+http://americanspeech.dukejournals.org	americanspeech.dukejournals.org	Duke University Press	americanspeech.dukejournals.org	American Speech																					
+http://amj.aom.org	amj.aom.org	Academy of Management	amj.aom.org	Academy of Management Journal																					
+http://amle.aom.org	amle.aom.org	Academy of Management	amle.aom.org	Academy of Management Learning & Education																					
+http://ammin.geoscienceworld.org	ammin.geoscienceworld.org	Mineralogical Society of America	ammin.geoscienceworld.org	American Mineralogist																					
+http://amp.aom.org	amp.aom.org	Academy of Management	amp.aom.org	Academy of Management Perspectives																					
+http://amr.aom.org	amr.aom.org	Academy of Management	amr.aom.org	Academy of Management Review																					
+http://annals.aom.org	annals.aom.org	Academy of Management	annals.aom.org	Academy of Management Annals																					
+http://aoj.uwpress.org	aoj.uwpress.org	University of Wisconsin Press	aoj.uwpress.org	American Orthoptic Journal																					
+http://apt.rcpsych.org	apt.rcpsych.org	Royal College of Psychiatrists	apt.rcpsych.org	BJPsych Advances																					
+http://aqua.iwaponline.com	aqua.iwaponline.com	IWA Publishing	aqua.iwaponline.com	Journal of Water Supply: Research and Technology - Aqua																					
+http://ar.iiarjournals.org	ar.iiarjournals.org	International Institute of Anticancer Research	ar.iiarjournals.org	Anticancer Research																					
+http://ard.bmj.com	ard.bmj.com	BMJ Publishing Group Ltd	ard.bmj.com	Annals of the Rheumatic Diseases																					
+http://as.ucpress.edu	as.ucpress.edu	University of California Press	as.ucpress.edu	Asian Survey																					
+http://ash-sap.hematologylibrary.org	ash-sap.hematologylibrary.org	American Society of Hematology	ash-sap.hematologylibrary.org	American Society of Hematology Self-Assessment Program																					
+http://asheducationbook.hematologylibrary.org	asheducationbook.hematologylibrary.org	American Society of Hematology	asheducationbook.hematologylibrary.org	Hematology ASH Education Program																					
+http://atvb.ahajournals.org	atvb.ahajournals.org	American Heart Association	atvb.ahajournals.org	Arteriosclerosis, Thrombosis, and Vascular Biology																					
+http://bcpg.geoscienceworld.org	bcpg.geoscienceworld.org	Canadian Society of Petroleum Geologists	bcpg.geoscienceworld.org	Bulletin of Canadian Petroleum Geology																					
+http://bio.biologists.org	bio.biologists.org	The Company of Biologists Ltd	bio.biologists.org	Biology Open																					
+http://bjgp.org	bjgp.org	Royal College of General Practitioners	bjgp.org	British Journal of General Practice																					
+http://bjo.bmj.com	bjo.bmj.com	BMJ Publishing Group Ltd	bjo.bmj.com	British Journal of Ophthalmology																					
+http://bjp.rcpsych.org	bjp.rcpsych.org	Royal College of Psychiatrists	bjp.rcpsych.org	The British Journal of Psychiatry																					
+http://bjsm.bmj.com	bjsm.bmj.com	BMJ Publishing Group Ltd	bjsm.bmj.com	British Journal of Sports Medicine																					
+http://bmjopen.bmj.com	bmjopen.bmj.com	BMJ Publishing Group Ltd	bmjopen.bmj.com	BMJ Open																					
+http://bmjopensem.bmj.com	bmjopensem.bmj.com	BMJ Publishing Group Ltd	bmjopensem.bmj.com	BMJ Open Sport & Exercise Medicine																					
+http://books.ersjournals.com/	books.ersjournals.com	European Respiratory Society	books.ersjournals.com	ERS Monograph																					
+http://boom.ucpress.edu	boom.ucpress.edu	University of California Press	boom.ucpress.edu	Boom: A Journal of California																					
+http://boundary2.dukejournals.org	boundary2.dukejournals.org	Duke University Press	boundary2.dukejournals.org	boundary 2																					
+http://breathe.ersjournals.com	breathe.ersjournals.com	European Respiratory Society	breathe.ersjournals.com	Breathe																					
+http://bsgf.geoscienceworld.org	bsgf.geoscienceworld.org	Societe Geologique de France	bsgf.geoscienceworld.org	Bulletin de la Société Géologique de France																					
+http://bssa.geoscienceworld.org	bssa.geoscienceworld.org	Seismological Society of America	bssa.geoscienceworld.org	Bulletin of the Seismological Society of America																					
+http://bulletin.geoscienceworld.org	bulletin.geoscienceworld.org	Geological Society of America	bulletin.geoscienceworld.org	GSA Bulletin																					
+http://ca.ucpress.edu	ca.ucpress.edu	University of California Press	ca.ucpress.edu	Classical Antiquity																					
+http://cameraobscura.dukejournals.org	cameraobscura.dukejournals.org	Duke University Press	cameraobscura.dukejournals.org	Camera Obscura: Feminism, Culture, and Media Studies																					
+http://cancerdiscovery.aacrjournals.org	cancerdiscovery.aacrjournals.org	American Association for Cancer Research	cancerdiscovery.aacrjournals.org	Cancer Discovery																					
+http://cancerimmunolres.aacrjournals.org	cancerimmunolres.aacrjournals.org	American Association for Cancer Research	cancerimmunolres.aacrjournals.org	Cancer Immunity Archive																					
+http://cancerpreventionresearch.aacrjournals.org	cancerpreventionresearch.aacrjournals.org	American Association for Cancer Research	cancerpreventionresearch.aacrjournals.org	Cancer Prevention Research																					
+http://cancerres.aacrjournals.org	cancerres.aacrjournals.org	American Association for Cancer Research	cancerres.aacrjournals.org	Cancer Research																					
+http://canmin.geoscienceworld.org	canmin.geoscienceworld.org	Mineralogical Association of Canada	canmin.geoscienceworld.org	The Canadian Mineralogist																					
+http://care.diabetesjournals.org	care.diabetesjournals.org	American Diabetes Association	care.diabetesjournals.org	Diabetes Care																					
+http://carlyleletters.dukejournals.org	carlyleletters.dukejournals.org	Duke University Press	carlyleletters.dukejournals.org	The Carlyle Letters Online																					
+http://caseconnector.jbjs.org	caseconnector.jbjs.org	Journal of Bone and Joint Surgery	caseconnector.jbjs.org	JBJS Case Connector																					
+http://casereports.bmj.com	casereports.bmj.com	BMJ Publishing Group Ltd	casereports.bmj.com	BMJ Case Reports																					
+http://ccm.geoscienceworld.org	ccm.geoscienceworld.org	Clay Minerals Society	ccm.geoscienceworld.org	Clays and Clay Minerals																					
+http://ccn.aacnjournals.org	ccn.aacnjournals.org	American Association of Critical Care Nurses	ccn.aacnjournals.org	Critical Care Nurse																					
+http://cdn.nutrition.org	cdn.nutrition.org	American College of Nutrition	cdn.nutrition.org	Current Developments in Nutrition																					
+http://cebp.aacrjournals.org	cebp.aacrjournals.org	American Association for Cancer Research	cebp.aacrjournals.org	Cancer Epidemiology Biomarkers & Prevention																					
+http://cgp.iiarjournals.org	cgp.iiarjournals.org	International Institute of Anticancer Research	cgp.iiarjournals.org	Cancer Genomics & Proteomics																					
+http://ch.ucpress.edu	ch.ucpress.edu	University of California Press	ch.ucpress.edu	California History																					
+http://circ.ahajournals.org	circ.ahajournals.org	American Heart Association	circ.ahajournals.org	Circulation																					
+http://circep.ahajournals.org	circep.ahajournals.org	American Heart Association	circep.ahajournals.org	Circulation: Arrhythmia and Electrophysiology																					
+http://circgenetics.ahajournals.org	circgenetics.ahajournals.org	American Heart Association	circgenetics.ahajournals.org	Circulation: Genomic and Precision Medicine																					
+http://circheartfailure.ahajournals.org	circheartfailure.ahajournals.org	American Heart Association	circheartfailure.ahajournals.org	Circulation: Heart Failure																					
+http://circimaging.ahajournals.org	circimaging.ahajournals.org	American Heart Association	circimaging.ahajournals.org	Circulation: Cardiovascular Imaging																					
+http://circinterventions.ahajournals.org	circinterventions.ahajournals.org	American Heart Association	circinterventions.ahajournals.org	Circulation: Cardiovascular Interventions																					
+http://circoutcomes.ahajournals.org	circoutcomes.ahajournals.org	American Heart Association	circoutcomes.ahajournals.org	Circulation: Cardiovascular Quality and Outcomes																					
+http://circres.ahajournals.org	circres.ahajournals.org	American Heart Association	circres.ahajournals.org	Circulation Research																					
+http://cjasn.asnjournals.org	cjasn.asnjournals.org	American Society of Nephrology	cjasn.asnjournals.org	Clinical Journal of the American Society of Nephrology																					
+http://cjes.geoscienceworld.org	cjes.geoscienceworld.org	Canadian Science Publishing	cjes.geoscienceworld.org	Canadian Journal of Earth Sciences																					
+http://cl.uwpress.org	cl.uwpress.org	University of Wisconsin Press	cl.uwpress.org	Contemporary Literature																					
+http://claymin.geoscienceworld.org	claymin.geoscienceworld.org	Mineralogical Society of Great Britain and Ireland	claymin.geoscienceworld.org	Clay Minerals																					
+http://clincancerres.aacrjournals.org	clincancerres.aacrjournals.org	American Association for Cancer Research	clincancerres.aacrjournals.org	Clinical Cancer Research																					
+http://clinchem.aaccjnls.org	clinchem.aaccjnls.org	American Association for Clinical Chemistry	clinchem.aaccjnls.org	Clinical Chemistry																					
+http://clinical.diabetesjournals.org	clinical.diabetesjournals.org	American Diabetes Association	clinical.diabetesjournals.org	Clinical Diabetes																					
+http://clinicalresearcher.acrpnet.org	clinicalresearcher.acrpnet.org	Association of Clinical Research Professionals	clinicalresearcher.acrpnet.org	Clinical Researcher																					
+http://cme.ahajournals.org	cme.ahajournals.org	Lippincott Williams & Wilkins	cme.ahajournals.org	AHA Journals CME																					
+http://cme.alphamedpress.org	cme.alphamedpress.org	AlphaMed Press	cme.alphamedpress.org	The Oncologist CME Online																					
+http://cmr.asm.org	cmr.asm.org	American Society for Microbiology	cmr.asm.org	Clinical Microbiology Reviews																					
+http://cmr.ucpress.edu	cmr.ucpress.edu	University of California Press	cmr.ucpress.edu	California Management Review																					
+http://commonknowledge.dukejournals.org	commonknowledge.dukejournals.org	Duke University Press	commonknowledge.dukejournals.org	Common Knowledge																					
+http://complit.dukejournals.org	complit.dukejournals.org	Duke University Press	complit.dukejournals.org	Comparative Literature																					
+http://content.healthaffairs.org	content.healthaffairs.org	Project HOPE - The People-to-People Health Foundation, Inc.	content.healthaffairs.org	Health Affairs																					
+http://cp.neurology.org	cp.neurology.org	American Academy of Neurology	cp.neurology.org	Neurology: Clinical Practice																					
+http://crl.acrl.org	crl.acrl.org	Association of College & Research Libraries	crl.acrl.org	College & Research Libraries																					
+http://crln.acrl.org	crln.acrl.org	Association of College & Research Libraries	crln.acrl.org	College & Research Libraries News																					
+http://cs.sepmonline.org	cs.sepmonline.org	SEPM Society for Sedimentary Geology	cs.sepmonline.org	Carbonate Sedimentology and Sequence Stratigraphy																					
+http://cshperspectives.cshlp.org	cshperspectives.cshlp.org	Cold Spring Harbor Laboratory Press	cshperspectives.cshlp.org	Cold Spring Harbor Perspectives in Biology																					
+http://cshprotocols.cshlp.org	cshprotocols.cshlp.org	Cold Spring Harbor Laboratory Press	cshprotocols.cshlp.org	Cold Spring Harbor Protocols																					
+http://cssaame.dukejournals.org	cssaame.dukejournals.org	Duke University Press	cssaame.dukejournals.org	Comparative Studies of South Asia, Africa and the Middle East																					
+http://culturalpolitics.dukejournals.org	culturalpolitics.dukejournals.org	Duke University Press	culturalpolitics.dukejournals.org	Cultural Politics an International Journal																					
+http://cvi.asm.org	cvi.asm.org	American Society for Microbiology	cvi.asm.org	Clinical and Vaccine Immunology																					
+http://dcqr.ucpress.edu	dcqr.ucpress.edu	University of California Press	dcqr.ucpress.edu	Departures in Critical Qualitative Research																					
+http://demo.highwire.org	demo.highwire.org	HighWire Press	demo.highwire.org	Demo Journal of Physical Therapy																					
+http://dev.biologists.org	dev.biologists.org	The Company of Biologists Ltd	dev.biologists.org	Development																					
+http://diabetes.diabetesjournals.org	diabetes.diabetesjournals.org	American Diabetes Association	diabetes.diabetesjournals.org	Diabetes																					
+http://diabetesjournals.org	diabetesjournals.org	American Diabetes Association	diabetesjournals.org	American Diabetes Association Journals																					
+http://differences.dukejournals.org	differences.dukejournals.org	Duke University Press	differences.dukejournals.org	differences																					
+http://dmd.aspetjournals.org	dmd.aspetjournals.org	American Society for Pharmacology and Experimental Therapeutics	dmd.aspetjournals.org	Drug Metabolism and Disposition																					
+http://dmm.biologists.org	dmm.biologists.org	The Company of Biologists Ltd	dmm.biologists.org	Disease Models & Mechanisms																					
+http://dtb.bmj.com	dtb.bmj.com	BMJ Publishing Group Ltd	dtb.bmj.com	DTB - Drug and Therapeutics Bulletin																					
+http://easts.dukejournals.org	easts.dukejournals.org	Duke University Press	easts.dukejournals.org	East Asian Science, Technology and Society																					
+http://ebm.bmj.com	ebm.bmj.com	BMJ Publishing Group Ltd	ebm.bmj.com	BMJ Evidence-Based Medicine																					
+http://ebmh.bmj.com	ebmh.bmj.com	BMJ Publishing Group Ltd	ebmh.bmj.com	Evidence-Based Mental Health																					
+http://ebn.bmj.com	ebn.bmj.com	BMJ Publishing Group Ltd	ebn.bmj.com	Evidence-Based Nursing																					
+http://ec.asm.org	ec.asm.org	American Society for Microbiology	ec.asm.org	Eukaryotic Cell																					
+http://ecl.dukejournals.org	ecl.dukejournals.org	Duke University Press	ecl.dukejournals.org	Eighteenth-Century Life																					
+http://econgeol.geoscienceworld.org	econgeol.geoscienceworld.org	Society of Economic Geologists	econgeol.geoscienceworld.org	Economic Geology																					
+http://ecst.ecsdl.org	ecst.ecsdl.org	The Electrochemical Society	ecst.ecsdl.org	ECS Transactions																					
+http://eeg.geoscienceworld.org	eeg.geoscienceworld.org	Association of Environmental & Engineering Geologists	eeg.geoscienceworld.org	Environmental & Engineering Geoscience																					
+http://eel.ecsdl.org	eel.ecsdl.org	The Electrochemical Society	eel.ecsdl.org	ECS Electrochemistry Letters																					
+http://eg.geoscienceworld.org	eg.geoscienceworld.org	American Association of Petroleum Geologists (AAPG)	eg.geoscienceworld.org	Environmental Geosciences																					
+http://egsp.lyellcollection.org	egsp.lyellcollection.org	Geological Society of London	egsp.lyellcollection.org	Geological Society, London, Engineering Geology Special Publications																					
+http://ejhp.bmj.com	ejhp.bmj.com	BMJ Publishing Group Ltd	ejhp.bmj.com	European Journal of Hospital Pharmacy																					
+http://elements.geoscienceworld.org	elements.geoscienceworld.org	Mineralogical Association of Canada	elements.geoscienceworld.org	Elements																					
+http://emg.geoscienceworld.org	emg.geoscienceworld.org	Canadian Institute of Mining, Metallurgy & Petroleum	emg.geoscienceworld.org	Exploration and Mining Geology																					
+http://emj.bmj.com	emj.bmj.com	BMJ Publishing Group Ltd	emj.bmj.com	Emergency Medicine Journal																					
+http://ep.bmj.com	ep.bmj.com	BMJ Publishing Group Ltd	ep.bmj.com	Archives of Disease in Childhood - Education and Practice																					
+http://er.uwpress.org	er.uwpress.org	University of Wisconsin Press	er.uwpress.org	Ecological Restoration																					
+http://erc.endocrinology-journals.org	erc.endocrinology-journals.org	BioScientifica	erc.endocrinology-journals.org	Endocrine-Related Cancer																					
+http://erj.ersjournals.com	erj.ersjournals.com	European Respiratory Society	erj.ersjournals.com	European Respiratory Journal																					
+http://err.ersjournals.com	err.ersjournals.com	European Respiratory Society	err.ersjournals.com	European Respiratory Review																					
+http://esl.ecsdl.org	esl.ecsdl.org	The Electrochemical Society	esl.ecsdl.org	Electrochemical and Solid-State Letters																					
+http://essays.biochemistry.org	essays.biochemistry.org	Portland Press Ltd	essays.biochemistry.org	Essays In Biochemistry																					
+http://ethnohistory.dukejournals.org	ethnohistory.dukejournals.org	Duke University Press	ethnohistory.dukejournals.org	Ethnohistory																					
+http://eurjmin.geoscienceworld.org	eurjmin.geoscienceworld.org	E. Schweizerbart'sche Verlagsbuchhandlung Science Publishers	eurjmin.geoscienceworld.org	European Journal of Mineralogy																					
+http://fg.bmj.com	fg.bmj.com	BMJ Publishing Group Ltd	fg.bmj.com	Frontline Gastroenterology																					
+http://fhs.dukejournals.org	fhs.dukejournals.org	Duke University Press	fhs.dukejournals.org	French Historical Studies																					
+http://fieldguides.gsapubs.org	fieldguides.gsapubs.org	Geological Society of America	fieldguides.gsapubs.org	Field Guides																					
+http://fmh.ucpress.edu	fmh.ucpress.edu	University of California Press	fmh.ucpress.edu	Feminist Media Histories																					
+http://fn.bmj.com	fn.bmj.com	BMJ Publishing Group Ltd	fn.bmj.com	Archives of Disease in Childhood - Fetal and Neonatal Edition																					
+http://fq.ucpress.edu	fq.ucpress.edu	University of California Press	fq.ucpress.edu	Film Quarterly																					
+http://fsr.ucpress.edu	fsr.ucpress.edu	University of California Press	fsr.ucpress.edu	Federal Sentencing Reporter																					
+http://gcfs.ucpress.edu	gcfs.ucpress.edu	University of California Press	gcfs.ucpress.edu	Gastronomica: The Journal of Critical Food Studies																					
+http://gcsproceedings.sepmonline.org	gcsproceedings.sepmonline.org	GCSSEPM Foundation	gcsproceedings.sepmonline.org	Advanced Reservoir Characterization for the 21st Century: 19th Annual GCSSEPM Foundation Bob F. Perkins Research Conference																					
+http://geea.geoscienceworld.org	geea.geoscienceworld.org	Geological Society of London	geea.geoscienceworld.org	Geochemistry: Exploration, Environment, Analysis																					
+http://geea.lyellcollection.org	geea.lyellcollection.org	Geological Society of London	geea.lyellcollection.org	Geochemistry: Exploration, Environment, Analysis																					
+http://genesdev.cshlp.org	genesdev.cshlp.org	Cold Spring Harbor Laboratory Press	genesdev.cshlp.org	Genes & Development																					
+http://genome.cshlp.org	genome.cshlp.org	Cold Spring Harbor Laboratory Press	genome.cshlp.org	Genome Research																					
+http://genomea.asm.org	genomea.asm.org	American Society for Microbiology	genomea.asm.org	Genome Announcements																					
+http://genre.dukejournals.org	genre.dukejournals.org	Duke University Press	genre.dukejournals.org	Genre																					
+http://geolmag.geoscienceworld.org	geolmag.geoscienceworld.org	Cambridge University Press	geolmag.geoscienceworld.org	Geological Magazine																					
+http://geology.geoscienceworld.org	geology.geoscienceworld.org	Geological Society of America	geology.geoscienceworld.org	Geology																					
+http://geology.gsapubs.org	geology.gsapubs.org	Geological Society of America	geology.gsapubs.org	Geology																					
+http://geophysics.geoscienceworld.org	geophysics.geoscienceworld.org	Society of Exploration Geophysicists	geophysics.geoscienceworld.org	Geophysics																					
+http://geosphere.geoscienceworld.org	geosphere.geoscienceworld.org	Geological Society of America	geosphere.geoscienceworld.org	Geosphere																					
+http://glq.dukejournals.org	glq.dukejournals.org	Duke University Press	glq.dukejournals.org	GLQ: A Journal of Lesbian and Gay Studies																					
+http://gsa.geoscienceworld.org	gsa.geoscienceworld.org	Geological Society of America	gsa.geoscienceworld.org	GSA Journals																					
+http://gsabulletin.gsapubs.org	gsabulletin.gsapubs.org	Geological Society of America	gsabulletin.gsapubs.org	Geological Society of America Bulletin																					
+http://gsl.geoscienceworld.org	gsl.geoscienceworld.org	Geological Society of London	gsl.geoscienceworld.org	GSL Journals																					
+http://guides.iijournals.com	guides.iijournals.com	Institutional Investor Journals	guides.iijournals.com	ETFs and Indexing																					
+http://gut.bmj.com	gut.bmj.com	BMJ Publishing Group Ltd	gut.bmj.com	Gut																					
+http://hahr.dukejournals.org	hahr.dukejournals.org	Duke University Press	hahr.dukejournals.org	Hispanic American Historical Review																					
+http://heart.bmj.com	heart.bmj.com	BMJ Publishing Group Ltd	heart.bmj.com	Heart																					
+http://heartasia.bmj.com	heartasia.bmj.com	BMJ Publishing Group Ltd	heartasia.bmj.com	Heart Asia																					
+http://hope.dukejournals.org	hope.dukejournals.org	Duke University Press	hope.dukejournals.org	History of Political Economy																					
+http://hortsci.ashspublications.org	hortsci.ashspublications.org	American Society for Horticultural Science	hortsci.ashspublications.org	HortScience																					
+http://horttech.ashspublications.org	horttech.ashspublications.org	American Society for Horticultural Science	horttech.ashspublications.org	HortTechnology																					
+http://hosppeds.aappublications.org	hosppeds.aappublications.org	American Academy of Pediatrics	hosppeds.aappublications.org	Hospital Pediatrics																					
+http://hr.iwaponline.com	hr.iwaponline.com	IWA Publishing	hr.iwaponline.com	Hydrology Research																					
+http://hsns.ucpress.edu	hsns.ucpress.edu	University of California Press	hsns.ucpress.edu	CHYMIA: Chymia																					
+http://hwmaint.jwatch.org	hwmaint.jwatch.org	Massachusetts Medical Society	hwmaint.jwatch.org	Journal Watch																					
+http://hyper.ahajournals.org	hyper.ahajournals.org	American Heart Association	hyper.ahajournals.org	Hypertension																					
+http://iai.asm.org	iai.asm.org	American Society for Microbiology	iai.asm.org	Infection and Immunity																					
+http://injuryprevention.bmj.com	injuryprevention.bmj.com	BMJ Publishing Group Ltd	injuryprevention.bmj.com	Injury Prevention																					
+http://inpractice.bmj.com	inpractice.bmj.com	BMJ Publishing Group Ltd	inpractice.bmj.com	In Practice																					
+http://interface.ecsdl.org	interface.ecsdl.org	The Electrochemical Society	interface.ecsdl.org	The Electrochemical Society Interface																					
+http://interpretation.geoscienceworld.org	interpretation.geoscienceworld.org	American Association of Petroleum Geologists (AAPG)	interpretation.geoscienceworld.org	Interpretation																					
+http://irqr.ucpress.edu	irqr.ucpress.edu	University of California Press	irqr.ucpress.edu	International Review of Qualitative Research																					
+http://italianjgeo.geoscienceworld.org	italianjgeo.geoscienceworld.org	Societa' Geologica Italiana	italianjgeo.geoscienceworld.org	Italian Journal of Geosciences																					
+http://iv.iiarjournals.org	iv.iiarjournals.org	International Institute of Anticancer Research	iv.iiarjournals.org	In Vivo																					
+http://jai.iijournals.com	jai.iijournals.com	Institutional Investor Journals	jai.iijournals.com	The Journal of Alternative Investments																					
+http://jap.physiology.org	jap.physiology.org	American Physiological Society	jap.physiology.org	Journal of Applied Physiology																					
+http://jasn.asnjournals.org	jasn.asnjournals.org	American Society of Nephrology	jasn.asnjournals.org	Journal of the American Society of Nephrology																					
+http://jb.asm.org	jb.asm.org	American Society for Microbiology	jb.asm.org	Journal of Bacteriology																					
+http://jbjs.org	jbjs.org	Journal of Bone and Joint Surgery	jbjs.org	The Journal of Bone & Joint Surgery																					
+http://jcb.rupress.org	jcb.rupress.org	Rockefeller University Press	jcb.rupress.org	The Journal of Cell Biology																					
+http://jclc.dukejournals.org	jclc.dukejournals.org	Duke University Press	jclc.dukejournals.org	Journal of Chinese Literature and Culture																					
+http://jcm.asm.org	jcm.asm.org	American Society for Microbiology	jcm.asm.org	Journal of Clinical Microbiology																					
+http://jco.ascopubs.org	jco.ascopubs.org	American Society of Clinical Oncology	jco.ascopubs.org	Journal of Clinical Oncology																					
+http://jcp.bmj.com	jcp.bmj.com	BMJ Publishing Group Ltd	jcp.bmj.com	Journal of Clinical Pathology																					
+http://jcs.biologists.org	jcs.biologists.org	The Company of Biologists Ltd	jcs.biologists.org	Journal of Cell Science																					
+http://jdh.adha.org	jdh.adha.org	American Dental Hygienists' Association	jdh.adha.org	Journal of Dental Hygiene																					
+http://jeb.biologists.org	jeb.biologists.org	The Company of Biologists Ltd	jeb.biologists.org	The Journal of Experimental Biology																					
+http://jech.bmj.com	jech.bmj.com	BMJ Publishing Group Ltd	jech.bmj.com	Journal of Epidemiology & Community Health																					
+http://jeeg.geoscienceworld.org	jeeg.geoscienceworld.org	Environmental & Engineering Geophysical Society	jeeg.geoscienceworld.org	Journal of Environmental & Engineering Geophysics																					
+http://jem.rupress.org	jem.rupress.org	Rockefeller University Press	jem.rupress.org	Journal of Experimental Medicine																					
+http://jes.ecsdl.org	jes.ecsdl.org	The Electrochemical Society	jes.ecsdl.org	Journal of The Electrochemical Society																					
+http://jfi.iijournals.com	jfi.iijournals.com	Institutional Investor Journals	jfi.iijournals.com	The Journal of Fixed Income																					
+http://jfprhc.bmj.com	jfprhc.bmj.com	BMJ Publishing Group Ltd	jfprhc.bmj.com	BMJ Sexual & Reproductive Health																					
+http://jfr.geoscienceworld.org	jfr.geoscienceworld.org	Cushman Foundation for Foraminiferal Research	jfr.geoscienceworld.org	The Journal of Foraminiferal Research																					
+http://jgo.ascopubs.org	jgo.ascopubs.org	American Society of Clinical Oncology	jgo.ascopubs.org	Journal of Global Oncology																					
+http://jgp.rupress.org	jgp.rupress.org	Rockefeller University Press	jgp.rupress.org	The Journal of General Physiology																					
+http://jgs.geoscienceworld.org	jgs.geoscienceworld.org	Geological Society of London	jgs.geoscienceworld.org	Journal of the Geological Society																					
+http://jgs.lyellcollection.org	jgs.lyellcollection.org	Geological Society of London	jgs.lyellcollection.org	Journal of the Geological Society																					
+http://jh.iwaponline.com	jh.iwaponline.com	IWA Publishing	jh.iwaponline.com	Journal of Hydroinformatics																					
+http://jhppl.dukejournals.org	jhppl.dukejournals.org	Duke University Press	jhppl.dukejournals.org	Journal of Health Politics, Policy and Law																					
+http://jhr.uwpress.org	jhr.uwpress.org	University of Wisconsin Press	jhr.uwpress.org	Journal of Human Resources																					
+http://jii.iijournals.com	jii.iijournals.com	Institutional Investor Journals	jii.iijournals.com	The Journal of Index Investing																					
+http://jim.bmj.com	jim.bmj.com	BMJ Publishing Group Ltd	jim.bmj.com	Journal of Investigative Medicine																					
+http://jisakos.bmj.com	jisakos.bmj.com	BMJ Publishing Group Ltd	jisakos.bmj.com	Journal of ISAKOS: Joint Disorders & Orthopaedic Sports Medicine																					
+http://jm.geoscienceworld.org	jm.geoscienceworld.org	Geological Society of London	jm.geoscienceworld.org	Journal of Micropalaeontology																					
+http://jm.lyellcollection.org	jm.lyellcollection.org	Geological Society of London	jm.lyellcollection.org	Journal of Micropalaeontology																					
+http://jm.ucpress.edu	jm.ucpress.edu	University of California Press	jm.ucpress.edu	The Journal of Musicology																					
+http://jme.bmj.com	jme.bmj.com	BMJ Publishing Group Ltd	jme.bmj.com	Journal of Medical Ethics																					
+http://jme.endocrinology-journals.org	jme.endocrinology-journals.org	BioScientifica	jme.endocrinology-journals.org	Journal of Molecular Endocrinology																					
+http://jmems.dukejournals.org	jmems.dukejournals.org	Duke University Press	jmems.dukejournals.org	Journal of Medieval and Early Modern Studies																					
+http://jmews.dukejournals.org	jmews.dukejournals.org	Duke University Press	jmews.dukejournals.org	Journal of Middle East Women's Studies																					
+http://jmg.bmj.com	jmg.bmj.com	BMJ Publishing Group Ltd	jmg.bmj.com	Journal of Medical Genetics																					
+http://jmt.dukejournals.org	jmt.dukejournals.org	Duke University Press	jmt.dukejournals.org	Journal of Music Theory																					
+http://jn.nutrition.org	jn.nutrition.org	American Society for Nutrition	jn.nutrition.org	The Journal of Nutrition																					
+http://jn.physiology.org	jn.physiology.org	American Physiological Society	jn.physiology.org	Journal of Neurophysiology																					
+http://jnis.bmj.com	jnis.bmj.com	BMJ Publishing Group Ltd	jnis.bmj.com	Journal of NeuroInterventional Surgery																					
+http://jnm.snmjournals.org	jnm.snmjournals.org	Society of Nuclear Medicine	jnm.snmjournals.org	Journal of Nuclear Medicine																					
+http://jnnp.bmj.com	jnnp.bmj.com	BMJ Publishing Group Ltd	jnnp.bmj.com	Journal of Neurology, Neurosurgery & Psychiatry																					
+http://jnumedmtg.snmjournals.org	jnumedmtg.snmjournals.org	Society of Nuclear Medicine	jnumedmtg.snmjournals.org	Society of Nuclear Medicine Annual Meeting Abstracts																					
+http://jod.iijournals.com	jod.iijournals.com	Institutional Investor Journals	jod.iijournals.com	The Journal of Derivatives																					
+http://joe.endocrinology-journals.org	joe.endocrinology-journals.org	BioScientifica	joe.endocrinology-journals.org	Journal of Endocrinology																					
+http://joi.iijournals.com	joi.iijournals.com	Institutional Investor Journals	joi.iijournals.com	The Journal of Investing																					
+http://jop.ascopubs.org	jop.ascopubs.org	American Society of Clinical Oncology	jop.ascopubs.org	Journal of Oncology Practice																					
+http://jor.iijournals.com	jor.iijournals.com	Institutional Investor Journals	jor.iijournals.com	The Journal of Retirement																					
+http://jot.iijournals.com	jot.iijournals.com	Institutional Investor Journals	jot.iijournals.com	The Journal of Trading																					
+http://journal.ashspublications.org	journal.ashspublications.org	American Society for Horticultural Science	journal.ashspublications.org	Journal of the American Society for Horticultural Science																					
+http://journal.pda.org	journal.pda.org	Parenteral Drug Association (PDA)	journal.pda.org	PDA Journal of Pharmaceutical Science and Technology																					
+http://journal.telospress.com	journal.telospress.com	Telos Press	journal.telospress.com	Telos																					
+http://journals.acrl.org	journals.acrl.org	Association of College & Research Libraries	journals.acrl.org	ACRL Publications																					
+http://journals.asm.org	journals.asm.org	American Society for Microbiology	journals.asm.org	American Society for Microbiology Journals																					
+http://journals.bmj.com	journals.bmj.com	BMJ Publishing Group Ltd	journals.bmj.com	BMJ Specialist Journals																					
+http://jpaleontol.geoscienceworld.org	jpaleontol.geoscienceworld.org	Paleontological Society	jpaleontol.geoscienceworld.org	Journal of Paleontology																					
+http://jpe.iijournals.com	jpe.iijournals.com	Institutional Investor Journals	jpe.iijournals.com	The Journal of Private Equity																					
+http://jpet.aspetjournals.org	jpet.aspetjournals.org	American Society for Pharmacology and Experimental Therapeutics	jpet.aspetjournals.org	Journal of Pharmacology and Experimental Therapeutics																					
+http://jpm.iijournals.com	jpm.iijournals.com	Institutional Investor Journals	jpm.iijournals.com	The Journal of Portfolio Management																					
+http://jps.ucpress.edu	jps.ucpress.edu	University of California Press	jps.ucpress.edu	Journal of Palestine Studies																					
+http://jramc.bmj.com	jramc.bmj.com	BMJ Publishing Group Ltd	jramc.bmj.com	Journal of the Royal Army Medical Corps																					
+http://jsah.ucpress.edu	jsah.ucpress.edu	University of California Press	jsah.ucpress.edu	Journal of the Society of Architectural Historians																					
+http://jsedres.geoscienceworld.org	jsedres.geoscienceworld.org	SEPM Society for Sedimentary Geology	jsedres.geoscienceworld.org	Journal of Sedimentary Research																					
+http://jsedres.sepmonline.org	jsedres.sepmonline.org	SEPM Society for Sedimentary Geology	jsedres.sepmonline.org	Journal of Sedimentary Research																					
+http://jsf.iijournals.com	jsf.iijournals.com	Institutional Investor Journals	jsf.iijournals.com	The Journal of Structured Finance																					
+http://jss.ecsdl.org	jss.ecsdl.org	The Electrochemical Society	jss.ecsdl.org	ECS Journal of Solid State Science and Technology																					
+http://jvi.asm.org	jvi.asm.org	American Society for Microbiology	jvi.asm.org	Journal of Virology																					
+http://jwcc.iwaponline.com	jwcc.iwaponline.com	IWA Publishing	jwcc.iwaponline.com	Journal of Water and Climate Change																					
+http://jwh.iwaponline.com	jwh.iwaponline.com	IWA Publishing	jwh.iwaponline.com	Journal of Water and Health																					
+http://jwm.iijournals.com	jwm.iijournals.com	Institutional Investor Journals	jwm.iijournals.com	The Journal of Wealth Management																					
+http://jwrd.iwaponline.com	jwrd.iwaponline.com	IWA Publishing	jwrd.iwaponline.com	Journal of Water Reuse and Desalination																					
+http://labor.dukejournals.org	labor.dukejournals.org	Duke University Press	labor.dukejournals.org	Labor: Studies in Working-Class History																					
+http://lbr.uwpress.org	lbr.uwpress.org	University of Wisconsin Press	lbr.uwpress.org	Luso-Brazilian Review																					
+http://le.uwpress.org	le.uwpress.org	University of Wisconsin Press	le.uwpress.org	Land Economics																					
+http://learnmem.cshlp.org	learnmem.cshlp.org	Cold Spring Harbor Laboratory Press	learnmem.cshlp.org	Learning & Memory																					
+http://lithosphere.geoscienceworld.org	lithosphere.geoscienceworld.org	Geological Society of America	lithosphere.geoscienceworld.org	Lithosphere																					
+http://lithosphere.gsapubs.org	lithosphere.gsapubs.org	Geological Society of America	lithosphere.gsapubs.org	Lithosphere																					
+http://lj.uwpress.org	lj.uwpress.org	University of Wisconsin Press	lj.uwpress.org	Landscape Journal																					
+http://lofe.dukejournals.org	lofe.dukejournals.org	Duke University Press	lofe.dukejournals.org	Limnology & Oceanography: Fluids & Environments																					
+http://ma.ecsdl.org	ma.ecsdl.org	The Electrochemical Society	ma.ecsdl.org	ECS Meeting Abstracts																					
+http://mbio.asm.org	mbio.asm.org	American Society for Microbiology	mbio.asm.org	mBio																					
+http://mcb.asm.org	mcb.asm.org	American Society for Microbiology	mcb.asm.org	Molecular and Cellular Biology																					
+http://mcr.aacrjournals.org	mcr.aacrjournals.org	American Association for Cancer Research	mcr.aacrjournals.org	Molecular Cancer Research																					
+http://mct.aacrjournals.org	mct.aacrjournals.org	American Association for Cancer Research	mct.aacrjournals.org	Molecular Cancer Therapeutics																					
+http://mem.lyellcollection.org	mem.lyellcollection.org	Geological Society of London	mem.lyellcollection.org	Geological Society, London, Memoirs																					
+http://memoirs.gsapubs.org	memoirs.gsapubs.org	Geological Society of America	memoirs.gsapubs.org	Geological Society of America Memoirs																					
+http://mh.bmj.com	mh.bmj.com	BMJ Publishing Group Ltd	mh.bmj.com	Medical Humanities																					
+http://micropal.geoscienceworld.org	micropal.geoscienceworld.org	Micropaleontology Project	micropal.geoscienceworld.org	Micropaleontology																					
+http://minmag.geoscienceworld.org	minmag.geoscienceworld.org	Mineralogical Society of Great Britain and Ireland	minmag.geoscienceworld.org	Mineralogical Magazine																					
+http://minnesotareview.dukejournals.org	minnesotareview.dukejournals.org	Duke University Press	minnesotareview.dukejournals.org	the minnesota review																					
+http://mlq.dukejournals.org	mlq.dukejournals.org	Duke University Press	mlq.dukejournals.org	Modern Language Quarterly																					
+http://mmbr.asm.org	mmbr.asm.org	American Society for Microbiology	mmbr.asm.org	Microbiology and Molecular Biology Reviews																					
+http://molecularcasestudies.cshlp.org	molecularcasestudies.cshlp.org	Cold Spring Harbor Laboratory Press	molecularcasestudies.cshlp.org	Cold Spring Harbor Molecular Case Studies																					
+http://molpharm.aspetjournals.org	molpharm.aspetjournals.org	American Society for Pharmacology and Experimental Therapeutics	molpharm.aspetjournals.org	Molecular Pharmacology																					
+http://mon.uwpress.org	mon.uwpress.org	University of Wisconsin Press	mon.uwpress.org	Monatshefte																					
+http://mp.bmj.com	mp.bmj.com	BMJ Publishing Group Ltd	mp.bmj.com	Molecular Pathology																					
+http://mp.ucpress.edu	mp.ucpress.edu	University of California Press	mp.ucpress.edu	Music Perception: An Interdisciplinary Journal																					
+http://mq.dukejournals.org	mq.dukejournals.org	Duke University Press	mq.dukejournals.org	Mediterranean Quarterly																					
+http://msa.geoscienceworld.org	msa.geoscienceworld.org	Mineralogical Society of America	msa.geoscienceworld.org	MSA Journals																					
+http://msem.ucpress.edu	msem.ucpress.edu	University of California Press	msem.ucpress.edu	Mexican Studies/Estudios Mexicanos																					
+http://msgbi.geoscienceworld.org	msgbi.geoscienceworld.org	Mineralogical Society of Great Britain and Ireland	msgbi.geoscienceworld.org	MSGBI Journals																					
+http://msphere.asm.org	msphere.asm.org	American Society for Microbiology	msphere.asm.org	mSphere																					
+http://msystems.asm.org	msystems.asm.org	American Society for Microbiology	msystems.asm.org	mSystems																					
+http://n.neurology.org	n.neurology.org	American Academy of Neurology	n.neurology.org	Neurology																					
+http://ncl.ucpress.edu	ncl.ucpress.edu	University of California Press	ncl.ucpress.edu	Nineteenth-Century Literature																					
+http://nclr.ucpress.edu	nclr.ucpress.edu	University of California Press	nclr.ucpress.edu	New Criminal Law Review: An International and Interdisciplinary Journal																					
+http://ncm.ucpress.edu	ncm.ucpress.edu	University of California Press	ncm.ucpress.edu	19th-Century Music																					
+http://neoreviews.aappublications.org	neoreviews.aappublications.org	American Academy of Pediatrics	neoreviews.aappublications.org	NeoReviews																					
+http://ng.neurology.org	ng.neurology.org	American Academy of Neurology	ng.neurology.org	Neurology: Genetics																					
+http://ngc.dukejournals.org	ngc.dukejournals.org	Duke University Press	ngc.dukejournals.org	New German Critique																					
+http://nka.dukejournals.org	nka.dukejournals.org	Duke University Press	nka.dukejournals.org	Nka Journal of Contemporary African Art																					
+http://nn.neurology.org	nn.neurology.org	American Academy of Neurology	nn.neurology.org	Neurology:  Neuroimmunology & Neuroinflammation																					
+http://notes.sepmonline.org	notes.sepmonline.org	SEPM Society for Sedimentary Geology	notes.sepmonline.org	Applications of Ichnology to Petroleum Exploration																					
+http://novel.dukejournals.org	novel.dukejournals.org	Duke University Press	novel.dukejournals.org	NOVEL A Forum on Fiction																					
+http://nr.ucpress.edu	nr.ucpress.edu	University of California Press	nr.ucpress.edu	Nova Religio: The Journal of Alternative and Emergent Religions																					
+http://oem.bmj.com	oem.bmj.com	BMJ Publishing Group Ltd	oem.bmj.com	Occupational and Environmental Medicine																					
+http://pa.iijournals.com	pa.iijournals.com	Institutional Investor Journals	pa.iijournals.com	Practical Applications																					
+http://pads.dukejournals.org	pads.dukejournals.org	Duke University Press	pads.dukejournals.org	Publication of the American Dialect Society																					
+http://palaios.geoscienceworld.org	palaios.geoscienceworld.org	SEPM Society for Sedimentary Geology	palaios.geoscienceworld.org	PALAIOS																					
+http://palaios.sepmonline.org	palaios.sepmonline.org	SEPM Society for Sedimentary Geology	palaios.sepmonline.org	PALAIOS																					
+http://paleobiol.geoscienceworld.org	paleobiol.geoscienceworld.org	Paleontological Society	paleobiol.geoscienceworld.org	Paleobiology																					
+http://palsoc.geoscienceworld.org	palsoc.geoscienceworld.org	Paleontological Society	palsoc.geoscienceworld.org	Paleontological Society Journals																					
+http://palynology.geoscienceworld.org	palynology.geoscienceworld.org	AASP - The Palynological Society	palynology.geoscienceworld.org	Palynology																					
+http://pas.fass.org	pas.fass.org	American Registry of Professional Animal Scientists	pas.fass.org	The Professional Animal Scientist																					
+http://pb.rcpsych.org	pb.rcpsych.org	Royal College of Psychiatrists	pb.rcpsych.org	BJPsych Bulletin																					
+http://pedagogy.dukejournals.org	pedagogy.dukejournals.org	Duke University Press	pedagogy.dukejournals.org	Pedagogy Critical Approaches to Teaching Literature Language Composition and Culture																					
+http://pediatrics.aappublications.org	pediatrics.aappublications.org	American Academy of Pediatrics	pediatrics.aappublications.org	Pediatrics																					
+http://pedsinreview.aappublications.org	pedsinreview.aappublications.org	American Academy of Pediatrics	pedsinreview.aappublications.org	Pediatrics in Review																					
+http://perspectives.geoscienceworld.org	perspectives.geoscienceworld.org	European Association for Geochemistry	perspectives.geoscienceworld.org	Geochemical Perspectives																					
+http://perspectivesinmedicine.cshlp.org	perspectivesinmedicine.cshlp.org	Cold Spring Harbor Laboratory Press	perspectivesinmedicine.cshlp.org	Cold Spring Harbor Perspectives in Medicine																					
+http://pg.geoscienceworld.org	pg.geoscienceworld.org	Geological Society of London	pg.geoscienceworld.org	Petroleum Geoscience																					
+http://pg.lyellcollection.org	pg.lyellcollection.org	Geological Society of London	pg.lyellcollection.org	Petroleum Geoscience																					
+http://pgc.lyellcollection.org	pgc.lyellcollection.org	Geological Society of London	pgc.lyellcollection.org	Geological Society, London, Petroleum Geology Conference series																					
+http://pharmrev.aspetjournals.org	pharmrev.aspetjournals.org	American Society for Pharmacology and Experimental Therapeutics	pharmrev.aspetjournals.org	Pharmacological Reviews																					
+http://philreview.dukejournals.org	philreview.dukejournals.org	Duke University Press	philreview.dukejournals.org	Philosophical Review																					
+http://phr.ucpress.edu	phr.ucpress.edu	University of California Press	phr.ucpress.edu	Pacific Historical Review																					
+http://physiolgenomics.physiology.org	physiolgenomics.physiology.org	American Physiological Society	physiolgenomics.physiology.org	Physiological Genomics																					
+http://physiologyonline.physiology.org	physiologyonline.physiology.org	American Physiological Society	physiologyonline.physiology.org	Physiology																					
+http://physrev.physiology.org	physrev.physiology.org	American Physiological Society	physrev.physiology.org	Physiological Reviews																					
+http://pmj.bmj.com	pmj.bmj.com	BMJ Publishing Group Ltd	pmj.bmj.com	Postgraduate Medical Journal																					
+http://pn.bmj.com	pn.bmj.com	BMJ Publishing Group Ltd	pn.bmj.com	Practical Neurology																					
+http://poeticstoday.dukejournals.org	poeticstoday.dukejournals.org	Duke University Press	poeticstoday.dukejournals.org	Poetics Today																					
+http://positions.dukejournals.org	positions.dukejournals.org	Duke University Press	positions.dukejournals.org	positions: asia critique																					
+http://ptjournal.apta.org	ptjournal.apta.org	American Physical Therapy Association	ptjournal.apta.org	Physical Therapy																					
+http://publicculture.dukejournals.org	publicculture.dukejournals.org	Duke University Press	publicculture.dukejournals.org	Public Culture																					
+http://pygs.geoscienceworld.org	pygs.geoscienceworld.org	Geological Society of London	pygs.geoscienceworld.org	Proceedings of the Yorkshire Geological Society																					
+http://pygs.lyellcollection.org	pygs.lyellcollection.org	Geological Society of London	pygs.lyellcollection.org	Proceedings of the Yorkshire Geological Society																					
+http://qjegh.geoscienceworld.org	qjegh.geoscienceworld.org	Geological Society of London	qjegh.geoscienceworld.org	Quarterly Journal of Engineering Geology & Hydrogeology																					
+http://qjegh.lyellcollection.org	qjegh.lyellcollection.org	Geological Society of London	qjegh.lyellcollection.org	Quarterly Journal of Engineering Geology and Hydrogeology																					
+http://qualitysafety.bmj.com	qualitysafety.bmj.com	BMJ Publishing Group Ltd	qualitysafety.bmj.com	BMJ Quality & Safety																					
+http://rac.ucpress.edu	rac.ucpress.edu	University of California Press	rac.ucpress.edu	Religion and American Culture: A Journal of Interpretation																					
+http://rbm.acrl.org	rbm.acrl.org	Association of College & Research Libraries	rbm.acrl.org	RBM: A Journal of Rare Books, Manuscripts, and Cultural Heritage																					
+http://rc.rcjournal.com	rc.rcjournal.com	American Association for Respiratory Care	rc.rcjournal.com	Respiratory Care																					
+http://reg.gsapubs.org	reg.gsapubs.org	Geological Society of America	reg.gsapubs.org	Reviews in Engineering Geology																					
+http://rep.ucpress.edu	rep.ucpress.edu	University of California Press	rep.ucpress.edu	Representations																					
+http://reviews.jbjs.org	reviews.jbjs.org	Journal of Bone and Joint Surgery	reviews.jbjs.org	JBJS Reviews																					
+http://rh.ucpress.edu	rh.ucpress.edu	University of California Press	rh.ucpress.edu	Rhetorica: A Journal of the History of Rhetoric																					
+http://rhr.dukejournals.org	rhr.dukejournals.org	Duke University Press	rhr.dukejournals.org	Radical History Review																					
+http://rimg.geoscienceworld.org	rimg.geoscienceworld.org	Mineralogical Society of America	rimg.geoscienceworld.org	Reviews in Mineralogy and Geochemistry																					
+http://rmg.geoscienceworld.org	rmg.geoscienceworld.org	University of Wyoming	rmg.geoscienceworld.org	Rocky Mountain Geology																					
+http://rnajournal.cshlp.org	rnajournal.cshlp.org	Cold Spring Harbor Laboratory Press	rnajournal.cshlp.org	RNA																					
+http://ror.reproduction-online.org	ror.reproduction-online.org	BioScientifica	ror.reproduction-online.org	Reviews of Reproduction																					
+http://rsbl.royalsocietypublishing.org	rsbl.royalsocietypublishing.org	Royal Society	rsbl.royalsocietypublishing.org	Biology Letters																					
+http://rsbm.royalsocietypublishing.org	rsbm.royalsocietypublishing.org	Royal Society	rsbm.royalsocietypublishing.org	Biographical Memoirs of Fellows of the Royal Society																					
+http://rsfs.royalsocietypublishing.org	rsfs.royalsocietypublishing.org	Royal Society	rsfs.royalsocietypublishing.org	Interface Focus																					
+http://rsif.royalsocietypublishing.org	rsif.royalsocietypublishing.org	Royal Society	rsif.royalsocietypublishing.org	Journal of The Royal Society Interface																					
+http://rsnr.royalsocietypublishing.org	rsnr.royalsocietypublishing.org	Royal Society	rsnr.royalsocietypublishing.org	Notes and Records: the Royal Society journal of the history of science																					
+http://rsob.royalsocietypublishing.org	rsob.royalsocietypublishing.org	Royal Society	rsob.royalsocietypublishing.org	Open Biology																					
+http://rspa.royalsocietypublishing.org	rspa.royalsocietypublishing.org	Royal Society	rspa.royalsocietypublishing.org	Proceedings of the Royal Society A: Mathematical, Physical and Engineering Sciences																					
+http://rspb.royalsocietypublishing.org	rspb.royalsocietypublishing.org	Royal Society	rspb.royalsocietypublishing.org	Proceedings of the Royal Society B: Biological Sciences																					
+http://rspl.royalsocietypublishing.org	rspl.royalsocietypublishing.org	Royal Society	rspl.royalsocietypublishing.org	Proceedings of the Royal Society of London																					
+http://rsta.royalsocietypublishing.org	rsta.royalsocietypublishing.org	Royal Society	rsta.royalsocietypublishing.org	Philosophical Transactions of the Royal Society A: Mathematical, Physical and Engineering Sciences																					
+http://rstb.royalsocietypublishing.org	rstb.royalsocietypublishing.org	Royal Society	rstb.royalsocietypublishing.org	Philosophical Transactions of the Royal Society B: Biological Sciences																					
+http://rstl.royalsocietypublishing.org	rstl.royalsocietypublishing.org	Royal Society	rstl.royalsocietypublishing.org	Philosophical Transactions of the Royal Society of London																					
+http://saeaero.saejournals.org	saeaero.saejournals.org	SAE International	saeaero.saejournals.org	SAE International Journal of Aerospace																					
+http://saealtpow.saejournals.org	saealtpow.saejournals.org	SAE International	saealtpow.saejournals.org	SAE International Journal of Alternative Powertrains																					
+http://saecomveh.saejournals.org	saecomveh.saejournals.org	SAE International	saecomveh.saejournals.org	SAE International Journal of Commercial Vehicles																					
+http://saeeng.saejournals.org	saeeng.saejournals.org	SAE International	saeeng.saejournals.org	SAE International Journal of Engines																					
+http://saefuel.saejournals.org	saefuel.saejournals.org	SAE International	saefuel.saejournals.org	SAE International Journal of Fuels and Lubricants																					
+http://saematman.saejournals.org	saematman.saejournals.org	SAE International	saematman.saejournals.org	SAE International Journal of Materials and Manufacturing																					
+http://saepcelec.saejournals.org	saepcelec.saejournals.org	SAE International	saepcelec.saejournals.org	SAE International Journal of Passenger Cars - Electronic and Electrical Systems																					
+http://saepcmech.saejournals.org	saepcmech.saejournals.org	SAE International	saepcmech.saejournals.org	SAE International Journal of Passenger Cars - Mechanical Systems																					
+http://saetransaf.saejournals.org	saetransaf.saejournals.org	SAE International	saetransaf.saejournals.org	SAE International Journal of Transportation Safety																					
+http://sajg.geoscienceworld.org	sajg.geoscienceworld.org	Geological Society of South Africa	sajg.geoscienceworld.org	South African Journal of Geology																					
+http://saq.dukejournals.org	saq.dukejournals.org	Duke University Press	saq.dukejournals.org	South Atlantic Quarterly																					
+http://science.sciencemag.org	science.sciencemag.org	American Association for the Advancement of Science	science.sciencemag.org	Science																					
+http://scnotes.sepmonline.org	scnotes.sepmonline.org	SEPM Society for Sedimentary Geology	scnotes.sepmonline.org	3-D Seismic Interpretation: A Primer for Geologists																					
+http://scq.ucpress.edu	scq.ucpress.edu	University of California Press	scq.ucpress.edu	Southern California Quarterly																					
+http://sjg.geoscienceworld.org	sjg.geoscienceworld.org	Geological Society of London	sjg.geoscienceworld.org	Scottish Journal of Geology																					
+http://sla.ucpress.edu	sla.ucpress.edu	University of California Press	sla.ucpress.edu	Studies in Late Antiquity																					
+http://smallaxe.dukejournals.org	smallaxe.dukejournals.org	Duke University Press	smallaxe.dukejournals.org	Small Axe: A Caribbean Journal of Criticism																					
+http://socdev.ucpress.edu	socdev.ucpress.edu	University of California Press	socdev.ucpress.edu	Sociology of Development																					
+http://socialtext.dukejournals.org	socialtext.dukejournals.org	Duke University Press	socialtext.dukejournals.org	Social Text																					
+http://sp.lyellcollection.org	sp.lyellcollection.org	Geological Society of London	sp.lyellcollection.org	Geological Society, London, Special Publications																					
+http://sp.sepmonline.org	sp.sepmonline.org	SEPM Society for Sedimentary Geology	sp.sepmonline.org	Advances in Carbonate Sequence Stratigraphy: Application to Reservoirs, Outcrops and Models																					
+http://spcare.bmj.com	spcare.bmj.com	BMJ Publishing Group Ltd	spcare.bmj.com	BMJ Supportive & Palliative Care																					
+http://specialpapers.gsapubs.org	specialpapers.gsapubs.org	Geological Society of America	specialpapers.gsapubs.org	Geological Society of America Special Papers																					
+http://spectrum.diabetesjournals.org	spectrum.diabetesjournals.org	American Diabetes Association	spectrum.diabetesjournals.org	Diabetes Spectrum																					
+http://srl.geoscienceworld.org	srl.geoscienceworld.org	Seismological Society of America	srl.geoscienceworld.org	Seismological  Research Letters																					
+http://ssl.ecsdl.org	ssl.ecsdl.org	The Electrochemical Society	ssl.ecsdl.org	ECS Solid State Letters																					
+http://sti.bmj.com	sti.bmj.com	BMJ Publishing Group Ltd	sti.bmj.com	Sexually Transmitted Infections																					
+http://stke.sciencemag.org	stke.sciencemag.org	American Association for the Advancement of Science	stke.sciencemag.org	Science Signaling																					
+http://stm.sciencemag.org	stm.sciencemag.org	American Association for the Advancement of Science	stm.sciencemag.org	Science Translational Medicine																					
+http://stroke.ahajournals.org	stroke.ahajournals.org	American Heart Association	stroke.ahajournals.org	Stroke																					
+http://sub.uwpress.org	sub.uwpress.org	University of Wisconsin Press	sub.uwpress.org	SubStance																					
+http://surgicaltechniques.jbjs.org	surgicaltechniques.jbjs.org	Journal of Bone and Joint Surgery	surgicaltechniques.jbjs.org	JBJS Essential Surgical Techniques																					
+http://svn.bmj.com	svn.bmj.com	BMJ Publishing Group Ltd	svn.bmj.com	Stroke and Vascular Neurology																					
+http://symposia.biochemistry.org	symposia.biochemistry.org	Portland Press Ltd	symposia.biochemistry.org	Biochemical Society Symposia																					
+http://symposium.cshlp.org	symposium.cshlp.org	Cold Spring Harbor Laboratory Press	symposium.cshlp.org	Cold Spring Harbor Symposia on Quantitative Biology																					
+http://tcl.dukejournals.org	tcl.dukejournals.org	Duke University Press	tcl.dukejournals.org	Twentieth-Century Literature																					
+http://tech.snmjournals.org	tech.snmjournals.org	Society of Nuclear Medicine	tech.snmjournals.org	Journal of Nuclear Medicine Technology																					
+http://theater.dukejournals.org	theater.dukejournals.org	Duke University Press	theater.dukejournals.org	Theater																					
+http://theoncologist.alphamedpress.org	theoncologist.alphamedpress.org	AlphaMed Press	theoncologist.alphamedpress.org	The Oncologist																					
+http://thorax.bmj.com	thorax.bmj.com	BMJ Publishing Group Ltd	thorax.bmj.com	Thorax																					
+http://tikkun.dukejournals.org	tikkun.dukejournals.org	Duke University Press	tikkun.dukejournals.org	Tikkun																					
+http://tle.geoscienceworld.org	tle.geoscienceworld.org	Society of Exploration Geophysicists	tle.geoscienceworld.org	The Leading Edge																					
+http://tobaccocontrol.bmj.com	tobaccocontrol.bmj.com	BMJ Publishing Group Ltd	tobaccocontrol.bmj.com	Tobacco Control																					
+http://tph.ucpress.edu	tph.ucpress.edu	University of California Press	tph.ucpress.edu	The Public Historian																					
+http://tsq.dukejournals.org	tsq.dukejournals.org	Duke University Press	tsq.dukejournals.org	TSQ: Transgender Studies Quarterly																					
+http://veterinaryrecord.bmj.com	veterinaryrecord.bmj.com	BMJ Publishing Group Ltd	veterinaryrecord.bmj.com	Veterinary Record																					
+http://vs.ucpress.edu	vs.ucpress.edu	University of California Press	vs.ucpress.edu	Journal of Vietnamese Studies																					
+http://vzj.geoscienceworld.org	vzj.geoscienceworld.org	Soil Science Society of America	vzj.geoscienceworld.org	Vadose Zone Journal																					
+http://washdev.iwaponline.com	washdev.iwaponline.com	IWA Publishing	washdev.iwaponline.com	Journal of Water, Sanitation and Hygiene for Development																					
+http://wio.iwaponline.com	wio.iwaponline.com	IWA Publishing	wio.iwaponline.com	Water Intelligence Online																					
+http://wp.iwaponline.com	wp.iwaponline.com	IWA Publishing	wp.iwaponline.com	Water Policy																					
+http://wpj.dukejournals.org	wpj.dukejournals.org	Duke University Press	wpj.dukejournals.org	World Policy Journal																					
+http://wpt.iwaponline.com	wpt.iwaponline.com	IWA Publishing	wpt.iwaponline.com	Water Practice and Technology																					
+http://wqrjc.iwaponline.com	wqrjc.iwaponline.com	IWA Publishing	wqrjc.iwaponline.com	Water Quality Research Journal of Canada																					
+http://ws.iwaponline.com	ws.iwaponline.com	IWA Publishing	ws.iwaponline.com	Water Science and Technology: Water Supply																					
+http://wst.iwaponline.com	wst.iwaponline.com	IWA Publishing	wst.iwaponline.com	Water Science and Technology																					
+http://www.aacrjournals.org	www.aacrjournals.org	American Association for Cancer Research	www.aacrjournals.org	American Association for Cancer Research Journals																					
+http://www.aappublications.org	www.aappublications.org	American Academy of Pediatrics	www.aappublications.org	AAP Online Journals																					
+http://www.ahajournals.org	www.ahajournals.org	American Heart Association	www.ahajournals.org	American Heart Association Journals																					
+http://www.ajevonline.org	www.ajevonline.org	American Society for Enology and Viticulture	www.ajevonline.org	American Journal of Enology and Viticulture																					
+http://www.ajhp.org	www.ajhp.org	American Society of Health-System Pharmacists	www.ajhp.org	American Journal of Health-System Pharmacy																					
+http://www.ajnr.org	www.ajnr.org	American Society of Neuroradiology	www.ajnr.org	American Journal of Neuroradiology																					
+http://www.ajsonline.org	www.ajsonline.org	American Journal of Science	www.ajsonline.org	American Journal of Science																					
+http://www.ajtmh.org	www.ajtmh.org	American Society of Tropical Medicine and Hygiene	www.ajtmh.org	The American Journal of Tropical Medicine and Hygiene																					
+http://www.alphamedpress.org	www.alphamedpress.org	AlphaMed Press	www.alphamedpress.org	AlphaMed Press Online Journals																					
+http://www.amjbot.org	www.amjbot.org	Botanical Society of America	www.amjbot.org	American Journal of Botany																					
+http://www.annclinlabsci.org	www.annclinlabsci.org	Association of Clinical Scientists	www.annclinlabsci.org	Annals of Clinical & Laboratory Science																					
+http://www.annfammed.org	www.annfammed.org	American Academy of Family Physicians	www.annfammed.org	The Annals of Family Medicine																					
+http://www.aspbjournals.org	www.aspbjournals.org	American Society of Plant Biologists	www.aspbjournals.org	Plant Online																					
+http://www.aspetjournals.org	www.aspetjournals.org	American Society for Pharmacology and Experimental Therapeutics	www.aspetjournals.org	ASPET Journals Online																					
+http://www.basictranslational.onlinejacc.org	www.basictranslational.onlinejacc.org	American College of Cardiology	www.basictranslational.onlinejacc.org	JACC: Basic To Translational Science																					
+http://www.biochemj.org	www.biochemj.org	Portland Press Ltd	www.biochemj.org	Biochemical Journal																					
+http://www.biochemsoctrans.org	www.biochemsoctrans.org	Portland Press Ltd	www.biochemsoctrans.org	Biochemical Society Transactions																					
+http://www.biologists.org	www.biologists.org	The Company of Biologists Ltd	www.biologists.org	The Company of Biologists																					
+http://www.biolreprod.org	www.biolreprod.org	Society for the Study of Reproduction	www.biolreprod.org	Biology of Reproduction																					
+http://www.bioscirep.org	www.bioscirep.org	Portland Press Ltd	www.bioscirep.org	Bioscience Reports																					
+http://www.bjj.boneandjoint.org.uk	www.bjj.boneandjoint.org.uk	British Editorial Society of Bone and Joint Surgery	www.bjj.boneandjoint.org.uk	The Bone & Joint Journal																					
+http://www.bjjprocs.boneandjoint.org.uk	www.bjjprocs.boneandjoint.org.uk	British Editorial Society of Bone and Joint Surgery	www.bjjprocs.boneandjoint.org.uk	Orthopaedic Proceedings: A supplement to The Bone & Joint Journal																					
+http://www.bjr.boneandjoint.org.uk	www.bjr.boneandjoint.org.uk	British Editorial Society of Bone and Joint Surgery	www.bjr.boneandjoint.org.uk	Bone & Joint Research																					
+http://www.bloodjournal.org	www.bloodjournal.org	American Society of Hematology	www.bloodjournal.org	Blood																					
+http://www.bmj.com	www.bmj.com	BMJ Publishing Group Ltd	www.bmj.com	BMJ																					
+http://www.bssaonline.org	www.bssaonline.org	Seismological Society of America	www.bssaonline.org	Bulletin of the Seismological Society of America																					
+http://www.canmin.org	www.canmin.org	Mineralogical Association of Canada	www.canmin.org	The Canadian Mineralogist																					
+http://www.cfp.ca	www.cfp.ca	The College of Family Physicians of Canada	www.cfp.ca	Canadian Family Physician																					
+http://www.clinmed.rcpjournal.org	www.clinmed.rcpjournal.org	Royal College of Physicians	www.clinmed.rcpjournal.org	Clinical Medicine																					
+http://www.clinmedres.org	www.clinmedres.org	Marshfield Clinic	www.clinmedres.org	Clinical Medicine & Research																					
+http://www.clinsci.org	www.clinsci.org	Portland Press Ltd	www.clinsci.org	Clinical Science																					
+http://www.cmaj.ca	www.cmaj.ca	Canadian Medical Association	www.cmaj.ca	Canadian Medical Association Journal																					
+http://www.echorespract.com	www.echorespract.com	BioScientifica	www.echorespract.com	Echo Research and Practice																					
+http://www.efortopenreviews.org	www.efortopenreviews.org	British Editorial Society of Bone and Joint Surgery	www.efortopenreviews.org	EFORT Open Reviews																					
+http://www.eje-online.org	www.eje-online.org	BioScientifica	www.eje-online.org	European Journal of Endocrinology																					
+http://www.electrophysiology.onlinejacc.org	www.electrophysiology.onlinejacc.org	American College of Cardiology	www.electrophysiology.onlinejacc.org	JACC: Clinical Electrophysiology																					
+http://www.emergtoplifesci.org	www.emergtoplifesci.org	Portland Press Ltd	www.emergtoplifesci.org	Emerging Topics in Life Sciences																					
+http://www.endocrineconnections.com	www.endocrineconnections.com	BioScientifica	www.endocrineconnections.com	Endocrine Connections																					
+http://www.endocrinology-journals.org	www.endocrinology-journals.org	BioScientifica	www.endocrinology-journals.org	Society for Endocrinology journals																					
+http://www.ersjournals.com	www.ersjournals.com	European Respiratory Society	www.ersjournals.com	European Respiratory Society Journals																					
+http://www.fasebj.org	www.fasebj.org	Federation of American Societies for Experimental Biology	www.fasebj.org	The FASEB Journal																					
+http://www.g3journal.org	www.g3journal.org	Genetics Society of America	www.g3journal.org	G3: Genes|Genomes|Genetics																					
+http://www.genetics.org	www.genetics.org	Genetics Society of America	www.genetics.org	Genetics																					
+http://www.ghspjournal.org	www.ghspjournal.org	Johns Hopkins Center for Communication Programs	www.ghspjournal.org	Global Health: Science and Practice																					
+http://www.gsapubs.org	www.gsapubs.org	Geological Society of America	www.gsapubs.org	Geological Society of America publications																					
+http://www.haematologica.org	www.haematologica.org	Ferrata Storti Foundation	www.haematologica.org	Haematologica																					
+http://www.heartfailure.onlinejacc.org	www.heartfailure.onlinejacc.org	American College of Cardiology	www.heartfailure.onlinejacc.org	JACC: Heart Failure																					
+http://www.imaging.onlinejacc.org	www.imaging.onlinejacc.org	American College of Cardiology	www.imaging.onlinejacc.org	JACC: Cardiovascular Imaging																					
+http://www.interventions.onlinejacc.org	www.interventions.onlinejacc.org	American College of Cardiology	www.interventions.onlinejacc.org	JACC: Cardiovascular Interventions																					
+http://www.jaapl.org	www.jaapl.org	American Academy of Psychiatry and the Law	www.jaapl.org	Journal of the American Academy of Psychiatry and the Law Online																					
+http://www.jabfm.org	www.jabfm.org	American Board of Family Medicine	www.jabfm.org	The Journal of the American Board of Family Medicine																					
+http://www.jbc.org	www.jbc.org	American Society for Biochemistry and Molecular Biology	www.jbc.org	Journal of Biological Chemistry																					
+http://www.jdentaled.org	www.jdentaled.org	American Dental Education Association	www.jdentaled.org	Journal of Dental Education																					
+http://www.jimmunol.org	www.jimmunol.org	American Association of Immunologists	www.jimmunol.org	The Journal of Immunology																					
+http://www.jleukbio.org	www.jleukbio.org	Society for Leukocyte Biology	www.jleukbio.org	Journal of Leukocyte Biology																					
+http://www.jlr.org	www.jlr.org	American Society for Biochemistry and Molecular Biology	www.jlr.org	The Journal of Lipid Research																					
+http://www.jnccn.org	www.jnccn.org	Harborside Press, LLC	www.jnccn.org	Journal of the National Comprehensive Cancer Network																					
+http://www.jneurosci.org	www.jneurosci.org	Society for Neuroscience	www.jneurosci.org	Journal of Neuroscience																					
+http://www.jrheum.org	www.jrheum.org	The Journal of Rheumatology	www.jrheum.org	The Journal of Rheumatology Supplement																					
+http://www.jswconline.org	www.jswconline.org	Soil and Water Conservation Society	www.jswconline.org	Journal of Soil and Water Conservation																					
+http://www.lifescied.org	www.lifescied.org	American Society for Cell Biology	www.lifescied.org	CBE-Life Sciences Education																					
+http://www.lyellcollection.org	www.lyellcollection.org	Geological Society of London	www.lyellcollection.org	Lyell Collection: Geological Society Publications Online																					
+http://www.mcponline.org	www.mcponline.org	American Society for Biochemistry and Molecular Biology	www.mcponline.org	Molecular & Cellular Proteomics																					
+http://www.molbiolcell.org	www.molbiolcell.org	American Society for Cell Biology	www.molbiolcell.org	Molecular Biology of the Cell																					
+http://www.mycologia.org	www.mycologia.org	Mycological Society of America	www.mycologia.org	Mycologia																					
+http://www.ncmedicaljournal.com	www.ncmedicaljournal.com	North Carolina Institute of Medicine	www.ncmedicaljournal.com	North Carolina Medical Journal																					
+http://www.onlinejacc.org	www.onlinejacc.org	American College of Cardiology	www.onlinejacc.org	Journal of the American College of Cardiology																					
+http://www.pdiconnect.com	www.pdiconnect.com	Multimed Inc	www.pdiconnect.com	Peritoneal Dialysis International																					
+http://www.physiology.org	www.physiology.org	American Physiological Society	www.physiology.org	APS Journals Online																					
+http://www.plantcell.org	www.plantcell.org	American Society of Plant Biologists	www.plantcell.org	The Plant Cell																					
+http://www.plantphysiol.org	www.plantphysiol.org	American Society of Plant Biologists	www.plantphysiol.org	Plant Physiology																					
+http://www.pnas.org	www.pnas.org	National Academy of Sciences	www.pnas.org	PNAS																					
+http://www.radiologictechnology.org	www.radiologictechnology.org	American Society of Radiologic Technologists	www.radiologictechnology.org	Radiologic Technology																					
+http://www.rcpsych.org	www.rcpsych.org	Royal College of Psychiatrists	www.rcpsych.org	Journals of The Royal College of Psychiatrists																					
+http://www.reproduction-online.org	www.reproduction-online.org	BioScientifica	www.reproduction-online.org	Reproduction																					
+http://www.snmjournals.org	www.snmjournals.org	Society of Nuclear Medicine	www.snmjournals.org	Journals of the Society of Nuclear Medicine																					

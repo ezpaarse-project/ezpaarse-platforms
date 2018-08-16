@@ -20,7 +20,7 @@ module.exports = new Parser(function analyseEC(parsedUrl, ec) {
     // /numerique/learning/pveditorsla6?puc=005431&nu=739&tmpid=aa74dc0d9931ad93c5a0dd750270cd96&idp=248
     // /fr/pvPage2.asp?puc=005431&nu=725&tmpid=abc2b40acad1147c223835752177d0f8
     // /fr/pvPageH5B.asp?puc=005879&nu=736&pa=1#8
-    result.rtype = 'ARTICLES_BUNDLE';
+    result.rtype = 'ISSUE';
     result.mime  = 'HTML';
     result.issue = param.nu;
 

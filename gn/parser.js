@@ -47,6 +47,23 @@ module.exports = new Parser(function analyseEC(parsedUrl, ec) {
       result.unitid = param.article;
     }
 
+  } else if ((match = /^\/blf\/index\.php$/.exec(path)) !== null) {
+    // /blf/index.php?atknodetype=bibliographie.noticeconsultation&atkselector=notice.id%3D%27116913%27&atkaction=view&atklevel=1&atkprevlevel=0&atkstackid=5a200e816bedf
+    // /blf/index.php?atklevel=2&atkprevlevel=2&atkstackid=5a200e816bedf&garnier-blf-saisie=1kiie3e972j2pgtmnc15902po6&atkescape=&phase=exportbatch_download&userid=153&forcedownload=false&export_record=116913&optionexport=optionexport_record&optionmethod=optionmethod_download&export_email=&export_filename=BLF_export_171130_1&optionformat=pdf#
+
+    const format = (param.optionformat || '').toLowerCase();
+    result.mime = format === 'pdf' ? 'PDF' : 'HTML';
+    result.rtype = 'REF';
+
+    if (param['export_record']) {
+      result.unitid = param['export_record'];
+    } else if (param.atkselector) {
+      match = /notice\.id='(\d+)'/i.exec(param.atkselector);
+
+      if (match !== null) {
+        result.unitid = match[1];
+      }
+    }
   }
 
   return result;

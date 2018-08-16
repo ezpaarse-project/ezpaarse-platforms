@@ -99,7 +99,15 @@ module.exports = new Parser(function analyseEC(parsedUrl, ec) {
     result.mime             = 'PDF';
     result.rtype            = 'ARTICLE';
 
+  } else if ((match = /^(\/printpdf)?\/view\/([a-z]+)\/([0-9a-z_]+)$/i.exec(path)) !== null) {
+    // /printpdf/view/AKL/_40431827T3?rskey=tIhc8o&result=1&dbq_0=Gaugeron&dbf_0=akl-fulltext&dbt_0=fulltext&o_0=AND
+    // /view/AKL/_40431827T3?rskey=tIhc8o&result=1&dbq_0=Gaugeron&dbf_0=akl-fulltext&dbt_0=fulltext&o_0=AND
+    result.rtype    = 'BIO';
+    result.mime     = match[1] ? 'PDF' : 'HTML';
+    result.title_id = match[2].toLowerCase();
+    result.unitid   = match[3];
   }
+
 
   return result;
 });

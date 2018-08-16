@@ -1,5 +1,7 @@
-out-title_id;out-unitid;out-rtype;out-mime;in-url
-;13191;TOC;HTML;http://www.openedition.org/13191
-socio;1877;ARTICLE;HTML;http://socio.revues.org/1877
-socio;1882;ARTICLE;PDF;http://socio.revues.org/pdf/1882
-socio;1882;ABS;HTML;http://socio.revues.org/1882#abstract
+out-doi;out-title_id;out-unitid;out-rtype;out-mime;in-size;in-url
+10.4000/socio.1877;socio;socio/1877;ARTICLE;HTML;12000;http://socio.revues.org/1877
+10.4000/socio.1882;socio;socio/1882;ARTICLE;PDF;12000;http://socio.revues.org/pdf/1882
+10.4000/socio.3061;socio;socio/3061;ARTICLE;HTML;12000;http://journals.openedition.org/socio/3061
+10.4000/crau.370;crau;crau/370;ARTICLE;PDF;12000;http://journals.openedition.org/crau/pdf/370
+;;;;;5000;http://journals.openedition.org/socio/3061
+;;;;;5000;http://journals.openedition.org/archipel/393?format=pdfepub&norecordurl=1

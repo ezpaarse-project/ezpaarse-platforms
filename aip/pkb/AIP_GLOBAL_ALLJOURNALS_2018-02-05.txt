@@ -1,0 +1,45 @@
+publication_title	print_identifier	online_identifier	date_first_issue_online	num_first_vol_online	num_first_issue_online	date_last_issue_online	num_last_vol_online	num_last_issue_online	title_url	first_author	title_id	embargo_info	coverage_depth	notes	publisher_name	publication_type	date_monograph_published_print	date_monograph_published_online	monograph_volume	monograph_edition	first_editor	parent_publication_title_id	preceding_publication_title_id	access_type
+AIP Advances		2158-3226	2011	1	1				http://scitation.aip.org/content/aip/journal/adva		adva	P1M	fulltext	Open Access		serial								F
+AIP Conference Proceedings	0094-243X	1551-7616	1970	1					http://scitation.aip.org/content/aip/proceeding/aipcp		aipcp		fulltext			serial								P
+APL Bioengineering		2473-2877	2017	1	1				http://aip.scitation.org/journal/apb/		http://aip.scitation.org/journal/apb/		fulltext	Open access. new: 2017		serial								F
+APL Materials		2166-532X	2013	1	1				http://scitation.aip.org/content/aip/journal/aplmater		aplmater		fulltext	New to 2013. Open Access		serial								F
+APL Photonics	2378-0967		2016	1	1				http://scitation.aip.org/content/aip/journal/app/browse		app		fulltext	open access		serial								P
+APL: Organic Electronics and Photonics		1941-420X	2008	1	1				http://scitation.aip.org/content/aip/journal/aploep		aploep		fulltext	Includes subset of articles from Applied Physics Letters		serial								P
+Acoustics Research Letters Online	1529-7853		2000	1	1	2005	6	4	http://scitation.aip.org/content/asa/journal/arlo/browse		arlo		fulltext	Open Access. Now: The Journal of the Acoustical Society of America		serial								F
+American Physics Teacher	0096-0322		1933	1	1	1939	7	6	http://scitation.aip.org/content/aapt/journal/ajp/browse		ajp		fulltext	Now: American Journal of Physics		serial								P
+Applied Physics Letters	0003-6951	1077-3118	1962	1	1				http://scitation.aip.org/content/aip/journal/apl		apl		fulltext			serial								P
+Applied Physics Reviews		1931-9401	1980		1				http://scitation.aip.org/content/aip/journal/apr2		apr2		fulltext	Access to older volumes of this title (1980-2013) are located athttp://scitation.aip.org/content/aip/journal/apr		serial								P
+Biointerphases	1934-8630	1559-4106	2006	1	1				http://scitation.aip.org/content/avs/journal/bip/browse		bip		fulltext	Trasnsfer in (2014) :Springer		serial								P
+Biomicrofluidics		1932-1058	2007	1	1				http://scitation.aip.org/content/aip/journal/bmf		bmf		fulltext			serial								P
+Chaos: An Interdisciplinary Journal of Nonlinear Science	1054-1500	1089-7682	1991	1	1				http://scitation.aip.org/content/aip/journal/chaos		chaos		fulltext			serial								P
+Chinese Journal of Chemical Physics	1674-0068		2006	19	1				http://scitation.aip.org/content/cps/journal/cjcp		cjcp		fulltext	transfer in (2013):IoP		serial								P
+Computing in Science & Engineering	1521-9615		1999	1	1				http://scitation.aip.org/content/aip/journal/cise		cise		fulltext	Absorbed: Computers in Physics & IEEE computational science & engineering		serial								P
+JCP: BioChemical Physics		1931-9223	2007	1	1				http://scitation.aip.org/content/aip/journal/jcpbio		jcpbio		fulltext	Includes subset of articles from The Journal of Chemical Physics		serial								P
+Journal of Laser Applications	1042-346X		1988	1	1				http://scitation.aip.org/content/lia/journal/jla		jla		fulltext			serial								P
+Journal of Mathematical Physics	0022-2488	1089-7658	1960	1	1				http://scitation.aip.org/content/aip/journal/jmp		jmp		fulltext			serial								P
+Journal of Physical and Chemical Reference Data	0047-2689	1529-7845	1972	1	1				http://scitation.aip.org/content/aip/journal/jpcrd		jpcrd		fulltext			serial								P
+Journal of Renewable and Sustainable Energy	1941-7012		2009	1	1				http://scitation.aip.org/content/aip/journal/jrse		jrse		fulltext			serial								P
+Journal of Rheology	0148-6055	1520-8516	1978	22	1				http://scitation.aip.org/content/sor/journal/jor2/browse		jor2		fulltext	Previously: Journal of Rheology (1929-1932) and Transactions of The Society of Rheology (1957-1977)		serial								P
+Journal of Rheology (1929-1932)	0097-0360		1929	1	1	1932	3	4	http://scitation.aip.org/content/sor/journal/jor1/browse		jor1		fulltext	Continues: Transactions of The Society of Rheology (1957-1977) Now: Journal of Rheology (1978-present)		serial								P
+Journal of Vacuum Science & Technology A: Vacuum, Surfaces, and Films	0734-2101	1520-8559	1983	1	1				http://scitation.aip.org/content/avs/journal/jvsta/browse		jvsta		fulltext	Previously: Journal of Vacuum Science & Technology (1964-1982)		serial								P
+Journal of Vacuum Science & Technology. B, Microelectronics Processing and Phenomena	0734-211X	2327-9877	1983	1	1	1990	8	6	http://avs.scitation.org/toc/jvb/current		jvb		fulltext	Now: Journal of Vacuum Science & Technology B: Nanotechnology and Microelectronics. Previously: Journal of Vacuum Science & Technology (1964-1982). Continues: Journal of vacuum science & technology. B, Microelectronics and nanometer structures (1991-2009)		serial								P
+Journal of Vacuum Science and Technology	0022-5355		1964	1	1	1982	21	4	http://scitation.aip.org/content/avs/journal/jvst/browse		jvst		fulltext	Continues: Journal of Vacuum Science & Technology A and Journal of Vacuum Science & Technology B		serial								P
+Journal of the Acoustical Society of America	0001-4966		1929	1	3a				http://scitation.aip.org/content/asa/journal/jasa/browse		jasa		fulltext			serial								P
+Low Temperature Physics	1063-777X	1090-6517	1997	23	1				http://scitation.aip.org/content/aip/journal/ltp		ltp		fulltext			serial								P
+Medical Physics	0094-2405	2473-4209	1974	1	1	2016	43	12	http://scitation.aip.org/content/aapm/journal/medphys/browse		medphys		fulltext	transfer out (2017):Wiley		serial								P
+Noise Control	0549-5865		1955	1	1	1961	7	6	http://scitation.aip.org/content/asa/journal/noise/browse		noise		fulltext			serial								P
+Physics	0148-6349		1931	1	1	1936	7	12	http://aip.scitation.org/toc/jap/current		jap		fulltext	Now: Journal of Applied Physics		serial								P
+Physics Teacher	0031-921X	1943-4928	1963	1	1				http://scitation.aip.org/content/aapt/journal/tpt/browse		tpt		fulltext			serial								P
+Physics Today	0031-9228		1948	1	1				http://scitation.aip.org/content/aip/magazine/physicstoday		physicstoday		fulltext			serial								P
+Physics of Fluids	1070-6631	1089-7666	1994	6	1				http://scitation.aip.org/content/aip/journal/pof2		pof2		fulltext	Previously: Physics of Fluids (1958) (1979-1988) and Physics of Fluids A (1989-1993)		serial								P
+Physics of Fluids (1958)	0031-9171		1979	22	1	1988	31	12	http://scitation.aip.org/content/aip/journal/pof1/browse		pof1		fulltext	Absorbed into Physics of Fluids and Physics of Plasma		serial								P
+Physics of Fluids. A, Fluid dynamics	0899-8213	2163-5013	1989	1	1	1993	5	12	http://scitation.aip.org/content/aip/journal/pofa/browse		pofa		fulltext	Now: Physics of Fluids. Previously: Physics of Fluids (1958)		serial								P
+Physics of Fluids. B, Plasma Physics	0899-8221	2163-503X	1989	1	1	1993	5	12	http://scitation.aip.org/content/aip/journal/pofb/browse		pofb		fulltext	Now: Physics of Plasmas		serial								P
+Physics of Plasmas	1070-664X	1089-7674	1994	1	1				http://scitation.aip.org/content/aip/journal/pop		pop		fulltext			serial								P
+Proceedings of Meetings on Acoustics	1939-800X		2007	1	1				http://scitation.aip.org/content/asa/journal/poma/browse		poma		fulltext			serial								P
+Review of Scientific Instruments	0034-6748	1089-7623	1930	1	1				http://scitation.aip.org/content/aip/journal/rsi		rsi		fulltext			serial								P
+Sound: Its Uses and Control	0584-1666		1962	1	1	1963	2	6	http://scitation.aip.org/content/asa/journal/sound/browse		sound		fulltext			serial								P
+Structural Dynamics		2329-7778	2014	1	1				http://scitation.aip.org/content/aca/journal/sdy/browse		sdy		fulltext	Open Access. New for 2014		serial								F
+Surface Science Spectra	1055-5269		1992	1	1				http://scitation.aip.org/content/avs/journal/sss/browse		sss		fulltext			serial								P
+The Journal of Chemical Physics	0021-9606	1089-7690	1933	1	1				http://scitation.aip.org/content/aip/journal/jcp		jcp		fulltext			serial								P
+Transactions of The Society of Rheology	0038-0032		1957	1	1	1977	21	4	http://scitation.aip.org/content/sor/journal/tsor		tsor		fulltext	Now: Journal of Rheology		serial								P

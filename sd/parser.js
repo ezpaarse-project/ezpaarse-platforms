@@ -19,7 +19,7 @@ module.exports = new Parser(function analyseEC(parsedUrl) {
       result.mime = 'PDF';
 
       if (param._isbn || param.isBook) {
-        result.rtype            = 'CHAPTERS_BUNDLE';
+        result.rtype            = 'BOOK_CHAPTERS_BUNDLE';
         result.print_identifier = param._isbn;
         result.title_id         = param._isbn;
         result.unitid           = param._isbn;

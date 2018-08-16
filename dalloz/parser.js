@@ -22,12 +22,12 @@ module.exports = new Parser(function analyseEC(parsedUrl) {
         break;
       case 'ENCYCLOPEDIES':
         // example : http://www.dalloz.fr/Document?produit-id=IMMO&famille-id=ENCYCLOPEDIES
-        result.rtype = 'ENCYCLOPEDIES';
+        result.rtype = 'ENCYCLOPAEDIA_ENTRY';
         result.mime  = 'MISC';
         break;
       case 'CODES':
         // example : http://www.dalloz.fr/Document?produit-id=CCIV&famille-id=CODES
-        result.rtype = 'CODES';
+        result.rtype = 'CODE_JURIDIQUE';
         result.mime  = 'MISC';
         break;
       case 'FORMULES':
@@ -37,7 +37,7 @@ module.exports = new Parser(function analyseEC(parsedUrl) {
         break;
       case 'BROCHES':
         // example : http://www.dalloz.fr.bases-doc.univ-lorraine.fr/Document?produit-id=DRCONTRAFF&famille-id=BROCHES
-        result.rtype = 'BROCHES';
+        result.rtype = 'BOOK_SECTION';
         result.mime  = 'MISC';
         break;
         /** ces cas rencontrés ne sont peut etre pas traités

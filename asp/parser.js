@@ -22,6 +22,7 @@ module.exports = new Parser(function analyseEC(parsedUrl, ec) {
 
   let match;
 
+
   if (/\/search$/i.test(path)) {
     // https://search.alexanderstreet.com:443/search?searchstring=barth
     result.rtype    = 'SEARCH';

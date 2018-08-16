@@ -77,12 +77,19 @@ module.exports = new Parser(function analyseEC(parsedUrl) {
       result.title_id = null;
       break;
     }
-  } else if ((match = /^\/core\/services\/aop-cambridge-core\/content\/view\/[a-z0-9]+\/([a-z0-9.]+)[a-z]{1}\.pdf\//i.exec(pathname)) !== null) {
-    //core/services/aop-cambridge-core/content/view/A95C410BA1767D60C3DA96901466AABD/S1053837209990411a.pdf/old_generation_of_economists_and_the_new_an_intellectual_historians_approach_to_a_significant_transition.pdf
+  } else if ((match = /^\/core\/services\/aop-cambridge-core\/content\/view\/[a-z0-9]+\/(([SB]?[0-9]+)[a-z0-9._-]+)\.pdf\//i.exec(pathname)) !== null) {
+    // /core/services/aop-cambridge-core/content/view/A95C410BA1767D60C3DA96901466AABD/S1053837209990411a.pdf/old_generation_of_economists_and_the_new_an_intellectual_historians_approach_to_a_significant_transition.pdf
+    // /core/services/aop-cambridge-core/content/view/F0D934DEF58963D498415A3FA90957FA/9781316337998c8_p115-127_CBO.pdf/queer_american_gothic.pdf
     result.mime   = 'PDF';
-    result.rtype  = 'ARTICLE';
     result.unitid = match[1];
-    result.pii    = match[1];
+
+    if (/^S/i.test(match[2])) {
+      result.rtype = 'ARTICLE';
+      result.pii = match[2];
+    } else {
+      result.rtype = 'BOOK_SECTION';
+      result.online_identifier = match[2];
+    }
 
   } else if ((match = /^\/core\/journals\/([a-z-]+)\/(article|issue)\/([a-z0-9-]+)/i.exec(pathname)) !== null) {
     //core/journals/journal-of-the-history-of-economic-thought/article/old-generation-of-economists-and-the-new-an-intellectual-historians-approach-to-a-significant-transition/A95C410BA1767D60C3DA96901466AABD/core-reader
@@ -101,6 +108,19 @@ module.exports = new Parser(function analyseEC(parsedUrl) {
       result.title_id = match[1];
       break;
     }
+  } else if ((match = /^\/core\/books\/([a-z0-9-]+)\/[a-z0-9]+$/i.exec(pathname)) !== null) {
+    // /core/books/cambridge-companion-to-american-gothic/1DB7BB56096D72ED4FBA5FEE294CBFBA
+    result.rtype    = 'TOC';
+    result.mime     = 'MISC';
+    result.unitid   = match[1];
+    result.title_id = match[1];
+
+  } else if ((match = /^\/core\/books\/(([a-z0-9-]+)\/[a-z0-9-]+)\/[a-z0-9]+\/core-reader$/i.exec(pathname)) !== null) {
+    // /core/books/cambridge-companion-to-american-gothic/queer-american-gothic/F0D934DEF58963D498415A3FA90957FA/core-reader
+    result.rtype    = 'BOOK_SECTION';
+    result.mime     = 'HTML';
+    result.unitid   = match[1];
+    result.title_id = match[2];
   } else {
     // if nothing recognized remove jid
     result.title_id = null;

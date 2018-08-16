@@ -5,22 +5,6 @@
     "www.elnet.fr",
     "www.editions-legislatives.fr"
   ],
-  "recognize": {
-    "rid": [
-      "title_id"
-    ],
-    "rtype": [
-      "ARTICLE",
-      "TOC",
-      "FORMULES",
-      "CODES"
-    ],
-    "mime": [
-      "HTML",
-      "PDF",
-      "MISC"
-    ]
-  },
   "name": "elnet",
   "longname": "ELnet",
   "publisher_name": "Éditions Législatives",

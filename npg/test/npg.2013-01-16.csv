@@ -1,5 +1,6 @@
 out-title_id;out-doi;out-publication_date;out-vol;out-issue;out-unitid;out-rtype;out-mime;in-url
 nature;;;;;nature;TOC;MISC;http://www.nature.com/nature/index.html
+nature;;;;;nature;TOC;MISC;http://www.nature.com/nature/
 nature;;;;;nature;TOC;MISC;http://www.nature.com/nature/current_issue.html
 nature;;;493;7431;nature/v493/n7431;TOC;MISC;http://www.nature.com/nature/journal/v493/n7431/index.html
 nature;10.1038/493166a;;493;7431;10.1038/493166a;ARTICLE;HTML;http://www.nature.com/nature/journal/v493/n7431/full/493166a.html
@@ -54,5 +55,12 @@ nature;10.1038/449268a;2007;;;10.1038/449268a;ARTICLE;PDF;http://www.nature.com/
 nature;10.1038/news050131-3;2005;;;10.1038/news050131-3;ARTICLE;HTML;http://www.nature.com/news/2005/050131/full/news050131-3.html
 nm;10.1038/nm0999_964;;5;9;10.1038/nm0999_964;ARTICLE;PDF;http://www.nature.com:80/nm/journal/v5/n9/pdf/nm0999_964.pdf
 ;10.2147/IJN.S59290;;;;IJN.S59290;REF;MISC;http://nano.nature.com/related-nanoobject-summary?doi=10.2147/IJN.S59290
-;;;;;GR-M21079;REF;HTML;http://nano.nature.com.insb.bib.cnrs.fr/nano/GR-M21079
-;;;;;nanoparticules;SEARCH;HTML;http://nano.nature.com.insb.bib.cnrs.fr/search?q=nanoparticules&workflow=article&term=concept%3A%22nanoparticles%22&new-search=true
+;;;;;GR-M21079;REF;HTML;http://nano.nature.com/nano/GR-M21079
+;;;;;nanoparticules;SEARCH;HTML;http://nano.nature.com/search?q=nanoparticules&workflow=article&term=concept%3A%22nanoparticles%22&new-search=true
+;10.1038/nmat5046;;;;nmat5046;ARTICLE;PDF;http://www.nature.com/articles/nmat5046.pdf
+;10.1038/nmat5046;;;;nmat5046;ARTICLE;HTML;http://www.nature.com/articles/nmat5046
+;10.1038/s41598-018-21122-5;;;;s41598-018-21122-5;ARTICLE;HTML;http://www.nature.com/articles/s41598-018-21122-5
+;10.1038/s41598-018-21122-5;;;;s41598-018-21122-5;ARTICLE;PDF;http://www.nature.com/articles/s41598-018-21122-5.pdf
+;10.1038/nrn.2017.71;;;;nrn.2017.71;ARTICLE;PDF;http://www.nature.com/articles/nrn.2017.71.pdf
+;;;;;;;;http://www.nature.com:80/articles/nmicrobiol2016237.ris
+nplants;10.1038/nplants.2017.18;;;;nplants.2017.18;ARTICLE;HTML;http://www.nature.com:80/articles/nplants201718

@@ -1,0 +1,464 @@
+﻿publication_title	print_identifier	online_identifier	date_first_issue_online	num_first_vol_online	num_first_issue_online	date_last_issue_online	num_last_vol_online	num_last_issue_online	title_url	first_author	title_id	embargo_info	coverage_depth	coverage_notes	publisher_name	publication_type	date_monograph_published_print	date_monograph_published_online	monograph_volume	monograph_edition	first_editor	parent_publication_title_id	preceding_publication_title_id
+2-D Proteome Analysis Protocols	978-0-89603-524-9	978-1-59259-584-6							http://link.springer.com/10.1385/1592595847		10.1385/1592595847		fulltext		Humana Press	Monograph	1999		112		Link	7651	
+Adenovirus Methods and Protocols	978-0-89603-551-5	978-1-59259-603-4							http://link.springer.com/10.1385/0896035514		10.1385/0896035514		fulltext		Springer New York	Monograph	1999		21		Wold	7652	
+Adhesion Protein Protocols	978-0-89603-417-4	978-1-59259-258-6							http://link.springer.com/10.1385/1592592589		10.1385/1592592589		fulltext		Humana Press	Monograph	1999		96		Dejana	7651	
+Adipose Tissue Protocols	978-0-89603-747-2	978-1-59259-231-9							http://link.springer.com/10.1385/1592592317		10.1385/1592592317		fulltext		Springer New York	Monograph	2001		155		Ailhaud	7651	
+Adrenergic Receptor Protocols	978-0-89603-602-4	978-1-59259-684-3							http://link.springer.com/10.1385/1592596843		10.1385/1592596843		fulltext		Humana Press	Monograph	2000		126		Machida	7651	
+Affinity Biosensors	978-0-89603-539-3	978-1-59259-485-6							http://link.springer.com/10.1385/0896035395		10.1385/0896035395		fulltext		Humana Press	Monograph	1998		7		Rogers	7650	
+Affinity Chromatography	978-0-89603-694-9	978-1-60327-261-2							http://link.springer.com/10.1007/978-1-60327-261-2		10.1007/978-1-60327-261-2		fulltext		Humana Press	Monograph	2000		147		Bailon	7651	
+Aging Methods and Protocols	978-0-89603-582-9	978-1-59259-070-4							http://link.springer.com/10.1385/1592590705		10.1385/1592590705		fulltext		Humana Press	Monograph	2000		38		Barnett	7652	
+Agrobacterium Protocols	978-0-89603-302-3	978-1-59259-531-0							http://link.springer.com/10.1385/0896033023		10.1385/0896033023		fulltext		Springer New York	Monograph	1995		44		Gartland	7651	
+Alzheimer's Disease	978-0-89603-737-3	978-1-59259-195-4							http://link.springer.com/10.1385/1592591957		10.1385/1592591957		fulltext		Humana Press	Monograph	2000		32		Hooper	7652	
+Amines and Their Metabolites	978-0-89603-076-3	978-1-59259-607-2							http://link.springer.com/10.1385/0896030768		10.1385/0896030768		fulltext		Humana Press	Monograph	1985		2		Boulton	7657	
+Amino Acid Analysis Protocols	978-0-89603-656-7	978-1-59259-047-6							http://link.springer.com/10.1385/1592590470		10.1385/1592590470		fulltext		Humana Press	Monograph	2000		159		Cooper	7651	
+Amino Acids	978-0-89603-077-0	978-1-59259-608-9							http://link.springer.com/10.1385/0896030776		10.1385/0896030776		fulltext		Humana Press	Monograph	1985		3		Boulton	7657	
+Analysis of Psychiatric Drugs	978-0-89603-121-0	978-1-59259-615-7							http://link.springer.com/10.1385/0896031217		10.1385/0896031217		fulltext		Humana Press	Monograph	1988		10		Boulton	7657	
+Angiogenesis Protocols	978-0-89603-698-7	978-1-59259-143-5							http://link.springer.com/10.1385/1592591434		10.1385/1592591434		fulltext		Humana Press	Monograph	2001		46		Murray	7652	
+Angiotensin Protocols	978-0-89603-763-2	978-1-59259-087-2							http://link.springer.com/10.1385/159259087X		10.1385/159259087X		fulltext		Humana Press	Monograph	2001		51		Wang	7652	
+Animal Cell Biotechnology	978-0-89603-547-8	978-1-59259-486-3							http://link.springer.com/10.1385/0896035476		10.1385/0896035476		fulltext		Humana Press	Monograph	1999		8		Jenkins	7650	
+Animal Cell Culture	978-0-89603-150-0	978-1-59259-492-4							http://link.springer.com/10.1385/0896031500		10.1385/0896031500		fulltext		Humana Press	Monograph	1990		5		Walker	7651	
+Animal Cell Electroporation and Electrofusion Protocols	978-0-89603-304-7	978-1-59259-535-8							http://link.springer.com/10.1385/089603304X		10.1385/089603304X		fulltext		Humana Press	Monograph	1995		48		Nickoloff	7651	
+Animal Models in Psychiatry, I	978-0-89603-198-2	978-1-59259-623-2							http://link.springer.com/10.1385/0896031985		10.1385/0896031985		fulltext		Humana Press	Monograph	1991		18		Boulton	7657	
+Animal Models in Psychiatry, II	978-0-89603-177-7	978-1-59259-624-9							http://link.springer.com/10.1385/0896031772		10.1385/0896031772		fulltext		Humana Press	Monograph	1992		19		Boulton	7657	
+Animal Models of Drug Addiction	978-0-89603-217-0	978-1-59259-629-4							http://link.springer.com/10.1385/0896032175		10.1385/0896032175		fulltext		Humana Press	Monograph	1992		24		Boulton	7657	
+Animal Models of Neurological Disease, I	978-0-89603-208-8	978-1-59259-626-3							http://link.springer.com/10.1385/0896032086		10.1385/0896032086		fulltext		Humana Press	Monograph	1992		21		Boulton	7657	
+Animal Models of Neurological Disease, II	978-0-89603-211-8	978-1-59259-627-0							http://link.springer.com/10.1385/0896032116		10.1385/0896032116		fulltext		Humana Press	Monograph	1992		22		Boulton	7657	
+Antibacterial Peptide Protocols	978-0-89603-408-2	978-1-59259-564-8							http://link.springer.com/10.1385/0896034089		10.1385/0896034089		fulltext		Humana Press	Monograph	1997		78		Shafer	7651	
+Antibiotic Resistence	978-0-89603-777-9	978-1-59259-077-3							http://link.springer.com/10.1385/1592590772		10.1385/1592590772		fulltext		Humana Press	Monograph	2001		48		Gillespie	7652	
+Antibody Engineering	978-1-58829-092-2	978-1-59259-666-9							http://link.springer.com/10.1385/1592596665		10.1385/1592596665		fulltext		Humana Press	Monograph	2004		248		Lo	7651	
+Antibody Engineering Protocols	978-0-89603-275-0	978-1-59259-538-9							http://link.springer.com/10.1385/0896032752		10.1385/0896032752		fulltext		Humana Press	Monograph	1995		51		Paul	7651	
+Antibody Phage Display	978-0-89603-906-3	978-1-59259-240-1							http://link.springer.com/10.1385/1592592406		10.1385/1592592406		fulltext		Humana Press	Monograph	2002		178		O’Brien	7651	
+Anticoagulants, Antiplatelets, and Thrombolytics	978-1-58829-083-0	978-1-59259-658-4							http://link.springer.com/10.1385/1592596584		10.1385/1592596584		fulltext		Springer New York	Monograph	2004		93		Mousa	7652	
+Antigen Processing and Presentation Protocols	978-0-89603-745-8	978-1-59259-062-9							http://link.springer.com/10.1385/1592590624		10.1385/1592590624		fulltext		Humana Press	Monograph	2001		156		Solheim	7651	
+Antisense Therapeutics	978-0-89603-305-4	978-1-59259-585-3							http://link.springer.com/10.1385/0896033058		10.1385/0896033058		fulltext		Humana Press	Monograph	1996		1		Agrawal	7652	
+Antiviral Methods and Protocols	978-0-89603-561-4	978-1-59259-245-6							http://link.springer.com/10.1385/1592592457		10.1385/1592592457		fulltext		Humana Press	Monograph	2000		24		Kinchington	7652	
+Apoptosis Methods and Protocols	978-0-89603-873-8	978-1-59259-812-0							http://link.springer.com/10.1385/1592598129		10.1385/1592598129		fulltext		Humana Press	Monograph	2004		282		Brady	7651	
+Apoptosis Methods in Pharmacology and Toxicology	978-0-89603-890-5	978-1-59259-279-1							http://link.springer.com/10.1385/1592592791		10.1385/1592592791		fulltext		Humana Press	Monograph	2002				Davis	7653	
+Apoptosis Techniques and Protocols	978-0-89603-451-8	978-1-59259-634-8							http://link.springer.com/10.1385/0896034518		10.1385/0896034518		fulltext		Humana Press	Monograph	1997		29		Poirier	7657	
+Apoptosis Techniques and Protocols	978-1-58829-012-0	978-1-59259-188-6							http://link.springer.com/10.1385/1592591884		10.1385/1592591884		fulltext		Springer New York	Monograph	2002		37	Second Edition	LeBlanc	7657	
+Aqueous Two-Phase Systems: Methods and Protocols	978-0-89603-541-6	978-1-59259-028-5							http://link.springer.com/10.1385/1592590284		10.1385/1592590284		fulltext		Humana Press	Monograph	2000		11		Hatti-Kaul	7650	
+Arabidopsis Protocols	978-0-89603-391-7	978-1-59259-268-5							http://link.springer.com/10.1385/0896033910		10.1385/0896033910		fulltext		Humana Press	Monograph	1998		82		Martinez-Zapater	7651	
+Asthma	978-0-89603-626-0	978-1-59259-072-8							http://link.springer.com/10.1385/1592590721		10.1385/1592590721		fulltext		Humana Press	Monograph	2000		44		Fan Chung	7652	
+Atherosclerosis	978-0-89603-751-9	978-1-59259-073-5							http://link.springer.com/10.1385/159259073X		10.1385/159259073X		fulltext		Humana Press	Monograph	2001		52		Drew	7652	
+Atomic Force Microscopy	978-1-58829-094-6	978-1-59259-647-8							http://link.springer.com/10.1385/1592596479		10.1385/1592596479		fulltext		Humana Press	Monograph	2004		242		Braga	7651	
+Autoimmunity	978-1-58829-231-5	978-1-59259-805-2							http://link.springer.com/10.1385/1592598056		10.1385/1592598056		fulltext		Humana Press	Monograph	2004		102		Perl	7652	
+B Cell Protocols	978-1-58829-347-3	978-1-59259-796-3							http://link.springer.com/10.1385/1592597963		10.1385/1592597963		fulltext		Humana Press	Monograph	2004		271		Gu	7651	
+Bacterial Artificial Chromosomes	978-0-89603-988-9	978-1-59259-752-9							http://link.springer.com/10.1385/1592597521		10.1385/1592597521		fulltext		Humana Press	Monograph	2004		255		Zhao	7651	
+Bacterial Artificial Chromosomes	978-0-89603-989-6	978-1-59259-753-6							http://link.springer.com/10.1385/159259753X		10.1385/159259753X		fulltext		Humana Press	Monograph	2004		256		Zhao	7651	
+Bacterial Toxins: Methods and Protocols	978-0-89603-604-8	978-1-59259-052-0							http://link.springer.com/10.1385/1592590527		10.1385/1592590527		fulltext		Humana Press	Monograph	2000		145		Holst	7651	
+Baculovirus Expression Protocols	978-0-89603-272-9	978-1-59259-526-6							http://link.springer.com/10.1385/0896032728		10.1385/0896032728		fulltext		Humana Press	Monograph	1995		39		Richardson	7651	
+Basic Cell Culture Protocols	978-0-89603-441-9	978-1-59259-561-7							http://link.springer.com/10.1385/0896034410		10.1385/0896034410		fulltext		Humana Press	Monograph	1997		75	Second Edition	Pollard	7651	
+Basic DNA and RNA Protocols	978-0-89603-402-0	978-1-59259-251-7							http://link.springer.com/10.1385/089603402X		10.1385/089603402X		fulltext		Humana Press	Monograph	1996		58		Harwood	7651	
+Basic Protein and Peptide Protocols	978-0-89603-268-2	978-1-59259-519-8							http://link.springer.com/10.1385/089603268X		10.1385/089603268X		fulltext		Humana Press	Monograph	1994		32		Walker	7651	
+Bioconjugation Protocols	978-1-58829-098-4	978-1-59259-813-7							http://link.springer.com/10.1385/1592598137		10.1385/1592598137		fulltext		Humana Press	Monograph	2004		283		Niemeyer	7651	
+Bioinformatics Methods and Protocols	978-0-89603-732-8	978-1-59259-192-3							http://link.springer.com/10.1385/1592591922		10.1385/1592591922		fulltext		Humana Press	Monograph	1999		132		Misener	7651	
+Bioluminescence Methods and Protocols	978-0-89603-520-1	978-1-59259-577-8							http://link.springer.com/10.1385/0896035204		10.1385/0896035204		fulltext		Humana Press	Monograph	1998		102		LaRossa	7651	
+Biomembrane Protocols	978-0-89603-236-1	978-1-59259-506-8							http://link.springer.com/10.1385/0896032361		10.1385/0896032361		fulltext		Humana Press	Monograph	1993		19		Graham	7651	
+Biomembrane Protocols	978-0-89603-250-7	978-1-59259-514-3							http://link.springer.com/10.1385/0896032507	Graham	10.1385/0896032507		fulltext		Springer New York	Monograph	1994		27			7651	
+Biopesticides: Use and Delivery	978-0-89603-515-7	978-1-59259-483-2							http://link.springer.com/10.1385/0896035158		10.1385/0896035158		fulltext		Humana Press	Monograph	1999		5		Hall	7650	
+Biopolymer Methods in Tissue Engineering	978-0-89603-967-4	978-1-59259-428-3							http://link.springer.com/10.1385/159259428X		10.1385/159259428X		fulltext		Humana Press	Monograph	2004		238		Hollander	7651	
+Bioremediation Protocols	978-0-89603-437-2	978-1-59259-482-5							http://link.springer.com/10.1385/0896034372		10.1385/0896034372		fulltext		Humana Press	Monograph	1997		2		Sheehan	7650	
+Biostatistical Methods	978-0-89603-951-3	978-1-59259-242-5							http://link.springer.com/10.1385/1592592422		10.1385/1592592422		fulltext		Humana Press	Monograph	2002		184		Looney	7651	
+Bone Research Protocols	978-1-58829-044-1	978-1-59259-366-8							http://link.springer.com/10.1385/1592593666		10.1385/1592593666		fulltext		Humana Press	Monograph	2003		80		Helfrich	7652	
+Calcium Signaling Protocols	978-0-89603-597-3	978-1-59259-250-0							http://link.springer.com/10.1385/1592592503		10.1385/1592592503		fulltext		Humana Press	Monograph	1999		114		Lambert	7651	
+Calcium-Binding Protein Protocols	978-0-89603-688-8	978-1-59259-183-1							http://link.springer.com/10.1385/1592591833		10.1385/1592591833		fulltext		Humana Press	Monograph	2002		172		Vogel	7651	
+Calcium-Binding Protein Protocols: Volume 2: Methods and Techniques	978-0-89603-689-5	978-1-59259-184-8							http://link.springer.com/10.1385/1592591841		10.1385/1592591841		fulltext		Springer New York	Monograph	2002		173		Vogel	7651	
+Calpain Methods and Protocols	978-0-89603-632-1	978-1-59259-050-6							http://link.springer.com/10.1385/1592590500		10.1385/1592590500		fulltext		Humana Press	Monograph	2000		144		Elce	7651	
+Cancer Cell Culture	978-1-58829-079-3	978-1-59259-406-1							http://link.springer.com/10.1385/1592594069		10.1385/1592594069		fulltext		Humana Press	Monograph	2004		88		Langdon	7652	
+Cancer Cell Signaling	978-1-58829-075-5	978-1-59259-356-9							http://link.springer.com/10.1385/1592593569		10.1385/1592593569		fulltext		Humana Press	Monograph	2003		218		Terrian	7651	
+Cancer Cytogenetics	978-1-58829-080-9	978-1-59259-363-7							http://link.springer.com/10.1385/1592593631		10.1385/1592593631		fulltext		Humana Press	Monograph	2003		220		Swansbury	7651	
+Capillary Electrophoresis Guidebook	978-0-89603-315-3	978-1-59259-539-6							http://link.springer.com/10.1385/0896033155		10.1385/0896033155		fulltext		Humana Press	Monograph	1996		52		Altria	7651	
+Capillary Electrophoresis of Carbohydrates	978-0-89603-826-4	978-1-59259-294-4							http://link.springer.com/10.1385/1592592945		10.1385/1592592945		fulltext		Humana Press	Monograph	2003		213		Thibault	7651	
+Capillary Electrophoresis of Nucleic Acids	978-0-89603-765-6	978-1-59259-116-9							http://link.springer.com/10.1385/1592591167		10.1385/1592591167		fulltext		Humana Press	Monograph	2001		163		Mitchelson	7651	
+Capillary Electrophoresis of Nucleic Acids	978-0-89603-779-3	978-1-59259-055-1							http://link.springer.com/10.1385/1592590551		10.1385/1592590551		fulltext		Humana Press	Monograph	2001		162		Mitchelson	7651	
+Capillary Electrophoresis of Proteins and Peptides	978-1-58829-017-5	978-1-59259-798-7							http://link.springer.com/10.1385/159259798X		10.1385/159259798X		fulltext		Humana Press	Monograph	2004		276		Strege	7651	
+Carbohydrate Biotechnology Protocols	978-0-89603-563-8	978-1-59259-261-6							http://link.springer.com/10.1007/978-1-59259-261-6		10.1007/978-1-59259-261-6		fulltext		Humana Press	Monograph	1999		10		Bucke	7650	
+Carbohydrates and Energy Metabolism	978-0-89603-143-2	978-1-59259-616-4							http://link.springer.com/10.1385/0896031438		10.1385/0896031438		fulltext		Humana Press	Monograph	1989		11		Boulton	7657	
+Cardiac Cell and Gene Transfer	978-0-89603-994-0	978-1-59259-350-7							http://link.springer.com/10.1385/159259350X		10.1385/159259350X		fulltext		Springer New York	Monograph	2003		219		Metzger	7651	
+Cardiac Drug Development Guide	978-1-58829-097-7	978-1-59259-404-7							http://link.springer.com/10.1385/1592594042		10.1385/1592594042		fulltext		Humana Press	Monograph	2003				Pugsley	7653	
+Cartilage and Osteoarthritis	978-1-58829-247-6	978-1-59259-810-6							http://link.springer.com/10.1385/1592598102		10.1385/1592598102		fulltext		Humana Press	Monograph	2004		100		Sabatini	7652	
+Cartilage and Osteoarthritis	978-1-58829-505-7	978-1-59259-821-2							http://link.springer.com/10.1385/1592598218		10.1385/1592598218		fulltext		Humana Press	Monograph	2004		101		Ceuninck	7652	
+Celiac Disease	978-0-89603-650-5	978-1-59259-082-7							http://link.springer.com/10.1385/1592590829		10.1385/1592590829		fulltext		Humana Press	Monograph	2000		41		Marsh	7652	
+Cell Cycle Checkpoint Control Protocols	978-1-58829-115-8	978-1-59259-646-1							http://link.springer.com/10.1385/1592596460		10.1385/1592596460		fulltext		Humana Press	Monograph	2004		241		Lieberman	7651	
+Cell Cycle Control and Dysregulation Protocols	978-0-89603-949-0	978-1-59259-822-9							http://link.springer.com/10.1385/1592598226		10.1385/1592598226		fulltext		Humana Press	Monograph	2004		285		Giordano	7651	
+Cell Migration in Inflammation and Immunity	978-1-58829-102-8	978-1-59259-435-1							http://link.springer.com/10.1385/1592594352		10.1385/1592594352		fulltext		Humana Press	Monograph	2003		239		D’Ambrosio	7651	
+Cell Neurobiology Techniques	978-0-89603-510-2	978-1-59259-638-6							http://link.springer.com/10.1385/0896035107	Boulton	10.1385/0896035107		fulltext		Humana Press	Monograph	1999		33			7657	
+Chaperonin Protocols	978-0-89603-739-7	978-1-59259-061-2							http://link.springer.com/10.1385/1592590616		10.1385/1592590616		fulltext		Springer New York	Monograph	2000		140		Schneider	7651	
+Characterization of Proteins	978-0-89603-109-8	978-1-59259-437-5							http://link.springer.com/10.1007/978-1-59259-437-5		10.1007/978-1-59259-437-5		fulltext		Humana Press	Monograph	1988				Franks		
+Checkpoint Controls and Cancer	978-1-58829-214-8	978-1-59259-788-8							http://link.springer.com/10.1385/1592597882		10.1385/1592597882		fulltext		Humana Press	Monograph	2004		280		Schönthal	7651	
+Checkpoint Controls and Cancer	978-1-58829-500-2	978-1-59259-811-3							http://link.springer.com/10.1385/1592598110		10.1385/1592598110		fulltext		Humana Press	Monograph	2004		281		Schönthal	7651	
+Chemoinformatics	978-1-58829-261-2	978-1-59259-802-1							http://link.springer.com/10.1385/1592598021		10.1385/1592598021		fulltext		Humana Press	Monograph	2004		275		Bajorath	7651	
+Chemokine Protocols	978-0-89603-722-9	978-1-59259-058-2							http://link.springer.com/10.1385/1592590586		10.1385/1592590586		fulltext		Humana Press	Monograph	2000		138		Proudfoot	7651	
+Chiral Separations	978-1-58829-150-9	978-1-59259-648-5							http://link.springer.com/10.1385/1592596487		10.1385/1592596487		fulltext		Humana Press	Monograph	2004		243		Gübitz	7651	
+Chromatin Protocols	978-0-89603-665-9	978-1-59259-681-2							http://link.springer.com/10.1385/1592596819		10.1385/1592596819		fulltext		Humana Press	Monograph	1999		119		Becker	7651	
+Chromosome Analysis Protocols	978-0-89603-289-7	978-1-59259-516-7							http://link.springer.com/10.1385/0896032892		10.1385/0896032892		fulltext		Humana Press	Monograph	1994		29		Gosden	7651	
+Clinical Applications of Capillary Electrophoresis	978-0-89603-639-0	978-1-59259-689-8							http://link.springer.com/10.1385/1592596894		10.1385/1592596894		fulltext		Humana Press	Monograph	1999		27		Palfrey	7652	
+Clinical Applications of PCR	978-0-89603-499-0	978-1-59259-600-3							http://link.springer.com/10.1385/0896034992		10.1385/0896034992		fulltext		Humana Press	Monograph	1998		16		Lo	7652	
+Colorectal Cancer	978-0-89603-767-0	978-1-59259-084-1							http://link.springer.com/10.1385/1592590845		10.1385/1592590845		fulltext		Humana Press	Monograph	2001		50		M.	7652	
+Combinatorial Library	978-0-89603-980-3	978-1-59259-285-2							http://link.springer.com/10.1385/1592592856		10.1385/1592592856		fulltext		Springer New York	Monograph	2002		201		English	7651	
+Combinatorial Peptide Library Protocols	978-0-89603-392-4	978-1-59259-571-6							http://link.springer.com/10.1385/0896033929		10.1385/0896033929		fulltext		Humana Press	Monograph	1998		87		Cabilly	7651	
+Complement Methods and Protocols	978-0-89603-654-3	978-1-59259-056-8							http://link.springer.com/10.1385/159259056X		10.1385/159259056X		fulltext		Humana Press	Monograph	2000		150		Morgan	7651	
+Computer Analysis of Sequence Data	978-0-89603-246-0	978-1-59259-511-2							http://link.springer.com/10.1385/0896032469		10.1385/0896032469		fulltext		Humana Press	Monograph	1994		24		Griffin	7651	
+Computer Analysis of Sequence Data	978-0-89603-276-7	978-1-59259-512-9							http://link.springer.com/10.1385/0896032760	Griffin	10.1385/0896032760		fulltext		Springer New York	Monograph	1994		25			7651	
+Confocal Microscopy Methods and Protocols	978-0-89603-526-3	978-1-59259-722-2							http://link.springer.com/10.1385/159259722X		10.1385/159259722X		fulltext		Humana Press	Monograph	1999		122		Paddock	7651	
+Connexin Methods and Protocols	978-0-89603-658-1	978-1-59259-043-8							http://link.springer.com/10.1385/1592590438		10.1385/1592590438		fulltext		Humana Press	Monograph	2001		154		Bruzzone	7651	
+Cryopreservation and Freeze-Drying Protocols	978-0-89603-296-5	978-1-59259-525-9							http://link.springer.com/10.1385/0896032965		10.1385/0896032965		fulltext		Humana Press	Monograph	1995		38		Day	7651	
+Crystallographic Methods and Protocols	978-0-89603-259-0	978-1-59259-543-3							http://link.springer.com/10.1385/0896032590		10.1385/0896032590		fulltext		Humana Press	Monograph	1996		56		Jones	7651	
+Cystic Fibrosis Methods and Protocols	978-0-89603-897-4	978-1-59259-187-9							http://link.springer.com/10.1385/1592591876		10.1385/1592591876		fulltext		Humana Press	Monograph	2002		70		Skach	7652	
+Cytochrome P450 Protocols	978-0-89603-519-5	978-1-59259-580-8							http://link.springer.com/10.1385/0896035190		10.1385/0896035190		fulltext		Humana Press	Monograph	1998		107		Phillips	7651	
+Cytokine Protocols	978-0-89603-948-3	978-1-59259-667-6							http://link.springer.com/10.1385/1592596673		10.1385/1592596673		fulltext		Humana Press	Monograph	2004		249		Ley	7651	
+Cytokines and Colony Stimulating Factors	978-1-58829-035-9	978-1-59259-345-3							http://link.springer.com/10.1385/1592593453		10.1385/1592593453		fulltext		Humana Press	Monograph	2003		215		Körholz	7651	
+Cytomegalovirus Protocols	978-0-89603-749-6	978-1-59259-244-9							http://link.springer.com/10.1385/1592592449		10.1385/1592592449		fulltext		Humana Press	Monograph	2000		33		Sinclair	7652	
+Cytoskeleton Methods and Protocols	978-0-89603-771-7	978-1-59259-051-3							http://link.springer.com/10.1385/1592590519		10.1385/1592590519		fulltext		Humana Press	Monograph	2001		161		Gavin	7651	
+Cytotoxic Drug Resistance Mechanisms	978-0-89603-603-1	978-1-59259-687-4							http://link.springer.com/10.1385/1592596878		10.1385/1592596878		fulltext		Humana Press	Monograph	1999		28		Brown	7652	
+DNA Arrays	978-0-89603-822-6	978-1-59259-234-0							http://link.springer.com/10.1385/1592592341		10.1385/1592592341		fulltext		Humana Press	Monograph	2001		170		Rampal	7651	
+DNA Methylation Protocols	978-0-89603-618-5	978-1-59259-182-4							http://link.springer.com/10.1385/1592591825		10.1385/1592591825		fulltext		Springer New York	Monograph	2002		200		Mills	7651	
+DNA Repair Protocols	978-0-89603-643-7	978-1-59259-068-1							http://link.springer.com/10.1385/1592590683		10.1385/1592590683		fulltext		Humana Press	Monograph	2000		152		Vaughan	7651	
+DNA Repair Protocols	978-0-89603-802-8	978-1-59259-675-1							http://link.springer.com/10.1385/1592596754		10.1385/1592596754		fulltext		Humana Press	Monograph	1999		113		Henderson	7651	
+DNA Sequencing Protocols	978-0-89603-248-4	978-1-59259-510-5							http://link.springer.com/10.1385/0896032485		10.1385/0896032485		fulltext		Humana Press	Monograph	1993		23		Griffin	7651	
+DNA Sequencing Protocols	978-0-89603-716-8	978-1-59259-113-8							http://link.springer.com/10.1385/1592591132		10.1385/1592591132		fulltext		Humana Press	Monograph	2001		167	Second Edition	Graham	7651	
+DNA Topoisomerase Protocols	978-0-89603-444-0	978-1-59259-259-3							http://link.springer.com/10.1385/1592592597		10.1385/1592592597		fulltext		Humana Press	Monograph	1999		94		Bjornsti	7651	
+DNA Topoisomerase Protocols	978-0-89603-512-6	978-1-59259-057-5							http://link.springer.com/10.1385/1592590578		10.1385/1592590578		fulltext		Humana Press	Monograph	2001		95		Osheroff	7651	
+DNA Vaccines	978-0-89603-580-5	978-1-59259-688-1							http://link.springer.com/10.1385/1592596886		10.1385/1592596886		fulltext		Humana Press	Monograph	2000		29		Lowrie	7652	
+DNA-Protein Interactions	978-0-89603-256-9	978-1-59259-517-4							http://link.springer.com/10.1385/0896032566		10.1385/0896032566		fulltext		Humana Press	Monograph	1994		30		Geoff Kneale	7651	
+DNA-Protein Interactions	978-0-89603-625-3	978-1-59259-208-1							http://link.springer.com/10.1385/1592592082		10.1385/1592592082		fulltext		Humana Press	Monograph	2001		148	Second Edition	Moss	7651	
+Dendritic Cell Protocols	978-0-89603-584-3	978-1-59259-150-3							http://link.springer.com/10.1385/1592591507		10.1385/1592591507		fulltext		Humana Press	Monograph	2001		64		Robinson	7652	
+Developmental Biology Protocols	978-0-89603-852-3	978-1-59259-685-0							http://link.springer.com/10.1385/1592596851		10.1385/1592596851		fulltext		Humana Press	Monograph	2000		135		Walker	7651	
+Developmental Biology Protocols	978-0-89603-854-7	978-1-59259-066-7							http://link.springer.com/10.1385/1592590667		10.1385/1592590667		fulltext		Humana Press	Monograph	2000		137		Tuan	7651	
+Developmental Biology Protocols: Volume II	978-0-89603-853-0	978-1-59259-065-0							http://link.springer.com/10.1385/1592590659		10.1385/1592590659		fulltext		Humana Press	Monograph	2000		136		Tuan	7651	
+Diabetes Mellitus	978-1-58829-148-6	978-1-59259-377-4							http://link.springer.com/10.1385/1592593771		10.1385/1592593771		fulltext		Humana Press	Monograph	2003		83		Özcan	7652	
+Diagnostic Bacteriology Protocols	978-0-89603-297-2	978-1-59259-533-4							http://link.springer.com/10.1385/0896032973		10.1385/0896032973		fulltext		Humana Press	Monograph	1995		46		Howard	7651	
+Diagnostic Virology Protocols	978-0-89603-479-2	978-1-59259-596-9							http://link.springer.com/10.1385/0896034798		10.1385/0896034798		fulltext		Springer New York	Monograph	1998		12		Stephenson	7652	
+Diagnostic and Therapeutic Antibodies	978-0-89603-798-4	978-1-59259-076-6							http://link.springer.com/10.1385/1592590764		10.1385/1592590764		fulltext		Humana Press	Monograph	2000		40		George	7652	
+Differential Display Methods and Protocols	978-0-89603-489-1	978-1-59259-569-3							http://link.springer.com/10.1385/0896034895		10.1385/0896034895		fulltext		Humana Press	Monograph	1997		85		Liang	7651	
+Directed Enzyme Evolution	978-1-58829-286-5	978-1-59259-396-5							http://link.springer.com/10.1385/1592593968		10.1385/1592593968		fulltext		Humana Press	Monograph	2003		230		Arnold	7651	
+Directed Evolution Library Creation	978-1-58829-285-8	978-1-59259-395-8							http://link.springer.com/10.1385/159259395X		10.1385/159259395X		fulltext		Humana Press	Monograph	2003		231		Arnold	7651	
+Downstream Processing of Proteins	978-0-89603-564-5	978-1-59259-027-8							http://link.springer.com/10.1007/978-1-59259-027-8		10.1007/978-1-59259-027-8		fulltext		Humana Press	Monograph	2000		9		Desai	7650	
+Drosophila Cytogenetics Protocols	978-1-58829-050-2	978-1-59259-665-2							http://link.springer.com/10.1385/1592596657		10.1385/1592596657		fulltext		Humana Press	Monograph	2004		247		Henderson	7651	
+Drug Targeting	978-0-89603-531-7	978-1-59259-075-9							http://link.springer.com/10.1385/1592590756		10.1385/1592590756		fulltext		Humana Press	Monograph	2000		25		Francis	7652	
+Drug-DNA Interaction Protocols	978-0-89603-447-1	978-1-59259-574-7							http://link.springer.com/10.1385/089603447X		10.1385/089603447X		fulltext		Humana Press	Monograph	1997		90		Fox	7651	
+Drugs as Tools in Neurotransmitter Research	978-0-89603-122-7	978-1-59259-617-1							http://link.springer.com/10.1385/0896031225		10.1385/0896031225		fulltext		Humana Press	Monograph	1989		12		Boulton	7657	
+Drugs of Abuse	978-1-58829-057-1	978-1-59259-358-3							http://link.springer.com/10.1385/1592593585		10.1385/1592593585		fulltext		Humana Press	Monograph	2003		79		Wang	7652	
+E. coli	978-0-89603-939-1	978-1-59259-316-3							http://link.springer.com/10.1385/159259316X		10.1385/159259316X		fulltext		Humana Press	Monograph	2003		73		Philpott	7652	
+E. coli Plasmid Vectors	978-1-58829-151-6	978-1-59259-409-2							http://link.springer.com/10.1385/1592594093		10.1385/1592594093		fulltext		Humana Press	Monograph	2003		235		Casali	7651	
+E. coliGene Expression Protocols	978-1-58829-008-3	978-1-59259-301-9							http://link.springer.com/10.1385/1592593011		10.1385/1592593011		fulltext		Humana Press	Monograph	2003		205		Vaillancourt	7651	
+ELISA	978-0-89603-279-8	978-1-59259-529-7							http://link.springer.com/10.1385/0896032795		10.1385/0896032795		fulltext		Humana Press	Monograph	1995		42		Crowther	7651	
+Eicosanoid Protocols	978-0-89603-667-3	978-1-59259-263-0							http://link.springer.com/10.1385/1592592635		10.1385/1592592635		fulltext		Humana Press	Monograph	1999		120		Lianos	7651	
+Electrochemotherapy, Electrogenetherapy, and Transdermal Drug Delivery	978-0-89603-606-2	978-1-59259-080-3							http://link.springer.com/10.1385/1592590802		10.1385/1592590802		fulltext		Humana Press	Monograph	2000		37		Jaroszeski	7652	
+Electron Microscopy Methods and Protocols	978-0-89603-640-6	978-1-59259-201-2							http://link.springer.com/10.1385/1592592015		10.1385/1592592015		fulltext		Humana Press	Monograph	1999		117		Nasser Hajibagheri	7651	
+Electroporation Protocols for Microorganisms	978-0-89603-310-8	978-1-59259-534-1							http://link.springer.com/10.1385/0896033104		10.1385/0896033104		fulltext		Humana Press	Monograph	1995		47		Nickoloff	7651	
+Embryonic Stem Cells	978-0-89603-881-3	978-1-59259-241-8							http://link.springer.com/10.1385/1592592414		10.1385/1592592414		fulltext		Springer New York	Monograph	2002		185		Turksen	7651	
+Environmental Microbiology	978-1-58829-116-5	978-1-59259-765-9							http://link.springer.com/10.1385/1592597653		10.1385/1592597653		fulltext		Humana Press	Monograph	2004		16		Walker	7650	
+Environmental Monitoring of Bacteria	978-0-89603-566-9	978-1-59259-487-0							http://link.springer.com/10.1385/0896035662		10.1385/0896035662		fulltext		Humana Press	Monograph	1999		12		Edwards	7650	
+Enzymatic Analysis	978-0-89603-238-5	978-1-60327-407-4							http://link.springer.com/10.1007/978-1-60327-407-4	Passonneau	10.1007/978-1-60327-407-4		fulltext		Humana Press	Monograph	1993						
+Enzyme and Microbial Biosensors	978-0-89603-410-5	978-1-59259-484-9							http://link.springer.com/10.1385/0896034100		10.1385/0896034100		fulltext		Humana Press	Monograph	1998		6		Mulchandani	7650	
+Enzymes in Nonaqueous Solvents	978-0-89603-929-2	978-1-59259-112-1							http://link.springer.com/10.1385/1592591124		10.1385/1592591124		fulltext		Humana Press	Monograph	2001		15		Vulfson	7650	
+Enzymes of Molecular Biology	978-0-89603-322-1	978-1-59259-503-7							http://link.springer.com/10.1385/0896032345		10.1385/0896032345		fulltext		Humana Press	Monograph	1993		16		Burrell	7651	
+Epigenetics Protocols	978-1-58829-336-7	978-1-59259-828-1							http://link.springer.com/10.1385/1592598285		10.1385/1592598285		fulltext		Humana Press	Monograph	2004		287		Tollefsbol	7651	
+Epithelial Cell Culture Protocols	978-0-89603-893-6	978-1-59259-185-5							http://link.springer.com/10.1385/159259185X		10.1385/159259185X		fulltext		Humana Press	Monograph	2002		188		Wise	7651	
+Epitope Mapping Protocols	978-0-89603-375-7	978-1-59259-552-5							http://link.springer.com/10.1385/0896033759		10.1385/0896033759		fulltext		Humana Press	Monograph	1996		66		Morris	7651	
+Epstein-Barr Virus Protocols	978-0-89603-690-1	978-1-59259-227-2							http://link.springer.com/10.1385/1592592279		10.1385/1592592279		fulltext		Humana Press	Monograph	2001		174		Wilson	7651	
+Experiments in Molecular Biology	978-0-89603-082-4	978-1-60327-405-0							http://link.springer.com/10.1007/978-1-60327-405-0		10.1007/978-1-60327-405-0		fulltext		Humana Press	Monograph	1986				Slater		
+Extracellular Matrix Protocols	978-0-89603-624-6	978-1-59259-063-6							http://link.springer.com/10.1385/1592590632		10.1385/1592590632		fulltext		Humana Press	Monograph	2000		139		Streuli	7651	
+Flavoprotein Protocols	978-0-89603-734-2	978-1-59259-266-1							http://link.springer.com/10.1385/159259266X		10.1385/159259266X		fulltext		Humana Press	Monograph	1999		131		Chapman	7651	
+Flow Cytometry Protocols	978-0-89603-354-2	978-1-59259-214-2							http://link.springer.com/10.1385/0896033546		10.1385/0896033546		fulltext		Humana Press	Monograph	1998		91		Jaroszeski	7651	
+Flow Cytometry Protocols	978-1-58829-234-6	978-1-59259-773-4							http://link.springer.com/10.1385/1592597734		10.1385/1592597734		fulltext		Humana Press	Monograph	2004		263	Second Edition	Hawley	7651	
+Food Microbiology Protocols	978-0-89603-867-7	978-1-59259-029-2							http://link.springer.com/10.1385/1592590292		10.1385/1592590292		fulltext		Humana Press	Monograph	2001		14		Spencer	7650	
+Forensic DNA Profiling Protocols	978-0-89603-443-3	978-1-59259-204-3							http://link.springer.com/10.1385/0896034437		10.1385/0896034437		fulltext		Humana Press	Monograph	1998		98		Lincoln	7651	
+Free Radical and Antioxidant Protocols	978-0-89603-472-3	978-1-59259-254-8							http://link.springer.com/10.1385/0896034720		10.1385/0896034720		fulltext		Humana Press	Monograph	1998		108		Armstrong	7651	
+Functional Genomics	978-1-58829-291-9	978-1-59259-364-4							http://link.springer.com/10.1385/159259364X		10.1385/159259364X		fulltext		Humana Press	Monograph	2003		224		Brownstein	7651	
+G Protein Methods and Protocols	978-0-89603-490-7	978-1-59259-636-2							http://link.springer.com/10.1385/0896034909		10.1385/0896034909		fulltext		Humana Press	Monograph	1997		31		Mishra	7657	
+G Protein Signaling	978-1-58829-137-0	978-1-59259-430-6							http://link.springer.com/10.1385/1592594301		10.1385/1592594301		fulltext		Humana Press	Monograph	2004		237		Smrcka	7651	
+GTPase Protocols	978-0-89603-934-6	978-1-59259-281-4							http://link.springer.com/10.1385/1592592813		10.1385/1592592813		fulltext		Springer New York	Monograph	2002		189		Manser	7651	
+Gene Delivery to Mammalian Cells	978-1-58829-086-1	978-1-59259-649-2							http://link.springer.com/10.1385/1592596495		10.1385/1592596495		fulltext		Humana Press	Monograph	2004		245		Heiser	7651	
+Gene Delivery to Mammalian Cells	978-1-58829-095-3	978-1-59259-650-8							http://link.springer.com/10.1385/1592596509		10.1385/1592596509		fulltext		Humana Press	Monograph	2004		246		Heiser	7651	
+Gene Expression Profiling	978-1-58829-220-9	978-1-59259-751-2							http://link.springer.com/10.1385/1592597513		10.1385/1592597513		fulltext		Humana Press	Monograph	2004		258		Shimkets	7651	
+Gene Isolation and Mapping Protocols	978-0-89603-482-2	978-1-59259-554-9							http://link.springer.com/10.1385/0896034828		10.1385/0896034828		fulltext		Humana Press	Monograph	1997		68		Boultwood	7651	
+Gene Knockout Protocols	978-0-89603-572-0	978-1-59259-220-3							http://link.springer.com/10.1385/1592592201		10.1385/1592592201		fulltext		Humana Press	Monograph	2001		158		Tymms	7651	
+Gene Probes	978-0-89603-885-1	978-1-59259-238-8							http://link.springer.com/10.1385/1592592384		10.1385/1592592384		fulltext		Humana Press	Monograph	2002		179		Muro	7651	
+Gene Targeting Protocols	978-0-89603-360-3	978-1-59259-215-9							http://link.springer.com/10.1385/1592592155		10.1385/1592592155		fulltext		Humana Press	Monograph	2000		133		Kmiec	7651	
+Gene Therapy Protocols	978-0-89603-484-6	978-1-59259-591-4							http://link.springer.com/10.1385/0896034844		10.1385/0896034844		fulltext		Humana Press	Monograph	1997		7		Robbins	7652	
+Gene Therapy Protocols	978-0-89603-723-6	978-1-59259-141-1							http://link.springer.com/10.1385/1592591418		10.1385/1592591418		fulltext		Springer New York	Monograph	2002		69	2nd Edition	Morgan	7652	
+Gene Therapy of Cancer	978-0-89603-714-4	978-1-59259-086-5							http://link.springer.com/10.1385/1592590861		10.1385/1592590861		fulltext		Humana Press	Monograph	2000		35		Walther	7652	
+Gene Transfer and Expression Protocols	978-0-89603-178-4	978-1-59259-494-8							http://link.springer.com/10.1385/0896031780		10.1385/0896031780		fulltext		Humana Press	Monograph	1991		7		Murray	7651	
+General Neurochemical Techniques	978-0-89603-075-6	978-1-59259-606-5							http://link.springer.com/10.1385/089603075x		10.1385/089603075x		fulltext		Humana Press	Monograph	1985		1		Boulton	7657	
+Generation of cDNA Libraries	978-1-58829-066-3	978-1-59259-359-0							http://link.springer.com/10.1385/1592593593		10.1385/1592593593		fulltext		Humana Press	Monograph	2003		221		Ying	7651	
+Genetic Recombination	978-1-58829-236-0	978-1-59259-761-1							http://link.springer.com/10.1385/1592597610		10.1385/1592597610		fulltext		Humana Press	Monograph	2004		262		Waldman	7651	
+Genomic Imprinting	978-0-89603-741-0	978-1-59259-211-1							http://link.springer.com/10.1385/1592592112		10.1385/1592592112		fulltext		Humana Press	Monograph	2002		181		Ward	7651	
+Genomics Protocols	978-0-89603-774-8	978-1-59259-235-7							http://link.springer.com/10.1385/159259235X		10.1385/159259235X		fulltext		Humana Press	Monograph	2001		175		Starkey	7651	
+Genomics, Proteomics, and Clinical Bacteriology	978-1-58829-218-6	978-1-59259-763-5							http://link.springer.com/10.1385/1592597637		10.1385/1592597637		fulltext		Humana Press	Monograph	2004		266		Woodford	7651	
+Germ Cell Protocols	978-1-58829-121-9	978-1-59259-744-4							http://link.springer.com/10.1385/1592597440		10.1385/1592597440		fulltext		Humana Press	Monograph	2004		253		Schatten	7651	
+Germ Cell Protocols	978-1-58829-257-5	978-1-59259-741-3							http://link.springer.com/10.1385/1592597416		10.1385/1592597416		fulltext		Humana Press	Monograph	2004		254		Schatten	7651	
+Glycoanalysis Protocols	978-0-89603-355-9	978-1-59259-562-4							http://link.springer.com/10.1385/0896033554		10.1385/0896033554		fulltext		Humana Press	Monograph	1998		76	Second Edition	Hounsell	7651	
+Glycoprotein Analysis in Biomedicine	978-0-89603-226-2	978-1-59259-501-3							http://link.springer.com/10.1385/0896032264		10.1385/0896032264		fulltext		Humana Press	Monograph	1993		14		Hounsell	7651	
+Glycoprotein Methods and Protocols	978-0-89603-720-5	978-1-59259-048-3							http://link.springer.com/10.1385/1592590489		10.1385/1592590489		fulltext		Humana Press	Monograph	2000		125		Corfield	7651	
+Green Fluorescent Protein	978-0-89603-905-6	978-1-59259-280-7							http://link.springer.com/10.1385/1592592805		10.1385/1592592805		fulltext		Humana Press	Monograph	2002		183		Hicks	7651	
+HIV Protocols	978-0-89603-369-6	978-1-59259-601-0							http://link.springer.com/10.1385/0896033694		10.1385/0896033694		fulltext		Humana Press	Monograph	1999		17		Michael	7652	
+HPLC of Peptides and Proteins	978-0-89603-977-3	978-1-59259-742-0							http://link.springer.com/10.1385/1592597424		10.1385/1592597424		fulltext		Springer New York	Monograph	2004		251		Aguilar	7651	
+Haemophilus influenzae Protocols	978-0-89603-928-5	978-1-59259-321-7							http://link.springer.com/10.1385/1592593216		10.1385/1592593216		fulltext		Humana Press	Monograph	2003		71		Herbert	7652	
+Helicobacter pylori Protocols	978-0-89603-381-8	978-1-59259-592-1							http://link.springer.com/10.1385/0896033813		10.1385/0896033813		fulltext		Humana Press	Monograph	1997		8		Clayton	7652	
+Hematologic Malignancies	978-0-89603-543-0	978-1-59259-074-2							http://link.springer.com/10.1385/1592590748		10.1385/1592590748		fulltext		Humana Press	Monograph	2001		55		Faguet	7652	
+Hematopoietic Stem Cell Protocols	978-0-89603-812-7	978-1-59259-140-4							http://link.springer.com/10.1385/159259140X		10.1385/159259140X		fulltext		Humana Press	Monograph	2002		63		Klug	7652	
+Heme, Chlorophyll, and Bilins	978-1-58829-111-0	978-1-59259-243-2							http://link.springer.com/10.1385/1592592430		10.1385/1592592430		fulltext		Humana Press	Monograph	2002				Smith		
+Hemoglobin Disorders	978-0-89603-962-9	978-1-59259-373-6							http://link.springer.com/10.1385/1592593739		10.1385/1592593739		fulltext		Humana Press	Monograph	2003		82		Nagel	7652	
+Hemostasis and Thrombosis Protocols	978-0-89603-419-8	978-1-59259-248-7							http://link.springer.com/10.1385/1592592481		10.1385/1592592481		fulltext		Humana Press	Monograph	1999		31		Perry	7652	
+Hepatitis B and D Protocols	978-1-58829-105-9	978-1-59259-669-0							http://link.springer.com/10.1385/159259669X		10.1385/159259669X		fulltext		Humana Press	Monograph	2004		95		Hamatake	7652	
+Hepatitis B and D Protocols	978-1-58829-108-0	978-1-59259-670-6							http://link.springer.com/10.1385/1592596703		10.1385/1592596703		fulltext		Humana Press	Monograph	2004		96		Hamatake	7652	
+Hepatitis C Protocols	978-0-89603-521-8	978-1-59259-260-9							http://link.springer.com/10.1385/0896035212		10.1385/0896035212		fulltext		Humana Press	Monograph	1998		19		Lau	7652	
+Hepatocellular Carcinoma	978-0-89603-785-4	978-1-59259-079-7							http://link.springer.com/10.1385/1592590799		10.1385/1592590799		fulltext		Humana Press	Monograph	2000		45		Habib	7652	
+Herpes Simplex Virus Protocols	978-0-89603-347-4	978-1-59259-594-5							http://link.springer.com/10.1385/0896033473		10.1385/0896033473		fulltext		Humana Press	Monograph	1998		10		Brown	7652	
+High Throughput Screening	978-0-89603-889-9	978-1-59259-180-0							http://link.springer.com/10.1385/1592591809		10.1385/1592591809		fulltext		Humana Press	Monograph	2002		190		Janzen	7651	
+Human Airway Inflammation	978-0-89603-923-0	978-1-59259-151-0							http://link.springer.com/10.1385/1592591515		10.1385/1592591515		fulltext		Humana Press	Monograph	2001		56		Rogers	7652	
+Human Cell Culture Protocols	978-0-89603-335-1	978-1-59259-586-0							http://link.springer.com/10.1385/089603335X		10.1385/089603335X		fulltext		Humana Press	Monograph	1996		2		Jones	7652	
+Imaging and Correlative Physicochemical Techniques	978-0-89603-116-6	978-1-59259-613-3							http://link.springer.com/10.1385/0896031160		10.1385/0896031160		fulltext		Humana Press	Monograph	1988		8		Boulton	7657	
+Immobilization of Enzymes and Cells	978-0-89603-386-3	978-1-59259-481-8							http://link.springer.com/10.1385/0896033864		10.1385/0896033864		fulltext		Humana Press	Monograph	1997		1		Bickerstaff	7650	
+Immunochemical Protocols	978-0-89603-204-0	978-1-59259-497-9							http://link.springer.com/10.1385/0896032043		10.1385/0896032043		fulltext		Humana Press	Monograph	1992		10		Manson	7651	
+Immunochemical Protocols	978-0-89603-493-8	978-1-59259-257-9							http://link.springer.com/10.1007/978-1-59259-257-9		10.1007/978-1-59259-257-9		fulltext		Humana Press	Monograph	1998		80	Second Edition	Pound	7651	
+Immunocytochemical Methods and Protocols	978-0-89603-285-9	978-1-59259-521-1							http://link.springer.com/10.1385/089603285X		10.1385/089603285X		fulltext		Humana Press	Monograph	1995		34		Javois	7651	
+Immunocytochemical Methods and Protocols	978-0-89603-813-4	978-1-59259-213-5							http://link.springer.com/10.1385/1592592139		10.1385/1592592139		fulltext		Humana Press	Monograph	1999		115	Second Edition	Javois	7651	
+Immunotoxin Methods and Protocols	978-0-89603-775-5	978-1-59259-114-5							http://link.springer.com/10.1385/1592591140		10.1385/1592591140		fulltext		Humana Press	Monograph	2001		166		Hall	7651	
+In Situ Detection of DNA Damage	978-0-89603-952-0	978-1-59259-179-4							http://link.springer.com/10.1385/1592591795		10.1385/1592591795		fulltext		Humana Press	Monograph	2002		203		Didenko	7651	
+In Situ Hybridization Protocols	978-0-89603-280-4	978-1-59259-520-4							http://link.springer.com/10.1385/0896032809		10.1385/0896032809		fulltext		Humana Press	Monograph	1995		33		Choo	7651	
+In Situ Hybridization Protocols	978-0-89603-686-4	978-1-59259-677-5							http://link.springer.com/10.1385/1592596770		10.1385/1592596770		fulltext		Humana Press	Monograph	2000		123	Second Edition	Darby	7651	
+In Vitro Mutagenesis Protocols	978-0-89603-332-0	978-1-59259-544-0							http://link.springer.com/10.1385/0896033325		10.1385/0896033325		fulltext		Humana Press	Monograph	1996		57		Trower	7651	
+In Vitro Mutagenesis Protocols	978-0-89603-910-0	978-1-59259-194-7							http://link.springer.com/10.1385/1592591949		10.1385/1592591949		fulltext		Humana Press	Monograph	2002		182	Second Edition	Braman	7651	
+In Vitro Neurochemical Techniques	978-0-89603-509-6	978-1-59259-639-3							http://link.springer.com/10.1385/0896035093		10.1385/0896035093		fulltext		Humana Press	Monograph	1999		34		Boulton	7657	
+In Vitro Neurotoxicology	978-1-58829-047-2	978-1-59259-651-5							http://link.springer.com/10.1385/1592596517		10.1385/1592596517		fulltext		Humana Press	Monograph	2004				Tiffany-Castiglioni	7653	
+In Vitro Toxicity Testing Protocols	978-0-89603-282-8	978-1-59259-530-3							http://link.springer.com/10.1385/0896032825		10.1385/0896032825		fulltext		Humana Press	Monograph	1995		43		O’Hare	7651	
+In Vitro Transcription and Translation Protocols	978-0-89603-288-0	978-1-59259-524-2							http://link.springer.com/10.1385/0896032884		10.1385/0896032884		fulltext		Humana Press	Monograph	1995		37		Tymms	7651	
+In Vivo Neuromethods	978-0-89603-511-9	978-1-59259-637-9							http://link.springer.com/10.1385/0896035115	Boulton	10.1385/0896035115		fulltext		Humana Press	Monograph	1998		32			7657	
+Inflammation Protocols	978-0-89603-970-4	978-1-59259-374-3							http://link.springer.com/10.1385/1592593747		10.1385/1592593747		fulltext		Humana Press	Monograph	2003		225		Winyard	7651	
+Integrin Protocols	978-0-89603-569-0	978-1-59259-249-4							http://link.springer.com/10.1385/159259249X		10.1385/159259249X		fulltext		Humana Press	Monograph	1999		129		Howlett	7651	
+Interleukin Protocols	978-0-89603-738-0	978-1-59259-146-6							http://link.springer.com/10.1385/1592591469		10.1385/1592591469		fulltext		Springer New York	Monograph	2001		60		O’Neill	7652	
+Intracellular Messengers	978-0-89603-207-1	978-1-59259-625-6							http://link.springer.com/10.1385/0896032078		10.1385/0896032078		fulltext		Humana Press	Monograph	1992		20		Boulton	7657	
+Ion Channel Localization	978-0-89603-833-2	978-1-59259-118-3							http://link.springer.com/10.1385/1592591183		10.1385/1592591183		fulltext		Humana Press	Monograph	2001				Lopatin	7653	
+Kinesin Protocols	978-0-89603-766-3	978-1-59259-069-8							http://link.springer.com/10.1385/1592590691		10.1385/1592590691		fulltext		Humana Press	Monograph	2001		164		Vernos	7651	
+Lectin Methods and Protocols	978-0-89603-396-2	978-1-59259-593-8							http://link.springer.com/10.1385/0896033961		10.1385/0896033961		fulltext		Humana Press	Monograph	1998		9		Rhodes	7652	
+Lentivirus Gene Engineering Protocols	978-1-58829-091-5	978-1-59259-393-4							http://link.springer.com/10.1385/1592593933		10.1385/1592593933		fulltext		Humana Press	Monograph	2003		229		Federico	7651	
+Lipase and Phospholipase Protocols	978-0-89603-546-1	978-1-59259-581-5							http://link.springer.com/10.1385/1592595812		10.1385/1592595812		fulltext		Humana Press	Monograph	1999		109		Doolittle	7651	
+Lipids and Related Compounds	978-0-89603-124-1	978-1-59259-612-6							http://link.springer.com/10.1385/0896031241		10.1385/0896031241		fulltext		Humana Press	Monograph	1988		7		Boulton	7657	
+Lipoprotein Protocols	978-0-89603-420-4	978-1-59259-582-2							http://link.springer.com/10.1385/1592595820		10.1385/1592595820		fulltext		Humana Press	Monograph	1998		110		Ordovas	7651	
+Liposome Methods and Protocols	978-0-89603-845-5	978-1-59259-175-6							http://link.springer.com/10.1385/1592591752		10.1385/1592591752		fulltext		Humana Press	Monograph	2002		199		Basu	7651	
+Liquid Chromatography In Clinical Analysis	978-0-89603-026-8	978-1-60327-404-3							http://link.springer.com/10.1007/978-1-60327-404-3		10.1007/978-1-60327-404-3		fulltext		Humana Press	Monograph	1981				Kabra		
+Lung Cancer	978-0-89603-920-9	978-1-59259-324-8							http://link.springer.com/10.1385/1592593240		10.1385/1592593240		fulltext		Humana Press	Monograph	2003		75		Driscoll	7652	
+Lung Cancer	978-0-89603-985-8	978-1-59259-323-1							http://link.springer.com/10.1385/1592593232		10.1385/1592593232		fulltext		Humana Press	Monograph	2003		74		Driscoll	7652	
+MAP Kinase Signaling Protocols	978-0-89603-998-8	978-1-59259-671-3							http://link.springer.com/10.1385/1592596711		10.1385/1592596711		fulltext		Humana Press	Monograph	2004		250		Seger	7651	
+MHC Protocols	978-0-89603-548-5	978-1-59259-291-3							http://link.springer.com/10.1385/1592592910		10.1385/1592592910		fulltext		Humana Press	Monograph	2003		210		Powis	7651	
+Malaria Methods and Protocols	978-0-89603-823-3	978-1-59259-271-5							http://link.springer.com/10.1385/1592592716		10.1385/1592592716		fulltext		Humana Press	Monograph	2002		72		Doolan	7652	
+Mammalian Artificial Chromosomes	978-1-58829-096-0	978-1-59259-434-4							http://link.springer.com/10.1385/1592594344		10.1385/1592594344		fulltext		Humana Press	Monograph	2004		240		Sgaramella	7651	
+Mass Spectrometry of Proteins and Peptides	978-0-89603-609-3	978-1-59259-045-2							http://link.springer.com/10.1385/1592590454		10.1385/1592590454		fulltext		Humana Press	Monograph	2000		146		Chapman	7651	
+Matrix Metalloproteinase Protocols	978-0-89603-733-5	978-1-59259-046-9							http://link.springer.com/10.1385/1592590462		10.1385/1592590462		fulltext		Humana Press	Monograph	2001		151		Clark	7651	
+Melanoma Techniques and Protocols	978-0-89603-684-0	978-1-59259-145-9							http://link.springer.com/10.1385/1592591450		10.1385/1592591450		fulltext		Humana Press	Monograph	2001		61		Nickoloff	7652	
+Membrane Protein Protocols	978-1-58829-124-0	978-1-59259-400-9							http://link.springer.com/10.1385/159259400X		10.1385/159259400X		fulltext		Humana Press	Monograph	2003		228		Selinsky	7651	
+Membrane Transporters	978-1-58829-104-2	978-1-59259-387-3							http://link.springer.com/10.1385/1592593879		10.1385/1592593879		fulltext		Humana Press	Monograph	2003		227		Yan	7651	
+Meningococcal Disease	978-0-89603-849-3	978-1-59259-149-7							http://link.springer.com/10.1385/1592591493		10.1385/1592591493		fulltext		Humana Press	Monograph	2001		67		Walker	7652	
+Meningococcal Vaccines	978-0-89603-801-1	978-1-59259-148-0							http://link.springer.com/10.1385/1592591485		10.1385/1592591485		fulltext		Humana Press	Monograph	2001		66		Pollard	7652	
+Metal Carcinogenesis Testing	978-0-89603-017-6	978-1-60327-403-6							http://link.springer.com/10.1007/978-1-60327-403-6	Costa	10.1007/978-1-60327-403-6		fulltext		Humana Press	Monograph	1980						
+Metastasis Research Protocols	978-0-89603-610-9	978-1-59259-136-7							http://link.springer.com/10.1385/1592591361		10.1385/1592591361		fulltext		Humana Press	Monograph	2001		57		Brooks	7652	
+Metastasis Research Protocols	978-0-89603-615-4	978-1-59259-137-4							http://link.springer.com/10.1385/159259137X		10.1385/159259137X		fulltext		Humana Press	Monograph	2001		58		Brooks	7652	
+Methods in Biological Oxidative Stress	978-0-89603-815-8	978-1-59259-424-5							http://link.springer.com/10.1385/1592594247		10.1385/1592594247		fulltext		Humana Press	Monograph	2003				Hensley	7653	
+Methods of Protein Microcharacterization	978-0-89603-090-9	978-1-59259-436-8							http://link.springer.com/10.1007/978-1-59259-436-8		10.1007/978-1-59259-436-8		fulltext		Humana Press	Monograph	1986				Shively		
+Microscopy, Optical Spectroscopy, and Macroscopic Techniques	978-0-89603-232-3	978-1-59259-509-9							http://link.springer.com/10.1385/0896032329		10.1385/0896032329		fulltext		Humana Press	Monograph	1994		22		Jones	7651	
+Microwave Techniques and Protocols	978-0-89603-903-2	978-1-59259-128-2							http://link.springer.com/10.1007/978-1-59259-128-2		10.1007/978-1-59259-128-2		fulltext		Humana Press	Monograph	2001				Giberson		
+Mitochondrial DNA	978-0-89603-972-8	978-1-59259-284-5							http://link.springer.com/10.1385/1592592848		10.1385/1592592848		fulltext		Humana Press	Monograph	2002		197		Copeland	7651	
+Mobile Genetic Elements	978-1-58829-007-6	978-1-59259-755-0							http://link.springer.com/10.1385/1592597556		10.1385/1592597556		fulltext		Humana Press	Monograph	2004		260		Miller	7651	
+Molecular Analysis of Cancer	978-0-89603-622-2	978-1-59259-135-0							http://link.springer.com/10.1385/1592591353		10.1385/1592591353		fulltext		Humana Press	Monograph	2002		68		Boultwood	7652	
+Molecular Bacteriology	978-0-89603-498-3	978-1-59259-599-0							http://link.springer.com/10.1385/0896034984		10.1385/0896034984		fulltext		Humana Press	Monograph	1998		15		Woodford	7652	
+Molecular Biomethods Handbook	978-0-89603-501-0	978-1-59259-642-3							http://link.springer.com/10.1007/978-1-59259-642-3		10.1007/978-1-59259-642-3		fulltext		Humana Press	Monograph	1998				Rapley		
+Molecular Cytogenetics	978-1-58829-006-9	978-1-59259-300-2							http://link.springer.com/10.1385/1592593003		10.1385/1592593003		fulltext		Humana Press	Monograph	2003		204		Fan	7651	
+Molecular Diagnosis of Cancer	978-0-89603-341-2	978-1-59259-590-7							http://link.springer.com/10.1385/0896033414		10.1385/0896033414		fulltext		Humana Press	Monograph	1996		6		Cotter	7652	
+Molecular Diagnosis of Cancer	978-1-58829-160-8	978-1-59259-760-4							http://link.springer.com/10.1385/1592597602		10.1385/1592597602		fulltext		Humana Press	Monograph	2004		97	Second Edition	Roulston	7652	
+Molecular Diagnosis of Genetic Diseases	978-0-89603-346-7	978-1-59259-589-1							http://link.springer.com/10.1385/0896033465		10.1385/0896033465		fulltext		Humana Press	Monograph	1996		5		Elles	7652	
+Molecular Diagnosis of Genetic Diseases	978-0-89603-932-2	978-1-59259-432-0							http://link.springer.com/10.1385/1592594328		10.1385/1592594328		fulltext		Humana Press	Monograph	2004		92	Second Edition	Elles	7652	
+Molecular Diagnosis of Infectious Diseases	978-0-89603-485-3	978-1-59259-597-6							http://link.springer.com/10.1385/0896034852		10.1385/0896034852		fulltext		Humana Press	Monograph	1998		13		Reischl	7652	
+Molecular Diagnosis of Infectious Diseases	978-1-58829-221-6	978-1-59259-679-9							http://link.springer.com/10.1385/1592596797		10.1385/1592596797		fulltext		Humana Press	Monograph	2004		94	Second Edition	Decler	7652	
+Molecular Embryology	978-0-89603-387-0	978-1-59259-270-8							http://link.springer.com/10.1385/1592592708		10.1385/1592592708		fulltext		Humana Press	Monograph	1999		97		Sharpe	7651	
+Molecular Methods in Developmental Biology	978-0-89603-790-8	978-1-59259-678-2							http://link.springer.com/10.1385/1592596789		10.1385/1592596789		fulltext		Humana Press	Monograph	1999		127		Guille	7651	
+Molecular Neurobiological Techniques	978-0-89603-140-1	978-1-59259-621-8							http://link.springer.com/10.1385/0896031403		10.1385/0896031403		fulltext		Humana Press	Monograph	1990		16		Boulton	7657	
+Molecular Pathology Protocols	978-0-89603-681-9	978-1-59259-081-0							http://link.springer.com/10.1385/1592590810		10.1385/1592590810		fulltext		Humana Press	Monograph	2001		49		Killeen	7652	
+Molecular Pathology of the Prions	978-0-89603-924-7	978-1-59259-134-3							http://link.springer.com/10.1385/1592591345		10.1385/1592591345		fulltext		Humana Press	Monograph	2001		59		Baker	7652	
+Monoclonal Antibody Protocols	978-0-89603-308-5	978-1-59259-532-7							http://link.springer.com/10.1385/0896033082		10.1385/0896033082		fulltext		Humana Press	Monograph	1995		45		Davis	7651	
+Muscular Dystrophy	978-0-89603-695-6	978-1-59259-138-1							http://link.springer.com/10.1385/1592591388		10.1385/1592591388		fulltext		Springer New York	Monograph	2001		43		Bushby	7652	
+Mycobacteria Protocols	978-0-89603-471-6	978-1-59259-576-1							http://link.springer.com/10.1385/0896034712		10.1385/0896034712		fulltext		Humana Press	Monograph	1998		101		Parish	7651	
+Mycobacterium tuberculosis Protocols	978-0-89603-776-2	978-1-59259-147-3							http://link.springer.com/10.1385/1592591477		10.1385/1592591477		fulltext		Humana Press	Monograph	2001		54		Parish	7652	
+Mycoplasma Protocols	978-0-89603-525-6	978-1-59259-269-2							http://link.springer.com/10.1385/0896035255		10.1385/0896035255		fulltext		Humana Press	Monograph	1998		104		Miles	7651	
+Mycotoxin Protocols	978-0-89603-623-9	978-1-59259-064-3							http://link.springer.com/10.1385/1592590640		10.1385/1592590640		fulltext		Humana Press	Monograph	2001		157		Trucksess	7651	
+NMDA Receptor Protocols	978-0-89603-713-7	978-1-59259-683-6							http://link.springer.com/10.1385/1592596835		10.1385/1592596835		fulltext		Humana Press	Monograph	1999		128		Li	7651	
+Natural Killer Cell Protocols	978-0-89603-683-3	978-1-59259-044-5							http://link.springer.com/10.1385/1592590446		10.1385/1592590446		fulltext		Humana Press	Monograph	2000		121		Campbell	7651	
+Natural Products Isolation	978-0-89603-362-7	978-1-59259-256-2							http://link.springer.com/10.1007/978-1-59259-256-2		10.1007/978-1-59259-256-2		fulltext		Humana Press	Monograph	1998		4		Cannell	7650	
+Neural Stem Cells: Methods and Protocols	978-0-89603-964-3	978-1-59259-186-2							http://link.springer.com/10.1385/1592591868		10.1385/1592591868		fulltext		Humana Press	Monograph	2002		198		Zigova	7651	
+Neural Transplantation Methods	978-0-89603-793-9	978-1-59259-690-4							http://link.springer.com/10.1007/978-1-59259-690-4		10.1007/978-1-59259-690-4		fulltext		Humana Press	Monograph	2000		36		Dunnett	7657	
+Neurodegeneration Methods and Protocols	978-0-89603-612-3	978-1-59259-604-1							http://link.springer.com/10.1385/089603612X		10.1385/089603612X		fulltext		Humana Press	Monograph	1999		22		Harry	7652	
+Neurogenetics	978-0-89603-990-2	978-1-59259-330-9							http://link.springer.com/10.1385/1592593305		10.1385/1592593305		fulltext		Springer New York	Monograph	2003		217		Potter	7651	
+Neuropeptide Protocols	978-0-89603-399-3	978-1-59259-559-4							http://link.springer.com/10.1385/0896033996		10.1385/0896033996		fulltext		Humana Press	Monograph	1997		73		Irvine	7651	
+Neuropeptide Y Protocols	978-0-89603-662-8	978-1-59259-042-1							http://link.springer.com/10.1385/159259042X		10.1385/159259042X		fulltext		Humana Press	Monograph	2000		153		Balasubramaniam	7651	
+Neurophysiological Techniques	978-0-89603-160-9	978-1-59259-619-5							http://link.springer.com/10.1385/0896031608		10.1385/0896031608		fulltext		Humana Press	Monograph	1990		14		Boulton	7657	
+Neurophysiological Techniques	978-0-89603-185-2	978-1-59259-620-1							http://link.springer.com/10.1385/0896031853		10.1385/0896031853		fulltext		Humana Press	Monograph	1990		15		Boulton	7657	
+Neuropsychology	978-0-89603-133-3	978-1-59259-622-5							http://link.springer.com/10.1385/0896031330		10.1385/0896031330		fulltext		Humana Press	Monograph	1990		17		Boulton	7657	
+Neurotransmitter Enzymes	978-0-89603-079-4	978-1-59259-610-2							http://link.springer.com/10.1385/0896030792		10.1385/0896030792		fulltext		Humana Press	Monograph	1986		5		Boulton	7657	
+Neurotransmitter Methods	978-0-89603-394-8	978-1-59259-558-7							http://link.springer.com/10.1385/0896033945		10.1385/0896033945		fulltext		Springer New York	Monograph	1997		72		Rayne	7651	
+Neurotrophic Factors	978-0-89603-249-1	978-1-59259-630-0							http://link.springer.com/10.1385/0896032493		10.1385/0896032493		fulltext		Humana Press	Monograph	1993		25		Boulton	7657	
+Neurotrophin Protocols	978-0-89603-699-4	978-1-59259-060-5							http://link.springer.com/10.1385/1592590608		10.1385/1592590608		fulltext		Humana Press	Monograph	2001		169		Rush	7651	
+New Nucleic Acid Techniques	978-0-89603-127-2	978-1-59259-491-7							http://link.springer.com/10.1385/0896031276		10.1385/0896031276		fulltext		Humana Press	Monograph	1988		4		Walker	7651	
+New Protein Techniques	978-0-89603-126-5	978-1-59259-490-0							http://link.springer.com/10.1385/0896031268		10.1385/0896031268		fulltext		Humana Press	Monograph	1988		3		Walker	7651	
+Nitric Oxide Protocols	978-0-89603-470-9	978-1-59259-749-9							http://link.springer.com/10.1385/1592597491		10.1385/1592597491		fulltext		Humana Press	Monograph	1998		100		Titheradge	7651	
+Nitric Oxide Protocols	978-1-58829-237-7	978-1-59259-807-6							http://link.springer.com/10.1385/1592598072		10.1385/1592598072		fulltext		Humana Press	Monograph	2004		279	Second Edition	Hassid	7651	
+Nonviral Vectors for Gene Therapy	978-0-89603-712-0	978-1-59259-139-8							http://link.springer.com/10.1385/1592591396		10.1385/1592591396		fulltext		Humana Press	Monograph	2001		65		Findeis	7652	
+Novel Anticancer Drug Protocols	978-0-89603-963-6	978-1-59259-380-4							http://link.springer.com/10.1385/1592593801		10.1385/1592593801		fulltext		Humana Press	Monograph	2003		85		Buolamwini	7652	
+Nuclease Methods and Protocols	978-0-89603-679-6	978-1-59259-233-3							http://link.springer.com/10.1385/1592592333		10.1385/1592592333		fulltext		Humana Press	Monograph	2001		160		Schein	7651	
+Nucleic Acids	978-0-89603-064-0	978-1-59259-489-4							http://link.springer.com/10.1385/0896030644		10.1385/0896030644		fulltext		Humana Press	Monograph	1984		2		Walker	7651	
+Opioid Research	978-1-58829-059-5	978-1-59259-379-8							http://link.springer.com/10.1385/1592593798		10.1385/1592593798		fulltext		Humana Press	Monograph	2003		84		Pan	7652	
+Optimization in Drug Discovery	978-1-58829-332-9	978-1-59259-800-7							http://link.springer.com/10.1385/1592598005		10.1385/1592598005		fulltext		Humana Press	Monograph	2004				Yan	7653	
+Ovarian Cancer	978-0-89603-583-6	978-1-59259-071-1							http://link.springer.com/10.1385/1592590713		10.1385/1592590713		fulltext		Humana Press	Monograph	2001		39		Bartlett	7652	
+Oxidants and Antioxidants	978-0-89603-851-6	978-1-59259-274-6							http://link.springer.com/10.1385/1592592740		10.1385/1592592740		fulltext		Humana Press	Monograph	2002		196		Armstrong	7651	
+Oxidative Stress Biomarkers and Antioxidant Protocols	978-0-89603-850-9	978-1-59259-173-2							http://link.springer.com/10.1385/1592591736		10.1385/1592591736		fulltext		Humana Press	Monograph	2002		186		Armstrong	7651	
+PCR Cloning Protocols	978-0-89603-483-9	978-1-59259-553-2							http://link.springer.com/10.1385/0896034836		10.1385/0896034836		fulltext		Humana Press	Monograph	1997		67		White	7651	
+PCR Cloning Protocols	978-0-89603-969-8	978-1-59259-177-0							http://link.springer.com/10.1385/1592591779		10.1385/1592591779		fulltext		Humana Press	Monograph	2002		192	Second Edition	Chen	7651	
+PCR Detection of Microbial Pathogens	978-1-58829-049-6	978-1-59259-344-6							http://link.springer.com/10.1385/1592593445		10.1385/1592593445		fulltext		Humana Press	Monograph	2003		216		Sachse	7651	
+PCR Mutation Detection Protocols	978-0-89603-617-8	978-1-59259-273-9							http://link.springer.com/10.1385/1592592732		10.1385/1592592732		fulltext		Humana Press	Monograph	2002		187		Theophilus	7651	
+PCR Protocols	978-0-89603-244-6	978-1-59259-502-0							http://link.springer.com/10.1385/0896032442		10.1385/0896032442		fulltext		Humana Press	Monograph	1993		15		White	7651	
+PCR Protocols	978-0-89603-642-0	978-1-59259-384-2							http://link.springer.com/10.1385/1592593844		10.1385/1592593844		fulltext		Humana Press	Monograph	2003		226	Second Edition	Bartlett	7651	
+PCR Sequencing Protocols	978-0-89603-344-3	978-1-59259-551-8							http://link.springer.com/10.1385/0896033449		10.1385/0896033449		fulltext		Springer New York	Monograph	1996		65		Rapley	7651	
+PCR in Bioanalysis	978-0-89603-497-6	978-1-59259-575-4							http://link.springer.com/10.1385/0896034976		10.1385/0896034976		fulltext		Humana Press	Monograph	1998		92		Meltzer	7651	
+PRINS and In Situ PCR Protocols	978-0-89603-395-5	978-1-59259-557-0							http://link.springer.com/10.1385/0896033953		10.1385/0896033953		fulltext		Humana Press	Monograph	1997		71		Gosden	7651	
+Pain Research	978-1-58829-103-5	978-1-59259-770-3							http://link.springer.com/10.1385/159259770X		10.1385/159259770X		fulltext		Humana Press	Monograph	2004		99		Luo	7652	
+Parasite Genomics Protocols	978-1-58829-062-5	978-1-59259-793-2							http://link.springer.com/10.1385/1592597939		10.1385/1592597939		fulltext		Humana Press	Monograph	2004		270		Melville	7651	
+Parkinson's Disease	978-0-89603-761-8	978-1-59259-142-8							http://link.springer.com/10.1385/1592591426		10.1385/1592591426		fulltext		Humana Press	Monograph	2001		62		Maral Mouradian	7652	
+Patch-Clamp Analysis	978-1-58829-013-7	978-1-59259-276-0							http://link.springer.com/10.1385/1592592767		10.1385/1592592767		fulltext		Humana Press	Monograph	2002		35		Walz	7657	
+Patch-Clamp Applications and Protocols	978-0-89603-311-5	978-1-59259-631-7							http://link.springer.com/10.1385/0896033112		10.1385/0896033112		fulltext		Humana Press	Monograph	1995		26		Boulton	7657	
+Pediatric Hematology	978-1-58829-043-4	978-1-59259-433-7							http://link.springer.com/10.1385/1592594336		10.1385/1592594336		fulltext		Humana Press	Monograph	2004		91		Goulden	7652	
+Peptide Analysis Protocols	978-0-89603-274-3	978-1-59259-523-5							http://link.springer.com/10.1385/0896032744		10.1385/0896032744		fulltext		Humana Press	Monograph	1994		36		Dunn	7651	
+Peptide Nucleic Acids	978-0-89603-976-6	978-1-59259-290-6							http://link.springer.com/10.1385/1592592902		10.1385/1592592902		fulltext		Springer New York	Monograph	2002		208		Nielsen	7651	
+Peptide Research Protocols	978-0-89603-993-3	978-1-59259-289-0							http://link.springer.com/10.1385/1592592899		10.1385/1592592899		fulltext		Springer New York	Monograph	2002		206		Maguire	7651	
+Peptide Synthesis Protocols	978-0-89603-273-6	978-1-59259-522-8							http://link.springer.com/10.1385/0896032736		10.1385/0896032736		fulltext		Humana Press	Monograph	1995		35		Pennington	7651	
+Peptides	978-0-89603-105-0	978-1-59259-611-9							http://link.springer.com/10.1385/0896031055		10.1385/0896031055		fulltext		Humana Press	Monograph	1987		6		Boulton	7657	
+Peptidomimetics Protocols	978-0-89603-517-1	978-1-59259-605-8							http://link.springer.com/10.1385/0896035174		10.1385/0896035174		fulltext		Humana Press	Monograph	1999		23		Kazmierski	7652	
+Phospholipid Signaling Protocols	978-0-89603-491-4	978-1-59259-255-5							http://link.springer.com/10.1385/0896034917		10.1385/0896034917		fulltext		Humana Press	Monograph	1998		105		Bird	7651	
+Photosynthesis Research Protocols	978-1-58829-232-2	978-1-59259-799-4							http://link.springer.com/10.1385/1592597998		10.1385/1592597998		fulltext		Humana Press	Monograph	2004		274		Carpentier	7651	
+Pichia Protocols	978-0-89603-421-1	978-1-59259-578-5							http://link.springer.com/10.1385/0896034216		10.1385/0896034216		fulltext		Humana Press	Monograph	1998		103		Higgins	7651	
+Plant Cell Culture Protocols	978-0-89603-549-2	978-1-59259-583-9							http://link.springer.com/10.1385/1592595839		10.1385/1592595839		fulltext		Humana Press	Monograph	1999		111		Hall	7651	
+Plant Cell Electroporation and Electrofusion Protocols	978-0-89603-328-3	978-1-59259-542-6							http://link.springer.com/10.1385/0896033287		10.1385/0896033287		fulltext		Springer New York	Monograph	1995		55		Nickoloff	7651	
+Plant Cell and Tissue Culture	978-0-89603-161-6	978-1-59259-493-1							http://link.springer.com/10.1385/0896031616		10.1385/0896031616		fulltext		Humana Press	Monograph	1990		6		Pollard	7651	
+Plant Functional Genomics	978-1-58829-145-5	978-1-59259-413-9							http://link.springer.com/10.1385/1592594131		10.1385/1592594131		fulltext		Humana Press	Monograph	2003		236		Grotewold	7651	
+Plant Gene Transfer and Expression Protocols	978-0-89603-321-4	978-1-59259-536-5							http://link.springer.com/10.1385/089603321X		10.1385/089603321X		fulltext		Springer New York	Monograph	1995		49		Jones	7651	
+Plant Hormone Protocols	978-0-89603-577-5	978-1-59259-067-4							http://link.springer.com/10.1385/1592590675		10.1385/1592590675		fulltext		Humana Press	Monograph	2000		141		Tucker	7651	
+Plant Virology Protocols	978-0-89603-385-6	978-1-59259-566-2							http://link.springer.com/10.1385/0896033856		10.1385/0896033856		fulltext		Humana Press	Monograph	1998		81		Foster	7651	
+Platelets and Megakaryocytes	978-1-58829-011-3	978-1-59259-783-3							http://link.springer.com/10.1385/1592597831		10.1385/1592597831		fulltext		Humana Press	Monograph	2004		273		Gibbins	7651	
+Platelets and Megakaryocytes	978-1-58829-101-1	978-1-59259-782-6							http://link.springer.com/10.1385/1592597823		10.1385/1592597823		fulltext		Humana Press	Monograph	2004		272		Gibbins	7651	
+Polyamine Protocols	978-0-89603-448-8	978-1-59259-565-5							http://link.springer.com/10.1385/0896034488		10.1385/0896034488		fulltext		Humana Press	Monograph	1998		79		Morgan	7651	
+Posttranslational Modifications of Proteins	978-0-89603-678-9	978-1-59259-181-7							http://link.springer.com/10.1385/1592591817		10.1385/1592591817		fulltext		Humana Press	Monograph	2002		194		Kannicht	7651	
+Practical Cell Culture Techniques	978-0-89603-214-9	978-1-59259-628-7							http://link.springer.com/10.1385/0896032140		10.1385/0896032140		fulltext		Humana Press	Monograph	1993		23		Boulton	7657	
+Practical Molecular Virology	978-0-89603-191-3	978-1-59259-495-5							http://link.springer.com/10.1385/0896031918		10.1385/0896031918		fulltext		Humana Press	Monograph	1992		8		Collins	7651	
+Practical Protein Chromatography	978-0-89603-213-2	978-1-59259-498-6							http://link.springer.com/10.1385/0896032132		10.1385/0896032132		fulltext		Humana Press	Monograph	1992		11		Kenney	7651	
+Prion Diseases	978-0-89603-342-9	978-1-59259-587-7							http://link.springer.com/10.1385/0896033422		10.1385/0896033422		fulltext		Springer New York	Monograph	1996		3		Baker	7652	
+Prostate Cancer Methods and Protocols	978-0-89603-978-0	978-1-59259-372-9							http://link.springer.com/10.1385/1592593720		10.1385/1592593720		fulltext		Springer New York	Monograph	2003		81		Russell	7652	
+Protein Arrays	978-1-58829-255-1	978-1-59259-759-8							http://link.springer.com/10.1385/1592597599		10.1385/1592597599		fulltext		Humana Press	Monograph	2004		264		Fung	7651	
+Protein Biotechnology	978-0-89603-230-9	978-1-59259-438-2							http://link.springer.com/10.1007/978-1-59259-438-2		10.1007/978-1-59259-438-2		fulltext		Humana Press	Monograph	1993				Franks		
+Protein Kinase C Protocols	978-1-58829-068-7	978-1-59259-397-2							http://link.springer.com/10.1385/1592593976		10.1385/1592593976		fulltext		Humana Press	Monograph	2003		233		Newton	7651	
+Protein Kinase Protocols	978-0-89603-700-7	978-1-59259-059-9							http://link.springer.com/10.1385/1592590594		10.1385/1592590594		fulltext		Humana Press	Monograph	2001		124		Reith	7651	
+Protein Lipidation Protocols	978-0-89603-534-8	978-1-59259-264-7							http://link.springer.com/10.1385/1592592643		10.1385/1592592643		fulltext		Humana Press	Monograph	1999		116		Gelb	7651	
+Protein Misfolding and Disease	978-1-58829-065-6	978-1-59259-394-1							http://link.springer.com/10.1385/1592593941		10.1385/1592593941		fulltext		Humana Press	Monograph	2003		232		Bross	7651	
+Protein NMR Techniques	978-0-89603-309-2	978-1-59259-546-4							http://link.springer.com/10.1385/0896033090		10.1385/0896033090		fulltext		Humana Press	Monograph	1997		60		Reid	7651	
+Protein NMR Techniques	978-1-58829-246-9	978-1-59259-809-0							http://link.springer.com/10.1385/1592598099		10.1385/1592598099		fulltext		Humana Press	Monograph	2004		278	Second Edition	Downing	7651	
+Protein Phosphatase Protocols	978-0-89603-468-6	978-1-59259-267-8							http://link.springer.com/10.1385/0896034682		10.1385/0896034682		fulltext		Humana Press	Monograph	1998		93		Ludlow	7651	
+Protein Purification Protocols	978-0-89603-336-8	978-1-59259-545-7							http://link.springer.com/10.1385/0896033368		10.1385/0896033368		fulltext		Humana Press	Monograph	1996		59		Doonan	7651	
+Protein Purification Protocols	978-1-58829-067-0	978-1-59259-655-3							http://link.springer.com/10.1385/159259655X		10.1385/159259655X		fulltext		Humana Press	Monograph	2004		244	Second Edition	Cutler	7651	
+Protein Sequencing Protocols	978-0-89603-353-5	978-1-59259-550-1							http://link.springer.com/10.1385/0896033538		10.1385/0896033538		fulltext		Humana Press	Monograph	1997		64		Smith	7651	
+Protein Sequencing Protocols	978-0-89603-975-9	978-1-59259-342-2							http://link.springer.com/10.1385/1592593429		10.1385/1592593429		fulltext		Humana Press	Monograph	2003		211	Second Edition	Smith	7651	
+Protein Stability and Folding	978-0-89603-301-6	978-1-59259-527-3							http://link.springer.com/10.1385/0896033015		10.1385/0896033015		fulltext		Humana Press	Monograph	1995		40		Shirley	7651	
+Protein Structure Prediction	978-0-89603-637-6	978-1-59259-368-2							http://link.springer.com/10.1385/1592593682		10.1385/1592593682		fulltext		Humana Press	Monograph	2000		143		Webster	7651	
+Protein Structure, Stability, and Folding	978-0-89603-682-6	978-1-59259-193-0							http://link.springer.com/10.1385/1592591930		10.1385/1592591930		fulltext		Humana Press	Monograph	2001		168		Murphy	7651	
+Protein Synthesis	978-0-89603-397-9	978-1-59259-563-1							http://link.springer.com/10.1385/089603397X		10.1385/089603397X		fulltext		Springer New York	Monograph	1998		77		Martin	7651	
+Protein Targeting Protocols	978-0-89603-487-7	978-1-59259-572-3							http://link.springer.com/10.1385/0896034879		10.1385/0896034879		fulltext		Humana Press	Monograph	1998		88		Clegg	7651	
+Protein and Peptide Analysis by Mass Spectrometry	978-0-89603-345-0	978-1-59259-547-1							http://link.springer.com/10.1385/0896033457		10.1385/0896033457		fulltext		Humana Press	Monograph	1996		61		Chapman	7651	
+Protein-Protein Interactions	978-1-58829-120-2	978-1-59259-762-8							http://link.springer.com/10.1385/1592597629		10.1385/1592597629		fulltext		Humana Press	Monograph	2004		261		Fu	7651	
+Proteins	978-0-89603-062-6	978-1-59259-488-7							http://link.springer.com/10.1385/0896030628		10.1385/0896030628		fulltext		Humana Press	Monograph	1984		1		Walker	7651	
+Proteoglycan Protocols	978-0-89603-759-5	978-1-59259-209-8							http://link.springer.com/10.1385/1592592090		10.1385/1592592090		fulltext		Humana Press	Monograph	2001		171		Iozzo	7651	
+Protocols for Gene Analysis	978-0-89603-258-3	978-1-59259-518-1							http://link.springer.com/10.1385/0896032582		10.1385/0896032582		fulltext		Humana Press	Monograph	1994		31		Harwood	7651	
+Protocols for Neural Cell Culture	978-0-89603-902-5	978-1-59259-207-4							http://link.springer.com/10.1385/1592592074		10.1385/1592592074		fulltext		Humana Press	Monograph	2001			Third Edition	Fedoroff		
+Protocols for Nucleic Acid Analysis by Nonradioactive Probes	978-0-89603-254-5	978-1-59259-515-0							http://link.springer.com/10.1385/089603254X		10.1385/089603254X		fulltext		Humana Press	Monograph	1994		28		Isaac	7651	
+Protocols for Oligonucleotide Conjugates	978-0-89603-252-1	978-1-59259-513-6							http://link.springer.com/10.1007/978-1-59259-513-6	Agrawal	10.1007/978-1-59259-513-6		fulltext		Humana Press	Monograph	1994		26			7651	
+Protocols for Oligonucleotides and Analogs	978-0-89603-281-1	978-1-59259-507-5							http://link.springer.com/10.1385/0896032817		10.1385/0896032817		fulltext		Humana Press	Monograph	1993		20		Agrawal	7651	
+Protocols in Human Molecular Genetics	978-0-89603-205-7	978-1-59259-496-2							http://link.springer.com/10.1385/0896032051		10.1385/0896032051		fulltext		Springer New York	Monograph	1992		9		Mathew	7651	
+Protocols in Molecular Neurobiology	978-0-89603-199-9	978-1-59259-500-6							http://link.springer.com/10.1385/0896031993		10.1385/0896031993		fulltext		Springer New York	Monograph	1992		13		Longstaff	7651	
+Protocols in Molecular Parasitology	978-0-89603-239-2	978-1-59259-508-2							http://link.springer.com/10.1385/0896032396		10.1385/0896032396		fulltext		Humana Press	Monograph	1993		21		Hyde	7651	
+Psychiatric Genetics	978-1-58829-037-3	978-1-59259-348-4							http://link.springer.com/10.1385/1592593488		10.1385/1592593488		fulltext		Humana Press	Monograph	2003		77		Leboyer	7652	
+Psychopharmacology	978-0-89603-129-6	978-1-59259-618-8							http://link.springer.com/10.1385/0896031292		10.1385/0896031292		fulltext		Humana Press	Monograph	1989		13		Boulton	7657	
+Public Health Microbiology	978-1-58829-117-2	978-1-59259-766-6							http://link.springer.com/10.1385/1592597661		10.1385/1592597661		fulltext		Humana Press	Monograph	2004		268		Spencer	7651	
+Pulsed-Field Gel Electrophoresis	978-0-89603-229-3	978-1-59259-499-3							http://link.springer.com/10.1385/0896032299		10.1385/0896032299		fulltext		Humana Press	Monograph	1992		12		Burmeister	7651	
+Quantitative PCR Protocols	978-0-89603-518-8	978-1-59259-262-3							http://link.springer.com/10.1385/0896035182		10.1385/0896035182		fulltext		Humana Press	Monograph	1999		26		Kochanowski	7652	
+Quantitative Trait Loci	978-0-89603-927-8	978-1-59259-176-3							http://link.springer.com/10.1385/1592591760		10.1385/1592591760		fulltext		Humana Press	Monograph	2002		195		Camp	7651	
+RNA Interference, Editing, and Modification	978-1-58829-242-1	978-1-59259-775-8							http://link.springer.com/10.1385/1592597750		10.1385/1592597750		fulltext		Humana Press	Monograph	2004		265		Gott	7651	
+RNA Isolation and Characterization Protocols	978-0-89603-494-5	978-1-59259-570-9							http://link.springer.com/10.1385/0896034941		10.1385/0896034941		fulltext		Humana Press	Monograph	1998		86		Rapley	7651	
+RNA-Protein Interaction Protocols	978-0-89603-568-3	978-1-59259-676-8							http://link.springer.com/10.1385/1592596762		10.1385/1592596762		fulltext		Humana Press	Monograph	1999		118		Haynes	7651	
+RT-PCR Protocols	978-0-89603-875-2	978-1-59259-283-8							http://link.springer.com/10.1385/159259283X		10.1385/159259283X		fulltext		Humana Press	Monograph	2002		193		O’Connell	7651	
+Receptor Binding	978-0-89603-078-7	978-1-59259-609-6							http://link.springer.com/10.1385/0896030784		10.1385/0896030784		fulltext		Humana Press	Monograph	1986		4		Boulton	7657	
+Receptor Binding Techniques	978-0-89603-530-0	978-1-59259-579-2							http://link.springer.com/10.1385/0896035301		10.1385/0896035301		fulltext		Springer New York	Monograph	1999		106		Keen	7651	
+Receptor Signal Transduction Protocols	978-0-89603-495-2	978-1-59259-567-9							http://link.springer.com/10.1385/089603495X		10.1385/089603495X		fulltext		Humana Press	Monograph	1997		83		Challiss	7651	
+Receptor Signal Transduction Protocols	978-1-58829-329-9	978-1-59259-754-3							http://link.springer.com/10.1385/1592597548		10.1385/1592597548		fulltext		Humana Press	Monograph	2004		259	Second Edition	Willars	7651	
+Recombinant Antibodies for Cancer Therapy	978-0-89603-918-6	978-1-59259-334-7							http://link.springer.com/10.1385/1592593348		10.1385/1592593348		fulltext		Humana Press	Monograph	2003		207		Welschof	7651	
+Recombinant Gene Expression	978-1-58829-262-9	978-1-59259-774-1							http://link.springer.com/10.1385/1592597742		10.1385/1592597742		fulltext		Humana Press	Monograph	2004		267	Second Edition	Balbás	7651	
+Recombinant Gene Expression Protocols	978-0-89603-480-8	978-1-59259-548-8							http://link.springer.com/10.1385/0896034801		10.1385/0896034801		fulltext		Humana Press	Monograph	1997		62		Tuan	7651	
+Recombinant Protein Protocols	978-0-89603-481-5	978-1-59259-549-5							http://link.springer.com/10.1385/089603481X		10.1385/089603481X		fulltext		Humana Press	Monograph	1997		63		Tuan	7651	
+Recombinant Proteins from Plants	978-0-89603-390-0	978-1-60327-260-5							http://link.springer.com/10.1007/978-1-60327-260-5		10.1007/978-1-60327-260-5		fulltext		Humana Press	Monograph	1998		3		Cunningham	7650	
+Regulatory Protein Modification	978-0-89603-415-0	978-1-59259-635-5							http://link.springer.com/10.1385/0896034151		10.1385/0896034151		fulltext		Humana Press	Monograph	1997		30		Hemmings	7657	
+Renal Cancer	978-0-89603-828-8	978-1-59259-144-2							http://link.springer.com/10.1385/1592591442		10.1385/1592591442		fulltext		Humana Press	Monograph	2001		53		Mydlo	7652	
+Renal Disease	978-1-58829-134-9	978-1-59259-392-7							http://link.springer.com/10.1385/1592593925		10.1385/1592593925		fulltext		Humana Press	Monograph	2003		86		Goligorsky	7652	
+Retinoid Protocols	978-0-89603-438-9	978-1-59259-573-0							http://link.springer.com/10.1385/0896034380		10.1385/0896034380		fulltext		Humana Press	Monograph	1998		89		Redfern	7651	
+Ribozyme Protocols	978-0-89603-389-4	978-1-59259-560-0							http://link.springer.com/10.1385/0896033899		10.1385/0896033899		fulltext		Humana Press	Monograph	1997		74		Turner	7651	
+Ribozymes and siRNA Protocols	978-1-58829-226-1	978-1-59259-746-8							http://link.springer.com/10.1385/1592597467		10.1385/1592597467		fulltext		Humana Press	Monograph	2004		252	Second Edition	Sioud	7651	
+Rotaviruses	978-0-89603-736-6	978-1-59259-078-0							http://link.springer.com/10.1385/1592590780		10.1385/1592590780		fulltext		Humana Press	Monograph	2000		34		Gray	7652	
+SV40 Protocols	978-0-89603-653-6	978-1-59259-117-6							http://link.springer.com/10.1385/1592591175		10.1385/1592591175		fulltext		Humana Press	Monograph	2001		165		Raptis	7651	
+Septic Shock Methods and Protocols	978-0-89603-730-4	978-1-59259-216-6							http://link.springer.com/10.1385/1592592163		10.1385/1592592163		fulltext		Humana Press	Monograph	2000		36		Evans	7652	
+Sequence Data Analysis Guidebook	978-0-89603-358-0	978-1-59259-556-3							http://link.springer.com/10.1385/0896033589		10.1385/0896033589		fulltext		Springer New York	Monograph	1997		70		Swindell	7651	
+Sexually Transmitted Diseases	978-0-89603-535-5	978-1-59259-212-8							http://link.springer.com/10.1385/0896035352		10.1385/0896035352		fulltext		Humana Press	Monograph	1999		20		Peeling	7652	
+Signal Transduction Protocols	978-0-89603-298-9	978-1-59259-528-0							http://link.springer.com/10.1385/0896032981		10.1385/0896032981		fulltext		Humana Press	Monograph	1995		41		Kendall	7651	
+Signal Transduction Protocols	978-1-58829-245-2	978-1-59259-816-8							http://link.springer.com/10.1385/1592598161		10.1385/1592598161		fulltext		Humana Press	Monograph	2004		284	Second Edition	Dickson	7651	
+Single Nucleotide Polymorphisms	978-0-89603-968-1	978-1-59259-327-9							http://link.springer.com/10.1385/1592593275		10.1385/1592593275		fulltext		Springer New York	Monograph	2003		212		Kwok	7651	
+Species Diagnostics Protocols	978-0-89603-323-8	978-1-59259-537-2							http://link.springer.com/10.1385/0896033236		10.1385/0896033236		fulltext		Humana Press	Monograph	1996		50		Clapp	7651	
+Spectroscopic Methods and Analyses	978-0-89603-215-6	978-1-59259-504-4							http://link.springer.com/10.1385/0896032159		10.1385/0896032159		fulltext		Humana Press	Monograph	1993		17		Jones	7651	
+Steroid Receptor Methods	978-0-89603-754-0	978-1-59259-115-2							http://link.springer.com/10.1385/1592591159		10.1385/1592591159		fulltext		Humana Press	Monograph	2001		176		Lieberman	7651	
+Stress Response	978-0-89603-611-6	978-1-59259-054-4							http://link.springer.com/10.1385/1592590543		10.1385/1592590543		fulltext		Humana Press	Monograph	2000		99		Walker	7651	
+Suicide Gene Therapy	978-0-89603-971-1	978-1-59259-429-0							http://link.springer.com/10.1385/1592594298		10.1385/1592594298		fulltext		Humana Press	Monograph	2004		90		Springer	7652	
+Superantigen Protocols	978-0-89603-984-1	978-1-59259-367-5							http://link.springer.com/10.1385/1592593674		10.1385/1592593674		fulltext		Humana Press	Monograph	2003		214		Krakauer	7651	
+Supercritical Fluid Methods and Protocols	978-0-89603-571-3	978-1-59259-030-8							http://link.springer.com/10.1385/1592590306		10.1385/1592590306		fulltext		Humana Press	Monograph	2000		13		Williams	7650	
+T Cell Protocols	978-0-89603-810-3	978-1-59259-682-9							http://link.springer.com/10.1385/1592596827		10.1385/1592596827		fulltext		Humana Press	Monograph	2000		134		Kearse	7651	
+Techniques in Cell Cycle Analysis	978-0-89603-097-8	978-1-60327-406-7							http://link.springer.com/10.1007/978-1-60327-406-7		10.1007/978-1-60327-406-7		fulltext		Humana Press	Monograph	1987				Gray		
+Telomeres and Telomerase	978-0-89603-657-4	978-1-59259-189-3							http://link.springer.com/10.1385/1592591892		10.1385/1592591892		fulltext		Humana Press	Monograph	2002		191		Double	7651	
+The Blood-Brain Barrier	978-1-58829-073-1	978-1-59259-419-1							http://link.springer.com/10.1385/1592594190		10.1385/1592594190		fulltext		Humana Press	Monograph	2003		89		Nag	7652	
+The Elisa Guidebook	978-0-89603-950-6	978-1-59259-049-0							http://link.springer.com/10.1385/1592590497	Crowther	10.1385/1592590497		fulltext		Humana Press	Monograph	2000		149			7651	
+The Neuronal Microenvironment	978-0-89603-115-9	978-1-59259-614-0							http://link.springer.com/10.1385/0896031152		10.1385/0896031152		fulltext		Humana Press	Monograph	1988		9		Boulton	7657	
+The Nucleic Acid Protocols Handbook	978-0-89603-459-4	978-1-59259-038-4							http://link.springer.com/10.1385/1592590381		10.1385/1592590381		fulltext		Humana Press	Monograph	2000				Rapley		
+The Protein Protocols Handbook	978-0-89603-338-2	978-1-60327-259-9							http://link.springer.com/10.1007/978-1-60327-259-9		10.1007/978-1-60327-259-9		fulltext		Humana Press	Monograph	1996				Walker		
+The Protein Protocols Handbook	978-0-89603-940-7	978-1-59259-169-5							http://link.springer.com/10.1385/1592591698		10.1385/1592591698		fulltext		Humana Press	Monograph	2002			Second Edition	Walker		
+Therapeutic Applications of Ribozymes	978-0-89603-477-8	978-1-59259-595-2							http://link.springer.com/10.1385/0896034771		10.1385/0896034771		fulltext		Springer New York	Monograph	1998		11		Scanlon	7652	
+Thyroid Hormone Receptors	978-0-89603-995-7	978-1-59259-174-9							http://link.springer.com/10.1385/1592591744		10.1385/1592591744		fulltext		Humana Press	Monograph	2002		202		Baniahmad	7651	
+Tissue Engineering Methods and Protocols	978-0-89603-516-4	978-1-59259-602-7							http://link.springer.com/10.1385/0896035166		10.1385/0896035166		fulltext		Humana Press	Monograph	1999		18		Morgan	7652	
+Transcription Factor Protocols	978-0-89603-573-7	978-1-59259-686-7							http://link.springer.com/10.1385/159259686X		10.1385/159259686X		fulltext		Humana Press	Monograph	2000		130		Tymms	7651	
+Transforming Growth Factor-Beta Protocols	978-0-89603-646-8	978-1-59259-053-7							http://link.springer.com/10.1385/1592590535		10.1385/1592590535		fulltext		Humana Press	Monograph	2000		142		Howe	7651	
+Transgenesis Techniques	978-0-89603-245-3	978-1-59259-505-1							http://link.springer.com/10.1385/0896032450		10.1385/0896032450		fulltext		Humana Press	Monograph	1993		18		Murphy	7651	
+Transgenesis Techniques	978-0-89603-696-3	978-1-59259-178-7							http://link.springer.com/10.1385/1592591787		10.1385/1592591787		fulltext		Springer New York	Monograph	2002		180	Second Edition	Clarke	7651	
+Transgenic Mouse	978-0-89603-915-5	978-1-59259-340-8							http://link.springer.com/10.1385/1592593402		10.1385/1592593402		fulltext		Humana Press	Monograph	2002		209		Hofker	7651	
+Transgenic Plants: Methods and Protocols	978-1-58829-263-6	978-1-59259-827-4							http://link.springer.com/10.1385/1592598277		10.1385/1592598277		fulltext		Humana Press	Monograph	2004		286		Peña	7651	
+Transgenic Xenopus	978-0-89603-457-0	978-1-59259-633-1							http://link.springer.com/10.1385/0896034577	Seidman	10.1385/0896034577		fulltext		Humana Press	Monograph	1997		28			7657	
+Transmembrane Signaling Protocols	978-0-89603-488-4	978-1-59259-568-6							http://link.springer.com/10.1385/0896034887		10.1385/0896034887		fulltext		Humana Press	Monograph	1998		84		Bar-Sagi	7651	
+Trinucleotide Repeat Protocols	978-1-58829-243-8	978-1-59259-804-5							http://link.springer.com/10.1385/1592598048		10.1385/1592598048		fulltext		Humana Press	Monograph	2004		277		Kohwi	7651	
+Tumor Marker Protocols	978-0-89603-380-1	978-1-59259-598-3							http://link.springer.com/10.1385/0896033805		10.1385/0896033805		fulltext		Springer New York	Monograph	1998		14		Hanausek	7652	
+Tumor Necrosis Factor	978-1-58829-223-0	978-1-59259-771-0							http://link.springer.com/10.1385/1592597718		10.1385/1592597718		fulltext		Humana Press	Monograph	2004		98		Corti	7652	
+Tumor Suppressor Genes	978-0-89603-986-5	978-1-59259-328-6							http://link.springer.com/10.1385/1592593283		10.1385/1592593283		fulltext		Humana Press	Monograph	2003		222		El-Deiry	7651	
+Tumor Suppressor Genes	978-0-89603-987-2	978-1-59259-329-3							http://link.springer.com/10.1385/1592593291		10.1385/1592593291		fulltext		Humana Press	Monograph	2003		223		El-Deiry	7651	
+Two-Hybrid Systems	978-0-89603-832-5	978-1-59259-210-4							http://link.springer.com/10.1385/1592592104		10.1385/1592592104		fulltext		Humana Press	Monograph	2001		177		MacDonald	7651	
+Vaccine Adjuvants	978-0-89603-735-9	978-1-59259-083-4							http://link.springer.com/10.1385/1592590837		10.1385/1592590837		fulltext		Springer New York	Monograph	2000		42		O’Hagan	7652	
+Vaccine Protocols	978-0-89603-334-4	978-1-59259-588-4							http://link.springer.com/10.1385/0896033341		10.1385/0896033341		fulltext		Humana Press	Monograph	1996		4		Robinson	7652	
+Vaccine Protocols	978-1-58829-140-0	978-1-59259-399-6							http://link.springer.com/10.1385/1592593992		10.1385/1592593992		fulltext		Humana Press	Monograph	2003		87	Second Edition	Robinson	7652	
+Vaccinia Virus and Poxvirology	978-1-58829-229-2	978-1-59259-789-5							http://link.springer.com/10.1385/1592597890		10.1385/1592597890		fulltext		Humana Press	Monograph	2004		269		Isaacs	7651	
+Vascular Disease	978-0-89603-731-1	978-1-59259-247-0							http://link.springer.com/10.1385/1592592473		10.1385/1592592473		fulltext		Humana Press	Monograph	1999		30		Baker	7652	
+Viral Vectors for Gene Therapy	978-1-58829-019-9	978-1-59259-304-0							http://link.springer.com/10.1385/1592593046		10.1385/1592593046		fulltext		Humana Press	Monograph	2003		76		Machida	7652	
+Vision Research Protocols	978-0-89603-837-0	978-1-59259-085-8							http://link.springer.com/10.1385/1592590853		10.1385/1592590853		fulltext		Humana Press	Monograph	2001		47		Rakoczy	7652	
+Voltammetric Methods in Brain Systems	978-0-89603-312-2	978-1-59259-632-4							http://link.springer.com/10.1385/0896033120		10.1385/0896033120		fulltext		Humana Press	Monograph	1995		27		Boulton	7657	
+Wound Healing	978-0-89603-999-5	978-1-59259-332-3							http://link.springer.com/10.1385/1592593321		10.1385/1592593321		fulltext		Humana Press	Monograph	2003		78		DiPietro	7652	
+YAC Protocols	978-0-89603-313-9	978-1-59259-541-9							http://link.springer.com/10.1385/0896033139		10.1385/0896033139		fulltext		Humana Press	Monograph	1996		54		Markie	7651	
+Yeast Protocols	978-0-89603-319-1	978-1-59259-540-2							http://link.springer.com/10.1385/0896033198		10.1385/0896033198		fulltext		Humana Press	Monograph	1996		53		Evans	7651	
+cDNA Library Protocols	978-0-89603-383-2	978-1-59259-555-6							http://link.springer.com/10.1385/089603383X		10.1385/089603383X		fulltext		Humana Press	Monograph	1997		69		Cowell	7651	
+mRNA Processing and Metabolism	978-1-58829-225-4	978-1-59259-750-5							http://link.springer.com/10.1385/1592597505		10.1385/1592597505		fulltext		Humana Press	Monograph	2004		257		Schoenberg	7651	
+p53 Protocols	978-1-58829-106-6	978-1-59259-408-5							http://link.springer.com/10.1385/1592594085		10.1385/1592594085		fulltext		Springer New York	Monograph	2003		234		Deb	7651	

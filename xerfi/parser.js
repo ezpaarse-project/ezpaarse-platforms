@@ -22,7 +22,7 @@ module.exports = new Parser(function analyseEC(parsedUrl, ec) {
     result.unitid = match[1];
   } else if ((match = /^\/[A-Za-z_]+\/[a-z0-9]+\/pdf\/([A-Za-z0-9-]+).pdf$/.exec(path)) !== null) {
     //Etudes_sectorielles_non_imprimablesE/secteur700doc/pdf/4DIS28-jyJAXyVY.pdf
-    result.rtype  = 'ETUDE_SECTORIELLE';
+    result.rtype  = 'REPORT';
     result.mime   = 'PDF';
     result.unitid = match[1];
   }

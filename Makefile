@@ -18,7 +18,7 @@ ifneq "$(SUPPORTS_MAKE_ARGS)" ""
 endif
 
 install: ## Install dependencies
-	cd .lib && npm install
+	cd .lib && npm install --no-save
 
 test: ## Tests every platforms. You can also select one or more. Ex: make test sd npg
 	cd .lib && EZPAARSE_PLATFORM_TO_TEST="$(COMMAND_ARGS)" npm test

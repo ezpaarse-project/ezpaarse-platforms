@@ -51,7 +51,7 @@ module.exports = new Parser(function analyseEC(parsedUrl, ec) {
       result.rtype = 'TOC';
       result.title_id = match[2];
     } else {
-      result.rtype = param.page ? 'ARTICLE_SECTION' : 'ARTICLE';
+      result.rtype = param.page ? 'PREVIEW' : 'ARTICLE';
     }
 
   }
