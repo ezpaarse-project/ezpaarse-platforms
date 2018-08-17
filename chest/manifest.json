@@ -1,0 +1,19 @@
+{
+  "version": "2018-08-09",
+  "status": "stable",
+  "domains": [
+    "journal.chestnet.org"
+  ],
+  "recognize": {
+    "rid": [
+      "pii",
+      "unitid"
+    ]
+  },
+  "name": "chest",
+  "longname": "CHEST",
+  "describe": "Recognizes the accesses to the platform CHEST",
+  "docurl": "http://ang.couperin.org/platforms/5b6ccc052c674013fabda5ec",
+  "contact": "alexander.cooper@emory.edu",
+  "pkb": false
+}

@@ -1,0 +1,6 @@
+out-pii;out-unitid;out-rtype;out-mime;in-url
+;;SEARCH;HTML;https://journal.chestnet.org:443/action/doSearchSecure?searchType=quick&searchText=brain&occurrences=all&journalCode=chest&searchScope=fullSite&code=chest-site
+S0012-3692(17)31547-7;S0012-3692(17)31547-7/fulltext;ARTICLE;HTML;https://journal.chestnet.org:443/article/S0012-3692(17)31547-7/fulltext
+;;TOC;HTML;https://journal.chestnet.org:443/current
+S0012-3692(17)X0003-2;;TOC;HTML;https://journal.chestnet.org:443/issue/S0012-3692(17)X0003-2
+;mmc1;VIDEO;MISC;https://journal.chestnet.org:443/cms/attachment/a8cf188e-8b14-429f-8800-0940c91678b8/mmc1.mp4
