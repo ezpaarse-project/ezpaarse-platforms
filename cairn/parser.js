@@ -105,7 +105,7 @@ module.exports = new Parser(function analyseEC(parsedUrl) {
     result.mime             = 'HTML';
     result.unitid           = match[1];
     result.title_id         = match[2];
-    result.print_identifier = match[3].padEnd(match[3].length >= 11 ? 13 : 10, '0');
+    result.print_identifier = padEnd(match[3], match[3].length >= 11 ? 13 : 10, '0');
 
     if (!match[4]) {
       result.rtype = 'TOC';
@@ -120,3 +120,19 @@ module.exports = new Parser(function analyseEC(parsedUrl) {
 
   return result;
 });
+
+function padEnd(str, targetLength, padString) {
+  str = str || '';
+  padString = padString || ' ';
+
+  if (str.length > targetLength) {
+    return str;
+  }
+
+  targetLength = targetLength - str.length;
+  if (targetLength > padString.length) {
+    padString += padString.repeat(targetLength / padString.length); //append to original to ensure we are longer than needed
+  }
+
+  return str + padString.slice(0, targetLength);
+}
