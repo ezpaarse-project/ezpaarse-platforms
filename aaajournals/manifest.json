@@ -1,0 +1,15 @@
+{
+  "longname": "American Accounting Association",
+  "name": "aaajournals",
+  "describe": "Recognizes the accesses to the platform American Accounting Association",
+  "contact": "Rebecca Odea, Frederic Truong inist, Steven Wilmouth",
+  "pkb": false,
+  "docurl": "http://ang.couperin.org/platforms/5aa5a07f044c343edcacdd73",
+  "domains": [
+    "aaajournals.org",
+    "aaajournals.org.ezp.lib.unimelb.edu.au",
+    "ezp.lib.unimelb.edu.au"
+  ],
+  "version": "2018-08-17",
+  "status": "beta"
+}
