@@ -25,7 +25,7 @@ module.exports = new Parser(function analyseEC(parsedUrl, ec) {
     // /doi/10.2308/acch-51736
     // /doi/abs/10.2308/accr-51762
     result.doi = `${match[2]}/${match[3]}`;
-    result.unitid = result.doi;
+    result.unitid = match[3];
     result.rtype = match[1] ? 'ABS' : 'ARTICLE';
     result.mime = 'HTML';
   } else if ((match = /^\/doi\/(pdf|full)\/(10\.[0-9]+)\/([0-9.-]+)$/i.exec(path)) !== null) {
@@ -33,7 +33,7 @@ module.exports = new Parser(function analyseEC(parsedUrl, ec) {
     // /doi/full/10.2308/1558-7991-36.1.169
     if (match[1] === 'pdf') result.title_id = match[3];
     result.doi = `${match[2]}/${match[3]}`;
-    result.unitid = `${match[2]}/${match[3]}`;
+    result.unitid = match[3];
     result.rtype = 'ARTICLE';
     result.mime = (match[1] === 'pdf') ? 'PDF' : 'HTML';
   }
