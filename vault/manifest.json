@@ -1,0 +1,24 @@
+{
+  "version": "2018-08-08",
+  "status": "beta",
+  "domains": [
+    "access.vault.com",
+    "guides.vault.com",
+    "jobs.vault.com",
+    "www.vault.com",
+    "careerinsider.vault.com"
+  ],
+  "recognize": {
+    "rid": [
+      "unitid",
+      "title_id",
+      "print_identifier"
+    ]
+  },
+  "name": "vault",
+  "longname": "Vault Campus Edition",
+  "describe": "Recognizes the accesses to the platform Vault Campus Edition",
+  "docurl": "http://ang.couperin.org/platforms/5b6b1e3460779d48981fb298",
+  "contact": "alexander.cooper@emory.edu",
+  "pkb": false
+}
