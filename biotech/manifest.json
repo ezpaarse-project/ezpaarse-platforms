@@ -1,0 +1,24 @@
+{
+  "version": "2018-08-10",
+  "status": "beta",
+  "domains": [
+    "www.biotechniques.com",
+    "www.future-science.com",
+    "forums.biotechniques.com",
+    "www.futuremedicine.com"
+  ],
+  "recognize": {
+    "rid": [
+      "doi",
+      "unitid",
+      "vol",
+      "issue"
+    ]
+  },
+  "name": "biotech",
+  "longname": "BioTechniques",
+  "describe": "Recognizes the accesses to the platform BioTechniques",
+  "docurl": "http://ang.couperin.org/platforms/5b6dc24f773bf96d1707011b",
+  "contact": "alexander.cooper@emory.edu",
+  "pkb": false
+}
