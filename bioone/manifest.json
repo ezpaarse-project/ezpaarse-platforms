@@ -6,7 +6,7 @@
   "longname": "BioOne",
   "publisher_name" : "BioOne",
   "describe": "Identifie les consultations de BioOne",
-  "docurl": "http://analogist.couperin.org/platforms/bioone/",
+  "docurl": "http://analogist.couperin.org/platforms/5408d40cb2ed56041af30ec2",
   "contact": "sylvie.franck at inist point fr",
 	"domains": [
     "www.bioone.org"

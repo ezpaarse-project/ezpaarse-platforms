@@ -6,7 +6,7 @@
   "longname": "EDP Sciences",
   "publisher_name" : "Éditions EDK/Groupe EDP Sciences",
   "describe": "Identifie les consultations du site EDP Sciences",
-  "docurl": "http://analogist.couperin.org/platforms/edp/",
+  "docurl": "http://analogist.couperin.org/platforms/5409b60b9adb5bdebc2d2c20",
   "contact": "yannick.schurter at inist.fr",
   "pkb": true,
   "pkb-domains": "title_id",
