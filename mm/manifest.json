@@ -1,0 +1,21 @@
+{
+  "version": "2018-06-18",
+  "status": "beta",
+  "domains": [
+    "www.ministrymatters.com",
+    "ministrymatters.com"
+  ],
+  "recognize": {
+    "rid": [
+      "title_id",
+      "unitid",
+      "print_identifier"
+    ]
+  },
+  "name": "mm",
+  "longname": "Ministry Matters",
+  "describe": "Recognizes the accesses to the platform Ministry Matters",
+  "docurl": "http://ang.couperin.org/platforms/5b282fa9a0e1172f5edcbaf8",
+  "contact": "alexander.cooper@emory.edu",
+  "pkb": false
+}
