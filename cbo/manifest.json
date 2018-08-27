@@ -6,7 +6,7 @@
   "longname": "Cambridge Books Online",
   "publisher_name" : "Cambridge university press",
   "describe": "Identifie les consultations de Cambridge Books Online",
-  "docurl": "http://analogist.couperin.org/platforms/cambridge-books-online/start",
+  "docurl": "http://analogist.couperin.org/platforms/53ba8e24af4a721191cf0e4c",
   "contact": "yannick.schurter at inist point fr",
   "pkb": true,
 	"domains": [

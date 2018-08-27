@@ -6,7 +6,7 @@
   "longname": "AOUA",
   "describe": "Identifie les consultations de l'archive ouverte de l'Université d'Angers",
   "publisher_name": "Archive de l'université d'Angers",
-  "docurl": "http://analogist.couperin.org/platforms/aoua/",
+  "docurl": "http://analogist.couperin.org/platforms/5408d1fe0a4707271d8b739d",
   "contact": "dominique.lechaudel at inist point fr",
 	"domains": [
     "ao.univ-angers.fr"
