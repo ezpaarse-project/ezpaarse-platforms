@@ -20,7 +20,7 @@
   "name": "zbmath",
   "longname": "ZentralBlatt",
   "describe": "Identifie les consultations de la plateforme ZentralBlatt",
-  "docurl": "http://ang.couperin.org/platforms/5672d20f689d834f37c1b037",
+  "docurl": "http://analyses.ezpaarse.org/platforms/5672d20f689d834f37c1b037",
   "contact": "olivier.labbe@univ-grenoble-alpes.fr",
   "pkb": false
 }

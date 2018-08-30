@@ -6,7 +6,7 @@
 
 /**
  * parser for acs platform
- * http://analogist.couperin.org/platforms/acs/
+ * http://analyses.ezpaarse.org/platforms/acs/
  */
 'use strict';
 var Parser = require('../.lib/parser.js');

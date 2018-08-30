@@ -16,7 +16,7 @@
   "name": "oecd",
   "longname": "OECD iLibrary",
   "describe": "Recognizes the accesses to the platform OECD iLibrary",
-  "docurl": "http://ang.couperin.org/platforms/54aa7088fbe62210fb37e946",
+  "docurl": "http://analyses.ezpaarse.org/platforms/54aa7088fbe62210fb37e946",
   "contact": "thomas.porquet@couperin.org",
   "pkb": false
 }

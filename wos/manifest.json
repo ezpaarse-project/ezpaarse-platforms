@@ -16,7 +16,7 @@
   "name": "wos",
   "longname": "Web of Science",
   "describe": "Recognizes the accesses to the platform Web of Science",
-  "docurl": "http://ang.couperin.org/platforms/5878908edb308a343cf604c6",
+  "docurl": "http://analyses.ezpaarse.org/platforms/5878908edb308a343cf604c6",
   "contact": "abderrazzak.loukili@inist.fr",
   "pkb": false
 }

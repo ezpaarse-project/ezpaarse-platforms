@@ -2,7 +2,7 @@
 
 /**
  * parser for www.annualreviews.org platform
- * http://analogist.couperin.org/platforms/annualreviews/
+ * http://analyses.ezpaarse.org/platforms/annualreviews/
  */
 'use strict';
 const Parser = require('../.lib/parser.js');

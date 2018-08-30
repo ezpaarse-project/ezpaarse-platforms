@@ -5,7 +5,7 @@
 
 /**
  * parser for persée platform
- * http://analogist.couperin.org/platforms/persee/
+ * http://analyses.ezpaarse.org/platforms/persee/
  */
 'use strict';
 var Parser = require('../.lib/parser.js');

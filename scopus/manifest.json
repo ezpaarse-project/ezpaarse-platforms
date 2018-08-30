@@ -12,7 +12,7 @@
   "name": "scopus",
   "longname": "Scopus",
   "describe": "Recognizes the accesses to the platform Scopus",
-  "docurl": "http://ang.couperin.org/platforms/54118eed4892f3207f4d0aa6",
+  "docurl": "http://analyses.ezpaarse.org/platforms/54118eed4892f3207f4d0aa6",
   "contact": "thomas.porquet@couperin.org",
   "pkb": false
 }
