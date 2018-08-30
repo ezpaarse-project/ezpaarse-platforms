@@ -1,6 +1,6 @@
 {
   "name": "oeb",
-  "version": "2014-06-26",
+  "version": "2018-02-08",
   "status": "stable",
   "trello": "https://trello.com/c/kGArTPZL",
   "longname": "OpenEdition Books",
@@ -11,19 +11,5 @@
   "pkb": true,
 	"domains": [
     "books.openedition.org"
-	],
-  "recognize": {
-    "rid": [
-      "title_id",
-      "unitid"
-    ],
-    "rtype": [
-      "BOOK"
-    ],
-    "mime": [
-      "HTML",
-      "PDF",
-      "EPUB"
-    ]
-  }
+	]
 }

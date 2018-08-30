@@ -1,0 +1,27 @@
+{
+  "version": "2017-11-10",
+  "status": "active",
+  "domains": [
+    "www.acphospitalist.org",
+    "www.acpinternist.org",
+    "www.acpjc.org",
+    "www.acponline.org",
+    "www.annals.org",
+    "www.acphospitalist.org",
+    "www.acpinternist.org",
+    "advocacyblog.acponline.org",
+    "annals.org"
+  ],
+  "recognize": {
+    "rid": [
+      "title_id"
+    ]
+  },
+  "name": "acp",
+  "longname": "American College of Physicians",
+  "describe": "Recognizes the accesses to the platform American College of Physicians",
+  "trello": "https://trello.com/c/9eiBNUZ9/437-american-college-of-physicians-acp",
+  "docurl": "http://ang.couperin.org/platforms/5a05d766bc742b9a745c4475",
+  "contact": "alexander.cooper@emory.edu",
+  "pkb": false
+}

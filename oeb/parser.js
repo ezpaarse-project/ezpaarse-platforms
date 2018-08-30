@@ -1,39 +1,51 @@
 #!/usr/bin/env node
+'use strict';
 
-// ##EZPAARSE
-
-/*jslint maxlen: 180*/
+const Parser = require('../.lib/parser.js');
+const doiPrefix = '10.4000';
 
 /**
- * parser for oeb platform
- * http://analogist.couperin.org/platforms/oeb/
+ * Recognizes the accesses to the platform OpenEdition Journals
+ * @param  {Object} parsedUrl an object representing the URL to analyze
+ *                            main attributes: pathname, query, hostname
+ * @param  {Object} ec        an object representing the EC whose URL is being analyzed
+ * @return {Object} the result
  */
-'use strict';
-var Parser = require('../.lib/parser.js');
+module.exports = new Parser(function analyseEC(parsedUrl, ec) {
+  const result   = {};
+  const path     = parsedUrl.pathname;
+  const param    = parsedUrl.query || {};
+  const fileSize = parseInt(ec.size, 10);
+  let match;
 
-module.exports = new Parser(function analyseEC(parsedUrl) {
-  var result = {};
-  var path   = parsedUrl.pathname;
-  var match;
-
-  if ((match = /^\/([a-z]+\/[0-9]+)$/.exec(path)) !== null) {
-    // http://books.openedition.org/cdf/3599
-    result.title_id = match[1]; //only the title_id used for ABS is in the KBart file
-    result.unitid   = match[1];
-    // result.rtype    = 'ABS' || 'ARTICLE';
-    result.mime     = 'HTML';
-  } else if ((match = /^\/([a-z]+)\/pdf\/([0-9]+)$/.exec(path)) !== null) {
-    // http://books.openedition.org/editionsmsh/pdf/327
-    result.title_id = match[1] + '/' + match[2]; //only the title_id used for BOOK is in the KBart file
-    result.unitid   = result.title_id;
-    // result.rtype    = 'BOOK' || 'BOOK_SECTION;
-    result.mime     = 'PDF';
-  } else if ((match = /^\/([a-z]+)\/epub\/([0-9]+)$/.exec(path)) !== null) {
-    // http://books.openedition.org/editionsmsh/epub/278
-    result.title_id = match[1] + '/' + match[2];
-    result.unitid   = result.title_id;
-    result.rtype    = 'BOOK';
-    result.mime     = 'EPUB';
+  // URLs with "format=..." are just partial pages
+  if (param.format) {
+    return result;
   }
+
+  if ((match = /^\/([a-z-]+)\/(epub|pdf)\/([0-9]+)$/i.exec(path)) !== null) {
+    // http://books.openedition.org/pum/epub/6903
+
+    result.mime     = match[2].toUpperCase();
+    result.title_id = match[1];
+    result.unitid   = `${match[1]}/${match[3]}`;
+    result.doi      = `${doiPrefix}/books.${match[1]}.${match[3]}`;
+
+    // if the size is greater than 1mo, we assume it's a full book
+    result.rtype = (!fileSize || fileSize > 1000000) ? 'BOOK' : 'BOOK_SECTION';
+
+  } else if ((match = /^\/(([a-z-]+)\/([0-9]+))$/i.exec(path)) !== null) {
+    // http://books.openedition.org/pum/6903
+
+    // if the size is less than 10ko, it's unlikely to be an article
+    if (!fileSize || fileSize > 10000) {
+      result.rtype    = 'BOOK_SECTION';
+      result.mime     = 'HTML';
+      result.title_id = match[2];
+      result.unitid   = match[1];
+      result.doi      = `${doiPrefix}/books.${match[2]}.${match[3]}`;
+    }
+  }
+
   return result;
 });

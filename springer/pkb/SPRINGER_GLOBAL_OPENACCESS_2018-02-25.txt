@@ -1,0 +1,586 @@
+publication_title	print_identifier	online_identifier	date_first_issue_online	num_first_vol_online	num_first_issue_online	date_last_issue_online	num_last_vol_online	num_last_issue_online	title_url	first_author	title_id	embargo_info	coverage_depth	notes	publisher_name	publication_type	date_monograph_published_print	date_monograph_published_online	monograph_volume	monograph_edition	first_editor	parent_publication_title_id	preceding_publication_title_id	access_type
+3 Biotech		2190-5738	2011	1					https://link.springer.com/journal/13205		13205		fulltext	Open Access		serial								F
+3D-Printed Materials and Systems		2363-8389							https://printedmaterialssystems.springeropen.com/		printedmaterialssystems		fulltext	Open Access Content not yet available		serial								F
+AIDS Research and Therapy		1742-6405	2004	1	1				https://link.springer.com/journal/12981		12981		fulltext	Open Access		serial								F
+AMB Express		2191-0855	2011	1					https://link.springer.com/journal/13568		13568		fulltext	Open Access		serial								F
+Acta Geophysica	1895-6572	1895-7455	2006	54		2014	62	6	https://link.springer.com/journal/11600		11600		fulltext	transfer out(2014): Walter de Gruyter		serial								F
+Acta Neuropathologica Communications		2051-5960	2013	1	1				https://link.springer.com/journal/40478		40478		fulltext	Open Access		serial								F
+Acta Veterinaria Scandinavica	0044-605X	1751-0147	2001	42	1				https://link.springer.com/journal/13028		13028		fulltext	Open Access		serial								F
+Addiction Science & Clinical Practice	1940-0632	1940-0640	2012	7	1				https://link.springer.com/journal/13722		13722		fulltext	Open Access		serial								F
+Advanced Modeling and Simulation in Engineering Sciences		2213-7467	2014	1	1				https://link.springer.com/journal/40323		40323		fulltext	Open Access		serial								F
+Advanced Structural and Chemical Imaging		2198-0926	2015	1					https://link.springer.com/journal/40679		40679		fulltext	Open Access		serial								F
+Advances in Difference Equations		1687-1847	2011						https://link.springer.com/journal/13662		13662		fulltext	Open Access		serial								F
+Advances in Simulation		2059-0628	2016	1	1				https://link.springer.com/journal/41077		41077		fulltext	Open Access		serial								F
+Agricultural and Food Economics		2193-7532	2013	1	1				https://link.springer.com/journal/40100		40100		fulltext	Open Access		serial								F
+Agriculture & Food Security		2048-7010	2012	1	1				https://link.springer.com/journal/40066		40066		fulltext	Open Access		serial								F
+Algorithms for Molecular Biology		1748-7188	2006	1	1				https://link.springer.com/journal/13015		13015		fulltext	Open Access		serial								F
+Allergy, Asthma & Clinical Immunology		1710-1492	2004	1	1				https://link.springer.com/journal/13223		13223		fulltext	Open Access		serial								F
+Alzheimer's Research & Therapy		1758-9193	2015	1	1				https://link.springer.com/journal/13195		13195		fulltext	Open Access		serial								F
+Animal Biotelemetry		2050-3385	2013	1	1				https://link.springer.com/journal/40317		40317		fulltext	Open Access		serial								F
+Annals of Clinical Microbiology and Antimicrobials		1476-0711	2002	1	1				https://link.springer.com/journal/12941		12941		fulltext	Open Access		serial								F
+Annals of General Psychiatry		1744-859X	2002	1	1				https://link.springer.com/journal/12991		12991		fulltext	Open Access		serial								F
+Annals of Intensive Care		2110-5820	2011	1	1				https://link.springer.com/journal/13613		13613		fulltext	Open Access		serial								F
+Annals of Occupational and Environmental Medicine		2052-4374	2013	25	1				https://link.springer.com/journal/40557		40557		fulltext	Open Access		serial								F
+Annals of Surgical Innovation and Research		1750-1164	2007	1	1				https://link.springer.com/journal/13022		13022		fulltext	transfer out (2017): (The Editorial team will continue the journal )		serial								F
+Antimicrobial Resistance and Infection Control		2047-2994	2012	1	1				https://link.springer.com/journal/13756		13756		fulltext	Open Access		serial								F
+Applied Adhesion Science		2196-4351	2013	1	1				https://link.springer.com/journal/40563		40563		fulltext	Open Access		serial								F
+Applied Cancer Research	1980-5578		2016	36	3				http://www.springer.com/medicine/oncology/journal/41241		41241		fulltext	Transfer in(2017): Biomed Central		serial								F
+Applied Informatics		2196-0089	2014	1	1				https://link.springer.com/journal/40535		40535		fulltext	Chinese Library of Science. Open Access		serial								F
+Applied Nanoscience		2190-5517	2011	1					https://link.springer.com/journal/13204		13204		fulltext	Open Access		serial								F
+Applied Network Science		2364-8228	2015	1					https://appliednetsci.springeropen.com/		appliednetsci		fulltext	open access		serial								F
+Applied Petrochemical Research	2190-5525	2190-5533	2011	1					https://link.springer.com/journal/13203		13203		fulltext	Open Access		serial								F
+Applied Water Science		2190-5495	2011	1					https://link.springer.com/journal/13201		13201		fulltext	Open Access		serial								F
+Aquatic Biosystems		2046-9063	2005	1	1	2015	11		https://link.springer.com/journal/12999		12999		fulltext	ceased 2016.Available in electronic format only. Open Access; BioMed Central		serial								F
+Arabian Journal of Mathematics	2193-5343	2193-5351	2012	1	1				https://link.springer.com/journal/40065		40065		fulltext	Open Access		serial								F
+Archives of Public Health	0778-7367	2049-3258	2011	68	4				https://link.springer.com/journal/13690		13690		fulltext	Open Access		serial								F
+Arthritis Research & Therapy	1478-6354	1478-6362	1999	1	1				https://link.springer.com/journal/13075		13075		fulltext	Open Access		serial								F
+Asia Pacific Family Medicine	1444-1683	1447-056X	2008	7	1				https://link.springer.com/journal/12930		12930		fulltext	Open Access		serial								F
+Asia Pacific Journal on Computational Engineering		2196-1166	2014	1	1				https://link.springer.com/journal/40540		40540		fulltext	Open Access		serial								F
+Asia-Pacific Science Education		2364-1177	2015	1	1				https://link.springer.com/journal/41029		41029		fulltext	New (2015). Open Access		serial								F
+Asian Journal of Gambling Issues and Public Health		2195-3007	2010	1	1				https://link.springer.com/journal/40405		40405		fulltext	Open Access		serial								F
+Asian Journal of German and European Studies		2199-4579	2016	1	1				https://link.springer.com/journal/40856		40856		fulltext	New (2016). Open Access		serial								F
+Asian-Pacific Journal of Second and Foreign Language Education		2363-5169	2016						https://link.springer.com/journal/40862		40862		fulltext	New (2015). Open Access		serial								F
+Asthma Research and Practice		2054-7064	2015	1	1				https://link.springer.com/journal/volumesAndIssues/40733		40733		fulltext	New (2015). Open Access		serial								F
+Australia and New Zealand Health Policy		1743-8462	2004	1	1	2010	7	1	http://www.springer.com/public+health/journal/12988		12988		fulltext	open access		serial								F
+Autoimmunity Highlights	2038-0305	2038-3274	2010	1	1				https://link.springer.com/journal/13317		13317		fulltext	Open Access		serial								F
+Avian Research		2053-7166	2014	5	1				https://link.springer.com/journal/40657		40657		fulltext	Transfer in (2014): Beijing Forestry University. Open Access		serial								F
+BMC Anesthesiology		1471-2253	2001	1	1				https://link.springer.com/journal/12871		12871		fulltext	Open Access		serial								F
+BMC Biochemistry		1471-2091	2000	1	1				https://link.springer.com/journal/12858		12858		fulltext	Open Access		serial								F
+BMC Bioinformatics		1471-2105	2000	1	1				https://link.springer.com/journal/12859		12859		fulltext	Open Access		serial								F
+BMC Biology		1741-7007	2003	1	1				https://link.springer.com/journal/12915		12915		fulltext	Open Access		serial								F
+BMC Biophysics		2046-1682	2011	4	1				https://link.springer.com/journal/13628		13628		fulltext	Open Access		serial								F
+BMC Biotechnology		1472-6750	2001	1	1				https://link.springer.com/journal/12896		12896		fulltext	Open Access		serial								F
+BMC Cancer		1471-2407	2001	1	1				https://link.springer.com/journal/12885		12885		fulltext	Open Access		serial								F
+BMC Cardiovascular Disorders		1471-2261	2001	1	1				https://link.springer.com/journal/12872		12872		fulltext	Open Access		serial								F
+BMC Cell Biology		1471-2121	2000	1	1				https://link.springer.com/journal/12860		12860		fulltext	Open Access		serial								F
+BMC Clinical Pathology		1472-6890	2001	1	1				https://link.springer.com/journal/12907		12907		fulltext	Open Access		serial								F
+BMC Complementary and Alternative Medicine		1472-6882	2001	1	1				https://link.springer.com/journal/12906		12906		fulltext	Open Access		serial								F
+BMC Dermatology		1471-5945	2001	1	1				https://link.springer.com/journal/12895		12895		fulltext	Open Access		serial								F
+BMC Developmental Biology		1471-213X	2001	1	1				https://link.springer.com/journal/12861		12861		fulltext	Open Access		serial								F
+BMC Ear, Nose and Throat Disorders		1472-6815	2001	1	1				https://link.springer.com/journal/12901		12901		fulltext	Open Access		serial								F
+BMC Ecology		1472-6785	2001	1	1				https://link.springer.com/journal/12898		12898		fulltext	Open Access		serial								F
+BMC Emergency Medicine		1471-227X	2001	1	1				https://link.springer.com/journal/12873		12873		fulltext	Open Access		serial								F
+BMC Endocrine Disorders		1472-6823	2001	1	1				https://link.springer.com/journal/12902		12902		fulltext	Open Access		serial								F
+BMC Evolutionary Biology		1471-2148	2001	1	1				https://link.springer.com/journal/12862		12862		fulltext	Open Access		serial								F
+BMC Family Practice		1471-2296	2000	1	1				https://link.springer.com/journal/12875		12875		fulltext	Open Access		serial								F
+BMC Gastroenterology		1471-230X	2001	1	1				https://link.springer.com/journal/12876		12876		fulltext	Open Access		serial								F
+BMC Genetics		1471-2156	2000	1	1				https://link.springer.com/journal/12863		12863		fulltext	Open Access		serial								F
+BMC Genomics		1471-2164	2000	1	1				https://link.springer.com/journal/12864		12864		fulltext	Open Access		serial								F
+BMC Geriatrics		1471-2318	2001	1	1				https://link.springer.com/journal/12877		12877		fulltext	Open Access		serial								F
+BMC Health Services Research		1472-6963	2001	1	1				https://link.springer.com/journal/12913		12913		fulltext	Open Access		serial								F
+BMC Hematology		2052-1839	2013	13	1				https://link.springer.com/journal/12878		12878		fulltext	Open Access. Previously:BMC Blood Disorders (2001-2012)		serial								F
+BMC Immunology		1471-2172	2000	1	1				https://link.springer.com/journal/12865		12865		fulltext	Open Access		serial								F
+BMC Infectious Diseases		1471-2334	2001	1	1				https://link.springer.com/journal/12879		12879		fulltext	Open Access		serial								F
+BMC International Health and Human Rights		1472-698X	2001	1	1				https://link.springer.com/journal/12914		12914		fulltext	Open Access		serial								F
+BMC Medical Education		1472-6920	2001	1	1				https://link.springer.com/journal/12909		12909		fulltext	Open Access		serial								F
+BMC Medical Ethics		1472-6939	2000	1	1				https://link.springer.com/journal/12910		12910		fulltext	Open Access		serial								F
+BMC Medical Genetics		1471-2350	2000	1	1				https://link.springer.com/journal/12881		12881		fulltext	Open Access		serial								F
+BMC Medical Genomics		1755-8794	2008	1	1				https://link.springer.com/journal/12920		12920		fulltext	Open Access		serial								F
+BMC Medical Imaging		1471-2342	2001	1	1				https://link.springer.com/journal/12880		12880		fulltext	Open Access		serial								F
+BMC Medical Informatics and Decision Making		1472-6947	2001	1	1				https://link.springer.com/journal/12911		12911		fulltext	Open Access		serial								F
+BMC Medical Physics		1756-6649	2001	1	1	2014	14		https://link.springer.com/journal/12921		12921		fulltext	Ceased: 2014		serial								F
+BMC Medical Research Methodology		1471-2288	2001	1	1				https://link.springer.com/journal/12874		12874		fulltext	Open Access		serial								F
+BMC Medicine		1741-7015	2003	1	1				https://link.springer.com/journal/12916		12916		fulltext	Open Access		serial								F
+BMC Microbiology		1471-2180	2001	1	1				https://link.springer.com/journal/12866		12866		fulltext	Open Access		serial								F
+BMC Molecular Biology		1471-2199	2000	1	1				https://link.springer.com/journal/12867		12867		fulltext	Open Access		serial								F
+BMC Musculoskeletal Disorders		1471-2474	2000	1	1				https://link.springer.com/journal/12891		12891		fulltext	Open Access		serial								F
+BMC Nephrology		1471-2369	2000	1	1				https://link.springer.com/journal/12882		12882		fulltext	Open Access		serial								F
+BMC Neurology		1471-2377	2001	1	1				https://link.springer.com/journal/12883		12883		fulltext	Open Access		serial								F
+BMC Neuroscience		1471-2202	2000	1	1				https://link.springer.com/journal/12868		12868		fulltext	Open Access		serial								F
+BMC Nursing		1472-6955	2002	1	1				https://link.springer.com/journal/12912		12912		fulltext	Open Access		serial								F
+BMC Nutrition		2055-0928	2015	1	1				https://link.springer.com/journal/40795		40795		fulltext	new (2015). Open Access		serial								F
+BMC Obesity		2052-9538	2014	1	1				https://link.springer.com/journal/40608		40608		fulltext	new (2014). Open Access		serial								F
+BMC Ophthalmology		1471-2415	2001	1	1				https://link.springer.com/journal/12886		12886		fulltext	Open Access		serial								F
+BMC Oral Health		1472-6831	2001	1	1				https://link.springer.com/journal/12903		12903		fulltext	Open Access		serial								F
+BMC Palliative Care		1472-684X	2002	1	1				https://link.springer.com/journal/12904		12904		fulltext	Open Access		serial								F
+BMC Pediatrics		1471-2431	2001	1	1				https://link.springer.com/journal/12887		12887		fulltext	Open Access		serial								F
+BMC Pharmacology and Toxicology		2050-6511	2012	13	1				https://link.springer.com/journal/40360		40360		fulltext	Open Access		serial								F
+BMC Physiology		1472-6793	2001	1	1				https://link.springer.com/journal/12899		12899		fulltext	Open Access		serial								F
+BMC Plant Biology		1471-2229	2001	1	1				https://link.springer.com/journal/12870		12870		fulltext	Open Access		serial								F
+BMC Pregnancy and Childbirth		1471-2393	2001	1	1				https://link.springer.com/journal/12884		12884		fulltext	Open Access		serial								F
+BMC Proceedings		1753-6561	2011	5	1				https://link.springer.com/journal/12919		12919		fulltext	Open Access		serial								F
+BMC Psychiatry		1471-244X	2001	1	1				https://link.springer.com/journal/12888		12888		fulltext	Open Access		serial								F
+BMC Psychology		2050-7283	2013	1	1				https://link.springer.com/journal/40359		40359		fulltext	Open Access		serial								F
+BMC Public Health		1471-2458	2001	1	1				https://link.springer.com/journal/12889		12889		fulltext	Open Access		serial								F
+BMC Pulmonary Medicine		1471-2466	2001	1	1				https://link.springer.com/journal/12890		12890		fulltext	Open Access		serial								F
+BMC Research Notes		1756-0500	2008	1	1				https://link.springer.com/journal/13104		13104		fulltext	Open Access		serial								F
+BMC Sports Science, Medicine and Rehabilitation		2052-1847	2013	5	1				https://link.springer.com/journal/13102		13102		fulltext	Previously: Sports Medicine, Arthroscopy, Rehabilitation, Therapy & Technology (2009-2012). Open Access		serial								F
+BMC Structural Biology		1472-6807	2001	1	1				https://link.springer.com/journal/12900		12900		fulltext	Open Access		serial								F
+BMC Surgery		1471-2482	2001	1	1				https://link.springer.com/journal/12893		12893		fulltext	Open Access		serial								F
+BMC Systems Biology		1752-0509	2007	1	1				https://link.springer.com/journal/12918		12918		fulltext	Open Access		serial								F
+BMC Urology		1471-2490	2001	1	1				https://link.springer.com/journal/12894		12894		fulltext	Open Access		serial								F
+BMC Veterinary Research		1746-6148	2005	1	1				https://link.springer.com/journal/12917		12917		fulltext	Open Access		serial								F
+BMC Women's Health		1472-6874	2001	1	1				https://link.springer.com/journal/12905		12905		fulltext	Open Access		serial								F
+Bandung: Journal of the Global South		2198-3534	2015						https://link.springer.com/journal/40728		40728		fulltext	New (2014). Open Access		serial								F
+Basic and Clinical Andrology		2051-4190	2013	1	1				https://link.springer.com/journal/12610		12610		fulltext	Open Access		serial								F
+Behavioral and Brain Functions		1744-9081	2005	1	1				https://link.springer.com/journal/12993		12993		fulltext	Open Access		serial								F
+BioData Mining		1756-0381	2008	1	1				https://link.springer.com/journal/13040		13040		fulltext	Open Access		serial								F
+BioMedical Engineering OnLine		1475-925X	2002	1	1				https://link.springer.com/journal/12938		12938		fulltext	Open Access		serial								F
+BioPsychoSocial Medicine		1751-0759	2007	1	1				https://link.springer.com/journal/13030		13030		fulltext	Open Access		serial								F
+Biointerphases	1934-8630	1559-4106	2006	1		2013	8		https://link.springer.com/journal/13758		13758		fulltext	Transfer out (2014): American Institute of Physics		serial								F
+Biological Procedures Online		1480-9222	1998	1	1				https://link.springer.com/journal/12575		12575		fulltext	Open Access		serial								F
+Biological Research	0716-9760	0717-6287	2014	47	1				https://link.springer.com/journal/40659		40659		fulltext	Transfer in (2014): Sociedad de Biología de Chile. Open Access		serial								F
+Biologics in Therapy		2190-9164	2011	1		2015	5		https://link.springer.com/journal/13354		13354		fulltext	ceased 2016.Available in electronic format only. Open Access; Springer Open		serial								F
+Biology Direct		1745-6150	2006	1	1				https://link.springer.com/journal/13062		13062		fulltext	Open Access		serial								F
+Biology of Mood & Anxiety Disorders		2045-5380	2011	1	1	2015	5		https://link.springer.com/journal/13587		13587		fulltext	ceased 2016.Available in electronic format only. Open Access; BioMed Central		serial								F
+Biology of Sex Differences		2042-6410	2010	1	1				https://link.springer.com/journal/13293		13293		fulltext	Open Access		serial								F
+Biomarker Research		2050-7771	2013	1	1				https://link.springer.com/journal/40364		40364		fulltext	Open Access		serial								F
+Biomaterials Research	1226-4601	2055-7124	2014	1	1				https://link.springer.com/journal/40824		40824		fulltext	transfer in (2014): Korean Society for Biomaterials Research. Open Access		serial								F
+Bioresources and Bioprocessing		2197-4365	2014	1	1				https://link.springer.com/journal/40643		40643		fulltext	New (2014). Chinese Library of Science. Open Access		serial								F
+Biotechnology for Biofuels		1754-6834	2008	1	1				https://link.springer.com/journal/13068		13068		fulltext	Open Access		serial								F
+Borderline Personality Disorder and Emotion Dysregulation		2051-6673	2014	1	1				https://link.springer.com/journal/40479		40479		fulltext	new (2014). Open Access		serial								F
+Botanical Studies	1817-406X	1999-3110	2013	54	1				https://link.springer.com/journal/40529		40529		fulltext	Open Access		serial								F
+Boundary Value Problems		1687-2770	2011	2011					https://link.springer.com/journal/13661		13661		fulltext	Open Access		serial								F
+Brain Informatics	2198-4018	2198-4026	2014	1	1				https://link.springer.com/journal/40708		40708		fulltext	new (2014). Open Access		serial								F
+Brazilian Journal of Science and Technology		2196-288X	2014						https://link.springer.com/journal/40552		40552		fulltext	new (2014). Open Access		serial								F
+Breast Cancer Research	1465-5411	1465-542X	2015	1	1				https://link.springer.com/journal/13058		13058		fulltext	Open Access		serial								F
+Bulletin of Mathematical Sciences		1664-3615	2011	1					https://link.springer.com/journal/13373		13373		fulltext	Open Access		serial								F
+Business Research		2198-2627	2008	1	1				https://link.springer.com/journal/40685		40685		fulltext	Transfer in (2014): Verband der Hochschullehrer für Betriebswirtschaft e.V. Open Access		serial								F
+COPD Research and Practice		2054-9040	2015	1	1				https://link.springer.com/journal/40749		40749		fulltext	new (2015). Open Access		serial								F
+Canadian Journal of Kidney Health and Disease		2054-3581	2014	1	1	2016	3	1	https://link.springer.com/journal/40697		40697		fulltext	Transfer out( ): Sage. New start in 2014. Available in electronic format only. Open Access.		serial								F
+Cancer & Metabolism		2049-3002	2013	1	1				https://link.springer.com/journal/40170		40170		fulltext	Open Access		serial								F
+Cancer Cell International		1475-2867	2001	1	1				https://link.springer.com/journal/12935		12935		fulltext	Open Access		serial								F
+Cancer Imaging	1740-5025	1470-7330	2014	14	1				https://link.springer.com/journal/40644		40644		fulltext	transfer in (2014): E-Med Ltd. Open Access		serial								F
+Cancer Nanotechnology	1868-6958	1868-6966	2010	1	1				https://link.springer.com/journal/12645		12645		fulltext	Open Access		serial								F
+Canine Genetics and Epidemiology		2052-6687	2014	1	1				https://link.springer.com/journal/40575		40575		fulltext	new (2014). Open Access		serial								F
+Carbon Balance and Management		1750-0680	2006	1	1				https://link.springer.com/journal/13021		13021		fulltext	Open Access		serial								F
+Cardiology and Therapy	2193-8261	2193-6544	2012	1	1				https://link.springer.com/journal/40119		40119		fulltext	Open Access		serial								F
+Cardiovascular Diabetology		1475-2840	2002	1	1				https://link.springer.com/journal/12933		12933		fulltext	Open Access		serial								F
+Cardiovascular Ultrasound		1476-7120	2003	1	1				https://link.springer.com/journal/12947		12947		fulltext	Open Access		serial								F
+Cases Journal		1757-1626	2008	1	1	2010	3	1	https://link.springer.com/journal/13257		13257		fulltext	open access		serial								F
+Cell & Bioscience		2045-3701	2011	1	1				https://link.springer.com/journal/13578		13578		fulltext	Open Access		serial								F
+Cell Communication and Signaling		1478-811X	2003	1	1				https://link.springer.com/journal/12964		12964		fulltext	Open Access		serial								F
+Cell Division		1747-1028	2006	1	1				https://link.springer.com/journal/13008		13008		fulltext	Open Access		serial								F
+Cell Regeneration		2045-9769	2012	1	1	2016	5	1	https://link.springer.com/journal/13619		13619		fulltext	Open Access. Transfer out (2017): Elsevier		serial								F
+Cellular & Molecular Biology Letters	1425-8153	1689-1392	2006	11					https://link.springer.com/journal/11658		11658		fulltext	transfer in(2017): Walter de Gruyter		serial								F
+Central European Journal of Biology	1895-104X	1644-3632	2006	1		2014	9	12	https://link.springer.com/journal/11535		11535		fulltext	transfer out(2015): Walter De Gruyter		serial								F
+Central European Journal of Chemistry	1895-1066	1644-3624	2003	1		2014	12	12	https://link.springer.com/journal/11532		11532		fulltext	transfer out(2015): Walter de Gruyter open access		serial								F
+Central European Journal of Mathematics	1895-1074	1644-3616	2003	1		2014	12	12	https://link.springer.com/journal/11533		11533		fulltext	transfer out(2015): Walter de Gruyter		serial								F
+Central European Journal of Medicine	1895-1058	1644-3640	2006	1		2014			https://link.springer.com/journal/11536		11536		fulltext	transfer out(2015): Walter de Gruyter Open Access		serial								F
+Cerebellum & Ataxias		2053-8871	2014	1	1				https://link.springer.com/journal/40673		40673		fulltext	new (2014). Open Access		serial								F
+Chemical Papers	0366-6352	1336-9075	2006	60		2014	68	12	https://link.springer.com/journal/11696		11696		fulltext	transfer out (2015): Walter de Gruyter open access		serial								F
+Chemical and Biological Technologies in Agriculture		2196-5641	2014	1	1				https://link.springer.com/journal/40538		40538		fulltext	new (2014). Open Access		serial								F
+Chemistry Central Journal		1752-153X	2007	1					https://link.springer.com/journal/13065		13065		fulltext	merge (2016): Organic and Medicinal Chemistry Letters. open access		serial								F
+Child and Adolescent Psychiatry and Mental Health		1753-2000	2007	1	1				https://link.springer.com/journal/13034		13034		fulltext	Open Access		serial								F
+China Finance and Economic Review		2196-5633	2013	1	1				https://link.springer.com/journal/40589		40589		fulltext	Open Access		serial								F
+China Journal of Economic Research		2199-4722							https://cjer-journal.springeropen.com/		cjer-journal		fulltext	Open Access. Content not yet available		serial								F
+Chinese Journal of Cancer		1944-446X	2015	34	1				https://link.springer.com/journal/40880		40880		fulltext	transfer in (2015): Sun Yat-sen University Cancer Center. Open Access		serial								F
+Chinese Medicine		1749-8546	2006	1	1				https://link.springer.com/journal/13020		13020		fulltext	Open Access		serial								F
+Chiropractic & Manual Therapies		2045-709X	2005	13	1				https://link.springer.com/journal/12998		12998		fulltext	Open Access		serial								F
+Cilia		2046-2530	2012	1	1				https://link.springer.com/journal/13630		13630		fulltext	Open Access		serial								F
+City, Territory and Architecture		2195-2701	2014	1	1				https://link.springer.com/journal/40410		40410		fulltext	new (2014). Open Access		serial								F
+Climate Change Responses		2053-7565	2014	1	1				https://link.springer.com/journal/40665		40665		fulltext	new (2014). Open Access		serial								F
+Clinical Diabetes and Endocrinology		2055-8260	2015						https://link.springer.com/journal/40842		40842		fulltext	new (2015). Open Access		serial								F
+Clinical Epigenetics	1868-7075	1868-7083	2010	1	1				https://link.springer.com/journal/13148		13148		fulltext	Open Access		serial								F
+Clinical Hypertension		2056-5909	2014	20	1				https://link.springer.com/journal/40885		40885		fulltext	transfer in (2014): The Korean Society of Hypertension. Open Access		serial								F
+Clinical Phytoscience		2199-1197	2015	1					https://link.springer.com/journal/40816		40816		fulltext	Open Access		serial								F
+Clinical Practice and Epidemiology in Mental Health		1745-0179	2005	1	1	2009	5	1	https://link.springer.com/journal/volumesAndIssues/12994		12994		fulltext	open access		serial								F
+Clinical Proteomics	1542-6416	1559-0275	2004	1	1				https://link.springer.com/journal/12014		12014		fulltext	Open Access		serial								F
+Clinical Sarcoma Research		2045-3329	2011	1	1				https://link.springer.com/journal/13569		13569		fulltext	Open Access		serial								F
+Clinical and Molecular Allergy		1476-7961	2003	1	1				https://link.springer.com/journal/12948		12948		fulltext	Open Access		serial								F
+Clinical and Translational Allergy		2045-7022	2011	1	1				https://link.springer.com/journal/13601		13601		fulltext	Open Access		serial								F
+Clinical and Translational Medicine		2001-1326	2012	1	1				https://link.springer.com/journal/40169		40169		fulltext	Open Access		serial								F
+Coaching | Theorie & Praxis		2364-5148	2015	1	1				https://link.springer.com/journal/40896		40896		fulltext	new (2015). Open Access		serial								F
+Combination Products in Therapy		2190-9180	2011	1					https://link.springer.com/journal/13556		13556		fulltext	Open Access		serial								F
+Communications in Mobile Computing		2192-1121	2012	1					https://link.springer.com/journal/13678		13678		fulltext	Open Access		serial								F
+Comparative Migration Studies		2214-594X	2013	1	1				https://link.springer.com/journal/40878		40878		fulltext	transfer in (2015): Amsterdam University Press. Open Access		serial								F
+Complex & Intelligent Systems	2199-4536	2198-6053	2015	1	3				https://link.springer.com/journal/40747		40747		fulltext	Open Access		serial								F
+Complex Adaptive Systems Modeling		2194-3206	2013	1	1				https://casmodeling.springeropen.com|http://casmodeling.springeropen.com/		casmodeling		fulltext	Open Access		serial								F
+Complex Analysis and its Synergies		2197-120X	2015	1					https://link.springer.com/journal/40627		40627		fulltext	New (2014). Open Access		serial								F
+Computational Astrophysics and Cosmology		2197-7909	2014	1	1				https://link.springer.com/journal/40668		40668		fulltext	New (2014). Open Access		serial								F
+Computational Cognitive Science		2195-3961	2015	1	1				https://link.springer.com/journal/40469		40469		fulltext	New (2013). Open Access		serial								F
+Computational Social Networks		2197-4314	2014	1	1				https://link.springer.com/journal/40649		40649		fulltext	New (2014). Open Access		serial								F
+Conflict and Health		1752-1505	2007	1	1				https://link.springer.com/journal/13031		13031		fulltext	Open Access		serial								F
+Contraception and Reproductive Medicine		2055-7426	2016	1	1				https://link.springer.com/journal/40834		40834		fulltext	new (2015). Open Access		serial								F
+Cost Effectiveness and Resource Allocation		1478-7547	2003	1	1				https://link.springer.com/journal/12962		12962		fulltext	Open Access		serial								F
+Cough		1745-9974	2005	1	1	2014	10	7	https://link.springer.com/journal/12997		12997		fulltext	Ceased: 2014 Open Access		serial								F
+Crime Science		2193-7680	2012	1	1				https://link.springer.com/journal/40163		40163		fulltext	Open Access		serial								F
+Critical Care	1364-8535	1466-609X	2006	3	1	2015	12	1	https://link.springer.com/journal/13054		13054		fulltext	ceased 2016.Open Access		serial								F
+Critical Ultrasound Journal	2036-3176	2036-7902	2009	1	1				https://link.springer.com/journal/13089		13089		fulltext	Open Access		serial								F
+DARU Journal of Pharmaceutical Sciences	1560-8115	2008-2231	2012	20	1				https://link.springer.com/journal/40199		40199		fulltext	Open Access		serial								F
+Data Science and Engineering	2364-1185	2364-1541	2016	1	1				https://link.springer.com/journal/41019		41019		fulltext	Open Access. New for 2016		serial								F
+Decision Analytics		2193-8636	2014	1	1				https://link.springer.com/journal/40165		40165		fulltext	New (2014). Open Access		serial								F
+Dermatology and Therapy		2190-9172	2011	1					https://link.springer.com/journal/13555		13555		fulltext	Open Access		serial								F
+Diabetes Therapy		1869-6961	2010	1					https://link.springer.com/journal/13300		13300		fulltext	Open Access		serial								F
+Diabetology & Metabolic Syndrome		1758-5996	2009	1	1				https://link.springer.com/journal/13098		13098		fulltext	Open Access		serial								F
+Diagnostic Pathology		1746-1596	2006	1	1				https://link.springer.com/journal/13000		13000		fulltext	Open Access		serial								F
+Diagnostic and Prognostic Research		2397-7523	2017	1					http://www.springer.com/medicine/journal/41512		41512		fulltext	New for(2017) Open access		serial								F
+Disaster and Military Medicine		2054-314X	2015	1	1				https://link.springer.com/journal/40696		40696		fulltext	new (2015). Open Access		serial								F
+Drug Safety - Case Reports	2199-1162	2198-977X	2014	1	1				https://link.springer.com/journal/40800		40800		fulltext	Open Access		serial								F
+Drugs - Real World Outcomes	2199-1154	2198-9788	2014	1	1				https://link.springer.com/journal/40801		40801		fulltext	Open Access		serial								F
+Drugs in R&D	1174-5886	1179-6901	1999	1	1				https://link.springer.com/journal/40268		40268		fulltext	Open Access		serial								F
+EJNMMI Physics		2197-7364	2014	1	1				https://link.springer.com/journal/40658		40658		fulltext	New (2014). Open Access		serial								F
+EJNMMI Research		2191-219X	2011	1					https://link.springer.com/journal/13550		13550		fulltext	Open Access		serial								F
+EPJ Data Science		2193-1127	2012	1	1				https://link.springer.com/journal/13688		13688		fulltext	Open Access		serial								F
+EPJ Nonlinear Biomedical Physics		2195-0008	2013	1	1				https://link.springer.com/journal/40366		40366		fulltext	Open Access		serial								F
+EPJ Quantum Technology		2196-0763	2004	1	1				https://link.springer.com/journal/40507		40507		fulltext	New (2014). Open Access		serial								F
+EPJ Techniques and Instrumentation		2195-7045	2004	1	1				https://link.springer.com/journal/40485		40485		fulltext	New (2014). Open Access		serial								F
+EURASIP Journal on Advances in Signal Processing		1687-6180	2011	2011					https://link.springer.com/journal/13634		13634		fulltext	Open Access		serial								F
+EURASIP Journal on Audio, Speech, and Music Processing		1687-4722	2011	2011					https://link.springer.com/journal/13636		13636		fulltext	Open Access		serial								F
+EURASIP Journal on Bioinformatics and Systems Biology	1687-4145	1687-4153	2011	2011					https://link.springer.com/journal/13637		13637		fulltext	Open Access		serial								F
+EURASIP Journal on Embedded Systems		1687-3963	2011	2011					https://link.springer.com/journal/13639		13639		fulltext	Open Access		serial								F
+EURASIP Journal on Image and Video Processing	1687-5176	1687-5281	2011	2011					https://link.springer.com/journal/13640		13640		fulltext	Open Access		serial								F
+EURASIP Journal on Information Security		1687-417X	2011	2011					https://link.springer.com/journal/13635		13635		fulltext	Open Access		serial								F
+EURASIP Journal on Wireless Communications and Networking		1687-1499	2011	2011					https://link.springer.com/journal/13638		13638		fulltext	Open Access		serial								F
+EUROPEAN Transport Research Review		1866-8887	2009	1					https://link.springer.com/journal/12544		12544		fulltext	Open Access		serial								F
+Earth Perspectives		2194-6434	2014	1	1				https://link.springer.com/journal/40322		40322		fulltext	New (2014). Open Access		serial								F
+Earth, Planets and Space		1880-5981	1998	50	1				https://link.springer.com/journal/40623		40623		fulltext	Transfer in (2014): TERRAPUB. Open Access		serial								F
+Earthquake Science	1674-4519	1867-8777	2009	22	3				https://link.springer.com/journal/11589		11589		fulltext	previously:Acta Seismologica Sinica.Open Access; Seismological Society of China, co-published with Springer.Chinese Library of Science		serial								F
+Ecological Processes		2192-1709	2012	1					https://link.springer.com/journal/13717		13717		fulltext	Open Access		serial								F
+Emerging Themes in Epidemiology		1742-7622	2004	1	1				https://link.springer.com/journal/12982		12982		fulltext	Open Access		serial								F
+Empirical Research in Vocational Education and Training		1877-6345	2013	5	1				https://link.springer.com/journal/40461		40461		fulltext	Open Access		serial								F
+Energy, Sustainability and Society		2192-0567	2011	1					https://link.springer.com/journal/13705		13705		fulltext	Open Access		serial								F
+Environmental Evidence		2047-2382	2012	1	1				https://link.springer.com/journal/13750		13750		fulltext	Open Access		serial								F
+Environmental Health		1476-069X	2002	1	1				https://link.springer.com/journal/12940		12940		fulltext	Open Access		serial								F
+Environmental Sciences Europe		2190-4715	2011	23					https://link.springer.com/journal/12302		12302		fulltext	pre 2011 is only selected articles OA		serial								F
+Environmental Systems Research		2193-2697	2012	1	1				https://link.springer.com/journal/40068		40068		fulltext	Open Access		serial								F
+Epigenetics & Chromatin		1756-8935	2008	1	1				https://link.springer.com/journal/13072		13072		fulltext	Open Access		serial								F
+European Journal of Futures Research	2195-4194	2195-2248	2013	1	1				https://link.springer.com/journal/40309		40309		fulltext	Open Access		serial								F
+European Journal of Medical Research	0949-2321	2047-783X	2012	17	1				https://link.springer.com/journal/40001		40001		fulltext	Open Access		serial								F
+European Review of Aging and Physical Activity	1813-7253	1861-6909	2006	3	1				https://link.springer.com/journal/11556		11556		fulltext	Open Access		serial								F
+European View	1781-6858	1865-5831	2007	6	1	2017	16	1	https://link.springer.com/journal/12290		12290		fulltext	Open Access from 2015. Transfer out (2018): Sage		serial								F
+EvoDevo		2041-9139	2010	1	1				https://link.springer.com/journal/13227		13227		fulltext	Open Access		serial								F
+Evolution: Education and Outreach	1936-6426	1936-6434	2008	1	1				https://link.springer.com/journal/12052		12052		fulltext	Open Access		serial								F
+ExRNA	2398-0060								http://www.springer.com/life+sciences/animal+sciences/journal/41544		41544		fulltext	content not yet available New for(2017) open access		serial								F
+Experimental & Translational Stroke Medicine		2040-7378	2009	1	1	2016	8		https://link.springer.com/journal/13231		13231		fulltext	ceased (2016): Available in electronic format only. Open Access; BioMed Central		serial								F
+Experimental Hematology & Oncology		2162-3619	2012	1	1				https://link.springer.com/journal/40164		40164		fulltext	Open Access		serial								F
+Extreme Physiology & Medicine		2046-7648	2012	1	1				https://link.springer.com/journal/13728		13728		fulltext	Open Access		serial								F
+Eye and Vision		2326-0254	2014	1	1				https://link.springer.com/journal/40662		40662		fulltext	New (2014). Open Access		serial								F
+Fashion and Textiles		2198-0802	2014	1	1				https://link.springer.com/journal/40691		40691		fulltext	New (2014). Open Access		serial								F
+Fertility Research and Practice		2054-7099	2015	1	1				https://link.springer.com/journal/40738		40738		fulltext	Open Access		serial								F
+Fibrogenesis & Tissue Repair		1755-1536	2008	1	1	2016	9		https://link.springer.com/journal/13069		13069		fulltext	Open Access		serial								F
+Fields Mathematics Education Journal		1925-6639	2015	3					https://fieldsmathed.springeropen.com/		fieldsmathed		fulltext	Open Access. transfer in (2015): Fields Institute for Research in Mathematical Sciences		serial								F
+Financial Innovation		2199-4730	2015	1	1				https://link.springer.com/journal/40854		40854		fulltext	New (2015). Open Access		serial								F
+Fire Science Reviews		2193-0414	2012	1	1				https://link.springer.com/journal/40038		40038		fulltext	Open Access		serial								F
+Fisheries and Aquatic Sciences	2234-1749		2016	19	1				http://www.springer.com/life+sciences/animal+sciences/journal/41240		41240		fulltext	open access		serial								F
+Fixed Point Theory and Applications		1687-1812	2011	2011					https://link.springer.com/journal/13663		13663		fulltext	Open Access		serial								F
+Flavour		2044-7248	2012	1	1				https://link.springer.com/journal/13411		13411		fulltext	Open Access		serial								F
+Fluids and Barriers of the CNS		2045-8118	2004	1	1				https://link.springer.com/journal/12987		12987		fulltext	Open Access		serial								F
+Forest Ecosystems		2197-5620	2014	1	1				https://link.springer.com/journal/40663		40663		fulltext	New (2014). Open Access		serial								F
+Fractional Calculus and Applied Analysis	1311-0454	1314-2224	2011	14		2014	17	4	https://link.springer.com/journal/13540		13540		fulltext	transfer out(2015): Walter de Gruyter open access		serial								F
+Friction		2223-7704	2013	1	1				https://link.springer.com/journal/40544		40544		fulltext	Chinese Library of Science. Open Access		serial								F
+Frontiers in Zoology		1742-9994	2004	1	1				https://link.springer.com/journal/12983		12983		fulltext	Open Access		serial								F
+Functional Linguistics		2196-419X	2014	1	1				https://link.springer.com/journal/40554		40554		fulltext	New (2014). Open Access		serial								F
+Fungal Biology and Biotechnology		2054-3085	2014	1	1				https://link.springer.com/journal/40694		40694		fulltext	New (2014). Open Access		serial								F
+Future Cities and Environment		2363-9075	2015	1	1				https://link.springer.com/journal/40984		40984		fulltext	New (2015). Open Access		serial								F
+Fuzzy Information and Engineering	1616-8658	1616-8666	2009	1		2013	5		https://link.springer.com/journal/12543		12543		fulltext	ceases publication upon completion of volume 5 (2013) open access		serial								F
+Genes and Environment	1880-7046	1880-7062	2015	37	1				https://link.springer.com/journal/41021		41021		fulltext	Transfer out (2015): Japanese Environmental Mutagen Society. Open Access		serial								F
+Genetics Selection Evolution	0999-193X	1297-9686	1969	1	1				https://link.springer.com/journal/12711		12711		fulltext	Open Access		serial								F
+Genome Biology	1474-7596	1474-760X	2000	1	1				https://link.springer.com/journal/13059		13059		fulltext	Open Access		serial								F
+Genome Integrity		2041-9414	2010	1	1				https://link.springer.com/journal/13220		13220		fulltext	ceased (2014)		serial								F
+Genome Medicine		1756-994X	2009	1	1				https://link.springer.com/journal/13073		13073		fulltext	Open Access		serial								F
+Geochemical Transactions		1467-4866	2000	1					https://link.springer.com/journal/12932		12932		fulltext	Open Access		serial								F
+Geoenvironmental Disasters		2197-8670	2014	1	1				https://geoenvironmental-disasters.springeropen.com		geoenvironmental-disasters		fulltext	New (2014). Open Access		serial								F
+Geoscience Letters		2196-4092	2014	1	1				https://link.springer.com/journal/40562		40562		fulltext	New (2014). Open Access		serial								F
+Geothermal Energy		2195-9706	2013	1	1				https://link.springer.com/journal/40517		40517		fulltext	Open Access		serial								F
+Globalization and Health		1744-8603	2005	1	1				https://link.springer.com/journal/12992		12992		fulltext	Open Access		serial								F
+Gold Bulletin	1027-8591	2190-7579	1997	30					https://link.springer.com/journal/13404		13404		fulltext	Open access from 97-2015.No longer Open Access. Print and electronic subscription available as of 2016		serial								F
+Gut Pathogens		1757-4749	2009	1	1				https://link.springer.com/journal/13099		13099		fulltext	Open Access		serial								F
+Gynecologic Oncology Research and Practice		2053-6844	2014	1	1				https://link.springer.com/journal/40661		40661		fulltext	New (2014). Open Access		serial								F
+Harm Reduction Journal		1477-7517	2004	1	1				https://link.springer.com/journal/12954		12954		fulltext	Open Access		serial								F
+Head & Face Medicine		1746-160X	2005	1	1				https://link.springer.com/journal/13005		13005		fulltext	Open Access		serial								F
+Health & Justice		2194-7899	2013	1	1				https://link.springer.com/journal/40352		40352		fulltext	Open Access		serial								F
+Health Economics Review		2191-1991	2011	1					https://link.springer.com/journal/13561		13561		fulltext	Open Access		serial								F
+Health Information Science and Systems		2047-2501	2013	1	1				https://link.springer.com/journal/13755		13755		fulltext	Open Access		serial								F
+Health Research Policy and Systems		1478-4505	2003	1	1				https://link.springer.com/journal/12961		12961		fulltext	Open Access		serial								F
+Health and Quality of Life Outcomes		1477-7525	2003	1	1				https://link.springer.com/journal/12955		12955		fulltext	Open Access		serial								F
+Helminthologia	0440-6605	1336-9083	2006	43		2014	51	4	https://link.springer.com/journal/11687		11687		fulltext	transfer out(2015): Walter de Gruyter		serial								F
+Hereditary Cancer in Clinical Practice	1731-2302	1897-4287	2010	8	1				https://link.springer.com/journal/13053		13053		fulltext	Open Access		serial								F
+Hereditas		1601-5223	2015	152	1				https://link.springer.com/journal/41065		41065		fulltext	transfer in (2016): Wiley open access		serial								F
+Heritage Science		2050-7445	2013	1	1				https://link.springer.com/journal/40494		40494		fulltext	Open Access		serial								F
+Herpesviridae		2042-4280	2010	1	1				https://link.springer.com/journal/13276		13276		fulltext	ceased (2014)		serial								F
+Human Genomics	1473-9542	1479-7364	2012	6	1				https://link.springer.com/journal/40246		40246		fulltext	Open Access		serial								F
+Human Resources for Health		1478-4491	2003	1	1				https://link.springer.com/journal/12960		12960		fulltext	Open Access		serial								F
+Human-Centric Computing and Information Sciences		2192-1962	2011	1					https://hcis-journal.springeropen.com/		hcis-journal		fulltext	Open Access		serial								F
+IZA Journal of European Labor Studies		2193-9012	2012	1	1				https://link.springer.com/journal/40174		40174		fulltext	Open Access		serial								F
+IZA Journal of Labor & Development		2193-9020	2012	1	1				https://link.springer.com/journal/40175		40175		fulltext	Open Access		serial								F
+IZA Journal of Labor Economics		2193-8997	2012	1	1				https://link.springer.com/journal/40172		40172		fulltext	Open Access		serial								F
+IZA Journal of Labor Policy		2193-9004	2012	1	1				https://link.springer.com/journal/40173		40173		fulltext	Open Access		serial								F
+IZA Journal of Migration		2193-9039	2012	1	1				https://link.springer.com/journal/40176		40176		fulltext	Open Access		serial								F
+Immunity & Ageing		1742-4933	2004	1	1				https://link.springer.com/journal/12979		12979		fulltext	Open Access		serial								F
+Implementation Science		1748-5908	2006	1	1				https://link.springer.com/journal/13012		13012		fulltext	Open Access		serial								F
+In Silico Cell and Tissue Science		2196-050X	2014	1		2016	3		https://in-silico-cell-and-tissue-science.springeropen.com/		in-silico-cell-and-tissue-science		fulltext	Ceased (2016). New Start in 2014. Available in electronic format only. Open Access.		serial								F
+In Silico Pharmacology		2193-9616	2013	1	1				https://link.springer.com/journal/40203		40203		fulltext	Open Access		serial								F
+Infectious Agents and Cancer		1750-9378	2006	1	1				https://link.springer.com/journal/13027		13027		fulltext	Open Access		serial								F
+Infectious Diseases and Therapy	2193-8229	2193-6382	2012	1	1				https://link.springer.com/journal/40121		40121		fulltext	Open Access		serial								F
+Infectious Diseases of Poverty		2049-9957	2012	1	1				https://link.springer.com/journal/40249		40249		fulltext	Open Access		serial								F
+Inflammation and Regeneration	1880-9693		2016	36	1				http://www.springer.com/biomed/immunology/journal/41232		41232		fulltext	open access		serial								F
+Infrastructure Complexity		2196-3258	2014	1	1				https://link.springer.com/journal/40551		40551		fulltext	New (2014). Open Access		serial								F
+Injury Epidemiology		2197-1714	2014	1	1				https://link.springer.com/journal/40621		40621		fulltext	New (2014). Open Access		serial								F
+Insights into Imaging		1869-4101	2010	1					https://link.springer.com/journal/13244		13244		fulltext	Open Access		serial								F
+Integrating Materials and Manufacturing Innovation	2193-9764	2193-9772	2012	1	1				https://link.springer.com/journal/40192		40192		fulltext	no longer OA as 2017. Available in electronic format only. Open Access; Springer Open		serial								F
+Intensive Care Medicine Experimental		2197-425X	2013	1	1				https://link.springer.com/journal/40635		40635		fulltext	Open Access		serial								F
+International Aquatic Research		2008-6970	2012						https://link.springer.com/journal/40071		40071		fulltext	Open Access		serial								F
+International Archives of Medicine		1755-7682	2008	1	1				https://link.springer.com/journal/13038		13038		fulltext	transfer out (2014): iMedPub.		serial								F
+International Breastfeeding Journal		1746-4358	2006	1	1				https://link.springer.com/journal/13006		13006		fulltext	Open Access		serial								F
+International Journal for Educational Integrity		1833-2595	2015	11	1				https://link.springer.com/journal/40979		40979		fulltext	transfer in (2015): Asia Pacific Forum on Educational Integrity. Open Access		serial								F
+International Journal for Equity in Health		1475-9276	2002	1	1				https://link.springer.com/journal/12939		12939		fulltext	Open Access		serial								F
+International Journal of Advanced Structural Engineering		2008-6695	2012						https://link.springer.com/journal/40091		40091		fulltext	Open Access		serial								F
+International Journal of Behavioral Nutrition and Physical Activity		1479-5868	2004	1	1				https://link.springer.com/journal/12966		12966		fulltext	Open Access		serial								F
+International Journal of Bipolar Disorders		2194-7511	2013	1	1				https://link.springer.com/journal/40345		40345		fulltext	Open Access		serial								F
+International Journal of Child Care and Education Policy		2288-6729	2007	1	1				https://ijccep.springeropen.com/		ijccep		fulltext	transfer in (2014): Korea Institute of Child Care and Education. Open Access		serial								F
+International Journal of Coal Science & Technology	2095-8293	2198-7823	2014	1	1				https://link.springer.com/journal/40789		40789		fulltext	Chinese Library of Science. Open Access		serial								F
+International Journal of Concrete Structures and Materials	1976-0485	2234-1315	2012	6	1				https://link.springer.com/journal/40069		40069		fulltext	Open Access		serial								F
+International Journal of Dharma Studies		2196-8802	2013	1	1				https://link.springer.com/journal/40613		40613		fulltext	Open Access		serial								F
+International Journal of Disaster Risk Science	2095-0055	2192-6395	2010	1					https://link.springer.com/journal/13753		13753		fulltext	Open Access		serial								F
+International Journal of Emergency Medicine	1865-1372	1865-1380	2008	1					https://link.springer.com/journal/12245		12245		fulltext	Open Access		serial								F
+International Journal of Energy and Environmental Engineering	2008-9163		2011						https://link.springer.com/journal/40095		40095		fulltext	Open Access		serial								F
+International Journal of Food Contamination		2196-2804	2014	1	1				https://link.springer.com/journal/40550		40550		fulltext	new (2014). Open Access		serial								F
+International Journal of Geo-Engineering		2198-2783	2015	6	1				https://link.springer.com/journal/40703		40703		fulltext	transfer in (2014): Korean Geotechnical Society. Open Access		serial								F
+International Journal of Health Geographics		1476-072X	2002	1	1				https://link.springer.com/journal/12942		12942		fulltext	Open Access		serial								F
+International Journal of Implant Dentistry		2198-4034	2015	1	1				https://journalimplantdent.springeropen.com/		journalimplantdent		fulltext	Open Access		serial								F
+International Journal of Industrial Chemistry		2228-5547	2012						https://link.springer.com/journal/40090		40090		fulltext	Open Access		serial								F
+International Journal of Mechanical and Materials Engineering		2198-2791	2014	9	1				https://link.springer.com/journal/40712		40712		fulltext	transfer in (2014): University of Malaya. Open Access		serial								F
+International Journal of Mental Health Systems		1752-4458	2007	1	1				https://link.springer.com/journal/13033		13033		fulltext	Open Access		serial								F
+International Journal of Pediatric Endocrinology	1687-9848	1687-9856	2011		1				https://link.springer.com/journal/13633		13633		fulltext	Open Access		serial								F
+International Journal of Quality Innovation		2363-7021	2015	1	1				https://link.springer.com/journal/40887		40887		fulltext	Open Access		serial								F
+International Journal of Recycling of Organic Waste in Agriculture		2251-7715	2012	1					https://link.springer.com/journal/40093		40093		fulltext	Open Access		serial								F
+International Journal of Retina and Vitreous		2056-9920	2015	1	1				https://link.springer.com/journal/40942		40942		fulltext	new (2015). Open Access		serial								F
+International Journal of STEM Education		2196-7822	2014	1	1				https://link.springer.com/journal/40594		40594		fulltext	new (2014). Open Access		serial								F
+International Nano Letters		2228-5326	2012						https://link.springer.com/journal/40089		40089		fulltext	Open Access		serial								F
+Investigative Genetics		2041-2223	2010	1	1	2016	7		https://link.springer.com/journal/13323		13323		fulltext	Ceased (2016), Available in electronic format only. Open Access; BioMed Central		serial								F
+Irish Veterinary Journal		2046-0481	2011	64	1				https://link.springer.com/journal/13620		13620		fulltext	Open Access		serial								F
+Israel Journal of Health Policy Research		2045-4015	2012	1	1				https://link.springer.com/journal/13584		13584		fulltext	Open Access		serial								F
+Italian Journal of Pediatrics	1720-8482	1824-7288	2008	34	1				https://link.springer.com/journal/13052		13052		fulltext	Open Access		serial								F
+Journal for Immunotherapy of Cancer		2051-1426	2013	1	1				https://link.springer.com/journal/40425		40425		fulltext	Open Access		serial								F
+Journal of Advanced Ceramics	2226-4108	2227-8508	2012	1	1				https://link.springer.com/journal/40145		40145		fulltext	Chinese Library of Science. Open Access		serial								F
+Journal of Analytical Science and Technology		2093-3371	2013	4	1				https://link.springer.com/journal/40543		40543		fulltext	Open Access		serial								F
+Journal of Animal Science and Biotechnology		2049-1891	2012	3	1				https://link.springer.com/journal/40104		40104		fulltext	Open Access		serial								F
+Journal of Animal Science and Technology		2055-0391	2014	56	1				https://link.springer.com/journal/40781		40781		fulltext	transfer in (2014): Korean Society of Animal Science and Technology. Open Access		serial								F
+Journal of Applied Volcanology		2191-5040	2011	1					https://link.springer.com/journal/13617		13617		fulltext	Open Access		serial								F
+Journal of Autoimmune Diseases		1740-2557	2004	1		2009	6		https://link.springer.com/journal/12972		12972		fulltext	open access		serial								F
+Journal of Big Data		2196-1115	2015	2	1				https://journalofbigdata.springeropen.com/		journalofbigdata		fulltext	Open Access		serial								F
+Journal of Biological Engineering		1754-1611	2007	1	1				https://link.springer.com/journal/13036		13036		fulltext	Open Access		serial								F
+Journal of Biological Research-Thessaloniki		2241-5793	2014	21	1				https://link.springer.com/journal/40709		40709		fulltext	New (2014). Open Access		serial								F
+Journal of Biomedical Science	1021-7770	1423-0127	1993	1	1				https://link.springer.com/journal/12929		12929		fulltext	Open Access		serial								F
+Journal of Biomedical Semantics		2041-1480	2010	1	1				https://link.springer.com/journal/13326		13326		fulltext	Open Access		serial								F
+Journal of Brachial Plexus and Peripheral Nerve Injury		1749-7221	2006	1	1	2014			https://link.springer.com/journal/13016		13016		fulltext	transfer out (2014): Thieme		serial								F
+Journal of Cachexia, Sarcopenia and Muscle	2190-5991	2190-6009	2010	1		2014	5	4	https://link.springer.com/journal/13539		13539		fulltext	transfer out (2016): Wiley. Open access		serial								F
+Journal of Cardiothoracic Surgery		1749-8090	2006	1	1				https://link.springer.com/journal/13019		13019		fulltext	Open Access		serial								F
+Journal of Cardiovascular Magnetic Resonance	1097-6647	1532-429X	2008	10	1				https://link.springer.com/journal/12968		12968		fulltext	Open Access		serial								F
+Journal of Cheminformatics		1758-2946	2009	1					https://link.springer.com/journal/13321		13321		fulltext	Open Access		serial								F
+Journal of Children's Orthopaedics	1863-2521	1863-2548	2007	1	1				https://link.springer.com/journal/11832		11832		fulltext	Open Access		serial								F
+Journal of Chinese Management		2195-9897	2014	1	1				https://link.springer.com/journal/40527		40527		fulltext	Open Access		serial								F
+Journal of Chinese Studies		2199-868X	2016	1	1				https://link.springer.com/journal/40853		40853		fulltext	new (2015). Open Access		serial								F
+Journal of Circadian Rhythms		1740-3391	2003	1	1				https://link.springer.com/journal/12973		12973		fulltext	transfer out (2014): Ubiquity Press		serial								F
+Journal of Clinical Bioinformatics		2043-9113	2011	1	1	2015	5		https://link.springer.com/journal/13336		13336		fulltext	ceased 2016.Available in electronic format only. Open Access; BioMed Central		serial								F
+Journal of Clinical Movement Disorders		2054-7072	2014	1	1	2016	3	1	https://link.springer.com/journal/40734		40734		fulltext	New (2014). Open Access		serial								F
+Journal of Cloud Computing		2192-113X	2011	1					https://journalofcloudcomputing.springeropen.com/		journalofcloudcomputing		fulltext	Open Access		serial								F
+Journal of Compassionate Health Care	2053-2393		2014	1	1				https://link.springer.com/journal/40639		40639		fulltext	New (2014). Open Access		serial								F
+Journal of Computational Surgery		2194-3990	2014	1	1				https://link.springer.com/journal/40244		40244		fulltext	New (2014). Open Access		serial								F
+Journal of Diabetes & Metabolic Disorders		2251-6581	2012	11	1				https://link.springer.com/journal/40200		40200		fulltext	Open Access		serial								F
+Journal of Eating Disorders		2050-2974	2013	1	1				https://link.springer.com/journal/40337		40337		fulltext	Open Access		serial								F
+Journal of Economic Structures		2193-2409	2012						https://link.springer.com/journal/40008		40008		fulltext	Open Access		serial								F
+Journal of Environmental Health Science and Engineering		2052-336X	2012	9	1				https://link.springer.com/journal/40201		40201		fulltext	Open Access		serial								F
+Journal of Ethnobiology and Ethnomedicine		1746-4269	2005	1	1				https://link.springer.com/journal/13002		13002		fulltext	Open Access		serial								F
+Journal of Experimental & Clinical Cancer Research		1756-9966	2008	27	1				https://link.springer.com/journal/13046		13046		fulltext	Open Access		serial								F
+Journal of Experimental Orthopaedics		2197-1153	2014	1	1				https://jeo-esska.springeropen.com/		jeo-esska		fulltext	New (2014). Open Access		serial								F
+Journal of Foot and Ankle Research		1757-1146	2008	1	1				https://link.springer.com/journal/13047		13047		fulltext	Open Access		serial								F
+Journal of Frugal Innovation		2197-7917	2015	1					https://jfrugal.springeropen.com/		jfrugal		fulltext	not longer open access form 2017		serial								F
+Journal of Global Entrepreneurship Research	2228-7566	2251-7316	2014	4	1				https://link.springer.com/journal/40497		40497		fulltext	Open Access		serial								F
+Journal of Hematology & Oncology		1756-8722	2008	1	1				https://link.springer.com/journal/13045		13045		fulltext	Open Access		serial								F
+Journal of High Energy Physics	1126-6708	1029-8479	2010		1				https://link.springer.com/journal/13130		13130		fulltext	Funded by SCOAP3. Open Access		serial								F
+Journal of Industrial Engineering International	1735-5702	2251-712X	2012	8	1				https://link.springer.com/journal/40092		40092		fulltext	Open Access		serial								F
+Journal of Inequalities and Applications		1029-242X	2011	2011					https://link.springer.com/journal/13660		13660		fulltext	Open Access		serial								F
+Journal of Inflammation		1476-9255	2004	1	1				https://link.springer.com/journal/12950		12950		fulltext	Open Access		serial								F
+Journal of Innovation and Entrepreneurship		2192-5372	2012	1					https://link.springer.com/journal/13731		13731		fulltext	Open Access		serial								F
+Journal of Intensive Care		2052-0492	2013	1	1				https://link.springer.com/journal/40560		40560		fulltext	Open Access		serial								F
+Journal of Interaction Science		2194-0827	2013	1	1				https://link.springer.com/journal/40166		40166		fulltext	Open Access		serial								F
+Journal of Internet Services and Applications	1867-4828	1869-0238	2010	1	1				https://link.springer.com/journal/13174		13174		fulltext	Open Access		serial								F
+Journal of Invasive and Interventional Cardiology		2054-1783							https://link.springer.com/journal/40672		40672		fulltext	New (2015). Open Access		serial								F
+Journal of Mathematics in Industry		2190-5983	2011	1					https://link.springer.com/journal/13362		13362		fulltext	Open Access		serial								F
+Journal of Medical Case Reports		1752-1947	2007	1	1				https://link.springer.com/journal/13256		13256		fulltext	Open Access		serial								F
+Journal of Modern Power Systems and Clean Energy	2196-5625	2196-5420	2013	1	1				https://link.springer.com/journal/40565		40565		fulltext	Chinese Library of Science. Open Access		serial								F
+Journal of Modern Transportation		2196-0577	2011	19	1				https://link.springer.com/journal/40534		40534		fulltext	Chinese Library of Science. Open Access		serial								F
+Journal of Molecular Psychiatry		2049-9256	2013	1	1				https://link.springer.com/journal/40303		40303		fulltext	Open Access		serial								F
+Journal of Molecular Signaling		1750-2187	2006	1	1	2014	9		https://link.springer.com/journal/13025		13025		fulltext	transfer out: Ubiquity Press		serial								F
+Journal of Nanobiotechnology		1477-3155	2003	1	1				https://link.springer.com/journal/12951		12951		fulltext	Open Access		serial								F
+Journal of Nanostructure in Chemistry		2193-8865	2011						https://link.springer.com/journal/40097		40097		fulltext	Open Access		serial								F
+Journal of Negative Results in BioMedicine		1477-5751	2002	1	1				https://link.springer.com/journal/12952		12952		fulltext	Open Access		serial								F
+Journal of NeuroEngineering and Rehabilitation		1743-0003	2004	1	1				https://link.springer.com/journal/12984		12984		fulltext	Open Access		serial								F
+Journal of Neurodevelopmental Disorders	1866-1947	1866-1955	2009	1	1				https://link.springer.com/journal/11689		11689		fulltext	Open Access		serial								F
+Journal of Neuroinflammation		1742-2094	2004	1	1				https://link.springer.com/journal/12974		12974		fulltext	Open Access		serial								F
+Journal of Occupational Medicine and Toxicology		1745-6673	2006	1	1				https://link.springer.com/journal/12995		12995		fulltext	Open Access		serial								F
+Journal of Open Innovation		2199-8531	2015	1	1				https://link.springer.com/journal/40852		40852		fulltext	Open Access		serial								F
+Journal of Ophthalmic Inflammation and Infection		1869-5760	2011	1					https://link.springer.com/journal/12348		12348		fulltext	Open Access		serial								F
+Journal of Orthopaedic Science	0949-2658	1436-2023	1996	1		2015	20	6	https://link.springer.com/journal/776		776		fulltext	transfer out (2016)		serial								F
+Journal of Orthopaedic Surgery and Research		1749-799X	2006	1	1				https://link.springer.com/journal/13018		13018		fulltext	Open Access		serial								F
+Journal of Orthopaedics and Traumatology	1590-9921	1590-9999	2000	1	1				https://link.springer.com/journal/10195		10195		fulltext	Open Access		serial								F
+Journal of Otolaryngology - Head and Neck Surgery	1916-0208	1916-0216	2013	42	1				https://link.springer.com/journal/40463		40463		fulltext	Open Access		serial								F
+Journal of Ovarian Research		1757-2215	2008	1	1				https://link.springer.com/journal/13048		13048		fulltext	Open Access		serial								F
+Journal of Pediatric Neuropsychology	2199-2681	2199-2673	2015	1	1-4				https://link.springer.com/journal/40817		40817		fulltext	New (2015)		serial								F
+Journal of Petroleum Exploration and Production Technology		2190-0566	2011	1					https://link.springer.com/journal/13202		13202		fulltext	Open Access		serial								F
+Journal of Pharmaceutical Health Care and Sciences		2055-0294	2015	1	1				https://link.springer.com/journal/40780		40780		fulltext	new (2015). Open Access		serial								F
+Journal of Pharmaceutical Policy and Practice		2052-3211	2013	6	1				https://link.springer.com/journal/40545		40545		fulltext	Open Access		serial								F
+Journal of Physiological Anthropology	1880-6791	1880-6805	2012	31	1				https://link.springer.com/journal/40101		40101		fulltext	Open Access		serial								F
+Journal of Remanufacturing		2210-4690	2011	1					https://link.springer.com/journal/13243		13243		fulltext	Open Access		serial								F
+Journal of Software Engineering Research and Development		2195-1721	2013	1	1				https://link.springer.com/journal/40411		40411		fulltext	Open Access		serial								F
+Journal of Solid State Lighting		2196-1107	2014	1	1				https://link.springer.com/journal/40539		40539		fulltext	new (2014). Open Access		serial								F
+Journal of Statistical Distributions and Applications		2195-5832	2014	1	1				https://link.springer.com/journal/40488		40488		fulltext	new (2014). Open Access		serial								F
+Journal of Systems Chemistry		1759-2208	2010	1		2015	6		https://link.springer.com/journal/13322		13322		fulltext	ceased 2016.Open Access		serial								F
+Journal of Theoretical and Applied Physics		2251-7235	2011						https://link.springer.com/journal/40094		40094		fulltext	Open Access		serial								F
+Journal of Therapeutic Ultrasound		2050-5736	2013	1	1				https://link.springer.com/journal/40349		40349		fulltext	Open Access		serial								F
+Journal of Translational Medicine		1479-5876	2003	1	1				https://link.springer.com/journal/12967		12967		fulltext	Open Access		serial								F
+Journal of Trauma Management & Outcomes		1752-2897	2007	1	1	2016	10		https://link.springer.com/journal/13032		13032		fulltext	ceased (2016). Available in electronic format only. Open Access; BioMed Central		serial								F
+Journal of Trust Management		2196-064X	2014	1	1				https://link.springer.com/journal/40493		40493		fulltext	new (2014). Open Access		serial								F
+Journal of Uncertainty Analysis and Applications		2195-5468	2013	1	1				https://link.springer.com/journal/40467		40467		fulltext	Chinese Library of Science. Open Access		serial								F
+Journal of Venomous Animals and Toxins including Tropical Diseases		1678-9199	2013	19	1				https://link.springer.com/journal/40409		40409		fulltext	Open Access		serial								F
+Journal of the Brazilian Computer Society	0104-6500	1678-4804	2004	10	1				https://link.springer.com/journal/13173		13173		fulltext	Open Access		serial								F
+Journal of the European Optical Society-Rapid Publications	1990-2573		2016	12	1				https://link.springer.com/journal/41476		41476		fulltext	transfer in(2017): European Optical Society open access		serial								F
+Journal of the International Society of Sports Nutrition		1550-2783	2004	1	1				https://link.springer.com/journal/12970		12970		fulltext	Open Access		serial								F
+Language Testing in Asia		2229-0443	2013	3	1				https://link.springer.com/journal/40468		40468		fulltext	Open Access		serial								F
+Large-scale Assessments in Education		2196-0739	2013	1	1				https://link.springer.com/journal/40536		40536		fulltext	Open Access		serial								F
+Latin American Economic Review		2196-436X	2014	23	1				https://link.springer.com/journal/40503		40503		fulltext	transfer in (2014): IDE (Centro de Investigación y Docencia Económica). Open Access		serial								F
+Life Sciences, Society and Policy		2195-7819	2013	9	1				https://lsspjournal.springeropen.com/		lsspjournal		fulltext	Open Access. Previously: Genomics, Society and Policy		serial								F
+Lingua Sinica		2197-6678	2015	1	1				https://link.springer.com/journal/40655		40655		fulltext	new (2015). Open Access		serial								F
+Lipids in Health and Disease		1476-511X	2002	1	1				https://link.springer.com/journal/12944		12944		fulltext	Open Access		serial								F
+Living Reviews in Solar Physics		1614-4961	2004	1	1				http://www.springer.com/astronomy/astrophysics+and+astroparticles/journal/41116		41116		fulltext	open access		serial								F
+Logistics Research	1865-035X	1865-0368	2009	1	1				https://link.springer.com/journal/12159		12159		fulltext	Open Access		serial								F
+Longevity & Healthspan		2046-2395	2002	1	1	2014	3		https://link.springer.com/journal/13685		13685		fulltext	Ceased (2014)		serial								F
+Malaria Journal		1475-2875	2002	1	1				https://link.springer.com/journal/12936		12936		fulltext	Open Access		serial								F
+Marine Biodiversity Records		1755-2672	2016	9	1				http://www.springer.com/birkhauser/mathematics/journal/4		4		fulltext	open access		serial								F
+Maritime Studies		2212-9790	2012	11	1				https://link.springer.com/journal/40152		40152		fulltext	Open Access		serial								F
+Materials for Renewable and Sustainable Energy		2194-1467	2012	1	1				https://link.springer.com/journal/40243		40243		fulltext	Open Access		serial								F
+Maternal Health, Neonatology and Perinatology		2054-958X	2015	1	1				https://link.springer.com/journal/40748		40748		fulltext	Open Access		serial								F
+Mathematical Sciences	2008-1359	2251-7456	2011						https://link.springer.com/journal/40096		40096		fulltext	Open Access		serial								F
+Maxillofacial Plastic and Reconstructive Surgery		2288-8586	2015	37	1				https://jkamprs.springeropen.com/		jkamprs		fulltext	Transfer in (2015): Korean Association of Maxillofacial Plastic and Reconstructive Surgeons. Open Access		serial								F
+Mechanics of Advanced Materials and Modern Processes		2198-7874	2015	1					https://mammp-journal.springeropen.com/		mammp-journal		fulltext	Open Access		serial								F
+Medical Gas Research		2045-9912	2011	1	1				https://link.springer.com/journal/13618		13618		fulltext	Open Access		serial								F
+Micro and Nano Systems Letters		2213-9621	2013	1	1				https://link.springer.com/journal/40486		40486		fulltext	Open Access		serial								F
+Microbial Cell Factories		1475-2859	2002	1	1				https://link.springer.com/journal/12934		12934		fulltext	Open Access		serial								F
+Microbial Informatics and Experimentation		2042-5783	2011	1	1	2014	4	1	https://link.springer.com/journal/13309		13309		fulltext	Ceased (2014)		serial								F
+Microbiome		2049-2618	2013	1	1				https://link.springer.com/journal/40168		40168		fulltext	Open Access		serial								F
+Military Medical Research		2054-9369	2014	1	1				https://link.springer.com/journal/40779		40779		fulltext	New (2014). Open Access		serial								F
+Mobile DNA		1759-8753	2010	1	1				https://link.springer.com/journal/13100		13100		fulltext	Open Access		serial								F
+Molecular Autism		2040-2392	2010	1	1				https://link.springer.com/journal/13229		13229		fulltext	Open Access		serial								F
+Molecular Brain		1756-6606	2008	1	1				https://link.springer.com/journal/13041		13041		fulltext	Open Access		serial								F
+Molecular Cancer		1476-4598	2002	1	1				https://link.springer.com/journal/12943		12943		fulltext	Open Access		serial								F
+Molecular Cytogenetics		1755-8166	2008	1	1				https://link.springer.com/journal/13039		13039		fulltext	Open Access		serial								F
+Molecular Neurodegeneration		1750-1326	2006	1	1				https://link.springer.com/journal/13024		13024		fulltext	Open Access		serial								F
+Molecular Pain		1744-8069	2005	1	1	2015	11	1	https://link.springer.com/journal/12990		12990		fulltext	Open Access. transfer out (2016):Sage		serial								F
+Molecular and Cellular Pediatrics		2194-7791	2014	1	1				https://link.springer.com/journal/40348		40348		fulltext	New (2014). Open Access		serial								F
+Molecular and Cellular Therapies		2052-8426	2013	1	1	2016	4		https://link.springer.com/journal/40591		40591		fulltext	ceased (2016). New Start in 2013. Available in electronic format only. Open Access; BioMed Central		serial								F
+Movement Ecology		2051-3933	2013	1	1				https://link.springer.com/journal/40462		40462		fulltext	Open Access		serial								F
+Multidisciplinary Respiratory Medicine	1828-695X	2049-6958	2012	7	1				https://link.springer.com/journal/40248		40248		fulltext	Open Access		serial								F
+Multilingual Education		2191-5059	2011	1		2016	6		https://link.springer.com/journal/13616		13616		fulltext	ceased (2016). Available in electronic format only. Open Access; Springer		serial								F
+Multiple Sclerosis and Demyelinating Disorders		2056-6115	2016	1	1				https://link.springer.com/journal/40893		40893		fulltext	new (2015)		serial								F
+NOHA Journal of International Humanitarian Action	2364-3412	2364-3404	2016	1	1				https://link.springer.com/journal/41018		41018		fulltext	new (2015). Open Access		serial								F
+NRL Advances		2197-375X							https://link.springer.com/2197-375X		2197-375X		fulltext	Open Access. Content not yet available		serial								F
+Nano Convergence		2196-5404	2014	1	1				https://link.springer.com/journal/40580		40580		fulltext	New (2014). Open Access		serial								F
+Nano-Micro Letters	2311-6706	2150-5551	2009	1	1				https://link.springer.com/journal/40820		40820		fulltext	transfer in (2014): Open Access House of Science & Technology. Chinese Library of Science. Open Access		serial								F
+Nanoscale Research Letters		1556-276X	2006	1					https://link.springer.com/journal/11671		11671		fulltext	Open Access		serial								F
+Natural Products and Bioprospecting		2192-2209	2011	1					https://link.springer.com/journal/13659		13659		fulltext	Open Access		serial								F
+Netherlands Heart Journal	1568-5888	1876-6250	2007	15	1				https://link.springer.com/journal/12471		12471		fulltext	Open Access		serial								F
+Neural Development		1749-8104	2006	1	1				https://link.springer.com/journal/13064		13064		fulltext	Open Access		serial								F
+Neurology and Therapy	2193-8253	2193-6536	2012	1	1				https://link.springer.com/journal/40120		40120		fulltext	Open Access		serial								F
+Neuropsychiatric Electrophysiology		2055-4788	2015	1	1				https://link.springer.com/journal/40810		40810		fulltext	new (2015). Open Access,		serial								F
+Neurovascular Imaging		2055-5792	2015	1	1				https://link.springer.com/journal/40809		40809		fulltext	new (2015). Open Access		serial								F
+New Zealand Journal of Forestry Science		1179-5395	2013	43	1				https://link.springer.com/journal/40490		40490		fulltext	Open Access		serial								F
+Nutrition & Metabolism		1743-7075	2004	1	1				https://link.springer.com/journal/12986		12986		fulltext	Open Access		serial								F
+Nutrition Journal		1475-2891	2002	1	1				https://link.springer.com/journal/12937		12937		fulltext	Open Access		serial								F
+Oceanological and Hydrobiological Studies	1730-413X	1897-3191	2011	40		2014	43	3	https://link.springer.com/journal/13545		13545		fulltext	transfer out (2015): Walter de Gruyter open access		serial								F
+Open Geospatial Data, Software and Standards		2363-7501	2016	1	1				https://link.springer.com/journal/40965		40965		fulltext	Open Access		serial								F
+Ophthalmology and Therapy	2193-8245	2193-6528	2012	1	1				https://link.springer.com/journal/40123		40123		fulltext	Open Access		serial								F
+Optical Nanoscopy		2192-2853	2012	1		2015	4		https://link.springer.com/journal/13689		13689		fulltext	ceased 2016.Open Access		serial								F
+Organic and Medicinal Chemistry Letters		2191-2858	2011	1					https://link.springer.com/journal/13588		13588		fulltext	merge (2016):Chemistry Central Journal.Open Access		serial								F
+Orphanet Journal of Rare Diseases		1750-1172	2006	1	1				https://link.springer.com/journal/13023		13023		fulltext	Open Access		serial								F
+Orthopedics and Traumatology	0941-2530	1617-3538	1992	1		2002	10		https://link.springer.com/journal/65		65		fulltext			serial								F
+Pacific Journal of Mathematics for Industry		2198-4115	2014	6	1				https://link.springer.com/journal/40736		40736		fulltext	transfer in (2014): Institute of Mathematics for Industry. Open Access		serial								F
+Pain and Therapy	2193-8237	2193-651X	2012	1	1				https://link.springer.com/journal/40122		40122		fulltext	Open Access		serial								F
+Paladyn	2080-9778	2081-4836	2010	1		2012	3		https://link.springer.com/journal/13230		13230		fulltext	open access		serial								F
+Parasites & Vectors		1756-3305	2008	1	1				https://link.springer.com/journal/13071		13071		fulltext	Open Access		serial								F
+Particle and Fibre Toxicology		1743-8977	2004	1	1				https://link.springer.com/journal/12989		12989		fulltext	Open Access		serial								F
+Pastoralism		2041-7136	2011	1					https://link.springer.com/journal/13570		13570		fulltext			serial								F
+PathoGenetics		1755-8417	2008	1	1	2010	3	1	https://link.springer.com/journal/volumesAndIssues/13070		13070		fulltext			serial								F
+Patient Safety in Surgery		1754-9493	2007	1	1				https://link.springer.com/journal/13037		13037		fulltext	Open Access		serial								F
+Pediatric Rheumatology		1546-0096	2007	5	1				https://link.springer.com/journal/12969		12969		fulltext	Open Access		serial								F
+Perioperative Medicine		2047-0525	2012	1	1				https://link.springer.com/journal/13741		13741		fulltext	Open Access		serial								F
+Perspectives on Medical Education	2212-2761	2212-277X	2012	1	1				https://link.springer.com/journal/40037		40037		fulltext	Order through Bohn Stafleu van Loghum. Open Access		serial								F
+Petroleum Science	1672-5107	1995-8226	2007	4	1				https://link.springer.com/journal/12182		12182		fulltext	Petroleum Science became open access in 2015. All articles published by then are freely available online.China University of Petroleum (Beijing), co-published with Springer		serial								F
+Philosophy, Ethics, and Humanities in Medicine		1747-5341	2006	1	1				https://link.springer.com/journal/13010		13010		fulltext	Open Access		serial								F
+Photonic Sensors	1674-9251	2190-7439	2011	1	1				https://link.springer.com/journal/13320		13320		fulltext	Chinese Library of Science. Open Access		serial								F
+Pilot and Feasibility Studies		2055-5784	2015	1	1				https://link.springer.com/journal/40814		40814		fulltext	new (2015). Open Access		serial								F
+Planetary Science		2191-2521	2011	1					https://link.springer.com/journal/13535		13535		fulltext	Open Access		serial								F
+Plant Methods		1746-4811	2005	1	1				https://link.springer.com/journal/13007		13007		fulltext	Open Access		serial								F
+Poiesis & Praxis		1615-6617	2011	8					https://link.springer.com/journal/10202		10202		fulltext	pre 2011 not marked as OA		serial								F
+Population Health Metrics		1478-7954	2003	1	1				https://link.springer.com/journal/12963		12963		fulltext	Open Access		serial								F
+Porcine Health Management		2055-5660	2015	1	1				https://link.springer.com/journal/40813		40813		fulltext	new (2015). Open Access,		serial								F
+Probability, Uncertainty and Quantitative Risk		2367-0126	2016	1	1				https://link.springer.com/journal/41546		41546		fulltext	New for 2017. Open Access		serial								F
+Progress in Biomaterials	2194-0509	2194-0517	2012	1	1				https://link.springer.com/journal/40204		40204		fulltext	Open Access		serial								F
+Progress in Earth and Planetary Science		2197-4284	2014	1	1				https://link.springer.com/journal/40645		40645		fulltext	new (2014). Open Access		serial								F
+Progress in Orthodontics	1723-7785	2196-1042	2013	14	1				https://link.springer.com/journal/40510		40510		fulltext	Open Access		serial								F
+Protection and Control of Modern Power Systems		2367-0983	2016	1	1				https://link.springer.com/journal/41601		41601		fulltext	New for 2017. Open Access		serial								F
+Protein & Cell	1674-800X	1674-8018	2010	1	1				https://link.springer.com/journal/13238		13238		fulltext	Chinese Library of Science. Open Access		serial								F
+Proteome Science		1477-5956	2003	1	1				https://link.springer.com/journal/12953		12953		fulltext	Open Access		serial								F
+Psychology of Well-Being		2211-1522	2011	1					https://link.springer.com/journal/13612		13612		fulltext			serial								F
+Pulmonary Therapy	2364-1754	2364-1746	2015	1	1				https://link.springer.com/journal/41030		41030		fulltext	Open Access		serial								F
+ROBOMECH Journal		2197-4225	2014	1	1				https://link.springer.com/journal/40648		40648		fulltext	new (2014). Open Access		serial								F
+Radiation Oncology		1748-717X	2006	1	1				https://link.springer.com/journal/13014		13014		fulltext	Open Access		serial								F
+Rare Cancers and Therapy	2195-6014	2195-6022	2013	1	1				https://link.springer.com/journal/40487		40487		fulltext	Open Access		serial								F
+Regenerative Medicine Research		2050-490X	2013	1	1	2015	3	1	https://link.springer.com/journal/40340		40340		fulltext	transfer out (2016): EDP. Open Access		serial								F
+Renewables: Wind, Water, and Solar		2198-994X	2015	1	1				https://link.springer.com/journal/40807		40807		fulltext	Open Access		serial								F
+Reproductive Biology and Endocrinology		1477-7827	2003	1	1				https://link.springer.com/journal/12958		12958		fulltext	Open Access		serial								F
+Reproductive Health		1742-4755	2004	1	1				https://link.springer.com/journal/12978		12978		fulltext	Open Access		serial								F
+Research Involvement and Engagement		2056-7529	2015	1	1				https://link.springer.com/journal/40900		40900		fulltext	new (2015). Open Access		serial								F
+Research in Number Theory		2363-9555	2015	1	1				https://link.springer.com/journal/40993		40993		fulltext	new (2015). Open Access		serial								F
+Research in the Mathematical Sciences		2197-9847	2014	1	1				https://link.springer.com/journal/40687		40687		fulltext	Open Access		serial								F
+Respiratory Research	1465-9921	1465-993X	2000	1	1				https://link.springer.com/journal/12931		12931		fulltext	Open Access		serial								F
+Retrovirology		1742-4690	2004	1	1				https://link.springer.com/journal/12977		12977		fulltext	Open Access		serial								F
+Revista Chilena de Historia Natural	0716-078X	0717-6317	2014	87	1				http://www.springer.com/life+sciences/ecology/journal/40693		40693		fulltext	transfer in (2014): Sociedad de Biología de Chile. Open Access		serial								F
+Rheumatology and Therapy		2198-6584	2014	1	1				https://link.springer.com/journal/40744		40744		fulltext	new (2014). Open Access		serial								F
+Rice	1939-8425	1939-8433	2008	1	1				https://link.springer.com/journal/12284		12284		fulltext	Open Access		serial								F
+Robotics and Biomimetics		2197-3768	2014	1	1				https://link.springer.com/journal/40638		40638		fulltext	new (2014). Open Access		serial								F
+SERIEs	1869-4187	1869-4195	2010	1					https://link.springer.com/journal/13209		13209		fulltext	Open Access		serial								F
+Safety in Health		2056-5917	2015	1	1				https://link.springer.com/journal/40886		40886		fulltext	Open Access		serial								F
+Scalable Computing		2194-6876							https://link.springer.com/2194-6876		2194-6876		fulltext	ceased (2014)		serial								F
+Scandinavian Journal of Trauma, Resuscitation and Emergency Medicine		1757-7241	2008	16	1				https://link.springer.com/journal/13049		13049		fulltext	Open Access		serial								F
+Science in China. Series C, Life Sciences	1006-9305	1862-2798	1997	40	1	2009	52	12	https://link.springer.com/journal/11427		11427		fulltext	pre 2011 only selected articles OA. Open Access; Science China Press, co-published with Springer. Now: Science China Life Sciences		serial								F
+Scoliosis		1748-7161	2006	1	1				https://link.springer.com/journal/13013		13013		fulltext	Open Access		serial								F
+Security Informatics		2190-8532	2012	1					https://link.springer.com/journal/13388		13388		fulltext	Open Access		serial								F
+Sexually Transmited Diseases and Sexual Health		2055-0529							https://link.springer.com/journal/40796		40796		fulltext	Open Access		serial								F
+Skeletal Muscle		2044-5040	2011	1	1				https://link.springer.com/journal/13395		13395		fulltext	Open Access		serial								F
+Sleep Science and Practice		2398-2683	2017						http://www.springer.com/medicine/neurology/journal/41606		41606		fulltext	New for(2017) open access		serial								F
+Smart Learning Environments		2196-7091	2014	1	1				https://link.springer.com/journal/40561		40561		fulltext	new (2014). Open Access		serial								F
+Smart Water		2198-2619	2016	1	1				https://link.springer.com/journal/40713		40713		fulltext	transfer in (2015): W. Bertelsmann Verlag. Open Access		serial								F
+Source Code for Biology and Medicine		1751-0473	2006	1	1				https://link.springer.com/journal/13029		13029		fulltext	Open Access		serial								F
+SpringerPlus		2193-1801	2012	1		2016	5		https://link.springer.com/journal/40064		40064		fulltext	Open Access. Ceased: 2016		serial								F
+Standards in Genomic Sciences		1944-3277	2009	1	1				https://link.springer.com/journal/40793		40793		fulltext	transfer in (2014): Genomic Standards Consortium. Open Access		serial								F
+Stem Cell Research & Therapy		1757-6512	2010	1	1				https://link.springer.com/journal/13287		13287		fulltext	Open Access		serial								F
+Strategies in Trauma and Limb Reconstruction		1828-8928	2006	1	1				https://link.springer.com/journal/11751		11751		fulltext	Open Access		serial								F
+Substance Abuse Treatment, Prevention, and Policy		1747-597X	2006	1	1				https://link.springer.com/journal/13011		13011		fulltext	Open Access		serial								F
+Surgical Case Reports		2198-7793	2015	1	1				https://surgicalcasereports.springeropen.com/		surgicalcasereports		fulltext	New (2015). Open Access		serial								F
+Sustainable Chemical Processes		2043-7129	2013	1	1				https://link.springer.com/journal/40508		40508		fulltext	Open Access		serial								F
+Systematic Reviews		2046-4053	2012	1	1				https://link.springer.com/journal/13643		13643		fulltext	Open Access		serial								F
+Technology, Innovation and Education		2197-9855	2015	1	1				https://link.springer.com/journal/40660		40660		fulltext	Open Access		serial								F
+Textiles and Clothing Sustainability		2197-9936	2015	1					https://link.springer.com/journal/40689		40689		fulltext	Open Access		serial								F
+The EPMA Journal	1878-5077	1878-5085	2012	3					https://link.springer.com/journal/13167		13167		fulltext	pre 2012 is only selected articles OA		serial								F
+The European Physical Journal C - Particles and Fields	1434-6044	1434-6052	1998	1	1				https://link.springer.com/journal/10052		10052		fulltext	Funded by SCOAP3. Open Access		serial								F
+The HUGO Journal	1877-6558	1877-6566	2012	6		2015	9		https://link.springer.com/journal/11568		11568		fulltext	Ceased 2016. pre 2012 is only selected articles OA.		serial								F
+The Journal of Chinese Sociology		2198-2635	2014	1	1				https://journalofchinesesociology.springeropen.com/		journalofchinesesociology		fulltext	New (2014): Open Access		serial								F
+The Journal of Headache and Pain	1129-2369	1129-2377	2011	12					https://link.springer.com/journal/10194		10194		fulltext	pre 2011 is not marked OA		serial								F
+The Journal of Mathematical Neuroscience		2190-8567	2011	1	1				https://link.springer.com/journal/13408		13408		fulltext	Open Access		serial								F
+Theoretical Biology and Medical Modelling		1742-4682	2004	1	1				https://link.springer.com/journal/12976		12976		fulltext	Open Access		serial								F
+Thrombosis Journal		1477-9560	2003	1	1				https://link.springer.com/journal/12959		12959		fulltext	Open Access		serial								F
+Thyroid Research		1756-6614	2008	1	1				https://link.springer.com/journal/13044		13044		fulltext	Open Access		serial								F
+Tobacco Induced Diseases	2070-7266	1617-9625	2002	1	1				https://link.springer.com/journal/12971		12971		fulltext	Open Access		serial								F
+Translational Neurodegeneration		2047-9158	2012	1	1				https://link.springer.com/journal/40035		40035		fulltext	Open Access		serial								F
+Translational Respiratory Medicine		2213-0802	2013	1	1	2015	3		https://link.springer.com/journal/40247		40247		fulltext	ceased 2016. New Start in 2013. Available in electronic format only. Open Access; Springer		serial								F
+Transplantation Research		2047-1440	2012	1	1				https://link.springer.com/journal/13737		13737		fulltext	Open Access		serial								F
+Trials		1745-6215	2000	1	1				https://link.springer.com/journal/13063		13063		fulltext	Open Access		serial								F
+Triple Helix		2197-1927	2014	1	1				https://link.springer.com/journal/40604		40604		fulltext	new (2014). Open Access		serial								F
+Tropical Diseases, Travel Medicine and Vaccines		2055-0936	2015	1	1				https://link.springer.com/journal/40794		40794		fulltext	new (2015). Open Access		serial								F
+Tropical Medicine and Health	1348-8945	1349-4147	2016	44	1				http://www.springer.com/medicine/internal/journal/41182		41182		fulltext	Open Access		serial								F
+Urban Rail Transit	2199-6687	2199-6679	2009	1	1				https://link.springer.com/journal/40864		40864		fulltext	Chinese Library of Science. Open Access		serial								F
+Vascular Cell		2045-824X	2009	1	1	2016	8		https://link.springer.com/journal/13221		13221		fulltext	ceased (2016)		serial								F
+Veterinary Research	0928-4249	1297-9716	2011	42	1				https://link.springer.com/journal/13567		13567		fulltext	Open Access		serial								F
+Vietnam Journal of Computer Science	2196-8888	2196-8896	2014	1	1				https://link.springer.com/journal/40595		40595		fulltext	new (2014). Open Access		serial								F
+Virology Journal		1743-422X	2004	1	1				https://link.springer.com/journal/12985		12985		fulltext	Open Access		serial								F
+Visualization in Engineering		2213-7459	2013	1	1				https://link.springer.com/journal/40327		40327		fulltext	Open Access		serial								F
+Women's Midlife Health		2054-2690	2011	4	1				https://link.springer.com/journal/40695		40695		fulltext	new (2015). Open Access		serial								F
+World Allergy Organization Journal		1939-4551	2011	4	1				https://link.springer.com/journal/40413		40413		fulltext	Open Access		serial								F
+World Journal of Emergency Surgery		1749-7922	2006	1	1				https://link.springer.com/journal/13017		13017		fulltext	Open Access		serial								F
+World Journal of Surgical Oncology		1477-7819	2003	1	1				https://link.springer.com/journal/12957		12957		fulltext	Open Access		serial								F
+Zeitschrift für Weiterbildungsforschung - Report	2364-0014	2364-0022	2015	38	1				https://link.springer.com/journal/40955		40955		fulltext	trasnfer in (2015): W. Bertelsmann Verlag. Open Access		serial								F
+Zoological Letters		2056-306X	2015	1	1				https://link.springer.com/journal/40851		40851		fulltext	new (2015). Open Access		serial								F
+Zoological Studies		1810-522X	2015	52	1				https://link.springer.com/journal/40555		40555		fulltext	Transfer out (2016).Take-over in 2013. Available in electronic format only. Open Access; Springer		serial								F
+mUX: the Journal of Mobile User Experience		2196-873X	2012	1	1	2016	5		https://muxjournal.springeropen.com/		muxjournal		fulltext	Ceased (2016). Title change: Prior to Volume 3 (2014) published as Communications in Mobile Computing. Available in electronic format only. Open Access; Springer		serial								F

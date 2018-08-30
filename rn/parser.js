@@ -20,7 +20,7 @@ module.exports = new Parser(function analyseEC(parsedUrl, ec) {
   if ((match = /^\/journal\/([a-z-]+)\/([a-z0-9-]+)\/([0-9/]+)/i.exec(path)) !== null) {
     // http://www.retronews.fr.inshs.bib.cnrs.fr/journal/l-echo-de-paris/9-mai-1906/120/615281/2
     result.mime = 'HTML';
-    result.rtype = 'ARTICLE_SECTION';
+    result.rtype = 'PREVIEW';
     result.title_id = match[1];
     result.publication_date = match[2];
     result.unitid = match[3];
@@ -29,7 +29,7 @@ module.exports = new Parser(function analyseEC(parsedUrl, ec) {
   if ((match = /^\/reader\/([0-9/]+)/i.exec(path)) !== null) {
     // http://www.retronews.fr.inshs.bib.cnrs.fr/reader/40/343297/3
     result.mime = 'HTML';
-    result.rtype = 'ARTICLE_SECTION';
+    result.rtype = 'PREVIEW';
     result.unitid = match[1];
   }
 

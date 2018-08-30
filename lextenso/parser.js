@@ -45,7 +45,7 @@ module.exports = new Parser(function analyseEC(parsedUrl) {
     result.title_id = match[2];
   }
 
-  else if ((match = /^\/lextenso\/ud\/urn:(([a-z-]+?)-?[0-9_]+)$/i.exec(path)) !== null) {
+  else if ((match = /^\/lextenso\/ud\/urn:(([a-z-]+)[a-z0-9_-]+)$/i.exec(path)) !== null) {
     // http://www.lextenso.fr/lextenso/ud/urn%3AEDCO2016023
     // http://www.lextenso.fr/lextenso/ud/urn%3APA201602013
     // http://www.lextenso.fr/lextenso/ud/urn%3ACONSTEXT000031256027
@@ -53,7 +53,7 @@ module.exports = new Parser(function analyseEC(parsedUrl) {
     result.rtype    = 'ARTICLE';
     result.mime     = 'HTML';
     result.unitid   = match[1];
-    result.title_id = match[2];
+    result.title_id = match[2].replace(/-+$/, '');
 
     if (result.title_id.toUpperCase().startsWith('CONSTEXT')) {
       result.rtype = 'JURISPRUDENCE';

@@ -1,0 +1,56 @@
+publication_title	print_identifier	online_identifier	date_first_issue_online	num_first_vol_online	num_first_issue_online	date_last_issue_online	num_last_vol_online	num_last_issue_online	title_url	first_author	title_id	embargo_info	coverage_depth	notes	publisher_name	publication_type	date_monograph_published_print	date_monograph_published_online	monograph_volume	monograph_edition	first_editor	parent_publication_title_id	preceding_publication_title_id	access_type
+Ab Imperio	2166-4072	2164-9731	2000	2000	1				https://muse.jhu.edu/journal/573		573		fulltext		Ab Imperio	serial								P
+Acadiensis: Journal of the History of the Atlantic Region / Revue d’histoire de la region atlantique	0044-5851	1712-7432	2016	45	1				https://muse.jhu.edu/journal/683		683		fulltext		Department of History, University of New Brunswick	serial								P
+African Economic History	0145-2258	2163-9108	2008	36	1				https://muse.jhu.edu/journal/482		482		fulltext		University of Wisconsin Press	serial								P
+Alabama Review	0002-4341	2166-9961	2007	60	1				https://muse.jhu.edu/journal/576		576		fulltext		The University of Alabama Press	serial								P
+Aleph: Historical Studies in Science and Judaism	1565-1525	1553-3956	2001	1					https://muse.jhu.edu/journal/283		283		fulltext		Indiana University Press	serial								P
+American Jewish History	0164-0178	1086-3141	1996	84	1				https://muse.jhu.edu/journal/4		4		fulltext		Johns Hopkins University Press	serial								P
+Annales. Histoire, Sciences sociales (French Edition)	0395-2649	1953-8146	2014	69	1	2016	71	4	https://muse.jhu.edu/journal/640		640		fulltext		Ecole des Hautes Etudes en Sciences Sociales	serial								P
+Bulletin of the History of Medicine	0007-5140	1086-3176	1996	70	1				https://muse.jhu.edu/journal/24		24		fulltext		Johns Hopkins University Press	serial								P
+Canadian Bulletin of Medical History	0823-2105		2016	33	1				https://muse.jhu.edu/journal/699		699		fulltext		University of Toronto Press	serial								P
+Canadian Journal of History	0008-4107	2292-8502	2015	50	1				https://muse.jhu.edu/journal/650		650		fulltext		University of Toronto Press	serial								P
+Change Over Time	2153-053X	2153-0548	2011	1	1				https://muse.jhu.edu/journal/545		545		fulltext		University of Pennsylvania Press	serial								P
+Civil War History	0009-8078	1533-6271	1955	1	1				https://muse.jhu.edu/journal/42		42		fulltext		The Kent State University Press	serial								P
+Early American Studies: An Interdisciplinary Journal	1543-4273	1559-0895	2003	1	1				https://muse.jhu.edu/journal/322		322		fulltext		University of Pennsylvania Press	serial								P
+Early Modern Women	1933-0065	2378-4776	2015	10	1				https://muse.jhu.edu/journal/665		665		fulltext		Arizona Center for Medieval and Renaissance Studies	serial								P
+Eighteenth-Century Life	0098-2601	1086-3192	1996	20	1				https://muse.jhu.edu/journal/53		53		fulltext		Duke University Press	serial								P
+Eighteenth-Century Studies	0013-2586	1086-315X	1995	29	1				https://muse.jhu.edu/journal/55		55		fulltext		Johns Hopkins University Press	serial								P
+Enterprise & Society	1467-2227	1467-2235	2003	4	1				https://muse.jhu.edu/journal/216		216		fulltext		Cambridge University Press	serial								P
+Essays in Medieval Studies	1043-2213	1538-4608	2001	18	1				https://muse.jhu.edu/journal/59		59		fulltext		West Virginia University Press	serial								P
+Forum Journal	1536-1012	2325-7296	2012	27	1				https://muse.jhu.edu/journal/616		616		fulltext		National Trust for Historic Preservation	serial								P
+French Colonial History	1539-3402	1543-7787	2002	1	1				https://muse.jhu.edu/journal/218		218		fulltext		Michigan State University Press	serial								P
+Future Anterior	1549-9715	1934-6026	2008	5	1				https://muse.jhu.edu/journal/407		407		fulltext		University of Minnesota Press	serial								P
+Great Plains Quarterly	0275-7664	2333-5092	2014	34	1				https://muse.jhu.edu/journal/627		627		fulltext		University of Nebraska Press	serial								P
+Histoire sociale/Social history	0018-2257	1918-6576	2008	41	81				https://muse.jhu.edu/journal/440		440		fulltext		Les publications Histoire sociale / Social History Inc.	serial								P
+History & Memory	0935-560X	1527-1994	1998	10	1				https://muse.jhu.edu/journal/71		71		fulltext		Indiana University Press	serial								P
+History in Africa	0361-5413	1558-2744	2005	32	1				https://muse.jhu.edu/journal/290		290		fulltext		Cambridge University Press	serial								P
+Journal of Canadian Studies/Revue d'études canadiennes	0021-9495	1911-0251	2005	39	1				https://muse.jhu.edu/journal/330		330		fulltext		University of Toronto Press	serial								P
+Journal of Cold War Studies	1520-3972	1531-3298	1999	1	1				https://muse.jhu.edu/journal/43		43		fulltext		The MIT Press	serial								P
+Journal of Colonialism and Colonial History		1532-5768	2000	1	1				https://muse.jhu.edu/journal/29		29		fulltext		Johns Hopkins University Press	serial								P
+Journal of Interdisciplinary History	0022-1953	1530-9169	1999	30	1				https://muse.jhu.edu/journal/94		94		fulltext		The MIT Press	serial								P
+Journal of Policy History	0898-0306	1528-4190	1999	11	3				https://muse.jhu.edu/journal/102		102		fulltext		Cambridge University Press	serial								P
+Journal of Southern History	0022-4642	2325-6893	2016	82	1				https://muse.jhu.edu/journal/685		685		fulltext		The Southern Historical Association	serial								P
+Journal of Sport History	0094-1700	2155-8455	2010	37	1				https://muse.jhu.edu/journal/474		474		fulltext		University of Illinois Press	serial								P
+Journal of Women's History	1042-7961	1527-2036	1989	1	1				https://muse.jhu.edu/journal/100		100		fulltext		Johns Hopkins University Press	serial								P
+Journal of World History	1045-6007	1527-8050	1996	9	1				https://muse.jhu.edu/journal/106		106		fulltext		University of Hawai'i Press	serial								P
+Journal of the Early Republic	0275-1275	1553-0620	2005	25	1				https://muse.jhu.edu/journal/295		295		fulltext		University of Pennsylvania Press	serial								P
+Journal of the History of Ideas	0022-5037	1086-3222	1996	57	1				https://muse.jhu.edu/journal/91		91		fulltext		University of Pennsylvania Press	serial								P
+Kritika: Explorations in Russian and Eurasian History	1531-023X	1538-5000	2000	1	1				https://muse.jhu.edu/journal/108		108		fulltext		Slavica Publishers	serial								P
+Labor: Studies in Working-Class History of the Americas	1547-6715	1558-1454	2016	13	1				https://muse.jhu.edu/journal/679		679		fulltext		Duke University Press	serial								P
+Labour / Le Travail	0700-3862	1911-4842	2010	66	1				https://muse.jhu.edu/journal/537		537		fulltext		The Canadian Committee on Labour History	serial								P
+Le mouvement social	0027-2671	1961-8646	2009	226	1				https://muse.jhu.edu/journal/423		423		fulltext		Association Le Mouvement Social	serial								P
+NINE: A Journal of Baseball History and Culture	1188-9330	1534-1844	2000	9	1				https://muse.jhu.edu/journal/143		143		fulltext		University of Nebraska Press	serial								P
+Ohio Valley History	1544-4058	2377-0600	2001	1	1				https://muse.jhu.edu/journal/661		661		fulltext		The Filson Historical Society and Cincinnati Museum Center	serial								P
+Parergon	0313-6221	1832-8334	1983	1	1				https://muse.jhu.edu/journal/309		309		fulltext		Australian and New Zealand Association of Medieval and Early Modern Studies (Inc.)	serial								P
+Pennsylvania History: A Journal of Mid-Atlantic Studies	0031-4528	2153-2109	2010	77	1				https://muse.jhu.edu/journal/476		476		fulltext		Penn State University Press	serial								P
+Register of the Kentucky Historical Society	0023-0243	2161-0355	2010	108	1				https://muse.jhu.edu/journal/524		524		fulltext		Kentucky Historical Society	serial								P
+Reviews in American History	0048-7511	1080-6628	1995	23	1				https://muse.jhu.edu/journal/168		168		fulltext		Johns Hopkins University Press	serial								P
+Social Science History	0145-5532	1527-8034	1999	23	4				https://muse.jhu.edu/journal/188		188		fulltext		Cambridge University Press	serial								P
+Southwestern Historical Quarterly	0038-478X	1558-9560	2006	110	1				https://muse.jhu.edu/journal/340		340		fulltext		Texas State Historical Association	serial								P
+Technology and Culture	0040-165X	1097-3729	1998	39	3				https://muse.jhu.edu/journal/194		194		fulltext		Johns Hopkins University Press	serial								P
+The Americas	0003-1615	1533-6247	2000	57	2				https://muse.jhu.edu/journal/192		192		fulltext		Cambridge University Press	serial								P
+The Canadian Historical Review	0008-3755	1710-1093	1920	1	1				https://muse.jhu.edu/journal/248		248		fulltext		University of Toronto Press	serial								P
+The Journal of the Civil War Era	2154-4727	2159-9807	2011	1	1				https://muse.jhu.edu/journal/516		516		fulltext		The University of North Carolina Press	serial								P
+The Journal of the History of Childhood and Youth	1939-6724	1941-3599	2008	1	1				https://muse.jhu.edu/journal/400		400		fulltext		Johns Hopkins University Press	serial								P
+The William and Mary Quarterly	0043-5597	1933-7698	2015	72	1				https://muse.jhu.edu/journal/664		664		fulltext		Omohundro Institute of Early American History and Culture	serial								P
+West Virginia History: A Journal of Regional Studies	0043-325X	1940-5057	2007	1	1				https://muse.jhu.edu/journal/408		408		fulltext		West Virginia University Press	serial								P

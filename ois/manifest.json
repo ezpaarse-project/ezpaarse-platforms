@@ -1,0 +1,13 @@
+{
+  "longname": "Oxford Islamic Studies",
+  "name": "ois",
+  "describe": "Recognizes the accesses to the platform Oxford Islamic Studies",
+  "contact": "Pascale Pauplin, Yannick Schurter",
+  "pkb": false,
+  "docurl": "http://analyses.ezpaarse.org/platforms/5a27c3c8a433e2594fe61d24",
+  "domains": [
+    "www.oxfordislamicstudies.com"
+  ],
+  "version": "2018-05-28",
+  "status": "beta"
+}

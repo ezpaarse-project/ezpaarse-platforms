@@ -17,11 +17,11 @@
     "code": "REF",
     "description": "Référence de document"
   },{
-    "code": "ENCYCLOPEDIES",
+    "code": "ENCYCLOPAEDIA_ENTRY",
     "description": "Encyclopédie",
     "comment": "Cas des bases de données juridiques"
   },{
-    "code": "CODES",
+    "code": "CODE_JURIDIQUE",
     "description": "Code juridique",
     "comment": "Cas des bases de données juridiques"
   },{
@@ -92,10 +92,10 @@
     "code": "FICHE_ENTREPRISE",
     "comment": "cas des plateformes en éco-gestion (xerfi, pointrisk, chelem)"
   },{
-    "code": "ETUDE_SECTORIELLE",
+    "code": "REPORT",
     "comment": "cas des plateformes en éco-gestion (xerfi, pointrisk, chelem)"
   },{
-    "code": "DONNEES_ECONOMIQUES",
+    "code": "DATASET",
     "comment": "cas des plateformes en éco-gestion (xerfi, pointrisk, chelem)"
   },{
     "code": "FIGURE",
@@ -121,7 +121,7 @@
     "description": "Recherche de ressources documentaires",
     "comment": "cas des base de données: ZbMATH, MathSciNet..."
   },{
-    "code": "CONNECTION",
+    "code": "SESSION",
     "description": "Connection",
     "comment": "cas de la plateforme Reaxys"
   },{

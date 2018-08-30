@@ -14,7 +14,7 @@ module.exports = new Parser(function analyseEC(parsedUrl) {
     // /reaxys/secured/search.do;jsessionid=863534A86F402E0CFB72AD9548BDF7D2
 
     if (match[1]) {
-      result.rtype = 'CONNECTION';
+      result.rtype = 'SESSION';
       result.mime  = 'MISC';
     } else {
       result.rtype = 'QUESTION';

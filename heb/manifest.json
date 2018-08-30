@@ -1,0 +1,20 @@
+{
+  "version": "2018-04-04",
+  "status": "beta",
+  "domains": [
+    "www.humanitiesebook.org",
+    "quod.lib.umich.edu"
+  ],
+  "recognize": {
+    "rid": [
+      "unitid",
+      "title_id"
+    ]
+  },
+  "name": "heb",
+  "longname": "Humanities E-Books",
+  "describe": "Recognizes the accesses to the platform Humanities E-Books",
+  "docurl": "http://ang.couperin.org/platforms/5ac51b0b549fec818ddfa00d",
+  "contact": "alexander.cooper@emory.edu",
+  "pkb": false
+}

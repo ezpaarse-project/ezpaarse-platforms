@@ -35,7 +35,7 @@ module.exports = new Parser(function analyseEC(parsedUrl, ec) {
       // http://www.elnet.fr/documentation/Document?id=Y3LSTET-1
       switch (idMatch[1]) {
       case 'CODE':
-        result.rtype = 'CODES';
+        result.rtype = 'CODE_JURIDIQUE';
         break;
       case 'JRP':
         result.rtype = 'JURISPRUDENCE';

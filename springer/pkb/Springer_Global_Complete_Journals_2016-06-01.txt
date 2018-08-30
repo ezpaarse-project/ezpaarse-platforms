@@ -1,5 +1,4 @@
 ﻿publication_title	print_identifier	online_identifier	date_first_issue_online	num_first_vol_online	num_first_issue_online	date_last_issue_online	num_last_vol_online	num_last_issue_online	title_url	first_author	title_id	embargo_info	coverage_depth	coverage_notes	publisher_name	publication_type	date_monograph_published_print	date_monograph_published_online	monograph_volume	monograph_edition	first_editor	parent_publication_title_id	preceding_publication_title_id
-ASEAN Heart Journal		2315-4551	2013-09	21	2	2016-03	24	1	http://link.springer.com/journal/40602		40602		fulltext		ASEAN Federation of Cardiology	Serial							
 BioMedicine		2211-8039	2014-02	4	1	2016-05	6	2	http://link.springer.com/journal/40681		40681		fulltext		China Medical University	Serial							
 GSTF Journal of Advances in Medical Research (JAMR)		2345-721X	2014-06	1	1	2016-04	1	4	http://link.springer.com/journal/40782		40782		fulltext		Global Science and Technology Forum	Serial							
 GSTF Journal of BioSciences (JBio)		2251-3159	2014-12	3	1	2015-11	3	2	http://link.springer.com/journal/40835		40835		fulltext		Global Science and Technology Forum	Serial							

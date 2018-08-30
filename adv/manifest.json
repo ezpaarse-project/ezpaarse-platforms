@@ -1,0 +1,20 @@
+{
+  "version": "2018-04-12",
+  "status": "stable",
+  "domains": [
+    "www.ambrosevideo.com",
+    "cfph.ambrosevideo.com"
+  ],
+  "recognize": {
+    "rid": [
+      "title_id",
+      "unitid"
+    ]
+  },
+  "name": "adv",
+  "longname": "Ambrose Digital Video",
+  "describe": "Recognizes the accesses to the platform Ambrose Digital Video",
+  "docurl": "http://ang.couperin.org/platforms/5acf9a4b305a25b2e7317a98",
+  "contact": "alexander.cooper@emory.edu",
+  "pkb": false
+}

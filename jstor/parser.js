@@ -80,7 +80,7 @@ module.exports = new Parser(function analyseEC(parsedUrl) {
 
     switch (match[1]) {
     case 'get_image':
-      result.rtype = 'ARTICLE_SECTION';
+      result.rtype = 'PREVIEW';
       result.mime  = 'GIF';
       break;
     case 'pdf':
