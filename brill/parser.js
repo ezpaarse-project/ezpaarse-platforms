@@ -143,6 +143,24 @@ module.exports = new Parser(function analyseEC(parsedUrl, ec) {
       break;
     }
     }
+  } else if ((match = /^\/(view|downloadpdf)\/book\/([0-9]+)\/([a-z0-9-]+).xml$/i.exec(path)) !== null) {
+    // /view/book/9789004253926/B9789004253926-s003.xml
+    // /downloadpdf/book/9789004253926/B9789004253926-s003.xml
+    result.rtype = 'BOOK_SECTION';
+    result.unitid = match[3];
+    result.online_identifier = /^B([0-9]+)-([a-z0-9]+)$/i.exec(match[3])[1];
+
+    switch (match[1]) {
+    case 'view': {
+      result.mime = 'HTML';
+      break;
+    }
+
+    case 'downloadpdf': {
+      result.mime = 'PDF';
+      break;
+    }
+    }
   }
 
   return result;
