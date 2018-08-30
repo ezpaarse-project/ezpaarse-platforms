@@ -12,7 +12,7 @@
   "name": "mycow",
   "longname": "My Cow",
   "describe": "Recognizes the accesses to the platform My Cow",
-  "docurl": "http://analyses.ezpaarse.org/platforms/5624f3aeb51d52b1397b3c12/",
+  "docurl": "http://analyses.ezpaarse.org/platforms/5624f3aeb51d52b1397b3c12",
   "contact": "abderrazzak.loukili@inist.fr",
   "pkb": false
 }

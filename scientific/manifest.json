@@ -13,7 +13,7 @@
   "name": "scientific",
   "longname": "Scientific",
   "describe": "Recognizes the accesses to the platform Scientific",
-  "docurl": "analyses.ezpaarse.org/platforms/552d1ead70ee97e98c3ae73b",
+  "docurl": "http://analyses.ezpaarse.org/platforms/552d1ead70ee97e98c3ae73b",
   "contact": "abderrazzak.loukili@inist.fr",
   "pkb": false
 }
