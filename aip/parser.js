@@ -2,7 +2,7 @@
 
 /**
  * parser for American Institute of Physics
- * http://analogist.couperin.org/platforms/american-institute-of-physics/
+ * http://analyses.ezpaarse.org/platforms/american-institute-of-physics/
  */
 'use strict';
 const Parser = require('../.lib/parser.js');

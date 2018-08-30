@@ -2,7 +2,7 @@
 
 /**
  * parser for wiley platform
- * http://analogist.couperin.org/platforms/wiley/
+ * http://analyses.ezpaarse.org/platforms/wiley/
  */
 'use strict';
 const Parser = require('../.lib/parser.js');

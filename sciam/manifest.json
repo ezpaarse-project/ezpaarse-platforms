@@ -23,7 +23,7 @@
   "name": "sciam",
   "longname": "Scientific American",
   "describe": "Recognizes the accesses to the platform Scientific American",
-  "docurl": "http://ang.couperin.org/platforms/594ba453b86333032f60cd43",
+  "docurl": "http://analyses.ezpaarse.org/platforms/594ba453b86333032f60cd43",
   "contact": "Aurelian Popescu",
   "pkb": false
 }

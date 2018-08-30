@@ -6,7 +6,7 @@
   "longname": "Biomed Central",
   "publisher_name" : "Biomed Central",
   "describe": "Identifie les consultations du site Biomed Central",
-  "docurl": "http://analogist.couperin.org/platforms/5408d60178b6f35e1a6dfa67",
+  "docurl": "http://analyses.ezpaarse.org/platforms/5408d60178b6f35e1a6dfa67",
   "contact": "dominique.rouger at univ-st-teienne.fr",
   "pkb": true,
   "pkb-domains": "pkb-piddomain",

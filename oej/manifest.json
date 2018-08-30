@@ -4,7 +4,7 @@
   "name": "oej",
   "longname": "OpenEdition Journals",
   "describe": "Recognizes the accesses to the platform OpenEdition Journals",
-  "docurl": "http://ang.couperin.org/platforms/552ce133ebbceb95b6a3f9b8",
+  "docurl": "http://analyses.ezpaarse.org/platforms/552ce133ebbceb95b6a3f9b8",
   "contact": "abderrazzak.loukili@inist.fr, thomas.porquet@couperin.org",
   "pkb": true,
   "domains": [

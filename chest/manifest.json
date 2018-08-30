@@ -13,7 +13,7 @@
   "name": "chest",
   "longname": "CHEST",
   "describe": "Recognizes the accesses to the platform CHEST",
-  "docurl": "http://ang.couperin.org/platforms/5b6ccc052c674013fabda5ec",
+  "docurl": "http://analyses.ezpaarse.org/platforms/5b6ccc052c674013fabda5ec",
   "contact": "alexander.cooper@emory.edu",
   "pkb": false
 }

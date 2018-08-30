@@ -2,7 +2,7 @@
 
 /**
  * parser for the JSTOR platform
- * http://analogist.couperin.org/platforms/jstor/
+ * http://analyses.ezpaarse.org/platforms/jstor/
  */
 'use strict';
 
