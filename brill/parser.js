@@ -24,7 +24,7 @@ module.exports = new Parser(function analyseEC(parsedUrl, ec) {
     result.mime   = 'HTML';
     result.unitid = match[2];
     result.doi    = match[1];
-  } else if ((match = /^\/docserver\/([0-9]+[xX]?)\/(v([0-9]+)n([0-9]+)_([a-z0-9]+)).pdf$/i.exec(path)) !== null) {
+  } else if ((match = /^\/docserver\/([0-9]+[xX]?)\/(v([0-9]+)n([0-9]+)_([a-z0-9]+))\.pdf$/i.exec(path)) !== null) {
     // docserver/00224200/v35n4_splitsection3.pdf
     result.rtype             = 'ARTICLE';
     result.mime              = 'PDF';
@@ -143,7 +143,7 @@ module.exports = new Parser(function analyseEC(parsedUrl, ec) {
       break;
     }
     }
-  } else if ((match = /^\/(view|downloadpdf)\/book\/([0-9]+)\/([a-z0-9-]+).xml$/i.exec(path)) !== null) {
+  } else if ((match = /^\/(view|downloadpdf)\/book\/([0-9]+)\/([a-z0-9-]+)\.xml$/i.exec(path)) !== null) {
     // /view/book/9789004253926/B9789004253926-s003.xml
     // /downloadpdf/book/9789004253926/B9789004253926-s003.xml
     result.rtype = 'BOOK_SECTION';
