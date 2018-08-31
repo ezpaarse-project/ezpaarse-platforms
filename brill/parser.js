@@ -148,7 +148,7 @@ module.exports = new Parser(function analyseEC(parsedUrl, ec) {
     // /downloadpdf/book/9789004253926/B9789004253926-s003.xml
     result.rtype = 'BOOK_SECTION';
     result.unitid = match[3];
-    result.online_identifier = /^B([0-9]+)-([a-z0-9]+)$/i.exec(match[3])[1];
+    result.online_identifier = match[2];
 
     switch (match[1]) {
     case 'view': {
