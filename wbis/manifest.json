@@ -1,0 +1,13 @@
+{
+  "longname": "World Biographical Information System (WBIS)",
+  "name": "wbis",
+  "describe": "Recognizes the accesses to the platform World Biographical Information System (WBIS)",
+  "contact": "Pascale Pauplin, Frederic Truong inist",
+  "pkb": false,
+  "docurl": "http://analyses.ezpaarse.org/platforms/5a018886cb79786912d3b6d9",
+  "domains": [
+    "wbis.degruyter.com"
+  ],
+  "version": "2018-09-10",
+  "status": "beta"
+}
