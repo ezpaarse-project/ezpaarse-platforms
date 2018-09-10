@@ -64,7 +64,7 @@ module.exports = new Parser(function analyseEC(parsedUrl, ec) {
     result.rtype = 'BIO';
     result.mime = 'JPEG';
 
-    if (match[5] === 'download-pdf') {
+    if (match[5] && match[5] === 'download-pdf') {
       result.mime = 'PDF';
     }
   }
