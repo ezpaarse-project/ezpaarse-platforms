@@ -32,23 +32,24 @@ module.exports = new Parser(function analyseEC(parsedUrl, ec) {
     result.unitid = match[4];
     result.doi = `${doiPrefix}/${result.unitid}`;
 
-    switch (match[3]) {
-    case 'pdf':
-      result.mime = 'PDF';
-      result.rtype = 'ARTICLE';
-      break;
-    case 'fulltext':
-      result.mime = 'HTML';
-      result.rtype = 'ARTICLE';
-      break;
-    case 'acc':
-      result.mime = 'PDF';
-      result.rtype = 'SUPPL';
-      break;
-    default:
+    if (!match[3]) {
       result.mime = 'HTML';
       result.rtype = 'ABS';
-      break;
+    } else {
+      switch (match[3].toLowerCase()) {
+      case 'pdf':
+        result.mime = 'PDF';
+        result.rtype = 'ARTICLE';
+        break;
+      case 'fulltext':
+        result.mime = 'HTML';
+        result.rtype = 'ARTICLE';
+        break;
+      case 'acc':
+        result.mime = 'PDF';
+        result.rtype = 'SUPPL';
+        break;
+      }
     }
 
   } else if ((match = /^\/samples\/TOC_([a-z0-9%]+)\.pdf$/i.exec(path)) !== null) {
