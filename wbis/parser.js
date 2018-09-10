@@ -27,20 +27,22 @@ module.exports = new Parser(function analyseEC(parsedUrl, ec) {
     // /biographic-document/I571-906-3/images/1
 
     result.unitid = match[1];
-    switch (match[3]) {
-    case 'pdf':
-      result.mime = 'PDF';
-      result.rtype = 'BIO';
-      break;
 
-    case 'images':
-      result.mime = 'JPEG';
-      result.rtype = 'BIO';
-      break;
-    default:
+    if (!match[3]) {
       result.mime = 'MISC';
       result.rtype = 'BIO';
-      break;
+    } else {
+      switch (match[3]) {
+      case 'pdf':
+        result.mime = 'PDF';
+        result.rtype = 'BIO';
+        break;
+
+      case 'images':
+        result.mime = 'JPEG';
+        result.rtype = 'BIO';
+        break;
+      }
     }
   } else if ((match = /^\/bibliographic-document\/([a-z0-9-]+)(\/(pdf))?$/i.exec(path)) !== null) {
     // /bibliographic-document/3528
@@ -49,8 +51,8 @@ module.exports = new Parser(function analyseEC(parsedUrl, ec) {
     result.unitid = match[1];
     result.rtype = 'REF';
     result.mime = 'MISC';
-
-    if (match[3] === 'pdf') {
+    
+    if (match[3] && match[3] === 'pdf') {
       result.mime = 'PDF';
     }
   } else if ((match = /^\/microfiche-document\/([a-z0-9-_]+)\/([0-9]+)\/([0-9]+)(\/(download-pdf)\/([0-9-]+))?$/i.exec(path)) !== null) {
@@ -62,7 +64,7 @@ module.exports = new Parser(function analyseEC(parsedUrl, ec) {
     result.rtype = 'BIO';
     result.mime = 'JPEG';
 
-    if (match[5] === 'download-pdf') {
+    if (match[5] && match[5] === 'download-pdf') {
       result.mime = 'PDF';
     }
   }
