@@ -75,7 +75,7 @@ module.exports = new Parser(function analyseEC(parsedUrl, ec) {
       result.mime     = match[5] ? 'PDF' : 'HTML';
       result.hal_identifiant = match[2];
 
-  } else if ((match = /^\/?([A-Z-0-9]+)?\/([a-z]+-0*([0-9]+))_?(v[0-9]+)?\/?([^\/]{2,3})?\/?$/i.exec(path)) !== null) {
+  } else if ((match = /^\/?([A-Z-0-9]+)?\/([a-z]+-0*([0-9]+))_?(v[0-9]+)?\/?(fr|en|eu|es)?\/?$/i.exec(path)) !== null) {
     //Accès à un document ou à une notice sans collection (avec et sans versions)
     // /hal-00137415/en
     // Avec une collection pour toutes les URLS ci-dessus : /COL/hal-00137415/
@@ -87,7 +87,7 @@ module.exports = new Parser(function analyseEC(parsedUrl, ec) {
     result.mime     = 'HTML';
     result.hal_identifiant = match[2];
 
-  } else if ((match = /^\/?([A-Z-0-9]+)?\/([a-z]+-0*([0-9]+))_?(v[0-9]+)?\/([a-zA-Z]*)\/?$/i.exec(path)) !== null) {
+  } else if ((match = /^\/?([A-Z-0-9]+)?\/([a-z]+-0*([0-9]+))_?(v[0-9]+)?\/(bibtex|tei|dc|dcterms|endNote|rdf)\/?$/i.exec(path)) !== null) {
       /** Accès à une notice dans un format d'export
        /hal-00137415/tei
        */
