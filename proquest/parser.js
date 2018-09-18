@@ -30,7 +30,7 @@ module.exports = new Parser(function analyseEC(parsedUrl, ec) {
     // /asfa/docview/304898618/fulltextPDF/C3CDCDB5CD9248A8PQ/1
     result.rtype    = 'ARTICLE';
     result.mime     = 'PDF';
-    //result.title_id = match[1];
+    result.title_id = match[1];
     result.unitid = match[2];
 
   }  else if ((match = /^\/docview\/(\d+)\/fulltextPDF/i.exec(path)) !== null) {
@@ -49,7 +49,7 @@ module.exports = new Parser(function analyseEC(parsedUrl, ec) {
     // /adac/docview/1548422574/fulltext
     result.rtype    = 'ARTICLE';
     result.mime     = 'HTML';
-    //result.title_id = match[1];
+    result.title_id = match[1];
     result.unitid   = match[2];
 
   } else if ((match = /^\/docview\/(\d+)\/fulltext/i.exec(path)) !== null) {
@@ -62,7 +62,7 @@ module.exports = new Parser(function analyseEC(parsedUrl, ec) {
     // /asfa/docview/304898618/previewPDF/C3CDCDB5CD9248A8PQ/1
     result.rtype    = 'PREVIEW';
     result.mime     = 'PDF';
-    //result.title_id = match[1];
+    result.title_id = match[1];
     result.unitid = match[2];
 
   }  else if ((match = /^\/docview\/(\d+)\/previewPDF/i.exec(path)) !== null) {
@@ -75,7 +75,7 @@ module.exports = new Parser(function analyseEC(parsedUrl, ec) {
     // /asfa/docview/869568616/abstract/C3CDCDB5CD9248A8PQ/1
     result.rtype    = 'ABS';
     result.mime     = 'HTML';
-    //result.title_id = match[1];
+    result.title_id = match[1];
     result.unitid   = match[2];
 
   } else if ((match = /^\/docview\/(\d+)\/abstract/i.exec(path)) !== null) {
@@ -88,7 +88,7 @@ module.exports = new Parser(function analyseEC(parsedUrl, ec) {
     // /asfa/docview/869568616/C3CDCDB5CD9248A8PQ/1
     result.rtype    = 'ABS';
     result.mime     = 'HTML';
-    //result.title_id = match[1];
+    result.title_id = match[1];
     result.unitid   = match[2];
 
   } else if ((match = /^\/docview\/(\d+)\/.{18}/i.exec(path)) !== null) {
@@ -101,7 +101,7 @@ module.exports = new Parser(function analyseEC(parsedUrl, ec) {
     // /asfa/citedreferences/MSTAR_304898618/C3CDCDB5CD9248A8PQ/1
     result.rtype    = 'REF';
     result.mime     = 'HTML';
-    //result.title_id = match[1];
+    result.title_id = match[1];
     result.unitid   = match[2];
 
   } else if ((match = /^\/(\w+)\/citedreferences\/MSTAR_(\d+)\//i.exec(path)) !== null) {
@@ -114,12 +114,32 @@ module.exports = new Parser(function analyseEC(parsedUrl, ec) {
     // /pqdtglobal/results/1B24F6A480174E80PQ/1'
     result.rtype    = 'SEARCH';
     result.mime     = 'HTML';
-    //result.title_id = match[1];
+    result.title_id = match[1];
 
   } else if ((match = /^\/results\//i.exec(path)) !== null) {
     // /results/5CE81019F33B4E76PQ/1
     result.rtype    = 'SEARCH';
     result.mime     = 'HTML';
+
+  } else if ((match = /^\/lib\/.+\/search\.action/i.exec(path)) !== null) {
+    // /lib/sciencespo-grenoble/search.action?op=advance&query=cyberpolitics
+    result.rtype    = 'SEARCH';
+    result.mime     = 'HTML';
+    result.title_id = 'ebookcentral';
+
+  } else if ((match = /^\/lib\/.+\/detail\.action/i.exec(path)) !== null) {
+    // /lib/sciencespo-grenoble/detail.action?docID=3339542&query=cyberpolitics#goto_toc
+    result.rtype    = 'TOC';
+    result.mime     = 'HTML';
+    result.unitid   = parsedUrl.query.docID;
+    result.title_id = 'ebookcentral';
+
+  } else if ((match = /^\/lib\/.+\/reader\.action/i.exec(path)) !== null) {
+    // /lib/sciencespo-grenoble/reader.action?docID=3339542&query=cyberpolitics
+    result.rtype    = 'BOOK';
+    result.mime     = 'HTML';
+    result.unitid   = parsedUrl.query.docID;
+    result.title_id = 'ebookcentral';
 
   }
 
