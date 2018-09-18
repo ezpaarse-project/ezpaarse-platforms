@@ -4,7 +4,7 @@
   "describe": "Recognizes the accesses to the platform National Center for Biotechnology Information",
   "contact": "Frederic Truong inist, Yannick Schurter",
   "pkb": false,
-  "docurl": "http://ang.couperin.org/platforms/542571dbc703a13f0fccfa3c",
+  "docurl": "http://analyses.ezpaarse.org/platforms/542571dbc703a13f0fccfa3c",
   "domains": [
     "www.ncbi.nlm.nih.gov"
   ],

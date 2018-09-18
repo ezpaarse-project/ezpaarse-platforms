@@ -1,29 +1,15 @@
 {
   "name": "oeb",
-  "version": "2014-06-26",
+  "version": "2018-02-08",
   "status": "stable",
   "trello": "https://trello.com/c/kGArTPZL",
   "longname": "OpenEdition Books",
   "publisher_name": "OpenEdition",
   "describe": "Identifie les consultations de la plateforme OpenEdition Books",
-  "docurl": "http://analogist.couperin.org/platforms/openedition-books/start",
+  "docurl": "http://analyses.ezpaarse.org/platforms/53aa7dc34d877bf6511619a6",
   "contact": "anna.couthuresidrizi at sciencespo point fr et yannick.schurter at inist point fr",
   "pkb": true,
 	"domains": [
     "books.openedition.org"
-	],
-  "recognize": {
-    "rid": [
-      "title_id",
-      "unitid"
-    ],
-    "rtype": [
-      "BOOK"
-    ],
-    "mime": [
-      "HTML",
-      "PDF",
-      "EPUB"
-    ]
-  }
+	]
 }

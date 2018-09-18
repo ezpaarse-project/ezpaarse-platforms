@@ -6,7 +6,7 @@
 
 /**
  * parser for cbo platform
- * http://analogist.couperin.org/platforms/cambridge-books-online/start
+ * http://analyses.ezpaarse.org/platforms/cambridge-books-online/start
  */
 'use strict';
 var Parser = require('../.lib/parser.js');

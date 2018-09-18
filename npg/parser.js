@@ -57,7 +57,7 @@ module.exports = new Parser(function analyseEC(parsedUrl) {
       result.mime  = 'PDF';
       break;
     }
-  } else if ((match = /\/([a-zA-Z0-9]+)\/(?:knowledgeenvironment\/)?([0-9]+)\/[0-9]+\/(?:[a-zA-Z0-9]+\/)?(pdf|full)\/([a-zA-Z0-9\-_]+)\.[a-z]{2,4}$/.exec(path)) !== null) {
+  } else if ((match = /^\/([a-zA-Z0-9]+)\/(?:knowledgeenvironment\/)?([0-9]+)\/[0-9]+\/(?:[a-zA-Z0-9]+\/)?(pdf|full)\/([a-zA-Z0-9\-_]+)\.[a-z]{2,4}$/.exec(path)) !== null) {
     // http://www.nature.com/bonekey/knowledgeenvironment/2012/120613/bonekey2012109/full/bonekey2012109.html
     // http://www.nature.com/ncomms/2013/130829/ncomms3380/pdf/ncomms3380.pdf
     // http://www.nature.com/news/2007/070919/pdf/449268a.pdf
@@ -90,7 +90,7 @@ module.exports = new Parser(function analyseEC(parsedUrl) {
       result.mime  = 'PDF';
       break;
     }
-  } else if ((match = /\/([a-zA-Z0-9]+)\/journal\/v([0-9]*)\/n([a-zA-Z0-9]*)\/index.html/.exec(path)) !== null) {
+  } else if ((match = /^\/([a-zA-Z0-9]+)\/journal\/v([0-9]*)\/n([a-zA-Z0-9]*)\/index\.html$/.exec(path)) !== null) {
     // http://www.nature.com/nature/journal/v493/n7431/index.html
     result.title_id = match[1];
     result.vol      = match[2];
@@ -99,17 +99,50 @@ module.exports = new Parser(function analyseEC(parsedUrl) {
     result.rtype    = 'TOC';
     result.mime     = 'MISC';
 
-  } else if ((match = /\/articles\/(?:doi:[0-9]+\.[0-9]+\/)?([a-zA-Z0-9\-_]+)\.epdf/.exec(path)) !== null) {
-    // http://www.nature.com:80/articles/doi:10.1038/nature16976.epdf?parent_url=http%3A%2F%2Fwww.readcube.com%2Farticles%2F10.1038%252Fnature16976&pdf_url=http%3A%2F%2Fwww.nature.com%2Fnature%2Fjournal%2Fv531%2Fn7592%2Fpdf%2Fnature16976.pdf
-    // http://www.nature.com:80/articles/nature16976.epdf?parent_url=http%3A%2F%2Fwww.readcube.com%2Farticles%2F10.1038%252Fnature16976&pdf_url=http%3A%2F%2Fwww.nature.com%2Fnature%2Fjournal%2Fv531%2Fn7592%2Fpdf%2Fnature16976.pdf
-    let pdfUrl = parsedUrl && parsedUrl.query.pdf_url;
-    if (pdfUrl) {
-      result = this.execute({ url: pdfUrl });
+  } else if ((match = /^\/articles\/(?:doi:([0-9]+\.[0-9]+)\/)?([a-z0-9.\-_]+?)(\.[a-z]{2,})?$/i.exec(path)) !== null) {
+    // /articles/doi:10.1038/nature16976.epdf?parent_url=http%3A%2F%2Fwww.readcube.com%2Farticles%2F10.1038%252Fnature16976&pdf_url=http%3A%2F%2Fwww.nature.com%2Fnature%2Fjournal%2Fv531%2Fn7592%2Fpdf%2Fnature16976.pdf
+    // /articles/nature16976.epdf?parent_url=http%3A%2F%2Fwww.readcube.com%2Farticles%2F10.1038%252Fnature16976&pdf_url=http%3A%2F%2Fwww.nature.com%2Fnature%2Fjournal%2Fv531%2Fn7592%2Fpdf%2Fnature16976.pdf
+    // /articles/nmat5046.pdf
+    // /articles/nplants201718
+    // /articles/nmat5046
+    // /articles/s41598-018-21122-5
+    // /articles/s41598-018-21122-5.pdf
+
+    let doiSuffix = match[2];
+    const m = /^([a-z]+)(20[0-9]{2})([0-9]+)$/.exec(doiSuffix);
+
+    if (m) {
+      doiSuffix = `${m[1]}.${m[2]}.${m[3]}`;
+      result.title_id = m[1];
     }
 
-    result.mime = 'READCUBE';
-  } else if ((match = /^\/([a-zA-Z0-9]+)\/(?:archive\/)?(?:index|current_issue)\.html/.exec(path)) !== null) {
+    result.doi    = `${match[1] || doiPrefix}/${doiSuffix}`;
+    result.unitid = doiSuffix;
+
+    const extension = match[3] || '.full';
+
+    switch (extension) {
+    case '.pdf':
+      result.rtype = 'ARTICLE';
+      result.mime  = 'PDF';
+      break;
+    case '.epdf':
+      if (params.pdf_url) {
+        result = this.execute({ url: params.pdf_url });
+      }
+      result.mime = 'READCUBE';
+      break;
+    case '.full':
+      result.rtype = 'ARTICLE';
+      result.mime  = 'HTML';
+      break;
+    default:
+      return {};
+    }
+
+  } else if ((match = /^\/([a-zA-Z0-9]+)\/(?:(?:archive\/)?(?:index|current_issue)\.html)?$/i.exec(path)) !== null) {
     // http://www.nature.com/nature/index.html
+    // https://www.nature.com/nature/
     // http://www.nature.com/clpt/archive/index.html?showyears=2013-2011-#y2011
     // http://www.nature.com/nature/current_issue.html
     result.unitid   = match[1];
@@ -117,14 +150,14 @@ module.exports = new Parser(function analyseEC(parsedUrl) {
     result.rtype    = 'TOC';
     result.mime     = 'MISC';
 
-  } else if ((match = /\/news\/([^/]+)/.exec(path)) !== null) {
+  } else if ((match = /^\/news\/([^/]+)/.exec(path)) !== null) {
     // http://www.nature.com/news/work-resumes-on-lethal-flu-strains-1.12266
     result.unitid   = match[1];
     result.title_id = 'nature';
     result.rtype    = 'ARTICLE';
     result.mime     = 'HTML';
 
-  } else if ((match = /\/polopoly_fs\/.+\/([a-zA-Z0-9]+)\.pdf/.exec(path)) !== null) {
+  } else if ((match = /^\/polopoly_fs\/.+\/([a-zA-Z0-9]+)\.pdf/.exec(path)) !== null) {
     // http://www.nature.com/polopoly_fs/1.12266
     result.unitid   = match[1];
     result.doi      = `${doiPrefix}/${match[1]}`;

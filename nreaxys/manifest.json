@@ -4,7 +4,7 @@
   "describe": "Recognizes the accesses to the platform New Reaxys",
   "contact": "Frederic Truong inist, Sylvie Franck",
   "pkb": false,
-  "docurl": "http://ang.couperin.org/platforms/5a5c62f175a27b817ccc3ddd",
+  "docurl": "http://analyses.ezpaarse.org/platforms/5a5c62f175a27b817ccc3ddd",
   "domains": [
     "new.reaxys.com",
     "lls.reaxys.com"

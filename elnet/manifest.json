@@ -5,27 +5,11 @@
     "www.elnet.fr",
     "www.editions-legislatives.fr"
   ],
-  "recognize": {
-    "rid": [
-      "title_id"
-    ],
-    "rtype": [
-      "ARTICLE",
-      "TOC",
-      "FORMULES",
-      "CODES"
-    ],
-    "mime": [
-      "HTML",
-      "PDF",
-      "MISC"
-    ]
-  },
   "name": "elnet",
   "longname": "ELnet",
   "publisher_name": "Éditions Législatives",
   "describe": "Identifie les consultations de la plateforme ELnet",
-  "docurl": "http://analogist.couperin.org/platforms/elnet/",
+  "docurl": "http://analyses.ezpaarse.org/platforms/54082888180d87ba3a0afaa7",
   "contact": "dominique.lechaudel at inist.fr",
   "pkb": true
 }

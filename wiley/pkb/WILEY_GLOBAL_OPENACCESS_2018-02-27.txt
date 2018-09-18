@@ -1,0 +1,67 @@
+publication_title	print_identifier	online_identifier	date_first_issue_online	num_first_vol_online	num_first_issue_online	date_last_issue_online	num_last_vol_online	num_last_issue_online	title_url	first_author	title_id	embargo_info	coverage_depth	notes	publisher_name	publication_type	date_monograph_published_print	date_monograph_published_online	monograph_volume	monograph_edition	first_editor	parent_publication_title_id	preceding_publication_title_id	access_type
+Acute Medicine and Surgery		2052-8817	2014	1	1				http://onlinelibrary.wiley.com/journal/10.1002/(ISSN)2052-8817		10.1002/(ISSN)2052-8817		fulltext	open access from 2017		serial								
+Advanced Science		2198-3844	2014	1	1				http://onlinelibrary.wiley.com/journal/10.1002/(ISSN)2198-3844		10.1002/(ISSN)2198-3844		fulltext			serial								
+Aging Medicine		2475-0360							http://onlinelibrary.wiley.com/journal/10.1002/(ISSN)2475-0360		10.1002/(ISSN)2475-0360		fulltext	new for 2018; open access; content not yet available		serial								
+Annals of Clinical and Translational Neurology		2328-9503	2014	1	1				http://onlinelibrary.wiley.com/journal/10.1002/(ISSN)2328-9503		10.1002/(ISSN)2328-9503		fulltext			serial								
+Annals of Gastroenterological Surgery		2475-0328	2017	1	1				http://onlinelibrary.wiley.com/journal/10.1002/(ISSN)2475-0328		10.1002/(ISSN)2475-0328		fulltext	open access		serial								
+Applications in Plant Sciences		2168-0450	2013	1	1				http://onlinelibrary.wiley.com/journal/10.1002/(ISSN)2168-0450		10.1002/(ISSN)2168-0450		fulltext	transfer in (2018): Botanical Society of America; open access		serial								
+BJS Open		2474-9842	2017	1	1				http://onlinelibrary.wiley.com/journal/10.1002/(ISSN)2474-9842		10.1002/(ISSN)2474-9842		fulltext	open access		serial								
+Bioengineering & Translational Medicine		2380-6761	2016	1	1				http://onlinelibrary.wiley.com/journal/10.1002/(ISSN)2380-6761		10.1002/(ISSN)2380-6761		fulltext	open access from 2017. new 2016.		serial								
+Bulletin of the Ecological Society of America	0012-9623	2327-6096	1999	80					http://onlinelibrary.wiley.com/journal/10.1002/(ISSN)2327-6096		10.1002/(ISSN)2327-6096		fulltext	transfer in (2016): ESA. open access		serial								
+CPT: Pharmacometrics & Systems Pharmacology		2163-8306	2012	1	9				http://onlinelibrary.wiley.com/journal/10.1002/(ISSN)2163-8306		10.1002/(ISSN)2163-8306		fulltext	transfer in (2015): Nature Publishing Group		serial								
+Clinical & Translational Immunology		2050-0068	2012	1	1				http://onlinelibrary.wiley.com/journal/10.1002/(ISSN)2050-0068		10.1002/(ISSN)2050-0068		fulltext	transfer in (2018): Springer Nature: open access		serial								
+Clinical and Experimental Dental Research		2057-4347	2015	1	1				http://onlinelibrary.wiley.com/journal/10.1002/(ISSN)2057-4347		10.1002/(ISSN)2057-4347		fulltext	open access.		serial								
+EFSA Journal		1831-4732	2003	1	9				http://onlinelibrary.wiley.com/journal/10.1002/(ISSN)1831-4732		10.1002/(ISSN)1831-4732		fulltext	open access		serial								
+EFSA Supporting Publications		2397-8325	2004	1	1				http://onlinelibrary.wiley.com/journal/10.1002/(ISSN)2397-8325		10.1002/(ISSN)2397-8325		fulltext	open access		serial								
+ESC Heart Failure	2055-5822		2014	1	1				http://onlinelibrary.wiley.com/journal/10.1002/(ISSN)2055-5822		10.1002/(ISSN)2055-5822		fulltext			serial								
+ETRI Journal	1225-6463	2233-7326	1993	15	1				http://onlinelibrary.wiley.com/journal/10.4218/(ISSN)2233-7326		10.4218/(ISSN)2233-7326		fulltext	transfer in (2018): Electronics and Telecommunications Research Institute		serial								
+Earth and Space Science		2333-5084	2014	1	1				http://agupubs.onlinelibrary.wiley.com/agu/journal/10.1002/(ISSN)2333-5084		10.1002/(ISSN)2333-5084		fulltext	new: 2015		serial								
+Earth's Future		2328-4277	2014	1					http://agupubs.onlinelibrary.wiley.com/agu/journal/10.1002/(ISSN)2328-4277/		10.1002/(ISSN)2328-4277/		fulltext			serial								
+Ecosphere	2150-8925		2010	1	1				http://onlinelibrary.wiley.com/journal/10.1002/(ISSN)2150-8925		10.1002/(ISSN)2150-8925		fulltext	transfer out (2016): ESA. open access		serial								
+Ecosystem Health and Sustainability		2332-8878	2015	1	1	2017	3	4	http://onlinelibrary.wiley.com/journal/10.1002/(ISSN)2332-8878		10.1002/(ISSN)2332-8878		fulltext	transfer out (2017): Taylor and Francis; open access		serial								
+Endocrinology, Diabetes & Metabolism		2398-9238	2018	1	1				http://onlinelibrary.wiley.com/journal/10.1002/(ISSN)2398-9238		10.1002/(ISSN)2398-9238		fulltext	new for 2018; open access		serial								
+Energy Science and Engineering		2050-0505	2013	1					http://onlinelibrary.wiley.com/journal/10.1002/(ISSN)2050-0505		10.1002/(ISSN)2050-0505		fulltext			serial								
+Epilepsia Open		2470-9239	2016	1	1				http://onlinelibrary.wiley.com/journal/10.1002/(ISSN)2470-9239		10.1002/(ISSN)2470-9239		fulltext	open access		serial								
+Evidence-Based Preclinical Medicine		2054-703X	2014	1	1	2016	3	2	http://onlinelibrary.wiley.com/journal/10.1002/(ISSN)2054-703X		10.1002/(ISSN)2054-703X		fulltext	ceased: 2017		serial								
+Evolution Letters		2056-3744	2017	1	1				http://onlinelibrary.wiley.com/journal/10.1002/(ISSN)2056-3744		10.1002/(ISSN)2056-3744		fulltext	open access		serial								
+FEBS Open Bio		2211-5463	2011	1					http://onlinelibrary.wiley.com/journal/10.1002/(ISSN)2211-5463		10.1002/(ISSN)2211-5463		fulltext	transfer in (2016): Elsevier. open access		serial								
+Food Science and Nutrition		2048-7177	2013	1					http://onlinelibrary.wiley.com/journal/10.1002/(ISSN)2048-7177		10.1002/(ISSN)2048-7177		fulltext			serial								
+Geo: Geography and Environment		2054-4049	2014	1	1				http://onlinelibrary.wiley.com/journal/10.1002/(ISSN)2054-4049		10.1002/(ISSN)2054-4049		fulltext			serial								
+GeoHealth		2471-1403	2017	1	1				http://onlinelibrary.wiley.com/journal/10.1002/(ISSN)2471-1403		10.1002/(ISSN)2471-1403		fulltext	open access		serial								
+Global Challenges		2056-6646							http://onlinelibrary.wiley.com/journal/10.1002/(ISSN)2056-6646		10.1002/(ISSN)2056-6646		fulltext	open access. content not yet available		serial								
+Health Science Reports		2398-8835							http://onlinelibrary.wiley.com/journal/10.1002/(ISSN)2398-8835		10.1002/(ISSN)2398-8835		fulltext	open access; content not yet online		serial								
+Hepatology Communications		2471-254X	2017	1	1				http://onlinelibrary.wiley.com/journal/10.1002/(ISSN)2471-254X		10.1002/(ISSN)2471-254X		fulltext	open access		serial								
+Inside the Cell		2375-2920	2016	1	1				http://onlinelibrary.wiley.com/journal/10.1002/(ISSN)2375-2920		10.1002/(ISSN)2375-2920		fulltext	open access		serial								
+JBMR Plus		2473-4039	2017	1	1				http://onlinelibrary.wiley.com/journal/10.1002/(ISSN)2473-4039		10.1002/(ISSN)2473-4039		fulltext	open access. New for 2017		serial								
+JGH Open		2397-9070	2017	1	1				http://onlinelibrary.wiley.com/journal/10.1002/(ISSN)2397-9070		10.1002/(ISSN)2397-9070		fulltext	open access; new for 2017		serial								
+JOR Spine		2572-1143							http://onlinelibrary.wiley.com/journal/10.1002/(ISSN)2572-1143		10.1002/(ISSN)2572-1143		fulltext	new for 2018; open access; content not yet available		serial								
+Japan Architectural Review		2475-8876	2018	1	1				http://onlinelibrary.wiley.com/journal/10.1002/(ISSN)2475-8876		10.1002/(ISSN)2475-8876		fulltext	new for 2018; open access		serial								
+Journal of Advances in Modeling Earth Systems		1942-2466	2014	8	1				http://agupubs.onlinelibrary.wiley.com/agu/journal/10.1002/(ISSN)1942-2466/		10.1002/(ISSN)1942-2466/		fulltext			serial								
+Journal of Applied Clinical Medical Physics		1526-9914	2000	1	1				http://onlinelibrary.wiley.com/journal/10.1002/(ISSN)1526-9914		10.1002/(ISSN)1526-9914		fulltext	open access		serial								
+Journal of Arrhythmia	1880-4276	1883-2148		21	3				http://onlinelibrary.wiley.com/journal/10.1002/(ISSN)1883-2148		10.1002/(ISSN)1883-2148		fulltext	transfer in (2018): Elsevier; open access		serial								
+Journal of Cachexia, Sarcopenia and Muscle	2190-5991	2190-6009	2010	1	1				http://onlinelibrary.wiley.com/journal/10.1111/(ISSN)2190-6009		10.1111/(ISSN)2190-6009		fulltext	open access		serial								
+Journal of Cutaneous Immunology And Allergy		2574-4593							http://onlinelibrary.wiley.com/journal/10.1002/(ISSN)2574-4593		10.1002/(ISSN)2574-4593		fulltext	transfer in (2018): Shunkosha; open access; content not yet available		serial								
+Journal of General and Family Medicine		2189-7948	2015	16	3				http://onlinelibrary.wiley.com/journal/10.1002/(ISSN)2189-7948		10.1002/(ISSN)2189-7948		fulltext	open access; previously: General Medicine 2000-2015		serial								
+Journal of Interdisciplinary Nanomedicine		2058-3273	2016	1	1				http://onlinelibrary.wiley.com/journal/10.1002/(ISSN)2058-3273		10.1002/(ISSN)2058-3273		fulltext	open access. New 2016		serial								
+Journal of the International AIDS Society		1758-2652	2004	6	1				http://onlinelibrary.wiley.com/journal/10.1002/(ISSN)1758-2652		10.1002/(ISSN)1758-2652		fulltext	transfer in (2018): Taylor and Francis: open access		serial								
+Laryngoscope Investigative Otolaryngology		2378-8038	2016	1	1				http://onlinelibrary.wiley.com/journal/10.1002/(ISSN)2378-8038		10.1002/(ISSN)2378-8038		fulltext	open access. New 2016		serial								
+Learning Health Systems		2379-6146	2017	1	1				http://onlinelibrary.wiley.com/journal/10.1002/(ISSN)2379-6146		10.1002/(ISSN)2379-6146		fulltext	open access. New 2016		serial								
+Life Science Reports		2398-8843							http://onlinelibrary.wiley.com/journal/10.1002/(ISSN)2398-8843		10.1002/(ISSN)2398-8843		fulltext	open access: New for 2018; content not yet available		serial								
+Limnology and Oceanography Letters		2378-2242	2016	1	1				http://onlinelibrary.wiley.com/journal/10.1002/(ISSN)2378-2242		10.1002/(ISSN)2378-2242		fulltext	open access		serial								
+Molecular Oncology	1574-7891	1878-0261	2007	1	1				http://onlinelibrary.wiley.com/journal/10.1002/(ISSN)1878-0261		10.1002/(ISSN)1878-0261		fulltext	transfer in (2017):Elseiver		serial								
+Molecular Systems Biology		1744-4292	2014						http://onlinelibrary.wiley.com/journal/10.1002/(ISSN)1744-4292		10.1002/(ISSN)1744-4292		fulltext			serial								
+Neuropsychopharmacology Reports		2574-173X							http://onlinelibrary.wiley.com/journal/10.1002/(ISSN)2574-173X		10.1002/(ISSN)2574-173X		fulltext	transfer in (2018): Japanese Society of Neuropsycho Pharmacology; content not yet available		serial								
+Nursing Open		2054-1058	2014	1	1				http://onlinelibrary.wiley.com/journal/10.1002/(ISSN)2054-1058		10.1002/(ISSN)2054-1058		fulltext			serial								
+Obesity Science & Practice		2055-2238	2015	1	1				http://onlinelibrary.wiley.com/journal/10.1002/(ISSN)2055-2238		10.1002/(ISSN)2055-2238		fulltext	open access		serial								
+Pediatric investigation		2574-2272	2017	1	1				http://onlinelibrary.wiley.com/journal/10.1002/(ISSN)2574-2272		10.1002/(ISSN)2574-2272		fulltext	new:2018; open access		serial								
+Plant Direct		2475-4455	2017	1	1				http://onlinelibrary.wiley.com/journal/10.1002/(ISSN)2475-4455		10.1002/(ISSN)2475-4455		fulltext	open access, new for 2018		serial								
+Plants, People, Planet		2572-2611							http://onlinelibrary.wiley.com/journal/10.1002/(ISSN)2572-2611		10.1002/(ISSN)2572-2611		fulltext	new for 2018; open access; content not yet available		serial								
+Precision Radiation Oncology		2398-7324	2017	1	1				http://onlinelibrary.wiley.com/journal/10.1002/(ISSN)2398-7324		10.1002/(ISSN)2398-7324		fulltext	open access		serial								
+Regeneration		2052-4412	2014	1	1				http://onlinelibrary.wiley.com/journal/10.1002/(ISSN)2052-4412		10.1002/(ISSN)2052-4412		fulltext			serial								
+Remote Sensing in Ecology and Conservation		2056-3485	2015	1	1				http://onlinelibrary.wiley.com/journal/10.1002/(ISSN)2056-3485		10.1002/(ISSN)2056-3485		fulltext	open access		serial								
+Research and Practice in Thrombosis and Haemostasis		2475-0379							http://onlinelibrary.wiley.com/journal/10.1002/(ISSN)2475-0379		10.1002/(ISSN)2475-0379		fulltext	open access		serial								
+Stem Cells Translational Medicine	2157-6564	2157-6580	2012	1	1				http://onlinelibrary.wiley.com/journal/10.1002/(ISSN)2157-6580		10.1002/(ISSN)2157-6580		fulltext	open access		serial								
+The Depositional Record		2055-4877	2015	1	1				http://onlinelibrary.wiley.com/journal/10.1002/(ISSN)2055-4877		10.1002/(ISSN)2055-4877		fulltext	new: 2015		serial								
+The Journal of Pathology: Clinical Research		2056-4538	2015	1	1				http://onlinelibrary.wiley.com/journal/10.1002/(ISSN)2056-4538		10.1002/(ISSN)2056-4538		fulltext	new: 2015		serial								
+Transactions of the London Mathematical Society		2052-4986	2014	1	1				http://onlinelibrary.wiley.com/journal/10.1112/(ISSN)2052-4986/		10.1112/(ISSN)2052-4986/		fulltext	transfer in (2017): OUP. OA		serial								
+Veterinary Medicine and Science		2053-1095	2015	1	1				http://onlinelibrary.wiley.com/journal/10.1002/(ISSN)2053-1095		10.1002/(ISSN)2053-1095		fulltext			serial								

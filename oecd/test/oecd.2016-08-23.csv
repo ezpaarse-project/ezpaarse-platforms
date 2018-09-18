@@ -13,6 +13,6 @@ outlook-2016-graph24-en;;GRAPH;HTML;http://www.keepeek.com/Digital-Asset-Managem
 empl_outlook-2016-graph24-en;;GRAPH;XLS;https://www-oecd--ilibrary-org.acces-distant.sciences-po.fr/skills-proficiency-and-skills-use-across-oecd-piaac-countries_5jlvc82zpdbq.xls?contentType=%2fns%2fTable%2c%2fns%2fStatisticalPublication%2c%2fns%2fGraph&itemId=%2fcontent%2fgraph%2fempl_outlook-2016-graph24-en&mimeType=application%2fvnd.ms-excel&containerItemId=%2fcontent%2fbook%2fempl_outlook-2016-en&accessItemIds=%2fcontent%2fbook%2fempl_outlook-2016-en&option6=imprint&value6=http%3a%2f%2foecd.metastore.ingenta.com%2fcontent%2fimprint%2foecd
 18156797;10.1787/18156797;ABS;HTML;https://www.oecd.ilibrary.org/agriculture-and-food/oecd-food-agriculture-and-fisheries-working-papers_18156797
 5jm55j9p9rmx-en;10.1787/5jm55j9p9rmx-en;WORKING_PAPER;HTML;https://www.keepeek.com/Digital-Asset-Management/oecd/agriculture-and-food/public-private-partnerships-for-agricultural-innovation_5jm55j9p9rmx-en#page1
-household-disposable-income;;DATA;HTML;https://data.oecd.org/hha/household-disposable-income.htm
-.HHDI.NET.AGRWTH.A;;DATA;CSV;https://stats.oecd.org/sdmx-json/data/DP_LIVE/.HHDI.NET.AGRWTH.A/OECD?contentType=csv&detail=code&separator=comma&csv-lang=en&startPeriod=2000
-data-00722-fr;;DATA;HTML;http://stats.oecd.org/BrandedView.aspx?oecd_bv_id=mig-data-fr&doi=data-00722-fr
+household-disposable-income;;DATASET;HTML;https://data.oecd.org/hha/household-disposable-income.htm
+.HHDI.NET.AGRWTH.A;;DATASET;CSV;https://stats.oecd.org/sdmx-json/data/DP_LIVE/.HHDI.NET.AGRWTH.A/OECD?contentType=csv&detail=code&separator=comma&csv-lang=en&startPeriod=2000
+data-00722-fr;;DATASET;HTML;http://stats.oecd.org/BrandedView.aspx?oecd_bv_id=mig-data-fr&doi=data-00722-fr

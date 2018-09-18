@@ -1,0 +1,19 @@
+{
+  "version": "2017-12-15",
+  "status": "beta",
+  "domains": [
+    "www.wetfeet.com",
+    "wetfeet.com"
+  ],
+  "recognize": {
+    "rid": [
+      "title_id"
+    ]
+  },
+  "name": "wf",
+  "longname": "Wetfeet",
+  "describe": "Recognizes the accesses to the platform Wetfeet",
+  "docurl": "http://analyses.ezpaarse.org/platforms/5a34452f98ee3a9a7ab65696",
+  "contact": "alexander.cooper@emory.edu",
+  "pkb": false
+}

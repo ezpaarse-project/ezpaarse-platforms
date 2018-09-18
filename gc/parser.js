@@ -62,7 +62,7 @@ module.exports = new Parser(function analyseEC(parsedUrl, ec) {
     result.unitid = param.documentId;
 
   } else if (/^\/gdsc\/retrieve.do$/i.test(path)) {
-    //http://go.galegroup.com/gdsc/retrieve.do?sgHitCountType=None&sort=DA-ASC-SORT&inPS=true&prodId=GDSC&userGroupName=spcesr&tabID=T001&searchId=R1&resultListType=RESULT_LIST&contentSegment=&searchType=AdvancedSearchForm&currentPosition=1&contentSet=GALE%7CSC5107486613&&docId=GALE|SC5107486613&docType=GALE&viewtype=Manuscript
+    // http://go.galegroup.com/gdsc/retrieve.do?sgHitCountType=None&sort=DA-ASC-SORT&inPS=true&prodId=GDSC&userGroupName=spcesr&tabID=T001&searchId=R1&resultListType=RESULT_LIST&contentSegment=&searchType=AdvancedSearchForm&currentPosition=1&contentSet=GALE%7CSC5107486613&&docId=GALE|SC5107486613&docType=GALE&viewtype=Manuscript
     result.rtype  = 'ARTICLE';
     result.mime   = 'HTML';
     result.unitid = param.contentSet;
@@ -75,12 +75,12 @@ module.exports = new Parser(function analyseEC(parsedUrl, ec) {
 
   } else if (/^\/([a-z]+)\/([a-z]+)\/MonographsDetailsPage\/MonographsDetailsWindow$/i.test(path)) {
     // http://gdc.galegroup.com/gdc/artemis/MonographsDetailsPage/MonographsDetailsWindow?disableHighlighting=false&displayGroupName=DVI-Monographs&result_type=DVI-Monographs&javax.portlet.action=detailsViewWithNavigation&currPage=1&scanId=&query=OQE+arabic&prodId=EAPB&source=fullList&search_within_results=&p=EAPB&catId=&u=spcesr&limiter=&totalSearchResultCount=&display-query=OQE+arabic&contentModules=&displayGroups=&action=1&sortBy=&activityType=BasicSearch&failOverType=&commentary=&documentId=GALE|ZVZZDR996049640&dviSelectedPage=&catId=
-    result.rtype  = 'ARTICLE';
+    result.rtype  = 'BOOK';
     result.mime   = 'HTML';
     result.unitid = param.documentId;
 
   }  else if (/^\/([a-z]+)\/archive\/FeatureArticlesDetailsPage\/FeatureArticlesDetailsWindow$/i.test(path)) {
-    //http://natgeo.galegroup.com/natgeo/archive/FeatureArticlesDetailsPage/FeatureArticlesDetailsWindow?disableHighlighting=&displayGroupName=NatGeo-Features&currPage=&dviSelectedPage=&scanId=&query=&source=&prodId=NGMA&search_within_results=&p=NGMA&mode=view&catId=&u=spcesr&limiter=&display-query=&displayGroups=&contentModules=&action=e&sortBy=&documentId=GALE%7CLCXYNN294769130&windowstate=normal&activityType=&failOverType=&commentary=
+    // http://natgeo.galegroup.com/natgeo/archive/FeatureArticlesDetailsPage/FeatureArticlesDetailsWindow?disableHighlighting=&displayGroupName=NatGeo-Features&currPage=&dviSelectedPage=&scanId=&query=&source=&prodId=NGMA&search_within_results=&p=NGMA&mode=view&catId=&u=spcesr&limiter=&display-query=&displayGroups=&contentModules=&action=e&sortBy=&documentId=GALE%7CLCXYNN294769130&windowstate=normal&activityType=&failOverType=&commentary=
     result.rtype  = 'ENCYCLOPAEDIA_ENTRY';
     result.mime   = 'HTML';
     result.unitid = param.documentId;

@@ -14,7 +14,7 @@
   "describe": "Recognizes the accesses to the platform PsychiatryOnline",
   "publisher_name" : "American Psychiatric Associations",
   "trello": "https://trello.com/c/VX4gydMO/351-psychiatryonline-po",
-  "docurl": "http://analyses.ezpaarse.org/platforms/573b34ffc6bd6e67576d6750/analyses",
+  "docurl": "http://analyses.ezpaarse.org/platforms/573b34ffc6bd6e67576d6750",
   "contact": "alexander.cooper@emory.edu",
   "pkb": true,
   "pkb-domains": "pkb-domain"

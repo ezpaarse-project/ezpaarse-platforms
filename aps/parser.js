@@ -2,9 +2,9 @@
 
 /**
  * parser for http://publish.aps.org platform
- * http://analogist.couperin.org/platforms/aps/
+ * http://analyses.ezpaarse.org/platforms/aps/
  * update 2015/03/30
- * http://analogist.couperin.org/platforms/aps/start-2
+ * http://analyses.ezpaarse.org/platforms/aps/start-2
  */
 'use strict';
 const Parser = require('../.lib/parser.js');

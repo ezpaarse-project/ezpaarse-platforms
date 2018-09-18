@@ -2,7 +2,7 @@
 
 /**
  * parser for acs platform
- * http://analogist.couperin.org/platforms/acs/
+ * http://analyses.ezpaarse.org/platforms/acs/
  */
 'use strict';
 const Parser = require('../.lib/parser.js');
@@ -26,7 +26,7 @@ module.exports = new Parser(function analyseEC(parsedUrl) {
     result.mime     = 'MISC';
     result.unitid   = match[1];
     result.title_id = match[2];
-    result.vol      = match[3] ;
+    result.vol      = match[3];
     result.issue    = match[4];
 
   } else if ((match = /^\/isbn\/([0-9]{13})$/i.exec(parsedUrl.pathname)) !== null) {
@@ -43,6 +43,12 @@ module.exports = new Parser(function analyseEC(parsedUrl) {
     // http://pubs.acs.org/doi/ipdf/10.1021/acs.biochem.5b00764
     result.doi    = match[2];
     result.unitid = match[3];
+
+    switch (result.unitid) {
+    case 'undefined':
+    case 'build-info.json':
+      return {};
+    }
 
     let doiMatch;
 
@@ -76,7 +82,8 @@ module.exports = new Parser(function analyseEC(parsedUrl) {
       result.mime  = 'HTML';
       break;
     default:
-      result.mime = 'HTML';
+      result.rtype = 'ARTICLE';
+      result.mime  = 'HTML';
     }
   }
 

@@ -1,0 +1,13 @@
+{
+  "longname": "Acta Sanctorum",
+  "name": "as",
+  "describe": "Recognizes the accesses to the platform Acta Sanctorum",
+  "contact": "Pascale Pauplin, Bibliothèques Muséum, Yannick Schurter",
+  "pkb": false,
+  "docurl": "http://analyses.ezpaarse.org/platforms/5a1fe2830f7c7a0592644f82",
+  "domains": [
+    "acta.chadwyck.co.uk"
+  ],
+  "version": "2018-08-27",
+  "status": "beta"
+}

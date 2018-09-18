@@ -33,26 +33,29 @@ module.exports = new Parser(function analyseEC(parsedUrl, ec) {
   } else if (path.startsWith('/content')) {
     if (query.abspop) { return {}; }
 
-    const extReg = '(?:\\.(abstract|full|full\\.pdf|pdf|toc))?$';
+    const extReg = '(?:\\.(abstract|long|short|full|full\\.pdf|pdf|toc|summary))?$';
 
     // /content/6/4/458.full
     // /content/78/2/B49.full
     // /content/2012/5/pdb.top069344.full.pdf
-    // /content/1/2-3/69.1.full.pdf+html
-    const reg1 = new RegExp(`^/content/(?:[a-z]+/)?((\\d+)/(\\d+(?:-\\d+)?)/([\\w\\.]+?))${extReg}`);
+    const reg1 = new RegExp(`^/content/(?:[a-z]+/)?((\\d+)/(\\d+(?:-\\d+)?)/([\\w.]+?))${extReg}`);
 
     // /content/bmj/343/bmj.d4464.full.pdf
     // /content/bloodjournal/early/2015/02/25/blood-2014-10-608596.full.pdf
-    const reg2 = new RegExp(`^/content/\\w+/(?:early/)?((?:\\d+/\\d+/)?\\d+/[\\w\\-\\.]+?)${extReg}`);
+    const reg2 = new RegExp(`^/content/\\w+/(early/)?((?:\\d+/\\d+/)?\\d+/[\\w.-]+?)${extReg}`);
 
     // /content/343/bmj.d4285
     // /content/188/3.toc
     const reg3 = new RegExp(`^/content/(\\d+)/([\\w\\.]+?)${extReg}`);
 
+    // /content/jexbio/221/Suppl_1/jeb164970.full.pdf
+    // /content/221/Suppl_1/jeb164970
+    const reg4 = new RegExp(`^/content(?:/[a-z]+)?/([0-9]+)/Suppl_[a-z0-9]+/([a-z0-9.-]+?)${extReg}`);
+
     let extension;
 
     if ((match = reg1.exec(path)) !== null) {
-      extension = match[5] || 'full';
+      extension = match[5] || (defaultsToAbstract(hostname) ? 'abstract' : 'full');
       result.unitid = `${hostname}/${match[1]}`;
 
       const firstPage = match[4].split('.')[0];
@@ -64,25 +67,39 @@ module.exports = new Parser(function analyseEC(parsedUrl, ec) {
       }
 
     } else if ((match = reg2.exec(path)) !== null) {
-      extension     = match[2] || 'full';
-      result.unitid = `${hostname}/${match[1]}`;
+      const early   = match[1];
+      extension     = match[3];
+      result.unitid = `${hostname}/${match[2]}`;
+
+      if (!extension && early) {
+        extension = earlyDefaultsToAbstract(hostname) ? 'abstract' : 'full';
+      } else if (!extension) {
+        extension = defaultsToAbstract(hostname) ? 'abstract' : 'full';
+      }
 
     } else if ((match = reg3.exec(path)) !== null) {
-      extension     = match[3] || 'full';
+      extension     = match[3] || 'toc';
       result.vol    = match[1];
       result.unitid = `${hostname}/${match[1]}/${match[2]}`;
 
       if (/^\d+$/.test(match[2])) {
         result.issue = match[2];
       }
+    } else if ((match = reg4.exec(path)) !== null) {
+      extension     = match[3] || (defaultsToAbstract(hostname) ? 'abstract' : 'full');
+      result.unitid = match[2];
+      result.vol    = match[1];
     }
 
     switch (extension) {
     case 'abstract':
+    case 'summary':
+    case 'short':
       result.rtype = 'ABS';
       result.mime  = 'HTML';
       break;
     case 'full':
+    case 'long':
       result.rtype = 'ARTICLE';
       result.mime  = 'HTML';
       break;
@@ -122,7 +139,7 @@ module.exports = new Parser(function analyseEC(parsedUrl, ec) {
       result.rtype  = 'ARTICLE';
       result.mime   = 'PDF';
     }
-  } else if ((match = /^\/\w+\/(\d+\/(?:\w+\/)?\w+)\.(pdf|htm)/.exec(path)) !== null) {
+  } else if ((match = /^\/\w+\/(\d+\/(?:\w+\/)?\w+)\.(pdf|htm)/i.exec(path)) !== null) {
     // /bj/467/bj4670193.htm;
     // /bj/467/bj4670345ntsadd.pdf;
     // /bst/028/0575/0280575.pdf;
@@ -143,6 +160,44 @@ module.exports = new Parser(function analyseEC(parsedUrl, ec) {
     result.unitid = hostname;
     result.rtype  = 'TOC';
     result.mime   = 'HTML';
+
+  } else if ((match = /^\/toc\/([a-z]+\/([0-9]+)\/([0-9]+))$/i.exec(path)) !== null) {
+    // /toc/mboc/26/24
+    result.unitid = match[1];
+    result.vol    = match[2];
+    result.issue  = match[3];
+    result.rtype  = 'TOC';
+    result.mime   = 'HTML';
+
+  } else if ((match = /^\/doi(\/[a-z]+)?\/(10\.[0-9]+\/([a-z0-9.-]+))$/i.exec(path)) !== null) {
+    result.doi    = match[2];
+    result.unitid = match[3];
+
+    if (!match[1]) {
+      // /doi/10.1091/mbc.e09-12-1011
+      result.rtype = 'ARTICLE';
+      result.mime  = 'HTML';
+      return result;
+    }
+
+    switch (match[1]) {
+    case '/pdf':
+    case '/epdf':
+      // /doi/pdf/10.1091/mbc.e09-12-1011
+      result.rtype = 'ARTICLE';
+      result.mime  = 'PDF';
+      break;
+    case '/full':
+      // /doi/full/10.1091/mbc.e09-12-1011
+      result.rtype = 'ARTICLE';
+      result.mime  = 'HTML';
+      break;
+    case '/abs':
+      // /doi/abs/10.1091/mbc.e09-12-1011
+      result.rtype = 'ABS';
+      result.mime  = 'HTML';
+      break;
+    }
   }
 
   // do not return ECs with empty rtype and empty mime
@@ -152,3 +207,21 @@ module.exports = new Parser(function analyseEC(parsedUrl, ec) {
 
   return result;
 });
+
+/**
+ * Does this platform serve abstract by default ?
+ */
+function defaultsToAbstract (domain) {
+  if (domain.endsWith('.sciencemag.org')) { return true; }
+  if (domain.endsWith('.jbc.org')) { return true; }
+  if (domain.endsWith('.asm.org')) { return true; }
+  return false;
+}
+
+/**
+ * Does this platform serve abstract by default for early articles ?
+ */
+function earlyDefaultsToAbstract (domain) {
+  if (domain.endsWith('.biologists.org')) { return true; }
+  return false;
+}

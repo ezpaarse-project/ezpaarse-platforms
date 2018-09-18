@@ -31,13 +31,19 @@ module.exports = new Parser(function analyseEC(parsedUrl, ec) {
     result.title_id = match[1];
     result.unitid   = match[1];
 
-  } else if ((match = /^\/reader\/istream\/[a-z]+\/(([0-9]+)\/[a-z]+\/[0-9]+)$/.exec(path)) !== null) {
+  } else if ((match = /^\/reader(?:\/istream)?\/docid\/(([0-9]+)(?:\/page\/[0-9]+)?)$/.exec(path)) !== null) {
     // feuilletage en ligne HTML5
     // http://univ-paris1.cyberlibris.com/reader/istream/docid/88826141/page/1
+    // http://www.scholarvox.com/reader/docid/88855042
     result.rtype    = 'BOOK';
     result.mime     = 'HTML';
     result.title_id = match[2];
     result.unitid   = match[1];
+
+  } else if ((match = /^\/api\/js\/book\/.+\/page\/[0-9]+$/.exec(path)) !== null) {
+    // /api/js/book/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpYXQiO/page/4
+    result.rtype    = 'BOOK_PAGE';
+    result.mime     = 'HTML';
 
   } else if ((match = /^\/reader\/flashpagesrv\/$/.exec(path)) !== null) {
     // feuilletage en ligne, version flash reader (traffic firebug)

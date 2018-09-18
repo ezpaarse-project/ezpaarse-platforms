@@ -119,13 +119,13 @@ module.exports = new Parser(function analyseEC(parsedUrl, ec) {
 
   } else if ((match = /^\/hha\/([a-z-]+).htm$/i.exec(path)) !== null) {
     // /hha/household-disposable-income.htm
-    result.rtype  = 'DATA';
+    result.rtype  = 'DATASET';
     result.mime   = 'HTML';
     result.unitid = match[1];
 
   } else if ((match = /^\/[a-z-]+\/data\/[a-z_]+\/([a-z.]+)\/[a-z]+$/i.exec(path)) !== null) {
     // /sdmx-json/data/DP_LIVE/.HHDI.NET.AGRWTH.A/OECD
-    result.rtype  = 'DATA';
+    result.rtype  = 'DATASET';
     result.unitid = match[1];
 
     if (param.contentType) {
@@ -134,7 +134,7 @@ module.exports = new Parser(function analyseEC(parsedUrl, ec) {
 
   } else if (/^\/(([a-z]+).aspx)$/i.test(path)) {
     // /BrandedView.aspx?oecd_bv_id=mig-data-fr&doi=data-00722-fr
-    result.rtype  = 'DATA';
+    result.rtype  = 'DATASET';
     result.mime   = 'HTML';
     result.unitid = param.doi;
 

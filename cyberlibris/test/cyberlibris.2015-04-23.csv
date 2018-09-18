@@ -4,3 +4,5 @@ out-title_id;out-unitid;out-rtype;out-mime;in-url
 88805591;88805591;ABS;HTML;http://univ-paris1.cyberlibris.com/catalog/book/docid/88805591
 88826141;88826141/page/1;BOOK;HTML;http://univ-paris1.cyberlibris.com/reader/istream/docid/88826141/page/1
 88814647;88814647/page/20;BOOK;FLASH;http://univ-rennes1.cyberlibris.fr:80/reader/flashpagesrv/?docid=88814647&p=20&sig=001b540391345e4b79812e5285313c0a83a96dc9
+88855042;88855042;BOOK;HTML;http://www.scholarvox.com/reader/docid/88855042
+;;BOOK_PAGE;HTML;https://reader.cyberlibris.com/api/js/book/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpYXQiOjE1MDQwODU2ODUsImRhdGEiOnsibGFuZyI6ImZyIiwiZG9jaWQiOiI4ODgzODQyMSIsInVpZCI6IiIsInVzZXJpZCI6IjAiLCJpcGF1dGgiOjAsImlpZCI6IjAiLCJob3N0IjoidW5pdi5zY2hvbGFydm94LmNvbSIsInNpdGVpZCI6IjEwMyIsInJlbW90ZWlwIjoiMTkzLjU0LjEwOS44IiwiYm91cXVldHMiOiI3NSwzMDYsMzkyLDQ3Nyw3Miw3NCw3MyIsInNpZCI6IjM1YXNmcDN2dGZwdDNoNGt0Ym9mcjAybXQ1Iiwic2lnIjoiZjk2MGMzNDAxOGYzZThhOWIxZmQ5MzE1ZjEyMWMzNjZlMjUxMmY5MyJ9LCJleHAiOjE1MDQwODkyODUsInRva2VuaWQiOiIyZTczdHVRNFNMV2NkUlhYcnVJcDVKem1EY2tFMWRiVFFRdHA5TGVKYVBzPVxuIn0.S9cfuqupGkKi-g5Y8B4jyl2wCxmgpgRLWn8VFsG5sfU/page/4

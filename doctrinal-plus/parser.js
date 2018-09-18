@@ -25,7 +25,7 @@ module.exports = new Parser(function analyseEC(parsedUrl, ec) {
   } else if ((match = /^\/doc\/doctrinal\/(notice|revue)\/([^/]+)$/i.exec(path)) !== null) {
     // http://newip.doctrinalplus.fr/doc/doctrinal/revue/REVDRSANITSOC
     result.mime     = 'HTML';
-    result.rtype    = match[1] === 'notice' ? 'NOTICE_A' : 'NOTICE_T';
+    result.rtype    = 'REF';
     result.title_id = match[2];
     result.unitid   = match[2];
 

@@ -274,7 +274,7 @@ function fetchRemoteData (docid) {
 function fetchRemoteAnalyses (cardID) {
   return new Promise((resolve, reject) => {
     const options = {
-      url: `http://ang.couperin.org/api/platforms/${cardID}/analyses`,
+      url: `http://analyses.ezpaarse.org/api/platforms/${cardID}/analyses`,
       json: true
     };
 
