@@ -2,13 +2,14 @@
   "longname": "Proquest",
   "name": "proquest",
   "describe": "Recognizes the accesses to the platform Proquest",
-  "contact": "Laurent Lhuillier, Pamphile ISCH, Pascale Pauplin",
+  "contact": "Laurent Lhuillier, Pamphile Isch, Pascale Pauplin, Sylvie Cussigh",
   "pkb": false,
   "docurl": "http://analyses.ezpaarse.org/platforms/552d04c63c918773e8adb432",
   "domains": [
     "search.proquest.com",
-    "media.proquest.com"
+    "media.proquest.com",
+    "ebookcentral.proquest.com"
   ],
-  "version": "2018-01-30",
-  "status": "beta"
+  "version": "2018-09-18",
+  "status": "rc1"
 }
