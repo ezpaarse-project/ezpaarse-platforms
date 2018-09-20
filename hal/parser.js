@@ -15,11 +15,14 @@ module.exports = new Parser(function analyseEC(parsedUrl, ec) {
   let path   = parsedUrl.path;
   let match;
 
+  // UNITID n'a aucune utilité pour HAL. Il sert à EZPaarse pour dédoublonner, donc dans un cas ce sera hal_identifiant et docid
+
   if ((match = /^\/file\/index\/(docid|identifiant)\/(([a-z]+-)?0*([0-9]+))_?(v[0-9]+)?\/filename\/[^\/]+.pdf$/i.exec(path)) !== null) {
     //Accès à un document
     // /file/index/docid/544258/filename/jafari_Neurocomp07.pdf
     result.rtype    = 'FULLTEXT';
     result.mime     = 'PDF';
+    result.unitid = match[2];
 
     if (match[1].toUpperCase() == 'DOCID') {
       result.hal_docid = match[2];
@@ -46,6 +49,7 @@ module.exports = new Parser(function analyseEC(parsedUrl, ec) {
       }
 
       result.hal_docid = debut + match[3] + match[4] + match[5];
+      result.unitid = result.hal_docid;
 
   } else if ((match = /^\/?([A-Z-0-9]+)?\/([a-z]+-0*([0-9]+))_?(v[0-9]+)?\/PDF\/[^\/]+.pdf$/i.exec(path)) !== null) {
       //Accès à un document
@@ -58,6 +62,7 @@ module.exports = new Parser(function analyseEC(parsedUrl, ec) {
       result.mime     = 'PDF';
 
       result.hal_identifiant = match[2];
+      result.unitid = result.hal_identifiant;
 
   } else if ((match = /^\/?([A-Z-0-9]+)?\/([a-z]+-0*([0-9]+))_?(v[0-9]+)?\/?(document|image|video|player)?\/?$/i.exec(path)) !== null) {
       //Accès à un document ou à une notice sans collection (avec et sans versions)
@@ -74,6 +79,7 @@ module.exports = new Parser(function analyseEC(parsedUrl, ec) {
       result.rtype    = match[5] ? 'FULLTEXT' : 'NOTICE';
       result.mime     = match[5] ? 'PDF' : 'HTML';
       result.hal_identifiant = match[2];
+      result.unitid = result.hal_identifiant;
 
   } else if ((match = /^\/?([A-Z-0-9]+)?\/([a-z]+-0*([0-9]+))_?(v[0-9]+)?\/?(fr|en|eu|es)?\/?$/i.exec(path)) !== null) {
     //Accès à un document ou à une notice sans collection (avec et sans versions)
@@ -86,6 +92,7 @@ module.exports = new Parser(function analyseEC(parsedUrl, ec) {
     result.rtype    = 'NOTICE';
     result.mime     = 'HTML';
     result.hal_identifiant = match[2];
+      result.unitid = result.hal_identifiant;
 
   } else if ((match = /^\/?([A-Z-0-9]+)?\/([a-z]+-0*([0-9]+))_?(v[0-9]+)?\/(bibtex|tei|dc|dcterms|endNote|rdf)\/?$/i.exec(path)) !== null) {
       /** Accès à une notice dans un format d'export
@@ -98,6 +105,7 @@ module.exports = new Parser(function analyseEC(parsedUrl, ec) {
       result.rtype    = 'EXPORT';
       result.mime     = match[5].toUpperCase();
       result.hal_identifiant = match[2];
+      result.unitid = result.hal_identifiant;
 
   } else if ((match = /^\/?([A-Z-0-9]+)?\/view\/index(\/|\?)(docid|identifiant)(\/|=)(([a-z]+-)?0*([0-9]+))_?(v[0-9]+)?\/?$/i.exec(path)) !== null) {
     // Accès à une notice HTML (avec et sans versions) (avec et sans collections)
@@ -114,6 +122,7 @@ module.exports = new Parser(function analyseEC(parsedUrl, ec) {
 
     result.rtype    = 'NOTICE';
     result.mime     = 'HTML';
+    result.unitid = match[5];
 
     if (match[3].toUpperCase() == 'DOCID') {
         result.hal_docid = match[5];
@@ -137,6 +146,7 @@ module.exports = new Parser(function analyseEC(parsedUrl, ec) {
 
     result.rtype    = 'FULLTEXT';
     result.mime     = 'PDF';
+    result.unitid = match[5];
 
     if (match[3].toUpperCase() == 'DOCID') {
         result.hal_docid = match[5];
@@ -155,6 +165,7 @@ module.exports = new Parser(function analyseEC(parsedUrl, ec) {
     result.mime     = 'PDF';
 
     result.hal_identifiant = match[2];
+    result.unitid = result.hal_identifiant;
 
   } else if ((match = /^\/?([A-Z-0-9]+)?\/view\/index(\/|\?)(docid|identifiant)(\/|=)(([a-z]+-)?0*([0-9]+))_?(v[0-9]+)?\/([a-zA-Z]*)\/?$/i.exec(path)) !== null) {
       /** Accès à une notice dans un format d'export
@@ -167,6 +178,7 @@ module.exports = new Parser(function analyseEC(parsedUrl, ec) {
 
       result.rtype    = 'EXPORT';
       result.mime     = match[9].toUpperCase();
+      result.unitid = match[5];
 
       if (match[3].toUpperCase() == 'DOCID') {
           result.hal_docid = match[5];
