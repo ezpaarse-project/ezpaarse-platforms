@@ -1,0 +1,13 @@
+{
+  "longname": "Edition Diamond",
+  "name": "ed-diamond",
+  "describe": "Recognizes the accesses to the platform Edition Diamond",
+  "contact": "Laurent Lhuillier",
+  "pkb": false,
+  "docurl": "http://analyses.ezpaarse.org/platforms/5abcaa1b60ecd3ec4fecc783",
+  "domains": [
+    "connect.ed-diamond.com"
+  ],
+  "version": "2018-09-27",
+  "status": "beta"
+}
