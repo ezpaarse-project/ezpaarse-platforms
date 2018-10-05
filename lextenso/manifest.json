@@ -1,13 +1,13 @@
 {
   "name": "lextenso",
   "version": "2013-05-17",
-  "status": "stable",
-  "trello": "https://trello.com/c/vadEqjdD",
+  "status": "beta",
+  "trello": "https://trello.com/c/aptv20e0/",
   "longname": "Lextenso",
   "publisher_name": "Lextenso éditions",
   "describe": "Identifie les consultations de la base de droit lextenso fr",
-  "docurl": "http://analyses.ezpaarse.org/platforms/54106b47742bcf8d25d05eb5",
-  "contact": "Karine Delvert et Thomas Jouneau",
+  "docurl": "http://ang.couperin.org/platforms/56cef8c4a4d25b8792fed8ba",
+  "contact": "Karine Delvert, Thomas Jouneau, Laurent Lhuillier",
 	"domains": [
     "www.lextenso.fr"
 	],
@@ -17,12 +17,12 @@
       "unitid"
     ],
     "rtype": [
+      "TOC",
       "ARTICLE",
       "JURISPRUDENCE"
     ],
     "mime": [
-      "HTML",
-      "MISC"
+      "HTML"
     ]
   }
 }
