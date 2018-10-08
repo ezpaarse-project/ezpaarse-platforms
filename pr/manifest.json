@@ -1,0 +1,13 @@
+{
+  "longname": "PressReader",
+  "name": "pr",
+  "describe": "Recognizes the accesses to the platform PressReader",
+  "contact": "Marine Rigeade, Pascale Pauplin, timothee.rony, Frederic Truong inist",
+  "pkb": false,
+  "docurl": "http://ang.couperin.org/platforms/5a01d089850b09ec1bb4720d",
+  "domains": [
+    "www.pressreader.com"
+  ],
+  "version": "2018-10-08",
+  "status": "beta"
+}
