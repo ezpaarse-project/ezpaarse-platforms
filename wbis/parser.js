@@ -51,7 +51,7 @@ module.exports = new Parser(function analyseEC(parsedUrl, ec) {
     result.unitid = match[1];
     result.rtype = 'REF';
     result.mime = 'MISC';
-    
+
     if (match[3] && match[3] === 'pdf') {
       result.mime = 'PDF';
     }

@@ -10,45 +10,51 @@ module.exports = new Parser(function analyseEC(parsedUrl) {
   let match;
 
   if ((match = /\/journal(\/volumesAndIssues)?\/([0-9]+)/.exec(path)) !== null) {
-    // http://link.springer.com/journal/10696
-    // http://link.springer.com/journal/volumesAndIssues/436
+    // /journal/10696
+    // /journal/volumesAndIssues/436
     result.title_id = match[2];
     result.unitid   = match[2];
     result.rtype    = 'TOC';
     result.mime     = 'MISC';
 
-  } else if ((match = /^\/(article|book|protocol)\/([0-9]+\.[0-9]+\/[^/]+)(\/page\/[0-9]+)?(\/fulltext.html)?/.exec(path)) !== null) {
+  } else if ((match = /^\/(article|book|protocol|referenceworkentry)\/(10\.[0-9]+\/([^/]+))(\/page\/[0-9]+)?(\/fulltext.html)?/.exec(path)) !== null) {
     result.doi    = match[2];
-    result.unitid = match[2].split('/')[1] + (match[3] || '');
+    result.unitid = match[3] + (match[4] || '');
 
     switch (match[1]) {
     case 'article':
-      // http://link.springer.com/article/10.1007/s10696-011-9117-0/fulltext.html
-      // http://link.springer.com/article/10.1007/s10696-011-9117-0
+      // /article/10.1007/s10696-011-9117-0/fulltext.html
+      // /article/10.1007/s10696-011-9117-0
       result.rtype = 'ARTICLE';
       result.mime  = 'HTML';
       break;
     case 'book':
-      // http://link.springer.com/book/10.1007/BFb0009075/page/1
+      // /book/10.1007/BFb0009075/page/1
       result.rtype = 'BOOK';
       result.mime  = 'HTML';
+
       if (/^\/book\/([0-9]+\.[0-9]+\/([0-9-])+)$/.test(path)) {
-        // http://link.springer.com/book/10.1007/978-3-642-45082-2
-        result.rtype             = 'TOC';
-        result.mime              = 'MISC';
-        result.online_identifier = match[2].split('/')[1];
+        // /book/10.1007/978-3-642-45082-2
+        result.rtype = 'TOC';
+        result.mime  = 'MISC';
+        result.online_identifier = match[3];
       }
       break;
+    case 'referenceworkentry':
+      // /referenceworkentry/10.1007/978-3-319-01904-8_3-1
+      result.rtype = 'BOOK_SECTION';
+      result.mime  = 'HTML';
+      break;
     case 'protocol':
-      // http://link.springer.com/protocol/10.1007/978-1-61779-998-3_39
+      // /protocol/10.1007/978-1-61779-998-3_39
       result.rtype = 'BOOK';
       result.mime  = 'HTML';
       break;
     }
 
   } else if ((match = /^\/content\/pdf\/(10\.[0-9]+\/(.+?))(\.pdf)?$/.exec(path)) !== null) {
-    // http://link.springer.com/content/pdf/10.1007/s00359-010-0615-4
-    //content/pdf/10.1007%2F978-3-642-45082-2.pdf
+    // /content/pdf/10.1007/s00359-010-0615-4
+    // /content/pdf/10.1007%2F978-3-642-45082-2.pdf
 
     result.doi    = match[1];
     result.unitid = match[2];
@@ -56,34 +62,34 @@ module.exports = new Parser(function analyseEC(parsedUrl) {
     result.mime   = 'PDF';
 
     if (/^(\d-*){13}(?![\d-])/.test(match[2])) {
-      result.rtype = 'BOOK';
+      result.rtype = match[2].includes('_') ? 'BOOK_SECTION' : 'BOOK';
     }
 
   } else if ((match = /^\/content\/([0-9]{4}-[0-9]{4})/.exec(path)) !== null) {
-    // http://www.springerlink.com/content/1590-4261
+    // /content/1590-4261
     result.print_identifier = match[1];
     result.unitid           = match[1];
     result.rtype            = 'TOC';
     result.mime             = 'MISC';
 
   } else if ((match = /^\/content\/([a-zA-Z0-9]+)(\/fulltext.pdf)?/.exec(path)) !== null) {
-    // http://www.springerlink.com/content/1643m244v35p35n5/
-    // http://www.springerlink.com/content/m181480225654444/fulltext.pdf
+    // /content/1643m244v35p35n5/
+    // /content/m181480225654444/fulltext.pdf
     result.unitid = match[1];
     result.rtype  = 'ABS';
     result.mime   = 'MISC';
 
   } else if ((match = /^\/chapter\/(([0-9]+\.[0-9]+)\/([^/]*))(\/([a-z]+)\.html)?/.exec(path)) !== null) {
-    // http://link.springer.com/chapter/10.1007/978-3-540-71233-6_4
-    //http://link.springer.com/chapter/10.1007/978-3-642-45082-2_1/fulltext.html
+    // /chapter/10.1007/978-3-540-71233-6_4
+    // /chapter/10.1007/978-3-642-45082-2_1/fulltext.html
     result.doi    = match[1];
     result.unitid = match[3];
     result.rtype  = 'BOOK_SECTION';
     result.mime   = 'HTML';
 
   } else if ((match = /^\/(book)?series\/([0-9]+)/.exec(path)) !== null) {
-    // http://link.springer.com/bookseries/7651
-    // http://www.springer.com/series/7651
+    // /bookseries/7651
+    // /series/7651
     result.title_id = match[2];
     result.unitid   = match[2];
     result.rtype    = 'BOOKSERIE';
@@ -91,7 +97,7 @@ module.exports = new Parser(function analyseEC(parsedUrl) {
 
   } else if ((match = /^\/openurl.asp/.exec(path)) !== null) {
     if (param.genre && param.genre == 'journal') {
-      // http://www.springerlink.com/openurl.asp?genre=journal&issn=1633-8065
+      // /openurl.asp?genre=journal&issn=1633-8065
       if (param.issn) {
         result.print_identifier = param.issn;
         result.unitid = param.issn;
@@ -156,7 +162,7 @@ module.exports = new Parser(function analyseEC(parsedUrl) {
     result.mime     = 'EPUB';
   }
   // title_id can be extracted from the doi
-  // http://link.springer.com/content/pdf/10.1007/s00359-010-0615-4
+  // /content/pdf/10.1007/s00359-010-0615-4
   //           then 00359 is the pid
   if (result.doi) {
     const title_id = new RegExp('/s([0-9]+)-').exec(result.doi);
