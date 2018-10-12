@@ -14,7 +14,9 @@
   "recognize": {
     "rid": [
       "title_id",
-      "unitid"
+      "unitid",
+      "print_identifier",
+      "publication_title"
     ],
     "rtype": [
       "TOC",
