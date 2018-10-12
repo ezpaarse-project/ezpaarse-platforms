@@ -16,7 +16,7 @@ module.exports = new Parser(function analyseEC(parsedUrl, ec) {
   const param  = parsedUrl.query || {};
   let match;
 
-  if ((match = /^\/document\/([0-9]+)$/i.exec(path)) !== null) {
+  if ((match = /^\/document\/([0-9]+)\/?$/i.exec(path)) !== null) {
     // /document/8122856
     result.rtype  = 'ARTICLE';
     result.mime   = 'HTML';
@@ -83,13 +83,13 @@ module.exports = new Parser(function analyseEC(parsedUrl, ec) {
     result.title_id = param.arnumber;
     result.unitid   = param.arnumber;
 
-  } else if ((match = /^\/courses\/content\/([a-z0-9]+)\/data\/swf/i.exec(path)) != null) {
+  } else if ((match = /^\/courses\/content\/([a-z0-9]+)\/data\/swf\/?/i.exec(path)) != null) {
     // /courses/content/EW1305/data/swf/
     result.rtype  = 'ONLINE_COURSE';
     result.mime   = 'FLASH';
     result.unitid = match[1];
 
-  } else if ((match = /^\/courses\/details\/([a-z0-9]+)/i.exec(path)) != null) {
+  } else if ((match = /^\/courses\/details\/([a-z0-9]+)\/?/i.exec(path)) != null) {
     // /courses/details/EDP305
     result.rtype  = 'ABS';
     result.mime   = 'MISC';
