@@ -1,0 +1,13 @@
+{
+  "longname": "Bibliothèque numérique de Droit de la Santé et d'éthique médicale",
+  "name": "bnds",
+  "describe": "Recognizes the accesses to the platform Bibliothèque numérique de Droit de la Santé et d'éthique médicale",
+  "contact": "Laurence Sunyach, Catherine Bonin, crepin, Frederic Truong inist, Laurent Lhuillier",
+  "pkb": false,
+  "docurl": "http://analyses.ezpaarse.org/platforms/5538f9e969aadac09bc1f694",
+  "domains": [
+    "www.bnds.fr"
+  ],
+  "version": "2018-10-12",
+  "status": "beta"
+}
