@@ -1,0 +1,17 @@
+{
+  "version": "2018-10-11",
+  "status": "beta",
+  "domains": [
+    "online.statref.com",
+    "www.statref.com"
+  ],
+  "recognize": {
+    "rid": []
+  },
+  "name": "statref",
+  "longname": "STAT!Ref",
+  "describe": "Recognizes the accesses to the platform STAT!Ref",
+  "docurl": "http://analogist.couperin.org/platforms/547f4092aa78da96136cb762",
+  "contact": "alexander.cooper@emory.edu",
+  "pkb": false
+}
