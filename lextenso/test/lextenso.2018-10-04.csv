@@ -1,9 +1,9 @@
-out-title_id;out-unitid;out-rtype;out-mime;in-url
-DFF;DFF201839;TOC;HTML;https://www.lextenso.fr/revue/DFF/2018/39
-EDCO;EDCO11602311602;ARTICLE;HTML;https://www.lextenso.fr/lessentiel-droit-des-contrats/EDCO-116023-11602
-PA;PA199902103;ARTICLE;HTML;https://www.lextenso.fr/petites-affiches/PA199902103
-PA;PA201602202;ARTICLE;HTML;https://www.lextenso.fr/petites-affiches/PA201602202
-CONSTEXT;CONSTEXT000031256027;JURISPRUDENCE;HTML;https://www.lextenso.fr/jurisprudence/CONSTEXT000031256027
-CAPARIS;CAPARIS1804201310_21459;JURISPRUDENCE;HTML;https://www.lextenso.fr/jurisprudence/CAPARIS-18042013-10_21459
-BJB;BJB201805;TOC;HTML;https://www.lextenso.fr/revue/BJB/2018/05
-;;;;https://www.lextenso.fr/lextenso/rechercher?search=d%C3%A9penses%20publiques&idx=prod_lextenso&page=0&dFR%5Btab_type_doc%5D%5B0%5D=revue%3ARevue%20fran%C3%A7aise%20de%20finances%20publiques&fR%5BECLI%5D%5B0%5D=&fR%5Bids_secondaires%5D%5B0%5D=&source=7
+out-publication_title;out-print_identifier;out-title_id;out-unitid;out-rtype;out-mime;in-url
+Flash Defrénois;2112-776X;DFF;DFF201839;TOC;HTML;https://www.lextenso.fr/revue/DFF/2018/39
+Essentiel Droit des contrats;1961-4942;EDCO;EDCO11602311602;ARTICLE;HTML;https://www.lextenso.fr/lessentiel-droit-des-contrats/EDCO-116023-11602
+Petites Affiches;0999-2170;PA;PA199902103;ARTICLE;HTML;https://www.lextenso.fr/petites-affiches/PA199902103
+Petites Affiches;0999-2170;PA;PA201602202;ARTICLE;HTML;https://www.lextenso.fr/petites-affiches/PA201602202
+;;CONSTEXT;CONSTEXT000031256027;JURISPRUDENCE;HTML;https://www.lextenso.fr/jurisprudence/CONSTEXT000031256027
+;;CAPARIS;CAPARIS1804201310_21459;JURISPRUDENCE;HTML;https://www.lextenso.fr/jurisprudence/CAPARIS-18042013-10_21459
+Bulletin Joly Bourse;1638-9468;BJB;BJB201805;TOC;HTML;https://www.lextenso.fr/revue/BJB/2018/05
+;;;;;;https://www.lextenso.fr/lextenso/rechercher?search=d%C3%A9penses%20publiques&idx=prod_lextenso&page=0&dFR%5Btab_type_doc%5D%5B0%5D=revue%3ARevue%20fran%C3%A7aise%20de%20finances%20publiques&fR%5BECLI%5D%5B0%5D=&fR%5Bids_secondaires%5D%5B0%5D=&source=7
