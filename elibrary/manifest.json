@@ -1,0 +1,28 @@
+{
+  "longname": "Elsevier Elibrary",
+  "name": "elibrary",
+  "describe": "Recognizes the accesses to the platform Elsevier Elibrary",
+  "contact": "Cécile Girbon, Laurent Lhuillier",
+  "pkb": false,
+  "docurl": "http://analogist.couperin.org/platforms/595ce1e48c6ed7d2ad5cc4bc",
+  "domains": [
+    "www.elsevierelibrary.fr"
+  ],
+  "version": "2018-10-16",
+  "status": "beta",
+  "recognize": {
+    "rid": [
+      "title_id",
+      "unitid"
+    ],
+    "rtype": [
+      "ABS",
+      "BOOK"
+    ],
+    "mime": [
+      "PDF",
+      "EPUB",
+      "HTML"
+    ]
+  }
+}
