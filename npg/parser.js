@@ -99,6 +99,13 @@ module.exports = new Parser(function analyseEC(parsedUrl) {
     result.rtype    = 'TOC';
     result.mime     = 'MISC';
 
+  } else if ((match = /^\/magazine-assets\/[a-z0-9-]+\/([a-z0-9-]+)\.pdf$/i.exec(path)) !== null) {
+    // /magazine-assets/d41586-018-06997-8/d41586-018-06997-8.pdf
+    result.rtype  = 'ARTICLE';
+    result.mime   = 'PDF';
+    result.unitid = match[1];
+    result.doi    = `${doiPrefix}/${match[1]}`;
+
   } else if ((match = /^\/articles\/(?:doi:([0-9]+\.[0-9]+)\/)?([a-z0-9.\-_]+?)(\.[a-z]{2,})?$/i.exec(path)) !== null) {
     // /articles/doi:10.1038/nature16976.epdf?parent_url=http%3A%2F%2Fwww.readcube.com%2Farticles%2F10.1038%252Fnature16976&pdf_url=http%3A%2F%2Fwww.nature.com%2Fnature%2Fjournal%2Fv531%2Fn7592%2Fpdf%2Fnature16976.pdf
     // /articles/nature16976.epdf?parent_url=http%3A%2F%2Fwww.readcube.com%2Farticles%2F10.1038%252Fnature16976&pdf_url=http%3A%2F%2Fwww.nature.com%2Fnature%2Fjournal%2Fv531%2Fn7592%2Fpdf%2Fnature16976.pdf
