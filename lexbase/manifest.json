@@ -1,0 +1,13 @@
+{
+  "longname": "Lexbase",
+  "name": "lexbase",
+  "describe": "Recognizes the accesses to the platform Lexbase",
+  "contact": "Yassine El Bouchikhi, Marine Rigeade, Pascale Pauplin, Laurent Lhuillier",
+  "pkb": false,
+  "docurl": "http://analyses.ezpaarse.org/platforms/552ceae01cfa5a7324cc617b",
+  "domains": [
+    "www.lexbase.fr"
+  ],
+  "version": "2018-10-22",
+  "status": "beta"
+}
