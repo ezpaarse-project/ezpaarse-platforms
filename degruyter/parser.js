@@ -3,6 +3,8 @@
 'use strict';
 const Parser = require('../.lib/parser.js');
 
+const doiPrefix = '10.1515';
+
 /**
  * Identifie les consultations de la plateforme De Gruyter
  * @param  {Object} parsedUrl an object representing the URL to analyze
@@ -14,94 +16,58 @@ module.exports = new Parser(function analyseEC(parsedUrl, ec) {
   let result = {};
   let path   = parsedUrl.pathname;
   let match;
-  let info;
 
-  // letiable qui va contenir le volume l'issue et numéro de page
-  let infodetail;
-
-  if ((match = /^\/view\/([a-z]+)\/(([a-z]+)\.([0-9]+)\.([0-9]+)\.([a-z]+)-([0-9]+))\/([a-z0-9-]*)\/([^]*).xml$/i.exec(path)) !== null) {
-    //view/j/jtms.2014.1.issue-2/issue-files/jtms.2014.1.
-    //issue-2.xml
-    //view/j/jtms.2014.1.issue-2/jtms-2014-0026/jtms-2014-0026.xml?format=INT
+  if ((match = /^\/view\/[a-z]+\/([a-z]+)\.([0-9]+)\.([0-9]+)\.issue-([0-9]+)\/([a-z0-9-]+)\/([a-z0-9._-]+).xml$/i.exec(path)) !== null) {
+    // /view/j/jtms.2014.1.issue-2/issue-files/jtms.2014.1.issue-2.xml
+    // /view/j/jtms.2014.1.issue-2/jtms-2014-0026/jtms-2014-0026.xml?format=INT
     result.rtype            = 'TOC';
     result.mime             = 'HTML';
-    result.title_id         = match[3];
-    result.vol              = match[5];
-    result.issue            = match[7];
-    result.unitid           = match[9];
-    result.publication_date = match[4];
+    result.title_id         = match[1];
+    result.publication_date = match[2];
+    result.vol              = match[3];
+    result.issue            = match[4];
+    result.unitid           = match[6];
 
-    if (match[8] !== 'issue-files') {
-      result.doi   = '10.1515/' + match[8];
+    if (match[5] !== 'issue-files') {
+      result.doi   = `${doiPrefix}/${match[5]}`;
       result.rtype = 'PREVIEW';
     }
 
-  } else if ((match = /^\/dg\/([^]*)\/([^]*)\/([a-z0-9-]+).pdf$/i.exec(path)) !== null) {
-    ///dg/viewarticle.fullcontentlink:pdfeventlink/$002fj$002fling.2012.50.issue-4$002fling-2012-0026$002fling-2012-0026.pdf/ling-2012-0026.pdf
-
-    info = match[2].split('$002f');
-
-    result.publication_date = info[2].split('.')[1];
-    result.title_id         = info[2].split('.')[0];
-    result.issue            = info[2].split('.')[3].replace('issue-', '');
-    result.unitid           = info[4];
-
-    if ((infodetail = /^([a-z]+)\.([0-9]+)\.([0-9]+)\.([0-9-]+)\.([0-9]+)\.([a-z]+)/.exec(info[4])) !== null) {
-      result.vol        = infodetail[3];
-      result.first_page = infodetail[5];
-    }
+  } else if ((match = /^\/dg\/view(article|journalissue)[a-z.:]+\/\$002f[a-z]+\$002f([a-z]+)\.([0-9]{4})[0-9.]+issue-([0-9-]+)\$002f.+?\$002f(.+?)\.pdf(\/[a-z0-9._-]+)?$/i.exec(path)) !== null) {
+    // /dg/viewarticle.fullcontentlink:pdfeventlink/$002fj$002fetly.2011.2011.issue-1$002f9783110239423.200$002f9783110239423.200.pdf
+    // /dg/viewarticle.fullcontentlink:pdfeventlink/$002fj$002fkant.1957.48.issue-1-4$002fkant.1957.48.1-4.185$002fkant.1957.48.1-4.185.pdf
+    // /dg/viewarticle.fullcontentlink:pdfeventlink/$002fj$002fling.2012.50.issue-4$002fling-2012-0026$002fling-2012-0026.pdf/ling-2012-0026.pdf
+    // /dg/viewjournalissue.articlelist.resultlinks.fullcontentlink:pdfeventlink/$002fj$002fetly.2011.2011.issue-1$002f9783110239423.vii$002f9783110239423.vii.pdf
 
     result.mime             = 'PDF';
+    result.rtype            = match[1] === 'article' ? 'ARTICLE' : 'TOC';
+    result.title_id         = match[2];
+    result.publication_date = match[3];
+    result.issue            = match[4];
+    result.unitid           = match[5];
 
-    if (match[1].split('.')[0] === 'viewarticle') {
-      result.rtype = 'ARTICLE';
-    } else {
-      result.rtype = 'TOC';
+    match = /^[a-z]+\.[0-9]{4}\.([0-9]+)\.[0-9-]+\.([0-9]+)+$/i.exec(result.unitid);
+
+    if (match) {
+      result.vol = match[1];
+      result.first_page = match[2];
     }
 
-  } else if ((match = /^\/dg\/([^]*)\/([^]*)$/i.exec(path)) !== null) {
-    //dg/viewarticle.fullcontentlink:pdfeventlink/$002fj$002fetly.2011.2011.
-    //issue-1$002f9783110239423.200$002f9783110239423.200.pdf?
-
-    //dg/viewarticle.fullcontentlink:pdfeventlink/$002fj$002fkant.1957.48.
-    //issue-1-4$002fkant.1957.48.1-4.185$002fkant.1957.48.1-4.185.pdf
-
-    ////$002fj$002fjtms.2015.2.issue-1$002fjtms-2015-frontmatter1$002fjtms-2015-frontmatter1.pdf
-
-    info = match[2].split('$002f');
-
-    result.publication_date = info[2].split('.')[1];
-    result.title_id         = info[2].split('.')[0];
-    result.issue            = info[2].split('.')[3].replace('issue-', '');
-    result.unitid           = info[4];
-
-    if ((infodetail = /^([a-z]+)\.([0-9]+)\.([0-9]+)\.([0-9-]+)\.([0-9]+)\.([a-z]+)/.exec(info[4])) !== null) {
-      result.vol        = infodetail[3];
-      result.first_page = infodetail[5];
-    }
-
-    result.mime = 'PDF';
-
-    if (match[1].split('.')[0] === 'viewarticle') {
-      result.rtype = 'ARTICLE';
-    } else {
-      result.rtype = 'TOC';
-    }
-
-  } else if ((match = /^\/downloadpdf\/([a-z]{1})\/([^]*)\/([^]*)\/([^]*).xml$/i.exec(path)) !== null) {
+  } else if ((match = /^\/downloadpdf\/[a-z]{1}\/([a-z]+)\.([0-9]{4})\.[a-z0-9.-]+\/[a-z0-9.-]+\/([a-z0-9.-]+)\.(xml|pdf)$/i.exec(path)) !== null) {
     // /downloadpdf/j/acs.2016.9.issue-1/acs-2016-0003/acs-2016-0003.xml
+    // /downloadpdf/j/etly.2011.2011.issue-1/9783110239423.121/9783110239423.121.pdf
 
-    info                    = match[2].split('.');
-    result.publication_date = info[1];
-    result.title_id         = info[0];
-    result.doi              = '10.1515/' + match[3];
-    result.unitid           = match[2];
     result.mime             = 'PDF';
     result.rtype            = 'ARTICLE';
+    result.title_id         = match[1];
+    result.publication_date = match[2];
+    result.unitid           = match[3];
+    result.doi              = `${doiPrefix}/${match[3]}`;
 
   } else if ((match = /^(\/printpdf)?\/view\/([a-z]+)\/([0-9a-z_]+)$/i.exec(path)) !== null) {
     // /printpdf/view/AKL/_40431827T3?rskey=tIhc8o&result=1&dbq_0=Gaugeron&dbf_0=akl-fulltext&dbt_0=fulltext&o_0=AND
     // /view/AKL/_40431827T3?rskey=tIhc8o&result=1&dbq_0=Gaugeron&dbf_0=akl-fulltext&dbt_0=fulltext&o_0=AND
+
     result.rtype    = 'BIO';
     result.mime     = match[1] ? 'PDF' : 'HTML';
     result.title_id = match[2].toLowerCase();
