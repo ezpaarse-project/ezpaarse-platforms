@@ -6,6 +6,7 @@ const fs        = require('fs');
 const path      = require('path');
 const assert    = require('assert');
 const Converter = require('csvtojson').Converter;
+const { table } = require('table');
 
 const platformsDir = path.resolve(__dirname, '../..');
 
@@ -24,8 +25,11 @@ platforms
   .forEach(platform => {
 
     let manifest;
-    try { manifest = require(path.resolve(platform, 'manifest.json')); }
-    catch (e) { manifest = e; }
+    try {
+      manifest = JSON.parse(fs.readFileSync(path.resolve(platform, 'manifest.json')));
+    } catch (e) {
+      manifest = e;
+    }
 
     describe(manifest && manifest.longname || path.basename(platform), () => {
       it('works', done => {
@@ -40,23 +44,51 @@ platforms
           try {
             parser = require(path.resolve(platform, 'parser.js'));
             parser.debugMode(true);
+          } catch (e) {
+            return done(e);
           }
-          catch (e) { done(e); }
 
           for (let i = testData.length - 1; i >= 0; i--) {
             const record = testData[i];
             assert(record.in.url, 'some entries in the test file have no URL');
 
             const parsed   = parser.execute(record.in);
-            const allProps = Object.keys(record.out).concat(Object.keys(parsed));
+            const allProps = Array.from(new Set(Object.keys(parsed).concat(Object.keys(record.out))));
             const equal    = allProps.every(p => record.out[p] === parsed[p]);
 
-            if (!equal) {
-              return done(new Error(`result does not match
-            input: ${JSON.stringify(record.in, null, 2)}
-            result: ${JSON.stringify(parsed, null, 2)}
-            expected: ${JSON.stringify(record.out, null, 2)}`));
+            if (equal) { continue; }
+
+            let errMsg = 'Result does not match';
+
+            /**
+             * Input props
+             */
+            errMsg += '\n\nInput\n----------';
+
+            for (const p in record.in) {
+              errMsg += `\n${p}: ${record.in[p]}`;
             }
+
+            /**
+             * Result Table
+             */
+            const rows = [['Property', 'Expected', 'Actual', 'Test']];
+
+            allProps.forEach(p => {
+              rows.push([p, record.out[p], parsed[p], record.out[p] === parsed[p] ? 'OK' : 'FAIL']);
+            });
+
+            errMsg += '\n\n';
+            errMsg += table(rows, {
+              columns: {
+                0: { width: 15 },
+                1: { width: 25 },
+                2: { width: 25 },
+                3: { width: 4 },
+              }
+            });
+
+            return done(new Error(errMsg));
           }
 
           done();
