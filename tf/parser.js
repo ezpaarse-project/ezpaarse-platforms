@@ -16,7 +16,7 @@ module.exports = new Parser(function analyseEC(parsedUrl, ec) {
 
   let match;
 
-  if ((match = /^\/doi\/(full|pdf|abs)\/([0-9.]+\/([0-9a-z.]+))$/.exec(path)) !== null) {
+  if ((match = /^\/doi\/(full|pdf|abs)\/([0-9.]+\/([0-9a-z./-]+))$/.exec(path)) !== null) {
     result.doi    = match[2];
     result.unitid = match[3];
 
