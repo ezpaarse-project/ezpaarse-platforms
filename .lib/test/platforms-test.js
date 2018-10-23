@@ -6,7 +6,7 @@ const fs        = require('fs');
 const path      = require('path');
 const assert    = require('assert');
 const Converter = require('csvtojson').Converter;
-const { table } = require('table');
+const table     = require('table').table;
 
 const platformsDir = path.resolve(__dirname, '../..');
 
