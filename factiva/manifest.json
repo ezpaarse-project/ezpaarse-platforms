@@ -1,0 +1,20 @@
+{
+  "version": "2018-10-19",
+  "status": "stable",
+  "domains": [
+    "suggest.factiva.com",
+    "utilities.factiva.com",
+    "viewer.factiva.com",
+    "www.wsj.com",
+    "global.factiva.com"
+  ],
+  "recognize": {
+    "rid": []
+  },
+  "name": "factiva",
+  "longname": "Factiva",
+  "describe": "Recognizes the accesses to the platform Factiva",
+  "docurl": "http://ang.couperin.org/platforms/54cf77d86fb3dcfacb0a517e",
+  "contact": "alexander.cooper@emory.edu",
+  "pkb": false
+}
