@@ -1,0 +1,22 @@
+{
+  "version": "2018-11-09",
+  "status": "beta",
+  "domains": [
+    "www.routledgehandbooks.com"
+  ],
+  "recognize": {
+    "rid": [
+      "doi",
+      "print_identfier",
+      "title_id",
+      "print_identifier",
+      "unitid"
+    ]
+  },
+  "name": "rho",
+  "longname": "Routledge Handbooks Online",
+  "describe": "Recognizes the accesses to the platform Routledge Handbooks Online",
+  "docurl": "http://ang.couperin.org/platforms/5be5f19e7654f017951ee537",
+  "contact": "acoope5@emory.edu",
+  "pkb": false
+}
