@@ -29,7 +29,7 @@ module.exports = new Parser(function analyseEC(parsedUrl, ec) {
     // http://socio.revues.org/pdf/1882
     // http://journals.openedition.org/crau/pdf/370
 
-    result.rtype    = 'ARTICLEy';
+    result.rtype    = 'ARTICLE';
     result.mime     = match[2].toUpperCase();
     result.title_id = match[1] ? match[1].substr(1) : host.split('.')[0];
     result.unitid   = `${result.title_id}/${match[3]}`;
@@ -42,7 +42,7 @@ module.exports = new Parser(function analyseEC(parsedUrl, ec) {
 
     // if the size is less than 10ko, it's unlikely to be an article
     if (!fileSize || fileSize > 10000) {
-      result.rtype    = 'ARTICLEx';
+      result.rtype    = 'ARTICLE';
       result.mime     = 'HTML';
       result.title_id = match[1] ? match[1].substr(1) : host.split('.')[0];
       result.unitid   = `${result.title_id}/${match[2]}`;
