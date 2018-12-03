@@ -50,6 +50,12 @@ module.exports = new Parser(function analyseEC(parsedUrl, ec) {
     result.mime     = 'HTML';
     result.title_id = match[1];
     result.unitid   = param.uri;
+  } else if ((match = /^\/DirectPDFAccess\/([a-z0-9-]+)_([0-9]+)\/([a-z0-9-]+).pdf$/i.exec(path)) !== null) {
+    // /DirectPDFAccess/AED94277-FE5A-EAC1-DFC3539001173AD4_399103/ol-43-20-5130.pdf
+    result.title_id = match[2];
+    result.unitid = match[3];
+    result.rtype = 'ARTICLE';
+    result.mime = 'PDF';
   }
   return result;
 });
