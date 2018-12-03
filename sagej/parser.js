@@ -31,7 +31,7 @@ module.exports = new Parser(function analyseEC(parsedUrl, ec) {
       result.unitid   = match[2];
     }
 
-  } else if ((match = /^\/doi\/([a-z]+)\/(([0-9]{2})\.([0-9]{4})\/([0-9]+))$/i.exec(path)) !== null) {
+  } else if ((match = /^\/doi\/([a-z]+)\/(([0-9]{2})\.([0-9]{4})\/([0-9a-z_]+))$/i.exec(path)) !== null) {
     //http://journals.sagepub.com/doi/full/10.1177/0022034516639276
     //http://journals.sagepub.com/doi/pdf/10.1177/0022034516639276
     //http://journals.sagepub.com/doi/figure/10.1177/0022034516639276?
