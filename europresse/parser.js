@@ -50,6 +50,10 @@ module.exports = new Parser(function analyseEC(parsedUrl, ec) {
         result.title_id = idElements[1];
       }
     }
+  } else if (/^\/Pdf\/ImageList$/.test(path)) {
+    if (param.docName) result.unitid = param.docName;
+    result.rtype = 'ARTICLE';
+    result.mime = 'PDF';
   }
   return result;
 });
