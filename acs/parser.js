@@ -69,20 +69,13 @@ module.exports = new Parser(function analyseEC(parsedUrl) {
       result.mime  = 'HTML';
       break;
     case 'pdf':
-      result.rtype = result.chapter ? 'BOOK_CHAPTER' : 'ARTICLE';
-      result.mime  = 'PDF';
-      break;
     case 'pdfplus':
     case 'ipdf':
       result.rtype = result.chapter ? 'BOOK_CHAPTER' : 'ARTICLE';
-      result.mime  = 'PDFPLUS';
-      break;
-    case 'full':
-      result.rtype = result.chapter ? 'BOOK_CHAPTER' : 'ARTICLE';
-      result.mime  = 'HTML';
+      result.mime  = 'PDF';
       break;
     default:
-      result.rtype = 'ARTICLE';
+      result.rtype = result.chapter ? 'BOOK_CHAPTER' : 'ARTICLE';
       result.mime  = 'HTML';
     }
   }
