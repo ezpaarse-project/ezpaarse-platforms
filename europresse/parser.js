@@ -1,10 +1,7 @@
 #!/usr/bin/env node
 
-// ##EZPAARSE
-
-/*jslint maxlen: 150*/
 'use strict';
-var Parser = require('../.lib/parser.js');
+const Parser = require('../.lib/parser.js');
 
 /**
  * Identifie les consultations de la plateforme europresse
@@ -14,32 +11,33 @@ var Parser = require('../.lib/parser.js');
  * @return {Object} the result
  */
 module.exports = new Parser(function analyseEC(parsedUrl, ec) {
-  var result = {};
-  var path   = parsedUrl.pathname;
-  var param  = parsedUrl.query || {};
+  const result = {};
+  const path   = parsedUrl.pathname;
+  const param  = parsedUrl.query || {};
+
+  let idElements;
 
 
-  var idElements;
-
-
-  if (/^\/WebPages\/Pdf\/Document.aspx$/.test(path)) {
+  if (/^\/WebPages\/Pdf\/Document.aspx$/i.test(path)) {
     // http://www.bpe.europresse.com.bases-doc.univ-lorraine.fr/WebPages/Pdf/Document.aspx?DocName=pdf%c2%b720140606%c2%b7LM_p%c2%b7LIV6
-    result.rtype    = 'ARTICLE';
-    result.mime     = 'PDF';
+    result.rtype = 'ARTICLE';
+    result.mime  = 'PDF';
+
     if (param.DocName) {
       idElements = param.DocName.split('·');
 
       result.title_id = idElements[2].replace('_p', '');
       result.unitid   = param.DocName;
     }
-  } else if (/^\/WebPages\/Search\/Doc.aspx$/.test(path)) {
+  } else if (/^\/WebPages\/Search\/Doc.aspx$/i.test(path)) {
     // http://www.bpe.europresse.com.bases-doc.univ-lorraine.fr/WebPages/Search/Doc.aspx?
     // DocName=news%C2%B720140606%C2%B7ML%C2%B76225112&ContainerType=SearchResult
     //
     // http://www.bpe.europresse.com.bases-doc.univ-lorraine.fr/WebPages/Search/Doc.aspx?
     // DocName=bio%C2%B7EVI%C2%B72944&ContainerType=SearchResultBio
-    result.rtype    = 'ARTICLE';
-    result.mime     = 'HTML';
+    result.rtype = 'ARTICLE';
+    result.mime  = 'HTML';
+
     if (param.DocName) {
       idElements = param.DocName.split('·');
       result.unitid = param.DocName;
@@ -50,6 +48,11 @@ module.exports = new Parser(function analyseEC(parsedUrl, ec) {
         result.title_id = idElements[1];
       }
     }
+  } else if (/^\/Pdf\/ImageList$/i.test(path)) {
+    result.rtype = 'ARTICLE';
+    result.mime = 'PDF';
+
+    if (param.docName) { result.unitid = param.docName; }
   }
   return result;
 });
