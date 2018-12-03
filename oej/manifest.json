@@ -10,5 +10,9 @@
   "domains": [
     "journals.openedition.org"
   ],
-  "pkb-domains": "pkb-piddomain"
+  "pkb-domains": "pkb-piddomain",
+  "bacon": {
+    "provider": "OPENEDITION",
+    "matches": ["GLOBAL_ALLJOURNALS"]
+  }
 }
