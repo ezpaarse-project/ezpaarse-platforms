@@ -161,6 +161,12 @@ module.exports = new Parser(function analyseEC(parsedUrl, ec) {
       break;
     }
     }
+  } else if ((match = /^\/docserver\/journals\/([0-9]+)\/([0-9a-z_]+).pdf$/i.exec(path)) !== null) {
+    // /docserver/journals/15730255/15730255_12323064_text.pdf
+    result.title_id = match[1];
+    result.unitid = match[2];
+    result.rtype = 'ARTICLE';
+    result.mime = 'PDF';
   }
 
   return result;
