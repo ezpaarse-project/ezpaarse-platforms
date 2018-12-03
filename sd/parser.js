@@ -41,13 +41,13 @@ module.exports = new Parser(function analyseEC(parsedUrl) {
       // The CDI is the 2nd parameter of _tockey (params separated by '#')
       result.title_id = (param._tockey || '').split('#')[2];
       result.rtype    = 'TOC';
-      result.mime     = 'MISC';
+      result.mime     = 'HTML';
       break;
     case 'ArticleURL':
       switch (param._fmt) {
       case 'summary':
         result.rtype = 'ABS';
-        result.mime  = 'MISC';
+        result.mime  = 'HTML';
         break;
       case 'full':
         result.rtype = 'ARTICLE';
@@ -90,7 +90,7 @@ module.exports = new Parser(function analyseEC(parsedUrl) {
 
       if (param._imagekey && param._piikey) {
         result.pii = param._piikey;
-        if ((match = /.?-[^-]+-([0-9]{4})([0-9]{3}[0-9Xx])([0-9A-Za-z]*)-main.pdf$/.exec(param._imagekey)) !== null) {
+        if ((match = /.?-[^-]+-([0-9]{4})([0-9]{3}[0-9Xx])([0-9A-Za-z]*)-main.pdf$/i.exec(param._imagekey)) !== null) {
           // http://www.sciencedirect.com:80/science?_ob=PdfExcerptURL&_imagekey=1-s2.0-0304419X91900078-main.pdf
           // &_piikey=0304419X91900078&_cdi=271120&_user=4046392&_acct=C000061186&_version=1&_userid=4046392
           // &md5=558d565a13699ae0796cdf1f600dafa6&ie=/excerpt.pdf
@@ -101,7 +101,7 @@ module.exports = new Parser(function analyseEC(parsedUrl) {
       }
       break;
     }
-  } else if ((match = /^\/science\/article\/pii\/(([SB])?([0-9]{7}(?:[0-9]{5})?[0-9Xx])[0-9A-Za-z]*)(\/pdf(?:ft)?)?$/.exec(path)) !== null) {
+  } else if ((match = /^\/science\/article\/pii\/(([SB])?([0-9]{7}(?:[0-9]{5})?[0-9Xx])[0-9A-Za-z]*)(\/pdf(?:ft)?)?$/i.exec(path)) !== null) {
     // /science/article/pii/S1369526612001653/pdfft
     // /science/article/pii/S2212671612001011
     // /science/article/pii/B9780124200029100009
@@ -121,7 +121,7 @@ module.exports = new Parser(function analyseEC(parsedUrl) {
       result.print_identifier = `${match[3].substr(0, 4)}-${match[3].substr(4, 4)}`;
     }
 
-  } else if ((match = /^\/science\/(journal|bookseries|handbooks|handbooks|book)\/([0-9Xx]{8,})(\/[0-9]+)?(\/[0-9]+)?$/.exec(path)) !== null) {
+  } else if ((match = /^\/science\/(journal|bookseries|handbooks|book)\/(([0-9Xx]{8,})(\/[0-9]+)?)(\/[0-9]+)?$/i.exec(path)) !== null) {
     // http://www.sciencedirect.com/science/journal/22126716
     // http://www.sciencedirect.com/science/journal/18729312/14
     // http://www.sciencedirect.com/science/bookseries/00652458
@@ -130,24 +130,44 @@ module.exports = new Parser(function analyseEC(parsedUrl) {
     // http://www.sciencedirect.com/science/book/9780122694400
 
     result.rtype    = 'TOC';
-    result.mime     = 'MISC';
+    result.mime     = 'HTML';
     result.unitid   = match[2];
-    result.title_id = match[2];
-
-    if (match[3]) { result.unitid += match[3]; }
+    result.title_id = match[3];
 
     switch (match[1]) {
     case 'journal':
     case 'handbooks':
     case 'bookseries':
-      result.print_identifier = `${match[2].substr(0, 4)}-${match[2].substr(4, 4)}`;
+      result.print_identifier = `${match[3].substr(0, 4)}-${match[3].substr(4, 4)}`;
       break;
     case 'book':
-      result.print_identifier = match[2];
+      result.print_identifier = match[3];
       break;
     }
 
-  } else if ((match = /^\/science\/MiamiMultiMediaURL\/[^/]+(S([0-9]{4})([0-9]{3}[0-9Xx])[a-zA-Z0-9]*).*\.pdf$/.exec(path)) !== null) {
+  } else if ((match = /^\/(journal|bookseries|handbooks|book)(?:\/([0-9x]{8,}))?\/([a-z0-9-_]+)$/i.exec(path)) !== null) {
+    // /bookseries/advances-in-chemical-engineering
+    // /book/9780080274409/science-for-hairdressing-students
+
+    result.rtype    = 'TOC';
+    result.mime     = 'HTML';
+    result.unitid   = match[2] || match[3];
+    result.title_id = match[2] || match[3];
+
+    if (match[2]) {
+      switch (match[1]) {
+      case 'journal':
+      case 'handbooks':
+      case 'bookseries':
+        result.print_identifier = `${match[2].substr(0, 4)}-${match[2].substr(4, 4)}`;
+        break;
+      case 'book':
+        result.print_identifier = match[2];
+        break;
+      }
+    }
+
+  } else if ((match = /^\/science\/MiamiMultiMediaURL\/[^/]+(S([0-9]{4})([0-9]{3}[0-9Xx])[a-zA-Z0-9]*).*\.pdf$/i.exec(path)) !== null) {
     // http://www.sciencedirect.com:80/science/MiamiMultiMediaURL/1-s2.0-S0960982213001917/1-s2.0-S0960982213001917-mmc1.pdf
     // /272099/FULL/S0960982213001917/b60b292cd91d2846ac711a4e83db83a3/mmc1.pdf
     result.pii              = result.unitid = match[1];
@@ -156,7 +176,7 @@ module.exports = new Parser(function analyseEC(parsedUrl) {
     result.rtype            = 'ARTICLE';
     result.mime             = 'PDF';
 
-  } else if ((match = /^\/(([SB])?([0-9]{7}(?:[0-9]{5})?[0-9Xx])[0-9A-Za-z]*)\/[0-9A-Za-z\-.]*-main\.pdf$/.exec(path)) !== null) {
+  } else if ((match = /^\/(([SB])?([0-9]{7}(?:[0-9]{5})?[0-9Xx])[0-9A-Za-z]*)\/[0-9A-Za-z\-.]*-main\.pdf$/i.exec(path)) !== null) {
     // http://ac.els-cdn.com/S0967586808000258/1-s2.0-S0967586808000258-main.pdf?
     // _tid=2146516a-82a7-11e3-a57f-00000aab0f6b&acdnat=1390314188_e595d0b375febbda9fdd48d069be9b55
     // ou
@@ -179,7 +199,7 @@ module.exports = new Parser(function analyseEC(parsedUrl) {
 
   } else if (path === '/science/publication') {
     result.rtype = 'TOC';
-    result.mime  = 'MISC';
+    result.mime  = 'HTML';
 
     if (param.issn) {
       result.print_identifier = `${param.issn.substr(0, 4)}-${param.issn.substr(4, 4)}`;

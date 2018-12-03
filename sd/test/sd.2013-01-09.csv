@@ -1,15 +1,15 @@
 out-pii;out-print_identifier;out-title_id;out-unitid;out-rtype;out-mime;in-url
 S2210776212002517;2210-7762;22107762;S2210776212002517;ARTICLE;PDF;http://pdn.sciencedirect.com/science?_ob=MiamiImageURL&_cid=270560&_user=4046392&_pii=S2210776212002517&_check=y&_origin=article&_zone=toolbar&_coverDate=17-Nov-2012&view=c&originContentFamily=serial&wchp=dGLbVBA-zSkWb&md5=4c5f2185629d771211269e2d5a9f1aa5&pid=1-s2.0-S2210776212002517-main.pdf&sqtrkid=0.19135035999000627
 S1872203212000455;1872-2032;18722032;S1872203212000455;ARTICLE;HTML;http://www.sciencedirect.com/science/article/pii/S1872203212000455
-;9780122191350;9780122191350;9780122191350;TOC;MISC;http://www.sciencedirect.com/science/book/9780122191350
+;9780122191350;9780122191350;9780122191350;TOC;HTML;http://www.sciencedirect.com/science/book/9780122191350
 089953629390007D;0899-5362;08995362;089953629390007D;ARTICLE;HTML;http://www.sciencedirect.com/science/article/pii/089953629390007D
-;0065-2296;00652296;00652296;TOC;MISC;http://www.sciencedirect.com/science/bookseries/00652296
-;1570-7946;15707946;15707946/30;TOC;MISC;http://www.sciencedirect.com/science/bookseries/15707946/30
-;1044-5323;10445323;10445323;TOC;MISC;http://www.sciencedirect.com/science/journal/10445323
+;0065-2296;00652296;00652296;TOC;HTML;http://www.sciencedirect.com/science/bookseries/00652296
+;1570-7946;15707946;15707946/30;TOC;HTML;http://www.sciencedirect.com/science/bookseries/15707946/30
+;1044-5323;10445323;10445323;TOC;HTML;http://www.sciencedirect.com/science/journal/10445323
 S0167527311001239;0167-5273;01675273;S0167527311001239;ARTICLE;PDF;http://www.sciencedirect.com/science/science?_ob=MiamiImageURL&_cid=271057&_user=4046392&_pii=S0167527311001239&_check=y&_origin=article&_coverDate=2012-02-23&_piiSuggestedFrom=S0167527311001239&wchp=dGLbVlV-zSkWz&md5=8814412f3a409d87fcc9d48fd9b11d0b&pid=1-s2.0-S0167527311001239-main.pdf
 B9780122694400500017;9780122694400;9780122694400;B9780122694400500017;BOOK_SECTION;PDF;http://pdn.sciencedirect.com/science?_ob=MiamiImageURL&_cid=276181&_user=4046392&_pii=B9780122694400500017&_check=y&_origin=browse&_zone=rslt_list_item&_coverDate=1996-12-31&wchp=dGLzVlV-zSkWz&md5=7e7ed3b95463e5438053bb62f487cf57&pid=3-s2.0-B9780122694400500017-main.pdf
-;0167-3785;01673785;01673785;TOC;MISC;http://www.sciencedirect.com/science/handbooks/01673785
-;0167-3785;01673785;01673785/11;TOC;MISC;http://www.sciencedirect.com/science/handbooks/01673785/11
+;0167-3785;01673785;01673785;TOC;HTML;http://www.sciencedirect.com/science/handbooks/01673785
+;0167-3785;01673785;01673785/11;TOC;HTML;http://www.sciencedirect.com/science/handbooks/01673785/11
 S0967586808000258;0967-5868;09675868;S0967586808000258;ARTICLE;PDF;http://ac.els-cdn.com/S0967586808000258/1-s2.0-S0967586808000258-main.pdf?_tid=2146516a-82a7-11e3-a57f-00000aab0f6b&acdnat=1390314188_e595d0b375febbda9fdd48d069be9b55
 S1369526612001653;1369-5266;13695266;S1369526612001653;ARTICLE;PDF;http://www.sciencedirect.com/science/article/pii/S1369526612001653/pdfft?md5=c6511f076fa8b25969d8e223410bfb0f&pid=1-s2.0-S1369526612001653-main.pdf
 B9780124200029100009;9780124200029;9780124200029;B9780124200029100009;BOOK_SECTION;HTML;http://www.sciencedirect.com/science/article/pii/B9780124200029100009
@@ -26,3 +26,5 @@ B9780124171626000043;9780124171626;9780124171626;B9780124171626000043;BOOK_SECTI
 001623619190007W;0016-2361;00162361;001623619190007W;ARTICLE;PDF;http://ac.els-cdn.com/001623619190007W/1-s2.0-001623619190007W-main.pdf?_tid=32af46f6-ca66-11e5-a97d-00000aab0f26&acdnat=1454497779_5b0695e232cba10099a7cf404014fb22
 S1872931216X00026;1872-9312;18729312;1-s2.0-S1872931216X00026;ARTICLES_BUNDLE;PDF;http://www.sciencedirect.com/science/journal/18729312/14?_ob=PdfDownloadURL&_method=download&_orig=PublicationURL&_hubEid=1-s2.0-S1872931216X00026&_auth=y&_version=1&refSource=toc&_pubType=J&PDF_DDM_MAX=25&_cid=274159&chunk=0&view=c&go=&nextVector=&prevVector=&chunkSize=100&hitCount=9&count=9&pdfDownload=download&hubEID=&zone=exportDropDown&citation-type=RIS&format=cite-abs&count=9&md5=f1e460e6d24de90829a56e783c132f16
 ;9780124104723;9780124104723;9780124104723;BOOK_CHAPTERS_BUNDLE;PDF;http://www.sciencedirect.com/science?_ob=PdfDownloadURL&_method=download&_orig=browse&_cid=311736&_isbn=9780124104723&isBook=book&indexType=TC&count=1000&passBkMend=Y&PDF_DDM_MAX=16&pdfDownload=download&zone=exportDropDown&citation-type=RIS&format=cite-abs&_subId=35702469&md5=040e51482b5ed48dd2606445b294903c
+;9780080274409;9780080274409;9780080274409;TOC;HTML;https://www.sciencedirect.com/book/9780080274409/science-for-hairdressing-students
+;;advances-in-chemical-engineering;advances-in-chemical-engineering;TOC;HTML;https://www.sciencedirect.com/bookseries/advances-in-chemical-engineering
