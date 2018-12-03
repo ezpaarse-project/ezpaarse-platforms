@@ -1,0 +1,14 @@
+{
+  "longname": "Generalis-Indexpresse",
+  "name": "gi",
+  "describe": "Recognizes the accesses to the platform Generalis-Indexpresse",
+  "contact": "N.Starobinsky, timothee.rony, Frederic Truong inist",
+  "pkb": true,
+  "pkb-domains": "",
+  "docurl": "http://analyses.ezpaarse.org/platforms/54c76aea603d68ad0ad3a61d",
+  "domains": [
+    "www.generalis-indexpresse.com"
+  ],
+  "version": "2018-12-03",
+  "status": "beta"
+}
