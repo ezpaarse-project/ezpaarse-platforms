@@ -11,5 +11,9 @@
   "pkb": true,
 	"domains": [
     "books.openedition.org"
-	]
+  ],
+  "bacon": {
+    "provider": "OPENEDITION",
+    "matches": ["GLOBAL_ALLEBOOKS"]
+  }
 }

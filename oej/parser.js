@@ -20,7 +20,8 @@ module.exports = new Parser(function analyseEC(parsedUrl, ec) {
   let match;
 
   // URLs with "format=..." are just partial pages
-  if (param.format) {
+  // AD : norecordurl=1 ; format can be used
+  if (param.norecordurl) {
     return result;
   }
 
@@ -30,6 +31,7 @@ module.exports = new Parser(function analyseEC(parsedUrl, ec) {
 
     result.rtype    = 'ARTICLE';
     result.mime     = match[2].toUpperCase();
+    result.lodelid  = match[3];
     result.title_id = match[1] ? match[1].substr(1) : host.split('.')[0];
     result.unitid   = `${result.title_id}/${match[3]}`;
     result.doi      = `${doiPrefix}/${result.title_id}.${match[3]}`;
@@ -42,6 +44,7 @@ module.exports = new Parser(function analyseEC(parsedUrl, ec) {
     if (!fileSize || fileSize > 10000) {
       result.rtype    = 'ARTICLE';
       result.mime     = 'HTML';
+      result.lodelid  = match[2];
       result.title_id = match[1] ? match[1].substr(1) : host.split('.')[0];
       result.unitid   = `${result.title_id}/${match[2]}`;
       result.doi      = `${doiPrefix}/${result.title_id}.${match[2]}`;
