@@ -52,7 +52,7 @@ module.exports = new Parser(function analyseEC(parsedUrl, ec) {
     result.rtype = 'ARTICLE';
     result.mime = 'PDF';
 
-    if (param.docName) { result.unitid = param.docName; }
+    if (param.docName) { result.unitid = decodeURIComponent(param.docName); }
   }
   return result;
 });
