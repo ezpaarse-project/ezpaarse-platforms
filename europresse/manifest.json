@@ -3,19 +3,12 @@
   "status": "stable",
   "trello": "https://trello.com/c/dMkxv6u5",
   "domains": [
-    "www.bpe.europresse.com"
+    "www.bpe.europresse.com",
+    "nouveau.europresse.com"
   ],
-  "recognize": {
-    "rid": [
-      "title_id"
-    ],
-    "rtype": [
-      "ARTICLE"
-    ],
-    "mime": [
-      "HTML",
-      "PDF"
-    ]
+  "bacon": {
+    "provider": "EUROPRESSE",
+    "matches": ["GLOBAL"]
   },
   "name": "europresse",
   "longname": "Europresse",

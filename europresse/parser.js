@@ -16,9 +16,32 @@ module.exports = new Parser(function analyseEC(parsedUrl, ec) {
   const param  = parsedUrl.query || {};
 
   let idElements;
+  let docKeySplit = [];
+  // use console.error for debuging
+  // console.error(parsedUrl);
 
+  if (/^\/Document\/([a-zA-Z]+)$/.test(path)) {
+    // /Document/ViewMobile?docKey=news·20160417·PJW·00842897&fromBasket=false
+    result.rtype = 'ARTICLE';
+    result.mime  = 'HTML';
+    if (param && param.docKey) {
+      docKeySplit     = param.docKey.split('·');
+      result.unitid   = param.docKey;
+      result.title_id = docKeySplit[2];
+      if (docKeySplit[0] === 'web' || docKeySplit[0] === 'report') {
+        result.rtype = 'REF';
+      }
+    }
 
-  if (/^\/WebPages\/Pdf\/Document.aspx$/i.test(path)) {
+  } else if (/^\/PDF\/([a-zA-Z]+)$/.test(path)) {
+    // /PDF/Document?docName=pdf.20160419·LM_P·10
+    result.rtype = 'ARTICLE';
+    result.mime  = 'PDF';
+    if (param && param.docName) {
+      result.unitid   = param.docName;
+      result.title_id = param.docName.split('·')[1];
+    }
+  } else if (/^\/WebPages\/Pdf\/(Document|SearchResult).aspx$/i.test(path)) {
     // http://www.bpe.europresse.com.bases-doc.univ-lorraine.fr/WebPages/Pdf/Document.aspx?DocName=pdf%c2%b720140606%c2%b7LM_p%c2%b7LIV6
     result.rtype = 'ARTICLE';
     result.mime  = 'PDF';
