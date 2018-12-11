@@ -1,0 +1,8 @@
+out-unitid;out-title_id;out-rtype;out-mime;in-url
+1;1;BOOK_SECTION;HTML;http://psycnet.apa.org:80/search/display?id=78828c75-855f-6e08-3b54-0f429d4988f8&recordId=1&tab=all&page=1&display=25&sort=PublicationYearMSSort%20desc,AuthorSort%20asc&sr=1
+;;SEARCH;HTML;http://psycnet.apa.org:80/api/request/browsePB.getBooksByTitle
+;;SEARCH;HTML;http://psycnet.apa.org:80/api/request/searchPB.getBooksByTitle
+2017-09577-010;2017-09577-010;BOOK_SECTION;PDF;http://psycnet.apa.org:80/fulltext/2017-09577-010.pdf
+11855;11855;TOC;HTML;http://psycnet.apa.org:80/PsycBOOKS/toc/11855
+1991-01082-001;1991-01082-001;ABS;HTML;http://psycnet.apa.org:80/record/1991-01082-001
+;;ABS;HTML;http://psycnet.apa.org:80/api/request/abstract.get
