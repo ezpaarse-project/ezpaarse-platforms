@@ -1,0 +1,20 @@
+{
+  "version": "2018-12-04",
+  "status": "stable",
+  "domains": [
+    "psycnet.apa.org",
+    "www.apa.org"
+  ],
+  "recognize": {
+    "rid": [
+      "unitid",
+      "title_id"
+    ]
+  },
+  "name": "apa",
+  "longname": "American Psychological Association",
+  "describe": "Recognizes the accesses to the platform American Psychological Association",
+  "docurl": "http://ang.couperin.org/platforms/to_be_completed/",
+  "contact": "alexander.cooper@emory.edu",
+  "pkb": false
+}
