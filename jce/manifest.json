@@ -1,0 +1,18 @@
+{
+  "version": "2018-12-20",
+  "status": "beta",
+  "domains": [
+    "www.jclinepi.com"
+  ],
+  "recognize": {
+    "rid": [
+      "pii"
+    ]
+  },
+  "name": "jce",
+  "longname": "Journal of Clinical Epidemiology",
+  "describe": "Recognizes the accesses to the platform Journal of Clinical Epidemiology",
+  "docurl": "http://ang.couperin.org/platforms/5c1c07540f631638280d7658",
+  "contact": "alexander.cooper@emory.edu",
+  "pkb": false
+}
