@@ -30,7 +30,7 @@ module.exports = new Parser(function analyseEC(parsedUrl, ec) {
     if (match[2] == 'SAGE') {
       result.rtype = 'ABS';
     }
-  } else if ((match = /^\/downloadsrmodoc\/([0-9a-z-]+)\/([0-9a-z-]*).xml(\/false)?$/i.exec(path)) !== null) {
+  } else if ((match = /^\/downloadsrmodoc\/([0-9a-z-]+)([0-9a-z$-]+).xml(\/false)?$/i.exec(path)) !== null) {
     //downloadsrmodoc/100-statistical-tests$002fn1.xml/false?nojs=true
     result.rtype  = 'BOOK_SECTION';
     result.mime   = 'PDF';
