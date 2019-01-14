@@ -1,0 +1,13 @@
+{
+  "version": "2018-01-24",
+  "status": "beta",
+  "domains": [
+    "sk.sagepub.com"
+  ],
+  "name": "sk",
+  "longname": "Sage Knowledge",
+  "describe": "Recognizes the accesses to the platform Sage Knowledge",
+  "docurl": "http://analyses.ezpaarse.org/platforms/59f165e8884aa7daec163f6e",
+  "contact": "",
+  "pkb": true
+}
