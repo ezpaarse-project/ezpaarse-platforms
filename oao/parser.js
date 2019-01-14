@@ -24,42 +24,48 @@ module.exports = new Parser(function analyseEC(parsedUrl, ec) {
 
   var match;
 
-  if ((match = /^\/subscriber\/article\/grove\/art\/([TF][0-9]+)$/.exec(path)) !== null) {
+  if ((match = /^\/subscriber\/article\/grove\/art\/([TF][0-9]+)$/i.exec(path)) !== null) {
     // Grove Art Online
     // http://www.oxfordartonline.com/subscriber/article/grove/art/T000015
-    result.rtype    = 'ENCYCLOPAEDIA_ENTRY';
+    result.rtype    = 'ARTICLE';
     result.mime     = 'HTML';
     result.title_id = 'grove';
     result.unitid   = match[1];
-  } else if ((match = /^\/subscriber\/article\/benezit\/(.+)$/.exec(path)) !== null) {
+  } else if ((match = /^\/subscriber\/(article|article_citations)\/benezit\/(.+)$/i.exec(path)) !== null) {
     // Benezit
     // http://www.oxfordartonline.com/subscriber/article/benezit/B00088821
-    result.rtype    = 'ENCYCLOPAEDIA_ENTRY';
+    // http://www.oxfordartonline.com/subscriber/article_citations/benezit/B00052634?q=donatello&search=quick&source=oao_benz&pos=1&_start=1
+    result.rtype    = (match[1] === 'article') ? 'ARTICLE' : 'REF';
     result.mime     = 'HTML';
     result.title_id = 'benezit';
-    result.unitid   = match[1];
-  } else if ((match = /^\/subscriber\/article\/opr\/(t4|t234|t118)\/(.+)$/.exec(path)) !== null) {
+    result.unitid   = match[2];
+  } else if ((match = /^\/subscriber\/article\/opr\/(t4|t234|t118)\/(.+)$/i.exec(path)) !== null) {
     // http://www.oxfordartonline.com/subscriber/article/opr/t118/e2515 (The Oxford Companion to Western Art)
     // http://www.oxfordartonline.com/subscriber/article/opr/t4/e1014 (The Concise Oxford Dictionary of Art Terms)
     // http://www.oxfordartonline.com/subscriber/article/opr/t234/e0287 (Encyclopedia of Aesthetics)
-    result.rtype    = 'ENCYCLOPAEDIA_ENTRY';
+    result.rtype    = 'ARTICLE';
     result.mime     = 'HTML';
     result.title_id = match[1];
     result.unitid   = match[2];
-  } else if ((match = /^\/subscriber\/(article|popup_fig)\/img\/grove\/art\/([F][0-9]+)$/.exec(path)) !== null) {
+  } else if ((match = /^\/subscriber\/(article|popup_fig)\/img\/grove\/art\/([F][0-9]+)$/i.exec(path)) !== null) {
     // Grove Art Online : accès à la page d'une image, à l'image
     // http://www.oxfordartonline.com/subscriber/article/img/grove/art/F017567
     result.rtype    = 'IMAGE';
     result.mime     = 'MISC';
     result.title_id = 'grove';
     result.unitid   = match[2];
-  } else if ((match = /^\/subscriber\/article\/img\/opr\/(t4|t234|t118)\/(.+)$/.exec(path)) !== null) {
+  } else if ((match = /^\/subscriber\/article\/img\/opr\/(t4|t234|t118)\/(.+)$/i.exec(path)) !== null) {
     // Encyclopedia of Aesthetics : accès à une image
     // http://www.oxfordartonline.com/subscriber/article/img/opr/t234/0195113071_abstraction_2
     result.rtype    = 'IMAGE';
     result.mime     = 'MISC';
     result.title_id = match[1];
     result.unitid   = match[2];
+  } else if ((match = /^\/subscriber\/page\/themes\/([a-z]+)$/i.exec(path)) !== null) {
+    // http://www.oxfordartonline.com/subscriber/page/themes/renaissanceartandarchitecture
+    result.rtype    = 'ARTICLE';
+    result.mime     = 'HTML';
+    result.unitid   = match[1];
   }
 
   return result;

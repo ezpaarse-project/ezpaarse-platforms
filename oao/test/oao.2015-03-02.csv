@@ -1,8 +1,10 @@
 out-unitid;out-title_id;out-rtype;out-mime;in-url
-T000015;grove;ENCYCLOPAEDIA_ENTRY;HTML;http://www.oxfordartonline.com/subscriber/article/grove/art/T000015
-B00088821;benezit;ENCYCLOPAEDIA_ENTRY;HTML;http://www.oxfordartonline.com/subscriber/article/benezit/B00088821
-e2515;t118;ENCYCLOPAEDIA_ENTRY;HTML;http://www.oxfordartonline.com/subscriber/article/opr/t118/e2515
-e1014;t4;ENCYCLOPAEDIA_ENTRY;HTML;http://www.oxfordartonline.com/subscriber/article/opr/t4/e1014
-e0287;t234;ENCYCLOPAEDIA_ENTRY;HTML;http://www.oxfordartonline.com/subscriber/article/opr/t234/e0287
+T000015;grove;ARTICLE;HTML;http://www.oxfordartonline.com/subscriber/article/grove/art/T000015
+B00088821;benezit;ARTICLE;HTML;http://www.oxfordartonline.com/subscriber/article/benezit/B00088821
+e2515;t118;ARTICLE;HTML;http://www.oxfordartonline.com/subscriber/article/opr/t118/e2515
+e1014;t4;ARTICLE;HTML;http://www.oxfordartonline.com/subscriber/article/opr/t4/e1014
+e0287;t234;ARTICLE;HTML;http://www.oxfordartonline.com/subscriber/article/opr/t234/e0287
 F017567;grove;IMAGE;MISC;http://www.oxfordartonline.com/subscriber/article/img/grove/art/F017567
 0195113071_abstraction_2;t234;IMAGE;MISC;http://www.oxfordartonline.com/subscriber/article/img/opr/t234/0195113071_abstraction_2
+B00052634;benezit;REF;HTML;http://www.oxfordartonline.com/subscriber/article_citations/benezit/B00052634?q=donatello&search=quick&source=oao_benz&pos=1&_start=1
+renaissanceartandarchitecture;;ARTICLE;HTML;http://www.oxfordartonline.com/subscriber/page/themes/renaissanceartandarchitecture
