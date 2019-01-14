@@ -76,6 +76,20 @@ module.exports = new Parser(function analyseEC(parsedUrl, ec) {
     default:
       result.rtype = 'ARTICLE';
     }
+
+  } else if ((match = /^\/[a-z]+\/se_[a-z]+\/search\/([a-z]+)$/i.exec(pathname)) !== null) {
+    // /fr/se_mono/search/TRACOENEUR
+    result.rtype    = 'SEARCH';
+    result.mime     = 'HTML';
+    result.title_id = match[1];
+    result.unitid   = match[1];
+
+  } else if ((match = /^\/[a-z]+\/se_legi_chrono(?:\/macrodocument|_macro\/search)\/([a-z0-9_-]+)$/i.exec(pathname)) !== null) {
+    // /fr/se_legi_chrono/macrodocument/CHRONO_2286452
+    // /fr/se_legi_chrono_macro/search/se_legi_chrono_2008-fr
+    result.rtype  = 'SEARCH';
+    result.mime   = 'HTML';
+    result.unitid = match[1];
   }
 
   return result;
