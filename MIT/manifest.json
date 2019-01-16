@@ -1,0 +1,28 @@
+{
+  "version": "2019-01-14",
+  "status": "stable",
+  "domains": [
+    "search.mit.edu",
+    "mitpress.mit.edu",
+    "www.leonardo.info",
+    "www.leoalmanac.org",
+    "cognet.mit.edu",
+    "mitpress.mit.edu",
+    "www.mitpressjournals.org",
+    "contemporaryarts.mit.edu",
+    "test.leoalmanac.org"
+  ],
+  "recognize": {
+    "rid": [
+      "title_id",
+      "doi",
+      "print_identifier"
+    ]
+  },
+  "name": "MIT",
+  "longname": "MIT Press",
+  "describe": "Recognizes the accesses to the platform MIT Press",
+  "docurl": "http://ang.couperin.org/platforms/573b3e34292801c08b8eb0a1",
+  "contact": "alexander.cooper@emory.edu",
+  "pkb": false
+}

@@ -1,0 +1,14 @@
+out-unitid;out-title_id;out-doi;out-print_identifier;out-rtype;out-mime;in-url
+;;;;SEARCH;HTML;https://mitpress.mit.edu:443/search?keywords=potato
+;;;;SEARCH;HTML;https://www.mitpressjournals.org:443/action/doSearch?AllField=potato
+;;;;SEARCH;HTML;https://www.leoalmanac.org:443/?s=art
+daed/145/3;daed/145/3;;;TOC;HTML;https://www.mitpressjournals.org:443/toc/daed/145/3
+daed;daed;;;TOC;HTML;https://www.mitpressjournals.org:443/loi/daed
+10.1162/jocn.2009.21112;jocn.2009.21112;10.1162/jocn.2009.21112;;ARTICLE;HTML;http://cognet.mit.edu:80/journal/10.1162/jocn.2009.21112
+10.1162/DAED_a_00392;DAED_a_00392;10.1162/DAED_a_00392;;ARTICLE;HTML;https://www.mitpressjournals.org:443/doi/full/10.1162/DAED_a_00392
+0hm1gas;0hm1gas;;;ARTICLE;HTML;https://contemporaryarts.mit.edu:443/pub/0hm1gas
+10.1162/jocn.2009.21112;jocn.2009.21112;10.1162/jocn.2009.21112;;ARTICLE;PDF;http://cognet.mit.edu:80/pdfviewer/journal/jocn.2009.21112
+10.1162/DAED_a_00392;DAED_a_00392;10.1162/DAED_a_00392;;ARTICLE;PDF;https://www.mitpressjournals.org:443/doi/pdf/10.1162/DAED_a_00392
+ISEA2011Uncontainable-Not-There;ISEA2011Uncontainable-Not-There;;;ARTICLE;PDF;https://test.leoalmanac.org:443/wp-content/uploads/2012/12/ISEA2011Uncontainable-Not-There.pdf
+preface-to-first-edition-0;preface-to-first-edition-0;;;BOOK_SECTION;HTML;http://cognet.mit.edu:80/erefschapter/preface-to-first-edition-0
+9780262329828_chap3;;;9780262329828;BOOK_SECTION;PDF;http://cognet.mit.edu:80/system/cogfiles/books/9780262329828/pdfs/9780262329828_chap3.pdf
