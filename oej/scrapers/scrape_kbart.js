@@ -4,9 +4,9 @@
 const fs      = require('fs');
 const path    = require('path');
 const request = require('../../.lib/node_modules/request');
-const moment  = require('../../.lib/node_modules/moment')
+const moment  = require('../../.lib/node_modules/moment');
 
-request.get(`https://www.openedition.org/index.html?page=coverage&pubtype=revue&export=tsv&kbart=1`)
+request.get('https://www.openedition.org/index.html?page=coverage&pubtype=revue&export=tsv&kbart=1')
   .on('error', err => {
     console.error(err.message);
     process.exit(1);
