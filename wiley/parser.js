@@ -191,7 +191,7 @@ module.exports = new Parser(function analyseEC(parsedUrl) {
     result.doi      = `${match[1]}/${match[2]}`;
     result.unitid   = match[2];
     result.rtype    = 'ARTICLE';
-    result.mime     = 'PDF'
+    result.mime     = 'PDF';
   }
 
   return result;
