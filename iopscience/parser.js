@@ -76,6 +76,12 @@ module.exports = new Parser(function analyseEC(parsedUrl) {
     result.vol              = match[4];
     result.issue            = match[5];
 
+  } else if ((match = /^\/article\/(10\.[0-9]+)\/([a-z]+.[0-9]+.[0-9]+)\/(pdf|meta)$/i.exec(path)) !== null) {
+    // /article/10.1143/JJAP.16.2165/pdf
+    result.rtype            = 'ARTICLE';
+    result.mime             = match[3] === 'pdf' ? 'PDF': 'HTML';
+    result.doi              = `${match[1]}/${match[2]}`;
+    result.unitid           = match[2];
   } else if ((match = /^\/issue\/(([0-9]{4}-[0-9x]{4})\/([0-9]+)\/([0-9]+))$/i.exec(path)) !== null) {
     // /issue/0004-637X/831/2
     result.rtype            = 'TOC';
