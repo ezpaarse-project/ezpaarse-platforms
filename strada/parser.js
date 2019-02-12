@@ -77,19 +77,110 @@ module.exports = new Parser(function analyseEC(parsedUrl, ec) {
       result.rtype = 'ARTICLE';
     }
 
-  } else if ((match = /^\/[a-z]+\/se_[a-z]+\/search\/([a-z]+)$/i.exec(pathname)) !== null) {
-    // /fr/se_mono/search/TRACOENEUR
-    result.rtype    = 'SEARCH';
-    result.mime     = 'HTML';
-    result.title_id = match[1];
-    result.unitid   = match[1];
+  } else if ((match = /^\/[a-z]{2,3}\/se_src_publ_([a-z_]+)(?:\/search\/([a-z0-9_]+))?$/i.exec(pathname)) !== null) {
+    // /fr/se_src_publ_leg_eur_jo?docEtiq=ojeu_2018.227.01.0001.01
+    // /fr/se_src_publ_leg_eur_jo/search/leg_eur_jo_3
 
-  } else if ((match = /^\/[a-z]+\/se_legi_chrono(?:\/macrodocument|_macro\/search)\/([a-z0-9_-]+)$/i.exec(pathname)) !== null) {
+    if (param.docEtiq) {
+      result.rtype    = 'ARTICLE';
+      result.mime     = 'HTML';
+      result.unitid   = param.docEtiq;
+      result.title_id = match[1];
+    } else {
+      result.rtype    = 'SEARCH';
+      result.mime     = 'HTML';
+      if (match[2]) {
+        result.unitid   = match[2];
+        result.title_id = match[1];
+      }
+    }
+
+  } else if ((match = /^\/[a-z]{2,3}\/se_rev\/search\/(([a-z]+)(-[a-z]{2,3})?)$/i.exec(pathname)) !== null) {
+    // /fr/se_rev/search/cde-fr
+    // /fr/se_rev/search/cde-fr?docEtiq=cde2018_1p3
+    if (param.docEtiq) {
+      result.rtype    = 'ARTICLE';
+      result.mime     = 'PDF';
+      result.unitid   = param.docEtiq;
+      result.title_id = match[2];
+
+      const idMatch = /^[a-z]+([0-9]{4})_([0-9]+)p([0-9]+)$/i.exec(param.docEtiq);
+      if (idMatch) {
+        result.publication_date = idMatch[1];
+        result.vol = idMatch[2];
+        result.first_page = idMatch[3];
+      }
+    } else {
+      result.rtype    = 'SEARCH';
+      result.mime     = 'HTML';
+      result.unitid   = match[1];
+      result.title_id = match[2];
+    }
+
+  } else if ((match = /^\/[a-z]{2,3}\/se_legi_chrono(?:\/macrodocument|_macro\/search)\/([a-z0-9_-]+)$/i.exec(pathname)) !== null) {
     // /fr/se_legi_chrono/macrodocument/CHRONO_2286452
     // /fr/se_legi_chrono_macro/search/se_legi_chrono_2008-fr
     result.rtype  = 'SEARCH';
     result.mime   = 'HTML';
     result.unitid = match[1];
+
+  } else if ((match = /^\/[a-z]{2,3}\/(se_[a-z_]+)\/search\/([a-z0-9_-]+)$/i.exec(pathname)) !== null) {
+    // /fr/se_legi_macro/search/NODE_1099835-fr?docEtiq=IMPUT_2131899
+    // /fr/se_legi_chrono_macro/search/se_legi_chrono_2008-fr
+    // /fr/se_mono/search/TRACOENEUR
+    result.rtype  = 'SEARCH';
+    result.mime   = 'HTML';
+    result.unitid = param.docEtiq || match[2];
+
+    if (match[1] === 'se_rev' || match[1] === 'se_mono') {
+      const idMatch = /^([a-z]+)/i.exec(match[2]);
+      if (idMatch) {
+        result.title_id = idMatch[1];
+      }
+    }
+
+  } else if ((match = /^\/[a-z]{2,3}\/se_src_publ_(jur|jur_int)\/search\/(jur|jur_int)\/[a-z0-9:_-]+$/i.exec(pathname)) !== null) {
+    // /fr/se_src_publ_jur_int/search/jur_int/f97b93090733da659a07b9ca17b0643fd9a8521c18a331d2c800cbd346b145cf::1?docEtiq=cedh_34105-03_001-188687
+    // /fr/se_src_publ_jur/search/jur/275bfa3503dc13a2bb17077e1e3c369a4edb66cd611826c4862d0fc87e9d2f78::1?docEtiq=epo_T1293_18
+    if (param.docEtiq) {
+      result.rtype  = 'JURISPRUDENCE';
+      result.mime   = 'HTML';
+      result.unitid = param.docEtiq;
+    } else {
+      result.rtype = 'SEARCH';
+      result.mime  = 'HTML';
+    }
+
+  } else if ((match = /^\/[a-z]{2,3}\/se_legi\/macrodocument\/[a-z0-9_]+\/([a-z0-9_-]+)$/i.exec(pathname)) !== null) {
+    // /fr/se_legi/macrodocument/IMPUT_2156676/IMPUT_2156676-Commentairesurlesprincipesessentielsdel-avocateuropeen
+    result.rtype = 'CODE_JURIDIQUE';
+    result.mime  = 'HTML';
+    result.unitid = match[1];
+
+  } else if ((match = /^\/[a-z]{2,3}\/se_legi_chrono\/macrodocument\/[a-z0-9_]+\/doc\/([a-z0-9_~-]+)$/i.exec(pathname)) !== null) {
+    // /fr/se_legi_chrono/macrodocument/CHRONO_2286452/doc/DirParleuretCons-20181023-Art1~1
+    result.rtype = 'SEARCH';
+    result.mime  = 'HTML';
+    result.unitid = match[1];
+
+  } else if ((match = /^\/[a-z]{2,3}\/se_mono\/toc\/([a-z]+)\/doc\/([a-z0-9_]+)$/i.exec(pathname)) !== null) {
+    // /fr/se_mono/toc/TRACOENEUR/doc/TRACOENEUR_002
+    result.rtype    = 'BOOK_SECTION';
+    result.mime     = 'HTML';
+    result.unitid   = match[2];
+    result.title_id = match[1];
+
+  } else if (/^\/[a-z]{2,3}\/se_[a-z_]+$/i.test(pathname)) {
+    // /fr/se_news
+    // /fr/se_encyclopedie
+    // /fr/se_src_publ_jur_int
+    // /fr/se_rev_editor
+    result.rtype = 'SEARCH';
+    result.mime  = 'HTML';
+  } else if (/^\/[a-z]{2,3}$/i.test(pathname)) {
+    // /fr
+    result.rtype = 'SEARCH';
+    result.mime  = 'HTML';
   }
 
   return result;
