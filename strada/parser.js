@@ -170,13 +170,22 @@ module.exports = new Parser(function analyseEC(parsedUrl, ec) {
     result.unitid   = match[2];
     result.title_id = match[1];
 
-  } else if (/^\/[a-z]{2,3}\/se_[a-z_]+$/i.test(pathname)) {
+  } else if ((match = /^\/[a-z]{2,3}\/(se_[a-z_]+)$/i.exec(pathname)) !== null) {
     // /fr/se_news
     // /fr/se_encyclopedie
     // /fr/se_src_publ_jur_int
     // /fr/se_rev_editor
-    result.rtype = 'SEARCH';
-    result.mime  = 'HTML';
+    // /fr/se_rep_dr_eur_mat?docEtiq=ENCY_EUR_RUB000001_BIBLIO_2012_06
+
+    if (match[1] === 'se_rep_dr_eur_mat' && param.docEtiq) {
+      result.rtype  = 'ENCYCLOPAEDIA_ENTRY';
+      result.mime   = 'HTML';
+      result.unitid = param.docEtiq;
+    } else {
+      result.rtype = 'SEARCH';
+      result.mime  = 'HTML';
+    }
+
   } else if (/^\/[a-z]{2,3}$/i.test(pathname)) {
     // /fr
     result.rtype = 'SEARCH';
