@@ -1,6 +1,6 @@
 out-unitid;out-rtype;out-mime;in-url
-36632541;ARTICLE;HTML;http://www.lexbase.fr/search/reviews/36632541
-36753798;ENCYCLOPAEDIA_ENTRY;HTML;http://www.lexbase.fr/search/encyclopedia/36753798
-43129652;CODE_JURIDIQUE;HTML;http://www.lexbase.fr/search/sources/43129652
-41613263;CODE_JURIDIQUE;HTML;http://www.lexbase.fr/search/sources/41613263
-3241513 ;CODE_JURIDIQUE;HTML;http://www.lexbase.fr/search/sources/3241513 
+36632541;ARTICLE;HTML;http://www.lexbase.fr/search/reviews/36632541?json=1
+36753798;ENCYCLOPAEDIA_ENTRY;HTML;http://www.lexbase.fr/search/encyclopedia/36753798?json=1
+43129652;CODE_JURIDIQUE;HTML;http://www.lexbase.fr/search/sources/43129652?json=1
+41613263;CODE_JURIDIQUE;HTML;http://www.lexbase.fr/search/sources/41613263?json=1
+3241513;CODE_JURIDIQUE;HTML;http://www.lexbase.fr/search/sources/3241513?json=1
