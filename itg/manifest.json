@@ -1,0 +1,13 @@
+{
+  "longname": "Intranet thèses générique",
+  "name": "itg",
+  "describe": "Parseur générique pour les thèses en accès intranet derrière EZproxy",
+  "contact": "Laurent Lhuillier",
+  "pkb": false,
+  "docurl": "http://analyses.ezpaarse.org/platforms/5c3756e522d9317c7dc8d241",
+  "domains": [
+    "theses.univ-amu.fr"
+  ],
+  "version": "2019-02-18",
+  "status": "beta"
+}
