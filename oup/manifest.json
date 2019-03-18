@@ -10,7 +10,19 @@
   "contact": "Sylvie.Franck at inist point fr et stephane.gully at inist point fr",
   "pkb": false,
 	"domains": [
-    "oxfordjournals.org"
+    "oxfordjournals.org",
+    "www.oxfordclinicalpsych.com",
+    "www.oxfordbibliographies.com",
+    "www.oxfordmusiconline.com",
+    "www.oxfordreference.com",
+    "www.oxfordbiblicalstudies.com",
+    "www.oxfordwesternmusic.com",
+    "www.oxfordhandbooks.com",
+    "public.oed.com",
+    "www.oed.com",
+    "annualreport.oup.com",
+    "www.oxfordartonline.com",
+    "www.oxfordscholarship.com"
 	],
   "bacon": {
     "provider": "OUP"
