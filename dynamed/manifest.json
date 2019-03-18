@@ -1,0 +1,22 @@
+{
+  "version": "2019-03-15",
+  "status": "beta",
+  "domains": [
+    "www.dynamed.com",
+    "auth.dynamed.com",
+    "calc.dynamed.com",
+    "store.dynamed.com"
+  ],
+  "recognize": {
+    "rid": [
+      "unitid",
+      "title_id"
+    ]
+  },
+  "name": "dynamed",
+  "longname": "Dynamed",
+  "describe": "Recognizes the accesses to the platform Dynamed",
+  "docurl": "http://ang.couperin.org/platforms/to_be_completed/",
+  "contact": "alexander.cooper@emory.edu",
+  "pkb": false
+}
