@@ -245,6 +245,10 @@
       "code": "ANALYSIS",
       "description": "analyse",
       "comment": "cas de la plateforme WOS"
+      },{
+      "code": "QUERY",
+      "description": "requête",
+      "comment": "cas de la plateforme ISTEX et PANIST"
     },{
       "code": "ISSUE",
       "description": "consultation d'une revue complète",
