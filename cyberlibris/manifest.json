@@ -32,25 +32,15 @@
     "bts.scholarvox.com",
     "scholartext.com"
   ],
-  "recognize": {
-    "rid": [
-      "title_id",
-      "unitid"
-    ],
-    "rtype": [
-      "ABS",
-      "BOOK"
-    ],
-    "mime": [
-      "MISC",
-      "HTML"
-    ]
-  },
   "name": "cyberlibris",
   "longname": "Cyberlibris",
   "publisher_name": "Cyberlibris",
   "describe": "Identifie les consultations de la plateforme Cyberlibris",
   "docurl": "http://analyses.ezpaarse.org/platforms/54aa6e9d3fd44b5e2d73567b",
   "contact": "abderrazzak.loukili@inist.fr",
-  "pkb": false
+  "pkb": true,
+  "bacon": {
+    "provider": "CYBERLIBRIS",
+    "matches": ["GLOBAL_ALLTITLES"]
+  }
 }
