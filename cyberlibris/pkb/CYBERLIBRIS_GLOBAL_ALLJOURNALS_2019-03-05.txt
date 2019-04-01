@@ -1,0 +1,112 @@
+publication_title	print_identifier	online_identifier	date_first_issue_online	num_first_vol_online	num_first_issue_online	date_last_issue_online	num_last_vol_online	num_last_issue_online	title_url	first_author	title_id	embargo_info	coverage_depth	notes	publisher_name	publication_type	date_monograph_published_print	date_monograph_published_online	monograph_volume	monograph_edition	first_editor	parent_publication_title_id	preceding_publication_title_id	access_type
+Advances in agronomy	0065-2113	2213-6789	2015	133		2015	133		http://univ.scholarvox.com/catalog/book/docid/88829557		88829557		fulltext		Elsevier Science	serial								P
+Advances in agronomy	0065-2113	2213-6789	2014	126		2014	126		http://univ.scholarvox.com/catalog/book/docid/88819209		88819209		fulltext		Elsevier Science	serial								P
+Advances in agronomy	0065-2113	2213-6789	2018	150		2018	150		http://univ.scholarvox.com/book/88864210		88864210		fulltext		Elsevier Science	serial								P
+Advances in agronomy	0065-2113	2213-6789	2018	149		2018	149		http://univ.scholarvox.com/book/88864456		88864456		fulltext		Elsevier Science	serial								P
+Advances in agronomy	0065-2113	2213-6789	2018	148		2018	148		http://univ.scholarvox.com/book/88864411		88864411		fulltext		Elsevier Science	serial								P
+Advances in agronomy	0065-2113	2213-6789	2018	147		2018	147		http://univ.scholarvox.com/book/88864507		88864507		fulltext		Elsevier Science	serial								P
+Advances in agronomy	0065-2113	2213-6789	2017	146		2017	146		http://univ.scholarvox.com/book/88849321		88849321		fulltext		Elsevier Science	serial								P
+Advances in agronomy	0065-2113	2213-6789	2016	140		2016	140		http://univ.scholarvox.com/catalog/book/docid/88835379		88835379		fulltext		Elsevier Science	serial								P
+Advances in agronomy	0065-2113	2213-6789	2016	139		2016	139		http://univ.scholarvox.com/catalog/book/docid/88835224		88835224		fulltext		Elsevier Science	serial								P
+Advances in agronomy	0065-2113	2213-6789	2016	138		2016	138		http://univ.scholarvox.com/catalog/book/docid/88833226		88833226		fulltext		Elsevier Science	serial								P
+Advances in agronomy	0065-2113	2213-6789	2016	137		2016	137		http://univ.scholarvox.com/catalog/book/docid/88833276		88833276		fulltext		Elsevier Science	serial								P
+Advances in agronomy	0065-2113	2213-6789	2016	136		2016	136		http://univ.scholarvox.com/catalog/book/docid/88832042		88832042		fulltext		Elsevier Science	serial								P
+Advances in agronomy	0065-2113	2213-6789	2015	134		2015	134		http://univ.scholarvox.com/catalog/book/docid/88829604		88829604		fulltext		Elsevier Science	serial								P
+Advances in agronomy	0065-2113	2213-6789	2016	135		2016	135		http://univ.scholarvox.com/catalog/book/docid/88832105		88832105		fulltext		Elsevier Science	serial								P
+Advances in Applied Microbiology	0065-2164		2017	100		2017	100		http://univ.scholarvox.com/catalog/book/docid/88849523		88849523		fulltext		Elsevier Science	serial								P
+Advances in Applied Microbiology	0065-2164		2017	101		2017	101		http://univ.scholarvox.com/catalog/book/docid/88849306		88849306		fulltext		Elsevier Science	serial								P
+Advances in Atomic, Molecular, and Optical Physics	1049-250X		2016	65		2016	65		http://univ.scholarvox.com/catalog/book/docid/88833294		88833294		fulltext		Elsevier Science	serial								P
+Advances in Atomic, Molecular, and Optical Physics	1049-250X		2013	62		2013	62		http://univ.scholarvox.com/catalog/book/docid/88814742		88814742		fulltext		Elsevier Science	serial								P
+Advances in Atomic, Molecular, and Optical Physics	1049-250X		2018	67		2018	67		http://univ.scholarvox.com/catalog/book/docid/88864428		88864428		fulltext		Elsevier Science	serial								P
+Advances in bioenergy		2468-0125	2018	3		2018	3		http://univ.scholarvox.com/catalog/book/docid/88864425		88864425		fulltext		Elsevier Science	serial								P
+Advances in bioenergy		2468-0125	2016	1		2016	1		http://univ.scholarvox.com/catalog/book/docid/88836544		88836544		fulltext		Elsevier Science	serial								P
+Advances in botanical research	0065-2296	2162-5948	2016	77		2016	77		http://univ.scholarvox.com/catalog/book/docid/88832121		88832121		fulltext		Elsevier Science	serial								P
+Advances in carbohydrate chemistry and biochemistry	0065-2318	2162-5530	2016	73		2016	73		http://univ.scholarvox.com/catalog/book/docid/88836552		88836552		fulltext		Elsevier Science	serial								P
+Advances in computers	0065-2458		2017	107		2017	107		http://univ.scholarvox.com/book/88849298		88849298		fulltext		Elsevier Science	serial								P
+Advances in computers	0065-2458		2018	108		2018	108		http://univ.scholarvox.com/book/88864181		88864181		fulltext		Elsevier Science	serial								P
+Advances in computers	0065-2458		2013	89		2013	89		http://univ.scholarvox.com/catalog/book/docid/88814535		88814535		fulltext		Elsevier Science	serial								P
+Advances in computers	0065-2458		2013	91		2013	91		http://univ.scholarvox.com/catalog/book/docid/88814741		88814741		fulltext		Elsevier Science	serial								P
+Advances in computers	0065-2458		2015	96		2015	96		http://univ.scholarvox.com/catalog/book/docid/88827094		88827094		fulltext		Elsevier Science	serial								P
+Advances in computers	0065-2458		2015	97		2015	97		http://univ.scholarvox.com/catalog/book/docid/88827092		88827092		fulltext		Elsevier Science	serial								P
+Advances in computers	0065-2458		2015	98		2015	98		http://univ.scholarvox.com/catalog/book/docid/88829552		88829552		fulltext		Elsevier Science	serial								P
+Advances in computers	0065-2458		2015	99		2015	99		http://univ.scholarvox.com/catalog/book/docid/88829508		88829508		fulltext		Elsevier Science	serial								P
+Advances in computers	0065-2458		2016	100		2016	100		http://univ.scholarvox.com/catalog/book/docid/88831981		88831981		fulltext		Elsevier Science	serial								P
+Advances in computers	0065-2458		2016	101		2016	101		http://univ.scholarvox.com/catalog/book/docid/88832160		88832160		fulltext		Elsevier Science	serial								P
+Advances in computers	0065-2458		2016	102		2016	102		http://univ.scholarvox.com/catalog/book/docid/88835208		88835208		fulltext		Elsevier Science	serial								P
+Advances in computers	0065-2458		2016	103		2016	103		http://univ.scholarvox.com/catalog/book/docid/88835351		88835351		fulltext		Elsevier Science	serial								P
+Advances in geophysics	0065-2687	2162-7622	2016	57		2016	57		http://univ.scholarvox.com/catalog/book/docid/88836541		88836541		fulltext		Elsevier Science	serial								P
+Advances in heterocyclic chemistry	0065-2725	1557-8429	2013	109		2013	109		http://univ.scholarvox.com/catalog/book/docid/88814469		88814469		fulltext		Elsevier Science	serial								P
+Advances in heterocyclic chemistry	0065-2725	1557-8429	2016	118		2016	118		http://univ.scholarvox.com/catalog/book/docid/88832111		88832111		fulltext		Elsevier Science	serial								P
+Advances in heterocyclic chemistry	0065-2725	1557-8429	2015	114		2015	114		http://univ.scholarvox.com/catalog/book/docid/88829640		88829640		fulltext		Elsevier Science	serial								P
+Advances in heterocyclic chemistry	0065-2725	1557-8429	2016	120		2016	120		http://univ.scholarvox.com/catalog/book/docid/88835140		88835140		fulltext		Elsevier Science	serial								P
+Advances in Imaging and Electron Physics	1076-5670		2014	183		2014	183		http://univ.scholarvox.com/catalog/book/docid/88819215		88819215		fulltext		Elsevier Science	serial								P
+Advances in Imaging and Electron Physics	1076-5670		2013	179		2013	179		http://univ.scholarvox.com/catalog/book/docid/88814537		88814537		fulltext		Elsevier Science	serial								P
+Advances in Imaging and Electron Physics	1076-5670		2013	178		2013	178		http://univ.scholarvox.com/catalog/book/docid/88814506		88814506		fulltext		Elsevier Science	serial								P
+Advances in Imaging and Electron Physics	1076-5670		2013	177		2013	177		http://univ.scholarvox.com/catalog/book/docid/88814507		88814507		fulltext		Elsevier Science	serial								P
+Advances in Imaging and Electron Physics	1076-5670		2013	176		2013	176		http://univ.scholarvox.com/catalog/book/docid/88814515		88814515		fulltext		Elsevier Science	serial								P
+Advances in Imaging and Electron Physics	1076-5670		2015	191		2015	191		http://univ.scholarvox.com/catalog/book/docid/88831074		88831074		fulltext		Elsevier Science	serial								P
+Advances in Imaging and Electron Physics	1076-5670		2018	206		2018	206		http://univ.scholarvox.com/book/88864534		88864534		fulltext		Elsevier Science	serial								P
+Advances in Imaging and Electron Physics	1076-5670		2017	204		2017	204		http://univ.scholarvox.com/book/88849310		88849310		fulltext		Elsevier Science	serial								P
+Advances in Imaging and Electron Physics	1076-5670		2017	203		2017	203		http://univ.scholarvox.com/book/88849129		88849129		fulltext		Elsevier Science	serial								P
+Advances in Imaging and Electron Physics	1076-5670		2017	202		2017	202		http://univ.scholarvox.com/book/88849425		88849425		fulltext		Elsevier Science	serial								P
+Advances in Imaging and Electron Physics	1076-5670		2016	198		2016	198		http://univ.scholarvox.com/catalog/book/docid/88836499		88836499		fulltext		Elsevier Science	serial								P
+Advances in Imaging and Electron Physics	1076-5670		2016	197		2016	197		http://univ.scholarvox.com/catalog/book/docid/88836437		88836437		fulltext		Elsevier Science	serial								P
+Advances in Imaging and Electron Physics	1076-5670		2016	196		2016	196		http://univ.scholarvox.com/catalog/book/docid/88835217		88835217		fulltext		Elsevier Science	serial								P
+Advances in Imaging and Electron Physics	1076-5670		2016	195		2016	195		http://univ.scholarvox.com/catalog/book/docid/88835116		88835116		fulltext		Elsevier Science	serial								P
+Advances in Imaging and Electron Physics	1076-5670		2016	194		2016	194		http://univ.scholarvox.com/catalog/book/docid/88833284		88833284		fulltext		Elsevier Science	serial								P
+Advances in Imaging and Electron Physics	1076-5670		2016	193		2016	193		http://univ.scholarvox.com/catalog/book/docid/88831996		88831996		fulltext		Elsevier Science	serial								P
+Advances in Imaging and Electron Physics	1076-5670		2015	192		2015	192		http://univ.scholarvox.com/catalog/book/docid/88831068		88831068		fulltext		Elsevier Science	serial								P
+Advances in inorganic chemistry	0898-8838	1557-8917	2016	68		2016	68		http://univ.scholarvox.com/catalog/book/docid/88832015		88832015		fulltext		Elsevier Science	serial								P
+Advances in marine biology	0065-2881	2162-5875	2018	79		2018	79		http://univ.scholarvox.com/book/88864168		88864168		fulltext		Elsevier Science	serial								P
+Advances in marine biology	0065-2881	2162-5875	2013	64		2013	64		http://univ.scholarvox.com/catalog/book/docid/88814364		88814364		fulltext		Elsevier Science	serial								P
+Advances in marine biology	0065-2881	2162-5875	2013	65		2013	65		http://univ.scholarvox.com/catalog/book/docid/88814356		88814356		fulltext		Elsevier Science	serial								P
+Advances in marine biology	0065-2881	2162-5875	2016	74		2016	74		http://univ.scholarvox.com/catalog/book/docid/88835201		88835201		fulltext		Elsevier Science	serial								P
+Advances in marine biology	0065-2881	2162-5875	2016	75		2016	75		http://univ.scholarvox.com/catalog/book/docid/88836464		88836464		fulltext		Elsevier Science	serial								P
+Advances in molecular toxicology	1872-0854	2212-2044	2016	10		2016	10		http://univ.scholarvox.com/catalog/book/docid/88836596		88836596		fulltext		Elsevier Science	serial								P
+Advances in molecular toxicology	1872-0854	2212-2044	2017	11		2017	11		http://univ.scholarvox.com/book/88849379		88849379		fulltext		Elsevier Science	serial								P
+Advances in molecular toxicology	1872-0854	2212-2044	2013	7		2013	7		http://univ.scholarvox.com/catalog/book/docid/88814732		88814732		fulltext		Elsevier Science	serial								P
+Advances in planar lipid bilayers and liposomes			2013	18		2013	18		http://univ.scholarvox.com/catalog/book/docid/88817678		88817678		fulltext		Elsevier Science	serial								P
+Advances in planar lipid bilayers and liposomes			2014	19		2014	19		http://univ.scholarvox.com/catalog/book/docid/88819202		88819202		fulltext		Elsevier Science	serial								P
+Advances in quantum chemistry	0065-3276	2162-8815	2016	73		2016	73		http://univ.scholarvox.com/catalog/book/docid/88832083		88832083		fulltext		Elsevier Science	serial								P
+Advances in quantum chemistry	0065-3276	2162-8815	2016	72		2016	72		http://univ.scholarvox.com/catalog/book/docid/88832082		88832082		fulltext		Elsevier Science	serial								P
+Advances in quantum chemistry	0065-3276	2162-8815	2015	71		2015	71		http://univ.scholarvox.com/catalog/book/docid/88829603		88829603		fulltext		Elsevier Science	serial								P
+Advances in quantum chemistry	0065-3276	2162-8815	2013	66		2013	66		http://univ.scholarvox.com/catalog/book/docid/88814501		88814501		fulltext		Elsevier Science	serial								P
+Advances in the study of behavior	0065-3454	2162-8823	2014	45		2014	45		http://univ.scholarvox.com/catalog/book/docid/88814527		88814527		fulltext		Elsevier Science	serial								P
+Advances in the study of behavior	0065-3454	2162-8823	2014	46		2014	46		http://univ.scholarvox.com/catalog/book/docid/88820383		88820383		fulltext		Elsevier Science	serial								P
+Advances in the study of behavior	0065-3454	2162-8823	2016	48		2016	48		http://univ.scholarvox.com/catalog/book/docid/88833238		88833238		fulltext		Elsevier Science	serial								P
+Annual reports in computational chemistry	1574-1400	1875-5232	2016	12		2016	12		http://univ.scholarvox.com/catalog/book/docid/88835086		88835086		fulltext		Elsevier Science	serial								P
+Annual reports in computational chemistry	1574-1400	1875-5232	2017	13		2017	13		http://univ.scholarvox.com/book/88849587		88849587		fulltext		Elsevier Science	serial								P
+Annual reports on NMR spectroscopy	0066-4103	2163-6052	2016	88		2016	88		http://univ.scholarvox.com/catalog/book/docid/88832710		88832710		fulltext		Elsevier Science	serial								P
+Annual reports on NMR spectroscopy	0066-4103	2163-6052	2016	87		2016	87		http://univ.scholarvox.com/catalog/book/docid/88832065		88832065		fulltext		Elsevier Science	serial								P
+Annual reports on NMR spectroscopy	0066-4103	2163-6052	2013	79		2013	79		http://univ.scholarvox.com/catalog/book/docid/88814366		88814366		fulltext		Elsevier Science	serial								P
+Annual reports on NMR spectroscopy	0066-4103	2163-6052	2013	78		2013	78		http://univ.scholarvox.com/catalog/book/docid/88814368		88814368		fulltext		Elsevier Science	serial								P
+Annual reports on NMR spectroscopy	0066-4103	2163-6052	2016	89		2016	89		http://univ.scholarvox.com/catalog/book/docid/88835176		88835176		fulltext		Elsevier Science	serial								P
+Études platoniciennes	1770-9687	2275-1785	2004	1		2004	1		http://univ.scholarvox.com/catalog/book/docid/88808679		88808679		fulltext		Les Belles Lettres	serial								P
+Études platoniciennes	1770-9687	2275-1785	2006	2		2006	2		http://univ.scholarvox.com/catalog/book/docid/88808859		88808859		fulltext		Les Belles Lettres	serial								P
+Études platoniciennes	1770-9687	2275-1785	2006	3		2006	3		http://univ.scholarvox.com/catalog/book/docid/88808860		88808860		fulltext		Les Belles Lettres	serial								P
+Études platoniciennes	1770-9687	2275-1785	2011	8		2011	8		http://univ.scholarvox.com/catalog/book/docid/88809030		88809030		fulltext		Les Belles Lettres	serial								P
+Études platoniciennes	1770-9687	2275-1785	2008	5		2008	5		http://univ.scholarvox.com/catalog/book/docid/88809027		88809027		fulltext		Les Belles Lettres	serial								P
+Études platoniciennes	1770-9687	2275-1785	2009	6		2009	6		http://univ.scholarvox.com/catalog/book/docid/88809028		88809028		fulltext		Les Belles Lettres	serial								P
+Études platoniciennes	1770-9687	2275-1785	2010	7		2010	7		http://univ.scholarvox.com/catalog/book/docid/88809029		88809029		fulltext		Les Belles Lettres	serial								P
+Études platoniciennes	1770-9687	2275-1785	2007	4		2007	4		http://univ.scholarvox.com/catalog/book/docid/88809026		88809026		fulltext		Les Belles Lettres	serial								P
+Progress in optics	0079-6638		2016	61		2016	61		http://univ.scholarvox.com/catalog/book/docid/88832705		88832705		fulltext		Elsevier Science	serial								P
+Progress in optics	0079-6638		2014	59		2014	59		http://univ.scholarvox.com/catalog/book/docid/88820371		88820371		fulltext		Elsevier Science	serial								P
+Progress in optics	0079-6638		2018	63		2018	63		http://univ.scholarvox.com/catalog/book/docid/88864315		88864315		fulltext		Elsevier Science	serial								P
+Progress in optics	0079-6638		2013	58		2013	58		http://univ.scholarvox.com/catalog/book/docid/88817615		88817615		fulltext		Elsevier Science	serial								P
+Quarterly journal of political science	1554-0626	1554-0634	2006	1	1	2006	1	1	http://univ.scholarvox.com/catalog/book/docid/10219831		10219831		fulltext		now Publishers	serial								P
+Quarterly journal of political science	1554-0626	1554-0634	2006	1	2	2006	1	2	http://univ.scholarvox.com/catalog/book/docid/10219812		10219812		fulltext		now Publishers	serial								P
+Quarterly journal of political science	1554-0626	1554-0634	2006	1	3	2006	1	3	http://univ.scholarvox.com/catalog/book/docid/10219822		10219822		fulltext		now Publishers	serial								P
+Quarterly journal of political science	1554-0626	1554-0634	2006	1	4	2006	1	4	http://univ.scholarvox.com/catalog/book/docid/10219821		10219821		fulltext		now Publishers	serial								P
+Quarterly journal of political science	1554-0626	1554-0634	2007	2	1	2007	2	1	http://univ.scholarvox.com/catalog/book/docid/10219843		10219843		fulltext		now Publishers	serial								P
+Quarterly journal of political science	1554-0626	1554-0634	2008	3	3	2008	3	3	http://univ.scholarvox.com/catalog/book/docid/10276793		10276793		fulltext		now Publishers	serial								P
+Quarterly journal of political science	1554-0626	1554-0634	2007	2	3	2007	2	3	http://univ.scholarvox.com/catalog/book/docid/10219833		10219833		fulltext		now Publishers	serial								P
+Quarterly journal of political science	1554-0626	1554-0634	2007	2	4	2007	2	4	http://univ.scholarvox.com/catalog/book/docid/10219839		10219839		fulltext		now Publishers	serial								P
+Quarterly journal of political science	1554-0626	1554-0634	2007	3	1	2007	3	1	http://univ.scholarvox.com/catalog/book/docid/10219825		10219825		fulltext		now Publishers	serial								P
+Quarterly journal of political science	1554-0626	1554-0634	2008	3	2	2008	3	2	http://univ.scholarvox.com/catalog/book/docid/10240974		10240974		fulltext		now Publishers	serial								P
+Quarterly journal of political science	1554-0626	1554-0634	2007	2	2	2007	2	2	http://univ.scholarvox.com/catalog/book/docid/10219837		10219837		fulltext		now Publishers	serial								P
+Studies in Natural Products Chemistry	1572-5995	2542-6621	2013	39		2013	39		http://univ.scholarvox.com/catalog/book/docid/88814335		88814335		fulltext		Elsevier Science	serial								P
+Studies in Natural Products Chemistry	1572-5995	2542-6621	2013	40		2013	40		http://univ.scholarvox.com/catalog/book/docid/88814336		88814336		fulltext		Elsevier Science	serial								P
+Studies in Natural Products Chemistry	1572-5995	2542-6621	2016	49		2016	49		http://univ.scholarvox.com/catalog/book/docid/88835149		88835149		fulltext		Elsevier Science	serial								P
+Studies in Natural Products Chemistry	1572-5995	2542-6621	2016	48		2016	48		http://univ.scholarvox.com/catalog/book/docid/88833657		88833657		fulltext		Elsevier Science	serial								P
+Studies in Natural Products Chemistry	1572-5995	2542-6621	2016	50		2016	50		http://univ.scholarvox.com/catalog/book/docid/88835094		88835094		fulltext		Elsevier Science	serial								P
+Studies in Natural Products Chemistry	1572-5995	2542-6621	2016	47		2016	47		http://univ.scholarvox.com/catalog/book/docid/88832039		88832039		fulltext		Elsevier Science	serial								P
