@@ -94,6 +94,11 @@ module.exports = new Parser(function analyseEC(parsedUrl, ec) {
     result.rtype  = 'ABS';
     result.mime   = 'MISC';
     result.unitid = match[1];
+  } else if ((match = /^\/([a-z0-9]+)\/([0-9]+)\/([0-9]+)\/issue\/([a-z0-9]+)-([a-z]+)\.pdf$/i.exec(path)) != null) {
+    // /ielx7/5488303/8616908/issue/39mcs01-completeissue.pdf
+    result.rtype  = 'ISSUE';
+    result.mime   = 'PDF';
+    result.unitid = `${match[2]}/${match[3]}/issue/${match[4]}`;
   }
 
   return result;
