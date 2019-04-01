@@ -40,7 +40,6 @@
   "contact": "abderrazzak.loukili@inist.fr",
   "pkb": true,
   "bacon": {
-    "provider": "CYBERLIBRIS",
-    "matches": ["GLOBAL_ALLTITLES"]
+    "provider": "CYBERLIBRIS"
   }
 }
