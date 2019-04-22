@@ -1,0 +1,22 @@
+{
+  "version": "2019-03-26",
+  "status": "beta",
+  "domains": [
+    "www.jgme.org"
+  ],
+  "recognize": {
+    "rid": [
+      "title_id",
+      "unitid",
+      "doi",
+      "rtype",
+      "mime"
+    ]
+  },
+  "name": "jgme",
+  "longname": "Journal of Graduate Medical Education",
+  "describe": "Recognizes the accesses to the platform Journal of Graduate Medical Education",
+  "docurl": "http://ang.couperin.org/platforms/to_be_completed/",
+  "contact": "alexander.cooper@emory.edu",
+  "pkb": false
+}
