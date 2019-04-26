@@ -1,0 +1,23 @@
+{
+  "version": "2019-03-26",
+  "status": "beta",
+  "domains": [
+    "www.jvir.org",
+    "jvir.org"
+  ],
+  "recognize": {
+    "rid": [
+      "title_id",
+      "doi",
+      "unitid",
+      "rtype",
+      "mime"
+    ]
+  },
+  "name": "jvir",
+  "longname": "Journal of Vascular and Interventional Radiology",
+  "describe": "Recognizes the accesses to the platform Journal of Vascular and Interventional Radiology",
+  "docurl": "http://ang.couperin.org/platforms/to_be_completed/",
+  "contact": "acoope5@emory.edu",
+  "pkb": false
+}
