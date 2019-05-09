@@ -8,9 +8,10 @@
   "docurl": "http://analyses.ezpaarse.org/platforms/5a15b64c318720aadd87b530",
   "contact": "alexander.cooper@emory.edu",
 	"domains": [
-    "www.kanopystreaming.com",
-    "emory.kanopystreaming.com",
-    "help.kanopystreaming.com"
+      "www.kanopystreaming.com",
+      "emory.kanopystreaming.com",
+      "umb.kanopy.com",
+      "help.kanopystreaming.com"
 	],
   "pkb": false
 }
