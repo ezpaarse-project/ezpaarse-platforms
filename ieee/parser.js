@@ -37,7 +37,6 @@ module.exports = new Parser(function analyseEC(parsedUrl, ec) {
       // /xpl/articleDetails.jsp?arnumber=159424
       result.rtype    = 'ABS';
       result.mime     = 'HTML';
-      result.title_id = param.arnumber;
       result.unitid   = param.arnumber;
 
     } else if (param.bkn) {
@@ -55,45 +54,43 @@ module.exports = new Parser(function analyseEC(parsedUrl, ec) {
     result.mime  = 'HTML';
 
     if (param.arnumber) {
-      result.title_id = param.arnumber;
-      result.unitid   = param.arnumber;
+      result.unitid = param.arnumber;
     }
   } else if (/^\/stamp\/[a-z]+\.jsp$/i.test(path)) {
     // /stamp/stamp.jsp?tp=&arnumber=6648418
     // /stamp/stamp.jsp?arnumber=6899296
     // /stamp/stamp.jsp?tp=&arnumber=159424
 
-    result.rtype    = 'ARTICLE';
-    result.mime     = 'PDF';
-    result.title_id = param.arnumber;
-    result.unitid   = param.arnumber;
+    result.rtype  = 'ARTICLE';
+    result.mime   = 'PDF';
+    result.unitid = param.arnumber;
 
   } else if ((match = /^\/[a-z0-9]+\/[0-9]+\/([0-9]+)\/([0-9]+)\.pdf$/i.exec(path)) != null) {
     // /ielx7/85/7478484/07478511.pdf?tp=&arnumber=7478511&isnumber=7478484
     // /ielx2/1089/7625/00316360.pdf?tp=&arnumber=316360&isnumber=7625
-    result.rtype    = 'ARTICLE';
-    result.mime     = 'PDF';
-    result.title_id = match[1];
-    result.unitid   = match[2];
+    result.rtype  = 'ARTICLE';
+    result.mime   = 'PDF';
+    result.unitid = match[2];
 
   } else if ((match = /^\/stampPDF\/[a-zA-Z]+\.jsp$/i.exec(path)) != null) {
     // /stampPDF/getPDF.jsp?tp=&arnumber=872906
-    result.rtype    = 'ARTICLE';
-    result.mime     = 'PDF';
-    result.title_id = param.arnumber;
-    result.unitid   = param.arnumber;
+    result.rtype  = 'ARTICLE';
+    result.mime   = 'PDF';
+    result.unitid = param.arnumber;
 
   } else if ((match = /^\/courses\/content\/([a-z0-9]+)\/data\/swf\/?/i.exec(path)) != null) {
     // /courses/content/EW1305/data/swf/
-    result.rtype  = 'ONLINE_COURSE';
-    result.mime   = 'FLASH';
-    result.unitid = match[1];
+    result.rtype    = 'ONLINE_COURSE';
+    result.mime     = 'FLASH';
+    result.title_id = match[1];
+    result.unitid   = match[1];
 
   } else if ((match = /^\/courses\/details\/([a-z0-9]+)\/?/i.exec(path)) != null) {
     // /courses/details/EDP305
     result.rtype  = 'ABS';
     result.mime   = 'MISC';
     result.unitid = match[1];
+
   } else if ((match = /^\/([a-z0-9]+)\/([0-9]+)\/([0-9]+)\/issue\/([a-z0-9]+)-([a-z]+)\.pdf$/i.exec(path)) != null) {
     // /ielx7/5488303/8616908/issue/39mcs01-completeissue.pdf
     result.rtype  = 'ISSUE';
