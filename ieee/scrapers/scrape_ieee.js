@@ -2,78 +2,82 @@
 
 'use strict';
 
+const { lib } = require('../../.lib/utils');
 
-var request = require('request').defaults({ jar: true });
-var cheerio = require('cheerio');
-var CSV     = require('csv-string');
-var PkbRows = require('../../.lib/pkbrows.js');
+const fs      = lib('fs');
+const path    = lib('path');
+const moment  = lib('moment');
+const request = lib('request');
+const Listr   = lib('listr');
 
-var url = 'http://ieeexplore.ieee.org/Xplorehelp/partials/administrators-and-librarians/title-lists.html';
-request(url, function (err, resp, body) {
-  var $ = cheerio.load(body);
-  $('.resources-table a').each(function () {
-    var testurl = $(this).attr('href');
-    var match ;
-    if ((match = /http:\/\/ieeexplore\.ieee\.org\/otherfiles\/IEEEXplore_Global_All-([\w\W]+).txt/.exec(testurl)) !== null) {
-      var titre = {};
-      titre.titre = match[1];
-      titre.url = testurl;
-      createPKB(titre, function(err) {
-        if (err) {
-          console.log(err);
-        }
-        console.log('create pkb');
+const today = moment().format('YYYY-MM-DD');
+const pkbDir = path.resolve(__dirname, '..', 'pkb');
+const kbartPackages = [
+  'IEEEXplore_Global_All-Journals',
+  'IEEEXplore_Global_All-Conference-Series',
+  'IEEEXplore_Global_All-Conference-Proceedings',
+  'IEEEXplore_Global_All-Standards',
+  'IEEEXplore_Global_All-eBooks',
+  'IEEEXplore_Global_All-Courses'
+];
+
+const tasks = [
+  {
+    title: 'Check PKB directory',
+    task () {
+      return new Promise((resolve, reject) => {
+        fs.mkdir(pkbDir, err => {
+          if (err && err.code !== 'EEXIST') { return reject(err); }
+          resolve();
+        });
       });
     }
+  },
+  {
+    title: 'Download packages',
+    task () {
+      const downloadTasks = kbartPackages.map(pkg => {
+        const file = path.resolve(pkbDir, `${pkg}_${today}.txt`);
 
-  });
+        return {
+          title: pkg,
+          task () {
+            return downloadPackage(pkg, file);
+          }
+        };
+      });
 
+      return new Listr(downloadTasks, {
+        concurrent: true,
+        exitOnError: false
+      });
+    }
+  }
+];
+
+const listr = new Listr(tasks, { collapse: false });
+listr.run().catch(e => {
+  console.error(e.message);
+  process.exit(1);
 });
 
-function createPKB (titre, callback) {
-  request(titre.url, function (err, resp, body) {
-    if (err) {
-      return callback(err);
-    }
-    var csvSource = CSV.parse(body, CSV.detect(body));
-    if (csvSource != undefined) {
-      var pkb = new PkbRows('ieee');
-      pkb.setKbartName(titre.titre);
-      var titles = csvSource[0];
-      csvSource.shift();
-      for (var i in csvSource) {
-        var kbartRow = pkb.initRow({});
-        kbartRow = associetElement(titles, csvSource[i]);
-        pkb.addRow(kbartRow);
-      }
-      if (!pkb.writeKbart()) {
-        return;
-      }
-    } else {
-      console.error('Aucune information retournée');
-      return;
-    }
+/**
+ * Download a package
+ * @param {Object} packageId  package identifier
+ * @param {String} dest destination file
+ */
+function downloadPackage(packageId, dest) {
+  return new Promise((resolve, reject) => {
+    request.get(`https://ieeexplore.ieee.org/otherfiles/${packageId}.txt`)
+      .on('error', reject)
+      .on('response', response => {
+        if (response.statusCode !== 200) {
+          return reject(new Error(`${response.statusCode} ${response.statusMessage}`));
+        }
 
+        response.pipe(fs.createWriteStream(dest))
+          .on('error', reject)
+          .on('finish', resolve);
+      });
   });
-}
-
-
-function associetElement(titles, value) {
-  if (!value && value != undefined) {
-    return false;
-  }
-  var elementproportie = {};
-
-  var testcounter = 1 ;
-  for (var k in value) {
-    testcounter ++;
-    if (value.length == testcounter) { break; }
-    if (value[k] !== null || value[k] !== '') {
-      elementproportie[titles[k]] = value[k];
-    }
-  }
-
-
-
-  return elementproportie;
 }
