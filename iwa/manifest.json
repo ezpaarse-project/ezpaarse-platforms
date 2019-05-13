@@ -1,0 +1,13 @@
+{
+  "longname": "IWA (International Water Association) Publishing",
+  "name": "iwa",
+  "describe": "Recognizes the accesses to the platform IWA (International Water Association) Publishing",
+  "contact": "Steven Wilmouth",
+  "pkb": false,
+  "docurl": "http://analyses.ezpaarse.org/platforms/5c94c4293471ff08f254809c",
+  "domains": [
+    "iwaponline-com.accesdistant.sorbonne-universite.fr"
+  ],
+  "version": "2019-05-13",
+  "status": "beta"
+}
