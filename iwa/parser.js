@@ -19,7 +19,6 @@ module.exports = new Parser(function analyseEC(parsedUrl, ec) {
     // /hr/article/50/2/417/65541/Long-term-hydrological-changes-after-various-river
     // /hr/issue/50/2
     if (match[2] === 'issue') {
-      result.pii = 'iwaponline-com';
       result.title_id = match[1];
       result.vol = match[3];
       result.issue = match[4];
