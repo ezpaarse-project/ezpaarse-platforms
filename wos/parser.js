@@ -65,6 +65,7 @@ module.exports = new Parser(function analyseEC(parsedUrl, ec) {
     // https://jcr-incites-thomsonreuters-com.inee.bib.cnrs.fr/JCRJournalProfileAction.action?
     // https://esi-incites-thomsonreuters-com.inee.bib.cnrs.fr/IndicatorsAction.action?
     // https://esi-incites-thomsonreuters-com.inee.bib.cnrs.fr/DocumentsAction.action
+    // https://jcr-clarivate-com.insu.bib.cnrs.fr/JCRMasterSearchAction.action?pg=SEARCH&searchString=nature
 
     switch (match[1]) {
     case 'JCRJournalHomeAction':
@@ -83,6 +84,13 @@ module.exports = new Parser(function analyseEC(parsedUrl, ec) {
         result.unitid   = `impact/${param.journal}/${param.year}`;
       }
       break;
+    case 'JCRMasterSearchAction':
+      result.rtype = 'SEARCH';
+      result.mime  = 'HTML';
+      if (param.searchString) {
+        result.unitid  = param.searchString;
+      }
+      break;
     case 'IndicatorsAction' :
       result.rtype = 'MAP';
       result.mime  = 'MISC';
@@ -98,6 +106,16 @@ module.exports = new Parser(function analyseEC(parsedUrl, ec) {
     // /RA/analyze.do
     result.rtype = 'ANALYSIS';
     result.mime  = 'MISC';
+  } else if ((match = /^\/jif\/home/i.exec(path)) !== null) {
+    // /jif/home/?journal=NATURE&editions=SCIE&year=2017
+    result.rtype = 'ANALYSIS';
+    result.mime  = 'HTML';
+    if (param.journal) {
+      result.unitid  = param.journal;
+    }
+    if (param.year) {
+      result.publication_date  = param.year;
+    }
   }
 
   return result;
