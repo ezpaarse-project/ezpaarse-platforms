@@ -5,7 +5,9 @@
     "apps.webofknowledge.com",
     "wcs.webofknowledge.com",
     "jcr.incites.thomsonreuters.com",
-    "esi.incites.thomsonreuters.com"
+    "esi.incites.thomsonreuters.com",
+    "jcr.clarivate.com",
+    "esi.clarivate.com"
   ],
   "recognize": {
     "rid": [
