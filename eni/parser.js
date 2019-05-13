@@ -14,30 +14,37 @@ module.exports = new Parser(function analyseEC(parsedUrl, ec) {
   let result = {};
   let path   = parsedUrl.pathname;
   let param  = parsedUrl.query || {};
+  /* eslint-disable-next-line */
   let match;
 
-  if ((match = /^\/([a-z_]+)\/([a-z_]+).aspx$/i.exec(path)) !== null) {
-    //client_net/mediabook.aspx?idR=162245
+  if ((match = /^\/([a-z_]+)\/mediabook.aspx$/i.exec(path)) !== null) {
+    if (param.idp) result.title_id = param.idp;
+    if (param.ida) result.unitid = param.ida;
+    if (param.idR || param.idR) result.unitid = param.idR || param.idr;
+
     result.rtype = 'BOOK_SECTION';
     result.mime  = 'HTML';
-
+  } else if ((match = /^\/([a-z_]+)\/video.aspx$/i.exec(path)) !== null) {
     if (param.idR || param.idr) {
       result.unitid = param.idR || param.idr;
-    } else if (param.idp) {
-      result.unitid = param.idp;
-    } else if (param.ext === 'webm') {
-      result.rtype  = 'VIDEO';
-      result.mime   = 'MISC';
-      result.unitid = param.idM;
-    } else if (/pdf/.test(match[2])) {
-      result.mime = 'PDF';
     }
 
-    if (match[2] === 'video') {
-      result.rtype = 'TOC';
-      result.mime  = 'MISC';
+    result.rtype = 'TOC';
+    result.mime  = 'MISC';
+  } else if ((match = /^\/([a-z_]+)\/get_Resource.aspx$/i.exec(path)) !== null) {
+    result.rtype = 'BOOK_SECTION';
+    result.mime  = 'HTML';
+  } else if ((match = /^\/([a-z_]+)\/get_PlayList.aspx$/i.exec(path)) !== null) {
+    if (param.idM || param.idm) {
+      result.unitid = param.idM || param.idm;
     }
+    result.rtype = 'VIDEO';
+    result.mime  = 'MISC';
+  } else if ((match = /^\/([a-z_]+)\/pdfexport.aspx$/i.exec(path)) !== null) {
+    result.rtype = 'BOOK_SECTION';
+    result.mime  = 'PDF';
   }
+
   return result;
 });
 
