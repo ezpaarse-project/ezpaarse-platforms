@@ -1,7 +1,7 @@
 out-title_id;out-unitid;out-rtype;out-mime;in-url
 ;162245;BOOK_SECTION;HTML;http://www.eni-training.com/client_net/mediabook.aspx?idR=162245
 ;159586;TOC;MISC;http://www.eni-training.com/client_net/video.aspx?idr=159586
-;40468;BOOK_SECTION;HTML;http://www.eni-training.com/client_net/mediabook.aspx?idp=40468&ida=40499
+40468;40499;BOOK_SECTION;HTML;http://www.eni-training.com/client_net/mediabook.aspx?idp=40468&ida=40499
 ;;BOOK_SECTION;HTML;http://www.eni-training.com/client_net/get_Resource.aspx
 ;;BOOK_SECTION;PDF;http://www.eni-training.com/client_net/pdfexport.aspx?exporttype=2
 ;C_159589;VIDEO;MISC;http://www.eni-training.com/client_net/get_PlayList.aspx?type=chapter&idM=C_159589&ext=webm
