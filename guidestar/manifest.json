@@ -1,0 +1,24 @@
+{
+  "version": "2019-04-17",
+  "status": "beta",
+  "domains": [
+    "www.guidestar.org",
+    "guidestar.org",
+    "pdf.guidestar.org"
+  ],
+  "recognize": {
+    "rid": [
+      "title_id",
+      "unitid",
+      "doi",
+      "rtype",
+      "mime"
+    ]
+  },
+  "name": "guidestar",
+  "longname": "GuideStar",
+  "describe": "Recognizes the accesses to the platform GuideStar",
+  "docurl": "http://ang.couperin.org/platforms/to_be_completed/",
+  "contact": "alexander.cooper@emory.edu",
+  "pkb": false
+}
