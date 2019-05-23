@@ -2,7 +2,9 @@
   "version": "2014-12-03",
   "status": "stable",
   "domains": [
-    "www.lebonusage.com"
+    "www.lebonusage.com",
+    "lbu.knowliah.com",
+    "www.grevisse.fr"
   ],
   "pkb": true,
   "pkb-domains": "title_id",
