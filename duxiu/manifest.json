@@ -1,0 +1,35 @@
+{
+  "version": "2019-04-15",
+  "status": "beta",
+  "domains": [
+    "book.duxiu.com",
+    "count.duxiu.com",
+    "frelt.duxiu.com",
+    "img.duxiu.com",
+    "jour.duxiu.com",
+    "newspaper.duxiu.com",
+    "qk.duxiu.com",
+    "qw.duxiu.com",
+    "relt.duxiu.com",
+    "relt1.duxiu.com",
+    "relt2.duxiu.com",
+    "simg.duxiu.com",
+    "unicover.duxiu.com",
+    "vrefer.duxiu.com",
+    "www.duxiu.com",
+    "duxiu.com"
+  ],
+  "recognize": {
+    "rid": [
+      "title_id",
+      "doi",
+      "unit_id"
+    ]
+  },
+  "name": "duxiu",
+  "longname": "Duxiu",
+  "describe": "Recognizes the accesses to the platform Duxiu",
+  "docurl": "http://ang.couperin.org/platforms/to_be_completed/",
+  "contact": "acoope5@emory.edu",
+  "pkb": false
+}
