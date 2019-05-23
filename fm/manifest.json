@@ -1,0 +1,13 @@
+{
+  "longname": "Future Medicine (demo)",
+  "name": "fm",
+  "describe": "Recognizes the accesses to the platform Future Medicine (demo)",
+  "contact": "Yannick Schurter",
+  "pkb": false,
+  "docurl": "http://analyses.ezpaarse.org/platforms/5ce681b18ca2581f8fac3a26",
+  "domains": [
+    "www.futuremedicine.com"
+  ],
+  "version": "2019-05-23",
+  "status": "beta"
+}
