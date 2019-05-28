@@ -43,10 +43,11 @@ module.exports = new Parser(function analyseEC(parsedUrl) {
     result.rtype    = 'TOC';
     result.mime     = 'MISC';
 
-  } else if ((match = /^\/doi(\/[a-z]+)?\/(10\.[0-9]+\/([0-9.]+))$/i.exec(path)) !== null) {
+  } else if ((match = /^\/doi(\/[a-z]+)?\/(10\.[0-9]+\/([a-z0-9.]+))$/i.exec(path)) !== null) {
     // /doi/abs/10.1063/1.4979417
     // /doi/pdf/10.1063/1.4979418
     // /doi/10.1063/1.5049598
+    // /doi/pdf/10.1063/PT.3.4090
     result.doi    = match[2];
     result.unitid = match[3];
 
