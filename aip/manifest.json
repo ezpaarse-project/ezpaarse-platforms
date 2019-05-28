@@ -14,7 +14,8 @@
   },
 	"domains": [
     "scitation.aip.org",
-    "aip.scitation.org",
+    "aip.scitation.org",	
+    "aapt.scitation.org",
     "www.aip.org",
     "publishing.aip.org"
 	]
