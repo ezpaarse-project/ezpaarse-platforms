@@ -1,0 +1,13 @@
+{
+  "longname": "InfoWeb Readex",
+  "name": "infoweb",
+  "describe": "Recognizes the accesses to the platform InfoWeb Readex",
+  "contact": "acoope5@emory.edu",
+  "pkb": false,
+  "docurl": "http://ang.couperin.org/platforms/to_be_completed/",
+  "domains": [
+    "newsbank.com"
+  ],
+  "version": "2019-04-29",
+  "status": "beta"
+}
