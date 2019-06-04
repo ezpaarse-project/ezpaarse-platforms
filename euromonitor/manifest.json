@@ -1,0 +1,15 @@
+{
+  "longname": "Euromonitor International",
+  "name": "euromonitor",
+  "describe": "Recognizes the accesses to the platform Euromonitor International",
+  "contact": "acoope5@emory.edu",
+  "pkb": false,
+  "docurl": "http://ang.couperin.org/platforms/54db34f0eb3a852d79e1d50c",
+  "domains": [
+    "www.portal.euromonitor.com",
+    "portal.euromonitor.com",
+    "euromonitor.com"
+  ],
+  "version": "2019-04-24",
+  "status": "beta"
+}
