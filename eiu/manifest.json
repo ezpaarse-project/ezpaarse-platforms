@@ -1,0 +1,23 @@
+{
+  "longname": "Economist Intelligence Unit",
+  "name": "eiu",
+  "describe": "Recognizes the accesses to the platform Economist Intelligence Unit",
+  "contact": "acoope5@emory.edu",
+  "pkb": false,
+  "docurl": "http://ang.couperin.org/platforms/to_be_completed/",
+  "domains": [
+    "country.eiu.com",
+    "data.eiu.com",
+    "gfs.eiu.com",
+    "graphics.eiu.com",
+    "portal.eiu.com",
+    "search.eiu.com",
+    "service.eiu.com",
+    "store.eiu.com",
+    "viewswire.eiu.com",
+    "www.eiu.com",
+    "eiu.com"
+  ],
+  "version": "2019-04-19",
+  "status": "beta"
+}
