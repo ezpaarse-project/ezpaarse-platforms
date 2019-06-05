@@ -1,0 +1,9 @@
+out-title_id;out-unitid;out-rtype;out-mime;in-url
+;;CONNECTION;MISC;http://www.portal.euromonitor.com:80/portal/policy/accepttermsandconditions?ControllerName=Default&ActionName=Index
+;;SEARCH;HTML;http://www.portal.euromonitor.com:80/searchui/main.js?version=20180704_1
+437029;1556038899215;REPORT;HTML;http://www.portal.euromonitor.com:80/portal/dashboard/analysisrelateddashboards?analysisId=437029&analysisTypeId=1&_=1556038899215
+431730;1556038977927;REPORT;HTML;http://www.portal.euromonitor.com:80/portal/dashboard/analysisrelateddashboards?analysisId=431730&analysisTypeId=1&_=1556038977927
+462055;462055;REPORT;PDF;http://www.portal.euromonitor.com:80/portal/analysis/downloadpdf?analysisId=462055&analysisTypeId=1&itemTypeId=48&elementId=0&elementTypeId=0&checksum=014264A2BDEE0CCDE0F27E9FBC42BAFD&searchString=TesT
+463751;463751;REPORT;PDF;http://www.portal.euromonitor.com:80/portal/analysis/downloadpdf?analysisId=463751&analysisTypeId=1&itemTypeId=79&elementId=0&elementTypeId=0&checksum=75A5D61DDAAB0566278C42D1A0072DF9&searchString=TesT
+;1556039200418;DATASET;HTML;http://www.portal.euromonitor.com:80/portal/statisticsevolution/exporttoolsasync?measureTypeId=119&_=1556039200418
+;1556039291849;DATASET;HTML;http://www.portal.euromonitor.com:80/portal/statisticsevolution/exporttoolsasync?measureTypeId=124&_=1556039291849
