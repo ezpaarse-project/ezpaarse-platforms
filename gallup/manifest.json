@@ -1,0 +1,14 @@
+{
+  "longname": "Gallup Analytics",
+  "name": "gallup",
+  "describe": "Recognizes the accesses to the platform Gallup Analytics",
+  "contact": "acoope5@emory.edu",
+  "pkb": false,
+  "docurl": "http://ang.couperin.org/platforms/to_be_completed/",
+  "domains": [
+    "anayltics.gallup.com",
+    "gallup.com"
+  ],
+  "version": "2019-05-16",
+  "status": "beta"
+}
