@@ -1,0 +1,11 @@
+out-rtype;out-mime;out-unitid;out-title_id;in-url
+GRAPH;HTML;;;https://analyticscampus.gallup.com:443/Charts
+TABLE;HTML;;;https://analyticscampus.gallup.com:443/Tables/ 
+MAP;HTML;;;https://analyticscampus.gallup.com:443/Explore
+REF;HTML;;;https://analyticscampus.gallup.com:443/Profiles
+ARTICLE;HTML;257597;257597;https://analyticscampus.gallup.com:443/Data/GetArticleData?itemId=257597
+ARTICLE;HTML;257612;257612;https://analyticscampus.gallup.com:443/Data/GetArticleData?itemId=257612
+MAP;HTML;130/32/67;130/32/67;https://analyticscampus.gallup.com:443/Data/GetMapRankData?questionId=130&regionId=32&demoId=67
+MAP;HTML;182/32/67;182/32/67;https://analyticscampus.gallup.com:443/Data/GetMapRankData?questionId=182&regionId=32&demoId=67
+DATA;HTML;107//32;107//32;https://analyticscampus.gallup.com:443/Data/GetProfileMetricData?questionId=107&geoId=&regionId=32
+DATA;HTML;347//31;347//31;https://analyticscampus.gallup.com:443/Data/GetProfileMetricData?questionId=347&geoId=&regionId=31
