@@ -1,0 +1,20 @@
+{
+  "version": "2018-05-18",
+  "status": "beta",
+  "domains": [
+    "www.amjmed.com"
+  ],
+  "recognize": {
+    "rid": [
+      "title_id",
+      "unitid",
+      "pii"
+    ]
+  },
+  "name": "amjmed",
+  "longname": "American Journal of Medicine",
+  "describe": "Recognizes the accesses to the platform American Journal of Medicine",
+  "docurl": "http://ang.couperin.org/platforms/5aff19ae901b3295ca5e5dfe",
+  "contact": "alexander.cooper@emory.edu",
+  "pkb": false
+}
