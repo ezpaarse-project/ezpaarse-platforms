@@ -1,0 +1,15 @@
+{
+  "longname": "Faculty 1000",
+  "name": "f1000",
+  "describe": "Recognizes the accesses to the platform Faculty 1000",
+  "contact": "acoope5@emory.edu",
+  "pkb": false,
+  "docurl": "http://ang.couperin.org/platforms/to_be_completed/",
+  "domains": [
+    "f1000.com",
+    "f1000research.com",
+    "blog.f1000.com"
+  ],
+  "version": "2019-05-07",
+  "status": "beta"
+}
