@@ -74,6 +74,7 @@ module.exports = new Parser(function analyseEC(parsedUrl, ec) {
         const query     = hashedUrl.query || {};
 
         if (query.AN) { result.unitid = query.AN; }
+        if (query.db) { result.db_id = query.db; }
       }
       break;
     }
@@ -86,6 +87,8 @@ module.exports = new Parser(function analyseEC(parsedUrl, ec) {
     result.mime   = 'PDF';
     result.unitid = match[1];
 
+    if (param.D) { result.db_id = param.D; }
+
   } else if (path.toLowerCase() === '/contentserver.asp') {
     // http://content.ebscohost.com:80/ContentServer.asp?T=P&P=AN&K=96283258&S=R&
     // D=aph&EbscoContent=dGJyMNLe80SeqK84v%2BvlOLCmr0yep65Srqi4S7CWxWXS&
@@ -94,6 +97,7 @@ module.exports = new Parser(function analyseEC(parsedUrl, ec) {
     result.mime  = 'PDF';
 
     if (param.K) { result.unitid = param.K; }
+    if (param.D) { result.db_id = param.D; }
 
   } else if (path.toLowerCase() === '/openurl') {
     // /openurl?sid=EBSCO:a9h&genre=article&issn=0399077X&ISBN=&volume=46&issue=7&date=20161001&spage=372
