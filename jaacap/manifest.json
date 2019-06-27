@@ -1,0 +1,14 @@
+{
+  "longname": "Journal of the American Academy of Child and Adolescent Psychiatry",
+  "name": "jaacap",
+  "describe": "Recognizes the accesses to the platform Journal of the American Academy of Child and Adolescent Psychiatry",
+  "contact": "accope5@emory.edu",
+  "pkb": false,
+  "docurl": "http://ang.couperin.org/platforms/5d14fcc13721903c95fdbb13",
+  "domains": [
+    "jaacap.org",
+    "www.jaacap.org"
+  ],
+  "version": "2019-06-19",
+  "status": "stable"
+}
