@@ -1,0 +1,19 @@
+{
+  "version": "2018-03-13",
+  "status": "beta",
+  "domains": [
+    "www.imaios.com",
+    "imaios.com"
+  ],
+  "recognize": {
+    "rid": [
+      "unitid"
+    ]
+  },
+  "name": "imaios",
+  "longname": "e-Anatomy",
+  "describe": "Recognizes the accesses to the platform e-Anatomy",
+  "docurl": "http://ang.couperin.org/platforms/5aa858ee31e608ab9bac23a8",
+  "contact": "alexander.cooper@emory.edu",
+  "pkb": false
+}
