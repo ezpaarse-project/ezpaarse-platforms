@@ -1,0 +1,21 @@
+{
+  "version": "2018-04-06",
+  "status": "beta",
+  "domains": [
+    "www.thelancet.com",
+    "download.thelancet.com"
+  ],
+  "recognize": {
+    "rid": [
+      "doi",
+      "title_id",
+      "unitid"
+    ]
+  },
+  "name": "lancet",
+  "longname": "The Lancet",
+  "describe": "Recognizes the accesses to the platform The Lancet",
+  "docurl": "http://ang.couperin.org/platforms/5ac7b903f4a60b60a249fba0",
+  "contact": "alexander.cooper@emory.edu",
+  "pkb": false
+}
