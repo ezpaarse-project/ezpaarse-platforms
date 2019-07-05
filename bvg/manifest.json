@@ -1,0 +1,19 @@
+{
+  "version": "2018-04-13",
+  "status": "beta",
+  "domains": [
+    "batesvisualguide.com"
+  ],
+  "recognize": {
+    "rid": [
+      "title_id",
+      "unitid"
+    ]
+  },
+  "name": "bvg",
+  "longname": "Bates Visual Guide To Physical Examination",
+  "describe": "Recognizes the accesses to the platform Bates Visual Guide To Physical Examination",
+  "docurl": "http://ang.couperin.org/platforms/5acfe70f6fecc70fde4d028c",
+  "contact": "alexander.cooper@emory.edu",
+  "pkb": false
+}
