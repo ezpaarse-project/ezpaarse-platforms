@@ -1,0 +1,19 @@
+{
+  "version": "2018-04-13",
+  "status": "beta",
+  "domains": [
+    "allafrica.com"
+  ],
+  "recognize": {
+    "rid": [
+      "title_id",
+      "unitid"
+    ]
+  },
+  "name": "aaf",
+  "longname": "allAfrica",
+  "describe": "Recognizes the accesses to the platform allAfrica",
+  "docurl": "http://ang.couperin.org/platforms/5ad11f67e00912d67ecab7b3",
+  "contact": "alexander.cooper@emory.edu",
+  "pkb": false
+}
