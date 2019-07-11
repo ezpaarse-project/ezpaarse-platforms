@@ -1,6 +1,6 @@
-out-doi;out-title_id;out-unitid;out-rtype;out-mime;in-size;in-url
-10.4000/books.pum.6910;pum/6910;pum/6910;BOOK_SECTION;HTML;12000;http://books.openedition.org/pum/6910
-10.4000/books.pum.4456;pum/4456;pum/4456;BOOK;EPUB;1200000;http://books.openedition.org/pum/epub/4456
-10.4000/books.pum.4456;pum/4456;pum/4456;BOOK_SECTION;PDF;800000;http://books.openedition.org/pum/pdf/4456
-;;;;;5000;http://books.openedition.org/pum/6910
-;;;;;5000;http://books.openedition.org/enseditions/8526?format=bookstore&norecordurl=1
+out-lodelid;out-doi;out-title_id;out-unitid;out-rtype;out-mime;in-size;in-url
+6910;10.4000/books.pum.6910;pum;pum/6910;BOOK_SECTION;HTML;12000;http://books.openedition.org/pum/6910
+4456;10.4000/books.pum.4456;pum;pum/4456;BOOK;EPUB;1200000;http://books.openedition.org/pum/epub/4456
+4456;10.4000/books.pum.4456;pum;pum/4456;BOOK_SECTION;PDF;800000;http://books.openedition.org/pum/pdf/4456
+;;;;;;5000;http://books.openedition.org/pum/6910
+;;;;;;5000;http://books.openedition.org/enseditions/8526?format=bookstore&norecordurl=1

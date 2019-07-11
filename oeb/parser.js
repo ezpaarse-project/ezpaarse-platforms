@@ -27,9 +27,10 @@ module.exports = new Parser(function analyseEC(parsedUrl, ec) {
     // http://books.openedition.org/pum/epub/6903
 
     result.mime     = match[2].toUpperCase();
-    result.title_id = `${match[1]}/${match[3]}`;
-    result.unitid   = `${match[1]}/${match[3]}`;
-    result.doi      = `${doiPrefix}/books.${match[1]}.${match[3]}`;
+    result.lodelid  = match[3];
+    result.title_id = match[1];
+    result.unitid   = `${result.title_id}/${result.lodelid}`;
+    result.doi      = `${doiPrefix}/books.${result.title_id}.${result.lodelid}`;
 
     // if the size is greater than 1mo, we assume it's a full book
     result.rtype = (!fileSize || fileSize > 1000000) ? 'BOOK' : 'BOOK_SECTION';
@@ -41,9 +42,10 @@ module.exports = new Parser(function analyseEC(parsedUrl, ec) {
     if (!fileSize || fileSize > 10000) {
       result.rtype    = 'BOOK_SECTION';
       result.mime     = 'HTML';
-      result.title_id = match[1];
+      result.lodelid  = match[3];
+      result.title_id = match[2];
       result.unitid   = match[1];
-      result.doi      = `${doiPrefix}/books.${match[2]}.${match[3]}`;
+      result.doi      = `${doiPrefix}/books.${result.title_id}.${result.lodelid}`;
     }
   }
 
