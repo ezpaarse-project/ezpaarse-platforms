@@ -32,21 +32,21 @@ module.exports = new Parser(function analyseEC(parsedUrl, ec) {
       result.rtype = 'TOC';
       result.mime  = 'HTML';
       if (productId) {
-        result.title_id = productId;
+        result.db_id = productId;
       }
       break;
     case 'full_record' :
       result.rtype = 'REF';
       result.mime  = 'HTML';
       if (productId) {
-        result.title_id = productId;
+        result.db_id = productId;
       }
       break;
     case 'CitationReport' :
       result.rtype = 'ANALYSIS';
       result.mime  = 'MISC';
       if (productId) {
-        result.title_id = productId;
+        result.db_id = productId;
       }
       break;
     }
@@ -56,7 +56,7 @@ module.exports = new Parser(function analyseEC(parsedUrl, ec) {
       result.mime  = 'HTML';
 
       if (productId) {
-        result.title_id = productId;
+        result.db_id = productId;
       }
     }
 
