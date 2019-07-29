@@ -66,7 +66,7 @@ module.exports = new Parser(function analyseEC(parsedUrl, ec) {
     result.title_id = match[2];
     result.unitid   = match[1];
 
-  } else if ((match = /^\/doi\/([a-z]+)\/([0-9]{2}\.[0-9]{4,5}\/(([a-z]*)[0-9-]+))$/i.exec(path)) !== null) {
+  } else if ((match = /^\/doi\/([a-z]+)\/(10\.[0-9]{4,}\/(([a-z]*)[0-9-]+))$/i.exec(path)) !== null) {
     // /doi/abs/10.1108/EJIM-10-2013-0115
     // /doi/pdfplus/10.1108/14601061211272358
 
@@ -93,6 +93,25 @@ module.exports = new Parser(function analyseEC(parsedUrl, ec) {
     default:
       result.rtype = 'ARTICLE';
     }
+
+  } else if ((match = /^\/insight\/content\/doi\/(10\.[0-9]{4,}\/([a-z0-9-]+))\/full\/(pdf|html)$/i.exec(path)) !== null) {
+    // /insight/content/doi/10.1108/13581980810918396/full/pdf?title=product-market-competition-regulation-and-dividend-payout-policy-of-malaysian-banks
+    // /insight/content/doi/10.1108/13581980810918396/full/html
+
+    result.rtype  = 'ARTICLE';
+    result.mime   = match[3].toUpperCase();
+    result.unitid = match[2];
+    result.doi    = match[1];
+
+  } else if ((match = /^\/insight\/publication\/issn\/(([0-9]{4}-[0-9]{3}[0-9x])\/vol\/([0-9]+)\/iss\/([0-9]+))$/i.exec(path)) !== null) {
+    // /insight/publication/issn/1358-1988/vol/16/iss/4
+
+    result.rtype             = 'TOC';
+    result.mime              = 'HTML';
+    result.unitid            = match[1];
+    result.online_identifier = match[2];
+    result.vol               = match[3];
+    result.issue             = match[4];
 
   }
 
