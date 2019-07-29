@@ -101,7 +101,7 @@ module.exports = new Parser(function analyseEC(parsedUrl) {
       }
       break;
     }
-  } else if ((match = /^\/science\/article\/pii\/(([SB])?([0-9]{7}(?:[0-9]{5})?[0-9Xx])[0-9A-Za-z]*)(\/pdf(?:ft)?)?$/i.exec(path)) !== null) {
+  } else if ((match = /^\/science\/article\/pii\/(([SB])?([0-9]{7}(?:[0-9]{5})?[0-9Xx])[0-9a-z]*)(\/pdf(?:ft)?)?$/i.exec(path)) !== null) {
     // /science/article/pii/S1369526612001653/pdfft
     // /science/article/pii/S2212671612001011
     // /science/article/pii/B9780124200029100009
@@ -148,6 +148,7 @@ module.exports = new Parser(function analyseEC(parsedUrl) {
   } else if ((match = /^\/(journal|bookseries|handbooks|book)(?:\/([0-9x]{8,}))?\/([a-z0-9-_]+)$/i.exec(path)) !== null) {
     // /bookseries/advances-in-chemical-engineering
     // /book/9780080274409/science-for-hairdressing-students
+    // /journal/molecular-cell
 
     result.rtype    = 'TOC';
     result.mime     = 'HTML';
@@ -167,7 +168,16 @@ module.exports = new Parser(function analyseEC(parsedUrl) {
       }
     }
 
-  } else if ((match = /^\/science\/MiamiMultiMediaURL\/[^/]+(S([0-9]{4})([0-9]{3}[0-9Xx])[a-zA-Z0-9]*).*\.pdf$/i.exec(path)) !== null) {
+  } else if ((match = /^\/journal\/(([a-z0-9-_]+)\/vol\/([0-9]+)\/issue\/([0-9]+))$/i.exec(path)) !== null) {
+    // /journal/applied-animal-behaviour-science/vol/75/issue/1
+    result.rtype    = 'TOC';
+    result.mime     = 'HTML';
+    result.unitid   = match[1];
+    result.title_id = match[2];
+    result.vol      = match[3];
+    result.issue    = match[4];
+
+  } else if ((match = /^\/science\/MiamiMultiMediaURL\/[^/]+(S([0-9]{4})([0-9]{3}[0-9Xx])[a-z0-9]*).*\.pdf$/i.exec(path)) !== null) {
     // http://www.sciencedirect.com:80/science/MiamiMultiMediaURL/1-s2.0-S0960982213001917/1-s2.0-S0960982213001917-mmc1.pdf
     // /272099/FULL/S0960982213001917/b60b292cd91d2846ac711a4e83db83a3/mmc1.pdf
     result.pii              = result.unitid = match[1];
@@ -176,7 +186,7 @@ module.exports = new Parser(function analyseEC(parsedUrl) {
     result.rtype            = 'ARTICLE';
     result.mime             = 'PDF';
 
-  } else if ((match = /^\/(([SB])?([0-9]{7}(?:[0-9]{5})?[0-9Xx])[0-9A-Za-z]*)\/[0-9A-Za-z\-.]*-main\.pdf$/i.exec(path)) !== null) {
+  } else if ((match = /^\/(([SB])?([0-9]{7}(?:[0-9]{5})?[0-9Xx])[0-9a-z]*)\/[0-9a-z\-.]*-main\.pdf$/i.exec(path)) !== null) {
     // http://ac.els-cdn.com/S0967586808000258/1-s2.0-S0967586808000258-main.pdf?
     // _tid=2146516a-82a7-11e3-a57f-00000aab0f6b&acdnat=1390314188_e595d0b375febbda9fdd48d069be9b55
     // ou
@@ -206,6 +216,40 @@ module.exports = new Parser(function analyseEC(parsedUrl) {
       result.unitid           = result.print_identifier;
       result.title_id         = param.issn;
     }
+  } else if ((match = /^\/reader\/[a-z]+\/pii\/(([SB])?([0-9]{7}(?:[0-9]{5})?[0-9Xx])[0-9a-z]*)$/i.exec(path)) !== null) {
+    // /reader/sd/pii/S1466856410001086
+
+    result.mime     = 'PDF';
+    result.pii      = match[1];
+    result.unitid   = match[1];
+
+    if (match[2] === 'B') {
+      result.rtype            = 'BOOK_SECTION';
+      result.title_id         = match[3];
+      result.print_identifier = match[3];
+    } else {
+      result.rtype            = 'ARTICLE';
+      result.title_id         = match[3].substr(0, 8);
+      result.print_identifier = `${match[3].substr(0, 4)}-${match[3].substr(4, 4)}`;
+    }
+
+  } else if ((match = /^\/[0-9]+\/[0-9s.-]+-[SB]?[0-9]{7}(?:[0-9]{5})?[0-9Xx][0-9a-z]*\/[0-9s.-]+-(([SB])?([0-9]{7}(?:[0-9]{5})?[0-9Xx])[0-9a-z]*)\/main\.pdf$/i.exec(path)) !== null) {
+    // /274131/3-s2.0-B9780121381103X50004/3-s2.0-B9780121381103500064/main.pdf
+
+    result.mime     = 'PDF';
+    result.pii      = match[1];
+    result.unitid   = match[1];
+
+    if (match[2] === 'B') {
+      result.rtype            = 'BOOK_SECTION';
+      result.title_id         = match[3];
+      result.print_identifier = match[3];
+    } else {
+      result.rtype            = 'ARTICLE';
+      result.title_id         = match[3].substr(0, 8);
+      result.print_identifier = `${match[3].substr(0, 4)}-${match[3].substr(4, 4)}`;
+    }
+
   }
 
   return result;
