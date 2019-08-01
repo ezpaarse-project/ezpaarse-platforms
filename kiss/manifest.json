@@ -1,0 +1,13 @@
+{
+  "longname": "Koreanstudies Information Service System",
+  "name": "KISS",
+  "describe": "Recognizes the accesses to the platform Koreanstudies Information Service System",
+  "contact": "acoope5@emory.edu",
+  "pkb": false,
+  "docurl": "http://ang.couperin.org/platforms/to_be_completed/",
+  "domains": [
+    "kiss.kstudy.com"
+  ],
+  "version": "2019-06-21",
+  "status": "beta"
+}
