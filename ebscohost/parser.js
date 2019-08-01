@@ -66,8 +66,12 @@ module.exports = new Parser(function analyseEC(parsedUrl, ec) {
       // /ehost/detail?sid=6323ca41-66ca-4e71-a8d9-c2a2cae26f16%40sessionmgr110&vid=1&hid=103&bdata=Jmxhbmc9ZnImc2l0ZT1laG9zdC1saXZl#db=rzh&jid=CLB
       // /ehost/detail?vid=3&sid=6323ca41-66ca-4e71-a8d9-c2a2cae26f16%40sessionmgr110&hid=103&bdata=Jmxhbmc9ZnImc2l0ZT1laG9zdC1saXZl#db=rzh&AN=2012317453
       // /ehost/detail/detail?vid=4&sid=1f85c7ec-9906-4b8e-917f-fb4c7171ffe4%40sessionmgr4007&hid=4201&bdata=Jmxhbmc9ZnImc2l0ZT1laG9zdC1saXZl#AN=118470727&db=a9h
+      // /ehost/detail/imageQuickView?sid=02e0d651-d861-4dd9-9f0d-acccef9c5213@pdc-v-sessmgr06&vid=10&ui=25283623&id=83290720&parentui=83290720&tag=AN&db=s3h
       result.rtype = 'REF';
       result.mime  = 'HTML';
+
+      if (param.AN) { result.unitid = param.AN; }
+      if (param.db) { result.db_id = param.db; }
 
       if (parsedUrl.hash) {
         const hashedUrl = URL.parse(parsedUrl.hash.replace('#', '/?'), true);
