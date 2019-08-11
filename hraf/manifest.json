@@ -1,0 +1,15 @@
+{
+  "longname": "Human Relations Area Files",
+  "name": "hraf",
+  "describe": "Recognizes the accesses to the platform Human Relations Area Files",
+  "contact": "acoope5@emory.edu",
+  "pkb": false,
+  "docurl": "http://ang.couperin.org/platforms/to_be_completed/",
+  "domains": [
+    "hraf.yale.edu",
+    "ehrafarchaeology.yale.edi",
+    "ehrafworldcultures.yale.edu"
+  ],
+  "version": "2019-07-01",
+  "status": "beta"
+}
