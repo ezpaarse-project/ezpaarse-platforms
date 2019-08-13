@@ -1,0 +1,16 @@
+{
+  "longname": "NEJM Journal Watch",
+  "name": "jwatch",
+  "describe": "Recognizes the accesses to the platform NEJM Journal Watch",
+  "contact": "acoope5@emory.edu",
+  "pkb": false,
+  "docurl": "http://ang.couperin.org/platforms/to_be_completed/",
+  "domains": [
+    "jwatch.org",
+    "nejmgroup.com",
+    "blogs.jwatch.org",
+    "podcasts.jwatch.org"
+  ],
+  "version": "2019-07-09",
+  "status": "beta"
+}
