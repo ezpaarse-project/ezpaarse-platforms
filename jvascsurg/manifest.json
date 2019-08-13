@@ -1,0 +1,13 @@
+{
+  "longname": "Journal of Vascular Surgery",
+  "name": "jvascsurg",
+  "describe": "Recognizes the accesses to the platform Journal of Vascular Surgery",
+  "contact": "acoope5@emory.edu",
+  "pkb": false,
+  "docurl": "http://ang.couperin.org/platforms/to_be_completed/",
+  "domains": [
+    "jvascsurg.org"
+  ],
+  "version": "2019-07-08",
+  "status": "beta"
+}
