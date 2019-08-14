@@ -1,0 +1,15 @@
+{
+  "longname": "artnet",
+  "name": "artnet",
+  "describe": "Recognizes the accesses to the platform artnet",
+  "contact": "acoope5@emory.edu",
+  "pkb": false,
+  "docurl": "http://ang.couperin.org/platforms/to_be_completed/",
+  "domains": [
+    "artnet.com",
+    "images.artnet.com",
+    "news.artnet.com"
+  ],
+  "version": "2019-07-18",
+  "status": "beta"
+}
