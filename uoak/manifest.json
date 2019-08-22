@@ -1,0 +1,18 @@
+{
+  "version": "2019-08-22",
+  "status": "beta",
+  "domains": [
+    "univoak.eu"
+  ],
+  "recognize": {
+    "rid": [
+      "islandora_id"
+    ]
+  },
+  "name": "uoak",
+  "longname": "Univ OAK : Open Access to Knoledge",
+  "describe": "Recognizes the accesses to the platform Univ OAK : Open Access to Knoledge",
+  "docurl": "http://analyses.ezpaarse.org/platforms/5d5ea5688f084b1588745e58",
+  "contact": "dominique.lechaudel@inist.fr",
+  "pkb": true
+}
