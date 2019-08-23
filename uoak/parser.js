@@ -34,7 +34,12 @@ module.exports = new Parser(function analyseEC(parsedUrl, ec) {
      * more at http://ezpaarse.readthedocs.io/en/master/essential/ec-attributes.html#unitid
      */
     result.unitid = match[1];
-
+  } else if ((match = /^\/islandora\/object\/islandora:([0-9]+)\/datastream\/PDF\/view$/i.exec(path)) !== null) {
+    // https://univoak.eu/islandora/object/islandora%3A64221/datastream/PDF/view
+    result.rtype    = 'ARTICLE';
+    result.mime     = 'PDF';
+    result.title_id = match[1];
+    result.unitid = match[1];
   } else if ((match = /^\/islandora\/object\/islandora:([0-9]+)$/i.exec(path)) !== null) {
     // https://univoak.eu/islandora/object/islandora:80605
     result.rtype    = 'REF';
