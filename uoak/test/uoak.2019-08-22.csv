@@ -2,3 +2,5 @@ out-title_id;out-rtype;out-mime;in-url;out-unitid
 80605;REF;HTML;https://univoak.eu/islandora/object/islandora:80605;80605
 53747;ARTICLE;PDF;https://univoak.eu/islandora/object/islandora:53747/datastream/PDF/download/citation.pdf;53747
 64221;ARTICLE;PDF;https://univoak.eu/islandora/object/islandora%3A64221/datastream/PDF/view;64221
+structures;QUERY;HTML;https://univoak.eu/search-structures;
+authors;QUERY;HTML;https://univoak.eu/search-authors;
