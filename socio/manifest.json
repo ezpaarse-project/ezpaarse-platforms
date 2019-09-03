@@ -1,0 +1,14 @@
+{
+  "longname": "Sociometrics",
+  "name": "socio",
+  "describe": "Recognizes the accesses to the platform Sociometrics",
+  "contact": "acoope5@emory.edu",
+  "pkb": false,
+  "docurl": "http://ang.couperin.org/platforms/5d6ebf6d83e01d03c3ac5cab",
+  "domains": [
+    "www.socio.com",
+    "socio.com"
+  ],
+  "version": "2019-08-19",
+  "status": "stable"
+}

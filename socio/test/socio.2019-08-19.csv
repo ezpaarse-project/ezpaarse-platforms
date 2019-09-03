@@ -1,0 +1,10 @@
+out-unitid;out-rtype;out-mime;in-url
+;SEARCH;HTML;https://www.socio.com:443/products
+;SEARCH;HTML;https://www.socio.com:443/products/data
+;SEARCH;HTML;https://www.socio.com:443/products?utf8=%E2%9C%93&keywords=potato&x=0&y=0
+;SEARCH;HTML;https://www.socio.com:443/products?utf8=%E2%9C%93&per_page=&search%5Bresource_type%5D%5B%5D=2&keywords=infant
+infant-stimulation-and-physical-therapy-an-early-intervention-program-for-children-with-spastic-diplegia;ABS;HTML;https://www.socio.com:443/products/infant-stimulation-and-physical-therapy-an-early-intervention-program-for-children-with-spastic-diplegia
+daappp-99;ABS;HTML;https://www.socio.com:443/products/daappp-99
+daappp-99/contents/4466;SUPPL;HTML;https://www.socio.com:443/products/daappp-99/contents/4466
+daappp-99/contents/4466/download;SUPPL;MISC;https://www.socio.com:443/products/daappp-99/contents/4466/download
+mda-0103/contents/download_all;SUPPL;MISC;https://www.socio.com:443/products/mda-0103/contents/download_all
