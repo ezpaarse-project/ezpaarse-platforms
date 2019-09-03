@@ -1,0 +1,24 @@
+{
+  "longname": "Naxos",
+  "name": "naxos",
+  "describe": "Recognizes the accesses to the platform Naxos",
+  "contact": "acoope5@emory.edu",
+  "pkb": false,
+  "docurl": "http://ang.couperin.org/platforms/5d6ec392ec94b21b07a71bd5",
+  "domains": [
+    "audiostream.naxosmusiclibrary.com",
+    "emory.naxosmusiclibrary.com",
+    "emory.naxosspokenwordlibrary.com",
+    "emory.naxosvideolibrary.com",
+    "emory.naxosworks.com",
+    "emory.nml3.naxosmusiclibrary.com",
+    "naxosmusiclibrary.com",
+    "naxosspokenwordlibrary.com",
+    "naxosvideolibrary.com",
+    "naxosworks.com",
+    "nml3.naxosmusiclibrary.com",
+    "www.naxosmusiclibrary.com"
+  ],
+  "version": "2019-08-15",
+  "status": "stable"
+}
