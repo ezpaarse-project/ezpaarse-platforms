@@ -1,0 +1,13 @@
+{
+  "longname": "American Economic Association",
+  "name": "aea",
+  "describe": "Recognizes the accesses to the platform American Economic Association",
+  "contact": ", accope5@emory.edu",
+  "pkb": false,
+  "docurl": "http://ang.couperin.org/platforms/573b33a3778504780f6f07ba",
+  "domains": [
+    "aeaweb.org"
+  ],
+  "version": "2019-08-06",
+  "status": "beta"
+}
