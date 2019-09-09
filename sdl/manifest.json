@@ -1,0 +1,13 @@
+{
+  "longname": "SPIE Digital Library",
+  "name": "sdl",
+  "describe": "Recognizes the accesses to the platform SPIE Digital Library",
+  "contact": "Steven WILMOUTH, Frederic Truong inist",
+  "pkb": false,
+  "docurl": "http://analyses.ezpaarse.org/platforms/54364db70bff41ac5035e735",
+  "domains": [
+    "www.spiedigitallibrary.org"
+  ],
+  "version": "2019-09-09",
+  "status": "beta"
+}
