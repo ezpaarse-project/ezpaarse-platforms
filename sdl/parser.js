@@ -25,8 +25,11 @@ module.exports = new Parser(function analyseEC(parsedUrl, ec) {
     result.rtype    = 'ARTICLE';
     result.mime     = 'PDF';
     result.doi      = param.fullDOI;
-    result.unitid   = param.fullDOI.match(/^([0-9.]+)\/([a-z0-9.]+)$/i)[2];
-  } else if ((match = /^\/journals\/([a-z0-9-]+)\/volume-([0-9]+)\/issue-([0-9]+)(\/[0-9]+\/[a-z-]+\/([0-9.]+)\/([a-z0-9.]+).full)?$/i.exec(path)) !== null) {
+    const unitidTmp = param.fullDOI.match(/^([0-9.]+)\/([a-z0-9.]+)$/i);
+    if (unitidTmp) {
+      result.unitid   = unitidTmp[2];
+    }
+  } else if ((match = /^\/journals\/([a-z0-9-]+)\/volume-([0-9]+)\/issue-([0-9]+)(\/[0-9]+\/[a-z-]+\/([0-9.]+)\/([a-z0-9.]+)\.full)?$/i.exec(path)) !== null) {
     // /journals/journal-of-electronic-imaging/volume-24/issue-05
     // /journals/Journal-of-Electronic-Imaging/volume-24/issue-05/051006/How-much-image-noise-can-be-added-in-cardiac-x/10.1117/1.JEI.24.5.051006.full
     result.vol      = match[2];
@@ -40,7 +43,7 @@ module.exports = new Parser(function analyseEC(parsedUrl, ec) {
       result.unitid   = match[6];
       result.rtype    = 'ARTICLE';
     }
-  } else if ((match = /^\/conference-proceedings-of-spie\/[0-9]+\/[a-z0-9]+\/[a-z0-9-]+\/([0-9.]+)\/([0-9.]+).full$/i.exec(path)) !== null) {
+  } else if ((match = /^\/conference-proceedings-of-spie\/[0-9]+\/[a-z0-9]+\/[a-z0-9-]+\/([0-9.]+)\/([0-9.]+)\.full$/i.exec(path)) !== null) {
     // /conference-proceedings-of-spie/10013/100130K/High-speed-multiphoton-imaging/10.1117/12.2242951.full
     result.rtype    = 'ARTICLE';
     result.mime     = 'HTML';
