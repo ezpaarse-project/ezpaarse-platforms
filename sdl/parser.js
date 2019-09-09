@@ -29,7 +29,7 @@ module.exports = new Parser(function analyseEC(parsedUrl, ec) {
     if (unitidTmp) {
       result.unitid = unitidTmp[1];
     }
-  } else if ((match = /^\/journals\/([a-z0-9-]+)\/volume-([0-9]+)\/issue-([0-9]+)(\/[0-9]+\/[a-z-]+\/([0-9.]+)\/([a-z0-9.]+)\.full)?$/i.exec(path)) !== null) {
+  } else if ((match = /^\/journals\/([a-z0-9-]+)\/volume-([0-9]+)\/issue-([0-9]+)(\/[0-9]+\/[a-z0-9-]+\/([0-9.]+)\/([a-z0-9.]+)\.full)?$/i.exec(path)) !== null) {
     // /journals/journal-of-electronic-imaging/volume-24/issue-05
     // /journals/Journal-of-Electronic-Imaging/volume-24/issue-05/051006/How-much-image-noise-can-be-added-in-cardiac-x/10.1117/1.JEI.24.5.051006.full
     result.vol      = match[2];
