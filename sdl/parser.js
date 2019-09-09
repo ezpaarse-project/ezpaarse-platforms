@@ -25,7 +25,7 @@ module.exports = new Parser(function analyseEC(parsedUrl, ec) {
     result.rtype    = 'ARTICLE';
     result.mime     = 'PDF';
     result.doi      = param.fullDOI;
-    const unitidTmp = /^[0-9.]+\/([a-z0-9.]+)$/i.match(param.fullDOI);
+    const unitidTmp = param.fullDOI.split('/');
     if (unitidTmp) {
       result.unitid = unitidTmp[1];
     }
