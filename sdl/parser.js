@@ -13,7 +13,7 @@ const Parser = require('../.lib/parser.js');
 module.exports = new Parser(function analyseEC(parsedUrl, ec) {
   let result = {};
   let path   = parsedUrl.pathname;
-  let param = parsedUrl.query || {};
+  let param  = parsedUrl.query || {};
 
   // console.error(parsedUrl);
 
@@ -25,9 +25,9 @@ module.exports = new Parser(function analyseEC(parsedUrl, ec) {
     result.rtype    = 'ARTICLE';
     result.mime     = 'PDF';
     result.doi      = param.fullDOI;
-    const unitidTmp = param.fullDOI.match(/^([0-9.]+)\/([a-z0-9.]+)$/i);
+    const unitidTmp = /^([0-9.]+)\/([a-z0-9.]+)$/i.match(param.fullDOI);
     if (unitidTmp) {
-      result.unitid   = unitidTmp[2];
+      result.unitid = unitidTmp[2];
     }
   } else if ((match = /^\/journals\/([a-z0-9-]+)\/volume-([0-9]+)\/issue-([0-9]+)(\/[0-9]+\/[a-z-]+\/([0-9.]+)\/([a-z0-9.]+)\.full)?$/i.exec(path)) !== null) {
     // /journals/journal-of-electronic-imaging/volume-24/issue-05
