@@ -3,7 +3,9 @@
   "status": "beta",
   "trello": "https://trello.com/c/az0rvaBM",
   "domains": [
-    "www.tandfonline.com"
+    "www.tandfonline.com",
+    "api.taylorfrancis.com",
+    "www.taylorfrancis.com"
   ],
   "recognize": {
     "rid": [
