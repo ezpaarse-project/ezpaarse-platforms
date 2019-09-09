@@ -1,0 +1,15 @@
+{
+  "longname": "Thomson Reuters Westlaw",
+  "name": "westlaw",
+  "describe": "Recognizes the accesses to the platform Thomson Reuters Westlaw",
+  "contact": "acoope5@emory.edu",
+  "pkb": false,
+  "docurl": "http://ang.couperin.org/platforms/54aa79e403c3239495447244",
+  "domains": [
+    "1.next.westlaw.com",
+    "next.westlaw.com",
+    "westlaw.com"
+  ],
+  "version": "2019-08-09",
+  "status": "beta"
+}
