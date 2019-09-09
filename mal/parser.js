@@ -35,14 +35,15 @@ module.exports = new Parser(function analyseEC(parsedUrl) {
     result.unitid   = match[2] + '.' + match[3];
     result.publication_date = info[2];
 
-  } else if ((match = /^\/doi\/full\/(([0-9.]+)\/(([^.]+).[^.]+.[^.]+))$/i.exec(path)) !== null) {
+  } else if ((match = /^\/doi(\/full)?\/(([0-9.]+)\/(([^.]+).[^.]+.[^.]+))$/i.exec(path)) !== null) {
     // http://online.liebertpub.com.gate1.inist.fr/doi/full/10.1089/dna.2012.1776
-    info = match[1].split('.');
+    // /doi/10.1089/hgtb.2018.041
+    info = match[2].split('.');
     result.rtype    = 'ARTICLE';
     result.mime     = 'HTML';
-    result.title_id = match[4];
-    result.unitid   = result.doi = match[1];
-    result.unitid   = match[3];
+    result.title_id = match[5];
+    result.unitid   = result.doi = match[2];
+    result.unitid   = match[4];
     result.publication_date = info[2];
 
   } else if ((match = /^\/doi\/pdf(plus)?\/(([0-9.]+)\/([^/(.)]+)\.([^/)]+))$/i.exec(path)) !== null) {
