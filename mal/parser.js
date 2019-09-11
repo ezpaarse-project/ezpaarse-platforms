@@ -53,10 +53,6 @@ module.exports = new Parser(function analyseEC(parsedUrl) {
     result.rtype = 'ARTICLE';
     result.mime  = 'PDF';
 
-    if (match[1] === 'plus') {
-      result.mime = 'PDFPLUS';
-    }
-
     result.title_id = match[4];
     result.doi      = match[2];
     result.unitid   = match[4] + '.' + match[5];
