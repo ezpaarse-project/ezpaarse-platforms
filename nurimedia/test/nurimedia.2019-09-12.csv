@@ -1,0 +1,13 @@
+out-unitid;out-title_id;out-rtype;out-mime;in-url
+;;SEARCH;MISC;http://www.dbpia.co.kr:80/search/topSearch?startCount=0&collection=ALL&startDate=&endDate=&filter=&prefix=&range=A&searchField=ALL&sort=RANK&reQuery=&realQuery=&exquery=&query=brain&collectionQuery=&srchOption=*
+;;SEARCH;MISC;http://www.krpia.co.kr:80/search/product?keyword=brain&facetScopes=title&sort=ACCURACY&listCount=20&page=1
+;;SEARCH;MISC;http://www.krpia.co.kr:80/popular/main
+IPRD00013157;IPRD00013157;TOC;HTML;http://www.dbpia.co.kr:80/journal/iprdDetail?iprdId=IPRD00013157
+PLCT00002268;PLCT00002268;TOC;HTML;http://www.dbpia.co.kr:80/journal/publicationDetail?publicationId=PLCT00002268
+VOIS00418511;VOIS00418511;TOC;HTML;http://www.dbpia.co.kr:80/journal/voisDetail?voisId=VOIS00418511
+PLCT00007572;PLCT00007572;TOC;HTML;http://www.krpia.co.kr:80/product/main?plctId=PLCT00007572
+NODE08009642;NODE08009642;ABS;HTML;http://www.dbpia.co.kr:80/journal/articleDetail?nodeId=NODE08009642
+2737119;2737119;BIO;HTML;http://www.dbpia.co.kr:80/author/authorDetail?ancId=2737119
+NODE07624301;NODE07624301;ARTICLE;PDF;http://download.dbpia.co.kr:80/File/Download?nodeId=NODE07624301&isCv=Y&ssoSeq=1029680422&icstId=ICST00006519&b2cMembId=&dIndex=86466832&uIp=170.140.142.252&lty=003001&dty=091002&isCv=Y&lang=kr&prevPathCode=&lognId=&lognFmatCode=&lognUseType=151002
+NODE04264940;PLCT00004468;IMAGE;MISC;http://www.krpia.co.kr:80/viewer/medaBody?viewModeType=185002%2C&node-id=NODE04264940&plctId=PLCT00004468
+PLCT00004468;PLCT00004468;IMAGE;MISC;http://www.krpia.co.kr:80/viewer/action-log?plctId=PLCT00004468&year=2019&month=9&day=12
