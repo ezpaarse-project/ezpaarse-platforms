@@ -1,11 +1,13 @@
 language: node_js
 node_js:
   - "6.6"
+cache:
+  directories:
+    - .lib/node_modules
 install:
   - make install
 script:
   - make test
-notifications:
 notifications:
   email:
     recipients:
