@@ -13,7 +13,6 @@ const Parser = require('../.lib/parser.js');
 module.exports = new Parser(function analyseEC(parsedUrl, ec) {
   let result = {};
   let path   = parsedUrl.pathname;
-  let param = parsedUrl.query || {};
 
   // use console.error for debuging
   // console.error(parsedUrl);
