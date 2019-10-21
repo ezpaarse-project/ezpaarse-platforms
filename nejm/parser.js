@@ -65,7 +65,7 @@ module.exports = new Parser(function analyseEC(parsedUrl, ec) {
     // /action/showPowerPoint?doi=10.1056/NEJMoa1411480
 
     result.rtype = 'REF';
-    result.mime  = 'MISC';
+    result.mime  = 'HTML';
 
     if (param.doi) {
       result.unitid = param.doi.split('/')[1];
