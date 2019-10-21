@@ -16,82 +16,68 @@ module.exports = new Parser(function analyseEC(parsedUrl, ec) {
   let param  = parsedUrl.query || {};
   let match;
 
-  if ((match = /^\/toc\/([a-z]+)\/(([a-z]+)-([a-z]+))$/.exec(path)) !== null) {
-    // http://www.nejm.org.ezproxy.unilim.fr/toc/nejm/medical-journal
-    result.rtype    = 'TOC';
-    result.mime     = 'MISC';
-    result.title_id = match[2];
-    result.unitid   = 'toc/' + match[1] + '/' + match[2];
+  if ((match = /^\/toc\/([a-z]+\/([a-z]+-[a-z]+))$/i.exec(path)) !== null) {
+    // /toc/nejm/medical-journal
+    result.rtype  = 'TOC';
+    result.mime   = 'MISC';
+    result.unitid = match[1];
 
-  } else if ((match = /^\/doi\/([a-z]+)\/(([0-9]+).([0-9]+))\/(([A-Z]+)([a-z]+)([0-9]+))$/.exec(path)) !== null) {
-    // http://www.nejm.org.ezproxy.unilim.fr/doi/full/10.1056/NEJMp1501140
-    // http://www.nejm.org.ezproxy.unilim.fr/doi/pdf/10.1056/NEJMra1403672
-    result.title_id = match[5];
-    result.unitid   = match[5];
-    result.rtype    = 'ARTICLE';
-    result.doi =  match[2] + '/' + match[5];
+  } else if ((match = /^\/doi\/(pdf|full|ref|audio)\/(10\.[0-9]+\/([a-z0-9._-]+))$/i.exec(path)) !== null) {
+    // /doi/full/10.1056/NEJMp1501140
+    // /doi/pdf/10.1056/NEJMra1403672
+    // /doi/audio/10.1056/nejm_2015.372.issue-23
+    result.doi    = match[2];
+    result.unitid = match[3];
 
-    if (match[1] === 'pdf') {
-      result.mime = 'PDF';
-    } else if (match[1] === 'ref') {
-      result.mime     = 'HTML';
-      result.rtype    = 'REF';
-      result.title_id =  match[5];
-      result.unitid   = result.title_id;
-    } else {
-      if (match[7] === 'vcm') {
-        result.mime  = 'MISC';
-        result.rtype = 'VIDEO';
-      } else if (match[7] === 'icm') {
-        result.mime  = 'MISC';
-        result.rtype = 'IMAGE';
-      } else {
-        result.mime = 'HTML';
-      }
+    switch (match[1]) {
+    case 'pdf':
+      result.rtype = 'ARTICLE';
+      result.mime  = 'PDF';
+      break;
+    case 'full':
+      result.rtype = 'ARTICLE';
+      result.mime  = 'HTML';
+      break;
+    case 'ref':
+      result.rtype = 'REF';
+      result.mime  = 'HTML';
+      break;
+    case 'audio':
+      result.rtype = 'ABS';
+      result.mime  = 'MP3';
+      break;
     }
 
-  } else if ((match = /^\/action\/(([A-Za-z]+))$/.exec(path)) !== null) {
-    // http://www.nejm.org.ezproxy.unilim.fr/action/showIssueAudio?a=nejm_2015.372.issue-23.summary.mp3
+  } else if (/^\/action\/showIssueAudio$/i.test(path)) {
+    // /action/showIssueAudio?a=nejm_2015.372.issue-23.summary.mp3
 
-    result.mime = 'MISC';
+    result.rtype = 'ABS';
+    result.mime  = 'MP3';
+    result.doi   = param.doi;
 
-    let matchparam = /(([a-z]+_[0-9]+\.[0-9]+\.[a-z]+-[0-9]+)\.[a-z]+)\.mp3$/.exec(param.a);
-
-    if (matchparam) {
-      result.rtype    = 'TOC';
-      result.title_id = matchparam[2];
-      result.unitid   = matchparam[1];
+    if (param.a) {
+      result.unitid = param.a.replace(/(\.summary)?\.mp3$/i, '');
     } else if (param.doi) {
-      result.title_id = param.doi.split('/')[1];
-      result.unitid   = param.doi.split('/')[1];
-      result.doi      = param.doi;
-      result.mime     = 'MISC';
-      result.rtype    = 'REF';
+      result.unitid = param.doi.split('/')[1];
     }
 
-  } else if ((match = /^\/doi\/([a-z]+)\/(([0-9]+).([0-9]+))\/(([a-z]+)_([0-9]+).([0-9]+).([a-z]+)-([0-9]+))$/.exec(path)) !== null) {
-    // http://www.nejm.org.ezproxy.unilim.fr/doi/audio/10.1056/nejm_2015.372.issue-23
-    result.rtype    = 'TOC';
-    result.mime     = 'MISC';
-    result.title_id = match[5];
-    result.doi      = match[2] + '/' + match[5];
-    result.unitid   = match[5];
+  } else if (/^\/action\/showPowerPoint$/i.test(path)) {
+    // /action/showPowerPoint?doi=10.1056/NEJMoa1411480
 
-  } else if ((match = /^\/doi\/([a-z]+)\/(([0-9]+).([0-9]+))\/(([A-Z]+)([a-z]+)([0-9]+))\/([a-z_]+)\/(([a-z0-9]+)_([a-z]+)).pdf$/.exec(path)) !== null) {
-    // http://www.nejm.org.ezproxy.unilim.fr/doi/suppl/10.1056/NEJMoa1410489/suppl_file/nejmoa1410489_appendix.pdf
-    result.rtype    = 'ARTICLE';
-    result.mime     = 'PDF';
-    result.title_id = match[10];
-    result.unitid   = match[5];
-    result.doi      = match[2] + '/' + match[5];
+    result.rtype = 'REF';
+    result.mime  = 'MISC';
 
-  } else if ((match = /^\/doi\/([a-z]+)\/(([0-9]+).([0-9]+))\/(([A-Z]+)([0-9]+))$/.exec(path)) !== null) {
-    // http://www.nejm.org.gate1.inist.fr/doi/pdf/10.1056/NEJM199301073280104
-    result.rtype    = 'ARTICLE';
-    result.mime     = 'PDF';
-    result.title_id = match[5];
-    result.unitid   = match[5];
-    result.doi      = match[2] + '/' + match[5];
+    if (param.doi) {
+      result.unitid = param.doi.split('/')[1];
+      result.doi    = param.doi;
+    }
+
+  } else if ((match = /^\/doi\/suppl\/(10\.[0-9]+\/([a-z0-9]+))\/[a-z_]+\/([a-z0-9_]+)\.pdf$/i.exec(path)) !== null) {
+    // /doi/suppl/10.1056/NEJMoa1410489/suppl_file/nejmoa1410489_appendix.pdf
+    result.rtype  = 'SUPPL';
+    result.mime   = 'PDF';
+    result.doi    = match[1];
+    result.unitid = match[3];
   }
 
   return result;
