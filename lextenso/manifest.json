@@ -9,7 +9,8 @@
   "docurl": "http://ang.couperin.org/platforms/56cef8c4a4d25b8792fed8ba",
   "contact": "Karine Delvert, Thomas Jouneau, Laurent Lhuillier",
 	"domains": [
-    "www.lextenso.fr"
+    "www.lextenso.fr",
+    "www.labase-lextenso.fr"
 	],
   "recognize": {
     "rid": [
