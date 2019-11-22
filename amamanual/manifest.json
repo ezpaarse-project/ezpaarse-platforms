@@ -1,0 +1,14 @@
+{
+  "longname": "AMA Manual of Style",
+  "name": "amamanual",
+  "describe": "Recognizes the accesses to the platform AMA Manual of Style",
+  "contact": "acoope5@emory.edu",
+  "pkb": false,
+  "docurl": "http://ang.couperin.org/platforms/to_be_completed/",
+  "domains": [
+    "www.amamanualofstyle.com",
+    "amamanualofstyle.com"
+  ],
+  "version": "2019-10-01",
+  "status": "beta"
+}
