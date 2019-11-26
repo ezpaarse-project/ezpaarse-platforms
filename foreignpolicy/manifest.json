@@ -1,0 +1,14 @@
+{
+  "longname": "Foreign Policy",
+  "name": "foreignpolicy",
+  "describe": "Recognizes the accesses to the platform Foreign Policy",
+  "contact": "acoope5@emory.edu",
+  "pkb": false,
+  "docurl": "http://ang.couperin.org/platforms/to_be_completed/",
+  "domains": [
+    "foreignpolicy.com",
+    "www.foreignpolicy.com"
+  ],
+  "version": "2019-10-01",
+  "status": "beta"
+}
