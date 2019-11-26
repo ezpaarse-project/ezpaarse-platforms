@@ -1,0 +1,14 @@
+{
+  "longname": "Index of Medieval Art",
+  "name": "indexmedievalart",
+  "describe": "Recognizes the accesses to the platform Index of Medieval Art",
+  "contact": "acoope5@emory.edu",
+  "pkb": false,
+  "docurl": "http://ang.couperin.org/platforms/5dddb07760f0a443f0e7007e",
+  "domains": [
+    "theindex.princeton.edu",
+    "www.theindex.princeton.edu"
+  ],
+  "version": "2019-10-01",
+  "status": "active"
+}

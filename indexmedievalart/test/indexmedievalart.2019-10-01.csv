@@ -1,0 +1,10 @@
+out-unitid;out-rtype;out-mime;in-url
+;SEARCH;MISC;https://theindex.princeton.edu:443/s/SearchWorksOfArt.action
+;SEARCH;MISC;https://theindex.princeton.edu:443/s/BrowseSubjectClassifications.action
+;SEARCH;MISC;https://theindex.princeton.edu:443/s/list/ListLanguages.action
+54F4F8DA-5A9E-426E-A7EB-5ADB7F2DE9DA;REF;HTML;https://theindex.princeton.edu:443/s/view/ViewLanguage.action?id=54F4F8DA-5A9E-426E-A7EB-5ADB7F2DE9DA
+1EF3907B-BE7B-413E-9225-3DB764707EEC;REF;HTML;https://theindex.princeton.edu:443/s/view/ViewExternalReference.action?id=1EF3907B-BE7B-413E-9225-3DB764707EEC
+89F634C8-75A3-4E73-B271-1654C633FD45;REF;HTML;https://theindex.princeton.edu:443/s/view/ViewExternalReferenceSource.action?id=89F634C8-75A3-4E73-B271-1654C633FD45
+E512F406-A94C-4D7C-9611-165AA4054DA5;REF;HTML;https://theindex.princeton.edu:443/s/view/ViewWorkOfArt.action?id=E512F406-A94C-4D7C-9611-165AA4054DA5
+D566D8A8-D87D-4696-A0A2-3F974F98501A;REF;HTML;https://theindex.princeton.edu:443/s/view/ViewIllustrationType.action?id=D566D8A8-D87D-4696-A0A2-3F974F98501A 
+30FAC388-6F0B-45D4-8381-37A1CF94AC75;REF;HTML;https://theindex.princeton.edu:443/s/view/ViewLocation.action?id=30FAC388-6F0B-45D4-8381-37A1CF94AC75
