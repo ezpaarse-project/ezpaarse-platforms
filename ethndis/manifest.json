@@ -1,0 +1,14 @@
+{
+  "longname": "Ethnicity & Disease",
+  "name": "ethndis",
+  "describe": "Recognizes the accesses to the platform Ethnicity & Disease",
+  "contact": "acoope5@emory.edu",
+  "pkb": false,
+  "docurl": "http://ang.couperin.org/platforms/to_be_completed/",
+  "domains": [
+    "www.ethndis.org",
+    "ethndis.org"
+  ],
+  "version": "2019-10-01",
+  "status": "beta"
+}
