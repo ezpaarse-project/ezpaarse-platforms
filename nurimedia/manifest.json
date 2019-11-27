@@ -1,0 +1,16 @@
+{
+  "longname": "Nurimedia",
+  "name": "nurimedia",
+  "describe": "Recognizes the accesses to the platform Nurimedia",
+  "contact": "acoope5@emory.edu",
+  "pkb": false,
+  "docurl": "http://ang.couperin.org/platforms/5d95239aec42156687a748e9",
+  "domains": [
+    "www.dbpia.co.kr",
+    "dbpia.co.kr",
+    "www.krpia.co.kr",
+    "krpia.co.kr"
+  ],
+  "version": "2019-09-12",
+  "status": "stable"
+}
