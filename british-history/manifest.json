@@ -1,0 +1,14 @@
+{
+  "longname": "British History Online",
+  "name": "british-history",
+  "describe": "Recognizes the accesses to the platform British History Online",
+  "contact": "acoope5@emory.edu",
+  "pkb": false,
+  "docurl": "http://ang.couperin.org/platforms/to_be_completed/",
+  "domains": [
+    "www.british-history.ac.uk",
+    "british-history.ac.uk"
+  ],
+  "version": "2019-10-01",
+  "status": "beta"
+}
