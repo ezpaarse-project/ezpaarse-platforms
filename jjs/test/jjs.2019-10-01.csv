@@ -1,0 +1,13 @@
+out-unitid;out-title_id;out-rtype;out-mime;in-url
+;;SEARCH;MISC;https://www.jjs-online.net:443/contents/search/searchme:masada
+;;SEARCH;MISC;https://www.jjs-online.net:443/contents/search/searchme:herod/year:/type:all/volume:/fpage:
+;;SEARCH;MISC;https://www.jjs-online.net:443/archives/keywords
+;;SEARCH;MISC;https://www.jjs-online.net:443/contents/search/searchme:Persian/what%5B0%5D:keywords
+contents;contents;TOC;HTML;https://www.jjs-online.net:443/archives/contents
+60;60;TOC;HTML;https://www.jjs-online.net:443/archives/volume/60
+series_1;series_1;ABS;HTML;https://www.jjs-online.net:443/supplements/series_1
+1858;1858;REF;HTML;https://www.jjs-online.net:443/archives/article/1858
+831;831;REF;HTML;https://www.jjs-online.net:443/archives/article/831
+catalogue;catalogue;REF;HTML;https://www.jjs-online.net:443/supplements/catalogue
+1858;1858;ARTICLE;PDF;https://www.jjs-online.net:443/archives/fulltext/1858
+831;831;ARTICLE;PDF;https://www.jjs-online.net:443/archives/fulltext/831

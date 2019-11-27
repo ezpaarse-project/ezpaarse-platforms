@@ -1,0 +1,14 @@
+{
+  "longname": "Journal of Jewish Studies",
+  "name": "jjs",
+  "describe": "Recognizes the accesses to the platform Journal of Jewish Studies",
+  "contact": "acoope5@emory.edu",
+  "pkb": false,
+  "docurl": "http://ang.couperin.org/platforms/to_be_completed/",
+  "domains": [
+    "www.jjs-online.net",
+    "jjs-online.net"
+  ],
+  "version": "2019-10-01",
+  "status": "beta"
+}
