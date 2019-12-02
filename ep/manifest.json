@@ -1,0 +1,13 @@
+{
+  "longname": "Embo Press",
+  "name": "ep",
+  "describe": "Recognizes the accesses to the platform Embo Press",
+  "contact": "steven.wilmouth@inist.fr",
+  "pkb": false,
+  "docurl": "http://analyses.ezpaarse.org/platforms/5dbae59c11d3b67f2cfd1876",
+  "domains": [
+    "www.embopress.org"
+  ],
+  "version": "2019-12-02",
+  "status": "beta"
+}
