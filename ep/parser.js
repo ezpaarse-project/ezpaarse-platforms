@@ -21,12 +21,21 @@ module.exports = new Parser(function analyseEC(parsedUrl, ec) {
 
   let match;
 
-  if ((match = /^\/doi\/(pdf|full)\/(10\.[0-9]{4,})\/([a-z0-9.]+)$/i.exec(path)) !== null) {
+  if ((match = /^\/doi\/(pdf|full|epdf)\/(10\.[0-9]{4,})\/([a-z0-9.]+)$/i.exec(path)) !== null) {
     // /doi/pdf/10.15252/embj.2019102497
     // /doi/full/10.15252/embj.2018100801
 
     result.rtype    = 'ARTICLE';
-    result.mime     = match[1] === 'pdf' ? 'PDF' : 'HTML';
+    switch (match[1]) {
+    case 'full':
+      result.mime = 'HTML';
+      break;
+
+    case 'pdf':
+    case 'epdf':
+      result.mime = 'PDF';
+      break;
+    }
     result.doi      = `${match[2]}/${match[3]}`;
     result.unitid   = match[3];
   }
