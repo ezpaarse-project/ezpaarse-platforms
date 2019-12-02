@@ -72,15 +72,17 @@ module.exports = new Parser(function analyseEC(parsedUrl) {
 
     result.publication_date = match[3];
 
-  } else if ((match = /^\/[a-z]{2,3}\/revues\/([a-z]+)\/([0-9]{4})-n([0-9]+)-[a-z0-9]+\/([a-z0-9]+)(\/|\.pdf)?$/i.exec(pathname)) !== null) {
+  } else if ((match = /^\/[a-z]{2,3}\/revues\/([a-z]+)\/([0-9]{4})(?:-v([0-9]+))?(?:-n([0-9]+))?-[a-z0-9]+\/([a-z0-9]+)(\/|\.pdf)?$/i.exec(pathname)) !== null) {
+    // /fr/revues/socsoc/2017-v49-n2-socsoc04144/1054272ar/
     // /fr/revues/recma/2012-n326-recma0683/1016866ar/
     // /fr/revues/recma/2012-n326-recma0683/1016866ar.pdf
     result.rtype    = 'ARTICLE';
-    result.mime     = match[5] === '/' ? 'HTML' : 'PDF';
+    result.mime     = match[6] === '/' ? 'HTML' : 'PDF';
     result.title_id = match[1];
-    result.issue    = match[3];
-    result.unitid   = match[4];
-    result.doi      = `${doiPrefix}/${match[4]}`;
+    result.vol      = match[3];
+    result.issue    = match[4];
+    result.unitid   = match[5];
+    result.doi      = `${doiPrefix}/${match[5]}`;
 
     result.publication_date = match[2];
 
