@@ -60,10 +60,12 @@ module.exports = new Parser(function analyseEC(parsedUrl, ec) {
     result.mime     = 'HTML';
     result.title_id = match[1];
     result.unitid   = match[1];
-  } else if ((match = /^\/base-documentaire\/([a-z0-9-]+)\/([a-z0-9-]+)\/([a-z0-9-]+)\/([a-z0-9-]+).html$/i.exec(path)) !== null) {
+
+  } else if ((match = /^\/(base-documentaire|fiche-pratique)\/([a-z0-9-]+)\/([a-z0-9-]+)\/([a-z0-9-]+)\/([a-z0-9-]+).(html|pdf)$/i.exec(path)) !== null) {
     result.rtype = 'ARTICLE';
-    result.mime  = 'HTML';
-    result.unitid = `${match[1]}/${match[2]}/${match[3]}/${match[4]}`;
+    result.mime  = match[6].toUpperCase();
+    result.unitid = `${match[2]}/${match[3]}/${match[4]}/${match[5]}`;
+
   }
 
   return result;
