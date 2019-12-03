@@ -9,10 +9,14 @@
   "docurl": "http://analyses.ezpaarse.org/platforms/53ccdeecd5f7b93cbe52da1c",
   "contact": "thierry.fournier at univ-rennes1 point fr",
   "pkb": true,
-	"domains": [
+  "domains": [
     "onlinelibrary.wiley.com",
+    "londmathsoc.onlinelibrary.wiley.com",
+    "nph.onlinelibrary.wiley.com",
+    "rmets.onlinelibrary.wiley.com",
+    "rss.onlinelibrary.wiley.com",
     "agupubs.onlinelibrary.wiley.com"
-	],
+  ],
   "bacon": {
     "provider": "WILEY"
   }
