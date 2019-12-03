@@ -2,7 +2,8 @@
   "version": "2015-08-11",
   "status": "beta",
   "domains": [
-    "www.emeraldinsight.com"
+    "www.emeraldinsight.com",
+    "www.emerald.com"
   ],
   "recognize": {
     "rid": [
