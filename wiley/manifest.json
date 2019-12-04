@@ -24,8 +24,8 @@
     "aslopubs.onlinelibrary.wiley.com",
     "besjournals.onlinelibrary.wiley.com",
     "bpspubs.onlinelibrary.wiley.com",
-    "currentprotocols.onlinelibrary.wiley.com"
-    "sajournals.onlinelibrary.wiley.com"
+    "currentprotocols.onlinelibrary.wiley.com",
+    "sajournals.onlinelibrary.wiley.com",
     "ebs.onlinelibrary.wiley.com",
     "ila.onlinelibrary.wiley.com",
     "iubmb.onlinelibrary.wiley.com",
@@ -34,13 +34,16 @@
     "nph.onlinelibrary.wiley.com",
     "nyaspubs.onlinelibrary.wiley.com",
     "obgyn.onlinelibrary.wiley.com",
+    "physoc.onlinelibrary.wiley.com",
+    "rmets.onlinelibrary.wiley.com",
     "setac.onlinelibrary.wiley.com",
     "sigmapubs.onlinelibrary.wiley.com",
     "sp.onlinelibrary.wiley.com",
     "spssi.onlinelibrary.wiley.com",
     "stemcellsjournals.onlinelibrary.wiley.com",
-    "agupubs.onlinelibrary.wiley.com"
-    
+    "sttipubs.onlinelibrary.wiley.com",
+    "agupubs.onlinelibrary.wiley.com",
+    "zslpublications.onlinelibrary.wiley.com"
   ],
   "bacon": {
     "provider": "WILEY"
