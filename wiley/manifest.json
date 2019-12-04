@@ -15,7 +15,32 @@
     "nph.onlinelibrary.wiley.com",
     "rmets.onlinelibrary.wiley.com",
     "rss.onlinelibrary.wiley.com",
+    "aapm.onlinelibrary.wiley.com",
+    "aasldpubs.onlinelibrary.wiley.com",
+    "accp1.onlinelibrary.wiley.com",
+    "anthrosource.onlinelibrary.wiley.com",
+    "anzjsurg.onlinelibrary.wiley.com",
+    "ascpt.onlinelibrary.wiley.com",
+    "aslopubs.onlinelibrary.wiley.com",
+    "besjournals.onlinelibrary.wiley.com",
+    "bpspubs.onlinelibrary.wiley.com",
+    "currentprotocols.onlinelibrary.wiley.com"
+    "sajournals.onlinelibrary.wiley.com"
+    "ebs.onlinelibrary.wiley.com",
+    "ila.onlinelibrary.wiley.com",
+    "iubmb.onlinelibrary.wiley.com",
+    "jlb.onlinelibrary.wiley.com",
+    "ondmathsoc.onlinelibrary.wiley.com",
+    "nph.onlinelibrary.wiley.com",
+    "nyaspubs.onlinelibrary.wiley.com",
+    "obgyn.onlinelibrary.wiley.com",
+    "setac.onlinelibrary.wiley.com",
+    "sigmapubs.onlinelibrary.wiley.com",
+    "sp.onlinelibrary.wiley.com",
+    "spssi.onlinelibrary.wiley.com",
+    "stemcellsjournals.onlinelibrary.wiley.com",
     "agupubs.onlinelibrary.wiley.com"
+    
   ],
   "bacon": {
     "provider": "WILEY"
