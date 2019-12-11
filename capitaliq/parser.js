@@ -35,7 +35,7 @@ module.exports = new Parser(function analyseEC(parsedUrl, ec) {
     result.unitid   = param.personid || param.companyId;
 
   } else if (/^\/CIQDotNet\/Service\/Documents\/DownloadResearchDocumentWithErrorHandling.axd$/i.exec(path)) {
-    // https://www.capitaliq.com:443/CIQDotNet/Service/Documents/DownloadResearchDocumentWithErrorHandling.axd?&activityTypeId=2891&researchDocumentId=41723954&fileName=Quantamental+Research+-+The+Dating+Game+Decrypting+The+Signals+In+Earnings+Report+Dates 
+    // https://www.capitaliq.com:443/CIQDotNet/Service/Documents/DownloadResearchDocumentWithErrorHandling.axd?&activityTypeId=2891&researchDocumentId=41723954&fileName=Quantamental+Research+-+The+Dating+Game+Decrypting+The+Signals+In+Earnings+Report+Dates
     //https://www.capitaliq.com:443/CIQDotNet/Service/Documents/DownloadResearchDocumentWithErrorHandling.axd?&activityTypeId=2891&researchDocumentId=43104785&fileName=S%26P+500+Earnings+Report+Week+of+11%2f25%2f2019
     result.rtype    = 'ARTICLE';
     result.mime     = 'MISC';

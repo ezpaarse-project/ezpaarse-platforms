@@ -4,7 +4,7 @@
   "describe": "Recognizes the accesses to the platform Standard and Poor’s Net Advantage (Capital IQ)",
   "contact": "acoope5@emory.edu",
   "pkb": false,
-  "docurl": "http://ang.couperin.org/platforms/to_be_completed/",
+  "docurl": "http://ang.couperin.org/platforms/5df16b942af8e962569e971b",
   "domains": [
     "www.capitaliq.com",
     "capitaliq.com",
@@ -13,5 +13,5 @@
     "iag-ciqplus.capitaliq.com"
   ],
   "version": "2019-12-10",
-  "status": "beta"
+  "status": "stable"
 }
