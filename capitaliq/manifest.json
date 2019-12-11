@@ -1,0 +1,17 @@
+{
+  "longname": "Standard and Poor’s Net Advantage (Capital IQ)",
+  "name": "capitaliq",
+  "describe": "Recognizes the accesses to the platform Standard and Poor’s Net Advantage (Capital IQ)",
+  "contact": "acoope5@emory.edu",
+  "pkb": false,
+  "docurl": "http://ang.couperin.org/platforms/to_be_completed/",
+  "domains": [
+    "www.capitaliq.com",
+    "capitaliq.com",
+    "charting.capitaliq.com",
+    "na.capitaliq.com",
+    "iag-ciqplus.capitaliq.com"
+  ],
+  "version": "2019-12-10",
+  "status": "beta"
+}
