@@ -1,0 +1,14 @@
+{
+  "longname": "UniWorld",
+  "name": "uniworld",
+  "describe": "Recognizes the accesses to the platform UniWorld",
+  "contact": "acoope5@emory.edu",
+  "pkb": false,
+  "docurl": "http://ang.couperin.org/platforms/to_be_completed/",
+  "domains": [
+    "www.uniworldonline.com",
+    "uniworldonline.com"
+  ],
+  "version": "2019-12-05",
+  "status": "beta"
+}
