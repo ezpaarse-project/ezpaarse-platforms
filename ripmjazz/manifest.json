@@ -1,0 +1,14 @@
+{
+  "longname": "RIPM Jazz Periodicals",
+  "name": "ripmjazz",
+  "describe": "Recognizes the accesses to the platform RIPM Jazz Periodicals",
+  "contact": "acoope5@emory.edu",
+  "pkb": false,
+  "docurl": "http://ang.couperin.org/platforms/5df920f7528ec307e0722f68",
+  "domains": [
+    "jazz.ripmfulltext.org",
+    "www.jazz.ripmfulltext.org"
+  ],
+  "version": "2019-12-05",
+  "status": "active"
+}
