@@ -4,7 +4,7 @@
   "describe": "Recognizes the accesses to the platform BCC Research",
   "contact": "acoope5@emory.edu",
   "pkb": false,
-  "docurl": "http://ang.couperin.org/platforms/to_be_completed/",
+  "docurl": "http://ang.couperin.org/platforms/5dfbde0f67431989ba5e79e0",
   "domains": [
     "www.bccresearch.com",
     "bccresearch.com",
@@ -12,5 +12,5 @@
     "info.bccresearch.com"
   ],
   "version": "2019-12-05",
-  "status": "beta"
+  "status": "active"
 }
