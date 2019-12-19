@@ -1,0 +1,16 @@
+{
+  "longname": "BCC Research",
+  "name": "bccresearch",
+  "describe": "Recognizes the accesses to the platform BCC Research",
+  "contact": "acoope5@emory.edu",
+  "pkb": false,
+  "docurl": "http://ang.couperin.org/platforms/to_be_completed/",
+  "domains": [
+    "www.bccresearch.com",
+    "bccresearch.com",
+    "blog.bccresearch.com",
+    "info.bccresearch.com"
+  ],
+  "version": "2019-12-05",
+  "status": "beta"
+}
