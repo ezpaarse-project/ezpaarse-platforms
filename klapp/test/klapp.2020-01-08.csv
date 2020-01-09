@@ -1,0 +1,7 @@
+out-unitid;out-rtype;out-mime;in-url
+;SEARCH;MISC;https://www.klapp-online.de:443/cgi-bin/koha/opac-search.pl?idx=kw&q=mueller&sort_by=pubdate_dsc&limit=au:Apel-Muller,%20Michel
+;SEARCH;MISC;https://www.klapp-online.de:443/cgi-bin/koha/browsen/browse.pl?lang=en&sid=2020_01_08__1578507694.38933&pos=5000+Dix-huiti%C3%83%C2%A8me+Si%C3%83%C2%A8cle
+221418;ABS;HTML;https://www.klapp-online.de:443/cgi-bin/koha/opac-detail.pl?biblionumber=221418&query_desc=kw%2Cwrdl%3A%20mueller
+301423;ABS;HTML;https://www.klapp-online.de:443/cgi-bin/koha/opac-detail.pl?biblionumber=301423&query_desc=an%3A%22(KlappSys)00772200%22
+1956-1990_klapp-online_de.html;ENCYCLOPAEDIA_ENTRY;MISC;https://www.klapp-online.de:443/cgi-bin/koha/printfile.pl?file=1956-1990_klapp-online_de.html
+Bibliographie_der_franzoesischen_Literaturwissenschaft_Band_XIV_1976.pdf;ENCYCLOPAEDIA_ENTRY;MISC;https://www.klapp-online.de:443/cgi-bin/koha/printfile.pl?file=Bibliographie_der_franzoesischen_Literaturwissenschaft_Band_XIV_1976.pdf

@@ -1,0 +1,14 @@
+{
+  "longname": "Klapp Online Bibliography of French Literature",
+  "name": "klapp",
+  "describe": "Recognizes the accesses to the platform Klapp Online Bibliography of French Literature",
+  "contact": "acoope5@emory.edu",
+  "pkb": false,
+  "docurl": "http://ang.couperin.org/platforms/5730626fbef4ae10fdff7776",
+  "domains": [
+    "www.klapp-online.de",
+    "klapp-online.de"
+  ],
+  "version": "2020-01-08",
+  "status": "active"
+}
