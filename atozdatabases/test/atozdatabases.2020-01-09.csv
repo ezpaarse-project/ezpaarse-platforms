@@ -1,0 +1,5 @@
+out-unitid;out-rtype;out-mime;in-url
+;SEARCH;MISC;https://www.atozdatabases.com:443/search
+;SEARCH;MISC;https://www.atozdatabases.com:443/ajax/getIndeedResults.htm?&Add_indeed_type=1&Add_query=&Add_location=Atlanta%2C+&Add_jobtype=-1&curDate=Thu+Jan+09+2020+18%3A48%3A45+GMT-0500+(Eastern+Standard+Time)&page=search&database=jobs&start=0
+;SEARCH;MISC;https://www.atozdatabases.com:443/ajax/cityAutocomplete.htm?city=Atlanta&database=combined&term=Atlanta
+"company:Maias Books ";DATASET;HTML;https://www.atozdatabases.com:443/ajax/getIndeedForDetails.htm?query=company:Maias%20Books%20&%20Misc&l=Columbus,OH&sort=&radius=&st=&jt=&start=&limit=2&fromage=&filter=&latlong=1&co=us&chnl=&userip=192.27.0.5&useragent=Mozilla/5.0%20(Windows%20NT%2010.0;%20Win64;%20x64;%20rv:56.0)%20Gecko/20100101%20Firefox/56.0%20Waterfox/56.3&v=2&format=json&callback=jobPortal&t=1578613626248

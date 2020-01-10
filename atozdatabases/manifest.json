@@ -1,0 +1,14 @@
+{
+  "longname": "AtoZdatabases: Target Company Lists",
+  "name": "atozdatabases",
+  "describe": "Recognizes the accesses to the platform AtoZdatabases: Target Company Lists",
+  "contact": "acoope5@emory.edu",
+  "pkb": false,
+  "docurl": "http://ang.couperin.org/platforms/5e18f2a6b5857b60a69135c4",
+  "domains": [
+    "www.atozdatabases.com",
+    "atozdatabases.com"
+  ],
+  "version": "2020-01-09",
+  "status": "beta"
+}
