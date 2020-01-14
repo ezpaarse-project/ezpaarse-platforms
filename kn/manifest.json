@@ -1,0 +1,16 @@
+{
+  "longname": "Knovel",
+  "name": "kn",
+  "describe": "Identifie les consultations de la plateforme Knovel",
+  "contact": "ybarreto@anii.org.uy",
+  "pkb": false,
+  "docurl": "app.knovel.com",
+  "domains": [
+    "app.knovel.com",
+    "www.knovel.com",
+    "knovel.com",
+    "content.knovel.com"
+  ],
+  "version": "2019-12-09",
+  "status": "beta"
+}
