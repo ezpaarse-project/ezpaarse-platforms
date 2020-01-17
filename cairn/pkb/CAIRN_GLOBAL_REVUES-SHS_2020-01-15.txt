@@ -1,0 +1,272 @@
+publication_title	print_identifier	online_identifier	date_first_issue_online	num_first_vol_online	num_first_issue_online	date_last_issue_online	num_last_vol_online	num_last_issue_online	title_url	first_author	title_id	embargo_info	coverage_depth	notes	publisher_name	publication_type	date_monograph_published_print	date_monograph_published_online	monograph_volume	monograph_edition	first_editor	parent_publication_title_id	preceding_publication_title_id	access_type
+Actuel Marx	0994-4524	1969-6728	1987	1	1				https://www.cairn.info/revue-actuel-marx.htm		revue-actuel-marx		fulltext		Presses Universitaires de France	serial								P
+Aden	1638-9867	2649-7263	2007	6	1				https://www.cairn.info/revue-aden.htm		revue-aden		fulltext		Le groupe interdisciplinaire d'études nizaniennes	serial								P
+Africultures	1276-2458	2271-1732	2003	54	1				https://www.cairn.info/revue-africultures.htm		revue-africultures		fulltext		Africultures	serial								P
+Afrique contemporaine	0002-0478	1782-138X	2003	205	1				https://www.cairn.info/revue-afrique-contemporaine.htm		revue-afrique-contemporaine		fulltext		De Boeck Supérieur	serial								P
+Agone	1157-6790	1953-7999	2013	50	1				https://www.cairn.info/revue-agone.htm		revue-agone		fulltext		Agone	serial								P
+Allemagne d'aujourd'hui	0002-5712	2551-9409	2013	203	1				https://www.cairn.info/revue-allemagne-d-aujourd-hui.htm		revue-allemagne-d-aujourd-hui		fulltext		Association pour la connaissance de l'Allemagne d'aujourd'hui	serial								P
+Annales de Bretagne et des pays de l’Ouest	0399-0826	2108-6443	2018	125	1				https://www.cairn.info/revue-annales-de-bretagne-et-des-pays-de-l-ouest.htm		revue-annales-de-bretagne-et-des-pays-de-l-ouest		fulltext		Presses universitaires de Rennes	serial								P
+Annales de démographie historique	0066-2062	1776-2774	2001	101	1				https://www.cairn.info/revue-annales-de-demographie-historique.htm		revue-annales-de-demographie-historique		fulltext		Belin	serial								P
+Annales de géographie	0003-4010	1777-5884	2005	641	1				https://www.cairn.info/revue-annales-de-geographie.htm		revue-annales-de-geographie		fulltext		Armand Colin	serial								P
+Annales de Normandie	0003-4134	2261-4427	2010		1				https://www.cairn.info/revue-annales-de-normandie.htm		revue-annales-de-normandie		fulltext		Association Les Annales de Normandie	serial								P
+Annales des Mines - Gérer et comprendre	0295-4397	2271-7943	2008	91	1				https://www.cairn.info/revue-gerer-et-comprendre.htm		revue-gerer-et-comprendre		fulltext		F.F.E.	serial								P
+Annales des Mines - Réalités industrielles	1148-7941	2271-7978	2008	2008	1				https://www.cairn.info/revue-realites-industrielles.htm		revue-realites-industrielles		fulltext		F.F.E.	serial								P
+Annales des Mines - Responsabilité et environnement	1268-4783	2271-8052	2008	49	1				https://www.cairn.info/revue-responsabilite-et-environnement.htm		revue-responsabilite-et-environnement		fulltext		F.F.E.	serial								P
+Annales. Histoire, Sciences Sociales	0395-2649	1953-8146	2001		1				https://www.cairn.info/revue-annales.htm		revue-annales		fulltext		Éditions de l'EHESS	serial								P
+Annales historiques de la Révolution française	0003-4436	1952-403X	2013	371	1				https://www.cairn.info/revue-annales-historiques-de-la-revolution-francaise.htm		revue-annales-historiques-de-la-revolution-francaise		fulltext		Armand Colin	serial								P
+Annales historiques de l’électricité	1762-3227	2272-8023	2003	1	1	2014	12	1	https://www.cairn.info/revue-annales-historiques-de-l-electricite.htm		revue-annales-historiques-de-l-electricite		fulltext		Victoires éditions	serial								P
+ArcheoSciences	1960-1360	2104-3728	2018	42	2				https://www.cairn.info/revue-archeosciences.htm		revue-archeosciences		fulltext		Presses universitaires de Rennes	serial								P
+Archives de Philosophie	0003-9632	1769-681X	2001	64	1				https://www.cairn.info/revue-archives-de-philosophie.htm		revue-archives-de-philosophie		fulltext		Centre Sèvres	serial								P
+Archives de politique criminelle	0242-5637	2105-2670	2001	23	1				https://www.cairn.info/revue-archives-de-politique-criminelle.htm		revue-archives-de-politique-criminelle		fulltext		Editions A. Pédone	serial								P
+Archives de sciences sociales des religions	0335-5985	1777-5825	2017	177	1				https://www.cairn.info/revue-archives-de-sciences-sociales-des-religions.htm		revue-archives-de-sciences-sociales-des-religions		fulltext		Éditions de l'EHESS	serial								P
+Archives d'histoire doctrinale et littéraire du Moyen Âge	0373-5478	2109-9529	2001	68	1				https://www.cairn.info/revue-archives-d-histoire-doctrinale-et-litteraire-du-moyen-age.htm		revue-archives-d-histoire-doctrinale-et-litteraire-du-moyen-age		fulltext		Vrin	serial								P
+Archives Juives	0003-9837	1965-0531	2001	34	1				https://www.cairn.info/revue-archives-juives.htm		revue-archives-juives		fulltext		Presses Universitaires de France	serial								P
+Autrepart	1278-3986	2109-9561	2001	17	1	2018	85	1	https://www.cairn.info/revue-autrepart.htm		revue-autrepart		fulltext		Presses de Sciences Po	serial								P
+Bulletin d’études orientales	0253-1623	2077-4079	2017	65	1				https://www.cairn.info/revue-bulletin-d-etudes-orientales.htm		revue-bulletin-d-etudes-orientales		fulltext		Presses de l’Ifpo	serial								P
+Bulletin d’histoire et d’épistémologie des sciences de la vie	1279-7243		2007	14	1				https://www.cairn.info/revue-bulletin-d-histoire-et-d-epistemologie-des-sciences-de-la-vie.htm		revue-bulletin-d-histoire-et-d-epistemologie-des-sciences-de-la-vie		fulltext		Editions Kimé	serial								P
+Cahiers d'anthropologie sociale	1951-5030		2006	1	1				https://www.cairn.info/revue-cahiers-d-anthropologie-sociale.htm		revue-cahiers-d-anthropologie-sociale		fulltext		Éditions de l'Herne	serial								P
+Cahiers d'économie Politique / Papers in Political Economy	0154-8344	1969-6779	2001	39	1				https://www.cairn.info/revue-cahiers-d-economie-politique.htm		revue-cahiers-d-economie-politique		fulltext		L'Harmattan	serial								P
+Cahiers d'études africaines	0008-0055	1777-5353	2018	229	1				https://www.cairn.info/revue-cahiers-d-etudes-africaines.htm		revue-cahiers-d-etudes-africaines		fulltext		Éditions de l'EHESS	serial								P
+Cahiers d’études hispaniques médiévales	1779-4684	2108-7083	1976	1	1				https://www.cairn.info/revue-cahiers-d-etudes-hispaniques-medievales.htm		revue-cahiers-d-etudes-hispaniques-medievales		fulltext		E.N.S. Editions	serial								P
+Cahiers d'histoire de l'aluminium	0990-6908	2272-8856	2008	41	1				https://www.cairn.info/revue-cahiers-d-histoire-de-l-aluminium.htm		revue-cahiers-d-histoire-de-l-aluminium		fulltext		Institut pour l’histoire de l’aluminium	serial								P
+Cahiers du Genre	1298-6046	1968-3928	2001	30	1				https://www.cairn.info/revue-cahiers-du-genre.htm		revue-cahiers-du-genre		fulltext		L'Harmattan	serial								P
+Cahiers du monde russe	1252-6576	1777-5388	2017	58	3				https://www.cairn.info/revue-cahiers-du-monde-russe.htm		revue-cahiers-du-monde-russe		fulltext		Éditions de l'EHESS	serial								P
+Cahiers internationaux de sociolinguistique	2257-6517	2273-1350	2001	6	1				https://www.cairn.info/revue-cahiers-internationaux-de-sociolinguistique.htm		revue-cahiers-internationaux-de-sociolinguistique		fulltext		L'Harmattan	serial								P
+Cahiers Jaurès	1268-5399	1969-6809	2001	159	1				https://www.cairn.info/revue-cahiers-jaures.htm		revue-cahiers-jaures		fulltext		Société d'études jaurésiennes	serial								P
+Cahiers philosophiques	0241-2799	2264-2641	2007	111	3				https://www.cairn.info/revue-cahiers-philosophiques.htm		revue-cahiers-philosophiques		fulltext		Vrin	serial								P
+Cahiers Sens public	1767-9397	1775-4356	2008	7	3				https://www.cairn.info/revue-cahiers-sens-public.htm		revue-cahiers-sens-public		fulltext		Association Sens-Public	serial								P
+Chimères	0986-6035	2111-4412	2006	61	2				https://www.cairn.info/revue-chimeres.htm		revue-chimeres		fulltext		ERES	serial								P
+Civilisations	0009-8140	2032-0442	2016	65	1				https://www.cairn.info/revue-civilisations.htm		revue-civilisations		fulltext		Université libre de Bruxelles	serial								P
+Civitas Europa	1290-9653	2496-4514	2012	28	1				https://www.cairn.info/revue-civitas-europa.htm		revue-civitas-europa		fulltext		IRENEE / Université de Lorraine	serial								P
+CLARA	2295-3671	2593-5747	2013	1	1				https://www.cairn.info/revue-clara.htm		revue-clara		fulltext		Éditions de la Faculté d'Architecture La Cambre Horta de l'Université libre de Bruxelles	serial								P
+Clio. Femmes, Genre, Histoire	1252-7017	1777-5299	2016	44	2				https://www.cairn.info/revue-clio-femmes-genre-histoire.htm		revue-clio-femmes-genre-histoire		fulltext		Belin	serial								P
+Commentaire	0180-8214	2272-8988	1978	1	1				https://www.cairn.info/revue-commentaire.htm		revue-commentaire		fulltext		Commentaire SA	serial								P
+Communication et management	2269-7195	2271-734X	2001	1	1				https://www.cairn.info/revue-communication-et-management.htm		revue-communication-et-management		fulltext		ESKA	serial								P
+Communication et Organisation	1168-5549	1775-3546	2016	50	2				https://www.cairn.info/revue-communication-et-organisation.htm		revue-communication-et-organisation		fulltext		Presses universitaires de Bordeaux	serial								P
+Communications	0588-8018	2102-5924	2008	82	1				https://www.cairn.info/revue-communications.htm		revue-communications		fulltext		Le Seuil	serial								P
+Comptabilité - Contrôle - Audit	1262-2788	2313-514X	1995	1	1				https://www.cairn.info/revue-comptabilite-controle-audit.htm		revue-comptabilite-controle-audit		fulltext		Association Francophone de Comptabilité	serial								P
+Confluences Méditerranée	1148-2664	2102-5991	2001	36	1				https://www.cairn.info/revue-confluences-mediterranee.htm		revue-confluences-mediterranee		fulltext		L'Harmattan	serial								P
+Courrier hebdomadaire du CRISP	0008-9664	1782-141X	1958						https://www.cairn.info/revue-courrier-hebdomadaire-du-crisp.htm		revue-courrier-hebdomadaire-du-crisp		fulltext		CRISP	serial								P
+Critique	0011-1600	1968-3901	2003	668	1				https://www.cairn.info/revue-critique.htm		revue-critique		fulltext		Éditions de Minuit	serial								P
+Critique internationale	1290-7839	1777-554X	2001	10	1				https://www.cairn.info/revue-critique-internationale.htm		revue-critique-internationale		fulltext		Presses de Sciences Po	serial								P
+Cultures et Conflits	1157-996X	1777-5345	2017	108	4				https://www.cairn.info/revue-cultures-et-conflits.htm		revue-cultures-et-conflits		fulltext		L'Harmattan	serial								P
+DARD/DARD			2019	1	1				https://www.cairn.info/revue-dard-dard.htm		revue-dard-dard		fulltext		Éditions de l'Attribut	serial								P
+Délibérée	2555-6266	2557-0498	2017	1	1				https://www.cairn.info/revue-deliberee.htm		revue-deliberee		fulltext		La Découverte	serial								P
+Dialogues d'histoire ancienne	0755-7256	1955-270X	2007		1				https://www.cairn.info/revue-dialogues-d-histoire-ancienne.htm		revue-dialogues-d-histoire-ancienne		fulltext		Presses Universitaires de Franche-Comté	serial								P
+Diogène	0419-1633	2077-5253	2001	193	1				https://www.cairn.info/revue-diogene.htm		revue-diogene		fulltext		Presses Universitaires de France	serial								P
+Dix-huitième siècle	0070-6760	1760-7892	2006	38	1				https://www.cairn.info/revue-dix-huitieme-siecle.htm		revue-dix-huitieme-siecle		fulltext		La Découverte	serial								P
+Dix-septième siècle	0012-4273	1969-6965	2001	210	1				https://www.cairn.info/revue-dix-septieme-siecle.htm		revue-dix-septieme-siecle		fulltext		Presses Universitaires de France	serial								P
+Document numérique	1279-5127	1963-1014	2001	5	1				https://www.cairn.info/revue-document-numerique.htm		revue-document-numerique		fulltext		Lavoisier	serial								P
+Dossiers du CRISP	0008-9664		2011	78	3				https://www.cairn.info/revue-dossiers-du-crisp.htm		revue-dossiers-du-crisp		fulltext		CRISP	serial								P
+Droit et société	0769-3362	1969-6973	2001	47	1				https://www.cairn.info/revue-droit-et-societe.htm		revue-droit-et-societe		fulltext		Lextenso	serial								P
+Droits	0766-3838	2426-5519	2001	33	1				https://www.cairn.info/revue-droits.htm		revue-droits		fulltext		Presses Universitaires de France	serial								P
+Écologie et politique	1166-3030	2118-3147	2002	24	1				https://www.cairn.info/revue-ecologie-et-politique.htm		revue-ecologie-et-politique		fulltext		Editions Le Bord de l’eau	serial								P
+Économie et prévision	0249-4744	1777-5795	2001	147	1				https://www.cairn.info/revue-economie-et-prevision.htm		revue-economie-et-prevision		fulltext		La Documentation française	serial								P
+Économie rurale	0013-0559	2105-2581	2018	366	4				https://www.cairn.info/revue-economie-rurale.htm		revue-economie-rurale		fulltext		Société française d’économie rurale	serial								P
+EcoRev'	1628-6391	2104-3760	2012	39	1				https://www.cairn.info/revue-ecorev.htm		revue-ecorev		fulltext		Association EcoRev'	serial								P
+Égypte/Monde arabe	2090-7273	1110-5097	2018	17	1				https://www.cairn.info/revue-egypte-monde-arabe.htm		revue-egypte-monde-arabe		fulltext		Centre d’études et de documentation économiques, juridiques et sociales	serial								P
+Éla. Études de linguistique appliquée	0071-190X	1965-0477	2001	121	1				https://www.cairn.info/revue-ela.htm		revue-ela		fulltext		Klincksieck	serial								P
+Entreprendre et Innover	2034-7634	2034-7642	2011	9	1				https://www.cairn.info/revue-entreprendre-et-innover.htm		revue-entreprendre-et-innover		fulltext		De Boeck Supérieur	serial								P
+Entreprises et histoire	1161-2770	2100-9864	1992	1	1				https://www.cairn.info/revue-entreprises-et-histoire.htm		revue-entreprises-et-histoire		fulltext		ESKA	serial								P
+Études	0014-1941	2102-5800	2001	394	1				https://www.cairn.info/revue-etudes.htm		revue-etudes		fulltext		S.E.R.	serial								P
+Études anglaises	0014-195X	1965-0159	2001	54	1				https://www.cairn.info/revue-etudes-anglaises.htm		revue-etudes-anglaises		fulltext		Klincksieck	serial								P
+Études Balkaniques-Cahiers Pierre Belon	1260-2116	2102-5525	1994	1	1				https://www.cairn.info/revue-etudes-balkaniques-cahiers-pierre-belon.htm		revue-etudes-balkaniques-cahiers-pierre-belon		fulltext		Association Pierre Belon	serial								P
+Études de communication	1270-6841	2101-0366	2018	51	2				https://www.cairn.info/revue-etudes-de-communication.htm		revue-etudes-de-communication		fulltext		Université Lille-3	serial								P
+Études économiques de l’OCDE	0304-3363	1684-3428	2002	21	21				https://www.cairn.info/revue-etudes-economiques-de-l-ocde.htm		revue-etudes-economiques-de-l-ocde		fulltext		Editions de l'OCDE	serial								P
+Études Germaniques	0014-2115	2426-5543	2006	241	1				https://www.cairn.info/revue-etudes-germaniques.htm		revue-etudes-germaniques		fulltext		Klincksieck	serial								P
+Études rurales	0014-2182	1777-537X	2017	200	2				https://www.cairn.info/revue-etudes-rurales.htm		revue-etudes-rurales		fulltext		Éditions de l'EHESS	serial								P
+Études théologiques et religieuses	0014-2239	2272-9011	2005	80	1				https://www.cairn.info/revue-etudes-theologiques-et-religieuses.htm		revue-etudes-theologiques-et-religieuses		fulltext		Institut protestant de théologie	serial								P
+Extrême-Orient Extrême-Occident	0754-5010	2108-7105	2018	42	1				https://www.cairn.info/revue-extreme-orient-extreme-occident.htm		revue-extreme-orient-extreme-occident		fulltext		Presses universitaires de Vincennes	serial								P
+Finance	0752-6180	2101-0145	2005	26	2				https://www.cairn.info/revue-finance.htm		revue-finance		fulltext		Presses universitaires de Grenoble	serial								P
+Futuribles	0337-307X	1958-5764	2017	416	1				https://www.cairn.info/revue-futuribles.htm		revue-futuribles		fulltext		Futuribles	serial								P
+Genèses	1155-3219	1776-2944	2000	38	1				https://www.cairn.info/revue-geneses.htm		revue-geneses		fulltext		Belin	serial								P
+Géoéconomie	1620-9869	2258-7748	2007	43	4	2016	82	5	https://www.cairn.info/revue-geoeconomie.htm		revue-geoeconomie		fulltext		Editions Choiseul	serial								P
+Géographie, économie, société	1295-926X	1958-5802	2004	6	1				https://www.cairn.info/revue-geographie-economie-societe.htm		revue-geographie-economie-societe		fulltext		Lavoisier	serial								P
+Germanica	0984-2632	2107-0784	2016	59	2				https://www.cairn.info/revue-germanica.htm		revue-germanica		fulltext		Université Lille-3	serial								P
+Gestion	0701-0028	2369-1352	2001	26	1				https://www.cairn.info/revue-gestion.htm		revue-gestion		fulltext		HEC Montréal	serial								P
+Gestion et Finances Publiques	1969-1009	2275-0517	2017	1	1				https://www.cairn.info/revue-gestion-et-finances-publiques.htm		revue-gestion-et-finances-publiques		fulltext		Lavoisier	serial								P
+Gestion 2000	0773-0543	2406-4734	2011	28	1				https://www.cairn.info/revue-gestion-2000.htm		revue-gestion-2000		fulltext		Association de recherches et publications en management	serial								P
+Gouvernement et action publique	2260-0965	2262-340X	2012	1	1				https://www.cairn.info/revue-gouvernement-et-action-publique.htm		revue-gouvernement-et-action-publique		fulltext		Presses de Sciences Po	serial								P
+Gradhiva	0764-8928	1760-849X	2018	27	1				https://www.cairn.info/revue-gradhiva.htm		revue-gradhiva		fulltext		Musée du quai Branly	serial								P
+@GRH	2034-9130	2295-9149	2011	1	1				https://www.cairn.info/revue-@grh.htm		revue-@grh		fulltext		De Boeck Supérieur	serial								P
+Guerres mondiales et conflits contemporains	0984-2292	2101-0137	2001	201	1				https://www.cairn.info/revue-guerres-mondiales-et-conflits-contemporains.htm		revue-guerres-mondiales-et-conflits-contemporains		fulltext		Presses Universitaires de France	serial								P
+Hermès, La Revue	0767-9513	1963-1006	1988	1	1				https://www.cairn.info/revue-hermes-la-revue.htm		revue-hermes-la-revue		fulltext		C.N.R.S. Editions	serial								P
+Hérodote	0338-487X	1776-2987	2001	100	1				https://www.cairn.info/revue-herodote.htm		revue-herodote		fulltext		La Découverte	serial								P
+Histoire de la justice	1639-4399	2271-7501	2005	16	1				https://www.cairn.info/revue-histoire-de-la-justice.htm		revue-histoire-de-la-justice		fulltext		Association française pour l'histoire de la Justice	serial								P
+Histoire de l’éducation	0221-6280	2102-5452	2015	143	1				https://www.cairn.info/revue-histoire-de-l-education.htm		revue-histoire-de-l-education		fulltext		E.N.S. Editions	serial								P
+Histoire, économie et société	0752-5702	1777-5906	2004		1				https://www.cairn.info/revue-histoire-economie-et-societe.htm		revue-histoire-economie-et-societe		fulltext		Armand Colin	serial								P
+Histoire et mesure	0982-1783	1957-7745	2017		2				https://www.cairn.info/revue-histoire-et-mesure.htm		revue-histoire-et-mesure		fulltext		Éditions de l'EHESS	serial								P
+Histoire et Sociétés Rurales	1254-728X	1950-666X	2001	15	1				https://www.cairn.info/revue-histoire-et-societes-rurales.htm		revue-histoire-et-societes-rurales		fulltext		Association d'histoire des sociétés rurales	serial								P
+Histoire, monde et cultures religieuses	2267-7313	2271-1848	2007	1	1				https://www.cairn.info/revue-histoire-monde-et-cultures-religieuses.htm		revue-histoire-monde-et-cultures-religieuses		fulltext		Editions Karthala	serial								P
+Histoire urbaine	1628-0482	2101-003X	2000	1	1				https://www.cairn.info/revue-histoire-urbaine.htm		revue-histoire-urbaine		fulltext		Société française d'histoire urbaine	serial								P
+Inflexions	1772-3760		2005	1	1				https://www.cairn.info/revue-inflexions.htm		revue-inflexions		fulltext		Armée de terre	serial								P
+Innovations	1267-4982	1965-0256	2001	13	1				https://www.cairn.info/revue-innovations.htm		revue-innovations		fulltext		De Boeck Supérieur	serial								P
+Journal de gestion et d'économie de la santé	2262-5305	2270-2504	2008	26	1				https://www.cairn.info/revue-journal-de-gestion-et-d-economie-de-la-sante.htm		revue-journal-de-gestion-et-d-economie-de-la-sante		fulltext		ESKA	serial								P
+Journal de la Société des Océanistes	0300-953X	1760-7256	2018	147	2				https://www.cairn.info/revue-journal-de-la-societe-des-oceanistes.htm		revue-journal-de-la-societe-des-oceanistes		fulltext		Société des océanistes	serial								P
+Journal des anthropologues	1156-0428	2114-2203	2017	150	3				https://www.cairn.info/revue-journal-des-anthropologues.htm		revue-journal-des-anthropologues		fulltext		Association Française des Anthropologues	serial								P
+La linguistique	0075-966X	2101-0234	2001	37	1				https://www.cairn.info/revue-la-linguistique.htm		revue-la-linguistique		fulltext		Presses Universitaires de France	serial								P
+La Revue des revues	0980-2797	2649-7751	2013	49	1				https://www.cairn.info/revue-la-revue-des-revues.htm		revue-la-revue-des-revues		fulltext		Ent'revues	serial								P
+La Revue des Sciences de Gestion	1160-7742	1760-6136	2005	213	3				https://www.cairn.info/revue-des-sciences-de-gestion.htm		revue-des-sciences-de-gestion		fulltext		Direction et Gestion	serial								P
+Langages	0458-726X	1958-9549	2004	153	1				https://www.cairn.info/revue-langages.htm		revue-langages		fulltext		Armand Colin	serial								P
+Langue française	0023-8368	1957-7982	2004	141	1				https://www.cairn.info/revue-langue-francaise.htm		revue-langue-francaise		fulltext		Armand Colin	serial								P
+L'Année balzacienne	0084-6473	1969-6752	2000	1	1				https://www.cairn.info/revue-l-annee-balzacienne.htm		revue-l-annee-balzacienne		fulltext		Presses Universitaires de France	serial								P
+L'Année épigraphique	0066-2348	2492-0509	2010	2007	1				https://www.cairn.info/revue-annee-epigraphique.htm		revue-annee-epigraphique		fulltext		Presses Universitaires de France	serial								P
+L’Année psychanalytique internationale	1661-8009	2273-1598	2007	2007	1				https://www.cairn.info/revue-l-annee-psychanalytique-internationale.htm		revue-l-annee-psychanalytique-internationale		fulltext		In Press	serial								P
+Le Débat	0246-2346	2111-4587	1980	1	1				https://www.cairn.info/revue-le-debat.htm		revue-le-debat		fulltext		Gallimard	serial								P
+Le français aujourd'hui	0184-7732	2107-0857	2001	132	1				https://www.cairn.info/revue-le-francais-aujourd-hui.htm		revue-le-francais-aujourd-hui		fulltext		Armand Colin	serial								P
+Le Genre humain	0293-0277	2540-3443	1981	1	1				https://www.cairn.info/revue-le-genre-humain.htm		revue-le-genre-humain		fulltext		Le Seuil	serial								P
+Le journal de l'école de Paris du management	1253-2711	2118-4585	2004	45	1				https://www.cairn.info/revue-le-journal-de-l-ecole-de-paris-du-management.htm		revue-le-journal-de-l-ecole-de-paris-du-management		fulltext		Association des amis de l'Ecole de Paris	serial								P
+Le Mouvement Social	0027-2671	1961-8646	2001	194	1				https://www.cairn.info/revue-le-mouvement-social.htm		revue-le-mouvement-social		fulltext		La Découverte	serial								P
+Le Moyen Age	0027-2841	1782-1436	2001		1				https://www.cairn.info/revue-le-moyen-age.htm		revue-le-moyen-age		fulltext		De Boeck Supérieur	serial								P
+Le Philosophoire	1283-7091	1968-3839	1999	7	1				https://www.cairn.info/revue-le-philosophoire.htm		revue-le-philosophoire		fulltext		Vrin	serial								P
+Le Temps des médias	1764-2507	2104-3671	2003	1	1				https://www.cairn.info/revue-le-temps-des-medias.htm		revue-le-temps-des-medias		fulltext		Nouveau Monde éditions	serial								P
+L'Économie politique	1293-6146	1965-0612	2001	9	1				https://www.cairn.info/revue-l-economie-politique.htm		revue-l-economie-politique		fulltext		Altern. économiques	serial								P
+Les Cahiers de la Justice	1958-3702	2678-601X	2010	1	1				https://www.cairn.info/revue-les-cahiers-de-la-justice.htm		revue-les-cahiers-de-la-justice		fulltext		Dalloz	serial								P
+Les Cahiers de l'Orient	0767-6468	2552-0016	2008	89	1				https://www.cairn.info/revue-les-cahiers-de-l-orient.htm		revue-les-cahiers-de-l-orient		fulltext		Centre d'études et de recherches sur le Proche-Orient	serial								P
+Les Cahiers d'Outre-Mer	0373-5834	1961-8603	2015	272	4				https://www.cairn.info/revue-les-cahiers-d-outre-mer.htm		revue-les-cahiers-d-outre-mer		fulltext		Presses universitaires de Bordeaux	serial								P
+Les Cahiers du Centre Georges Canguilhem	1962-1086	2259-5309	2007	1	1				https://www.cairn.info/revue-les-cahiers-du-centre-georges-canguilhem.htm		revue-les-cahiers-du-centre-georges-canguilhem		fulltext		Presses Universitaires de France	serial								P
+Les Études philosophiques	0014-2166	2101-0056	2001	56	1				https://www.cairn.info/revue-les-etudes-philosophiques.htm		revue-les-etudes-philosophiques		fulltext		Presses Universitaires de France	serial								P
+Les Études Sociales	0014-2204	2428-3509	2008	147	1				https://www.cairn.info/revue-les-etudes-sociales.htm		revue-les-etudes-sociales		fulltext		Société d'économie et de science sociales	serial								P
+Les Temps Modernes	0040-3075	2272-9356	2001	615	4				https://www.cairn.info/revue-les-temps-modernes.htm		revue-les-temps-modernes		fulltext		Gallimard	serial								P
+L’Espace géographique	0046-2497	1776-2936	2001	30	1				https://www.cairn.info/revue-espace-geographique.htm		revue-espace-geographique		fulltext		Belin	serial								P
+L'Europe en Formation	0014-2808	2410-9231	2008		3				https://www.cairn.info/revue-l-europe-en-formation.htm		revue-l-europe-en-formation		fulltext		Centre international de formation européenne	serial								P
+Lignes	0988-5226	2272-818X	1987	1	1				https://www.cairn.info/revue-lignes.htm		revue-lignes		fulltext		Editions Lignes	serial								P
+L'Information géographique	0020-0093	1777-5876	2006	70	2				https://www.cairn.info/revue-l-information-geographique.htm		revue-l-information-geographique		fulltext		Armand Colin	serial								P
+Littérature	0047-4800	1958-5926	2006	141	1				https://www.cairn.info/revue-litterature.htm		revue-litterature		fulltext		Armand Colin	serial								P
+Littératures classiques	0992-5279	2260-8478	2004	54	2				https://www.cairn.info/revue-litteratures-classiques.htm		revue-litteratures-classiques		fulltext		Presses universitaires du Midi	serial								P
+Lumen Vitae	0024-7324		2010		1				https://www.cairn.info/revue-lumen-vitae.htm		revue-lumen-vitae		fulltext		Editions jésuites	serial								P
+Maghreb - Machrek	1762-3162	2271-6815	2008	197	3				https://www.cairn.info/revue-maghreb-machrek.htm		revue-maghreb-machrek		fulltext		ESKA	serial								P
+Management et Avenir	1768-5958	1969-6574	2004	1	1				https://www.cairn.info/revue-management-et-avenir.htm		revue-management-et-avenir		fulltext		Management Prospective Ed.	serial								P
+Marché et organisations	1953-6119	2264-525X	2006	1	1				https://www.cairn.info/revue-marche-et-organisations.htm		revue-marche-et-organisations		fulltext		L'Harmattan	serial								P
+Matériaux pour l’histoire de notre temps	0769-3206	1952-4226	2006	81	1				https://www.cairn.info/revue-materiaux-pour-l-histoire-de-notre-temps.htm		revue-materiaux-pour-l-histoire-de-notre-temps		fulltext		La contemporaine	serial								P
+Médiévales	0751-2708	1777-5892	2018	75	2				https://www.cairn.info/revue-medievales.htm		revue-medievales		fulltext		Presses universitaires de Vincennes	serial								P
+Médium	1771-3757	2259-5082	1996	1	1				https://www.cairn.info/revue-medium.htm		revue-medium		fulltext		Association Médium	serial								P
+Mil neuf cent. Revue d'histoire intellectuelle	1146-1225	1960-6648	2001	19	1				https://www.cairn.info/revue-mil-neuf-cent.htm		revue-mil-neuf-cent		fulltext		Société d’études soréliennes	serial								P
+Monde chinois	1767-3755	2271-1929	2012	29	1				https://www.cairn.info/revue-monde-chinois.htm		revue-monde-chinois		fulltext		ESKA	serial								P
+Monde(s)	2261-6268	2260-7927	2012	1	1				https://www.cairn.info/revue-mondes.htm		revue-mondes		fulltext		Presses universitaires de Rennes	serial								P
+Mondes en développement	0302-3052	1782-1444	2001	113	1				https://www.cairn.info/revue-mondes-en-developpement.htm		revue-mondes-en-developpement		fulltext		De Boeck Supérieur	serial								P
+Mots. Les langages du politique	0243-6450	1960-6001	2017	113	1				https://www.cairn.info/revue-mots.htm		revue-mots		fulltext		E.N.S. Editions	serial								P
+Mouvements	1291-6412	1776-2995	2001	13	1				https://www.cairn.info/revue-mouvements.htm		revue-mouvements		fulltext		La Découverte	serial								P
+Movement et Sport Sciences	2118-5735	2118-5743	2002	45	1				https://www.cairn.info/revue-movement-and-sport-sciences.htm		revue-movement-and-sport-sciences		fulltext		EDP Sciences	serial								P
+Multitudes	0292-0107	1777-5841	2000	1	1				https://www.cairn.info/revue-multitudes.htm		revue-multitudes		fulltext		Association Multitudes	serial								P
+Musurgia	1257-7537	2271-1856	2008		1				https://www.cairn.info/revue-musurgia.htm		revue-musurgia		fulltext		ESKA	serial								P
+NAQD	1111-4371		1991	1	1				https://www.cairn.info/revue-naqd.htm		revue-naqd		fulltext		SARL NAQD	serial								P
+Natures Sciences Sociétés	1240-1307	1765-2979	2004	12	1				https://www.cairn.info/revue-natures-sciences-societes.htm		revue-natures-sciences-societes		fulltext		EDP Sciences	serial								P
+Négociations	1780-9231	1782-1452	2004	1	1				https://www.cairn.info/revue-negociations.htm		revue-negociations		fulltext		De Boeck Supérieur	serial								P
+Norois	0029-182X	1760-8546	2017	244	3				https://www.cairn.info/revue-norois.htm		revue-norois		fulltext		Presses universitaires de Rennes	serial								P
+Nouvelle revue d’esthétique	1969-2269	2264-2595	2008	1	1				https://www.cairn.info/revue-nouvelle-revue-d-esthetique.htm		revue-nouvelle-revue-d-esthetique		fulltext		Presses Universitaires de France	serial								P
+Nouvelle revue théologique	0029-4845	2406-4726	2003	125	1				https://www.cairn.info/revue-nouvelle-revue-theologique.htm		revue-nouvelle-revue-theologique		fulltext		Association Nouvelle revue théologique	serial								P
+Nouvelles Questions Féministes	0248-4951	2297-3850	2002	21	1				https://www.cairn.info/revue-nouvelles-questions-feministes.htm		revue-nouvelles-questions-feministes		fulltext		Editions Antipodes	serial								P
+Outre-Terre	1636-3671	1951-624X	2003	3	2				https://www.cairn.info/revue-outre-terre.htm		revue-outre-terre		fulltext		Ghazipur	serial								P
+Pardès	0295-5652	2271-1880	2001	30	1				https://www.cairn.info/revue-pardes.htm		revue-pardes		fulltext		In Press	serial								P
+Parlement[s], Revue d'histoire politique	1768-6520	1760-6233	2004	1	1				https://www.cairn.info/revue-parlements.htm		revue-parlements		fulltext		Presses universitaires de Rennes	serial								P
+Perspectives économiques de l'OCDE	0304-3274	1684-3436	2001	69	1				https://www.cairn.info/revue-perspectives-economiques-de-l-ocde.htm		revue-perspectives-economiques-de-l-ocde		fulltext		Editions de l'OCDE	serial								P
+Philosophia Scientiæ	1281-2463	1775-4283	2018	22	1				https://www.cairn.info/revue-philosophia-scientiae.htm		revue-philosophia-scientiae		fulltext		Editions Kimé	serial								P
+Philosophie	0294-1805	1968-391X	2001	69	2				https://www.cairn.info/revue-philosophie.htm		revue-philosophie		fulltext		Éditions de Minuit	serial								P
+Poétique	1245-1274	1968-3871	2003	133	1				https://www.cairn.info/revue-poetique.htm		revue-poetique		fulltext		Le Seuil	serial								P
+Pôle Sud	1262-1676	1960-6656	2004	20	1				https://www.cairn.info/revue-pole-sud.htm		revue-pole-sud		fulltext		ARPoS	serial								P
+Politique africaine	0244-7827	2264-5047	1999	73	1				https://www.cairn.info/revue-politique-africaine.htm		revue-politique-africaine		fulltext		Editions Karthala	serial								P
+Politique américaine	1771-8848	2264-5306	2005	1	1				https://www.cairn.info/revue-politique-americaine.htm		revue-politique-americaine		fulltext		L'Harmattan	serial								P
+Politique étrangère	0032-342X	1958-8992	2005		1				https://www.cairn.info/revue-politique-etrangere.htm		revue-politique-etrangere		fulltext		Institut français des relations internationales	serial								P
+Politique européenne	1623-6297	2105-2875	2000	1	1				https://www.cairn.info/revue-politique-europeenne.htm		revue-politique-europeenne		fulltext		L'Harmattan	serial								P
+Politix	0295-2319	1953-8286	1988	1	1				https://www.cairn.info/revue-politix.htm		revue-politix		fulltext		De Boeck Supérieur	serial								P
+Po&sie	0152-0032	2498-4191	2005	111	1				https://www.cairn.info/revue-poesie.htm		revue-poesie		fulltext		Belin	serial								P
+Pouvoirs	0152-0768	2101-0390	2001	96	1				https://www.cairn.info/revue-pouvoirs.htm		revue-pouvoirs		fulltext		Le Seuil	serial								P
+Présence Africaine	0032-7638	2271-197X	1947	1	1				https://www.cairn.info/revue-presence-africaine.htm		revue-presence-africaine		fulltext		Éditions Présence Africaine	serial								P
+Problèmes d'Amérique latine	0765-1333	1968-3898	2008	70	4				https://www.cairn.info/revue-problemes-d-amerique-latine.htm		revue-problemes-d-amerique-latine		fulltext		ESKA	serial								P
+Projectics / Proyéctica / Projectique	2031-9703	2032-0043	2008		1				https://www.cairn.info/revue-projectique.htm		revue-projectique		fulltext		De Boeck Supérieur	serial								P
+Quaderni	0987-1381	2105-2956	2017	94	3				https://www.cairn.info/revue-quaderni.htm		revue-quaderni		fulltext		Éditions de la Maison des sciences de l'homme	serial								P
+Questions de communication	1633-5961	2259-8901	2017	31	1				https://www.cairn.info/revue-questions-de-communication.htm		revue-questions-de-communication		fulltext		PUN - Editions universitaires de Lorraine	serial								P
+Question(s) de management	2262-7030	2271-2127	2012		1				https://www.cairn.info/revue-questions-de-management.htm		revue-questions-de-management		fulltext		I.M.C.F	serial								P
+Raison présente	0033-9075	2649-7999	2014	189	1				https://www.cairn.info/revue-raison-presente.htm		revue-raison-presente		fulltext		Union rationaliste	serial								P
+Raison publique	1767-0543	2268-5944	2012	17	2				https://www.cairn.info/revue-raison-publique.htm		revue-raison-publique		fulltext		Editions Raison publique	serial								P
+Raisons politiques	1291-1941	1950-6708	2001	1	1				https://www.cairn.info/revue-raisons-politiques.htm		revue-raisons-politiques		fulltext		Presses de Sciences Po	serial								P
+Recherches de Science Religieuse	0034-1258	2104-3884	2001	89	1				https://www.cairn.info/revue-recherches-de-science-religieuse.htm		revue-recherches-de-science-religieuse		fulltext		Centre Sèvres	serial								P
+Recherches en Sciences de Gestion	2259-6372	2271-2836	2011	85	4				https://www.cairn.info/revue-recherches-en-sciences-de-gestion.htm		revue-recherches-en-sciences-de-gestion		fulltext		ISEOR	serial								P
+Recherches sur Diderot et sur l’Encyclopédie	0769-0886	1955-2416	2017	52	1				https://www.cairn.info/revue-recherches-sur-diderot-et-sur-l-encyclopedie.htm		revue-recherches-sur-diderot-et-sur-l-encyclopedie		fulltext		Société Diderot	serial								P
+Reflets et perspectives de la vie économique	0034-2971	1782-1509	2001		1				https://www.cairn.info/revue-reflets-et-perspectives-de-la-vie-economique.htm		revue-reflets-et-perspectives-de-la-vie-economique		fulltext		De Boeck Supérieur	serial								P
+Réforme, Humanisme, Renaissance	1771-1347	1969-654X	2015	80	1				https://www.cairn.info/revue-reforme-humanisme-renaissance.htm		revue-reforme-humanisme-renaissance		fulltext		Association d’études sur la Renaissance, l’Humanisme et la Réforme	serial								P
+Regards croisés sur l'économie	1956-7413	2119-3975	2007	1	1				https://www.cairn.info/revue-regards-croises-sur-l-economie.htm		revue-regards-croises-sur-l-economie		fulltext		La Découverte	serial								P
+Relations internationales	0335-2013	2105-2654	2005	121	1				https://www.cairn.info/revue-relations-internationales.htm		revue-relations-internationales		fulltext		Presses Universitaires de France	serial								P
+Repères, cahier de danse	2112-5147	2271-7811	2006	17	1				https://www.cairn.info/revue-reperes-cahier-de-danse.htm		revue-reperes-cahier-de-danse		fulltext		La Briqueterie / CDC du Val-de-Marne	serial								P
+Réseaux	0751-7971	1777-5809	1983	1	1				https://www.cairn.info/revue-reseaux.htm		revue-reseaux		fulltext		La Découverte	serial								P
+Revue archéologique	0035-0737	2104-3868	2001	31	1				https://www.cairn.info/revue-archeologique.htm		revue-archeologique		fulltext		Presses Universitaires de France	serial								P
+Revue d'assyriologie et d'archéologie orientale	0373-6032	2104-3817	2001	93	1				https://www.cairn.info/revue-d-assyriologie.htm		revue-d-assyriologie		fulltext		Presses Universitaires de France	serial								P
+Revue de la BNF	1254-7700	2118-3376	2009	31	1				https://www.cairn.info/revue-de-la-bibliotheque-nationale-de-france.htm		revue-de-la-bibliotheque-nationale-de-france		fulltext		Bibliothèque nationale de France	serial								P
+Revue de l’Entrepreneuriat	1766-2524	1630-7542	2001	1	1				https://www.cairn.info/revue-de-l-entrepreneuriat.htm		revue-de-l-entrepreneuriat		fulltext		De Boeck Supérieur	serial								P
+Revue de l'histoire des religions	0035-1423	2105-2573	2016	233	4				https://www.cairn.info/revue-de-l-histoire-des-religions.htm		revue-de-l-histoire-des-religions		fulltext		Armand Colin	serial								P
+Revue de littérature comparée	0035-1466	1965-0264	2001	297	1				https://www.cairn.info/revue-de-litterature-comparee.htm		revue-de-litterature-comparee		fulltext		Klincksieck	serial								P
+Revue de l’organisation responsable	1951-0187	2105-3022	2006	1	1				https://www.cairn.info/revue-de-l-organisation-responsable.htm		revue-de-l-organisation-responsable		fulltext		ESKA	serial								P
+Revue de métaphysique et de morale	0035-1571	2102-5177	2001	29	1				https://www.cairn.info/revue-de-metaphysique-et-de-morale.htm		revue-de-metaphysique-et-de-morale		fulltext		Presses Universitaires de France	serial								P
+Revue de philologie, de littérature et d'histoire anciennes	0035-1652	1760-8430	2001		1				https://www.cairn.info/revue-de-philologie-litterature-et-histoire-anciennes.htm		revue-de-philologie-litterature-et-histoire-anciennes		fulltext		Klincksieck	serial								P
+Revue de philosophie ancienne	0771-5420		2014		1				https://www.cairn.info/revue-de-philosophie-ancienne.htm		revue-de-philosophie-ancienne		fulltext		Éditions Ousia	serial								P
+Revue de philosophie économique	1376-0971	2118-4852	2009	10	1				https://www.cairn.info/revue-de-philosophie-economique.htm		revue-de-philosophie-economique		fulltext		Vrin	serial								P
+Revue de science criminelle et de droit pénal comparé	0035-1733	1760-7620	2010	1	1				https://www.cairn.info/revue-de-science-criminelle-et-de-droit-penal-compare.htm		revue-de-science-criminelle-et-de-droit-penal-compare		fulltext		Dalloz	serial								P
+Revue d'économie du développement	1245-4060	1782-1517	2002	10	1				https://www.cairn.info/revue-d-economie-du-developpement.htm		revue-d-economie-du-developpement		fulltext		De Boeck Supérieur	serial								P
+Revue d'économie financière	0987-3368	1777-5744	2011	101	1				https://www.cairn.info/revue-d-economie-financiere.htm		revue-d-economie-financiere		fulltext		Association d'économie financière	serial								P
+Revue d'économie industrielle	0154-3229	1773-0198	2017	159	3				https://www.cairn.info/revue-d-economie-industrielle.htm		revue-d-economie-industrielle		fulltext		De Boeck Supérieur	serial								P
+Revue d'économie politique	0373-2630	2105-2883	2001	111	1				https://www.cairn.info/revue-d-economie-politique.htm		revue-d-economie-politique		fulltext		Dalloz	serial								P
+Revue des sciences philosophiques et théologiques	0035-2209	2118-4445	2001	85	1				https://www.cairn.info/revue-des-sciences-philosophiques-et-theologiques.htm		revue-des-sciences-philosophiques-et-theologiques		fulltext		Vrin	serial								P
+Revue d'éthique et de théologie morale	1266-0078	2118-4518	2004	229	2				https://www.cairn.info/revue-d-ethique-et-de-theologie-morale.htm		revue-d-ethique-et-de-theologie-morale		fulltext		Editions du Cerf	serial								P
+Revue d’études comparatives Est-Ouest	0338-0599	2259-6100	2009	40	1				https://www.cairn.info/revue-revue-d-etudes-comparatives-est-ouest.htm		revue-revue-d-etudes-comparatives-est-ouest		fulltext		Presses Universitaires de France	serial								P
+Revue d'histoire des sciences	0151-4105	1969-6582	2006	59	1				https://www.cairn.info/revue-d-histoire-des-sciences.htm		revue-d-histoire-des-sciences		fulltext		Armand Colin	serial								P
+Revue d’histoire du XIXe siècle	1265-1354	1777-5329	2017	55	2				https://www.cairn.info/revue-d-histoire-du-dix-neuvieme-siecle.htm		revue-d-histoire-du-dix-neuvieme-siecle		fulltext		Société de 1848	serial								P
+Revue d'histoire littéraire de la France	0035-2411	2105-2689	2001	101	1	2016	116	4	https://www.cairn.info/revue-d-histoire-litteraire-de-la-france.htm		revue-d-histoire-litteraire-de-la-france		fulltext		Presses Universitaires de France	serial								P
+Revue d’histoire moderne et contemporaine	0048-8003	1776-3045	2000	47	3				https://www.cairn.info/revue-d-histoire-moderne-et-contemporaine.htm		revue-d-histoire-moderne-et-contemporaine		fulltext		Belin	serial								P
+Revue Droit et Littérature	2552-8831		2017	1	1				https://www.cairn.info/revue-droit-et-litterature.htm		revue-droit-et-litterature		fulltext		Lextenso	serial								P
+Revue du Nord	0035-2624	2271-7005	2001	339	1				https://www.cairn.info/revue-du-nord.htm		revue-du-nord		fulltext		Association Revue du Nord	serial								P
+Revue économique	0035-2764	1950-6694	2001	52	1				https://www.cairn.info/revue-economique.htm		revue-economique		fulltext		Presses de Sciences Po	serial								P
+Revue européenne des migrations internationales	0765-0752	1777-5418	2018	34	1				https://www.cairn.info/revue-europeenne-des-migrations-internationales.htm		revue-europeenne-des-migrations-internationales		fulltext		Université de Poitiers	serial								P
+Revue française d'administration publique	0152-7401	1965-0620	2002	101	1				https://www.cairn.info/revue-francaise-d-administration-publique.htm		revue-francaise-d-administration-publique		fulltext		Ecole nationale d'administration	serial								P
+Revue française de droit constitutionnel	1151-2385	2105-2867	2001	45	1				https://www.cairn.info/revue-francaise-de-droit-constitutionnel.htm		revue-francaise-de-droit-constitutionnel		fulltext		Presses Universitaires de France	serial								P
+Revue française de linguistique appliquée	1386-1204	1875-368X	1996		1				https://www.cairn.info/revue-francaise-de-linguistique-appliquee.htm		revue-francaise-de-linguistique-appliquee		fulltext		Pub. linguistiques	serial								P
+Revue française de science politique	0035-2950	1950-6686	2001	51	1				https://www.cairn.info/revue-francaise-de-science-politique.htm		revue-francaise-de-science-politique		fulltext		Presses de Sciences Po	serial								P
+Revue Française de Socio-Économie	1966-6608	2104-3833	2008	1	1				https://www.cairn.info/revue-francaise-de-socio-economie.htm		revue-francaise-de-socio-economie		fulltext		La Découverte	serial								P
+Revue française d'économie	0769-0479	1760-7388	2009		3				https://www.cairn.info/revue-francaise-d-economie.htm		revue-francaise-d-economie		fulltext		Revue française d’économie	serial								P
+Revue française d'éthique appliquée	2494-5757	2427-0687	2016	1	1				https://www.cairn.info/revue-francaise-d-ethique-appliquee.htm		revue-francaise-d-ethique-appliquee		fulltext		ERES	serial								P
+Revue française d’études américaines	0397-7870	1776-3061	2001	87	1				https://www.cairn.info/revue-francaise-d-etudes-americaines.htm		revue-francaise-d-etudes-americaines		fulltext		Belin	serial								P
+Revue Française d'Histoire des Idées Politiques	1266-7862	2119-3851	2001	13	1				https://www.cairn.info/revue-francaise-d-histoire-des-idees-politiques.htm		revue-francaise-d-histoire-des-idees-politiques		fulltext		L'Harmattan	serial								P
+Revue française d'histoire économique	2427-4062	2608-0753	2014	1	1				https://www.cairn.info/revue-francaise-d-histoire-economique.htm		revue-francaise-d-histoire-economique		fulltext		L'Harmattan	serial								P
+Revue historique	0035-3264	2104-3825	2001	617	1				https://www.cairn.info/revue-historique.htm		revue-historique		fulltext		Presses Universitaires de France	serial								P
+Revue interdisciplinaire d'études juridiques	0770-2310	2406-4742	1978	1	1				https://www.cairn.info/revue-interdisciplinaire-d-etudes-juridiques.htm		revue-interdisciplinaire-d-etudes-juridiques		fulltext		Université Saint-Louis - Bruxelles	serial								P
+Revue internationale de droit économique	1010-8831	1782-1525	2001	1	1				https://www.cairn.info/revue-internationale-de-droit-economique.htm		revue-internationale-de-droit-economique		fulltext		De Boeck Supérieur	serial								P
+Revue internationale de philosophie	0048-8143	2033-0138	2001	216	2				https://www.cairn.info/revue-internationale-de-philosophie.htm		revue-internationale-de-philosophie		fulltext		Association Revue internationale de philosophie	serial								P
+Revue internationale de politique comparée	1370-0731	1782-1533	2001	8	1				https://www.cairn.info/revue-internationale-de-politique-comparee.htm		revue-internationale-de-politique-comparee		fulltext		De Boeck Supérieur	serial								P
+Revue internationale de psychologie sociale	0992-986X	2119-4130	2006	19	1	2015	28	4	https://www.cairn.info/revue-internationale-de-psychologie-sociale.htm		revue-internationale-de-psychologie-sociale		fulltext		Presses universitaires de Grenoble	serial								P
+Revue internationale des études du développement	2554-3415	2554-3555	2003	173	1				https://www.cairn.info/revue-internationale-des-etudes-du-developpement.htm		revue-internationale-des-etudes-du-developpement		fulltext		Éditions de la Sorbonne	serial								P
+Revue Internationale des Sciences Administratives	0303-965X	2411-2909	2005	71	1				https://www.cairn.info/revue-internationale-des-sciences-administratives.htm		revue-internationale-des-sciences-administratives		fulltext		I.I.S.A.	serial								P
+Revue internationale des sciences de l'organisation		2551-3583	2016	1	1				https://www.cairn.info/revue-internationale-des-sciences-de-l-organisation.htm		revue-internationale-des-sciences-de-l-organisation		fulltext		Management Prospective Ed.	serial								P
+Revue internationale d'intelligence économique	2101-647X	2102-6408	2009	1	1	2015	7	1	https://www.cairn.info/revue-internationale-d-intelligence-economique.htm		revue-internationale-d-intelligence-economique		fulltext		Lavoisier	serial								P
+Revue internationale et stratégique	1287-1672	2104-3876	2001	41	1				https://www.cairn.info/revue-internationale-et-strategique.htm		revue-internationale-et-strategique		fulltext		Armand Colin	serial								P
+Revue juridique de l’environnement	0397-0299	2430-2848	2010	35	1				https://www.cairn.info/revue-revue-juridique-de-l-environnement.htm		revue-revue-juridique-de-l-environnement		fulltext		Lavoisier	serial								P
+Revue philosophique de la France et de l'étranger	0035-3833	2104-385X	2001	126	1				https://www.cairn.info/revue-philosophique.htm		revue-philosophique		fulltext		Presses Universitaires de France	serial								P
+RIMHE : Revue Interdisciplinaire Management, Homme et Entreprise	2259-2490	2260-5584	2012	1	1				https://www.cairn.info/revue-rimhe.htm		revue-rimhe		fulltext		ARIMHE	serial								P
+Rives méditerranéennes	2103-4001	2119-4696	2019	58	1				https://www.cairn.info/revue-rives-mediterraneennes.htm		revue-rives-mediterraneennes		fulltext		Presses universitaires de Provence	serial								P
+Roman 20-50	0295-5024	2492-0614	2005	39	1				https://www.cairn.info/revue-roman2050.htm		revue-roman2050		fulltext		Société Roman 20-50	serial								P
+Romantisme	0048-8593	1957-7958	2004	123	1				https://www.cairn.info/revue-romantisme.htm		revue-romantisme		fulltext		Armand Colin	serial								P
+Savoir/Agir	1958-7856	1958-5535	2007	1	1				https://www.cairn.info/revue-savoir-agir.htm		revue-savoir-agir		fulltext		Editions du Croquant	serial								P
+Sciences du Design	2428-3711	2428-3614	2015	1	1				https://www.cairn.info/revue-sciences-du-design.htm		revue-sciences-du-design		fulltext		Presses Universitaires de France	serial								P
+Sciences sociales et sport	1967-7359	2264-5748	2008	1	1				https://www.cairn.info/revue-sciences-sociales-et-sport.htm		revue-sciences-sociales-et-sport		fulltext		L'Harmattan	serial								P
+Sécurité et stratégie	2101-4736	2428-3622	2009	1	1				https://www.cairn.info/revue-securite-et-strategie.htm		revue-securite-et-strategie		fulltext		Club des Directeurs de Sécurité des Entreprises	serial								P
+Sécurité globale	1959-6782	2271-2194	2008	3	1				https://www.cairn.info/revue-securite-globale.htm		revue-securite-globale		fulltext		ESKA	serial								P
+Sens-Dessous	1951-0519	2430-2880	2006		1				https://www.cairn.info/revue-sens-dessous.htm		revue-sens-dessous		fulltext		Edition de l'Association Paroles	serial								P
+Sigila	1286-1715	2649-8529	2010	25	1				https://www.cairn.info/revue-sigila.htm		revue-sigila		fulltext		Gris-France	serial								P
+Société, droit et religion	2110-6657	2272-9054	2011	1	1				https://www.cairn.info/revue-societe-droit-et-religion.htm		revue-societe-droit-et-religion		fulltext		C.N.R.S. Editions	serial								P
+Sociologie de l'Art	0779-1674	2264-5209	2003		1				https://www.cairn.info/revue-sociologie-de-l-art.htm		revue-sociologie-de-l-art		fulltext		L'Harmattan	serial								P
+Stratégique	0224-0424	2430-2961	2005	85	1				https://www.cairn.info/revue-strategique.htm		revue-strategique		fulltext		Institut de Stratégie Comparée	serial								P
+Syntaxe et sémantique	1623-6742	2271-2852	2000	1	1				https://www.cairn.info/revue-syntaxe-et-semantique.htm		revue-syntaxe-et-semantique		fulltext		Presses universitaires de Caen	serial								P
+Systèmes d'information et management	1260-4984	2271-7188	2008	13	1				https://www.cairn.info/revue-systemes-d-information-et-management.htm		revue-systemes-d-information-et-management		fulltext		ESKA	serial								P
+Techniques et Culture	0248-6016	1952-420X	2017	68	2				https://www.cairn.info/revue-techniques-et-culture.htm		revue-techniques-et-culture		fulltext		Éditions de l'EHESS	serial								P
+Télévision	2108-8926	2426-6264	2010	1	1				https://www.cairn.info/revue-television.htm		revue-television		fulltext		C.N.R.S. Editions	serial								P
+Tous urbains	2265-9811	2496-431X	2013	1	1				https://www.cairn.info/revue-tous-urbains.htm		revue-tous-urbains		fulltext		Presses Universitaires de France	serial								P
+Transports urbains	0397-6521	2678-6176	2003	105	2				https://www.cairn.info/revue-transports-urbains.htm		revue-transports-urbains		fulltext		Groupement pour l'Étude des Transports Urbains Modernes	serial								P
+Transversalités	1286-9449	2259-3799	2008	105	1				https://www.cairn.info/revue-transversalites.htm		revue-transversalites		fulltext		Institut Catholique de Paris	serial								P
+Travaux de linguistique	0082-6049	1782-1576	2001	42	1				https://www.cairn.info/revue-travaux-de-linguistique.htm		revue-travaux-de-linguistique		fulltext		De Boeck Supérieur	serial								P
+Tumultes	1243-549X	2118-2892	2001	16	1				https://www.cairn.info/revue-tumultes.htm		revue-tumultes		fulltext		Editions Kimé	serial								P
+Vacarme	1253-2479	2107-092X	1997	1	1				https://www.cairn.info/revue-vacarme.htm		revue-vacarme		fulltext		Association Vacarme	serial								P
+Vertigo	0985-1402	2428-3568	2002	23	1	2015	48	1	https://www.cairn.info/revue-vertigo.htm		revue-vertigo		fulltext		Editions Lignes	serial								P
+Vie et sciences de l'entreprise	2262-5321	2262-5372	2005		3				https://www.cairn.info/revue-vie-et-sciences-de-l-entreprise.htm		revue-vie-et-sciences-de-l-entreprise		fulltext		ANDESE	serial								P
+Volume !	2117-4148	1950-568X	2017		1				https://www.cairn.info/revue-volume.htm		revue-volume		fulltext		Editions Mélanie Seteun	serial								P
+Zilsel	2551-8313	2553-6133	2017	1	1				https://www.cairn.info/revue-zilsel.htm		revue-zilsel		fulltext		Editions du Croquant	serial								P
+1895	0769-0959	1960-6176	2016	79	2				https://www.cairn.info/revue-1895.htm		revue-1895		fulltext		AFRHC	serial								P
+20 et 21. Revue d'histoire	2649-664X	2649-6100	2001	69	1				https://www.cairn.info/revue-vingt-et-vingt-et-un-revue-d-histoire.htm		revue-vingt-et-vingt-et-un-revue-d-histoire		fulltext		Presses de Sciences Po	serial								P

@@ -1,0 +1,33 @@
+publication_title	print_identifier	online_identifier	date_first_issue_online	num_first_vol_online	num_first_issue_online	date_last_issue_online	num_last_vol_online	num_last_issue_online	title_url	first_author	title_id	embargo_info	coverage_depth	notes	publisher_name	publication_type	date_monograph_published_print	date_monograph_published_online	monograph_volume	monograph_edition	first_editor	parent_publication_title_id	preceding_publication_title_id	access_type
+Actualités en analyse transactionnelle	1377-8935	2272-060X	2008	125	1				https://www.cairn.info/revue-actualites-en-analyse-transactionnelle.htm		revue-actualites-en-analyse-transactionnelle		fulltext		Institut français d'analyse transactionnelle	serial								P
+Analyse Freudienne Presse	1253-1472	1969-6744	2001	3	1				https://www.cairn.info/revue-analyse-freudienne-presse.htm		revue-analyse-freudienne-presse		fulltext		ERES	serial								P
+Approche Centrée sur la Personne. Pratique et recherche	1774-5314	1961-8670	2005	1	1				https://www.cairn.info/revue-approche-centree-sur-la-personne.htm		revue-approche-centree-sur-la-personne		fulltext		ACP-PR	serial								P
+Cahiers de Gestalt-thérapie	1277-6874	1775-4348	2001	9	1				https://www.cairn.info/revue-cahiers-de-gestalt-therapie.htm		revue-cahiers-de-gestalt-therapie		fulltext		Collège européen de Gestalt-thérapie	serial								P
+Cahiers de psychologie clinique	1370-074X	1782-1401	2001	16	1				https://www.cairn.info/revue-cahiers-de-psychologie-clinique.htm		revue-cahiers-de-psychologie-clinique		fulltext		De Boeck Supérieur	serial								P
+Cahiers jungiens de psychanalyse	0984-8207	2262-4783	2001	100	1				https://www.cairn.info/revue-cahiers-jungiens-de-psychanalyse.htm		revue-cahiers-jungiens-de-psychanalyse		fulltext		Les Cahiers jungiens de psychanalyse	serial								P
+Champ lacanien	1767-6827	2606-5827	2004	1	1				https://www.cairn.info/revue-champ-lacanien.htm		revue-champ-lacanien		fulltext		EPFCL-France	serial								P
+Cliniques méditerranéennes	0762-7491	1776-2790	2001	63	1				https://www.cairn.info/revue-cliniques-mediterraneennes.htm		revue-cliniques-mediterraneennes		fulltext		ERES	serial								P
+Corps et Psychisme	2496-4476	2553-6087	2001	21	1				https://www.cairn.info/revue-corps-et-psychisme.htm		revue-corps-et-psychisme		fulltext		L’Esprit du temps	serial								P
+Essaim	1287-258X	1776-2839	2001	7	1				https://www.cairn.info/revue-essaim.htm		revue-essaim		fulltext		ERES	serial								P
+Figures de la psychanalyse	1623-3883	1776-2847	2001	4	1				https://www.cairn.info/revue-figures-de-la-psy.htm		revue-figures-de-la-psy		fulltext		ERES	serial								P
+Gestalt	1154-5232	1950-6716	2002	22	1				https://www.cairn.info/revue-gestalt.htm		revue-gestalt		fulltext		Société française de Gestalt	serial								P
+Imaginaire et Inconscient	1628-9676	1965-0183	2001	1	1				https://www.cairn.info/revue-imaginaire-et-inconscient.htm		revue-imaginaire-et-inconscient		fulltext		L’Esprit du temps	serial								P
+Insistance	1778-7807	1951-6258	2005	1	1				https://www.cairn.info/revue-insistance.htm		revue-insistance		fulltext		ERES	serial								P
+Journal de la psychanalyse de l'enfant	0994-7949	2264-590X	2011	1	1				https://www.cairn.info/revue-journal-de-la-psychanalyse-de-l-enfant.htm		revue-journal-de-la-psychanalyse-de-l-enfant		fulltext		Presses Universitaires de France	serial								P
+La Cause Du Désir	2258-8051	2606-6041	2004	56	1				https://www.cairn.info/revue-la-cause-du-desir.htm		revue-la-cause-du-desir		fulltext		L'École de la Cause freudienne	serial								P
+La clinique lacanienne	1288-6629	1776-2782	2001	5	1				https://www.cairn.info/revue-la-clinique-lacanienne.htm		revue-la-clinique-lacanienne		fulltext		ERES	serial								P
+La revue lacanienne	1967-2055	2109-9553	2007	1	1				https://www.cairn.info/revue-la-revue-lacanienne.htm		revue-la-revue-lacanienne		fulltext		ERES	serial								P
+L’Année psychologique	0003-5033	1955-2580	2009	109	1				https://www.cairn.info/revue-l-annee-psychologique.htm		revue-l-annee-psychologique		fulltext		Presses Universitaires de France	serial								P
+Le présent de la psychanalyse	2677-7924	2678-6133	2007	2007	1				https://www.cairn.info/revue-le-present-de-la-psychanalyse.htm		revue-le-present-de-la-psychanalyse		fulltext		Presses Universitaires de France	serial								P
+L'en-je lacanien	1761-2861	1951-6231	2003	1	1				https://www.cairn.info/revue-l-en-je-lacanien.htm		revue-l-en-je-lacanien		fulltext		ERES	serial								P
+Les Lettres de la SPF			2007	17	1				https://www.cairn.info/revue-les-lettres-de-la-spf.htm		revue-les-lettres-de-la-spf		fulltext		Société de Psychanalyse Freudienne	serial								P
+L'information psychiatrique	0020-0204	1952-4056	2006	82	1				https://www.cairn.info/revue-l-information-psychiatrique.htm		revue-l-information-psychiatrique		fulltext		John Libbey Eurotext	serial								P
+Nouvelle Revue de l'enfance et de l'adolescence			2019	1	1				https://www.cairn.info/revue-nouvelle-revue-de-l-enfance-et-de-l-adolescence.htm		revue-nouvelle-revue-de-l-enfance-et-de-l-adolescence		fulltext		L'Harmattan	serial								P
+PSN	1639-8319	1955-2351	2012	10	1				https://www.cairn.info/revue-psn.htm		revue-psn		fulltext		Editions Matériologiques	serial								P
+Psychanalyse YETU	1770-0078	1951-6320	2004	1	1				https://www.cairn.info/revue-psychanalyse-yetu.htm		revue-psychanalyse-yetu		fulltext		ERES	serial								P
+Psychologie Clinique	1145-1882	2118-4224	2009	27	1				https://www.cairn.info/revue-psychologie-clinique.htm		revue-psychologie-clinique		fulltext		EDP Sciences	serial								P
+Psychologie clinique et projective	1265-5449	2118-4496	2001	7	1				https://www.cairn.info/revue-psychologie-clinique-et-projective.htm		revue-psychologie-clinique-et-projective		fulltext		ERES	serial								P
+Psychosomatique relationnelle		2272-916X	2013	1	1				https://www.cairn.info/revue-psychosomatique-relationnelle.htm		revue-psychosomatique-relationnelle		fulltext		Centre international de psychosomatique	serial								P
+Psychothérapies	0251-737X	2235-2104	2002	22	1				https://www.cairn.info/revue-psychotherapies.htm		revue-psychotherapies		fulltext		Médecine et Hygiène	serial								P
+Revue de neuropsychologie	2101-6739	2102-6025	2009	1	1				https://www.cairn.info/revue-de-neuropsychologie.htm		revue-de-neuropsychologie		fulltext		John Libbey Eurotext	serial								P
+Revue française de psychosomatique	1164-4796	2105-2603	1991	1	1				https://www.cairn.info/revue-francaise-de-psychosomatique.htm		revue-francaise-de-psychosomatique		fulltext		Presses Universitaires de France	serial								P
