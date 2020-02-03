@@ -1,3 +1,3 @@
 publication_title	print_identifier	online_identifier	date_first_issue_online	num_first_vol_online	num_first_issue_online	date_last_issue_online	num_last_vol_online	num_last_issue_online	title_url	first_author	title_id	embargo_info	coverage_depth	notes	publisher_name	publication_type	date_monograph_published_print	date_monograph_published_online	monograph_volume	monograph_edition	first_editor	parent_publication_title_id	preceding_publication_title_id	access_type
-Economic Geology: Bulletin of the Society of Economic Geologists	0361-0128	1554-0774	1930	25	2				http://econgeol.geoscienceworld.org/		econgeol		fulltext	Previously: Economic Geology (1905-1930)		serial								P
-Lithosphere	1941-8264	1947-4253	2009	1	1				https://pubs.geoscienceworld.org/lithosphere/		lithosphere/		fulltext			serial								P
+Database: The Journal of Biological Databases & Curation		1758-0463	2010	2010					https://academic.oup.com/database		database		fulltext			serial								F
+Progress of Theoretical Physics Supplements	0375-9687		1955	1		2012	197		https://academic.oup.com/ptps/		ptps/		fulltext	Ceased: 2012		serial								F

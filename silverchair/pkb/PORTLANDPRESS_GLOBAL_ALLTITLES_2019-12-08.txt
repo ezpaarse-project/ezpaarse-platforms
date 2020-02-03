@@ -1,0 +1,9 @@
+publication_title	print_identifier	online_identifier	date_first_issue_online	num_first_vol_online	num_first_issue_online	date_last_issue_online	num_last_vol_online	num_last_issue_online	title_url	first_author	title_id	embargo_info	coverage_depth	notes	publisher_name	publication_type	date_monograph_published_print	date_monograph_published_online	monograph_volume	monograph_edition	first_editor	parent_publication_title_id	preceding_publication_title_id	access_type
+Biochemical Journal (1984)	0264-6021	1470-8728	1984	217	1				https://www.portlandpress.com/biochemj		biochemj		fulltext	Formed by union of Biochemical journal. Molecular aspects, (ISSN:0306-3275) and Biochemical journal. Cellular aspects,		serial								P
+Biochemical Society Symposia	0067-8694	1744-1439	1995	61		2007	74		https://portlandpress.com/biochemsocsymp		biochemsocsymp		fulltext	1996 -1998 missing. Symposia now published within Biochemical Society Transactions		serial								P
+Biochemical Society Transactions	0300-5127	1470-8752	1973	1	1				https://www.portlandpress.com/biochemsoctrans		biochemsoctrans		fulltext			serial								P
+Bioscience Reports	0144-8463	1573-4935	1981	1					https://www.portlandpress.com/bioscirep		bioscirep		fulltext	Open Access		serial								P
+Clinical Science (1979)	0143-5221	1470-8736	1979	56	1				https://www.portlandpress.com/clinsci		clinsci		fulltext	Previously: Clinical Science (1970-73) Clinical Science and Molecular Medicine (1973-78)		serial								P
+Emerging Topics in Life Sciences	2397-8554	2397-8562	2017	1	1				https://www.portlandpress.com/emergtoplifesci		emergtoplifesci		fulltext			serial								P
+Essays in Biochemistry	0071-1365	1744-1358	1998	33	1				https://www.portlandpress.com/essaysbiochem		essaysbiochem		fulltext			serial								P
+Nuronal Signaling		2059-6553	2017	1	1				https://www.portlandpress.com/neuronalsignal		neuronalsignal		fulltext	Open Access		serial								P
