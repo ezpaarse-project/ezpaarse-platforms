@@ -1,0 +1,13 @@
+{
+  "longname": "UpToDate",
+  "name": "utd",
+  "describe": "Recognizes the accesses to the platform UpToDate",
+  "contact": "Thomas Porquet, Craig Boman, Frederic Truong inist",
+  "pkb": false,
+  "docurl": "http://analyses.ezpaarse.org/platforms/547f4048bac952b9dcd70039",
+  "domains": [
+    "www-uptodate-com.une.idm.oclc.org"
+  ],
+  "version": "2020-02-19",
+  "status": "beta"
+}
