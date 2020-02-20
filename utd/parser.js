@@ -17,7 +17,7 @@ module.exports = new Parser(function analyseEC(parsedUrl, ec) {
 
   let match;
 
-  if ((match = /^\/contents\/table-of-contents\/([a-z0-9-]+)\/?([a-z0-9-]+)?/i.exec(path)) !== null) {
+  if ((match = /^\/contents\/table-of-contents\/([a-z0-9-]+)(?:\/([a-z0-9-]+))?\/?/i.exec(path)) !== null) {
     // /contents/table-of-contents/drug-information/patient-drug-information
     // /contents/table-of-contents/allergy-and-immunology
     // /contents/table-of-contents/patient-education/cancer
@@ -32,7 +32,7 @@ module.exports = new Parser(function analyseEC(parsedUrl, ec) {
     result.rtype    = 'FORMULES';
     result.mime     = 'HTML';
     result.unitid   = match[1];
-  } else if ((match = /^\/contents\/(search|image|[a-z0-9-]+|)\/?(abstract)?\/?([0-9,]+)?/i.exec(path)) !== null) {
+  } else if ((match = /^\/contents\/([a-z0-9-]+|)\/?(abstract)?\/?([0-9,]+)?/i.exec(path)) !== null) {
     // /contents/coronaviruses?search=coronavirus&source=search_result&selectedTitle=1~56&usage_type=default&display_rank=1
     // /contents/acetaminophen-paracetamol-and-codeine-pediatric-drug-information
     // /contents/search?search=coronavirus
