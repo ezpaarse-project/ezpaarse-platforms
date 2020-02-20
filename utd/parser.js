@@ -13,7 +13,7 @@ const Parser = require('../.lib/parser.js');
 module.exports = new Parser(function analyseEC(parsedUrl, ec) {
   let result = {};
   let path   = parsedUrl.pathname;
-  let param = parsedUrl.query || {};
+  let param  = parsedUrl.query || {};
 
   let match;
 
@@ -32,11 +32,13 @@ module.exports = new Parser(function analyseEC(parsedUrl, ec) {
     result.rtype    = 'FORMULES';
     result.mime     = 'HTML';
     result.unitid   = match[1];
-  } else if ((match = /^\/contents\/(search|image|[a-z0-9-]+)\/?/i.exec(path)) !== null) {
+  } else if ((match = /^\/contents\/(search|image|[a-z0-9-]+|)\/?(abstract)?\/?([0-9,]+)?/i.exec(path)) !== null) {
     // /contents/coronaviruses?search=coronavirus&source=search_result&selectedTitle=1~56&usage_type=default&display_rank=1
     // /contents/acetaminophen-paracetamol-and-codeine-pediatric-drug-information
     // /contents/search?search=coronavirus
     // /contents/image?imageKey=DRUG/57469&topicKey=DRUG_PED%2F13092&source=outline_link
+    // /contents/coronavirus-disease-2019-covid-19/abstract/23,25
+    // /contents/coronaviruses/abstract/11
 
     result.rtype  = 'ARTICLE';
     result.mime   = 'HTML';
@@ -54,20 +56,19 @@ module.exports = new Parser(function analyseEC(parsedUrl, ec) {
       result.unitid = match[1];
       break;
     }
+
+    if (match[2]) {
+      result.rtype  = 'ABS';
+      result.unitid = `${match[1]}-${match[3]}`;
+    }
   }
-  // else if ((match = /^\/contents\/([a-z0-9-]+)\/abstract?\/([0-9,]+)\/?/i.exec(path)) !== null) {
-  //   // /drug-interactions/?source=responsive_home#di-analyze
-  //   // /services/app/drug/interaction/search/json?drug=g12b0&drug=g1051b4060&search=null
-  //   result.rtype    = 'TOOLS';
-  //   result.mime     = 'HTML';
-  //   result.unitid   = match[1];
-  // } else if ((match = /^\/contents\/([a-z0-9-]+)\/abstract?\/([0-9,]+)\/?/i.exec(path)) !== null) {
-  //   // /contents/coronavirus-disease-2019-covid-19/abstract/23,25
-  //   // /contents/coronaviruses/abstract/11
-  //   result.rtype    = 'ABS';
-  //   result.mime     = 'HTML';
-  //   result.unitid   = match[1];
-  // }
+  else if ((match = /^\/services\/app\/([a-z0-9-]+)\/?/i.exec(path)) !== null) {
+    // /services/app/drug/interaction/search/json?drug=g12b0&drug=g1051b4060&search=null
+
+    result.rtype    = 'TOOL';
+    result.mime     = 'HTML';
+    result.unitid   = `${match[1]}=${param[match[1]].join(`&${match[1]}=`)}`;
+  }
 
   return result;
 });
