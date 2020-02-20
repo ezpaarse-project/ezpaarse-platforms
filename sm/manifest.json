@@ -1,0 +1,13 @@
+{
+  "longname": "Symptom Media",
+  "name": "sm",
+  "describe": "Recognizes the accesses to the platform Symptom Media",
+  "contact": "Craig Boman",
+  "pkb": false,
+  "docurl": "http://analyses.ezpaarse.org/platforms/5e4b05bf2ad21d36b274e0af",
+  "domains": [
+    "symptommedia.com"
+  ],
+  "version": "2020-02-19",
+  "status": "beta"
+}
