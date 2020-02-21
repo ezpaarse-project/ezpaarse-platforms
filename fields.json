@@ -2,40 +2,40 @@
   "rid": [
     {
       "code": "title_id",
-      "description_fr": "(KBART) Identifiant interne de l'éditeur",
+      "description": "(KBART) Identifiant interne de l'éditeur",
       "description_en": "(KBART) Publisher's internal identifier",
-      "comment_fr": "croisé avec la PKB quand elle existe",
+      "comment": "croisé avec la PKB quand elle existe",
       "comment_en": "crossed with the PKB when it exists."
     },{
       "code": "print_identifier",
-      "description_fr": "(KBART) Identifiant papier (ISSN, ISBN...)",
+      "description": "(KBART) Identifiant papier (ISSN, ISBN...)",
       "description_en": "(KBART) Paper ID (ISSN, ISBN...)",
-      "comment_fr": "croisé avec la PKB quand elle existe",
+      "comment": "croisé avec la PKB quand elle existe",
       "comment_en": "crossed with the PKB when it exists."
     },{
       "code": "doi",
-      "description_fr": "Digital Object Identifier",
-      "comment_fr": "Interrogé via Crossref",
+      "description": "Digital Object Identifier",
+      "comment": "Interrogé via Crossref",
       "comment_en": "Questioned via Crossref."
     },{
       "code": "ark",
-      "description_fr": "Archival Resource Key"
+      "description": "Archival Resource Key"
     },{
       "code": "pii",
-      "description_fr": "Publisher Item Identifier",
-      "comment_fr": "Interrogé via Crossref",
+      "description": "Publisher Item Identifier",
+      "comment": "Interrogé via Crossref",
       "comment_en": "Questioned via Crossref."
     },{
       "code": "online_identifier",
-      "description_fr": "(KBART) Identifiant électronique (eISSN, eISBN...)",
+      "description": "(KBART) Identifiant électronique (eISSN, eISBN...)",
       "description_en": "(KBART) Electronic identifier (eISSN, eISBN...)",
-      "comment_fr": "croisé avec la PKB quand elle existe",
+      "comment": "croisé avec la PKB quand elle existe",
       "comment_en": "crossed with the PKB when it exists."
     },{
       "code": "unitid",
-      "description_fr": "Identifiant arbitraire le plus précis possible",
+      "description": "Identifiant arbitraire le plus précis possible",
       "description_en": "Arbitrary identifier as precise as possible.",
-      "comment_fr": "utilisé pour le dédoublonnage COUNTER",
+      "comment": "utilisé pour le dédoublonnage COUNTER",
       "comment_en": "used for COUNTER de-duplication."
     }
   ],
