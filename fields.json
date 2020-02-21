@@ -44,10 +44,12 @@
       "code": "PDF"
     },{
       "code": "LATEX",
-      "description": "LATEX It is a format widely used for writing scientific articles (especially in math, physics, computer science, etc.)"
+      "description": "Il s'agit d'un format largement utilisé pour la rédaction d'articles scientifiques (notamment en mathématiques, physique, informatique, etc.)",
+      "description_en": "LATEX It is a format widely used for writing scientific articles (especially in math, physics, computer science, etc.)"
     },{
       "code": "PDFPLUS",
-      "description": "PDF avec navigation interactive, contenu multimedia, liens..."
+      "description": "PDF avec navigation interactive, contenu multimedia, liens...",
+      "description_en": "PDF with interactive navigation, multimedia content, links..."
     },{
       "code": "HTML",
       "description": "Page web"
@@ -81,20 +83,26 @@
       "code": "MARC"
     },{
       "code": "MISC",
-      "description": "Format non-standard"
+      "description": "Format non-standard",
+      "description_en": "Non-standard format"
     },{
       "code": "TEXT",
-      "description": "Texte brut"
+      "description": "Texte brut",
+      "description_en": "Plain text"
     },{
       "code": "TEI",
-      "comment": "The Text Encoding Initiative (TEI) is a consortium which collectively develops and maintains a standard for the representation of texts in digital form"
+      "comment": "The Text Encoding Initiative (TEI) est un consortium qui développe et maintient collectivement une norme pour la représentation des textes sous forme numérique",
+      "comment_en": "The Text Encoding Initiative (TEI) is a consortium which collectively develops and maintains a standard for the representation of texts in digital form"
     },{
       "code": "MODS",
-      "comment": "Metadata Object Description Schema (MODS) is a schema for a bibliographic element set that may be used for a variety of purposes, and particularly for library applications"
+      "comment": "Metadata Object Description Schema (MODS) est un schéma pour un ensemble d'éléments bibliographiques qui peut être utilisé à diverses fins, et en particulier pour des applications de bibliothèque",
+      "comment_en": "Metadata Object Description Schema (MODS) is a schema for a bibliographic element set that may be used for a variety of purposes, and particularly for library applications"
     },{
       "code": "DEEPDYVE",
       "description": "Consultation d'un document sur la plateforme Deepdyve",
-      "comment": "Permet de comptabiliser les accès refusés (url-denied-ecs)"
+      "description_en": "Consultation of a document on the Deepdyve platform",
+      "comment": "Permet de comptabiliser les accès refusés (url-denied-ecs)",
+      "comment_en": "Allows to count refused accesses (url-denied-ecs)"
     }
   ],
   "rtype": [
