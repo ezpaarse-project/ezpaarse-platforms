@@ -3,30 +3,40 @@
     {
       "code": "title_id",
       "description": "(KBART) Identifiant interne de l'éditeur",
-      "comment": "croisé avec la PKB quand elle existe"
+      "description_en": "(KBART) Publisher's internal identifier",
+      "comment": "croisé avec la PKB quand elle existe",
+      "comment_en": "crossed with the PKB when it exists."
     },{
       "code": "print_identifier",
       "description": "(KBART) Identifiant papier (ISSN, ISBN...)",
-      "comment": "croisé avec la PKB quand elle existe"
+      "description_en": "(KBART) Paper ID (ISSN, ISBN...)",
+      "comment": "croisé avec la PKB quand elle existe",
+      "comment_en": "crossed with the PKB when it exists."
     },{
       "code": "doi",
       "description": "Digital Object Identifier",
-      "comment": "Interrogé via Crossref"
+      "comment": "Interrogé via Crossref",
+      "comment_en": "Questioned via Crossref."
     },{
       "code": "ark",
       "description": "Archival Resource Key"
     },{
       "code": "pii",
       "description": "Publisher Item Identifier",
-      "comment": "Interrogé via Crossref"
+      "comment": "Interrogé via Crossref",
+      "comment_en": "Questioned via Crossref."
     },{
       "code": "online_identifier",
       "description": "(KBART) Identifiant électronique (eISSN, eISBN...)",
-      "comment": "croisé avec la PKB quand elle existe"
+      "description_en": "(KBART) Electronic identifier (eISSN, eISBN...)",
+      "comment": "croisé avec la PKB quand elle existe",
+      "comment_en": "crossed with the PKB when it exists."
     },{
       "code": "unitid",
       "description": "Identifiant arbitraire le plus précis possible",
-      "comment": "utilisé pour le dédoublonnage COUNTER"
+      "description_en": "Arbitrary identifier as precise as possible.",
+      "comment": "utilisé pour le dédoublonnage COUNTER",
+      "comment_en": "used for COUNTER de-duplication."
     }
   ],
   "mime": [
