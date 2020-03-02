@@ -13,7 +13,7 @@
       "comment": "croisé avec la PKB quand elle existe",
       "comment_en": "crossed with the PKB when it exists."
     },{
-      "code": "doi",
+      "code": "doi"
       "description": "Digital Object Identifier",
       "comment": "Interrogé via Crossref",
       "comment_en": "Questioned via Crossref."
@@ -219,7 +219,7 @@
       "description": "Article d'encyclopédie",
       "description_en": "Encyclopedia article",
       "comment": "correspond à un type de section possible dans le rapport COUNTER BR2",
-      "comment_en": "corresponde a un posible tipo de sección en el informe COUNTER BR2"
+      "comment_en": "corresponds to a possible section type in the report COUNTER BR2"
     },{
       "code": "IMAGE",
       "description": "Illustration, photographie, dessin...",
