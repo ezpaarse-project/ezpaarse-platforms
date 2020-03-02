@@ -13,7 +13,7 @@
       "comment": "croisé avec la PKB quand elle existe",
       "comment_en": "crossed with the PKB when it exists."
     },{
-      "code": "doi"
+      "code": "doi",
       "description": "Digital Object Identifier",
       "comment": "Interrogé via Crossref",
       "comment_en": "Questioned via Crossref."
