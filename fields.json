@@ -3,30 +3,40 @@
     {
       "code": "title_id",
       "description": "(KBART) Identifiant interne de l'éditeur",
-      "comment": "croisé avec la PKB quand elle existe"
+      "description_en": "(KBART) Publisher's internal identifier",
+      "comment": "croisé avec la PKB quand elle existe",
+      "comment_en": "crossed with the PKB when it exists."
     },{
       "code": "print_identifier",
       "description": "(KBART) Identifiant papier (ISSN, ISBN...)",
-      "comment": "croisé avec la PKB quand elle existe"
+      "description_en": "(KBART) Paper ID (ISSN, ISBN...)",
+      "comment": "croisé avec la PKB quand elle existe",
+      "comment_en": "crossed with the PKB when it exists."
     },{
       "code": "doi",
       "description": "Digital Object Identifier",
-      "comment": "Interrogé via Crossref"
+      "comment": "Interrogé via Crossref",
+      "comment_en": "Questioned via Crossref."
     },{
       "code": "ark",
       "description": "Archival Resource Key"
     },{
       "code": "pii",
       "description": "Publisher Item Identifier",
-      "comment": "Interrogé via Crossref"
+      "comment": "Interrogé via Crossref",
+      "comment_en": "Questioned via Crossref."
     },{
       "code": "online_identifier",
       "description": "(KBART) Identifiant électronique (eISSN, eISBN...)",
-      "comment": "croisé avec la PKB quand elle existe"
+      "description_en": "(KBART) Electronic identifier (eISSN, eISBN...)",
+      "comment": "croisé avec la PKB quand elle existe",
+      "comment_en": "crossed with the PKB when it exists."
     },{
       "code": "unitid",
       "description": "Identifiant arbitraire le plus précis possible",
-      "comment": "utilisé pour le dédoublonnage COUNTER"
+      "description_en": "Arbitrary identifier as precise as possible.",
+      "comment": "utilisé pour le dédoublonnage COUNTER",
+      "comment_en": "used for COUNTER de-duplication."
     }
   ],
   "mime": [
@@ -34,10 +44,12 @@
       "code": "PDF"
     },{
       "code": "LATEX",
-      "description": "LATEX It is a format widely used for writing scientific articles (especially in math, physics, computer science, etc.)"
+      "description": "Il s'agit d'un format largement utilisé pour la rédaction d'articles scientifiques (notamment en mathématiques, physique, informatique, etc.)",
+      "description_en": "LATEX It is a format widely used for writing scientific articles (especially in math, physics, computer science, etc.)"
     },{
       "code": "PDFPLUS",
-      "description": "PDF avec navigation interactive, contenu multimedia, liens..."
+      "description": "PDF avec navigation interactive, contenu multimedia, liens...",
+      "description_en": "PDF with interactive navigation, multimedia content, links..."
     },{
       "code": "HTML",
       "description": "Page web"
@@ -71,20 +83,26 @@
       "code": "MARC"
     },{
       "code": "MISC",
-      "description": "Format non-standard"
+      "description": "Format non-standard",
+      "description_en": "Non-standard format"
     },{
       "code": "TEXT",
-      "description": "Texte brut"
+      "description": "Texte brut",
+      "description_en": "Plain text"
     },{
       "code": "TEI",
-      "comment": "The Text Encoding Initiative (TEI) is a consortium which collectively develops and maintains a standard for the representation of texts in digital form"
+      "comment": "The Text Encoding Initiative (TEI) est un consortium qui développe et maintient collectivement une norme pour la représentation des textes sous forme numérique",
+      "comment_en": "The Text Encoding Initiative (TEI) is a consortium which collectively develops and maintains a standard for the representation of texts in digital form"
     },{
       "code": "MODS",
-      "comment": "Metadata Object Description Schema (MODS) is a schema for a bibliographic element set that may be used for a variety of purposes, and particularly for library applications"
+      "comment": "Metadata Object Description Schema (MODS) est un schéma pour un ensemble d'éléments bibliographiques qui peut être utilisé à diverses fins, et en particulier pour des applications de bibliothèque",
+      "comment_en": "Metadata Object Description Schema (MODS) is a schema for a bibliographic element set that may be used for a variety of purposes, and particularly for library applications"
     },{
       "code": "DEEPDYVE",
       "description": "Consultation d'un document sur la plateforme Deepdyve",
-      "comment": "Permet de comptabiliser les accès refusés (url-denied-ecs)"
+      "description_en": "Consultation of a document on the Deepdyve platform",
+      "comment": "Permet de comptabiliser les accès refusés (url-denied-ecs)",
+      "comment_en": "Allows to count refused accesses (url-denied-ecs)"
     }
   ],
   "rtype": [
@@ -92,187 +110,263 @@
       "code": "ARTICLE"
     },{
       "code": "ARTICLES_BUNDLE",
-      "description": "package de plusieurs articles pdf dans un téléchargement"
+      "description": "package de plusieurs articles pdf dans un téléchargement",
+      "description_en": "package of several pdf articles in one download"
     },{
       "code": "BOOK_CHAPTERS_BUNDLE",
-      "description": "package de plusieurs chapitres pdf d'un ebook dans un téléchargement"
+      "description": "package de plusieurs chapitres pdf d'un ebook dans un téléchargement",
+      "description_en": "package of several pdf chapters of an ebook in one download"
     },{
       "code": "ABS",
-      "description": "Résumé d'un article"
+      "description": "Résumé d'un article",
+      "description_en": "Abstract of an article"
     },{
       "code": "TOC",
-      "description": "Sommaire"
+      "description": "Sommaire",
+      "description_en": "Table of contents"
     },{
       "code": "BOOKSERIE",
-      "description": "Sommaire d'une monographie en série"
+      "description": "Sommaire d'une monographie en série",
+      "description_en": "Summary of a Serial Monograph"
     },{
       "code": "HANDBOOK",
-      "description": "Sommaire d'un handbook"
+      "description": "Sommaire d'un handbook",
+      "description_en": "Summary of a handbook"
     },{
       "code": "REF",
-      "description": "Référence de document"
+      "description": "Référence de document",
+      "description_en": "Document Reference"
     },{
       "code": "CODE_JURIDIQUE",
       "description": "Code juridique",
-      "comment": "Cas des bases de données juridiques"
+      "description_en": "Legal Code",
+      "comment": "Cas des bases de données juridiques",
+      "comment_en": "The case of legal databases"
     },{
       "code": "JURISPRUDENCE",
       "description": "Consultation d'une jurisprudence",
-      "comment": "Cas des bases de données juridiques"
+      "description_en": "Consultation of case law",
+      "comment": "Cas des bases de données juridiques",
+      "comment_en": "The case of legal databases"
     },{
       "code": "PREVIEW",
-      "description": "Premières lignes d'un article"
+      "description": "Premières lignes d'un article",
+      "description_en": "First lines of an article"
     },{
       "code": "BOOK",
-      "description": "Ouvrage complet"
+      "description": "Ouvrage complet",
+      "description_en": "Complete work"
     },{
       "code": "BOOK_SECTION",
-      "description": "Partie d'ouvrage"
+      "description": "Partie d'ouvrage",
+      "description_en": "Book section"
     },{
       "code": "BOOK_PAGE",
-      "description": "Page d'ouvrage"
+      "description": "Page d'ouvrage",
+      "description_en": "Book page"
     },{
       "code": "RECORD",
-      "description": "Enregistrement non bibliographique d'une base de données"
+      "description": "Enregistrement non bibliographique d'une base de données",
+      "description_en": "Non-bibliographic database record"
     },{
       "code": "OTHER",
       "description": "rtype non defini pour ISTEX",
-      "comment": "fourre tout istex"
+      "description_en": "rtype not defined for ISTEX",
+      "comment": "fourre tout istex",
+      "comment_en": "all-istex stuffing"
     },{
       "code": "FORMULES",
       "description": "Formule juridique",
-      "comment": "Cas des bases de données juridiques"
+      "description_en": "Legal formula",
+      "comment": "Cas des bases de données juridiques",
+      "comment_en": "The case of legal databases"
     },{
       "code": "PHD_THESIS",
       "description": "Thèse de doctorat",
-      "comment": "Cas des archives institutionnelles"
+      "description_en": "PhD Thesis",
+      "comment": "Cas des archives institutionnelles",
+      "comment_en": "The case of institutional archives"
     },{
       "code": "MD_THESIS",
       "description": "Thèse d'exercice",
-      "comment": "Cas des archives institutionnelles"
+      "description_en": "Exercise thesis",
+      "comment": "Cas des archives institutionnelles",
+      "comment_en": "The case of institutional archives"
     },{
       "code": "MASTER_THESIS",
       "description": "Mémoire de Master",
-      "comment": "Cas des archives institutionnelles"
+      "description_en": "Master's thesis",
+      "comment": "Cas des archives institutionnelles",
+      "comment_en": "The case of institutional archives"
     },{
       "code": "MD_MEMOIRE",
       "description": "Mémoire médical",
-      "comment": "Cas des archives institutionnelles"
+      "description_en": "Medical memory",
+      "comment": "Cas des archives institutionnelles",
+      "comment_en": "The case of institutional archives"
     },{
       "code": "HABILITATION_THESIS",
       "description": "Thèse d'habilitation à diriger des recherches (HDR)",
-      "comment": "Cas des archives institutionnelles"
+      "description_en": "Habilitation to Conduct Research Thesis (HDR)",
+      "comment": "Cas des archives institutionnelles",
+      "comment_en": "The case of institutional archives"
     },{
       "code": "BIO",
-      "description": "Biographie"
+      "description": "Biographie",
+      "description_en": "Biography"
     },{
       "code": "ENCYCLOPAEDIA_ENTRY",
       "description": "Article d'encyclopédie",
-      "comment": "correspond à un type de section possible dans le rapport COUNTER BR2"
+      "description_en": "Encyclopedia article",
+      "comment": "correspond à un type de section possible dans le rapport COUNTER BR2",
+      "comment_en": "corresponds to a possible section type in the report COUNTER BR2"
     },{
       "code": "IMAGE",
       "description": "Illustration, photographie, dessin...",
-      "comment": "correspond à un type de contenu MULTIMEDIA, tel que décrit dans les rapports Multimedia COUNTER MR1 et MR2"
+      "description_en": "Illustration, photography, drawing...",
+      "comment": "correspond à un type de contenu MULTIMEDIA, tel que décrit dans les rapports Multimedia COUNTER MR1 et MR2",
+      "comment_en": "corresponds to a MULTIMEDIA content type, as described in the Multimedia COUNTER MR1 and MR2 reports"
     },{
       "code": "AUDIO",
       "description": "Fichier audio",
-      "comment": "correspond à un type de contenu MULTIMEDIA, tel que décrit dans les rapports Multimedia COUNTER MR1 et MR2"
+      "description_en": "Audio file",
+      "comment": "correspond à un type de contenu MULTIMEDIA, tel que décrit dans les rapports Multimedia COUNTER MR1 et MR2",
+      "comment_en": "corresponds to a MULTIMEDIA content type, as described in the Multimedia COUNTER MR1 and MR2 reports"
     },{
       "code": "VIDEO",
       "description": "Fichier vidéo",
-      "comment": "correspond à un type de contenu MULTIMEDIA, tel que décrit dans les rapports Multimedia COUNTER MR1 et MR2"
+      "description_en": "Video file",
+      "comment": "correspond à un type de contenu MULTIMEDIA, tel que décrit dans les rapports Multimedia COUNTER MR1 et MR2",
+      "comment_en": "corresponds to a MULTIMEDIA content type, as described in the Multimedia COUNTER MR1 and MR2 reports"
     },{
       "code": "FICHE_ENTREPRISE",
-      "comment": "cas des plateformes en éco-gestion (xerfi, pointrisk, chelem)"
+      "comment": "cas des plateformes en éco-gestion (xerfi, pointrisk, chelem)",
+      "comment_en": "case of eco-management platforms (xerfi, pointrisk, chelem)"
     },{
       "code": "REPORT",
-      "comment": "cas des plateformes en éco-gestion (xerfi, pointrisk, chelem)"
+      "comment": "cas des plateformes en éco-gestion (xerfi, pointrisk, chelem)",
+      "comment_en": "case of eco-management platforms (xerfi, pointrisk, chelem)"
     },{
       "code": "FIGURE",
-      "comment": "cas de plateforme endocrine society"
+      "comment": "cas de plateforme endocrine society",
+      "comment_en": "platform case endocrine society"
     },{
       "code": "TABLE",
-      "comment": "cas de plateforme oecd iLibrary, documents avec doi validés crossref"
+      "comment": "cas de plateforme oecd iLibrary, documents avec doi validés crossref",
+      "comment_en": "oecd iLibrary platform case, documents with doi validated crossref"
     },{
       "code": "GRAPH",
-      "comment": "cas de plateforme oecd iLibrary, documents avec doi validés crossref"
+      "comment": "cas de plateforme oecd iLibrary, documents avec doi validés crossref",
+      "comment_en": "oecd iLibrary platform case, documents with doi validated crossref"
     },{
       "code": "SUPPL",
       "description": "Consultation de supplements",
-      "comment": "cas de plateforme endocrine society"
+      "description_en": "Consultation of supplements",
+      "comment": "cas de plateforme endocrine society",
+      "comment_en": "platform case endocrine society"
     },{
       "code": "WORKING_PAPER",
       "description": "Documents de travail",
-      "comment": "cas des plateformes CEPR, NBER, CIAO, bases Ebsco, etc."
+      "description_en": "Working Papers",
+      "comment": "cas des plateformes CEPR, NBER, CIAO, bases Ebsco, etc.",
+      "comment_en": "case of CEPR, NBER, CIAO, Ebsco bases, etc.."
     },{
       "code": "MAP",
       "description": "Cartes, atlas",
-      "comment": "cas de plateforme Britannica"
+      "description_en": "Maps, atlas",
+      "comment": "cas de plateforme Britannica",
+      "comment_en": "Britannica platform case"
     },{
       "code": "EXERCISE",
       "description": "Quiz, type qcm, exercices en ligne et autre",
-      "comment": "cas de plateforme Britannica"
+      "description_en": "Quiz, type qcm, online exercises and others",
+      "comment": "cas de plateforme Britannica",
+      "comment_en": "Britannica platform case"
     },{
       "code": "TOOL",
       "description": "Outil de comparaison de données",
-      "comment": "cas de plateforme Britannica, Financial Times, Kluwer arbitration"
+      "description_en": "Data comparison tool",
+      "comment": "cas de plateforme Britannica, Financial Times, Kluwer arbitration",
+      "comment_en": "cas de plateforme Britannica, Financial Times, arbitrage Kluwer"
     },{
       "code": "REPORT",
-      "comment": "cas de plateformes Columbia International Affairs Online, Financial Times, rapports en tout genre qui ne sont pas publiés sous la forme d'un article ou d'un working paper "
+      "comment": "cas de plateformes Columbia International Affairs Online, Financial Times, rapports en tout genre qui ne sont pas publiés sous la forme d'un article ou d'un working paper",
+      "comment_en": "Columbia International Affairs Online, Financial Times, reports of all kinds that are not published in the form of an article or working paper"
     },{
       "code": "DATASET",
       "description": "Base de données, set de datas",
-      "comment": "correspond à une base de données au sens large, peut convenir a des données statistiques pour OCDE"
+      "description_en": "Database, dataset",
+      "comment": "correspond à une base de données au sens large, peut convenir a des données statistiques pour OCDE",
+      "comment_en": "corresponds to a database in the broadest sense, may be suitable for statistical data for the OECD"
     },{
       "code": "METADATA",
       "description": "Metadonnées",
-      "comment": "cas des plateformes Istex, etc."
+      "description_en": "Metadata",
+      "comment": "cas des plateformes Istex, etc.",
+      "comment_en": "case of Istex platforms, etc.."
     },{
       "code": "OPENURL",
       "description": "Lien vers une url résolver de lien",
-      "comment": "cas de la plateforme Ebscohost"
+      "description_en": "Link to a link resolver url",
+      "comment": "cas de la plateforme Ebscohost",
+      "comment_en": "case of the Ebscohost platform"
     },{
       "code": "SEARCH",
       "description": "Recherche de ressources documentaires",
-      "comment": "cas des base de données: ZbMATH, MathSciNet..."
+      "description_en": "Search for information resources",
+      "comment": "cas des base de données: ZbMATH, MathSciNet...",
+      "comment_en": "case of databases: ZbMATH, MathSciNet..."
     },{
       "code": "SESSION",
       "description": "Connection",
-      "comment": "cas de la plateforme Reaxys"
+      "comment": "cas de la plateforme Reaxys",
+      "comment_en": "case of Reaxys plateforme"
     },{
       "code": "LINK",
       "description": "Redirection d'un lien vers un article",
-      "comment": "cas de la plateforme Reaxys"
+      "description_en": "Redirecting a link to an article",
+      "comment": "cas de la plateforme Reaxys",
+      "comment_en": "case of Reaxys plateforme"
     },{
       "code": "ANALYSIS",
       "description": "analyse",
-      "comment": "cas de la plateforme WOS"
+      "comment": "cas de la plateforme WOS",
+      "comment_en": "case of WOS plateforme"
       },{
       "code": "QUERY",
       "description": "requête",
-      "comment": "cas de la plateforme ISTEX et PANIST"
+      "description_en": "request",
+      "comment": "cas de la plateforme ISTEX et PANIST",
+      "comment_en": "case of the ISTEX and PANIST platform"
     },{
       "code": "ISSUE",
       "description": "consultation d'une revue complète",
-      "comment": "cas de Vocable Numérique"
+      "description_en": "full review consultation",
+      "comment": "cas de Vocable Numérique",
+      "comment_en": "case of Vocable Numérique"
     }
   ],
   "other": [
     {
       "code": "vol",
-      "description": "numéro de volume"
+      "description": "numéro de volume",
+      "description_en": "volume number"
     },{
       "code": "issue",
-      "description": "numéro"
+      "description": "numéro",
+      "description_en": "issue number"
     },{
       "code": "first_page",
-      "description": "page où commence l'article"
+      "description": "page où commence l'article",
+      "description_en": "article start page"
     },{
       "code": "last_page",
-      "description": "page où finit l'article"
+      "description": "page où finit l'article",
+      "description_en": "article end page"
     },{
       "code": "publication_date",
-      "description": "date de publication"
+      "description": "date de publication",
+      "description_en": "publication date"
     }
   ]
 }
