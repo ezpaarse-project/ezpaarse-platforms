@@ -354,7 +354,7 @@
     },{
       "code": "issue",
       "description": "numéro",
-      "description_en": "number"
+      "description_en": "issue number"
     },{
       "code": "first_page",
       "description": "page où commence l'article",
