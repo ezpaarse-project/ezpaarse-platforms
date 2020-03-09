@@ -9,24 +9,9 @@
   "docurl": "http://analyses.ezpaarse.org/platforms/5408d04e6469cd8e1d734390",
   "contact": "Thomas Jouneau",
   "domains": [
-    "journals.aps.org"
+    "journals.aps.org",
+    "physics.aps.org"
   ],
   "pkb": true,
-  "pkb-domains": "pkb-piddomain",
-  "recognize": {
-    "rid": [
-      "title_id",
-      "unitid"
-    ],
-    "rtype": [
-      "TOC",
-      "ARTICLE",
-      "ABS"
-    ],
-    "mime": [
-      "HTML",
-      "PDF",
-      "MISC"
-    ]
-  }
+  "pkb-domains": "pkb-piddomain"
 }

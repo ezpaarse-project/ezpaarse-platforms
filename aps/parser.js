@@ -29,7 +29,7 @@ module.exports = new Parser(function analyseEC(url) {
     result.rtype    = 'ARTICLE';
     result.mime     = 'PDF';
 
-  } else if ((match = /^\/(([a-zA-Z]+)\/issues\/[0-9]+\/[0-9]+)$$/i.exec(path)) !== null) {
+  } else if ((match = /^\/(([a-zA-Z]+)\/issues\/[0-9]+\/[0-9]+)$/i.exec(path)) !== null) {
     // http://journals.aps.org/pra/issues/91/1
     result.unitid   = match[1];
     result.title_id = match[2];
@@ -62,26 +62,33 @@ module.exports = new Parser(function analyseEC(url) {
       result.rtype = 'FIGURE';
     }
 
-  } else if ((match = /^\/toc\/(([a-zA-Z]+)\/v[a-zA-Z0-9]+\/i[a-zA-Z0-9]+)$$/i.exec(path)) !== null) {
+  } else if ((match = /^\/toc\/(([a-zA-Z]+)\/v[a-zA-Z0-9]+\/i[a-zA-Z0-9]+)$/i.exec(path)) !== null) {
     // http://prl.aps.org.bases-doc.univ-lorraine.fr/toc/PRL/v111/i25
     result.unitid   = match[1];
     result.title_id = match[2];
     result.rtype    = 'TOC';
     result.mime     = 'HTML';
 
-  } else if ((match = /^\/abstract\/(([a-zA-Z]+)\/v[a-zA-Z0-9]+\/i[a-zA-Z0-9]+\/(e|p)[a-zA-Z0-9_]+)$$/i.exec(path)) !== null) {
+  } else if ((match = /^\/abstract\/(([a-zA-Z]+)\/v[a-zA-Z0-9]+\/i[a-zA-Z0-9]+\/(e|p)[a-zA-Z0-9_]+)$/i.exec(path)) !== null) {
     // http://prl.aps.org.bases-doc.univ-lorraine.fr/abstract/PRL/v111/i25/e250402
     result.unitid   = match[1];
     result.title_id = match[2];
     result.rtype    = 'ABS';
     result.mime     = 'HTML';
 
-  } else if ((match = /^\/pdf\/(([a-zA-Z]+)\/v[a-zA-Z0-9]+\/i[a-zA-Z0-9]+\/(e|p)[a-zA-Z0-9_]+)$$/i.exec(path)) !== null) {
+  } else if ((match = /^\/pdf\/(([a-zA-Z]+)\/v[a-zA-Z0-9]+\/i[a-zA-Z0-9]+\/(e|p)[a-zA-Z0-9_]+)$/i.exec(path)) !== null) {
     // http://prl.aps.org.bases-doc.univ-lorraine.fr/pdf/PRL/v111/i25/e251302
     result.unitid   = match[1];
     result.title_id = match[2];
     result.rtype    = 'ARTICLE';
     result.mime     = 'PDF';
+
+  } else if ((match = /^\/featured-article-pdf\/(10\.[0-9]+\/([a-z0-9.+_-]+))$/i.exec(path)) !== null) {
+    // /featured-article-pdf/10.1103/PhysRevLett.124.096001
+    result.doi    = match[1];
+    result.unitid = match[2];
+    result.rtype  = 'ARTICLE';
+    result.mime   = 'PDF';
 
   }
 
