@@ -9,10 +9,10 @@ module.exports = new Parser(function analyseEC(parsedUrl) {
   let params   = parsedUrl.query;
   let match;
 
-  if ((match = /^\/toc\/(([a-zA-Z]+)\/[0-9]+\/[0-9]+)$/i.exec(pathname)) !== null) {
+  if ((match = /^\/toc\/(([a-z0-9_-]+)\/[0-9]+\/[0-9]+)$/i.exec(pathname)) !== null) {
     // http://www.bioone.org.gate1.inist.fr/toc/ambi/40/8
     result.rtype    = 'TOC';
-    result.mime     = 'MISC';
+    result.mime     = 'HTML';
     result.title_id = match[2];
     result.unitid   = match[1];
 
@@ -99,15 +99,26 @@ module.exports = new Parser(function analyseEC(parsedUrl) {
     result.title_id = match[2].split('-')[0];
     result.doi      = match[1] + '/' + match[2];
     result.unitid   = match[2];
-  } else if ((match = /^\/journals\/([a-z0-9_-]+)\/volume-([0-9]+)\/issue-([0-9]+)\/[a-z0-9._+-]+\/[a-z0-9._+-]+\/(10\.[0-9]+\/([a-z0-9._+-]+?))(\.full)?$/i.exec(pathname)) !== null) {
+
+  } else if ((match = /^\/journals\/([a-z0-9_-]+)\/volume-([0-9]+)\/issue-([0-9]+)\/[a-z0-9._+-]+\/[a-z0-9._+-]+\/(10\.[0-9]+\/([a-z0-9._+-]+?))(\.full|\.short)?$/i.exec(pathname)) !== null) {
     // /journals/Evolution/volume-63/issue-12/j.1558-5646.2009.00800.x/Speciation-Due-to-Hybrid-Necrosis-in-Plant-Pathogen-Models/10.1111/j.1558-5646.2009.00800.x.full
-    result.rtype    = 'ARTICLE';
+    result.rtype    = match[6] === '.short' ? 'ABS' : 'ARTICLE';
     result.mime     = 'HTML';
     result.title_id = match[1];
     result.vol      = match[2];
     result.issue    = match[3];
     result.doi      = match[4];
     result.unitid   = match[5];
+
+  } else if ((match = /^\/journals\/([a-z0-9_-]+)\/volume-([0-9]+)\/issue-([0-9]+)?$/i.exec(pathname)) !== null) {
+    // /journals/acta-chiropterologica/volume-21/issue-2
+    result.rtype    = 'TOC';
+    result.mime     = 'HTML';
+    result.title_id = match[1];
+    result.vol      = match[2];
+    result.issue    = match[3];
+    result.unitid   = `${result.title_id}/${result.vol}/${result.issue}`;
+
   } else if (/^\/journalArticle\/Download$/i.test(pathname)) {
     // /journalArticle/Download?fullDOI=10.1111%2Fj.1558-5646.2009.00800.x
     result.rtype = 'ARTICLE';
