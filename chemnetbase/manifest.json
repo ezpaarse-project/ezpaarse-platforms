@@ -1,0 +1,26 @@
+{
+  "longname": "CEMnetBASE Chemical Databases Online",
+  "name": "chemnetbase",
+  "describe": "Recognizes the accesses to the platform HEMnetBASE Chemical Databases Online",
+  "contact": "acoope5@emory.edu",
+  "pkb": false,
+  "docurl": "http://ang.couperin.org/platforms/5e8e30e47c78592bd17c3f15",
+  "domains": [
+    "www.chemnetbase.com",
+    "chemnetbase.com",
+    "ccd.chemnetbase.com",
+    "dnp.chemnetbase.com",
+    "doc.chemnetbase.com",
+    "dod.chemnetbase.com",
+    "dioc.chemnetbase.com",
+    "dccc.chemnetbase.com",
+    "dmnp.chemnetbase.com",
+    "dfc.chemnetbase.com",
+    "poly.chemnetbase.com",
+    "poc.chemnetbase.com",
+    "www.hbcponline.com",
+    "hbcponline.com"
+  ],
+  "version": "2020-01-08",
+  "status": "stable"
+}
