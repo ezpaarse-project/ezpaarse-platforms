@@ -4,11 +4,11 @@
   "describe": "Recognizes the accesses to the platform China Maxx",
   "contact": "acoope5@emory.edu",
   "pkb": false,
-  "docurl": "http://ang.couperin.org/platforms/to_be_completed/",
+  "docurl": "http://ang.couperin.org/platforms/5e8b6bd626811c39fb5167af",
   "domains": [
     "www.chinamaxx.net",
     "chinamax.net"
   ],
   "version": "2020-01-08",
-  "status": "beta"
+  "status": "stable"
 }
