@@ -1,0 +1,4 @@
+out-unitid;out-rtype;out-mime;in-url
+;SEARCH;MISC;http://www.chinamaxx.net:80/GetBooks.action?isshowall=off&classNumber=0G
+;SEARCH;MISC;http://www.chinamaxx.net:80/SearchBooks.action
+10005014;BOOK;HTML;http://www.chinamaxx.net:80/goPngRead.jsp?d=8EA41D886B7150931D74A51D840CD7C5&ssid=10005014&pagetype=1&sp=1&ep=-1
