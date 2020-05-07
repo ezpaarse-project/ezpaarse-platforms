@@ -18,6 +18,33 @@ const openUrlFields = {
 };
 
 /**
+ * Extract unitid and db_id from several places
+ */
+function extractIdentifiers (parsedUrl, result) {
+  const param  = parsedUrl.query || {};
+
+  if (param.AN) { result.unitid = param.AN; }
+  if (param.db) { result.db_id = param.db; }
+
+  if (parsedUrl.hash) {
+    const hashedUrl = URL.parse(parsedUrl.hash.replace(/^#/, '/?'), true);
+    const query = hashedUrl.query || {};
+
+    if (query.AN) { result.unitid = query.AN; }
+    if (query.db) { result.db_id = query.db; }
+  }
+
+  if (param.bdata) {
+    const decodedString = Buffer.from(param.bdata, 'base64').toString();
+    const hashedUrl = URL.parse(decodedString.replace(/^&/, '/?'), true);
+    const query = hashedUrl.query || {};
+
+    if (query.AN) { result.unitid = query.AN; }
+    if (query.db) { result.db_id = query.db; }
+  }
+}
+
+/**
  * Identifie les consultations de la plateforme EbscoHost
  * @param  {Object} parsedUrl an object representing the URL to analyze
  *                            main attributes: pathname, query, hostname
@@ -44,23 +71,26 @@ module.exports = new Parser(function analyseEC(parsedUrl, ec) {
       // /ehost/resultsadvanced?sid=1f85c7ec-9906-4b8e-917f-fb4c7171ffe4%40sessionmgr4007&vid=3&hid=4201&bdata=JmRiPWE5aCZicXVlcnk9JmNsaTA9RlQmY2x2MD1ZJmNsaTE9U08mY2x2MT1tZWRlY2luZSZjbGkyPVBaMSZjbHYyPUFydGljbGUmbGFuZz1mciZ0eXBlPTEmc2l0ZT1laG9zdC1saXZl
       // /ehost/results?sid=6323ca41-66ca-4e71-a8d9-c2a2cae26f16%40sessionmgr110&vid=2&hid=103&bquery=JN+%22Computers+in+Libraries%22+AND+DT+20130901&bdata=JmRiPXJ6aCZsYW5nPWZyJnR5cGU9MSZzaXRlPWVob3N0LWxpdmU%3d
       result.rtype = 'TOC';
-      result.mime  = 'MISC';
+      result.mime  = 'HTML';
+      extractIdentifiers(parsedUrl, result);
       break;
     case 'ebookviewer':
       // /ehost/ebookviewer/ebook?sid=f89d9812-0d3a-44ed-9c97-dda110cc60a3%40sessionmgr106&vid=0&hid=124&format=EB
       result.rtype = 'BOOK';
       result.mime  = 'PDF';
+      extractIdentifiers(parsedUrl, result);
       break;
     case 'pdfviewer':
       // /ehost/pdfviewer/pdfviewer?sid=6323ca41-66ca-4e71-a8d9-c2a2cae26f16%40sessionmgr110&vid=4&hid=103
       result.rtype = 'ARTICLE';
       result.mime  = 'PDF';
+      extractIdentifiers(parsedUrl, result);
       break;
     case 'search':
       // /ehost/search/advanced?sid=1f85c7ec-9906-4b8e-917f-fb4c7171ffe4%40sessionmgr4007&vid=1&hid=4201
       // /ehost/search/basic?sid=609d197f-439e-4da7-b804-f78b65af2807@sessionmgr120&vid=19&tid=2003EB
       result.rtype = 'SEARCH';
-      result.mime  = 'MISC';
+      result.mime  = 'HTML';
       break;
     case 'detail':
       // /ehost/detail?sid=6323ca41-66ca-4e71-a8d9-c2a2cae26f16%40sessionmgr110&vid=1&hid=103&bdata=Jmxhbmc9ZnImc2l0ZT1laG9zdC1saXZl#db=rzh&jid=CLB
@@ -69,17 +99,7 @@ module.exports = new Parser(function analyseEC(parsedUrl, ec) {
       // /ehost/detail/imageQuickView?sid=02e0d651-d861-4dd9-9f0d-acccef9c5213@pdc-v-sessmgr06&vid=10&ui=25283623&id=83290720&parentui=83290720&tag=AN&db=s3h
       result.rtype = 'REF';
       result.mime  = 'HTML';
-
-      if (param.AN) { result.unitid = param.AN; }
-      if (param.db) { result.db_id = param.db; }
-
-      if (parsedUrl.hash) {
-        const hashedUrl = URL.parse(parsedUrl.hash.replace('#', '/?'), true);
-        const query     = hashedUrl.query || {};
-
-        if (query.AN) { result.unitid = query.AN; }
-        if (query.db) { result.db_id = query.db; }
-      }
+      extractIdentifiers(parsedUrl, result);
       break;
     }
 

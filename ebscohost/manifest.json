@@ -1,5 +1,5 @@
 {
-  "version": "2014-08-21",
+  "version": "2020-05-07",
   "status": "stable",
   "trello": "https://trello.com/c/lwbAVR20",
   "domains": [
@@ -22,17 +22,6 @@
     "ebsco-content.com",
     "web.ebscohost.com"
   ],
-  "recognize": {
-    "rid": [
-      "title_id"
-    ],
-    "rtype": [
-      "ARTICLE"
-    ],
-    "mime": [
-      "PDF"
-    ]
-  },
   "name": "ebscohost",
   "longname": "EbscoHost",
   "publisher_name": "EBSCO Publishing",
