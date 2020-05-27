@@ -6,7 +6,7 @@
   "pkb": false,
   "docurl": "http://analyses.ezpaarse.org/platforms/5ece2798f6de8c2c9371f446",
   "domains": [
-    "https://agritrop.cirad.fr",
+    "agritrop.cirad.fr",
     "oatao.univ-toulouse.fr"
   ],
   "version": "2020-05-27",
