@@ -1,0 +1,9 @@
+out-unitid;out-title_id;out-rtype;out-mime;in-url
+24113;24113;ABS;HTML;http://oatao.univ-toulouse.fr/24113/
+4892/1;4892;ARTICLE;PDF;http://oatao.univ-toulouse.fr/4892/1/Lochin_4892.pdf
+Australian=5FNational=5FUniversity=5FANU;Australian=5FNational=5FUniversity=5FANU;OTHER;HTML;http://oatao.univ-toulouse.fr/view/instit/Australian=5FNational=5FUniversity=5FANU.html
+;;QUERY;HTML;http://oatao.univ-toulouse.fr/cgi/search/advanced?_action_search=Search&keywords=Double-walled%20carbon%20nanotubes
+;Laboratoire_de_Chimie_Agro-Industrielle_-_LCA_=28Toulouse,_France=29;FICHE_ENTREPRISE;HTML;http://oatao.univ-toulouse.fr/view/affil/Laboratoire_de_Chimie_Agro-Industrielle_-_LCA_=28Toulouse,_France=29.html
+wawrzyniak_120;120;PREVIEW;PDF;http://oatao.univ-toulouse.fr/120/1.haspreviewThumbnailVersion/wawrzyniak_120.pdf
+;;QUERY;HTML;https://oatao.univ-toulouse.fr/cgi/search/advanced
+;;TOC;HTML;https://oatao.univ-toulouse.fr/cgi/search/archive/advanced?dataset=archive&screen=Search&documents_merge=ALL&documents=&title_merge=ALL&title=&creators_name_merge=ALL&creators_name=&instit_merge=ANY&affiliation_name_merge=ALL&affiliation_name=&affiliation_equipe_merge=ALL&affiliation_equipe=&abstract_merge=ALL&abstract=&keywords_merge=ALL&keywords=&type=book&issn_merge=ALL&issn=&publisher_merge=ALL&publisher=&publication_merge=ALL&publication=&date=&datestamp=&satisfyall=ALL&order=-date%3Bres%3Dyear%2Fcreators_name%2Ftitle&_action_search=Search

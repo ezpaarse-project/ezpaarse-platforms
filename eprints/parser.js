@@ -35,6 +35,7 @@ module.exports = new Parser(function analyseEC(parsedUrl, ec) {
     result.rtype    = 'ABS';
     result.mime     = 'HTML';
     result.unitid   = match[2];
+    result.title_id = match[2];
   } else if ((match = /^\/cgi\/search\/archive\/advanced$/i.exec(path)) !== null) {
     // https://oatao.univ-toulouse.fr/cgi/search/archive/advanced?dataset=archive&screen=Search&documents_merge=ALL&documents=&title_merge=ALL&title=&creators_name_merge=ALL&creators_name=&instit_merge=ANY&affiliation_name_merge=ALL&affiliation_name=&affiliation_equipe_merge=ALL&affiliation_equipe=&abstract_merge=ALL&abstract=&keywords_merge=ALL&keywords=&type=book&issn_merge=ALL&issn=&publisher_merge=ALL&publisher=&publication_merge=ALL&publication=&date=&datestamp=&satisfyall=ALL&order=-date%3Bres%3Dyear%2Fcreators_name%2Ftitle&_action_search=Search
     result.rtype    = 'TOC';
@@ -50,7 +51,7 @@ module.exports = new Parser(function analyseEC(parsedUrl, ec) {
     result.rtype    = 'PREVIEW';
     result.mime     = 'PDF';
     result.title_id = match[1];
-    result.unitid = `${match[1]}/${match[2]}`;
+    result.unitid = match[3];
   } else if ((match = /^\/view\/affil\/([^/]+)\.html$/i.exec(path)) !== null) {
     // http://oatao.univ-toulouse.fr/view/affil/Laboratoire_de_Chimie_Agro-Industrielle_-_LCA_=28Toulouse,_France=29.html
     result.rtype    = 'FICHE_ENTREPRISE';
