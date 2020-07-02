@@ -344,6 +344,24 @@
       "description_en": "full review consultation",
       "comment": "cas de Vocable Numérique",
       "comment_en": "case of Vocable Numérique"
+    },{
+      "code": "RECORD_VIEW",
+      "description": "consultation d'une référence dans une base citationnelle",
+      "description_en": "consultation of a reference in a citational database",
+      "comment": "cas de Web of Science",
+      "comment_en": "case of Web of Science"
+    },{
+      "code": "FULL_TEXT_USE",
+      "description": "consultation d'un texte intégral dans une base citationnelle",
+      "description_en": "consultation of a fulltext in a citational database",
+      "comment": "cas de Web of Science",
+      "comment_en": "case of Web of Science"
+    },{
+      "code": "RESULT_CLICK",
+      "description": "consultation d'une référence ou liste de références dans une base citationnelle",
+      "description_en": "consultation of a reference or list of references in a citational database",
+      "comment": "cas de Web of Science",
+      "comment_en": "case of Web of Science"
     }
   ],
   "other": [
