@@ -37,6 +37,10 @@
       "description_en": "Arbitrary identifier as precise as possible.",
       "comment": "utilisé pour le dédoublonnage COUNTER",
       "comment_en": "used for COUNTER de-duplication."
+    },{
+      "code": "db_id",
+      "description": "Identifiant de base de données",
+      "description_en": "Database identifier"
     }
   ],
   "mime": [
