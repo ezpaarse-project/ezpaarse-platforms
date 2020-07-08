@@ -29,14 +29,15 @@ module.exports = new Parser(function analyseEC(parsedUrl, ec) {
     switch (match[1]) {
     case 'Search':
     case 'InterService' :
-      result.rtype = 'TOC';
+    case 'WOS_AdvancedSearch_input':
+      result.rtype = 'SEARCH';
       result.mime  = 'HTML';
       if (productId) {
         result.db_id = productId;
       }
       break;
     case 'full_record' :
-      result.rtype = 'REF';
+      result.rtype = 'RECORD_VIEW';
       result.mime  = 'HTML';
       if (productId) {
         result.db_id = productId;
@@ -62,14 +63,14 @@ module.exports = new Parser(function analyseEC(parsedUrl, ec) {
 
   } else if ((match = /^\/([a-zA-z_]*)\.action$/i.exec(path)) !== null) {
     // /JCRJournalHomeAction.action?
-    // https://jcr-incites-thomsonreuters-com.inee.bib.cnrs.fr/JCRJournalProfileAction.action?
-    // https://esi-incites-thomsonreuters-com.inee.bib.cnrs.fr/IndicatorsAction.action?
-    // https://esi-incites-thomsonreuters-com.inee.bib.cnrs.fr/DocumentsAction.action
-    // https://jcr-clarivate-com.insu.bib.cnrs.fr/JCRMasterSearchAction.action?pg=SEARCH&searchString=nature
+    // /JCRJournalProfileAction.action?
+    // /IndicatorsAction.action?
+    // /DocumentsAction.action
+    // /JCRMasterSearchAction.action?pg=SEARCH&searchString=nature
 
     switch (match[1]) {
     case 'JCRJournalHomeAction':
-      result.rtype = 'TOC';
+      result.rtype = 'SEARCH';
       result.mime  = 'HTML';
       break;
     case 'JCRJournalProfileAction' :
@@ -116,6 +117,17 @@ module.exports = new Parser(function analyseEC(parsedUrl, ec) {
     if (param.year) {
       result.publication_date  = param.year;
     }
+  } else if (/^\/author\/search-results\/[a-z0-9-]+/i.test(path)) {
+    // /author/search-results/a650b6d8-2f35-45c4-bef5-d65c38c26fff
+    result.rtype = 'SEARCH';
+    result.mime  = 'HTML';
+    result.db_id = 'author';
+  } else if ((match = /^\/author\/record\/([0-9]+)/i.exec(path)) !== null) {
+    // /author/search-results/a650b6d8-2f35-45c4-bef5-d65c38c26fff
+    result.rtype  = 'RECORD_VIEW';
+    result.mime   = 'HTML';
+    result.db_id  = 'author';
+    result.unitid = match[1];
   }
 
   return result;

@@ -1,0 +1,19 @@
+out-publication_title;out-title_id;out-publication_date;out-db_id;out-unitid;out-rtype;out-mime;in-url
+;;;WOS;;RECORD_VIEW;HTML;https://apps.webofknowledge.com/full_record.do?product=WOS&search_mode=GeneralSearch&qid=17&SID=E5qspiptTXddmQ7WDEE&page=1&doc=1
+;;;WOS;;SEARCH;HTML;https://apps.webofknowledge.com/WOS_AdvancedSearch_input.do?product=WOS&search_mode=AdvancedSearch&replaceSetId=&goToPageLoc=SearchHistoryTableBanner&SID=E5qspiptTXddmQ7WDEE&errorQid=16#SearchHistoryTableBanner
+;;;WOS;;SEARCH;HTML;https://apps.webofknowledge.com/Search.do?product=WOS&SID=E5qspiptTXddmQ7WDEE&search_mode=CitedReferenceSearch&prID=f939c18d-de6e-4988-af65-a5607a84a502
+;;;author;62395;RECORD_VIEW;HTML;https://app.webofknowledge.com/author/record/62395
+;;;author;;SEARCH;HTML;https://app.webofknowledge.com/author/search-results/a650b6d8-2f35-45c4-bef5-d65c38c26fff
+;;;MEDLINE;;SEARCH;HTML;https://apps.webofknowledge.com/Search.do?product=MEDLINE&SID=E5qspiptTXddmQ7WDEE&search_mode=GeneralSearch&prID=fe7e05bb-fc25-4de4-a3bf-2ac877ec149d
+;;;WOS;;SEARCH;HTML;http://apps.webofknowledge.com/InterService.do?product=WOS&toPID=WOS&action=AllCitationService&isLinks=yes&highlighted_tab=WOS&last_prod=WOS&fromPID=WOS&returnLink=http%3a%2f%2fapps.webofknowledge.com%2ffull_record.do%3fhighlighted_tab%3dWOS%26last_prod%3dWOS%26search_mode%3dRelatedRecords%26qid%3d7%26log_event%3dyes%26product%3dWOS%26SID%3dC5z1ZfC8k9fYMZv3G4t%26viewType%3dfullRecord%26doc%3d5%26page%3d1&srcDesc=RET2WOS&srcAlt=Back+to+Web+of+Science&UT=WOS:000297839600019&parentProduct=WOS&parentQid=7&search_mode=RelatedRecords&SID=C5z1ZfC8k9fYMZv3G4t&parentDoc=5
+;;2017;;NATURE;ANALYSIS;HTML;https://apps.clarivate.com/jif/home/?journal=NATURE&editions=SCIE&year=2017&pssid=J3-nMmndIkiJORe17s3GFIfjBIHXwyhNMf1-18x2de8v1XPiQUoAeA24DqhpckAx3Dx3DcNm6X7RdaPnLgitcOeQJKwx3Dx3D-qBgNuLRjcgZrPm66fhjx2Fmwx3Dx3D-h9tQNJ9Nv4eh45yLvkdX3gx3Dx3D
+;;;;nature;SEARCH;HTML;https://jcr.clarivate.com/JCRMasterSearchAction.action?pg=SEARCH&searchString=nature
+;;;UA;;SEARCH;HTML;http://apps.webofknowledge.com/UA_GeneralSearch_input.do?product=UA&SID=Z2E5UA9l6Q6BRAvS44U&search_mode=GeneralSearch
+;;;UA;;SEARCH;HTML;http://apps.webofknowledge.com/Search.do?product=UA&SID=Z2E5UA9l6Q6BRAvS44U&search_mode=GeneralSearch&prID=dcfade3d-550a-4076-92a6-bd6708e2c64c
+;;;UA;;RECORD_VIEW;HTML;http://apps.webofknowledge.com/full_record.do?product=UA&search_mode=GeneralSearch&qid=14&SID=Z2E5UA9l6Q6BRAvS44U&page=1&doc=2
+;;;;;SEARCH;HTML;https://jcr.incites.thomsonreuters.com/JCRJournalHomeAction.action?SID=A2-PrkrJv74tBj5ko9eDVx2FpCXtAd4MjBJRW-18x2dJxx17XG5YmNwa4tn0JGiq6Ax3Dx3DlUL1U2XQfq5HIHtc4qxxE1wx3Dx3D-9vvmzcndpRgQCGPd1c2qPQx3Dx3D-wx2BJQh9GKVmtdJw3700KssQx3Dx3D&refineString=null&SrcApp=IC2LS&timeSpan=null&Init=Yes&wsid=Z2E5UA9l6Q6BRAvS44U
+CA-A CANCER JOURNAL FOR CLINICIANS;CA-CANCER J CLIN;;;impact/CA-CANCER J CLIN/2015;TABLE;HTML;https://jcr.incites.thomsonreuters.com/JCRJournalProfileAction.action?pg=JRNLPROF&journalImpactFactor=137.578&year=2015&journalTitle=CA-A%20CANCER%20JOURNAL%20FOR%20CLINICIANS&edition=SCIE&journal=CA-CANCER%20J%20CLIN
+;;;;;MAP;MISC;https://esi.incites.thomsonreuters.com/IndicatorsAction.action?SID=B2-jx2FDXmiF0SKhxx0ig0x2BAhKZYxxBanb6AxxZ9-18x2ddx2B4ruM3jsN3soix2BefrHXeAx3Dx3DUVx2FlduvZ8VjUUtFgmiBlyQx3Dx3D-iyiHxxh55B2RtQWBj2LEuawx3Dx3D-1iOubBm4x2FSwJjjKtx2F7lAaQx3Dx3D&refineString=null&SrcApp=IC2LS&timeSpan=null&Init=Yes&wsid=Z2E5UA9l6Q6BRAvS44U
+;;;;;GRAPH;MISC;https://esi.incites.thomsonreuters.com/DocumentsAction.action
+;;;;;ANALYSIS;MISC;http://wcs.webofknowledge.com/RA/analyze.do
+;;;WOS;;ANALYSIS;MISC;http://apps.webofknowledge.com/CitationReport.do?product=WOS&search_mode=CitationReport&SID=3B7nnGH8MSgIpEdYq5j&page=1&cr_pqid=3&viewType=summary&colName=WOS
