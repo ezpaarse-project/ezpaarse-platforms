@@ -3,7 +3,8 @@
   "status": "active",
   "domains": [
     "www.clinicalkey.com",
-    "www.clinicalkey.es"
+    "www.clinicalkey.es",
+    "www.clinicalkey.com.au"
   ],
   "recognize": {
     "rid": [
