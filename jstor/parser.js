@@ -18,7 +18,7 @@ module.exports = new Parser(function analyseEC(parsedUrl) {
 
   if ((match = /^\/journal\/([a-z0-9]+)$/i.exec(path)) !== null) {
     result.rtype    = 'TOC';
-    result.mime     = 'MISC';
+    result.mime     = 'HTML';
     result.unitid   = match[1];
     result.title_id = match[1];
 
@@ -29,7 +29,7 @@ module.exports = new Parser(function analyseEC(parsedUrl) {
     result.title_id = match[2];
     result.issue    = match[5];
     result.rtype    = 'TOC';
-    result.mime     = 'MISC';
+    result.mime     = 'HTML';
 
     if (match[3].length >= 4) {
       result.publication_date = match[3];
@@ -38,24 +38,27 @@ module.exports = new Parser(function analyseEC(parsedUrl) {
       result.vol = match[3];
     }
 
-  } else if ((match = /^\/stable\/((10\.[0-9]+\/)?([a-z0-9]+))$/i.exec(path)) !== null) {
+  } else if ((match = /^\/stable\/(10\.[0-9]+\/([a-z0-9]+))$/i.exec(path)) !== null) {
     // /stable/10.1086/665036
     // /stable/10.7312/cari13424
-    // /stable/i25703249
-    result.title_id = match[3];
-    result.unitid   = match[3];
-    result.rtype    = 'TOC';
-    result.mime     = 'MISC';
+    result.title_id = match[2];
+    result.unitid   = match[2];
+    result.doi      = match[1];
+    result.mime     = 'HTML';
 
     if (match[2]) {
       result.doi = match[1];
     }
 
-  } else if ((match = /^\/stable\/(i[0-9]+)$/i.exec(path)) !== null) {
+  } else if ((match = /^\/stable\/(i?[0-9]+)$/i.exec(path)) !== null) {
+    // /stable/i25703249
     result.title_id = match[1];
     result.unitid   = match[1] ;
-    result.rtype    = 'TOC';
-    result.mime     = 'MISC';
+    result.mime     = 'HTML';
+
+    if (match[1].startsWith('i')) {
+      result.rtype = 'TOC';
+    }
 
   } else if (/^\/action\/showPublication$/i.test(path)) {
     // /action/showPublication?journalCode=harvardreview
@@ -63,10 +66,10 @@ module.exports = new Parser(function analyseEC(parsedUrl) {
       result.title_id = query.journalCode;
       result.unitid   = query.journalCode;
       result.rtype    = 'TOC';
-      result.mime     = 'MISC';
+      result.mime     = 'HTML';
     }
 
-  } else if ((match = /^\/stable\/(get_image|pdf|pdfplus)\/((10\.[0-9]+\/)?([a-z0-9.]+?))(?:\.pdf)?$/i.exec(path)) !== null) {
+  } else if ((match = /^\/stable\/(pdf|pdfplus)\/((10\.[0-9]+\/)?([a-z0-9.]+?))(?:\.pdf)?$/i.exec(path)) !== null) {
     // /stable/get_image/23098031
     // /stable/get_image/10.1525/gfc.2010.10.4.cover
     // /stable/get_image/10.1525/gfc.2010.10.4.103a
@@ -77,21 +80,8 @@ module.exports = new Parser(function analyseEC(parsedUrl) {
 
     result.unitid = match[4];
     result.doi    = match[3] ? match[2] : `${doiPrefix}/${match[2]}`;
-
-    switch (match[1]) {
-    case 'get_image':
-      result.rtype = 'PREVIEW';
-      result.mime  = 'GIF';
-      break;
-    case 'pdf':
-      result.rtype = 'ARTICLE';
-      result.mime  = 'PDF';
-      break;
-    case 'pdfplus':
-      result.rtype = 'ARTICLE';
-      result.mime  = 'PDFPLUS';
-      break;
-    }
+    result.rtype  = 'ARTICLE';
+    result.mime   = 'PDF';
 
     const idPattern = /^([a-z0-9]+)((?:\.(\d+))?\.(\d+)\.(\d+)\.(\w+))?/.exec(result.unitid) || [];
 
@@ -101,7 +91,7 @@ module.exports = new Parser(function analyseEC(parsedUrl) {
     result.issue            = idPattern[5];
 
     if (idPattern[6] === 'cover') {
-      result.rtype = 'COVER';
+      return {};
     } else if (idPattern[6] === 'toc') {
       result.rtype = 'TOC';
     } else {
@@ -118,7 +108,7 @@ module.exports = new Parser(function analyseEC(parsedUrl) {
     result.title_id = match[2];
     result.unitid   = match[2];
     result.rtype    = match[1] === 'info' ? 'ABS' : 'PREVIEW';
-    result.mime     = 'MISC';
+    result.mime     = 'HTML';
 
   }
 
