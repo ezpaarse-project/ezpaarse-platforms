@@ -26,17 +26,17 @@ module.exports = new Parser(function analyseEC(parsedUrl) {
     case 'displayJournal':
       result.unitid = param.jid;
       result.rtype  = 'TOC';
-      result.mime   = 'MISC';
+      result.mime   = 'HTML';
       break;
     case 'displayJournalTab':
       // http://journals.cambridge.org.gate1.inist.fr/action/displayJournal?jid=VNS&bVolume=y
       result.rtype = 'TOC';
-      result.mime  = 'MISC';
+      result.mime  = 'HTML';
       break;
     case 'displayIssue':
       // http://journals.cambridge.org.gate1.inist.fr/action/displayIssue?decade=2010&jid=VNS&volumeId=27&issueId=3-4&iid=7880012
       result.rtype  = 'TOC';
-      result.mime   = 'MISC';
+      result.mime   = 'HTML';
       result.unitid = param.iid;
       result.volume = param.volumeId;
       result.issue  = param.issueId;
@@ -91,27 +91,25 @@ module.exports = new Parser(function analyseEC(parsedUrl) {
       result.online_identifier = match[2];
     }
 
-  } else if ((match = /^\/core\/journals\/([a-z-]+)\/(article|issue)\/([a-z0-9-]+)/i.exec(pathname)) !== null) {
-    //core/journals/journal-of-the-history-of-economic-thought/article/old-generation-of-economists-and-the-new-an-intellectual-historians-approach-to-a-significant-transition/A95C410BA1767D60C3DA96901466AABD/core-reader
+  } else if ((match = /^\/core\/journals\/([a-z-]+)\/article\/([a-z0-9-]+)\/[a-z0-9]+(\/core-reader)?\/?$/i.exec(pathname)) !== null) {
+    // /core/journals/journal-of-the-history-of-economic-thought/article/old-generation-of-economists-and-the-new-an-intellectual-historians-approach-to-a-significant-transition/A95C410BA1767D60C3DA96901466AABD/core-reader
+
+    result.mime     = 'HTML';
+    result.rtype    = match[3] ? 'ARTICLE' : 'ABS';
+    result.unitid   = match[2];
+    result.title_id = match[1];
+
+  } else if ((match = /^\/core\/journals\/([a-z-]+)\/issue\/[a-z0-9]+$/i.exec(pathname)) !== null) {
     //core/journals/journal-of-the-history-of-economic-thought/issue/CF230263144D4D
-    switch (match[2]) {
-    case 'article':
-      result.mime     = 'HTML';
-      result.rtype    = 'ARTICLE';
-      result.unitid   = match[3].split('/')[0];
-      result.title_id = match[1];
-      break;
-    case 'issue':
-      result.mime     = 'MISC';
-      result.rtype    = 'TOC';
-      result.unitid   = match[1] + '/issue/';
-      result.title_id = match[1];
-      break;
-    }
+    result.mime     = 'HTML';
+    result.rtype    = 'TOC';
+    result.unitid   = match[1] + '/issue/';
+    result.title_id = match[1];
+
   } else if ((match = /^\/core\/books\/([a-z0-9-]+)\/[a-z0-9]+$/i.exec(pathname)) !== null) {
     // /core/books/cambridge-companion-to-american-gothic/1DB7BB56096D72ED4FBA5FEE294CBFBA
     result.rtype    = 'TOC';
-    result.mime     = 'MISC';
+    result.mime     = 'HTML';
     result.unitid   = match[1];
     result.title_id = match[1];
 
