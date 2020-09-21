@@ -35,6 +35,7 @@ module.exports = new Parser(function analyseEC(parsedUrl) {
     switch (match[1]) {
     case '/pdf':
     case '/epdf':
+    case '/pdfdirect':
       // /doi/pdf/10.1002/brb3.590
       // /doi/epdf/10.1002/brb3.590
       result.rtype = /\.ch[0-9]+$/.test(result.unitid) ? 'BOOK_SECTION' : 'ARTICLE';
