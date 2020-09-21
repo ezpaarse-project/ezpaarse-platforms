@@ -22,20 +22,22 @@ module.exports = new Parser(function analyseEC(parsedUrl) {
     result.unitid   = match[1];
     result.title_id = match[1];
 
-  } else if ((match = /^\/stable\/10\.[0-9]+\/(([a-z]+)\.([0-9]+)\.([0-9]+)\.issue-([0-9]+))$/i.exec(path)) !== null) {
+  } else if ((match = /^\/stable\/(10\.[0-9]+\/(([a-z]+)\.([0-9]+)\.([0-9]+)\.(issue-)?([0-9]+)(\.[0-9]+)?))$/i.exec(path)) !== null) {
+    // /stable/10.1525/ncm.2009.33.1.003?seq=1
     // /stable/10.1525/cmr.2013.55.issue-2
     // /stable/10.5325/jmedirelicult.39.2.issue-2
-    result.unitid   = match[1];
-    result.title_id = match[2];
-    result.issue    = match[5];
-    result.rtype    = 'TOC';
+    result.doi      = match[1];
+    result.unitid   = match[2];
+    result.title_id = match[3];
+    result.issue    = match[7];
+    result.rtype    = match[6] ? 'TOC' : 'ARTICLE';
     result.mime     = 'HTML';
 
-    if (match[3].length >= 4) {
-      result.publication_date = match[3];
-      result.vol = match[4];
+    if (match[4].length >= 4) {
+      result.publication_date = match[4];
+      result.vol = match[5];
     } else {
-      result.vol = match[3];
+      result.vol = match[4];
     }
 
   } else if ((match = /^\/stable\/(10\.[0-9]+\/([a-z0-9]+))$/i.exec(path)) !== null) {
