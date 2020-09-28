@@ -2,7 +2,9 @@
   "version": "2017-08-08",
   "status": "beta",
   "domains": [
-    "www.stradalex.eu"
+    "www.stradalex.eu",
+    "www.stradalex.lu",
+    "www.stradalex.com"
   ],
   "name": "strada",
   "longname": "Strada Lex",
