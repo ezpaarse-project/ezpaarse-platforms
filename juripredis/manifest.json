@@ -1,8 +1,8 @@
 {
   "longname": "Juripredis",
   "name": "juripredis",
-  "version": "2019-11-08",
-  "status": "beta",
+  "version": "2020-09-29",
+  "status": "alpha",
   "describe": "Recognizes the accesses to the platform Juripredis",
   "contact": "Laurent Lhuillier",
   "pkb": false,
