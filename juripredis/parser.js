@@ -13,7 +13,6 @@ const Parser = require('../.lib/parser.js');
 module.exports = new Parser(function analyseEC(parsedUrl, ec) {
   let result = {};
   let path   = parsedUrl.pathname;
-  let hash   = parsedUrl.hash;
   // uncomment this line if you need parameters
   // let param = parsedUrl.query || {};
 
@@ -22,22 +21,11 @@ module.exports = new Parser(function analyseEC(parsedUrl, ec) {
 
   let match;
 
-  if ((match = /^#\/app\/arret\/(.*)/i.exec(hash)) !== null) {
-    // https://app.juripredis.com/#/app/arret/JURITEXT000039307272
-    // https://app.juripredis.com/#/app/arret/CEDHTEXT001-99012
-    // https://app.juripredis.com/#/app/arret/CETATEXT000007643577/eyJmcmVlX3RleHQiOiJjb2RlIiwianVya
+  if ((match = /^\/arrets\/((\D*).*)$/i.exec(path)) !== null) {
+      //
     result.rtype    = 'JURISPRUDENCE';
     result.mime     = 'HTML';
-    result.title_id = 'JURITEXT';
-    result.unitid   = match[1];
-
-  } else if ((match = /^\/arrets\/(.*)/i.exec(path)) !== null) {
-    // https://app.juripredis.com/#/app/arret/JURITEXT000039307272
-    // https://app.juripredis.com/#/app/arret/CEDHTEXT001-99012
-    // https://app.juripredis.com/#/app/arret/CETATEXT000007643577/eyJmcmVlX3RleHQiOiJjb2RlIiwianVya
-    result.rtype    = 'JURISPRUDENCE';
-    result.mime     = 'HTML';
-    result.title_id = 'JURITEXT';
+    result.title_id = match[2];
     result.unitid   = match[1];
 
   }
