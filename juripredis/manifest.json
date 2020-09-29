@@ -8,7 +8,8 @@
   "pkb": false,
   "docurl": "http://analyses.ezpaarse.org/platforms/5c178ca1be4bd874e1007022",
   "domains": [
-    "app.juripredis.com"
+    "app.juripredis.com",
+    "api.juripredis.com"
   ],
   "recognize": {
     "rid": [

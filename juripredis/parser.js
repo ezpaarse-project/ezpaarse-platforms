@@ -21,14 +21,14 @@ module.exports = new Parser(function analyseEC(parsedUrl, ec) {
 
   let match;
 
-  if ((match = /^#\/app\/arret\/(([A-Z]{4}TEXT)\d+-?\d+).*$/i.exec(hash)) !== null) {
+  if ((match = /^#\/app\/arret\/.*/i.exec(hash)) !== null) {
     // https://app.juripredis.com/#/app/arret/JURITEXT000039307272
     // https://app.juripredis.com/#/app/arret/CEDHTEXT001-99012
     // https://app.juripredis.com/#/app/arret/CETATEXT000007643577/eyJmcmVlX3RleHQiOiJjb2RlIiwianVya
     result.rtype    = 'JURISPRUDENCE';
     result.mime     = 'HTML';
-    result.title_id = match[2];
-    result.unitid   = match[1];
+    result.title_id = 'JURITEXT';
+    result.unitid   = 'JURICAFORTDEFRANCE202009190136349556';
 
   }
 
