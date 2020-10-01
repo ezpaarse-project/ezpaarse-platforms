@@ -1,0 +1,12 @@
+out-rtype;out-mime;out-title_id;out-unitid;in-url
+OTHER;HTML;;;https://www.tumblebooklibrary.com/Default.aspx?ReturnUrl=/TumbleSearch.aspx
+OTHER;HTML;;;https://www.tumblebooklibrary.com/Home.aspx?categoryID=77
+OTHER;HTML;;;https://www.tumblebooklibrary.com/BooksList.aspx?categoryID=77
+SEARCH;HTML;;;https://www.tumblebooklibrary.com/TumbleSearch.aspx
+SEARCH;HTML;;;https://www.tumblebooklibrary.com/Result.aspx?m=Title&key=pie
+RECORD;HTML;4229;4229;https://www.tumblebooklibrary.com/book.aspx?id=4229
+BOOK;HTML;4229;4229;https://www.tumblebooklibrary.com/Video.aspx?ProductID=4229
+BOOK;HTML;7075;7075;https://www.tumblebooklibrary.com/H5Player.aspx/?ProductID=7075&book=%2FH5Books%2FTBLEN%2Fbooks%2Fbabyanimalsplaying%2Fbabyanimalsplaying.json&page=0
+BOOK;HTML;6219;6219;https://www.tumblebooklibrary.com/ViewOnline.aspx?Is5=true&ProductID=6219
+BOOK;HTML;7247;7247;https://www.tumblebooklibrary.com/H5GamePlayer.aspx/match-the-sentence?ProductID=7247&game=%2FH5Games%2FMatchSentence%2FTBLEN%2FAbraCadabraAndTheToothWitchSentenceGame.json
+BOOK;HTML;5791;5791;https://www.tumblebooklibrary.com/RAPlayer.aspx?ProductID=5791

@@ -1,0 +1,13 @@
+{
+  "longname": "Tumblebooks",
+  "name": "tb",
+  "describe": "Recognizes the accesses to the platform Tumblebooks",
+  "contact": "devnet@oclc.org",
+  "pkb": false,
+  "docurl": "https://www.tumblebooklibrary.com",
+  "domains": [
+    "tumblebooklibrary.com"
+  ],
+  "version": "2020-09-27",
+  "status": "beta"
+}
