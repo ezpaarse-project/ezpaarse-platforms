@@ -1,0 +1,10 @@
+out-rtype;out-mime;out-platform_name;out-login;out-unitid;in-url
+OTHER;HTML;OCLC FirstSearch;fsap02pxm1-1680-kfe2rdew-sjodlg;;https://firstsearch.oclc.org/WebZ/FSPage?pagename=expert:sessionid=fsap02pxm1-1680-kfe2rdew-sjodlg:entitypagenum=5:0
+TOC;HTML;OCLC FirstSearch;fsap02pxm1-1680-kfe2rdew-sjodlg;;https://firstsearch.oclc.org/WebZ/FSPage?pagename=content:sessionid=fsap02pxm1-1680-kfe2rdew-sjodlg:entitypagenum=5:0
+RECORD;HTML;OCLC FirstSearch;fsap02pxm1-1680-kfe2rdew-sjodlg;;https://firstsearch.oclc.org/WebZ/FSPage?pagename=record:sessionid=fsap02pxm1-1680-kfe2rdew-sjodlg:entitypagenum=5:0
+RECORD;HTML;OCLC FirstSearch;fsap02pxm1-1680-kfe2rdew-sjodlg;;https://firstsearch.oclc.org/WebZ/FSPage?pagename=directexport:sessionid=fsap02pxm1-1680-kfe2rdew-sjodlg:entitypagenum=5:0
+SEARCH;HTML;OCLC FirstSearch;fsap02pxm1-1680-kfe2rdew-sjodlg;;https://firstsearch.oclc.org/WebZ/FSQUERY?format=BI:next=html/records.html:bad=html/records.html:numrecs=10:sessionid=fsap02pxm1-1680-kfe2rdew-sjodlg:entitypagenum=5:0:searchtype=basic
+RECORD;HTML;OCLC FirstSearch;fsap02pxm1-1680-kfe2rdew-sjodlg;;https://firstsearch.oclc.org/WebZ/FSFETCH?fetchtype=fullrecord:sessionid=fsap02pxm1-1680-kfe2rdew-sjodlg:entitypagenum=6:0:recno=10:resultset=1:format=FI:next=html/record.html:bad=error/badfetch.html:entitytoprecno=10:entitycurrecno=10:numrecs=1
+OTHER;HTML;OCLC FirstSearch;fsap02pxm1-1680-kfe2rdew-sjodlg;;https://firstsearch.oclc.org/WebZ/FSFETCH?fetchtype=thesaurus:next=html/thessearchr.html:bad=error/badfetch.html:resultset=3:format=FI:recno=1:numrecs=1:entitylibrarycount=198:sessionid=fsap02pxm1-1680-kfe2rdew-sjodlg:entitypagenum=32:0
+SEARCH;HTML;OCLC FirstSearch;fsap02pxm1-1680-kfe2rdew-sjodlg;;https://firstsearch.oclc.org/WebZ/MoreLikeThis?sessionid=fsap02pxm1-1680-kfe2rdew-sjodlg:entitypagenum=32:0:recno=1:resultset=3:next=html/morelikethis.html:bad=html/record.html
+OTHER;HTML;OCLC FirstSearch;fsap02pxm1-1680-kfe2rdew-sjodlg;;https://firstsearch.oclc.org/WebZ/FSill?pagename=frbrill:usertype=patron:resultset=2:recno=1:sessionid=fsap02pxm1-1680-kfe2rdew-sjodlg:entitypagenum=20:0

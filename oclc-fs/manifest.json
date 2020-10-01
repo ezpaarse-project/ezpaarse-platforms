@@ -1,0 +1,13 @@
+{
+  "longname": "OCLC Firstsearch",
+  "name": "oclc-fs",
+  "describe": "Recognizes the accesses to the platform OCLC Firstsearch",
+  "contact": "devnet@oclc.org",
+  "pkb": false,
+  "docurl": "https://firstsearch.oclc.org/",
+  "domains": [
+    "firstsearch.oclc.org"
+  ],
+  "version": "2020-09-22",
+  "status": "beta"
+}
