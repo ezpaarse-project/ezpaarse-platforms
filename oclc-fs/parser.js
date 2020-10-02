@@ -43,7 +43,6 @@ module.exports = new Parser(function analyseEC(parsedUrl, ec) {
       result.unitid = queryParam.isbn;
     }
 
-    
   } else if ((match = /^\/WebZ\/([a-z]+)$/i.exec(path)) !== null) {
     const category = match[1].toLowerCase();
     const paramString = parsedUrl.search.substring(1);
@@ -144,10 +143,9 @@ module.exports = new Parser(function analyseEC(parsedUrl, ec) {
     }
     result.login = param.sessionid;
   }
-  
+
   result.platform_name = 'OCLC FirstSearch';
   result.mime  = 'HTML';
-
 
   return result;
 });
