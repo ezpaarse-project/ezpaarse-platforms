@@ -22,7 +22,6 @@ module.exports = new Parser(function analyseEC(parsedUrl, ec) {
   let match;
 
   if ((match = /^\/arrets\/((\D*).*)$/i.exec(path)) !== null) {
-      //
     result.rtype    = 'JURISPRUDENCE';
     result.mime     = 'HTML';
     result.title_id = match[2];
