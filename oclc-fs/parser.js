@@ -144,8 +144,7 @@ module.exports = new Parser(function analyseEC(parsedUrl, ec) {
     result.login = param.sessionid;
   }
 
-  result.platform_name = 'OCLC FirstSearch';
-  result.mime  = 'HTML';
+  result.mime = 'HTML';
 
   return result;
 });

@@ -59,7 +59,6 @@ module.exports = new Parser(function analyseEC(parsedUrl, ec) {
     result.unitid = param['rft.id'];
     result.mime  = 'HTML';
   }
-  result.platform_name = 'WorldCat Discovery';
 
   return result;
 });

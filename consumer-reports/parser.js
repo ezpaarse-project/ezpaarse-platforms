@@ -42,7 +42,5 @@ module.exports = new Parser(function analyseEC(parsedUrl, ec) {
     result.publication_Title = match[3];
   }
 
-  result.platform_name = 'Consumer Reports';
-
   return result;
 });

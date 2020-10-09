@@ -39,6 +39,6 @@ module.exports = new Parser(function analyseEC(parsedUrl, ec) {
     result.title_id = match[1];
     result.unitid   = match[1];
   }
-  result.platform_name ='reference usa';
+
   return result;
 });

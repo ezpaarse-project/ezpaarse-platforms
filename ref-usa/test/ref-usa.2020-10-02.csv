@@ -1,4 +1,4 @@
-out-rtype;out-mime;out-platform_name;out-title_id;out-unitid;in-url
-SEARCH;HTML;reference usa;;;http://www.referenceusa.com/UsHistoricalBusiness/Result/76922f4853834bf59bb7fdf5afb8e4ad
-RECORD;HTML;reference usa;246360150;246360150;http://www.referenceusa.com/UsHistoricalBusiness/Detail/Tagged/76922f4853834bf59bb7fdf5afb8e4ad/2011?recordId=246360150
-RECORD;HTML;reference usa;886012012;886012012;http://www.referenceusa.com/UsBusiness/CorpFamilyTree/%20c291a5e19ef44bb29a1fe056e9f11fb6/886012012
+out-rtype;out-mime;out-title_id;out-unitid;in-url
+SEARCH;HTML;;;http://www.referenceusa.com/UsHistoricalBusiness/Result/76922f4853834bf59bb7fdf5afb8e4ad
+RECORD;HTML;246360150;246360150;http://www.referenceusa.com/UsHistoricalBusiness/Detail/Tagged/76922f4853834bf59bb7fdf5afb8e4ad/2011?recordId=246360150
+RECORD;HTML;886012012;886012012;http://www.referenceusa.com/UsBusiness/CorpFamilyTree/%20c291a5e19ef44bb29a1fe056e9f11fb6/886012012
