@@ -34,12 +34,12 @@ module.exports = new Parser(function analyseEC(parsedUrl, ec) {
     // https://www.consumerreports.org/car-recalls-defects/car-recall-guide-questions-answered/
     result.rtype    = 'ARTICLE';
     result.mime     = 'HTML';
-    result.publication_Title = match[2];
+    result.publication_title = match[2];
   } else if ((match = /^\/products\/([a-z0-9-]+)\/([a-z0-9-]+)\/([a-z0-9-]+)\/$/i.exec(path)) !== null) {
     // https://www.consumerreports.org/products/computers-28965/laptop-28701/microsoft-surface-go-2-401329/
     result.rtype    = 'RECORD';
     result.mime     = 'HTML';
-    result.publication_Title = match[3];
+    result.publication_title = match[3];
   }
 
   return result;

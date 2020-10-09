@@ -31,13 +31,13 @@ module.exports = new Parser(function analyseEC(parsedUrl, ec) {
     result.db_id = queryParam.dbname;
     if (queryParam.issn) {
       //http://firstsearch.oclc.org/WebZ/FSOpenURL?database=3&dbname=WorldCat&autho=someAutho&timestamp=1&encryption=bc90fbbb8e8f0b86003707fa3a3a3e5f&oclcnum=ouxxhqtqx&issn=0737-8831&atitle=Lessons+learned+from+analyzing+library+database+usage+data&aulast=Coombs&volume=23&issue=4&date=2005&sessionid=0&checksum=6418bc3c07053f9036af5d54d6557264
-      result.publication_Title = queryParam.atitle;
+      result.publication_title = queryParam.atitle;
       result.publication_date = queryParam.date;
       result.title_id = queryParam.issn;
       result.vol = queryParam.volume;
       result.num = queryParam.issue;
     } else {
-      result.publication_Title = queryParam.title;
+      result.publication_title = queryParam.title;
       result.publication_date = queryParam.date;
       result.title_id = queryParam.isbn;
       result.unitid = queryParam.isbn;
