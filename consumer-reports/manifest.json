@@ -1,0 +1,13 @@
+{
+  "longname": "Consumer Reports",
+  "name": "consumer-reports",
+  "describe": "Recognizes the accesses to the platform Consumer Reports",
+  "contact": "devnet@oclc.org",
+  "pkb": false,
+  "docurl": "https://www.consumerreports.org",
+  "domains": [
+    "consumerreports.org"
+  ],
+  "version": "2020-10-01",
+  "status": "beta"
+}
