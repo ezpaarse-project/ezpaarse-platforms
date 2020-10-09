@@ -1,0 +1,13 @@
+{
+  "longname": "Reference USA",
+  "name": "ref-usa",
+  "describe": "Recognizes the accesses to the platform Reference USA",
+  "contact": "devnet@oclc.org",
+  "pkb": false,
+  "docurl": "http://www.referenceusa.com",
+  "domains": [
+    "referenceusa.com"
+  ],
+  "version": "2020-10-02",
+  "status": "beta"
+}
