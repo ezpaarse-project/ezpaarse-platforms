@@ -1,0 +1,13 @@
+{
+  "longname": "WorldCat Discovery",
+  "name": "oclc-wc-discovery",
+  "describe": "Recognizes the accesses to the platform WorldCat Discovery",
+  "contact": "devnet@oclc.org",
+  "pkb": false,
+  "docurl": "https://ocpbs.on.worldcat.org",
+  "domains": [
+    "on.worldcat.org"
+  ],
+  "version": "2020-09-25",
+  "status": "beta"
+}
