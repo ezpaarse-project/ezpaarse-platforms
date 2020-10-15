@@ -28,24 +28,23 @@ module.exports = new Parser(function analyseEC(parsedUrl, ec) {
   } else if ((match = /^\/articles\/new-releases$/i.exec(path)) !== null) {
     // https://www.psychotherapy.net/articles/new-releases#addsearch=blo
     result.rtype    = 'SEARCH';
-    result.mime     = 'HTML';  
+    result.mime     = 'HTML';
   } else if ((match = /^\/stream\/digitaltheologicallibrary\/video$/i.exec(path)) !== null) {
     // http://www.psychotherapy.net/stream/digitaltheologicallibrary/video?vid=414
     result.rtype    = 'VIDEO';
     result.mime     = 'MISC';
-    result.unitid   = param.vid;    
+    result.unitid   = param.vid;
   } else if ((match = /^\/article\/([a-z-]+)$/i.exec(path)) !== null) {
     // https://www.psychotherapy.net/article/becoming-myself-irvin-yalom
     result.rtype    = 'ARTICLE';
     result.mime     = 'HTML';
-    result.unitid = match[1]
+    result.unitid = match[1];
   } else if ((match = /^\/video\/([a-z-]+)$/i.exec(path)) !== null) {
     // https://www.psychotherapy.net/video/dialectical-behavior-therapy-linehan
     result.rtype    = 'VIDEO';
     result.mime     = 'MISC';
     result.unitid = match[1];
   }
-  
   result.platform_name = 'psychotherapy.net';
 
   return result;
