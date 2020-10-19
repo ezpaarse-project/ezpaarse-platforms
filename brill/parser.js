@@ -78,8 +78,8 @@ module.exports = new Parser(function analyseEC(parsedUrl, ec) {
   } else if ((match = /^\/entries\/([a-z-]+)\/([a-z0-9._\-*]+)$/i.exec(path)) !== null) {
     // /entries/the-hague-academy-collected-courses/*-ej.9789004289376.395_503
     // /entries/brill-s-encyclopedia-of-hinduism/temple-rituals-north-india-BEHCOM_000378
-    result.rtype   = 'TOC';
-    result.mime    = 'HTML';
+    result.rtype = 'TOC';
+    result.mime  = 'HTML';
 
     if ((matchinfo = /^([^.]+)\.([0-9]+)\.(([0-9]+)_([0-9]+))$/i.exec(match[2])) !== null) {
       result.online_identifier = matchinfo[2];
@@ -115,7 +115,10 @@ module.exports = new Parser(function analyseEC(parsedUrl, ec) {
       result.mime = 'HTML';
 
       let tmp = /^article-p([0-9]+)_([0-9]+)$/i.exec(match[5]);
-      result.first_page = tmp[1];
+
+      if (tmp) {
+        result.first_page = tmp[1];
+      }
 
       break;
     }
@@ -123,8 +126,10 @@ module.exports = new Parser(function analyseEC(parsedUrl, ec) {
     case 'view': {
       result.rtype = /article-p/.test(match[5]) ? 'ARTICLE' : 'TOC';
       result.mime = 'HTML';
-      if (/article-p/.test(match[5])) {
-        let tmp = /^article-p([0-9]+)_([0-9]+)$/i.exec(match[5]);
+
+      let tmp = /^article-p([0-9]+)_([0-9]+)$/i.exec(match[5]);
+
+      if (tmp) {
         result.first_page = tmp[1];
       }
 
@@ -135,8 +140,10 @@ module.exports = new Parser(function analyseEC(parsedUrl, ec) {
     case 'epub': {
       result.rtype = 'ARTICLE';
       result.mime = match[1] === 'downloadpdf' ? 'PDF' : 'EPUB';
-      if (/article-p/.test(match[5]) && match[1] === 'epub') {
-        let tmp = /^article-p([0-9]+)_([0-9]+)$/i.exec(match[5]);
+
+      let tmp = /^article-p([0-9]+)_([0-9]+)$/i.exec(match[5]);
+
+      if (tmp && match[1] === 'epub') {
         result.first_page = tmp[1];
       }
 
@@ -167,6 +174,10 @@ module.exports = new Parser(function analyseEC(parsedUrl, ec) {
     result.unitid = match[2];
     result.rtype = 'ARTICLE';
     result.mime = 'PDF';
+
+  } else if (/^\/search$/i.test(path)) {
+    result.rtype = 'SEARCH';
+    result.mime = 'HTML';
   }
 
   return result;
