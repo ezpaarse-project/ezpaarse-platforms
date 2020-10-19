@@ -6,3 +6,4 @@ out-title_id;out-unitid;out-rtype;out-mime;in-url
 ;3528;REF;PDF;https://wbis.degruyter.com/bibliographic-document/3528/pdf 
 BaBA_2;0292;BIO;JPEG;https://wbis.degruyter.com/microfiche-document/BaBA_2/0292/017
 BaBA_2;0292;BIO;PDF;https://wbis.degruyter.com/microfiche-document/BaBA_2/0292/017/download-pdf/17-19
+;;SEARCH;HTML;https://wbis.degruyter.com/biographic-results?searchType=BASIC&operator=AND&field=biographicNames&value=sebald&operator=AND&field=biographicArchives&value=
