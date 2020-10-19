@@ -1,0 +1,13 @@
+{
+  "longname": "MDPI",
+  "name": "mdpi",
+  "describe": "Recognizes the accesses to the platform MDPI",
+  "contact": "thomas.porquet",
+  "pkb": false,
+  "docurl": "http://analyses.ezpaarse.org/platforms/5f71b190356a376f53d2aed8",
+  "domains": [
+    "www.mdpi.com"
+  ],
+  "version": "2020-10-19",
+  "status": "beta"
+}
