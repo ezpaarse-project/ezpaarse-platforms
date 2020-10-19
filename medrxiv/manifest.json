@@ -1,0 +1,13 @@
+{
+  "longname": "MEDRXIV",
+  "name": "medrxiv",
+  "describe": "Recognizes the accesses to the platform MEDRXIV",
+  "contact": "Frederic Truong inist, wilmouths",
+  "pkb": false,
+  "docurl": "http://analyses.ezpaarse.org/platforms/5f7ed2f8ec56c86c15bd5187",
+  "domains": [
+    "www.medrxiv.org"
+  ],
+  "version": "2020-10-19",
+  "status": "beta"
+}
