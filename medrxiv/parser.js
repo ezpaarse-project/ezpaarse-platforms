@@ -21,13 +21,13 @@ module.exports = new Parser(function analyseEC(parsedUrl, ec) {
 
   let match;
 
-  if ((match = /^\/content\/(10\.[0-9]+\/([0-9.]+))v[0-9]+(\.full.pdf)?$/i.exec(path)) !== null) {
+  if ((match = /^\/content\/(10\.[0-9]+\/([0-9.]+))(v[0-9]+)(\.full.pdf)?$/i.exec(path)) !== null) {
     // /content/10.1101/2020.09.24.20197293v2.full.pdf
     // /content/10.1101/2020.09.24.20197293v2
 
     result.rtype    = 'ARTICLE';
-    result.mime     = match[3] ? 'PDF' : 'HTML';
-    result.unitid   = match[2];
+    result.mime     = match[4] ? 'PDF' : 'HTML';
+    result.unitid   = `${match[2]}${match[3]}`;
     result.doi      = match[1];
   } else if ((match = /^\/(collection|search)\/([\w-_]+)$/i.exec(path)) !== null) {
     // /search/covid
