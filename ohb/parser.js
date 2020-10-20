@@ -13,13 +13,14 @@ const Parser = require('../.lib/parser.js');
 module.exports = new Parser(function analyseEC(parsedUrl, ec) {
   let result = {};
   let path   = parsedUrl.pathname.replace(/\$002f/g, '/');
+  let param  = parsedUrl.query || {};
   let match;
 
   if ((match = /^(?:\/mobile)?\/view\/([0-9]+\.[0-9]+\/([a-z]+\/([0-9]+))\.[0-9]+\.[0-9]+)\/[a-z]+-[0-9]+(-e-[0-9]+)?$/.exec(path)) !== null) {
     // http://www.oxfordhandbooks.com/view/10.1093/oxfordhb/9780195188059.001.0001/oxfordhb-9780195188059?rskey=X02O1L&result=1
     // http://www.oxfordhandbooks.com/view/10.1093/oxfordhb/9780195188059.001.0001/oxfordhb-9780195188059-e-2
     result.rtype            = match[4] ? 'BOOK_SECTION' : 'TOC';
-    result.mime             = 'HTML';
+    result.mime             = param && param.print === 'pdf' ? 'PDF' : 'HTML';
     result.doi              = match[1];
     result.unitid           = match[1];
     result.title_id         = match[2];
