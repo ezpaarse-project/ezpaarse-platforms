@@ -64,6 +64,30 @@ module.exports = new Parser(function analyseEC(parsedUrl, ec) {
         result.unitid = match[1];
       }
     }
+  } else if ((match = /^\/(export\/pdf\/)?([a-z0-9-]+)\.html$/i.exec(path)) !== null) {
+    result.mime     = match[1] ? 'PDF' : 'HTML';
+    result.rtype    = 'BOOK_SECTION';
+    result.unitid   = match[2];
+
+    let matching ;
+    if ((matching = /^([a-z0-9]+)([a-z0-9-]+)(-[0-9]+-n-([0-9]+))([a-z0-9-]+)$/i.exec(match[2])) !== null) {
+      if (param && param.displaymode === 'full') {
+        result.rtype = 'HTML';
+        result.rtype = 'ARTICLE';
+      } else {
+        result.rtype = 'ABS';
+      }
+
+      result.title_id = `${matching[1]}${matching[2]}`;
+    } else if ((matching = /^([a-z0-9]+)([a-z0-9-]+)(-n-([0-9]+))([a-z0-9-]+)$/i.exec(match[2])) !== null) {
+      result.rtype    = 'TOC';
+      result.unitid   = matching[0];
+      result.title_id = matching[1];
+    }
+
+    if (matching && matching[4]) {
+      result.issue = matching[4];
+    }
   }
 
   return result;
