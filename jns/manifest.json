@@ -1,0 +1,13 @@
+{
+  "longname": "Journal of Neurosurgery",
+  "name": "jns",
+  "describe": "Recognizes the accesses to the platform Journal of Neurosurgery",
+  "contact": "thomas.porquet, Laurent Lhuillier",
+  "pkb": false,
+  "docurl": "http://analyses.ezpaarse.org/platforms/573b3d289985dcae9b62b593",
+  "domains": [
+    "thejns.org"
+  ],
+  "version": "2020-10-20",
+  "status": "beta"
+}
