@@ -12,35 +12,44 @@ const Parser = require('../.lib/parser.js');
  */
 module.exports = new Parser(function analyseEC(parsedUrl, ec) {
   let result = {};
-  let path   = parsedUrl.pathname;
-  // uncomment this line if you need parameters
+  let path = parsedUrl.pathname;
   let param = parsedUrl.query || {};
   let hostname = parsedUrl.hostname;
-
-  // use console.error for debuging
-  // console.error(parsedUrl);
-
   let match;
 
 
   if (/\/search$/i.test(path)) {
-    // https://search.alexanderstreet.com:443/search?searchstring=barth
+    // /search?searchstring=barth
     result.rtype    = 'SEARCH';
     result.mime     = 'HTML';
   } else if (/^\/avon\/browse/i.test(path)) {
-    // https://search.alexanderstreet.com:443/avon/browse/discipline
+    // /avon/browse/discipline
     result.rtype    = 'SEARCH';
     result.mime     = 'HTML';
   } else if ((match = /^\/view\/work\/bibliographic_entity%7C(([a-z_]*)%7C([0-9]*))$/i.exec(path)) !== null) {
-    // https://search.alexanderstreet.com:443/view/work/bibliographic_entity%7Cvideo_work%7C1790283
-    // https://search.alexanderstreet.com:443/view/work/bibliographic_entity%7Crecorded_track%7C367256
+    // /view/work/bibliographic_entity%7Cvideo_work%7C1790283
+    // /view/work/bibliographic_entity%7Crecorded_track%7C367256
+    // /view/work/bibliographic_entity%7Cbibliographic_details%7C1866774
+    // /view/work/bibliographic_entity%7Cbibliographic_details%7C1866774#page/2/mode/1/chapter/bibliographic_entity%7Cdocument%7C4745132
+
+    result.unitid = match[3];
+
     if (match[2] === 'recorded_track') {
-      result.rtype  = 'AUDIO';
+      result.rtype = 'AUDIO';
+      result.mime = 'MISC';
     } else if (match[2] === 'video_work') {
-      result.rtype    = 'VIDEO';
+      result.rtype = 'VIDEO';
+      result.mime = 'MISC';
+    } else if (match[2] === 'bibliographic_details') {
+      const hashMatch = /^#page\/[0-9]+\/mode\/[0-9]+\/chapter\/bibliographic_entity%7Cdocument%7C([0-9]*)$/.exec(parsedUrl.hash);
+
+      result.rtype = hashMatch ? 'BOOK_SECTION' : 'BOOK';
+      result.mime = 'HTML';
+
+      if (hashMatch) {
+        result.unitid = hashMatch[1];
+      }
     }
-    result.mime     = 'MISC';
-    result.unitid   = match[3];
   } else if (/\/volumes_toc.pl$/i.test(path)) {
     // https://dkbl.alexanderstreet.com:443/cgi-bin/asp/philo/dkbl/volumes_toc.pl?&church=ON
     result.rtype    = 'TOC';
