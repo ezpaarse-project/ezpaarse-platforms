@@ -2,7 +2,8 @@
   "version": "2015-04-14",
   "status": "beta",
   "domains": [
-    "maitron-en-ligne.univ-paris1.fr"
+    "maitron-en-ligne.univ-paris1.fr",
+    "maitron.fr"
   ],
   "recognize": {
     "rid": [
