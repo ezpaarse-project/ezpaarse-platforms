@@ -49,7 +49,6 @@ module.exports = new Parser(function analyseEC(parsedUrl, ec) {
     result.mime     = 'HTML';
     result.unitid = param.docref.replace('news/', '');
   }
-  result.platform_name = 'Newsbank';
 
   return result;
 });
