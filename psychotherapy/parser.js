@@ -45,7 +45,6 @@ module.exports = new Parser(function analyseEC(parsedUrl, ec) {
     result.mime     = 'MISC';
     result.unitid = match[1];
   }
-  result.platform_name = 'psychotherapy.net';
 
   return result;
 });
