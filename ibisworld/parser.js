@@ -36,7 +36,6 @@ module.exports = new Parser(function analyseEC(parsedUrl, ec) {
     result.mime     = 'HTML';
     result.unitid   = match[1];
   }
-  result.platform_name = 'IBIS World';
 
   return result;
 });
