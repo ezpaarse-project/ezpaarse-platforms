@@ -1,8 +1,10 @@
 out-title_id;out-unitid;out-rtype;out-mime;in-url
 ;I571-906-3;BIO;MISC;https://wbis.degruyter.com/biographic-document/I571-906-3
-;I571-906-3;BIO;PDF;https://wbis.degruyter.com/biographic-document/I571-906-3/pdf 
-;I571-906-3;BIO;JPEG;https://wbis.degruyter.com/biographic-document/I571-906-3/images/1 
+;I571-906-3;BIO;PDF;https://wbis.degruyter.com/biographic-document/I571-906-3/pdf
+;I571-906-3;BIO;JPEG;https://wbis.degruyter.com/biographic-document/I571-906-3/images/1
 ;3528;REF;MISC;https://wbis.degruyter.com/bibliographic-document/3528
-;3528;REF;PDF;https://wbis.degruyter.com/bibliographic-document/3528/pdf 
+;3528;REF;PDF;https://wbis.degruyter.com/bibliographic-document/3528/pdf
 BaBA_2;0292;BIO;JPEG;https://wbis.degruyter.com/microfiche-document/BaBA_2/0292/017
 BaBA_2;0292;BIO;PDF;https://wbis.degruyter.com/microfiche-document/BaBA_2/0292/017/download-pdf/17-19
+;;SEARCH;HTML;https://wbis.degruyter.com/biographic-results?searchType=BASIC&operator=AND&field=biographicNames&value=sebald&operator=AND&field=biographicArchives&value=
+;;SEARCH;HTML;https://wbis.degruyter.com/bibliographic-results?operator=AND&field=bibliographicKeywords&value=&operator=AND&field=bibliographicShortTitle&value=

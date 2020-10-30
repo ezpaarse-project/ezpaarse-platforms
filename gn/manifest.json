@@ -2,7 +2,8 @@
   "version": "2017-01-05",
   "status": "beta",
   "domains": [
-    "www.classiques-garnier.com"
+    "www.classiques-garnier.com",
+    "classiques-garnier.com"
   ],
   "bacon": {
     "provider": "CLASSIQUESGARNIER"

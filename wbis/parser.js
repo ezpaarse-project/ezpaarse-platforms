@@ -67,6 +67,9 @@ module.exports = new Parser(function analyseEC(parsedUrl, ec) {
     if (match[5] && match[5] === 'download-pdf') {
       result.mime = 'PDF';
     }
+  } else if (/^\/(biographic|bibliographic)-results$/i.test(path)) {
+    result.rtype = 'SEARCH';
+    result.mime = 'HTML';
   }
 
   return result;

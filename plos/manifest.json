@@ -1,0 +1,13 @@
+{
+  "longname": "PLOS",
+  "name": "plos",
+  "describe": "Recognizes the accesses to the platform PLOS",
+  "contact": "thomas.porquet, Frederic Truong inist",
+  "pkb": false,
+  "docurl": "http://analyses.ezpaarse.org/platforms/5f71b01c77047f1836813c59",
+  "domains": [
+    "journals.plos.org"
+  ],
+  "version": "2020-10-19",
+  "status": "beta"
+}

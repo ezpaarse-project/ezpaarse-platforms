@@ -47,6 +47,10 @@ module.exports = new Parser(function analyseEC(parsedUrl) {
       result.rtype = 'AUDIO';
       result.mime  = 'MISC';
       break;
+    case 'playarticle':
+      result.rtype = 'ARTICLE';
+      result.mime  = 'PDF';
+      break;
     case 'ebook':
     case 'article':
       result.rtype = 'ABS';

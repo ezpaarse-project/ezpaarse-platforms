@@ -73,6 +73,13 @@ module.exports = new Parser(function analyseEC(parsedUrl) {
     if (/^[0-9]+$/.test(match[4])) {
       result['first_page'] = match[4];
     }
+  } else if ((match = /^\/[\w]+\/advance-article\/doi\/(10\.[0-9]+\/([a-z]+\/[a-z0-9]+))\/[0-9]+$/i.exec(path)) !== null) {
+    // /asjopenforum/advance-article/doi/10.1093/asjof/ojaa038/5891009?searchresult=1
+
+    result.rtype    = 'ARTICLE';
+    result.mime     = 'HTML';
+    result.unitid   = match[2];
+    result.doi      = match[1];
   }
   return result;
 });

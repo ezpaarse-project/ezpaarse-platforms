@@ -1,7 +1,7 @@
-out-rtype;out-mime;out-platform_name;out-login;out-unitid;in-url
-SEARCH;HTML;IBIS World;;;https://my.ibisworld.com/search/?q=library
-SEARCH;HTML;IBIS World;;;https://my.ibisworld.com/search/?q=amusement%20park
-REPORT;HTML;IBIS World;;iexpert-risk;https://my.ibisworld.com/us/en/iexpert-risk-specialized/od4319/iexpert-risk
-REPORT;HTML;IBIS World;;industry-performance;https://my.ibisworld.com/us/en/industry-specialized/od5410/industry-performance
-REPORT;HTML;IBIS World;;iexpert-risk;https://my.ibisworld.com/us/en/iexpert-risk-specialized/od3315/iexpert-risk
-REPORT;HTML;IBIS World;;business-environment-profile;https://my.ibisworld.com/ca/en/business-environment-profiles/ca827/business-environment-profile
+out-rtype;out-mime;out-login;out-unitid;in-url
+SEARCH;HTML;;;https://my.ibisworld.com/search/?q=library
+SEARCH;HTML;;;https://my.ibisworld.com/search/?q=amusement%20park
+REPORT;HTML;;iexpert-risk;https://my.ibisworld.com/us/en/iexpert-risk-specialized/od4319/iexpert-risk
+REPORT;HTML;;industry-performance;https://my.ibisworld.com/us/en/industry-specialized/od5410/industry-performance
+REPORT;HTML;;iexpert-risk;https://my.ibisworld.com/us/en/iexpert-risk-specialized/od3315/iexpert-risk
+REPORT;HTML;;business-environment-profile;https://my.ibisworld.com/ca/en/business-environment-profiles/ca827/business-environment-profile
