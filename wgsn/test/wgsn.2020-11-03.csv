@@ -1,6 +1,6 @@
 out-rtype;out-mime;out-login;out-unitid;in-url
 SEARCH;HTML;;;https://www.wgsn.com/content/personalized/reports?query=shoes
-REPORT;HTML;;;https://www.wgsn.com/content/board_viewer/#/88368/page/7
-REPORT;HTML;;;https://www.wgsn.com/content/board_viewer/#/63286/page/1
+REPORT;HTML;;88368;https://www.wgsn.com/content/board_viewer/#/88368/page/7
+REPORT;HTML;;63286;https://www.wgsn.com/content/board_viewer/#/63286/page/1
+REPORT;HTML;;88749;https://www.wgsn.com/content/board_viewer/#/88749/page/1
 TOC;HTML;;;https://www.wgsn.com/content/personalized/reports?categories=18&markets=12
-REPORT;HTML;;;https://www.wgsn.com/content/board_viewer/#/88749/page/1
