@@ -1,0 +1,7 @@
+out-rtype;out-mime;out-login;out-unitid;in-url
+RECORD;HTML;;;https://customer.janes.com/Janes/Display/JUAV9266-JUAV
+SEARCH;HTML;;;https://customer.janes.com/janes/search?q=F-22A&pg=1
+SEARCH;MISC;;;https://customer.janes.com/TerrorismInsurgency/Events?f=SOURCE_TYPE(Terrorism+and+Insurgency)
+SEARCH;HTML;;;https://customer.janes.com/DefenceBudgets/home
+TOOL;GIF;;;https://customer.janes.com/Visualisation/Display/FG_2727647-JTIR
+MAP;GIF;;;https://customer.janes.com/Map?f=latlongs(21.24638%2C-126.80870%7C%7C59.42161%2C8.19130)&pg=1
