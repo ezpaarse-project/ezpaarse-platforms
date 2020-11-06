@@ -1,7 +1,7 @@
-out-rtype;out-mime;out-login;out-unitid;in-url
-SEARCH;HTML;;;https://subscriptions.techstreet.com/searches/10073446?per_page=10
-SEARCH;HTML;;;https://subscriptions.techstreet.com/searches/10073519
-ARTICLE;PDF;;;https://subscriptions.techstreet.com/downloads/create/749445/B36-19M_2018.pdf?source=
-PREVIEW;PDF;;;https://subscriptions.techstreet.com/products/preview/790358
-TOC;HTML;;;https://subscriptions.techstreet.com/products/790358#
-TOC;HTML;;;https://subscriptions.techstreet.com/products/711432
+out-rtype;out-mime;out-login;out-unitid;out-title_id;in-url
+SEARCH;HTML;;;;https://subscriptions.techstreet.com/searches/10073446?per_page=10
+SEARCH;HTML;;;;https://subscriptions.techstreet.com/searches/10073519
+ARTICLE;PDF;;B36-19M_2018;B36-19M_2018;https://subscriptions.techstreet.com/downloads/create/749445/B36-19M_2018.pdf?source=
+PREVIEW;PDF;;790358;790358;https://subscriptions.techstreet.com/products/preview/790358
+TOC;HTML;;790358;790358;https://subscriptions.techstreet.com/products/790358#
+TOC;HTML;;711432;711432;https://subscriptions.techstreet.com/products/711432
