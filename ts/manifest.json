@@ -1,0 +1,13 @@
+{
+  "longname": "Tech Street",
+  "name": "ts",
+  "describe": "Recognizes the accesses to the platform Tech Street",
+  "contact": "devnet@oclc.org",
+  "pkb": false,
+  "docurl": "",
+  "domains": [
+    "subscriptions.techstreet.com"
+  ],
+  "version": "2020-11-06",
+  "status": "beta"
+}
