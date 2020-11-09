@@ -4,7 +4,7 @@
   "describe": "Recognizes the accesses to the platform Aspen Law",
   "contact": "devnet@oclc.org",
   "pkb": false,
-  "docurl": "https://ebooks.aspenlaw.com",
+  "docurl": "http://analyses.ezpaarse.org/platforms/5fa985d9f982111d2301c162",
   "domains": [
     "ebooks.aspenlaw.com"
   ],
