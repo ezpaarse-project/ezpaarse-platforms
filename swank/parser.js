@@ -42,7 +42,6 @@ module.exports = new Parser(function analyseEC(parsedUrl, ec) {
     result.rtype    = 'SEARCH';
     result.mime     = 'HTML';
   }
-  result.platform_name = 'Swank Digital';
 
   return result;
 });
