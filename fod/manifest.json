@@ -1,0 +1,11 @@
+{
+  "longname": "Films on Demand",
+  "name": "fod",
+  "describe": "Recognizes access to Films on Demand",
+  "contact": "devnet@oclc.org",
+  "pkb": false,
+  "docurl": "",
+  "domains": [],
+  "version": "2020-11-20",
+  "status": "beta"
+}
