@@ -1,0 +1,15 @@
+{
+  "longname": "World Book Online",
+  "name": "wbo",
+  "describe": "Recognizes the accesses to the platform World Book Online",
+  "contact": "Karen Coombs",
+  "pkb": false,
+  "docurl": "http://analyses.ezpaarse.org/platforms/5fb845715d8f7e8b4aa0902d",
+  "domains": [
+    "www.worldbookonline.com",
+    "media.worldbookonline.com",
+    "bth.worldbook.com"
+  ],
+  "version": "2020-11-20",
+  "status": "beta"
+}
