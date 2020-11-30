@@ -2,9 +2,9 @@
   "version": "2016-10-04",
   "status": "beta",
   "domains": [
-    "http://luther.chadwyck.co.uk",
-    "http://acta.chadwyck.co.uk",
-    "http://pld.chadwyck.co.uk/"
+    "luther.chadwyck.co.uk",
+    "acta.chadwyck.co.uk",
+    "pld.chadwyck.co.uk"
   ],
   "recognize": {
     "rid": [
