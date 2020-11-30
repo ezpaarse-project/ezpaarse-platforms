@@ -77,7 +77,7 @@ module.exports = new Parser(function analyseEC(parsedUrl, ec) {
     // /view/journals/etly/1/1/etly.1.issue-1.xml
 
     result.rtype    = 'ARTICLE';
-    if (match[5] && match[5].toLocaleLowerCase() === 'issue') {
+    if (match[5] && match[5].toLowerCase() === 'issue') {
       result.rtype  = 'TOC';
     }
 
