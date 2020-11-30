@@ -27,6 +27,11 @@ module.exports = new Parser(function analyseEC(parsedUrl) {
     result.rtype = 'BOOK';
     result.mime  = 'HTML';
 
+  } else if (/\/Content\/ResultList\.aspx$/i.test(path)) {
+    // /Content/ResultList.aspx
+    result.rtype = 'SEARCH';
+    result.mime  = 'HTML';
+
   }
 
   return result;
