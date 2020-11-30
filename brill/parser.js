@@ -14,6 +14,7 @@ module.exports = new Parser(function analyseEC(parsedUrl, ec) {
   let result = {};
   let path   = parsedUrl.pathname;
   let param  = parsedUrl.query || {};
+  let hostname = parsedUrl.hostname;
   let match;
   let matchinfo;
 
@@ -85,7 +86,7 @@ module.exports = new Parser(function analyseEC(parsedUrl, ec) {
       result.online_identifier = matchinfo[2];
       result.unitid = matchinfo[2] + '.' + matchinfo[3];
     } else {
-      result.rtype  = 'ENCYCLOPAEDIA_ENTRY';
+      result.rtype  = /^bibliographies\./i.test(hostname) ? 'REF' : 'ENCYCLOPAEDIA_ENTRY';
       result.unitid = match[1] + '/' + match[2];
     }
 
