@@ -72,8 +72,51 @@ module.exports = new Parser(function analyseEC(parsedUrl, ec) {
     result.mime     = match[1] ? 'PDF' : 'HTML';
     result.title_id = match[2].toLowerCase();
     result.unitid   = match[3];
-  }
+  } else if ((match = /^\/view\/journals\/([a-z]+)\/([0-9]+)\/([0-9]+)\/([a-z]+\.[0-9]+\.(issue)-[0-9]+|article-p([0-9]+)).xml$/i.exec(path)) !== null) {
+    // /view/journals/jtph/1/2/article-p219.xml
+    // /view/journals/etly/1/1/etly.1.issue-1.xml
 
+    result.rtype    = 'ARTICLE';
+    if (match[5] && match[5].toLocaleLowerCase() === 'issue') {
+      result.rtype  = 'TOC';
+    }
+
+    result.mime     = 'HTML';
+    result.title_id = match[1];
+    result.vol      = match[2];
+    result.issue    = match[3];
+    result.unitid   = `${match[1]}/${match[2]}/${match[3]}/${match[4]}`;
+
+    if (match[6]) {
+      result.first_page    = match[6];
+    }
+  } else if ((match = /^\/downloadpdf\/journals\/([a-z]+)\/([0-9]+)\/([0-9]+)\/(article-p([0-9]+)).xml$/i.exec(path)) !== null) {
+    // /downloadpdf/journals/etly/2/1/article-p95.xml
+
+    result.rtype      = 'ARTICLE';
+    result.mime       = 'PDF';
+    result.title_id   = match[1];
+    result.vol        = match[2];
+    result.issue      = match[3];
+    result.unitid     = `${match[1]}/${match[2]}/${match[3]}/${match[4]}`;
+    result.first_page = match[5];
+  } else if ((match = /^\/download(pdf|epub)\/title\/([0-9]+)$/i.exec(path)) !== null) {
+    // /downloadpdf/title/551480
+    // /downloadepub/title/551480
+
+    result.rtype    = 'BOOK';
+    result.mime     = match[1].toUpperCase();
+    result.unitid   = match[2];
+  } else if ((match = /^\/(downloadpdf|view)\/book\/([0-9]+)\/((10.[0-9]+)\/([0-9-]+)).xml$/i.exec(path)) !== null) {
+    // /view/book/9783110638202/10.1515/9783110638202-005.xml
+    // /downloadpdf/book/9783110638202/10.1515/9783110638202-005.xml
+
+    result.rtype    = 'BOOK_SECTION';
+    result.mime     = 'PDF';
+    result.doi      = match[3];
+    result.unitid   = match[5];
+    result.online_identifier = match[2];
+  }
 
   return result;
 });
