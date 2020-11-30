@@ -1,0 +1,13 @@
+{
+  "longname": "Patrologia Latina Database",
+  "name": "pld",
+  "describe": "Recognizes the accesses to the platform Patrologia Latina Database",
+  "contact": "thomas.porquet, timothee.rony, Frederic Truong inist",
+  "pkb": false,
+  "docurl": "http://analyses.ezpaarse.org/platforms/58bd5b7ca75aaa793786438a",
+  "domains": [
+    "pld.chadwyck.co.uk"
+  ],
+  "version": "2020-11-30",
+  "status": "beta"
+}
