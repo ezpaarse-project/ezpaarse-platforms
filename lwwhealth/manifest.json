@@ -1,0 +1,15 @@
+{
+  "longname": "LWW Health Library",
+  "name": "lwwhealth",
+  "describe": "Recognizes the accesses to the platform LLW Health Library",
+  "contact": "Karen Coombs",
+  "pkb": false,
+  "docurl": "http://analyses.ezpaarse.org/platforms/5fc52da2d1916115476d330f",
+  "domains": [
+    "meded.lwwhealthlibrary.com",
+    "hl.silverchair-cdn.com",
+    "downloads.lww.com"
+  ],
+  "version": "2020-11-30",
+  "status": "beta"
+}
