@@ -53,34 +53,40 @@ module.exports = new Parser(function analyseEC(parsedUrl, ec) {
     result.mime     = 'GIF';
     result.title_id = match[1];
     result.unitid   = match[1];
-  } else if ((match = /^\/advanced\/media$/i.exec(path)) !== null && /^pc/.exec(param.id)) {
+  } else if (/^\/advanced\/media$/i.test(path) && param.id) {
     // https://www.worldbookonline.com/advanced/media?id=pc367637&st=vietnam
-    result.rtype    = 'IMAGE';
-    result.mime     = 'GIF';
+    // https://www.worldbookonline.com/advanced/media?id=ta585360-t01&st=vietnam
+    // https://www.worldbookonline.com/advanced/media?id=au032506&st=vietnam
+    // https://www.worldbookonline.com/advanced/media?id=lr012597&st=vietnam
+
+    switch (param.id.substr(0, 2)) {
+    case 'pc':
+      result.rtype = 'IMAGE';
+      result.mime  = 'GIF';
+      break;
+
+    case 'ta':
+      result.rtype = 'TABLE';
+      result.mime  = 'HTML';
+      break;
+
+    case 'au':
+      result.rtype = 'AUDIO';
+      result.mime  = 'MP3';
+      break;
+
+    case 'lr':
+      result.rtype = 'MAP';
+      result.mime  = 'GIF';
+      break;
+    }
+
     result.title_id = param.id;
     result.unitid   = param.id;
   } else if ((match = /^\/bth\/$/i.exec(path)) !== null && param.cat !== null) {
     // https://bth.worldbook.com/bth/?cat=468
     result.rtype    = 'TOC';
     result.mime     = 'HTML';
-  } else if ((match = /^\/advanced\/media$/i.exec(path)) !== null && /^ta/.exec(param.id)) {
-    // https://www.worldbookonline.com/advanced/media?id=ta585360-t01&st=vietnam
-    result.rtype    = 'TABLE';
-    result.mime     = 'HTML';
-    result.title_id = param.id;
-    result.unitid   = param.id;
-  } else if ((match = /^\/advanced\/media$/i.exec(path)) !== null && /^au/.exec(param.id)) {
-    // https://www.worldbookonline.com/advanced/media?id=au032506&st=vietnam
-    result.rtype    = 'AUDIO';
-    result.mime     = 'MP3';
-    result.title_id = param.id;
-    result.unitid   = param.id;
-  } else if ((match = /^\/advanced\/media$/i.exec(path)) !== null && /^lr/.exec(param.id)) {
-    // https://www.worldbookonline.com/advanced/media?id=lr012597&st=vietnam
-    result.rtype    = 'MAP';
-    result.mime     = 'GIF';
-    result.title_id = param.id;
-    result.unitid   = param.id;
   }
 
   return result;
