@@ -1,0 +1,13 @@
+{
+  "longname": "Lynda.com",
+  "name": "lynda",
+  "describe": "Recognizes the accesses to the platform Lynda.com",
+  "contact": "Karen Coombs",
+  "pkb": false,
+  "docurl": "http://analyses.ezpaarse.org/platforms/5fc540268bc47a69ab09831a",
+  "domains": [
+    "www.lynda.com"
+  ],
+  "version": "2020-11-30",
+  "status": "beta"
+}

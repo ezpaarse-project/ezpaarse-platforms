@@ -66,6 +66,12 @@ module.exports = new Parser(function analyseEC(parsedUrl, ec) {
     if (match[3]) {
       result.unitid = match[3];
     }
+  } else if ((match = /^\/(search_(mono|multi)|doctrinal)\/results$/i.exec(path)) !== null) {
+    // /search_mono/results
+    // /search_multi/results
+    // /doctrinal/results
+    result.rtype  = 'SEARCH';
+    result.mime   = 'HTML';
   }
 
   return result;
