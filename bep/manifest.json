@@ -1,0 +1,20 @@
+{
+  "version": "2020-10-09",
+  "status": "beta",
+  "domains": [
+    "a.cloud.igpublish.com",
+    "portal.igpublish.com"
+  ],
+  "recognize": {
+    "rid": [
+      "title_id",
+      "unitid"
+    ]
+  },
+  "name": "business-expert-press",
+  "longname": "Business Expert Press e-books",
+  "describe": "Recognizes the accesses to the platform Business Expert Press e-books from IG Publishing",
+  "docurl": "https://a.cloud.igpublish.com:443",
+  "contact": "jeaton@london.edu",
+  "pkb": true
+}
