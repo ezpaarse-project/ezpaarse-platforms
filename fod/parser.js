@@ -14,33 +14,30 @@ module.exports = new Parser(function analyseEC(parsedUrl, ec) {
   let result = {};
   let path   = parsedUrl.pathname;
   // uncomment this line if you need parameters
-  // let param = parsedUrl.query || {};
+  let param = parsedUrl.query || {};
 
   // use console.error for debuging
   // console.error(parsedUrl);
 
   let match;
 
-  if ((match = /^\/platform\/path\/to\/(document-([0-9]+)-test\.pdf)$/i.exec(path)) !== null) {
-    // http://parser.skeleton.js/platform/path/to/document-123456-test.pdf?sequence=1
-    result.rtype    = 'ARTICLE';
-    result.mime     = 'PDF';
-    result.title_id = match[1];
-
-    /**
-     * unitid is a crucial information needed to filter double-clicks phenomenon, like described by COUNTER
-     * it described the most fine-grained of what's being accessed by the user
-     * it can be a DOI, an internal identifier or a part of the accessed URL
-     * more at http://ezpaarse.readthedocs.io/en/master/essential/ec-attributes.html#unitid
-     */
-    result.unitid = match[2];
-
-  } else if ((match = /^\/platform\/path\/to\/(document-([0-9]+)-test\.html)$/i.exec(path)) !== null) {
-    // http://parser.skeleton.js/platform/path/to/document-123456-test.html?sequence=1
-    result.rtype    = 'ARTICLE';
+  if ((match = /^\/p_Search.aspx$/i.exec(path)) !== null) {
+    // https://fod.infobase.com/p_Search.aspx?bc=0&rd=a&q=Ali
+    // https://fod.infobase.com/p_Search.aspx?rd=a&q=%22Asteroid%20mining%22
+    result.rtype    = 'SEARCH';
     result.mime     = 'HTML';
-    result.title_id = match[1];
-    result.unitid   = match[2];
+
+  } else if ((match = /^\/p_ViewVideo.aspx$/i.exec(path)) !== null) {
+    // https://fod.infobase.com/p_ViewVideo.aspx?xtid=51930&loid=182352&tScript=0
+    // https://fod.infobase.com/p_ViewVideo.aspx?xtid=165465&tScript=0
+    result.rtype    = 'VIDEO';
+    result.mime     = 'HTML';
+    result.title_id = param.xtid;
+    result.unitid   = param.xtid;
+  } else if ((match = /^\/p_Collection.aspx$/i.exec(path)) !== null) {
+    // https://fod.infobase.com/p_Collection.aspx?seriesID=168054
+    result.rtype    = 'TOC';
+    result.mime     = 'HTML';
   }
 
   return result;

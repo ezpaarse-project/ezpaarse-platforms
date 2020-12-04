@@ -1,1 +1,6 @@
-out-rtype;out-mime;in-url
+out-rtype;out-mime;out-login;out-unitid;out-title_id;in-url
+SEARCH;HTML;;;;https://fod.infobase.com/p_Search.aspx?bc=0&rd=a&q=Ali
+SEARCH;HTML;;;;https://fod.infobase.com/p_Search.aspx?rd=a&q=%22Asteroid%20mining%22
+VIDEO;HTML;;51930;51930;https://fod.infobase.com/p_ViewVideo.aspx?xtid=51930&loid=182352&tScript=0
+VIDEO;HTML;;165465;165465;https://fod.infobase.com/p_ViewVideo.aspx?xtid=165465&tScript=0
+TOC;HTML;;;;https://fod.infobase.com/p_Collection.aspx?seriesID=168054
