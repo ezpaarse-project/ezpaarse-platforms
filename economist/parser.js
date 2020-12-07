@@ -21,7 +21,7 @@ module.exports = new Parser(function analyseEC(parsedUrl, ec) {
 
   let match;
 
-  if ((match = /^\/([^\/]+.+)$/i.exec(path)) !== null) {
+  if ((match = /^\/([^/]+.+)$/i.exec(path)) !== null) {
     // http://parser.skeleton.js/platform/path/to/document-123456-test.pdf?sequence=1
     // https://www.economist.com:443/britain/2020/05/28/how-covid-19-is-changing-carmaking
     result.rtype    = 'ARTICLE';
