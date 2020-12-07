@@ -1,0 +1,11 @@
+{
+  "longname": "Films on Demand",
+  "name": "fod",
+  "describe": "Recognizes access to Films on Demand",
+  "contact": "devnet@oclc.org",
+  "pkb": false,
+  "docurl": "http://analyses.ezpaarse.org/platforms/5fcaa9451b7a2b6486e20ceb/analyses/5fcaa9ac76130073c97c993b",
+  "domains": ["fod.infobase.com"],
+  "version": "2020-11-20",
+  "status": "beta"
+}
