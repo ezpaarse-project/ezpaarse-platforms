@@ -1,4 +1,11 @@
 out-rtype;out-mime;out-login;out-unitid;in-url
+MISC;HTML;;;http://web.b.ebscohost.com/novp/search/novbasic?vid=0&sid=210938d6-eeb1-4530-99e0-2f744386bae1%40pdc-v-sessmgr05
+MISC;HTML;;;http://web.b.ebscohost.com/novp/search/advanced?vid=1&sid=210938d6-eeb1-4530-99e0-2f744386bae1%40pdc-v-sessmgr05
+MISC;HTML;;;http://web.b.ebscohost.com/novp/genres?vid=5&sid=210938d6-eeb1-4530-99e0-2f744386bae1%40pdc-v-sessmgr05
+MISC;HTML;;;http://web.b.ebscohost.com/novp/appeals?vid=7&sid=210938d6-eeb1-4530-99e0-2f744386bae1%40pdc-v-sessmgr05
+MISC;HTML;;;http://web.b.ebscohost.com/novp/detail?vid=10&sid=210938d6-eeb1-4530-99e0-2f744386bae1%40pdc-v-sessmgr05&bdata=JnNpdGU9bm92cC1saXZl
+MISC;HTML;;;http://web.b.ebscohost.com/novp/awards?vid=12&sid=210938d6-eeb1-4530-99e0-2f744386bae1%40pdc-v-sessmgr05
+MISC;HTML;;;http://web.b.ebscohost.com/novp/audiobooks?vid=14&sid=210938d6-eeb1-4530-99e0-2f744386bae1%40pdc-v-sessmgr05
 SEARCH;HTML;;;http://web.b.ebscohost.com/novp/results?vid=1&sid=0b225b23-79fa-4463-a155-c1d0f4e87ef8%40pdc-v-sessmgr03&bquery=science+fiction&bdata=JnR5cGU9MCZzZWFyY2hNb2RlPUFuZCZzaXRlPW5vdnAtbGl2ZQ%3d%3d
 SEARCH;HTML;;;http://web.b.ebscohost.com/novp/resultsadvanced?vid=5&sid=0b225b23-79fa-4463-a155-c1d0f4e87ef8%40pdc-v-sessmgr03&bquery=science+fiction+AND+Black&bdata=JnR5cGU9MSZzZWFyY2hNb2RlPUFuZCZzaXRlPW5vdnAtbGl2ZQ%3d%3d
 RECORD;HTML;;;http://web.b.ebscohost.com/novp/detail?vid=2&sid=0b225b23-79fa-4463-a155-c1d0f4e87ef8%40pdc-v-sessmgr03&bdata=JnNpdGU9bm92cC1saXZl#UI=10232623&db=neh
