@@ -1,0 +1,19 @@
+{
+  "version": "2020-10-12",
+  "status": "beta",
+  "domains": [
+    "mergentarchives.com"
+  ],
+  "recognize": {
+    "rid": [
+      "title_id",
+      "unitid"
+    ]
+  },
+  "name": "mergent-archives",
+  "longname": "Mergent Archives",
+  "describe": "Recognizes the accesses to the platform Mergent Archives",
+  "docurl": "https://www.mergentarchives.com:443/",
+  "contact": "jeaton@london.edu",
+  "pkb": false
+}
