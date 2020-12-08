@@ -1,0 +1,13 @@
+{
+  "longname": "Novelist",
+  "name": "novelist",
+  "describe": "Recognizes the accesses to the platform Novelist",
+  "contact": "Karen Coombs",
+  "pkb": false,
+  "docurl": "http://analyses.ezpaarse.org/platforms/5fcfa1e04709b141fe154294",
+  "domains": [
+    "web.b.ebscohost.com"
+  ],
+  "version": "2020-12-08",
+  "status": "beta"
+}
