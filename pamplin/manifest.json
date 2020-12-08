@@ -1,0 +1,13 @@
+{
+  "longname": "Pamplin Media",
+  "name": "pamplin",
+  "describe": "Recognizes the accesses to the platform Pamplin Media",
+  "contact": "Karen Coombs",
+  "pkb": false,
+  "docurl": "http://analyses.ezpaarse.org/platforms/5fcff4dedc154c7c3e66f18d",
+  "domains": [
+    "pamplinmedia.com"
+  ],
+  "version": "2020-12-08",
+  "status": "beta"
+}
