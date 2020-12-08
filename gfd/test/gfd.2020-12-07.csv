@@ -1,0 +1,5 @@
+out-unitid;out-rtype;out-mime;in-url
+Download_11_6_2020_6_24_55_AM247_csv.csv;DATASET;CSV;https://finaeon.globalfinancialdata.com:443/AutoTrac/Download?file=Jay_Pritchett_Download_11_6_2020_6_24_55_AM247_csv.csv
+Download_11_6_2020_6_24_15_AM55_csv.csv;DATASET;CSV;https://finaeon.globalfinancialdata.com:443/AutoTrac/Download?file=Clare_Dunphy_Download_11_6_2020_6_24_15_AM55_csv.csv
+Download_11_10_2020_6_18_57_AM478_csv.csv;DATASET;CSV;https://finaeon.globalfinancialdata.com:443/AutoTrac/Download?file=Ned_Flanders_Download_11_10_2020_6_18_57_AM478_csv.csv
+Excel-Download;DATASET;XLS;https://finaeon.globalfinancialdata.com:443/AutoTrac/DownloadWorkbook2?Length=8

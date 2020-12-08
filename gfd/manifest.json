@@ -1,0 +1,13 @@
+{
+  "longname": "Global Financial Data",
+  "name": "gfd",
+  "describe": "Recognizes the accesses to the platform Global Financial Data",
+  "contact": "Karen Coombs",
+  "pkb": false,
+  "docurl": "http://analyses.ezpaarse.org/platforms/5fcea02f2290a24e19987f36",
+  "domains": [
+    "finaeon.globalfinancialdata.com"
+  ],
+  "version": "2020-12-07",
+  "status": "beta"
+}

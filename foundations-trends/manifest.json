@@ -1,0 +1,13 @@
+{
+  "longname": "Foundations and Trends",
+  "name": "foundations-trends",
+  "describe": "Recognizes the accesses to the platform Foundations and Trends",
+  "contact": "Karen Coombs",
+  "pkb": false,
+  "docurl": "http://analyses.ezpaarse.org/platforms/5fce9dd9daa90d04ed13a59f",
+  "domains": [
+    "nowpublishers.com"
+  ],
+  "version": "2020-12-07",
+  "status": "beta"
+}
