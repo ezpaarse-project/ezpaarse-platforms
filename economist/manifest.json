@@ -1,0 +1,13 @@
+{
+  "longname": "The Economist",
+  "name": "economist",
+  "describe": "Recognizes the accesses to the platform The Economist",
+  "contact": "Karen Coombs",
+  "pkb": false,
+  "docurl": "http://analyses.ezpaarse.org/platforms/5fce9ab4a408b3328df0aa67",
+  "domains": [
+    "www.economist.com"
+  ],
+  "version": "2020-10-05",
+  "status": "beta"
+}
