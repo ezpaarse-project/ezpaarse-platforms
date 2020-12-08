@@ -35,6 +35,17 @@ module.exports = new Parser(function analyseEC(parsedUrl, ec) {
     result.rtype    = 'REPORT';
     result.mime     = 'HTML';
     result.unitid   = match[1];
+  } else if ((match = /^\/download\/(.+)\/pdf$/i.exec(path)) !== null) {
+    // https://my.ibisworld.com/download/us/en/industry/23/1/0/pdf
+    // https://my.ibisworld.com:443/download/us/en/industry/23/1/0/pdf
+    result.rtype    = 'ARTICLE';
+    result.mime     = 'PDF';
+    result.unitid   = match[1];
+  } else if ((match = /^\/download\/(.+)\/excel$/i.exec(path)) !== null) {
+    // https://my.ibisworld.com:443/download/us/en/industry/23/1/0/excel
+    result.rtype    = 'DATASET';
+    result.mime     = 'XLS';
+    result.unitid   = match[1];
   }
 
   return result;
