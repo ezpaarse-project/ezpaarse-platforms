@@ -1,6 +1,11 @@
 out-rtype;out-mime;out-login;out-unitid;in-url
 SEARCH;HTML;;;https://www.wgsn.com/content/personalized/reports?query=shoes
+SEARCH;HTML;;;https://www.wgsn.com/fashion/search?query=watches
+SEARCH;HTML;;8309bc6a46bbf163f06790bc1214a341;https://www.wgsn.com/library/results/8309bc6a46bbf163f06790bc1214a341/watches
 REPORT;HTML;;88368;https://www.wgsn.com/content/board_viewer/#/88368/page/7
 REPORT;HTML;;63286;https://www.wgsn.com/content/board_viewer/#/63286/page/1
 REPORT;HTML;;88749;https://www.wgsn.com/content/board_viewer/#/88749/page/1
 TOC;HTML;;;https://www.wgsn.com/content/personalized/reports?categories=18&markets=12
+ARTICLE;HTML;;89181;https://www.wgsn.com/fashion/article/89181
+ARTICLE;HTML;;89318;https://www.wgsn.com/fashion/article/89318
+IMAGE;JPEG;;image.33766621;https://www.wgsn.com/content/image_viewer/#/image.33766621
