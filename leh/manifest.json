@@ -1,0 +1,13 @@
+{
+  "longname": "Learning Express Hub",
+  "name": "leh",
+  "describe": "Recognizes the accesses to the platform Learning Express Hub",
+  "contact": "Karen Coombs",
+  "pkb": false,
+  "docurl": "http://analyses.ezpaarse.org/platforms/5fcffbac1c3f1073151c4adf/analyses/5fcffc1176130010f67c994c",
+  "domains": [
+    "www.learningexpresshub.com"
+  ],
+  "version": "2020-12-08",
+  "status": "beta"
+}
