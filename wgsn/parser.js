@@ -31,13 +31,33 @@ module.exports = new Parser(function analyseEC(parsedUrl, ec) {
       result.rtype    = 'TOC';
       result.mime     = 'HTML';
     }
-
+  } else if ((match = /^\/[a-z]+\/search$/i.exec(path)) !== null) {
+    //https://www.wgsn.com/fashion/search?query=watches
+    result.rtype    = 'SEARCH';
+    result.mime     = 'HTML';
+    result.unitid   = match[1];
+  } else if ((match = /^\/library\/results\/([0-9a-z]+)\/(.+)$/i.exec(path)) !== null) {
+    // https://www.wgsn.com/library/results/8309bc6a46bbf163f06790bc1214a341/watches
+    result.rtype    = 'SEARCH';
+    result.mime     = 'HTML';
+    result.unitid   = match[1];
   } else if ((match = /^\/content\/board_viewer\/#\/([0-9]+)\/page\/[0-9]+$/i.exec(path + parsedUrl.hash)) !== null) {
     // https://www.wgsn.com/content/board_viewer/#/88368/page/7
     // https://www.wgsn.com/content/board_viewer/#/63286/page/1
     // https://www.wgsn.com/content/board_viewer/#/88749/page/1
     result.rtype    = 'REPORT';
     result.mime     = 'HTML';
+    result.unitid   = match[1];
+  } else if ((match = /^\/[a-z]+\/article\/([0-9]+)$/i.exec(path)) !== null) {
+    // https://www.wgsn.com/fashion/article/89181
+    // https://www.wgsn.com/fashion/article/89318
+    result.rtype    = 'ARTICLE';
+    result.mime     = 'HTML';
+    result.unitid   = match[1];
+  } else if ((match = /^\/content\/image_viewer\/#\/(.+)$/i.exec(path + parsedUrl.hash)) !== null) {
+    // https://www.wgsn.com/content/image_viewer/#/image.33766621    
+    result.rtype    = 'IMAGE';
+    result.mime     = 'JPEG';
     result.unitid   = match[1];
   }
 
