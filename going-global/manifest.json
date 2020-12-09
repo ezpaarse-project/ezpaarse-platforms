@@ -1,0 +1,13 @@
+{
+  "longname": "Going Global",
+  "name": "going-global",
+  "describe": "Recognizes the accesses to the platform Going Global",
+  "contact": "Karen Coombs",
+  "pkb": false,
+  "docurl": "http://analyses.ezpaarse.org/platforms/5fcea2561cacd53c360f9856",
+  "domains": [
+    "online.goinglobal.com"
+  ],
+  "version": "2020-12-07",
+  "status": "beta"
+}
