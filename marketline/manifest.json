@@ -1,0 +1,19 @@
+{
+  "version": "2020-10-09",
+  "status": "beta",
+  "domains": [
+    "advantage.marketline.com"
+  ],
+  "recognize": {
+    "rid": [
+      "title_id",
+      "unitid"
+    ]
+  },
+  "name": "marketline",
+  "longname": "MarketLine Advantage",
+  "describe": "Recognizes the accesses to the platform MarketLine Advantage",
+  "docurl": "https://advantage.marketline.com:443",
+  "contact": "jeaton@london.edu",
+  "pkb": false
+}
