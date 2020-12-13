@@ -1,19 +1,19 @@
 {
-	  "version": "2020-10-06",
-	  "status": "beta",
-	  "domains": [
-	    "project-syndicate.org"
-	  ],
-	  "recognize": {
-	    "rid": [
-	      "title_id",
-	      "unitid"
-	    ]
-	  },
-	  "name": "project-syndicate",
-	  "longname": "Project Syndicate",
-	  "describe": "Recognizes the accesses to the platform Project Syndicate",
-	  "docurl": "http://analyses.ezpaarse.org/platforms/5fd2a536801463660845b59c",
-	  "contact": "jeaton@london.edu",
-	  "pkb": false
-	}
+  "version": "2020-10-06",
+  "status": "beta",
+  "domains": [
+    "project-syndicate.org"
+  ],
+  "recognize": {
+    "rid": [
+      "title_id",
+      "unitid"
+    ]
+  },
+  "name": "project-syndicate",
+  "longname": "Project Syndicate",
+  "describe": "Recognizes the accesses to the platform Project Syndicate",
+  "docurl": "http://analyses.ezpaarse.org/platforms/5fd2a536801463660845b59c",
+  "contact": "jeaton@london.edu",
+  "pkb": false
+}
