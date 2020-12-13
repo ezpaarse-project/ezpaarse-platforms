@@ -1,0 +1,19 @@
+{
+  "version": "2020-10-06",
+  "status": "beta",
+  "domains": [
+    "pm-research.com"
+  ],
+  "recognize": {
+    "rid": [
+      "title_id",
+      "unitid"
+    ]
+  },
+  "name": "pageant-media",
+  "longname": "Pageant Media Journals",
+  "describe": "Recognizes the accesses to the platform Pageant Media Journals",
+  "docurl": "https://jpm.pm-research.com",
+  "contact": "jeaton@london.edu",
+  "pkb": false
+}
