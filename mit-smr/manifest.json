@@ -1,0 +1,19 @@
+{
+  "version": "2020-10-09",
+  "status": "beta",
+  "domains": [
+    "sloanreview.mit.edu"
+  ],
+  "recognize": {
+    "rid": [
+      "title_id",
+      "unitid"
+    ]
+  },
+  "name": "mit-smr",
+  "longname": "MIT-Sloan Management Review",
+  "describe": "Recognizes the accesses to the platform MIT-Sloan Management Review",
+  "docurl": "https://sloanreview.mit.edu:443",
+  "contact": "jeaton@london.edu",
+  "pkb": false
+}
