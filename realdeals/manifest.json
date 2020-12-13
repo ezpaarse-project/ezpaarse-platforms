@@ -1,0 +1,19 @@
+{
+	  "version": "2020-10-06",
+	  "status": "beta",
+	  "domains": [
+	    "realdeals.eu.com"
+	  ],
+	  "recognize": {
+	    "rid": [
+	      "title_id",
+	      "unitid"
+	    ]
+	  },
+	  "name": "realdeals",
+	  "longname": "Real Deals",
+	  "describe": "Recognizes the accesses to the platform Real Deals",
+	  "docurl": "http://analyses.ezpaarse.org/platforms/5fd2a794aef4248179567860",
+	  "contact": "jeaton@london.edu",
+	  "pkb": false
+	}
