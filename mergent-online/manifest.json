@@ -1,0 +1,20 @@
+{
+  "version": "2020-10-09",
+  "status": "beta",
+  "domains": [
+    "mergentonline.com",
+    "https://docportal.mergentonline.com:443/"
+  ],
+  "recognize": {
+    "rid": [
+      "title_id",
+      "unitid"
+    ]
+  },
+  "name": "mergentonline",
+  "longname": "Mergent Online",
+  "describe": "Recognizes the accesses to the platform Mergent Online",
+  "docurl": "https://www.mergentonline.com:443/",
+  "contact": "jeaton@london.edu",
+  "pkb": false
+}

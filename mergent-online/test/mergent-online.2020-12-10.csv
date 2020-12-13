@@ -1,0 +1,7 @@
+out-title_id;out-unitid;out-rtype;out-mime;in-url
+companyfinancials;12780;ARTICLE;MISC;https://www.mergentonline.com/companyfinancials.php?compnumber=12780
+companyannualreports;46032;ARTICLE;MISC;https://www.mergentonline.com/companyannualreports.php?reportnumber=2160793&compnumber=46032&pagetype=annualreport&getreport=1
+companydetail;12780;ARTICLE;MISC;https://www.mergentonline.com/companydetail.php?compnumber=12780
+equitypricing;12780;ARTICLE;MISC;https://www.mergentonline.com/equitypricing.php?compnumber=12780
+companyownership;12780;ARTICLE;MISC;https://www.mergentonline.com/companyownership.php?compnumber=12780
+companyfinancials;46032;DATASET;XLS;https://www.mergentonline.com/companyfinancials.php?compnumber=46032&isexcel=1
