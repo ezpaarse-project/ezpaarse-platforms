@@ -1,0 +1,13 @@
+{
+  "longname": "Responsible Investor",
+  "name": "responsible-investor",
+  "describe": "Recognizes the accesses to the platform Responsible Investor",
+  "contact": "jeaton@london.edu",
+  "pkb": false,
+  "docurl": "http://analyses.ezpaarse.org/platforms/5fd8f8fae5368e375cd9f990",
+  "domains": [
+    "www.responsible-investor.com"
+  ],
+  "version": "2020-12-15",
+  "status": "beta"
+}
