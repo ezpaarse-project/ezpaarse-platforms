@@ -37,7 +37,7 @@ module.exports = new Parser(function analyseEC(parsedUrl, ec) {
      */
     result.unitid = match[1];
 
- } else if ((match = /^\/(LibRepository)\/(.+)\.pdf$/i.exec(path)) !== null) {
+  } else if ((match = /^\/(LibRepository)\/(.+)\.pdf$/i.exec(path)) !== null) {
     // http://parser.skeleton.js/platform/path/to/document-123456-test.html?sequence=1
     //https://valueinvestorinsight.com:443/LibRepository/ValueInvestorInsight-Issue_531.pdf
     result.rtype    = 'ARTICLE';
