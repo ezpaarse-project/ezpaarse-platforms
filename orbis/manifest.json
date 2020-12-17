@@ -1,0 +1,13 @@
+{
+  "longname": "Orbis",
+  "name": "orbis",
+  "describe": "Recognizes the accesses to the platform Orbis",
+  "contact": "Karen Coombs",
+  "pkb": false,
+  "docurl": "http://analyses.ezpaarse.org/platforms/5fdbd2a1637c443b21e5918f",
+  "domains": [
+    "orbis.bvdinfo.com"
+  ],
+  "version": "2020-12-17",
+  "status": "beta"
+}
