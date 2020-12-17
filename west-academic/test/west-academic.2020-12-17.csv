@@ -1,0 +1,8 @@
+out-rtype;out-mime;out-login;out-unitid;out-title_id;in-url
+SEARCH;HTML;;;;https://subscription.westacademic.com/search?q=LSAT
+SEARCH;HTML;;;;https://subscription.westacademic.com/Search?subjectFilter=2&sort=document-views
+SEARCH;HTML;;26096;26096;https://subscription.westacademic.com/Book/Detail/26096?q=Chapter%20Two%20Intestacy%3A%20An%20Estate%20Plan%20by%20Default&sort=best-match
+TOC;HTML;;23048;23048;https://subscription.westacademic.com/Book/Detail/23048
+TOC;HTML;;20346;20346;https://subscription.westacademic.com/Book/Detail/20346#toc-ta
+BOOK_SECTION;HTML;;26096;26096-07_chapter03;https://subscription.westacademic.com/book/Preview?chapterUri=%2Fdata%2Fbooks%2F26096%2Fdocbook%2F07_chapter03.xml#ch3
+BOOK_SECTION;HTML;;26096;26096-13_chapter09;https://subscription.westacademic.com/book/Preview?chapterUri=%2Fdata%2Fbooks%2F26096%2Fdocbook%2F13_chapter09.xml

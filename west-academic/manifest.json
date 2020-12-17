@@ -1,0 +1,13 @@
+{
+  "longname": "West Academic",
+  "name": "west-academic",
+  "describe": "Recognizes the accesses to the platform West Academic",
+  "contact": "Karen Coombs",
+  "pkb": false,
+  "docurl": "http://analyses.ezpaarse.org/platforms/5fdbd768769b1e612a76f0e0",
+  "domains": [
+    "subscription.westacademic.com"
+  ],
+  "version": "2020-12-17",
+  "status": "beta"
+}
