@@ -45,11 +45,10 @@ module.exports = new Parser(function analyseEC(parsedUrl, ec) {
     // https://subscription.westacademic.com/book/Preview?chapterUri=%2Fdata%2Fbooks%2F26096%2Fdocbook%2F13_chapter09.xml
     result.rtype    = 'BOOK_SECTION';
     result.mime     = 'HTML';
-    let chapterMatch;
-    chapterMatch = /^\/data\/books\/([0-9]+)\/docbook\/(.+).xml$/i.exec(param.chapterUri);
+    let chapterMatch = /^\/data\/books\/([0-9]+)\/docbook\/(.+).xml$/i.exec(param.chapterUri);
 
     result.unitid = chapterMatch[1];
-    result.title_id   = chapterMatch[1] + '-' + chapterMatch[2];
+    result.title_id = `${chapterMatch[1]}-${chapterMatch[2]}`;
   }
 
   return result;
