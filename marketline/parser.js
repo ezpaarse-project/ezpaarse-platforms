@@ -23,7 +23,7 @@ module.exports = new Parser(function analyseEC(parsedUrl, ec) {
 
   if ((match = /^\/Analysis\/ViewasPDF\/(.+)[-]([0-9]{3,7})/i.exec(path)) !== null) {
     // http://parser.skeleton.js/platform/path/to/document-123456-test.pdf?sequence=1
-    // https://advantage.marketline.com:443/Analysis/ViewasPDF/smart-hospitals-covid-19-is-encouraging-an-already-rapidly-growing-trend-108385
+    // https://advantage.marketline.com/Analysis/ViewasPDF/smart-hospitals-covid-19-is-encouraging-an-already-rapidly-growing-trend-108385
 
     result.rtype    = 'ARTICLE';
     result.mime     = 'PDF';
@@ -39,25 +39,34 @@ module.exports = new Parser(function analyseEC(parsedUrl, ec) {
 
   } else if ((match = /^\/Analysis\/ExportFullReportToPdf\/(.+)[-]([0-9]{3,7})/i.exec(path)) !== null) {
     // http://parser.skeleton.js/platform/path/to/document-123456-test.html?sequence=1
-    // https://advantage.marketline.com:443/Analysis/ExportFullReportToPdf/russia-approves-covid-19-vaccine-eager-to-lead-the-vaccine-race-whatever-the-cost-105571?viewertype=embed
+    // https://advantage.marketline.com/Analysis/ExportFullReportToPdf/russia-approves-covid-19-vaccine-eager-to-lead-the-vaccine-race-whatever-the-cost-105571?viewertype=embed
     result.rtype    = 'ARTICLE';
     result.mime     = 'PDF';
     result.title_id = match[1];
     result.unitid   = match[2];
 
   } else if ((match = /^\/Company\/(Summary|ResearchReports)\/(.+)$/i.exec(path)) !== null) {
-    // https://advantage.marketline.com:443/Company/Summary/microsoft_corporation
-    // https://advantage.marketline.com:443/Company/ResearchReports/microsoft_corporation
-    result.rtype    = 'ARTICLE';
+    // https://advantage.marketline.com/Company/Summary/microsoft_corporation
+    // https://advantage.marketline.com/Company/ResearchReports/microsoft_corporation
+    // https://advantage.marketline.com/Company/Summary/australian-taxation-office
+    result.rtype    = 'TOC';
     result.mime     = 'HTML';
     result.title_id = match[1];
     result.unitid   = match[2];
   } else if ((match = /^\/(News)\/(.+)$/i.exec(path)) !== null) {
-  // https://advantage.marketline.com:443/News/firmenich-announces-the-world-s-first-ai-created-flavor-8162306
+  // https://advantage.marketline.com/News/firmenich-announces-the-world-s-first-ai-created-flavor-8162306
     result.rtype    = 'ARTICLE';
     result.mime     = 'HTML';
     result.title_id = match[1];
     result.unitid   = match[2];
+  } else if ((match = /^\/search$/i.exec(path)) !== null) {
+  // https://advantage.marketline.com/search?q%5B%5D=crypto&IsSearchApi=true&exactword=1
+    result.rtype    = 'SEARCH';
+    result.mime     = 'HTML';
+  } else if ((match = /^\/(Analytics)\/(.+)\/(.+)$/i.exec(path)) !== null) {
+  // https://advantage.marketline.com/Analytics/CountryDatabase/CountryData
+    result.rtype    = 'TOOL';
+    result.mime     = 'HTML';
   }
   return result;
 
