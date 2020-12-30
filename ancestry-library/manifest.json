@@ -1,0 +1,14 @@
+{
+  "longname": "Ancestry Library",
+  "name": "ancestry-library",
+  "describe": "Recognizes the accesses to the platform Ancestry Library",
+  "contact": "Karen Coombs",
+  "pkb": false,
+  "docurl": "http://analyses.ezpaarse.org/platforms/5feccb4a4b9b0527f17af386",
+  "domains": [
+    "www.ancestrylibrary.com",
+    "search.ancestrylibrary.com"
+  ],
+  "version": "2020-12-30",
+  "status": "beta"
+}
