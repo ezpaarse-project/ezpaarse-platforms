@@ -1,0 +1,13 @@
+{
+  "longname": "Chemische Feitelijkheden",
+  "name": "cf",
+  "describe": "Recognizes the accesses to the platform Chemische Feitelijkheden",
+  "contact": "Karen Coombs",
+  "pkb": false,
+  "docurl": "http://analyses.ezpaarse.org/platforms/5fedf67e9dd5ab25b6b743c0",
+  "domains": [
+    "www.chemischefeitelijkheden.nl"
+  ],
+  "version": "2020-12-31",
+  "status": "beta"
+}
