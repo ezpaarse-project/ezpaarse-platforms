@@ -1,0 +1,13 @@
+{
+  "longname": "Tijdschrift Voor Psychiatrie",
+  "name": "tvp",
+  "describe": "Recognizes the accesses to the platform Tijdschrift Voor Psychiatrie",
+  "contact": "Karen Coombs",
+  "pkb": false,
+  "docurl": "http://analyses.ezpaarse.org/platforms/5fee03742683bc315e590685",
+  "domains": [
+    "www.tijdschriftvoorpsychiatrie.nl"
+  ],
+  "version": "2020-12-31",
+  "status": "beta"
+}
