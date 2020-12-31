@@ -1,0 +1,13 @@
+{
+  "longname": "Brepols Online",
+  "name": "brepols-online",
+  "describe": "Recognizes the accesses to the platform Brepols Online",
+  "contact": "Karen Coombs",
+  "pkb": false,
+  "docurl": "http://analyses.ezpaarse.org/platforms/5fecd0aae3cb970b780e4116",
+  "domains": [
+    "www.brepolsonline.net"
+  ],
+  "version": "2020-12-30",
+  "status": "beta"
+}
