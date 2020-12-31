@@ -1,19 +1,19 @@
 {
-	  "version": "2020-10-12",
-	  "status": "beta",
-	  "domains": [
-	    "technavio.com"
-	  ],
-	  "recognize": {
-	    "rid": [
-	      "title_id",
-	      "unitid"
-	    ]
-	  },
-	  "name": "technavio",
-	  "longname": "Technavio Insights",
-	  "describe": "Recognizes the accesses to the platform Technavio Insights",
-	  "docurl": "http://analyses.ezpaarse.org/platforms/5fdba6102ba4c11f327d7afe",
-	  "contact": "jeaton@london.edu",
-	  "pkb": false
+	"version": "2020-10-12",
+	"status": "beta",
+	"domains": [
+		"technavio.com"
+	],
+	"recognize": {
+		"rid": [
+			"title_id",
+			"unitid"
+		]
+	},
+	"name": "technavio",
+	"longname": "Technavio Insights",
+	"describe": "Recognizes the accesses to the platform Technavio Insights",
+	"docurl": "http://analyses.ezpaarse.org/platforms/5fdba6102ba4c11f327d7afe",
+	"contact": "jeaton@london.edu",
+	"pkb": false
 }
