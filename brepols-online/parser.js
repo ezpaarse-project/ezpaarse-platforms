@@ -38,9 +38,8 @@ module.exports = new Parser(function analyseEC(parsedUrl, ec) {
     result.rtype    = 'TOC';
     result.mime     = 'HTML';
     result.unitid   = match[1];
-  } else if ((match = /^\/doi\/epdf\/(.+)$/i.exec(path)) !== null) {
-    let doi = match[1];
-    if (doi.includes('JUA') || doi.includes('jua')) {
+  } else if ((match = /^\/doi\/epdf\/((10\.[0-9]+)\/[a-z]+\.(jua|[a-z_-]+)\.[0-9]+\.[0-9]+)$/i.exec(path)) !== null) {
+    if (match[3].toLowerCase() === 'jua') {
       // https://www.brepolsonline.net/doi/epdf/10.1484/J.JUA.5.120913
       result.rtype    = 'ARTICLE';
       result.mime     = 'PDF';
