@@ -6,7 +6,8 @@
   "pkb": false,
   "docurl": "https://ocpsb.on.worldcat.org",
   "domains": [
-    "ocpsb.on.worldcat.org"
+    "ocpsb.on.worldcat.org",
+    "divinemercy.on.worldcat.org"
   ],
   "version": "2020-09-25",
   "status": "beta"
