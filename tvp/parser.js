@@ -25,7 +25,7 @@ module.exports = new Parser(function analyseEC(parsedUrl, ec) {
     // http://www.tijdschriftvoorpsychiatrie.nl/assets/articles/62-2020-10-artikel-nieuws.pdf
     result.rtype    = 'ARTICLE';
     result.mime     = 'PDF';
-    result.unitid = match[1];
+    result.unitid   = match[1];
 
   } else if ((match = /^\/.+\/issues\/[0-9]+\/articles\/([0-9]+)$/i.exec(path)) !== null) {
     // http://www.tijdschriftvoorpsychiatrie.nl/en/issues/557/articles/12342
