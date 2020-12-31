@@ -37,7 +37,7 @@ module.exports = new Parser(function analyseEC(parsedUrl, ec) {
     // https://www.ancestrylibrary.com/imageviewer/collections/2238/images/44037_04_00002-02600?treeid=&personid=&hintid=&queryId=8f0663d1f0268f89592673ceb32b3245&usePUB=true&_phsrc=aTR15&_phstart=successSource&usePUBJs=true&pId=197290657
     result.rtype    = 'IMAGE';
     result.mime     = 'JPEG';
-    result.unitid  = match[1];
+    result.unitid   = match[1];
   }
 
   return result;
