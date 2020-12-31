@@ -1,19 +1,19 @@
 {
-	  "version": "2020-10-06",
-	  "status": "beta",
-	  "domains": [
-	    "valueinvestorinsight.com"
-	  ],
-	  "recognize": {
-	    "rid": [
-	      "title_id",
-	      "unitid"
-	    ]
-	  },
-	  "name": "value-investor",
-	  "longname": "Value Investor Insight",
-	  "describe": "Recognizes the accesses to the platform Value Investor Insight",
-	  "docurl": "http://analyses.ezpaarse.org/platforms/5fdbaa744696e464b6c4fc9c",
-	  "contact": "jeaton@london.edu",
-	  "pkb": false
+	"version": "2020-10-06",
+	"status": "beta",
+	"domains": [
+		"valueinvestorinsight.com"
+	],
+	"recognize": {
+		"rid": [
+			"title_id",
+			"unitid"
+		]
+	},
+	"name": "value-investor",
+	"longname": "Value Investor Insight",
+	"describe": "Recognizes the accesses to the platform Value Investor Insight",
+	"docurl": "http://analyses.ezpaarse.org/platforms/5fdbaa744696e464b6c4fc9c",
+	"contact": "jeaton@london.edu",
+	"pkb": false
 }
