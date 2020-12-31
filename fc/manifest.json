@@ -1,0 +1,13 @@
+{
+  "longname": "Fast Case",
+  "name": "fc",
+  "describe": "Recognizes the accesses to the platform Fast Case",
+  "contact": "Karen Coombs",
+  "pkb": false,
+  "docurl": "http://analyses.ezpaarse.org/platforms/5fee2b3fb735db3cf3af1e85",
+  "domains": [
+    "fc7.fastcase.com"
+  ],
+  "version": "2020-12-31",
+  "status": "beta"
+}
