@@ -1,0 +1,13 @@
+{
+  "longname": "Ancestry Heritage Quest",
+  "name": "ahq",
+  "describe": "Recognizes the accesses to the platform Ancestry Heritage Quest",
+  "contact": "Karen Coombs",
+  "pkb": false,
+  "docurl": "http://analyses.ezpaarse.org/platforms/5fecd9d7a717764ae1e1ff1a",
+  "domains": [
+    "www.ancestryheritagequest.com"
+  ],
+  "version": "2020-12-30",
+  "status": "beta"
+}
