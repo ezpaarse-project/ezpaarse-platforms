@@ -26,7 +26,7 @@ module.exports = new Parser(function analyseEC(parsedUrl, ec) {
     // https://www.chemischefeitelijkheden.nl/files/7d49517a82f3edae30ec9c66d721a931.pdf
     result.rtype    = 'ARTICLE';
     result.mime     = 'PDF';
-    result.unitid = match[1];
+    result.unitid   = match[1];
 
   } else if ((match = /^\/artikelen\/([0-9a-z-]+)$/i.exec(path)) !== null) {
     // https://www.chemischefeitelijkheden.nl/artikelen/botox
