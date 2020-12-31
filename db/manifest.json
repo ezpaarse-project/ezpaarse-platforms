@@ -1,0 +1,13 @@
+{
+  "longname": "Dieet Behandelingsrichtlijnen",
+  "name": "db",
+  "describe": "Recognizes the accesses to the platform Dieet Behandelingsrichtlijnen",
+  "contact": "Karen Coombs",
+  "pkb": false,
+  "docurl": "http://analyses.ezpaarse.org/platforms/5fee24b56b034f34c521d679",
+  "domains": [
+    "www.dieetbehandelingsrichtlijnen.nl"
+  ],
+  "version": "2020-12-31",
+  "status": "beta"
+}
