@@ -31,7 +31,7 @@ module.exports = new Parser(function analyseEC(parsedUrl, ec) {
   }
   // use console.error for debuging
   //console.error(parsedUrl);
-  console.error(hash);
+  //console.error(hash);
 
   let match;
 
