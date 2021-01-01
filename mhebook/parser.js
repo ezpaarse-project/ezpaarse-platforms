@@ -26,27 +26,24 @@ module.exports = new Parser(function analyseEC(parsedUrl, ec) {
     result.rtype    = 'SEARCH';
     result.mime     = 'HTML';
 
-  } else if ((match = /^\/doi\/book\/.+\/([0-9]+)$/i.exec(path)) !== null && param.contentTab) {
+  } else if ((match = /^\/doi\/(book|pdf)\/.+\/([0-9]+)$/i.exec(path)) !== null) {
     // https://mhebooklibrary.com/doi/book/10.1036/9781260459821?contentTab=true
     // https://mhebooklibrary.com/doi/book/10.1036/9781260462050?contentTab=true
-    result.rtype    = 'TOC';
-    result.mime     = 'HTML';
-    result.title_id = match[1];
-    result.unitid   = match[1];
-  } else if ((match = /^\/doi\/book\/.+\/([0-9]+)$/i.exec(path)) !== null) {
-    // https://mhebooklibrary.com/doi/book/10.1036/9781260459821
-    // https://mhebooklibrary.com/doi/book/10.1036/9781260462050
-    result.rtype    = 'RECORD';
-    result.mime     = 'HTML';
-    result.title_id = match[1];
-    result.unitid   = match[1];
-  } else if ((match = /^\/doi\/pdf\/.+\/([0-9]+)$/i.exec(path)) !== null) {
-    // https://mhebooklibrary.com/doi/pdf/10.1036/9781260462050
-    // https://mhebooklibrary.com/doi/pdf/10.1036/9780071739962
-    result.rtype    = 'BOOK';
-    result.mime     = 'PDF';
-    result.title_id = match[1];
-    result.unitid   = match[1];
+    result.rtype = 'RECORD';
+    result.mime = 'HTML';
+
+    if (match[1] === 'pdf') {
+      result.rtype = 'BOOK';
+      result.mime = 'PDF';
+    }
+
+    if (param.contentTab) {
+      result.rtype = 'TOC';
+      result.mime = 'HTML';
+    }
+
+    result.title_id = match[2];
+    result.unitid   = match[2];
   }
 
   return result;
