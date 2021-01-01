@@ -1,0 +1,13 @@
+{
+  "longname": "Boomjuridischtijdschriften",
+  "name": "bjh",
+  "describe": "Recognizes the accesses to the platform Boomjuridischtijdschriften",
+  "contact": "Karen Coombs",
+  "pkb": false,
+  "docurl": "http://analyses.ezpaarse.org/platforms/5fee1cd61d5aba4b9620a4a3",
+  "domains": [
+    "www.bjutijdschriften.nl"
+  ],
+  "version": "2020-12-31",
+  "status": "beta"
+}
