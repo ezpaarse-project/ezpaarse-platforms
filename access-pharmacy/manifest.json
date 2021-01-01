@@ -1,0 +1,14 @@
+{
+  "longname": "Access Pharmacy",
+  "name": "access-pharmacy",
+  "describe": "Recognizes the accesses to the platform Access Pharmacy",
+  "contact": "Karen Coombs",
+  "pkb": false,
+  "docurl": "http://analyses.ezpaarse.org/platforms/5fef5c6a997ca12bf799255b",
+  "domains": [
+    "accesspharmacy.mhmedical.com",
+    "mgh.silverchair-cdn.com"
+  ],
+  "version": "2021-01-01",
+  "status": "beta"
+}
