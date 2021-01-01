@@ -1,0 +1,13 @@
+{
+  "longname": "Birds of the World",
+  "name": "bow",
+  "describe": "Recognizes the accesses to the platform Birds of the World",
+  "contact": "Karen Coombs",
+  "pkb": false,
+  "docurl": "http://analyses.ezpaarse.org/platforms/5fef66bd0a7ca376017be6b5",
+  "domains": [
+    "birdsoftheworld.org"
+  ],
+  "version": "2021-01-01",
+  "status": "beta"
+}

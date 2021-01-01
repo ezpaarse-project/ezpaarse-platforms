@@ -1,0 +1,13 @@
+out-rtype;out-mime;out-login;out-unitid;in-url
+IMAGE;GIF;;chfspa1;https://birdsoftheworld.org/bow/species/chfspa1/cur/multimedia?media=photos
+IMAGE;GIF;;unijay1;https://birdsoftheworld.org/bow/species/unijay1/cur/multimedia?media=photos
+IMAGE;GIF;;mexjay3;https://birdsoftheworld.org/bow/species/mexjay3/cur/multimedia?media=illustrations
+MAP;GIF;;mexjay3;https://birdsoftheworld.org/bow/species/mexjay3/cur/multimedia?media=figures
+VIDEO;MISC;;unijay1;https://birdsoftheworld.org/bow/species/unijay1/cur/multimedia?media=video
+VIDEO;MISC;;mexjay3;https://birdsoftheworld.org/bow/species/mexjay3/cur/multimedia?media=video
+AUDIO;MP3;;unijay1;https://birdsoftheworld.org/bow/species/unijay1/cur/multimedia?media=audio
+AUDIO;MP3;;mexjay3;https://birdsoftheworld.org/bow/species/mexjay3/cur/multimedia?media=audio
+ENCYCLOPAEDIA_ENTRY;HTML;;corvid1;https://birdsoftheworld.org/bow/species/corvid1/cur/introduction#idsum
+ENCYCLOPAEDIA_ENTRY;HTML;;mexjay3;https://birdsoftheworld.org/bow/species/mexjay3/cur/introduction#sounds
+TOC;HTML;;corvid1;https://birdsoftheworld.org/bow/species/corvid1/cur/species
+REF;HTML;;mexjay3;https://birdsoftheworld.org/bow/species/mexjay3/cur/references
