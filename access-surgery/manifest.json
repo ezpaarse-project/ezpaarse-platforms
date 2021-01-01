@@ -1,0 +1,13 @@
+{
+  "longname": "Access Surgery",
+  "name": "access-surgery",
+  "describe": "Recognizes the accesses to the platform Access Surgery",
+  "contact": "Karen Coombs",
+  "pkb": false,
+  "docurl": "http://analyses.ezpaarse.org/platforms/5fef611e936a6d1e1bc7d8d5",
+  "domains": [
+    "accesssurgery.mhmedical.com"
+  ],
+  "version": "2021-01-01",
+  "status": "beta"
+}
