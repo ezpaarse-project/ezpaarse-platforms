@@ -1,0 +1,13 @@
+{
+  "longname": "Fiscaal Totaal",
+  "name": "fiscaal-totaal",
+  "describe": "Recognizes the accesses to the platform Fiscaal Totaal",
+  "contact": "Karen Coombs",
+  "pkb": false,
+  "docurl": "http://analyses.ezpaarse.org/platforms/5fee1fd48c5caf4167909933",
+  "domains": [
+    "professional.fiscaaltotaal.nl"
+  ],
+  "version": "2020-12-31",
+  "status": "beta"
+}
