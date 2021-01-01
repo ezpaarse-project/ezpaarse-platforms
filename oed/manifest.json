@@ -1,0 +1,13 @@
+{
+  "longname": "Oxford English Dictionary",
+  "name": "oed",
+  "describe": "Recognizes the accesses to the platform Oxford English Dictionary",
+  "contact": "Karen Coombs",
+  "pkb": false,
+  "docurl": "http://analyses.ezpaarse.org/platforms/5fef47ace9a11d72202499be",
+  "domains": [
+    "www.oed.com"
+  ],
+  "version": "2021-01-01",
+  "status": "beta"
+}
