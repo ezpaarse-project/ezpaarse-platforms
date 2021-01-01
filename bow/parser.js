@@ -21,47 +21,62 @@ module.exports = new Parser(function analyseEC(parsedUrl, ec) {
 
   let match;
 
-  if ((match = /^\/bow\/species\/([0-9a-z]+)\/cur\/multimedia$/i.exec(path)) !== null && (param.media == 'photos' || param.media == 'illustrations')) {
+  if ((match = /^\/bow\/species\/([0-9a-z]+)\/cur\/(multimedia|introduction|species|references)$/i.exec(path)) !== null) {
     // https://birdsoftheworld.org/bow/species/chfspa1/cur/multimedia?media=photos
     // https://birdsoftheworld.org/bow/species/unijay1/cur/multimedia?media=photos
     // https://birdsoftheworld.org/bow/species/mexjay3/cur/multimedia?media=illustrations
-    result.rtype    = 'IMAGE';
-    result.mime     = 'GIF';
-    result.unitid = match[1];
-
-  } else if ((match = /^\/bow\/species\/([0-9a-z]+)\/cur\/multimedia$/i.exec(path)) !== null && param.media == 'figures') {
     // https://birdsoftheworld.org/bow/species/mexjay3/cur/multimedia?media=figures
-    result.rtype    = 'MAP';
-    result.mime     = 'GIF';
-    result.unitid   = match[1];
-  } else if ((match = /^\/bow\/species\/([0-9a-z]+)\/cur\/multimedia$/i.exec(path)) !== null && param.media == 'video') {
     // https://birdsoftheworld.org/bow/species/unijay1/cur/multimedia?media=video
     // https://birdsoftheworld.org/bow/species/mexjay3/cur/multimedia?media=video
-    result.rtype    = 'VIDEO';
-    result.mime     = 'MISC';
-    result.unitid   = match[1];
-  } else if ((match = /^\/bow\/species\/([0-9a-z]+)\/cur\/multimedia$/i.exec(path)) !== null && param.media == 'audio') {
     // https://birdsoftheworld.org/bow/species/unijay1/cur/multimedia?media=audio
     // https://birdsoftheworld.org/bow/species/mexjay3/cur/multimedia?media=audio
-    result.rtype    = 'AUDIO';
-    result.mime     = 'MP3';
-    result.unitid   = match[1];
-  } else if ((match = /^\/bow\/species\/([0-9a-z]+)\/cur\/introduction$/i.exec(path)) !== null) {
     // https://birdsoftheworld.org/bow/species/corvid1/cur/introduction#idsum
     // https://birdsoftheworld.org/bow/species/mexjay3/cur/introduction#sounds
-    result.rtype    = 'ENCYCLOPAEDIA_ENTRY';
-    result.mime     = 'HTML';
-    result.unitid   = match[1];
-  } else if ((match = /^\/bow\/species\/([0-9a-z]+)\/cur\/species$/i.exec(path)) !== null) {
     // https://birdsoftheworld.org/bow/species/corvid1/cur/species
-    result.rtype    = 'TOC';
-    result.mime     = 'HTML';
-    result.unitid   = match[1];
-  } else if ((match = /^\/bow\/species\/([0-9a-z]+)\/cur\/references$/i.exec(path)) !== null) {
     // https://birdsoftheworld.org/bow/species/mexjay3/cur/references
-    result.rtype    = 'REF';
-    result.mime     = 'HTML';
-    result.unitid   = match[1];
+    result.unitid = match[1];
+
+    if (match[2] === 'multimedia') {
+      switch (param.media) {
+      case 'photos':
+      case 'illustrations':
+        result.rtype = 'IMAGE';
+        result.mime = 'GIF';
+        break;
+
+      case 'figures':
+        result.rtype = 'MAP';
+        result.mime = 'GIF';
+        break;
+
+      case 'video':
+        result.rtype = 'VIDEO';
+        result.mime = 'MISC';
+        break;
+
+      case 'audio':
+        result.rtype = 'AUDIO';
+        result.mime = 'MP3';
+        break;
+      }
+    }
+
+    switch (match[2]) {
+    case 'introduction':
+      result.rtype = 'ENCYCLOPAEDIA_ENTRY';
+      result.mime = 'HTML';
+      break;
+
+    case 'species':
+      result.rtype = 'TOC';
+      result.mime  = 'HTML';
+      break;
+
+    case 'references':
+      result.rtype = 'REF';
+      result.mime  = 'HTML';
+      break;
+    }
   }
 
   return result;
