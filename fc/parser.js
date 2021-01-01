@@ -20,17 +20,18 @@ module.exports = new Parser(function analyseEC(parsedUrl, ec) {
   // console.error(parsedUrl);
 
 
-  if (/^\/results$/i.test(path) == true && param.docUid) {
+  if (/^\/results$/i.test(path) == true) {
     // https://fc7.fastcase.com/results?q=tort&docUid=22132905&currentView=results
     // https://fc7.fastcase.com/results?q=%22intellectual%20property%22&currentView=results&docUid=21173972
-    result.rtype    = 'ARTICLE';
-    result.mime     = 'HTML';
-    result.unitid   = param.docUid;
-  } else if (/^\/results$/i.test(path) == true) {
+
     // https://fc7.fastcase.com/results?q=tort
     // https://fc7.fastcase.com/results?q=%22intellectual%20property%22
-    result.rtype    = 'SEARCH';
-    result.mime     = 'HTML';
+    result.rtype = param.docUid ? 'ARTICLE' : 'SEARCH';
+    result.mime  = 'HTML';
+
+    if (param.docUid) {
+      result.unitid = param.docUid;
+    }
   }
 
   return result;
