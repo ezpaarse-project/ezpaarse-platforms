@@ -66,27 +66,23 @@ module.exports = new Parser(function analyseEC(parsedUrl, ec) {
     }
   } else if ((match = /^\/(export\/pdf\/)?([a-z0-9-]+)\.html$/i.exec(path)) !== null) {
     result.mime     = match[1] ? 'PDF' : 'HTML';
-    result.rtype    = 'BOOK_SECTION';
     result.unitid   = match[2];
 
-    let matching ;
-    if ((matching = /^([a-z0-9]+)([a-z0-9-]+)(-[0-9]+-n-([0-9]+))([a-z0-9-]+)$/i.exec(match[2])) !== null) {
-      if (param && param.displaymode === 'full') {
-        result.rtype = 'HTML';
-        result.rtype = 'ARTICLE';
-      } else {
-        result.rtype = 'ABS';
-      }
+    let matching;
+    if ((matching = /^([a-z0-9-]+?)(-[0-9-]*n-([0-9]+))/i.exec(match[2])) !== null) {
+      // ARTICLE: /the-balzac-review-revue-balzac-2019-n-2-l-interiorite-interiority-musique-et-vie-interieure-chez-balzac.html?displaymode=full
+      // ABS: /the-balzac-review-revue-balzac-2019-n-2-l-interiorite-interiority-musique-et-vie-interieure-chez-balzac.html
+      // TOC: /the-balzac-review-revue-balzac-2019-n-2-l-interiorite-interiority.html
+      // ABS: /romanesques-2018-revue-du-cercll-roman-romanesque-n-10-romanesques-noirs-1750-1850.html
 
-      result.title_id = `${matching[1]}${matching[2]}`;
-    } else if ((matching = /^([a-z0-9]+)([a-z0-9-]+)(-n-([0-9]+))([a-z0-9-]+)$/i.exec(match[2])) !== null) {
-      result.rtype    = 'TOC';
-      result.unitid   = matching[0];
       result.title_id = matching[1];
-    }
+      result.issue = matching[3];
 
-    if (matching && matching[4]) {
-      result.issue = matching[4];
+      if (param && param.displaymode === 'full') {
+        result.rtype = 'ARTICLE';
+      }
+    } else {
+      result.rtype = 'BOOK_SECTION';
     }
   }
 
