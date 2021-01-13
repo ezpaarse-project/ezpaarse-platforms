@@ -2,7 +2,8 @@
   "version": "2015-11-09",
   "status": "beta",
   "domains": [
-     "www.degruyter.com"
+     "www.degruyter.com",
+     "db.degruyter.com"
   ],
   "bacon": {
     "provider": "DEGRUYTER"

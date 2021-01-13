@@ -64,6 +64,14 @@ module.exports = new Parser(function analyseEC(parsedUrl, ec) {
     result.unitid           = match[3];
     result.doi              = `${doiPrefix}/${match[3]}`;
 
+  } else if ((match = /^\/view\/title\/([0-9a-z_]+)$/i.exec(path)) !== null) {
+    // /printpdf/view/AKL/_40431827T3?rskey=tIhc8o&result=1&dbq_0=Gaugeron&dbf_0=akl-fulltext&dbt_0=fulltext&o_0=AND
+    // /view/AKL/_40431827T3?rskey=tIhc8o&result=1&dbq_0=Gaugeron&dbf_0=akl-fulltext&dbt_0=fulltext&o_0=AND
+
+    result.rtype    = 'TOC';
+    result.mime     = 'HTML';
+    result.unitid   = match[1];
+
   } else if ((match = /^(\/printpdf)?\/view\/([a-z]+)\/([0-9a-z_]+)$/i.exec(path)) !== null) {
     // /printpdf/view/AKL/_40431827T3?rskey=tIhc8o&result=1&dbq_0=Gaugeron&dbf_0=akl-fulltext&dbt_0=fulltext&o_0=AND
     // /view/AKL/_40431827T3?rskey=tIhc8o&result=1&dbq_0=Gaugeron&dbf_0=akl-fulltext&dbt_0=fulltext&o_0=AND
@@ -90,8 +98,9 @@ module.exports = new Parser(function analyseEC(parsedUrl, ec) {
     if (match[6]) {
       result.first_page    = match[6];
     }
-  } else if ((match = /^\/downloadpdf\/journals\/([a-z]+)\/([0-9]+)\/([0-9]+)\/(article-p([0-9]+)).xml$/i.exec(path)) !== null) {
+  } else if ((match = /^\/downloadpdf\/journals\/([a-z]+)\/([0-9]+)\/([0-9]+)\/(article-p([0-9]+))\.(xml|pdf)$/i.exec(path)) !== null) {
     // /downloadpdf/journals/etly/2/1/article-p95.xml
+    // /downloadpdf/journals/jtph/1/3/article-p313.pdf
 
     result.rtype      = 'ARTICLE';
     result.mime       = 'PDF';
@@ -100,21 +109,22 @@ module.exports = new Parser(function analyseEC(parsedUrl, ec) {
     result.issue      = match[3];
     result.unitid     = `${match[1]}/${match[2]}/${match[3]}/${match[4]}`;
     result.first_page = match[5];
-  } else if ((match = /^\/download(pdf|epub)\/title\/([0-9]+)$/i.exec(path)) !== null) {
+  } else if ((match = /^\/download(pdf|epub)\/title\/([0-9]+)(?:\.pdf)?$/i.exec(path)) !== null) {
     // /downloadpdf/title/551480
     // /downloadepub/title/551480
+    // /downloadpdf/title/561828.pdf
 
     result.rtype    = 'BOOK';
     result.mime     = match[1].toUpperCase();
     result.unitid   = match[2];
-  } else if ((match = /^\/(downloadpdf|view)\/book\/([0-9]+)\/((10.[0-9]+)\/([0-9-]+)).xml$/i.exec(path)) !== null) {
+  } else if ((match = /^\/(downloadpdf|view)\/book\/([0-9]+)\/(10.[0-9]+\/([0-9-]+)).xml$/i.exec(path)) !== null) {
     // /view/book/9783110638202/10.1515/9783110638202-005.xml
     // /downloadpdf/book/9783110638202/10.1515/9783110638202-005.xml
 
     result.rtype    = 'BOOK_SECTION';
     result.mime     = 'PDF';
     result.doi      = match[3];
-    result.unitid   = match[5];
+    result.unitid   = match[4];
     result.online_identifier = match[2];
   }
 
