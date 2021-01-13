@@ -3,8 +3,7 @@
   "status": "beta",
   "domains": [
     "luther.chadwyck.co.uk",
-    "acta.chadwyck.co.uk",
-    "pld.chadwyck.co.uk"
+    "acta.chadwyck.co.uk"
   ],
   "recognize": {
     "rid": [
