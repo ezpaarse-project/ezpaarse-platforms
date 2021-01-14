@@ -1,0 +1,5 @@
+out-unitid;out-rtype;out-mime;in-url
+;SEARCH;HTML;https://app.avention.com/search/article?q=snow
+47f1ee50-e624-346f-8336-bdf7e4b3ac47;ARTICLE;HTML;https://app.avention.com/company/47f1ee50-e624-346f-8336-bdf7e4b3ac47#report/company_summary
+2bae4095-871d-3f89-ac09-40a390b8b176;ARTICLE;HTML;https://app.avention.com/industry/2bae4095-871d-3f89-ac09-40a390b8b176#report/industry_summary
+90507689;ARTICLE;PDF;https://app.avention.com/API/Report/ApplinkPDF/API/Custom/FetchAnalystsReport.aspx?DocID=90507689
