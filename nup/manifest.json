@@ -1,0 +1,14 @@
+{
+  "longname": "Nursing Reference Center Plus",
+  "name": "nup",
+  "describe": "Recognizes the accesses to the platform Nursing Reference Center Plus",
+  "contact": "devnet@oclc.org",
+  "pkb": false,
+  "docurl": "http://analyses.ezpaarse.org/platforms/5ff76af51a8d090e9ab24b05 ",
+  "domains": [
+    "web.b.ebscohost.com.tafeqld.idm.oclc.org",
+    "imagesrvr.epnet.com.tafeqld.idm.oclc.org"
+  ],
+  "version": "2021-01-14",
+  "status": "beta"
+}
