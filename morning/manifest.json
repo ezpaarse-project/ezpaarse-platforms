@@ -1,0 +1,13 @@
+{
+  "longname": "Morningstar Investment Research Center",
+  "name": "morning",
+  "describe": "Recognizes the accesses to the platform Morningstar Investment Research Center",
+  "contact": "Sean Duffy",
+  "pkb": false,
+  "docurl": "http://ang.couperin.org/platforms/5ffe04a026ad8d4558f736dc ",
+  "domains": [
+    "library.morningstar.com"
+  ],
+  "version": "2021-01-15",
+  "status": "beta"
+}
