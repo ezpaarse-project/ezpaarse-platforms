@@ -1,0 +1,13 @@
+{
+  "longname": "Nutrition Reference Center",
+  "name": "nutrition",
+  "describe": "Recognizes the accesses to the platform Nutrition Reference Center",
+  "contact": "Sean Duffy",
+  "pkb": false,
+  "docurl": "http://analyses.ezpaarse.org/platforms/5ff76087d9aeb929ec6fd8ff",
+  "domains": [
+    "web.a.ebscohost.com"
+  ],
+  "version": "2021-01-14",
+  "status": "beta"
+}
