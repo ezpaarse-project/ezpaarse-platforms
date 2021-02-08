@@ -9,19 +9,7 @@
   "contact": "dominique.rouger at univ-st-etienne.fr, yannick.schurter at inist.fr",
   "pkb": true,
   "pkb-domains": "title_id",
-  "recognize": {
-    "rid": [
-      "title_id",
-      "print_identifier",
-      "online_identifier",
-      "unitid"
-    ],
-    "rtype": [
-      "ARTICLE"
-    ],
-    "mime": [
-      "HTML",
-      "PDF"
-    ]
-  }
+  "domains": [
+    "asmscience.org"
+  ]
 }
