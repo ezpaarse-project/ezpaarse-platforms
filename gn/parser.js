@@ -77,11 +77,14 @@ module.exports = new Parser(function analyseEC(parsedUrl, ec) {
       if (param.displaymode === 'full') {
         result.rtype = 'ARTICLE';
       }
-    } else if (param.displaymode === 'full') {
+    } else if (match[1] || param.displaymode === 'full') {
       // /le-tablier-et-le-tarbouche-francs-macons-et-nationalisme-en-syrie-mandataire-l-emancipation-de-la-maconnerie-syrienne.html
-      result.rtype  = 'BOOK_SECTION';
       result.mime   = match[1] ? 'PDF' : 'HTML';
       result.unitid = match[2];
+
+      if (param.displaymode === 'full') {
+        result.rtype  = 'BOOK_SECTION';
+      }
     }
   }
 
