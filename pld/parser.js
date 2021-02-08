@@ -21,6 +21,11 @@ module.exports = new Parser(function analyseEC(parsedUrl, ec) {
     result.mime   = 'HTML';
     result.db_id  = param.CURDB || 'pld';
     result.unitid = param.id;
+
+  } else if (/^\/all\/search$/i.test(path)) {
+    result.rtype = 'SEARCH';
+    result.mime  = 'HTML';
+    result.db_id = param.CURDB || 'pld';
   }
 
   return result;
