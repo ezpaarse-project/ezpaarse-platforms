@@ -17,19 +17,22 @@ exports.downloadPackages = function (platformDir) {
   }
 
   const { bacon } = require(path.resolve(platformDir, 'manifest.json'));
+  const baconProvider = bacon && bacon.provider;
 
-  if (!bacon || !bacon.provider) {
+  if (typeof baconProvider !== 'string' && !Array.isArray(baconProvider)) {
     return console.log('no bacon provider in the manifest');
   }
+
+  const providers = new Set(Array.isArray(baconProvider) ? baconProvider : [baconProvider]);
 
   const tasks = [
     {
       title: 'Fetch Bacon packages list',
       task (ctx) {
         return fetchPackagesList().then(list => {
-          list = list.filter(pkg => pkg.provider === bacon.provider);
+          list = list.filter(pkg => providers.has(pkg.provider));
 
-          if (bacon.matches) {
+          if (Array.isArray(bacon.matches)) {
             let regs = bacon.matches.map(match => new RegExp(match, 'i'));
             list = list.filter(pkg => regs.some(reg => reg.test(pkg.package)));
           }
