@@ -24,7 +24,7 @@ module.exports = new Parser(function analyseEC(parsedUrl, ec) {
   //console.error(param);
 
   //var match;
-  if (typeof param['Link Set'] != 'undefined' && param['Link Set'] !== '') {
+  if (typeof param['Link Set'] != 'undefined' && param['Link Set'] !== '' && param['Counter5Data'] == null) {
     // http://ovidsp.tx.ovid.com/sp-3.15.0a/ovidweb.cgi?&S=NKDIFPLLDDDDHPEINCKKEDDCPAJLAA00&Link+Set=S.sh.29.30.34.48%7c1%7csl_10
     result.rtype    = 'ARTICLE';
     result.mime     = 'HTML';
@@ -44,6 +44,16 @@ module.exports = new Parser(function analyseEC(parsedUrl, ec) {
     result.rtype    = 'REF';
     result.mime     = 'HTML';
     result.unitid   = param['Complete Reference'];
+  } else if ((typeof param['Book Reader'] !== 'undefined' && param['Book Reader'] !== '') || param['Counter5Data'].includes('books')) {
+    // http://ovidsp.dc2.ovid.com/ovid-b/ovidweb.cgi?&S=KAPNFPIOAMEBOCHIJPAKBGHGICALAA00&Link+Set=S.sh.46%7c1%7csl_10&Counter5=SS_view_found_article%7c02191022%2f29th_Edition%2f4%7cbooks%7cbookdb%7cbooks1&Counter5Data=02191022%2f29th_Edition%2f4%7cbooks%7cbookdb%7cbooks1
+    // http://ovidsp.dc2.ovid.com/ovid-b/ovidweb.cgi?&S=KKDIFPIOAMEBOCBGJPAKEGHGOEGIAA00&Book+Reader=1&FTS+Book+Reader+Content=S.sh.32104_1607538556_70.32104_1607538556_82.32104_1607538556_90%7c19%7c%2fbookdb%2f01838292%2f2nd_Edition%2f3%2fPG%280%29
+    result.rtype    = 'BOOK';
+    result.mime     = 'HTML';
+    if (param['FTS Book Reader Content']) {
+      result.unitid   = param['FTS Book Reader Content'];
+    } else {
+      result.unitid   = param['Link Set'];
+    }
   }
 
   return result;
