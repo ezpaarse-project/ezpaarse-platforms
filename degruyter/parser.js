@@ -2,6 +2,7 @@
 
 'use strict';
 const Parser = require('../.lib/parser.js');
+const dbRtypes = require('./db-rtypes.json');
 
 const doiPrefix = '10.1515';
 
@@ -76,7 +77,7 @@ module.exports = new Parser(function analyseEC(parsedUrl, ec) {
     // /printpdf/view/AKL/_40431827T3?rskey=tIhc8o&result=1&dbq_0=Gaugeron&dbf_0=akl-fulltext&dbt_0=fulltext&o_0=AND
     // /view/AKL/_40431827T3?rskey=tIhc8o&result=1&dbq_0=Gaugeron&dbf_0=akl-fulltext&dbt_0=fulltext&o_0=AND
 
-    result.rtype    = 'BIO';
+    result.rtype    = dbRtypes[match[2].toUpperCase()];
     result.mime     = match[1] ? 'PDF' : 'HTML';
     result.title_id = match[2].toLowerCase();
     result.unitid   = match[3];
@@ -109,7 +110,7 @@ module.exports = new Parser(function analyseEC(parsedUrl, ec) {
     result.issue      = match[3];
     result.unitid     = `${match[1]}/${match[2]}/${match[3]}/${match[4]}`;
     result.first_page = match[5];
-  } else if ((match = /^\/download(pdf|epub)\/title\/([0-9]+)(?:\.pdf)?$/i.exec(path)) !== null) {
+  } else if ((match = /^\/download(pdf|epub)\/title\/([0-9]+)(?:\.pdf|\.xml)?$/i.exec(path)) !== null) {
     // /downloadpdf/title/551480
     // /downloadepub/title/551480
     // /downloadpdf/title/561828.pdf
@@ -117,7 +118,7 @@ module.exports = new Parser(function analyseEC(parsedUrl, ec) {
     result.rtype    = 'BOOK';
     result.mime     = match[1].toUpperCase();
     result.unitid   = match[2];
-  } else if ((match = /^\/(downloadpdf|view)\/book\/([0-9]+)\/(10.[0-9]+\/([0-9-]+)).xml$/i.exec(path)) !== null) {
+  } else if ((match = /^\/(downloadpdf|view)\/book\/([0-9]+)\/(10.[0-9]+\/([0-9-]+))\.(xml|pdf)$/i.exec(path)) !== null) {
     // /view/book/9783110638202/10.1515/9783110638202-005.xml
     // /downloadpdf/book/9783110638202/10.1515/9783110638202-005.xml
 
