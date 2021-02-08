@@ -43,7 +43,17 @@ module.exports = new Parser(function analyseEC(parsedUrl) {
       result.rtype = 'TOC';
       result.mime  = 'HTML';
     }
-  } else if ((match = /^\/doi\/(abs|fullHtml|pdf)\/(10\.[0-9]+\/([a-z0-9]+))$/i.exec(path)) !== null) {
+  } else if ((match = /^\/doi\/(10\.[0-9]+\/([a-z0-9.]+))$/i.exec(path)) !== null) {
+    // https://dl.acm.org./doi/10.1145/3426826.3426837
+    result.doi = match[1];
+    result.unitid = match[2];
+    result.rtype = 'ABS';
+    result.mime  = 'HTML';
+
+  } else if ((match = /^\/doi\/(abs|fullHtml|pdf|epdf)\/(10\.[0-9]+\/([a-z0-9.]+))$/i.exec(path)) !== null) {
+    // https://dl.acm.org./doi/fullHtml/10.1145/3426826.3426837
+    // https://dl.acm.org./doi/pdf/10.5555/1074100.1074563
+    // https://dl.acm.org./doi/epdf/10.5555/1074100.1074563
     result.doi = match[2];
     result.unitid = match[3];
 
@@ -60,7 +70,15 @@ module.exports = new Parser(function analyseEC(parsedUrl) {
       result.rtype = 'ARTICLE';
       result.mime  = 'PDF';
       break;
+    case 'epdf':
+      result.rtype = 'ARTICLE';
+      result.mime  = 'PDF';
+      break;
     }
+  } else if ((match = /^\/action\/doSearch$/i.exec(path)) !== null) {
+    // https://dl.acm.org./action/doSearch?AllField=machine+learning
+    result.rtype = 'SEARCH';
+    result.mime  = 'HTML';
   }
 
   return result;
