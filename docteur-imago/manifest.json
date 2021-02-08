@@ -1,0 +1,13 @@
+{
+  "longname": "Docteur Imago",
+  "name": "docteur-imago",
+  "describe": "Recognizes the accesses to the platform Docteur Imago",
+  "contact": "Carole BRUNO, Frederic Truong inist",
+  "pkb": false,
+  "docurl": "http://analyses.ezpaarse.org/platforms/600abc8b13d1f93814cb9cdd",
+  "domains": [
+    "docteurimago.fr"
+  ],
+  "version": "2021-02-08",
+  "status": "beta"
+}
