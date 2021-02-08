@@ -17,7 +17,7 @@ module.exports = new Parser(function analyseEC(parsedUrl, ec) {
 
   let match;
 
-  if (param && param.link) {
+  if (param.link) {
     let cleanLink = param.link.replace(/\s+/g, '');
     let type      = cleanLink.split('_');
 
@@ -42,7 +42,7 @@ module.exports = new Parser(function analyseEC(parsedUrl, ec) {
       result.mime = 'PDF';
     }
 
-    if (param && param.article) {
+    if (param.article) {
       result.rtype  = 'ARTICLE';
       result.unitid = param.article;
     }
@@ -65,24 +65,23 @@ module.exports = new Parser(function analyseEC(parsedUrl, ec) {
       }
     }
   } else if ((match = /^\/(export\/pdf\/)?([a-z0-9-]+)\.html$/i.exec(path)) !== null) {
-    result.mime     = match[1] ? 'PDF' : 'HTML';
-    result.unitid   = match[2];
+    let articleMatch;
 
-    let matching;
-    if ((matching = /^([a-z0-9-]+?)(-[0-9-]*n-([0-9]+))/i.exec(match[2])) !== null) {
-      // ARTICLE: /the-balzac-review-revue-balzac-2019-n-2-l-interiorite-interiority-musique-et-vie-interieure-chez-balzac.html?displaymode=full
-      // ABS: /the-balzac-review-revue-balzac-2019-n-2-l-interiorite-interiority-musique-et-vie-interieure-chez-balzac.html
-      // TOC: /the-balzac-review-revue-balzac-2019-n-2-l-interiorite-interiority.html
-      // ABS: /romanesques-2018-revue-du-cercll-roman-romanesque-n-10-romanesques-noirs-1750-1850.html
+    if ((articleMatch = /^([a-z0-9-]+?)(-[0-9-]*n-([0-9]+))/i.exec(match[2])) !== null) {
+      // /the-balzac-review-revue-balzac-2019-n-2-l-interiorite-interiority-musique-et-vie-interieure-chez-balzac.html?displaymode=full
+      result.mime     = match[1] ? 'PDF' : 'HTML';
+      result.unitid   = match[2];
+      result.title_id = articleMatch[1];
+      result.issue    = articleMatch[3];
 
-      result.title_id = matching[1];
-      result.issue = matching[3];
-
-      if (param && param.displaymode === 'full') {
+      if (param.displaymode === 'full') {
         result.rtype = 'ARTICLE';
       }
-    } else {
-      result.rtype = 'BOOK_SECTION';
+    } else if (param.displaymode === 'full') {
+      // /le-tablier-et-le-tarbouche-francs-macons-et-nationalisme-en-syrie-mandataire-l-emancipation-de-la-maconnerie-syrienne.html
+      result.rtype  = 'BOOK_SECTION';
+      result.mime   = match[1] ? 'PDF' : 'HTML';
+      result.unitid = match[2];
     }
   }
 
