@@ -38,12 +38,12 @@ module.exports = new Parser(function analyseEC(parsedUrl, ec) {
     // /content/6/4/458.full
     // /content/78/2/B49.full
     // /content/2012/5/pdb.top069344.full.pdf
-    const reg1 = new RegExp(`^/content/(?:[a-z]+/)?((\\d+)/(\\d+(?:-\\d+)?)/([\\w.]+?))${extReg}`);
+    // /content/iai/89/2/e00714-20.full.pdf
+    const reg1 = new RegExp(`^/content/(?:[a-z]+/)?((\\d+)/(\\d+(?:-\\d+)?)/([\\w.-]+?))${extReg}`);
 
     // /content/bmj/343/bmj.d4464.full.pdf
     // /content/bloodjournal/early/2015/02/25/blood-2014-10-608596.full.pdf
     const reg2 = new RegExp(`^/content/\\w+/(early/)?((?:\\d+/\\d+/)?\\d+/[\\w.-]+?)${extReg}`);
-
     // /content/343/bmj.d4285
     // /content/188/3.toc
     const reg3 = new RegExp(`^/content/(\\d+)/([\\w\\.]+?)${extReg}`);
@@ -52,18 +52,23 @@ module.exports = new Parser(function analyseEC(parsedUrl, ec) {
     // /content/221/Suppl_1/jeb164970
     const reg4 = new RegExp(`^/content(?:/[a-z]+)?/([0-9]+)/Suppl_[a-z0-9]+/([a-z0-9.-]+?)${extReg}`);
 
+    // /content/journal/jmbe/10.1128/jmbe.v19i3.1627
+    const reg5 = new RegExp(`^/content/journal/([a-z]+)/(10.[0-9]+/([a-z0-9._-]+?))${extReg}`);
+
     let extension;
 
     if ((match = reg1.exec(path)) !== null) {
       extension = match[5] || (defaultsToAbstract(hostname) ? 'abstract' : 'full');
       result.unitid = `${hostname}/${match[1]}`;
 
-      const firstPage = match[4].split('.')[0];
+      if (match[2].length < 4) {
+        result.vol   = match[2];
+        result.issue = match[3];
+      }
 
-      if (firstPage !== 'pdb') {
-        result.vol        = match[2];
-        result.issue      = match[3];
-        result.first_page = firstPage;
+      let pageMatch = /^(\w?\d+)(\.|$)/.exec(match[4]);
+      if (pageMatch) {
+        result.first_page = pageMatch[1];
       }
 
     } else if ((match = reg2.exec(path)) !== null) {
@@ -89,6 +94,12 @@ module.exports = new Parser(function analyseEC(parsedUrl, ec) {
       extension     = match[3] || (defaultsToAbstract(hostname) ? 'abstract' : 'full');
       result.unitid = match[2];
       result.vol    = match[1];
+
+    } else if ((match = reg5.exec(path)) !== null) {
+      extension       = match[4] || (defaultsToAbstract(hostname) ? 'abstract' : 'full');
+      result.unitid   = match[3];
+      result.doi      = match[2];
+      result.title_id = match[1];
     }
 
     switch (extension) {
@@ -131,13 +142,16 @@ module.exports = new Parser(function analyseEC(parsedUrl, ec) {
     }
 
   } else if (path.startsWith('/docserver')) {
-    // http://www.sgmjournals.org/docserver/fulltext/ijsem/65/8/2410_ijs000272.pdf
-    const docReg = new RegExp('^/docserver/\\w+/(\\w+/\\d+/\\d+/\\w+)\\.pdf$');
+    // /docserver/fulltext/ijsem/65/8/2410_ijs000272.pdf
+    // /docserver/fulltext/jmbe/19/3/jmbe-19-98.pdf
 
-    if ((match = docReg.exec(path)) !== null) {
-      result.unitid = `${hostname}/${match[1]}`;
-      result.rtype  = 'ARTICLE';
-      result.mime   = 'PDF';
+    if ((match = /^\/docserver\/fulltext\/((\w+)\/(\d+)\/(\d+)\/([\w_.-]+))\.pdf$/i.exec(path)) !== null) {
+      result.rtype    = 'ARTICLE';
+      result.mime     = 'PDF';
+      result.unitid   = `${hostname}/${match[1]}`;
+      result.title_id = match[2];
+      result.vol      = match[3];
+      result.issue    = match[4];
     }
   } else if ((match = /^\/\w+\/(\d+\/(?:\w+\/)?\w+)\.(pdf|htm)/i.exec(path)) !== null) {
     // /bj/467/bj4670193.htm;
