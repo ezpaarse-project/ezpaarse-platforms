@@ -1,0 +1,13 @@
+{
+  "longname": "Inside Cybersecurity",
+  "name": "inside-cybersecurity",
+  "describe": "Recognizes the accesses to the platform Inside Cybersecurity",
+  "contact": "Sean Duffy",
+  "pkb": false,
+  "docurl": "http://analyses.ezpaarse.org/platforms/6001f87d67090f0b625f6ba4",
+  "domains": [
+    "insidecybersecurity.com"
+  ],
+  "version": "2021-03-03",
+  "status": "beta"
+}
