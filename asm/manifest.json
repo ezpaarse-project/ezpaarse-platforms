@@ -1,0 +1,14 @@
+{
+  "longname": "American Society of Metals",
+  "name": "asm",
+  "describe": "Recognizes the accesses to the platform American Society of Metals",
+  "contact": "Sean Duffy",
+  "pkb": false,
+  "docurl": "http://analyses.ezpaarse.org/platforms/60300066c5d8783e8aafd9fc",
+  "domains": [
+    "dl.asminternational.org",
+    "watermark.silverchair.com"
+  ],
+  "version": "2021-03-03",
+  "status": "beta"
+}
