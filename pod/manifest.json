@@ -1,0 +1,13 @@
+{
+  "longname": "Oxford Dictionaries",
+  "name": "pod",
+  "describe": "Recognizes the accesses to the platform Oxford Dictionaries",
+  "contact": "Sean Duffy",
+  "pkb": false,
+  "docurl": "http://analyses.ezpaarse.org/platforms/60088ade02f96c840da53431",
+  "domains": [
+    "premium.oxforddictionaries.com"
+  ],
+  "version": "2021-03-03",
+  "status": "beta"
+}
