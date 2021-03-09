@@ -1,0 +1,13 @@
+{
+  "longname": "American Institute of Aeronautics and Astronautics",
+  "name": "aiaa",
+  "describe": "Recognizes the accesses to the platform American Institute of Aeronautics and Astronautics",
+  "contact": "thomas.porquet, Annick Lagrange, Sean Duffy",
+  "pkb": false,
+  "docurl": "http://analyses.ezpaarse.org/platforms/573b343fb26bc3ddd5854955",
+  "domains": [
+    "arc.aiaa.org"
+  ],
+  "version": "2021-03-03",
+  "status": "beta"
+}
