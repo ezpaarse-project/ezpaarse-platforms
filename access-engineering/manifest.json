@@ -1,0 +1,13 @@
+{
+  "longname": "Access Engineering",
+  "name": "access-engineering",
+  "describe": "Recognizes the accesses to the platform Access Engineering",
+  "contact": "Sean Duffy",
+  "pkb": false,
+  "docurl": "http://analyses.ezpaarse.org/platforms/60085143e5aabc1c8a5ef5d4",
+  "domains": [
+    "www.accessengineeringlibrary.com"
+  ],
+  "version": "2021-03-03",
+  "status": "beta"
+}
