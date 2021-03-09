@@ -1,0 +1,13 @@
+{
+  "longname": "Inside Defense",
+  "name": "inside-defense",
+  "describe": "Recognizes the accesses to the platform Inside Defense",
+  "contact": "Sean Duffy",
+  "pkb": false,
+  "docurl": "http://analyses.ezpaarse.org/platforms/6001f646f74f1177a9dc16d8",
+  "domains": [
+    "insidedefense.com"
+  ],
+  "version": "2021-03-03",
+  "status": "beta"
+}
