@@ -1,0 +1,13 @@
+{
+  "longname": "Le monde",
+  "name": "lmd",
+  "describe": "Recognizes the accesses to the platform Le monde",
+  "contact": "Henriette de Daran, Sean Duffy",
+  "pkb": false,
+  "docurl": "http://analyses.ezpaarse.org/platforms/5d148f2d8db78158d320c094",
+  "domains": [
+    "www.lemonde.fr"
+  ],
+  "version": "2021-03-03",
+  "status": "beta"
+}
