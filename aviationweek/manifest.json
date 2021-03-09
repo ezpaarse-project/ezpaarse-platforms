@@ -1,0 +1,13 @@
+{
+  "longname": "Aviation Week",
+  "name": "aviationweek",
+  "describe": "Recognizes the accesses to the platform Aviation Week",
+  "contact": "Sean Duffy",
+  "pkb": false,
+  "docurl": "http://analyses.ezpaarse.org/platforms/60020d51184eca25f1804183",
+  "domains": [
+    "aviationweek.com"
+  ],
+  "version": "2021-03-03",
+  "status": "beta"
+}
