@@ -20,8 +20,12 @@ module.exports = new Parser(function analyseEC(parsedUrl, ec) {
   // console.error(parsedUrl);
 
   let match;
+  /** --- matching searches viewed --- */
+  if ((match = /^\/archive/i.exec(path)) !== null) {
+    result.rtype    = 'SEARCH';
+    result.mime     = 'HTML';
   /** --- matching articles viewed --- */
-  if ((match = /^\/(\w+)\/([\w\-\w]+)-by/i.exec(path)) !== null) {
+  } else if ((match = /^\/(\w+)\/([\w\-\w]+)-by/i.exec(path)) !== null) {
   //if ((match = /^\/(commentary|onpoint|culture-society)\/(.+)\-by\-/i.exec(path)) !== null) {
     // http://parser.skeleton.js/platform/path/to/document-123456-test.pdf?sequence=1
     result.rtype    = 'ARTICLE';
