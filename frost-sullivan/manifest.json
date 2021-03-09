@@ -1,0 +1,13 @@
+{
+  "longname": "Frost & Sullivan",
+  "name": "frost-sullivan",
+  "describe": "Recognizes the accesses to the platform Frost & Sullivan",
+  "contact": "Sean Duffy",
+  "pkb": false,
+  "docurl": "http://analyses.ezpaarse.org/platforms/6008603f75155c5e62db4e61",
+  "domains": [
+    "ww2.frost.com"
+  ],
+  "version": "2021-03-03",
+  "status": "beta"
+}
