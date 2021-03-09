@@ -1,0 +1,13 @@
+{
+  "longname": "CultureGrams",
+  "name": "cg",
+  "describe": "Recognizes the accesses to the platform CultureGrams",
+  "contact": "Sean Duffy",
+  "pkb": false,
+  "docurl": "http://analyses.ezpaarse.org/platforms/603028924b5ab53224382276",
+  "domains": [
+    "online.culturegrams.com"
+  ],
+  "version": "2021-03-03",
+  "status": "beta"
+}
