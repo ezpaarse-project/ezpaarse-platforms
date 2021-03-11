@@ -2,7 +2,8 @@
   "version": "2015-04-10",
   "status": "beta",
   "domains": [
-    "library.artstor.org"
+    "library.artstor.org",
+    "artstor.org"
   ],
   "recognize": {
     "rid": [
