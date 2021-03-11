@@ -22,7 +22,7 @@ module.exports = new Parser(function analyseEC(parsedUrl, ec) {
   let match;
 
   if ((match = /^\/(companyfinancials)\.php$/i.exec(path)) !== null) {
-    // https://www.mergentonline.com:443/companyfinancials.php?compnumber=46032&isexcel=1
+    // https://www.mergentonline.com/companyfinancials.php?compnumber=46032&isexcel=1
     result.title_id = match[1];
     result.unitid  = param.compnumber;
     if (param.isexcel) {
@@ -35,9 +35,9 @@ module.exports = new Parser(function analyseEC(parsedUrl, ec) {
 
   } else if ((match = /^\/(companyannualreports|companydetail|companyownership|equitypricing)\.php$/i.exec(path)) !== null) {
     // http://parser.skeleton.js/platform/path/to/document-123456-test.pdf?sequence=1
-    // https://www.mergentonline.com:443/companyannualreports.php?compnumber=46032
-    // https://www.mergentonline.com:443/equitypricing.php?compnumber=12780
-    // https://www.mergentonline.com:443/companyannualreports.php?reportnumber=2160793&compnumber=46032&pagetype=annualreport&getreport=1
+    // https://www.mergentonline.com/companyannualreports.php?compnumber=46032
+    // https://www.mergentonline.com/equitypricing.php?compnumber=12780
+    // https://www.mergentonline.com/companyannualreports.php?reportnumber=2160793&compnumber=46032&pagetype=annualreport&getreport=1
     if (!param.isexcel) {
       result.rtype    = 'ARTICLE';
       result.mime     = 'MISC';
