@@ -6,8 +6,7 @@
   "pkb": false,
   "docurl": "http://analyses.ezpaarse.org/platforms/60300066c5d8783e8aafd9fc",
   "domains": [
-    "dl.asminternational.org",
-    "watermark.silverchair.com"
+    "dl.asminternational.org"
   ],
   "version": "2021-03-03",
   "status": "beta"
