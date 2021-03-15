@@ -1,7 +1,0 @@
-publication_title	print_identifier	online_identifier	date_first_issue_online	num_first_vol_online	num_first_issue_online	date_last_issue_online	num_last_vol_online	num_last_issue_online	title_url	first_author	title_id	embargo_info	coverage_depth	notes	publisher_name	publication_type	date_monograph_published_print	date_monograph_published_online	monograph_volume	monograph_edition	first_editor	parent_publication_title_id	preceding_publication_title_id	access_type
-Études théâtrales	0778-8738		2004	31	2				https://www.cairn.info/revue-etudes-theatrales.htm		revue-etudes-theatrales		fulltext		L'Harmattan	serial								P
-Ligeia	0989-6023	2606-6165	2006	65	1				https://www.cairn.info/revue-ligeia.htm		revue-ligeia		fulltext		Éditions Ligeia	serial								P
-Marges	1767-7114	2416-8742	2017	25	2				https://www.cairn.info/revue-marges.htm		revue-marges		fulltext		Presses universitaires de Vincennes	serial								P
-Nectart	2429-2877	2554-8441	2015	1	1				https://www.cairn.info/revue-nectart.htm		revue-nectart		fulltext		Éditions de l'Attribut	serial								P
-Nord'	0755-7884	2606-619X	2012	59	1				https://www.cairn.info/revue-nord.htm		revue-nord		fulltext		Société de Littérature du Nord	serial								P
-Revue d’Histoire de la Shoah	2111-885X	2553-6141	2005	182	1				https://www.cairn.info/revue-revue-d-histoire-de-la-shoah.htm		revue-revue-d-histoire-de-la-shoah		fulltext		Mémorial de la Shoah	serial								P
