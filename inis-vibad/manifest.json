@@ -1,0 +1,13 @@
+{
+  "longname": "INIS (Vibad)",
+  "name": "inis-vibad",
+  "describe": "Recognizes the accesses to the platform INIS (Vibad)",
+  "contact": "Frederic Truong inist",
+  "pkb": false,
+  "docurl": "http://analyses.ezpaarse.org/platforms/5b5f20858e6ad292945479ee",
+  "domains": [
+    "inis-cea.inist.fr"
+  ],
+  "version": "2021-03-15",
+  "status": "beta"
+}

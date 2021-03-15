@@ -1,0 +1,5 @@
+out-unitid;out-rtype;out-mime;in-url
+44055665;RECORD_VIEW;HTML;http://inis-cea.inist.fr/vibad/index.php?action=getRecordDetail&lang=fr&idt=44055665
+;SEARCH;HTML;https://inis-cea.inist.fr/vibad/index.php?action=search&lang=fr&terms=reacteur
+;SEARCH;HTML;https://inis-cea.inist.fr/vibad/index.php?action=search&lang=fr&code=S01
+;SEARCH;HTML;https://inis-cea.inist.fr/vibad/index.php?action=thesaurus&lang=fr&vocabTterms=reactor&vocabLang=&any_fragments=
