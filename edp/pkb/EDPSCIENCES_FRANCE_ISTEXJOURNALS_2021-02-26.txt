@@ -1,0 +1,72 @@
+publication_title	print_identifier	online_identifier	date_first_issue_online	num_first_vol_online	num_first_issue_online	date_last_issue_online	num_last_vol_online	num_last_issue_online	title_url	first_author	title_id	embargo_info	coverage_depth	notes	publisher_name	publication_type	date_monograph_published_print	date_monograph_published_online	monograph_volume	monograph_edition	first_editor	parent_publication_title_id	preceding_publication_title_id	access_type	bestppn
+Actualités Odonto-Stomatologiques	0001-7817	1760-611X	2007		237	2016		280	https://www.aos-journal.org/component/issues		aos		fulltext		EDP Sciences	serial								P	131778420
+Annales de Limnologie	0003-4088	2100-000X	1965	1	1	2016	52		https://www.limnology-journal.org/component/issues		limn		fulltext		EDP Sciences	serial								P	15373499X
+Annales de Physique	0003-4169	1286-4838	1914	9	1	2009	34	6	https://www.annphys.org/component/issues		anphys		fulltext		EDP Sciences	serial								P	040654397
+Annales de Toxicologie Analytique	0768-598X	1961-9480	2000	12	1	2013	25	4	https://www.ata-journal.org/component/issues		ata		fulltext		EDP Sciences	serial								P	124308228
+Aquatic Living Resources	0990-7440	1765-2952	1988	1	1	2016	29	4	https://www.alr-journal.org/component/issues		alr		fulltext		EDP Sciences	serial								P	069766258
+Astronomy & Astrophysics	0004-6361	1432-0746	2001	365	1	2016	596		https://www.aanda.org/component/issues		aa		fulltext		EDP Sciences	serial								P	114196958
+Astronomy and Astrophysics Supplement Series	0365-0138	1286-4846	1996	116	2	2000	147	3	https://aas.aanda.org/component/issues		aas		fulltext		EDP Sciences	serial								P	040654400
+BIO Web of Conferences	2273-1709	2117-4458	2011	1		2011	1		https://www.bio-conferences.org/component/issues		bioconf		fulltext		EDP Sciences	serial								P	159167132
+Bulletin de l'Union Nationale pour l'Intérêt de l'Orthopédie Dento-Faciale	1768-9775	2269-8906	2006		31	2011		44	https://www.uniodf-journal.org/component/issues		uniodf		fulltext		EDP Sciences	serial								P	174856105
+Cahiers de l'Association Scientifique Européenne pour l'Eau et la Santé	1027-4820	2105-1143	1996	1	1	2015	20		https://asees.water-quality-journal.org/component/issues		asees		fulltext		EDP Sciences	serial								P	143743341
+Droit et Médecine Bucco-Dentaire	2116-1321	2116-133X	2011	1	1	2012	2	4	https://www.rdmbd.org/component/issues		dmbd		fulltext		EDP Sciences	serial								P	156449986
+EAS Publications Series	1633-4760	1638-1963	2001	1		2016	81		https://www.eas-journal.org/component/issues		eas		fulltext		EDP Sciences	serial								P	076283003
+Education Thérapeutique du Patient - Therapeutic Patient Education	2100-0808	2100-0816	2009	1	1	2016	8	2	https://www.etp-journal.org/fr/component/issues		tpe		fulltext		EDP Sciences	serial								P	136058477
+Environmental Biosafety Research	1635-7922	1635-7930	2002	1	1	2011	10	4	https://www.ebr-journal.org/component/issues		ebr		fulltext		EDP Sciences	serial								P	073630810
+EPJ Photovoltaics		2105-0716	2010	1		2016	7		https://www.pvdirect-journal.org/component/issues		epjpv		fulltext		EDP Sciences	serial								P	151146829
+EPJ Web of Conferences	2101-6275	2100-014X	2009	1		2012	39		https://www.epj-conferences.org/component/issues		epjconf		fulltext		EDP Sciences	serial								P	133158411
+EPL - Europhysics Letters	0295-5075	1286-4854	1996	33	1	2016	100	6	https://epljournal.edpsciences.org/component/issues		epl		fulltext		EDP Sciences	serial								P	040654419
+ESAIM: Control, Optimisation and Calculus of Variations	1292-8119	1262-3377	1996	1		2016	22	4	https://www.esaim-cocv.org/component/issues		cocv		fulltext		EDP Sciences	serial								P	040652750
+ESAIM: Probability and Statistics	1292-8100	1262-3318	1997	1		2016	20		https://www.esaim-ps.org/component/issues		ps		fulltext		EDP Sciences	serial								P	040652742
+ESAIM. Proceedings and surveys		2267-3059	2014	45		2016	55		https://www.esaim-proc.org/component/issues		proc		fulltext		EDP Sciences	serial								P	183040503
+Europhysics News	0531-7479	1432-1092	1968	1	1	2016	47	6	https://www.europhysicsnews.org/component/issues		epn		fulltext		EDP Sciences	serial								P	044892063
+Fruits	0248-1294	1625-967X	2001	56	1	2016	71	6	https://fruits.edpsciences.org/component/issues		fruits		fulltext		EDP Sciences	serial								P	057939160
+Hydroécologie Appliquée	1147-9213	1958-556X	1989	1		2016	19		https://www.hydroecologie.org/component/issues		hydro		fulltext		EDP Sciences	serial								P	121373142
+International Journal for Simulation and Multidisciplinary Design Optimization	1779-627X	1779-6288	2007	1	1	2016	7		https://www.ijsmdo.org/component/issues		smdo		fulltext		EDP Sciences	serial								P	123679834
+International Journal of Metrology and Quality Engineering	2107-6839	2107-6847	2010	1	1	2016	7	4	https://www.metrology-journal.org/component/issues		ijmqe		fulltext		EDP Sciences	serial								P	145458768
+Journal de Chimie Physique	0021-7689	1878-7169	1903	1		1999	96	10	https://jcp.edpsciences.org/component/issues		jcp		fulltext		EDP Sciences	serial								P	136056385
+Journal de la Société de Biologie	1295-0661	1760-6128	1999	193	1	2009	203	4	https://www.biologie-journal.org/component/issues		jbio		fulltext		EDP Sciences	serial								P	131778439
+Journal de Physique	0302-0738		1963	24	2	1990	51	24	https://jphys.journaldephysique.org/component/issues		jphys		fulltext		EDP Sciences	serial								P	
+Journal de Physique. Colloques	0449-1947		1966	27	1	1990	51	7	https://jphyscol.journaldephysique.org/component/issues		jphyscol		fulltext		EDP Sciences	serial								P	
+Journal de Physique et le Radium	0368-3842		1920	1	1	1963	24	1	https://jphysrad.journaldephysique.org/component/issues		jphysrad		fulltext		EDP Sciences	serial								P	
+Journal de Physique I	1155-4304	1286-4862	1991	1	1	1997	7	12	https://jp1.journaldephysique.org/component/issues		jp1		fulltext		EDP Sciences	serial								P	040652459
+Journal de Physique II	1155-4312	1286-4870	1991	1	1	1997	7	12	https://jp2.journaldephysique.org/component/issues		jp2		fulltext		EDP Sciences	serial								P	040652467
+Journal de Physique III	1155-4320	1286-4897	1991	1	1	1997	7	12	https://jp3.journaldephysique.org/component/issues		jp3		fulltext		EDP Sciences	serial								P	040652475
+Journal de Physique IV-proceedings	1155-4339	1764-7177	1991	1	1	2006	139		https://jp4.journaldephysique.org/component/issues		jp4		fulltext		EDP Sciences	serial								P	076285537
+Journal de Physique. Lettres	0302-072X		1974	35	1	1985	46	24	https://jphyslet.journaldephysique.org/component/issues		jphyslet		fulltext		EDP Sciences	serial								P	
+Journal de Physique. Physique appliquée	0151-0835		1963	24	10	1964	25	11	https://jphysap.journaldephysique.org/component/issues		jphysap		fulltext		EDP Sciences	serial								P	
+Journal de Physique Théorique et Appliquée	0368-3893	2507-6485	1872	1	1	1919	9	1	https://jphystap.journaldephysique.org/component/issues		jphystap		fulltext		EDP Sciences	serial								P	192678272
+Journal français d'hydrologie	0335-9581		1974	13		1993	24	2	https://www.water-quality-journal.org/component/issues		wqual		fulltext	Manque volume 9, n°3 (1978) et volume 11, n°1 (1980) ; données et plateforme	EDP Sciences	serial								P	
+Journal of Dentofacial Anomalies and Orthodontics		2110-5715	2008	11	1	2012	15	4	https://www.jdao-journal.org/component/issues		odfen		fulltext		EDP Sciences	serial								P	150073267
+Journal of Space Weather and Space Climate		2115-7251	2011	1	1	2016	6		https://www.swsc-journal.org/component/issues		swsc		fulltext		EDP Sciences	serial								P	157103161
+J3eA - Journal sur l'enseignement des sciences et technologies de l'information et des systèmes		1638-5705	2002	1		2016	15		https://www.j3ea.org/component/issues		j3ea		fulltext		EDP Sciences	serial								P	076283135
+Knowledge and Management of Aquatic Ecosystems		1961-9502	2008	388		2016	417		https://www.kmae-journal.org/component/issues		kmae		fulltext		EDP Sciences	serial								P	128406194
+La Houille Blanche	0018-6368	1958-5551	1902		1	2010		6	https://www.shf-lhb.org/component/issues		lhb		fulltext	Manque années 1915, 1916, n°1-2-3 (1917), années 1931, 1932, 1937-1945, n°1 (1946) et n°6 (1956) ; données et plateforme	EDP Sciences	serial								P	121373134
+Le Radium	0370-3223	2437-2455	1904	1	1	1919	11	12	https://radium.journaldephysique.org/component/issues		radium		fulltext		EDP Sciences	serial								P	183838505
+L'Orthodontie Française	1966-5202	1954-3395	2000	71	1	2016	87	4	https://orthodfr.edpsciences.org/component/issues		orthodfr		fulltext		EDP Sciences	serial								P	11543478X
+MATEC Web of Conferences	2274-7214	2261-236X	2012	1		2012	2		https://www.matec-conferences.org/component/issues		matecconf		fulltext		EDP Sciences	serial								P	166197696
+Matériaux & Techniques	0032-6895	1778-3771	1970	53	1	2016	104	7	https://www.mattech-journal.org/component/issues		mattech		fulltext		EDP Sciences	serial								P	116261374
+Mathematical Modelling of Natural Phenomena	0973-5348	1760-6101	2006	1	1	2016	11	6	https://www.mmnp-journal.org/component/issues		mmnp		fulltext		EDP Sciences	serial								P	131143646
+Mechanics & Industry	2257-7777	2257-7750	2012	13	1	2016	17	6	https://www.mechanics-industry.org/component/issues		meca		fulltext		EDP Sciences	serial								P	162250495
+Médecine Buccale - Chirurgie Buccale	1273-2761	2105-1011	2001	7	1	2016	22	4	https://www.mbcb-journal.org/component/issues		mbcb		fulltext		EDP Sciences	serial								P	143238310
+Médecine et Nutrition	0398-7604	2110-5405	2005	41	1	2013	49	4	https://www.medecine-nutrition.org/component/issues		mnut		fulltext	Version papier commence en 1976 (vol.1, n°1) ; années 1976-2004 pas numérisées	EDP Sciences	serial								P	147872596
+Médecine/sciences	0767-0974	1958-5381	2001	17	11	2016	30	12	https://www.medecinesciences.org/component/issues		medsci		fulltext		EDP Sciences	serial								P	10252808X
+Microscopy Microanalysis Microstructures	1154-2799		1990	1	1	1997	8	6	https://mmm.edpsciences.org/component/issues		mmm		fulltext		EDP Sciences	serial								P	
+Movement & Sport Sciences - Science & Motricité	2118-5735	2118-5743	2012		75	2016		94	https://science-motricite.org/component/issues		sm		fulltext	Métadonnées de la revue précédente (Science et motricité, ISSN 1782-1541 ; 2002-2011) livrées, mais pas d'accès à la plateforme pour ces années-là	EDP Sciences	serial								P	160979137
+Natures Sciences Sociétés	1240-1307	1765-2979	1993	12	1	2016	24	4	https://www.nss-journal.org/component/issues		nss		fulltext		EDP Sciences	serial								P	07859197X
+Oil & Gas Science and Technology-Revue d'IFP Energies nouvelles	1294-4475	1953-8189	1999	54	1	2016	71	6	https://ogst.ifpenergiesnouvelles.fr/component/issues		ogst		fulltext	Archives en OA sur la PF à partir de 1974	EDP Sciences	serial								P	145456897
+Parasite	1252-607X	1776-1042	1994	1	1	2016	23		https://www.parasite-journal.org/component/issues		parasite		fulltext		EDP Sciences	serial								P	163363307
+Pédagogie Médicale	1625-6484	1627-4784	2000	1	1	2016	17	4	https://www.pedagogie-medicale.org/component/issues		pmed		fulltext		EDP Sciences	serial								P	058855521
+Perspectives Psy	0031-6032	2118-4038	2004	43	1	2016	55	4	https://www.perspectives-psy.org/component/issues		ppsy		fulltext		EDP Sciences	serial								P	150142404
+Psychologie clinique	1145-1882	2118-4224	2009	27		2016	42		https://www.psycho-clinique.org/component/issues		psyc		fulltext		EDP Sciences	serial								P	150139632
+Radioprotection	0033-8451	1769-700X	1966	1	1	2016	51	4	https://www.radioprotection.org/component/issues		radiopro		fulltext		EDP Sciences	serial								P	090142071
+Revue de Métallurgie	0035-1563	1156-3141	1904	1	1	2013	110	6	https://www.metallurgical-research.org/component/issues		metal		fulltext	Manque volume 11, n° 11 (1914) (seulement dans les données), volume 62 n° 12 (1965) (données et plateforme), volume 64 n°12 (1967) (données et plateforme), volume 79 n° 8-9 (1982) (données et plateforme)	EDP Sciences	serial								P	057884528
+Revue de Physique Appliquée	0035-1687		1966	1	1	1990	25	12	https://rphysap.journaldephysique.org/component/issues		rphysap		fulltext		EDP Sciences	serial								P	
+Revue d'Orthopédie Dento-Faciale	0337-9736	2110-543X	1967	1	1	2016	50	4	https://odf.edpsciences.org/component/issues		odf		fulltext		EDP Sciences	serial								P	147872626
+Revue française d'automatique informatique recherche opérationnelle. Informatique théorique	0397-9326		1974	8	1	1976	10	3	https://www.rairo-ita.org/component/issues		ita		fulltext		EDP Sciences	serial								P	
+Revue française de géotechnique	0181-0529	2493-8653	1977	1		2016	149		https://www.geotechnique-journal.org/component/issues		geo		fulltext		EDP Sciences	serial								P	194033376
+Revue française d'informatique et de recherche opérationnelle. Série rouge	0373-8000		1969	3	16	1971	5	3	https://www.esaim-m2an.org/component/issues		m2an		fulltext		EDP Sciences	serial								P	
+Revue française d'informatique et de recherche opérationnelle. Série verte	0376-2165		1969	3	1	1971	5	3	https://www.rairo-ro.org/component/issues		ro		fulltext		EDP Sciences	serial								P	
+SHS Web of Conferences	2416-5182	2261-2424	2012	1		2012	3		https://www.shs-conferences.org/component/issues		shsconf		fulltext		EDP Sciences	serial								P	16619770X
+The European Physical Journal. Applied Physics	1286-0042	1286-0050	1998	1	1	2016	76	3	https://www.epjap.org/component/issues		epjap		fulltext		EDP Sciences	serial								P	040654338
+Thérapie	0040-5957	1958-5578	2003	58	1	2015	70	6	https://www.journal-therapie.org/component/issues		therapie		fulltext	Version papier commence en 1946 (vol.1, n°1) ; années 1946-2002 pas numérisées	EDP Sciences	serial								P	121373150
