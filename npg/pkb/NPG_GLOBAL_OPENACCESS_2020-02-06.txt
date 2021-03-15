@@ -1,0 +1,50 @@
+publication_title	print_identifier	online_identifier	date_first_issue_online	num_first_vol_online	num_first_issue_online	date_last_issue_online	num_last_vol_online	num_last_issue_online	title_url	first_author	title_id	embargo_info	coverage_depth	notes	publisher_name	publication_type	date_monograph_published_print	date_monograph_published_online	monograph_volume	monograph_edition	first_editor	parent_publication_title_id	preceding_publication_title_id	access_type	bestppn
+BDJ Open		2056-807X	2010						http://www.nature.com/bdjopen/		bdjopen		fulltext	Open Access New for 2016		serial								F	189875003
+BDJ Team		2054-7617	2014						http://www.nature.com/bdjteam/		bdjteam		fulltext	Open Access. Previously: Vital (2003-2013)		serial								F	180528432
+Blood Cancer Journal		2044-5385	2011	1					http://www.nature.com/bcj		bcj		fulltext	Open Access		serial								F	197426565
+Bone Research	2095-4700	2095-6231	2014						http://www.nature.com/boneres/		boneres		fulltext	Open Access		serial								F	223276308
+Cell Death and Disease		2041-4889	2010	1					http://www.nature.com/cddis		cddis		fulltext	Open Access		serial								F	151981647
+Cell Death Discovery		2058-7716	2015						http://www.nature.com/cddiscovery/archive		cddiscovery		fulltext	Open Access		serial								F	18933553X
+Cell Discovery		2056-5968	2015						http://www.nature.com/celldisc/		celldisc		fulltext	Open Access		serial								F	188557865
+Clinical and Translational Gastroenterology		2155-384X	2010	1					http://www.nature.com/ctg		ctg		fulltext	Open Access		serial								F	165470259
+Emerging Microbes & Infections		2222-1751	2012	1					http://www.nature.com/emi		emi		fulltext	Open Access		serial								F	166195413
+Experimental & Molecular Medicine	1226-3613	2092-6413	1996	28	1				http://www.nature.com/emm		emm		fulltext	Open Access		serial								F	156164957
+Horticulture Research		2052-7276	2014	1					http://www.nature.com/hortres		hortres		fulltext	Open Access		serial								F	179322966
+Human Genome Variation		2054-345X	2014						http://www.nature.com/hgv/		hgv		fulltext	Open Access		serial								F	183632508
+International Journal of Oral Science	1674-2818	2049-3169	2009	1	1				http://www.nature.com/ijos		ijos		fulltext	Open Access		serial								F	169699153
+Light: Science & Applications	2095-5545	2047-7538	2012	1					http://www.nature.com/lsa		lsa		fulltext	Open Access		serial								F	16539482X
+Microsystems & Nanoengineering		2055-7434	2015						http://www.nature.com/micronano/		micronano		fulltext	Open Access		serial								F	188557830
+Molecular Therapy Nucleic Acids		2162-2531	2012	1	1	2016	5		http://www.nature.com/mtna		mtna		fulltext	Transfer out (2017): Elsevier (Cell Press)		serial								F	182539989
+Molecular Therapy-Methods & Clinical Development		2329-0501	2014			2016			http://www.nature.com/mtm/		mtm		fulltext	Transfer out (2017): Elsevier (Cell Press)		serial								F	18053405X
+Molecular Therapy-Oncolytics	2372-7705		2014			2016			http://www.nature.com/mto/		mto		fulltext	Transfer out (2017): Elsevier (Cell Press)		serial								F	
+Nature Communications		2041-1723	2010						http://www.nature.com/ncomms/index.html		ncomms		fulltext	Will be fully open access from 2016		serial								F	145457443
+NPG Asia Materials	1884-4049	1884-4057	2009	1	1				http://www.nature.com/am		am		fulltext	Open Access		serial								F	148655963
+npj Aging and Mechanisms of Disease		2056-3973	2015						http://www.nature.com/npjamd/		npjamd		fulltext	Open Access New for 2016		serial								F	18987497X
+npj Biofilms and Microbiomes	2055-5008		2015						http://www.nature.com/npjbiofilms/		npjbiofilms		fulltext	Open Access		serial								F	
+npj Breast Cancer		2374-4677	2015						http://www.nature.com/npjbcancer/		npjbcancer		fulltext	Open Access		serial								F	189401885
+npj Clean Water		2059-7037	2018						http://www.nature.com/npjcleanwater/		npjcleanwater		fulltext	New for 2018. Open Access		serial								F	226864782
+npj Climate and Atmospheric Science		2397-3722	2018						http://www.nature.com/npjclimatsci/		npjclimatsci		fulltext	Open Access. new for 2016		serial								F	224058509
+npj Computational Materials		2057-3960	2015						http://www.nature.com/npjcompumats/		npjcompumats		fulltext	Open Access New for 2016		serial								F	193606852
+npj Flexible Electronics		2397-4621	2017						http://www.nature.com/npjflexelectron/		npjflexelectron		fulltext	New for 2017. Open Access		serial								F	219525196
+npj Genomic Medicine		2056-7944	2016						http://www.nature.com/npjgenmed/		npjgenmed		fulltext	Open Access New for 2016		serial								F	192165224
+npj Materials Degradation		2397-2106	2017						http://www.nature.com/npjmatdeg/		npjmatdeg		fulltext	New for 2017. Open Access		serial								F	204062446
+npj Microgravity		2373-8065	2015						http://www.nature.com/npjmgrav/		npjmgrav		fulltext	Open Access		serial								F	189401826
+npj Parkinson's Disease		2373-8057	2015						http://www.nature.com/npjparkd/		npjparkd		fulltext	Open Access		serial								F	189401818
+npj Pollution Control		2059-318X							http://www.nature.com/npjpollcon/		npjpollcon		fulltext	New for 2017. Open Access, Content not available		serial								F	
+npj Precision Oncology		2397-768X	2017						http://www.nature.com/npjprecisiononcology/		npjprecisiononcology		fulltext	Open Access. new for 2016		serial								F	200451189
+npj Primary Care Respiratory Medicine	2055-1010		2014						http://www.nature.com/npjpcrm/		npjpcrm		fulltext	Open Access		serial								F	
+npj Quantum Information		2056-6387	2015						http://www.nature.com/npjqi/		npjqi		fulltext	Open Access New for 2016		serial								F	189874996
+npj Quantum Materials		2397-4648	2016						http://www.nature.com/npjquantmats/articles		npjquantmats		fulltext	Open Access		serial								F	195204042
+npj Regenerative Medicine		2057-3995	2016	1	1				http://www.nature.com/npjregenmed/		npjregenmed		fulltext	Open Access New for 2016		serial								F	197426735
+npj Schizophrenia		2334-265X	2015						http://www.nature.com/npjschz/		npjschz		fulltext	Open Access		serial								F	189337400
+npj Science of Food		2396-8370							http://www.nature.com/npjscifood/		npjscifood		fulltext	New for 2017. Open Access		serial								F	221012710
+npj Science of Learning		2056-7936	2016						http://www.nature.com/npjscilearn/		npjscilearn		fulltext	Open Access New for 2016		serial								F	197426727
+npj Systems Biology and Applications		2056-7189	2015						http://www.nature.com/npjsba/		npjsba		fulltext	Open Access New for 2016		serial								F	192165208
+npj Vaccines		2059-0105	2016						http://www.nature.com/npjvaccines/articles		npjvaccines		fulltext	New for 2017. Open Access		serial								F	195202228
+npj 2D Materials and Applications		2397-7132	2017						http://www.nature.com/npj2dmaterials/		npj2dmaterials		fulltext	Open Access. New for 2017		serial								F	21952520X
+Nutrition and Diabetes		2044-4052	2011	1	1				http://www.nature.com/nutd		nutd		fulltext	Open Access		serial								F	187671281
+Oncogenesis		2157-9024	2012						http://www.nature.com/oncsis		oncsis		fulltext	Open Access		serial								F	165470283
+Scientific Data		2052-4436	2014						http://www.nature.com/sdata/		sdata		fulltext	Open Access		serial								F	
+Scientific Reports		2045-2322	2011						http://www.nature.com/srep		srep		fulltext	Open Access		serial								F	153912472
+Signal Transduction and Targeted Therapy		2059-3635	2016						http://www.nature.com/sigtrans/		sigtrans		fulltext	Open Access New for 2016		serial								F	195202244
+Translational Psychiatry		2158-3188	2011	1	1				http://www.nature.com/tp		tp		fulltext	Open Access		serial								F	153205237

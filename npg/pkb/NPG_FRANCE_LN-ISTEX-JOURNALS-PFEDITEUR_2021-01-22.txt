@@ -1,0 +1,9 @@
+publication_title	print_identifier	online_identifier	date_first_issue_online	num_first_vol_online	num_first_issue_online	date_last_issue_online	num_last_vol_online	num_last_issue_online	title_url	first_author	title_id	embargo_info	coverage_depth	notes	publisher_name	publication_type	date_monograph_published_print	date_monograph_published_online	monograph_volume	monograph_edition	first_editor	parent_publication_title_id	preceding_publication_title_id	access_type	bestppn
+Nature Cell Biology	1465-7392	1476-4679	1999	1	1	2012	14	12	http://www.nature.com/ncb		ncb		fulltext		Nature	serial								P	068852622
+Nature Chemistry	1755-4330	1755-4349	2009	1	1	2012	4	12	http://www.nature.com/nchem		nchem		fulltext		Nature	serial								P	133945197
+Nature Immunology	1529-2908	1529-2916	2000	1	1	2012	13	12	http://www.nature.com/ni		ni		fulltext		Nature	serial								P	05835266X
+Nature. Physical science	0300-8746		1970	229	1	1973	246	155	http://www.nature.com/nature		nature		fulltext		Nature	serial								P	
+Nature Reviews Drug Discovery	1474-1776	1474-1784	2001	1	1	2012	11	12	http://www.nature.com/nrd		nrd		fulltext		Nature	serial								P	068852142
+Nature Reviews Immunology	1474-1733	1474-1741	2001	1	1	2012	12	12	http://www.nature.com/nri		nri		fulltext		Nature	serial								P	068852126
+Nature Reviews Neuroscience	1471-003X	1471-0048	1999	1	1	2012	13	12	http://www.nature.com/nrn		nrn		fulltext		Nature	serial								P	05828995X
+Nature structural biology	1072-8368	2331-365X	1993	1	1	2003	10	12	http://www.nature.com/nsmb		nsmb		fulltext		Nature	serial								P	174299842
