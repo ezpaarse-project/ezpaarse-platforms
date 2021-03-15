@@ -33,8 +33,7 @@ module.exports = new Parser(function analyseEC(parsedUrl, ec) {
   } else if (path.startsWith('/content')) {
     if (query.abspop) { return {}; }
 
-    const extReg = '(?:\\.(abstract|long|short|full|full\\.pdf|pdf|toc|summary))?$';
-
+    const extReg = '(?:\\.(abstract|long|short|full|full\\.pdf|pdf|toc|toc\\.pdf|summary))?$';
     // /content/6/4/458.full
     // /content/78/2/B49.full
     // /content/2012/5/pdb.top069344.full.pdf
@@ -55,6 +54,9 @@ module.exports = new Parser(function analyseEC(parsedUrl, ec) {
     // /content/journal/jmbe/10.1128/jmbe.v19i3.1627
     const reg5 = new RegExp(`^/content/journal/([a-z]+)/(10.[0-9]+/([a-z0-9._-]+?))${extReg}`);
 
+    // /content/aac/65/2.toc.pdf
+    const reg6 = new RegExp(`^/content/\\w+/(\\d+)/(\\d+)${extReg}`);
+
     let extension;
 
     if ((match = reg1.exec(path)) !== null) {
@@ -70,6 +72,12 @@ module.exports = new Parser(function analyseEC(parsedUrl, ec) {
       if (pageMatch) {
         result.first_page = pageMatch[1];
       }
+
+    } else if ((match = reg6.exec(path)) !== null) {
+      extension     = match[3] || (defaultsToAbstract(hostname) ? 'abstract' : 'full');
+      result.issue  = match[2];
+      result.vol    = match[1];
+      result.unitid = `${hostname}/${result.vol}/${result.issue}`;
 
     } else if ((match = reg2.exec(path)) !== null) {
       const early   = match[1];
@@ -100,6 +108,7 @@ module.exports = new Parser(function analyseEC(parsedUrl, ec) {
       result.unitid   = match[3];
       result.doi      = match[2];
       result.title_id = match[1];
+
     }
 
     switch (extension) {
@@ -122,6 +131,10 @@ module.exports = new Parser(function analyseEC(parsedUrl, ec) {
     case 'toc':
       result.rtype = 'TOC';
       result.mime  = 'HTML';
+      break;
+    case 'toc.pdf':
+      result.rtype = 'TOC';
+      result.mime  = 'PDF';
       break;
     }
 
