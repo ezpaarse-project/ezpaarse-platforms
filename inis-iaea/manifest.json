@@ -1,0 +1,13 @@
+{
+  "longname": "INIS - IAEA",
+  "name": "inis-iaea",
+  "describe": "Recognizes the accesses to the platform INIS - IAEA",
+  "contact": "thomas.porquet, Frederic Truong inist",
+  "pkb": false,
+  "docurl": "http://analyses.ezpaarse.org/platforms/6038fea69681720e067d9131",
+  "domains": [
+    "inis.iaea.org"
+  ],
+  "version": "2021-03-15",
+  "status": "beta"
+}
