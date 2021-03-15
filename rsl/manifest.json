@@ -1,0 +1,13 @@
+{
+  "longname": "Royal Society of London",
+  "name": "rsl",
+  "describe": "Recognizes the accesses to the platform Royal Society of London",
+  "contact": "Frederic Truong inist",
+  "pkb": false,
+  "docurl": "http://analyses.ezpaarse.org/platforms/6048dcfaf87c857f879ad463",
+  "domains": [
+    "royalsocietypublishing.org"
+  ],
+  "version": "2021-03-15",
+  "status": "beta"
+}
