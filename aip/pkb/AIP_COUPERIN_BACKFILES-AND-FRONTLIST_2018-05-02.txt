@@ -1,0 +1,9 @@
+publication_title	print_identifier	online_identifier	date_first_issue_online	num_first_vol_online	num_first_issue_online	date_last_issue_online	num_last_vol_online	num_last_issue_online	title_url	first_author	title_id	embargo_info	coverage_depth	notes	publisher_name	publication_type	date_monograph_published_print	date_monograph_published_online	monograph_volume	monograph_edition	first_editor	parent_publication_title_id	preceding_publication_title_id	access_type	bestppn
+Chinese Journal of Chemical Physics	1674-0068		2006	19	1				http://cps.scitation.org/journal/cjp		cjp		fulltext			serial								P	
+Journal of Applied Physics	0021-8979	1089-7550	1931	1	1				http://aip.scitation.org/journal/jap		jap		fulltext			serial								P	040629880
+Journal of Laser Applications	1042-346X		1988	1	1				http://scitation.aip.org/content/lia/journal/jla		jla		fulltext			serial								P	
+Low Temperature Physics	1063-777X	1090-6517	1997	23	1				http://aip.scitation.org/journal/ltp		ltp		fulltext			serial								P	058047336
+Physics of Fluids (1958)	0031-9171		1958	1	1	1988	31	12	http://aip.scitation.org/journal/phf		phf		fulltext	Absorbed into Physics of Fluids and Physics of Plasma		serial								P	
+Physics of Plasmas	1070-664X	1089-7674	1994	1	1				http://aip.scitation.org/journal/php		php		fulltext			serial							php	P	040629929
+Physics Today	0031-9228		1948	1	1				http://physicstoday.scitation.org/journal/pto		pto		fulltext			serial								P	
+Review of Scientific Instruments	0034-6748	1089-7623	1930	1	1				http://aip.scitation.org/journal/rsi		rsi		fulltext			serial								P	040629899

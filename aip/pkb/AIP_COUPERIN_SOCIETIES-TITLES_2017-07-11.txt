@@ -1,8 +1,0 @@
-publication_title	print_identifier	online_identifier	date_first_issue_online	num_first_vol_online	num_first_issue_online	date_last_issue_online	num_last_vol_online	num_last_issue_online	title_url	first_author	title_id	embargo_info	coverage_depth	notes	publisher_name	publication_type	date_monograph_published_print	date_monograph_published_online	monograph_volume	monograph_edition	first_editor	parent_publication_title_id	preceding_publication_title_id	access_type
-Acoustics today	1557-0215	1557-0223	2005						http://acousticstoday.org/		acousticstoday		fulltext			serial								P
-JASA Express Letters			2006						http://asa.scitation.org/journal/jel		jel		fulltext			serial								P
-Journal of Rheology	0097-0360		1930						http://sor.scitation.org/journal/jor		jor		fulltext			serial								P
-Journal of Vacuum Science & Technology A	0734-2101	1944-2807	1983						http://avs.scitation.org/journal/jva		jva		fulltext			serial								P
-Proceedings of Meetings on Acoustics		1939-800X	2007						http://asa.scitation.org/journal/pma		pma		fulltext			serial								P
-The Journal of the Acoustical Society of America	0001-4966	1520-8524	1930						http://asa.scitation.org/journal/jas		jas		fulltext			serial								P
-The Physics Teacher	0096-0322		1933						http://aapt.scitation.org/journal/pte		pte		fulltext			serial								P

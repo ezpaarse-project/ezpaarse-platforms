@@ -1,9 +1,0 @@
-publication_title	print_identifier	online_identifier	date_first_issue_online	num_first_vol_online	num_first_issue_online	date_last_issue_online	num_last_vol_online	num_last_issue_online	title_url	first_author	title_id	embargo_info	coverage_depth	notes	publisher_name	publication_type	date_monograph_published_print	date_monograph_published_online	monograph_volume	monograph_edition	first_editor	parent_publication_title_id	preceding_publication_title_id	access_type
-Applied Physics Reviews		1931-9401	2014	1	1				http://aip.scitation.org/journal/are		are		fulltext			serial								P
-Chaos: An Interdisciplinary Journal of Nonlinear Science	1054-1500	1089-7682	1999	9	1				http://aip.scitation.org/journal/cha		cha		fulltext			serial								P
-Chinese Journal of Chemical Physics	1674-0068		2006	19	1				http://cps.scitation.org/journal/cjp		cjp		fulltext			serial								P
-Journal of Physical and Chemical Reference Data	0047-2689	1529-7845	1999	28	1				http://aip.scitation.org/journal/jpr		jpr		fulltext			serial								P
-Journal of Renewable and Sustainable Energy	1941-7012		2009	1	1				http://aip.scitation.org/journal/rse		rse		fulltext			serial								P
-Physics Today	0031-9228		1999	52	1				http://physicstoday.scitation.org/journal/pto		pto		fulltext			serial								P
-Physics of Fluids	1070-6631	1089-7666	1999	11	1				http://aip.scitation.org/journal/phf		phf		fulltext	Previously: Physics of Fluids (1958) (1979-1988) and Physics of Fluids A (1989-1993)		serial							phf	P
-Physics of Plasmas	1070-664X	1089-7674	1999	6	1				http://aip.scitation.org/journal/php		php		fulltext			serial							php	P

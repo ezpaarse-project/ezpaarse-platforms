@@ -1,3 +1,2 @@
 "publication_title"	"print_identifier"	"online_identifier"	"date_first_issue_online"	"num_first_vol_online"	"num_first_issue_online"	"date_last_issue_online"	"num_last_vol_online"	"num_last_issue_online"	"title_url"	"first_author"	"title_id"	"embargo_info"	"coverage_depth"	"coverage_notes"	"publisher_name"
-"Computers in Physics"	"0894-1866"	""	"1987-11"	"1"	"1"	"1998-11"	"12"	"6"	"http://scitation.aip.org/content/aip/journal/cip/browse"	""	"cip"	""	"fulltext"	""	"AIP Publishing"
 "Physics of Particles and Nuclei"	"1063-7796"	""	"1997-01"	"28"	"1"	"1999-11"	"30"	"6"	"http://scitation.aip.org/content/aip/journal/ppn/browse"	""	"ppn"	""	"fulltext"	""	"AIP Publishing"
