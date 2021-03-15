@@ -1,0 +1,13 @@
+{
+  "longname": "Embase",
+  "name": "emb",
+  "describe": "Recognizes the accesses to the platform Embase",
+  "contact": "violet, Emeline Dalsorg, Frederic Truong inist",
+  "pkb": false,
+  "docurl": "http://analyses.ezpaarse.org/platforms/5a14420c66ebb553abd43b7a",
+  "domains": [
+    "www.embase.com"
+  ],
+  "version": "2021-03-15",
+  "status": "beta"
+}
