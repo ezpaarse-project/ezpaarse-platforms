@@ -1,0 +1,14 @@
+publication_title	print_identifier	online_identifier	date_first_issue_online	num_first_vol_online	num_first_issue_online	date_last_issue_online	num_last_vol_online	num_last_issue_online	title_url	first_author	title_id	embargo_info	coverage_depth	coverage_notes	publisher_name	publication_type	date_monograph_published_print	date_monograph_published_online	monograph_volume	monograph_edition	first_editor	parent_publication_title_id	preceding_publication_title_id	access_type
+1405160861	9780470696606	#NO							2007		9780470695869													
+1118971957	9781119154754	#NO							2015		9781118971970													
+1118973305	9781118973295	#NO							2020		9781118973271													
+1119475929	9781119549536	#NO							2018		9781119475941													
+1119475937	9781119549567	#NO							2018		9781119475958													
+1786300192	9781119426660	#NO							2018		9781119510604													
+1119542944	9781119547921	#NO							2019		9781119542957													
+1119543053	9781119548270	#NO							2019		9781119542995													
+1119603374	9781119603351	#NO							2020		9781119603382													
+1119603498	9781119603528	#NO							2020		9781119603597													
+1405125772	9780470775035	#NO							2005		9781405143837													
+1405184205	9781444304794	#YES							2008		9781444304800													
+1405196823	9781444390124	#NO							2011		9781444390131													
