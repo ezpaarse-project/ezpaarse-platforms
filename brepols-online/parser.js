@@ -27,29 +27,44 @@ module.exports = new Parser(function analyseEC(parsedUrl, ec) {
     result.rtype    = 'SEARCH';
     result.mime     = 'HTML';
 
-  } else if ((match = /^\/doi\/abs\/(.+)$/i.exec(path)) !== null) {
+  } else if ((match = /^\/doi\/abs\/(10.[a-z0-9]+)\/([a-z0-9.]+)$/i.exec(path)) !== null) {
     // https://www.brepolsonline.net/doi/abs/10.1484/J.JUA.5.120913
     result.rtype    = 'ABS';
     result.mime     = 'HTML';
-    result.unitid   = match[1];
-  } else if ((match = /^\/doi\/book\/(.+)$/i.exec(path)) !== null) {
+    result.unitid   = match[2];
+    result.doi      = `${match[1]}/${match[2]}`;
+  } else if ((match = /^\/doi\/book\/(10.[a-z0-9]+)\/([a-z0-9-.]+)$/i.exec(path)) !== null) {
     // https://www.brepolsonline.net/doi/book/10.1484/m.sa-eb.6.09070802050003050401080309
     // https://www.brepolsonline.net/doi/book/10.1484/m.rrr-eb.5.107026
     result.rtype    = 'TOC';
     result.mime     = 'HTML';
-    result.unitid   = match[1];
-  } else if ((match = /^\/doi\/epdf\/((10\.[0-9]+)\/[a-z]+\.(jua|[a-z_-]+)\.[0-9]+\.[0-9]+)$/i.exec(path)) !== null) {
-    if (match[3].toLowerCase() === 'jua') {
+
+    let isbn;
+    if ((isbn = /^([a-z0-9-.]+?(\.([0-9]+)))$/i.exec(match[2])) !== null) {
+      if (isbn[3].length > 6) {
+        result.rtype = 'BOOK';
+        result.mime  = 'PDF';
+      }
+    }
+
+    result.unitid   = match[2];
+    result.doi      = `${match[1]}/${match[2]}`;
+  } else if ((match = /^\/doi\/epdf\/(10.[a-z0-9]+)\/((J|M).[a-z0-9-.]+)$/i.exec(path)) !== null) {
+    if (match[3].toLowerCase() === 'j') {
       // https://www.brepolsonline.net/doi/epdf/10.1484/J.JUA.5.120913
       result.rtype    = 'ARTICLE';
       result.mime     = 'PDF';
-    } else {
+    }
+
+    if (match[3].toLowerCase() === 'm') {
       // https://www.brepolsonline.net/doi/epdf/10.1484/M.RRR-EB.5.107026
       // https://www.brepolsonline.net/doi/epdf/10.5555/M.MON-EB.4.000599
       result.rtype    = 'BOOK_SECTION';
       result.mime     = 'PDF';
     }
-    result.unitid   = match[1];
+
+    result.unitid   = `${match[2]}`;
+    result.doi      = `${match[1]}/${match[2]}`;
   }
 
   return result;
