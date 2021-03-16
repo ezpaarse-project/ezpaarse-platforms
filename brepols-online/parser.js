@@ -34,18 +34,9 @@ module.exports = new Parser(function analyseEC(parsedUrl, ec) {
     result.unitid   = match[2];
     result.doi      = `${match[1]}/${match[2]}`;
   } else if ((match = /^\/doi\/book\/(10.[a-z0-9]+)\/([a-z0-9-.]+)$/i.exec(path)) !== null) {
-    // https://www.brepolsonline.net/doi/book/10.1484/m.sa-eb.6.09070802050003050401080309
     // https://www.brepolsonline.net/doi/book/10.1484/m.rrr-eb.5.107026
     result.rtype    = 'TOC';
     result.mime     = 'HTML';
-
-    let isbn;
-    if ((isbn = /^([a-z0-9-.]+?(\.([0-9]+)))$/i.exec(match[2])) !== null) {
-      if (isbn[3].length > 6) {
-        result.rtype = 'BOOK';
-        result.mime  = 'PDF';
-      }
-    }
 
     result.unitid   = match[2];
     result.doi      = `${match[1]}/${match[2]}`;
@@ -59,8 +50,17 @@ module.exports = new Parser(function analyseEC(parsedUrl, ec) {
     if (match[3].toLowerCase() === 'm') {
       // https://www.brepolsonline.net/doi/epdf/10.1484/M.RRR-EB.5.107026
       // https://www.brepolsonline.net/doi/epdf/10.5555/M.MON-EB.4.000599
+      // https://www.brepolsonline.net/doi/book/10.1484/m.sa-eb.6.09070802050003050401080309
       result.rtype    = 'BOOK_SECTION';
       result.mime     = 'PDF';
+
+      let isbn;
+      if ((isbn = /^([a-z0-9-.]+?(\.([0-9]+)))$/i.exec(match[2])) !== null) {
+        if (isbn[3].length > 6) {
+          result.rtype = 'BOOK';
+          result.mime  = 'PDF';
+        }
+      }
     }
 
     result.unitid   = `${match[2]}`;
