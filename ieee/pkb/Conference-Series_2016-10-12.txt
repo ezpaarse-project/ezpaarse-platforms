@@ -4,11 +4,9 @@ Composition-Based Software Systems, International Conference on			2008						http
 Convergence and Hybrid Information Technology (ICHIT), International Conference on			2008						http://ieeexplore.ieee.org/servlet/opac?punumber=1002442		1002442		fulltext		IEEE	Serial								P
 Digital Games and Intelligent Toys Based Education, IEEE International Conference on									http://ieeexplore.ieee.org/servlet/opac?punumber=1002542		1002542		fulltext		IEEE	Serial								P
 Computing, Communication and Networking Technologies (ICCCNT), International Conference on			2002						http://ieeexplore.ieee.org/servlet/opac?punumber=1800136		1800136		fulltext		IEEE	Serial								P
-Applied Measurements for Power Systems (AMPS), IEEE International Workshop on			2012						http://ieeexplore.ieee.org/servlet/opac?punumber=1800159		1800159		fulltext		IEEE	Serial								P
 Advanced Communication Control and Computing Technologies (ICACCCT), IEEE International Conference on			2012						http://ieeexplore.ieee.org/servlet/opac?punumber=1801893		1801893		fulltext		IEEE	Serial								P
 Control, Instrumentation and Automation, International Conference on			2011						http://ieeexplore.ieee.org/servlet/opac?punumber=1802142		1802142		fulltext		IEEE	Serial								P
 Advances in Type-2 Fuzzy Logic Systems (T2FUZZ), IEEE Symposium on			2013						http://ieeexplore.ieee.org/servlet/opac?punumber=1802763		1802763		fulltext		IEEE	Serial								P
-Advanced Computing Technologies (ICACT), International Conference on	1738-9445		2013						http://ieeexplore.ieee.org/servlet/opac?punumber=1803317		1803317		fulltext		IEEE	Serial								P
 Computer Architecture (ISCA), International Symposium on	1063-6897		2014						http://ieeexplore.ieee.org/servlet/opac?punumber=1803789		1803789		fulltext		IEEE	Serial								P
 Advanced Robotics and Intelligent Systems, International Conference on			2015						http://ieeexplore.ieee.org/servlet/opac?punumber=1803862		1803862		fulltext		IEEE	Serial								P
 Consumer Electronics - Taiwan (ICCE-TW), IEEE International Conference on			2014						http://ieeexplore.ieee.org/servlet/opac?punumber=1803979		1803979		fulltext		IEEE	Serial								P
