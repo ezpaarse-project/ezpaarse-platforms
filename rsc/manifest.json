@@ -6,7 +6,11 @@
     "pubs.rsc.org"
   ],
   "bacon": {
-    "provider": "RSC"
+    "provider": "RSC",
+    "matches": [
+      "ISTEX-EBOOKS",
+      "ISTEX-JOURNALS"
+    ]
   },
   "name": "rsc",
   "longname": "Royal Society of Chemistry",
