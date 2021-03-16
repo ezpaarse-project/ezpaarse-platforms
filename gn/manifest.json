@@ -6,7 +6,11 @@
     "classiques-garnier.com"
   ],
   "bacon": {
-    "provider": "CLASSIQUESGARNIER"
+    "provider": "CLASSIQUESGARNIER",
+    "matches": [
+      "GLOBAL_ALLEBOOKS",
+      "GLOBAL_ALLTITLES"
+    ]
   },
   "name": "gn",
   "longname": "Garnier Numérique",
