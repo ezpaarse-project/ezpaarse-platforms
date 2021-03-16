@@ -1,0 +1,77 @@
+publication_title	print_identifier	online_identifier	date_first_issue_online	num_first_vol_online	num_first_issue_online	date_last_issue_online	num_last_vol_online	num_last_issue_online	title_url	first_author	title_id	embargo_info	coverage_depth	notes	publisher_name	publication_type	date_monograph_published_print	date_monograph_published_online	monograph_volume	monograph_edition	first_editor	parent_publication_title_id	preceding_publication_title_id	access_type	bestppn
+Analytical communications	1359-7337	1364-5536	1996	33	1	1999	36	12	http://dx.doi.org/10.1039/1364-5536/1996		ac		fulltext		Royal Society of Chemistry	serial								P	040645428
+Analytical methods	1759-9660	1759-9679	2009	1	1	2010	2	12	http://dx.doi.org/10.1039/1759-9679/2009		ay		fulltext		Royal Society of Chemistry	serial								P	145777030
+Analytical proceedings	0144-557X	1754-6885	1980	17	1	1993	32	12	http://dx.doi.org/10.1039/0144-557X/1980		ap		fulltext		Royal Society of Chemistry	serial								P	11543304X
+Analytical proceedings including Analytical Communications	0144-557X	1754-6885	1994			1995		12	http://dx.doi.org/10.1039/0144-557X/1994		ai		fulltext		Royal Society of Chemistry	serial								P	11543304X
+Annual reports on analytical atomic spectroscopy	0306-1353	2050-831X	1971	1		1984	14		http://dx.doi.org/10.1039/0306-1353/1971		aa		fulltext		Royal Society of Chemistry	serial								P	098838423
+Annual reports on the progress of chemistry	0365-6217	1754-7512	1904	1		1966	63		http://dx.doi.org/10.1039/0365-6217/1904		ar		fulltext		Royal Society of Chemistry	serial								P	115433104
+Annual reports on the progress of chemistry : Part A : Inorganic chemistry	0260-1818	1460-4760	1979	73		2010	106		http://dx.doi.org/10.1039/1460-4760/1979		ic		fulltext		Royal Society of Chemistry	serial								P	040648281
+Annual reports on the progress of chemistry : Part B : Organic chemistry	0069-3030	1460-4779	1970	67		2010	106		http://dx.doi.org/10.1039/1460-4779/1967		oc		fulltext		Royal Society of Chemistry	serial								P	04064829X
+Annual reports on the progress of chemistry : Part C : Physical chemistry	0260-1826	1460-4787	1982	79		2010	106		http://dx.doi.org/10.1039/1460-4787/1979		pc		fulltext		Royal Society of Chemistry	serial								P	040648303
+Annual reports on the progress of chemistry : Section A : General, physical and inorganic chemistry	0069-3022	1754-7520	1967	64		1972	69		http://dx.doi.org/10.1039/0069-3022/1967		gr		fulltext		Royal Society of Chemistry	serial								P	115433120
+Annual reports on the progress of chemistry : Section A : Physical and inorganic chemistry	0308-6003	1754-7539	1973	70		1978	75		http://dx.doi.org/10.1039/0308-6003/1973		pr		fulltext		Royal Society of Chemistry	serial								P	115433139
+Chemical communications	1359-7345	1364-548X	1996		1	2010		48	http://dx.doi.org/10.1039/1364-548X/1996		cc		fulltext		Royal Society of Chemistry	serial								P	040645371
+Chemical communications	0009-241X	2050-5620	1965		1	1968		24	http://dx.doi.org/10.1039/0009-241x/1965		c1		fulltext		Royal Society of Chemistry	serial								P	163679037
+Chemical science	2041-6520	2041-6539	2010	1	1	2010	1	6	http://dx.doi.org/10.1039/2041-6539/2010		sc		fulltext		Royal Society of Chemistry	serial								P	146047222
+Chemical Society reviews	0306-0012	1460-4744	1972	1	1	2010	39	12	http://dx.doi.org/10.1039/1460-4744/1972		cs		fulltext		Royal Society of Chemistry	serial								P	040648265
+Contemporary organic synthesis	1350-4894	2050-8328	1994	4	1	1997	4	6	http://dx.doi.org/10.1039/1350-4894/1994		co		fulltext		Royal Society of Chemistry	serial								P	104909757
+CrystEngComm		1466-8033	1999	1	1	2010	12	12	http://dx.doi.org/10.1039/1466-8033/1999		ce		fulltext		Royal Society of Chemistry	serial								P	058286845
+Discussions of the Faraday Society	0366-9033	1754-7679	1947	1		1971	52		http://dx.doi.org/10.1039/0366-9033/1947		df		fulltext		Royal Society of Chemistry	serial								P	098800388
+Energy & environmental science	1754-5692	1754-5706	2008	1	1	2010	3	12	http://dx.doi.org/10.1039/1754-5706/2008		ee		fulltext		Royal Society of Chemistry	serial								P	13176327X
+Faraday discussions	1359-6640	1364-5498	1991	92		2010	147		http://dx.doi.org/10.1039/1364-5498/1991		fd		fulltext		Royal Society of Chemistry	serial								P	04064538X
+Faraday special discussions of the Chemical Society	0308-2326	2050-8409	1972	2		1972	2		http://dx.doi.org/10.1039/0370-9302/1972		dc		fulltext		Royal Society of Chemistry	serial								P	164365613
+Faraday symposia of the Chemical Society	0301-5696	2050-8441	1972	6		1984	19		http://dx.doi.org/10.1039/0301-5696/1972		fs		fulltext		Royal Society of Chemistry	serial								P	164365648
+Food & function	2042-6496	2042-650X	2010	1	1	2010	1	3	http://dx.doi.org/10.1039/2042-650X/2010		fo		fulltext		Royal Society of Chemistry	serial								P	148310176
+Geochemical transactions		1467-4866	2000	1	1	2003	4	7	http://xlink.rsc.org?genre=journal&journal_code=GT		gt		fulltext		Royal Society of Chemistry	serial								P	058286934
+Green chemistry	1463-9262	1463-9270	1999	1	1	2010	12	12	http://dx.doi.org/10.1039/1463-9270/1999		gc		fulltext		Royal Society of Chemistry	serial								P	048899445
+Integrative biology	1757-9694	1757-9708	2009	1	1	2010	2	12	http://dx.doi.org/10.1039/1757-9708/2009		ib		fulltext		Royal Society of Chemistry	serial								P	140305955
+Journal and proceedings	2051-1647	2051-1655	1944	68		1948	72		http://dx.doi.org/10.1039/0368-3958/1944		rg		fulltext		Royal Society of Chemistry	serial								P	164366423
+Journal and proceedings	2051-1663	2051-1671	1920	44		1943	67		http://dx.doi.org/10.1039/0368-3958/1920		jg		fulltext		Royal Society of Chemistry	serial								P	164366431
+Journal and proceedings of the Royal Institute of Chemistry	2051-1620	2051-1639	1949	73		1949	73		http://dx.doi.org/10.1039/0368-3958/1949		jp		fulltext		Royal Society of Chemistry	serial								P	164366415
+Journal of analytical atomic spectrometry	0267-9477	1364-5544	1986	1	1	2010	25	12	http://dx.doi.org/10.1039/1364-5544/1986		ja		fulltext		Royal Society of Chemistry	serial								P	040645436
+Journal of environmental monitoring	1464-0325	1464-0333	1999	1	1	2010	12	12	http://xlink.rsc.org/?genre=journal&issn=1464-0325		em		fulltext		Royal Society of Chemistry	serial								P	048899453
+Journal of materials chemistry	0959-9428	1364-5501	1991	1	1	2010	20	48	http://dx.doi.org/10.1039/1364-5501/1991		jm		fulltext		Royal Society of Chemistry	serial								P	040645398
+Journal of the Chemical Society	2050-5442	2050-5469	1862	15		1877	32		http://pubs.rsc.org/en/journals/journalissues/js#!issueid=js1877_32_0&type=archive&issnprint=0368-1769		js		fulltext		Royal Society of Chemistry	serial								P	163390282
+Journal of the Chemical Society : A : Inorganic, physical, theoretical	0022-4944	2050-5582	1966			1971			http://dx.doi.org/10.1039/0022-4944/1966		j1		fulltext		Royal Society of Chemistry	serial								P	163678995
+Journal of the Chemical Society : Abstracts	0590-9791	2050-554X	1878	34		1924	126		http://dx.doi.org/10.1039/0590-9791/1878		ca		fulltext		Royal Society of Chemistry	serial								P	163678944
+Journal of the Chemical Society : B : Physical organic	0045-6470	2050-5590	1966			1971			http://dx.doi.org/10.1039/0045-6470/1966		j2		fulltext		Royal Society of Chemistry	serial								P	163679002
+Journal of the Chemical Society : C : Organic	0022-4952	2050-5604	1966			1971			http://dx.doi.org/10.1039/0022-4952/1966		j3		fulltext		Royal Society of Chemistry	serial								P	163679010
+Journal of the Chemical Society : Chemical communications	0022-4936	2050-5639	1972		1	1995		24	http://dx.doi.org/10.1039/0022-4936/1972		c3		fulltext		Royal Society of Chemistry	serial								P	163679045
+Journal of the Chemical Society : Dalton transactions	0300-9246	2050-5671	1972			1999			http://xlink.rsc.org/?genre=journal&issn=0300-9246		dt		fulltext		Royal Society of Chemistry	serial								P	164365508
+Journal of the Chemical Society : Faraday Transactions I	0300-9599	2050-5655	1972	68	1	1989	85	12	http://dx.doi.org/10.1039/0300-9599/1972		f1		fulltext		Royal Society of Chemistry	serial								P	098254995
+Journal of the Chemical Society : Faraday Transactions II	0300-9238	2050-5663	1972	68	1	1989	85	12	http://dx.doi.org/10.1039/0300-9238/1972		f2		fulltext		Royal Society of Chemistry	serial								P	098255541
+Journal of the Chemical Society : Transactions	0368-1645	2050-5450	1878	33		1925	127		http://dx.doi.org/10.1039/0368-1645/1878		ct		fulltext		Royal Society of Chemistry	serial								P	163390274
+Journal of the Chemical Society D: Chemical Communications	0009-241X	2050-5620	1969			1971			http://dx.doi.org/10.1039/0577-6171/1965		c2		fulltext		Royal Society of Chemistry	serial								P	163679037
+Journal of the chemical society (resumed)	0368-1769	2050-5574	1926			1965			http://dx.doi.org/10.1039/0368-1769/1926		jr		fulltext		Royal Society of Chemistry	serial								P	163678979
+Journal of the Royal Institute of Chemistry	0368-3958	2050-9235	1950	74		1964	88		http://dx.doi.org/10.1039/0368-3958/1950		ji		fulltext		Royal Society of Chemistry	serial								P	164365737
+Lab on a chip	1473-0197	1473-0189	2001	1	1	2010	10		http://dx.doi.org/10.1039/1473-0189/2001		lc		fulltext		Royal Society of Chemistry	serial								P	06416120X
+MedChemComm	2040-2503	2040-2511	2010	1	1	2010	1	5	http://dx.doi.org/10.1039/2040-2511/2010		md		fulltext		Royal Society of Chemistry	serial								P	14577855X
+Metallomics	1756-5901	1756-591X	2009	1	1	2010	2	12	http://dx.doi.org/10.1039/1756-591X/2009		mt		fulltext		Royal Society of Chemistry	serial								P	140305882
+Molecular bioSystems	1742-206X	1742-2051	2005	1	1	2010	6		http://dx.doi.org/10.1039/1742-2051/2005		mb		fulltext		Royal Society of Chemistry	serial								P	104882034
+Nanoscale	2040-3364	2040-3372	2009	1	1	2010	2	12	http://dx.doi.org/10.1039/2040-3372/2009		nr		fulltext		Royal Society of Chemistry	serial								P	140142738
+Natural product reports	0265-0568	1460-4752	1984	1	1	2010	27	12	http://dx.doi.org/10.1039/1460-4752/1984		np		fulltext		Royal Society of Chemistry	serial								P	040648273
+New journal of chemistry	1144-0546	1369-9261	1998	22	1	2010	34	12	http://dx.doi.org/10.1039/1369-9261/1998		nj		fulltext		Royal Society of Chemistry	serial								P	10486737X
+Organic & biomolecular chemistry	1477-0520	1477-0539	2003	1	1	2010	8	24	http://xlink.rsc.org/?genre=journal&issn=1477-0520		ob		fulltext		Royal Society of Chemistry	serial								P	070117756
+Perkin 1	1470-4358	2050-8263	2000		1	2000		24	http://xlink.rsc.org/?genre=journal&issn=1470-4358		p1		fulltext		Royal Society of Chemistry	serial								P	163679312
+Perkin 2	1470-1820	2050-8247	2000		1	2000		12	http://xlink.rsc.org/?genre=journal&issn=1470-1820		p2		fulltext		Royal Society of Chemistry	serial								P	163679290
+Pesticide outlook	0956-1250	1465-8933	2000	11	1	2003	14	6	http://xlink.rsc.org/?genre=journal&issn=0956-1250		po		fulltext		Royal Society of Chemistry	serial								P	058286780
+Photochemical & photobiological sciences	1474-905X	1474-9092	2002	1	1	2010	9	12	http://dx.doi.org/10.1039/1474-9092/2002		pp		fulltext		Royal Society of Chemistry	serial								P	067778755
+PhysChemComm		1460-2733	1998	1	1	2003	6	16	http://dx.doi.org/10.1039/1460-2733/1998		qu		fulltext		Royal Society of Chemistry	serial								P	114561605
+Physical chemistry chemical physics	1463-9076	1463-9084	1999	1	1	2010	12	48	http://dx.doi.org/10.1039/1463-9084/1999		cp		fulltext		Royal Society of Chemistry	serial								P	104485051
+Polymer chemistry	1759-9954	1759-9962	2010	1	1	2010	1	10	http://xlink.rsc.org/?genre=journal&issn=1759-9954		py		fulltext		Royal Society of Chemistry	serial								P	140138110
+Proceedings of the Analytical Division of the Chemical Society	0306-1396	2050-8271	1975	12	1	1979	16	12	http://dx.doi.org/10.1039/0306-1396/1975		ad		fulltext		Royal Society of Chemistry	serial								P	163679320
+Proceedings of the Chemical Society of London	0269-3143	2050-8395	1842	1		1842	1		http://dx.doi.org/10.1039/0269-3143/1842		mp		fulltext		Royal Society of Chemistry	serial								P	164365605
+Proceedings of the Chemical Society (1890)	0269-3135		1890	6	76	1914	30	436	http://dx.doi.org/10.1039/0369-8718/1885		pl		fulltext		Royal Society of Chemistry	serial								P	
+Proceedings of the Chemical Society (1957)	0369-8718	2050-5612	1957			1964			http://dx.doi.org/10.1039/0369-8718/1957		ps		fulltext		Royal Society of Chemistry	serial								P	110906160
+Proceedings of the Institute of Chemistry of Great Britain and Ireland	2051-168X	2051-1698	1877	1		1919	43		http://dx.doi.org/10.1039/0368-3958/1877		pg		fulltext		Royal Society of Chemistry	serial								P	16436644X
+Proceedings of the Society for Analytical Chemistry, Analytical Division, Chemical Society	0037-9697	2050-8298	1972	9	1	1974	11	12	http://dx.doi.org/10.1039/0037-9697/1964		sa		fulltext		Royal Society of Chemistry	serial								P	163679339
+Quarterly Reviews	0009-2681	2050-9227	1947	1	1	1971	25	4	http://dx.doi.org/10.1039/0009-2681/1947		qr		fulltext		Royal Society of Chemistry	serial								P	098129074
+RIC Reviews	0035-8940	2050-8468	1968	1	1	1971	4	2	http://dx.doi.org/10.1039/0035-8940/1968		rr		fulltext		Royal Society of Chemistry	serial								P	09813938X
+Selected annual reviews of the analytical sciences	0300-9963	2050-845X	1971	1	1	1974	4		http://dx.doi.org/10.1039/0300-9963/1971		as		fulltext		Royal Society of Chemistry	serial								P	164365656
+Soft matter	1744-683X	1744-6848	2005	1	1	2010	6	24	http://xlink.rsc.org/?genre=journal&issn=1744-683X		sm		fulltext		Royal Society of Chemistry	serial								P	104882425
+Special Discussions of the Faraday Society	0370-9302		1970	1		1970	1		http://dx.doi.org/10.1039/0370-9302/1970		sd		fulltext		Royal Society of Chemistry	serial								P	
+Symposia of the Faraday Society	2050-8425	2050-8433	1967	1		1971	5		http://dx.doi.org/10.1039/0430-0696/1967		sf		fulltext		Royal Society of Chemistry	serial								P	16436563X
+The Analyst	0003-2654	1364-5528	1876	1	1	2010	135	12	http://dx.doi.org/10.1039/1364-5528/1876		an		fulltext		Royal Society of Chemistry	serial								P	04064541X
+The Jubilee of the Chemical Society of London. Record of the proceedings together with an account of the history and development of the Society, 1841-1891			1896			1896			http://xlink.rsc.org?genre=journal&journal_code=M1		m1		fulltext		Royal Society of Chemistry	serial								P	
+The quarterly journal of the Chemical Society of London	1743-6893	2050-5434	1849	1	1	1862	14		http://dx.doi.org/10.1039/1743-6893/1849		qj		fulltext		Royal Society of Chemistry	serial								P	163390266
+Transactions of the Faraday Society	0014-7672	2050-5647	1905	1		1971	67		http://dx.doi.org/10.1039/0014-7672/1905		tf		fulltext		Royal Society of Chemistry	serial								P	09825930X
