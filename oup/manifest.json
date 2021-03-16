@@ -28,6 +28,10 @@
     "www.oxfordscholarship.com"
   ],
   "bacon": {
-    "provider": "OUP"
+    "provider": "OUP",
+    "matches": [
+      "GLOBAL_ALLTITLES",
+      "GLOBAL_OPENACCESS"
+    ]
   }
 }
