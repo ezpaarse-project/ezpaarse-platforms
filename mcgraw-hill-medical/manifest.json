@@ -1,0 +1,30 @@
+{
+  "longname": "McGraw Hill Medical",
+  "name": "mcgraw-hill-medical",
+  "describe": "Recognizes the accesses to the platform McGraw Hill",
+  "contact": "Karen Coombs",
+  "pkb": false,
+  "docurl": "http://analyses.ezpaarse.org/platforms/5fef611e936a6d1e1bc7d8d5",
+  "domains": [
+	  "accessmedicine.mhmedical.com",
+	  "casefiles.mhmedical.com",
+	  "jamaevidence.mhmedical.com",
+	  "accessmedicina.mhmedical.com",
+	  "murtagh.mhmedical.com",
+	  "accessbiomedicalscience.mhmedical.com",
+	  "accesspharmacy.mhmedical.com",
+	  "ppp.mhmedical.com",
+	  "accessphysiotherapy.mhmedical.com",
+	  "fadavispt.mhmedical.com",
+	  "fadavisat.mhmedical.com",
+	  "accessanesthesiology.mhmedical.com",
+	  "accesscardiology.mhmedical.com",
+	  "dermatology.mhmedical.com",
+	  "accessemergencymedicine.mhmedical.com",
+	  "hemonc.mhmedical.com",
+	  "ommbid.mhmedical.com",
+	  "neurology.mhmedical.com"
+  ],
+  "version": "2021-01-01",
+  "status": "beta"
+}
