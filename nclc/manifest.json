@@ -1,0 +1,13 @@
+{
+  "longname": "National Consumer Law Center",
+  "name": "nclc",
+  "describe": "Recognizes the accesses to the platform National Consumer Law Center",
+  "contact": "Sean Duffy",
+  "pkb": false,
+  "docurl": "http://analyses.ezpaarse.org/platforms/6051185c25d6a544f386f1c4",
+  "domains": [
+    "library.nclc.org"
+  ],
+  "version": "2021-03-30",
+  "status": "beta"
+}
