@@ -1,0 +1,13 @@
+{
+  "longname": "Indiana Memory",
+  "name": "im",
+  "describe": "Recognizes the accesses to the platform Indiana Memory",
+  "contact": "Sean Duffy",
+  "pkb": false,
+  "docurl": "http://analyses.ezpaarse.org/platforms/6042836bcf611b81bf5d5e58 ",
+  "domains": [
+    "digital.library.in.gov"
+  ],
+  "version": "2021-03-30",
+  "status": "beta"
+}
