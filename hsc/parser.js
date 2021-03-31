@@ -24,7 +24,7 @@ module.exports = new Parser(function analyseEC(parsedUrl, ec) {
     result.rtype    = 'SEARCH';
     result.mime     = 'HTML';
 
-  } else if ((match = /^\/cgi-bin\/imageserver.pl$/i.exec(path)) !== null) {
+  } else if (/^\/cgi-bin\/imageserver.pl$/i.test(path)) {
     // https://newspapers.library.in.gov/cgi-bin/imageserver.pl?oid=GB18800610-01&getpdf=true
     result.rtype    = 'ISSUE';
     result.mime     = 'PDF';
