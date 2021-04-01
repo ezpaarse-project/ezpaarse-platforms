@@ -1,0 +1,13 @@
+{
+  "longname": "Plus Pli",
+  "name": "pli",
+  "describe": "Recognizes the accesses to the platform Plus Pli",
+  "contact": "Sean Duffy",
+  "pkb": false,
+  "docurl": "http://analyses.ezpaarse.org/platforms/60510a9b06618f1bc4fd4874 ",
+  "domains": [
+    "plus.pli.edu"
+  ],
+  "version": "2021-04-01",
+  "status": "beta"
+}

@@ -1,0 +1,8 @@
+out-unitid;out-rtype;out-mime;in-url
+;SEARCH;HTML;https://plus.pli.edu/Search/Result?q=Finances&fq=f_year~3a285b~2018~20~TO~202a5d29~&qt=legal_boolean&sort=score%20desc,s_date%20desc&rows=10&fq=~2b~f_entity_type~3a2822~Course~20~Handbooks~222022~Treatises~222022~Answer~20~Books~222022~Journals~22202022~Insights~2229~
+;BOOK_SECTION;HTML;https://plus.pli.edu/Details/Details?rows=10&sort=score%20desc%2Cs_date%20desc&fq=f_year~3A285B~2018~20~TO~202A5D29~%2C~2B~f_entity_type~3A2822~Course~20~Handbooks~222022~Treatises~222022~Answer~20~Books~222022~Journals~222022~Insights~2229~%2C~2B~id~3A282B22~293924-CH9~2229~&qt=legal_boolean&q=Finances
+;ARTICLE;HTML;https://plus.pli.edu/Details/Details?start=0&rows=10&sort=score%20desc%2Cs_date%20desc&fq=f_year~3A285B~2018~20~TO~202A5D29~%2C~2B~f_entity_type~3A2822~Journals~2229~%2C~2B~id~3A282B22~268427-ATL3~2229~&qt=legal_boolean&q=Finances
+;ARTICLE;HTML;https://plus.pli.edu/Details/Details?start=0&rows=10&sort=score%20desc%2Cs_date%20desc&fq=f_year~3A285B~2018~20~TO~202A5D29~%2C~2B~f_entity_type~3A2822~Transcripts~2229~%2C~2B~id~3A282B22~257003~2229~&qt=legal_boolean&q=Finances
+251669-ATL4;ARTICLE;PDF;https://plus.pli.edu/Details/download-file?recordId=251669-ATL4&format=PDF
+;TOC;HTML;https://plus.pli.edu/Details/Details?rows=10&fq=title_id~3A2822~290185~2229202B~id~3A282B22~290185-TOC~2229~&facet=true&qt=legal_boolean&mode=Group_By_Series
+;ARTICLE;HTML;https://plus.pli.edu/Details/Details?start=0&rows=10&sort=score%20desc%2Cs_date%20desc&fq=f_year~3A285B~2018~20~TO~202A5D29~%2C~2B~f_entity_type~3A2822~Insights~2229~%2C~2B~id~3A282B22~315011-ATL13~2229~&qt=legal_boolean&q=crime
