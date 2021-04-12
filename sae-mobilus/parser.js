@@ -22,6 +22,14 @@ module.exports = new Parser(function analyseEC(parsedUrl, ec) {
     result.rtype = 'SEARCH';
     result.mime  = 'HTML';
 
+  } else if (/^\/viewhtml?$/i.test(path) && query.prodCd) {
+    // /viewhtml?prodCd=01-14-01-0005
+    result.rtype = 'ARTICLE';
+    result.mime  = 'HTML';
+
+    result.unitid = query.prodCd;
+    result.doi = `${doiPrefix}/${query.prodCd}`;
+
   } else if (/^\/download\/?$/i.test(path) && query.method === 'downloadDocument') {
     // /download/?saetkn=&method=downloadDocument&contentType=pdf&prodCode=03-12-05-0036&cid=1000421378
     result.rtype = 'ARTICLE';
@@ -31,6 +39,14 @@ module.exports = new Parser(function analyseEC(parsedUrl, ec) {
       result.unitid = query.prodCode;
       result.doi = `${doiPrefix}/${query.prodCode}`;
     }
+
+  } else if (/^\/download\/?$/i.test(path) && query.fileFormat) {
+    // /download/?fileFormat=epub&cid=1000427927
+    // /download/?fileFormat=pdf&cid=1000426008
+    result.rtype = 'BOOK';
+    result.mime  = query.fileFormat.toUpperCase();
+
+    result.unitid = query.cid;
 
   } else if ((match = /^\/content\/([a-z0-9_.-]+)\/?$/i.exec(path)) !== null) {
 
