@@ -6,8 +6,11 @@
   "pkb": false,
   "docurl": "http://analyses.ezpaarse.org/platforms/565d71c88201cb34fe899d2c",
   "domains": [
+    "calvin.droz.org",
     "droz.org",
-    "humanisme-renaissance-droz-org"
+    "humanisme.renaissance.droz.org",
+    "revues.droz.org",
+    "textes-litteraires-francais.droz.org"
   ],
   "version": "2021-04-12",
   "status": "beta"
