@@ -4,9 +4,10 @@
 const Parser = require('../.lib/parser.js');
 
 module.exports = new Parser(function analyseEC(parsedUrl) {
-  let result = {};
-  let path   = parsedUrl.pathname;
-  let param  = parsedUrl.query || {};
+  let result   = {};
+  let path     = parsedUrl.pathname;
+  let param    = parsedUrl.query || {};
+  let hostname = parsedUrl.hostname;
   let match;
 
   if (/^\/rechercheavancee\/result$/i.test(path)) {
@@ -78,8 +79,11 @@ module.exports = new Parser(function analyseEC(parsedUrl) {
       result.unitid           = `${param.a}-${param.c || '0'}`;
     }
 
+  } else if (path === '/' && hostname === 'liseuse.harmattan.fr') {
+    // http://liseuse.harmattan.fr/?sj=HTQb7a77843cebdd26b55b66607838b77c7&sh=f0d7b71137a803172aaad06cc8862c81
+    result.rtype = 'BOOK';
+    result.mime  = 'HTML';
   }
 
   return result;
 });
-
