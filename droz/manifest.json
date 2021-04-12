@@ -1,0 +1,13 @@
+{
+  "longname": "Droz",
+  "name": "droz",
+  "describe": "Recognizes the accesses to the platform Droz",
+  "contact": "Frederic Truong inist, Virginie BU UPJV",
+  "pkb": false,
+  "docurl": "http://analyses.ezpaarse.org/platforms/565d71c88201cb34fe899d2c",
+  "domains": [
+    "humanisme-renaissance-droz-org.insu.bib.cnrs.fr"
+  ],
+  "version": "2021-04-12",
+  "status": "beta"
+}
