@@ -1,0 +1,13 @@
+{
+  "longname": "Hoosier State Chronicles",
+  "name": "hsc",
+  "describe": "Recognizes the accesses to the platform Hoosier State Chronicles",
+  "contact": "Sean Duffy",
+  "pkb": false,
+  "docurl": "http://analyses.ezpaarse.org/platforms/6042876f2c17bd07516aca9c ",
+  "domains": [
+    "newspapers.library.in.gov"
+  ],
+  "version": "2021-03-30",
+  "status": "beta"
+}
