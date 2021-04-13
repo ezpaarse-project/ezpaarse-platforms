@@ -1,0 +1,13 @@
+{
+  "longname": "South Carolina Lawyers Weekly",
+  "name": "sclw",
+  "describe": "Recognizes the accesses to the platform South Carolina Lawyers Weekly",
+  "contact": "Sean Duffy",
+  "pkb": false,
+  "docurl": "http://analyses.ezpaarse.org/platforms/60534d40068a8c0de7bb4b69 ",
+  "domains": [
+    "sclawyersweekly.com"
+  ],
+  "version": "2021-03-30",
+  "status": "beta"
+}
