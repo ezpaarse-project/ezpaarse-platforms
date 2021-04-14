@@ -1,7 +1,7 @@
 out-unitid;out-rtype;out-mime;in-url
 ;SEARCH;HTML;https://www.anatomy.tv/search
-;FIGURE;HTML;https://www.anatomy.tv/anatomytv/html5ui_2018/#/product/har_hand_2014/type/Views/id/39255/layer/0/angle/0/structureID/275504
-;IMAGE;HTML;https://www.anatomy.tv/anatomytv/html5ui_2018/#/product/har_hand_2014/type/MRI Views/id/39296/layer/0/angle/0/structureID/263184
-;SUPPL;HTML;https://www.anatomy.tv/anatomytv/html5ui_2018/#/product/har_hand_2014/type/Slides/id/7888532/structureID/-1
-;VIDEO;HTML;https://www.anatomy.tv/anatomytv/html5ui_2018/#/product/har_hand_2014/type/Movies/id/7888394
-;ARTICLE;HTML;https://www.anatomy.tv/anatomytv/html5ui_2018/#/product/har_hand_2014/type/Text articles/id/39256/layer/3/angle/8/structureID/1835224
+39255;FIGURE;HTML;https://www.anatomy.tv/anatomytv/html5ui_2018/#/product/har_hand_2014/type/Views/id/39255/layer/0/angle/0/structureID/275504
+39296;IMAGE;HTML;https://www.anatomy.tv/anatomytv/html5ui_2018/#/product/har_hand_2014/type/MRI Views/id/39296/layer/0/angle/0/structureID/263184
+7888532;SUPPL;HTML;https://www.anatomy.tv/anatomytv/html5ui_2018/#/product/har_hand_2014/type/Slides/id/7888532/structureID/-1
+7888394;VIDEO;HTML;https://www.anatomy.tv/anatomytv/html5ui_2018/#/product/har_hand_2014/type/Movies/id/7888394
+39256;ARTICLE;HTML;https://www.anatomy.tv/anatomytv/html5ui_2018/#/product/har_hand_2014/type/Text articles/id/39256/layer/3/angle/8/structureID/1835224
