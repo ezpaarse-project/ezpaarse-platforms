@@ -8,7 +8,9 @@
   "domains": [
     "search.proquest.com",
     "media.proquest.com",
-    "ebookcentral.proquest.com"
+    "ebookcentral.proquest.com",
+    "explore.proquest.com",
+    "pqrc.proquest.com"
   ],
   "version": "2018-09-18",
   "status": "rc1"
