@@ -15,7 +15,11 @@
     "statabs.proquest.com",
     "regulatoryinsight.proquest.com",
     "li.proquest.com",
-    "indianclaims.proquest.com"
+    "indianclaims.proquest.com",
+    "blackfreedom.proquest.com",
+    "parlipapers.proquest.com",
+    "hv.proquest.com"
+    
   ],
   "version": "2018-09-18",
   "status": "rc1"
