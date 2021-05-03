@@ -1,0 +1,11 @@
+out-db_id;out-unitid;out-rtype;out-mime;in-url
+cdm16014;p4014coll18;TOC;HTML;https://cdm16014.contentdm.oclc.org/digital/collection/p4014coll18
+cdm16014;p4014coll18/id/5371;RECORD_VIEW;HTML;https://cdm16014.contentdm.oclc.org/digital/collection/p4014coll18/id/5371
+cdm16014;p4014coll18/5371;IMAGE;JPEG;https://cdm16014.contentdm.oclc.org/digital/iiif/p4014coll18/5371/full/full/0/default.jpg
+cdm16014;;SEARCH;HTML;https://cdm16014.contentdm.oclc.org/digital/collection/p4014coll18/search/searchterm/bridge
+cdm16014;;SEARCH;HTML;https://cdm16014.contentdm.oclc.org/digital/search/searchterm/bridge
+michianamemory;;SEARCH;HTML;https://michianamemory.sjcpl.org/digital/search/searchterm/red%20ball/order/nosort
+michianamemory;p16827coll9/id/4938/rec/1;RECORD_VIEW;HTML;https://michianamemory.sjcpl.org/digital/collection/p16827coll9/id/4938/rec/1
+michianamemory;p16827coll5/id/1007;IMAGE;JPEG;https://michianamemory.sjcpl.org/digital/download/collection/p16827coll5/id/1007/size/large
+michianamemory;p16827coll1/5506;IMAGE;JPEG;https://michianamemory.sjcpl.org/digital/iiif/p16827coll1/5506/full/584,/0/default.jpg
+michianamemory;p16827coll9_4940_11;OTHER;PDF;https://michianamemory.sjcpl.org/digital/api/collection/p16827coll9/id/4940/page/11/inline/p16827coll9_4940_11
