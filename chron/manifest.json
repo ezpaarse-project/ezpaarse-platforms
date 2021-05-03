@@ -1,0 +1,13 @@
+{
+  "longname": "The Chronicle of Higher Education",
+  "name": "chron",
+  "describe": "Recognizes the accesses to the platform The Chronicle of Higher Education",
+  "contact": "Sean Duffy",
+  "pkb": false,
+  "docurl": "http://analyses.ezpaarse.org/platforms/605355fe26568e36a4122ec4 ",
+  "domains": [
+    "www.chronicle.com"
+  ],
+  "version": "2021-03-30",
+  "status": "beta"
+}

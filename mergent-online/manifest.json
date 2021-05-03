@@ -11,7 +11,7 @@
       "unitid"
     ]
   },
-  "name": "mergentonline",
+  "name": "mergent-online",
   "longname": "Mergent Online",
   "describe": "Recognizes the accesses to the platform Mergent Online",
   "docurl": "https://www.mergentonline.com:443/",

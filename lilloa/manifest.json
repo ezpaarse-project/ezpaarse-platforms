@@ -1,0 +1,13 @@
+{
+  "longname": "Lille Open Archive",
+  "name": "lilloa",
+  "describe": "Recognizes the accesses to the platform Lille Open Archive",
+  "contact": "DL",
+  "pkb": false,
+  "docurl": "https://lilloa.univ-lille.fr",
+  "domains": [
+    "https://lilloa.univ-lille.fr"
+  ],
+  "version": "2021-04-29",
+  "status": "beta"
+}

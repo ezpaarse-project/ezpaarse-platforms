@@ -1,0 +1,13 @@
+{
+  "longname": "Anatomy TV",
+  "name": "atv",
+  "describe": "Recognizes the accesses to the platform Anatomy TV",
+  "contact": "Sean Duffy",
+  "pkb": false,
+  "docurl": "http://ang.couperin.org/platforms/604a79528b8c468b8080835f",
+  "domains": [
+    "www.anatomy.tv"
+  ],
+  "version": "2021-03-30",
+  "status": "beta"
+}

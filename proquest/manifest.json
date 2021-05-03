@@ -8,7 +8,17 @@
   "domains": [
     "search.proquest.com",
     "media.proquest.com",
-    "ebookcentral.proquest.com"
+    "ebookcentral.proquest.com",
+    "explore.proquest.com",
+    "pqrc.proquest.com",
+    "supremecourt.proquest.com",
+    "statabs.proquest.com",
+    "regulatoryinsight.proquest.com",
+    "li.proquest.com",
+    "indianclaims.proquest.com",
+    "blackfreedom.proquest.com",
+    "parlipapers.proquest.com",
+    "hv.proquest.com"
   ],
   "version": "2018-09-18",
   "status": "rc1"

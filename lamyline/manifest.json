@@ -9,7 +9,8 @@
   "docurl": "http://analyses.ezpaarse.org/platforms/540ed5870c534302a6aeeb29",
   "contact": "Karine Delvert et Thomas Jouneau",
 	"domains": [
-    "lamyline.lamy.fr"
+    "lamyline.lamy.fr",
+    "www.lamyline.fr"
 	],
   "recognize": {
     "rid": [
