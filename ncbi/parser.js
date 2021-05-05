@@ -17,7 +17,7 @@ module.exports = new Parser(function analyseEC(parsedUrl, ec) {
 
   let match;
 
-  if ((match = /^\/[a-z]+\/?$/i.exec(path)) !== null && param.term || param.term) {
+  if (param.term && /^\/([a-z]+\/?)?$/i.test(path)) {
     result.rtype = 'SEARCH';
     result.mime  = 'HTML';
 
