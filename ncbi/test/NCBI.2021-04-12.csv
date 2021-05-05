@@ -1,7 +1,8 @@
 out-title_id;out-unitid;out-rtype;out-mime;in-url
 ;;SEARCH;HTML;https://pubmed.ncbi.nlm.nih.gov/?term=binocular
-;31272953;ABS;HTML;https://pubmed.ncbi.nlm.nih.gov/31272953/
 ;;SEARCH;HTML;https://www.ncbi.nlm.nih.gov/pmc/?term=flu
+;;SEARCH;HTML;https://www.ncbi.nlm.nih.gov/search/all/?term=bee
+;31272953;ABS;HTML;https://pubmed.ncbi.nlm.nih.gov/31272953/
 ;PMC6927892;ARTICLE;HTML;https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6927892/
 ;PMC6927892/jiy328;ARTICLE;PDF;https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6927892/pdf/jiy328.pdf
 ;PMC6927892;ARTICLE;HTML;https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6927892/?report=reader
