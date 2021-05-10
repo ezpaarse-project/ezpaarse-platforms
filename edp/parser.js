@@ -3,61 +3,64 @@
 'use strict';
 const Parser = require('../.lib/parser.js');
 
+const abbrToRtype = new Map([
+  ['abs', 'ABS'],
+  ['ref', 'REF'],
+  ['olm', 'SUPPL'],
+  ['ps', 'ARTICLE'],
+  ['full', 'ARTICLE'],
+  ['full_html', 'ARTICLE'],
+  ['pdf', 'ARTICLE'],
+  ['epub', 'ARTICLE'],
+  ['epub2', 'ARTICLE'],
+]);
+const extToMime = new Map([
+  ['html', 'HTML'],
+  ['epub', 'EPUB'],
+  ['pdf', 'PDF'],
+  ['ps', 'POSTSCRIPT'],
+]);
+
 module.exports = new Parser(function analyseEC(parsedUrl) {
   let result = {};
   let param  = parsedUrl.query || {};
-  let url    = parsedUrl.href;
+  let url    = parsedUrl.pathname;
   let domain = parsedUrl.hostname;
   let match;
-
-  result.title_id = domain;
 
   // if a param url is here, take it, else it's the path
   if (param.url) { url = param.url; }
 
   if (param.option === 'com_journals') {
     // http://publications.edpsciences.org/index.php?option=com_journals
-    result.rtype  = 'TOC';
-    result.mime   = 'MISC';
-    result.unitid = param.option;
+    result.rtype = 'TOC';
+    result.mime  = 'HTML';
 
-  } else if ((match = /\/articles\/\w+\/(abs|full_html|pdf|ref)\/([0-9]{4}\/[0-9]{2}|first)\/([\w-]+)(?:\/[\w-]+)?\.[a-z]{2,4}$/.exec(url)) !== null) {
+  } else if ((match = /(?:\/[a-z]{2})?\/articles\/(\w+)\/([\w_]+)\/(([0-9]{4})\/[0-9]{2}|first|forth)\/([\w-]+)(?:\/[\w-]+)?\.([a-z]{2,4})$/.exec(url)) !== null) {
     // /articles/apido/abs/2010/06/contents/contents.html
     // /articles/apido/abs/2010/06/m08176/m08176.html
     // /articles/medsci/full_html/2013/09/medsci2013298-9p765/F2.html
     // /articles/apido/pdf/2010/06/m08176.pdf
+    // /articles/sm/olm/first/sm190053/sm190053.html
+    // /articles/aa/pdf/forth/aa40837-21.pdf
+    // /articles/aa/full/2006/02/aa3316-05/aa3316-05_online.html
 
-    if (match[2] !== 'first') {
-      result.publication_date = match[2].substr(0, 4);
+    if (match[4]) {
+      result.publication_date = match[4];
     }
 
-    if (match[3] === 'contents') {
-      result.unitid = domain;
-      result.rtype  = 'TOC';
-      result.mime   = 'MISC';
+    if (match[5] === 'contents') {
+      result.rtype    = 'TOC';
+      result.mime     = 'HTML';
+      result.unitid   = match[1];
+      result.title_id = match[1];
       return result;
     }
 
-    result.unitid = `${domain}/${match[3]}`;
-
-    switch (match[1].toLowerCase()) {
-    case 'abs':
-      result.rtype = 'ABS';
-      result.mime  = 'MISC';
-      break;
-    case 'full_html':
-      result.rtype = 'ARTICLE';
-      result.mime  = 'HTML';
-      break;
-    case 'pdf':
-      result.rtype = 'ARTICLE';
-      result.mime  = 'PDF';
-      break;
-    case 'ref':
-      result.rtype = 'REF';
-      result.mime  = 'MISC';
-      break;
-    }
+    result.unitid   = match[5];
+    result.title_id = match[1];
+    result.rtype    = abbrToRtype.get(match[2].toLowerCase());
+    result.mime     = extToMime.get(match[6].toLowerCase());
 
   } else if ((match = /\/action\/display([a-zA-Z]+)/.exec(url)) !== null) {
     // http://www.epjap.org/action/displayJournal?jid=JAP
@@ -66,6 +69,7 @@ module.exports = new Parser(function analyseEC(parsedUrl) {
     // http://www.epjap.org/action/displayAbstract?fromPage=online&aid=8820896&fulltextType=RA&fileId=S1286004212303182
 
     result.unitid = domain;
+    result.title_id = domain;
 
     if (param.aid) {
       result.unitid = `${domain}/${param.aid}`;
@@ -73,19 +77,25 @@ module.exports = new Parser(function analyseEC(parsedUrl) {
     if (param.fileId) {
       result.print_identifier = `${param.fileId.substr(1, 4)}-${param.fileId.substr(5, 4)}`;
     }
+    if (/^\d+$/.test(param.volumeId)) {
+      result.vol = param.volumeId;
+    }
+    if (/^\d+$/.test(param.issueId)) {
+      result.issue = param.issueId;
+    }
 
     switch (match[1].toLowerCase()) {
     case 'journal':
       result.rtype  = 'TOC';
-      result.mime   = 'MISC';
+      result.mime   = 'HTML';
       break;
     case 'fulltext':
       result.rtype = param.pdftype ? 'ARTICLE' : 'REF';
-      result.mime  = param.pdftype ? 'PDF' : 'MISC';
+      result.mime  = param.pdftype ? 'PDF' : 'HTML';
       break;
     case 'abstract':
       result.rtype = 'ABS';
-      result.mime  = 'MISC';
+      result.mime  = 'HTML';
       break;
     }
   }
