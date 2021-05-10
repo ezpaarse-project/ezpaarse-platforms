@@ -86,6 +86,8 @@
     },{
       "code": "MARC"
     },{
+      "code": "POSTSCRIPT"
+    },{
       "code": "MISC",
       "description": "Format non-standard",
       "description_en": "Non-standard format"
