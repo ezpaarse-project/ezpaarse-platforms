@@ -36,7 +36,7 @@ module.exports = new Parser(function analyseEC(parsedUrl) {
     result.rtype = 'TOC';
     result.mime  = 'HTML';
 
-  } else if ((match = /(?:\/[a-z]{2})?\/articles\/(\w+)\/([\w_]+)\/(([0-9]{4})\/[0-9]{2}|first|forth)\/([\w-]+)(?:\/[\w-]+)?\.([a-z]{2,4})$/.exec(url)) !== null) {
+  } else if ((match = /(?:\/[a-z]{2})?\/articles\/(\w+)\/([\w_]+)\/(([0-9]{4})\/[0-9]{2}|first|forth)\/([\w-]+?)(?:\/[\w-]+?)?(_online)?\.([a-z]{2,4})$/.exec(url)) !== null) {
     // /articles/apido/abs/2010/06/contents/contents.html
     // /articles/apido/abs/2010/06/m08176/m08176.html
     // /articles/medsci/full_html/2013/09/medsci2013298-9p765/F2.html
@@ -59,8 +59,8 @@ module.exports = new Parser(function analyseEC(parsedUrl) {
 
     result.unitid   = match[5];
     result.title_id = match[1];
-    result.rtype    = abbrToRtype.get(match[2].toLowerCase());
-    result.mime     = extToMime.get(match[6].toLowerCase());
+    result.rtype    = abbrToRtype.get(match[6] ? 'olm' : match[2].toLowerCase());
+    result.mime     = extToMime.get(match[7].toLowerCase());
 
   } else if ((match = /\/action\/display([a-zA-Z]+)/.exec(url)) !== null) {
     // http://www.epjap.org/action/displayJournal?jid=JAP
