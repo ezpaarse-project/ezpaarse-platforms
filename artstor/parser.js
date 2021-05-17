@@ -16,6 +16,7 @@ var Parser = require('../.lib/parser.js');
 module.exports = new Parser(function analyseEC(parsedUrl, ec) {
   var result = {};
   var path   = parsedUrl.pathname;
+  var hash   = parsedUrl.hash;
   // uncomment this line if you need parameters
   var param  = parsedUrl.query || {};
 
@@ -51,33 +52,35 @@ module.exports = new Parser(function analyseEC(parsedUrl, ec) {
 
     //see the comment block above
     //result.unitid   = '';
-  } else if ((match = /^\/library\/([A-Za-z]*)Print([A-Za-z]*)\.html$/.exec(path)) !== null)
-  {
+  } else if ((match = /^\/library\/([A-Za-z]*)Print([A-Za-z]*)\.html$/.exec(path)) !== null) {
   //http://library.artstor.org/library/IGDescPrintTemplate.html
     result.rtype    = 'PRINT';
     result.mime     = 'HTML';
     // result.title_id = '';
     //see the comment block above
     result.unitid   = match[1]+ 'Print' + match[2];
-
-
-  }  else if ((match = /^\/library\/([A-Za-z]+)\.html$/.exec(path)) !== null)
-  {
+  } else if ((match = /^\/library\/([A-Za-z]+)\.html$/.exec(path)) !== null) {
     //http://library.artstor.org/library/CitationsWindow.html
     result.rtype    = 'CITATION';
     result.mime     = 'HTML';
     //result.title_id = '';
     //see the comment block above
     result.unitid   = match[1];
-
-
-  }  else if ((match = /^\/library\/([a-z]+)\/([a-z]+)\/([0-9]+)$/.exec(path)) !== null)
-  {
+  }  else if ((match = /^\/library\/([a-z]+)\/([a-z]+)\/([0-9]+)$/.exec(path)) !== null) {
     //http://library.artstor.org/library/secure/ppreview/736355?name=Arena%20Chapel,%20Giotto%20di%20Bondone
     // lien de test modifier, on a remplacer la virgule avec un plus pour que le teste marche .La virgule entre dans la
     //catégorie  des caractères spéciaux qui bloque les test
 
     result.rtype    = 'ARTICLE';
+    result.mime     = 'HTML';
+  } else if ((match = /^#\/search\/wei$/.exec(hash)) !== null) {
+    // https://library.artstor.org/#/search/wei;page=1;size=48
+    result.rtype    = 'SEARCH';
+    result.mime     = 'HTML';
+  } else if ((match = /^#\/asset\/(.+)$/.exec(hash)) !== null) {
+    // https://library.artstor.org/#/asset/BERLIN_DB_10313803316;prevRouteTS=1616694784084
+    // https://library.artstor.org/#/asset/ARTONFILE_DB_10310486206;prevRouteTS=1616695232286
+    result.rtype    = 'IMAGE';
     result.mime     = 'HTML';
   }
   return result;
