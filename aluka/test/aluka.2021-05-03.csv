@@ -1,5 +1,5 @@
-out-unitid;out-rtype;out-mime;in-url
-;SEARCH;HTML;https://www.aluka.org/heritage/search?so=ps_collection_name_str+asc&Query=artist
-;TOC;HTML;https://www.aluka.org/struggles/collection/AAM?searchUri=so%3Dps_collection_name_str%2Basc%26Query%3Dart
-10.5555/al.ch.document.bfacp1b80015;RECORD_VIEW;HTML;https://www.aluka.org/stable/10.5555/al.ch.document.bfacp1b80015?searchUri=so%3Dps_collection_name_str%2Basc%26Query%3Dartist
-10.5555/al.sff.document.poco0240a2;ARTICLE;PDF;https://www.aluka.org/stable/pdf/10.5555/al.sff.document.poco0240a2
+out-doi;out-unitid;out-rtype;out-mime;in-url
+;;SEARCH;HTML;https://www.aluka.org/heritage/search?so=ps_collection_name_str+asc&Query=artist
+;;TOC;HTML;https://www.aluka.org/struggles/collection/AAM?searchUri=so%3Dps_collection_name_str%2Basc%26Query%3Dart
+10.5555/al.ch.document.bfacp1b80015;al.ch.document.bfacp1b80015;RECORD_VIEW;HTML;https://www.aluka.org/stable/10.5555/al.ch.document.bfacp1b80015?searchUri=so%3Dps_collection_name_str%2Basc%26Query%3Dartist
+10.5555/al.sff.document.poco0240a2;al.sff.document.poco0240a2;ARTICLE;PDF;https://www.aluka.org/stable/pdf/10.5555/al.sff.document.poco0240a2

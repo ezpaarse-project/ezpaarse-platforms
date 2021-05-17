@@ -23,22 +23,24 @@ module.exports = new Parser(function analyseEC(parsedUrl, ec) {
 
   if ((match = /^\/heritage\/search$/i.exec(path)) !== null) {
     // https://www.aluka.org/heritage/search?so=ps_collection_name_str+asc&Query=artist
-    result.rtype    = 'SEARCH';
-    result.mime     = 'HTML';
+    result.rtype = 'SEARCH';
+    result.mime  = 'HTML';
   } else if ((match = /^\/struggles\/collection\/([0-9a-z]+)$/i.exec(path)) !== null) {
     // https://www.aluka.org/struggles/collection/AAM?searchUri=so%3Dps_collection_name_str%2Basc%26Query%3Dart
-    result.rtype    = 'TOC';
-    result.mime     = 'HTML';
-  } else if ((match = /^\/stable\/pdf\/(.+)\/(.+)$/i.exec(path)) !== null) {
+    result.rtype = 'TOC';
+    result.mime  = 'HTML';
+  } else if ((match = /^\/stable\/pdf\/(10\.\d+\/(.+))$/i.exec(path)) !== null) {
     // https://www.aluka.org/stable/pdf/10.5555/al.sff.document.poco0240a2
-    result.rtype    = 'ARTICLE';
-    result.mime     = 'PDF';
-    result.unitid   = match[1] + '/' + match[2];
-  } else if ((match = /^\/stable\/(.+)\/(.+)$/i.exec(path)) !== null) {
+    result.rtype  = 'ARTICLE';
+    result.mime   = 'PDF';
+    result.doi    = match[1];
+    result.unitid = match[2];
+  } else if ((match = /^\/stable\/(10\.\d+\/(.+))$/i.exec(path)) !== null) {
     // https://www.aluka.org/stable/10.5555/al.ch.document.bfacp1b80015?searchUri=so%3Dps_collection_name_str%2Basc%26Query%3Dartist
-    result.rtype    = 'RECORD_VIEW';
-    result.mime     = 'HTML';
-    result.unitid   = match[1] + '/' + match[2];
+    result.rtype  = 'RECORD_VIEW';
+    result.mime   = 'HTML';
+    result.doi    = match[1];
+    result.unitid = match[2];
   }
 
   return result;
