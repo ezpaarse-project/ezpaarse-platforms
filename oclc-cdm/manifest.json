@@ -1,0 +1,14 @@
+{
+  "longname": "OCLC ContentDM",
+  "name": "oclc-cdm",
+  "describe": "Recognizes the accesses to the platform OCLC ContentDM",
+  "contact": "Karen Coombs",
+  "pkb": false,
+  "docurl": "http://analyses.ezpaarse.org/platforms/609006e8df6ed6807dff8498",
+  "domains": [
+    "cdm16014.contentdm.oclc.org",
+	"michianamemory.sjcpl.org"  
+  ],
+  "version": "2021-05-03",
+  "status": "beta"
+}
