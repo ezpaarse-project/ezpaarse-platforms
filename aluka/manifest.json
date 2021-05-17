@@ -1,0 +1,13 @@
+{
+  "longname": "JSTOR ALUKA",
+  "name": "aluka",
+  "describe": "Recognizes the accesses to the platform JSTOR ALUKA",
+  "contact": "Sean Duffy",
+  "pkb": false,
+  "docurl": "http://analyses.ezpaarse.org/platforms/60550b0669d371072be07d6f",
+  "domains": [
+    "www.aluka.org"
+  ],
+  "version": "2021-05-03",
+  "status": "beta"
+}
