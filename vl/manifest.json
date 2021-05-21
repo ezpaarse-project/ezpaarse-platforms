@@ -1,0 +1,14 @@
+{
+  "longname": "Value Line",
+  "name": "vl",
+  "describe": "Recognizes the accesses to the platform Value Line",
+  "contact": "Sean Duffy",
+  "pkb": false,
+  "docurl": "http://analyses.ezpaarse.org/platforms/60a53d326270194cc531ecce",
+  "domains": [
+    "www.valueline.com",
+    "research.valueline.com"
+  ],
+  "version": "2021-05-21",
+  "status": "beta"
+}
