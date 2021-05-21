@@ -27,7 +27,6 @@ module.exports = new Parser(function analyseEC(parsedUrl, ec) {
     //http://firstsearch.oclc.org/WebZ/FSOpenURL?database=3&dbname=WorldCat&autho=someAutho&timestamp=23&encryption=318c78ca417f949f5ec3d71c80d79b6a&oclcnum=useuetkok&isbn=9781432933890&title=Cats&aulast=Ganeri&date=2009&sessionid=0&checksum=739b6a56c9ce004708090ba02c8c59f5
     //http://firstsearch.oclc.org/WebZ/FSOpenURL?database=3&dbname=WorldCat&autho=someAutho&timestamp=1&encryption=6f4a453e7ceb71e016661caf8015fdd9&oclcnum=eeeotkttfq&isbn=9780062878342&title=Sapphire+Flames.&aulast=Andrews&date=2019&sessionid=0&checksum=5c6fc165a29b54629d9f285338eb04a3
     result.rtype = 'OPENURL';
-    result.login = queryParam.autho;
     result.db_id = queryParam.dbname;
     if (queryParam.issn) {
       //http://firstsearch.oclc.org/WebZ/FSOpenURL?database=3&dbname=WorldCat&autho=someAutho&timestamp=1&encryption=bc90fbbb8e8f0b86003707fa3a3a3e5f&oclcnum=ouxxhqtqx&issn=0737-8831&atitle=Lessons+learned+from+analyzing+library+database+usage+data&aulast=Coombs&volume=23&issue=4&date=2005&sessionid=0&checksum=6418bc3c07053f9036af5d54d6557264
@@ -141,7 +140,6 @@ module.exports = new Parser(function analyseEC(parsedUrl, ec) {
       break;
     }
     }
-    result.login = param.sessionid;
   }
 
   result.mime = 'HTML';

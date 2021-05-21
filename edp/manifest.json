@@ -9,7 +9,7 @@
   "docurl": "http://analyses.ezpaarse.org/platforms/5409b60b9adb5bdebc2d2c20",
   "contact": "yannick.schurter at inist.fr",
   "pkb": true,
-  "pkb-domains": "title_id",
+  "pkb-domains": "title_url",
   "bacon": {
     "provider": "EDPSCIENCES"
   }
