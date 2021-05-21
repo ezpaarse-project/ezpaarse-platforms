@@ -28,7 +28,7 @@ module.exports = new Parser(function analyseEC(parsedUrl, ec) {
     // https://redbook.solutions.aap.org/chapter.aspx?sectionid=189640115&bookid=2205#192299769
     result.rtype    = 'BOOK_SECTION';
     result.mime     = 'HTML';
-    result.unitid   = param.bookid + '-' + param.sectionid
+    result.unitid   = param.bookid + '-' + param.sectionid;
   }
 
   return result;
