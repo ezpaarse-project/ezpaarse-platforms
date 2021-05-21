@@ -1,0 +1,13 @@
+{
+  "longname": "Ulrichs Web",
+  "name": "ulrichs",
+  "describe": "Recognizes the accesses to the platform Ulrichs Web",
+  "contact": "Sean Duffy",
+  "pkb": false,
+  "docurl": "http://analyses.ezpaarse.org/platforms/60806067aadde40e3c7413c2",
+  "domains": [
+    "ulrichsweb.serialssolutions.com"
+  ],
+  "version": "2021-05-21",
+  "status": "beta"
+}
