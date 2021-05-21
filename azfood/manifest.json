@@ -1,0 +1,14 @@
+{
+  "longname": "A to Z World Food",
+  "name": "azfood",
+  "describe": "Recognizes the accesses to the platform A to Z World Food",
+  "contact": "Sean Duffy",
+  "pkb": false,
+  "docurl": "http://analyses.ezpaarse.org/platforms/605b76fcd8cc9f6efdb520d4",
+  "domains": [
+    "www.atozworldfood.com",
+    "www.atozfoodamerica.com"
+  ],
+  "version": "2021-05-21",
+  "status": "beta"
+}
