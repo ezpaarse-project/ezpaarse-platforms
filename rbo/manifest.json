@@ -1,0 +1,13 @@
+{
+  "longname": "Red Book Online",
+  "name": "rbo",
+  "describe": "Recognizes the accesses to the platform Red Book Online",
+  "contact": "Sean Duffy",
+  "pkb": false,
+  "docurl": "http://analyses.ezpaarse.org/platforms/606b79bd508100878c9a3350",
+  "domains": [
+    "redbook.solutions.aap.org"
+  ],
+  "version": "2021-05-21",
+  "status": "beta"
+}
