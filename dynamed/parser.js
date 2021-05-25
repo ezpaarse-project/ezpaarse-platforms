@@ -21,7 +21,11 @@ module.exports = new Parser(function analyseEC(parsedUrl, ec) {
 
   let match;
 
-  if ((match = /^\/api\/BuzzDmpSearch$/i.exec(path)) !== null) {
+  if ((match = /^\/results$/i.exec(path)) !== null) {
+    // https://www.dynamed.com/results?q=heart&lang=en
+    result.rtype    = 'SEARCH';
+    result.mime     = 'HTML';
+  } else if ((match = /^\/api\/BuzzDmpSearch$/i.exec(path)) !== null) {
     // http://www.dynamed.com:80/api/BuzzDmpSearch
     result.rtype    = 'SEARCH';
     result.mime     = 'HTML';
@@ -31,7 +35,13 @@ module.exports = new Parser(function analyseEC(parsedUrl, ec) {
     result.mime     = 'HTML';
     result.title_id = match[3];
     result.unitid   = match[2];
+  } else if ((match = /^\/((.*)\/(.*))$/i.exec(path)) !== null) {
+    // https://www.dynamed.com/condition/acute-heart-failure
+    // https://www.dynamed.com/drug-monograph/labetalol
+    result.rtype    = 'ARTICLE';
+    result.mime     = 'HTML';
+    result.title_id = match[3];
+    result.unitid   = match[1];
   }
-
   return result;
 });
