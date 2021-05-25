@@ -1,0 +1,14 @@
+{
+  "longname": "Library Aware",
+  "name": "la",
+  "describe": "Recognizes the accesses to the platform Library Aware",
+  "contact": "Sean Duffy",
+  "pkb": false,
+  "docurl": "http://analyses.ezpaarse.org/platforms/605b6e361e968c6b0fec08fc",
+  "domains": [
+    "www.libraryaware.com",
+    "libraryaware.com"
+  ],
+  "version": "2021-05-21",
+  "status": "beta"
+}
