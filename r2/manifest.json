@@ -1,0 +1,13 @@
+{
+  "longname": "R2 Library",
+  "name": "r2",
+  "describe": "Recognizes the accesses to the platform R2 Library",
+  "contact": "Sean Duffy",
+  "pkb": false,
+  "docurl": "http://analyses.ezpaarse.org/platforms/60b12876187289416503a308",
+  "domains": [
+    "www.r2library.com"
+  ],
+  "version": "2021-06-01",
+  "status": "beta"
+}
