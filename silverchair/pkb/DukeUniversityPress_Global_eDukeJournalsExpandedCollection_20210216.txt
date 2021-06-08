@@ -1,57 +1,57 @@
-	publication_title	print_identifier	online_identifier	date_first_issue_online	num_first_vol_online	num_first_issue_online	date_last_issue_online	num_last_vol_online	num_last_issue_online	title_url	first_author	title_id	embargo_info	coverage_depth	notes	publisher_name	publication_type	access_type
-0	American Literary Scholarship	0065-9142	1527-2125	2000-09	1998	1				https://read.dukeupress.edu/am-lit-scholarship		am-lit-scholarship		fulltext		Duke University Press	Serial	P
-1	American Literature	0002-9831	1527-2117	2000-03	72	1				https://read.dukeupress.edu/american-literature		american-literature		fulltext		Duke University Press	Serial	P
-2	American Speech	0003-1283	1527-2133	2000-02	75	1				https://read.dukeupress.edu/american-speech		american-speech		fulltext		Duke University Press	Serial	P
-3	Publication of the American Dialect Society (PADS), a supplement of American Speech	0002-8207	2157-6114	1944-04	1	1				https://read.dukeupress.edu/pads		pads		fulltext		Duke University Press	Serial	P
-4	Archives of Asian Art	0066-6637	1944-6497	2001-04	52	1				https://read.dukeupress.edu/archives-of-asian-art		archives-of-asian-art		fulltext		Duke University Press	Serial	P
-5	Black Sacred Music	1043-9445	2640-9879	1987-03	1	1	1995-09	9.0	1-2	https://read.dukeupress.edu/black-sacred-music		black-sacred-music		fulltext		Duke University Press	Serial	P
-6	boundary 2	0190-3659	1527-2141	2000-02	27	1				https://read.dukeupress.edu/boundary-2		boundary-2		fulltext		Duke University Press	Serial	P
-7	Camera Obscura	0270-5346	1529-1510	1976-05	1	1				https://read.dukeupress.edu/camera-obscura		camera-obscura		fulltext		Duke University Press	Serial	P
-8	Common Knowledge	0961-754X	1538-4578	2002-04	8	1				https://read.dukeupress.edu/common-knowledge		common-knowledge		fulltext		Duke University Press	Serial	P
-9	Comparative Literature	0010-4124	1945-8517	2000-01	52	1				https://read.dukeupress.edu/comparative-literature		comparative-literature		fulltext		Duke University Press	Serial	P
-10	Comparative Studies of South Asia, Africa and the Middle East	1089-201X	1548-226X	1981-05	1	1				https://read.dukeupress.edu/cssaame		cssaame		fulltext		Duke University Press	Serial	P
-11	Critical Times		2641-0478	2018-04	1	1				https://read.dukeupress.edu/critical-times		critical-times		fulltext		Duke University Press	Serial	F
-12	Cultural Politics	1743-2197	1751-7435	2005-03	1	1				https://read.dukeupress.edu/cultural-politics		cultural-politics		fulltext		Duke University Press	Serial	P
-13	Demography	0070-3370	1533-7790	2016-02	53	1				https://read.dukeupress.edu/demography		demography		fulltext		Duke University Press	Serial	F
-14	differences	1040-7391	1527-1986	1999-05	11	1				https://read.dukeupress.edu/differences		differences		fulltext		Duke University Press	Serial	P
-15	Eighteenth-Century Life	0098-2601	1086-3192	2000-01	24	1				https://read.dukeupress.edu/eighteenth-century-life		eighteenth-century-life		fulltext		Duke University Press	Serial	P
-16	English Language Notes	0013-8282	2573-3575	2000-03	37	3				https://read.dukeupress.edu/english-language-notes		english-language-notes		fulltext		Duke University Press	Serial	P
-17	Environmental Humanities		2201-1919	2012-05	1	1				https://read.dukeupress.edu/environmental-humanities		environmental-humanities		fulltext		Duke University Press	Serial	F
-18	Ethnohistory	0014-1801	1527-5477	2000-01	47	1				https://read.dukeupress.edu/ethnohistory		ethnohistory		fulltext		Duke University Press	Serial	P
-19	French Historical Studies	0016-1071	1527-5493	2000-02	23	1				https://read.dukeupress.edu/french-historical-studies		french-historical-studies		fulltext		Duke University Press	Serial	P
-20	Genre	0016-6928	2160-0228	2000-03	33	1				https://read.dukeupress.edu/genre		genre		fulltext		Duke University Press	Serial	P
-21	GLQ: A Journal of Lesbian and Gay Studies	1064-2684	1527-9375	1993-11	1	1				https://read.dukeupress.edu/glq		glq		fulltext		Duke University Press	Serial	P
-22	Hispanic American Historical Review	0018-2168	1527-1900	1918-02	1	1				https://read.dukeupress.edu/hahr		hahr		fulltext		Duke University Press	Serial	P
-23	History of Political Economy	0018-2702	1527-1919	1969-03	1	1				https://read.dukeupress.edu/hope		hope		fulltext		Duke University Press	Serial	P
-24	History of the Present	2159-9785	2159-9793	2020-04	10	1				https://read.dukeupress.edu/history-of-the-present		history-of-the-present		fulltext		Duke University Press	Serial	P
-25	Journal of Chinese Literature and Culture	2329-0048	2329-0056	2014-11	1	1-2				https://read.dukeupress.edu/jclc		jclc		fulltext		Duke University Press	Serial	P
-26	Journal of Health Politics, Policy and Law	0361-6878	1527-1927	1976-02	1	1				https://read.dukeupress.edu/jhppl		jhppl		fulltext		Duke University Press	Serial	P
-27	Journal of Korean Studies	2158-1665	0731-1613	2004-09	9	1				https://read.dukeupress.edu/journal-of-korean-studies 		journal-of-korean-studies 		fulltext		Duke University Press	Serial	P
-28	Journal of Medieval and Early Modern Studies	1082-9636	1527-8263	2000-01	30	1				https://read.dukeupress.edu/jmems		jmems		fulltext		Duke University Press	Serial	P
-29	Journal of Middle East Women's Studies	1552-5864	1558-9579	2005-03	1	1				https://read.dukeupress.edu/jmews		jmews		fulltext		Duke University Press	Serial	P
-30	Journal of Music Theory	0022-2909	1941-7497	1999-04	43	1				https://read.dukeupress.edu/journal-of-music-theory		journal-of-music-theory		fulltext		Duke University Press	Serial	P
-31	Labor: Studies in Working-Class History of the Americas	1547-6715	1558-1454	2004-03	1	1				https://read.dukeupress.edu/labor		labor		fulltext		Duke University Press	Serial	P
-32	liquid blackness: journal of aesthetics and black studies 		2692-3874	2021-04	5	1				https://read.dukeupress.edu/liquid-blackness		liquid-blackness		fulltext		Duke University Press	Serial	F
-33	Meridians	1536-6936	1547-8424	2001-09	1	1				https://read.dukeupress.edu/meridians 		meridians 		fulltext		Duke University Press	Serial	P
-34	minnesota review	0026-5667	2157-4189	2005-05	2005	63-64				https://read.dukeupress.edu/the-minnesota-review		the-minnesota-review		fulltext		Duke University Press	Serial	P
-35	Modern Language Quarterly	0026-7929	1527-1943	1940-03	1	1				https://read.dukeupress.edu/modern-language-quarterly		modern-language-quarterly		fulltext		Duke University Press	Serial	P
-36	New German Critique	0094-033X	1558-1462	2006-02	33	1				https://read.dukeupress.edu/new-german-critique		new-german-critique		fulltext		Duke University Press	Serial	P
-37	Nka: Journal of African Contemporary Art	1075-7163	2152-7792	1994-05	1994	1				https://read.dukeupress.edu/nka		nka		fulltext		Duke University Press	Serial	P
-38	Novel	0029-5132	1945-8509	1999-05	33	1				https://read.dukeupress.edu/novel		novel		fulltext		Duke University Press	Serial	P
-39	Pedagogy	1531-4200	1533-6255	2001-01	1	1				https://read.dukeupress.edu/pedagogy		pedagogy		fulltext		Duke University Press	Serial	P
-40	Philosophical Review	0031-8108	1558-1470	2000-01	109	1				https://read.dukeupress.edu/the-philosophical-review		the-philosophical-review		fulltext		Duke University Press	Serial	P
-41	Poetics Today	0333-5372	1527-5507	2000-03	21	1				https://read.dukeupress.edu/poetics-today		poetics-today		fulltext		Duke University Press	Serial	P
-42	positions: east asia cultures critique	1067-9847	1527-8271	1993-02	1	1				https://read.dukeupress.edu/positions		positions		fulltext		Duke University Press	Serial	P
-43	Prism: Theory and Modern Chinese Literature	2578-3491	2578-3491	2019-03	16	1				https://read.dukeupress.edu/prism		prism		fulltext		Duke University Press	Serial	P
-44	Public Culture	0899-2363	1527-8018	1988-01	1	1				https://read.dukeupress.edu/public-culture		public-culture		fulltext		Duke University Press	Serial	P
-45	Qui Parle	1041-8385	1938-8028	2000-06	12	1				https://read.dukeupress.edu/qui-parle		qui-parle		fulltext		Duke University Press	Serial	P
-46	Radical History Review	0163-6545	1534-1453	1975-10	1975	9-10				https://read.dukeupress.edu/radical-history-review		radical-history-review		fulltext		Duke University Press	Serial	P
-47	Romanic Review	0035-8118	tbd	2020-04	111	1				https://read.dukeupress.edu/romanic-review		romanic-review		fulltext		Duke University Press	Serial	P
-48	Small Axe	0799-0537	1534-6714	2001-09	5	2				https://read.dukeupress.edu/small-axe		small-axe		fulltext		Duke University Press	Serial	P
-49	Social Text	0164-2472	1527-1951	2000-03	18	1				https://read.dukeupress.edu/social-text		social-text		fulltext		Duke University Press	Serial	P
-50	South Atlantic Quarterly	0038-2876	1527-8026	2000-01	99	1				https://read.dukeupress.edu/south-atlantic-quarterly		south-atlantic-quarterly		fulltext		Duke University Press	Serial	P
-51	Sungkyun Journal of East Asian Studies	1598-2661	2586-0380	2021-05	21	1				https://read.dukeupress.edu/sungkyun-journal-of-east-asian-studies		sungkyun-journal-of-east-asian-studies		fulltext		Duke University Press	Serial	F
-52	Theater	0161-0775	1527-196X	1968-02	1	1				https://read.dukeupress.edu/theater		theater		fulltext		Duke University Press	Serial	P
-53	Tikkun	0887-9982	2164-0041	2000-01	15	1	2018-11	33.0	4	https://read.dukeupress.edu/tikkun		tikkun		fulltext		Duke University Press	Serial	P
-54	TSQ: Transgender Studies Quarterly	2328-9252	2328-9260	2014-05	1	1-2				https://read.dukeupress.edu/tsq		tsq		fulltext		Duke University Press	Serial	P
-55	Twentieth-Century Literature	0041-462X	2325-8101	2000-03	46	1				https://read.dukeupress.edu/twentieth-century-lit		twentieth-century-lit		fulltext		Duke University Press	Serial	P
+publication_title	print_identifier	online_identifier	date_first_issue_online	num_first_vol_online	num_first_issue_online	date_last_issue_online	num_last_vol_online	num_last_issue_online	title_url	first_author	title_id	embargo_info	coverage_depth	notes	publisher_name	publication_type	access_type
+American Literary Scholarship	0065-9142	1527-2125	2000-09	1998	1				https://read.dukeupress.edu/am-lit-scholarship		am-lit-scholarship		fulltext		Duke University Press	Serial	P
+American Literature	0002-9831	1527-2117	2000-03	72	1				https://read.dukeupress.edu/american-literature		american-literature		fulltext		Duke University Press	Serial	P
+American Speech	0003-1283	1527-2133	2000-02	75	1				https://read.dukeupress.edu/american-speech		american-speech		fulltext		Duke University Press	Serial	P
+Publication of the American Dialect Society (PADS), a supplement of American Speech	0002-8207	2157-6114	1944-04	1	1				https://read.dukeupress.edu/pads		pads		fulltext		Duke University Press	Serial	P
+Archives of Asian Art	0066-6637	1944-6497	2001-04	52	1				https://read.dukeupress.edu/archives-of-asian-art		archives-of-asian-art		fulltext		Duke University Press	Serial	P
+Black Sacred Music	1043-9445	2640-9879	1987-03	1	1	1995-09	9.0	1-2	https://read.dukeupress.edu/black-sacred-music		black-sacred-music		fulltext		Duke University Press	Serial	P
+boundary 2	0190-3659	1527-2141	2000-02	27	1				https://read.dukeupress.edu/boundary-2		boundary-2		fulltext		Duke University Press	Serial	P
+Camera Obscura	0270-5346	1529-1510	1976-05	1	1				https://read.dukeupress.edu/camera-obscura		camera-obscura		fulltext		Duke University Press	Serial	P
+Common Knowledge	0961-754X	1538-4578	2002-04	8	1				https://read.dukeupress.edu/common-knowledge		common-knowledge		fulltext		Duke University Press	Serial	P
+Comparative Literature	0010-4124	1945-8517	2000-01	52	1				https://read.dukeupress.edu/comparative-literature		comparative-literature		fulltext		Duke University Press	Serial	P
+Comparative Studies of South Asia, Africa and the Middle East	1089-201X	1548-226X	1981-05	1	1				https://read.dukeupress.edu/cssaame		cssaame		fulltext		Duke University Press	Serial	P
+Critical Times		2641-0478	2018-04	1	1				https://read.dukeupress.edu/critical-times		critical-times		fulltext		Duke University Press	Serial	F
+Cultural Politics	1743-2197	1751-7435	2005-03	1	1				https://read.dukeupress.edu/cultural-politics		cultural-politics		fulltext		Duke University Press	Serial	P
+Demography	0070-3370	1533-7790	2016-02	53	1				https://read.dukeupress.edu/demography		demography		fulltext		Duke University Press	Serial	F
+differences	1040-7391	1527-1986	1999-05	11	1				https://read.dukeupress.edu/differences		differences		fulltext		Duke University Press	Serial	P
+Eighteenth-Century Life	0098-2601	1086-3192	2000-01	24	1				https://read.dukeupress.edu/eighteenth-century-life		eighteenth-century-life		fulltext		Duke University Press	Serial	P
+English Language Notes	0013-8282	2573-3575	2000-03	37	3				https://read.dukeupress.edu/english-language-notes		english-language-notes		fulltext		Duke University Press	Serial	P
+Environmental Humanities		2201-1919	2012-05	1	1				https://read.dukeupress.edu/environmental-humanities		environmental-humanities		fulltext		Duke University Press	Serial	F
+Ethnohistory	0014-1801	1527-5477	2000-01	47	1				https://read.dukeupress.edu/ethnohistory		ethnohistory		fulltext		Duke University Press	Serial	P
+French Historical Studies	0016-1071	1527-5493	2000-02	23	1				https://read.dukeupress.edu/french-historical-studies		french-historical-studies		fulltext		Duke University Press	Serial	P
+Genre	0016-6928	2160-0228	2000-03	33	1				https://read.dukeupress.edu/genre		genre		fulltext		Duke University Press	Serial	P
+GLQ: A Journal of Lesbian and Gay Studies	1064-2684	1527-9375	1993-11	1	1				https://read.dukeupress.edu/glq		glq		fulltext		Duke University Press	Serial	P
+Hispanic American Historical Review	0018-2168	1527-1900	1918-02	1	1				https://read.dukeupress.edu/hahr		hahr		fulltext		Duke University Press	Serial	P
+History of Political Economy	0018-2702	1527-1919	1969-03	1	1				https://read.dukeupress.edu/hope		hope		fulltext		Duke University Press	Serial	P
+History of the Present	2159-9785	2159-9793	2020-04	10	1				https://read.dukeupress.edu/history-of-the-present		history-of-the-present		fulltext		Duke University Press	Serial	P
+Journal of Chinese Literature and Culture	2329-0048	2329-0056	2014-11	1	1-2				https://read.dukeupress.edu/jclc		jclc		fulltext		Duke University Press	Serial	P
+Journal of Health Politics, Policy and Law	0361-6878	1527-1927	1976-02	1	1				https://read.dukeupress.edu/jhppl		jhppl		fulltext		Duke University Press	Serial	P
+Journal of Korean Studies	2158-1665	0731-1613	2004-09	9	1				https://read.dukeupress.edu/journal-of-korean-studies 		journal-of-korean-studies 		fulltext		Duke University Press	Serial	P
+Journal of Medieval and Early Modern Studies	1082-9636	1527-8263	2000-01	30	1				https://read.dukeupress.edu/jmems		jmems		fulltext		Duke University Press	Serial	P
+Journal of Middle East Women's Studies	1552-5864	1558-9579	2005-03	1	1				https://read.dukeupress.edu/jmews		jmews		fulltext		Duke University Press	Serial	P
+Journal of Music Theory	0022-2909	1941-7497	1999-04	43	1				https://read.dukeupress.edu/journal-of-music-theory		journal-of-music-theory		fulltext		Duke University Press	Serial	P
+Labor: Studies in Working-Class History of the Americas	1547-6715	1558-1454	2004-03	1	1				https://read.dukeupress.edu/labor		labor		fulltext		Duke University Press	Serial	P
+liquid blackness: journal of aesthetics and black studies 		2692-3874	2021-04	5	1				https://read.dukeupress.edu/liquid-blackness		liquid-blackness		fulltext		Duke University Press	Serial	F
+Meridians	1536-6936	1547-8424	2001-09	1	1				https://read.dukeupress.edu/meridians 		meridians 		fulltext		Duke University Press	Serial	P
+minnesota review	0026-5667	2157-4189	2005-05	2005	63-64				https://read.dukeupress.edu/the-minnesota-review		the-minnesota-review		fulltext		Duke University Press	Serial	P
+Modern Language Quarterly	0026-7929	1527-1943	1940-03	1	1				https://read.dukeupress.edu/modern-language-quarterly		modern-language-quarterly		fulltext		Duke University Press	Serial	P
+New German Critique	0094-033X	1558-1462	2006-02	33	1				https://read.dukeupress.edu/new-german-critique		new-german-critique		fulltext		Duke University Press	Serial	P
+Nka: Journal of African Contemporary Art	1075-7163	2152-7792	1994-05	1994	1				https://read.dukeupress.edu/nka		nka		fulltext		Duke University Press	Serial	P
+Novel	0029-5132	1945-8509	1999-05	33	1				https://read.dukeupress.edu/novel		novel		fulltext		Duke University Press	Serial	P
+Pedagogy	1531-4200	1533-6255	2001-01	1	1				https://read.dukeupress.edu/pedagogy		pedagogy		fulltext		Duke University Press	Serial	P
+Philosophical Review	0031-8108	1558-1470	2000-01	109	1				https://read.dukeupress.edu/the-philosophical-review		the-philosophical-review		fulltext		Duke University Press	Serial	P
+Poetics Today	0333-5372	1527-5507	2000-03	21	1				https://read.dukeupress.edu/poetics-today		poetics-today		fulltext		Duke University Press	Serial	P
+positions: east asia cultures critique	1067-9847	1527-8271	1993-02	1	1				https://read.dukeupress.edu/positions		positions		fulltext		Duke University Press	Serial	P
+Prism: Theory and Modern Chinese Literature	2578-3491	2578-3491	2019-03	16	1				https://read.dukeupress.edu/prism		prism		fulltext		Duke University Press	Serial	P
+Public Culture	0899-2363	1527-8018	1988-01	1	1				https://read.dukeupress.edu/public-culture		public-culture		fulltext		Duke University Press	Serial	P
+Qui Parle	1041-8385	1938-8028	2000-06	12	1				https://read.dukeupress.edu/qui-parle		qui-parle		fulltext		Duke University Press	Serial	P
+Radical History Review	0163-6545	1534-1453	1975-10	1975	9-10				https://read.dukeupress.edu/radical-history-review		radical-history-review		fulltext		Duke University Press	Serial	P
+Romanic Review	0035-8118	tbd	2020-04	111	1				https://read.dukeupress.edu/romanic-review		romanic-review		fulltext		Duke University Press	Serial	P
+Small Axe	0799-0537	1534-6714	2001-09	5	2				https://read.dukeupress.edu/small-axe		small-axe		fulltext		Duke University Press	Serial	P
+Social Text	0164-2472	1527-1951	2000-03	18	1				https://read.dukeupress.edu/social-text		social-text		fulltext		Duke University Press	Serial	P
+South Atlantic Quarterly	0038-2876	1527-8026	2000-01	99	1				https://read.dukeupress.edu/south-atlantic-quarterly		south-atlantic-quarterly		fulltext		Duke University Press	Serial	P
+Sungkyun Journal of East Asian Studies	1598-2661	2586-0380	2021-05	21	1				https://read.dukeupress.edu/sungkyun-journal-of-east-asian-studies		sungkyun-journal-of-east-asian-studies		fulltext		Duke University Press	Serial	F
+Theater	0161-0775	1527-196X	1968-02	1	1				https://read.dukeupress.edu/theater		theater		fulltext		Duke University Press	Serial	P
+Tikkun	0887-9982	2164-0041	2000-01	15	1	2018-11	33.0	4	https://read.dukeupress.edu/tikkun		tikkun		fulltext		Duke University Press	Serial	P
+TSQ: Transgender Studies Quarterly	2328-9252	2328-9260	2014-05	1	1-2				https://read.dukeupress.edu/tsq		tsq		fulltext		Duke University Press	Serial	P
+Twentieth-Century Literature	0041-462X	2325-8101	2000-03	46	1				https://read.dukeupress.edu/twentieth-century-lit		twentieth-century-lit		fulltext		Duke University Press	Serial	P
