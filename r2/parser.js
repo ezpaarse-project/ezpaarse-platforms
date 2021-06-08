@@ -28,7 +28,7 @@ module.exports = new Parser(function analyseEC(parsedUrl, ec) {
 
   } else if ((match = /^\/Resource\/Title\/([0-9]+)$/i.exec(path)) !== null) {
     // https://www.r2library.com/Resource/Title/0470659629
-    result.rtype    = 'TOC';
+    result.rtype    = 'ABS';
     result.mime     = 'HTML';
     result.print_identifier = match[1];
     result.unitid   = match[1];
