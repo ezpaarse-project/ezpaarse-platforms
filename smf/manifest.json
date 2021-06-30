@@ -2,7 +2,8 @@
   "version": "2016-10-06",
   "status": "beta",
   "domains": [
-    "smf4.emath.fr"
+    "smf4.emath.fr",
+    "smf.emath.fr"
   ],
   "recognize": {
     "rid": [
