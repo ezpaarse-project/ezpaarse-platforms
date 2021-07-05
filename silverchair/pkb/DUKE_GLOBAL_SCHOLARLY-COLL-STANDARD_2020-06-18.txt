@@ -1,0 +1,47 @@
+publication_title	print_identifier	online_identifier	date_first_issue_online	num_first_vol_online	num_first_issue_online	date_last_issue_online	num_last_vol_online	num_last_issue_online	title_url	first_author	title_id	embargo_info	coverage_depth	notes	publisher_name	publication_type	date_monograph_published_print	date_monograph_published_online	monograph_volume	monograph_edition	first_editor	parent_publication_title_id	preceding_publication_title_id	access_type	bestppn
+American Literary Scholarship	0065-9142	1527-2125	2000	1998	1				https://read.dukeupress.edu/am-lit-scholarship		ALSE		fulltext		Duke University Press	serial								F	233788026
+American Literature	0002-9831	1527-2117	2000	72	1				https://read.dukeupress.edu/american-literature		AMLE		fulltext		Duke University Press	serial								F	045015457
+American Speech	0003-1283	1527-2133	2000	75	1				https://read.dukeupress.edu/american-speech		ASPE		fulltext		Duke University Press	serial								F	045015473
+Archives of Asian Art	0066-6637	1944-6497	2001	52	1				https://read.dukeupress.edu/archives-of-asian-art		AAAE		fulltext		Duke University Press	serial								F	131773038
+Black Sacred Music	1043-9445	2640-9879	1987	1	1	1995	9	1-2	https://read.dukeupress.edu/black-sacred-music		BSME		fulltext		Duke University Press	serial								F	23350821X
+Camera Obscura	0270-5346	1529-1510	1976	1	1				https://read.dukeupress.edu/camera-obscura		COBE		fulltext		Duke University Press	serial								F	058352635
+Common Knowledge	0961-754X	1538-4578	2002	8	1				https://read.dukeupress.edu/common-knowledge		CKNE		fulltext		Duke University Press	serial								F	204030463
+Comparative Studies of South Asia, Africa and the Middle East	1089-201X	1548-226X	1981	1	1				https://read.dukeupress.edu/cssaame		CSAE		fulltext		Duke University Press	serial								F	076881822
+Critical Times		2641-0478	2018	1	1				https://read.dukeupress.edu/critical-times		CRTE		fulltext		Duke University Press	serial								F	233508511
+Cultural Politics	1743-2197	1751-7435	2005	1	1				https://read.dukeupress.edu/cultural-politics		CUPE		fulltext		Duke University Press	serial								F	148308139
+EASTS: East Asian Science, Technology and Society: An International Journal	1875-2160	1875-2152	2007	1	1				https://read.dukeupress.edu/easts		EASE		fulltext		Duke University Press	serial								F	160165237
+Eighteenth-Century Life	0098-2601	1086-3192	2000	24	1				https://read.dukeupress.edu/eighteenth-century-life		ECLE		fulltext		Duke University Press	serial								F	058046542
+English Language Notes	0013-8282	2573-3575	2000	37	3				https://read.dukeupress.edu/english-language-notes		ELNE		fulltext		Duke University Press	serial								F	202732630
+Environmental Humanities		2201-1919	2012	1	1				https://read.dukeupress.edu/environmental-humanities		ENVE		fulltext		Duke University Press	serial								F	170082830
+Ethnohistory	0014-1801	1527-5477	2000	47	1				https://read.dukeupress.edu/ethnohistory		ETHE		fulltext		Duke University Press	serial								F	048903949
+French Historical Studies	0016-1071	1527-5493	2000	23	1				https://read.dukeupress.edu/french-historical-studies		FHSE		fulltext		Duke University Press	serial								F	048903965
+GLQ: A Journal of Lesbian and Gay Studies	1064-2684	1527-9375	1993	1	1				https://read.dukeupress.edu/glq		GLQE		fulltext		Duke University Press	serial								F	048904295
+Hispanic American Historical Review	0018-2168	1527-1900	1918	1	1				https://read.dukeupress.edu/hahr		HAHE		fulltext		Duke University Press	serial								F	045015252
+History of Political Economy	0018-2702	1527-1919	1969	1	1				https://read.dukeupress.edu/hope		HOPE		fulltext		Duke University Press	serial								F	045015260
+Journal of Chinese Literature and Culture	2329-0048	2329-0056	2014	1	1-2				https://read.dukeupress.edu/jclc		JCLE		fulltext		Duke University Press	serial								F	191026557
+Journal of Health Politics, Policy and Law	0361-6878	1527-1927	1976	1	1				https://read.dukeupress.edu/jhppl		JHPE		fulltext		Duke University Press	serial								F	045015279
+Journal of Korean Studies	2158-1665	0731-1613	2004	9	1				https://read.dukeupress.edu/journal-of-korean-studies		JKSE		fulltext		Duke University Press	serial								F	039691772
+Journal of Medieval and Early Modern Studies	1082-9636	1527-8263	2000	30	1				https://read.dukeupress.edu/jmems		JMEE		fulltext		Duke University Press	serial								F	048904244
+Journal of Middle East Women's Studies	1552-5864	1558-9579	2005	1	1				https://read.dukeupress.edu/jmews		MEWE		fulltext		Duke University Press	serial								F	110669916
+Labor: Studies in Working-Class History of the Americas	1547-6715	1558-1454	2004	1	1				https://read.dukeupress.edu/labor		LABE		fulltext		Duke University Press	serial								F	128395206
+Meridians	1536-6936	1547-8424	2001	1	1				https://read.dukeupress.edu/meridians�		MERE		fulltext		Duke University Press	serial								F	076865487
+Modern Language Quarterly	0026-7929	1527-1943	1940	1	1				https://read.dukeupress.edu/modern-language-quarterly		MLQE		fulltext		Duke University Press	serial								F	045015295
+New German Critique	0094-033X	1558-1462	2006	33	1				https://read.dukeupress.edu/new-german-critique		NGCE		fulltext		Duke University Press	serial								F	118357387
+Nka: Journal of African Contemporary Art	1075-7163	2152-7792	1994	1994	1				https://read.dukeupress.edu/nka		NKAE		fulltext		Duke University Press	serial								F	168245337
+Pedagogy	1531-4200	1533-6255	2001	1	1				https://read.dukeupress.edu/pedagogy		PEDE		fulltext		Duke University Press	serial								F	058405461
+Poetics Today	0333-5372	1527-5507	2000	21	1				https://read.dukeupress.edu/poetics-today		POEE		fulltext		Duke University Press	serial								F	048903973
+Prism: Theory and Modern Chinese Literature	2578-3491	2578-3491	2019	16	1				https://read.dukeupress.edu/prism		PSME		fulltext		Duke University Press	serial								F	24417461X
+Public Culture	0899-2363	1527-8018	1988	1	1				https://read.dukeupress.edu/public-culture		PCLE		fulltext		Duke University Press	serial								F	048904139
+Publication of the American Dialect Society (PADS), a supplement of American Speech	0002-8207	2157-6114	1944	1	1				https://read.dukeupress.edu/pads				fulltext		Duke University Press	serial								F	148311547
+Qui Parle	1041-8385	1938-8028	2000	12	1				https://read.dukeupress.edu/qui-parle		QUIE		fulltext		Duke University Press	serial								F	
+Radical History Review	0163-6545	1534-1453	1975	1975	9-10				https://read.dukeupress.edu/radical-history-review		RHRE		fulltext		Duke University Press	serial								F	058406697
+Small Axe	0799-0537	1534-6714	2001	5	2				https://read.dukeupress.edu/small-axe		SMXE		fulltext		Duke University Press	serial								F	116252758
+Social Text	0164-2472	1527-1951	2000	18	1				https://read.dukeupress.edu/social-text		STXE		fulltext		Duke University Press	serial								F	045015309
+South Atlantic Quarterly	0038-2876	1527-8026	2000	99	1				https://read.dukeupress.edu/south-atlantic-quarterly		SAQE		fulltext		Duke University Press	serial								F	048904147
+Theater	0161-0775	1527-196X	1968	1	1				https://read.dukeupress.edu/theater		THEE		fulltext		Duke University Press	serial								F	045015317
+Tikkun	0887-9982	2164-0041	2000	15	1	2018	33	4	https://read.dukeupress.edu/tikkun		TIKE		fulltext		Duke University Press	serial								F	157104141
+Twentieth-Century Literature	0041-462X	2325-8101	2000	46	1				https://read.dukeupress.edu/twentieth-century-lit		TCLE		fulltext		Duke University Press	serial								F	167176064
+boundary 2	0190-3659	1527-2141	2000	27	1				https://read.dukeupress.edu/boundary-2		BOUE		fulltext		Duke University Press	serial								F	045015481
+differences	1040-7391	1527-1986	1999	11	1				https://read.dukeupress.edu/differences		DIFE		fulltext		Duke University Press	serial								F	045015333
+minnesota review	0026-5667	2157-4189	2005	2005	63-64				https://read.dukeupress.edu/the-minnesota-review		MNRE		fulltext		Duke University Press	serial								F	174287658
+positions: east asia cultures critique	1067-9847	1527-8271	1993	1	1				https://read.dukeupress.edu/positions		POSE		fulltext		Duke University Press	serial								F	048904252

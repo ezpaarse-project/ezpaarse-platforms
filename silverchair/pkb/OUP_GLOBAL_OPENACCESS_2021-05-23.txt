@@ -1,0 +1,94 @@
+publication_title	print_identifier	online_identifier	date_first_issue_online	num_first_vol_online	num_first_issue_online	date_last_issue_online	num_last_vol_online	num_last_issue_online	title_url	first_author	title_id	embargo_info	coverage_depth	notes	publisher_name	publication_type	date_monograph_published_print	date_monograph_published_online	monograph_volume	monograph_edition	first_editor	parent_publication_title_id	preceding_publication_title_id	access_type	bestppn
+Aesthetic Surgery Journal. Open Forum		2631-4797	2019	1	1				https://academic.oup.com/asjopenforum/issue		asjopenforum		fulltext	Open Access		serial								F	235215465
+Animal Frontiers	2160-6056	2160-6064	2011	1	1				https://academic.oup.com/af		af		fulltext	Open Access; transfer in (2018): American Society of Animal Science		serial								F	159889111
+Antibody Therapeutics		2516-4236	2018	1	1				https://academic.oup.com/abt		abt		fulltext	New for 2019. Open Access		serial								F	23085205X
+AoB Plants		2041-2851	2009	2009					https://academic.oup.com/aobpla		aobpla		fulltext	Open Access		serial								F	149005652
+Arthropod Management Tests	2155-9848	2155-9856	1999	24	1				https://academic.oup.com/amt		amt		fulltext	Open Access. transfer in (2015): Entomological Society of America		serial								F	147873606
+BJS Open		2474-9842	2017	1	1				https://academic.oup.com/bjsope/issue		bjsope		fulltext	Open Access		serial								F	220267561
+Biology Methods and Protocols		2396-8923	2016	1	1				https://academic.oup.com/biomethods		biomethods		fulltext	Open Access		serial								F	198530331
+Biology of Reproduction	0006-3363	1529-7268	1969	1	1	1995	53	6	https://academic.oup.com/biolreprod/issue		biolreprod		fulltext	Open Access		serial								F	059183136
+Bioscience Horizons		1754-7431	2008	1	1				https://academic.oup.com/biohorizons		biohorizons		fulltext	Open Access		serial								F	128395826
+Brain Communications		2632-1297	2019	1	1				https://academic.oup.com/braincomms/issue		braincomms		fulltext	Open Access		serial								F	238218384
+Cerebral Cortex Communications		2632-7376	2020	1	1				https://academic.oup.com/cercorcomms/issue		cercorcomms		fulltext	Open Access		serial								F	252280415
+Clean Energy	2515-4230	2515-396X	2017	1	1				https://academic.oup.com/ce/issue		ce		fulltext	Open Access		serial								F	224182765
+Clinical Kidney Journal	2048-8505	2048-8513	2012	5	1				https://academic.oup.com/ckj		ckj		fulltext	Open Access; previously: NDT Plus (2008-2011, same ISSN)		serial								F	161412491
+Conservation Physiology		2051-1434	2013	1	1				https://academic.oup.com/conphys		conphys		fulltext	Open Access		serial								F	174285043
+Critical Values	2378-8321	2378-8372	2008	1	1				https://academic.oup.com/criticalvalues/issue		criticalvalues		fulltext	Open Access		serial								F	187163758
+Crohn’s & Colitis 360		2631-827X	2019	1	1				https://academic.oup.com/crohnscolitis360/issue		crohnscolitis360		fulltext	Open Access		serial								F	240295897
+Current Developments in Nutrition		2475-2991	2017	1	1				https://academic.oup.com/cdn		cdn		fulltext	Transfer in (2018): American Society for Nutrition. Open Access		serial								F	221013490
+Current Zoology	1674-5507	2396-9814	2011	57	1				https://academic.oup.com/cz		cz		fulltext	Previously: Acta Zoologica Sinica (1950-2008). Open Access		serial								F	195678486
+DNA Research	1340-2838	1756-1663	1994	1	1				https://academic.oup.com/dnaresearch		dnaresearch		fulltext	Open Access		serial								F	12042245X
+Database: The Journal of Biological Databases & Curation		1758-0463	2010	2010					https://academic.oup.com/database		database		fulltext	Open Access		serial								F	148308333
+Dynamics and Statistics of the Climate System		2059-6987	2016	1	1				https://academic.oup.com/climatesystem		climatesystem		fulltext	new 2016. Open Access		serial								F	198527772
+ESHRE Monograph	1477-741X	1477-8378	2002	1	1	2008	2008	1	https://academic.oup.com/eshremonographs/issue		eshremonographs		fulltext	Open Access; ESHRE Monograph is a supplement of Human Reproduction Update		serial								F	078920043
+Endocrinology	0013-7227	1945-7170	1917	1	1	1995	136	12	https://academic.oup.com/endo/issue		endo		fulltext	Open Access. Incorporates in part American Goiter Association Transactions (United States) (ISSN:0096-7173, 1957-) previously American Association for the Study of Goiter Transactions (United States)(up to 1948)		serial								F	128405457
+Environmental Epigenetics		2058-5888	2015	1	1				https://academic.oup.com/eep		eep		fulltext	Open Access		serial								F	189875119
+European Heart Journal. Case Reports		2514-2119	2017	1	1				https://academic.oup.com/ehjcr/issue		ehjcr		fulltext	Open Access		serial								F	223590789
+European Heart Journal. Digital Health		2634-3916	2020	1	1				https://academic.oup.com/ehjdh/issue		ehjdh		fulltext	Open Access		serial								F	25282167X
+Evolution, Medicine, and Public Health		2050-6201	2013	2013	1				https://academic.oup.com/emph		emph		fulltext	Open Access		serial								F	175787034
+FEMS Immunology and Medical Microbiology	0928-8244	1574-695X	1988	1	1	1992	5	05-Jun	https://academic.oup.com/femspd/issue		femspd		fulltext	Open Access. FEMS Microbiology Immunology, 1988-1992, n/a, 0920-8534. Now: Pathogens and Disease (ISSN: 2049-632X; 2013- )		serial								F	070749132
+FEMS Microbiology Ecology	0168-6496	1574-6941	1985	1	1	1995	18	4	https://academic.oup.com/femsec/issue		femsec		fulltext	Open Access. Supersedes in part : FEMS Microbiology Letters (Netherlands) (ISSN:0378-1097, 1985-)		serial								F	131761595
+FEMS Microbiology Letters	0378-1097	1574-6968	1977	1	1	1995	134	02-Mar	https://academic.oup.com/femsle/issue		femsle		fulltext	Open Access. Superseded in part by FEMS Microbiology Ecology (ISSN: 1574-6941 ) and FEMS Microbiology Reviews (ISSN:0168-6445, 1985-)		serial								F	086837648
+FEMS Microbiology Reviews	0168-6445	1574-6976	1985	1	1	1995	17	4	https://academic.oup.com/femsre/issue		femsre		fulltext	Open Access. Supersedes in part: FEMS Microbiology Letters (Netherlands) (ISSN:0378-1097, 1985-)		serial								F	070950520
+Food Quality and Safety	2399-1399	2399-1402	2017	1	1				https://academic.oup.com/fqs/issue		fqs		fulltext	Open Access		serial								F	204062608
+Function		2633-8823	2020	1	1				https://academic.oup.com/function/issue		function		fulltext	Open Access		serial								F	24831307X
+G3: Genes/Genomes/Genetics		2160-1836	2011	1	1				https://academic.oup.com/gthree/issue		gthree		fulltext	Open Access		serial								F	157753360
+Gastroenterology Report		2052-0034	2013	1	1				https://academic.oup.com/gastro		gastro		fulltext	Open Access		serial								F	176271767
+Genome Biology and Evolution		1759-6653	2009	1	1				https://academic.oup.com/gbe		gbe		fulltext	Open Access		serial								F	148308392
+GigaScience		2047-217X	2012	1	1				https://academic.oup.com/gigascience		gigascience		fulltext	New for 2017. Open Access		serial								F	163678758
+Human Reproduction Open		2399-3529	2017	2017	1				https://academic.oup.com/hropen/issue		hropen		fulltext	Open Access		serial								F	203399269
+Immunotherapy Advances		2732-4303	2020	1	1				https://academic.oup.com/immadv/issue		immadv		fulltext	Open Access		serial								F	254274226
+In Silico Plants		2517-5025	2019	1	1				https://academic.oup.com/insilicoplants/issue		insilicoplants		fulltext	Open Access		serial								F	242320465
+Innovation in Aging		2399-5300	2017	1	1				https://academic.oup.com/innovateage/issue		innovateage		fulltext	Open Access		serial								F	203399277
+Insecticide and Acaricide Tests	0276-3656		1976	1	1	1993	18	1	https://academic.oup.com/amt/issue		amt		fulltext	Open Access. Previously (up to 1994): Insecticide and Acaricide Tests ( United States) (ISSN: 0276-3656)		serial								F	
+Integrative Organismal Biology		2517-4843	2019	1	1				https://academic.oup.com/iob		iob		fulltext	New for 2019. Open Access.		serial								F	241904382
+Interactive CardioVascular and Thoracic Surgery	1569-9293	1569-9285	2002	1	1				https://academic.oup.com/icvts/issue		icvts		fulltext	Open Access		serial								F	104902620
+International Health	1876-3413	1876-3405	2002	1	1				https://academic.oup.com/inthealth/issue		inthealth		fulltext	Open Access		serial								F	14454587X
+International Journal of Low-Carbon Technologies	1748-1317		2006	1	1				https://academic.oup.com/ijlct		ijlct		fulltext	Open Access		serial								F	
+JAC - Antimicrobial Resistance		2632-1823	2019	1	1				https://academic.oup.com/jacamr/issue		jacamr		fulltext	Open Access		serial								F	237358034
+JAMIA Open		2574-2531	2018	1	1				https://academic.oup.com/jamiaopen/issue		jamiaopen		fulltext	Open Access		serial								F	229741169
+JNCI Cancer Spectrum		1475-4029	2017	1	1				https://academic.oup.com/jncics		jncics		fulltext	Open Access; New for 2017		serial								F	090128982
+Journal of Computer-Mediated Communication		1083-6101	1995	1	1				https://academic.oup.com/jcmc		jcmc		fulltext	Open Access		serial								F	040343219
+Journal of Crohn's and Colitis Supplements	1873-9954	1876-4460	2007	1	1	2010	4	1	https://academic.oup.com/ecco-jccs/issue		ecco-jccs		fulltext	Open Access. Journal of Crohn's and Colitis Supplements was the separate sister supplement journal to Journal of Crohn’s and Colitis (2007-2010)		serial								F	118963635
+Journal of Cybersecurity	2057-2085	2057-2093	2015	1	1				https://academic.oup.com/cybersecurity		cybersecurity		fulltext	Open Access		serial								F	190189177
+Journal of Geophysics and Engineering	1742-2132	1742-2140	2004	1	1				https://academic.oup.com/jge		jge		fulltext	Open Access		serial								F	085710733
+Journal of Hip Preservation Surgery		2054-8397	2014	1	1				https://academic.oup.com/jhps		jhps		fulltext	Open Access		serial								F	183632524
+Journal of Industrial Microbiology and Biotechnology	1367-5435	1476-5535	2021	48	1				https://academic.oup.com/jimbio/issue		jimbio		fulltext	Open Access		serial								F	068852800
+Journal of Insect Science		1536-2442	2001	1	1				https://academic.oup.com/jinsectscience		jinsectscience		fulltext	transfer in (2015): Entomological Society of America (BioOne). Open Access		serial								F	070722692
+Journal of Integrable Systems		2058-5985	2015	1	1				https://academic.oup.com/integrablesystems		integrablesystems		fulltext	Open Access		serial								F	195202201
+Journal of Integrated Pest Management		2155-7470	2010	1	1				https://academic.oup.com/jipm		jipm		fulltext	Open Access. transfer in (2015): Entomological Society of America		serial								F	167499939
+Journal of Law and the Biosciences		2053-9711	2014	1	2				https://academic.oup.com/jlb		jlb		fulltext	Open Access		serial								F	177874996
+Journal of Legal Analysis	2161-7201	1946-5319	2009	1	1				https://academic.oup.com/jla		jla		fulltext	Open Access		serial								F	143742620
+Journal of Mechanics	1727-7191	1811-8216	1998	1	1				https://academic.oup.com/jomech/issue		jomech		fulltext	Open Access		serial								F	223246050
+Journal of Molecular Cell Biology	1674-2788	1759-4685	2019	11	1				https://academic.oup.com/jmcb		jmcb		fulltext	Open Access		serial								F	150071779
+Journal of Radiation Research	0449-3060	1349-9157	1960	1	1				https://academic.oup.com/jrr		jrr		fulltext	Open Access		serial								F	165393521
+Journal of Surgical Case Reports		2042-8812	2010	2010	1				https://academic.oup.com/jscr		jscr		fulltext	Open Access		serial								F	164365192
+Journal of Urban Ecology		2058-5543	2015	1	1				https://academic.oup.com/jue		jue		fulltext	Open Access		serial								F	19481338X
+Journal of the Canadian Association of Gastroenterology	2515-2084	2515-2092	2018	1	1				https://academic.oup.com/jcag/issue		jcag		fulltext	Open Access		serial								F	230851940
+Journal of the Endocrine Society		2472-1972	2017	1	1				https://academic.oup.com/jes/issue		jes		fulltext	Open Access		serial								F	200112864
+Molecular Biology and Evolution	0737-4038	1537-1719	1983	1	1				https://academic.oup.com/mbe		mbe		fulltext	Open Access		serial								F	148307736
+Music Therapy	0734-7367		1996	14	1	1996	14	1	https://academic.oup.com/musictherapy/issue		musictherapy		fulltext	Open Access. Music Therapy was the official publication of the American Association for Music Therapy (AAMT) and was published annually 1981-1996		serial								F	
+NAR Genomics and Bioinformatics		2631-9268	2019	1	1				https://academic.oup.com/nargab/issue		nargab		fulltext	Open Access		serial								F	240295900
+NDT Plus	1753-0784	1753-0792	2008	1	1	2011	4	6	https://academic.oup.com/ckj		ckj		fulltext	Open Access; now: Clinical kidney journal [ISSN 2048-8505]		serial								F	123679168
+National Science Review	2095-5138	2053-714X	2014	1	1				https://academic.oup.com/nsr/issue		nsr		fulltext	Open Access		serial								F	176271880
+Neuro-Oncology Advances		2632-2498	2019	1	1				https://academic.oup.com/noa/issue		noa		fulltext	Open Access		serial								F	240295927
+Neuroscience of Consciousness		2057-2107	2015	1	1				https://academic.oup.com/nc		nc		fulltext	Open Access		serial								F	188859225
+Nucleic Acids Research	0305-1048	1362-4962	1974	1	1				https://academic.oup.com/nar		nar		fulltext	Open Access		serial								F	095886923
+Nucleic Acids Symposium Series	0261-3166	1746-8272	1999	42	1	2009	53	1	https://academic.oup.com/nass		nass		fulltext	Open Access. Ceased: 2009		serial								F	090141288
+Open Forum Infectious Diseases		2328-8957	2014	1	1				https://academic.oup.com/ofid		ofid		fulltext	Open Access. New to Oxford Journals in 2014		serial								F	182541452
+Oxford Medical Case Reports		2053-8855	2014	1	1				https://academic.oup.com/omcr		omcr		fulltext	Open Access		serial								F	17871710X
+Precision Clinical Medicine	2096-5303	2516-1571	2018	1	1				https://academic.oup.com/pcm		pcm		fulltext	Open Access; Transfer in (2018)		serial								F	231602847
+Progress of Theoretical Physics	0033-068X	1347-4081	1946	1	1	2012	128	6	https://academic.oup.com/ptp		ptp		fulltext	Open Access; now: Progress of Theoretical and Experimental Physics		serial								F	068851405
+Progress of Theoretical Physics Supplements	0375-9687		1955	1		2012	197		https://academic.oup.com/ptps/		ptps		fulltext	Open Access; Ceased: 2012		serial								F	
+Progress of Theoretical and Experimental Physics		2050-3911	2012	2012	1				https://academic.oup.com/ptep		ptep		fulltext	Open Access		serial								F	172118719
+Regenerative Biomaterials	2056-3418	2056-3426	2014	1	1				https://academic.oup.com/rb		rb		fulltext	Open Access. New for 2014		serial								F	18530222X
+Rheumatology Advances in Practice		2514-1775	2017	1	1				https://academic.oup.com/rheumap		rheumap		fulltext	New for 2017. Open Access		serial								F	226071707
+Schizophrenia Bulletin Open		2632-7899	2020	1	1				https://academic.oup.com/schizophreniabulletinopen/issue		schizophreniabulletinopen		fulltext	Open Access		serial								F	250316358
+Social Cognitive and Affective Neuroscience	1749-5016	1749-5024	2006	1	1				https://academic.oup.com/scan		scan		fulltext	Open Access		serial								F	111217091
+Synthetic Biology		2397-7000	2016	1	1				https://academic.oup.com/synbio		synbio		fulltext	Open Access		serial								F	201454629
+The International Journal of Neuropsychopharmacology	1461-1457	1469-5111	1998	1	1				https://academic.oup.com/ijnp		ijnp		fulltext	Open Access. Transfer in (2015): Cambridge University Press		serial								F	048900427
+Transactions of Mathematics and Its Applications		2398-4945	2017	1	1				https://academic.oup.com/imatrm/issue		imatrm		fulltext	Open Access		serial								F	204062519
+Transactions of the London Mathematical Society		2052-4986	2014	1	1	2016	3	1	https://academic.oup.com/tlms		tlms		fulltext	Open Access. Transfer out (2017): Wiley		serial								F	17932294X
+Translational Animal Science		2573-2102	2017	1	1				https://academic.oup.com/tas		tas		fulltext	Transfer in (2018): American Society of Animal Science. Open Access		serial								F	201823365
+Transportation Safety and Environment		2631-4428	2018	1	1				https://academic.oup.com/tse/issue		tse		fulltext	Open Access		serial								F	238218368
+Virus Evolution		2057-1577	2015	1	1				https://academic.oup.com/ve		ve		fulltext	Open Access		serial								F	187671443
