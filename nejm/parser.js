@@ -24,14 +24,6 @@ module.exports = new Parser(function analyseEC(parsedUrl, ec) {
     result.rtype  = 'TOC';
     result.mime   = 'MISC';
 
-    if (match[2] == 'catalyst') {
-      result.online_identifier = '2642-0007';
-    }
-    else if (match[2] == 'nejm') {
-      result.print_identifier = '0028-4793';
-      result.online_identifier = '1533-4406';
-    }
-
     if (match[4]) {
       result.vol = match[4];
     }
@@ -49,14 +41,6 @@ module.exports = new Parser(function analyseEC(parsedUrl, ec) {
     // /doi/full/10.1056/CAT.21.0025
     result.doi    = match[2];
     result.unitid = match[3];
-
-    if (match[2].includes('CAT')) {
-      result.online_identifier = '2642-0007';
-    }
-    else {
-      result.print_identifier = '0028-4793';
-      result.online_identifier = '1533-4406';
-    }
 
     switch (match[1]) {
     case 'pdf':
@@ -86,8 +70,7 @@ module.exports = new Parser(function analyseEC(parsedUrl, ec) {
     // /doi/do_file/10.1056/NEJMdo210603/NEJMdo210603
     result.rtype = 'ABS';
     result.mime  = 'MP3';
-    result.print_identifier = '0028-4793';
-    result.online_identifier = '1533-4406';
+
     result.doi    = match[1];
     result.unitid = match[2];
 
@@ -97,9 +80,6 @@ module.exports = new Parser(function analyseEC(parsedUrl, ec) {
     result.rtype = 'ABS';
     result.mime  = 'MP3';
     result.doi   = param.doi;
-
-    result.print_identifier = '0028-4793';
-    result.online_identifier = '1533-4406';
 
     if (param.a) {
       result.unitid = param.a.replace(/(\.summary)?\.mp3$/i, '');
@@ -124,15 +104,6 @@ module.exports = new Parser(function analyseEC(parsedUrl, ec) {
     result.mime   = 'PDF';
     result.doi    = match[1];
     result.unitid = match[3];
-
-    if (match[1].includes('CAT')) {
-      result.online_identifier = '2642-0007';
-    }
-    else {
-      result.print_identifier = '0028-4793';
-      result.online_identifier = '1533-4406';
-    }
-
 
   }
 
