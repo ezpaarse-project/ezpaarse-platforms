@@ -47,6 +47,14 @@ module.exports = new Parser(function analyseEC(parsedUrl, ec) {
     result.mime   = 'HTML';
     result.unitid = match[4];
     result.publication_date = match[1];
+  } else if ((match = /^\/document\/([a-z0-9]+)$/i.exec(path)) !== null) {
+    result.unitid = match[1];
+    result.rtype  = 'JURISPRUDENCE';
+    result.mime   = 'HTML';
+  } else if ((match = /^\/document\/([a-z0-9-]+)$/i.exec(path)) !== null) {
+    result.unitid = match[1];
+    result.rtype  = 'ARTICLE';
+    result.mime   = 'HTML';
   }
 
   return result;
