@@ -1,0 +1,13 @@
+{
+  "longname": "JurisEdit",
+  "name": "je",
+  "describe": "Recognizes the accesses to the platform JurisEdit",
+  "contact": "Julie Verleyen, Teresa Fernandez Olaizola, felix",
+  "pkb": false,
+  "docurl": "http://analyses.ezpaarse.org/platforms/60c727b85407771d089e0a36",
+  "domains": [
+    "www.jurisedit.com"
+  ],
+  "version": "2021-07-07",
+  "status": "beta"
+}
