@@ -107,7 +107,7 @@ module.exports = new Parser(function analyseEC(parsedUrl, ec) {
     // /RA/analyze.do
     result.rtype = 'ANALYSIS';
     result.mime  = 'MISC';
-  } else if ((match = /^\/jif\/home/i.exec(path)) !== null) {
+  } else if ((match = /^\/[a-z]+\/home/i.exec(path)) !== null) {
     // /jif/home/?journal=NATURE&editions=SCIE&year=2017
     result.rtype = 'ANALYSIS';
     result.mime  = 'HTML';
