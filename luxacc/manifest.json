@@ -1,0 +1,13 @@
+{
+  "longname": "LuxAccount",
+  "name": "luxacc",
+  "describe": "Recognizes the accesses to the platform LuxAccount",
+  "contact": "Julie Verleyen, Teresa Fernandez Olaizola, Frederic Truong inist",
+  "pkb": false,
+  "docurl": "http://analyses.ezpaarse.org/platforms/60c737d0f36e27198d443cf4",
+  "domains": [
+    "luxaccount.lu"
+  ],
+  "version": "2021-07-07",
+  "status": "beta"
+}
