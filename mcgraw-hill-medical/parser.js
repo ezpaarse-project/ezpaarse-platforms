@@ -1,16 +1,16 @@
 #!/usr/bin/env node
 
 'use strict';
+const { URL } = require('url');
 const Parser = require('../.lib/parser.js');
 
 /**
  * Extract db_id 
  */
-function extractDatabaseName (parsedUrl, result) {
+function extractDatabaseName(parsedUrl, result) {
   let hostParts = parsedUrl.host.split('.');
-  result.db_id    = hostParts[0];
+  result.db_id = hostParts[0];
 }
-
 
 /**
  * Recognizes the accesses to the platform Access Medicine
@@ -29,20 +29,15 @@ module.exports = new Parser(function analyseEC(parsedUrl, ec) {
   let hash;
 
   if (parsedUrl.hash) {
-    hash = parsedUrl.hash
-      .replace('#', '')
-      .split('&')
-      .reduce(function (result, item) {
-        var parts = item.split('=');
-        result[parts[0]] = parts[1];
-        return result;
-      }, {});
-  } else {
-    hash = {};
+    const { searchParams } = new URL(`http://mgh-parser/?${parsedUrl.hash.substring(1)}`);
+    if (searchParams) {
+      hash = searchParams;
+    }
   }
+
   let match;
 
-  //console.error(hash.monoNumber);
+  //console.error(hash.get('monoNumber));
 
   if ((match = /^\/searchresults\.aspx$/i.exec(path)) !== null) {
     // https://accesspharmacy.mhmedical.com/searchresults.aspx?q=motrin
@@ -94,7 +89,7 @@ module.exports = new Parser(function analyseEC(parsedUrl, ec) {
     // https://accessmedicine.mhmedical.com/drugs.aspx#monoNumber=426051&sectionID=03&tab=tab1    
     result.rtype    = 'ARTICLE';
     result.mime     = 'HTML';
-    result.unitid   = hash.monoNumber;
+    result.unitid   = hash && hash.get('monoNumber');
     extractDatabaseName(parsedUrl, result);
   } else if (/^\/book.aspx$/i.test(path) == true) {
     // https://accesssurgery.mhmedical.com/book.aspx?bookID=1755
@@ -103,11 +98,7 @@ module.exports = new Parser(function analyseEC(parsedUrl, ec) {
     // https://accessmedicine.mhmedical.com/book.aspx?bookid=1180
     result.rtype    = 'TOC';
     result.mime     = 'HTML';
-    if (param.bookID) {
-      result.unitid   = param.bookID;
-    } else {
-      result.unitid   = param.bookid;
-    }
+    result.unitid   = param.bookID || param.bookid;
     extractDatabaseName(parsedUrl, result);
   } else if (/^\/content.aspx$/i.test(path) == true) {
     // https://accesssurgery.mhmedical.com/content.aspx?bookid=2576&sectionid=210404908
