@@ -76,6 +76,12 @@ module.exports = new Parser(function analyseEC(parsedUrl, ec) {
     result.mime   = 'HTML';
     result.doi    = match[1];
     result.unitid = match[2];
+  } else if ((match = /^\/doi\/pdf\/(10\.[0-9]+\/(.*))$/i.exec(path)) !== null) {
+    // /doi/pdf/10.1086/449144
+    result.rtype  = 'ARTICLE';
+    result.mime   = 'PDF';
+    result.doi    = match[1];
+    result.unitid = match[2];
   }
 
   return result;
