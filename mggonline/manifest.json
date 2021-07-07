@@ -1,0 +1,13 @@
+{
+  "longname": "Musik In Geschichte Und Gegenwart (MGG) Online",
+  "name": "mggonline",
+  "describe": "Recognizes the accesses to the platform Musik In Geschichte Und Gegenwart (MGG) Online",
+  "contact": "Julie Verleyen, Teresa Fernandez Olaizola",
+  "pkb": false,
+  "docurl": "http://analyses.ezpaarse.org/platforms/60c84c1bc2b704186514a1ab",
+  "domains": [
+    "www-mgg-online-com.proxy.bnl.lu"
+  ],
+  "version": "2021-07-07",
+  "status": "beta"
+}
