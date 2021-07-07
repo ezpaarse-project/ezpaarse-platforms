@@ -21,7 +21,7 @@ module.exports = new Parser(function analyseEC(parsedUrl, ec) {
 
   let match;
 
-  if ((match = /^\/library\/view\/[a-z-]+\/([0-9]+)\/(text|[a-z]+\/xhtml)\/([a-z0-9_-]+).xhtml/i.exec(path)) !== null) {
+  if ((match = /^\/library\/view\/[a-z-]+\/([0-9]+)\/(text|[a-z]+\/xhtml)\/([a-z0-9_-]+)\.xhtml/i.exec(path)) !== null) {
     // /library/view/influence/9780061899874/text/9780061899874_Chapter_1.xhtml
     // /library/view/the-psychology-book/9781465439291/OEBPS/xhtml/PSYBOO022DORMEZ.xhtml
     result.rtype = 'BOOK_SECTION';
