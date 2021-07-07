@@ -22,7 +22,7 @@ module.exports = new Parser(function analyseEC(parsedUrl, ec) {
 
   let match;
 
-  if (/^\/membres\/files\/resultats.php$/i.exec(path) !== null) {
+  if (/^\/membres\/files\/resultats.php$/i.test(path)) {
     // http://www.jurisedit.com.proxy.bnl.lu/membres/files/resultats.php?base=jurissoc&file=L270516_RCS.htm
     // http://www.jurisedit.com.proxy.bnl.lu/membres/files/resultats.php?base=juriscomintegral&file=20210506-CAS-2020-00080.pdf
     result.rtype    = 'JURISPRUDENCE';
