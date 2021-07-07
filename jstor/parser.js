@@ -9,10 +9,28 @@
 const Parser = require('../.lib/parser.js');
 const doiPrefix = '10.2307';
 
+/**
+ * Matching between the parameters found in openurl queries and EC fields
+ */
+const openUrlFields = {
+  'issn': 'print_identifier',
+  'isbn': 'print_identifier',
+  'volume': 'vol',
+  'issue': 'issue',
+  'spage': 'first_page',
+  'title': 'publication_title',
+  'id': 'unitid'
+};
+
+
 module.exports = new Parser(function analyseEC(parsedUrl) {
   let result = {};
   let path   = parsedUrl.pathname;
   let query  = parsedUrl.query;
+  let param  = parsedUrl.query || {};
+
+  // use console.error for debuging
+  console.error(parsedUrl);
 
   let match;
 
@@ -112,6 +130,37 @@ module.exports = new Parser(function analyseEC(parsedUrl) {
     result.rtype    = match[1] === 'info' ? 'ABS' : 'PREVIEW';
     result.mime     = 'HTML';
 
+  } else if (path.toLowerCase() === '/openurl') {
+    // https://www.jstor.org/openurl?volume=34&aulast=Draper%2C+John+W&date=1937&spage=176&issn=00393738
+    // https://www.jstor.org:443/openurl?volume=335&aulast=SUMMERFIELD%2C+Q&date=1992&spage=71&issn=09628436&issue=1273
+    // https://www.jstor.org/openurl?volume=38&aulast=Gerald+Finkielsztejn&aulast=%D7%92%27%D7%A8%D7%90%D7%9C%D7%93+%D7%A4%D7%99%D7%A0%D7%A7%D7%9C%D7%A9%D7%98%D7%99%D7%99%D7%9F&date=1999&spage=51&issn=07928424
+    // https://www.jstor.org:443/openurl?volume=36&date=2000&spage=610&issn=10437797&issue=3
+    // https://www.jstor.org:443/openurl?volume=47&aulast=Gaugler%2C+JE&aulast=Yu%2C+F&aulast=Krichbaum%2C+K&date=2009&spage=606&issn=00257079&issue=5
+    // https://www.jstor.org:443/openurl?aulast=Moskowitz%2C+Milton&date=2010&spage=86&issn=10773711&issue=67
+
+    result.rtype = 'OPENURL';
+    result.mime  = 'HTML';
+
+    for (const key in param) {
+      const matchingValue = openUrlFields[key];
+
+      if (matchingValue) {
+        result[matchingValue] = param[key];
+      }
+    }
+
+    if (param.pages) {
+      const pagesMatch = /^(\d+)-(\d+)$/.exec(param.pages);
+
+      if (pagesMatch) {
+        result.first_page = pagesMatch[1];
+        result.last_page  = pagesMatch[2];
+      }
+    }
+
+    if (result.unitid && result.unitid.toLowerCase().startsWith('doi:')) {
+      result.doi = result.unitid = result.unitid.substr(4);
+    }
   }
 
   return result;
