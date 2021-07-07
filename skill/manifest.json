@@ -1,0 +1,14 @@
+{
+  "longname": "Skilleos",
+  "name": "skill",
+  "describe": "Recognizes the accesses to the platform Skilleos",
+  "contact": "Julie Verleyen, Teresa Fernandez Olaizola, Frederic Truong inist",
+  "pkb": false,
+  "docurl": "http://analyses.ezpaarse.org/platforms/60c85377fe18665d3b0efeaa",
+  "domains": [
+    "skilleos.com",
+    "moncompte.skilleos.com"
+  ],
+  "version": "2021-07-07",
+  "status": "beta"
+}
