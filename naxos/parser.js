@@ -85,7 +85,7 @@ module.exports = new Parser(function analyseEC(parsedUrl, ec) {
   } else if ((/^\/catalogue\/item\.asp$/i.test(path)) || (/^\/folder$/i.test(path)) || (/^\/naxos\/track\/trackListByIds$/i.test(path))) {
     // https://emory.naxosspokenwordlibrary.com:443/catalogue/item.asp?cid=NA443812
     // https://emory.nml3.naxosmusiclibrary.com:443/folder?category=nml&_pjax=%23main
-    //https://emory.nml3.naxosmusiclibrary.com:443/naxos/track/trackListByIds?ids=4168074%2C4168075%2C4168076%2C4168077%2C4168078%2C4168079%2C4168080%2C4168081%2C4168082%2C4168083%2C4168084%2C4168085%2C4168086%2C4168087%2C4168088%2C4168089%2C4168090%2C4168091%2C4168092%2C4168093%2C4168094%2C4168095%2C4168096%2C4168097%2C4168098&quality=
+    // https://emory.nml3.naxosmusiclibrary.com:443/naxos/track/trackListByIds?ids=4168074%2C4168075%2C4168076%2C4168077%2C4168078%2C4168079%2C4168080%2C4168081%2C4168082%2C4168083%2C4168084%2C4168085%2C4168086%2C4168087%2C4168088%2C4168089%2C4168090%2C4168091%2C4168092%2C4168093%2C4168094%2C4168095%2C4168096%2C4168097%2C4168098&quality=
     result.rtype  = 'TOC';
     result.mime   = 'HTML';
     result.unitid = param.cid || param.category || param.ids;
@@ -260,6 +260,12 @@ module.exports = new Parser(function analyseEC(parsedUrl, ec) {
     // https://emory.nml3.naxosmusiclibrary.com:443/resources/studyarea/aus/gentop/09_music_of_the_twentieth_century?_pjax=%23main
     result.rtype  = 'BOOK_SECTION';
     result.mime   = 'HTML';
+    result.unitid = match[1];
+
+  } else if ((match = /^\/[a-z0-9_-]+\/catalogue\/([a-z-0-9_-]+)$/i.exec(path)) !== null) {
+    // /jazz/catalogue/SAVANT-CD2183
+    result.rtype  = 'AUDIO';
+    result.mime   = 'MISC';
     result.unitid = match[1];
 
   }
