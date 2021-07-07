@@ -27,7 +27,7 @@ module.exports = new Parser(function analyseEC(parsedUrl, ec) {
     // http://www.jurisedit.com.proxy.bnl.lu/membres/files/resultats.php?base=juriscomintegral&file=20210506-CAS-2020-00080.pdf
     result.rtype    = 'JURISPRUDENCE';
 
-    if ((match = /^([a-z0-9-_]+).([a-z]+)/i.exec(param.file)) !== null) {
+    if ((match = /^([a-z0-9_-]+)\.([a-z]+)$/i.exec(param.file)) !== null) {
       result.unitid = match[1];
       if (match[2] === 'htm') {
         result.mime = 'HTML';
