@@ -21,17 +21,17 @@ module.exports = new Parser(function analyseEC(parsedUrl, ec) {
 
   // let match;
 
-  if (/^\/secure\/documentview.aspx$/i.test(path)) {
+  if (/^\/secure\/documentview\.aspx$/i.test(path)) {
     // /secure/documentview.aspx?id=rf300057903
     result.rtype = 'TOC';
     result.mime = 'HTML';
     result.unitid = param.id;
-  } else if (/^\/secure\/showfile.aspx$/i.test(path)) {
+  } else if (/^\/secure\/showfile\.aspx$/i.test(path)) {
     // /secure/showfile.aspx?originatingpage=documentview&id=rx1472073.pdf
     result.rtype = 'JURISPRUDENCE';
     result.mime = 'PDF';
     if (param.id) {
-      result.unitid = param.id.replace(/.pdf$/, '');
+      result.unitid = param.id.replace(/\.pdf$/, '');
     }
   }
 
