@@ -90,9 +90,6 @@ module.exports = new Parser(function analyseEC(parsedUrl) {
     }
 
   } else if ((match = /^\/stable\/(pdf|pdfplus)\/((10\.[0-9]+\/)?([a-z0-9.]+?))(?:\.pdf)?$/i.exec(path)) !== null) {
-    // /stable/get_image/23098031
-    // /stable/get_image/10.1525/gfc.2010.10.4.cover
-    // /stable/get_image/10.1525/gfc.2010.10.4.103a
     // /stable/pdfplus/690326.pdf
     // /stable/pdf/10.13110/merrpalmquar1982.59.2.0198.pdf
     // /stable/pdf/10.1525/gfc.2010.10.4.cover.pdf
