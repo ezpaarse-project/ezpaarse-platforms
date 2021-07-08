@@ -1,0 +1,13 @@
+{
+  "longname": "JAMA Network",
+  "name": "jama",
+  "describe": "Recognizes the accesses to the platform JAMA Network",
+  "contact": "Sean Duffy",
+  "pkb": false,
+  "docurl": "http://analyses.ezpaarse.org/platforms/60a54a9d39e7c75587eab706 ",
+  "domains": [
+    "jamanetwork.com"
+  ],
+  "version": "2021-05-21",
+  "status": "beta"
+}
