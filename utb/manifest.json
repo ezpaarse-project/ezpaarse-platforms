@@ -1,0 +1,13 @@
+{
+  "longname": "utb",
+  "name": "utb",
+  "describe": "Recognizes the accesses to the platform utb",
+  "contact": "thomas.porquet, Teresa Fernandez Olaizola, Julie Verleyen, Frederic Truong inist",
+  "pkb": false,
+  "docurl": "http://analyses.ezpaarse.org/platforms/5b48a20284483a5fe1e34894",
+  "domains": [
+    "elibrary.utb.de"
+  ],
+  "version": "2021-07-07",
+  "status": "beta"
+}
