@@ -1,0 +1,28 @@
+{
+  "longname": "American Society for Microbiology",
+  "name": "asmb",
+  "describe": "Recognizes the accesses to the platform American Society for Microbiology",
+  "contact": "Carole BRUNO, Frederic Truong inist, wilmouths",
+  "pkb": false,
+  "docurl": "http://analyses.ezpaarse.org/platforms/600acaaf0c437946bf0f037a",
+  "domains": [
+    "aac.asm.org",
+    "aem.asm.org",
+    "cmr.asm.org",
+    "cvi.asm.org",
+    "ec.asm.org",
+    "iai.asm.org",
+    "jb.asm.org",
+    "jcm.asm.org",
+    "jvi.asm.org",
+    "mbio.asm.org",
+    "mmbr.asm.org",
+    "mra.asm.org",
+    "mcb.asm.org",
+    "msphere.asm.org",
+    "www.asmscience.org",
+    "journals.asm.org"
+  ],
+  "version": "2021-07-08",
+  "status": "beta"
+}
