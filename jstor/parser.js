@@ -41,6 +41,79 @@ module.exports = new Parser(function analyseEC(parsedUrl) {
     result.unitid   = match[1];
     result.title_id = match[1];
 
+  } else if ((match = /^\/stable\/((10\.[0-9]+\/(978[0-9]{10})(_[a-z]+)?)(\.[0-9]+)?)$/i.exec(path)) !== null) {
+    // Books containing an ISBN
+    // https://www.jstor.org/stable/10.5149/9781469658070_neubauer
+    // https://www.jstor.org/stable/10.7476/9788575413906
+    // https://www.jstor.org/stable/10.7476/9788575413906.1
+
+    result.unitid           = match[1];
+    result.title_id         = match[2];
+    result.doi              = match[2];
+    result.print_identifier = match[3];
+    result.mime             = 'HTML';
+    result.rtype            = match[5] ? 'BOOK_SECTION' : 'TOC';
+
+  } else if ((match = /^\/stable\/pdf\/((10\.[0-9]+\/(978[0-9]{10})(_[a-z]+)?)\.[0-9]+)\.pdf$/i.exec(path)) !== null) {
+    // Books containing an ISBN downloads
+    // https://www.jstor.org/stable/pdf/10.5149/9781469657486_erlin.2.pdf
+    // https://www.jstor.org/stable/pdf/10.7476/9788575413906.1.pdf
+
+    result.unitid           = match[1];
+    result.title_id         = match[2];
+    result.doi              = match[2];
+    result.print_identifier = match[3];
+    result.mime             = 'PDF';
+    result.rtype            = 'BOOK_SECTION';
+
+  } else if ((match = /^\/stable\/((10\.[0-9]+\/(j\.|mpub\.|)[a-z0-9]+)(\.[0-9]+)?)$/i.exec(path)) !== null) {
+    // Books starting with j. (JSTOR) mpub. (Michigan Publishing) and neither
+    // https://www.jstor.org/stable/10.2307/j.ctt1xp3ks7
+    // https://www.jstor.org/stable/10.7249/mg1114fps
+    // https://www.jstor.org/stable/10.3998/mpub.11649332
+    // https://www.jstor.org/stable/10.2307/j.ctt1xp3ks7.3
+    // https://www.jstor.org/stable/10.7249/mg1114fps.4
+
+    result.unitid   = match[1];
+    result.title_id = match[2];
+    result.doi      = match[2];
+    result.mime     = 'HTML';
+    result.rtype    = match[4] ? 'BOOK_SECTION' : 'TOC';
+
+  } else if ((match = /^\/stable\/pdf\/((10\.[0-9]+\/(j\.|mpub\.|)[a-z0-9]+)\.[0-9]+)\.pdf$/i.exec(path)) !== null) {
+    // Books starting with j. (JSTOR) mpub. (Michigan Publishing) and neither downloads
+    // https://www.jstor.org/stable/pdf/10.3998/mpub.11649332.1.pdf
+    // https://www.jstor.org/stable/pdf/10.2307/j.ctt1xp3ks7.3.pdf
+    // https://www.jstor.org/stable/pdf/10.7249/mg1114fps.4.pdf
+
+    result.unitid   = match[1];
+    result.title_id = match[2];
+    result.doi      = match[2];
+    result.mime     = 'PDF';
+    result.rtype    = 'BOOK_SECTION';
+
+  } else if ((match = /^\/stable\/((j\.[a-z0-9]+)(\.[0-9]+)?)$/i.exec(path)) !== null) {
+    // JSTOR book redirects
+    // https://www.jstor.org/stable/j.ctt1xp3ks7
+    // https://www.jstor.org/stable/10.2307/j.ctt1xp3ks7.3
+    // to
+    // https://www.jstor.org/stable/j.ctt1xp3ks7.3
+
+    result.unitid   = doiPrefix + '/' + match[1];
+    result.title_id = doiPrefix + '/' + match[2];
+    result.doi      = doiPrefix + '/' + match[2];
+    result.mime     = 'HTML';
+    result.rtype    = match[3] ? 'BOOK_SECTION' : 'TOC';
+
+  } else if ((match = /^\/stable\/pdf\/((j\.[a-z0-9]+)\.[0-9]+)\.pdf$/i.exec(path)) !== null) {
+    // https://www.jstor.org/stable/pdf/j.ctt1xp3ks7.3.pdf
+
+    result.unitid   = match[1];
+    result.title_id = match[2];
+    result.doi      = '10.2307/' + match[2];
+    result.mime     = 'PDF';
+    result.rtype    = 'BOOK_SECTION';
+
   } else if ((match = /^\/stable\/(10\.[0-9]+\/(([a-z]+)(\.([0-9]{4}))?\.([0-9]+)(\.([0-9]+))?\.(issue-)?([0-9]+)(\.[0-9]+)?))$/i.exec(path)) !== null) {
     // /stable/10.5621/sciefictstud.43.issue-3
     // /stable/10.1525/ncm.2009.33.1.003?seq=1
@@ -58,7 +131,7 @@ module.exports = new Parser(function analyseEC(parsedUrl) {
       result.publication_date = match[5];
     }
 
-  } else if ((match = /^\/stable\/(10\.[0-9]+\/([a-z0-9]+))$/i.exec(path)) !== null) {
+  } else if ((match = /^\/stable\/(10\.[0-9]+\/([a-z0-9_]+))$/i.exec(path)) !== null) {
     // /stable/10.1086/665036
     // /stable/10.7312/cari13424
     result.title_id = match[2];
@@ -70,13 +143,22 @@ module.exports = new Parser(function analyseEC(parsedUrl) {
       result.doi = match[1];
     }
 
-  } else if ((match = /^\/stable\/(i?[0-9]+)$/i.exec(path)) !== null) {
+  } else if ((match = /^\/stable\/((resrep[0-9]+)(\.[0-9]+)?)$/i.exec(path)) !== null) {
+    // /stable/resrep12068
+    // /stable/resrep12068.5
+    result.title_id = match[2];
+    result.unitid   = match[1];
+    result.mime     = 'HTML';
+    result.rtype    = match[3] ? 'BOOK_SECTION' : 'TOC';
+
+  } else if ((match = /^\/stable\/((i|e)?[0-9]+)$/i.exec(path)) !== null) {
+    // /stable/e26611726
     // /stable/i25703249
     result.title_id = match[1];
     result.unitid   = match[1] ;
     result.mime     = 'HTML';
 
-    if (match[1].startsWith('i')) {
+    if (match[1].startsWith('i') || match[1].startsWith('e')) {
       result.rtype = 'TOC';
     }
 
@@ -129,11 +211,11 @@ module.exports = new Parser(function analyseEC(parsedUrl) {
 
   } else if (path.toLowerCase() === '/openurl') {
     // https://www.jstor.org/openurl?volume=34&aulast=Draper%2C+John+W&date=1937&spage=176&issn=00393738
-    // https://www.jstor.org:443/openurl?volume=335&aulast=SUMMERFIELD%2C+Q&date=1992&spage=71&issn=09628436&issue=1273
+    // https://www.jstor.org/openurl?volume=335&aulast=SUMMERFIELD%2C+Q&date=1992&spage=71&issn=09628436&issue=1273
     // https://www.jstor.org/openurl?volume=38&aulast=Gerald+Finkielsztejn&aulast=%D7%92%27%D7%A8%D7%90%D7%9C%D7%93+%D7%A4%D7%99%D7%A0%D7%A7%D7%9C%D7%A9%D7%98%D7%99%D7%99%D7%9F&date=1999&spage=51&issn=07928424
-    // https://www.jstor.org:443/openurl?volume=36&date=2000&spage=610&issn=10437797&issue=3
-    // https://www.jstor.org:443/openurl?volume=47&aulast=Gaugler%2C+JE&aulast=Yu%2C+F&aulast=Krichbaum%2C+K&date=2009&spage=606&issn=00257079&issue=5
-    // https://www.jstor.org:443/openurl?aulast=Moskowitz%2C+Milton&date=2010&spage=86&issn=10773711&issue=67
+    // https://www.jstor.org/openurl?volume=36&date=2000&spage=610&issn=10437797&issue=3
+    // https://www.jstor.org/openurl?volume=47&aulast=Gaugler%2C+JE&aulast=Yu%2C+F&aulast=Krichbaum%2C+K&date=2009&spage=606&issn=00257079&issue=5
+    // https://www.jstor.org/openurl?aulast=Moskowitz%2C+Milton&date=2010&spage=86&issn=10773711&issue=67
 
     result.rtype = 'OPENURL';
     result.mime  = 'HTML';
