@@ -103,34 +103,19 @@ module.exports = new Parser(function analyseEC(parsedUrl, ec) {
     result.doi      = `${match[4]}/${match[5]}`;
     result.unitid   = match[5];
 
-  } else if ((match = /^(?:\/[a-z]+)?\/([a-z-]+)\/(article|article-abstract|article-pdf|article-standard)\/([0-9]+)\/([0-9%()]+)\/([0-9]+|[a-z]+)\/([0-9]+)(?:\/\S+)?$/i.exec(path)) !== null) {
+  } else if ((match = /^(?:\/[a-z]+)?\/([a-z]+)\/(article|article-abstract)\/([0-9]+)\/([0-9]+)\/([0-9]+)\/([0-9]+)(?:\/[a-z-]+)?$/i.exec(path)) !== null) {
     // /humrep/article/32/1/14/2645576/Is-the-understanding-of-AMH-being-confounded-by
     // /segweb/economicgeology/article-abstract/108/1/1/128420/applying-stable-isotopes-to-mineral-exploration
     // /gsa/lithosphere/article/10/2/172/527223/the-role-of-calcite-rich-metasedimentary-mylonites
     // /bib/article/17/1/63/1742184
-    // /aehm/article-pdf/23/4/491/914647/491capolupo.pdf
-    // /aehm/article-standard/23/4/491/173195/Detection-of-spatio-temporal-changes-of-vegetation
-    // /social-text/article-pdf/18/2%20(63)/107/513015/st_18_2-5.hutchinson.pdf
-    result.mime       = match[2] === 'article-pdf' ? 'PDF' : 'HTML';
-    result.rtype      = match[2] === 'article-abstract' ? 'ABS' : 'ARTICLE';
+    result.mime       = 'HTML';
+    result.rtype      = match[2] === 'article' ? 'ARTICLE' : 'ABS';
     result.title_id   = match[1];
     result.vol        = match[3];
     result.issue      = match[4];
     result.first_page = match[5];
     result.unitid     = match[6];
-  } else if ((match = /^\/books\/book\/([0-9]+)\/chapter-standard\/([0-9]+)\/(?:\S+)$/i.exec(path)) !== null) {
-    // /books/book/2890/chapter-standard/2784599/Introduction
-    result.mime       = 'HTML';
-    result.rtype      = 'BOOK_CHAPTER';
-    result.unitid     = match[1];
-  } else if ((match = /^\/books\/book\/chapter-pdf\/([0-9]+)\/([0-9]+)-([0-9]+).pdf$/i.exec(path)) !== null) {
-    // /books/book/chapter-pdf/913432/9781478021209-001.pdf
-    // /books/book/chapter-pdf/587580/9780822375074-011.pdf
-    result.mime       = 'PDF';
-    result.rtype      = 'BOOK_CHAPTER';
-    result.unitid     = match[1];
-    result.online_identifier = match[2];
-    result.chapter    = match[3];
+
   }
 
   return result;
