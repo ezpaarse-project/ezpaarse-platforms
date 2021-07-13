@@ -9,10 +9,15 @@
   "docurl": "http://analyses.ezpaarse.org/platforms/53fc4d80b8ef26c42570eafa",
   "contact": "karine.delvert at univ-paris1 point fr",
   "pkb": true,
-	"domains": [
+  "bacon": {
+    "provider": [
+      "JSTOR"
+    ]
+  },
+  "domains": [
     "www.jstor.org",
     "about.jstor.org"
-	],
+  ],
   "recognize": {
     "rid": [
       "title_id",
