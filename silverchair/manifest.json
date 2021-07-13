@@ -1,6 +1,16 @@
 {
   "version": "2016-11-24",
   "status": "beta",
+  "bacon" : {
+    "provider": [
+      "ASME",
+      "SPIE",
+      "DUKE",
+      "OUP",
+      "GSW",
+      "PORTLANDPRESS"
+    ]
+  },
   "domains": [
     "www.asmedigitalcollection.asme.org",
     "www.spie.org",
@@ -17,7 +27,8 @@
     "paleobiol.geoscienceworld.org",
     "ashpublications.org",
     "portlandpress.com",
-    "watermark.silverchair.com"
+    "watermark.silverchair.com",
+    "read.dukeupress.edu"
   ],
   "name": "silverchair",
   "longname": "silverchair",
