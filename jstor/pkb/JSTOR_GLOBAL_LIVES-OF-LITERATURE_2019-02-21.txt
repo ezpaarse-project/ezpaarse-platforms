@@ -1,0 +1,34 @@
+publication_title	print_identifier	online_identifier	date_first_issue_online	num_first_vol_online	num_first_issue_online	date_last_issue_online	num_last_vol_online	num_last_issue_online	title_url	first_author	title_id	embargo_info	coverage_depth	notes	publisher_name	publication_type	date_monograph_published_print	date_monograph_published_online	monograph_volume	monograph_edition	first_editor	parent_publication_title_id	preceding_publication_title_id	access_type	bestppn
+Angelicum	1123-5772		1925	2	1	2015			https://www.jstor.org/journal/angelicum		angelicum		fulltext	Moving Wall: 3 years. Previously: Unio Thomistica (1924)		serial								P	
+Bulletin d'informations proustiennes	0338-0548	2492-4830	1975		1	2015			https://www.jstor.org/journal/bulldinfprou		bulldinfprou		fulltext	Moving Wall: 3 years		serial								P	193571005
+Carmina Philosophiae	1075-4407		1992	1		2015			https://www.jstor.org/journal/carmphil		carmphil		fulltext	Moving Wall: 3 years		serial								P	
+Celestinesca	0147-3085		1977	1	1	2018			https://www.jstor.org/journal/celestinesca		celestinesca		fulltext	Content for this title is released as soon as the latest issues become available to JSTOR		serial								P	
+Conradiana	0010-6356	1935-0252	1972	4	1	2017			https://www.jstor.org/journal/conradiana		conradiana		fulltext	Moving Wall: 1 year		serial								P	127806563
+D. H. Lawrence Review	0011-4936		1968	1	1	2017			https://www.jstor.org/journal/dhlawrencereview		dhlawrencereview		fulltext	Moving Wall: 1 year		serial								P	
+Dante: Rivista internazionale di studi su Dante Alighieri	1724-9058	1824-9272	2004	1		2013			https://www.jstor.org/journal/rinterdantalig		rinterdantalig		fulltext	Moving Wall: 5 years		serial								P	090149963
+Eudora Welty Newsletter	0146-7220		1977	1	1	2008	32	2	https://www.jstor.org/journal/eudoweltnews		eudoweltnews		fulltext	Now: Eudora Welty Review		serial								P	
+Eudora Welty Review	1947-3370	2165-266X	2009	1		2015			https://www.jstor.org/journal/eudoweltrevi		eudoweltrevi		fulltext	Previously: Eudora Welty Newsletter (1977-2008). Moving Wall: 3 years		serial								P	163330611
+Faulkner Journal	0884-2949		1985	1	1	2018			https://www.jstor.org/journal/joycstudann		joycstudann		fulltext	Content for this title is released as soon as the latest issues become available to JSTOR.		serial								P	
+Hefte der Deutschen Thomas-Mann-Gesellschaft, Sitz Lübeck	0722-1207		1981		1	1987		6/7	https://www.jstor.org/journal/heftdeutthommann		heftdeutthommann		fulltext	Now: Thomas Mann Jahrbuch		serial								P	
+Journal of Beckett Studies	0309-5207	1759-7811	1976		1	2013			https://www.jstor.org/journal/jbeckettstudies		jbeckettstudies		fulltext	Moving Wall: 5 years		serial								P	136115446
+Joyce Studies Annual	1049-0809	1538-4241	1990	1		2018			https://www.jstor.org/journal/faulknerj		faulknerj		fulltext	Content for this title is released as soon as the latest issues become available to JSTOR.		serial								P	133788741
+Langston Hughes Review	0737-0555		1982	1	1				https://www.jstor.org/journal/langhughrevi		langhughrevi		fulltext	New for 2019		serial								P	
+Le Cygne	1087-9501		1996		2	2016			https://www.jstor.org/journal/cygne		cygne		fulltext	Moving Wall: 2 years		serial								P	
+Medioevo letterario d'Italia	1724-9090	1825-389X	2004	1		2013			https://www.jstor.org/journal/medilettdital		medilettdital		fulltext	Moving Wall: 5 years		serial								P	090150201
+Menckeniana	0025-9233		1962		1	2017			https://www.jstor.org/journal/menckeniana		menckeniana		fulltext	Moving Wall: 1 year		serial								P	
+Paideuma	0090-5674		1972	1	1	2015			https://www.jstor.org/journal/paideuma2		paideuma2		fulltext	Moving Wall: 3 years		serial								P	
+Parade sauvage	0764-471X	2262-2268	1984		1				https://www.jstor.org/journal/paradesauvage		paradesauvage		fulltext			serial								P	168247399
+Peake Studies	1013-1191	2296-6404	1988	1	1	2015	14	3	https://www.jstor.org/journal/peakestudies		peakestudies		fulltext			serial								P	177943874
+Robert Frost Review, The	1062-6999		1991		1	2016			https://www.jstor.org/journal/robefrosrevi		robefrosrevi		fulltext	Moving Wall: 2 years		serial								P	
+Scripta	1971-9027	2035-2751	2008	1		2013			https://www.jstor.org/journal/scripta		scripta		fulltext	Moving Wall: 5 years		serial								P	192167626
+Spring	0735-6889		1981	1	1	2017			https://www.jstor.org/journal/spring		spring		fulltext	Moving Wall: 1 year		serial								P	
+The Powys Journal	0962-7057		1991	1		2018			https://www.jstor.org/journal/powysj		powysj		fulltext	Content for this title is released as soon as the latest issues become available to JSTOR		serial								P	
+Thomas Mann Jahrbuch	0935-6983		1988	1		2013			https://www.jstor.org/journal/thommannjahr		thommannjahr		fulltext	Moving Wall: 5 years. Previously: Hefte der Deutschen Thomas-Mann-Gesellschaft, Sitz Lübeck (1981-1987)		serial								P	
+Unio Thomistica	1123-5780		1924	1	1	1924	1	1	https://www.jstor.org/journal/uniothom		uniothom		fulltext	Now: Angelicum		serial								P	
+Variaciones Borges	1396-0482		1996		1	2017			http://www.jstor.org/journal/variborg		variborg		fulltext	Moving Wall: 1 year		serial								P	
+William Carlos Williams Newsletter	0099-216X	2471-8033	1975	1	1	1979	5	2	https://www.jstor.org/journal/willcarlwillnews		willcarlwillnews		fulltext	Now: William Carlos Williams Review		serial								P	193243911
+William Carlos Williams Review	0196-6286	1935-0244	1980	8	1				https://www.jstor.org/journal/willcarlwillrevi		willcarlwillrevi		fulltext	Previously: William Carlos Williams Newsletter (1975-1979)		serial								P	118353233
+William James Studies		1933-8295	2006	1		2018			https://www.jstor.org/journal/willjamestud		willjamestud		fulltext	Content for this title is released as soon as the latest issues become available to JSTOR		serial								P	118360191
+Woolf Studies Annual	1080-9317		1995	1		2017			https://www.jstor.org/journal/woolstudannu		woolstudannu		fulltext	Moving Wall: 1 year		serial								P	
+Yearbook of Conrad Studies	1899-3028	2084-3941	2005	1		2011			https://www.jstor.org/journal/yearconrstud		yearconrstud		fulltext	Moving Wall: 6 years		serial								P	163732647
+Yeats Annual	0278-7687	2054-3611	2013	18		2018			https://www.jstor.org/journal/yeatsannual		yeatsannual		fulltext	Content for this title is released as soon as the latest issues become available to JSTOR		serial								P	175145997

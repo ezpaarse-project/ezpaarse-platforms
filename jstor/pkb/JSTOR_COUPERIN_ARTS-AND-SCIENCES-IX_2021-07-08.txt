@@ -1,0 +1,277 @@
+publication_title	print_identifier	online_identifier	date_first_issue_online	num_first_vol_online	num_first_issue_online	date_last_issue_online	num_last_vol_online	num_last_issue_online	title_url	first_author	title_id	embargo_info	coverage_depth	notes	publisher_name	publication_type	date_monograph_published_print	date_monograph_published_online	monograph_volume	monograph_edition	first_editor	parent_publication_title_id	preceding_publication_title_id	access_type	bestppn
+AJAS	0725-0770		1980	1	1	1982	1	3	http://www.jstor.org/journal/ajas		ajas		fulltext	now: Australasian Journal of American Studies		serial								P	
+ASEAN Economic Bulletin	0217-4472	1793-2831	1984	1	1	2012	29	3	http://www.jstor.org/journal/aseaeconbull		aseaeconbull		fulltext	Now: Journal of Southeast Asian Economies		serial								P	11410851X
+Acta Oeconomica	0001-6373		1966	1	1/2	2014			http://www.jstor.org/journal/actaoeco		actaoeco		fulltext	Moving Wall: 5 years		serial								P	
+Aegyptus	0001-9046		1920	1	1	2014			http://www.jstor.org/journal/aegy		aegy		fulltext	Moving Wall: 5 years		serial								P	
+Aequatoria	0304-257X		1937	1	1	1962	25	4	http://www.jstor.org/journal/aequatoria		aequatoria		fulltext	now: Annales Aequatoria		serial								P	
+Afers Internacionals	0212-1786		1982			1985		6	http://www.jstor.org/journal/aferinte		aferinte		fulltext	now: Revista CIDOB d'Afers Internacionals		serial								P	
+Africa: Rivista trimestrale di studi e documentazione dell’Istituto italiano per l’Africa e l’Oriente	0001-9747		1950	5	3/4	2009	64	3/4	http://www.jstor.org/journal/africa2		africa2		fulltext	Ceased: 2009		serial								P	
+African Conflict & Peacebuilding Review	2156-695X	2156-7263	2011	1	1	2016			http://www.jstor.org/journal/africonfpeacrevi		africonfpeacrevi		fulltext	Moving Wall: 3 Years		serial								P	192117254
+African Review of Money Finance and Banking	1124-3163		1987		1	2010			http://www.jstor.org/journal/afrirevmonfinban		afrirevmonfinban		fulltext	Ceased (2010)		serial								P	
+Afro-Hispanic Review	0278-8969	2327-9648	1982	1	1	2016			http://www.jstor.org/journal/afrohisprevi		afrohisprevi		fulltext	Moving Wall: 3 years		serial								P	169592669
+Aleph: Historical Studies in Science and Judaism	1565-1525	1553-3956	2001		1	2016			https://www.jstor.org/journal/aleph		aleph		fulltext	Moving Wall: 3 years		serial								P	131339125
+American Studies	0026-3079	2153-6856	1971	12	1	2016			http://www.jstor.org/journal/amerstudies		amerstudies		fulltext	Moving Wall: 3 years		serial								P	165470208
+American Studies International	0883-105X		1975	14	1	2004	42	2/3	http://www.jstor.org/journal/amerstudinter		amerstudinter		fulltext	Absorbed		serial								P	
+Amerikastudien / American Studies	0340-2827		1997	42	1	2016			http://www.jstor.org/journal/amerikastudien		amerikastudien		fulltext	Previously: Jahrbuch für Amerikastudien (1956-1973) Moving Wall: 3 years		serial								P	
+Angol Filológiai Tanulmányok / Hungarian Studies in English	0570-0973		1936	1		1990	21		http://www.jstor.org/journal/angofilotanuhung		angofilotanuhung		fulltext	Absorbed		serial								P	
+Annales Aequatoria	0254-4296		1980	1		2009	30		http://www.jstor.org/journal/annaaequ		annaaequ		fulltext	Ceased: 2009		serial								P	
+Annali di Economia	0391-4674		1924	1	1	1938	13	2	http://www.jstor.org/journal/anneconomia		anneconomia		fulltext	Merged with: Giornale degli Economisti e Rivista di Statistica to form Giornale degli Economisti e Annali di Economia		serial								P	
+Anthropologischer Anzeiger	0003-5548		1924	1	1	2014			http://www.jstor.org/journal/anthanze		anthanze		fulltext	Incorporates: Zeitschrift für Morphologie und Anthropologie (1899-2002) Moving Wall: 5 years		serial								P	
+Anthropology Design Series	2169-0588		1924		1	1931		5	http://www.jstor.org/journal/anthdesiseri		anthdesiseri		fulltext	Ceased: 1931		serial								P	
+Anthropology Leaflet	2167-6208		1924		15	1945		36	http://www.jstor.org/journal/anthroleaflet		anthroleaflet		fulltext	Absorbed		serial								P	
+Anthropology Now	1942-8200	1949-2901	2009	1	1	2014	6	3	http://www.jstor.org/journal/anthropologynow		anthropologynow		fulltext	Coverage presently ends: 2011. JSTOR will resume a moving wall of 7 years in 2019.		serial								P	136635679
+Anthropology, Memoirs	2169-0618		1923	1	1	1940	5	3	http://www.jstor.org/journal/anthmemo		anthmemo		fulltext	Ceased: 1940		serial								P	
+Análise Social	0003-2573	2182-2999	1963	1	1	2019			http://www.jstor.org/journal/analisesocial		analisesocial		fulltext	Content for this title is released as soon as the latest issues become available to JSTOR.		serial								P	143787314
+Appalachian Journal	0090-3779		1972	1	1	2016			http://www.jstor.org/journal/appalachianj		appalachianj		fulltext	Moving Wall: 3 years		serial								P	
+Archaeology & Physical Anthropology in Oceania	0003-8121		1966	1	1	1980	15		http://www.jstor.org/journal/archphyanthoce		archphyanthoce		fulltext	Now: Archaeology in Oceania		serial								P	
+Archaeology in Oceania	0728-4896	1834-4453	1981	16	1	2014			http://www.jstor.org/journal/archoceania		archoceania		fulltext	Previously: Archaeology & Physical Anthropology in Oceania (1966-1980) Moving Wall: 5 years		serial								P	18267780X
+Archaeology of Eastern North America	0360-1021		1973	1	1	2016			http://www.jstor.org/journal/archeastnortham		archeastnortham		fulltext	Moving Wall: 3 years		serial								P	
+Archiv für Keilschriftforschung	2194-7449		1923	1		1924	2		http://www.jstor.org/journal/archkeil		archkeil		fulltext	Absorbed		serial								P	
+Archiv für Orientforschung	0066-6440		1926	3		2014			http://www.jstor.org/journal/archorie		archorie		fulltext	No issues were published from 2007-2010. Bd. 52 (2011) will be released 2017. Moving Wall: 5 years		serial								P	
+Arctic	0004-0843	1923-1245	1948	1	1	2018			http://www.jstor.org/journal/arctic		arctic		fulltext	1 year		serial								P	153475323
+Atlantis (1979)	0210-6124		1979	1	1	2017			http://www.jstor.org/journal/atlantis		atlantis		fulltext	Moving Wall: 2 years		serial								P	
+Aula	0866-6865		1990	12	1	1992	14	4	http://www.jstor.org/journal/aula		aula		fulltext	now: Society and Economy. conintues: Társadalom és gazdaság Közép- és Kelet-Európában (1995-2001) previously: Egyetemi Szemle (1979-1986)		serial								P	
+Australasian Historical Archaeology	1322-9214		1992	10		2016			http://www.jstor.org/journal/austhistarch		austhistarch		fulltext	Previously: Australian Journal of Historical Archaeology (1983-1991) Moving Wall: 3 years		serial								P	
+Australasian Journal of American Studies	1838-9554		1983	2	1	2016			http://www.jstor.org/journal/austjamerstud		austjamerstud		fulltext	Previously: AJAS (1980-1982) Moving Wall: 3 years		serial								P	
+Australian Archaeology	0312-2417	2470-0363	1974		1	2013		77	http://www.jstor.org/journal/austarch		austarch		fulltext	Coverage presently ends: 2013. JSTOR will resume a moving wall of 7 years in 2021		serial								P	225257750
+Australian Journal of Historical Archaeology	0810-1868		1983	1		1991	9		http://www.jstor.org/journal/austjhistarchae		austjhistarchae		fulltext	now: Australasian Historical Archaeology		serial								P	
+B.B.A.A. Boletín Bibliográfico de Antropología Americana	0186-0658		1949	12	1	1972	35	2	http://www.jstor.org/journal/bbaabolbibantame		bbaabolbibantame		fulltext	Now: Boletín de Antropología Americana. Continues: Boletín Bibliográfico de Antropología Americana (1973-1979) Previously: Boletín Bibliográfico de Antropología Americana (1937-1948)		serial								P	
+Beiträge zur biblischen Landes- und Altertumskunde	2192-3132		1949	68	1	1951	68	3	http://www.jstor.org/journal/beitbibllandalte		beitbibllandalte		fulltext	Now: Zeitschrift des Deutschen Palästina-Vereins (1953-) Previously: Zeitschrift des Deutschen Palästina-Vereins (1878-1945)		serial								P	
+Bijdragen tot de Taal-, Land- en Volkenkunde / Journal of the Humanities and Social Sciences of Southeast Asia	0006-2294	2213-4379	1949	105	1	2019			http://www.jstor.org/journal/bijdtaallandvolk		bijdtaallandvolk		fulltext	Content for this title is released as soon as the latest issues become available to JSTOR. Previously: Bijdragen tot de Taal-, Land- en Volkenkunde van Nederlandsch-Indië (1852-1948)		serial								P	170776549
+Bijdragen tot de Taal-, Land- en Volkenkunde van Nederlandsch-Indië	1383-5408		1852	1	1	1948	104	4	http://www.jstor.org/journal/bijdtaallandvol2		bijdtaallandvol2		fulltext	Now: Bijdragen tot de Taal-, Land- en Volkenkunde		serial								P	
+Boletín Bibliográfico de Antropología Americana (1937-1948)	0186-064X		1937	1	1/2	1948	11		http://www.jstor.org/journal/bolebiblantramer		bolebiblantramer		fulltext	Now: Boletín de Antropología Americana. Continues: Boletín Bibliográfico de Antropología Americana (1973-1979), B.B.A.A. Boletín Bibliográfico de Antropología Americana (1949-1972)		serial								P	
+Boletín Bibliográfico de Antropología Americana (1973-1979)	2221-4348		1973	36	45	1979	41	50	http://www.jstor.org/journal/bolbibantame		bolbibantame		fulltext	Now: Boletín de Antropología Americana. Previously: B.B.A.A. Boletín Bibliográfico de Antropología Americana (1949-1972), Boletín Bibliográfico de Antropología Americana (1937-1948)		serial								P	
+Boletín Informativo Sobre Estudios Latinoamericanos en Europa	0168-9657		1965		1	1969		9	http://www.jstor.org/journal/boleinfosobrestu		boleinfosobrestu		fulltext	Absorbed		serial								P	
+Boletín de Antropología Americana	0252-841X		1980		2	2014			http://www.jstor.org/journal/boleantramer		boleantramer		fulltext	Previously: Boletín Bibliográfico de Antropología Americana (1973-1979), B.B.A.A. Boletín Bibliográfico de Antropología Americana (1949-1972), Boletín Bibliográfico de Antropología Americana (1937-1948) Moving Wall: 5 years		serial								P	
+Boletín de Estudios Latinoamericanos	0301-6676		1970		10	1973		15	http://www.jstor.org/journal/boleestulati		boleestulati		fulltext	Absorbed		serial								P	
+Boletín de Estudios Latinoamericanos y del Caribe	0304-2634		1974		16	1989		46	http://www.jstor.org/journal/boleestulaticari		boleestulaticari		fulltext	Absorbed		serial								P	
+Botswana Notes and Records	0525-5090		1968	1		2015			http://www.jstor.org/journal/botswananoterec		botswananoterec		fulltext	Moving Wall: 4 years		serial								P	
+Bulletin (Canadian Archaeological Association)	0315-761X		1969		1	1976		8	http://www.jstor.org/journal/bullcanaarchasso		bullcanaarchasso		fulltext	Absorbed		serial								P	
+Bulletin de l'Institut de Recherches Économiques	2033-642X		1937	9	1	1940	11	2	http://www.jstor.org/journal/bullinstrechecon		bullinstrechecon		fulltext	Absorbed		serial								P	
+Bulletin de l'Institut de Recherches Économiques et Sociales	1373-9719		1946	12	1	1960	26	8	http://www.jstor.org/journal/bulinsrececosoc		bulinsrececosoc		fulltext	Absorbed		serial								P	
+Bulletin de la Société préhistorique de France	0037-9514		1904	1	1	1963	60	11/12	http://www.jstor.org/journal/bulsocprefra1904		bulsocprefra1904		fulltext	Absorbed		serial								P	
+Bulletin de la Société préhistorique française	0249-7638		1978	75	1	2017			http://www.jstor.org/journal/bullsociprehfran		bullsociprehfran		fulltext	Moving Wall: 2 years		serial								P	
+Bulletin de la Société préhistorique française. Comptes rendus des séances mensuelles	0373-5451		1964	61	1	1977	74	9	http://www.jstor.org/journal/bulsocprefracomp		bulsocprefracomp		fulltext	Absorbed		serial								P	
+Bulletin de la Société préhistorique française. Études et travaux	0583-8789		1964	61	1	1977	74	2	http://www.jstor.org/journal/bulsocprefraetud		bulsocprefraetud		fulltext	Absorbed		serial								P	
+Bulletin de l’Institut des Sciences Économiques	2033-6411		1929	1	1	1937	8	4	http://www.jstor.org/journal/bullinstscieecon		bullinstscieecon		fulltext	Absorbed		serial								P	
+Business & Professional Ethics Journal	0277-2027		1981	1	1	2014			http://www.jstor.org/journal/busiprofeethijou		busiprofeethijou		fulltext	Moving Wall: 5 years		serial								P	
+Cahiers Vilfredo Pareto	0008-0497		1963	1	1	1971	9	25	http://www.jstor.org/journal/cahivilfpare		cahivilfpare		fulltext	Now: Revue européenne des sciences sociales		serial								P	
+Cahiers du monde hispanique et luso-brésilien	0008-0152		1966		6	1987		49	http://www.jstor.org/journal/cahmonhislusbre		cahmonhislusbre		fulltext	now: Caravelle (1988-) previously:Caravelle (1963-1965)		serial								P	
+Canadian Journal of Archaeology / Journal Canadien d’Archéologie	0705-2006		1977		1	2016			http://www.jstor.org/journal/canajarch		canajarch		fulltext	Moving Wall: 3 years		serial								P	
+Canadian Journal of Latin American and Caribbean Studies / Revue canadienne des études latino-américaines et caraïbes	0826-3663		1984	9	17				http://www.jstor.org/journal/canajlatiamercar		canajlatiamercar		fulltext	Previously: NS, Northsouth (1976-1983) Moving Wall: 7 years		serial								P	
+Canadian Slavonic Papers / Revue Canadienne des Slavistes	0008-5006	2375-2475	1956	1		2011	53	2/4	http://www.jstor.org/journal/canaslavpape		canaslavpape		fulltext	Coverage presently ends: 2011. JSTOR will resume a moving wall of 7 years in 2019		serial								P	182180611
+Caravelle (1963-1965)	0184-7694		1963		1	1965		5	http://www.jstor.org/journal/caravelle1963		caravelle1963		fulltext	now: Caravelle (1988-) continues: Cahiers du monde hispanique et luso-brésilien (1966-1987)		serial								P	
+Caravelle (1988-)	1147-6753		1988		50	2016			http://www.jstor.org/journal/caravelle		caravelle		fulltext	Previously:Caravelle (1963-1965), Cahiers du monde hispanique et luso-brésilien (1966-1987) Moving Wall: 3 years		serial								P	
+Challenge	0577-5132	1558-1489	1952	1	1	2012			https://www.jstor.org/journal/challenge		challenge		fulltext	Previously: Popular Economics (1950-1952) Moving Wall: 7 years		serial								P	10487127X
+Chicana/Latina Studies	1550-2546		2004	4	1	2014			http://www.jstor.org/journal/chiclatistud		chiclatistud		fulltext	Previously: Voces: A Journal of Chicana/Latina Studies (1997-2001). Moving Wall: 5 years		serial								P	
+Christoffel	0529-4843	2214-6849	1955	1	2	1958	2	8	http://www.jstor.org/journal/christoffel		christoffel		fulltext	Merged: Vox Guyanae (1954-1959) and De West-Indische Gids (1919-1959) to form Nieuwe West-Indische Gids / New West Indian Guide (1960-1991)		serial								P	
+Chungara: Revista de Antropología Chilena	0716-1182		1972		1/2	2016			http://www.jstor.org/journal/chungara		chungara		fulltext	Moving Wall: 3 years		serial								P	
+Cina	0529-7451		1956		1	2002		30	http://www.jstor.org/journal/cina		cina		fulltext	Ceased: 2002		serial								P	
+Civilisations	0009-8140	2032-0442	1951	1	1	2016			http://www.jstor.org/journal/civi		civi		fulltext	Moving Wall: 3 years		serial								P	135958814
+Confluencia	0888-6091		1985	1	1	2016			http://www.jstor.org/journal/confluencia		confluencia		fulltext	Moving Wall: 3 years		serial								P	
+Contemporary Marxism	0193-8703		1980		1	1986		14	http://www.jstor.org/journal/contmarx		contmarx		fulltext	Absorbed		serial								P	
+Contemporary Southeast Asia: A Journal of International and Strategic Affairs	0129-797X	1793-284X	1979	1	1	2016			http://www.jstor.org/journal/contsoutasia		contsoutasia		fulltext	Moving Wall: 3 years		serial								P	121318044
+Crime and Social Justice	0094-7571		1974		1	1987		30	http://www.jstor.org/journal/crimsocijust		crimsocijust		fulltext	now: Social Justice		serial								P	
+Crossroads: An Interdisciplinary Journal of Southeast Asian Studies	0741-2037		1983	1	1	2008	19	2	http://www.jstor.org/journal/crossroads		crossroads		fulltext	Ceased: 2008		serial								P	
+Current Research on Peace and Violence	0356-7893		1978	1	1	1990	13	4	http://www.jstor.org/journal/currespeacevio		currespeacevio		fulltext	Ceased: 1990		serial								P	
+DCIDOB	1132-6107		1988		25	2009		111	http://www.jstor.org/journal/dcidob		dcidob		fulltext	Ceased: 2010		serial								P	
+De West-Indische Gids	0372-7289	2214-8981	1919	1		1959	39		http://www.jstor.org/journal/westindigids		westindigids		fulltext	Now: New West Indian Guide / Nieuwe West-Indische Gids , Continues: Nieuwe West-Indische Gids / New West Indian Guide (1960-1991)		serial								P	17150447X
+Demografía y economía	0185-0148		1967	1	1	1984	18	4	https://www.jstor.org/journal/demoecon		demoecon		fulltext	splits into: Estudios Económicos(ISSN:0186-7202) and Estudios Demográficos y Urbanos (ISSN:0186-7210)		serial								P	
+Dialectical Anthropology	0304-4092	1573-0786	1975	1	1	2016			http://www.jstor.org/journal/dialanth		dialanth		fulltext	Moving Wall: 3 years		serial								P	111216583
+Die Welt des Orients	0043-2547		1947	1	1	2018			http://www.jstor.org/journal/weltorients		weltorients		fulltext	Moving Wall: 1 year		serial								P	
+Dossier-CIDOB	1132-6093		1983			1988		24	http://www.jstor.org/journal/dossiercidob		dossiercidob		fulltext	Absorbed		serial								P	
+Décisions Marketing	0779-7389		1993			2016			http://www.jstor.org/journal/decimark		decimark		fulltext	Moving Wall: 3 years		serial								P	
+East and West	0012-8376		1950	1	1	2009	59	1/4	http://www.jstor.org/journal/eastwest		eastwest		fulltext	Ceased: 2009		serial								P	
+Eastern Economic Journal	0094-5056	1939-4632	1974	1	1	2014			http://www.jstor.org/journal/easteconj		easteconj		fulltext	Moving wall: 5 years		serial								P	118354205
+Economic Digest	0422-3012		1960	3	1	1960	3	4	https://www.jstor.org/journal/economicdigest		economicdigest		fulltext	now: The Pakistan Development Review (ISSN:0030-9729)		serial								P	
+Egyetemi Szemle	0139-4045		1979	1	1	1986	8	4	https://www.jstor.org/journal/egyeszem		egyeszem		fulltext	now: Society and Economy. continues: Aula (1990-1992)(ISSN: 0866-6865),Társadalom és gazdaság Közép- és Kelet-Európában (1995-2001) (ISSN:1218-9383)		serial								P	
+El Trimestre Económico	0041-3011		1934	1	1	2014			http://www.jstor.org/journal/trimecon		trimecon		fulltext	Moving Wall: 5 years		serial								P	
+Erdkunde	0014-0015		1947	1	1/3	2018			http://www.jstor.org/journal/erdkunde		erdkunde		fulltext	Moving Wall: 1 year		serial								P	
+Estudios Atacameños	0716-0925		1973		1	2019			http://www.jstor.org/journal/estuatac		estuatac		fulltext	Content for this title is released as soon as the latest issues become available to JSTOR.		serial								P	
+Estudios Demográficos y Urbanos	0186-7210		1986	1	1 (1)	2019			https://www.jstor.org/journal/estudemourba		estudemourba		fulltext	Content for this title is released as soon as the latest issues become available to JSTOR.		serial								P	
+Estudios Económicos	0186-7202		1986	1	1 (1)	2019			https://www.jstor.org/journal/estuecon		estuecon		fulltext	Content for this title is released as soon as the latest issues become available to JSTOR		serial								P	
+Estudios Internacionales	0716-0240		1967	1	1	2016			http://www.jstor.org/journal/estuinte		estuinte		fulltext	Moving Wall: 3 years		serial								P	
+Estudios Orientales	0185-0156		1966	1	1 (1)	1974	9	3 (26)	http://www.jstor.org/journal/estuorie		estuorie		fulltext	Absorbed		serial								P	
+Estudios Sociológicos	0185-4186		1983	1	1	2019			http://www.jstor.org/journal/estusoci		estusoci		fulltext	Content for this title is released as soon as the latest issues become available to JSTOR.		serial								P	
+Estudios de Asia y Africa	0185-0164		1975	10	1 (27)	2019			http://www.jstor.org/journal/estuasiaafri		estuasiaafri		fulltext	Content for this title is released as soon as the latest issues become available to JSTOR.		serial								P	
+Ethics & the Environment	1085-6633	1535-5306	1996	1	1	2016			http://www.jstor.org/journal/ethicsenviro		ethicsenviro		fulltext	Moving Wall: 3 years		serial								P	058848568
+Etnofoor	0921-5158		1988	1	1	2019			http://www.jstor.org/journal/etnofoor		etnofoor		fulltext	Content for this title is released as soon as the latest issues become available to JSTOR.		serial								P	
+European Review of Latin American and Caribbean Studies / Revista Europea de Estudios Latinoamericanos y del Caribe	0924-0608	1879-4750	1989		47	2019			http://www.jstor.org/journal/revieuroestulati		revieuroestulati		fulltext	Content for this title is released as soon as the latest issues become available to JSTOR.		serial								P	156161265
+Fieldiana Anthropology	0071-4739	2162-4321	1945	36	1	2017		46	http://www.jstor.org/journal/fieldianaanthro		fieldianaanthro		fulltext	Ceased (2017)		serial								P	17008244X
+Finafrica Bulletin	0393-456X		1974	1	1	1976	3	4	https://www.jstor.org/journal/finabull		finabull		fulltext	now: Savings and Development		serial								P	
+FinanzArchiv / Public Finance Analysis	0015-2218		1884	1	1	2014			http://www.jstor.org/journal/finaarch		finaarch		fulltext	Moving Wall: 5 years		serial								P	
+Fire!!!		2156-4078	2012	1	1	2016			http://www.jstor.org/journal/fire		fire		fulltext	Moving Wall: 3 years		serial								P	169699846
+Genus	0016-6987	2035-5556	1934	1	1/2	2016			http://www.jstor.org/journal/genus		genus		fulltext	Moving Wall:3 years		serial								P	133943151
+GeoJournal	0343-2521	1572-9893	1977	1	1	2016			http://www.jstor.org/journal/geojournal		geojournal		fulltext	Moving Wall: 3 years		serial								P	111216532
+Geographische Zeitschrift	0016-7479		1895	1	1	2015			http://www.jstor.org/journal/geogzeit		geogzeit		fulltext	Moving Wall: 4 years		serial								P	
+Geography	0016-7487	2043-6564	1927	14	1	2016			http://www.jstor.org/journal/geography		geography		fulltext	Moving Wall: 3 years		serial								P	144189917
+Giornale degli Economisti	1125-2855		1875	1	1	1909	39 (Anno 20)	5/6	https://www.jstor.org/journal/geconomisti		geconomisti		fulltext	Continued by Giornale degli economisti e rivista di statistica, ( ISSN:1125-2863)		serial								P	
+Giornale degli Economisti e Annali di Economia	0017-0097		1939	1	1/2	2012	71	2/3	https://www.jstor.org/journal/gioecoanneco		gioecoanneco		fulltext	Ceased ( 2012)		serial								P	
+Giornale degli Economisti e Rivista di Statistica	1125-2863		1910	40 (Anno 21)	1	1938	78 (Anno 53)	11/12	https://www.jstor.org/journal/geconrivistat		geconrivistat		fulltext	Continues Giornale degli economisti,(ISSN: 1125-2855). Merged with: Annali di economia, (ISSN:0391-4674) and Giornale degli economisti e annali di economia, (ISSN: 0017-0097)		serial								P	
+Glasgow Archaeological Journal	0305-8980	2053-7824	1969	1		1991	17		http://www.jstor.org/journal/glasarchj		glasarchj		fulltext	Now: Scottish Archaeological Journal The content for 1975-1987 and 1993-1999 will be released as soon as the issues become available to JSTOR.		serial								P	174286163
+Guaraguao	1137-2354		1996	1	1	2016			http://www.jstor.org/journal/guaraguao		guaraguao		fulltext	Moving Wall: 3 years		serial								P	
+Guide (Field Museum of Natural History)	2169-0642		1923		1	1933		2	http://www.jstor.org/journal/guidfielmusnathi		guidfielmusnathi		fulltext	Ceased: 1933		serial								P	
+Harvard Ukrainian Studies	0363-5570		1977	1	1	2018			http://www.jstor.org/journal/harvukrastud		harvukrastud		fulltext	Moving Wall: 1 year		serial								P	
+Health Transition Review	1036-4005		1991	1	1	1997	7		http://www.jstor.org/journal/healtranrev		healtranrev		fulltext	Ceased: 1997		serial								P	
+Historia y Fuente Oral	0214-7610		1989		1	1995		14	http://www.jstor.org/journal/histfuenoral		histfuenoral		fulltext	Absorbed		serial								P	
+Historia, Antropología y Fuentes Orales	1136-1700		1996		15	2016			http://www.jstor.org/journal/histantrfuenoral		histantrfuenoral		fulltext	Moving Wall: 3 years		serial								P	
+Hungarian Journal of English and American Studies (HJEAS)	1218-7364		1995	1	1	2015			http://www.jstor.org/journal/hungjengamerstud		hungjengamerstud		fulltext	Previously: Hungarian Studies in English (1991-1992) Moving Wall: 4 years		serial								P	
+Hungarian Studies in English	1217-0283		1991	22		1992	23		http://www.jstor.org/journal/hungstudengl		hungstudengl		fulltext	Now: Hungarian Journal of English and American Studies (HJEAS)		serial								P	
+Il Giappone	0390-6647		1961		1	2006	46		http://www.jstor.org/journal/ilgiappone		ilgiappone		fulltext	Ceased: 2007		serial								P	
+India International Centre Quarterly	0376-9771		1974	1	1	2016			http://www.jstor.org/journal/indiaintecentq		indiaintecentq		fulltext	Moving Wall: 3 years		serial								P	
+Indian Anthropologist	0970-0927		1971	1	1	2018			http://www.jstor.org/journal/indianth		indianth		fulltext	Moving Wall: 1 year		serial								P	
+Indian Economic Review	0019-4670	2520-1778	1954	2	1	2016	51	1/2	http://www.jstor.org/journal/indeconrev		indeconrev		fulltext	Coverage presently ends: 2016. JSTOR will resume a moving wall of 3 years in 2020.		serial								P	221675299
+Indian Journal of Industrial Relations	0019-5286		1965	1	1	2016			http://www.jstor.org/journal/indijindurela		indijindurela		fulltext	Moving Wall: 3 years		serial								P	
+Instant Research on Peace and Violence	0046-967X		1971	1	1	1977	7	3/4	http://www.jstor.org/journal/insrespeacevio		insrespeacevio		fulltext	Absorbed		serial								P	
+International Journal of Ethiopian Studies	1543-4133		2003	1	1	2016			http://www.jstor.org/journal/intejethistud		intejethistud		fulltext	No issues were published in 2011. Moving Wall: 3 years		serial								P	
+International Journal of Historical Archaeology	1092-7697	1573-7748	1997	1	1	2016			http://www.jstor.org/journal/intjhistarch		intjhistarch		fulltext	Moving Wall: 3 years		serial								P	112672906
+International Journal of Political Economy	0891-1916	1558-0970	1987	17	1	2012			https://www.jstor.org/journal/intejpoliecon		intejpoliecon		fulltext	Moving Wall: 7 years		serial								P	11625503X
+International Journal of Politics	0012-8783		1971	1	1	1986	16	4	https://www.jstor.org/journal/intejpoli		intejpoli		fulltext	now: International Journal of Political Economy		serial								P	
+International Journal of Sociology	0020-7659	1557-9336	1971	1	1	2012			http://www.jstor.org/journal/intejsoci		intejsoci		fulltext	Coverage presently ends: 2008. JSTOR will resume a moving wall of 7 years in 2016.		serial								P	104870907
+International Journal on World Peace	0742-3640		1984	1	1	2015			http://www.jstor.org/journal/intejworlpeac		intejworlpeac		fulltext	Moving Wall: 4 years		serial								P	
+Investigación Económica	0185-1667		1941	1	1	2019			https://www.jstor.org/journal/inveecon		inveecon		fulltext	Content for this title is released as soon as the latest issues become available to JSTOR.		serial								P	
+Islamic Africa	2333-262X	2154-0993	2010	1	1	2014	5	2	http://www.jstor.org/journal/islamicafrica		islamicafrica		fulltext	Coverage presently ends: 2014. JSTOR will resume a moving wall of 5 years in 2020.		serial								P	157753107
+Islamic Studies	0578-8072		1962	1	1	2017			http://www.jstor.org/journal/islamicstudies		islamicstudies		fulltext	Moving Wall: 2 years		serial								P	
+Israel Exploration Journal	0021-2059		1950	1	1	2016			http://www.jstor.org/journal/israexplj		israexplj		fulltext	Moving Wall: 3 years		serial								P	
+Israel Studies	1084-9513	1527-201X	1996	1	1	2016			http://www.jstor.org/journal/israelstudies		israelstudies		fulltext	Moving Wall: 3 years		serial								P	045015368
+Issues in Criminology	0021-2385	2376-2721	1965	1	1	1975	10	1	http://www.jstor.org/journal/issueincrim		issueincrim		fulltext			serial								P	183043839
+Jahrbuch für Amerikastudien	0075-2533		1956	1		1973	18		http://www.jstor.org/journal/jahramer		jahramer		fulltext	Now: Amerikastudien / American Studies		serial								P	
+Jahrbuch für Kommunikationsgeschichte	1438-4485		1999	1		2015			http://www.jstor.org/journal/jahrfurkomm		jahrfurkomm		fulltext	4 years		serial								P	
+Japan Review	0915-0986		1990		1	2019			http://www.jstor.org/journal/nichjaparevi		nichjaparevi		fulltext	Content for this title is released as soon as the latest issues become available to JSTOR.		serial								P	
+Journal of Agricultural and Resource Economics	1068-5502		1992	17	1	2016			http://www.jstor.org/journal/jagriresoecon		jagriresoecon		fulltext	Previously: Western Journal of Agricultural Economics (1977-1991) Proceedings, Annual Meeting (Western Agricultural Economics Association) (1969-1975, Proceedings of the Annual Meeting (Western Farm Economics Association) (1940-1967) Moving Wall: 3 years		serial								P	
+Journal of Archaeological Research	1059-0161	1573-7756	1993	1	1	2016			http://www.jstor.org/journal/jarchrese		jarchrese		fulltext	Moving Wall: 3 years		serial								P	112880894
+Journal of California and Great Basin Anthropology	0191-3557		1979	1	1	2014			http://www.jstor.org/journal/jcalgrebasant		jcalgrebasant		fulltext	Previously: The Journal of California Anthropology (1974-1978) Moving Wall: 5 years		serial								P	
+Journal of Economic Growth	1381-4338	1573-7020	1996	1	1	2016			http://www.jstor.org/journal/jecongrowth		jecongrowth		fulltext	Moving Wall: 3 years		serial								P	113336705
+Journal of Economic Integration	1225-651X		1992	7	2	2019			https://www.jstor.org/journal/jeconinte		jeconinte		fulltext	Content for this title is released as soon as the latest issues become available to JSTOR.		serial								P	
+Journal of Ethiopian Studies	0304-2243		1963	1	1	2017			http://www.jstor.org/journal/jethistud		jethistud		fulltext	Previously: University College Review (1961) Moving Wall: 2 years		serial								P	
+Journal of Human Capital	1932-8575	1932-8664	2007	1	1	2015	9	3	http://www.jstor.org/journal/jhumancapital		jhumancapital		fulltext	Coverage presently ends: 2015. JSTOR will resume a moving wall of 5 years in 2021.		serial								P	123878713
+Journal of Institutional and Theoretical Economics (JITE) / Zeitschrift für die gesamte Staatswissenschaft	0932-4569		1986	142	1	2014			http://www.jstor.org/journal/jinsttheoecon		jinsttheoecon		fulltext	Moving Wall: 5 years		serial								P	
+Journal of International Economic Integration	1015-356X		1986	1	1	1992	7	1	https://www.jstor.org/journal/jinteconinte		jinteconinte		fulltext	Continued by: Journal of economic integration (Seoul. Print), (ISSN:1225-651X)		serial								P	
+Journal of Latin American Geography	1545-2476	1548-5811	2002	1	1	2016			http://www.jstor.org/journal/jlatamergeo		jlatamergeo		fulltext	Moving Wall: 3 years		serial								P	112783570
+Journal of Museum Ethnography	0954-7169		1989		1	2016			http://www.jstor.org/journal/jmuseumethnog		jmuseumethnog		fulltext	Moving Wall: 3 years		serial								P	
+Journal of Omicron Chi Epsilon	2153-4519		1957	2	1	1959	3	1	https://www.jstor.org/journal/jomicchiepsi		jomicchiepsi		fulltext	now: The American Economist		serial								P	
+Journal of Population Research	1443-2447	1835-9469	2000	17	1	2016			http://www.jstor.org/journal/jpopurese		jpopurese		fulltext	Moving Wall: 3 years		serial								P	187119619
+Journal of Public Administration Education	1087-7789		1995	1	1	1997	3	3	http://www.jstor.org/journal/jpubadmineduc		jpubadmineduc		fulltext	Absorbed		serial								P	
+Journal of Public Affairs Education	1523-6803	2328-9643	1998	4	1	2018			http://www.jstor.org/journal/jpubaffeduc		jpubaffeduc		fulltext	Moving Wall: 1 year		serial								P	170090736
+Journal of Southeast Asian Economies	2339-5095	2339-5206	2013	30	1	2019			https://www.jstor.org/journal/jsouthasiaeconom		jsouthasiaeconom		fulltext	Previously: ASEAN Economic Bulletin (2003-2012).		serial								P	178974447
+Journal of Vietnamese Studies	1559-372X	1559-3738	2006	1	1-2	2016			http://www.jstor.org/journal/jvietstud		jvietstud		fulltext	Moving Wall: 3 years		serial								P	149139187
+Journal of World Prehistory	0892-7537	1573-7802	1987	1	1	2016			http://www.jstor.org/journal/jworlprehist		jworlprehist		fulltext	Moving Wall: 3 years		serial								P	113970218
+Journal of the Australian Population Association	0814-5725		1984	1	1	1999	16	1/2	http://www.jstor.org/journal/jpopres		jpopres		fulltext	Absorbed		serial								P	
+Journal of the Central Mississippi Valley American Studies Association	2156-4876		1960	1	1	1961	2	2	http://www.jstor.org/journal/jcentmissvall		jcentmissvall		fulltext	Absorbed		serial								P	
+Journal of the Historical Society of Nigeria	0018-2540		1956	1	1	2017			http://www.jstor.org/journal/jhistsocnige		jhistsocnige		fulltext	Moving Wall: 2 Years		serial								P	
+Kiva, The Journal of Southwestern Anthropology and History	0023-1940	2051-6177	1935	1	1	2012			http://www.jstor.org/journal/kiva		kiva		fulltext	Moving wall: 7 years		serial								P	170347214
+Kronos	0259-0190		1979	1		2018			http://www.jstor.org/journal/kronos		kronos		fulltext	Moving Wall: 1 year		serial								P	
+Kunst des Orients	0023-5393		1950	1		1978	12	1/2	http://www.jstor.org/journal/kunstdesorients		kunstdesorients		fulltext	Ceased: 1979		serial								P	
+Leaflet	2167-6194		1922		1	1924		14	http://www.jstor.org/journal/leaflet		leaflet		fulltext	Absorbed		serial								P	
+Lithic Technology	0197-7261	2051-6185	1977	6	1-2	2012			http://www.jstor.org/journal/lithtech		lithtech		fulltext	Moving wall: 7 years Previously: Newsletter of Lithic Technology (1972-1976)		serial								P	170347222
+MELA Notes	0364-2410		1973		1	2019			http://www.jstor.org/journal/melanotes		melanotes		fulltext	Content for this title is released as soon as the latest issues become available to JSTOR.		serial								P	
+Material Culture	0883-3680		1984	16	1	2016			http://www.jstor.org/journal/materialculture		materialculture		fulltext	Moving Wall: 3 years Previously: Pioneer America (1969-1983)		serial								P	
+Midcontinent American Studies Journal	0544-0335		1962	3	1	1970	11	2	http://www.jstor.org/journal/midamerstudj		midamerstudj		fulltext	Absorbed		serial								P	
+Midcontinental Journal of Archaeology	0146-1109	2327-4271	1976	1	1	2012			http://www.jstor.org/journal/midcontjarch		midcontjarch		fulltext	Moving wall: 7 years		serial								P	169436357
+Middle East Studies Association Bulletin	0026-3184	2329-3233	1967	1	1	2008	42	1/2	http://www.jstor.org/journal/middeaststudasbu		middeaststudasbu		fulltext	Absorbed		serial								P	170357678
+Monumenta Serica	0254-9948	2057-1690	1935	1	1	2012			http://www.jstor.org/journal/monumentaserica		monumentaserica		fulltext	Moving wall: 7 years		serial								P	188859195
+Morphologische Arbeiten	0259-7810		1891	1	1	1898	8	2	http://www.jstor.org/journal/morparbe		morparbe		fulltext	Now: Anthropologischer Anzeiger		serial								P	
+NS, Northsouth	0384-1367		1976	1		1983	8	16	http://www.jstor.org/journal/nsnorthsouth		nsnorthsouth		fulltext	Now: Canadian Journal of Latin American and Caribbean Studies / Revue canadienne des études latino-américaines et caraïbes		serial								P	
+Nashim: A Journal of Jewish Women's Studies & Gender Issues	0793-8934	1565-5288	1998		1	2016			https://www.jstor.org/journal/nashim		nashim		fulltext	Moving Wall:3 years		serial								P	156302713
+New Labor Forum	1095-7960	1557-2978	1997		1	2016			http://www.jstor.org/journal/newlaborforum		newlaborforum		fulltext	Moving Wall:3 years		serial								P	111805236
+New West Indian Guide / Nieuwe West-Indische Gids	1382-2373	2213-4360	1992	66		2014			http://www.jstor.org/journal/nwignewwesindgui		nwignewwesindgui		fulltext	Previously: De West-Indische Gids (1919-1959) Nieuwe West-Indische Gids / New West Indian Guide (1960-1991) Moving Wall: 5 years		serial								P	153780193
+New Zealand Slavonic Journal	0028-8683		1974		1	2016			http://www.jstor.org/journal/newzealslavjour		newzealslavjour		fulltext	Moving Wall: 3 years		serial								P	
+Newsletter (Museum Ethnographers Group)	0260-0366		1976		1	1988		22	http://www.jstor.org/journal/newsmuseumethn		newsmuseumethn		fulltext	Absorbed		serial								P	
+Newsletter of Lithic Technology	2473-1285	2475-2118	1972	1	1	1976	5	3	http://www.jstor.org/journal/newslithtech		newslithtech		fulltext	Now: Lithic Technology		serial								P	198125992
+Nieuwe West-Indische Gids / New West Indian Guide	0028-9930	2214-7721	1960	40		1991	65		http://www.jstor.org/journal/nieuwestindigids		nieuwestindigids		fulltext	Now: New West Indian Guide / Nieuwe West-Indische Gids , Previously: De West-Indische Gids (1919-1959)		serial								P	171059093
+Oceania	0029-8077	1834-4461	1930	1	1	2014			http://www.jstor.org/journal/oceania		oceania		fulltext	Moving Wall: 5 years		serial								P	
+Oriente Moderno	0030-5472	2213-8617	1922	2	2	2016			http://www.jstor.org/journal/orientemoderno		orientemoderno		fulltext	Moving Wall: 3 years		serial								P	182011313
+Paideuma: Mitteilungen zur Kulturkunde	0078-7809		1938	1	1	2016			http://www.jstor.org/journal/paideuma		paideuma		fulltext	Moving Wall: 3 years		serial								P	
+Pakistan Economic and Social Review	1011-002X		1971	9	1/2	2016			http://www.jstor.org/journal/pakieconsocirevi		pakieconsocirevi		fulltext	Moving Wall:3 years		serial								P	
+Paléorient	0153-9345	1957-701X	1973	1	1	2017			http://www.jstor.org/journal/paleorient		paleorient		fulltext	Moving Wall:2 years		serial								P	115435123
+Pioneer America	0032-0005		1969	1	1	1983	15	3	http://www.jstor.org/journal/pioneeramerica		pioneeramerica		fulltext	Now: Material Culture		serial								P	
+Plains Anthropologist	0032-0447	2052-546X	1954		1	2012			http://www.jstor.org/journal/plainanthro		plainanthro		fulltext	reviously: Plains Archeological Conference News Letter (1947-1953) Moving Wall: 7 years		serial								P	180270060
+Plains Archeological Conference News Letter	2156-1249		1947	1	1	1953	6	1	http://www.jstor.org/journal/plaiarchconfnews		plaiarchconfnews		fulltext	Now: Plains Anthropologist		serial								P	
+Political Analysis	1047-1987	1476-4989	1989	1		2016			http://www.jstor.org/journal/polianalysis		polianalysis		fulltext	Previously: Political Methodology (1974-1985) Moving Wall: 3 years		serial								P	090129121
+Political Methodology	0162-2021		1974	1	1	1985	11	3/4	http://www.jstor.org/journal/polimethod		polimethod		fulltext	Now: Political Analysis		serial								P	
+Popular Economics	0551-5084	2573-0606	1950	1	1	1952	2	10	https://www.jstor.org/journal/populareconomics		populareconomics		fulltext	Now: Challenge magazine (ISSN: 0577-5132)		serial								P	201462117
+Popular Series. Anthropology	2167-6216		1948		37	1959		38	http://www.jstor.org/journal/popuserianth		popuserianth		fulltext	Ceased: 1959		serial								P	
+Population Research and Policy Review	0167-5923	1573-7829	1982	1	1	2016			http://www.jstor.org/journal/poprespolrev		poprespolrev		fulltext	Moving Wall: 3 years		serial								P	114652864
+Proceedings of the Annual Meeting (Western Farm Economics Association)	2475-4013		1935	8		1967	40		https://www.jstor.org/journal/procannumeetwest		procannumeetwest		fulltext	Now: Journal of Agricultural and Resource Economics. Continues: Western Journal of Agricultural Economics (1977-1991), Proceedings, Annual Meeting (Western Agricultural Economics Association) (1969-1975)		serial								P	
+Proceedings of the Conference of Latin Americanist Geographers	2160-2662		1981	8		1983	9		http://www.jstor.org/journal/procclag		procclag		fulltext	Absorbed		serial								P	
+Proceedings of the Seminar for Arabian Studies	0308-8421		1971	1		2016			http://www.jstor.org/journal/procsemiarabstud		procsemiarabstud		fulltext	Moving Wall: 3 years		serial								P	
+Proceedings, Annual Meeting (Western Agricultural Economics Association)	0090-1296		1969	42		1975	48		https://www.jstor.org/journal/procannumeet		procannumeet		fulltext	Now: Journal of Agricultural and Resource Economics. Continues: Western Journal of Agricultural Economics (1977-1991). Previously: Proceedings of the Annual Meeting (Western Farm Economics Association) (1940-1967)		serial								P	
+Public Administration Quarterly	0734-9149		1983	7	1	2017			http://www.jstor.org/journal/publadmiquar		publadmiquar		fulltext	Moving Wall:2 years		serial								P	
+Public Affairs Quarterly	0887-0373		1987	1	1	2016			http://www.jstor.org/journal/publaffaq		publaffaq		fulltext	Moving Wall: 3 years		serial								P	
+Publication Series (Conference of Latin Americanist Geographers)	2160-2654		1971	1		1980	7b		http://www.jstor.org/journal/pubseriesclag		pubseriesclag		fulltext	Absorbed		serial								P	
+Publications of the Field Columbian Museum. Anthropological Series	0894-8372		1895	1	1	1922	6	5	http://www.jstor.org/journal/pubfcmanthroser		pubfcmanthroser		fulltext	Absorbed		serial								P	
+Publications of the Field Museum of Natural History. Anthropological Series	0894-8380		1912	10		1951	24	2	http://www.jstor.org/journal/pubfmnhanthroser		pubfmnhanthroser		fulltext	Absorbed		serial								P	
+Quaderni di Studi Arabi	1121-2306	2667-016X	1983	1		2016			http://www.jstor.org/journal/quadstudarab		quadstudarab		fulltext	No issues were published in 2011. Moving Wall: 3 years		serial								P	253698634
+Race/Ethnicity: Multidisciplinary Global Contexts	1935-8644	1935-8652	2007	1	1	2011	5	1	http://www.jstor.org/journal/racethmulglocon		racethmulglocon		fulltext	Publication of this title ceased in 2011.		serial								P	147870453
+Rassegna di Agricoltura, Industria e Commercio	1125-2847		1874	2	1	1874	3	8	https://www.jstor.org/journal/rassagriinducomm		rassagriinducomm		fulltext	Continued by Giornale degli economisti (ISSN:1125-2855)1875-1909		serial								P	
+Rassegna di Studi Etiopici	0390-0096		1941	1	1	2016			http://www.jstor.org/journal/rassstudetio		rassstudetio		fulltext	No vols between 2004-2010. Moving Wall: 3 years		serial								P	
+Recherche et Applications en Marketing	0767-3701	2051-2821	1986	1	1	2016			http://www.jstor.org/journal/rechapplmark		rechapplmark		fulltext	Moving Wall: 3 years		serial								P	118579614
+Recherches Économiques de Louvain / Louvain Economic Review	0770-4518	1782-1495	1961	27	1	2014			http://www.jstor.org/journal/recheconlouv		recheconlouv		fulltext	Moving Wall:5 Years		serial								P	097588962
+Review (Fernand Braudel Center)	0147-9032		1977	1	1	2019			https://www.jstor.org/journal/revifernbraucent		revifernbraucent		fulltext	Content for this title is released as soon as the latest issues become available to JSTOR.		serial								P	
+Review of Middle East Studies	2151-3481	2329-3225	2009	43	1	2018			http://www.jstor.org/journal/revimiddeaststud		revimiddeaststud		fulltext	Moving Wall: 1 year		serial								P	17035766X
+Review of Social Economy	0034-6764	1470-1162	1942	1	1	2012			https://www.jstor.org/journal/revisociecon		revisociecon		fulltext	Moving wall: 7 years		serial								P	109998596
+Review of World Economics / Weltwirtschaftliches Archiv	1610-2878	1610-2886	2003	139	1	2016			http://www.jstor.org/journal/reviworleconwelt		reviworleconwelt		fulltext	Moving Wall:3 Years		serial								P	116242841
+Revista CIDOB d'Afers Internacionals	1133-6595		1992		23/24	2018			http://www.jstor.org/journal/revcidafeint		revcidafeint		fulltext	Moving Wall:1 year The content for Nos. 7-22 (1985-1991) will be released as soon as the issues become available to JSTOR. Previously: Afers Internacionals (1982-1985)		serial								P	
+Revista Geográfica	0031-0581		1941	1	1	2014			http://www.jstor.org/journal/revigeog		revigeog		fulltext	Moving Wall: 5 years		serial								P	
+Revista de Antropologia	0034-7701	1678-9857	1953	1	1	2016			http://www.jstor.org/journal/reviantr		reviantr		fulltext	Moving Wall: 3 years		serial								P	116268492
+Revista de Arqueología Americana	0188-3631		1990		1	2014			http://www.jstor.org/journal/reviarquamer		reviarquamer		fulltext	Moving Wall: 5 years		serial								P	
+Revue européenne des sciences sociales	0048-8046	1663-4446	1972	10	26	2016			http://www.jstor.org/journal/revueurosciesoci		revueurosciesoci		fulltext	Previously: Cahiers Vilfredo Pareto (1963-1971) Moving Wall:3 years		serial								P	13797194X
+Revue française d'études américaines	0397-7870	1776-3061	1976		1	2012			http://www.jstor.org/journal/revufranetudamer		revufranetudamer		fulltext	Moving Wall: 7 years		serial								P	098932713
+Savings and Development	0393-4551		1977	1	1	2016			http://www.jstor.org/journal/savideve		savideve		fulltext	previously: Finafrica Bulletin (1974-1976) Moving Wall:3 Years		serial								P	
+Science & Society	0036-8237	1943-2801	1936	1	1	2014			http://www.jstor.org/journal/scieandsoci		scieandsoci		fulltext	Moving Wall:5 years		serial								P	128401966
+Scottish Archaeological Journal	1471-5767	1755-2028	2000	22	1	2014			http://www.jstor.org/journal/scotarchj		scotarchj		fulltext	Previously: Glasgow Archaeological Journal (1969-1991), Transactions of the Glasgow Archaeological Society (1870-1967) Moving Wall: 5 years		serial								P	125027052
+Social Justice	1043-1578		1988	15	1 (31)	2017			http://www.jstor.org/journal/socijust		socijust		fulltext	Moving Wall: 2 years		serial								P	
+Social Science Japan Journal	1369-1465	1468-2680	1998	1	1	2014			http://www.jstor.org/journal/socisciejapaj		socisciejapaj		fulltext	Moving Wall: 5 years		serial								P	07022918X
+Society and Economy	1588-9726	1588-970X	2002	24	1	2014			http://www.jstor.org/journal/sociecon		sociecon		fulltext	Moving Wall:5 Years		serial								P	068855885
+Sojourn: Journal of Social Issues in Southeast Asia	0217-9520	1793-2858	1986	1	1	2016			http://www.jstor.org/journal/sojourn		sojourn		fulltext	Moving Wall: 3 years		serial								P	240235207
+Southeast Asian Affairs	0377-5437	1793-9135	1974			2016			http://www.jstor.org/journal/soutasiaaffa		soutasiaaffa		fulltext	Moving Wall: 3 years		serial								P	134556925
+Southeastern Archaeology	0734-578X	2168-4723	1982	1	1	2012			http://www.jstor.org/journal/southeastarch		southeastarch		fulltext	Moving wall: 7 years		serial								P	163391610
+Southern African Journal of Demography	1682-4482		1987	1	1	2018			http://www.jstor.org/journal/soutafrijourdemo		soutafrijourdemo		fulltext	Moving Wall: 1 year		serial								P	
+Southern Review of Public Administration	0147-8168		1977	1	1	1983	6	4	https://www.jstor.org/journal/soutrevipubladmi		soutrevipubladmi		fulltext	now: Public Administration Quarterly		serial								P	
+Studi della Scuola Papirologica	0394-123X		1915	1		1920	3		http://www.jstor.org/journal/studscuopapi		studscuopapi		fulltext	Absorbed		serial								P	
+Sudanic Africa	0803-0685		1990	1		2005	16		http://www.jstor.org/journal/sudanicafrica		sudanicafrica		fulltext	Ceased: 2005		serial								P	
+Symbolic interaction	0195-6086	1533-8665	1977	1	1	2016			http://www.jstor.org/journal/symbinte		symbinte		fulltext	Moving Wall: 3 years		serial								P	083791078
+Synthesis (San Francisco)	0193-869X	2473-5019	1976	1	1	1979	3	1	https://www.jstor.org/journal/synthesis		synthesis		fulltext	Absorbed		serial								P	195208919
+Társadalom és gazdaság Közép- és Kelet-Európában / Society and Economy in Central and Eastern Europe	1218-9383		1995	17	1	2001	23	3/4	https://www.jstor.org/journal/socecoceneeur		socecoceneeur		fulltext	Now: Társadalom és gazdaság (Nyomtatott),(ISSN:1588-9734)		serial								P	
+The Accounting Historians Journal	0148-4184		1974	1	1/4	2016			http://www.jstor.org/journal/accohistjour		accohistjour		fulltext	Moving Wall:3 Years		serial								P	
+The American Economist	0569-4345	2328-1235	1960	4	1	2016			http://www.jstor.org/journal/amerecon		amerecon		fulltext	Journal of Omicron Chi Epsilon (1957-1959) Moving Wall:3 years		serial								P	169702782
+The American Sociologist	0003-1232	1936-4784	1965	1	1	2016			http://www.jstor.org/journal/amersociologist		amersociologist		fulltext	Moving Wall: 3 years		serial								P	121372502
+The Arab Studies Journal	1083-4753		1993	1	2	2016			http://www.jstor.org/journal/arabstudij		arabstudij		fulltext	Moving Wall: 3 years		serial								P	
+The Bangladesh Development Studies	0304-095X		1974	2	3	2014			http://www.jstor.org/journal/bangdevestud		bangdevestud		fulltext	Moving Wall:5 years		serial								P	
+The Bangladesh Economic Review	0304-2553		1973	1	1	1974	2	2	https://www.jstor.org/journal/bangeconrevi		bangeconrevi		fulltext	Continued by: Bangladesh Development Studies, (ISSN:0304-095X)		serial								P	
+The Geographical Teacher	2044-1541		1901	1	1	1926			http://www.jstor.org/journal/geoteacher		geoteacher		fulltext	Absorbed		serial								P	
+The Global South	1932-8648	1932-8656	2007	1	1	2016			http://www.jstor.org/journal/globalsouth		globalsouth		fulltext	Moving Wall:3 years		serial								P	123878705
+The Good Society	1089-0017	1538-9731	1995	5	2	2016			http://www.jstor.org/journal/goodsociety		goodsociety		fulltext	Moving Wall:3 years		serial								P	148652417
+The Journal of California Anthropology	0361-7181		1974	1	1	1978	5	2	http://www.jstor.org/journal/jcalianth		jcalianth		fulltext	Now: Journal of California and Great Basin Anthropology		serial								P	
+The Journal of the Polynesian Society	0032-4000		1892	1	1	2016			http://www.jstor.org/journal/jpolynesiansoc		jpolynesiansoc		fulltext	Moving Wall: 3 years		serial								P	
+The Newsletter of PEGS	2157-2968		1991	1	1	1995	5	1	http://www.jstor.org/journal/newspegs		newspegs		fulltext	Absorbed		serial								P	
+The Nyasaland Journal	2221-4240		1948	1	1	1965	18	1	http://www.jstor.org/journal/nyasalandj		nyasalandj		fulltext	Absorbed		serial								P	
+The Pakistan Development Review	0030-9729		1961	1	1	2016			http://www.jstor.org/journal/pakideverevi		pakideverevi		fulltext	Moving Wall:3 Years		serial								P	
+The Punjab University Economist	0377-3191		1959	1	1	1970	8	2	https://www.jstor.org/journal/punjunivecon		punjunivecon		fulltext	now: Pakistan Economic and Social Review		serial								P	
+The Society of Malawi Journal	0037-993X		1965	18	2	2018			http://www.jstor.org/journal/socofmalawij		socofmalawij		fulltext	Moving Wall: 1 year		serial								P	
+Tradition: Zeitschrift für Firmengeschichte und Unternehmerbiographie	0041-0616		1956	1	1	1976	21		https://www.jstor.org/journal/tradzeitfirmunte		tradzeitfirmunte		fulltext	Now: Zeitschrift für Unternehmensgeschichte,(ISSN:0342-2852)		serial								P	
+Transactions of the Glasgow Archaeological Society	2398-5755		1859	1	1	1967	15	4	https://www.jstor.org/journal/tranglasarchsoci		tranglasarchsoci		fulltext	Now: Scottish Archaeological Journal. Continues:Glasgow Archaeological Journal (1969-1991)		serial								P	
+Transactions of the Gold Coast & Togoland Historical Society	2026-6707		1952	1	1	1956	2	2	http://www.jstor.org/journal/trangoldcoastogo		trangoldcoastogo		fulltext	Now:Transactions of the Historical Society of Ghana		serial								P	
+Transactions of the Historical Society of Ghana	0855-3246		1957	3	1	2016			http://www.jstor.org/journal/tranhistsocighan		tranhistsocighan		fulltext	Previously: Transactions of the Gold Coast & Togoland Historical Society (1952-1956) Moving Wall: 3 years		serial								P	
+Ulbandus Review	0163-450X		1977	1	1	2019			http://www.jstor.org/journal/ulbarevi		ulbarevi		fulltext	Content for this title is released as soon as the latest issues become available to JSTOR		serial								P	
+University College Review	2310-3973	2311-8881	1961	1	1	1961	1	1	http://www.jstor.org/journal/univcollrevi		univcollrevi		fulltext	Now: Journal of Ethiopian Studies		serial								P	177500344
+Urban Anthropology	0363-2024		1972	1	1	1984	13	4	http://www.jstor.org/journal/urbananthro		urbananthro		fulltext	Now: Urban Anthropology and Studies of Cultural Systems and World Economic Development		serial								P	
+Urban Anthropology and Studies of Cultural Systems and World Economic Development	0894-6019		1985	14	1/3	2016			http://www.jstor.org/journal/urbaanthstudcult		urbaanthstudcult		fulltext	Previously: Urban Anthropology (1972-1984) Moving Wall: 3 years		serial								P	
+VSWG: Vierteljahrschrift für Sozial- und Wirtschaftsgeschichte	0340-8728		1972	59	1	2015			http://www.jstor.org/journal/vswgviersoziwirt		vswgviersoziwirt		fulltext	Moving Wall:4 Years		serial								P	
+Vierteljahrschrift für Sozial- und Wirtschaftsgeschichte	0042-5699		1903	1	1	1971	58	4	https://www.jstor.org/journal/viersoziwirt		viersoziwirt		fulltext	Continued by:VSWG. Vierteljahrschrift für Sozial- und Wirtschaftsgeschichte. Beihefte, (ISSN:0341-0846)		serial								P	
+Voces: A Journal of Chicana/Latina Studies	1065-4690		1997	1	1	2001	3	1/2	http://www.jstor.org/journal/vocjchilatstu		vocjchilatstu		fulltext	Now: Chicana/Latina Studies		serial								P	
+Vox Guyanae	0506-1164	2352-023X	1954	1	1	1959	3	6	http://www.jstor.org/journal/voxguyanae		voxguyanae		fulltext	Merged with: De West-Indische Gids		serial								P	174867034
+Weltwirtschaftliches Archiv	0043-2636		1913	1		2002	138	4	https://www.jstor.org/journal/weltarch		weltarch		fulltext	now: Review of World Economics / Weltwirtschaftliches Archiv ( ISSN:1610-2878)		serial								P	
+Western Journal of Agricultural Economics	0162-1912		1977	1	1	1991	16	2	https://www.jstor.org/journal/westjagriecon		westjagriecon		fulltext	Now: Journal of Agricultural and Resource Economics. Previously: Proceedings, Annual Meeting (Western Agricultural Economics Association) (1969-1975, Proceedings of the Annual Meeting (Western Farm Economics Association) (1940-1967)		serial								P	
+Yearbook. Conference of Latin Americanist Geographers	1054-3074		1984	10		2002	27		http://www.jstor.org/journal/yearbookclag		yearbookclag		fulltext	Absorbed		serial								P	
+Zeitschrift des Deutschen Palästina-Vereins (1878-1945)	2192-3124		1878	1		1945	67	2	http://www.jstor.org/journal/zeitdeutpalaver2		zeitdeutpalaver2		fulltext	Now: Zeitschrift des Deutschen Palästina-Vereins (1953-) Continues: Beiträge zur biblischen Landes- und Altertumskunde (1949-1951)		serial								P	
+Zeitschrift des Deutschen Palästina-Vereins (1953-)	0012-1169		1953	69	1	2016			http://www.jstor.org/journal/zeitdeutpalavere		zeitdeutpalavere		fulltext	Previously: Beiträge zur biblischen Landes- und Altertumskunde (1949-1951), Zeitschrift des Deutschen Palästina-Vereins (1878-1945) Moving Wall: 3 years		serial								P	
+Zeitschrift für Ethnologie	0044-2666		1869	1		2017			http://www.jstor.org/journal/zeitethn		zeitethn		fulltext	Moving Wall: 2 years		serial								P	
+Zeitschrift für Internationale Beziehungen	0946-7165		1994	1	1	2014			http://www.jstor.org/journal/zeitintebezi		zeitintebezi		fulltext	Moving Wall:5 years		serial								P	
+Zeitschrift für Morphologie und Anthropologie	0044-314X		1899	1	1	2002	83	2/3	http://www.jstor.org/journal/zeitmorpanth		zeitmorpanth		fulltext	Absorbed		serial								P	
+Zeitschrift für Social- und Wirthschaftsgeschichte	1619-6104		1893	1	1	1900	7	3	https://www.jstor.org/journal/zeitsociwirt		zeitsociwirt		fulltext	now: VSWG: Vierteljahrschrift für Sozial- und Wirtschaftsgeschichte. continues: Vierteljahrschrift für Sozial- und Wirtschaftsgeschichte (1903-1971)		serial								P	
+Zeitschrift für Unternehmensgeschichte / Journal of Business History	0342-2852		1977	22	1	2014			http://www.jstor.org/journal/zeituntegesc		zeituntegesc		fulltext	previously: Tradition: Zeitschrift für Firmengeschichte und Unternehmerbiographie (1956-1976) Moving Wall: 5 years		serial								P	
+Zeitschrift für die gesamte Staatswissenschaft / Journal of Institutional and Theoretical Economics	0044-2550		1844	1	1	1985	141	4	https://www.jstor.org/journal/zeitgesastaa		zeitgesastaa		fulltext	Now: JITE. Journal of institutional and theoretical economics, (ISSN:0932-4569)		serial								P	
+Ábaco	0213-6252		1986		1	2016			http://www.jstor.org/journal/abaco		abaco		fulltext	Moving Wall:3 years		serial								P	
+Études Slaves et Est-Européennes / Slavic and East-European Studies	0014-2190		1956	1	1	1975	20/21		http://www.jstor.org/journal/etudslavesteuro		etudslavesteuro		fulltext	Absorbed		serial								P	
+Ñawpa Pacha: Journal of Andean Archaeology	0077-6297	2051-6207	1963		1	2012			http://www.jstor.org/journal/nawppach		nawppach		fulltext	Moving Wall: 7 years		serial								P	174285183

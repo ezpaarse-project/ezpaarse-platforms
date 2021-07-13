@@ -1,0 +1,230 @@
+publication_title	print_identifier	online_identifier	date_first_issue_online	num_first_vol_online	num_first_issue_online	date_last_issue_online	num_last_vol_online	num_last_issue_online	title_url	first_author	title_id	embargo_info	coverage_depth	notes	publisher_name	publication_type	date_monograph_published_print	date_monograph_published_online	monograph_volume	monograph_edition	first_editor	parent_publication_title_id	preceding_publication_title_id	access_type	bestppn
+ALA Bulletin	0364-4006		1939	33	1	1969	63	11	http://www.jstor.org/journal/alabulletin		alabulletin		fulltext	now: American Libraries. previously: Bulletin of the American Library Association (1907-1938)		serial								P	
+AQ: Australian Quarterly	1443-3605		1997	69	3				http://www.jstor.org/journal/aqjcontanaly		aqjcontanaly		fulltext	No issues were published in 2011		serial								P	
+Academy of Management Perspectives	1558-9080	1943-4529	2006	20	1	2014			http://www.jstor.org/journal/acadmanapers		acadmanapers		fulltext	Previously: he Academy of Management Executive (1993-2005), The Executive (1990-1993), The Academy of Management Executive (1987-1989) Moving Wall: 5 years		serial								P	12840308X
+Advances in Archaeological Method and Theory	0162-8003		1978	1		1987	11		http://www.jstor.org/journal/advarchmeththeo		advarchmeththeo		fulltext	Absorbed		serial								P	
+Advocate of Peace (1847-1884)	2154-8390		1847	7	1/2	1884	15	3	http://www.jstor.org/journal/advopeace1847		advopeace1847		fulltext	Absorbed		serial								P	
+Advocate of Peace through Justice	2155-7802		1920	82	3	1932	94	1	http://www.jstor.org/journal/advopeacjust		advopeacjust		fulltext	Absorbed		serial								P	
+Africa Spectrum	0002-0397	1868-6869	1966	1	1	2016			http://www.jstor.org/journal/africaspec		africaspec		fulltext	Moving Wall: 3 years		serial								P	13637333X
+Africa Today	0001-9887	1527-1978	1954	1	1	2016			http://www.jstor.org/journal/africatoday		africatoday		fulltext	Moving Wall: 3 years		serial								P	045015325
+African Archaeological Review	0263-0338	1572-9842	1983	1		2016			http://www.jstor.org/journal/afriarchrevi		afriarchrevi		fulltext	Moving Wall: 3 years		serial								P	11126958X
+African Journal of Political Economy / Revue Africaine d'Economie Politique	1017-4974	2311-8997	1986	1	1	1990	2	5	http://www.jstor.org/journal/afrijpoliecon		afrijpoliecon		fulltext	Now: African Journal of Political Science / Revue Africaine de Science Politique		serial								P	188561285
+African Journal of Political Science / Revue Africaine de Science Politique	1027-0353	1726-3727	1996	1	1	2004	9	1	http://www.jstor.org/journal/afrijpoliscie		afrijpoliscie		fulltext	Previously:African Journal of Political Economy / Revue Africaine d'Economie Politique Ceased:2004		serial								P	110936922
+Alternatives: Global, Local, Political	0304-3754	2163-3150	1990	15	1	2016			http://www.jstor.org/journal/alternatives		alternatives		fulltext	The content for Vol. 1, No. 1 (1975) - Vol. 14, No. 4 (1989) is not currently available to JSTOR Moving Wall: 3 years		serial								P	223675032
+American Advocate of Peace (1834-1836)	2159-5062		1834	1	1	1836	2	11	http://www.jstor.org/journal/advopeace1834		advopeace1834		fulltext	Absorbed		serial								P	
+American Advocate of Peace (1892-1893)	2159-5089		1892	54	3	1893	55	12	http://www.jstor.org/journal/amadvopeace		amadvopeace		fulltext	Absorbed		serial								P	
+American Economic Journal: Applied Economics	1945-7782	1945-7790	2009	1	1	2017			http://www.jstor.org/journal/aejapplecon		aejapplecon		fulltext	2 years		serial								P	133155021
+American Economic Journal: Economic Policy	1945-7731	1945-774X	2009	1	1	2017			http://www.jstor.org/journal/aejeconpoli		aejeconpoli		fulltext	2 years		serial								P	136634982
+American Economic Journal: Macroeconomics	1945-7707	1945-7715	2009	1	1	2017			http://www.jstor.org/journal/aejmacrecon		aejmacrecon		fulltext	2 years		serial								P	136189199
+American Economic Journal: Microeconomics	1945-7669	1945-7685	2009	1	1	2017			http://www.jstor.org/journal/aejmicrecon		aejmicrecon		fulltext	2 years		serial								P	137917783
+American Indian Law Review	0094-002X		1973	1	1	2018			http://www.jstor.org/journal/amerindlawrev		amerindlawrev		fulltext	Moving Wall: 1 year		serial								P	
+American Libraries	0002-9769		1970	1	1	2016			http://www.jstor.org/journal/amerlibr		amerlibr		fulltext	Previously: ALA Bulletin (1939-1969) , Bulletin of the American Library Association (1907-1938) Moving Wall: 3 years		serial								P	
+Annales de la Société d'ethnographie française	0766-7736		1950		1	1950		1	http://www.jstor.org/journal/annasociethnfran		annasociethnfran		fulltext	Absorbed		serial								P	
+Anthropologica	0003-5459		1955		1	2016			http://www.jstor.org/journal/anthropologica		anthropologica		fulltext	Moving Wall: 3 years		serial								P	
+Anthropological Linguistics	0003-5483	1944-6527	1959	1	1	2017			http://www.jstor.org/journal/anthling		anthling		fulltext	2 years		serial								P	137917759
+Anthropos	0257-9774		1906	1	1	2016			http://www.jstor.org/journal/anthropos		anthropos		fulltext	Moving Wall: 3 years		serial								P	
+Anuario de Estudios Centroamericanos	0377-7316		1974		1	2016			http://www.jstor.org/journal/anuaestucent		anuaestucent		fulltext	Moving Wall: 3 years		serial								P	
+Archaeological Method and Theory	1043-1691		1989	1		1993	5		http://www.jstor.org/journal/archmeththeo		archmeththeo		fulltext	now: Journal of Archaeological Method and Theory		serial								P	
+Archives de sciences sociales des religions	0335-5985	1777-5825	1973	18	35	2017			http://www.jstor.org/journal/archscisocrel		archscisocrel		fulltext	Previously: Archives de sociologie des religions (1956-1972) Moving Wall: 2 years		serial								P	110670558
+Archives de sociologie des religions	0003-9659		1956	1	1	1972	17	34	http://www.jstor.org/journal/archsocirel		archsocirel		fulltext	Now: Archives de sciences sociales des religions		serial								P	
+Arctic Anthropology	0066-6939	1933-8139	1962	1	1	2014			http://www.jstor.org/journal/arctanth		arctanth		fulltext	Moving Wall: 5 years		serial								P	129040894
+Area	0004-0894	1475-4762	1969	1	1	2014			http://www.jstor.org/journal/area		area		fulltext	Moving Wall: 5 years		serial								P	116266163
+Arizona Journal of Hispanic Cultural Studies	1096-2492	1934-9009	1997	1		2016			http://www.jstor.org/journal/arijhispcultstud		arijhispcultstud		fulltext	Moving Wall: 3 years		serial								P	16539451X
+Arts et traditions populaires	0571-2211		1953	1	1	1970	18	4	http://www.jstor.org/journal/artstradpopu		artstradpopu		fulltext	Absorbed		serial								P	
+Asian Affairs: An American Review	0092-7678	1940-1590	1973	1	1	2012			http://www.jstor.org/journal/asianaffairs		asianaffairs		fulltext	Moving Wall: 7 years		serial								P	119403404
+Beiträge zur vergleichenden Sprachforschung auf dem Gebiete der arischen, celtischen und slawischen Sprachen	0937-2687	2334-1270	1858	1	1	1876	8	4	http://www.jstor.org/journal/beitvergspragebi		beitvergspragebi		fulltext	Now: Historische Sprachforschung , Merged with: Zeitschrift für vergleichende Sprachforschung auf dem Gebiete des Deutschen, Griechischen und Lateinischen , 1852-1874 (1.-22. Bde.) to form Zeitschrift für vergleichende Sprachforschung auf dem Gebiete der Indogermanischen Sprachen , 1877-1967		serial								P	177501332
+Black Women, Gender & Families	1935-2743	1944-6462	2007	1	1	2012	6	2	http://www.jstor.org/journal/blacwomegendfami		blacwomegendfami		fulltext			serial								P	162245602
+Boletín del Instituto de las Españas	2575-8616		1931		1	1934		12	http://www.jstor.org/journal/boleinstespa		boleinstespa		fulltext	Now: Revista Hispánica Moderna		serial								P	
+British Journal of International Studies	0305-8026	2053-597X	1975	1	1	1980	6	3	http://www.jstor.org/journal/britjintestud		britjintestud		fulltext	now: Review of International Studies		serial								P	174285701
+Brookings Papers on Education Policy	1096-2719	1533-4457	1998		1	2006		9	http://www.jstor.org/journal/brookpapedupol		brookpapedupol		fulltext	Ceased: 2007		serial								P	058405305
+Brookings Trade Forum	1520-5479	1534-0635	1998			2008			http://www.jstor.org/journal/brooktradeforum		brooktradeforum		fulltext	Ceased: 2009		serial								P	058406395
+Brookings-Wharton Papers on Urban Affairs	1528-7084	1533-4449	2000			2009			http://www.jstor.org/journal/broowharurbanaff		broowharurbanaff		fulltext	Ceased: 2009		serial								P	058405291
+Buffalo Criminal Law Review	1093-3514		1997	1	1	2006	9	2	http://www.jstor.org/journal/buffcrimlawrevi		buffcrimlawrevi		fulltext	now: New Criminal Law Review		serial								P	
+Bulletin of International News	2044-3986		1925	1	1	1945	22	13	http://www.jstor.org/journal/bullintenews		bullintenews		fulltext	Now: The World Today		serial								P	
+Bulletin of the American Library Association	0364-4049		1907	1	1	1938	32	13	http://www.jstor.org/journal/bullamerlibrasso		bullamerlibrasso		fulltext	now: American Libraries. continues: ALA Bulletin (1939-1969)		serial								P	
+Business Ethics Quarterly	1052-150X	2153-3326	1991	1	1	2014			http://www.jstor.org/journal/busiethiquar		busiethiquar		fulltext	Moving Wall: 5 years		serial								P	143744151
+Cahiers Ferdinand de Saussure	0068-516X		1941		1	2016			http://www.jstor.org/journal/cahiferddesaus		cahiferddesaus		fulltext	Moving Wall: 3 years		serial								P	
+Cahiers du Monde russe	1252-6576	1777-5388	1994	35	1/2	2017			http://www.jstor.org/journal/cahimondruss		cahimondruss		fulltext	Previously: Cahiers du Monde russe et soviétique (1959-1993) Moving Wall: 2 years		serial								P	11469155X
+Cahiers du Monde russe et soviétique	0008-0160		1959	1	1	1993	34	4	http://www.jstor.org/journal/cahimondrusssovi		cahimondrusssovi		fulltext	Now: Cahiers du Monde russe		serial								P	
+Caribbean Quarterly	0008-6495	2470-6302	1949	1	1	2012	58	4	http://www.jstor.org/journal/cariquar		cariquar		fulltext	Coverage presently ends: 2012. JSTOR will resume a moving wall of 7 years in 2020		serial								P	191531073
+Caribbean Studies	0008-6533	1940-9095	1961	1	1	2018			http://www.jstor.org/journal/caristud		caristud		fulltext	Moving Wall: 1 year		serial								P	136188982
+Center House Bulletin	0098-809X		1971	1	1	1974	4	1	http://www.jstor.org/journal/centerhousebull		centerhousebull		fulltext	Now: Presidential Studies Quarterly		serial								P	
+Change in Higher Education	0363-6291		1969	1	1	1970	2	3	http://www.jstor.org/journal/chanhigheduc		chanhigheduc		fulltext	Now: Change		serial								P	
+Change: The Magazine of Higher Learning	0009-1383	1939-9146	1970	2	4	2012			http://www.jstor.org/journal/change		change		fulltext	Previously: Change in Higher Education (1969-1970) Moving Wall:7 years		serial								P	118362704
+Chasqui	0145-8973		1972	1	1	2016			http://www.jstor.org/journal/chasqui		chasqui		fulltext	Moving Wall: 3 years		serial								P	
+Chronology of International Events	2044-1533		1953	10	1	1955	11	24	http://www.jstor.org/journal/chrointevents		chrointevents		fulltext	Ceased: 1955		serial								P	
+Chronology of International Events and Documents	0959-5376		1945	1	1	1953	9	24	http://www.jstor.org/journal/chrointevendoc		chrointevendoc		fulltext	Absorbed		serial								P	
+College Teaching	8756-7555	1930-8299	1985	33	1	2012			http://www.jstor.org/journal/collegeteaching		collegeteaching		fulltext	Previously: Improving College and University Teaching (1953-1984) Moving Wall: 7 years		serial								P	116975237
+Computers and Translation	0884-0709		1986	1	1	1988	3	3/4	http://www.jstor.org/journal/comptrans		comptrans		fulltext	Absorbed		serial								P	
+Computers and the Humanities	0010-4817	1572-8412	1966	1	1	2004	38	4	http://www.jstor.org/journal/comphuma		comphuma		fulltext	Now: Language Resources and Evaluation		serial								P	111373336
+Cuadernos de Pensamiento Político	1696-8441		2003		1	2018			http://www.jstor.org/journal/cuapenpol		cuapenpol		fulltext	Moving Wall: 1 year		serial								P	
+Directory of the Association of American Library Schools	0197-579X		1943	1		1952	3		https://www.jstor.org/journal/direassoamerlibr		direassoamerlibr		fulltext	Merged into: Journal of Education for Librarianship		serial								P	
+Eastern European Economics	0012-8775	1557-9298	1962	1	1	2012			https://www.jstor.org/journal/easteuroecon		easteuroecon		fulltext	Moving Wall: 7 years		serial								P	104870869
+Economic Theory	0938-2259	1432-0479	1991	1	1	2016			http://www.jstor.org/journal/econtheory		econtheory		fulltext	Moving Wall: 3 years		serial								P	112487777
+Economic and Political Weekly	0012-9976		1966	1	1	2014			http://www.jstor.org/journal/econpoliweek		econpoliweek		fulltext	Moving Wall: 5 years		serial								P	
+Economía	1529-7470	1533-6239	2000	1	1	2018			http://www.jstor.org/journal/economia		economia		fulltext	Moving Wall: 1 year		serial								P	058405445
+English Education	0007-8204		1969	1	1	2016			http://www.jstor.org/journal/englishedu		englishedu		fulltext	Moving Wall: 3 years Previously: Selected Addresses Delivered at the Conference on English Education (1963-1968)		serial								P	
+Ethnologie française	0046-2616	2101-0064	1971	1	1	2016			http://www.jstor.org/journal/ethnfran		ethnfran		fulltext	Moving Wall: 3 years		serial								P	118820729
+European Demographic Information Bulletin	0046-2756		1970	1	1	1983	14	4	http://www.jstor.org/journal/eurodemoinfobull		eurodemoinfobull		fulltext	Absorbed		serial								P	
+European Journal of Population / Revue Européenne de Démographie	0168-6577	1572-9885	1985	1	1	2016			http://www.jstor.org/journal/eurojpopu		eurojpopu		fulltext	Previously: European Demographic Information Bulletin (1970-1983) Moving Wall: 3 years		serial								P	111373824
+Federal Sentencing Reporter	1053-9867	1533-8363	1988	1	1	2016			http://www.jstor.org/journal/fedesentrepo		fedesentrepo		fulltext	Moving Wall: 3 years		serial								P	128394951
+Feminist Formations	2151-7363	2151-7371	2010	22	1	2014			http://www.jstor.org/journal/femiform		femiform		fulltext	Previously: NWSA Journal (1988-2009). Moving Wall: 5 years		serial								P	148311083
+Feminist Teacher	0882-4843	1934-6034	1984	1	1	2016			http://www.jstor.org/journal/femteacher		femteacher		fulltext	Moving Wall: 3 years		serial								P	119538458
+Financial Analysts Journal	0015-198X	1938-3312	1960	16	1	2014	70	6	http://www.jstor.org/journal/finaanalj		finaanalj		fulltext	Coverage presently ends: 2014. JSTOR will resume a moving wall of 7 years in 2022.		serial								P	13177025X
+Financial Management	0046-3892	1755-053X	1972	1	1	2016			http://www.jstor.org/journal/finamana		finamana		fulltext	Moving Wall: 3 years		serial								P	120673010
+Foreign Affairs: an American Quarterly Review	0015-7120		1922	1	1	2016			http://www.jstor.org/journal/foreignaffairs		foreignaffairs		fulltext	Previously:The Journal of Race Development (1910-1919), The Journal of International Relations (1919-1922). Moving Wall:3 years		serial								P	
+Foro Internacional	0185-013X		1960	1	1 (1)	2018			http://www.jstor.org/journal/forointe		forointe		fulltext	Moving Wall: 1 year		serial								P	
+Georgia Government Review	0016-8289		1968	1	1	1975	7	1	http://www.jstor.org/journal/georgoverevi		georgoverevi		fulltext	Absorbed		serial								P	
+Global Governance	1075-2846	1942-6720	1995	1	1	2014			http://www.jstor.org/journal/globgove		globgove		fulltext	Moving Wall: 5 years		serial								P	127807438
+Hispamérica	0363-0471		1972	1	1	2016			http://www.jstor.org/journal/hispamerica		hispamerica		fulltext	Moving Wall: 3 years		serial								P	
+Historical Archaeology	0440-9213	2328-1103	1967	1		2016			http://www.jstor.org/journal/histarch		histarch		fulltext	Moving Wall: 3 years		serial								P	169593134
+Historische Sprachforschung / Historical Linguistics	0935-3518		1988	101	1	2018			http://www.jstor.org/journal/histsprahistling		histsprahistling		fulltext	Moving Wall: 1 year		serial								P	
+Human Ecology	0300-7839	1572-9915	1972	1	1	2016			http://www.jstor.org/journal/humanecology		humanecology		fulltext	Moving Wall:3 years		serial								P	11230253X
+I.C.I.R.I. Bulletin	1945-8630		1948	1	1	1951	4	4	http://www.jstor.org/journal/iciribull		iciribull		fulltext	Absorbed		serial								P	
+IMF Economic Review	2041-4161	2041-417X	2010	58	1	2015			http://www.jstor.org/journal/imfeconrev		imfeconrev		fulltext	Moving Wall:4 years		serial								P	149222661
+IMF Staff Papers	1020-7635	1564-5150	1999	46	1	2010	57	2	https://www.jstor.org/journal/imfstaffpapers		imfstaffpapers		fulltext	Now: IMF Economic Review. Previously: Staff Papers - International Monetary Fund (1950-1998)		serial								P	045034680
+Improving College and University Teaching	0019-3089		1953	1	1	1984	32	4	http://www.jstor.org/journal/impcollunivteach		impcollunivteach		fulltext	Now: College Teaching		serial								P	
+Indiana Journal of Global Legal Studies	1080-0727	1543-0367	1993	1	1	2016			http://www.jstor.org/journal/indjglolegstu		indjglolegstu		fulltext	Moving Wall: 3 years		serial								P	116168102
+Information & Culture: A Journal of History	2164-8034	2166-3033	2012	47	1	2016			https://www.jstor.org/journal/infocult		infocult		fulltext	Moving Wall: 3 years. Previously: Libraries & the Cultural Record (2006-2011), Libraries & Culture (1988-2006), The Journal of Library History (1974-1987), Journal of Library History, Philosophy, and Comparative Librarianship (1973), The Journal of Library History (1966-1972)		serial								P	162247451
+Innovation Policy and the Economy	1531-3468	1537-2618	2000	1		2015	15	1	http://www.jstor.org/journal/innopoliecon		innopoliecon		fulltext	Coverage presently ends: 2015. JSTOR will resume a moving wall of 5 years in 2021		serial								P	076866327
+Interfaces	0092-2102	1526-551X	1971	1	4	2014			http://www.jstor.org/journal/interfaces		interfaces		fulltext	Moving Wall: 5 years		serial								P	059181869
+International Journal of Feminist Approaches to Bioethics	1937-4585	1937-4577	2008	1	1	2016			http://www.jstor.org/journal/intjfemappbio		intjfemappbio		fulltext	Moving Wall: 3 years		serial								P	136634664
+International Journal of Politics, Culture, and Society	0891-4486	1573-3416	1987	1	1	2016			http://www.jstor.org/journal/intejpolicultsoc		intejpolicultsoc		fulltext	Previously: State, Culture, and Society (1984-1985) Moving Wall: 3 years		serial								P	117221473
+International Journal: Canada's Journal of Global Policy Analysis	0020-7020	2052-465X	1946	1	1	2016			http://www.jstor.org/journal/internationalj		internationalj		fulltext	Moving Wall: 3 years		serial								P	176271805
+International Legal Materials	0020-7829	1930-6571	1962	1	1	2016			http://www.jstor.org/journal/intelegamate		intelegamate		fulltext	Moving Wall: 3 years		serial								P	116974842
+International Supplement to the Women's Studies Quarterly	0730-5079		1982		1	1982		1	http://www.jstor.org/journal/intesuppwomestud		intesuppwomestud		fulltext	Absorbed		serial								P	
+Jewish Social Studies	0021-6704	1527-2028	1939	1	1	2016			https://www.jstor.org/journal/jewisocistud		jewisocistud		fulltext	Moving Wall: 3 years		serial								P	045015376
+Journal of Adolescent and Adult Literacy	1081-3004	1936-2706	1995	39	1	2016			http://www.jstor.org/journal/jadoladullite		jadoladullite		fulltext	Moving Wall:3 years		serial								P	124128394
+Journal of Advertising	0091-3367	1557-7805	1972	1	1	2012			https://www.jstor.org/journal/jadve		jadve		fulltext	Moving Wall: 7 years		serial								P	11465137X
+Journal of Archaeological Method and Theory	1072-5369	1573-7764	1994	1	1	2016			http://www.jstor.org/journal/jarchmeththeo		jarchmeththeo		fulltext	Moving Wall: 3 years		serial								P	112880568
+Journal of Business Ethics	0167-4544	1573-0697	1982	1	1	2016			http://www.jstor.org/journal/jbusiethi		jbusiethi		fulltext	3 years		serial								P	111374081
+Journal of Business and Psychology	0889-3268	1573-353X	1986	1	1	2016			http://www.jstor.org/journal/jbusipsych		jbusipsych		fulltext	Moving Wall: 3 years		serial								P	113259174
+Journal of Developmental Reading	0731-3667		1957	1	1	1964	7	4	http://www.jstor.org/journal/jdeveread		jdeveread		fulltext	now: Journal of Adolescent & Adult Literacy. Continues: Journal of Reading (1964-1995)		serial								P	
+Journal of East Asian Linguistics	0925-8558	1572-8560	1992	1	1	2016			http://www.jstor.org/journal/jeastasialing		jeastasialing		fulltext	Moving Wall: 3 years		serial								P	11333561X
+Journal of Economic Issues	0021-3624	1946-326X	1967	1	1/2	2012			https://www.jstor.org/journal/jeconiss		jeconiss		fulltext	Moving Wall: 7 years		serial								P	131781693
+Journal of Education for Librarianship	0022-0604		1960	1	1	1984			http://www.jstor.org/journal/jedulib		jedulib		fulltext	Now: Journal of Education for Library and Information Science		serial								P	
+Journal of Education for Library and Information Science	0748-5786		1984	25	1	2016			http://www.jstor.org/journal/jedulibinfosci		jedulibinfosci		fulltext	Previously: Journal of Education for Librarianship (1960-1984), Moving Wall:3 years		serial								P	
+Journal of International Marketing	1069-031X	1547-7215	1993	1	1	2016			http://www.jstor.org/journal/jintermarket		jintermarket		fulltext	Moving Wall: 3 years		serial								P	076881148
+Journal of Library History, Philosophy, and Comparative Librarianship	0090-8894		1973	8	1	1973	8	3/4	http://www.jstor.org/journal/jlibhistphicomli		jlibhistphicomli		fulltext	Now: Information & Culture: A Journal of History. Continues: Libraries & the Cultural Record (2006-2011) , Libraries and Culture (1988-2006) The Journal of Library History (1974-1987). Previously: The Journal of Library History (1966-1972)		serial								P	
+Journal of Logic, Language and Information	0925-8531	1572-9583	1992	1	1	2016			http://www.jstor.org/journal/jlogiclanginfo		jlogiclanginfo		fulltext	Moving Wall: 3 years		serial								P	111216524
+Journal of Marketing & Public Policy	0748-6766		1982	1		1982	1		https://www.jstor.org/journal/jmarkpublpoli		jmarkpublpoli		fulltext	Now: Journal of Public Policy & Marketing		serial								P	
+Journal of Middle East Women's Studies	1552-5864	1558-9579	2005	1	1	2014			http://www.jstor.org/journal/jmiddeastwomstud		jmiddeastwomstud		fulltext	Moving Wall: 5 years		serial								P	110669916
+Journal of Population	0146-1052		1978	1	1	1979	2	4	http://www.jstor.org/journal/jpopulation		jpopulation		fulltext	Now: Population & Environment		serial								P	
+Journal of Population Economics	0933-1433	1432-1475	1988	1	1	2016			http://www.jstor.org/journal/jpopuecon		jpopuecon		fulltext	Moving Wall: 3 years		serial								P	115844295
+Journal of Post Keynesian Economics	0160-3477	1557-7821	1978	1	1	2012			https://www.jstor.org/journal/jpostkeynecon		jpostkeynecon		fulltext	Moving Wall: 7 years		serial								P	114354448
+Journal of Public Policy & Marketing	0743-9156	1547-7207	1983	2		2016			http://www.jstor.org/journal/jpublpolimark		jpublpolimark		fulltext	Previously: Journal of Marketing & Public Policy (1982) Moving Wall: 3 years		serial								P	07688113X
+Journal of Qur'anic Studies	1465-3591	1755-1730	1999	1	1	2014			http://www.jstor.org/journal/jqurastud		jqurastud		fulltext	Moving Wall: 5 years		serial								P	12502701X
+Journal of Reading	0022-4103		1964	8	1	1995	38	8	http://www.jstor.org/journal/jread		jread		fulltext	now: Journal of Adolescent & Adult Literacy. Previously:Journal of Developmental Reading (1957-1964)		serial								P	
+Journal of Southeast Asian History	0217-7811	2398-7375	1960	1	1	1969	10	3	http://www.jstor.org/journal/jsoutasiahist		jsoutasiahist		fulltext	Now: Journal of Southeast Asian Studies		serial								P	194815102
+Journal of Southeast Asian Studies	0022-4634	1474-0680	1970	1	1	2014			http://www.jstor.org/journal/jsoutasiastud		jsoutasiastud		fulltext	Previously: Journal of Southeast Asian History (1960-1969) Moving Wall: 5 years		serial								P	112893430
+Journal of Transport Economics and Policy	0022-5258	1754-5951	1967	1	1	2016			http://www.jstor.org/journal/jtranseconpoli		jtranseconpoli		fulltext	Moving Wall: 3 years		serial								P	094466467
+Journal of the European Economic Association	1542-4766	1542-4774	2003	1	1	2014			http://www.jstor.org/journal/jeuroeconasso		jeuroeconasso		fulltext	Moving Wall: 5 years		serial								P	114355061
+Junior-Senior High School Clearing House	1947-3885		1929	4	1	1936	10	9	http://www.jstor.org/journal/junsenhischclho		junsenhischclho		fulltext	Absorbed		serial								P	
+L'Homme	0439-4216	1953-8103	1961	1	1	2019			http://www.jstor.org/journal/homme		homme		fulltext	Content for this title is released as soon as the latest issues become available to JSTOR.		serial								P	116337966
+La Linguistique	0075-966X	2101-0234	1965	1	1	2016			http://www.jstor.org/journal/linguistique		linguistique		fulltext	Moving Wall: 3 years		serial								P	130317845
+La Revue administrative	0035-0672		1948	1	1	2009	62e	372	http://www.jstor.org/journal/revuadmi		revuadmi		fulltext	Coverage for this title ends with Volume 63, Issue 378, 2010		serial								P	
+Language Resources and Evaluation	1574-020X	1574-0218	2005	39	1	2016			http://www.jstor.org/journal/langresoeval		langresoeval		fulltext	Previously: Computers and the Humanities (1966-2004) Moving Wall: 3 Years		serial								P	113976097
+Lawyer of the Americas	0023-9445		1969	1	1	1984	15	3	http://www.jstor.org/journal/lawyeramericas		lawyeramericas		fulltext	Absorbed		serial								P	
+Le Folklore vivant	0766-7752		1946	1		1946	1		http://www.jstor.org/journal/folkviva		folkviva		fulltext	Absorbed		serial								P	
+Le Mois d'Ethnographie française	0766-7744		1947	1	1	1952	6	8/10	http://www.jstor.org/journal/moisethnfran		moisethnfran		fulltext	Absorbed		serial								P	
+Letras Femeninas	0277-4356		1975	1	1	2014			http://www.jstor.org/journal/letrfeme		letrfeme		fulltext	Moving Wall: 5 years		serial								P	
+Libraries & the Cultural Record	1932-4855	1932-9555	2006	41	3	2011	46	4	http://www.jstor.org/journal/librandcultrec		librandcultrec		fulltext	Now: Information & Culture: A Journal of History. Previously: Libraries & Culture (1988-2006), The Journal of Library History (1974-1987), Journal of Library History, Philosophy, and Comparative Librarianship (1973), The Journal of Library History (1966-1972)		serial								P	133821285
+Libraries and Culture	0894-8631		1988	23	1	2006	41	2	http://www.jstor.org/journal/librandcult		librandcult		fulltext	Now: Information & Culture: A Journal of History. Continues: Libraries & the Cultural Record (2006-2011) Previously: The Journal of Library History (1974-1987), Journal of Library History, Philosophy, and Comparative Librarianship (1973), The Journal of Library History (1966-1972)		serial								P	
+Machine Translation	0922-6567	1573-0573	1989	4	1	2016			http://www.jstor.org/journal/machtran		machtran		fulltext	Previously: Computers and Translation (1986-1988) Moving Wall: 3 years		serial								P	111374014
+NBER International Seminar on Macroeconomics	1932-8796		2004			2012	9		https://www.jstor.org/journal/nberintesemimacr		nberintesemimacr		fulltext	Ceased (2012)		serial								P	
+NWSA Journal	1040-0656	1527-1889	1988	1	1	2009	21	3	http://www.jstor.org/journal/nwsaj		nwsaj		fulltext	Now: Feminist Formations		serial								P	045015236
+National News Letter of Phi Delta Kappa	1944-0995		1915	1	1	1916	1	4	http://www.jstor.org/journal/nnewletphidelkap		nnewletphidelkap		fulltext	Absorbed		serial								P	
+New Criminal Law Review: An International and Interdisciplinary Journal	1933-4192	1933-4206	2007	10	1	2016			http://www.jstor.org/journal/newcrimlawrevi		newcrimlawrevi		fulltext	Moving Wall: 3 years. Previously: Buffalo Criminal Law Review (1997-2006)		serial								P	115433937
+Newsletter (Association of American Library Schools)	2472-8624		1949	1	2	1959	11	2	http://www.jstor.org/journal/newsassoamerlibr		newsassoamerlibr		fulltext	Merged into: Journal of Education for Librarianship		serial								P	
+North Carolina High School Bulletin	2473-1277	2475-2142	1910	1	1	1917	8	3	http://www.jstor.org/journal/nortcarohighscho		nortcarohighscho		fulltext	Now: High School Journal		serial								P	19812600X
+Nouvelle revue des traditions populaires	1149-9931		1949	1	1	1950	2	5	http://www.jstor.org/journal/nouvrevutradpopu		nouvrevutradpopu		fulltext	Absorbed		serial								P	
+Nouvelles Questions Féministes	0248-4951	2297-3850	1981		1	2016			http://www.jstor.org/journal/nouvquesfemi		nouvquesfemi		fulltext	Previously: Questions Féministes (1977-1980) Moving Wall: 3 years		serial								P	18530656X
+Off Our Backs	0030-0071		1970	1	1	2008	38	1	http://www.jstor.org/journal/offourbacks		offourbacks		fulltext	Ceased: 2008		serial								P	
+Papers on Non-Market Decision Making	1941-9716		1966	1		1967	3	1	https://www.jstor.org/journal/papnonmarkdecmak		papnonmarkdecmak		fulltext	now: Public Choice (issn 0048-5829 ) 1968-1996		serial								P	
+Policy Sciences	0032-2687	1573-0891	1970	1	1	2016			http://www.jstor.org/journal/policysciences		policysciences		fulltext	Moving Wall: 3 years		serial								P	111374197
+Politics and the Life Sciences	0730-9384	1471-5457	1982	1	1	2016			http://www.jstor.org/journal/polilifescie		polilifescie		fulltext	Moving Wall: 3 years		serial								P	112893023
+Política Exterior	0213-6856		1987	1	1	2016			http://www.jstor.org/journal/politicaexterior		politicaexterior		fulltext	Moving Wall: 3 years		serial								P	
+Population & Environment	0199-0039	1573-7810	1980	3	1	2016			http://www.jstor.org/journal/populationenviro		populationenviro		fulltext	Previously: Journal of Population (1978-1979) Moving Wall: 3 years		serial								P	118672797
+Presidential Studies Quarterly	0360-4918	1741-5705	1974	4	2	2012			http://www.jstor.org/journal/presstudq		presstudq		fulltext	Previously: Center House Bulletin (1971-1974) Moving Wall: 7 years		serial								P	074985442
+Proceedings of the American Society of International Law at Its Annual Meeting (1907-1917)	0272-5061	2328-4218	1907	1		1917	11		http://www.jstor.org/journal/proasilannmeet		proasilannmeet		fulltext	Absorbed		serial								P	169704076
+Proceedings of the American Society of International Law at Its Annual Meeting (1921-1969)	0272-5045	2328-4234	1921	15		1969	63		http://www.jstor.org/journal/procasilannumee		procasilannumee		fulltext	Absorbed		serial								P	169704092
+Proceedings of the American Society of International Law at the Meeting of Its Executive Council	0272-5053	2328-4226	1918	12/13		1920	14		http://www.jstor.org/journal/proasilexeccoun		proasilexeccoun		fulltext	Absorbed		serial								P	169704084
+Proceedings of the Annual Meeting (American Society of International Law)	0272-5037	2169-1118	1974	68		2016			http://www.jstor.org/journal/procannmeetasil		procannmeetasil		fulltext	Moving Wall: 3 years		serial								P	163733368
+Public Choice	0048-5829	1573-7101	1968	4		2016			http://www.jstor.org/journal/publchoi		publchoi		fulltext	Moving Wall:3 Years		serial								P	111374863
+Questions Féministes	0154-9960		1977		1	1980		8	http://www.jstor.org/journal/quesfemi		quesfemi		fulltext	Now: Nouvelles Questions Féministes		serial								P	
+Reflexión	0034-3005		1972	1	1	1975	3/4		http://www.jstor.org/journal/reflexion		reflexion		fulltext	Now: Revista Canadiense de Estudios Hispánicos		serial								P	
+Reis: Revista Española de Investigaciones Sociológicas	0210-5233		1978		1	2018			http://www.jstor.org/journal/reis		reis		fulltext	Moving Wall: 1 year		serial								P	
+Report of Meeting (Association of American Library Schools)	0519-1033		1941			1959			http://www.jstor.org/journal/repomeetassoamer		repomeetassoamer		fulltext	Merged into: Journal of Education for Librarianship		serial								P	
+Research in the Teaching of English	0034-527X		1967	1	1	2016			http://www.jstor.org/journal/resintheteacheng		resintheteacheng		fulltext	Moving Wall: 3 years		serial								P	
+Review of International Political Economy	0969-2290	1466-4526	1994	1	1	2012			https://www.jstor.org/journal/reviintepoliecon		reviintepoliecon		fulltext	Moving Wall: 7 years		serial								P	04493453X
+Review of International Studies	0260-2105	1469-9044	1981	7	1	2014			http://www.jstor.org/journal/revinterstud		revinterstud		fulltext	Previously: British Journal of International Studies (1975-1980) Moving Wall: 5 years		serial								P	048901059
+Revista Canadiense de Estudios Hispánicos	0384-8167		1976	1	1	2018			http://www.jstor.org/journal/revicanaestuhisp		revicanaestuhisp		fulltext	Moving Wall: 1 year Previously: Reflexión (1972-1974)		serial								P	
+Revista Hispánica Moderna	0034-9593	1944-6446	1934	1	1	2016			http://www.jstor.org/journal/revihispmod		revihispmod		fulltext	Previously: Boletín del Instituto de las Españas (1931-1934). Moving Wall: 3 years		serial								P	145629791
+Revista española de la opinión pública	0034-9429		1965		1	1977		50	http://www.jstor.org/journal/revespdelaoppub		revespdelaoppub		fulltext	Absorbed		serial								P	
+Revue Archéologique	0035-0737	2104-3868	1844	1	1	2016			http://www.jstor.org/journal/revuearch		revuearch		fulltext	Moving Wall: 3 years		serial								P	12217612X
+Risk Management	1460-3799	1743-4637	1999	1	1	2016			http://www.jstor.org/journal/riskmanagement		riskmanagement		fulltext	3 years		serial								P	104882204
+Russian Linguistics	0304-3487	1572-8714	1974	1	1	2016			http://www.jstor.org/journal/russling		russling		fulltext	Moving Wall: 3 years		serial								P	11178297X
+Selected Addresses Delivered at the Conference on English Education	0573-3561		1963		1	1968		6	http://www.jstor.org/journal/seladdelconenged		seladdelconenged		fulltext	Absorbed		serial								P	
+Social Indicators Research	0303-8300	1573-0921	1974	1	1	2016			http://www.jstor.org/journal/sociindirese		sociindirese		fulltext	Moving Wall: 3 years		serial								P	111688434
+Social Service Review	0037-7961	1537-5404	1927	1	1	2015	89	4	http://www.jstor.org/journal/sociservrevi		sociservrevi		fulltext	Coverage presently ends: 2015. JSTOR will resume a moving wall of 5 years in 2021		serial								P	076866807
+Social and Economic Studies	0037-7651		1953	1	1	2016			http://www.jstor.org/journal/soceconstud		soceconstud		fulltext	Moving Wall: 3 years		serial								P	
+Southeast Asian Perspectives	0042-577X		1971		1	1974		10	http://www.jstor.org/journal/soutasiapers		soutasiapers		fulltext	Absorbed		serial								P	
+Staff Papers - International Monetary Fund	0020-8027		1950	1		1998	45	4	https://www.jstor.org/journal/stafpapeintemone		stafpapeintemone		fulltext	Continues: IMF Staff Papers 1999-2010		serial								P	
+State Politics & Policy Quarterly	1532-4400	1946-1607	2001	1	1	2016			http://www.jstor.org/journal/stapolpolicyq		stapolpolicyq		fulltext	Moving Wall: 3 years		serial								P	131781065
+State and Local Government Review	0160-323X	1943-3409	1976	8	1	2016			http://www.jstor.org/journal/statlocagoverevi		statlocagoverevi		fulltext	Moving Wall: 3 years		serial								P	128402407
+State, Culture, and Society	0743-9245		1984	1	1	1985	1	3	http://www.jstor.org/journal/statcultsoci		statcultsoci		fulltext	Absorbed		serial								P	
+Tax Policy and the Economy	0892-8649	1537-2650	1987	1		2015	29	1	http://www.jstor.org/journal/taxpolicyeconomy		taxpolicyeconomy		fulltext	Coverage presently ends: 2015. JSTOR will resume a moving wall of 5 years in 2021		serial								P	104868198
+Teuthonista	0863-5781		1924	1	1	1934	10	4	http://www.jstor.org/journal/teuthonista		teuthonista		fulltext	Absorbed		serial								P	
+The Academy of Management Executive (1987-1989)	0896-3789		1987	1	1	1989	3	4	https://www.jstor.org/journal/acadmanaexec		acadmanaexec		fulltext	now: Academy of Management Perspectives. continues: The Executive (1990-1993), The Academy of Management Executive (1993-2005)		serial								P	
+The Academy of Management Executive (1993-2005)	1079-5545		1993	7	2	2005	19	4	https://www.jstor.org/journal/acadmanaexe2		acadmanaexe2		fulltext	now: Academy of Management Perspectives. Previously: Academy of Management Executive (1987-1989), The Executive (1990-1993)		serial								P	
+The Advocate of Peace (1837-1845)	2154-8382		1837	1	1	1845	6	11/12	http://www.jstor.org/journal/advopeace1837		advopeace1837		fulltext	Absorbed		serial								P	
+The Advocate of Peace (1894-1920)	2155-7799		1894	56	1	1920	82	2	http://www.jstor.org/journal/advopeac1894		advopeac1894		fulltext	Absorbed		serial								P	
+The Advocate of Peace and Universal Brotherhood	2154-8420		1846	1	1	1846	1	12	http://www.jstor.org/journal/advopeacunivbro		advopeacunivbro		fulltext	Absorbed		serial								P	
+The American Advocate of Peace and Arbitration	2159-5070		1889	51	1	1892	54	2	http://www.jstor.org/journal/amadvopeacarbi		amadvopeacarbi		fulltext	Absorbed		serial								P	
+The American Archivist	0360-9081		1938	1	1	2016			http://www.jstor.org/journal/amerarchivist		amerarchivist		fulltext	Moving Wall: 3 years		serial								P	
+The Analysts Journal	1940-882X		1948	4	3	1959	15	5	https://www.jstor.org/journal/analj		analj		fulltext	Now Financial Analysts Journal (ISSN: 0015-198X)		serial								P	
+The Australian Quarterly	0005-0091		1929	1	1	1997	69	2	http://www.jstor.org/journal/australianq		australianq		fulltext	Now: AQ: Australian Quarterly		serial								P	
+The Brookings Bulletin	0007-229X	2375-9488	1962	1	1	1982	18	3/4	https://www.jstor.org/journal/brookingsbull		brookingsbull		fulltext	now: Brookings Review (ceased 2003)		serial								P	182755193
+The Brookings Review	0745-1253		1982	1	1	2003	21	4	https://www.jstor.org/journal/brookrev		brookrev		fulltext	Coverage Note: Ceased: 2003. Previously Brookings Bulletin (1962-1982)		serial								P	
+The Cambridge Law Journal	0008-1973	1469-2139	1921	1	1	2014			http://www.jstor.org/journal/camblawj		camblawj		fulltext	Moving Wall: 5 years		serial								P	048900176
+The Clearing House: A Journal of Educational Strategies, Issues and Ideas	0009-8655	1939-912X	1936	11	1	2012			http://www.jstor.org/journal/clearinghouse		clearinghouse		fulltext	Moving Wall: 7 years		serial								P	118362682
+The Executive	1938-9779		1990	4	1	1993	7	1	https://www.jstor.org/journal/executive		executive		fulltext	now: Academy of Management Perspectives. continues: Academy of Management Executive (1993-2005). previously: Academy of Management Executive (1987-1989)		serial								P	
+The High School Journal	0018-1498	1534-5157	1917			2018			http://www.jstor.org/journal/highschooljour		highschooljour		fulltext	Previously: The North Carolina High School Bulletin (1910-1917). Moving Wall: 1 year		serial								P	17621464X
+The Indian Journal of Political Science	0019-5510		1939	1	1	2012			http://www.jstor.org/journal/indijpoliscie		indijpoliscie		fulltext	Moving Wall: 7 years		serial								P	
+The Journal of Developing Areas	0022-037X	1548-2278	1966	1	1	2015			http://www.jstor.org/journal/jdevearea		jdevearea		fulltext	Moving Wall:4 Years		serial								P	133288315
+The Journal of Educational Research	0022-0671	1940-0675	1920	1	1	2012			http://www.jstor.org/journal/jeducresearch		jeducresearch		fulltext	Moving Wall: 7 years		serial								P	119403196
+The Journal of Experimental Education	0022-0973	1940-0683	1932	1	1	2012			http://www.jstor.org/journal/jexperimentedu		jexperimentedu		fulltext	Moving Wall: 7 years		serial								P	11940320X
+The Journal of Geology	0022-1376	1537-5269	1893	1	1	2015	123	6	http://www.jstor.org/journal/jgeology		jgeology		fulltext	Coverage presently ends: 2015. JSTOR will resume a moving wall of 5 years in 2021		serial								P	076866688
+The Journal of International Relations	0148-8937	2327-7750	1919	10	1	1922	12	4	http://www.jstor.org/journal/jinterelations		jinterelations		fulltext	Now: Foreign Affairs. Previously: Journal of Race Development (1910-1919)		serial								P	169438015
+The Journal of Library History (1966-1972)	0022-2259		1966	1	1	1972	7	4	http://www.jstor.org/journal/jlibrhisto		jlibrhisto		fulltext	Now: Information & Culture: A Journal of History. Continues: Libraries & the Cultural Record (2006-2011) , Libraries and Culture (1988-2006) The Journal of Library History (1974-1987Now: Information & Culture: A Journal of History. Continues: Libraries & the Cultural Record (2006-2011) , Libraries and Culture (1988-2006) The Journal of Library History (1974-1987) Journal of Library History, Philosophy, and Comparative Librarianship (1973)		serial								P	
+The Journal of Library History (1974-1987)	0275-3650		1974	9	1	1987	22	4	http://www.jstor.org/journal/thejlibrhist		thejlibrhist		fulltext	Now: Information & Culture: A Journal of History. Continues: Libraries & the Cultural Record (2006-2011), Libraries and Culture (1988-2006) Previously: The Journal of Library History, Philosophy, and Comparative Librarianship (1973), The Journal of Library History (1966-1972)		serial								P	
+The Journal of Race Development	1068-3380	2327-7815	1910	1	1	1919	9	4	http://www.jstor.org/journal/jracedeve		jracedeve		fulltext	Now: Foreign Affairs. Continues: Journal of International Relations (1919-1922)		serial								P	169438066
+The Junior High Clearing House (1920-1921)	1947-3850		1920	1	1	1921	1	8	http://www.jstor.org/journal/junhighclearhous		junhighclearhous		fulltext	Absorbed		serial								P	
+The Junior High Clearing House (1928-1929)	1947-3877		1928	3	1	1929	3	8	http://www.jstor.org/journal/junihighclhouse		junihighclhouse		fulltext	Absorbed		serial								P	
+The Junior High School Clearing House	1947-3869		1923	2	1	1924	2	8	http://www.jstor.org/journal/junhighschclhous		junhighschclhous		fulltext	Absorbed		serial								P	
+The Library Quarterly	0024-2519	1549-652X	1931	1	1	2015	85	4	http://www.jstor.org/journal/libraryq		libraryq		fulltext	Coverage presently ends: 2015. JSTOR will resume a moving wall of 5 years in 2021.		serial								P	083137599
+The Middle East Journal	0026-3141	1940-3461	1947	1	1	2016			http://www.jstor.org/journal/middeastj		middeastj		fulltext	Moving Wall: 3 years		serial								P	12840079X
+The Phi Delta Kappan	0031-7217	1940-6487	1916	2	1	2018			http://www.jstor.org/journal/phideltkapp		phideltkapp		fulltext	Moving Wall: 1 year		serial								P	120431424
+The Reading Teacher	0034-0561	1936-2714	1951	5	1	2016			http://www.jstor.org/journal/readingteacher		readingteacher		fulltext	Moving Wall:3 Years		serial								P	124096034
+The Town Planning Review	0041-0020	1478-341X	1910	1	1	2014			http://www.jstor.org/journal/townplanrev		townplanrev		fulltext	Moving Wall: 5 years		serial								P	070080763
+The University of Miami Inter-American Law Review	0884-1756		1984	16	1	2017			http://www.jstor.org/journal/umiaintlawrev		umiaintlawrev		fulltext	Moving Wall: 2 years		serial								P	
+The Wilson Quarterly (1976-)	0363-3276	2328-529X	1976	1	1	2018			http://www.jstor.org/journal/wilsonq		wilsonq		fulltext	Moving Wall: 1 year		serial								P	169704556
+The World Bank Economic Review	0258-6770	1564-698X	1986	1	1	2014			http://www.jstor.org/journal/worlbankeconrevi		worlbankeconrevi		fulltext	Moving Wall: 5 years		serial								P	045036454
+The World Bank Research Observer	0257-3032	1564-6971	1986	1	1	2014			http://www.jstor.org/journal/worlbankreseobse		worlbankreseobse		fulltext	Moving Wall: 5 years		serial								P	045036446
+The World Today	0043-9134		1945	1	1	2016			http://www.jstor.org/journal/worldtoday		worldtoday		fulltext	Previously: Bulletin of International News (1925-1945) Moving Wall: 3 years		serial								P	
+Vietnam Perspectives	0506-9823		1965	1	1	1967	3	2	http://www.jstor.org/journal/vietpers		vietpers		fulltext	Absorbed		serial								P	
+WSQ: Women's Studies Quarterly	0732-1562	1934-1520	1981	9	1	2018			http://www.jstor.org/journal/womestudquar		womestudquar		fulltext	Moving Wall: 1 year		serial								P	166310980
+Women in German Yearbook: Feminist Studies in German Literature & Culture	1058-7446	1940-512X	1985	1		2014			http://www.jstor.org/journal/womgeryearbook		womgeryearbook		fulltext	Moving Wall: 5 years		serial								P	131780603
+Women's Studies International	1041-9527		1982		2	1984		3	http://www.jstor.org/journal/womestudinte		womestudinte		fulltext	Ceased: 1984		serial								P	
+Women's Studies Newsletter	0363-1133		1972	1	1	1980	8	4	http://www.jstor.org/journal/womestudnews		womestudnews		fulltext	Absorbed		serial								P	
+World Affairs	0043-8200	1940-1582	1932	95	1	2017			http://www.jstor.org/journal/worldaffairs		worldaffairs		fulltext	Moving Wall: 2 years		serial								P	119403390
+World Policy Journal	0740-2775	1936-0924	1983	1	1	2014			http://www.jstor.org/journal/worldpolicyj		worldpolicyj		fulltext	Moving wall: 5 years		serial								P	115334963
+Yale Law & Policy Review	0740-8048		1982	1	1	2016			http://www.jstor.org/journal/yalelawpolirevi		yalelawpolirevi		fulltext	Moving Wall: 3 years		serial								P	
+Zeitschrift für Deutsche Mundarten	0932-1314		1906	1		1924	19	3/4	http://www.jstor.org/journal/zeitdeutmund		zeitdeutmund		fulltext	Absorbed		serial								P	
+Zeitschrift für Dialektologie und Linguistik	0044-1449		1969	36	1	2018			http://www.jstor.org/journal/zeitdialling		zeitdialling		fulltext	Moving Wall: 1 year		serial								P	
+Zeitschrift für Mundartforschung	0932-3988		1935	11	1	1968	35	3/4	http://www.jstor.org/journal/zeitmund		zeitmund		fulltext	Absorbed		serial								P	
+Zeitschrift für hochdeutsche Mundarten	0932-1322		1900	1		1905	6		http://www.jstor.org/journal/zeithochmund		zeithochmund		fulltext	Absorbed		serial								P	
+Zeitschrift für vergleichende Sprachforschung	0044-3646		1968	82	1	1987	100	2	http://www.jstor.org/journal/zeitvergspra		zeitvergspra		fulltext	Absorbed		serial								P	
+Zeitschrift für vergleichende Sprachforschung auf dem Gebiete der Indogermanischen Sprachen	0937-2229		1877	23	1	1967	81	3/4	http://www.jstor.org/journal/zeitvergspraindo		zeitvergspraindo		fulltext	Absorbed		serial								P	
+Zeitschrift für vergleichende Sprachforschung auf dem Gebiete des Deutschen, Griechischen und Lateinischen	0937-2679		1852	1	1	1874	22	6	http://www.jstor.org/journal/zeitvergspradeut		zeitvergspradeut		fulltext	Absorbed		serial								P	
+Études rurales	0014-2182	1777-537X	1961		1	2017			http://www.jstor.org/journal/etudesrurales		etudesrurales		fulltext	Moving Wall: 2 years		serial								P	110747461
