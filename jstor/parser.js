@@ -99,9 +99,9 @@ module.exports = new Parser(function analyseEC(parsedUrl) {
     // to
     // https://www.jstor.org/stable/j.ctt1xp3ks7.3
 
-    result.unitid   = doiPrefix + '/' + match[1];
-    result.title_id = doiPrefix + '/' + match[2];
-    result.doi      = doiPrefix + '/' + match[2];
+    result.unitid   = `${doiPrefix}/${match[1]}`;
+    result.title_id = `${doiPrefix}/${match[2]}`;
+    result.doi      = `${doiPrefix}/${match[2]}`;
     result.mime     = 'HTML';
     result.rtype    = match[3] ? 'BOOK_SECTION' : 'TOC';
 
@@ -114,42 +114,48 @@ module.exports = new Parser(function analyseEC(parsedUrl) {
     result.mime     = 'PDF';
     result.rtype    = 'BOOK_SECTION';
 
-  } else if ((match = /^\/stable\/(10\.[0-9]+\/(([a-z]+)(\.([0-9]{4}))?\.([0-9]+)(\.([0-9]+))?\.(issue-)?([0-9]+)(\.[0-9]+)?))$/i.exec(path)) !== null) {
+  } else if ((match = /^\/stable\/(10\.[0-9]+\/(([a-z]+)(\.([0-9]{4}))?\.([0-9]+)(\.([0-9-]+))?\.(issue-)?([0-9-]+)(\.[0-9]+)?))$/i.exec(path)) !== null) {
     // /stable/10.5621/sciefictstud.43.issue-3
     // /stable/10.1525/ncm.2009.33.1.003?seq=1
     // /stable/10.1525/cmr.2013.55.issue-2
     // /stable/10.5325/jmedirelicult.39.2.issue-2
-    result.doi      = match[1];
-    result.unitid   = match[2];
-    result.title_id = match[3];
-    result.issue    = match[9] ? match[10] : match[8];
-    result.rtype    = match[9] ? 'TOC' : 'ARTICLE';
-    result.mime     = 'HTML';
-    result.vol = match[6];
+    result.doi        = match[1];
+    result.unitid     = match[2];
+    result.title_id   = match[3];
+    result.issue      = match[9] ? match[10] : match[8];
+    result.rtype      = match[9] ? 'TOC' : 'ARTICLE';
+    result.mime       = 'HTML';
+    result.vol        = match[6];
+
+    const firstPage = parseInt(match[9] ? match[11] : match[10]);
+
+    if (!isNaN(firstPage)) {
+      result.first_page = firstPage.toString();
+    }
 
     if (match[5]) {
       result.publication_date = match[5];
     }
 
-  } else if ((match = /^\/stable\/(10\.[0-9]+\/([a-z0-9_]+))$/i.exec(path)) !== null) {
-    // /stable/10.1086/665036
-    // /stable/10.7312/cari13424
-    result.title_id = match[2];
-    result.unitid   = match[2];
-    result.doi      = match[1];
-    result.mime     = 'HTML';
-
-    if (match[2]) {
-      result.doi = match[1];
-    }
-
   } else if ((match = /^\/stable\/((resrep[0-9]+)(\.[0-9]+)?)$/i.exec(path)) !== null) {
-    // /stable/resrep12068
+    // /stable/resrep07943 REPORT
+    // /stable/resrep12068 TOC
     // /stable/resrep12068.5
     result.title_id = match[2];
     result.unitid   = match[1];
     result.mime     = 'HTML';
-    result.rtype    = match[3] ? 'BOOK_SECTION' : 'TOC';
+
+    if (match[3]) {
+      result.rtype = 'BOOK_SECTION';
+    }
+
+  } else if ((match = /^\/stable\/pdf\/((resrep[0-9]+)(\.[0-9]+)?)\.pdf$/i.exec(path)) !== null) {
+    // /stable/pdf/resrep07943.pdf
+    // /stable/pdf/resrep12068.5.pdf
+    result.title_id = match[2];
+    result.unitid   = match[1];
+    result.mime     = 'PDF';
+    result.rtype    = match[3] ? 'BOOK_SECTION' : 'BOOK';
 
   } else if ((match = /^\/stable\/((i|e)?[0-9]+)$/i.exec(path)) !== null) {
     // /stable/e26611726
@@ -171,7 +177,7 @@ module.exports = new Parser(function analyseEC(parsedUrl) {
       result.mime     = 'HTML';
     }
 
-  } else if ((match = /^\/stable\/(pdf|pdfplus)\/((10\.[0-9]+\/)?([a-z0-9.]+?))(?:\.pdf)?$/i.exec(path)) !== null) {
+  } else if ((match = /^\/stable\/(pdf|pdfplus)\/((10\.[0-9]+\/)?([a-z0-9.-]+?))(?:\.pdf)?$/i.exec(path)) !== null) {
     // /stable/pdfplus/690326.pdf
     // /stable/pdf/10.13110/merrpalmquar1982.59.2.0198.pdf
     // /stable/pdf/10.1525/gfc.2010.10.4.cover.pdf
@@ -182,7 +188,7 @@ module.exports = new Parser(function analyseEC(parsedUrl) {
     result.rtype  = 'ARTICLE';
     result.mime   = 'PDF';
 
-    const idPattern = /^([a-z0-9]+)((?:\.(\d+))?\.(\d+)\.(\d+)\.(\w+))?/.exec(result.unitid) || [];
+    const idPattern = /^([a-z0-9]+)((?:\.(\d+))?\.(\d+)\.([\d-]+)\.(\w+))?/.exec(result.unitid) || [];
 
     result.title_id         = idPattern[1];
     result.publication_date = idPattern[3];
