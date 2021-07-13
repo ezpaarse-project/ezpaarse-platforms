@@ -110,7 +110,7 @@ module.exports = new Parser(function analyseEC(parsedUrl) {
 
     result.unitid   = match[1];
     result.title_id = match[2];
-    result.doi      = '10.2307/' + match[2];
+    result.doi      = `${doiPrefix}/${match[2]}`;
     result.mime     = 'PDF';
     result.rtype    = 'BOOK_SECTION';
 
