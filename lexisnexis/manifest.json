@@ -9,7 +9,9 @@
   "docurl": "http://analyses.ezpaarse.org/platforms/54106ab65289ee1461720c5c",
   "contact": "Karine Delvert et Thomas Jouneau",
 	"domains": [
-    "www.lexisnexis.com"
+    "www.lexisnexis.com",
+    "www.lexis-nexis.com",
+    "lexis.com"	
 	],
   "recognize": {
     "rid": [
