@@ -21,13 +21,13 @@ module.exports = new Parser(function analyseEC(parsedUrl, ec) {
   let match;
 
   if (host.includes('jamanetwork')) {
-    result.db_id = 'jama';
+    result.publisher_name = 'jama';
   } else if (host.includes('asmedigitalcollection')) {
-    result.db_id = 'asmedigitalcollection';
+    result.publisher_name = 'asmedigitalcollection';
   } else if (host.includes('oup')) {
-    result.db_id = 'oup';
-  } else if (host.includes('gsw') | host.includes('geoscienceworld')) {
-    result.db_id = 'gsw';
+    result.publisher_name = 'oup';
+  } else if (host.includes('gsw') || host.includes('geoscienceworld')) {
+    result.publisher_name = 'gsw';
   }
 
   if ((match = /^\/([a-z0-9_.-]+)\.pdf$/i.exec(path)) !== null) {
