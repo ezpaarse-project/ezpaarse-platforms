@@ -1,0 +1,14 @@
+{
+  "longname": "Biblioteca",
+  "name": "biblioteca",
+  "describe": "Recognizes the accesses to the platform Biblioteca",
+  "contact": "Sean Duffy",
+  "pkb": false,
+  "docurl": "http://analyses.ezpaarse.org/platforms/613b4b26c1077067516754ef",
+  "domains": [
+    "biblioteca.duoc.cl.webezproxy.duoc.cl",
+    "biblioteca.duoc.cl"
+  ],
+  "version": "2021-09-10",
+  "status": "beta"
+}
