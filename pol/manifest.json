@@ -1,0 +1,15 @@
+{
+  "longname": "Politico",
+  "name": "pol",
+  "describe": "Recognizes the accesses to the platform Politico",
+  "contact": "Sean Duffy",
+  "pkb": false,
+  "docurl": "http://analyses.ezpaarse.org/platforms/60ff0f230d67c42a92f3109c",
+  "domains": [
+    "subscriber-politicopro-com.cmu.idm.oclc.org",
+    "subscriber-politicopro-com",
+    "subscriber.politicopro"
+  ],
+  "version": "2021-09-10",
+  "status": "beta"
+}
