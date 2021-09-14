@@ -1,0 +1,13 @@
+{
+  "longname": "Netter Reference",
+  "name": "nr",
+  "describe": "Recognizes the accesses to the platform Netter Reference",
+  "contact": "Sean Duffy",
+  "pkb": false,
+  "docurl": "http://analyses.ezpaarse.org/platforms/6112c18dc61eda3288622ae6",
+  "domains": [
+    "netterreference.com"
+  ],
+  "version": "2021-09-10",
+  "status": "beta"
+}
