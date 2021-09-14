@@ -24,15 +24,14 @@ module.exports = new Parser(function analyseEC(parsedUrl, ec) {
   if ((match = /^\/(bizjournals|newyork)\/news\/[0-9]{4}\/[0-9]{2}\/[0-9]{2}\/([a-z0-9-]+)\.html$/i.exec(path)) !== null) {
     // https://www.bizjournals.com/newyork/news/2021/07/24/rental-car-shortage-labor-semiconductor-shipping.html
     // https://www.bizjournals.com/bizjournals/news/2021/07/26/covid-19-shortage-suply-chain.html
-    result.rtype    = 'ARTICLE';
-    result.mime     = 'HTML';
+    result.rtype  = 'ARTICLE';
+    result.mime   = 'HTML';
     result.unitid = match[2];
 
-  } else if ((match = /^\/bizjournals\/search\/results$/i.exec(path)) !== null) {
+  } else if (/^\/bizjournals\/search\/results$/i.test(path)) {
     // https://www.bizjournals.com/bizjournals/search/results?q=Bitcoin&search__button=
-    result.rtype    = 'SEARCH';
-    result.mime     = 'HTML';
-    result.unitid   = match[2];
+    result.rtype = 'SEARCH';
+    result.mime  = 'HTML';
   }
 
   return result;
