@@ -21,7 +21,7 @@ module.exports = new Parser(function analyseEC(parsedUrl, ec) {
 
   let match;
 
-  if ((match = /^\/bdigital\/elibros\/([a-z0-9]+)-(.+)\/([0-9]+)\/$/i.exec(path)) !== null) {
+  if ((match = /^\/bdigital\/elibros\/([a-z0-9]+-(.+?))\/[0-9]+\/$/i.exec(path)) !== null) {
     //http://biblioteca.duoc.cl/bdigital/elibros/a47198-Practical%20Audio/94/
     //http://biblioteca.duoc.cl/bdigital/elibros/a47198-Practical%20Audio/98/
     result.rtype    = 'BOOK_PAGE';
