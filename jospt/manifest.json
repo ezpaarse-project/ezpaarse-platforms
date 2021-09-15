@@ -1,0 +1,13 @@
+{
+  "longname": "Journal of Orthopaedic & Sports Physical Therapy",
+  "name": "jospt",
+  "describe": "Recognizes the accesses to the platform Journal of Orthopaedic & Sports Physical Therapy",
+  "contact": "thomas.porquet, Sean Duffy",
+  "pkb": false,
+  "docurl": "http://analyses.ezpaarse.org/platforms/573b3d56d745784c3db53f1b ",
+  "domains": [
+    "www.jospt.org"
+  ],
+  "version": "2021-09-15",
+  "status": "beta"
+}
