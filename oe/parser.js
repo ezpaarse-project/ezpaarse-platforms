@@ -14,7 +14,7 @@ module.exports = new Parser(function analyseEC(parsedUrl, ec) {
   let result = {};
   let path   = parsedUrl.pathname;
   // uncomment this line if you need parameters
-  let param = parsedUrl.query || {};
+  // let param = parsedUrl.query || {};
 
   // use console.error for debuging
   // console.error(parsedUrl);
@@ -23,15 +23,14 @@ module.exports = new Parser(function analyseEC(parsedUrl, ec) {
 
   if ((match = /^\/[a-z]+\/[a-z]+\/([0-9]+)$/i.exec(path)) !== null) {
     // https://myorthoevidence.com/AceReports/Report/7741
-    result.rtype    = 'ARTICLE';
-    result.mime     = 'HTML';
+    result.rtype = 'ARTICLE';
+    result.mime = 'HTML';
     result.unitid = match[1];
 
   } else if ((match = /^\/Search\/$/i.exec(path)) !== null) {
     // https://myorthoevidence.com/Search/?SearchTerm=Lower+Extremity
-    result.rtype    = 'SEARCH';
-    result.mime     = 'HTML';
-    result.unitid = param.SearchTerm;
+    result.rtype = 'SEARCH';
+    result.mime = 'HTML';
   }
 
   return result;
