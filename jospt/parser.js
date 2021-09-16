@@ -21,23 +21,23 @@ module.exports = new Parser(function analyseEC(parsedUrl, ec) {
 
   let match;
 
-  if ((match = /^\/doi\/pdf\/(.+)$/i.exec(path)) !== null) {
+  if ((match = /^\/doi\/pdf\/(10\.[0-9]+\/([a-z0-9.]+))/i.exec(path)) !== null) {
     // https://www.jospt.org/doi/pdf/10.2519/jospt.2021.0109
-    result.rtype    = 'ARTICLE';
-    result.mime     = 'PDF';
-    result.unitid = match[1];
+    result.rtype = 'ARTICLE';
+    result.mime  = 'PDF';
+    result.unitid = match[2];
     result.doi = match[1];
 
-  } else if ((match = /^\/doi\/(.+)$/i.exec(path)) !== null) {
+  } else if ((match = /^\/doi\/(10\.[0-9]+\/([a-z0-9.]+))/i.exec(path)) !== null) {
     // https://www.jospt.org/doi/10.2519/jospt.2021.0109
-    result.rtype    = 'ARTICLE';
-    result.mime     = 'HTML';
-    result.unitid   = match[1];
+    result.rtype = 'ARTICLE';
+    result.mime = 'HTML';
+    result.unitid = match[2];
     result.doi = match[1];
   } else if ((match = /^\/action\/doSearch$/i.exec(path)) !== null) {
     // https://www.jospt.org/action/doSearch?AllField=pain
-    result.rtype    = 'SEARCH';
-    result.mime     = 'HTML';
+    result.rtype = 'SEARCH';
+    result.mime = 'HTML';
   }
 
   return result;
