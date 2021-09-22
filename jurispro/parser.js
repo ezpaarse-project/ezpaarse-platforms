@@ -44,6 +44,11 @@ module.exports = new Parser(function analyseEC(parsedUrl, ec) {
     } else if (docPart === 'L') {
       result.rtype = 'JURISPRUDENCE';
     }
+  } else if ((match = /^\/jportal\/docs\/anlage\/[a-z]+\/[a-z0-9-]+\/pdf\/([a-z0-9-]+)\.pdf$/i.exec(path)) !== null) {
+    // /jportal/docs/anlage/jpk/sgbg-2/pdf/SGB7-0020.pdf
+    result.rtype = 'JURISPRUDENCE';
+    result.mime = 'PDF';
+    result.unitid = match[1];
   }
 
   return result;

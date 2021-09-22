@@ -1,0 +1,13 @@
+{
+  "longname": "ICE Virtual Library",
+  "name": "ivl",
+  "describe": "Recognizes the accesses to the platform ICE Virtual Library",
+  "contact": "thomas.porquet, Sean Duffy",
+  "pkb": false,
+  "docurl": "http://analyses.ezpaarse.org/platforms/573b3c47b5e82d819c5de812",
+  "domains": [
+    "www.icevirtuallibrary.com"
+  ],
+  "version": "2021-09-21",
+  "status": "beta"
+}

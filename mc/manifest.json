@@ -1,0 +1,13 @@
+{
+  "longname": "Medicines Complete",
+  "name": "mc",
+  "describe": "Recognizes the accesses to the platform Medicines Complete",
+  "contact": "Sean Duffy",
+  "pkb": false,
+  "docurl": "http://analyses.ezpaarse.org/platforms/614248b2f728fb49b59f0783",
+  "domains": [
+    "www.medicinescomplete.com"
+  ],
+  "version": "2021-09-16",
+  "status": "beta"
+}

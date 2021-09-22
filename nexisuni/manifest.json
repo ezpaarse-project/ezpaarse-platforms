@@ -2,7 +2,8 @@
   "version": "2017-12-19",
   "status": "stable",
   "domains": [
-    "advance.lexis.com"
+    "advance.lexis.com",
+    "nexisuni.com"
   ],
   "recognize": {
     "rid": [

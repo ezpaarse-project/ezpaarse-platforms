@@ -26,13 +26,18 @@ module.exports = new Parser(function analyseEC(parsedUrl, ec) {
     result.rtype = 'TOC';
     result.mime = 'HTML';
     result.doi = match[1];
-    result.unitid = match[3];
+    result.unitid = `${match[3]}/${match[4]}`;
   } else if ((match = /^\/((10.[0-9]+)\/([0-9]+)).pdf$/i.exec(path)) !== null) {
     // /10.5771/9783748905509.pdf
     result.rtype = 'BOOK';
     result.mime = 'PDF';
     result.doi = match[1];
     result.unitid = match[3];
+  } else if ((match = /^\/((10.[0-9]+)\/([0-9]+)-([0-9]+))\/([a-z0-9-]+)$/i.exec(path)) !== null) {
+    // /10.5771/9783748906315-23/b-unternehmerisches-ermessen
+    result.rtype = 'BOOK_SECTION';
+    result.doi = match[1];
+    result.unitid = `${match[3]}-${match[4]}/${match[5]}`;
   }
 
   return result;
