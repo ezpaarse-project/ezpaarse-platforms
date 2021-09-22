@@ -10,6 +10,9 @@
   "pkb": true,
   "pkb-domains": "title_id",
   "domains": [
-    "www.asmscience.org"
+    "www.asmscience.org",
+    "journals.bmj.com",
+    "gut.bmj.com",
+    "bmjopensem.bmj.com"
   ]
 }
