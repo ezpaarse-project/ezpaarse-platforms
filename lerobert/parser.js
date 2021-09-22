@@ -1,10 +1,7 @@
 #!/usr/bin/env node
 
-// ##EZPAARSE
-
-/*jslint maxlen: 150*/
 'use strict';
-var Parser = require('../.lib/parser.js');
+let Parser = require('../.lib/parser.js');
 
 /**
  * Recognizes the accesses to the platform Le Robert
@@ -14,22 +11,21 @@ var Parser = require('../.lib/parser.js');
  * @return {Object} the result
  */
 module.exports = new Parser(function analyseEC(parsedUrl, ec) {
-  var result = {};
-  var path   = parsedUrl.pathname;
-  // uncomment this line if you need parameters
-  var param  = parsedUrl.query || {};
+  let result = {};
+  let path   = parsedUrl.pathname;
+  let param  = parsedUrl.query || {};
 
-  // use console.error for debuging
-  // console.error(parsedUrl);
-
-
-  if (/^\/([a-zA-Z]+).asp$/.test(path)) {
+  if (/^\/robertArticle.asp$/i.test(path)) {
     // http://pr.bvdep.com/robertArticle.asp
-    result.rtype    = 'ENCYCLOPAEDIA_ENTRY';
-    result.mime     = 'HTML';
+    result.rtype = 'ENCYCLOPAEDIA_ENTRY';
+    result.mime = 'HTML';
     if (param.id) {
       result.unitid = param.id;
     }
+  } else if (/^\/robertSearch.asp$/i.test(path)) {
+    // /robertSearch.asp?q=grenouille&d=1&type=ext&version=4
+    result.rtype = 'SEARCH';
+    result.mime = 'HTML';
   }
 
   return result;
