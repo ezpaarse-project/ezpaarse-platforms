@@ -1,0 +1,13 @@
+{
+  "longname": "Legal Bluebok Online",
+  "name": "blue",
+  "describe": "Recognizes the accesses to the platform Legal Bluebok Online",
+  "contact": "Julie Verleyen, Teresa Fernandez Olaizola",
+  "pkb": false,
+  "docurl": "http://analyses.ezpaarse.org/platforms/60c99debac699883dfef77d8",
+  "domains": [
+    "www.legalbluebook.com"
+  ],
+  "version": "2021-09-22",
+  "status": "beta"
+}
