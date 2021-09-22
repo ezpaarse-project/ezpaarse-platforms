@@ -1,6 +1,6 @@
-out-doi;out-unitid;out-title_id;out-vol;out-issue;out-first_page;out-rtype;out-mime;out-_granted;in-url;in-size
-;;journals.bmj.com;;;;SEARCH;HTML;;https://journals.bmj.com/search/pain;
-;gut.bmj.com/21/3/264.2;gut.bmj.com;21;3;264;ARTICLE;HTML;;https://gut.bmj.com/content/21/3/264.2;
-;gut.bmj.com/21/3/264.2;gut.bmj.com;21;3;264;ARTICLE;PDF;;https://gut.bmj.com/content/gutjnl/21/3/264.2.full.pdf;
-;bmjopensem.bmj.com/7/3/e001096;bmjopensem.bmj.com;7;3;e001096;ARTICLE;HTML;;https://bmjopensem.bmj.com/content/7/3/e001096;
-;bmjopensem.bmj.com/7/3/e001096;bmjopensem.bmj.com;7;3;e001096;ARTICLE;PDF;;https://bmjopensem.bmj.com/content/bmjosem/7/3/e001096.full.pdf;
+out-unitid;out-title_id;out-vol;out-issue;out-first_page;out-rtype;out-mime;in-url
+;journals.bmj.com;;;;SEARCH;HTML;https://journals.bmj.com/search/pain
+gut.bmj.com/21/3/264.2;gut.bmj.com;21;3;264;ARTICLE;HTML;https://gut.bmj.com/content/21/3/264.2
+gut.bmj.com/21/3/264.2;gut.bmj.com;21;3;264;ARTICLE;PDF;https://gut.bmj.com/content/gutjnl/21/3/264.2.full.pdf
+bmjopensem.bmj.com/7/3/e001096;bmjopensem.bmj.com;7;3;e001096;ARTICLE;HTML;https://bmjopensem.bmj.com/content/7/3/e001096
+bmjopensem.bmj.com/7/3/e001096;bmjopensem.bmj.com;7;3;e001096;ARTICLE;PDF;https://bmjopensem.bmj.com/content/bmjosem/7/3/e001096.full.pdf
