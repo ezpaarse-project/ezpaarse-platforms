@@ -1,0 +1,13 @@
+{
+  "longname": "Beck Online",
+  "name": "beck",
+  "describe": "Recognizes the accesses to the platform Beck Online",
+  "contact": "Julie Verleyen, Teresa Fernandez Olaizola, wilmouths",
+  "pkb": false,
+  "docurl": "http://analyses.ezpaarse.org/platforms/60c9a2d0e46d7d137f4665f5",
+  "domains": [
+    "beck-online.beck.de"
+  ],
+  "version": "2021-09-22",
+  "status": "beta"
+}
