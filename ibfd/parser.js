@@ -12,28 +12,20 @@ const Parser = require('../.lib/parser.js');
  */
 module.exports = new Parser(function analyseEC(parsedUrl, ec) {
   let result = {};
-  let path   = parsedUrl.pathname;
-  let param = parsedUrl.query || {};
-
-  // use console.error for debuging
-  // console.error(parsedUrl);
+  let path = parsedUrl.pathname;
+  let hash = parsedUrl.hash;
 
   let match;
-
   if ((match = /^\/collections\/oecd\/pdf\/([a-z0-9-_]+)\.pdf$/i.exec(path)) !== null) {
     // /collections/oecd/pdf/oecd_pcd_challenges_digitalisation_economy.pdf
     result.rtype = 'OTHER';
     result.mime = 'PDF';
     result.unitid = match[1];
-  } else if (/^\/#\/doc$/i.test(path)) {
+  } else if ((match = /^#\/doc\?url=\/collections\/[a-z]+\/html\/([a-z0-9-_]+)\.html$/i.exec(hash)) !== null) {
     // /#/doc?url=/collections/kf/html/kf_dz.html
     // /#/doc?url=/collections/bit/html/bit_2021_06_ca_1.html
-    result.rtype = 'OTHER';
-    result.mime = 'PDF';
-
-    if ((match = /^\/collections\/[a-z]+\/html\/([a-z0-9-_]+)\.html$/i.exec(param.url)) !== null && param.doc) {
-      result.unitid = match[1];
-    }
+    result.mime = 'HTML';
+    result.unitid = match[1];
   }
 
   return result;
