@@ -23,26 +23,26 @@ module.exports = new Parser(function analyseEC(parsedUrl, ec) {
 
   if ((match = /^\/action\/doSearch$/i.exec(path)) !== null) {
     // https://www.icevirtuallibrary.com/action/doSearch?AllField=Bridge&ConceptID=
-    result.rtype    = 'SEARCH';
-    result.mime     = 'HTML';
-  } else if ((match = /^\/doi\/abs\/(.+)$/i.exec(path)) !== null) {
+    result.rtype = 'SEARCH';
+    result.mime = 'HTML';
+  } else if ((match = /^\/doi\/abs\/(10\.[0-9]+\/([a-z0-9.]+))$/i.exec(path)) !== null) {
     // https://www.icevirtuallibrary.com/doi/abs/10.1680/bmf.33542.0049
-    result.rtype    = 'ABS';
-    result.mime     = 'HTML';
+    result.rtype = 'ABS';
+    result.mime = 'HTML';
     result.doi = match[1];
-    result.unitid   = match[1];
-  } else if ((match = /^\/doi\/pdf\/(.+)$/i.exec(path)) !== null) {
+    result.unitid = match[2];
+  } else if ((match = /^\/doi\/pdf\/(10\.[0-9]+\/([a-z0-9.]+))$/i.exec(path)) !== null) {
     // https://www.icevirtuallibrary.com/doi/pdf/10.1680/jadcr.19.00157
-    result.rtype    = 'ARTICLE';
-    result.mime     = 'PDF';
+    result.rtype = 'ARTICLE';
+    result.mime = 'PDF';
     result.doi = match[1];
-    result.unitid   = match[1];
-  } else if ((match = /^\/doi\/full\/(.+)$/i.exec(path)) !== null) {
+    result.unitid = match[2];
+  } else if ((match = /^\/doi\/full\/(10\.[0-9]+\/([a-z0-9.]+))$/i.exec(path)) !== null) {
     // https://www.icevirtuallibrary.com/doi/full/10.1680/jadcr.19.00157
-    result.rtype    = 'ARTICLE';
-    result.mime     = 'HTML';
+    result.rtype = 'ARTICLE';
+    result.mime = 'HTML';
     result.doi = match[1];
-    result.unitid   = match[1];
+    result.unitid = match[2];
   }
 
   return result;
