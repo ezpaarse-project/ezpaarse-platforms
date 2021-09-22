@@ -22,10 +22,15 @@ module.exports = new Parser(function analyseEC(parsedUrl, ec) {
   let match;
 
   if ((match = /^#\/o\/book\/detail\/([0-9]+)$/i.exec(hash)) !== null) {
-    // https://app-lexnow-lu.proxy.bnl.lu/#/o/book/detail/1763
+    // /#/o/book/detail/1763
     result.unitid = match[1];
     result.rtype = 'BOOK_SECTION';
     result.mime = 'PDF';
+  } else if ((match = /^#\/o\/document\/detail\/([0-9]+)$/i.exec(hash)) !== null) {
+    // /#/o/document/detail/32778
+    result.unitid = match[1];
+    result.rtype = 'CODE_JURIDIQUE';
+    result.mime = 'HTML';
   }
 
   return result;
