@@ -1,0 +1,13 @@
+{
+  "longname": "Bibliographie Der Deutschen Sprach- Und Literaturwissenschaft  (BDSL)",
+  "name": "bdsl",
+  "describe": "Recognizes the accesses to the platform Bibliographie Der Deutschen Sprach- Und Literaturwissenschaft  (BDSL)",
+  "contact": "Julie Verleyen, Teresa Fernandez Olaizola, wilmouths",
+  "pkb": false,
+  "docurl": "http://analyses.ezpaarse.org/platforms/60c9a64872b8a81ca9c2a2fc",
+  "domains": [
+    "www.bdsl-online.de"
+  ],
+  "version": "2021-09-22",
+  "status": "beta"
+}
