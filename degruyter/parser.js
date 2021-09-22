@@ -18,7 +18,36 @@ module.exports = new Parser(function analyseEC(parsedUrl, ec) {
   let path   = parsedUrl.pathname;
   let match;
 
-  if ((match = /^\/view\/[a-z]+\/([a-z]+)\.([0-9]+)\.([0-9]+)\.issue-([0-9]+)\/([a-z0-9-]+)\/([a-z0-9._-]+).xml$/i.exec(path)) !== null) {
+  if ((match = /^\/document\/doi\/(10\.[0-9]+\/([a-z0-9_.-]+))\/(html|pdf)$/i.exec(path)) !== null) {
+    // Article: /document/doi/10.1515/bd-2021-0084/html
+    // Article: /document/doi/10.1515/bd-2021-0050/pdf
+
+    // Chapter: /document/doi/10.7312/ferr14880-003/html
+    // Monograph: /document/doi/10.14361/9783839456897/pdf
+    // Book: /document/doi/10.1515/9783110690491/pdf
+
+    result.mime   = match[3] === 'pdf' ? 'PDF' : 'HTML';
+    result.doi    = match[1];
+    result.unitid = match[2];
+
+    if (/^[a-z]+-[0-9]{4}-[a-z0-9]+$/i.test(result.unitid)) {
+      result.rtype = 'ARTICLE';
+    } else if (/^[a-z]+\.[0-9]+\.[0-9]+\.[a-z0-9]+$/i.test(result.unitid)) {
+      result.rtype = 'ARTICLE';
+    } else if (/^[0-9]{13}$/i.test(result.unitid)) {
+      result.rtype = 'BOOK';
+    } else if (/^([0-9]{13}|[a-z]+[0-9]+)-[a-z0-9]+$/i.test(result.unitid)) {
+      result.rtype = 'BOOK_SECTION';
+    }
+
+  } else if ((match = /^\/document\/database\/([a-z0-9]+)\/entry\/([a-z0-9]+)\/(html|pdf)$/i.exec(path)) !== null) {
+    // /document/database/BTL/entry/AIUVETSAT/html
+
+    result.rtype  = 'OTHER';
+    result.mime   = match[3] === 'pdf' ? 'PDF' : 'HTML';
+    result.unitid = match[2];
+
+  } else if ((match = /^\/view\/[a-z]+\/([a-z]+)\.([0-9]+)\.([0-9]+)\.issue-([0-9]+)\/([a-z0-9-]+)\/([a-z0-9._-]+).xml$/i.exec(path)) !== null) {
     // /view/j/jtms.2014.1.issue-2/issue-files/jtms.2014.1.issue-2.xml
     // /view/j/jtms.2014.1.issue-2/jtms-2014-0026/jtms-2014-0026.xml?format=INT
     result.rtype            = 'TOC';
