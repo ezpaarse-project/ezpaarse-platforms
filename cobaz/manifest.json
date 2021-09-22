@@ -1,0 +1,13 @@
+{
+  "longname": "Cobaz",
+  "name": "cobaz",
+  "describe": "Recognizes the accesses to the platform Cobaz",
+  "contact": "Virginie BU UPJV, wilmouths",
+  "pkb": false,
+  "docurl": "http://analyses.ezpaarse.org/platforms/60b8987a0654805946aa1175",
+  "domains": [
+    "cobaz.afnor.org"
+  ],
+  "version": "2021-09-22",
+  "status": "beta"
+}
