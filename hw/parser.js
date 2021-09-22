@@ -225,6 +225,9 @@ module.exports = new Parser(function analyseEC(parsedUrl, ec) {
       result.mime  = 'HTML';
       break;
     }
+  } else if ((match = /^\/search\/([a-z]+)$/i.exec(path)) !== null) {
+    result.rtype = 'SEARCH';
+    result.mime  = 'HTML';
   }
 
   // do not return ECs with empty rtype and empty mime
