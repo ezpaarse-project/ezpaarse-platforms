@@ -23,21 +23,21 @@ module.exports = new Parser(function analyseEC(parsedUrl, ec) {
 
   if ((match = /^\/Library\/articles\/[0-9]+\/(.+)\.pdf$/i.exec(path)) !== null) {
     // https://www.jsomonline.org/Library/articles/2101/20211102Cordier.pdf?utm_source=LibraryIP&utm_medium=website&utm_campaign=University+College+Cork
-    result.rtype    = 'ARTICLE';
-    result.mime     = 'PDF';
+    result.rtype = 'ARTICLE';
+    result.mime = 'PDF';
     result.unitid = match[1];
 
   } else if ((match = /^\/Library\/Flipbook\/[a-z]+\/[a-z]+\/index\.html$/i.exec(path)) !== null) {
     // https://www.jsomonline.org/Library/Flipbook/ARFR/mobile/index.html
-    result.rtype    = 'BOOK';
-    result.mime     = 'HTML';
+    result.rtype = 'BOOK';
+    result.mime = 'HTML';
     result.title_id = match[1];
-    result.unitid   = match[2];
+    result.unitid = match[2];
   } else if ((match = /^\/TOC\/([0-9a-z]+)\.php$/i.exec(path)) !== null) {
     // https://www.jsomonline.org/TOC/2101JSOMTOC.php
-    result.rtype    = 'TOC';
-    result.mime     = 'HTML';
-    result.unitid   = match[1];
+    result.rtype = 'TOC';
+    result.mime = 'HTML';
+    result.unitid = match[1];
   }
 
   return result;
