@@ -10,7 +10,9 @@
   "contact": "yannick.schurter at inist.fr",
   "pkb": true,
   "domains": [
-    "www.oxfordscholarship.com"
+    "www.oxfordscholarship.com",
+    "m.oxfordscholarship.com",
+    "oxford.universitypressscholarship.com"
   ],
   "recognize": {
     "rid": [
