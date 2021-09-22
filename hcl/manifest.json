@@ -1,0 +1,13 @@
+{
+  "longname": "Revue Droz Histoire et Civilisation",
+  "name": "hcl",
+  "describe": "Recognizes the accesses to the platform Revue Droz Histoire et Civilisation",
+  "contact": "Julie Verleyen, Teresa Fernandez Olaizola, Frederic Truong inist, wilmouths",
+  "pkb": false,
+  "docurl": "http://analyses.ezpaarse.org/platforms/60ffe285f642a241d70ddda2",
+  "domains": [
+    "revues.droz.org"
+  ],
+  "version": "2021-09-22",
+  "status": "beta"
+}
