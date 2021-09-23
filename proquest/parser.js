@@ -20,11 +20,30 @@ module.exports = new Parser(function analyseEC(parsedUrl, ec) {
   let path = parsedUrl.pathname;
   let match;
 
-  if ((match = /^\/media\/pq\/classic\/doc\/(\d+)\/fmt\/ai\/rep\/[SN]PDF/i.exec(path)) !== null) {
+  if ((match = /^\/media\/pq\/classic\/doc\/(\d+)\/fmt\/ai\/rep\/[SN]PDF$/i.exec(path)) !== null) {
     // /media/pq/classic/doc/3248224701/fmt/ai/rep/NPDF
     result.rtype  = 'ARTICLE';
     result.mime   = 'PDF';
     result.unitid = match[1];
+
+  } else if ((match = /^\/media\/[a-z]+\/[a-z]+\/doc\/([a-z0-9_.-]+)\/doc\.pdf$/i.exec(path)) !== null) {
+    // /media/ch/bpc/doc/BPC000005_19010130_01_0033/doc.pdf
+    result.rtype  = 'ARTICLE';
+    result.mime   = 'PDF';
+    result.unitid = match[1];
+
+  } else if ((match = /^\/media\/[a-z]+\/PFT\/[0-9]+\/([a-z0-9_.-]+)$/i.exec(path)) !== null) {
+    // /media/hms/PFT/1/XbzE8
+    result.rtype  = 'ARTICLE';
+    result.mime   = 'PDF';
+    result.unitid = match[1];
+
+  } else if ((match = /^(?:\/(\w+))?\/docview\/(\d+)\/?$/i.exec(path)) !== null) {
+    // /docview/2165751488?accountid=14709
+    result.rtype    = 'ARTICLE';
+    result.mime     = 'HTML';
+    result.title_id = match[1];
+    result.unitid   = match[2];
 
   } else if ((match = /^(?:\/(\w+))?\/docview\/(\d+)\/(fulltextPDF|fulltext|previewPDF|abstract)/i.exec(path)) !== null) {
     // /adac/docview/1548422574/fulltext
