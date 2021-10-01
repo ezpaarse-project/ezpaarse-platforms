@@ -1,0 +1,13 @@
+{
+  "longname": "The Fibonacci Quarterly",
+  "name": "fq",
+  "describe": "Recognizes the accesses to the platform The Fibonacci Quarterly",
+  "contact": "Sean Duffy",
+  "pkb": false,
+  "docurl": "http://analyses.ezpaarse.org/platforms/6155173c805e17601f244ea7",
+  "domains": [
+    "www.fq-math.ca"
+  ],
+  "version": "2021-09-30",
+  "status": "beta"
+}
