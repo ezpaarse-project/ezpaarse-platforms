@@ -21,7 +21,7 @@ module.exports = new Parser(function analyseEC(parsedUrl, ec) {
 
   let match;
 
-  if ((match = /^\/[a-z]+\/getfreepdf\/([^.]+)\.pdf$/i.exec(path)) !== null) {
+  if ((match = /^\/[a-z]+\/getfreepdf\/[a-z0-9%]+\/([^.]+)\.pdf$/i.exec(path)) !== null) {
     // https://www.minervamedica.it/en/getfreepdf/ZU9wZGRZNENRVHBPSFVUN1E2QTBlR1FWdmI0Ymx1N3BET0tIaWo3SERXOFJ6MVU5ZWJZTUh4SGY4WFU5bGJOcA%253D%253D/R40Y2021N08A1081.pdf
     result.rtype    = 'ARTICLE';
     result.mime     = 'PDF';
