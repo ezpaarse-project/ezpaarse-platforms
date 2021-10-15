@@ -1,0 +1,13 @@
+{
+  "longname": "The Royal Society",
+  "name": "trs",
+  "describe": "Recognizes the accesses to the platform The Royal Society",
+  "contact": "Sean Duffy",
+  "pkb": false,
+  "docurl": "http://analyses.ezpaarse.org/platforms/615defa6af291b5df420c2fd",
+  "domains": [
+    "royalsocietypublishing.org"
+  ],
+  "version": "2021-10-15",
+  "status": "beta"
+}
