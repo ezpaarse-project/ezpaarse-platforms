@@ -12,6 +12,17 @@ const pcc_doi_prefix = '10.4088/PCC.';
  * @param  {Object} ec        an object representing the EC whose URL is being analyzed
  * @return {Object} the result
  */
+
+function getPubTitle(urlFragment) {
+  let publication_title;
+  if (urlFragment === 'jcp' || urlFragment === 'JCP') {
+    publication_title = 'The Journal of Clinical Psychiatry';
+  } else if (urlFragment === 'pcc' || urlFragment === 'PCC') {
+    publication_title = 'The Primary Care Companion For CNS Disorders';
+  }
+  return publication_title;
+}
+
 module.exports = new Parser(function analyseEC(parsedUrl, ec) {
   let result = {};
   let path   = parsedUrl.pathname;
@@ -30,7 +41,9 @@ module.exports = new Parser(function analyseEC(parsedUrl, ec) {
     result.mime     = 'PDF';
     if ((itemid = /^\/.*\/(.*)\.aspx$/i.exec(param.Article)) !== null) {
       result.unitid = itemid[1];
-    } if (match[1] === 'JCP' || match[1] === 'jcp') {
+    }
+
+    if (match[1] === 'JCP' || match[1] === 'jcp') {
       result.doi = jcp_doi_prefix + itemid[1];
     } else if (match[1] === 'PCC' || match[1] === 'pcc') {
       result.doi = pcc_doi_prefix + itemid[1];
@@ -51,39 +64,24 @@ module.exports = new Parser(function analyseEC(parsedUrl, ec) {
     result.mime     = 'MISC';
     if ((itemid = /^\/([a-zA-Z]{3})\/.*\/(.*).mp3$/i.exec(param.url)) !== null) {
       result.unitid = itemid[2];
-    } if (match[1] === 'jcp' || match[1] === 'JCP') {
-      result.publication_title = 'The Journal of Clinical Psychiatry';
-    } else if (match[1] === 'pcc' || match[1] === 'PCC') {
-      result.pulication_title = 'The Primary Care Companion For CNS Disorders';
     }
+    result.publication_title = getPubTitle(match[1]);
   } else if ((match = /^\/([a-zA-Z]{3})\/article\/BinaryFiles\/audio\/podcast\/(.*).mp3$/i.exec(path)) !== null) {
     // http://www.psychiatrist.com:80/pcc/article/BinaryFiles/audio/podcast/20PCC164PC.mp3
     result.rtype    = 'AUDIO';
     result.mime     = 'MISC';
     result.unitid   = match[2];
-    if (match[1] === 'jcp' || match[1] === 'JCP') {
-      result.publication_title = 'The Journal of Clinical Psychiatry';
-    } else if (match[1] === 'pcc' || match[1] === 'PCC') {
-      result.publication_title = 'The Primary Care Companion For CNS Disorders';
-    }
+    result.publication_title = getPubTitle(match[1]);
   } else if ((match = /^\/([a-zA-Z]{3})\/toc|TOC\/pages\/.*.aspx$/i.exec(path)) !== null) {
     // http://www.psychiatrist.com:80/jcp/toc/pages/aheadofprint.aspx
     result.rtype    = 'TOC';
     result.mime     = 'HTML';
-    if (match[1] === 'jcp' || match[1] === 'JCP') {
-      result.publication_title = 'The Journal of Clinical Psychiatry';
-    } else if (match[1] === 'pcc' || match[1] === 'PCC') {
-      result.publication_title = 'The Primary Care Companion For CNS Disorders';
-    }
+    result.publication_title = getPubTitle(match[1]);
   } else if ((match = /^\/([a-zA-Z]{3})\/Pages|pages\/weekly.aspx$/i.exec(path)) !== null) {
     // http://www-psychiatrist-com.proxy.library.emory.edu/JCP/Pages/weekly.aspx
     result.rtype    = 'VIDEO';
     result.mime     = 'MISC';
-    if (match[1] === 'jcp' || match[1] === 'JCP') {
-      result.publication_title = 'The Journal of Clinical Psychiatry';
-    } else if (match[1] === 'pcc' || match[1] === 'PCC') {
-      result.publication_title = 'The Primary Care Companion For CNS Disorders';
-    }
+    result.publication_title = getPubTitle(match[1]);
   } else if (/^\/(Pages|pages)\/Search/i.test(path)) {
     // http://www.psychiatrist.com:80/Pages/SearchResults.aspx?k=%22freud%22
     result.rtype    = 'SEARCH';
@@ -92,6 +90,31 @@ module.exports = new Parser(function analyseEC(parsedUrl, ec) {
     // http://www.psychiatrist.com:80/pcc/pages/categories.aspx?cat=Sleep
     result.rtype    = 'SEARCH';
     result.mime     = 'HTML';
+  } else if (/^\/advanced-search/i.test(path)) {
+    // https://www.psychiatrist.com/advanced-search/?title=insomnia
+    result.rtype    = 'SEARCH';
+    result.mime     = 'HTML';
+    result.unitid = parsedUrl.search.replace('?', '');
+  } else if ((match = /^\/toc\/[a-z-]+\/([0-9]+)\/([0-9]{4})\/([0-9]+)\/([a-zA-Z]{3})\/$/i.exec(path)) !== null) {
+    // https://www.psychiatrist.com/toc/pa-volume/82/2021/4/jcp/
+    result.rtype    = 'TOC';
+    result.mime     = 'HTML';
+    result.vol = match[1];
+    result.issue = match[3];
+    result.year = match[2];
+    result.publication_title = getPubTitle(match[4]);
+
+  } else if ((match = /^\/read-pdf\/([0-9]+)\/$/i.exec(path)) !== null) {
+    // https://www.psychiatrist.com/read-pdf/34003/
+    result.rtype    = 'ARTICLE';
+    result.mime     = 'PDF';
+    result.unitid = match[1];
+  } else if ((match = /^\/([a-zA-Z]{3})\/[a-z-]+\/([a-z-]+)\/$/i.exec(path)) !== null) {
+    // https://www.psychiatrist.com/jcp/sleep/lemborexant-treatment-insomnia-direct-indirect-comparisons-other-hypnotics-using-number-needed-treat-number-needed-harm-likelihood-be-helped-harmed/
+    result.rtype    = 'ARTICLE';
+    result.mime     = 'HTML';
+    result.publication_title = getPubTitle(match[1]);
+    result.unitid = match[2];
   }
 
   return result;
