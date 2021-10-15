@@ -1,0 +1,13 @@
+{
+  "longname": "National Council of Teachers of Mathematics",
+  "name": "nctm",
+  "describe": "Recognizes the accesses to the platform v",
+  "contact": "Sean Duffy",
+  "pkb": false,
+  "docurl": "http://analyses.ezpaarse.org/platforms/6155058532bd6134e9cc44e8",
+  "domains": [
+    "pubs.nctm.org"
+  ],
+  "version": "2021-09-30",
+  "status": "beta"
+}
