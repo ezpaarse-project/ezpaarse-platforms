@@ -32,11 +32,11 @@ module.exports = new Parser(function analyseEC(parsedUrl, ec) {
     result.rtype    = 'ARTICLE';
     result.mime     = 'HTML';
     result.unitid   = match[1];
-  } else if ((match = /^\/browse-profiles\/people-profile\/(.+?)$/i.exec(path)) !== null) {
+  } else if (/^\/browse-profiles\/people-profile\/(.+?)$/i.test(path)) {
     // https://app.investorstatelawguide.com/browse-profiles/people-profile/Jerome%20Temme/spoZz5ozHQQ=
     result.rtype    = 'RECORD';
     result.mime     = 'HTML';
-  } else if ((match = /^\/view-dispute-detail\/(.+?)\/(.+?)$/i.exec(path)) !== null) {
+  } else if (/^\/view-dispute-detail\/(.+?)\/(.+?)$/i.test(path)) {
     // https://app.investorstatelawguide.com/view-dispute-detail/ACP%20Axos%20Capital%20GmbH%20v.%20Republic%20of%20Kosovo/w2Ujy178P2o=
     result.rtype    = 'RECORD_VIEW';
     result.mime     = 'HTML';
