@@ -1,0 +1,13 @@
+{
+  "longname": "Edizioni Minerva Medica",
+  "name": "emm",
+  "describe": "Recognizes the accesses to the platform Edizioni Minerva Medica",
+  "contact": "Sean Duffy",
+  "pkb": false,
+  "docurl": "http://analyses.ezpaarse.org/platforms/6154ff572e5e29602596db2e",
+  "domains": [
+    "www.minervamedica.it"
+  ],
+  "version": "2021-09-30",
+  "status": "beta"
+}
