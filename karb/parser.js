@@ -67,7 +67,7 @@ module.exports = new Parser(function analyseEC(parsedUrl, ec) {
       }
     } else if (param.id || param.ids) {
       result.rtype  = 'ARTICLE';
-      result.unitid = param.ids;
+      result.unitid = param.id || param.ids;
     }
 
   } else if ((match = /^\/document\/download$/i.exec(path)) !== null) {
@@ -85,7 +85,7 @@ module.exports = new Parser(function analyseEC(parsedUrl, ec) {
     // /document/kli-ka-ai-2020-01-002?title=Arbitration%20International
     // /document/KLI-KCC-1103103-n
 
-    if (param.title && param.title != 'PDF') {
+    if (param.title && param.title !== 'PDF') {
       result.rtype = 'ARTICLE';
     } else {
       result.rtype  = 'BOOK_SECTION';
