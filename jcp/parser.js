@@ -15,9 +15,9 @@ const pcc_doi_prefix = '10.4088/PCC.';
 
 function getPubTitle(urlFragment) {
   let publication_title;
-  if (urlFragment === 'jcp' || urlFragment === 'JCP') {
+  if (urlFragment.toLowerCase() === 'jcp') {
     publication_title = 'The Journal of Clinical Psychiatry';
-  } else if (urlFragment === 'pcc' || urlFragment === 'PCC') {
+  } else if (urlFragment.toLowerCase() === 'pcc') {
     publication_title = 'The Primary Care Companion For CNS Disorders';
   }
   return publication_title;
@@ -43,9 +43,9 @@ module.exports = new Parser(function analyseEC(parsedUrl, ec) {
       result.unitid = itemid[1];
     }
 
-    if (match[1] === 'JCP' || match[1] === 'jcp') {
+    if (match[1].toLowerCase() === 'jcp') {
       result.doi = jcp_doi_prefix + itemid[1];
-    } else if (match[1] === 'PCC' || match[1] === 'pcc') {
+    } else if (match[1].toLowerCase() === 'pcc') {
       result.doi = pcc_doi_prefix + itemid[1];
     }
   } else if ((match = /^\/([a-zA-Z]{3})\/article\/(Pages|pages)\/\d\d\d\d\/[a-z0-9]*\/(.*)\.aspx$/i.exec(path)) !== null) {
@@ -53,9 +53,9 @@ module.exports = new Parser(function analyseEC(parsedUrl, ec) {
     result.rtype    = 'ARTICLE';
     result.mime     = 'HTML';
     result.unitid   = match[3];
-    if (match[1] === 'jcp' || match[1] === 'JCP') {
+    if (match[1].toLowerCase() === 'JCP') {
       result.doi = jcp_doi_prefix + match[3];
-    } else if (match[1] === 'pcc' || match[1] === 'PCC') {
+    } else if (match[1] === 'PCC') {
       result.doi = pcc_doi_prefix + match[3];
     }
   } else if ((match = /^\/([a-zA-Z]{3})\/article\/binaryfiles\/audio\/player.aspx$/i.exec(path)) !== null) {
