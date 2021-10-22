@@ -13,6 +13,7 @@ const Parser = require('../.lib/parser.js');
 module.exports = new Parser(function analyseEC(parsedUrl, ec) {
   let result = {};
   let path = parsedUrl.pathname;
+  let param = parsedUrl.query || {};
   let match;
 
   if ((match = /^\/journal\/([a-z0-9]+)$/i.exec(path)) !== null) {
@@ -40,6 +41,11 @@ module.exports = new Parser(function analyseEC(parsedUrl, ec) {
     result.doi      = match[2];
     result.unitid   = match[3];
     result.title_id = match[4];
+  } else if (/^\/action\/doSearch$/i.test(path)) {
+    // https://royalsocietypublishing.org/action/doSearch?AllField=rocks
+    result.rtype    = 'SEARCH';
+    result.mime     = 'HTML';
+    result.unitid = param.AllField;
   }
 
   return result;
