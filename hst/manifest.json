@@ -1,0 +1,13 @@
+{
+  "longname": "Henry Stewart Talks",
+  "name": "hst",
+  "describe": "Recognizes the accesses to the platform Henry Stewart Talks",
+  "contact": "Sean Duffy",
+  "pkb": false,
+  "docurl": "http://analyses.ezpaarse.org/platforms/6170616d4032921db969e69a",
+  "domains": [
+    "hstalks.com"
+  ],
+  "version": "2021-10-23",
+  "status": "beta"
+}
