@@ -1,0 +1,4 @@
+out-db_id;out-unitid;out-rtype;out-mime;in-url
+academic;;SEARCH;HTML;https://www.marketresearch.com/academic/Search?keywords=Food
+academic;16178215;RECORD;HTML;https://www.marketresearch.com/academic/Product/16178215
+academic;16178215;ARTICLE;PDF;https://www.marketresearch.com/academic/Product/Download?id=16178215
