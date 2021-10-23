@@ -1,0 +1,13 @@
+{
+  "longname": "4 Canoes",
+  "name": "4cn",
+  "describe": "Recognizes the accesses to the platform 4 Canoes",
+  "contact": "Sean Duffy",
+  "pkb": false,
+  "docurl": "http://analyses.ezpaarse.org/platforms/617010a107376d3e3f4389b1/analyses/6172d6b924d4237243f8805b",
+  "domains": [
+    "4canoes.com"
+  ],
+  "version": "2021-10-23",
+  "status": "beta"
+}
