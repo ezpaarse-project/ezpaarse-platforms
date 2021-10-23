@@ -1,0 +1,13 @@
+{
+  "longname": "National Film Board of Canada",
+  "name": "nfbc",
+  "describe": "Recognizes the accesses to the platform National Film Board of Canada",
+  "contact": "Sean Duffy",
+  "pkb": false,
+  "docurl": "http://analyses.ezpaarse.org/platforms/6172d779e6d9635a384538e7",
+  "domains": [
+    "www.nfb.ca"
+  ],
+  "version": "2021-10-23",
+  "status": "beta"
+}
