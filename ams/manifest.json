@@ -2,7 +2,8 @@
   "version": "2015-12-11",
   "status": "beta",
   "domains": [
-    "journals.ametsoc.org"
+    "journals.ametsoc.org",
+    "ams.allenpress.com"
   ],
   "recognize": {
     "rid": [
