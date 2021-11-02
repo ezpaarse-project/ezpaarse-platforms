@@ -65,59 +65,50 @@ module.exports = new Parser(function analyseEC(parsedUrl, ec) {
     if (param.doi) {
       result.unitid = param.doi.split('/')[1];
     }
-  } else if ((match = /^\/view\/journals\/([a-z]+)\/([0-9]+)\/([0-9]+)\/([a-z0-9-.]+)\.xml$/i.exec(path)) !== null && param.tab_body == 'pdf') {
+  } else if ((match = /^\/(view|downloadpdf)\/journals\/([a-z]+)\/([0-9]+)\/([0-9]+)\/([a-z0-9-.]+)\.(xml|jpg)$/i.exec(path)) !== null) {
     // https://journals.ametsoc.org/view/journals/amsm/59/1/amsmonographs-d-18-0005.1.xml?tab_body=pdf
-    result.rtype = 'ARTICLE';
-    result.mime  = 'PDF';
-    result.title_id = match[1];
-    result.vol = match[2];
-    result.issue = match[3];
-    result.unitid = match[4];
-  } else if ((match = /^\/downloadpdf\/journals\/([a-z]+)\/([0-9]+)\/([0-9]+)\/([a-z0-9-.]+)\.xml$/i.exec(path)) !== null) {
     // https://journals.ametsoc.org/view/journals/amsm/59/1/amsmonographs-d-18-0005.1.xml?tab_body=pdf
     // https://journals.ametsoc.org/downloadpdf/journals/amsm/59/1/amsmonographs-d-18-0005.1.xml
-    result.rtype = 'ARTICLE';
-    result.mime  = 'PDF';
-    result.title_id = match[1];
-    result.vol = match[2];
-    result.issue = match[3];
-    result.unitid = match[4];
-
-  } else if ((match = /^\/view\/journals\/([a-z]+)\/([0-9]+)\/([0-9]+)\/([a-z0-9-.]+)\.xml$/i.exec(path)) !== null && (param.tab_body == 'fulltext-display' || param.tab_body == null)) {
     // https://journals.ametsoc.org/view/journals/amsm/59/1/amsmonographs-d-18-0005.1.xml?tab_body=fulltext-display
-    // https://journals.ametsoc.org/view/journals/amsm/59/1/amsmonographs-d-18-0009.1.xml
+    // https://journals.ametsoc.org/view/journals/amsm/59/1/amsmonographs-d-18-0009.1.xml    
+    // https://journals.ametsoc.org/view/journals/amsm/59/1/full-amsmonographs-d-18-0005.1-f2.jpg
+    // https://journals.ametsoc.org/view/journals/amsm/59/1/amsmonographs-d-18-0005.1.xml?tab_body=abstract-display
+
     result.rtype = 'ARTICLE';
     result.mime  = 'HTML';
-    result.title_id = match[1];
-    result.vol = match[2];
-    result.issue = match[3];
-    result.unitid = match[4];
 
-  } else if ((match = /^\/view\/journals\/([a-z]+)\/([0-9]+)\/([0-9]+)\/[a-z]+-([a-z0-9-.]+)\.jpg$/i.exec(path)) !== null) {
-    // https://journals.ametsoc.org/view/journals/amsm/59/1/full-amsmonographs-d-18-0005.1-f2.jpg
-    result.rtype = 'IMAGE';
-    result.mime  = 'JPEG';
-    result.title_id = match[1];
-    result.vol = match[2];
-    result.issue = match[3];
-    result.unitid = match[4];
+    if (match[1] === 'downloadpdf' || param.tab_body === 'pdf') {
+      result.mime  = 'PDF';
+    }
 
-  } else if ((match = /^\/view\/journals\/([a-z]+)\/([0-9]+)\/([0-9]+)\/([a-z0-9-.]+)\.xml$/i.exec(path)) !== null && param.tab_body == 'abstract-display') {
-    // https://journals.ametsoc.org/view/journals/amsm/59/1/amsmonographs-d-18-0005.1.xml?tab_body=abstract-display
-    result.rtype = 'ABS';
-    result.mime  = 'HTML';
-    result.title_id = match[1];
-    result.vol = match[2];
-    result.issue = match[3];
-    result.unitid = match[4];
+    if (param.tab_body === 'fulltext-display') {
+      result.mime  = 'HTML';
+    }
+    if (param.tab_body === 'abstract-display') {
+      result.rtype  = 'ABS';
+    }
 
+    if (match[6] === 'jpg') {
+      result.rtype = 'IMAGE';
+      result.mime  = 'JPEG';
+    }
+
+    result.title_id = match[2];
+    result.vol = match[3];
+    result.issue = match[4];
+    if (match[6] === 'jpg') {
+      let unitIdMatch = /^[a-z]+-([a-z0-9-.]+)$/i.exec(match[5]);
+      result.unitid = unitIdMatch[1];
+    } else {
+      result.unitid = match[5];
+    }
   } else if ((match = /^\/search$/i.exec(path)) !== null) {
     // https://journals.ametsoc.org/search?q1=clouds
     // https://journals.ametsoc.org/search?access=all&pageSize=10&q1=clouds&sort=relevance&t=apme
     result.rtype = 'SEARCH';
     result.mime  = 'HTML';
     if (param.t) {
-      result.title_id = param.t;
+      result.title_id = param.t || param.t_0;
     }
   }
 
