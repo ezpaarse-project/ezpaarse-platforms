@@ -7,10 +7,9 @@ const Parser = require('../.lib/parser.js');
  * Extract rtype
  */
 function determineRtype (param, result) {
-  let idMatch;
-  let ids = param.id || param.ids;
-  idMatch = /^(.+)Ch[0-9]+$/.exec(ids);
-  let idArray = ids.split(',');
+  const ids = param.id || param.ids;
+  const idMatch = /^(.+)Ch[0-9]+$/.exec(ids);
+  const idArray = ids.split(',');
   if (idMatch !== null) {
     if (idArray.length > 1) {
       result.rtype  = 'BOOK_CHAPTERS_BUNDLE';
