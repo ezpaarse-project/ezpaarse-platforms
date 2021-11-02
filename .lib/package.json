@@ -6,7 +6,7 @@
     "test": "mocha test/*-test.js",
     "lint": "eslint --ext .js --ignore-path .gitignore ..",
     "create-parser": "node ./platform-init.js",
-    "precommit": "./pre-commit"
+    "prepare": "cd .. && husky install"
   },
   "repository": {
     "type": "git",
@@ -17,7 +17,7 @@
     "co": "^4.6.0",
     "csvtojson": "^1.1.7",
     "eslint": "^4.2.0",
-    "husky": "^0.14.3",
+    "husky": "^7.0.4",
     "inquirer": "^3.0.6",
     "lazy": "^1.0.11",
     "listr": "^0.12.0",
