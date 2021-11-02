@@ -4,12 +4,32 @@
 const Parser = require('../.lib/parser.js');
 
 /**
+ * Extract rtype
+ */
+function determineRtype (param, result) {
+  let idMatch;
+  let ids = param.id || param.ids;
+  idMatch = /^(.+)Ch[0-9]+$/.exec(ids);
+  let idArray = ids.split(',');
+  if (idMatch !== null) {
+    if (idArray.length > 1) {
+      result.rtype  = 'BOOK_CHAPTERS_BUNDLE';
+    } else {
+      result.rtype  = 'BOOK_SECTION';
+    }
+  } else {
+    result.rtype  = 'ARTICLE';
+  }
+}
+
+/**
  * Recognizes the accesses to the platform Kluwer Arbitration
  * @param  {Object} parsedUrl an object representing the URL to analyze
  *                            main attributes: pathname, query, hostname
  * @param  {Object} ec        an object representing the EC whose URL is being analyzed
  * @return {Object} the result
- */
+ */ 
+
 module.exports = new Parser(function analyseEC(parsedUrl, ec) {
   let result = {};
   let path   = parsedUrl.pathname;
@@ -36,13 +56,9 @@ module.exports = new Parser(function analyseEC(parsedUrl, ec) {
     if (param.journal) {
       result.unitid = param.journal;
     }
-
-    if ((param.id && param.id.includes('Ch')) || (param.ids && param.ids.includes('Ch'))) {
-      result.rtype  = 'BOOK_SECTION';
-    } else if (param.id || param.ids) {
-      result.rtype  = 'ARTICLE';
+    if (param.id || param.ids) {
+      determineRtype(param, result);
     }
-
     if (/([a-z]+)-tool/.test(match[2])) {
       result.rtype = 'TOOL';
     }
@@ -59,14 +75,8 @@ module.exports = new Parser(function analyseEC(parsedUrl, ec) {
     // /document/print?ids=KLI-KA-Paulsson-2016-Ch02%2CKLI-KA-Paulsson-2016-Ch03%2CKLI-KA-Paulsson-2016-Ch04%2CKLI-KA-Paulsson-2016-Ch05&pdf=
     result.mime   = 'PDF';
 
-    if ((param.id && param.id.includes('Ch')) || (param.ids && param.ids.includes('Ch'))) {
-      if ((param.id && param.id.match(/Ch/g).length > 1) || (param.ids && param.ids.match(/Ch/g).length > 1)) {
-        result.rtype  = 'BOOK_CHAPTERS_BUNDLE';
-      } else {
-        result.rtype  = 'BOOK_SECTION';
-      }
-    } else if (param.id || param.ids) {
-      result.rtype  = 'ARTICLE';
+    if (param.id || param.ids) {
+      determineRtype(param, result);
       result.unitid = param.id || param.ids;
     }
 
