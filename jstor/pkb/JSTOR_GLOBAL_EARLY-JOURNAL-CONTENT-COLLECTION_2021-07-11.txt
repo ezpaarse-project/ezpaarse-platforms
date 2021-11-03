@@ -45,7 +45,6 @@ Bijdragen tot de Taal-, Land- en Volkenkunde van Nederlandsch-Indië	1383-5408		
 Biological Bulletin	0006-3185	1939-8697	1899	1	1	1922	43	6	http://www.jstor.org/journal/biolbull		biolbull		fulltext	Previously: Zoological Bulletin (1897-1899)		serial								F	118360752
 Botanical Bulletin	1529-4560		1875	1	1	1876	1	12	http://www.jstor.org/journal/botabull		botabull		fulltext	now: International Journal of Plant Sciences. continues:Botanical Gazette (1876-1991)		serial								F	
 Botanical Gazette	0006-8071		1876	2	1	1922	74	4	http://www.jstor.org/journal/botanicalgazette		botanicalgazette		fulltext	now: International Journal of Plant Sciences. previously: Botanical Bulletin (1875-1876)		serial								F	
-Bouwsteenen	1571-9529	2352-2828	1869	1		1869	1		http://www.jstor.org/journal/bouwsteenen		bouwsteenen		fulltext	now: Tijdschrift van de Koninklijke Vereniging voor Nederlandse Muziekgeschiedenis. Continues: Tijdschrift der Vereeniging voor Noord-Nederlands Muziekgeschiedenis (1882-1959) Tijdschrift van de Vereniging voor Nederlandse Muziekgeschiedenis (1960-1994)		serial								F	133546950
 Bradley, His Book	1948-0717		1896	1	1	1897	2	3	http://www.jstor.org/journal/bradleyhisbook		bradleyhisbook		fulltext	Ceased:1897		serial								F	
 Brush and Pencil	1932-7080		1897	1	2	1907	19	4	http://www.jstor.org/journal/brushandpencil		brushandpencil		fulltext	Ceased:1907		serial								F	
 Bulletin de la Société Royale de Botanique de Belgique / Bulletin van de Koninklijke Belgische Botanische Vereniging	0037-9557		1862	1	2/3	1869	122	2	http://www.jstor.org/journal/bullsocroybotbel		bullsocroybotbel		fulltext	previously: Bulletin de la Société de Botanique de Belgique (1862) continues: Belgian Journal of Botany (1990-2009) Merges with: Systematics and Geography of Plants (1999-2009) to form: Plant Ecology and Evolution		serial								F	
@@ -67,7 +66,6 @@ Bulletin of the Pennsylvania Museum	0891-3609		1903	1	1	1922	18	72	http://www.js
 Bulletin of the Torrey Botanical Club	0040-9618		1870	1	1	1922	49	12	http://www.jstor.org/journal/bulltorrbotaclub		bulltorrbotaclub		fulltext	Now: Journal of the Torrey Botanical Society		serial								F	
 California Historical Society Quarterly	0008-1175		1922	1	1	1922	1	2	http://www.jstor.org/journal/calihistsociquar		calihistsociquar		fulltext	Now: California History. continues: California Historical Quarterly (1971-1977)		serial								F	
 California Law Review	0008-1221	1942-6542	1912	1	1	1922	11	1	http://www.jstor.org/journal/calilawrevi		calilawrevi		fulltext			serial								F	113786182
-Christian Education	1550-574X		1919	2	11	1922	6	3	http://www.jstor.org/journal/chrieduc		chrieduc		fulltext	Now: Soundings: An Interdisciplinary Journal (1968-). Continues: The Christian Scholar (1953-1967)		serial								F	
 Classical Philology	0009-837X	1546-072X	1906	1	1	1922	17	4	http://www.jstor.org/journal/clasphil		clasphil		fulltext			serial								F	076879356
 Columbia Law Review	0010-1958	1945-2268	1901	1	1	1922	22	8	http://www.jstor.org/journal/colulawrevi		colulawrevi		fulltext			serial								F	121233863
 Connecticut Common School Journal	2159-0133	2639-9202	1857	4 (12)	1	1857	4 (12)	12	https://www.jstor.org/journal/conncommschoj2		https://www.jstor.org/journal/conncommschoj2		fulltext			serial								F	232589798
@@ -87,7 +85,6 @@ Francis W. Parker School Year Book	2161-248X		1912	1		1918	5		http://www.jstor.o
 Geographical Review	0016-7428	1931-0846	1916	1	1	1922	12	4	http://www.jstor.org/journal/geogrevi		geogrevi		fulltext			serial								F	116975571
 Harvard Law Review	0017-811X	2161-976X	1887	1	1	1922	36	2	http://www.jstor.org/journal/harvardlawreview		harvardlawreview		fulltext			serial								F	153736488
 Harvard Studies in Classical Philology	0073-0688		1890	1		1922	33		http://www.jstor.org/journal/harvstudclasphil		harvstudclasphil		fulltext			serial								F	
-Harvard Theological Review	0017-8160	1475-4517	1908	1	1	1922	15	4	http://www.jstor.org/journal/harvtheorevi		harvtheorevi		fulltext			serial								F	06960200X
 Hebraica	0160-2810		1884	1	1	1895	11	3/4	http://www.jstor.org/journal/hebraica		hebraica		fulltext			serial								F	
 Hermes	0018-0777		1866	1	1	1869	3	3	http://www.jstor.org/journal/hermes		hermes		fulltext			serial								F	
 Hispania	0018-2133	2153-6414	1917	1		1922	5	6	http://www.jstor.org/journal/hispania		hispania		fulltext			serial								F	145482898
@@ -100,11 +97,9 @@ Illustrated Art Notes upon the Annual Exhibition of the National Academy of Desi
 Indiana Magazine of History	0019-6673	1942-9711	1913	9	2	1922	18	4	http://www.jstor.org/journal/indimagahist		indimagahist		fulltext			serial								F	124033970
 International Journal of American Linguistics	0020-7071	1545-7001	1917	1	1	1921	2	1/2	http://www.jstor.org/journal/intejamerling		intejamerling		fulltext			serial								F	076878538
 International Journal of Ethics	1526-422X	1937-433X	1890	1	1	1922	33	1	http://www.jstor.org/journal/intejethi		intejethi		fulltext	Now:Ethics		serial								F	118915886
-Jewish Quarterly Review, The	0021-6682	1553-0604	1888	1	1	1922	13	2	http://www.jstor.org/journal/jewiquarrevi		jewiquarrevi		fulltext			serial								F	128129697
 Journal (American Water Works Association)	0003-150X	1551-8833	1914	1	1	1922	9	6	http://www.jstor.org/journal/jamewatworass		jamewatworass		fulltext			serial								F	162244193
 Journal des Voyages, Découvertes et Navigations Modernes	1245-9658	2645-2197	1819	2	5	1824	22	68	https://www.jstor.org/journal/jvoyadeconavimod		https://www.jstor.org/journal/jvoyadeconavimod		fulltext	Merged into: Revue des Deux Mondes (1829)		serial								F	235967262
 Journal of American Folklore, The	0021-8715	1535-1882	1888	1	1	1922	35	138	http://www.jstor.org/journal/jamerfolk		jamerfolk		fulltext			serial								F	156448483
-Journal of Biblical Literature	0021-9231	1934-3876	1890	9	1	1922	41	3/4	http://www.jstor.org/journal/jbibllite		jbibllite		fulltext			serial								F	127919082
 Journal of English and Germanic Philology	0363-6941	1945-662X	1903	5	1	1922	21	4	http://www.jstor.org/journal/jenglgermphil		jenglgermphil		fulltext	Previously: Journal of Germanic Philology (1897-1902)		serial								F	149367651
 Journal of Farm Economics	1071-1031		1919	1	1	1922	4	4	http://www.jstor.org/journal/jfarmeconomics		jfarmeconomics		fulltext	now: American Journal of Agricultural Economics		serial								F	
 Journal of Mammalogy	0022-2372	1545-1542	1919	1	1	1922	3	4	http://www.jstor.org/journal/jmammalogy		jmammalogy		fulltext			serial								F	076877337
@@ -124,7 +119,6 @@ Journal of the Institute of Actuaries (1866)	2046-1666	2396-8230	1866	13	1	1867	
 Journal of the Institute of Actuaries and Assurance Magazine	2046-1674	2396-8249	1867	14	1	1869	15	3	http://www.jstor.org/journal/jinstactassumag		jinstactassumag		fulltext			serial								F	188907211
 Journal of the New York Entomological Society	0028-7199	1937-2361	1893	1	1	1922	30	4	http://www.jstor.org/journal/jnewyorkentosoci		jnewyorkentosoci		fulltext			serial								F	115434178
 Journal of the Royal Geographical Society of London	0266-6235		1831	1		1869	39		http://www.jstor.org/journal/jroyageogsocilon		jroyageogsocilon		fulltext			serial								F	
-Journal of the Society of Biblical Literature and Exegesis	1069-8337		1881	1	1	1888	8	1/2	http://www.jstor.org/journal/jsocibiblliteexe		jsocibiblliteexe		fulltext	Now: Journal of Biblical Literature		serial								F	
 Journal of the Statistical Society of London	0959-5341		1838	1	1	1869	31	4	http://www.jstor.org/journal/jstatsocilond		jstatsocilond		fulltext			serial								F	
 Maine Journal of Education	2639-6939	2641-8487	1869	3	1	1875	9	2	https://www.jstor.org/journal/mainjeduc		https://www.jstor.org/journal/mainjeduc		fulltext			serial								F	23683424X
 Maine Normal, The	2642-5599	2644-2329	1866	1	1	1868	2	12	https://www.jstor.org/journal/mainenormal		https://www.jstor.org/journal/mainenormal		fulltext			serial								F	236834967
@@ -213,7 +207,6 @@ The Aldine	2151-4186		1871	4	1	1879	9	12	http://www.jstor.org/journal/aldine		al
 The American Advocate of Peace and Arbitration	2159-5070		1889	51	1	1892	54	2	http://www.jstor.org/journal/amadvopeacarbi		amadvopeacarbi		fulltext			serial								F	
 The American Art Journal (1866-1867)	1946-195X		1866	5	1	1867	7	8	http://www.jstor.org/journal/amerartj		amerartj		fulltext			serial								F	
 The American Art Review	2151-8890		1879	1	1	1881	2	12	http://www.jstor.org/journal/amerartrevi		amerartrevi		fulltext			serial								F	
-The American College Bulletin	2163-7652		1917	1	1	1919	2	10	http://www.jstor.org/journal/amercollbull		amercollbull		fulltext			serial								F	
 The American Economic Review	0002-8282		1911	1	1	1922	12	4	http://www.jstor.org/journal/amereconrevi		amereconrevi		fulltext	Incorporated: American Economic Association Quarterly (1908-1910) and The Economic Bulletin (1908-1910 )		serial								F	
 The American Historical Review	0002-8762	1937-5239	1895	1	1	1922	28	1	http://www.jstor.org/journal/amerhistrevi		amerhistrevi		fulltext			serial								F	118775243
 The American Journal of Archaeology and of the History of the Fine Arts	1540-5079		1885	1	1	1896	11	4	http://www.jstor.org/journal/amerjarchhistfin		amerjarchhistfin		fulltext	Now: American Journal of Archaeology		serial								F	
@@ -221,7 +214,6 @@ The American Journal of International Law	0002-9300	2161-7953	1907	1	1	1922	16	4
 The American Journal of Nursing	0002-936X	1538-7488	1900	1	1	1922	23	3	http://www.jstor.org/journal/americanjnursing		americanjnursing		fulltext			serial								F	104868309
 The American Journal of Psychology	0002-9556		1887	1	1	1922	33	4	http://www.jstor.org/journal/amerjpsyc		amerjpsyc		fulltext			serial								F	
 The American Journal of Semitic Languages and Literatures	1062-0516		1895	12	01-Feb	1922	39	1	http://www.jstor.org/journal/amerjsemilanglit		amerjsemilanglit		fulltext	Now: Journal of Near Eastern Studies Previously: Hebraica (1884-1895)		serial								F	
-The American Journal of Theology	1550-3283		1897	1	1	1920	24	4	http://www.jstor.org/journal/amerjtheo		amerjtheo		fulltext			serial								F	
 The American Law Register (1852-1891)	1558-3813		1852	1	1	1891	39	12	http://www.jstor.org/journal/amerlawregi1852		amerlawregi1852		fulltext	Now: University of Pennsylvania Law Review. Continues: The American Law Register and Review (1892-1897), The American Law Register (1898-1907), University of Pennsylvania Law Review and American Law Register (1908-1944)		serial								F	
 The American Law Register (1898-1907)	1558-3562		1898	46	1	1907	55	9	http://www.jstor.org/journal/amerlawregi1898		amerlawregi1898		fulltext	Now: University of Pennsylvania Law Review. Continues: University of Pennsylvania Law Review and American Law Register (1908-1944) Previously: The American Law Register (1852-1891), The American Law Register and Review (1892-1897)		serial								F	
 The American Law Register and Review	1558-3538		1892	40	1	1897	45	12	http://www.jstor.org/journal/amerlawregirevi		amerlawregirevi		fulltext	Now: University of Pennsylvania Law Review. Continues: The American Law Register (1898-1907), University of Pennsylvania Law Review and American Law Register (1908-1944) Previously: The American Law Register (1852-1891)		serial								F	
@@ -247,13 +239,11 @@ The Assurance Magazine, and Journal of the Institute of Actuaries	2046-1658	2396
 The Auk	0004-8038	1938-4254	1884	1	1	1922	39	4	http://www.jstor.org/journal/auk		auk		fulltext			serial								F	115213899
 The Belfast Magazine and Literary Journal	1757-045X		1825	1	1	1825	1	6	http://www.jstor.org/journal/belfmagalitej		belfmagalitej		fulltext	Ceased:1825		serial								F	
 The Belfast Monthly Magazine	1758-1605		1808	1	1	1814	13	77	http://www.jstor.org/journal/belfmontmaga		belfmontmaga		fulltext	Ceased:1814		serial								F	
-The Biblical World	0190-3578		1893	1	1	1920	54	6	http://www.jstor.org/journal/biblicalworld		biblicalworld		fulltext			serial								F	
 The Bryologist	0007-2745	1938-4378	1898	1	1	1922	25	6	http://www.jstor.org/journal/bryologist		bryologist		fulltext			serial								F	115213929
 The Bulletin of the Cleveland Museum of Art	0009-8841		1914	1	1	1922	9	10	http://www.jstor.org/journal/bulleclevmuseart		bulleclevmuseart		fulltext	Ceased:1994		serial								F	
 The Bulletin of the College Art Association	0895-0571		1913	1	1	1913	1	1	http://www.jstor.org/journal/bullcollartasso		bullcollartasso		fulltext	Now: The Art Bulletin Continues: Bulletin of the College Art Association of America (1917-1918)		serial								F	
 The Bulletin of the College Art Association of America	0272-8192		1917	1	2	1918	1	4	http://www.jstor.org/journal/bullcollartassoa		bullcollartassoa		fulltext	Now: The Art Bulletin Previously: Bulletin of the College Art Association (1913)		serial								F	
 The Cambro-Briton	1757-9953		1819	1	1	1822	3	30	http://www.jstor.org/journal/cambrobriton		cambrobriton		fulltext	Ceased:1822		serial								F	
-The Catholic Historical Review	0008-8080	1534-0708	1915	1	1	1922	8	3	http://www.jstor.org/journal/cathhistrev		cathhistrev		fulltext			serial								F	058406417
 The Catholic Layman	0791-5640		1852	1	1	1858	7	84	http://www.jstor.org/journal/cathlayman		cathlayman		fulltext	Ceased:1858		serial								F	
 The Classical Journal	0009-8353		1905	1	1	1922	18	3	http://www.jstor.org/journal/classicalj		classicalj		fulltext			serial								F	
 The Classical Weekly	1940-641X	2329-1176	1907	1	1	1922	16	10	http://www.jstor.org/journal/clasweek		clasweek		fulltext	Now:The Classical World. Previously:The New York Latin Leaflet (1900-1907)		serial								F	137037112
@@ -274,7 +264,6 @@ The Elementary School Teacher and Course of Study	1545-5904		1901	2	1	1902	3	1	h
 The English Journal	0013-8274	2161-8895	1912	1	1	1922	11	10	http://www.jstor.org/journal/englishj		englishj		fulltext			serial								F	153736135
 The Florida Buggist	1930-4013	2163-632X	1917	1	1	1920	3	4	http://www.jstor.org/journal/floridabuggist		floridabuggist		fulltext	Now: Florida Entomologist		serial								F	156813408
 The Georgia Historical Quarterly	0016-8297		1917	1	1	1922	6	4	http://www.jstor.org/journal/georhistquar		georhistquar		fulltext			serial								F	
-The Hebrew Student	0190-5953		1882	1	1	1883	2	10	http://www.jstor.org/journal/hebrewstudent		hebrewstudent		fulltext	Absorbed		serial								F	
 The High School Journal	0018-1498	1534-5157	1917			1922	5	8	http://www.jstor.org/journal/highschooljour		highschooljour		fulltext	Previously: The North Carolina High School Bulletin (1910-1917)		serial								F	17621464X
 The Illustrated Magazine of Art	2150-5837		1853	1	1	1854	4	24	http://www.jstor.org/journal/illumagaart		illumagaart		fulltext	Ceased:1854		serial								F	
 The Illustrated Wood Worker	2151-1284		1879	1	1	1879	1	12	http://www.jstor.org/journal/illuwoodwork		illuwoodwork		fulltext	Ceased:1879		serial								F	
@@ -290,7 +279,6 @@ The Journal of Negro History	0022-2992	2325-6842	1916	1	1	1922	7	4	http://www.js
 The Journal of Philosophy	0022-362X	1939-8549	1921	18	1	1922	19	26	http://www.jstor.org/journal/jphilosophy		jphilosophy		fulltext	Previously: The Journal of Philosophy, Psychology and Scientific Methods (1904-1920)		serial								F	118360671
 The Journal of Philosophy, Psychology and Scientific Methods	0160-9335	2326-1986	1904	1	1	1920	17	26	http://www.jstor.org/journal/jphilpsycsciemet		jphilpsycsciemet		fulltext	Now: Journal of Philosophy		serial								F	119182459
 The Journal of Race Development	1068-3380	2327-7815	1910	1	1	1919	9	4	http://www.jstor.org/journal/jracedeve		jracedeve		fulltext	Now: Foreign Affairs. Continues: Journal of International Relations (1919-1922)		serial								F	169438066
-The Journal of Religion	0022-4189	1549-6538	1921	1	1	1922	2	6	http://www.jstor.org/journal/jreligion		jreligion		fulltext			serial								F	094933014
 The Journal of Speculative Philosophy	0891-625X	1527-9383	1867	1	1	1893	22	4	http://www.jstor.org/journal/jspecphil		jspecphil		fulltext			serial								F	048904309
 The Journal of the Ethnological Society of London (1869-1870)	1368-0374		1869	1	1	1869	1	4	http://www.jstor.org/journal/jethnsocilond186		jethnsocilond186		fulltext	Absorbed		serial								F	
 The Journal of the Historical and Archaeological Association of Ireland	0790-6374		1868	1	1	1869	1	2	http://www.jstor.org/journal/jhistarchassoire		jhistarchassoire		fulltext	Absorbed		serial								F	
@@ -305,15 +293,11 @@ The Mississippi Valley Historical Review	0161-391X		1914	1	1	1922	9	3	http://www
 The Monist	0026-9662	2153-3601	1890	1	1	1922	32	4	http://www.jstor.org/journal/themonist		themonist		fulltext			serial								F	143848984
 The Monthly Illustrator	2151-4348		1895	3	10	1895	5	17	http://www.jstor.org/journal/montillu		montillu		fulltext	Ceased:1895		serial								F	
 The Murrelet	0027-3716		1920	1	1	1922	3	3	http://www.jstor.org/journal/murrelet		murrelet		fulltext	Now: Northwestern Naturalist		serial								F	
-The Musical Quarterly	0027-4631	1741-8399	1915	1	1	1922	8	4	http://www.jstor.org/journal/musicalquarterly		musicalquarterly		fulltext			serial								F	077566998
-The Musical Times and Singing Class Circular	0958-8434		1844	1	1	1869	14	322	http://www.jstor.org/journal/musitimesingclas		musitimesingclas		fulltext	Now: The Musical Times (1904-)		serial								F	
 The National Magazine	2009-1656		1830	1	1	1831	2	4	http://www.jstor.org/journal/nationalmagazine		nationalmagazine		fulltext	Ceased:1831		serial								F	
 The New Path	2150-2609		1863	1	1	1865	2	12	http://www.jstor.org/journal/newpath		newpath		fulltext	Ceased:1865		serial								F	
 The New York Latin Leaflet	2151-7576	2329-1192	1900	1	1	1907	7	174	http://www.jstor.org/journal/newyorklatileaf		newyorklatileaf		fulltext	Now: Classical World. Continues: The Classical Weekly (1907-1957)		serial								F	170356507
 The North American Review	0029-2397		1821	13	32	1922	216	805	http://www.jstor.org/journal/nortamerrev		nortamerrev		fulltext	Previously: The North-American Review and Miscellaneous Journal (1815-1820)		serial								F	
 The North-American Review and Miscellaneous Journal	1945-7863		1815	1	1	1821	12	31	http://www.jstor.org/journal/nortamerrevmiscj		nortamerrevmiscj		fulltext	Now: The North American Review		serial								F	
-The Old Testament Student	0190-5945		1883	3	1	1889	8	10	http://www.jstor.org/journal/oldteststud		oldteststud		fulltext	Absorbed		serial								F	
-The Old and New Testament Student	0190-5937		1889	9	1	1892	15	5/6	http://www.jstor.org/journal/oldnewteststud		oldnewteststud		fulltext			serial								F	
 The Ornithologists' and Oologists' Semi-Annual	1938-6753		1889	1	1	1890	2	2	http://www.jstor.org/journal/ornioolosemi		ornioolosemi		fulltext	Now: The Wilson Journal of Ornithology Continues: The Semi-Annual (1891) The Wilson Quarterly (1892) The Journal of the Wilson Ornithological Chapter of the Agassiz Association (1893) The Wilson Bulletin (1894-2005)		serial								F	
 The Pennsylvania Magazine of History and Biography	0031-4587	2169-8546	1877	1	1	1922	46	4	http://www.jstor.org/journal/pennmaghistbio		pennmaghistbio		fulltext			serial								F	164583203
 The Phi Delta Kappan	0031-7217	1940-6487	1916	2	1	1922	5	1	http://www.jstor.org/journal/phideltkapp		phideltkapp		fulltext			serial								F	120431424
@@ -363,7 +347,6 @@ Transactions of the Kansas Academy of Science (1872-1880)	1933-0537		1872	1		187
 Transactions of the Kansas Academy of Science (1903-)	0022-8443	1938-5420	1903	18		1922	31		http://www.jstor.org/journal/trankansacadscie		trankansacadscie		fulltext	Previously:�Transactions of the Annual Meetings of the Kansas Academy of Science (1881-1899), �Transactions of the Kansas Academy of Science (1872-1879)		serial								F	11543464X
 Transactions of the Kilkenny Archaeological Society	0790-634X		1849	1	1	1853	2	2	http://www.jstor.org/journal/transkilkarchsoc		transkilkarchsoc		fulltext	Absorbed		serial								F	
 Transactions of the Modern Language Association of America	1539-3674		1884	1		1884	1		http://www.jstor.org/journal/tranmodelangasso		tranmodelangasso		fulltext	Absorbed		serial								F	
-Transactions of the Moravian Historical Society	0886-1730		1857	1	1	1917	10		http://www.jstor.org/journal/transmorahistsoc		transmorahistsoc		fulltext	Now: Journal of Moravian History (2000-)		serial								F	
 Transactions of the Royal Asiatic Society of Great Britain and Ireland	0950-4737	2051-2058	1824	1	1	1834	3	3	http://www.jstor.org/journal/tranrasgrbritire		tranrasgrbritire		fulltext	Absorbed		serial								F	164366555
 Ulster Journal of Archaeology	0082-7355		1853	1		1861	9		http://www.jstor.org/journal/ulstjarch		ulstjarch		fulltext			serial								F	
 University of Pennsylvania Law Review and American Law Register	0749-9833		1908	56	1	1922	71	1	http://www.jstor.org/journal/univpennlawrevia		univpennlawrevia		fulltext	Now: University of Pennsylvania Law Review (1945-) Previously: The American Law Register (1852-1891)		serial								F	
