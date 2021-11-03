@@ -1,0 +1,252 @@
+publication_title	print_identifier	online_identifier	date_first_issue_online	num_first_vol_online	num_first_issue_online	date_last_issue_online	num_last_vol_online	num_last_issue_online	title_url	first_author	title_id	embargo_info	coverage_depth	notes	publisher_name	publication_type	date_monograph_published_print	date_monograph_published_online	monograph_volume	monograph_edition	first_editor	parent_publication_title_id	preceding_publication_title_id	access_type	bestppn
+291	1054-7193		1915		1	1916		12	http://www.jstor.org/journal/291		291		fulltext	Ceased: 1916		serial								P	
+AAUP Bulletin	0001-026X		1956	42	1	1978	64	4	http://www.jstor.org/journal/aaupbulletin		aaupbulletin		fulltext	Now: Academe. Previously: Bulletin of the American Association of University Professors (1915-1955)		serial								P	
+AV Communication Review	0001-2890		1964	12	1	1977	25	4	http://www.jstor.org/journal/avcommrev		avcommrev		fulltext	Absorbed		serial								P	
+Academe	0190-2946		1979	65	1	2016			http://www.jstor.org/journal/academe		academe		fulltext	Previously: AAUP Bulletin (1956-1978), Bulletin of the American Association of University Professors (1915-1955) Moving Wall: 3 Years		serial								P	
+Acadiensis	0044-5851	1712-7432	1971	1	1	2018			http://www.jstor.org/journal/acadiensis		acadiensis		fulltext	Moving Wall: 1 year		serial								P	171501454
+African Music	0065-4019		1954	1	1	2014			http://www.jstor.org/journal/afrimusi		afrimusi		fulltext	Previously: Newsletter. African Music Society (1948-1951), The African Music Society Newsletter (1952-1953) Moving Wall: 5 years		serial								P	
+American Academy Notes	2152-8551		1881		1	1881		1	http://www.jstor.org/journal/ameracadnote		ameracadnote		fulltext	Absorbed		serial								P	
+American Art Illustrated	2151-772X		1886	1	1	1886	1	2	http://www.jstor.org/journal/amerartillu		amerartillu		fulltext	Ceased: 1887		serial								P	
+American Art News	1944-0227		1904	3	52	1923	21	18	http://www.jstor.org/journal/amerartnews		amerartnews		fulltext	Absorbed		serial								P	
+American Literary Realism	1540-3084	1940-5103	1999	32	1	2016			http://www.jstor.org/journal/amerlitereal		amerlitereal		fulltext	Moving Wall: 3 years		serial								P	14059566X
+American Literary Realism, 1870-1910	0002-9823	2326-9235	1967	1	1	1999	31	3	http://www.jstor.org/journal/amerlitereal1870		amerlitereal1870		fulltext	Absorbed		serial								P	168250888
+American Periodicals: A Journal of History, Criticism, and Bibliography	1054-7479	1548-4238	1991	1	1	2014			http://www.jstor.org/journal/amerperi		amerperi		fulltext	Moving Wall: 5 years		serial								P	153474173
+Anales de la Literatura Española Contemporánea	0272-1635		1981	6		2016			http://www.jstor.org/journal/analliteespacont		analliteespacont		fulltext	Moving Wall: 3 years		serial								P	
+Anales de la narrativa española contemporánea	0270-6334		1979	4		1980	5		http://www.jstor.org/journal/analnarrespncont		analnarrespncont		fulltext	Absorbed		serial								P	
+Anales de la novela de posguerra	0145-2363		1976	1		1978	3		http://www.jstor.org/journal/analnoveposg		analnoveposg		fulltext	Absorbed		serial								P	
+Annuaire historique pour l'année ..	0399-1342	2332-418X	1837	1		1863	27		http://www.jstor.org/journal/annuhistpouranne		annuhistpouranne		fulltext	Now: Annuaire-Bulletin de la Société de l'histoire de France		serial								P	175154856
+Annuaire-Bulletin de la Société de l'histoire de France	0399-1350		1863	1	1	2014			http://www.jstor.org/journal/annbulsochistfra		annbulsochistfra		fulltext	Previously: Annuaire historique pour l'année ..(1837-1863) Incorporated: Bulletin de la Société de l'histoire de France (1834-1861) Moving Wall: 5 years		serial								P	
+Annual Report of the Trustees of the Metropolitan Museum of Art	0740-7661		1871		1	2016			http://www.jstor.org/journal/annreptrusmetmar		annreptrusmetmar		fulltext	Moving Wall: 3 years		serial								P	
+Art & Life	2150-5969		1919	10	6	1920	11	9	http://www.jstor.org/journal/artandlife		artandlife		fulltext	Ceased: 1920		serial								P	
+Art and Progress	2151-2531		1909	1	1	1915	7	2	http://www.jstor.org/journal/artprog		artprog		fulltext	Absorbed		serial								P	
+Arthurian Interpretations	0890-4944		1986	1	1	1990	4	2	http://www.jstor.org/journal/arthinte		arthinte		fulltext	Absorbed		serial								P	
+Arthuriana	1078-6279	1934-1539	1994	4	1	2016			http://www.jstor.org/journal/arthuriana		arthuriana		fulltext	Previously: Quondam et Futurus (1980-1993) Moving Wall: 3 years		serial								P	119538350
+Arts & Decoration	2472-6060	2472-6052	1910	1	1	1918	8	6	http://www.jstor.org/journal/artsdeco1910		artsdeco1910		fulltext	Ceased:1918		serial								P	197515096
+Audio Visual Communication Review	0885-727X		1953	1	1	1963	11	6	http://www.jstor.org/journal/audivisucommrev		audivisucommrev		fulltext	Absorbed		serial								P	
+Aula-Historia Social	1139-1405		1998		1	2008		22	http://www.jstor.org/journal/aulahistsoci		aulahistsoci		fulltext	Ceased: 2008		serial								P	
+BOMB	0743-3204		1981	1	1	2017			http://www.jstor.org/journal/bomb		bomb		fulltext	Moving Wall: 2 years		serial								P	
+Behavior and Philosophy	1053-8348		1990	18	1	2016			http://www.jstor.org/journal/behaphil		behaphil		fulltext	Previously: Behaviorism (1972-1989) Moving Wall: 3 years		serial								P	
+Behaviorism	0090-4155		1972	1	1	1989	17	2	http://www.jstor.org/journal/behaviorism		behaviorism		fulltext	Absorbed		serial								P	
+Bibliothèque d'Humanisme et Renaissance	0006-1999		1941	1		2016			http://www.jstor.org/journal/biblhumarena		biblhumarena		fulltext	Previously: Humanisme et Renaissance (1934-1940), Revue du Seizième siècle (1913-1932) Moving Wall: 3 years		serial								P	
+Black Camera	1536-3155	1947-4237	1985	1	1	2016			http://www.jstor.org/journal/blackcamera		blackcamera		fulltext	Moving Wall: 3 years		serial								P	147871018
+Book History	1098-7371	1529-1499	1998	1		2014			http://www.jstor.org/journal/bookhistory		bookhistory		fulltext	Moving Wall: 5 years		serial								P	048905887
+Bradley, His Book	1948-0717		1896	1	1	1897	2	3	http://www.jstor.org/journal/bradleyhisbook		bradleyhisbook		fulltext	Ceased: 1897		serial								P	
+Bridges: A Jewish Feminist Journal	1046-8358	1558-9552	1990	1	1	2011	16	1	https://www.jstor.org/journal/bridges		bridges		fulltext	Ceased: 2011		serial								P	114709815
+Brush and Pencil	1932-7080		1897	1	2	1907	19	4	http://www.jstor.org/journal/brushandpencil		brushandpencil		fulltext	Ceased: 1907		serial								P	
+Bulletin (Shaw Society of America)	2156-8928		1951		1	1958	2	6	http://www.jstor.org/journal/bullshawsociamer		bullshawsociamer		fulltext	Absorbed		serial								P	
+Bulletin (St. Louis Art Museum)	0009-7691		1972	7	5	1998	22	3	http://www.jstor.org/journal/bullstlouartmus		bullstlouartmus		fulltext	Ceased: 1998		serial								P	
+Bulletin de la Société d'Études Philosophiques du Sud-Est	0996-0996		1926	1	1	1927	1	3	http://www.jstor.org/journal/bulsocetudphilse		bulsocetudphilse		fulltext	Now: Les Études philosophiques		serial								P	
+Bulletin de la Société de l'histoire de France	0399-1334	2332-4171	1834	1	1	1861	3		http://www.jstor.org/journal/bullsocdehisfra		bullsocdehisfra		fulltext	Now: Annuaire-Bulletin de la Société de l'histoire de France		serial								P	17515483X
+Bulletin of the American Art-Union	2152-6125		1849	2	1	1853		11	http://www.jstor.org/journal/bullamerartunio		bullamerartunio		fulltext	Ceased: 1853		serial								P	
+Bulletin of the American Association of University Professors (1915-1955)	0883-1610		1915	1	1	1955	41	4	http://www.jstor.org/journal/bulamassunivprof		bulamassunivprof		fulltext	Now: Academe. Continues: AAUP Bulletin (1956-1978)		serial								P	
+Bulletin of the American Association of University Professors (2010-)	2156-4698	2330-6599	2010	96	1	2016			http://www.jstor.org/journal/bulletinaaup		bulletinaaup		fulltext	Moving Wall: 3 years		serial								P	172127610
+Bulletin of the Associates in Fine Arts at Yale University	0898-1922		1926	1	1	1957	23	3	http://www.jstor.org/journal/bassofineartsyal		bassofineartsyal		fulltext	Absorbed		serial								P	
+Bulletin of the City Art Museum of St. Louis	0364-8141		1914	1	1	1971	7	4	http://www.jstor.org/journal/bullcityartmus		bullcityartmus		fulltext	Absorbed		serial								P	
+Bulletin of the Council for Research in Music Education	0010-9894	2162-7223	1963		1	2016			http://www.jstor.org/journal/bulcouresmusedu		bulcouresmusedu		fulltext	Moving Wall: 3 years		serial								P	155357891
+Bulletin of the New England Art Union	1944-0383		1852		1	1852		1	http://www.jstor.org/journal/bullnewengartun		bullnewengartun		fulltext	Ceased: 1852		serial								P	
+Bulletin van het Rijksmuseum	0165-9510		1953	1	1/2	2008	56	4	http://www.jstor.org/journal/bullrijk		bullrijk		fulltext	Now: The Rijksmuseum Bulletin		serial								P	
+Cahiers d'ethnomusicologie	1662-372X		2007	20		2017			http://www.jstor.org/journal/cahidethnomus		cahidethnomus		fulltext	Previously: Cahiers de musiques traditionnelles (1988-2006). Moving Wall: 2 years		serial								P	
+Cahiers d'histoire de la guerre	1245-9151		1949		1	1950		3	http://www.jstor.org/journal/cahihistguer		cahihistguer		fulltext	Absorbed		serial								P	
+Cahiers de musiques traditionnelles	1015-5775		1988	1		2006	19		http://www.jstor.org/journal/cahdemustrad		cahdemustrad		fulltext	Now:Cahiers d'ethnomusicologie		serial								P	
+Canadian Journal of Philosophy	0045-5091	1911-0820	1971	1	1	2014			http://www.jstor.org/journal/canadianjph		canadianjph		fulltext	Moving Wall: 5 years		serial								P	153733659
+Chymia	0095-9367		1948	1		1967	12		http://www.jstor.org/journal/chymia		chymia		fulltext	Now: Historical Studies in the Natural Sciences. Continues: Historical Studies in the Physical and Biological Sciences (1986-2007), Historical Studies in the Physical Sciences (1969-1985)		serial								P	
+Cités	1299-5495	1969-6876	2000		1	2016			http://www.jstor.org/journal/cites		cites		fulltext	Moving Wall: 3 years		serial								P	121937240
+College Music Symposium	0069-5696		1961	1		2009	49/50		http://www.jstor.org/journal/collmusisymp		collmusisymp		fulltext			serial								P	
+Columbia: A Journal of Literature and Art	0161-486X		1977		1	2017			http://www.jstor.org/journal/columbia		columbia		fulltext	Moving Wall: 2 years		serial								P	
+Comparative Literature Studies	0010-4132	1528-4212	1963			2016			http://www.jstor.org/journal/complitstudies		complitstudies		fulltext	Moving Wall:3 years		serial								P	058352554
+Contemporary Religions in Japan	0010-7557		1960	1	1	1970	11	3/4	http://www.jstor.org/journal/contrelijapa		contrelijapa		fulltext	Now: Japanese Journal of Religious Studies		serial								P	
+Cosmopolitan Art Journal	1948-9323		1856	1	2	1861	5	1	http://www.jstor.org/journal/cosmoartjourn		cosmoartjourn		fulltext	Ceased: 1861		serial								P	
+Diderot Studies	0070-4806		1949	1		2014			http://www.jstor.org/journal/diderotstudies		diderotstudies		fulltext	Moving Wall: 5 years		serial								P	
+Educational Communication and Technology	0148-5806		1978	26	1	1988	36	4	http://www.jstor.org/journal/educcommtech		educcommtech		fulltext	Absorbed		serial								P	
+Educational Technology Research and Development	1042-1629	1556-6501	1989	37	1	2016			http://www.jstor.org/journal/edutechresedeve		edutechresedeve		fulltext	Incorporates: Journal of Instructional Development (1977-1988) and Educational Communication and Technology (1978-1988) Moving Wall:3 years		serial								P	094934428
+El Ciervo	0045-6896		1951	1	1	2016			http://www.jstor.org/journal/elciervo		elciervo		fulltext	Moving Wall: 3 years		serial								P	
+English in Africa	0376-8902		1974	1	1	2016			http://www.jstor.org/journal/englafri		englafri		fulltext	Moving Wall: 3 years		serial								P	
+Fine Arts Journal	2151-2760		1903	14	3	1919	37	3	http://www.jstor.org/journal/fineartsj		fineartsj		fulltext	Ceased: 1919		serial								P	
+For the Learning of Mathematics	0228-0671		1980	1	1	2017			http://www.jstor.org/journal/forlearningmath		forlearningmath		fulltext	Moving Wall: 2 years		serial								P	
+Francis W. Parker School Studies in Education	2161-2501		1920	6		1934	10		http://www.jstor.org/journal/franwparkscho		franwparkscho		fulltext	Absorbed		serial								P	
+Francis W. Parker School Year Book	2161-248X		1912	1		1918	5		http://www.jstor.org/journal/franwparschyb		franwparschyb		fulltext	Absorbed		serial								P	
+French Forum	0098-9355	1534-1836	1976	1	1	2016			http://www.jstor.org/journal/frenchforum		frenchforum		fulltext	Moving Wall: 3 years		serial								P	058406891
+Gastronomica	1529-3262	1533-8622	2001	1	1	2016			http://www.jstor.org/journal/gastronomica		gastronomica		fulltext	Moving Wall: 3 years		serial								P	123877164
+Geschichte und Gesellschaft	0340-613X		1975	1	1	2018			http://www.jstor.org/journal/gescgese		gescgese		fulltext	Moving Wall: 1 year		serial								P	
+Geschichte und Gesellschaft. Sonderheft	0944-2014		1975	1		2018			http://www.jstor.org/journal/gescgesesond		gescgesesond		fulltext	Moving Wall: 1 year		serial								P	
+Glotta	0017-1298		1909	1	1	2018			http://www.jstor.org/journal/glotta		glotta		fulltext	Moving Wall: 1 year		serial								P	
+Grial	0017-4181		1963	1	1	2014			http://www.jstor.org/journal/grial		grial		fulltext	Moving Wall: 5 years		serial								P	
+Guerres mondiales et conflits contemporains	0984-2292	2101-0137	1987		145	2016			http://www.jstor.org/journal/guermondconfcont		guermondconfcont		fulltext	Moving Wall: 3 years		serial								P	13018294X
+Historia Social	0214-2570		1988		1	2018			http://www.jstor.org/journal/historiasocial		historiasocial		fulltext	Moving Wall: 1 year		serial								P	
+Historical Studies in the Natural Sciences	1939-1811	1939-182X	2008	38	1	2016			http://www.jstor.org/journal/histstudnatsci		histstudnatsci		fulltext	Previously: Historical Studies in the Physical and Biological Sciences (1986-2007), Historical Studies in the Physical Sciences (1969-1985), Chymia (1948-1967) Moving Wall: 3 years		serial								P	140246452
+Historical Studies in the Physical Sciences	0073-2672		1969	1		1985	15	2	http://www.jstor.org/journal/histstudphyssci		histstudphyssci		fulltext	Now: Historical Studies in the Natural Sciences. Continues: Historical Studies in the Physical and Biological Sciences (1986-2007) Previously: Chymia (1948-1967)		serial								P	
+Historical Studies in the Physical and Biological Sciences	0890-9997		1986	16	1	2007	37	supplement	http://www.jstor.org/journal/histstudphysbiol		histstudphysbiol		fulltext	Now: Historical Studies in the Natural Sciences. Previously: Historical Studies in the Physical Sciences (1969-1985), Chymia (1948-1967)		serial								P	
+History & Memory	0935-560X	1527-1994	1989	1	1	2016			http://www.jstor.org/journal/histmemo		histmemo		fulltext	Moving Wall: 3 years		serial								P	045015341
+History of Philosophy Quarterly	0740-0675		1984	1	1	2016			http://www.jstor.org/journal/histphilquar		histphilquar		fulltext	Moving Wall: 3 years		serial								P	
+Humanisme et Renaissance	0151-1807		1934	1	1/4	1940	7		http://www.jstor.org/journal/humarena		humarena		fulltext	Now: Bibliothèque d'Humanisme et Renaissance Previously: Revue du Seizième siècle (1913-1932)		serial								P	
+Illinois Historical Journal	0748-8149		1984	77	3	1998	91	1	http://www.jstor.org/journal/illihistj		illihistj		fulltext	Absorbed		serial								P	
+Illustrated Art Notes upon the Annual Exhibition of the National Academy of Design	2152-856X		1882		2	1883		3	http://www.jstor.org/journal/ilarnoupanexnaad		ilarnoupanexnaad		fulltext	Absorbed		serial								P	
+Indiana Magazine of History	0019-6673	1942-9711	1913	9	2	2014	110	4	http://www.jstor.org/journal/indimagahist		indimagahist		fulltext	Coverage presently ends: 2014. JSTOR will resume a moving wall of 3 years in 2019		serial								P	124033970
+International Journal of the Classical Tradition	1073-0508	1874-6292	1994	1	1	2016			http://www.jstor.org/journal/intjclasstrad		intjclasstrad		fulltext	Moving Wall: 3 years		serial								P	128002549
+Interpretations	0196-903X		1968	1	1	1985	16	1	http://www.jstor.org/journal/interpretations		interpretations		fulltext	Now: Arthuriana (1994-)		serial								P	
+Intégral	1073-6913		1987	1		2017			http://www.jstor.org/journal/integral		integral		fulltext	Moving Wall: 2 years		serial								P	
+Jahrbücher für Geschichte Osteuropas	0021-4019		1936	1	1	2018			http://www.jstor.org/journal/jahrgescoste		jahrgescoste		fulltext	Moving Wall:1 year		serial								P	
+Jahrbücher für Kultur und Geschichte der Slaven	1230-3240		1924	1		1935	11	3/4	http://www.jstor.org/journal/jahrkultgescslav		jahrkultgescslav		fulltext	Absorbed		serial								P	
+Japanese Journal of Religious Studies	0304-1042		1974	1	1	2019			http://www.jstor.org/journal/japajrelistud		japajrelistud		fulltext	Content for this title is released as soon as the latest issues become available to JSTOR. Previously: Contemporary Religions in Japan (1960-1970)		serial								P	
+Journal for Early Modern Cultural Studies	1531-0485	1553-3786	2001	1	1	2016			http://www.jstor.org/journal/jearlmodcultstud		jearlmodcultstud		fulltext	Moving Wall: 3 years		serial								P	115209522
+Journal of Empirical Research on Human Research Ethics: An International Journal	1556-2646	1556-2654	2006	1	1	2016			http://www.jstor.org/journal/jempreshumreseth		jempreshumreseth		fulltext	Moving Wall: 3 years		serial								P	116244070
+Journal of English and Germanic Philology	0363-6941	1945-662X	1903	5	1	2016			http://www.jstor.org/journal/jenglgermphil		jenglgermphil		fulltext	Previously: Journal of Germanic Philology (1897-1902). Moving Wall: 3 years		serial								P	149367651
+Journal of Historical Research in Music Education	1536-6006	2328-2525	1999	21	1	2016			http://www.jstor.org/journal/jhistresemusiedu		jhistresemusiedu		fulltext	Previously: The Bulletin of Historical Research in Music Education (1980-1999) Moving Wall:3 years		serial								P	169703223
+Journal of Instructional Development	0162-2641		1977	1	1	1988	11	4	http://www.jstor.org/journal/jinstdeve		jinstdeve		fulltext	Absorbed		serial								P	
+Journal of Museum Education	1059-8650	2051-6169	1985	10	1	2012			http://www.jstor.org/journal/jmuseumeduc		jmuseumeduc		fulltext	Previously: Roundtable Reports (1973-1984) Moving Wall: 7 years		serial								P	170347206
+Journal of Narrative Theory	1549-0815	1548-9248	1999	29	1	2014			http://www.jstor.org/journal/jnarrtheory		jnarrtheory		fulltext	Previously: The Journal of Narrative Technique (1971-1998) Moving Wall: 5 years		serial								P	116253096
+Journal of Philosophical Logic	0022-3611	1573-0433	1972	1	1	2016			http://www.jstor.org/journal/jphillogic		jphillogic		fulltext	Moving Wall: 3 years		serial								P	111216567
+Journal of Renaissance and Baroque Music	1059-8529		1946	1	1	1947	1	4	http://www.jstor.org/journal/jrenabaromusi		jrenabaromusi		fulltext	Absorbed		serial								P	
+Journal of Science Education and Technology	1059-0145	1573-1839	1992	1	1	2016			http://www.jstor.org/journal/jsciedutech		jsciedutech		fulltext	Moving Wall: 3 years		serial								P	113776888
+Journal of South Asian Literature	0091-5637		1973	9	1	2000	35	1/2	http://www.jstor.org/journal/jsasianlit		jsasianlit		fulltext	Ceased: 2000		serial								P	
+Journal of Spanish Studies: Twentieth Century	0092-1807		1973	1	1	1980	8	3	http://www.jstor.org/journal/jspanstud20cent		jspanstud20cent		fulltext	Absorbed		serial								P	
+Journal of the Illinois State Historical Society (1908-1984)	0019-2287		1908	1	1	1984	77	2	http://www.jstor.org/journal/jillistathists		jillistathists		fulltext	Absorbed		serial								P	
+Journal of the Illinois State Historical Society (1998-)	1522-1067		1998	91	2	2017			http://www.jstor.org/journal/jillistathistsoc		jillistathistsoc		fulltext	Moving Wall: 2 years		serial								P	
+Jung Journal	1934-2039	1934-2047	2007	1	1	2012			http://www.jstor.org/journal/jungjcultpsyc		jungjcultpsyc		fulltext	Previously: The San Francisco Jung Institute Library Journal (1979-2006). Moving Wall: 7 years		serial								P	120657554
+Keats-Shelley Journal	0453-4387		1952	1		2016			http://www.jstor.org/journal/keatsshelleyj		keatsshelleyj		fulltext	Moving Wall: 3 years		serial								P	
+KulturPoetik	1616-1203		2001	1	1	2018			http://www.jstor.org/journal/kulturpoetik		kulturpoetik		fulltext	Moving Wall: 1 year		serial								P	
+L'Année épigraphique	0066-2348	2492-0509	1889	1888		2014			http://www.jstor.org/journal/anneepig		anneepig		fulltext	Moving Wall: 5 years		serial								P	178311952
+Le Cahier (Collège international de philosophie)	0980-1626		1985		1	1989		8	http://www.jstor.org/journal/cahiercolintphil		cahiercolintphil		fulltext	Absorbed		serial								P	
+Legacy: A Journal of American Women Writers	0748-4321	1534-0643	1984	1	1	2014			http://www.jstor.org/journal/legacy		legacy		fulltext	Moving Wall: 5 years		serial								P	076863832
+Les Études philosophiques	0014-2166	2101-0056	1928	2	1	2016			http://www.jstor.org/journal/etudphil		etudphil		fulltext	Previously: Bulletin de la Société d'Études Philosophiques du Sud-Est (1926-1927) Moving Wall: 3 years		serial								P	122121805
+Mahfil	0025-0503		1966	3	1	1972	8	4	http://www.jstor.org/journal/mahfil		mahfil		fulltext	Absorbed		serial								P	
+Materiali e discussioni per l'analisi dei testi classici	0392-6338		1978		1	2014			http://www.jstor.org/journal/matedisctestclas		matedisctestclas		fulltext	Moving Wall: 5 years		serial								P	
+Mathematics in School	0305-7259		1971	1	1	2014			http://www.jstor.org/journal/mathschool		mathschool		fulltext	Moving Wall: 5 years		serial								P	
+Meridians: feminism, race, transnationalism	1536-6936	1547-8424	2000	1	1	2016			http://www.jstor.org/journal/meridians		meridians		fulltext	Moving Wall: 3 years		serial								P	076865487
+Modern Art	2151-7053		1893	1	1	1897	5	1	http://www.jstor.org/journal/modernart		modernart		fulltext	Ceased: 1897		serial								P	
+Music Perception: An Interdisciplinary Journal	0730-7829	1533-8312	1983	1	1	2016			http://www.jstor.org/journal/musicperception		musicperception		fulltext	Moving Wall:3 years		serial								P	143846213
+Music and the Moving Image	2167-8464	1940-7610	2008	1	1	2016			http://www.jstor.org/journal/musimoviimag		musimoviimag		fulltext	Moving Wall: 3 years		serial								P	147870607
+Musica Disciplina	0077-2461		1948	2	1/2	2016			http://www.jstor.org/journal/musidisc		musidisc		fulltext	3 years		serial								P	
+Musurgia	1257-7537	2271-1856	1994	1	1	2009			http://www.jstor.org/journal/musurgia		musurgia		fulltext	Moving Wall: 10 years		serial								P	175967024
+National Academy Notes including the Complete Catalogue of the Spring Exhibition, National Academy of Design	2152-8578		1884		4	1889		9	http://www.jstor.org/journal/naacnicocasenacd		naacnicocasenacd		fulltext	Ceased: 1889		serial								P	
+New England Review (1978-1982)	0164-3177		1978	1	1	1982	4	4	http://www.jstor.org/journal/newengrev		newengrev		fulltext	Now: New England Review (1990-) Continues: New England Review and Bread Loaf Quarterly (1982-1990)		serial								P	
+New England Review (1990-)	1053-1297	2161-9131	1990	13	1	2015			http://www.jstor.org/journal/newenglandrev		newenglandrev		fulltext	Previously: New England Review (1978-1982), New England Review and Bread Loaf Quarterly (1982-1990) Moving Wall: 4 years		serial								P	142710873
+New England Review and Bread Loaf Quarterly	0736-2579		1982	5	1/2	1990	12	4	http://www.jstor.org/journal/newengrevbreloq		newengrevbreloq		fulltext	Now: New England Review (1990-) Previously: New England Review (1978-1982)		serial								P	
+Newsletter of the Association for Study of American Indian Literatures	2157-1139		1977	1	1	1979	3	4	http://www.jstor.org/journal/newsasail		newsasail		fulltext	Absorbed		serial								P	
+Newsletter of the Victorian Studies Association of Western Canada	0703-5500		1972	1	1	1988	14	2	http://www.jstor.org/journal/newvicstuaswc		newvicstuaswc		fulltext	Now: Victorian Review		serial								P	
+Newsletter. African Music Society	2078-8061		1948	1	1	1951	1	4	http://www.jstor.org/journal/newafrmussoc		newafrmussoc		fulltext	Now: African Music. Continues: The African Music Society Newsletter (1952-1953)		serial								P	
+Northern Notes & Queries	2042-0005		1889	3	12	1890	4	16	http://www.jstor.org/journal/nornotque		nornotque		fulltext	Now: The Scottish Historical Review. Continues: The Scottish Antiquary, or, Northern Notes and Queries (1890-1903)		serial								P	
+Nouvelle Revue du XVIe Siècle	0294-1414		1984	2		2004	22	2	http://www.jstor.org/journal/nouvrevusiec		nouvrevusiec		fulltext	Now: Seizième Siècle		serial								P	
+Nova Religio: The Journal of Alternative and Emergent Religions	1092-6690	1541-8480	1997	1	1	2016			http://www.jstor.org/journal/novareligio		novareligio		fulltext	Moving Wall: 3 years		serial								P	159165539
+Nueva Revista de Filología Hispánica	0185-0121		1947	1	1	2019			http://www.jstor.org/journal/nuerevdefilohisp		nuerevdefilohisp		fulltext	Content for this title is released as soon as the latest issues become available to JSTOR.		serial								P	
+Oral History	0143-0955		1972	1	1	2018			http://www.jstor.org/journal/oralhistory		oralhistory		fulltext	Moving Wall: 1 year		serial								P	
+Oregon Historical Quarterly	0030-4727	2329-3780	1926	27	3	2016			http://www.jstor.org/journal/oregonhistq		oregonhistq		fulltext	Moving Wall: 3 years. Previously: Sources of the History of Oregon (1897-1899), Quarterly of the Oregon Historical Society (1900-1926)		serial								P	170357929
+Papers of the Bibliographical Society, University of Virginia	2153-3857		1948	1		1948	1		http://www.jstor.org/journal/papebiblsociuniv		papebiblsociuniv		fulltext	Absorbed		serial								P	
+Papers of the British School at Rome	0068-2462	2045-239X	1902	1	1	2016			http://www.jstor.org/journal/papbritschrome		papbritschrome		fulltext	3 years		serial								P	163678650
+Pasajes	1575-2259		1999		1	2016			http://www.jstor.org/journal/pasajes		pasajes		fulltext	Moving Wall: 3 years		serial								P	
+Pennsylvania History: A Journal of Mid-Atlantic Studies	0031-4528	2153-2109	1934	1	1	2016			http://www.jstor.org/journal/pennhistory		pennhistory		fulltext	Moving Wall:3 years		serial								P	143743856
+Philosophy and Rhetoric	0031-8213	1527-2079	1968	1	1	2016			http://www.jstor.org/journal/philrhet		philrhet		fulltext	Moving Wall:3 years		serial								P	058352457
+Philosophy of Music Education Newsletter	2156-5902		1988	1	1	1992	4	3	http://www.jstor.org/journal/philmusieducnews		philmusieducnews		fulltext	Now: Philosophy of Music Education Review		serial								P	
+Philosophy of Music Education Review	1063-5734	1543-3412	1993	1	1	2016			http://www.jstor.org/journal/philmusieducrevi		philmusieducrevi		fulltext	Previously: Philosophy of Music Education Newsletter (1988-1992) Moving Wall: 3 years		serial								P	164363726
+Ploughshares	0048-4474	2162-0903	1971	1	1	2017			http://www.jstor.org/journal/ploughshares		ploughshares		fulltext	Moving Wall: 2 years		serial								P	127445668
+Poetry	0032-2032		1912	1	1	2016			http://www.jstor.org/journal/poetry		poetry		fulltext	Moving Wall: 3 years		serial								P	
+Prairie Schooner	0032-6682	1542-426X	1927	1	1	2016			http://www.jstor.org/journal/prairieschooner		prairieschooner		fulltext	Moving Wall: 3 years		serial								P	181254956
+Profession	0740-6959		1977			2014			http://www.jstor.org/journal/profession		profession		fulltext	Moving Wall: 5 years		serial								P	
+Prooftexts	0272-9601	1086-3311	1981	1	1	2016			https://www.jstor.org/journal/prooftexts		prooftexts		fulltext	Moving Wall: 3 years		serial								P	058046593
+Qui Parle: Critical Humanities and Social Sciences	1041-8385	1938-8020	1987	1	2	2014			http://www.jstor.org/journal/quiparle		quiparle		fulltext	Moving Wall: 5 years		serial								P	159888255
+Quondam et Futurus	8755-3627		1980	1	1	1993	3	4	http://www.jstor.org/journal/quondametfuturus		quondametfuturus		fulltext	Absorbed		serial								P	
+RES: Anthropology and Aesthetics	0277-1322	2327-9621	1981		1	2015		65/66	http://www.jstor.org/journal/resanthroaesth		resanthroaesth		fulltext	Coverage presently ends: 2015. JSTOR will resume a moving wall of 5 years in 2021		serial								P	169592642
+Radical Teacher	0191-4847	1941-0832	1975	1	1	2016			http://www.jstor.org/journal/radicalteacher		radicalteacher		fulltext	Moving Wall: 3 years		serial								P	192317091
+Renacimiento	0214-4050		1988		1	2010		65/66	http://www.jstor.org/journal/renacimiento		renacimiento		fulltext	Ceased: 2010		serial								P	
+Research in Higher Education	0361-0365	1573-188X	1973	1	1	2016			http://www.jstor.org/journal/resehighedu		resehighedu		fulltext	Moving Wall: 3 years		serial								P	114514968
+Review of Research in Visual Arts Education	0160-3221		1975	2	2(4)	1982	8	1(15)	http://www.jstor.org/journal/reviresevisuarts		reviresevisuarts		fulltext	Absorbed		serial								P	
+Review of Research in Visual and Environmental Education	0160-3256		1973	1	1	1974	2	1(3)	http://www.jstor.org/journal/reviresevisuenvi		reviresevisuenvi		fulltext	Absorbed		serial								P	
+Revista Chilena de Literatura	0048-7651	0718-2295	1970		1	2019			http://www.jstor.org/journal/revchilenalit		revchilenalit		fulltext	Content for this title is released as soon as the latest issues become available to JSTOR.		serial								P	094106916
+Revista Portuguesa de Filosofia	0870-5283		1945	1	1	2019			http://www.jstor.org/journal/reviportfilo		reviportfilo		fulltext	Content for this title is released as soon as the latest issues become available to JSTOR.		serial								P	
+Revista de libros	1137-2249		1997		1	2000		41	http://www.jstor.org/journal/revilibr		revilibr		fulltext	Now: Revista de libros de la Fundación Caja Madrid		serial								P	
+Revista de libros de la Fundación Caja Madrid	1698-532X		2000		42	2016			http://www.jstor.org/journal/revilibrfundcaja		revilibrfundcaja		fulltext	Previously: Revista de libros (1997-2000) Moving Wall: 3 years		serial								P	
+Revue Historique	0035-3264	2104-3825	1876	1	1	2016			http://www.jstor.org/journal/revuhist		revuhist		fulltext	Moving Wall: 3 years		serial								P	122235746
+Revue Philosophique de la France et de l'Étranger	0035-3833	2104-385X	1876	1		2016			http://www.jstor.org/journal/revuphilfranetra		revuphilfranetra		fulltext	Moving Wall: 3 years		serial								P	122244095
+Revue d'Assyriologie et d'archéologie orientale	0373-6032	2104-3817	1884	1	1	2016			http://www.jstor.org/journal/revuassyarchorie		revuassyarchorie		fulltext	Moving Wall: 3 years		serial								P	12217822X
+Revue d'Histoire littéraire de la France	0035-2411	2105-2689	1894	1	1	2019			http://www.jstor.org/journal/revuhistlittfran		revuhistlittfran		fulltext	Content for this title is released as soon as the latest issues become available to JSTOR.		serial								P	118822527
+Revue d'histoire de la Deuxième Guerre mondiale	0035-2314		1950	1	1	1981	31	124	http://www.jstor.org/journal/revuhistdeuxguer		revuhistdeuxguer		fulltext	Absorbed		serial								P	
+Revue d'histoire de la Deuxième Guerre mondiale et des conflits contemporains	0755-1584		1982	32	125	1986	36	144	http://www.jstor.org/journal/revuhistdeuxgmcc		revuhistdeuxgmcc		fulltext	Absorbed		serial								P	
+Revue de Métaphysique et de Morale	0035-1571	2102-5177	1893	1	1	2016			http://www.jstor.org/journal/revumetamora		revumetamora		fulltext	Moving Wall: 3 years		serial								P	134327918
+Revue du Seizième siècle	0151-1823	2296-617X	1913	1		1932	19		http://www.jstor.org/journal/revuseizsiec		revuseizsiec		fulltext	Now: Bibliothèque d'Humanisme et Renaissance , Continues: Humanisme et Renaissance (1934-1940)		serial								P	174294476
+Roundtable Reports	0739-4365		1973			1984	9	4	http://www.jstor.org/journal/roundtablerepo		roundtablerepo		fulltext	Now: Journal of Museum Education		serial								P	
+Rue Descartes	1144-0821	2102-5819	1991		1/2	2010		70	http://www.jstor.org/journal/ruedescartes		ruedescartes		fulltext	Coverage for this title ends with Issue 70, 2010.		serial								P	122244605
+SHAW The Annual of Bernard Shaw Studies	0741-5842	1529-1480	1981	1		2016			http://www.jstor.org/journal/shaw		shaw		fulltext	Moving Wall:3 years		serial								P	170773469
+Salmagundi	0036-3529		1965	1	1	2012			http://www.jstor.org/journal/salmagundi		salmagundi		fulltext	Moving Wall: 7 years		serial								P	
+Schools: Studies in Education	1550-1175	2153-0327	2004	1	1	2015	12	2	http://www.jstor.org/journal/schoolstudedu		schoolstudedu		fulltext	Coverage presently ends: 2015. JSTOR will resume a moving wall of 5 years in 2021		serial								P	142487732
+Seizième Siècle	1774-4466		2005		1	2016			http://www.jstor.org/journal/seizsiec		seizsiec		fulltext	Previously: Nouvelle Revue du XVIe Siècle (1984-2004) Moving Wall:3 years		serial								P	
+Sources of the History of Oregon	2473-5116	2473-5124	1897	1	1	1899	1	3/6	http://www.jstor.org/journal/sourhistoreg		sourhistoreg		fulltext	Now: Oregon Historical Quarterly. Continues: Quarterly of the Oregon Historical Society (1900-1926)		serial								P	195208927
+Southwestern Historical Quarterly	0038-478X	1558-9560	1912	16	1	2016			http://www.jstor.org/journal/swesthistquar		swesthistquar		fulltext	Previously: The Quarterly of the Texas State Historical Association (1897-1912) Moving Wall: 3 years		serial								P	123678048
+Studi Storici	0039-3037		1959	1	1	2014			http://www.jstor.org/journal/studistorici		studistorici		fulltext	Moving Wall: 5 years		serial								P	
+Studia Leibnitiana	0039-3185		1969	1	1	2018			http://www.jstor.org/journal/studialeib		studialeib		fulltext	Moving Wall: 1 year		serial								P	
+Studien zur Musikwissenschaft	0930-9578		1913		1	2014			http://www.jstor.org/journal/studmusik		studmusik		fulltext	Moving Wall: 5 years		serial								P	
+Studies in American Indian Literatures	0730-3238	1548-9590	1980	4	1	2014			http://www.jstor.org/journal/studamerindilite		studamerindilite		fulltext	Moving Wall: 5 years		serial								P	11625310X
+Studies in Bibliography	0081-7600	1553-3891	1949	2		2012			http://www.jstor.org/journal/studbibl		studbibl		fulltext	Moving Wall: 7 years		serial								P	129089729
+Studies in English	2158-7957		1911		1	1948	27	[26]	http://www.jstor.org/journal/studengl		studengl		fulltext	Now: Texas Studies in Literature and Language Continues: The University of Texas Studies in English (1949-1956), Texas studies in English (1957-1958)		serial								P	
+Studies in Romanticism	0039-3762	2330-118X	1961	1	1	2016			http://www.jstor.org/journal/studroma		studroma		fulltext	Moving Wall: 3 years		serial								P	17106240X
+Studies in the American Renaissance	0149-015X		1977			1996			http://www.jstor.org/journal/studamerrena		studamerrena		fulltext	Ceased: 1996		serial								P	
+Texas Studies in English	0364-8656		1957	36		1958	37		http://www.jstor.org/journal/texastudengl		texastudengl		fulltext	Now: Texas Studies in Literature and Language Previously: Studies in English (1911-1948), The University of Texas Studies in English (1949-1956)		serial								P	
+Texas Studies in Literature and Language	0040-4691	1534-7303	1959	1	1	2016			http://www.jstor.org/journal/texastudlitelang		texastudlitelang		fulltext	Previously: Studies in English (1911-1948), The University of Texas Studies in English (1949-1956) , Texas Studies in English (1957-1958) Moving Wall: 3 years		serial								P	058847766
+Text	0736-3974		1994	7		2006	16		http://www.jstor.org/journal/text		text		fulltext	Now: Textual Cultures		serial								P	
+Textual Cultures: Texts, Contexts, Interpretation	1559-2936	1933-7418	2006	1	1	2013	8		http://www.jstor.org/journal/textcult		textcult		fulltext			serial								P	111805872
+The African Music Society Newsletter	2078-807X		1952	1	5	1953	1	6	http://www.jstor.org/journal/afrmussocnew		afrmussocnew		fulltext	Now: African Music Previously: Newsletter. African Music Society (1948-1951)		serial								P	
+The Agricultural History Review	0002-1490		1953	1	1	2014			http://www.jstor.org/journal/agrihistrev		agrihistrev		fulltext	Moving Wall: 5 years		serial								P	
+The Aldine	2151-4186		1871	4	1	1879	9	12	http://www.jstor.org/journal/aldine		aldine		fulltext	Ceased: 1879 Previously: The Aldine Press (1868-1870)		serial								P	
+The Aldine Press	2154-8617	2329-325X	1868	1	2	1870	3	12	http://www.jstor.org/journal/aldinepress		aldinepress		fulltext	continues: The Aldine (1871-1879) Ceased:1879		serial								P	170357686
+The American Art Journal (1866-1867)	1946-195X		1866	5	1	1867	7	8	https://www.jstor.org/journal/americanartj		americanartj		fulltext	Ceased: 1867		serial								P	
+The American Art Review	2151-8890		1879	1	1	1881	2	12	http://www.jstor.org/journal/amerartrevi		amerartrevi		fulltext	Ceased: 1881		serial								P	
+The American Magazine of Art	2151-254X		1916	7	3	1936	29	8	http://www.jstor.org/journal/amermagart		amermagart		fulltext	Ceased: 1936		serial								P	
+The American Poetry Review	0360-3709		1972	1	1	2016			http://www.jstor.org/journal/amerpoetrevi		amerpoetrevi		fulltext	Moving Wall: 3 years		serial								P	
+The Art Amateur	2151-8246		1879	1	1	1891	24	2	http://www.jstor.org/journal/artamateur		artamateur		fulltext	Ceased: 1903		serial								P	
+The Art Collector	2474-4549		1899	9	5	1899	9	8	http://www.jstor.org/journal/artcollector		artcollector		fulltext	Continues: The Collector and Art Critic (ceased 1907). Previously: The Collector (1889-1897)		serial								P	
+The Art Critic	2150-315X		1893	1	1	1894	1	3	http://www.jstor.org/journal/artcritic1893		artcritic1893		fulltext	Ceased: 1894		serial								P	
+The Art Journal (1875-1887)	2152-243X		1875	1		1880	6		http://www.jstor.org/journal/artj1875		artj1875		fulltext	Ceased: 1887		serial								P	
+The Art News	2150-3192		1897	1	1	1897	1	4	http://www.jstor.org/journal/artnews1897		artnews1897		fulltext	Ceased: 1897		serial								P	
+The Art News (1923-)	0004-3273		1923	21	19	1924	22	40	http://www.jstor.org/journal/artnews1923		artnews1923		fulltext			serial								P	
+The Art Review	2150-3184		1870	1	1	1871	1	6	http://www.jstor.org/journal/artreview		artreview		fulltext	Ceased: 1871		serial								P	
+The Art Union	1948-0709		1884	1	1	1885	2	5	http://www.jstor.org/journal/artunion		artunion		fulltext	Ceased: 1885		serial								P	
+The Art World	2151-2752		1916	1	1	1918	3	6	http://www.jstor.org/journal/artworld		artworld		fulltext	Ceased: 1918		serial								P	
+The Artist: An Illustrated Monthly Record of Arts, Crafts and Industries (American Edition)	2151-4879		1899	25	233	1901	31	262	http://www.jstor.org/journal/artiameredit		artiameredit		fulltext	Ceased: 1901		serial								P	
+The Bulletin of Historical Research in Music Education	0739-5639	2328-2509	1980	1	1	1999	20	3	http://www.jstor.org/journal/bullhistresemusi		bullhistresemusi		fulltext	Now: Journal of Historical Research in Music Education		serial								P	169703215
+The Collector	2152-6907		1891	3	1	1892	3	20	http://www.jstor.org/journal/thecollector		thecollector		fulltext	Continues: The Art Collector (1898-1899). The Collector and Art Critic (Ceased 1907)		serial								P	
+The Collector and Art Critic	1948-0202		1899	1	1	1907	5	4	http://www.jstor.org/journal/collartcritic		collartcritic		fulltext	Ceased: 1907. Previously: The Art Collector (1898-1899), The Collector (1889-1897)		serial								P	
+The Connoisseur	2151-1276		1886	1	1	1888	3	2	http://www.jstor.org/journal/connoisseur		connoisseur		fulltext	Ceased: 1888		serial								P	
+The Crayon	2150-3176		1855	1	1	1861	8	7	http://www.jstor.org/journal/crayon		crayon		fulltext	Ceased: 1861		serial								P	
+The Decorator and Furnisher	2150-6256		1882	1	1	1897	30	6	http://www.jstor.org/journal/decoandfurn		decoandfurn		fulltext	Ceased: 1897		serial								P	
+The Georgia Historical Quarterly	0016-8297		1917	1	1	2016			http://www.jstor.org/journal/georhistquar		georhistquar		fulltext	Moving Wall: 3 years		serial								P	
+The Illustrated Magazine of Art	2150-5837		1853	1	1	1854	4	24	http://www.jstor.org/journal/illumagaart		illumagaart		fulltext	Ceased: 1854		serial								P	
+The Illustrated Wood Worker	2151-1284		1879	1	1	1879	1	12	http://www.jstor.org/journal/illuwoodwork		illuwoodwork		fulltext	Ceased: 1879		serial								P	
+The Indiana Quarterly Magazine of History	0147-2259		1905	1	1	1913	9	1	http://www.jstor.org/journal/indiqmagahist		indiqmagahist		fulltext	Absorbed		serial								P	
+The Journal of General Education	0021-3667	1527-2060	1946	1	1	2016			http://www.jstor.org/journal/jgeneeduc		jgeneeduc		fulltext	Moving Wall:3 years		serial								P	045015414
+The Journal of Germanic Philology	0364-2968		1897	1	1	1902	4	4	http://www.jstor.org/journal/jgermphil		jgermphil		fulltext	Now: Journal of English and Germanic Philology		serial								P	
+The Journal of Modern Periodical Studies	1947-6574	2152-9272	2010	1	1	2016			http://www.jstor.org/journal/jmodeperistud		jmodeperistud		fulltext	Moving Wall:3 years		serial								P	192117238
+The Journal of Narrative Technique	0022-2925		1971	1	1	1998	28	3	http://www.jstor.org/journal/jnarrtechnique		jnarrtechnique		fulltext	Now: Journal of Narrative Theory		serial								P	
+The Journal of Speculative Philosophy	0891-625X	1527-9383	1867	1	1	2016			http://www.jstor.org/journal/jspecphil		jspecphil		fulltext	Moving Wall:3 years		serial								P	048904309
+The Knight Errant	2150-3168		1892	1	1	1893	1	4	http://www.jstor.org/journal/knighterrant		knighterrant		fulltext	Ceased: 1893		serial								P	
+The Lotus Magazine	2150-5977		1910	1	1	1919	10	5	http://www.jstor.org/journal/lotusmagazine		lotusmagazine		fulltext	Now: Art & Life (Ceased 1920)		serial								P	
+The Monthly Illustrator	2151-4348		1895	3	10	1895	5	17	http://www.jstor.org/journal/montillu		montillu		fulltext	Ceased: 1895		serial								P	
+The New Path	2150-2609		1863	1	1	1865	2	12	http://www.jstor.org/journal/newpath		newpath		fulltext	Ceased: 1865		serial								P	
+The Pacific Northwest Quarterly	0030-8803		1936	27	1	2014			http://www.jstor.org/journal/pacnorwestq		pacnorwestq		fulltext	Previously: The Washington Historical Quarterly (1906-1935) Moving Wall: 5 years		serial								P	
+The Quarterly Illustrator	2151-1705		1893	1	1	1895	3	9	http://www.jstor.org/journal/quartillus		quartillus		fulltext	Absorbed		serial								P	
+The Quarterly of the Oregon Historical Society	2153-1706		1900	1	1	1926	27	2	http://www.jstor.org/journal/qoregonhistsoc		qoregonhistsoc		fulltext	Now: Oregon Historical Quarterly. Previously: Sources of the History of Oregon (1897-1899)		serial								P	
+The Quarterly of the Texas State Historical Association	1948-3325		1897	1	1	1912	15	4	http://www.jstor.org/journal/quartxstahista		quartxstahista		fulltext	Now: Southwestern Historical Quarterly		serial								P	
+The Rijksmuseum Bulletin	1877-8127		2009	57	1	2019			http://www.jstor.org/journal/rijkbull		rijkbull		fulltext	Content for this title is released as soon as the latest issues become available to JSTOR. Previously: Bulletin van het Rijksmuseum (1953-2008)		serial								P	
+The San Francisco Jung Institute Library Journal	0270-6210		1979	1	1	2006	25	4	http://www.jstor.org/journal/sanfranjunginstj		sanfranjunginstj		fulltext	Now: Jung Journal: Culture & Psyche		serial								P	
+The Scottish Antiquary, or, Northern Notes and Queries	2042-0013		1890	5	17	1903	17	68	http://www.jstor.org/journal/scotantnornotque		scotantnornotque		fulltext	Now: The Scottish Historical Review Previously: Northern Notes & Queries (1889-1890)		serial								P	
+The Scottish Historical Review	0036-9241	1750-0222	1903	1	1	2014			http://www.jstor.org/journal/scothistrev		scothistrev		fulltext	Previously: The Scottish Antiquary, or, Northern Notes and Queries (1890-1903), Northern Notes & Queries (1889-1890) Moving Wall: 5 years		serial								P	130401234
+The Shaw Review	0037-3354		1959	2	7	1980	23	3	http://www.jstor.org/journal/shawreview		shawreview		fulltext	Absorbed		serial								P	
+The Soil	2151-1268		1916	1	1	1917	1	5	http://www.jstor.org/journal/thesoil		thesoil		fulltext	Ceased: 1917		serial								P	
+The University of Texas Studies in English	2158-7973		1949	28		1956	35		http://www.jstor.org/journal/univtexastudengl		univtexastudengl		fulltext	Now: Texas Studies in Literature and Language Continues: Texas studies in English (1957-1958) Previously: Studies in English (1911-1948)		serial								P	
+The Washington Historical Quarterly	0361-6223		1906	1	1	1935	26	4	http://www.jstor.org/journal/washhistq		washhistq		fulltext	Now: The Pacific Northwest Quarterly		serial								P	
+The Workshop	2151-142X		1868	1	1	1881	14	2	http://www.jstor.org/journal/theworkshop		theworkshop		fulltext	Ceased: 1884		serial								P	
+Traditio	0362-1529	2166-5508	1943	1		2016			https://www.jstor.org/journal/traditio		traditio		fulltext	Moving Wall: 3 years		serial								P	161087825
+Transactions of the American Art-Union	2152-6141		1844			1849			http://www.jstor.org/journal/tranamerartunio		tranamerartunio		fulltext	Ceased: 1849		serial								P	
+Transactions of the Apollo Association for the Promotion of the Fine Arts in the United States	2152-615X		1839			1842			http://www.jstor.org/journal/tranapolassoprom		tranapolassoprom		fulltext	Absorbed		serial								P	
+Transactions of the Charles S. Peirce Society: A Quarterly Journal in American Philosophy	0009-1774	1558-9587	1965	1	1	2016			http://www.jstor.org/journal/trancharpeirsoc		trancharpeirsoc		fulltext	Moving Wall: 3 years		serial								P	129008214
+Translation and Literature	0968-1361	1750-0214	1992	1		2014			http://www.jstor.org/journal/translit		translit		fulltext	Moving Wall: 5 years		serial								P	130401765
+Utopian Studies	1045-991X	2154-9648	1987		1	2016			http://www.jstor.org/journal/utopianstudies		utopianstudies		fulltext	Moving Wall:3 years		serial								P	147873134
+Victorian Review	0848-1512		1989	15	1	2014	40	2	http://www.jstor.org/journal/victrevi		victrevi		fulltext	Previously: Newsletter of the Victorian Studies Association of Western Canada (1972-1988) Coverage presently ends: 2014. JSTOR will resume a moving wall of 5 years in 2021.		serial								P	
+Visual Arts Research	0736-0770	2151-8009	1982	8	2(16)	2016			http://www.jstor.org/journal/visuartsrese		visuartsrese		fulltext	Moving Wall: 3 years		serial								P	140597174
+Watson's Art Journal	2152-6796		1867	7	10	1868	8	22	http://www.jstor.org/journal/watsartjour		watsartjour		fulltext	Ceased: 1876		serial								P	
+Yale Art Gallery Bulletin	0360-3180		1958	24	1	1964	30	1	http://www.jstor.org/journal/yaleartgallbull		yaleartgallbull		fulltext	Absorbed		serial								P	
+Yale University Art Gallery Bulletin	0084-3539		1965	30	2	2018			http://www.jstor.org/journal/yaluniartgalbul		yaluniartgalbul		fulltext	Moving Wall: 1 year		serial								P	
+Zeitschrift für deutsches Alterthum	1619-6627		1841	1		1875	18		http://www.jstor.org/journal/zeitdeutalte		zeitdeutalte		fulltext	Now: Zeitschrift für deutsches Altertum und deutsche Literatur		serial								P	
+Zeitschrift für deutsches Altertum und deutsche Literatur	0044-2518		1876	19		2015			http://www.jstor.org/journal/zeitdeutaltedeut		zeitdeutaltedeut		fulltext	Previously: Zeitschrift für deutsches Alterthum (1841-1875) Moving Wall: 4 years		serial								P	
+Zeitschrift für französische Sprache und Literatur	0044-2747		1889	11		2015			http://www.jstor.org/journal/zeitfranspralite		zeitfranspralite		fulltext	Previously: Zeitschrift für neufranzösische Sprache und Literatur (1879-1888) Moving Wall: 4 years		serial								P	
+Zeitschrift für neufranzösische Sprache und Literatur	1619-7097		1879	1	1	1888	10		http://www.jstor.org/journal/zeitneufspralite		zeitneufspralite		fulltext	Now: Zeitschrift für französische Sprache und Literatur		serial								P	
+symploke	1069-0697	1534-0627	1993	1	1	2014			http://www.jstor.org/journal/symploke		symploke		fulltext	Moving Wall: 5 years		serial								P	076863824
+Ça Parle	2158-0057		1985	1	1	1985	1	1	http://www.jstor.org/journal/caparle		caparle		fulltext	Absorbed		serial								P	
