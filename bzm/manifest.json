@@ -1,0 +1,14 @@
+{
+  "longname": "Bizminer",
+  "name": "bzm",
+  "describe": "Recognizes the accesses to the platform Bizminer",
+  "contact": "Sean Duffy",
+  "pkb": false,
+  "docurl": "http://analyses.ezpaarse.org/platforms/60ff11da26077345f2abd20d",
+  "domains": [
+    "www.bizminer.com",
+    "report.bizminer.com"
+  ],
+  "version": "2021-09-10",
+  "status": "beta"
+}

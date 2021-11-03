@@ -71,11 +71,11 @@ module.exports = new Parser(function analyseEC(parsedUrl) {
     case 'pdf':
     case 'pdfplus':
     case 'ipdf':
-      result.rtype = result.chapter ? 'BOOK_CHAPTER' : 'ARTICLE';
+      result.rtype = result.chapter ? 'BOOK_SECTION' : 'ARTICLE';
       result.mime  = 'PDF';
       break;
     default:
-      result.rtype = result.chapter ? 'BOOK_CHAPTER' : 'ARTICLE';
+      result.rtype = result.chapter ? 'BOOK_SECTION' : 'ARTICLE';
       result.mime  = 'HTML';
     }
   }

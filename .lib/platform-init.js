@@ -22,7 +22,7 @@ co(function* () {
   const remoteData = docid ? yield fetchRemoteData(docid) : {};
 
   const manifest   = yield askForGeneralInfo(remoteData.cardInfo);
-  manifest.docurl  = docurl;
+  manifest.docurl  = docurl.trim();
   manifest.domains = yield co(askForDomains(remoteData.analyses));
 
   initializeParser(manifest, remoteData.analyses);

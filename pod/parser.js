@@ -19,16 +19,23 @@ module.exports = new Parser(function analyseEC(parsedUrl, ec) {
   // use console.error for debuging
   // console.error(parsedUrl);
 
-  if (/^\/([a-z]{2})\/definition\/([a-z_-]+)\/([a-z]+)$/i.test(path)) {
+  let match;
+
+  if (/^(\/[a-z]{2})?\/definition\/([a-z_-]+)\/([a-z]+)$/i.test(path)) {
     // https://premium.oxforddictionaries.com/us/definition/american_english/lit
     // https://premium.oxforddictionaries.com/us/definition/american_english-thesaurus/good
     result.rtype    = 'RECORD';
     result.mime     = 'HTML';
 
-  } else if (/^\/([a-z]{2})\/search\/$/i.test(path)) {
+  } else if (/^(\/[a-z]{2})?\/search\/$/i.test(path)) {
     // https://premium.oxforddictionaries.com/us/search/?multi=1&dictCode=american_english&dict=american_english&q=fire
     result.rtype    = 'SEARCH';
     result.mime     = 'HTML';
+  }  else if ((match = /^(\/[a-z]{2})?\/translate\/([a-z-/]+)$/i.exec(path)) !== null) {
+    // /translate/english-arabic/garden
+    result.rtype    = 'QUERY';
+    result.mime     = 'HTML';
+    result.unitid   = match[2];
   }
 
   return result;

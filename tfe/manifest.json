@@ -2,7 +2,8 @@
   "version": "2016-11-08",
   "status": "beta",
   "domains": [
-    "www.tandfebooks.com"
+    "www.tandfebooks.com",
+    "www.taylorfrancis.com"
   ],
   "recognize": {
     "rid": [

@@ -1,0 +1,14 @@
+{
+  "longname": "Westlaw Derivatives Law and Practice",
+  "name": "westdlp",
+  "describe": "Recognizes the accesses to the platform Westlaw Derivatives Law and Practice",
+  "contact": "Julie Verleyen, Teresa Fernandez Olaizola",
+  "pkb": false,
+  "docurl": "http://analyses.ezpaarse.org/platforms/60c9c787375d9577c611bd56",
+  "domains": [
+    "uk.westlaw.com",
+    "westlawchile.cl"
+  ],
+  "version": "2021-09-22",
+  "status": "beta"
+}

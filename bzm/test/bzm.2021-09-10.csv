@@ -1,0 +1,5 @@
+out-unitid;out-rtype;out-mime;in-url
+;SEARCH;HTML;https://www.bizminer.com/industry/?s_reset=&s=industry-search-tools&term=asdf&submit=Search
+SPF_Report_2020;REPORT;PDF;http://www.bizminer.com/reports/spf/SPF_Report_2020.pdf
+18047846;REPORT;CSV;http://www.bizminer.com/reports/load_report.php?profileID=18047846&format=csv
+18047846/6f33812eb62a69e142b56aa350779cc7;REPORT;HTML;https://report.bizminer.com/imr/report-2/18047846/6f33812eb62a69e142b56aa350779cc7?format=html&academic=1

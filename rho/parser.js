@@ -62,6 +62,16 @@ module.exports = new Parser(function analyseEC(parsedUrl, ec) {
     // https://www.routledgehandbooks.com:443/search?searchtext=freud&text=freud&page=0&size=10&sort=score%2Cdesc&docType=chapter&openAccessContent=true&researchInterestAcademic=false&researchInterestPractitioner=false
     result.rtype = 'SEARCH';
     result.mime  = 'HTML';
+  } else if ((match = /^\/articles\/thematic\/([a-z0-9-]+)\/[a-z0-9-]+$/i.exec(path)) !== null) {
+    // /articles/thematic/aesthetic-attitude/v-1
+    result.rtype    = 'TOC';
+    result.mime     = 'HTML';
+    result.unitid   = match[1];
+  } else if ((match = /^\/articles\/thematic\/[a-z0-9-]+\/[a-z0-9-]+\/sections\/([a-z0-9-_]+)$/i.exec(path)) !== null) {
+    // /articles/thematic/aesthetic-attitude/v-1/sections/the-idea-of-the-aesthetic-attitude
+    result.rtype    = 'ARTICLE';
+    result.mime     = 'HTML';
+    result.unitid   = match[1];
   }
 
   return result;

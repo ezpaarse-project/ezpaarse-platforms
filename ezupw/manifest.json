@@ -1,0 +1,18 @@
+{
+  "version": "2021-09-30",
+  "status": "beta",
+  "domains": [
+    "unpaywall.inist.fr"
+  ],
+  "recognize": {
+    "rid": [
+      "sid"
+    ]
+  },
+  "name": "ezupw",
+  "longname": "API Unpaywall - ezUnpaywall",
+  "describe": "Recognizes the accesses to the platform API Unpaywall - ezUnpaywall",
+  "docurl": "http://analyses.ezpaarse.org/platforms/61558e451ff077751294bde7",
+  "contact": "ezTEAM",
+  "pkb": false
+}

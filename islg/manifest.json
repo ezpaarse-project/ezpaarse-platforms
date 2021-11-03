@@ -1,0 +1,13 @@
+{
+  "longname": "Investor State Law Guide",
+  "name": "islg",
+  "describe": "Recognizes the accesses to the platform Investor State Law Guide",
+  "contact": "Sean Duffy",
+  "pkb": false,
+  "docurl": "http://analyses.ezpaarse.org/platforms/615b36b9b546586b11357200",
+  "domains": [
+    "app.investorstatelawguide.com"
+  ],
+  "version": "2021-10-14",
+  "status": "beta"
+}

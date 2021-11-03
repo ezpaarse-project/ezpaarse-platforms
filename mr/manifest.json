@@ -1,0 +1,13 @@
+{
+  "longname": "Market Research",
+  "name": "mr",
+  "describe": "Recognizes the accesses to the platform Market Research",
+  "contact": "Sean Duffy",
+  "pkb": false,
+  "docurl": "http://analyses.ezpaarse.org/platforms/61706d392c65df5495fff61e",
+  "domains": [
+    "www.marketresearch.com"
+  ],
+  "version": "2021-10-23",
+  "status": "beta"
+}

@@ -7,8 +7,10 @@
   "docurl": "http://ang.couperin.org/platforms/54aa79e403c3239495447244",
   "domains": [
     "1.next.westlaw.com",
+    "uk.westlaw.com",
     "next.westlaw.com",
-    "westlaw.com"
+    "westlaw.com",
+    "westlawchile.cl"
   ],
   "version": "2019-08-09",
   "status": "beta"

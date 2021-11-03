@@ -1,0 +1,13 @@
+{
+  "longname": "Musicanet.org",
+  "name": "mus",
+  "describe": "Recognizes the accesses to the platform Musicanet.org",
+  "contact": "Julie Verleyen, Teresa Fernandez Olaizola",
+  "pkb": false,
+  "docurl": "http://analyses.ezpaarse.org/platforms/60c9a0b10ad27718dc595b47",
+  "domains": [
+    "www.musicanet.org"
+  ],
+  "version": "2021-09-22",
+  "status": "beta"
+}

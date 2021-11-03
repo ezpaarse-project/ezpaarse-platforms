@@ -107,8 +107,9 @@ module.exports = new Parser(function analyseEC(parsedUrl, ec) {
     // /RA/analyze.do
     result.rtype = 'ANALYSIS';
     result.mime  = 'MISC';
-  } else if ((match = /^\/jif\/home/i.exec(path)) !== null) {
+  } else if ((match = /^\/[a-z-_]+\/(home|journal-profile)/i.exec(path)) !== null) {
     // /jif/home/?journal=NATURE&editions=SCIE&year=2017
+    // /jcr-jp/journal-profile?journal=PHYS%20LIFE%20REV&year=2020&fromPage=%2Fjcr%2Fbrowse-journals
     result.rtype = 'ANALYSIS';
     result.mime  = 'HTML';
     if (param.journal) {

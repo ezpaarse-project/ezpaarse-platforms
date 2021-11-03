@@ -1,0 +1,13 @@
+{
+  "longname": "Exact Editions",
+  "name": "ee",
+  "describe": "Recognizes the accesses to the platform Exact Editions",
+  "contact": "Sean Duffy",
+  "pkb": false,
+  "docurl": "http://analyses.ezpaarse.org/platforms/615512befd8f6768387e62b7",
+  "domains": [
+    "reader.exacteditions.com"
+  ],
+  "version": "2021-10-15",
+  "status": "beta"
+}

@@ -1,0 +1,13 @@
+{
+  "longname": "Journal of Special Operations Medicine",
+  "name": "jsom",
+  "describe": "Recognizes the accesses to the platform Journal of Special Operations Medicine",
+  "contact": "Sean Duffy",
+  "pkb": false,
+  "docurl": "http://analyses.ezpaarse.org/platforms/6142440f2e050b03eecba971",
+  "domains": [
+    "www.jsomonline.org"
+  ],
+  "version": "2021-09-16",
+  "status": "beta"
+}

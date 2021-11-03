@@ -1,0 +1,13 @@
+{
+  "longname": "Bibliographie Linguistischer Literatur (BLLDB)",
+  "name": "blldb",
+  "describe": "Recognizes the accesses to the platform Bibliographie Linguistischer Literatur (BLLDB)",
+  "contact": "Julie Verleyen, Teresa Fernandez Olaizola, wilmouths",
+  "pkb": false,
+  "docurl": "http://analyses.ezpaarse.org/platforms/60c9a6fcfdb3446c7c2badb1",
+  "domains": [
+    "www.blldb-online.de"
+  ],
+  "version": "2021-09-22",
+  "status": "beta"
+}

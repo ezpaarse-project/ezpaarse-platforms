@@ -1,0 +1,13 @@
+{
+  "longname": "Books in Print",
+  "name": "bip",
+  "describe": "Recognizes the accesses to the platform Books in Print",
+  "contact": "Julie Verleyen, Teresa Fernandez Olaizola, Frederic Truong inist, wilmouths",
+  "pkb": false,
+  "docurl": "http://analyses.ezpaarse.org/platforms/60fff896ea57708373c7a517",
+  "domains": [
+    "www.booksinprint.com"
+  ],
+  "version": "2021-09-22",
+  "status": "beta"
+}

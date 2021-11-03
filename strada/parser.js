@@ -186,6 +186,18 @@ module.exports = new Parser(function analyseEC(parsedUrl, ec) {
       result.mime  = 'HTML';
     }
 
+  } else if ((match = /^\/[a-z]{2,3}\/sl_rev_utu\/document\/([a-z0-9_.-]+)$/i.exec(pathname)) !== null) {
+    // /en/sl_rev_utu/document/actualeges_2016_6-nl
+    result.rtype  = 'ARTICLE';
+    result.mime   = 'HTML';
+    result.unitid = match[1];
+
+  } else if ((match = /^\/[a-z]{2,3}\/slu_rev\/toc\/[a-z0-9_.-]+\/doc\/([a-z0-9_.-]+)$/i.exec(pathname)) !== null) {
+    // // /en/slu_rev/toc/b_arbitra_2016_2-en/doc/b_arbitra2016_2p121
+    result.rtype  = 'ARTICLE';
+    result.mime   = 'HTML';
+    result.unitid = match[1];
+
   } else if (/^\/[a-z]{2,3}$/i.test(pathname)) {
     // /fr
     result.rtype = 'SEARCH';

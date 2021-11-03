@@ -1,0 +1,13 @@
+{
+  "longname": "Brockhaus Wissenservice",
+  "name": "bhw",
+  "describe": "Recognizes the accesses to the platform Brockhaus Wissenservice",
+  "contact": "Julie Verleyen, Teresa Fernandez Olaizola, wilmouths",
+  "pkb": false,
+  "docurl": "http://analyses.ezpaarse.org/platforms/60c9a7d0f882452af6ee9b9a",
+  "domains": [
+    "brockhaus.de"
+  ],
+  "version": "2021-09-22",
+  "status": "beta"
+}

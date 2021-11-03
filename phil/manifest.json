@@ -1,0 +1,13 @@
+{
+  "longname": "Philpapers",
+  "name": "phil",
+  "describe": "Recognizes the accesses to the platform Philpapers",
+  "contact": "Julie Verleyen, Teresa Fernandez Olaizola, wilmouths",
+  "pkb": false,
+  "docurl": "http://analyses.ezpaarse.org/platforms/60c9a1ae93a87b4867e07c61",
+  "domains": [
+    "philpapers.org"
+  ],
+  "version": "2021-09-22",
+  "status": "beta"
+}

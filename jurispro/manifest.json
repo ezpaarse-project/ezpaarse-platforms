@@ -1,0 +1,13 @@
+{
+  "longname": "Juris Professionell",
+  "name": "jurispro",
+  "describe": "Recognizes the accesses to the platform Juris Professionell",
+  "contact": "Julie Verleyen, Teresa Fernandez Olaizola, Frederic Truong inist",
+  "pkb": false,
+  "docurl": "http://analyses.ezpaarse.org/platforms/60c72de5b619076ee686bdda",
+  "domains": [
+    "www.juris.de"
+  ],
+  "version": "2021-07-07",
+  "status": "beta"
+}

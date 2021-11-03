@@ -2,9 +2,6 @@
   {
     "code": "PDF"
   },{
-    "code": "PDFPLUS",
-    "description": "PDF avec navigation interactive, contenu multimedia, liens..."
-  },{
     "code": "HTML",
     "description": "Page web"
   },{
@@ -17,6 +14,8 @@
     "code": "JSON"
   },{
     "code": "MARC"
+  },{
+    "code": "RTF"
   },{
     "code": "BIBTEX",
     "comment": "List of references, mostly in conjunction with LaTeX documents"

@@ -1,0 +1,13 @@
+{
+  "longname": "IGI Global",
+  "name": "igi",
+  "describe": "Recognizes the accesses to the platform IGI Global",
+  "contact": "Sean Duffy",
+  "pkb": false,
+  "docurl": "http://analyses.ezpaarse.org/platforms/6148d8ecc1b77756579b2382",
+  "domains": [
+    "www.igi-global.com"
+  ],
+  "version": "2021-09-21",
+  "status": "beta"
+}

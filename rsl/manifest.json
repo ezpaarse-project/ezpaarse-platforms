@@ -6,7 +6,8 @@
   "pkb": false,
   "docurl": "http://analyses.ezpaarse.org/platforms/6048dcfaf87c857f879ad463",
   "domains": [
-    "royalsocietypublishing.org"
+    "royalsocietypublishing.org",
+    "royalsociety.org/journals"
   ],
   "version": "2021-03-15",
   "status": "beta"

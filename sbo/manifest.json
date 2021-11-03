@@ -1,0 +1,14 @@
+{
+  "longname": "Safari Books Online",
+  "name": "sbo",
+  "describe": "Recognizes the accesses to the platform Safari Books Online",
+  "contact": "Julie Verleyen, Teresa Fernandez Olaizola, Frederic Truong inist, wilmouths",
+  "pkb": false,
+  "docurl": "http://analyses.ezpaarse.org/platforms/60c330e5662a2013697a2799",
+  "domains": [
+    "oreilly.com",
+    "learning.oreilly.com"
+  ],
+  "version": "2021-07-07",
+  "status": "beta"
+}

@@ -1,0 +1,15 @@
+{
+  "longname": "Lyell Collection",
+  "name": "lc",
+  "describe": "Recognizes the accesses to the platform Lyell Collection",
+  "contact": "Sean Duffy",
+  "pkb": true,
+  "pkb-domains": "title_url",
+  "docurl": "http://analyses.ezpaarse.org/platforms/615b52203e9c6f7f149ba4b6",
+  "domains": [
+    "www.lyellcollection.org",
+    "jm.lyellcollection.org"
+  ],
+  "version": "2021-10-15",
+  "status": "beta"
+}

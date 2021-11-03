@@ -2,10 +2,15 @@
   "version": "2016-10-04",
   "status": "beta",
   "domains": [
+    "chadwyck.com",
     "luther.chadwyck.co.uk",
+    "pld.chadwyck.co.uk",
     "acta.chadwyck.co.uk",
     "collections.chadwyck.com",
-    "gerritsen.chadwyck.com"
+    "gerritsen.chadwyck.com",
+    "iipaft.chadwyck.com",
+    "prisma.chadwyck.com"
+    
   ],
   "recognize": {
     "rid": [

@@ -22,7 +22,7 @@ module.exports = new Parser(function analyseEC(parsedUrl, ec) {
     result.mime   = 'MISC';
     result.unitid = match[1];
 
-  } else if ((match = /^\/doi\/(pdf|full|ref|audio)\/(10\.[0-9]+\/([a-z0-9._-]+))$/i.exec(path)) !== null) {
+  } else if ((match = /^\/doi\/(pdf|full|ref|audio|abs)\/(10\.[0-9]+\/([a-z0-9._-]+))$/i.exec(path)) !== null) {
     // /doi/full/10.1056/NEJMp1501140
     // /doi/pdf/10.1056/NEJMra1403672
     // /doi/audio/10.1056/nejm_2015.372.issue-23
@@ -46,10 +46,15 @@ module.exports = new Parser(function analyseEC(parsedUrl, ec) {
       result.rtype = 'ABS';
       result.mime  = 'MP3';
       break;
+    case 'abs':
+      result.rtype = 'ABS';
+      result.mime  = 'HTML';
+      break;
     }
 
   } else if (/^\/action\/showIssueAudio$/i.test(path)) {
     // /action/showIssueAudio?a=nejm_2015.372.issue-23.summary.mp3
+    // /action/showIssueAudio?a=nejm_2015.372.issue-23.summary.mp3&doi=10.1056%2Fnejm_2015.372.issue-23&issueSumary=true
 
     result.rtype = 'ABS';
     result.mime  = 'MP3';
@@ -61,6 +66,13 @@ module.exports = new Parser(function analyseEC(parsedUrl, ec) {
       result.unitid = param.doi.split('/')[1];
     }
 
+  } else if ((match = /^\/doi\/do_file\/(10\.[0-9]+\/([a-z0-9._-]+))\/([a-z0-9._-]+)$/i.exec(path)) !== null) {
+    // /doi/do_file/10.1056/NEJMdo210603/NEJMdo210603
+    result.rtype = 'ABS';
+    result.mime  = 'MP3';
+
+    result.doi    = match[1];
+    result.unitid = match[2];
   } else if (/^\/action\/showPowerPoint$/i.test(path)) {
     // /action/showPowerPoint?doi=10.1056/NEJMoa1411480
 

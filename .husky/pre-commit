@@ -1,0 +1,25 @@
+#!/bin/sh
+. "$(dirname "$0")/_/husky.sh"
+
+echo "blabla"
+
+# Defaults to .git
+unset GIT_DIR
+
+ROOT_DIR=$(git rev-parse --show-toplevel)
+LINT="${ROOT_DIR}/.lib/node_modules/eslint/bin/eslint.js --ext .js --no-ignore"
+
+cd $ROOT_DIR
+
+JSFILES=`git diff --name-only --cached --relative --diff-filter=ACM | grep '\.js$'`
+PLATFORMS=`git diff --name-only --cached --relative | grep "/" | grep -v "^\." | cut -d "/" -f1 | uniq`
+
+if [ -n "$JSFILES" ]; then
+  echo "$JSFILES" | xargs node $LINT
+  if [ $? -ne 0 ]; then exit 1; fi
+fi
+
+if [ -n "$PLATFORMS" ]; then
+  echo "$PLATFORMS" | xargs make test
+  if [ $? -ne 0 ]; then exit 1; fi
+fi

@@ -3,6 +3,7 @@
   "status": "beta",
   "domains": [
      "www.degruyter.com",
+     "wbis.degruyter.com",
      "db.degruyter.com"
   ],
   "bacon": {

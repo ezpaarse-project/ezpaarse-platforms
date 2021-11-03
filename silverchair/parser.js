@@ -3,6 +3,8 @@
 'use strict';
 const Parser = require('../.lib/parser.js');
 
+
+
 /**
  * Recognizes the accesses to the platform silverchair
  * @param  {Object} parsedUrl an object representing the URL to analyze
@@ -17,6 +19,16 @@ module.exports = new Parser(function analyseEC(parsedUrl, ec) {
   let host   = parsedUrl.host;
 
   let match;
+
+  if (host.includes('jamanetwork')) {
+    result.publisher_name = 'jama';
+  } else if (host.includes('asmedigitalcollection')) {
+    result.publisher_name = 'asmedigitalcollection';
+  } else if (host.includes('oup')) {
+    result.publisher_name = 'oup';
+  } else if (host.includes('gsw') || host.includes('geoscienceworld')) {
+    result.publisher_name = 'gsw';
+  }
 
   if ((match = /^\/([a-z0-9_.-]+)\.pdf$/i.exec(path)) !== null) {
     // /dew237.pdf
@@ -131,6 +143,10 @@ module.exports = new Parser(function analyseEC(parsedUrl, ec) {
     result.unitid     = match[1];
     result.online_identifier = match[2];
     result.chapter    = match[3];
+  } else if ((match = /^\/searchresults$/i.exec(path)) !== null) {
+    // https://jamanetwork.com/searchresults?q=COVID&allSites=1&SearchSourceType=1&exPrm_qqq={!payloadDisMaxQParser%20pf=Tags%20qf=Tags^0.0000001%20payloadFields=Tags%20bf=}%22COVID%22&exPrm_hl.q=COVID
+    result.rtype    = 'SEARCH';
+    result.mime     = 'HTML';
   }
 
   return result;

@@ -1,0 +1,13 @@
+{
+  "longname": "Credo Reference",
+  "name": "credo",
+  "describe": "Recognizes the accesses to the platform Credo Reference",
+  "contact": "Teresa Fernandez Olaizola, Julie Verleyen, wilmouths",
+  "pkb": false,
+  "docurl": "http://analyses.ezpaarse.org/platforms/555085b9fd48c0b9e0456e33",
+  "domains": [
+    "search.credoreference.com"
+  ],
+  "version": "2021-09-22",
+  "status": "beta"
+}

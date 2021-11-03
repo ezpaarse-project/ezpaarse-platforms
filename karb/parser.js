@@ -47,6 +47,36 @@ module.exports = new Parser(function analyseEC(parsedUrl, ec) {
     result.mime   = 'HTML';
     result.unitid = match[4];
     result.publication_date = match[1];
+  } else if ((match = /^\/document\/print$/i.exec(path)) !== null) {
+    // /document/print?ids=KLI-KCC-1103101-n&title=PDF
+    // /document/print?ids=KLI-KCC-1103101-n&title=PDF
+    // /document/print?ids=KLI-KA-Paulsson-2016-Ch02%2CKLI-KA-Paulsson-2016-Ch03%2CKLI-KA-Paulsson-2016-Ch04%2CKLI-KA-Paulsson-2016-Ch05&pdf=
+
+    result.rtype  = 'BOOK_CHAPTERS_BUNDLE';
+    result.mime   = 'PDF';
+
+    if (!Object.prototype.hasOwnProperty.call(param, 'pdf')) {
+      result.rtype  = undefined;
+      result.unitid = param.ids;
+    }
+  } else if ((match = /^\/document\/download$/i.exec(path)) !== null) {
+    // /document/download?ids=KLI-KA-Paulsson-2016-Ch03%2CKLI-KA-Paulsson-2016-Ch06%2CKLI-KA-Paulsson-2016-Ch07%2CKLI-KA-Paulsson-2016-b001&zip=
+
+    result.rtype  = 'BOOK_CHAPTERS_BUNDLE';
+    result.mime   = 'ZIP';
+  } else if ((match = /^\/document\/([a-z0-9]+)$/i.exec(path)) !== null) {
+    // /document/ipn31829
+
+    result.rtype  = 'JURISPRUDENCE';
+    result.mime   = 'HTML';
+    result.unitid = match[1];
+  } else if ((match = /^\/document\/([a-z0-9-]+)$/i.exec(path)) !== null) {
+    // /document/kli-ka-ai-2020-01-002?title=Arbitration%20International
+    // /document/KLI-KCC-1103103-n
+
+    result.rtype  = param.title ? 'ARTICLE' : 'BOOK_SECTION';
+    result.mime   = 'HTML';
+    result.unitid = match[1];
   }
 
   return result;

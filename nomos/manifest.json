@@ -1,0 +1,13 @@
+{
+  "longname": "Nomos eLibrary",
+  "name": "nomos",
+  "describe": "Recognizes the accesses to the platform Nomos eLibrary",
+  "contact": "Julie Verleyen, Teresa Fernandez Olaizola, Frederic Truong inist",
+  "pkb": false,
+  "docurl": "http://analyses.ezpaarse.org/platforms/60e40ac1f44d3666094922cc",
+  "domains": [
+    "www.nomos-elibrary.de"
+  ],
+  "version": "2021-07-07",
+  "status": "beta"
+}

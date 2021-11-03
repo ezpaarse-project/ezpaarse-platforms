@@ -1,0 +1,13 @@
+{
+  "longname": "B.I.T. Online",
+  "name": "bit",
+  "describe": "Recognizes the accesses to the platform B.I.T. Online",
+  "contact": "Julie Verleyen, Teresa Fernandez Olaizola, wilmouths",
+  "pkb": false,
+  "docurl": "http://analyses.ezpaarse.org/platforms/60c995bbddb0c25eab3322a4",
+  "domains": [
+    "www.b-i-t-online.de"
+  ],
+  "version": "2021-09-22",
+  "status": "beta"
+}
