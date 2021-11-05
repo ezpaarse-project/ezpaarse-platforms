@@ -4,12 +4,31 @@
 const Parser = require('../.lib/parser.js');
 
 /**
+ * Extract rtype
+ */
+function determineRtype (param, result) {
+  const ids = param.id || param.ids;
+  const idMatch = /^(.+)Ch[0-9]+$/.exec(ids);
+  const idArray = ids.split(',');
+  if (idMatch !== null) {
+    if (idArray.length > 1) {
+      result.rtype  = 'BOOK_CHAPTERS_BUNDLE';
+    } else {
+      result.rtype  = 'BOOK_SECTION';
+    }
+  } else {
+    result.rtype  = 'ARTICLE';
+  }
+}
+
+/**
  * Recognizes the accesses to the platform Kluwer Arbitration
  * @param  {Object} parsedUrl an object representing the URL to analyze
  *                            main attributes: pathname, query, hostname
  * @param  {Object} ec        an object representing the EC whose URL is being analyzed
  * @return {Object} the result
- */
+ */ 
+
 module.exports = new Parser(function analyseEC(parsedUrl, ec) {
   let result = {};
   let path   = parsedUrl.pathname;
@@ -27,15 +46,17 @@ module.exports = new Parser(function analyseEC(parsedUrl, ec) {
     }
     if (param.id) {
       result.unitid = param.id;
-      result.rtype  = 'ARTICLE';
     }
     if (param.format && param.format == 'pdf') {
       result.unitid = param.ids;
-      result.rtype  = 'ARTICLE';
       result.mime   = 'PDF';
     }
+
     if (param.journal) {
       result.unitid = param.journal;
+    }
+    if (param.id || param.ids) {
+      determineRtype(param, result);
     }
     if (/([a-z]+)-tool/.test(match[2])) {
       result.rtype = 'TOOL';
@@ -51,14 +72,13 @@ module.exports = new Parser(function analyseEC(parsedUrl, ec) {
     // /document/print?ids=KLI-KCC-1103101-n&title=PDF
     // /document/print?ids=KLI-KCC-1103101-n&title=PDF
     // /document/print?ids=KLI-KA-Paulsson-2016-Ch02%2CKLI-KA-Paulsson-2016-Ch03%2CKLI-KA-Paulsson-2016-Ch04%2CKLI-KA-Paulsson-2016-Ch05&pdf=
-
-    result.rtype  = 'BOOK_CHAPTERS_BUNDLE';
     result.mime   = 'PDF';
 
-    if (!Object.prototype.hasOwnProperty.call(param, 'pdf')) {
-      result.rtype  = undefined;
-      result.unitid = param.ids;
+    if (param.id || param.ids) {
+      determineRtype(param, result);
+      result.unitid = param.id || param.ids;
     }
+
   } else if ((match = /^\/document\/download$/i.exec(path)) !== null) {
     // /document/download?ids=KLI-KA-Paulsson-2016-Ch03%2CKLI-KA-Paulsson-2016-Ch06%2CKLI-KA-Paulsson-2016-Ch07%2CKLI-KA-Paulsson-2016-b001&zip=
 
@@ -74,7 +94,11 @@ module.exports = new Parser(function analyseEC(parsedUrl, ec) {
     // /document/kli-ka-ai-2020-01-002?title=Arbitration%20International
     // /document/KLI-KCC-1103103-n
 
-    result.rtype  = param.title ? 'ARTICLE' : 'BOOK_SECTION';
+    if (param.title && param.title !== 'PDF') {
+      result.rtype = 'ARTICLE';
+    } else {
+      result.rtype  = 'BOOK_SECTION';
+    }
     result.mime   = 'HTML';
     result.unitid = match[1];
   }
