@@ -45,7 +45,7 @@ module.exports = new Parser(function analyseEC(parsedUrl, ec) {
     // https://royalsocietypublishing.org/action/doSearch?AllField=rocks
     result.rtype    = 'SEARCH';
     result.mime     = 'HTML';
-    result.unitid = param.AllField;
+    result.search_term = param.AllField;
   }
 
   return result;
