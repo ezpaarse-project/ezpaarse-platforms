@@ -53,9 +53,9 @@ module.exports = new Parser(function analyseEC(parsedUrl, ec) {
     result.rtype    = 'ARTICLE';
     result.mime     = 'HTML';
     result.unitid   = match[3];
-    if (match[1].toLowerCase() === 'JCP') {
+    if (match[1].toLowerCase() === 'jcp') {
       result.doi = jcp_doi_prefix + match[3];
-    } else if (match[1] === 'PCC') {
+    } else if (match[1] === 'pcc') {
       result.doi = pcc_doi_prefix + match[3];
     }
   } else if ((match = /^\/([a-zA-Z]{3})\/article\/binaryfiles\/audio\/player.aspx$/i.exec(path)) !== null) {
@@ -94,7 +94,7 @@ module.exports = new Parser(function analyseEC(parsedUrl, ec) {
     // https://www.psychiatrist.com/advanced-search/?title=insomnia
     result.rtype    = 'SEARCH';
     result.mime     = 'HTML';
-    result.unitid = parsedUrl.search.replace('?', '');
+    result.query_string = parsedUrl.search.replace('?', '');
   } else if ((match = /^\/toc\/[a-z-]+\/([0-9]+)\/([0-9]{4})\/([0-9]+)\/([a-zA-Z]{3})\/$/i.exec(path)) !== null) {
     // https://www.psychiatrist.com/toc/pa-volume/82/2021/4/jcp/
     result.rtype    = 'TOC';
