@@ -1,0 +1,13 @@
+{
+  "longname": "Jobs People Do",
+  "name": "jpd",
+  "describe": "Recognizes the accesses to the platform Jobs People Do",
+  "contact": "Sean Duffy",
+  "pkb": false,
+  "docurl": "http://analyses.ezpaarse.org/platforms/6183e10ca2122d6c929967fb",
+  "domains": [
+    "jobspeopledo.com"
+  ],
+  "version": "2021-11-08",
+  "status": "beta"
+}
