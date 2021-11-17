@@ -4,17 +4,16 @@
 const Parser = require('../.lib/parser.js');
 const URL    = require('url');
 
-function getUnitId(hash){
+function getUnitId(hash) {
   const hashedUrl = URL.parse(hash, true);
   let hashMatch;
   let unitId;
   if ((hashMatch = /^\/([a-z-]+)\.mp4$/i.exec(hashedUrl.pathname)) !== null) {
     unitId = hashMatch[1];
-
-  }else if ((hashMatch = /^\/[a-z]+\/[a-z]+\/(([0-9-]+).([0-9]+))\.mp4$/i.exec(hashedUrl.pathname)) !== null) {
-    unitId = hashMatch[1];  
-  }  
-  return unitId
+  } else if ((hashMatch = /^\/[a-z]+\/[a-z]+\/(([0-9-]+).([0-9]+))\.mp4$/i.exec(hashedUrl.pathname)) !== null) {
+    unitId = hashMatch[1];
+  }
+  return unitId;
 }
 
 /**
@@ -45,16 +44,16 @@ module.exports = new Parser(function analyseEC(parsedUrl, ec) {
     // http://jobspeopledo.com/job-videos/#s3://jpd-videos/MCP-Butcher.mp4
     // ttp://jobspeopledo.com/job-videos/#https://cdn.careeronestop.org/OccVids/OccupationVideos/19-1031.00.mp4
     // http://jobspeopledo.com/job-videos/?What=rocks&x=0&y=0
-    
+
     if (param.What !== undefined) {
       result.rtype    = 'SEARCH';
       result.mime     = 'HTML';
     } else {
       result.rtype    = 'VIDEO';
       result.mime     = 'HTML';
-      result.unitid   = getUnitId(parsedUrl.hash.replace('#', ''));                  
+      result.unitid   = getUnitId(parsedUrl.hash.replace('#', ''));
     }
-  }  
+  }
 
   return result;
 });
