@@ -1,0 +1,587 @@
+publication_title	print_identifier	online_identifier	date_first_issue_online	num_first_vol_online	num_first_issue_online	date_last_issue_online	num_last_vol_online	num_last_issue_online	title_url	first_author	title_id	embargo_info	coverage_depth	notes	publisher_name	publication_type	date_monograph_published_print	date_monograph_published_online	monograph_volume	monograph_edition	first_editor	parent_publication_title_id	preceding_publication_title_id	access_type	bestppn
+AIBS Bulletin	0096-7645	2326-1331	1951	1	1	1963	13	6	https://academic.oup.com/bioscience		bioscience		fulltext	now: BioScience		serial								P	167504908
+Acta Biochimica et Biophysica Sinica	1672-9145	1745-7270	2004	36	1				https://academic.oup.com/abbs		abbs		fulltext			serial								P	104562226
+Adaptation	1755-0637	1755-0645	2008	1	1				https://academic.oup.com/adaptation		adaptation		fulltext			serial								P	131763369
+Advances in Nutrition	2161-8313	2156-5376	2010	1	1				https://academic.oup.com/advances		advances		fulltext	Transfer in (2018): American Society for Nutrition		serial								P	15720328X
+Aesthetic Surgery Journal	1090-820X	1527-330X	1997	17	1				https://academic.oup.com/asj		asj		fulltext	Transfer in (2015): Sage. Previously: Aesthetic surgery quarterly (1995-1996)		serial								P	058352473
+Aesthetic Surgery Journal. Open Forum		2631-4797	2019	1	1				https://academic.oup.com/asjopenforum/issue		asjopenforumissue		fulltext	Open Access; new (2020)		serial								P	235215465
+Aesthetic Surgery Quarterly	1084-0761		1995	15	1	1996	16	4	https://academic.oup.com/asj		asj		fulltext	Now: Aesthetic Surgery Journal		serial								P	
+African Affairs	0001-9909	1468-2621	1944	43	172				https://academic.oup.com/afraf		afraf		fulltext	Previously: Journal of the African Society (1901-1935), Journal of the Royal African Society (1935-1944)		serial								P	064160572
+Age and Ageing	0002-0729	1468-2834	1972	1	1				https://academic.oup.com/ageing		ageing		fulltext			serial								P	116266015
+Alcohol and Alcoholism	0735-0414	1464-3502	1983	18	1				https://academic.oup.com/alcalc		alcalc		fulltext	Previously: British Journal on Alcohol and Alcoholism (1977-1982) , Journal of Alcoholism (1968-1976), Bulletin on Alcoholism (1963-1967)		serial								P	124374980
+American Breeders' Association			1905	os-1	1	1909	os-5	1	https://academic.oup.com/jhered		jhered		fulltext	Now: Journal of Heredity (1914-) Continues: American Breeders’ Magazine (1910-1913)		serial								P	
+American Breeders' Magazine			1910	1	1	1913	4	4	https://academic.oup.com/jhered		jhered		fulltext	Now: Journal of Heredity (1914-) Previously: American Breeders’ Association (1905-1909)		serial								P	
+American Entomologist	1046-2821	2155-9902	1990	36	1				https://academic.oup.com/ae/issue		aeissue		fulltext	transfer in (2015): Entomological Society of America; previously: Bulletin of the Entomological Society of America (ISSN: 0013-8754; 1955-1989)		serial								P	147873614
+American Journal of Agricultural Economics	0002-9092	1467-8276	1968	50	1	2019			https://academic.oup.com/ajae		ajae		fulltext	Previously: Journal of Farm Economics (1919-1967). Transfer out (2020):Wiley		serial								P	078917638
+American Journal of Clinical Nutrition	0002-9165	1938-3207	1981	34	1				https://academic.oup.com/ajcn/		ajcn		fulltext	Transfer in (2018): American Society for Nutrition		serial								P	143707469
+American Journal of Clinical Pathology	0002-9173	1943-7722	1931	1	1				https://academic.oup.com/ajcp		ajcp		fulltext	transfer in (2016): Self Published by American Society for Clinical Pathology.		serial								P	133154904
+American Journal of Epidemiology	0002-9262	1476-6256	1965	81					https://academic.oup.com/aje		aje		fulltext	Previously: American Journal of Hygiene (1921-1964)		serial								P	064162141
+American Journal of Health-System Pharmacy	1079-2082	1535-2900	1995	52	1				https://academic.oup.com/ajhp/issue		ajhpissue		fulltext	Transfer in (2019): American Society of Health System Pharmacists; previously: American Journal of Hospital Pharmacy (ISSN: 0002-9289; 1958-1994); Bulletin - American Society of Hospital Pharmacists (ISSN: 0099-7501; 1943-1957)		serial								P	120829304
+American Journal of Hospital Pharmacy	0002-9289		1958	15	1	1994	51	24	https://academic.oup.com/ajhp/issue		ajhpissue		fulltext	now: American Journal of Health-System Pharmacy (ISSN: 1079-2082; 1995- ); previously: Bulletin - American Society of Hospital Pharmacists (ISSN: 0099-7501; 1943-1957)		serial								P	
+American Journal of Hygiene	0096-5294		1921	1	1	1964	80	3	https://academic.oup.com/aje		aje		fulltext	Now: American Journal of Epidemiology		serial								P	
+American Journal of Hypertension	0895-7061	1941-7225	1988	1	1				https://academic.oup.com/ajh		ajh		fulltext	Transfer in (2013): Nature		serial								P	070129738
+American Law and Economics Review	1465-7252	1465-7260	1999	1	1				https://academic.oup.com/aler		aler		fulltext			serial								P	058286772
+American Literary History	0896-7148	1468-4365	1989	1	1				https://academic.oup.com/alh		alh		fulltext			serial								P	058288899
+American Zoologist	0003-1569	2162-4445	1961	1	1	2001	41	6	https://academic.oup.com/icb		icb		fulltext	Now: Integrative and Comparative Biology		serial								P	168245477
+Analysis	0003-2638	1467-8284	1933	1	1				https://academic.oup.com/analysis		analysis		fulltext			serial								P	058287167
+Animal Frontiers	2160-6056	2160-6064	2011	1	1				https://academic.oup.com/af		af		fulltext	Transfer in (2018): American Society of Animal Science. Open Access		serial								F	159889111
+Annals of Behavioral Medicine	0883-6612	1532-4796	1979	1	1				https://academic.oup.com/abm		abm		fulltext	Transfer in (2018): Springer		serial								P	121461475
+Annals of Botany	0305-7364	1095-8290	1887	1	1				https://academic.oup.com/aob		aob		fulltext			serial								P	040631192
+Annals of Oncology	0923-7534	1569-8041	1990	1	1				https://academic.oup.com/annonc		annonc		fulltext			serial								P	111308038
+Annals of Physical Medicine	0365-5547		1952	1	1	1970	10	6	https://academic.oup.com/rheumatology		rheumatology		fulltext	Now: Rheumatology (1999-); previously: Annals of Physical Medicine (1952-1970), Rheumatology and Physical Medicine (1970-1972), Rheumatology and Rehabilitation (1973-1982), British Journal of Rheumatology (1983-1998)		serial								P	
+Annals of Work Exposures and Health	2398-7308	2398-7316	2017	61	1				https://academic.oup.com/annweh		annweh		fulltext	Previously: Annals of Occupational Hygiene (1958-2016)		serial								P	200451308
+Annals of the Entomological Society of America	0013-8746	1938-2901	1908	1	1				https://academic.oup.com/aesa		aesa		fulltext	transfer in (2015): Entomological Society of America (BioOne)		serial								P	12835710X
+Antibody Therapeutics		2516-4236	2018	1	1				https://academic.oup.com/abt		abt		fulltext	New for 2019. Open Access		serial								F	23085205X
+AoB Plants		2041-2851	2009	2009					https://academic.oup.com/aobpla		aobpla		fulltext	Fully Open Access		serial								P	149005652
+Applied Economic Perspectives and Policy	2040-5790	2040-5804	2010	32	1	2019			https://academic.oup.com/aepp		aepp		fulltext	A subscription to American Journal of Agricultural Economics also includes Applied Economic Perspectives and Policy. Previously: Review of Agricultural Economics (1991-2009), North Central Journal of Agricultural Economics(1979-1990). Transfer out (2020):Wiley		serial								P	146865928
+Applied Linguistics	0142-6001	1477-450X	1980	1					https://academic.oup.com/applij		applij		fulltext			serial								P	068853645
+Applied Mathematics Research eXpress	1687-1200	1687-1197	2003	2003	1	2017	2017	2	https://academic.oup.com/amrx		amrx		fulltext	Ceased: (2017)		serial								P	073888494
+Arbitration International	0957-0411		1985	1	1				https://academic.oup.com/arbitration		arbitration		fulltext	transfer in (2015):Wolters Kluwer		serial								P	
+Arbitration Law Reports and Review	2044-8651	2044-9887	2001	2001	1	2011	2011	1	https://academic.oup.com/alrr		alrr		fulltext	Ceased:2011		serial								P	166925608
+Archives of Clinical Neuropsychology	0887-6177	1873-5843	1986	1	1				https://academic.oup.com/acn		acn		fulltext			serial								P	076091090
+Aristotelian Society Supplementary Volume	0309-7013	1467-8349	1918	1	1				https://academic.oup.com/aristoteliansupp		aristoteliansupp		fulltext	transfer in (2016): Wiley		serial								P	058287213
+Arthropod Management Tests	2155-9848	2155-9856	1999	24	1				https://academic.oup.com/amt		amt		fulltext	Fully Open Access. transfer in (2015): Entomological Society of America		serial								P	147873606
+Astronomy and Geophysics	1366-8781	1468-4004	1997	38	1				https://academic.oup.com/astrogeo		astrogeo		fulltext	Transfer in (2013):Wiley		serial								P	058288864
+BJA education	2058-5349	2058-5357	2015	15	3	2017	17	12	https://academic.oup.com/bjaed		bjaed		fulltext	Previously: Continuing Education in Anaesthesia, Critical Care & Pain (2004-2015), British Journal of Anaesthesia CEPD Reviews (2001-2003). Transfer out (2018): Elsevier		serial								P	189875100
+BJA: British Journal of Anaesthesia	0007-0912	1471-6771	1923	1	1	2017	119	6	https://academic.oup.com/bja		bja		fulltext	Transfer out (2018): Elsevier		serial								P	064160947
+BJS Open		2474-9842	2017	1	1				https://academic.oup.com/bjsope/issue		bjsopeissue		fulltext	Open Access		serial								P	220267561
+Background	0361-5448	2326-2966	1962	6	01-Mar	1967	11	4	https://academic.oup.com/isq/issue		isqissue		fulltext	now: International Studies Quarterly (ISSN: 0020-8833; 1967- ); previously: Background on World Politics (ISSN: 1533-6689; 1957-1961)		serial								P	119862352
+Background on World Politics	1533-6689	2326-2974	1957	1	1	1961	5	4	https://academic.oup.com/isq/issue		isqissue		fulltext	now: International Studies Quarterly (ISSN: 0020-8833; 1967- ); continued by: Background (ISSN: 0361-5448; 1962-1967)		serial								P	119862433
+Behavioral Ecology	1045-2249	1465-7279	1990	1	1				https://academic.oup.com/beheco		beheco		fulltext			serial								P	114561753
+Behavioral Medicine Update	0742-5554		1979	1	1	1984	6	4	https://academic.oup.com/abm/issue		abmissue		fulltext	now:Annals of behavioral medicine (ISSN: 0883-6612; 1985- )		serial								P	
+BioScience	0006-3568	1525-3244	1964	14	1				https://academic.oup.com/bioscience		bioscience		fulltext	Transfer in (2014): University of California Press. previously: AIBS Bulletin (1951 -1963)		serial								P	05835204X
+Bioinformatics	1367-4803	1367-4811	1998	14	1				https://academic.oup.com/bioinformatics		bioinformatics		fulltext	Previously: Computer Applications in the Biosciences (1985-1997) Incorporated: International Conference on Intelligent Systems for Molecular Biology. Proceedings		serial								P	040646130
+Biological Journal of the Linnean Society	0024-4066	1095-8312	1969	1	1-2				https://academic.oup.com/biolinnean		biolinnean		fulltext	Transfer in (2017): Wiley		serial								P	040631214
+Biology Methods and Protocols		2396-8923	2016	1	1				https://academic.oup.com/biomethods		biomethods		fulltext	Open Access		serial								P	198530331
+Biology of Reproduction	0006-3363	1529-7268	1969	1	1				https://academic.oup.com/biolreprod		biolreprod		fulltext	Transfer in (2017): ISPG. New for 2017		serial								P	059183136
+Biometrika	0006-3444	1464-3510	1901	1	1				https://academic.oup.com/biomet		biomet		fulltext			serial								P	116647760
+Bioscience Horizons		1754-7431	2008	1	1				https://academic.oup.com/biohorizons		biohorizons		fulltext	Fully Open Access		serial								P	128395826
+Bioscience, Biotechnology and Biochemistry	0916-8451	1347-6947	1996	60	1				https://academic.oup.com/bbb		bbb		fulltext	New to OUP 2021		serial								P	069623961
+Biostatistics	1465-4644	1468-4357	2000	1	1				https://academic.oup.com/biostatistics		biostatistics		fulltext			serial								P	050929097
+Botanical Journal of the Linnean Society	0024-4074	1095-8339	1969	62	1				https://academic.oup.com/botlinnean		botlinnean		fulltext	Transfer in (2017): Wiley. Previously: Journal of the Linnean Society of London. Botany (1867-1968), Journal of the proceedings of the Linnean Society. Botany (1857-1865)		serial								P	040631230
+Brain	0006-8950	1460-2156	1878	1	1				https://academic.oup.com/brain		brain		fulltext			serial								P	058286381
+Brain Communications		2632-1297	2019	1	1				https://academic.oup.com/braincomms/issue		braincommsissue		fulltext	Open Access		serial								P	238218384
+Briefings in Bioinformatics	1467-5463	1477-4054	2000	1	1				https://academic.oup.com/bib		bib		fulltext			serial								P	067784607
+Briefings in Functional Genomics	2041-2649	2041-2657	2010	9	1				https://academic.oup.com/bfg		bfg		fulltext	Previously: Briefings in Functional Genomics and Proteomics (2002-2009)		serial								P	14418981X
+Briefings in Functional Genomics & Proteomics	1473-9550	1477-4062	2002	1	1	2009	8	6	https://academic.oup.com/bfg		bfg		fulltext	Now: Briefings in Functional Genomics		serial								P	068853629
+British Journal of Rheumatology	0263-7103	1460-2172	1983	22	1	1998	37	2	https://academic.oup.com/rheumatology		rheumatology		fulltext	Now: Rheumatology (1999-); previously: Annals of Physical Medicine (1952-1970), Rheumatology and Physical Medicine (1970-1972), Rheumatology and Rehabilitation (1973-1982)		serial								P	05828639X
+British Journal of Surgery	0007-1323	1365-2168	1996	83	1				https://academic.oup.com/bjs		bjs		fulltext	New to OUP 2021		serial								P	040645614
+British Journal on Alcohol and Alcoholism	0309-1635		1977	12	1	1982	17	3	https://academic.oup.com/alcalc		alcalc		fulltext	Now: Alcohol and Alcoholism (1983-). Previously:Journal of Alcoholism (1968-1976), Bulletin on alcoholism (1963-1967)		serial								P	
+British Medical Bulletin	0007-1420	1471-8391	1943	1	1				https://academic.oup.com/bmb		bmb		fulltext			serial								P	112893066
+Bulletin - American Society of Hospital Pharmacists	0099-7501		1943	1	1	1957	14	24	https://academic.oup.com/ajhp/issue		ajhpissue		fulltext	now: American Journal of Health-System Pharmacy (ISSN: 1079-2082; 1995- ); continued by: American Journal of Hospital Pharmacy (ISSN: 0002-9289; 1958-1994)		serial								P	
+Bulletin of the Cooper Ornithological Club	1553-1031		1900	2	1	1899	1	6	https://academic.oup.com/condor		condor		fulltext			serial								P	
+Bulletin of the Entomological Society of America	0013-8754	2376-9041	1955	1	1	1989	35	4	https://academic.oup.com/ae/issue		aeissue		fulltext	now:American Entomologist (ISSN: 1046-2821; 1990- )		serial								P	184174511
+Bulletin of the IGPL	0945-9103		1993	1	1	1995	3	4	https://academic.oup.com/jigpal		jigpal		fulltext	Now:Logic Journal of the IGPL (1997-) Continues: Journal of the IGPL (1995-1996)		serial								P	
+Bulletin of the Institute of Classical Studies	0076-0730	2041-5370	1954	1	1				https://academic.oup.com/bics/issue		bicsissue		fulltext	transfer in (2020): Wiley		serial								P	158703685
+Bulletin of the London Mathematical Society	0024-6093	1469-2120	1969	1	1	2016	48	6	https://academic.oup.com/blms		blms		fulltext	Transfer out (2017): Wiley		serial								P	048900168
+Bulletin on Alcoholism			1963	1	1	1967	2	4	https://academic.oup.com/alcalc		alcalc		fulltext	Now: Alcohol and Alcoholism (1983-) Continues: The Journal of Alcoholism (1968-1976) British Journal on Alcohol and Alcoholism (1977-1982)		serial								P	
+CESifo Economic Studies	1610-241X	1612-7501	2003	49	1				https://academic.oup.com/cesifo		cesifo		fulltext			serial								P	076883019
+Cambridge Journal of Economics	0309-166X	1464-3545	1977	1	1				https://academic.oup.com/cje		cje		fulltext			serial								P	129182494
+Cambridge Journal of Regions, Economy and Society	1752-1378	1752-1386	2008	1	1				https://academic.oup.com/cjres		cjres		fulltext			serial								P	13314691X
+Capital Markets Law Journal	1750-7219	1750-7227	2006	1	1				https://academic.oup.com/cmlj		cmlj		fulltext			serial								P	112785816
+Carcinogenesis	0143-3334	1460-2180	1980	1	1				https://academic.oup.com/carcin		carcin		fulltext			serial								P	058286403
+Cardiovascular Research	0008-6363	1755-3245	1967	1	1				https://academic.oup.com/cardiovascres		cardiovascres		fulltext			serial								P	148653006
+Cerebral Cortex	1047-3211	1460-2199	1991	1	1				https://academic.oup.com/cercor		cercor		fulltext			serial								P	058286411
+Cerebral Cortex Communications		2632-7376		1	1				https://academic.oup.com/cercorcomms/issue		cercorcommsissue		fulltext	Open Access; new (2020); content not yet available		serial								P	252280415
+Chemical Senses	0379-864X	1464-3553	1980	5	1				https://academic.oup.com/chemse		chemse		fulltext	Previously: Chemical Senses and Flavor (1974-1979)		serial								P	120421208
+Chemical Senses and Flavor	0302-2471		1974	1	1	1979	4		https://academic.oup.com/chemse		chemse		fulltext	Now: Chemical Senses		serial								P	
+Children & Schools	1532-8759	1545-682X	2000	22	1				https://academic.oup.com/cs		cs		fulltext	Previously: Social Work in Education (1978-1999)		serial								P	076878414
+Chinese Journal of International Law	1540-1650	1746-9937	2002	1	1				https://academic.oup.com/chinesejil		chinesejil		fulltext			serial								P	111216982
+Christian Bioethics	1380-3603	1744-4195	1995	1	1				https://academic.oup.com/cb		cb		fulltext			serial								P	090139569
+Classical Receptions Journal	1759-5134	1759-5142	2009	1	1				https://academic.oup.com/crj		crj		fulltext			serial								P	146296214
+Clean Energy	2515-4230	2515-396X	2017	1	1				https://academic.oup.com/ce/issue		ceissue		fulltext	Open Access		serial								P	224182765
+Clinical Chemistry	0009-9147	1530-8561	1955	1	1				https://academic.oup.com/clinchem/issue		clinchemissue		fulltext	transfer in (2020): American Association for Clinical Chemistry		serial								P	058400885
+Clinical Infectious Diseases	1058-4838	1537-6591	1992	14	1				https://academic.oup.com/cid		cid		fulltext	Previously: Reviews of Infectious Diseases (1979-1991)		serial								P	074022164
+Clinical Kidney Journal	2048-8505	2048-8513	2012	5	1				https://academic.oup.com/ckj		ckj		fulltext	From January 2015 Clinical Kidney; open access. Previously: NDT Plus (2008-2011, same ISSN)		serial								P	161412491
+Clinical Neurosurgery	0069-4827	2631-7117	1955	1	1	1976	23	1	https://academic.oup.com/neurosurgery/issue		neurosurgeryissue		fulltext			serial								P	231606842
+Communication theory	1050-3293	1468-2885	1991	1	1				https://academic.oup.com/ct		ct		fulltext	Transfer in (2018): Wiley		serial								P	115431632
+Communication, Culture and Critique	1753-9129	1753-9137	2008	1	1				https://academic.oup.com/ccc		ccc		fulltext	Transfer in (2018):Wiley		serial								P	131763148
+Community Development Journal	0010-3802	1468-2656	1966	1	1				https://academic.oup.com/cdj		cdj		fulltext			serial								P	064160602
+Community Medicine	0142-2456		1979	1	1	1989	11		https://academic.oup.com/jpubhealth		jpubhealth		fulltext	Now: Journal of Public Health Continues: Journal of Public Health Medicine (1990-2003)		serial								P	
+Computer Applications in the Biosciences	0266-7061	1460-2059	1985	1	1	1997	13	6	https://academic.oup.com/bioinformatics		bioinformatics		fulltext	Now: Bioinformatics		serial								P	058286292
+Conservation Physiology		2051-1434	2013	1	1				https://academic.oup.com/conphys		conphys		fulltext	Fully Open Access		serial								P	174285043
+Contemporary Women's Writing	1754-1476	1754-1484	2007	1	1-2				https://academic.oup.com/cww		cww		fulltext			serial								P	133945170
+Continuing Education in Anaesthesia, Critical Care & Pain	1743-1816	1743-1824	2004	4	1	2015	15	2	https://academic.oup.com/bjaed		bjaed		fulltext	previously: British Journal of Anaesthesia CEPD Reviews (2001-2003), now: BJA Education		serial								P	104882166
+Contributions to Political Economy	0277-5921	1464-3588	1982	1	1				https://academic.oup.com/cpe		cpe		fulltext			serial								P	131211226
+Critical Values	2378-8321	2378-8372	2008	1	1				https://academic.oup.com/criticalvalues		criticalvalues		fulltext	transfer in (2016): American Society for Clinical Pathology		serial								P	187163758
+Crohn’s & Colitis 360		2631-827X	2019	1	1				https://academic.oup.com/crohnscolitis360/issue		crohnscolitis360issue		fulltext	Open Access		serial								P	240295897
+Current Developments in Nutrition		2475-2991	2017	1	1				https://academic.oup.com/cdn		cdn		fulltext	Transfer in (2018): American Society for Nutrition. Open Access		serial								F	221013490
+Current Legal Problems	0070-1998	2044-8422	1948	1	1				https://academic.oup.com/clp		clp		fulltext			serial								P	163678642
+Current Zoology	1674-5507	2396-9814	2011	57	1				https://academic.oup.com/cz		cz		fulltext	Previously: Acta Zoologica Sinica (1950-2008). Open Access		serial								F	195678486
+DNA Research	1340-2838	1756-1663	1994	1	1				https://academic.oup.com/dnaresearch		dnaresearch		fulltext	Fully Open Access		serial								F	12042245X
+Database: The Journal of Biological Databases & Curation		1758-0463	2010	2010					https://academic.oup.com/cpe		cpe		fulltext	Fully Open Access		serial								P	148308333
+Digital Scholarship in the Humanities	2055-7671	2055-768X	2015	30	1				https://academic.oup.com/dsh		dsh		fulltext	previously: Literary and Linguistic Computing		serial								P	189874961
+Diplomatic History	0145-2096	1467-7709	1977	1	1				https://academic.oup.com/dh		dh		fulltext	Transfer in (2013): Wiley		serial								P	058287108
+Diseases of the Esophagus	1120-8694	1442-2050	1988	1	1				https://academic.oup.com/dote		dote		fulltext	Transfer in (2017): Wiley		serial								P	109642279
+Dynamics and Statistics of the Climate System		2059-6987	2016	1	1				https://academic.oup.com/climatesystem		climatesystem		fulltext	new 2016. open access		serial								F	198527772
+ELT Journal	0951-0893	1477-4526	1981	36	1				https://academic.oup.com/eltj		eltj		fulltext	Previously: English Language Teaching Journal (1973-1981), English Language Teaching (1946-1973)		serial								P	067784763
+ESHRE Monograph	1477-741X	1477-8378	2002	2002	1	2008	2008	1	https://academic.oup.com/eshremonographs		eshremonographs		fulltext	ESHRE Monograph is a supplement of Human Reproduction Update		serial								P	078920043
+Early Music	0306-1078	1741-7260	1973	1	1				https://academic.oup.com/em		em		fulltext			serial								P	133810151
+Economic Policy	0266-4658	1468-0327	1985	1	1				https://academic.oup.com/economicpolicy		economicpolicy		fulltext	transfer in (2015): Wiley		serial								P	058288457
+Endocrine Reviews	0163-769X		1980	1	1				https://academic.oup.com/edrv		edrv		fulltext	Transfer in (2017): Endocrine Society		serial								P	
+Endocrinology	0013-7227	1945-7170	1917	1	1				https://academic.oup.com/endo		endo		fulltext	Transfer in (2017): Endocrine Society. Incorporates: Molecular Endocrinology (2017)		serial								P	128405457
+English	0013-8215	1756-1124	1936	1	1				https://academic.oup.com/english		english		fulltext			serial								P	128395982
+English Language Teaching	0013-8290		1946	1	1	1973	27	3	https://academic.oup.com/eltj		eltj		fulltext	Now:ELT (1981-) Continues: English Language Teaching Journal (1973-1981)		serial								P	
+English Language Teaching Journal	0307-8337		1973	28	1	1981	35	4	https://academic.oup.com/eltj		eltj		fulltext	Now:ELT (1981-) Previously: English Language Teaching (1946-1973)		serial								P	
+Environmental Entomology	0046-225X	1938-2936	1972	1	1				https://academic.oup.com/ee		ee		fulltext	transfer in (2015): Entomological Society of America		serial								P	128339136
+Environmental Epigenetics		2058-5888	2015	1	1				https://academic.oup.com/eep		eep		fulltext	Open Access		serial								F	189875119
+Environmental History	1084-5453	1930-8892	1996	1	1				https://academic.oup.com/envhis		envhis		fulltext	Created by the merge of Environmental History Review and Forest & Conservation History		serial								P	113148860
+Environmental History Review	1053-4180	2325-5811	1990	14		1995	19		https://academic.oup.com/envihistrevi		envihistrevi		fulltext	Continues: Environmental Review: ER 1976 - 1989 (Vols. 1-13). Merged with: Forest & Conservation History 1990 - 1995 (Vols. 34-39) to form Environmental History 1996 to date (Vols. 1 ongoing)		serial								P	166931322
+Environmental Review: ER	0147-2496		1976	1		1989	13		https://academic.oup.com/envihistrevi		envihistrevi		fulltext	Continued by: Environmental History Review		serial								P	
+Epidemiologic Reviews	0193-936X	1478-6729	1979	1	1				https://academic.oup.com/epirev		epirev		fulltext	A subscription to the American Journal of Epidemiology includes Epidemiologic Reviews		serial								P	124375170
+Essays in Criticism	0014-0856	1471-6852	1951	1	1				https://academic.oup.com/eic		eic		fulltext			serial								P	064161005
+Europace	1099-5129	1532-2092	1999	1	1				https://academic.oup.com/europace		europace		fulltext			serial								P	058402608
+European Finance Review	1382-6662	1573-692X	1997	1	1	2003	7	3	https://academic.oup.com/rof		rof		fulltext	now: Review of Finance		serial								P	090131592
+European Heart Journal	0195-668X	1522-9645	1980	1	1				https://academic.oup.com/eurheartj		eurheartj		fulltext	Includes European Heart Journal Supplements		serial								P	058351663
+European Heart Journal - Cardiovascular Imaging	2047-2404	2047-2412	2012	13	1				https://academic.oup.com/ehjcimaging		ehjcimaging		fulltext	Previously: European Journal of Echocardiography		serial								P	15925244X
+European Heart Journal - Cardiovascular Pharmacotherapy	2055-6837	2055-6845	2015	1	1				https://academic.oup.com/ehjcvp		ehjcvp		fulltext	new for 2015		serial								P	185302203
+European Heart Journal - Quality of Care and Clinical Outcomes	2058-5225	2058-1742	2015	1	1				https://academic.oup.com/ehjqcco		ehjqcco		fulltext	New for 2015		serial								P	189875089
+European Heart Journal Supplements	1520-765X	1554-2815	2001	3					https://academic.oup.com/eurheartjsupp		eurheartjsupp		fulltext	Supplements to the European Heart Journal		serial								P	120421399
+European Heart Journal. Case Reports		2514-2119	2017	1	1				https://academic.oup.com/ehjcr/issue		ehjcrissue		fulltext	Open Access		serial								P	223590789
+European Heart Journal. Digital Health		2634-3916	2020	1	1				https://academic.oup.com/ehjdh/issue		ehjdhissue		fulltext	Open Access		serial								P	25282167X
+European Heart Journal: Acute Cardiovascular Care	2048-8726	2048-8734	2012	1	1				https://academic.oup.com/ehjacc/issue		ehjaccissue		fulltext	New to OUP 2021		serial								P	163390029
+European Journal of Cardio-Thoracic Surgery	1010-7940	1873-734X	1987	1	1				https://academic.oup.com/ejcts		ejcts		fulltext	A subscription to the European Journal of Cardio-Thoracic Surgery includes a subscription to Interactive Cardiovascular and Thoracic Surgery		serial								P	086312154
+European Journal of Echocardiography	1525-2167	1532-2114	2000	1	1	2011	12	12	https://academic.oup.com/ehjcimaging		ehjcimaging		fulltext	now European Heart Journal - Cardiovascular Imaging		serial								P	058402616
+European Journal of International Law	0938-5428	1464-3596	1990	1	1				https://academic.oup.com/ejil		ejil		fulltext			serial								P	176863478
+European Journal of Preventive Cardiology	2047-4873	2047-4881	1996	3	1				https://academic.oup.com/eurjpc		eurjpc		fulltext	New to OUP 2021		serial								P	160820960
+European Review of Agricultural Economics	0165-1587	1464-3618	1973	1	1				https://academic.oup.com/erae		erae		fulltext			serial								P	112892477
+European Review of Economic History	1361-4916	1474-0044	1997	1	1				https://academic.oup.com/ereh		ereh		fulltext			serial								P	058291539
+European Sociological Review	0266-7215	1468-2672	1985	1	1				https://academic.oup.com/esr		esr		fulltext			serial								P	064160629
+European journal of Cardiovascular Nursing	1474-5151	1873-1953	2002	1	1				https://academic.oup.com/eurjcn		eurjcn		fulltext	New to OUP 2021		serial								P	086313509
+Evolution, Medicine, and Public Health		2050-6201	2013	2013	1				https://academic.oup.com/emph		emph		fulltext	Fully Open Access		serial								F	175787034
+FEMS Immunology and Medical Microbiology	0928-8244	1574-695X	1993	6	1	2012	66	3	https://academic.oup.com/femspd		femspd		fulltext	transfer in (2015): Wiley. now: Pathogens and Disease		serial								P	070749132
+FEMS Microbiology Ecology	0168-6496	1574-6941	1985	1	1				https://academic.oup.com/femsec		femsec		fulltext	transfer in (2015): Wiley		serial								P	131761595
+FEMS Microbiology Letters	0378-1097	1574-6968	1977	1	1				https://academic.oup.com/femsle		femsle		fulltext	transfer in (2015): Wiley		serial								P	086837648
+FEMS Microbiology Reviews	0168-6445	1574-6976	1985	1	1				https://academic.oup.com/femsre		femsre		fulltext	transfer in (2015): Wiley		serial								P	070950520
+FEMS Yeast Research	1567-1356	1567-1364	2001	1	1				https://academic.oup.com/femsyr		femsyr		fulltext	transfer in (2015): Wiley		serial								P	086842005
+Family Practice	0263-2136	1460-2229	1984	1	1				https://academic.oup.com/fampra		fampra		fulltext			serial								P	058286438
+Food Quality and Safety	2399-1399	2399-1402	2017	1	1				https://academic.oup.com/fqs/issue		fqsissue		fulltext	Open Access		serial								P	204062608
+Foreign Policy Analysis	1743-8586	1743-8594	2005	1	1				https://academic.oup.com/fpa		fpa		fulltext	transfer in (2016): Wiley Blackwell.		serial								P	100704492
+Forest & Conservation History	1046-7009	2325-5803	1990	34		1995	39		https://academic.oup.com/foreconshist		foreconshist		fulltext	Merged with: Environmental History Review 1990-1995 (Vols. 14-19) to form Environmental History 1996 to date (Vols. 1 ongoing). Continues Journal of Forest History		serial								P	166931314
+Forest History Newsletter	0015-7422		1957	1	1	1974	17	4	https://academic.oup.com/foreconshist		foreconshist		fulltext	Continued as Journal of Forest History. Some SUNCAT records states that it was called Forest History (1958-1974)		serial								P	
+Forest Science	0015-749X	1938-3738	1955	1	1				https://academic.oup.com/forestscience		forestscience		fulltext	Transfer in (2018)		serial								P	204057914
+Forestry	0015-752X	1464-3626	1927	1	1				https://academic.oup.com/forestry		forestry		fulltext			serial								P	112892485
+Forum for Modern Language Studies	0015-8518	1471-6860	1965	1	1				https://academic.oup.com/fmls		fmls		fulltext			serial								P	064161013
+French History	0269-1191	1477-4542	1987	1	1				https://academic.oup.com/fh		fh		fulltext			serial								P	06778478X
+French Studies	0016-1128	1468-2931	1947	1	1				https://academic.oup.com/fs		fs		fulltext	It is the sister journal to French Studies Bulletin: A Quarterly Supplement		serial								P	116243538
+French Studies Bulletin: A Quarterly Supplement	0262-2750	1748-9180	1981	1	1				https://academic.oup.com/fsb		fsb		fulltext	It is the sister journal to French Studies		serial								P	116246111
+Function		2633-8823	2020	1	1				https://academic.oup.com/function/issue		functionissue		fulltext	Open Access		serial								P	24831307X
+Fundamental and Applied Toxicology	0272-0590	1095-6832	1981	1	1	1997	40	2	https://academic.oup.com/toxsci		toxsci		fulltext	Now: Toxicological Sciences (1998-) Absorbed Toxicologist		serial								P	04063096X
+G3: Genes/Genomes/Genetics		2160-1836	2011	1	1				https://academic.oup.com/gthree/issue		gthreeissue		fulltext	Open Access		serial								P	157753360
+GRUR International	2632-8623	2632-8550	2020	69	1				https://academic.oup.com/grurint/issue		grurintissue		fulltext	new (2020)		serial								P	243397534
+Gastroenterology Report		2052-0034	2013	1	1				https://academic.oup.com/gastro		gastro		fulltext	Fully Open Access		serial								F	176271767
+Genetics	0016-6731	1943-2631	1996	142	1				https://academic.oup.com/genetics		genetics		fulltext	New to OUP 2021		serial								P	12840180X
+Genome Biology and Evolution		1759-6653	2009	1	1				https://academic.oup.com/gbe		gbe		fulltext	Fully Open Access		serial								P	148308392
+Geophysical Journal	0952-4592		1988	92	1	1988	95	3	https://academic.oup.com/gji/issue		gjiissue		fulltext	now: Geophysical Journal International (ISSN: 0956-540X; 1989- ); previously: Geophysical Journal of the Royal Astronomical Society (ISSN: 0016-8009; 1958-1987); Geophysical Supplements to the Monthly Notices of the Royal Astronomical Society (ISSN: 2051-1965; 1922-1957)		serial								P	
+Geophysical Journal International	0956-540X	1365-246X	1989	96	1				https://academic.oup.com/gji/issue		gjiissue		fulltext	previously: Geophysical Journal (ISSN: 0952-4592; 1988-1988); Geophysical Journal of the Royal Astronomical Society (ISSN: 0016-8009; 1958-1987); Geophysical Supplements to the Monthly Notices of the Royal Astronomical Society (ISSN: 2051-1965; 1922-1957)		serial								P	044837100
+Geophysical Journal of the Royal Astronomical Society	0016-8009	2056-5216	1958	1	1	1987	91	3	https://academic.oup.com/gji/issue		gjiissue		fulltext	now: Geophysical Journal International (ISSN: 0956-540X; 1989- ); continued by: Geophysical Journal (ISSN: 0952-4592; 1988-1988); previously: Geophysical Supplements to the Monthly Notices of the Royal Astronomical Society (ISSN: 2051-1965; 1922-1957)		serial								P	172244080
+Geophysical Supplements to the Monthly Notices of the Royal Astronomical Society	2051-1965	2051-1973	1922	1	1	1957	7	6	https://academic.oup.com/gsmnras/issue		gsmnrasissue		fulltext	now: Geophysical Journal International (ISSN: 0956-540X; 1989- ); continued by: Geophysical Journal (ISSN: 0952-4592; 1988-1988); Geophysical Journal of the Royal Astronomical Society (ISSN: 0016-8009; 1958-1987)		serial								P	174285108
+German History	0266-3554	1477-089X	1984	1	1				https://academic.oup.com/gh		gh		fulltext			serial								P	068853300
+GigaScience		2047-217X	2012	1	1				https://academic.oup.com/gigascience		gigascience		fulltext	New for 2017. Open Access		serial								F	163678758
+Global Summitry	2058-7430	2058-7449	2015	1	1				https://academic.oup.com/globalsummitry		globalsummitry		fulltext	New for 2015		serial								P	189875135
+Glycobiology	0959-6658	1460-2423	1990	1	1				https://academic.oup.com/glycob		glycob		fulltext			serial								P	090128028
+Health & Social Work	0360-7283	1545-6854	1976	1	1				https://academic.oup.com/hsw		hsw		fulltext			serial								P	076878449
+Health Education Research	0268-1153	1465-3648	1986	1	1				https://academic.oup.com/her		her		fulltext			serial								P	094932026
+Health Policy and Planning	0268-1080	1460-2237	1986	1	1				https://academic.oup.com/heapol		heapol		fulltext			serial								P	058286446
+Health Promotion	0268-1099		1986	1	1	1989	4	4	https://academic.oup.com/heapro		heapro		fulltext	Now: Health Promotion International (1990-)		serial								P	
+Health Promotion International	0957-4824	1460-2245	1990	5	1				https://academic.oup.com/heapro		heapro		fulltext	Previously: Health Promotion (1986-1989)		serial								P	058286454
+Historical Research	0950-3471	1468-2281	1987	60					https://academic.oup.com/histres/issue		histresissue		fulltext	transfer in (2020): Wiley		serial								P	058288651
+History Workshop	0309-2984		1976	1		1994	38		https://academic.oup.com/hwj		hwj		fulltext	Now: History Workshop Journal (1995-)		serial								P	
+History Workshop Journal	1363-3554	1477-4569	1995	39					https://academic.oup.com/hwj		hwj		fulltext	Previously: History Workshop (1976-1994)		serial								P	067784801
+Holocaust and Genocide Studies	8756-6583	1476-7937	1986	1	1				https://academic.oup.com/hgs		hgs		fulltext			serial								P	078919231
+Human Communication Research	0360-3989	1468-2958	1974	1	1				https://academic.oup.com/hcr		hcr		fulltext	Transfer in (2018):Wiley		serial								P	115431659
+Human Molecular Genetics	0964-6906	1460-2083	1992	1	1				https://academic.oup.com/hmg		hmg		fulltext			serial								P	058286322
+Human Reproduction	0268-1161	1460-2350	1986	1	1				https://academic.oup.com/humrep		humrep		fulltext			serial								P	058286462
+Human Reproduction Open		2399-3529	2017	2017	1				https://academic.oup.com/hropen/issue		hropenissue		fulltext	Open Access		serial								P	203399269
+Human Reproduction Update	1355-4786	1460-2369	1995	1	1				https://academic.oup.com/humupd		humupd		fulltext	ESHRE Monograph is a supplement of Human Reproduction Update		serial								P	037217178
+Human Rights Law Review	1461-7781	1744-1021	2001	1	1				https://academic.oup.com/hrlr		hrlr		fulltext			serial								P	112894305
+ICES Journal of Marine Science	1054-3139	1095-9289	1991	48	1				https://academic.oup.com/icesjms		icesjms		fulltext	previously: Publications de Circonstance (1903-1926); Journal du Conseil (1926) (1926-1968), Journal du Conseil (1968-1991)		serial								P	040631567
+ICRU Report	0579-5435		1961	os5	1	2000	os32	2	https://academic.oup.com/jicru		jicru		fulltext	Now: Journal of the ICRU		serial								P	
+ICSID Review	0258-3690	2049-1999	1996	11	1				https://academic.oup.com/icsidreview		icsidreview		fulltext	Transfer in (2012): John Hopkins		serial								P	166194751
+ILAR Journal	1084-2020	1930-6180	1995	37	1				https://academic.oup.com/ilarjournal		ilarjournal		fulltext	Previously: ILAR News (1966-1994)		serial								P	113447175
+ILAR news	0018-9960		1989	31	1	1994	36	3-4	https://academic.oup.com/ilarjournal		ilarjournal		fulltext	Now: ILAR Journal		serial								P	
+IMA Journal of Applied Mathematics	0272-4960	1464-3634	1981	27	1				https://academic.oup.com/imamat		imamat		fulltext	Continues in part Journal of the Institute of Mathematics and Its Applications		serial								P	119399504
+IMA Journal of Management Mathematics	1471-678X	1471-6798	2001	12	1				https://academic.oup.com/imaman		imaman		fulltext	Previously: IMA Journal of Mathematics Applied in Business and Industry (1989-2000), IMA Journal of Mathematics in Management (1986-1987)		serial								P	064160955
+IMA Journal of Mathematical Control and Information	0265-0754	1471-6887	1984	1	1				https://academic.oup.com/imamci		imamci		fulltext			serial								P	06416103X
+IMA Journal of Mathematics Applied in Business and Industry	0953-0061		1989	2	1	2000	11	4	https://academic.oup.com/imaman		imaman		fulltext	Now: IMA Journal of Management Mathematics. Previously: IMA Journal of Mathematics in Management (1986-1987)		serial								P	
+IMA Journal of Mathematics Applied in Medicine and Biology	0265-0746		1984	1	1	2002	19	4	https://academic.oup.com/imammb		imammb		fulltext	Continued by Mathematical Medicine and Biology		serial								P	
+IMA Journal of Mathematics in Management	0268-1129		1986	1	1	1986	1	4	https://academic.oup.com/imaman		imaman		fulltext	Now: IMA journal of management mathematics (2001) Continues: IMA journal of mathematics applied in business and industry (1988-2000) No content was published for this journal during 1987		serial								P	
+IMA Journal of Numerical Analysis	0272-4979	1464-3642	1981	1	1				https://academic.oup.com/imajna		imajna		fulltext	Continues in part Journal of the Institute of Mathematics and Its Applications		serial								P	112892493
+ITNOW	1746-5702	1746-5710	2005	47	2				https://academic.oup.com/itnow		itnow		fulltext	Continues the Computer Bulletin		serial								P	104882867
+Immunotherapy Advances		2732-4303	2020	1	1				https://academic.oup.com/immadv/issue		immadvissue		fulltext	Open Access		serial								P	254274226
+In Silico Plants		2517-5025	2019	1	1				https://academic.oup.com/insilicoplants/issue		insilicoplantsissue		fulltext	Open Access		serial								P	242320465
+Industrial Law Journal	0305-9332	1464-3669	1972	1	1				https://academic.oup.com/ilj		ilj		fulltext			serial								P	112892515
+Industrial and Corporate Change	0960-6491	1464-3650	1992	1	1				https://academic.oup.com/icc		icc		fulltext			serial								P	112892507
+Inflammatory Bowel Diseases	1078-0998	1536-4844	1995	1	1				https://academic.oup.com/ibdjournal		ibdjournal		fulltext	Transfer in (2018):Wolters Kluwer		serial								P	076865355
+Information and Inference: a Journal of the IMA	2049-8764	2049-8772	2012	1	1				https://academic.oup.com/imaiai		imaiai		fulltext			serial								P	168244934
+Innovation in Aging		2399-5300	2017	1	1				https://academic.oup.com/innovateage/issue		innovateageissue		fulltext	Open Access		serial								P	203399277
+Insect Systematics and Diversity	2399-3421		2017	1	1				https://academic.oup.com/isd		isd		fulltext			serial								P	
+Insecticide and Acaricide Tests	0276-3656		1976	1	1	1993	18	1	https://academic.oup.com/amt/issue		amtissue		fulltext	Open access. Previously up to 1994): Insecticide and Acaricide Tests ( United States) (ISSN: 0276-3656)		serial								P	
+Integrative Biology	1757-9694	1757-9708	2009	1	1				https://academic.oup.com/ib		ib		fulltext	Transfer in (2019):Royal Society of Chemistry.		serial								P	140305955
+Integrative Organismal Biology		2517-4843	2019	1	1				https://academic.oup.com/iob		iob		fulltext	New for 2019. Open Access		serial								F	241904382
+Integrative and Comparative Biology	1540-7063	1557-7023	2002	42	1				https://academic.oup.com/icb		icb		fulltext	Previously: American Zoologist (1961-2001)		serial								P	076871487
+Interacting with Computers	0953-5438	1873-7951	1989	1	1				https://academic.oup.com/iwc		iwc		fulltext	Transfer in (2013):Elsevier		serial								P	11067099X
+Interactive CardioVascular and Thoracic Surgery	1569-9293	1569-9285	2002	1	1				https://academic.oup.com/icvts		icvts		fulltext	A subscription to the European Journal of Cardio-Thoracic Surgery includes a subscription to Interactive Cardiovascular and Thoracic Surgery		serial								P	104902620
+Interdisciplinary Studies in Literature and Environment	1076-0962	1759-1090	1993	1	1				https://academic.oup.com/isle		isle		fulltext			serial								P	146296206
+International Affairs (Royal Institute of International Affairs 1931-1939)	1473-8104		1931	10	1	1939	18	6	https://academic.oup.com/ia		ia		fulltext	Now: International Affairs (1944-). Continues: International Affairs Review Supplement, (1940-1943). Previously; Journal of the Royal Institute of International Affairs, (1926-1930), Journal of the British Institute of International Affairs (1922-1926)		serial								P	
+International Affairs (Royal Institute of International Affairs 1944-)	0020-5850	1468-2346	1944	20	1				https://academic.oup.com/ia		ia		fulltext	Transfer in (2017): Wiley. Previously: International Affairs Review Supplement, (1940-1943), International Affairs (1931-1939), Journal of the Royal Institute of International Affairs, (1926-1930), Journal of the British Institute of International Affairs (1922-1926)		serial								P	058288716
+International Affairs Review Supplement	1473-8112		1940	19	1	1943	19	13	https://academic.oup.com/ia		ia		fulltext	Now: International Affairs (1944-). Previously: International Affairs (1931-1939), Journal of the Royal Institute of International Affairs, (1926-1930), Journal of the British Institute of International Affairs (1922-1926)		serial								P	
+International Conference on Intelligent Systems for Molecular Biology. Proceedings	1553-0833		1993			2000			https://academic.oup.com/bioinformatics		bioinformatics		fulltext	Absorbed by Bioinformatics		serial								P	
+International Data Privacy Law	2044-3994	2044-4001	2011	1	1				https://academic.oup.com/idpl		idpl		fulltext			serial								P	151981868
+International Health	1876-3413	1876-3405	2009	1	1				https://academic.oup.com/inthealth		inthealth		fulltext	Transfer in (2013): Elsevier		serial								P	14454587X
+International Immunology	0953-8178	1460-2377	1989	1	1				https://academic.oup.com/intimm		intimm		fulltext			serial								P	058286489
+International Journal for Quality in Health Care	1353-4505	1464-3677	1994	6	1				https://academic.oup.com/intqhc		intqhc		fulltext	previously: Quality Assurance in Health Care (1989-1993)		serial								P	112892523
+International Journal of Constitutional Law	1474-2640	1474-2659	2003	1	1				https://academic.oup.com/icon		icon		fulltext			serial								P	115209271
+International Journal of Epidemiology	0300-5771	1464-3685	1972	1	1				https://academic.oup.com/ije		ije		fulltext			serial								P	112892531
+International Journal of Law and Information Technology	0967-0769	1464-3693	1993	1	1				https://academic.oup.com/ijlit		ijlit		fulltext			serial								P	11289254X
+International Journal of Law and the Family	0950-4109		1987	1	1	1995	9	3	https://academic.oup.com/lawfam		lawfam		fulltext	Now: International Journal of Law, Policy and the Family (1996-)		serial								P	
+International Journal of Law, Policy and the Family	1360-9939	1464-3707	1996	10	1				https://academic.oup.com/lawfam		lawfam		fulltext	Previously: International Journal of Law and the Family (1987-1995)		serial								P	112892558
+International Journal of Lexicography	0950-3846	1477-4577	1988	1	1				https://academic.oup.com/ijl		ijl		fulltext			serial								P	068853718
+International Journal of Low-Carbon Technologies	1748-1317		2006	1	1				https://academic.oup.com/ijlct		ijlct		fulltext	Fully Open Access		serial								F	
+International Journal of Pharmacy Practice	0961-7671	2042-7174	1996	4	1				https://academic.oup.com/ijpp		ijpp		fulltext	New to OUP 2021		serial								P	148310214
+International Journal of Public Opinion Research	0954-2892	1471-6909	1989	1	1				https://academic.oup.com/ijpor		ijpor		fulltext			serial								P	064161048
+International Journal of Refugee Law	0953-8186	1464-3715	1989	1	1				https://academic.oup.com/ijrl		ijrl		fulltext			serial								P	112892566
+International Journal of Transitional Justice	1752-7716	1752-7724	2007	1	1				https://academic.oup.com/ijtj		ijtj		fulltext			serial								P	116269219
+International Mathematics Research Notices	1073-7928	1687-0247	1991	1991	1				https://academic.oup.com/imrn		imrn		fulltext			serial								P	073906123
+International Mathematics Research Papers	1687-3017	1687-3009	2005			2008			https://academic.oup.com/imrp		imrp		fulltext	Ceased: 2009. Incorporated: International Mathematics Research Notices		serial								P	116100931
+International Mathematics Research Surveys	1687-1308	1687-1324	2005	2005		2008	2007		https://academic.oup.com/imrs		imrs		fulltext	Ceased: 2009		serial								P	116244402
+International Political Sociology	1749-5679	1749-5687	2007	1	1				https://academic.oup.com/ips		ips		fulltext	transfer in (2016): Wiley Blackwell.		serial								P	114163413
+International Relations of the Asia-Pacific	1470-482X	1470-4838	2001	1	1				https://academic.oup.com/irap		irap		fulltext			serial								P	064160807
+International Studies Perspectives	1528-3577	1528-3585	2000	1	1				https://academic.oup.com/isp		isp		fulltext	transfer in (2016): Wiley Blackwell		serial								P	083650911
+International Studies Quarterly	0020-8833	1468-2478	1967	11	1				https://academic.oup.com/isq/issue		isqissue		fulltext	transfer in (2016): Wiley Blackwell; previously: Background (ISSN: 0361-5448; 1962-1967); Background on World Politics (ISSN: 1533-6689; 1957-1961)		serial								P	058288813
+International Studies Review	1521-9488	1468-2486	1999	1	1				https://academic.oup.com/isr		isr		fulltext	transfer in (2016): Wiley Blackwell. previously; Mershon International Studies Review, (1994-1998)		serial								P	058288821
+JAC - Antimicrobial Resistance		2632-1823	2019	1	1				https://academic.oup.com/jacamr/issue		jacamrissue		fulltext	Open Access		serial								P	237358034
+JAMIA Open		2574-2531	2018	1	1				https://academic.oup.com/jamiaopen/issue		jamiaopenissue		fulltext	Open Access		serial								P	229741169
+JNCI Cancer Spectrum		1475-4029	2017	1	1				https://academic.oup.com/jncics		jncics		fulltext	New for 2017		serial								F	090128982
+JNCI Journal of the National Cancer Institute	0027-8874	1460-2105	1940	1	1				https://academic.oup.com/jnci		jnci		fulltext	Includes JNCI Journal of the National Cancer Institute Monographs		serial								P	058286349
+JNCI Monographs	1052-6773	1745-6614	1997	22					https://academic.oup.com/jncimono		jncimono		fulltext	Included in JNCI Journal of the National Cancer Institute subscription		serial								P	090140729
+Japanese Journal of Clinical Oncology	0368-2811	1465-3621	1971	1	1				https://academic.oup.com/jjco		jjco		fulltext			serial								P	044929757
+Jerusalem Review of Legal Studies	2219-7125	2219-7117	2010	1	1				https://academic.oup.com/jrls		jrls		fulltext			serial								P	148819877
+Journal du Conseil	0020-6466		1968	32	2	1991	47	3	https://academic.oup.com/icesjms		icesjms		fulltext	Now: ICES Journal of Marine Science (1991-) Previously: previously: Publications de Circonstance (1903-1926); Journal du Conseil (1926) (1926-1968)		serial								P	
+Journal du Conseil (1926): Conseil permanent international pour l'exploration de la mer	0902-3232		1926	1	1	1968	32	1	https://academic.oup.com/icesjms		icesjms		fulltext	Now: ICES Journal of Marine Science (1991-), previously: Publications de Circonstance (1903-1926), continues: Journal du Conseil (1968-1991)		serial								P	
+Journal of AOAC International	1060-3271	1944-7922	1992	75	1				https://academic.oup.com/jaoac/issue		jaoacissue		fulltext	transfer in (2020); previously: Journal of the Association of Official Analytical Chemists (ISSN: 0004-5756; 1966-1991); Journal of the Association of Official Agricultural Chemists (ISSN: 0095-9111; 1915-1965)		serial								P	128404507
+Journal of Aesthetics and Art Criticism	0021-8529	1540-6245	1996	54	1				https://academic.oup.com/jaac		jaac		fulltext	New to OUP 2021		serial								P	076871290
+Journal of African Economies	0963-8024	1464-3723	1992	1	1				https://academic.oup.com/jae		jae		fulltext			serial								P	112892574
+Journal of Alcoholism	0021-8685		1968	3	1	1976	11	4	https://academic.oup.com/alcalc		alcalc		fulltext	Now: Alcohol and Alcoholism (1983-) Continues: British Journal on Alcohol and Alcoholism (1977-1982) Previously: Bulletin on alcoholism (1963-1967)		serial								P	
+Journal of Analytical Toxicology	0146-4760	1945-2403	1977	1	1				https://academic.oup.com/jat		jat		fulltext	transfer in (2012): Preston Publications		serial								P	168689812
+Journal of Animal Science	0021-8812	1525-3163	1962	21	1				https://academic.oup.com/jas		jas		fulltext	Transfer in (2018). Partially open (older than 1 year open)		serial								P	04500885X
+Journal of Antimicrobial Chemotherapy	0305-7453	1460-2091	1975	1	1				https://academic.oup.com/jac		jac		fulltext			serial								P	058286330
+Journal of Antitrust Enforcement	2050-0688	2050-0696	2013	1	1				https://academic.oup.com/antitrust		antitrust		fulltext			serial								P	174284837
+Journal of Applied Laboratory Medicine		2475-7241	2016	1	1				https://academic.oup.com/jalm/issue		jalmissue		fulltext	transfer in (2020): American Association of Clinical Chemistry		serial								P	198532504
+Journal of Armed Conflict Law	1364-0224		1996	1	1	1999	4	2	https://academic.oup.com/jcsl/issue		jcslissue		fulltext	now: Journal of Conflict & Security Law (ISSN: 1467-7954; 2000- )		serial								P	
+Journal of Bible and Religion	0885-2758		1937	5	1	1966	34	4	https://academic.oup.com/jaar		jaar		fulltext	Now: Journal of the American Academy of Religion (1967-) Previously: Journal of the National Association of Biblical Instructors (1933-1936)		serial								P	
+Journal of Breast Imaging	2631-6110	2631-6129	2019	1	1				https://academic.oup.com/jbi/issue		jbiissue		fulltext			serial								P	236089358
+Journal of Burn Care & Research	1559-047X	1559-0488	1994	15	1				https://academic.oup.com/jbcr		jbcr		fulltext	Transfer in (2018):LWW		serial								P	145775658
+Journal of Chromatographic Science	0021-9665	1945-239X	1969	7	1				https://academic.oup.com/chromsci/issue		chromsciissue		fulltext	transfer in (2012): Preston Publications; previously: Journal of Gas Chromatography (ISSN: 0096-2686; 1963-1968)		serial								P	137258917
+Journal of Church and State	0021-969X	2040-4867	1959	1	1				https://academic.oup.com/jcs		jcs		fulltext			serial								P	146297326
+Journal of Clinical Endocrinology	0368-1610	2578-7241	1941	1	1	1950	10	12	https://academic.oup.com/jcem/issue		jcemissue		fulltext	now: The Journal of Clinical Endocrinology & Metabolism (ISSN: 0021-972X; 1952- )		serial								P	229380778
+Journal of Communication	0021-9916	1460-2466	1951	1	1				https://academic.oup.com/joc		joc		fulltext	Transfer in (2018): Wiley		serial								P	058286527
+Journal of Competition Law and Economics	1744-6414	1744-6422	2005	1	1				https://academic.oup.com/jcle		jcle		fulltext			serial								P	111216915
+Journal of Complex Networks	2051-1310	2051-1329	2013	1	1				https://academic.oup.com/comnet		comnet		fulltext			serial								P	172118816
+Journal of Computer-Mediated Communication		1083-6101	1995	1	1				https://academic.oup.com/jcmc		jcmc		fulltext	Transfer in (2018):Wiley. Open Access		serial								F	040343219
+Journal of Conflict & Security Law	1467-7954	1467-7962	2000	5	1				https://academic.oup.com/jcsl		jcsl		fulltext	previously: Journal of Armed Conflict Law (1996 -1999)		serial								P	058287140
+Journal of Consumer Research	0093-5301	1537-5277	1974	1	1				https://academic.oup.com/jcr		jcr		fulltext	transfer in(2015): University of Chicago		serial								P	076866696
+Journal of Crohn's and Colitis	1873-9946	1876-4479	2007	1	1				https://academic.oup.com/ecco-jcc		ecco-jcc		fulltext	transfer in (2015): Elsevier		serial								P	118963236
+Journal of Crohn's and Colitis Supplements	1873-9954	1876-4460	2007	1	1	2010	4	1	https://academic.oup.com/ecco-jccs		ecco-jccs		fulltext	transfer in (2015): Elsevier. Merged into: Journal of Crohn's and Colitis		serial								P	118963635
+Journal of Crustacean Biology	0278-0372	1937-240X	1981	1	1				https://academic.oup.com/jcb		jcb		fulltext	Transfer in (2017): Brill		serial								P	120657716
+Journal of Cybersecurity	2057-2085	2057-2093	2015	1	1				https://academic.oup.com/cybersecurity		cybersecurity		fulltext	Open Access		serial								F	190189177
+Journal of Design History	0952-4649	1741-7279	1988	1	1				https://academic.oup.com/jdh		jdh		fulltext			serial								P	130836818
+Journal of Economic Entomology	0022-0493	1938-291X	1908	1	1				https://academic.oup.com/jee		jee		fulltext	transfer in (2015): Entomological Society of America (BioOne)		serial								P	128332298
+Journal of Economic Geography	1468-2702	1468-2710	2001	1	1				https://academic.oup.com/joeg		joeg		fulltext			serial								P	064160645
+Journal of Electron Microscopy	0022-0744	1477-9986	1953	1	1	2012	62	1	https://academic.oup.com/jmicro		jmicro		fulltext	Now: Microscopy		serial								P	14830771X
+Journal of Environmental Law	0952-8873	1464-374X	1989	1	1				https://academic.oup.com/jel		jel		fulltext			serial								P	112892582
+Journal of European Competition Law & Practice	2041-7764	2041-7772	2010	1	1				https://academic.oup.com/jeclap		jeclap		fulltext			serial								P	149005660
+Journal of Experimental Botany	0022-0957	1460-2431	1950	1	1				https://academic.oup.com/jxb		jxb		fulltext			serial								P	090128036
+Journal of Farm Economics	1071-1031		1919	1	1	1967	49	5	https://academic.oup.com/ajae		ajae		fulltext	Now: American Journal of Agricultural Economics		serial								P	
+Journal of Financial Econometrics	1479-8409	1479-8417	2003	1	1				https://academic.oup.com/jfec		jfec		fulltext			serial								P	122851897
+Journal of Financial Regulation	2053-4833	2053-4841	2015	1	1				https://academic.oup.com/jfr		jfr		fulltext	new for 2015		serial								P	187158118
+Journal of Forest History	0094-5080	2325-579X	1974	18	01-Feb	1989	33		https://academic.oup.com/foreconshist		foreconshist		fulltext	Continued as Forest & Conservation History. Continues Forest History Newsletter		serial								P	166931306
+Journal of Forestry	0022-1201	1938-3746	1902	1	1				https://academic.oup.com/jof		jof		fulltext	Transfer in (2018). Previously: Forest Quarterly (1902-1916)		serial								P	150799209
+Journal of Gas Chromatography	0096-2686		1963	1	1	1968	6	12	https://academic.oup.com/chromsci/issue		chromsciissue		fulltext	now: Journal of Chromatographic Science (ISSN: 0021-9665; 1969- )		serial								P	
+Journal of Geophysics and Engineering	1742-2132	1742-2140	2004	1	1				https://academic.oup.com/jge		jge		fulltext	Transfer in (2019):IOP. Moving to OA in 2019		serial								F	085710733
+Journal of Gerontology	0022-1422		1946	1	1	1994	49	6	https://academic.oup.com/biomedgerontology		biomedgerontology		fulltext	Ceased. Split into: Journals of gerontology. Series A, Biological sciences and medical sciences, and: Journals of gerontology. Series B, Psychological sciences and social sciences. From 1988 the journal became the Journals of Gerontology which contained four parts		serial								P	
+Journal of Global Security Studies	2057-3170	2057-3189	2016	1	1				https://academic.oup.com/jogss		jogss		fulltext	New (2016).		serial								P	194813355
+Journal of Heredity	0022-1503	1465-7333	1914	5	1				https://academic.oup.com/jhered		jhered		fulltext	Previously: American Breeders' Association (1905-1909), The American Breeders Magazine (1910-1913)		serial								P	115431535
+Journal of Hip Preservation Surgery		2054-8397	2014	1	1				https://academic.oup.com/jhps		jhps		fulltext	Fully Open Access		serial								F	183632524
+Journal of Human Rights Practice	1757-9619	1757-9627	2009	1	1				https://academic.oup.com/jhrp		jhrp		fulltext			serial								P	140138048
+Journal of Industrial Microbiology and Biotechnology	1367-5435	1476-5535	2021	48	1				https://academic.oup.com/jimbio/issue		jimbioissue		fulltext	Open Access		serial								P	068852800
+Journal of Insect Science		1536-2442	2001	1	1				https://academic.oup.com/jinsectscience		jinsectscience		fulltext	Fully Open Access. transfer in (2015): Entomological Society of America (BioOne)		serial								F	070722692
+Journal of Integrable Systems		2058-5985	2015	1	1				https://academic.oup.com/integrablesystems		integrablesystems		fulltext	Open Access		serial								P	195202201
+Journal of Integrated Pest Management		2155-7470	2010	1	1				https://academic.oup.com/jipm		jipm		fulltext	Fully Open Access. transfer in (2015): Entomological Society of America		serial								P	167499939
+Journal of Intellectual Property Law & Practice	1747-1532	1747-1540	2005	1	1				https://academic.oup.com/jiplp		jiplp		fulltext			serial								P	111217008
+Journal of International Criminal Justice	1478-1387	1478-1395	2003	1	1				https://academic.oup.com/jicj		jicj		fulltext			serial								P	116266201
+Journal of International Dispute Settlement	2040-3585	2040-3593	2010	1	1				https://academic.oup.com/jids		jids		fulltext			serial								P	14686591X
+Journal of International Economic Law	1369-3034	1464-3758	1998	1	1				https://academic.oup.com/jiel		jiel		fulltext			serial								P	112892590
+Journal of Islamic Studies	0955-2340	1471-6917	1990	1	1				https://academic.oup.com/jis		jis		fulltext			serial								P	064161056
+Journal of Language Evolution	2058-4571	2058-458X	2016	1	1				https://academic.oup.com/jole		jole		fulltext	New 2016. Content freely available online throughout 2016 and 2017		serial								P	194813371
+Journal of Law and the Biosciences		2053-9711	2014	1	1				https://academic.oup.com/jlb		jlb		fulltext	Fully Open Access		serial								F	177874996
+Journal of Legal Analysis	2161-7201	1946-5319	2009	1	1				https://academic.oup.com/jla		jla		fulltext	Fully Open Access		serial								F	143742620
+Journal of Logic and Computation	0955-792X	1465-363X	1990	1	1				https://academic.oup.com/logcom		logcom		fulltext			serial								P	044929765
+Journal of Mammalogy	0022-2372	1545-1542	1919	1	1				https://academic.oup.com/jmammal		jmammal		fulltext	transfer in (2015): Allen Press (BioOne)		serial								P	076877337
+Journal of Mechanics	1727-7191	1811-8216	1998	1	1				https://academic.oup.com/jomech/issue		jomechissue		fulltext	Open Access		serial								P	223246050
+Journal of Medical Entomology	0022-2585	1938-2928	1964	1	1				https://academic.oup.com/jme		jme		fulltext	transfer in (2015): Entomological Society of America (BioOne)		serial								P	128369639
+Journal of Medical and Veterinary Mycology	0268-1218	1365-280X	1986	1	1	1997			https://academic.oup.com/jmvm		jmvm		fulltext	transfer in (2014): Informa. Now: Medical Mycology. Previously: Sabouraudia (1962-1985)		serial								P	044652267
+Journal of Molecular Cell Biology	1674-2788	1759-4685	2009	1	1				https://academic.oup.com/jmcb		jmcb		fulltext	Moving to Open Access in 2019		serial								F	150071779
+Journal of Molluscan Studies	0260-1230	1464-3766	1976	42	1				https://academic.oup.com/mollus		mollus		fulltext			serial								P	112892604
+Journal of Music Therapy	0022-2917	2053-7395	1964	1	1				https://academic.oup.com/jmt		jmt		fulltext	2014 takeover - self published		serial								P	180528378
+Journal of Neuropathology and Experimental Neurology	0022-3069		1996	55	1				https://academic.oup.com/jnen		jnen		fulltext	transfer in (2016): Self Published by American Association of Neuropathologists, Inc.		serial								P	
+Journal of Nutrition	0022-3166	1541-6100	1963	80	1				https://academic.oup.com/jn		jn		fulltext	Transfer in (2018): American Society for Nutrition		serial								P	076872807
+Journal of Pediatric Psychology	0146-8693	1465-735X	1976	1	1				https://academic.oup.com/jpepsy		jpepsy		fulltext			serial								P	115431543
+Journal of Petrology	0022-3530	1460-2415	1960	1	1				https://academic.oup.com/petrology		petrology		fulltext			serial								P	058286500
+Journal of Pharmaceutical Health Services Research	1759-8885	1759-8893	2010	1	1				https://academic.oup.com/jphsr		jphsr		fulltext	new to OUP 2021		serial								P	16124355X
+Journal of Pharmacy and Pharmacology: An International Journal of Pharmaceutical Science	0022-3573	2042-7158	1996	48	1				https://academic.oup.com/jpp		jpp		fulltext	New to OUP 2021		serial								P	148310192
+Journal of Plankton Research	0142-7873	1464-3774	1979	1	1				https://academic.oup.com/plankt		plankt		fulltext			serial								P	112892612
+Journal of Plant Ecology	1752-9921	1752-993X	2008	1	1				https://academic.oup.com/jpe		jpe		fulltext			serial								P	127818723
+Journal of Professions and Organization	2051-8803	2051-8811	2014	1	1				https://academic.oup.com/jpo		jpo		fulltext			serial								P	177938897
+Journal of Public Administration Research and Theory: J-PART	1053-1858	1477-9803	1991	1	1				https://academic.oup.com/jpart		jpart		fulltext			serial								P	133033988
+Journal of Public Health	1741-3842	1741-3850	2004	26	1				https://academic.oup.com/jpubhealth		jpubhealth		fulltext	Continues Journal of Public Health Medicine		serial								P	115211217
+Journal of Public Health Medicine	0957-4832	1469-3782	1990	12	1	2003	25	4	https://academic.oup.com/jpubhealth		jpubhealth		fulltext	now: Journal of Public Health (2004-). Previously: Community Medicine (1979-1989)		serial								P	
+Journal of Radiation Research	0449-3060	1349-9157	1960	1	1				https://academic.oup.com/jrr		jrr		fulltext	Fully Open Access		serial								F	165393521
+Journal of Refugee Studies	0951-6328	1471-6925	1988	1	1				https://academic.oup.com/jrs		jrs		fulltext			serial								P	064161064
+Journal of Semantics	0167-5133	1477-4593	1982	1	1				https://academic.oup.com/jos		jos		fulltext			serial								P	068853734
+Journal of Semitic Studies	0022-4480	1477-8556	1956	1	1				https://academic.oup.com/jss		jss		fulltext			serial								P	145172538
+Journal of Social Forces	1532-1282	2163-6273	1922	1	1	1925	3	4	https://academic.oup.com/sf/issue		sfissue		fulltext	now: Social Forces (ISSN: 0037-7732; 1925- )		serial								P	120069709
+Journal of Social History	0022-4529	1527-1897	1967	1	1				https://academic.oup.com/jsh		jsh		fulltext			serial								P	045015244
+Journal of Surgical Case Reports		2042-8812	2010	2010	1				https://academic.oup.com/jscr		jscr		fulltext	Fully Open Access		serial								P	164365192
+Journal of Survey Statistics and Methodology	2325-0984	2325-0992	2013	1	1				https://academic.oup.com/jssam		jssam		fulltext			serial								P	172126908
+Journal of Topology	1753-8416	1753-8424	2008	1	1	2016	9	4	https://academic.oup.com/jtopol		jtopol		fulltext	transfer out(2017):Wiley		serial								P	122501330
+Journal of Travel Medicine	1195-1982	1708-8305	1994	1	1				https://academic.oup.com/jtm		jtm		fulltext	transfer in (2016): Wiley Blackwell.		serial								P	110735870
+Journal of Tropical Pediatrics (1967)	0267-0593		1967	13	3	1970	16	4	https://academic.oup.com/tropej		tropej		fulltext	Continued in 1971 by: Journal of tropical pediatrics and environmental child health. Continues Journal of Tropical Pediatrics and African Child		serial								P	
+Journal of Tropical Pediatrics (1980)	0142-6338	1465-3664	1980	26	1				https://academic.oup.com/tropej		tropej		fulltext			serial								P	090128060
+Journal of Tropical Pediatrics and African Child Health	0368-4512		1959	5	3	1967	13	2	https://academic.oup.com/tropej		tropej		fulltext	Continues The Journal of Tropical Pediatrics (1955). Continued by Journal of Tropical Pediatric (1967)		serial								P	
+Journal of Tropical Pediatrics and Environmental Child Health	0300-9920		1971	17		1979	25	6	https://academic.oup.com/tropej		tropej		fulltext	Continued by Journal of Tropical Pediatrics. Continues Journal of Tropical Pediatrics		serial								P	
+Journal of Urban Ecology		2058-5543	2015	1	1				https://academic.oup.com/jue		jue		fulltext	Open Access		serial								F	19481338X
+Journal of Victorian Culture	1355-5502	1750-0133	1996	1	1				https://academic.oup.com/jvc		jvc		fulltext	Transfer in (2018):Taylor & Francis		serial								P	130400688
+Journal of the African Society	1753-4577		1901	1	1	1935	34	135	https://academic.oup.com/afraf		afraf		fulltext	Now: African Affairs (1944-) Continues: Journal of the Royal African Society (1935-1944)		serial								P	
+Journal of the American Academy of Religion	0002-7189	1477-4585	1967	35	1				https://academic.oup.com/jaar		jaar		fulltext	Previously: Journal of the National Association of Biblical Instructors (1933-1936) Journal of Bible and Religion (1937-1966)		serial								P	068853726
+Journal of the American Medical Informatics Association	1067-5027	1527-974X	1994	1	1				https://academic.oup.com/jamia		jamia		fulltext	transfer in (2015): British Medical Journal		serial								P	111183529
+Journal of the American Physical Therapy Association			1962	42	1	1963	43	12	https://academic.oup.com/ptj/issue		ptjissue		fulltext	no ISSN; previously: The Physical Therapy Review (ISSN: 0735-7435; 1948-1961)		serial								P	
+Journal of the Association of Official Agricultural Chemists	0095-9111		1915	1	1	1965	48	6	https://academic.oup.com/jaoac/issue		jaoacissue		fulltext	transfer in (2020); now: Journal of AOAC International (ISSN: 1060-3271; 1992- ); continued by: Journal of the Association of Official Analytical Chemists (ISSN: 0004-5756; 1966-1991)		serial								P	
+Journal of the Association of Official Analytical Chemists	0004-5756		1966	49	1	1991	74	6	https://academic.oup.com/jaoac/issue		jaoacissue		fulltext	now: Journal of AOAC International (ISSN: 1060-3271; 1992- ); previously: Journal of the Association of Official Agricultural Chemists (ISSN: 0095-9111; 1915-1965)		serial								P	
+Journal of the British Institute of International Affairs	1473-7981		1922	1	1	1926	5	2	https://academic.oup.com/ia		ia		fulltext	Now: International Affairs (1944-) Continues: International Affairs Review Supplement, (1940-1943), International Affairs (1931-1939), Journal of the Royal Institute of International Affairs, (1926-1930)		serial								P	
+Journal of the Canadian Association of Gastroenterology	2515-2084	2515-2092	2018	1	1				https://academic.oup.com/jcag		jcag		fulltext	New for 2018		serial								P	230851940
+Journal of the Endocrine Society		2472-1972	2017	1	1				https://academic.oup.com/jes/issue		jesissue		fulltext	Open Access		serial								P	200112864
+Journal of the European Economic Association	1542-4766	1542-4774	2003	1	1				https://academic.oup.com/jeea		jeea		fulltext	Transfer in (2017): Wiley		serial								P	114355061
+Journal of the History of Collections	0954-6650	1477-8564	1989	1	1				https://academic.oup.com/jhc		jhc		fulltext			serial								P	14033694X
+Journal of the History of Medicine and Allied Sciences	0022-5045	1468-4373	1946	1	1				https://academic.oup.com/jhmas		jhmas		fulltext			serial								P	058288902
+Journal of the ICRU	1473-6691	1742-3422	2001	1	1	2014	14	2	https://academic.oup.com/jicru		jicru		fulltext	Previously: ICRU report (1956-2000). Transfer out (2019): Sage		serial								P	090138295
+Journal of the IGPL			1995	3	5	1996	4	3	https://academic.oup.com/jigpal		jigpal		fulltext	Now:Logic Journal of the IGPL (1997-) Previously: Bulletin of the IGPL (1993-1995)		serial								P	
+Journal of the Institute of Mathematics and Its Applications	0020-2932		1965	1	1	1980			https://academic.oup.com/imamat		imamat		fulltext	Continued in part by: IMA Journal of Numerical Analysis, and, IMA Journal of Applied Mathematics		serial								P	
+Journal of the London Mathematical Society	0024-6107	1469-7750	1926	s1-1	1	2016	94	3	https://academic.oup.com/jlms		jlms		fulltext	transfer out(2017):Wiley		serial								P	048900583
+Journal of the National Association of Biblical Instructors	1549-9804		1933	1	1	1936	4	2	https://academic.oup.com/jaar		jaar		fulltext	Now: Journal of the American Academy of Religion (1967-) Continues: Journal of Bible and Religion (1937-1966)		serial								P	
+Journal of the Pediatric Infectious Diseases Society	2048-7193	2048-7207	2012	1	1				https://academic.oup.com/jpids		jpids		fulltext	2012 launch		serial								P	162246196
+Journal of the Proceedings of the Linnean Society. Zoology	1945-9475		1856	1	1	1865	8	31/32	https://academic.oup.com/zoolinnean		zoolinnean		fulltext	Now: Zoological Journal of the Linnean Society. Continues: The Journal of the Linnean Society. Zoology (1866-1968)		serial								P	
+Journal of the Royal African Society	0368-4016		1935	34	136	1944	43	171	https://academic.oup.com/afraf		afraf		fulltext	Now: African Affairs (1944-) Previously: Journal of the African Society (1901-1935)		serial								P	
+Journal of the Royal Institute of International Affairs	1473-799X		1926	5	3	1930	9	6	https://academic.oup.com/ia		ia		fulltext	Now: International Affairs (1944-) Continues: International Affairs Review Supplement, (1940-1943), International Affairs (1931-1939). Previously: Journal of the British Institute of International Affairs (1922-1926)		serial								P	
+Journal of the Society of Occupational Medicine	0301-0023		1973	23	1	1991	44	4	https://academic.oup.com/occmed		occmed		fulltext	Now: Occupational Medicine (1992-) Previously: Transactions of the Society of Occupational (1966-1972), Transactions of the Association of Industrial Medical Officers (1951-1965) Quarterly bulletin of the Association of Industrial Medical Officers (1948-1949)		serial								P	
+Laboratory Medicine	0007-5027		1970	1	1				https://academic.oup.com/labmed		labmed		fulltext	transfer in (2016): Self Published by American Society for Clinical Pathology.		serial								P	
+Law, Probability and Risk	1470-8396	1470-840X	2002	1	1				https://academic.oup.com/lpr		lpr		fulltext			serial								P	074420739
+Literary Imagination	1523-9012	1752-6566	1999	1	1				https://academic.oup.com/litimag		litimag		fulltext			serial								P	115432833
+Literary and Linguistic Computing	0268-1145	1477-4615	1986	1	1	2014	29	4	https://academic.oup.com/dsh		dsh		fulltext	now: Digital Scholarship in the Humanities		serial								P	068853750
+Literature and Theology	0269-1205	1477-4623	1987	1	1				https://academic.oup.com/litthe		litthe		fulltext			serial								P	067784860
+Logic Journal of the IGPL	1367-0751	1368-9894	1997	5	1				https://academic.oup.com/jigpal		jigpal		fulltext	Previously: Journal of the IGPL (1995-1996), Bulletin of the IGPL (1993-1995)		serial								P	058213007
+London Review of International Law	2050-6325	2050-6333	2013	1	1				https://academic.oup.com/lril		lril		fulltext	New from Oxford University Press in 2013		serial								P	175145539
+MELUS: Multi-Ethnic Literature of the U.S.	0163-755X	1946-3170	1974	1	1				https://academic.oup.com/melus		melus		fulltext	2013 takeover previously self-published		serial								P	131781677
+MHR: Molecular Human Reproduction	1360-9947	1460-2407	1995	1	1				https://academic.oup.com/molehr		molehr		fulltext			serial								P	058286497
+Mammalian Species	0076-3519	1545-1410	1969		1				https://academic.oup.com/mspecies		mspecies		fulltext	transfer in (2015): Allen Press (BioOne)		serial								P	076877280
+Mathematical Medicine and Biology	1477-8599	1477-8602	2003	20	1				https://academic.oup.com/imammb		imammb		fulltext	Previously: IMA Journal of Mathematics Applied in Medicine and Biology (1984-2002)		serial								P	075035529
+Medical Law Review	0967-0742	1464-3790	1993	1	1				https://academic.oup.com/medlaw		medlaw		fulltext			serial								P	112892620
+Medical Mycology	1369-3786	1460-2709	1998	36	1				https://academic.oup.com/mmy		mmy		fulltext	2014 takeover - Informa Healthcare. Previously: Sabouraudia, Journal of Medical and veterinary mycology		serial								P	044920237
+Mershon International Studies Review	1079-1760		1994	38	1	1998	42	2	https://academic.oup.com/isr/issue		isrissue		fulltext	Now: International Studies Review		serial								P	
+Metallomics	1756-5901	1756-591X	2009	1	1				https://academic.oup.com/metallomics		metallomics		fulltext	new to OUP 2021		serial								P	140305882
+Microscopy	2050-5698	2050-5701	2013	62	1				https://academic.oup.com/jmicro		jmicro		fulltext	Previously: Journal of Electron Microscopy (1953-2012)		serial								P	169699226
+Migration Studies	2049-5838	2049-5846	2013	1	1				https://academic.oup.com/migration		migration		fulltext			serial								P	170346811
+Military Medicine	0026-4075	1930-613X	1955	116	1				https://academic.oup.com/milmed/issue		milmedissue		fulltext	transfer in (2018); previously: Military Surgeon (ISSN: 0096-6827; 1940-1954); Journal of the Association of Military Surgeons of the United States (ISSN: 1075-637X; 1901-1906)		serial								P	119311445
+Military Surgeon	0096-6827		1940	87	1	1954	115	6	https://academic.oup.com/milmed/issue		milmedissue		fulltext	now: Military Medicine (ISSN: 0026-4075; 1955- ); previously: Military Surgeon (ISSN: 0096-6827; 1940-1954); Journal of the Association of Military Surgeons of the United States (ISSN: 1075-637X; 1901-1906)		serial								P	
+Mind	0026-4423	1460-2113	1876	1	1				https://academic.oup.com/mind		mind		fulltext			serial								P	058286357
+Modern Judaism	0276-1114	1086-3273	1981	1	1				https://academic.oup.com/mj		mj		fulltext			serial								P	058046585
+Molecular Biology and Evolution	0737-4038	1537-1719	1983	1	1				https://academic.oup.com/mbe		mbe		fulltext			serial								P	148307736
+Molecular endocrinology	0888-8809	1944-9917	1987	1	1	2016	30	10	https://academic.oup.com/mend		mend		fulltext	Merged into: Endocrinology (2017)		serial								P	131252747
+Monthly Notices of the Royal Astronomical Society	0035-8711	1365-2966	1996	278	1				https://academic.oup.com/mnras		mnras		fulltext	2013 takeover from Wiley. It was part of NESLI2 Wiley 2012		serial								P	058212701
+Monthly Notices of the Royal Astronomical Society: Letters	1745-3925	1745-3933	2005	356	1				https://academic.oup.com/mnrasl		mnrasl		fulltext			serial								P	131762818
+Music Theory Spectrum	0195-6167	1533-8339	1979	1	1	1996	14	1	https://academic.oup.com/mts		mts		fulltext	2014 takeover from University California Press; ceased 1996		serial								P	083135413
+Music Therapy	0734-7367		1981	1	1				https://academic.oup.com/musictherapy		musictherapy		fulltext	New to Oxford Journals in 2014		serial								P	
+Music Therapy Perspectives	0734-6875	2053-7387	1982	1	1				https://academic.oup.com/mtp		mtp		fulltext	2014 takeover - self published		serial								P	176271899
+Music and Letters	0027-4224	1477-4631	1920	1	1				https://academic.oup.com/ml		ml		fulltext			serial								P	067784879
+Mutagenesis	0267-8357	1464-3804	1986	1	1				https://academic.oup.com/mutage		mutage		fulltext			serial								P	112892639
+NAR Genomics and Bioinformatics		2631-9268	2019	1	1				https://academic.oup.com/nargab/issue		nargabissue		fulltext	Open Access		serial								P	240295900
+NCI Monographs	0893-2751		1986			1990			https://academic.oup.com/jncimono		jncimono		fulltext	now: Journal of the National Cancer Institute. Monographs [ISSN 1052-6773]		serial								P	
+NDT Plus	1753-0784	1753-0792	2008	1	1	2011	4	6	https://academic.oup.com/ckj		ckj		fulltext	now: Clinical kidney journal [ISSN 2048-8505]		serial								P	123679168
+National Science Review	2095-5138	2053-714X	2014	1	1				https://academic.oup.com/nsr		nsr		fulltext	New to Oxford Journals in 2014		serial								P	176271880
+Natural Law Forum	0199-9702		1956	1	1	1968	13	1	https://academic.oup.com/ajj/issue		ajjissue		fulltext	now: The American Journal of Jurisprudence (ISSN: 0065-8995; 1969- )		serial								P	
+Nephrology Dialysis Transplantation	0931-0509	1460-2385	1986	1	1				https://academic.oup.com/ndt		ndt		fulltext	Nephrology Dialysis Transplantation Supplements available start date 01/01/1998 (same issn). Includes Clinical Kidney Journal		serial								P	037217216
+Neuro-Oncology	1522-8517	1523-5866	1999	1	1				https://academic.oup.com/neuro-oncology		neuro-oncology		fulltext			serial								P	044996934
+Neuro-Oncology Advances		2632-2498	2019	1	1				https://academic.oup.com/noa/issue		noaissue		fulltext	Open Access		serial								P	240295927
+Neuro-Oncology Practice	2054-2577	2054-2585	2014	1	1				https://academic.oup.com/nop		nop		fulltext	New to Oxford Journals in 2014		serial								P	179323083
+Neuroscience of Consciousness		2057-2107	2015	1	1				https://academic.oup.com/nc		nc		fulltext	Open Access		serial								F	188859225
+Neurosurgery	0148-396X	1524-4040	1977	1	1				https://academic.oup.com/neurosurgery		neurosurgery		fulltext	Transfer in (2017): Lippincott Williams & Wilkins		serial								P	045002622
+Nicotine & Tobacco Research	1462-2203	1469-994X	1999	1	1				https://academic.oup.com/ntr		ntr		fulltext			serial								P	090128788
+North Central Journal of Agricultural Economics	0191-9016		1988	10	1	1990	12	2	https://academic.oup.com/aepp		aepp		fulltext	Now: Applied Economic Perspectives and Policy Continues: Review of Agricultural Economics (1991-2009)		serial								P	
+Notes and Queries	0029-3970	1471-6941	1849	1					https://academic.oup.com/nq		nq		fulltext			serial								P	064161080
+Nucleic Acids Research	0305-1048	1362-4962	1974	1	1				https://academic.oup.com/nar		nar		fulltext	Fully Open Access		serial								F	095886923
+Nucleic Acids Symposium Series	0261-3166	1746-8272	1999	42	1	2009	53	1	https://academic.oup.com/nass		nass		fulltext	Open Access. Ceased: 2009		serial								P	090141288
+Nutrition Reviews	0029-6643	1753-4887	1942	1	1				https://academic.oup.com/nutritionreviews		nutritionreviews		fulltext	transfer in (2015): Wiley		serial								P	12084530X
+OAH Magazine of History	0882-228X		1985	1	1	2013	27	4	https://academic.oup.com/maghis		maghis		fulltext	Ceased 2013		serial								P	
+Occupational Medicine	0962-7480	1471-8405	1992	42	1				https://academic.oup.com/occmed		occmed		fulltext	Previously:Journal of the Society of Occupational Medicine (1973-1991) Transactions of the Society of Occupational (1966-1972), Transactions of the Association of Industrial Medical Officers (1951-1965) Quarterly bulletin of the Association of Industrial Medical Officers (1948-1949)		serial								P	064161145
+Open Forum Infectious Diseases		2328-8957	2014	1	1				https://academic.oup.com/ofid		ofid		fulltext	Fully Open Access. New to Oxford Journals in 2014		serial								F	182541452
+Operative Neurosurgery	2332-4252		2005	56	1				https://academic.oup.com/ons		ons		fulltext	Transfer in (2017): Lippincott Williams & Wilkins. Before 2014 published as a supplement issue of Neurosurgery.		serial								P	
+Oxford Art Journal	0142-6540	1741-7287	1978	1	1				https://academic.oup.com/oaj		oaj		fulltext			serial								P	119969025
+Oxford Economic Papers	0030-7653	1464-3812	1938	1	1				https://academic.oup.com/oep		oep		fulltext			serial								P	120198177
+Oxford Journal of Law and Religion	2047-0770	2047-0789	2012	1	1				https://academic.oup.com/ojlr		ojlr		fulltext			serial								P	162246080
+Oxford Journal of Legal Studies	0143-6503	1464-3820	1981	1	1				https://academic.oup.com/ojls		ojls		fulltext			serial								P	112892647
+Oxford Medical Case Reports		2053-8855	2014	1	1				https://academic.oup.com/omcr		omcr		fulltext	Open access		serial								F	17871710X
+Oxford Review of Economic Policy	0266-903X	1460-2121	1985	1	1				https://academic.oup.com/oxrep		oxrep		fulltext			serial								P	058286365
+Paediatrics & Child Health	1205-7088	1918-1485	1996	1	1				https://academic.oup.com/pch		pch		fulltext	Transfer in (2017): Canadian Paediatric Society		serial								P	169062643
+Pain Medicine	1526-2375	1526-4637	2000	1	1				https://academic.oup.com/painmedicine		painmedicine		fulltext	transfer in (2016): Wiley Blackwell.		serial								P	058352309
+Parliamentary Affairs	0031-2290	1460-2482	1947	1					https://academic.oup.com/pa		pa		fulltext			serial								P	058286543
+Past & Present	0031-2746	1477-464X	1952	1	1				https://academic.oup.com/past		past		fulltext			serial								P	068853785
+Pathogens and Disease		2049-632X	2013	67					https://academic.oup.com/femspd		femspd		fulltext	transfer in (2015): Wiley. previously: FEMS Immunology and Medical Microbiology		serial								P	168717751
+Pathology Patterns Reviews	1542-2305		2000	113	1	2006	126	1	https://academic.oup.com/ppr		ppr		fulltext	Merges into: American Journal of Clinical Pathology		serial								P	
+Perspectives on Public Management and Governance	2398-4910	2398-4929	2018	1	1				https://academic.oup.com/ppmg		ppmg		fulltext	New for 2018		serial								P	231602596
+Philosophia Mathematica	0031-8019	1744-6406	1964	1	1				https://academic.oup.com/philmat		philmat		fulltext			serial								P	116260246
+Physical Therapy	0031-9023		1980	60	1				https://academic.oup.com/ptj		ptj		fulltext	Transfer in (2017): American Physical Therapy		serial								P	
+Plant Physiology	0032-0889	1532-2548	1996	110	1				https://academic.oup.com/plphys		plphys		fulltext	New to OUP 2021		serial								P	058402756
+Plant and Cell Physiology	0032-0781	1471-9053	1959	1	1				https://academic.oup.com/pcp		pcp		fulltext			serial								P	112893074
+Policing	1752-4512	1752-4520	2007	1	1				https://academic.oup.com/policing		policing		fulltext			serial								P	119400448
+Poultry Science	0032-5791	1525-3171	1908	1	1				https://academic.oup.com/ps		ps		fulltext	2014 takeover - Federation of Animal Science Societies		serial								P	045008868
+Precision Clinical Medicine	2096-5303	2516-1571	2018	1	1				https://academic.oup.com/pcm		pcm		fulltext	Transfer in (2018)		serial								F	231602847
+Proceedings of the Aristotelian Society	0066-7374	1467-9264	1888	o1	1				https://academic.oup.com/aristotelian		aristotelian		fulltext	transfer in (2016): Wiley Blackwell.		serial								P	058287655
+Proceedings of the London Mathematical Society	0024-6115	1460-244X	1865	1	1	2016	113	6	https://academic.oup.com/plms		plms		fulltext	transfer out(2017): Wiley		serial								P	048899313
+Proceedings of the Malacological Society of London	0025-1194		1893	1	1	1975	41	6	https://academic.oup.com/mollus		mollus		fulltext			serial								P	
+Progress of Theoretical Physics	0033-068X	1347-4081	1946	1	1	2012	128		https://academic.oup.com/ptp		ptp		fulltext			serial								P	068851405
+Progress of Theoretical Physics Supplements	0375-9687		1955	1		2012	197		https://academic.oup.com/ptps		ptps		fulltext	Ceased: 2012		serial								P	
+Progress of Theoretical and Experimental Physics		2050-3911	2012	2012	1				https://academic.oup.com/ptep		ptep		fulltext	Fully Open Access		serial								P	172118719
+Protein Engineering	0269-2139	1460-213X	1986	1	1	2003	16	12	https://academic.oup.com/peds		peds		fulltext	Continued by Protein engineering, design & selection		serial								P	059167343
+Protein Engineering Design and Selection	1741-0126	1741-0134	2004	17	1				https://academic.oup.com/peds		peds		fulltext	Previously: Protein Engineering (1986 -2003)		serial								P	105734071
+Public Health Ethics	1754-9973	1754-9981	2008	1	1				https://academic.oup.com/phe		phe		fulltext			serial								P	133146979
+Public Opinion Quarterly	0033-362X	1537-5331	1937	1	1				https://academic.oup.com/poq		poq		fulltext			serial								P	076866742
+Public Policy and Aging Report	1055-3037	2053-4892	1998	9	3				https://academic.oup.com/ppar		ppar		fulltext	2014 takeover - self published		serial								P	180270117
+Publications de Circonstance	0902-8684		1903	s1	1	1926	s1	91	https://academic.oup.com/icesjms		icesjms		fulltext	Now: ICES Journal of Marine Science (1991-) Continues: Journal du Conseil (1926) (1926-1968), Journal du Conseil (1968) (1968-1991)		serial								P	
+Publications of the Astronomical Society of Japan	0004-6264	2053-051X	1996	48	1				https://academic.oup.com/pasj		pasj		fulltext	New to Oxford Journals in 2014		serial								P	163248249
+Publius: Journal of Federalism	0048-5950	1747-7107	1971	1	1				https://academic.oup.com/publius		publius		fulltext			serial								P	120428652
+QJM: An International Journal of Medicine	1460-2725	1460-2393	1994	87	7				https://academic.oup.com/qjmed		qjmed		fulltext	previously: The Quarterly Journal of Medicine (1907-1994)		serial								P	037217232
+Quality Assurance in Health Care	1040-6166		1989	1	1	1993	5	4	https://academic.oup.com/intqhc		intqhc		fulltext	Continued by International Journal for Quality in Health Care		serial								P	
+Quarterly Bulletin of the Association of Industrial Medical Officers			1948	os-1	1	1949	os-1	4	https://academic.oup.com/occmed		occmed		fulltext	Now: Occupational Medicine (1992-), Continues: Journal of the Society of Occupational Medicine (1973-1991) Transactions of the Society of Occupational (1966-1972), Transactions of the Association of Industrial Medical (1951-1965)		serial								P	
+Radiation Protection Dosimetry	0144-8420	1742-3406	1981	1	1				https://academic.oup.com/rpd		rpd		fulltext			serial								P	175443084
+Refugee Abstracts: A Publication of the International Refugee Integration Resource Centre	0253-1445		1982	1		1993	12	2	https://academic.oup.com/rsq		rsq		fulltext	Now: Refugee Survey Quarterly		serial								P	
+Refugee Survey Quarterly	1020-4067	1471-695X	1994	13	1				https://academic.oup.com/rsq		rsq		fulltext	previously: Refugee Abstracts: A Publication of the International Refugee Integration Resource Centre (1982-1993)		serial								P	064161099
+Regenerative Biomaterials	2056-3418	2056-3426	2014	1	1				https://academic.oup.com/rb		rb		fulltext	Fully Open Access. New for 2014		serial								F	18530222X
+Reports of Patent, Design and Trade Mark Cases	0080-1364	1756-1000	1977	94	1				https://academic.oup.com/rpc		rpc		fulltext			serial								P	128395974
+Research Evaluation	0958-2029	1471-5449	1991	1	1				https://academic.oup.com/rev		rev		fulltext	2012 takeover from Beech Tree Publishing		serial								P	058290346
+Review of Agricultural Economics	1058-7195	1467-9353	1991	3	1	2009	31	4	https://academic.oup.com/aepp		aepp		fulltext	Now: Applied Economic Perspectives and Policy. Previously: North Central Journal of Agricultural Economics(1979-1990)		serial								P	083841032
+Review of Asset Pricing Studies	2045-9920	2045-9939	2011	1	1				https://academic.oup.com/raps		raps		fulltext			serial								P	157957284
+Review of Corporate Finance Studies	2046-9128	2046-9136	2012	1	1				https://academic.oup.com/rcfs		rcfs		fulltext			serial								P	166194670
+Review of Environmental Economics and Policy	1750-6816	1750-6824	2007	1	1				https://academic.oup.com/reep		reep		fulltext			serial								P	119400383
+Review of Finance	1572-3097	1875-824X	1997	1	1				https://academic.oup.com/rof		rof		fulltext	Previously: European Finance Review (1997-2003)		serial								P	12137114X
+Reviews of Infectious Diseases	0162-0886		1979	1	1	1991	13	6	https://academic.oup.com/cid		cid		fulltext	Now: Clinical Infectious Diseases		serial								P	
+Rheumatology	1462-0324	1462-0332	1999	38	1				https://academic.oup.com/rheumatology		rheumatology		fulltext			serial								P	083218386
+Rheumatology Advances in Practice		2514-1775	2017	1	1				https://academic.oup.com/rheumap		rheumap		fulltext	New for 2017. Open Access		serial								F	226071707
+Rheumatology and Physical Medicine	0003-4908		1970	10	7	1972	11	8	https://academic.oup.com/rheumatology		rheumatology		fulltext	Now: Rheumatology (1999-); previously: Annals of Physical Medicine (1952-1970). Continues: Rheumatology and Rehabilitation (1973-1982), British Journal of Rheumatology (1983-1998)		serial								P	
+Rheumatology and Rehabilitation	0300-3396		1973	12		1982	21	4	https://academic.oup.com/rheumatology		rheumatology		fulltext	Now: Rheumatology (1999-); previously: Annals of Physical Medicine (1952-1970), Rheumatology and Physical medicine (1970-1972). Continues: British Journal of Rheumatology (1983-1998)		serial								P	
+Sabouraudia	0036-2174		1962			1985			https://academic.oup.com/mmy		mmy		fulltext	Now: Medical Mycology. Continues: Journal of Medical and Veterinary Mycology (1986-1997)		serial								P	
+Schizophrenia Bulletin	0586-7614	1745-1701	1969	1	1				https://academic.oup.com/schizophreniabulletin		schizophreniabulletin		fulltext	Free Access		serial								P	124375588
+Schizophrenia Bulletin Open		2632-7899	2020	1	1				https://academic.oup.com/schizbullopen/issue		schizbullopenissue		fulltext	Open Access; new (2020)		serial								P	250316358
+Science and Public Policy	0302-3427	1471-5430	1974	1	1				https://academic.oup.com/spp		spp		fulltext	2012 takeover from Beech Tree Publishing		serial								P	058290338
+Screen	0036-9543	1460-2474	1969	10	1				https://academic.oup.com/screen		screen		fulltext			serial								P	036492469
+Shakespeare Quarterly	0037-3222	1538-3555	1950	1	1				https://academic.oup.com/sq		sq		fulltext	Transfer in (2019):John Hopkins. Previously: The Shakespeare Association Bulletin (1924-1949)		serial								P	076867692
+Sleep	0161-8105	1550-9109	1978	1	1				https://academic.oup.com/sleep		sleep		fulltext	New for 2017		serial								P	083138633
+Social Cognitive and Affective Neuroscience	1749-5016	1749-5024	2006	1	1				https://academic.oup.com/scan		scan		fulltext	Open Access from 2017		serial								F	111217091
+Social Forces	0037-7732	1534-7605	1925	4	1				https://academic.oup.com/sf/issue		sfissue		fulltext	previously: The Journal of Social Forces (ISSN: 1532-1282; 1922-1925)		serial								P	058847804
+Social History of Medicine	0951-631X	1477-4666	1988	1	1				https://academic.oup.com/shm		shm		fulltext			serial								P	068853807
+Social Politics: International Studies in Gender, State & Society	1072-4745	1468-2893	1994	1	1				https://academic.oup.com/sp		sp		fulltext			serial								P	115431640
+Social Problems	0037-7791	1533-8533	1953	1	1				https://academic.oup.com/socpro		socpro		fulltext	transfer in (2015): University of California Press		serial								P	08379252X
+Social Science Japan Journal	1369-1465	1468-2680	1998	1	1				https://academic.oup.com/ssjj		ssjj		fulltext			serial								P	07022918X
+Social Work	0037-8046	1545-6846	1956	1	1				https://academic.oup.com/sw		sw		fulltext			serial								P	076878430
+Social Work In Education	0162-7961		1978	1	1	1999	21	4	https://academic.oup.com/cs		cs		fulltext	Now: Children & schools		serial								P	
+Social Work Research	1070-5309	1545-6838	1994	18	1				https://academic.oup.com/swr		swr		fulltext			serial								P	076878422
+Social Work Research and Abstracts	0148-0847		1977	13	1	1993	29	4	https://academic.oup.com/swra		swra		fulltext	Social Work Research begins at Volume 19 Issue 1. Social Work Research was originally combined with Social Work Abstracts to comprise Social Work Research and Abstracts, which ran from Volumes 1 through 29. However, Social Work Research and Abstracts divided into two separate journals in 1995, with Social Work Research starting at Volume 19.		serial								P	
+Socio-Economic Review	1475-1461	1475-147X	2003	1	1				https://academic.oup.com/ser		ser		fulltext			serial								P	074953656
+Sociological Analysis		2325-7873	1964	25	1	1972	33	4	https://academic.oup.com/socrel		socrel		fulltext	Continued by SA. Sociological Analysis		serial								P	167175955
+Sociological Analysis: A Journal in the Sociology of Religion	0038-0210		1964	25	1	1992	53	4	https://academic.oup.com/socrel		socrel		fulltext	Now: Sociology of Religion (1993-) Previously: The American Catholic Sociological Review (1940-1963)		serial								P	
+Sociology of Religion	1069-4404	1759-8818	1993	54	1				https://academic.oup.com/socrel		socrel		fulltext	Continues SA. Sociological Analysis		serial								P	128157267
+Statute Law Review	0144-3593	1464-3863	1980	1	1				https://academic.oup.com/slr		slr		fulltext			serial								P	112892655
+Synthetic Biology		2397-7000	2016	1	1				https://academic.oup.com/synbio		synbio		fulltext	Open Access		serial								F	201454629
+Systematic Biology	1063-5157	1076-836X	1992	41	1				https://academic.oup.com/sysbio		sysbio		fulltext	Previously: Systematic Zoology (1952-1991)		serial								P	040628825
+Systematic Zoology	0039-7989		1952	1	1	1991	40	4	https://academic.oup.com/sysbio		sysbio		fulltext	Now: Systematic Biology		serial								P	
+Teaching Mathematics and its Applications	0268-3679	1471-6976	1982	1	1				https://academic.oup.com/teamat		teamat		fulltext			serial								P	064161110
+The American Historical Review	0002-8762	1937-5239	1895	1	1				https://academic.oup.com/ahr		ahr		fulltext	2012 takeover from University of Chicago Press		serial								P	118775243
+The American Journal of Comparative Law	0002-919X	2326-9197	1952	1	1-2				https://academic.oup.com/ajcl		ajcl		fulltext	Transfer in (2017): American Society of Comparative Law		serial								P	168250853
+The American Journal of Jurisprudence	0065-8995	2049-6494	1956	1	1				https://academic.oup.com/ajj/issue		ajjissue		fulltext	previously: Natural Law Forum (ISSN: 0199-9702; 1956-1968)		serial								P	172118638
+The American Journal of Legal History	0002-9319	2161-797X	1957	1	1				https://academic.oup.com/ajlh		ajlh		fulltext			serial								P	153735856
+The Annals of Occupational Hygiene	0003-4878	1475-3162	1958	1	1	2016	60	9	https://academic.oup.com/annweh		annweh		fulltext	Now: Annals of Work Exposures and Health		serial								P	070388326
+The Auk	0004-8038	1938-4254	1889	6	1				https://academic.oup.com/auk		auk		fulltext	Transfer in (2019)		serial								P	115213899
+The British Journal for the Philosophy of Science	0007-0882	1464-3537	1950	1	1				https://academic.oup.com/bjps		bjps		fulltext			serial								P	11986441X
+The British Journal of Aesthetics	0007-0904	1468-2842	1960	1	1				https://academic.oup.com/bjaesthetics		bjaesthetics		fulltext			serial								P	115431616
+The British Journal of Criminology	0007-0955	1464-3529	1960	1	1				https://academic.oup.com/bjc		bjc		fulltext			serial								P	115209255
+The British Journal of Social Work	0045-3102	1468-263X	1971	1	1				https://academic.oup.com/bjsw		bjsw		fulltext			serial								P	064160580
+The British Year Book of International Law	0068-2691	2044-9437	1975	47	1				https://academic.oup.com/bybil		bybil		fulltext			serial								P	153476184
+The Cambridge Quarterly	0008-199X	1471-6836	1965	1	1				https://academic.oup.com/camqtly		camqtly		fulltext			serial								P	06416098X
+The Chinese Journal of Comparative Law	2050-4802	2050-4810	2013	1	1				https://academic.oup.com/cjcl		cjcl		fulltext			serial								P	169699218
+The Chinese Journal of International Politics	1750-8916	1750-8924	2006	1	1				https://academic.oup.com/cjip		cjip		fulltext			serial								P	11121713X
+The Computer Bulletin	0010-4531	1464-357X	1995	37	5	2005	47	1	https://academic.oup.com/itnow		itnow		fulltext	Now: ITNow. Online only form 1995 vol 37 issue 5. The publication start in 1957 vol 1 issue 2		serial								P	069627436
+The Computer Journal	0010-4620	1460-2067	1958	1	1				https://academic.oup.com/comjnl		comjnl		fulltext			serial								P	058286306
+The Condor	0010-5422	1938-5129	1900	2	1				https://academic.oup.com/condor		condor		fulltext	Transfer in (2019). Previously: Bulletin of the Cooper Ornithological Club (1899)		serial								P	115434518
+The Econometrics Journal	1368-4221	1368-423X	1998	1	1				https://academic.oup.com/ectj		ectj		fulltext	Transfer in (2019): Wiley		serial								P	044837607
+The Economic Journal	0013-0133	1468-0297	1997	107	440				https://academic.oup.com/ej		ej		fulltext	Transfer in (2019):Wiley. Content being added.		serial								P	058288430
+The English Historical Review	0013-8266	1477-4534	1886	1	1				https://academic.oup.com/ehr		ehr		fulltext			serial								P	06885367X
+The European Journal of Orthodontics	0141-5387	1460-2210	1979	1	1				https://academic.oup.com/ejo		ejo		fulltext			serial								P	05828642X
+The European Journal of Public Health	1101-1262	1464-360X	1991	1	1				https://academic.oup.com/eurpub		eurpub		fulltext			serial								P	112892469
+The Gerontologist	0016-9013	1758-5341	1961	1	1				https://academic.oup.com/gerontologist		gerontologist		fulltext			serial								P	132431629
+The International Journal of Neuropsychopharmacology	1461-1457	1469-5111	1998	1	1				https://academic.oup.com/ijnp		ijnp		fulltext	Fully Open Access. Transfer in (2015): Cambridge University Press		serial								P	048900427
+The Journal of American History	0021-8723	1945-2314	1965	51	4				https://academic.oup.com/jah		jah		fulltext	Previously: Mississippi Valley Historical Review (1914-1964)		serial								P	133149366
+The Journal of Applied Poultry Research	1056-6171	1537-0437	1992	1	1				https://academic.oup.com/japr		japr		fulltext	2014 takeover - Federation of Animal Science Societies		serial								P	076865940
+The Journal of Biochemistry	0021-924X		1922	1	1				https://academic.oup.com/jb		jb		fulltext			serial								P	
+The Journal of Clinical Endocrinology & Metabolism	0021-972X	1845-7197	1952	12	1				https://academic.oup.com/jcem/issue		jcemissue		fulltext	transfer in (2017): Endocrine Society; previously: Journal of Clinical Endocrinology (ISSN: 0368-1610; 1941-1950)		serial								P	
+The Journal of Deaf Studies and Deaf Education	1081-4159	1465-7325	1996	1	1				https://academic.oup.com/jdsde		jdsde		fulltext			serial								P	115431527
+The Journal of Hindu Studies	1756-4255	1756-4263	2008	1	01-Feb				https://academic.oup.com/jhs		jhs		fulltext			serial								P	146059069
+The Journal of Infectious Diseases	0022-1899	1537-6613	1904	1					https://academic.oup.com/jid		jid		fulltext			serial								P	123677696
+The Journal of Law, Economics, and Organization	8756-6222	1465-7341	1985	1	1				https://academic.oup.com/jleo		jleo		fulltext			serial								P	094255954
+The Journal of Medicine and Philosophy	0360-5310	1744-5019	1976	1	1				https://academic.oup.com/jmp		jmp		fulltext			serial								P	090139704
+The Journal of Theological Studies	0022-5185	1477-4607	1899	1	1				https://academic.oup.com/jts		jts		fulltext			serial								P	068853742
+The Journal of Tropical Pediatrics	0449-3281		1955	1	1	1959	5		https://academic.oup.com/tropej		tropej		fulltext	Continued in Dec. 1959 by: Journal of tropical pediatrics and African child health		serial								P	
+The Journal of World Energy Law & Business	1754-9957	1754-9965	2008	1	1				https://academic.oup.com/jwelb		jwelb		fulltext			serial								P	127818790
+The Journal of the Linnean Society of London. Botany	0368-2927		1875	15	81	1968	61	383	https://academic.oup.com/botlinnean		botlinnean		fulltext	now: Botanical Journal of the Linnean Society; previously: Journal of the Proceedings of the Linnean Society. Botany 1856-1865		serial								P	
+The Journal of the Linnean Society. Zoology	0368-2935		1866	9	33	1968	47	312	https://academic.oup.com/zoolinnean		zoolinnean		fulltext	now: Zoological Journal of the Linnean Society; previously: Journal of the Proceedings of the Linnean Society. Zoology (1856-1865)		serial								P	
+The Journals of Gerontology Series B: Psychological Sciences and Social Sciences	1079-5014	1758-5368	1995	50	1				https://academic.oup.com/psychsocgerontology		psychsocgerontology		fulltext	Created from the split of Journal of Gerontology		serial								P	143181416
+The Journals of Gerontology, Series A	1079-5006	1758-535X	1995	50	1				https://academic.oup.com/biomedgerontology		biomedgerontology		fulltext	Created from the split of Journal of Gerontology		serial								P	143181408
+The Leo Baeck Institute Yearbook	0075-8744	1758-437X	1956	1	1				https://academic.oup.com/leobaeck		leobaeck		fulltext			serial								P	146296176
+The Library	0024-2160	1744-8581	1889	1	1				https://academic.oup.com/library		library		fulltext			serial								P	151979162
+The Mississippi Valley Historical Review	0161-391X		1914	1	1	1964	50	4	https://academic.oup.com/jah		jah		fulltext	Now: Journal of American History		serial								P	
+The Monist	0026-9662	2153-3601	1890	1	1				https://academic.oup.com/monist		monist		fulltext	transfer in (2015): Hegeler Institute		serial								P	143848984
+The Musical Quarterly	0027-4631	1741-8399	1915	1	1				https://academic.oup.com/mq		mq		fulltext			serial								P	077566998
+The Opera Quarterly	0736-0053	1476-2870	1983	1	1				https://academic.oup.com/oq		oq		fulltext			serial								P	145238725
+The Philosophical Quarterly	0031-8094	1467-9213	1950	1	1				https://academic.oup.com/pq		pq		fulltext	2014 takeover from Wiley		serial								P	058287604
+The Physical Therapy Review	0735-7435		1948	28	2	1961	41	12	https://academic.oup.com/ptj/issue		ptjissue		fulltext	continued by: Journal of the American Physical Therapy Association (no ISSN; 1962-1963)		serial								P	
+The Plant Cell	1040-4651	1532-298X	1996	8	1				https://academic.oup.com/plcell		plcell		fulltext	New to OUP 2021		serial								P	058402942
+The Quarterly Journal of Economics	0033-5533	1531-4650	1886	1	1				https://academic.oup.com/qje		qje		fulltext			serial								P	058401598
+The Quarterly Journal of Mathematics	0033-5606	1464-3847	1930	os-1	1				https://academic.oup.com/qjmath		qjmath		fulltext			serial								P	157096505
+The Quarterly Journal of Mechanics and Applied Mathematics	0033-5614	1464-3855	1948	1	1				https://academic.oup.com/qjmam		qjmam		fulltext			serial								P	124305482
+The Quarterly Journal of Medicine	0033-5622		1907	1		1994	87	6	https://academic.oup.com/qjmed		qjmed		fulltext	now: QJM: An International Journal of Medicine. v. 1-24, Oct. 1907-July 1931; new ser., v. 1-87, no. 6; Jan. 1932-June 1994.		serial								P	
+The Review of Economic Studies	0034-6527	1467-937X	1933	1	1				https://academic.oup.com/restud		restud		fulltext			serial								P	123677521
+The Review of English Studies	0034-6551	1471-6968	1925	1	1				https://academic.oup.com/res		res		fulltext			serial								P	064161102
+The Review of Financial Studies	0893-9454	1465-7368	1988	1	1				https://academic.oup.com/rfs		rfs		fulltext			serial								P	115431551
+The Western Historical Quarterly	0043-3810	1939-8603	1970	1	1				https://academic.oup.com/whq		whq		fulltext	transfer in (2016): Self Published by Western History Associations.		serial								P	118362585
+The World Bank Economic Review	0258-6770	1564-698X	1986	1	1				https://academic.oup.com/wber		wber		fulltext			serial								P	045036454
+The World Bank Research Observer	0257-3032	1564-6971	1986	1	1				https://academic.oup.com/wbro		wbro		fulltext			serial								P	045036446
+The Year's Work in Critical and Cultural Theory	1077-4254	1471-681X	1991	1	1				https://academic.oup.com/ywcct		ywcct		fulltext			serial								P	112893058
+The Year's Work in English Studies	0084-4144	1471-6801	1921	1	1				https://academic.oup.com/ywes		ywes		fulltext			serial								P	064160963
+Toxicological Sciences	1096-6080	1096-0929	1998	41	1				https://academic.oup.com/toxsci		toxsci		fulltext	Continues Fundamental and Applied Toxicology		serial								P	058048448
+Toxicologist	0731-9193		1981	1	1	1995			https://academic.oup.com/toxsci		toxsci		fulltext	Absorbed by Fundamental and Applied Toxicology		serial								P	
+Toxicology Research	2045-452X	2045-4538	2016	5	1				https://academic.oup.com/toxres/issue		toxresissue		fulltext			serial								P	163330336
+Transactions of Mathematics and Its Applications		2398-4945	2017	1	1				https://academic.oup.com/imatrm		imatrm		fulltext	New for 2017		serial								P	204062519
+Transactions of the Association of Industrial Medical Officers	0371-5205		1948	os-1	1	1965	15	4	https://academic.oup.com/occmed		occmed		fulltext	Now: Occupational Medicine (1992-) Continues: Journal of the Society of Occupational Medicine (1973-1991), Transactions of the Society of Occupational Medicine (1966-1972), previously: Quarterly bulletin of the Association of Industrial Medical Officers (1948-1949)		serial								P	
+Transactions of the London Mathematical Society		2052-4986	2014	1	1	2016	3	1	https://academic.oup.com/tlms		tlms		fulltext	Open Access. Transfer out (2017): Wiley		serial								P	17932294X
+Transactions of the Royal Society of Tropical Medicine and Hygiene	0035-9203	1878-3503	1908	2	1				https://academic.oup.com/trstmh		trstmh		fulltext	2013 takeover from Elsevier		serial								P	09588176X
+Transactions of the Society of Occupational Medicine	0037-9972		1966	13	1	1972	22	1	https://academic.oup.com/occmed		occmed		fulltext	Now: Occupational Medicine (1992-). Continues: Journal of the Society of Occupational Medicine (1973-1991); previously: Transactions of the Association of Industrial Medical Officers (1951-1965), Quarterly bulletin of the Association of Industrial Medical Officers (1948-1949)		serial								P	
+Translational Animal Science		2573-2102	2017	1	1				https://academic.oup.com/tas		tas		fulltext	Transfer in (2018): American Society of Animal Science. Open Access		serial								F	201823365
+Translational Behavioral Medicine	1869-6716	1613-9860	2011						https://academic.oup.com/tbm		tbm		fulltext	Transfer in (2018): Springer		serial								P	183036018
+Transportation Safety and Environment		2631-4428	2019	1	1				https://academic.oup.com/tse/issue		tseissue		fulltext	Open Access		serial								P	238218368
+Tree Physiology	0829-318X	1758-4469	1986	1	1				https://academic.oup.com/treephys		treephys		fulltext			serial								P	144186780
+Trusts & Trustees	1363-1780	1752-2110	1994	1	1				https://academic.oup.com/tandt		tandt		fulltext			serial								P	120428849
+Twentieth Century British History	0955-2359	1477-4674	1990	1	1				https://academic.oup.com/tcbh		tcbh		fulltext			serial								P	067784917
+Uniform Law Review	1124-3694	2050-9065	1996	1	1				https://academic.oup.com/ulr		ulr		fulltext			serial								P	176864490
+Virus Evolution		2057-1577	2015	1	1				https://academic.oup.com/ve		ve		fulltext	Open Access		serial								F	187671443
+Work, Aging and Retirement	2054-4642	2054-4650	2015	1	1				https://academic.oup.com/workar		workar		fulltext	new for 2015		serial								P	187158142
+Yearbook of European Law	0263-3264	2045-0044	1981	1	1				https://academic.oup.com/yel		yel		fulltext			serial								P	164365222
+Yearbook of International Environmental Law	0965-1721	2045-0052	1991	1	1				https://academic.oup.com/yielaw		yielaw		fulltext			serial								P	166925616
+Zoological Journal of the Linnean Society	0024-4082	1096-3642	1969	48	1				https://academic.oup.com/zoolinnean		zoolinnean		fulltext	Transfer in (2017): Wiley previously: The Journal of the Linnean Society. Zoology (1866-1968), Journal of the Proceedings of the Linnean Society. Zoology (1856-1865)		serial								P	040632288

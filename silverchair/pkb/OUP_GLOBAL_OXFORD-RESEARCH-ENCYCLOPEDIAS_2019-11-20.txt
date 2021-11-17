@@ -1,0 +1,26 @@
+publication_title	print_identifier	online_identifier	date_first_issue_online	num_first_vol_online	num_first_issue_online	date_last_issue_online	num_last_vol_online	num_last_issue_online	title_url	first_author	title_id	embargo_info	coverage_depth	notes	publisher_name	publication_type	date_monograph_published_print	date_monograph_published_online	monograph_volume	monograph_edition	first_editor	parent_publication_title_id	preceding_publication_title_id	access_type	bestppn
+Encyclopedia of Social Work		9780199975839							https://oxfordre.com/socialwork		socialwork		fulltext		Oxford University Press	monograph		2013			Franklin			P	
+Oxford Classical Dictionary		9780199381135							https://oxfordre.com/classics		classics		fulltext		Oxford University Press	monograph		2015			Goldberg			P	
+Oxford Research Encyclopedia of African History		9780190277734							https://oxfordre.com/africanhistory		africanhistory		fulltext		Oxford University Press	monograph		2015			Spear			P	
+Oxford Research Encyclopedia of American History		9780199329175							https://oxfordre.com/americanhistory		americanhistory		fulltext		Oxford University Press	monograph		2014			Butler			P	
+Oxford Research Encyclopedia of Anthropology		9780190854584							https://oxfordre.com/anthropology		anthropologie		fulltext		Oxford University Press	monograph		2017			Aldenderfer			F	
+Oxford Research Encyclopedia of Asian History		9780190277727							https://oxfordre.com/asianhistory		asianhistory		fulltext		Oxford University Press	monograph		2015			Ludden			P	
+Oxford Research Encyclopedia of Business and Management		9780190224851							https://oxfordre.com/business		business		fulltext		Oxford University Press	monograph		2015			Aldag			F	
+Oxford Research Encyclopedia of Climate Science		9780190228620							https://oxfordre.com/climatescience		climatescience		fulltext		Oxford University Press	monograph		2016			von Storch			P	
+Oxford Research Encyclopedia of Communication		9780190228613							https://oxfordre.com/communication		communication		fulltext		Oxford University Press	monograph		2015			Nassbaum			P	
+Oxford Research Encyclopedia of Criminology		9780190264079							https://oxfordre.com/criminology		criminology		fulltext		Oxford University Press	monograph		2016			Pontell			P	
+Oxford Research Encyclopedia of Economics and Finance		9780190625979							https://oxfordre.com/economics		economics		fulltext		Oxford University Press	monograph		2016			Hamilton			F	
+Oxford Research Encyclopedia of Education		9780190264093							https://oxfordre.com/education		education		fulltext		Oxford University Press	monograph		2016			Noblit			P	
+Oxford Research Encyclopedia of Environmental Science		9780199389414							https://oxfordre.com/environmentalscience		environmentalscience		fulltext		Oxford University Press	monograph		2015			Shugart			P	
+Oxford Research Encyclopedia of Global Public Health		9780190632366							https://oxfordre.com/publichealth		publichealth		fulltext		Oxford University Press	monograph		2016			McQueen			F	
+Oxford Research Encyclopedia of International Studies		9780190846626							https://oxfordre.com/internationalstudies		internationalstudies		fulltext		Oxford University Press	monograph		2017			Marlin-Bennett			P	
+Oxford Research Encyclopedia of Latin American History		9780199366439							https://oxfordre.com/latinamericanhistory		latinamericanhistory		fulltext		Oxford University Press	monograph		2015			Beezley			P	
+Oxford Research Encyclopedia of Linguistics		9780199384655							https://oxfordre.com/linguistics		linguistics		fulltext		Oxford University Press	monograph		2015			Aronoff			P	
+Oxford Research Encyclopedia of Literature		9780190201098							https://oxfordre.com/literature		literature		fulltext		Oxford University Press	monograph		2016			Rabinowitz			P	
+Oxford Research Encyclopedia of Natural Hazard Science		9780199389407							https://oxfordre.com/naturalhazardscience		naturalhazardscience		fulltext		Oxford University Press	monograph		2015			Cutter			P	
+Oxford Research Encyclopedia of Neuroscience		9780190264086							https://oxfordre.com/neuroscience		neuroscience		fulltext		Oxford University Press	monograph		2016			Sherman			F	
+Oxford Research Encyclopedia of Physics		9780190871994							https://oxfordre.com/physics		physics		fulltext		Oxford University Press	monograph		2017			Foster			F	
+Oxford Research Encyclopedia of Planetary Science		9780190647926							https://oxfordre.com/planetaryscience		planetaryscience		fulltext		Oxford University Press	monograph		2016			Read			F	
+Oxford Research Encyclopedia of Politics		9780190228637							https://oxfordre.com/politics		politics		fulltext		Oxford University Press	monograph		2016			Thompson			P	
+Oxford Research Encyclopedia of Psychology		9780190236557							https://oxfordre.com/psychology		psychology		fulltext		Oxford University Press	monograph		2016			Braddick			P	
+Oxford Research Encyclopedia of Religion		9780199340378							https://oxfordre.com/religion		religion		fulltext		Oxford University Press	monograph		2014			Barton			P	
