@@ -1,0 +1,13 @@
+{
+  "longname": "Access Learning",
+  "name": "acl",
+  "describe": "Recognizes the accesses to the platform Access Learning",
+  "contact": "Sean Duffy",
+  "pkb": false,
+  "docurl": "http://analyses.ezpaarse.org/platforms/6172debc3ae68e3ddf85d94c",
+  "domains": [
+    "www.accesslearning.com"
+  ],
+  "version": "2021-11-08",
+  "status": "beta"
+}
