@@ -22,12 +22,16 @@ module.exports = new Parser(function analyseEC(parsedUrl, ec) {
 
   if (host.includes('jamanetwork')) {
     result.publisher_name = 'jama';
+    result.db_id = 'jama';
   } else if (host.includes('asmedigitalcollection')) {
     result.publisher_name = 'asmedigitalcollection';
+    result.db_id = 'asmedigitalcollection';
   } else if (host.includes('oup')) {
     result.publisher_name = 'oup';
+    result.db_id = 'oup';
   } else if (host.includes('gsw') || host.includes('geoscienceworld')) {
     result.publisher_name = 'gsw';
+    result.db_id = 'gsw';
   }
 
   if ((match = /^\/([a-z0-9_.-]+)\.pdf$/i.exec(path)) !== null) {
