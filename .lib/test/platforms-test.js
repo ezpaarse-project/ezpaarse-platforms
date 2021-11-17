@@ -3,9 +3,9 @@
 'use strict';
 
 const fs        = require('fs');
+const Papa      = require('papaparse');
 const path      = require('path');
 const assert    = require('assert');
-const Converter = require('csvtojson').Converter;
 const table     = require('table').table;
 
 const platformsDir = path.resolve(__dirname, '../..');
@@ -31,32 +31,25 @@ platforms
       manifest = e;
     }
 
+    let parser;
+    try {
+      parser = require(path.resolve(platform, 'parser.js'));
+      parser.debugMode(true);
+    } catch (e) {
+      return new Error(e);
+    }
+
     describe(manifest && manifest.longname || path.basename(platform), () => {
-      it('works', done => {
-        if (manifest instanceof Error) { return done(manifest); }
-
-        const testDir = path.resolve(platform, 'test');
-
-        extractTestData(testDir, (err, testData) => {
-          if (err) { return done(err); }
-
-          let parser;
-          try {
-            parser = require(path.resolve(platform, 'parser.js'));
-            parser.debugMode(true);
-          } catch (e) {
-            return done(e);
-          }
-
-          for (let i = testData.length - 1; i >= 0; i--) {
-            const record = testData[i];
+      extractTestData(path.resolve(platform, 'test'), (err, testData) => {
+        testData.forEach((record) => {
+          it(`Test ${record.in.url}`, (done) => {
             assert(record.in.url, 'some entries in the test file have no URL');
 
             const parsed   = parser.execute(record.in);
             const allProps = Array.from(new Set(Object.keys(parsed).concat(Object.keys(record.out))));
             const equal    = allProps.every(p => record.out[p] === parsed[p]);
 
-            if (equal) { continue; }
+            if (equal) { return done(); }
 
             let errMsg = 'Result does not match';
 
@@ -78,6 +71,7 @@ platforms
               rows.push([p, record.out[p], parsed[p], record.out[p] === parsed[p] ? 'OK' : 'FAIL']);
             });
 
+
             errMsg += '\n\n';
             errMsg += table(rows, {
               columns: {
@@ -89,9 +83,7 @@ platforms
             });
 
             return done(new Error(errMsg));
-          }
-
-          done();
+          });
         });
       });
     });
@@ -103,43 +95,38 @@ platforms
  * @param  {Function} callback(err, records)
  */
 function extractTestData(testDir, callback) {
-  fs.readdir(testDir, (err, files) => {
-    if (err) { return callback(err); }
+  const files = fs.readdirSync(testDir);
 
-    const testData = [];
+  const testData = [];
+  for (let i = 0; i < files.length; i += 1) {
+    if (!files[i].endsWith('.csv')) { continue; }
 
-    (function convertFile() {
-      const file = files.pop();
-      if (!file) { return callback(null, testData); }
-      if (!file.endsWith('.csv')) { return convertFile(); }
+    const csvContent = fs.readFileSync(path.resolve(testDir, files[i]), 'utf8');
 
-      const csvConverter = new Converter({
-        delimiter: ';',
-        checkType: false,
-        flatKeys: true,
-        ignoreEmpty: true
+    const { data } = Papa.parse(csvContent, {
+      delimiter: ';',
+      skipEmptyLines: true,
+      header: true,
+    });
+
+    data.forEach((line) => {
+      const set = { in: {}, out: {} };
+
+      Object.entries(line).forEach(([prop, value]) => {
+        const propName = prop.trim();
+
+        if (value.length === 0) { return; }
+        if (propName.startsWith('in-'))       { set.in[propName.substr(3)]  = value; }
+        else if (propName.startsWith('out-')) { set.out[propName.substr(4)] = value; }
       });
 
-      csvConverter.fromFile(path.resolve(testDir, file), (err, records) => {
-        if (err) { return callback(err); }
+      if (Object.prototype.hasOwnProperty.call(set.out, '_granted')) {
+        set.out._granted = set.out._granted === 'true';
+      }
 
-        records.forEach(record => {
-          const set = { in: {}, out: {} };
+      testData.push(set);
+    });
+  }
 
-          for (const prop in record) {
-            if (prop.startsWith('in-'))       { set.in[prop.substr(3)]  = record[prop]; }
-            else if (prop.startsWith('out-')) { set.out[prop.substr(4)] = record[prop]; }
-          }
-
-          if (set.out.hasOwnProperty('_granted')) {
-            set.out._granted = set.out._granted === 'true';
-          }
-
-          testData.push(set);
-        });
-
-        convertFile();
-      });
-    })();
-  });
+  return callback(null, testData);
 }
