@@ -34,7 +34,14 @@ module.exports = new Parser(function analyseEC(parsedUrl, ec) {
     result.db_id = 'gsw';
   }
 
-  if ((match = /^\/([a-z0-9_.-]+)\.pdf$/i.exec(path)) !== null) {
+  if ((match = /^\/(([0-9]{13})-[0-9]+).pdf$/i.exec(path)) !== null) {
+    // /9781478021209-001.pdf
+    result.mime       = 'PDF';
+    result.rtype      = 'BOOK_CHAPTER';
+    result.unitid     = match[1];
+    result.online_identifier = match[2];
+    console.log('aaa');
+  } else if ((match = /^\/([a-z0-9_.-]+)\.pdf$/i.exec(path)) !== null) {
     // /dew237.pdf
     result.rtype    = 'ARTICLE';
     result.mime     = 'PDF';
