@@ -55,7 +55,7 @@ module.exports = new Parser(function analyseEC(parsedUrl, ec) {
     result.unitid   = match[3];
     if (match[1].toLowerCase() === 'jcp') {
       result.doi = jcp_doi_prefix + match[3];
-    } else if (match[1] === 'pcc') {
+    } else if (match[1].toLowerCase() === 'pcc') {
       result.doi = pcc_doi_prefix + match[3];
     }
   } else if ((match = /^\/([a-zA-Z]{3})\/article\/binaryfiles\/audio\/player.aspx$/i.exec(path)) !== null) {
