@@ -112,11 +112,13 @@ function extractTestData(testDir, callback) {
     data.forEach((line) => {
       const set = { in: {}, out: {} };
 
-      for (const prop in line) {
-        if (line[prop].length === 0) { continue; }
-        if (prop.startsWith('in-'))       { set.in[prop.substr(3)]  = line[prop]; }
-        else if (prop.startsWith('out-')) { set.out[prop.substr(4)] = line[prop]; }
-      }
+      Object.entries(line).forEach(([prop, value]) => {
+        const propName = prop.trim();
+
+        if (value.length === 0) { return; }
+        if (propName.startsWith('in-'))       { set.in[propName.substr(3)]  = value; }
+        else if (propName.startsWith('out-')) { set.out[propName.substr(4)] = value; }
+      });
 
       if (Object.prototype.hasOwnProperty.call(set.out, '_granted')) {
         set.out._granted = set.out._granted === 'true';
