@@ -68,7 +68,7 @@ platforms
             const rows = [['Property', 'Expected', 'Actual', 'Test']];
 
             allProps.forEach(p => {
-              rows.push([p, record.out[p] || '', parsed[p], record.out[p] === parsed[p] ? 'OK' : 'FAIL']);
+              rows.push([p, record.out[p], parsed[p], record.out[p] === parsed[p] ? 'OK' : 'FAIL']);
             });
 
 
