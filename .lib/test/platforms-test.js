@@ -32,12 +32,12 @@ platforms
     }
 
     let parser;
-      try {
-        parser = require(path.resolve(platform, 'parser.js'));
-        parser.debugMode(true);
-      } catch (e) {
-        return new Error(e);
-      }
+    try {
+      parser = require(path.resolve(platform, 'parser.js'));
+      parser.debugMode(true);
+    } catch (e) {
+      return new Error(e);
+    }
 
     describe(manifest && manifest.longname || path.basename(platform), () => {
       extractTestData(path.resolve(platform, 'test'), (err, testData) => {
