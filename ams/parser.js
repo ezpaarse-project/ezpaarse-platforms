@@ -73,15 +73,16 @@ module.exports = new Parser(function analyseEC(parsedUrl, ec) {
     // https://journals.ametsoc.org/view/journals/amsm/59/1/amsmonographs-d-18-0009.1.xml    
     // https://journals.ametsoc.org/view/journals/amsm/59/1/full-amsmonographs-d-18-0005.1-f2.jpg
     // https://journals.ametsoc.org/view/journals/amsm/59/1/amsmonographs-d-18-0005.1.xml?tab_body=abstract-display
+    const doiPrefix = '10.1175';
 
     result.rtype = 'ARTICLE';
     result.mime  = 'HTML';
 
-    if (match[1] === 'downloadpdf' || param.tab_body === 'pdf') {
+    if (match[1] === 'downloadpdf') {
       result.mime  = 'PDF';
     }
 
-    if (param.tab_body === 'fulltext-display') {
+    if (param.tab_body === 'fulltext-display' || param.tab_body === 'pdf') {
       result.mime  = 'HTML';
     }
     if (param.tab_body === 'abstract-display') {
@@ -101,6 +102,7 @@ module.exports = new Parser(function analyseEC(parsedUrl, ec) {
       result.unitid = unitIdMatch[1];
     } else {
       result.unitid = match[5];
+      result.doi = doiPrefix + '/' + result.unitid;
     }
   } else if ((match = /^\/search$/i.exec(path)) !== null) {
     // https://journals.ametsoc.org/search?q1=clouds

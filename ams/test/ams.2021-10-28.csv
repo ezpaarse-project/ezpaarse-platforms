@@ -5,11 +5,11 @@ out-issue;out-vol;out-title_id;out-doi;out-unitid;out-rtype;out-mime;in-url
 ;;;10.1175/BAMS-D-13-00212.1;BAMS-D-13-00212.1;ARTICLE;HTML;http://journals.ametsoc.org/doi/full/10.1175/BAMS-D-13-00212.1
 ;;;10.1175/BAMS-D-13-00212.1;BAMS-D-13-00212.1;ARTICLE;PDF;http://journals.ametsoc.org/doi/pdf/10.1175/BAMS-D-13-00212.1
 ;;;10.1175/BAMS-D-13-00212.1;BAMS-D-13-00212.1;IMAGE;MISC;http://journals.ametsoc.org/action/showFullPopup?id=fig1&doi=10.1175%2FBAMS-D-13-00212.1
-1;59;amsm;;amsmonographs-d-18-0005.1;ARTICLE;PDF;https://journals.ametsoc.org/view/journals/amsm/59/1/amsmonographs-d-18-0005.1.xml?tab_body=pdf
-1;59;amsm;;amsmonographs-d-18-0005.1;ARTICLE;HTML;https://journals.ametsoc.org/view/journals/amsm/59/1/amsmonographs-d-18-0005.1.xml?tab_body=fulltext-display
-1;59;amsm;;amsmonographs-d-18-0005.1;ARTICLE;PDF;https://journals.ametsoc.org/downloadpdf/journals/amsm/59/1/amsmonographs-d-18-0005.1.xml
-1;59;amsm;;amsmonographs-d-18-0005.1;ABS;HTML;https://journals.ametsoc.org/view/journals/amsm/59/1/amsmonographs-d-18-0005.1.xml?tab_body=abstract-display
+1;59;amsm;10.1175/amsmonographs-d-18-0005.1;amsmonographs-d-18-0005.1;ARTICLE;HTML;https://journals.ametsoc.org/view/journals/amsm/59/1/amsmonographs-d-18-0005.1.xml?tab_body=pdf
+1;59;amsm;10.1175/amsmonographs-d-18-0005.1;amsmonographs-d-18-0005.1;ARTICLE;HTML;https://journals.ametsoc.org/view/journals/amsm/59/1/amsmonographs-d-18-0005.1.xml?tab_body=fulltext-display
+1;59;amsm;10.1175/amsmonographs-d-18-0005.1;amsmonographs-d-18-0005.1;ARTICLE;PDF;https://journals.ametsoc.org/downloadpdf/journals/amsm/59/1/amsmonographs-d-18-0005.1.xml
+1;59;amsm;10.1175/amsmonographs-d-18-0005.1;amsmonographs-d-18-0005.1;ABS;HTML;https://journals.ametsoc.org/view/journals/amsm/59/1/amsmonographs-d-18-0005.1.xml?tab_body=abstract-display
 1;59;amsm;;amsmonographs-d-18-0005.1-f2;IMAGE;JPEG;https://journals.ametsoc.org/view/journals/amsm/59/1/full-amsmonographs-d-18-0005.1-f2.jpg
-1;59;amsm;;amsmonographs-d-18-0009.1;ARTICLE;HTML;https://journals.ametsoc.org/view/journals/amsm/59/1/amsmonographs-d-18-0009.1.xml
+1;59;amsm;10.1175/amsmonographs-d-18-0009.1;amsmonographs-d-18-0009.1;ARTICLE;HTML;https://journals.ametsoc.org/view/journals/amsm/59/1/amsmonographs-d-18-0009.1.xml
 ;;;;;SEARCH;HTML;https://journals.ametsoc.org/search?q1=clouds
 ;;apme;;;SEARCH;HTML;https://journals.ametsoc.org/search?access=all&pageSize=10&q1=clouds&sort=relevance&t=apme
