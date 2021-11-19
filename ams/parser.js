@@ -3,6 +3,8 @@
 'use strict';
 const Parser = require('../.lib/parser.js');
 
+const doiPrefix = '10.1175';
+
 /**
  * Identifie les consultations de la plateforme American Meteorological Society
  * @param  {Object} parsedUrl an object representing the URL to analyze
@@ -70,11 +72,9 @@ module.exports = new Parser(function analyseEC(parsedUrl, ec) {
     // https://journals.ametsoc.org/view/journals/amsm/59/1/amsmonographs-d-18-0005.1.xml?tab_body=pdf
     // https://journals.ametsoc.org/downloadpdf/journals/amsm/59/1/amsmonographs-d-18-0005.1.xml
     // https://journals.ametsoc.org/view/journals/amsm/59/1/amsmonographs-d-18-0005.1.xml?tab_body=fulltext-display
-    // https://journals.ametsoc.org/view/journals/amsm/59/1/amsmonographs-d-18-0009.1.xml    
+    // https://journals.ametsoc.org/view/journals/amsm/59/1/amsmonographs-d-18-0009.1.xml
     // https://journals.ametsoc.org/view/journals/amsm/59/1/full-amsmonographs-d-18-0005.1-f2.jpg
     // https://journals.ametsoc.org/view/journals/amsm/59/1/amsmonographs-d-18-0005.1.xml?tab_body=abstract-display
-    const doiPrefix = '10.1175';
-
     result.rtype = 'ARTICLE';
     result.mime  = 'HTML';
 
@@ -102,7 +102,7 @@ module.exports = new Parser(function analyseEC(parsedUrl, ec) {
       result.unitid = unitIdMatch[1];
     } else {
       result.unitid = match[5];
-      result.doi = doiPrefix + '/' + result.unitid;
+      result.doi = `${doiPrefix}/${result.unitid}`;
     }
   } else if ((match = /^\/search$/i.exec(path)) !== null) {
     // https://journals.ametsoc.org/search?q1=clouds
