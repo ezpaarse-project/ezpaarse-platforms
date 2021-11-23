@@ -1,0 +1,13 @@
+{
+  "longname": "NNNConsult",
+  "name": "nnnc",
+  "describe": "Recognizes the accesses to the platform NNNConsult",
+  "contact": "Sean Duffy",
+  "pkb": false,
+  "docurl": "http://analyses.ezpaarse.org/platforms/618e96b94ea6e573dfc9affa",
+  "domains": [
+    "www.nnnconsult.com"
+  ],
+  "version": "2021-11-23",
+  "status": "beta"
+}
