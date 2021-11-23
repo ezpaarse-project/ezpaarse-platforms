@@ -1,0 +1,13 @@
+{
+  "longname": "MicroJuris",
+  "name": "mj",
+  "describe": "Recognizes the accesses to the platform MicroJuris",
+  "contact": "Sean Duffy",
+  "pkb": false,
+  "docurl": "http://analyses.ezpaarse.org/platforms/618e7e1a3be7e50c914bd52f",
+  "domains": [
+    "cl.microjuris.com"
+  ],
+  "version": "2021-11-23",
+  "status": "beta"
+}
