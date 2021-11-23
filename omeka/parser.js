@@ -3,6 +3,12 @@
 'use strict';
 const Parser = require('../.lib/parser.js');
 
+const publisherName = {
+  'statest.hiscant.univ-lorraine.fr': 'statest',
+  'image.hiscant.univ-lorraine.fr': 'image',
+  'ccj-corea.cnrs.fr': 'corea',
+};
+
 /**
  * Recognizes the accesses to the platform OMEKA
  * @param  {Object} parsedUrl an object representing the URL to analyze
@@ -20,6 +26,8 @@ module.exports = new Parser(function analyseEC(parsedUrl, ec) {
   // console.error(parsedUrl);
 
   let match;
+
+  result.publisher_name = publisherName[parsedUrl.host];
 
   if ((match = /^\/files\/original\/([0-9a-z]+)\.(jpg|pdf)$/i.exec(path)) !== null) {
     // /files/original/7f89e1ff3f55c4719445087d15f40b79.jpg
