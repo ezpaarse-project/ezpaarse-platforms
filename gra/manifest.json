@@ -1,0 +1,13 @@
+{
+  "longname": "Global Arbitration Review",
+  "name": "gra",
+  "describe": "Recognizes the accesses to the platform Global Arbitration Review",
+  "contact": "Sean Duffy",
+  "pkb": false,
+  "docurl": "http://analyses.ezpaarse.org/platforms/618bfaa4a4c6fe33de362390",
+  "domains": [
+    "globalarbitrationreview.com"
+  ],
+  "version": "2021-11-22",
+  "status": "beta"
+}
