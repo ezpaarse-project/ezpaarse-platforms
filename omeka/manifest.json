@@ -1,0 +1,15 @@
+{
+  "longname": "OMEKA",
+  "name": "omeka",
+  "describe": "Recognizes the accesses to the platform OMEKA",
+  "contact": "Frederic Truong inist, dominique_lechaudel, nojhamster, felix",
+  "pkb": false,
+  "docurl": "http://analyses.ezpaarse.org/platforms/616434ce345e318144ad4f96",
+  "domains": [
+    "statest.hiscant.univ-lorraine.fr",
+    "image.hiscant.univ-lorraine.fr",
+    "ccj-corea.cnrs.fr"
+  ],
+  "version": "2021-11-23",
+  "status": "beta"
+}
