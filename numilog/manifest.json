@@ -1,0 +1,17 @@
+{
+  "longname": "Numilog",
+  "name": "numilog",
+  "describe": "Recognizes the accesses to the platform Numilog",
+  "contact": "Lucie [ENS Paris-Saclay], Julie Verleyen, Teresa Fernandez Olaizola, Frederic Truong inist",
+  "pkb": false,
+  "docurl": "http://analyses.ezpaarse.org/platforms/53ce50bd9ae87f6573970193",
+  "domains": [
+    "www.numilog.com",
+    "pnb-dilicom.centprod.com",
+    "www.biblioaccess.com",
+    "reader.numilog.com",
+    "streaming.biblioaccess.com"
+  ],
+  "version": "2021-11-23",
+  "status": "beta"
+}
