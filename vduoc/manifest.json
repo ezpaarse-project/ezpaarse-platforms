@@ -1,0 +1,13 @@
+{
+  "longname": "Duoc Videos",
+  "name": "vduoc",
+  "describe": "Recognizes the accesses to the platform Duoc Videos",
+  "contact": "Sean Duffy",
+  "pkb": false,
+  "docurl": "http://analyses.ezpaarse.org/platforms/6182f3f727c76a0c2a29eaf0",
+  "domains": [
+    "videos.duoc.cl"
+  ],
+  "version": "2021-11-23",
+  "status": "beta"
+}
