@@ -11,20 +11,20 @@ const Parser = require('../.lib/parser.js');
  * @return {Object} the result
  */
 module.exports = new Parser(function analyseEC(parsedUrl, ec) {
-  let result   = {};
+  let result = {};
   let pathname = parsedUrl.pathname;
-  let param    = parsedUrl.query || {};
+  let param = parsedUrl.query || {};
   let match;
 
   if ((match = /^\/DBPRO\/[a-z]{2}\/AdvancedSearch\/html\/getForm/i.exec(pathname)) !== null) {
     // /DBPro/fr/AdvancedSearch/html/getForm/se_rech/20170407-prod-2392-58e7668d6e9ee4-75323819
     result.rtype = 'SEARCH';
-    result.mime  = 'HTML';
+    result.mime = 'HTML';
 
   } else if (param.page === 'Dbpro.Controller.SearchResultEditor') {
     // ?page=Dbpro.Controller.SearchResultEditor&action=search&dbpc=se_rev_editor&lang=FR&uniqid=20170310-prod-5097-58c27ee91135e0-21376885
     result.rtype = 'SEARCH';
-    result.mime  = 'HTML';
+    result.mime = 'HTML';
 
   } else if ((match = /^\/DBPRO\/[a-z]{2}\/Search(?:ResultEditor)?\/html\/[a-z]+\/([a-z_]+)\/([0-9a-z\-_.~]+)\/?/i.exec(pathname)) !== null) {
     // /DBPro/FR/Search/html/breadcrumb/se_src_publ_jur/jur_int_oit/1/20170407-prod-6142-58e762ea352ad7-37590738
@@ -33,7 +33,7 @@ module.exports = new Parser(function analyseEC(parsedUrl, ec) {
     // /DBPro/FR/Search/html/breadcrumb/se_rev/cde_2016_2-fr/1/20170224-prod-8734-58b03390e77bd1-96126853
     // /DBPro/fr/Search/html/breadcrumb/se_rev/cde-fr/1/20170224-prod-8118-58b038c6159888-86052700
     result.rtype = 'SEARCH';
-    result.mime  = 'HTML';
+    result.mime = 'HTML';
 
     let idMatch;
     if (match[1] === 'se_mono' && (idMatch = /^([a-z0-9]+)/i.exec(match[2]))) {
@@ -51,7 +51,7 @@ module.exports = new Parser(function analyseEC(parsedUrl, ec) {
     // /DBPro/FR/Document/html/getDocFromDbpro/se_legi/ACT_LV_678066-19570325-Art1/0/20170323-prod-5871-58d3ce05ce7744-49426366
     // /DBPro/FR/Document/html/getDocFromDbpro/se_mono/10YEREG_003/0/20170310-prod-2861-58c288eaac2c57-38109236
     // /DBPro/FR/Document/html/getDocFromDbpro/se_rev/cde2016_2p449/0/20170224-prod-1791-58b03dedd69f62-95037418
-    result.mime   = 'HTML';
+    result.mime = 'HTML';
     result.unitid = match[2];
 
     switch (match[1]) {
@@ -82,15 +82,15 @@ module.exports = new Parser(function analyseEC(parsedUrl, ec) {
     // /fr/se_src_publ_leg_eur_jo/search/leg_eur_jo_3
 
     if (param.docEtiq) {
-      result.rtype    = 'ARTICLE';
-      result.mime     = 'HTML';
-      result.unitid   = param.docEtiq;
+      result.rtype = 'ARTICLE';
+      result.mime = 'HTML';
+      result.unitid = param.docEtiq;
       result.title_id = match[1];
     } else {
-      result.rtype    = 'SEARCH';
-      result.mime     = 'HTML';
+      result.rtype = 'SEARCH';
+      result.mime = 'HTML';
       if (match[2]) {
-        result.unitid   = match[2];
+        result.unitid = match[2];
         result.title_id = match[1];
       }
     }
@@ -99,9 +99,9 @@ module.exports = new Parser(function analyseEC(parsedUrl, ec) {
     // /fr/se_rev/search/cde-fr
     // /fr/se_rev/search/cde-fr?docEtiq=cde2018_1p3
     if (param.docEtiq) {
-      result.rtype    = 'ARTICLE';
-      result.mime     = 'PDF';
-      result.unitid   = param.docEtiq;
+      result.rtype = 'ARTICLE';
+      result.mime = 'PDF';
+      result.unitid = param.docEtiq;
       result.title_id = match[2];
 
       const idMatch = /^[a-z]+([0-9]{4})_([0-9]+)p([0-9]+)$/i.exec(param.docEtiq);
@@ -111,25 +111,25 @@ module.exports = new Parser(function analyseEC(parsedUrl, ec) {
         result.first_page = idMatch[3];
       }
     } else {
-      result.rtype    = 'SEARCH';
-      result.mime     = 'HTML';
-      result.unitid   = match[1];
+      result.rtype = 'SEARCH';
+      result.mime = 'HTML';
+      result.unitid = match[1];
       result.title_id = match[2];
     }
 
   } else if ((match = /^\/[a-z]{2,3}\/se_legi_chrono(?:\/macrodocument|_macro\/search)\/([a-z0-9_-]+)$/i.exec(pathname)) !== null) {
     // /fr/se_legi_chrono/macrodocument/CHRONO_2286452
     // /fr/se_legi_chrono_macro/search/se_legi_chrono_2008-fr
-    result.rtype  = 'SEARCH';
-    result.mime   = 'HTML';
+    result.rtype = 'SEARCH';
+    result.mime = 'HTML';
     result.unitid = match[1];
 
   } else if ((match = /^\/[a-z]{2,3}\/(se_[a-z_]+)\/search\/([a-z0-9_-]+)$/i.exec(pathname)) !== null) {
     // /fr/se_legi_macro/search/NODE_1099835-fr?docEtiq=IMPUT_2131899
     // /fr/se_legi_chrono_macro/search/se_legi_chrono_2008-fr
     // /fr/se_mono/search/TRACOENEUR
-    result.rtype  = 'SEARCH';
-    result.mime   = 'HTML';
+    result.rtype = 'SEARCH';
+    result.mime = 'HTML';
     result.unitid = param.docEtiq || match[2];
 
     if (match[1] === 'se_rev' || match[1] === 'se_mono') {
@@ -143,31 +143,31 @@ module.exports = new Parser(function analyseEC(parsedUrl, ec) {
     // /fr/se_src_publ_jur_int/search/jur_int/f97b93090733da659a07b9ca17b0643fd9a8521c18a331d2c800cbd346b145cf::1?docEtiq=cedh_34105-03_001-188687
     // /fr/se_src_publ_jur/search/jur/275bfa3503dc13a2bb17077e1e3c369a4edb66cd611826c4862d0fc87e9d2f78::1?docEtiq=epo_T1293_18
     if (param.docEtiq) {
-      result.rtype  = 'JURISPRUDENCE';
-      result.mime   = 'HTML';
+      result.rtype = 'JURISPRUDENCE';
+      result.mime = 'HTML';
       result.unitid = param.docEtiq;
     } else {
       result.rtype = 'SEARCH';
-      result.mime  = 'HTML';
+      result.mime = 'HTML';
     }
 
   } else if ((match = /^\/[a-z]{2,3}\/se_legi\/macrodocument\/[a-z0-9_]+\/([a-z0-9_-]+)$/i.exec(pathname)) !== null) {
     // /fr/se_legi/macrodocument/IMPUT_2156676/IMPUT_2156676-Commentairesurlesprincipesessentielsdel-avocateuropeen
     result.rtype = 'CODE_JURIDIQUE';
-    result.mime  = 'HTML';
+    result.mime = 'HTML';
     result.unitid = match[1];
 
   } else if ((match = /^\/[a-z]{2,3}\/se_legi_chrono\/macrodocument\/[a-z0-9_]+\/doc\/([a-z0-9_~-]+)$/i.exec(pathname)) !== null) {
     // /fr/se_legi_chrono/macrodocument/CHRONO_2286452/doc/DirParleuretCons-20181023-Art1~1
     result.rtype = 'SEARCH';
-    result.mime  = 'HTML';
+    result.mime = 'HTML';
     result.unitid = match[1];
 
   } else if ((match = /^\/[a-z]{2,3}\/se_mono\/toc\/([a-z]+)\/doc\/([a-z0-9_]+)$/i.exec(pathname)) !== null) {
     // /fr/se_mono/toc/TRACOENEUR/doc/TRACOENEUR_002
-    result.rtype    = 'BOOK_SECTION';
-    result.mime     = 'HTML';
-    result.unitid   = match[2];
+    result.rtype = 'BOOK_SECTION';
+    result.mime = 'HTML';
+    result.unitid = match[2];
     result.title_id = match[1];
 
   } else if ((match = /^\/[a-z]{2,3}\/(se_[a-z_]+)$/i.exec(pathname)) !== null) {
@@ -178,31 +178,67 @@ module.exports = new Parser(function analyseEC(parsedUrl, ec) {
     // /fr/se_rep_dr_eur_mat?docEtiq=ENCY_EUR_RUB000001_BIBLIO_2012_06
 
     if (match[1] === 'se_rep_dr_eur_mat' && param.docEtiq) {
-      result.rtype  = 'ENCYCLOPAEDIA_ENTRY';
-      result.mime   = 'HTML';
+      result.rtype = 'ENCYCLOPAEDIA_ENTRY';
+      result.mime = 'HTML';
       result.unitid = param.docEtiq;
     } else {
       result.rtype = 'SEARCH';
-      result.mime  = 'HTML';
+      result.mime = 'HTML';
     }
 
   } else if ((match = /^\/[a-z]{2,3}\/sl_rev_utu\/document\/([a-z0-9_.-]+)$/i.exec(pathname)) !== null) {
     // /en/sl_rev_utu/document/actualeges_2016_6-nl
-    result.rtype  = 'ARTICLE';
-    result.mime   = 'HTML';
+    result.rtype = 'ARTICLE';
+    result.mime = 'HTML';
     result.unitid = match[1];
 
   } else if ((match = /^\/[a-z]{2,3}\/slu_rev\/toc\/[a-z0-9_.-]+\/doc\/([a-z0-9_.-]+)$/i.exec(pathname)) !== null) {
     // // /en/slu_rev/toc/b_arbitra_2016_2-en/doc/b_arbitra2016_2p121
-    result.rtype  = 'ARTICLE';
-    result.mime   = 'HTML';
+    result.rtype = 'ARTICLE';
+    result.mime = 'HTML';
     result.unitid = match[1];
 
   } else if (/^\/[a-z]{2,3}$/i.test(pathname)) {
     // /fr
     result.rtype = 'SEARCH';
-    result.mime  = 'HTML';
-  }
+    result.mime = 'HTML';
+  } else if ((match = /^\/[a-z]{2,3}\/slu_mono\/toc\/[a-z]+\/doc\/([a-z0-9_-]+)$/i.exec(pathname)) !== null) {
+    // /en/slu_mono/toc/DROFISIT/doc/DROFISIT_001
+    result.rtype = 'BOOK';
+    result.mime = 'HTML';
+    result.unitid = match[1];
+  } else if ((match = /^\/v[0-9]+\/structures\/(metadata|trees)\/(sl_rev_utu|slu_rev)\/([a-z0-9_.-]+)$/i.exec(pathname)) !== null) {
+    // /v0/structures/metadata/sl_rev_utu/jn_fpeur_2021_2-fr?site=sl&lang=fr
+    // /v0/structures/trees/slu_rev/estif_2019_3-fr?site=slu&lang=fr&withDocuments=true
+    result.rtype = 'ARTICLE';
+    result.mime = 'HTML';
+    result.unitid = match[3];
+  } else if ((match = /^\/v[0-9]+\/documents\/([a-z_]+)\/([a-z0-9_.-]+)(\/download)?$/i.exec(pathname)) !== null) {
+    // /v0/documents/sl_rev_utu/da_or2013_4p467/download?site=sl&lang=en&format=PDF
+    // /v0/documents/sl_mono/AUDVIS_001/download?site=sl&lang=en&format=PDF
+    // /v0/documents/slu_rev/estif2019_3p105/download?site=slu&lang=fr&format=PDF
+    // /v0/documents/slu_mono/GUIAVOLU_001?site=slu&lang=fr
 
+    result.rtype = 'ARTICLE';
+    switch (match[1]) {
+    case 'sl_mono':
+    case 'slu_mono':
+      result.rtype = 'BOOK';
+      break;
+
+    case 'slu_rev':
+    case 'sl_rev_utu':
+      result.rtype = 'ARTICLE';
+      break;
+    }
+
+    result.mime = param.format || 'HTML';
+    result.unitid = match[2];
+  } else if ((match = /^\/v[0-9]+\/documents\/links\/synoptic\/sl_mono\/([a-z0-9_.-]+)$/i.exec(pathname)) !== null) {
+    // /v0/documents/links/synoptic/sl_mono/AUDVIS_001?site=sl&lang=fr
+    result.rtype = 'BOOK';
+    result.mime = 'HTML';
+    result.unitid = match[1];
+  }
   return result;
 });
