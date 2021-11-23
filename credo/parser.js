@@ -34,7 +34,7 @@ module.exports = new Parser(function analyseEC(parsedUrl, ec) {
   } else if ((match = /^\/content\/entry\/(([a-z0-9]+)\/[a-z0-9]+\/[0-9]+)$/i.exec(path)) !== null) {
     // /content/entry/cqpresshreh/iran/0
 
-    result.rtype    = 'ARTICLE';
+    result.rtype    = 'REF';
     result.mime     = 'HTML';
     result.title_id = match[2];
     result.unitid   = match[1];
