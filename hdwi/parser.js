@@ -26,7 +26,7 @@ module.exports = new Parser(function analyseEC(parsedUrl, ec) {
     result.rtype    = 'ARTICLE';
     result.mime     = 'HTML';
     result.title_id = match[1];
-    result.publication_date = match[2]
+    result.publication_date = match[2];
     result.unitid = match[3];
     result.doi = match[3];
 
@@ -35,7 +35,7 @@ module.exports = new Parser(function analyseEC(parsedUrl, ec) {
     result.rtype    = 'RECORD_VIEW';
     result.mime     = 'RIS';
     result.title_id = match[1];
-    result.publication_date = match[2]
+    result.publication_date = match[2];
     result.unitid = match[3];
     result.doi = match[3];
     
