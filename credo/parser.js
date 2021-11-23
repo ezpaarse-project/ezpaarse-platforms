@@ -13,15 +13,17 @@ const Parser = require('../.lib/parser.js');
 module.exports = new Parser(function analyseEC(parsedUrl, ec) {
   let result = {};
   let path = parsedUrl.pathname;
+  let query = parsedUrl.query || {};
   let match;
 
   if ((match = /^\/content\/title\/([a-z0-9]+)$/i.exec(path)) !== null) {
+    // /content/title/spswlthlal?institutionId=219&tab=entry_view&entry_id=29182050
     // /content/title/routbiopsy?tab=entry_view&heading=bandura_albert&sequence=0
     // /content/title/ghabd
-    result.rtype    = 'TOC';
+    result.rtype    = query.entry_id ? 'BOOK_SECTION' : 'TOC';
     result.mime     = 'HTML';
     result.title_id = match[1];
-    result.unitid   = match[1];
+    result.unitid   = query.entry_id || match[1];
 
   } else if ((match = /^\/content\/browse\/(topic|title)$/i.exec(path)) !== null) {
     // /content/browse/topic?subject=107
