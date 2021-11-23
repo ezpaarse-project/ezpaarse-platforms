@@ -12,7 +12,7 @@ const Parser = require('../.lib/parser.js');
  */
 module.exports = new Parser(function analyseEC(parsedUrl, ec) {
   let result = {};
-  let param = parsedUrl.query || {};
+  let param  = parsedUrl.query || {};
   let path   = parsedUrl.pathname;
 
   let match;
@@ -35,7 +35,7 @@ module.exports = new Parser(function analyseEC(parsedUrl, ec) {
     result.rtype    = 'BOOK';
     result.mime     = 'PDF';
     result.unitid   = match[1];
-    result.online_identifier   = match[1];
+    result.online_identifier = match[1];
   } else if ((match = /^\/[0-9]+\/catalog\/book\/([0-9]+)\/(.*)$/i.exec(path)) !== null) {
     // /657/Catalog/Book/1088509/La%C3%AFcit%C3%A9-ou-Islam-Mission-possible
     result.rtype    = 'TOC';
@@ -46,7 +46,7 @@ module.exports = new Parser(function analyseEC(parsedUrl, ec) {
     result.rtype    = 'BOOK';
     result.mime     = 'HTML';
     result.unitid   = param.ISBN;
-    result.online_identifier   = param.ISBN;
+    result.online_identifier = param.ISBN;
   }
 
   return result;
