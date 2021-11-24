@@ -1,0 +1,13 @@
+{
+  "longname": "Dialnet",
+  "name": "dn",
+  "describe": "Recognizes the accesses to the platform Dialnet",
+  "contact": "Sean Duffy",
+  "pkb": false,
+  "docurl": "http://analyses.ezpaarse.org/platforms/618e822cb9cd3a88ab3271e4",
+  "domains": [
+    "dialnet.unirioja.es"
+  ],
+  "version": "2021-11-24",
+  "status": "beta"
+}
