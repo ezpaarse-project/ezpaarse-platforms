@@ -26,7 +26,7 @@ module.exports = new Parser(function analyseEC(parsedUrl, ec) {
     // https://www.nytimes.com/2021/11/09/well/mind/john-sarno-chronic-pain-relief.html
     result.rtype    = 'ARTICLE';
     result.mime     = 'HTML';
-    result.publication_date = match[1] + '-' + match[2] + '-' + match[3]
+    result.publication_date = `${match[1]}-${match[2]}-${match[3]}`;
     result.unitid = match[4];
 
   } else if ((match = /^\/search$/i.exec(path)) !== null) {
