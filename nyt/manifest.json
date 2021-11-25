@@ -1,0 +1,13 @@
+{
+  "longname": "The New York Times",
+  "name": "nyt",
+  "describe": "Recognizes the accesses to the platform The New York Times",
+  "contact": "Sean Duffy",
+  "pkb": false,
+  "docurl": "http://analyses.ezpaarse.org/platforms/6192cb5e4a6d1831f7d73950",
+  "domains": [
+    "www.nytimes.com"
+  ],
+  "version": "2021-11-24",
+  "status": "beta"
+}
