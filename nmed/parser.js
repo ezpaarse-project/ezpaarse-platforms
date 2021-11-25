@@ -32,7 +32,7 @@ module.exports = new Parser(function analyseEC(parsedUrl, ec) {
     // https://naturalmedicines.therapeuticresearch.com/databases/health-wellness/professional.aspx?productid=1219
     result.rtype    = 'ARTICLE';
     result.mime     = 'HTML';
-    result.db_id = match[1];
+    result.db_id    = match[1];
     result.unitid   = param.productid;
   } else if ((match = /^\/search\.aspx$/i.exec(path)) !== null) {
     // https://naturalmedicines.therapeuticresearch.com/search.aspx?q=aloe&go.x=0&go.y=0
