@@ -13,22 +13,17 @@ const Parser = require('../.lib/parser.js');
 module.exports = new Parser(function analyseEC(parsedUrl, ec) {
   let result = {};
   let path   = parsedUrl.pathname;
-  // uncomment this line if you need parameters
-  // let param = parsedUrl.query || {};
-
-  // use console.error for debuging
-  // console.error(parsedUrl);
 
   let match;
 
-  if ((match = /^\/([a-z]+)\/([0-9]+)([^?]*)$/i.exec(path)) !== null) {
+  if ((match = /^\/([a-z]+)\/([0-9]+)(\/[a-z0-9]*)?/i.exec(path)) !== null) {
     // https://www.nnnconsult.com/nanda/16
     // https://www.nnnconsult.com/diagnosticosmedicos/7/
     // https://www.nnnconsult.com/noc/1808/D7/
     result.rtype    = 'ARTICLE';
     result.mime     = 'HTML';
-    result.db_id = match[1];
-    result.unitid = match[2];
+    result.db_id    = match[1];
+    result.unitid   = match[2];
 
   } else if ((match = /^\/buscador$/i.exec(path)) !== null) {
     // https://www.nnnconsult.com/buscador
