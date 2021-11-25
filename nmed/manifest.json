@@ -1,0 +1,13 @@
+{
+  "longname": "Natural Medicines",
+  "name": "nmed",
+  "describe": "Recognizes the accesses to the platform Natural Medicines",
+  "contact": "Sean Duffy",
+  "pkb": false,
+  "docurl": "http://analyses.ezpaarse.org/platforms/618d72b75f68644644211288",
+  "domains": [
+    "naturalmedicines.therapeuticresearch.com"
+  ],
+  "version": "2021-11-24",
+  "status": "beta"
+}
