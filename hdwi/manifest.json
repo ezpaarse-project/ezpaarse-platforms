@@ -1,0 +1,13 @@
+{
+  "longname": "Hindawi",
+  "name": "hdwi",
+  "describe": "Recognizes the accesses to the platform Hindawi",
+  "contact": "Sean Duffy",
+  "pkb": false,
+  "docurl": "http://analyses.ezpaarse.org/platforms/6182eeaf8971690bb5b77de7",
+  "domains": [
+    "www.hindawi.com"
+  ],
+  "version": "2021-11-22",
+  "status": "beta"
+}
