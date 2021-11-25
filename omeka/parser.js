@@ -20,7 +20,7 @@ module.exports = new Parser(function analyseEC(parsedUrl, ec) {
   let result = {};
   let path = parsedUrl.pathname;
   // uncomment this line if you need parameters
-  // let param = parsedUrl.query || {};
+  let param = parsedUrl.query || {};
 
   // use console.error for debuging
   // console.error(parsedUrl);
@@ -46,8 +46,9 @@ module.exports = new Parser(function analyseEC(parsedUrl, ec) {
     result.mime = 'HTML';
   } else if (/^\/items\/browse$/i.test(path)) {
     // /items/browse
-    result.rtype = 'SEARCH';
+    result.rtype = !param.search ? 'TOC' : 'SEARCH';
     result.mime = 'HTML';
+    if (param.collection) result.unitid = param.collection;
   }
 
   return result;
