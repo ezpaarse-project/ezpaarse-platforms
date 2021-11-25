@@ -19,17 +19,18 @@ module.exports = new Parser(function analyseEC(parsedUrl, ec) {
   // use console.error for debuging
   // console.error(parsedUrl);
 
-  if (/^\/scholar$/i.test(path) && (param.cites || param.q.includes('related'))) {
+  if (/^\/scholar$/i.test(path) && (param.cites || param.q && param.q.includes('related'))) {
     // https://scholar.google.com/scholar?cites=4386659974444794854&as_sdt=5,36&sciodt=0,36&hl=en
     // https://scholar.google.com/scholar?q=related:0gEkbAN64yEJ:scholar.google.com/&scioq=&hl=en&as_sdt=5,36&sciodt=0,36
-    result.rtype    = 'RESULT_CLICK';
-    result.mime     = 'HTML';
-    result.unitid   = param.cites;
+    result.rtype = 'RESULT_CLICK';
+    result.mime = 'HTML';
+    if (param.cites) {
+      result.unitid = param.cites;
+    }
   } else if (/^\/scholar$/i.test(path)) {
     // https://scholar.google.com/scholar?hl=en&as_sdt=0%2C36&q=Rocks&btnG=
-    result.rtype    = 'SEARCH';
-    result.mime     = 'HTML';
-
+    result.rtype = 'SEARCH';
+    result.mime = 'HTML';
   }
 
   return result;
