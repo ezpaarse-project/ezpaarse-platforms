@@ -1,0 +1,13 @@
+{
+  "longname": "Google Scholar",
+  "name": "gs",
+  "describe": "Recognizes the accesses to the platform Google Scholar",
+  "contact": "Sean Duffy",
+  "pkb": false,
+  "docurl": "http://analyses.ezpaarse.org/platforms/61853b0fdc86f35b67da29ce",
+  "domains": [
+    "scholar.google.com"
+  ],
+  "version": "2021-11-24",
+  "status": "beta"
+}
