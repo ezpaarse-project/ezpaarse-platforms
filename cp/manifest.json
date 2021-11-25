@@ -1,0 +1,13 @@
+{
+  "longname": "Checkpoint",
+  "name": "cp",
+  "describe": "Recognizes the accesses to the platform Checkpoint",
+  "contact": "Sean Duffy",
+  "pkb": false,
+  "docurl": "http://analyses.ezpaarse.org/platforms/618ebaeb551ed87570e98cab",
+  "domains": [
+    "www.checkpoint.cl"
+  ],
+  "version": "2021-11-24",
+  "status": "beta"
+}
