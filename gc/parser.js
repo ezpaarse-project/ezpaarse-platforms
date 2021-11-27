@@ -87,11 +87,12 @@ module.exports = new Parser(function analyseEC(parsedUrl, ec) {
     result.rtype  = 'ARTICLE';
     result.mime   = 'PDF';
     result.unitid = param.docId;
-  } else if (/^\/imgsrv\/FastPDF\/UBER1\/.*$/i.test(path)) {
+  } else if ((match = /^\/imgsrv\/FastPDF\/UBER1\/(.*)$/i.exec(path)) !== null) {
     // http://callisto.ggsrv.com/imgsrv/FastPDF/UBER1/RangeFetch=contentSet=UBER1=prefix=ejud_0002_0018_0_=startPage=13718=suffix=-p=npages=1=dl=Scheinert_David=PDF.pdf?dl=Scheinert_David.PDF
     result.rtype  = 'ENCYCLOPAEDIA_ENTRY';
     result.mime   = 'PDF';
-    console.log(path);
+    
+    console.log(match[1]);
   } else if (/^\/ps\/downloadDocument\.do$/i.test(path)) {
     // http://go.galegroup.com/ps/downloadDocument.do?actionCmd=DO_DOWNLOAD_DOCUMENT&bucketId=&inPS=true&prodId=GVRL&userGroupName=unipari&tabID=&documentTitle=Le%2BDiable%2Bau%2BCorps&docId=GALE%7CCX3406800253&currentPosition=&tagId=&dynamicEtocAvail=&pubDate=&workId=sjff_01_00332-p.pdf|sjff_01_00333-p.pdf&callistoContentSet=SJP
     result.rtype  = 'ENCYCLOPAEDIA_ENTRY';
@@ -109,13 +110,13 @@ module.exports = new Parser(function analyseEC(parsedUrl, ec) {
     result.rtype  = 'ARTICLE';
     result.mime   = 'HTML';
     result.unitid = param.documentId;
-  } else if ((match =/^\/([a-z]+)\/archive\/ImagesDetailsPage\/ImagesDetailsWindow$/i.exec(path)) !== null) {
+  } else if ((match = /^\/([a-z]+)\/archive\/ImagesDetailsPage\/ImagesDetailsWindow$/i.exec(path)) !== null) {
     // https://natgeo.gale.com/natgeo/archive/ImagesDetailsPage/ImagesDetailsWindow?displayGroupName=Images&currPage=1&query=&prodId=&source=HomePage&p=NGMK&mode=view&catId=MVELUV620804877&view=docDisplay&total=984&u=bcdc&limiter=&contentModules=&displayGroups=&action=e&documentId=GALE%7CKCOUJM268196061&windowstate=normal
     result.rtype  = 'IMAGE';
     result.mime   = 'HTML';
     result.unitid = param.documentId;
     result.title_id = match[1];
-  } else if ((match =/^\/([a-z]+)\/archive\/VideosDetailsPage\/VideosDetailsWindow$/i.exec(path)) !== null) {
+  } else if ((match = /^\/([a-z]+)\/archive\/VideosDetailsPage\/VideosDetailsWindow$/i.exec(path)) !== null) {
     // https://natgeo.gale.com/natgeo/archive/VideosDetailsPage/VideosDetailsWindow?displayGroupName=Videos&currPage=1&query=&prodId=&source=HomePage&p=NGMK&mode=view&catId=MVELUV620804877&view=docDisplay&total=218&u=bcdc&limiter=&contentModules=&displayGroups=&action=e&documentId=GALE%7CDTQEEB084044288&windowstate=normal
     result.rtype  = 'VIDEO';
     result.mime   = 'HTML';
