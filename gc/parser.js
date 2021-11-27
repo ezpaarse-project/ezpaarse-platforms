@@ -18,6 +18,7 @@ module.exports = new Parser(function analyseEC(parsedUrl, ec) {
   let result = {};
   let path   = parsedUrl.pathname;
   let param  = parsedUrl.query || {};
+  let hash = new Map((parsedUrl.hash || '').replace('#', '').split('&').map(s => s.split('=')));
   let match;
 
   if ((match = /^\/ps\/([a-zA-z]+).do$/i.exec(path)) !== null && param.qt == null) {
@@ -81,12 +82,6 @@ module.exports = new Parser(function analyseEC(parsedUrl, ec) {
     result.rtype  = 'ARTICLE';
     result.mime   = 'PDF';
     result.unitid = param.docId;
-  } else if ((match =/^\/([a-z]+)\/([a-z]+)\/MonographsDetailsPage\/MonographsDetailsWindow$/i.exec(path)) !== null) {
-    // http://gdc.galegroup.com/gdc/artemis/MonographsDetailsPage/MonographsDetailsWindow?disableHighlighting=false&displayGroupName=DVI-Monographs&result_type=DVI-Monographs&javax.portlet.action=detailsViewWithNavigation&currPage=1&scanId=&query=OQE+arabic&prodId=EAPB&source=fullList&search_within_results=&p=EAPB&catId=&u=spcesr&limiter=&totalSearchResultCount=&display-query=OQE+arabic&contentModules=&displayGroups=&action=1&sortBy=&activityType=BasicSearch&failOverType=&commentary=&documentId=GALE|ZVZZDR996049640&dviSelectedPage=&catId=
-    result.rtype  = 'BOOK';
-    result.mime   = 'HTML';
-    result.unitid = param.documentId;
-    result.title_id = match[1];
   } else if (/^\/imgsrv\/FastPDF\/UBER1\/.*$/i.test(path)) {
     // http://callisto.ggsrv.com/imgsrv/FastPDF/UBER1/RangeFetch=contentSet=UBER1=prefix=ejud_0002_0018_0_=startPage=13718=suffix=-p=npages=1=dl=Scheinert_David=PDF.pdf?dl=Scheinert_David.PDF
     result.rtype  = 'ENCYCLOPAEDIA_ENTRY';
@@ -100,11 +95,6 @@ module.exports = new Parser(function analyseEC(parsedUrl, ec) {
     // https://go.gale.com/ps/eToc.do?searchType=BasicSearchForm&docId=GALE%7C5GVQ&userGroupName=unipari&inPS=true&action=DO_BROWSE_ETOC&contentSegment=9780028660974&prodId=GVRL
     // http://go.galegroup.com/ps/eToc.do?userGroupName=franche&prodId=GVRL&inPS=true&action=DO_BROWSE_ETOC&searchType=BasicSearchForm&docId=GALE|CX2830800013&contentSegment=9781414418889
     result.rtype  = 'TOC';
-    result.mime   = 'HTML';
-    result.unitid = param.documentId;
-  } else if (/^\/([a-z]+)\/artemis\/MonographsDetailsPage\/MonographsDetailsWindow$/i.test(path)) {
-    // http://gdc.galegroup.com/gdc/artemis/MonographsDetailsPage/MonographsDetailsWindow?disableHighlighting=false&displayGroupName=DVI-Monographs&docIndex=1&source=&prodId=ECCO&mode=view&limiter=&display-query=OQE+%22day%22&contentModules=&action=e&sortBy=&windowstate=normal&currPage=1&dviSelectedPage=&scanId=&query=OQE+%22day%22&search_within_results=&p=GDCS&catId=&u=inisthom&displayGroups=&documentId=GALE%7CCB0132160943&activityType=BasicSearch&failOverType=&commentary=
-    result.rtype  = 'BOOK';
     result.mime   = 'HTML';
     result.unitid = param.documentId;
   } else if (/^\/([a-z]+)\/([a-z-]+)\/AcademicJournalsDetailsPage\/AcademicJournalsDetailsWindow$/i.test(path)) {
@@ -125,13 +115,20 @@ module.exports = new Parser(function analyseEC(parsedUrl, ec) {
     result.mime   = 'HTML';
     result.unitid = param.documentId;
     result.title_id = match[1];
-  } else if ((match =/^\/([a-z]+)\/archive\/(MonographsDetailsPage|CoversDetailsPage)\/(MonographsDetailsWindow|CoversDetailsWindow)$/i.exec(path)) !== null) {
+  } else if ((match = /^\/([a-z]+)\/archive\/(MonographsDetailsPage|CoversDetailsPage)\/(MonographsDetailsWindow|CoversDetailsWindow)$/i.exec(path)) !== null && (hash.get('pageNo') !== null)) {
     // https://natgeo.gale.com/natgeo/archive/MonographsDetailsPage/MonographsDetailsWindow?disableHighlighting=true&displayGroupName=DVI-Monographs&currPage=1&scanId=&query=&docIndex=&source=HomePage&prodId=&search_within_results=&p=NGMK&mode=view&catId=MVELUV620804877&u=bcdc&limiter=&display-query=&displayGroups=&contentModules=&action=e&sortBy=&documentId=GALE%7CMTHOKO428853439&windowstate=normal&activityType=SelectedSearch&failOverType=&commentary=#pageNo=8
     // https://natgeo.gale.com/natgeo/archive/CoversDetailsPage/CoversDetailsWindow?disableHighlighting=false&displayGroupName=NatGeo-Covers&currPage=&scanId=&query=&docIndex=&source=&prodId=NGMK&search_within_results=&p=NGMK&mode=view&catId=&u=bcdc&limiter=&display-query=&displayGroups=&contentModules=&action=e&sortBy=&documentId=GALE%7CMWZQCM916007738&windowstate=normal&activityType=&failOverType=&commentary=#pageNo=2
     result.rtype  = 'BOOK_PAGE';
     result.mime   = 'HTML';
     result.unitid = param.documentId;
     result.title_id = match[1];
+  } else if ((match = /^\/([a-z]+)\/artemis\/MonographsDetailsPage\/MonographsDetailsWindow$/i.exec(path)) !== null) {
+    // http://gdc.galegroup.com/gdc/artemis/MonographsDetailsPage/MonographsDetailsWindow?disableHighlighting=false&displayGroupName=DVI-Monographs&docIndex=1&source=&prodId=ECCO&mode=view&limiter=&display-query=OQE+%22day%22&contentModules=&action=e&sortBy=&windowstate=normal&currPage=1&dviSelectedPage=&scanId=&query=OQE+%22day%22&search_within_results=&p=GDCS&catId=&u=inisthom&displayGroups=&documentId=GALE%7CCB0132160943&activityType=BasicSearch&failOverType=&commentary=
+    // http://gdc.galegroup.com/gdc/artemis/MonographsDetailsPage/MonographsDetailsWindow?disableHighlighting=false&displayGroupName=DVI-Monographs&result_type=DVI-Monographs&javax.portlet.action=detailsViewWithNavigation&currPage=1&scanId=&query=OQE+arabic&prodId=EAPB&source=fullList&search_within_results=&p=EAPB&catId=&u=spcesr&limiter=&totalSearchResultCount=&display-query=OQE+arabic&contentModules=&displayGroups=&action=1&sortBy=&activityType=BasicSearch&failOverType=&commentary=&documentId=GALE|ZVZZDR996049640&dviSelectedPage=&catId=
+    result.rtype  = 'BOOK';
+    result.mime   = 'HTML';
+    result.title_id = match[1];    
+    result.unitid = param.documentId;      
   } else if ((match =/^\/([a-z]+)\/archive\/searchResults\/actionWin$/i.exec(path)) !== null) {
     // https://natgeo.gale.com/natgeo/archive/searchResults/actionWin?scanId=CSH&query=OQE+rocks&prodId=NGMK&p=NGMK&mode=view&catId=&u=bcdc&totalSearchResultCount=1016&limiter=&contentModules=&displayGroups=&display-query=OQE+rocks&action=e&sortBy=&windowstate=normal&activityType=BasicSearch&resetBreadCrumb=true&failOverType=&commentary=
     result.rtype  = 'SEARCH';
