@@ -31,6 +31,11 @@ module.exports = new Parser(function analyseEC(parsedUrl, ec) {
     if (/[\w]Toc/.test(match[1])) {
       result.rtype = 'TOC';
     }
+    
+    if (param.docType == 'Article') {
+      result.rtype = 'ARTICLE';  
+    }
+    
     if (param.docId) {
       result.title_id = param.docId;
       result.unitid   = param.docId + '_' + param.contentSegment;
@@ -86,6 +91,7 @@ module.exports = new Parser(function analyseEC(parsedUrl, ec) {
     // http://callisto.ggsrv.com/imgsrv/FastPDF/UBER1/RangeFetch=contentSet=UBER1=prefix=ejud_0002_0018_0_=startPage=13718=suffix=-p=npages=1=dl=Scheinert_David=PDF.pdf?dl=Scheinert_David.PDF
     result.rtype  = 'ENCYCLOPAEDIA_ENTRY';
     result.mime   = 'PDF';
+    console.log(path);
   } else if (/^\/ps\/downloadDocument\.do$/i.test(path)) {
     // http://go.galegroup.com/ps/downloadDocument.do?actionCmd=DO_DOWNLOAD_DOCUMENT&bucketId=&inPS=true&prodId=GVRL&userGroupName=unipari&tabID=&documentTitle=Le%2BDiable%2Bau%2BCorps&docId=GALE%7CCX3406800253&currentPosition=&tagId=&dynamicEtocAvail=&pubDate=&workId=sjff_01_00332-p.pdf|sjff_01_00333-p.pdf&callistoContentSet=SJP
     result.rtype  = 'ENCYCLOPAEDIA_ENTRY';
