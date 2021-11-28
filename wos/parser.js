@@ -60,7 +60,11 @@ module.exports = new Parser(function analyseEC(parsedUrl, ec) {
         result.db_id = productId;
       }
     }
-
+  } else if ((match = /^\/wos\/woscc\/full-record\/(.*)/i.exec(path)) !== null) {
+    // https://www.webofscience.com/wos/woscc/full-record/WOS:000454372400003
+    result.rtype  = 'RECORD_VIEW';
+    result.mime   = 'HTML';
+    result.unitid = match[1];
   } else if ((match = /^\/([a-zA-z_]*)\.action$/i.exec(path)) !== null) {
     // /JCRJournalHomeAction.action?
     // /JCRJournalProfileAction.action?
@@ -129,6 +133,10 @@ module.exports = new Parser(function analyseEC(parsedUrl, ec) {
     result.mime   = 'HTML';
     result.db_id  = 'author';
     result.unitid = match[1];
+  } else if ((match = /^\/wos\/woscc\/summary\/[a-z0-9-]+(.*)/i.exec(path)) !== null) {
+    //https://www.webofscience.com/wos/woscc/summary/98d3b3c5-98aa-48b9-a80c-6be7017120ae-114647f4/relevance/1
+    result.rtype  = 'SEARCH';
+    result.mime   = 'HTML';
   }
 
   return result;
