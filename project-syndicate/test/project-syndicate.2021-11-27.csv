@@ -1,8 +1,8 @@
-out-unitid;out-rtype;out-mime;in-url
-;ARTICLE;HTML;https://www.project-syndicate.org/commentary/eastern-germany-electric-cars-new-growth-engine-by-dalia-marin-2020-10
-;TOC;HTML;https://www.project-syndicate.org/section/culture-society
-;SEARCH;HTML;https://www.project-syndicate.org/archive?query=Biden&__RequestVerificationToken=CfDJ8LQ5EIygo4pDsKzaF4GqENxpL0ozL_bRoJ9E6oAL2MG_kDOXp1W2bnXd-WAheJIVRkIVSFp5trArFXqjtGsw0RNpd7OkPItRXhdRKKmTWeexNP6NEFMxOc6Vv0SUccawAnM-FDoIE_LtdDQugBfoE6w
-the-great-cop-out;ARTICLE;HTML;https://www.project-syndicate.org/bigpicture/the-great-cop-out?a_la=english&a_d=6183ab4d4639210165c00e7c&a_m=&a_a=click&a_s=&a_p=homepage&a_li=the-great-cop-out&a_pa=curated&a_ps=a2-bigpicture&a_ms=&a_r=
-an-interview-with-jan-werner-mueller;ARTICLE;HTML;https://www.project-syndicate.org/say-more/an-interview-with-jan-werner-mueller-2021-10?a_la=english&a_d=616d8815c907f06ac9e71b50&a_m=&a_a=click&a_s=&a_p=homepage&a_li=an-interview-with-jan-werner-mueller-2021-10&a_pa=saymore&a_ps=&a_ms=&a_r=
-the-gig-economy-2-0;AUDIO;HTML;https://www.project-syndicate.org/podcasts/the-gig-economy-2-0
-ps-events-building-the-green-consensus;VIDEO;HTML;https://www.project-syndicate.org/videos/ps-events-building-the-green-consensus
+out-title_id;out-unitid;out-rtype;out-mime;in-url
+eastern-germany-electric-cars-new-growth-engine;commentary;ARTICLE;HTML;https://www.project-syndicate.org/commentary/eastern-germany-electric-cars-new-growth-engine-by-dalia-marin-2020-10
+culture-society;section;TOC;HTML;https://www.project-syndicate.org/section/culture-society
+;;SEARCH;HTML;https://www.project-syndicate.org/archive?query=Biden&__RequestVerificationToken=CfDJ8LQ5EIygo4pDsKzaF4GqENxpL0ozL_bRoJ9E6oAL2MG_kDOXp1W2bnXd-WAheJIVRkIVSFp5trArFXqjtGsw0RNpd7OkPItRXhdRKKmTWeexNP6NEFMxOc6Vv0SUccawAnM-FDoIE_LtdDQugBfoE6w
+;the-great-cop-out;ARTICLE;HTML;https://www.project-syndicate.org/bigpicture/the-great-cop-out?a_la=english&a_d=6183ab4d4639210165c00e7c&a_m=&a_a=click&a_s=&a_p=homepage&a_li=the-great-cop-out&a_pa=curated&a_ps=a2-bigpicture&a_ms=&a_r=
+;an-interview-with-jan-werner-mueller;ARTICLE;HTML;https://www.project-syndicate.org/say-more/an-interview-with-jan-werner-mueller-2021-10?a_la=english&a_d=616d8815c907f06ac9e71b50&a_m=&a_a=click&a_s=&a_p=homepage&a_li=an-interview-with-jan-werner-mueller-2021-10&a_pa=saymore&a_ps=&a_ms=&a_r=
+;the-gig-economy-2-0;AUDIO;HTML;https://www.project-syndicate.org/podcasts/the-gig-economy-2-0
+;ps-events-building-the-green-consensus;VIDEO;HTML;https://www.project-syndicate.org/videos/ps-events-building-the-green-consensus
