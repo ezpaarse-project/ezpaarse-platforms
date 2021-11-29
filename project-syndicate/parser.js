@@ -43,11 +43,30 @@ module.exports = new Parser(function analyseEC(parsedUrl, ec) {
   /** --- matching sections browsed --- */
   } else if ((match = /^\/(section)\/([\w\-\w]+)$/i.exec(path)) !== null) {
     //https://www.project-syndicate.org:443/section/culture-society
-    // http://parser.skeleton.js/platform/path/to/document-123456-test.html?sequence=1
     result.rtype    = 'TOC';
     result.mime     = 'HTML';
     result.title_id = match[2];
     result.unitid   = match[1];
+  } else if ((match = /^\/videos\/([a-z-]+)$/i.exec(path)) !== null) {
+    // https://www.project-syndicate.org/videos/ps-events-building-the-green-consensus
+    result.rtype    = 'VIDEO';
+    result.mime     = 'HTML';
+    result.unitid   = match[1];
+  } else if ((match = /^\/podcasts\/([a-z0-9-]+)$/i.exec(path)) !== null) {
+    // https://www.project-syndicate.org/podcasts/the-gig-economy-2-0
+    result.rtype    = 'AUDIO';
+    result.mime     = 'HTML';
+    result.unitid   = match[1];
+  } else if ((match = /^\/[a-z-]+\/([\w\-\w]+)-[0-9]{4}-[0-9]{2}$/i.exec(path)) !== null) {
+    // https://www.project-syndicate.org/say-more/an-interview-with-jan-werner-mueller-2021-10?a_la=english&a_d=616d8815c907f06ac9e71b50&a_m=&a_a=click&a_s=&a_p=homepage&a_li=an-interview-with-jan-werner-mueller-2021-10&a_pa=saymore&a_ps=&a_ms=&a_r=
+    result.rtype    = 'ARTICLE';
+    result.mime     = 'HTML';
+    result.unitid   = match[1];    
+  } else if ((match = /^\/[a-z-]+\/([\w\-\w]+)$/i.exec(path)) !== null) {
+    // https://www.project-syndicate.org/bigpicture/the-great-cop-out?a_la=english&a_d=6183ab4d4639210165c00e7c&a_m=&a_a=click&a_s=&a_p=homepage&a_li=the-great-cop-out&a_pa=curated&a_ps=a2-bigpicture&a_ms=&a_r=    result.rtype    = 'ARTICLE';
+    result.rtype    = 'ARTICLE';
+    result.mime     = 'HTML';
+    result.unitid   = match[1];    
   }
 
   return result;
