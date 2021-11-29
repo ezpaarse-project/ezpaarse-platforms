@@ -3,10 +3,6 @@
 'use strict';
 const Parser = require('../.lib/parser.js');
 
-function getMetadata(param, parsedUrl, result){
-    result.title_id = parsedUrl.host; 
-    result.db_id = param.prodId;
-}
 /**
  * Recognizes the accesses to the platform Gale Cengage
  * @param  {Object} parsedUrl an object representing the URL to analyze
@@ -31,11 +27,11 @@ module.exports = new Parser(function analyseEC(parsedUrl, ec) {
     if (/[\w]Toc/.test(match[1])) {
       result.rtype = 'TOC';
     }
-    
+
     if (param.docType == 'Article') {
-      result.rtype = 'ARTICLE';  
+      result.rtype = 'ARTICLE';
     }
-    
+
     if (param.docId) {
       result.title_id = param.docId;
       result.unitid   = param.docId + '_' + param.contentSegment;
@@ -91,13 +87,11 @@ module.exports = new Parser(function analyseEC(parsedUrl, ec) {
     // http://callisto.ggsrv.com/imgsrv/FastPDF/UBER1/RangeFetch=contentSet=UBER1=prefix=ejud_0002_0018_0_=startPage=13718=suffix=-p=npages=1=dl=Scheinert_David=PDF.pdf?dl=Scheinert_David.PDF
     result.rtype  = 'ENCYCLOPAEDIA_ENTRY';
     result.mime   = 'PDF';
-    
-    console.log(match[1]);
   } else if (/^\/ps\/downloadDocument\.do$/i.test(path)) {
     // http://go.galegroup.com/ps/downloadDocument.do?actionCmd=DO_DOWNLOAD_DOCUMENT&bucketId=&inPS=true&prodId=GVRL&userGroupName=unipari&tabID=&documentTitle=Le%2BDiable%2Bau%2BCorps&docId=GALE%7CCX3406800253&currentPosition=&tagId=&dynamicEtocAvail=&pubDate=&workId=sjff_01_00332-p.pdf|sjff_01_00333-p.pdf&callistoContentSet=SJP
     result.rtype  = 'ENCYCLOPAEDIA_ENTRY';
     result.mime   = 'PDF';
-    result.unitid = param.documentId;        
+    result.unitid = param.documentId;
   } else if (/^\/([a-z]+)\/eToc\.do$/i.test(path)) {
     // https://go.gale.com/ps/eToc.do?searchType=BasicSearchForm&docId=GALE%7C5GVQ&userGroupName=unipari&inPS=true&action=DO_BROWSE_ETOC&contentSegment=9780028660974&prodId=GVRL
     // http://go.galegroup.com/ps/eToc.do?userGroupName=franche&prodId=GVRL&inPS=true&action=DO_BROWSE_ETOC&searchType=BasicSearchForm&docId=GALE|CX2830800013&contentSegment=9781414418889
@@ -134,8 +128,8 @@ module.exports = new Parser(function analyseEC(parsedUrl, ec) {
     // http://gdc.galegroup.com/gdc/artemis/MonographsDetailsPage/MonographsDetailsWindow?disableHighlighting=false&displayGroupName=DVI-Monographs&result_type=DVI-Monographs&javax.portlet.action=detailsViewWithNavigation&currPage=1&scanId=&query=OQE+arabic&prodId=EAPB&source=fullList&search_within_results=&p=EAPB&catId=&u=spcesr&limiter=&totalSearchResultCount=&display-query=OQE+arabic&contentModules=&displayGroups=&action=1&sortBy=&activityType=BasicSearch&failOverType=&commentary=&documentId=GALE|ZVZZDR996049640&dviSelectedPage=&catId=
     result.rtype  = 'BOOK';
     result.mime   = 'HTML';
-    result.title_id = match[1];    
-    result.unitid = param.documentId;      
+    result.title_id = match[1];
+    result.unitid = param.documentId;
   } else if ((match =/^\/([a-z]+)\/archive\/searchResults\/actionWin$/i.exec(path)) !== null) {
     // https://natgeo.gale.com/natgeo/archive/searchResults/actionWin?scanId=CSH&query=OQE+rocks&prodId=NGMK&p=NGMK&mode=view&catId=&u=bcdc&totalSearchResultCount=1016&limiter=&contentModules=&displayGroups=&display-query=OQE+rocks&action=e&sortBy=&windowstate=normal&activityType=BasicSearch&resetBreadCrumb=true&failOverType=&commentary=
     result.rtype  = 'SEARCH';
@@ -153,8 +147,8 @@ module.exports = new Parser(function analyseEC(parsedUrl, ec) {
     result.print_identifier = metadataInfo.get('SN');
     result.first_page = metadataInfo.get('SP');
   }
-  
-  
+
+
 
   return result;
 });
