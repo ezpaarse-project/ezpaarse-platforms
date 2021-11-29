@@ -3,6 +3,10 @@
 'use strict';
 const Parser = require('../.lib/parser.js');
 
+function getMetadata(param, parsedUrl, result){
+    result.title_id = parsedUrl.host; 
+    result.db_id = param.prodId;
+}
 /**
  * Recognizes the accesses to the platform Gale Cengage
  * @param  {Object} parsedUrl an object representing the URL to analyze
@@ -14,9 +18,10 @@ module.exports = new Parser(function analyseEC(parsedUrl, ec) {
   let result = {};
   let path   = parsedUrl.pathname;
   let param  = parsedUrl.query || {};
+  let hash = new Map((parsedUrl.hash || '').replace('#', '').split('&').map(s => s.split('=')));
   let match;
 
-  if ((match = /^\/ps\/([a-zA-z]+).do$/i.exec(path)) !== null) {
+  if ((match = /^\/ps\/([a-zA-z]+).do$/i.exec(path)) !== null && param.qt == null) {
     // /ps/eToc.do
     //?userGroupName=franche&prodId=GVRL&inPS=true&action=DO_BROWSE_ETO
     //isETOC=true&inPS=true&prodId=GVRL&userGroupName=unipari&resultListType=RELATED_DOCUMENT
@@ -26,6 +31,11 @@ module.exports = new Parser(function analyseEC(parsedUrl, ec) {
     if (/[\w]Toc/.test(match[1])) {
       result.rtype = 'TOC';
     }
+    
+    if (param.docType == 'Article') {
+      result.rtype = 'ARTICLE';  
+    }
+    
     if (param.docId) {
       result.title_id = param.docId;
       result.unitid   = param.docId + '_' + param.contentSegment;
@@ -34,7 +44,12 @@ module.exports = new Parser(function analyseEC(parsedUrl, ec) {
       result.mime   = 'PDF';
       result.unitid = param.docId + '_' + param.workId.split('|')[0];
     }
-
+  } else if ((match =/^\/([a-z]+)\/archive\/FeatureArticlesDetailsPage\/FeatureArticlesDetailsWindow$/i.exec(path)) !== null) {
+    // http://natgeo.galegroup.com/natgeo/archive/FeatureArticlesDetailsPage/FeatureArticlesDetailsWindow?disableHighlighting=&displayGroupName=NatGeo-Features&currPage=&dviSelectedPage=&scanId=&query=&source=&prodId=NGMA&search_within_results=&p=NGMA&mode=view&catId=&u=spcesr&limiter=&display-query=&displayGroups=&contentModules=&action=e&sortBy=&documentId=GALE%7CLCXYNN294769130&windowstate=normal&activityType=&failOverType=&commentary=
+    result.rtype  = 'ENCYCLOPAEDIA_ENTRY';
+    result.mime   = 'HTML';
+    result.unitid = param.documentId;
+    result.title_id = match[1];
   } else if (/^\/cgi-bin\/([a-z]+)$/i.test(path)) {
     //http://rs.go.galegroup.com/cgi-bin/rsent
     result.rtype    = 'ENCYCLOPAEDIA_ENTRY';
@@ -72,19 +87,74 @@ module.exports = new Parser(function analyseEC(parsedUrl, ec) {
     result.rtype  = 'ARTICLE';
     result.mime   = 'PDF';
     result.unitid = param.docId;
-
-  } else if (/^\/([a-z]+)\/([a-z]+)\/MonographsDetailsPage\/MonographsDetailsWindow$/i.test(path)) {
+  } else if ((match = /^\/imgsrv\/FastPDF\/UBER1\/(.*)$/i.exec(path)) !== null) {
+    // http://callisto.ggsrv.com/imgsrv/FastPDF/UBER1/RangeFetch=contentSet=UBER1=prefix=ejud_0002_0018_0_=startPage=13718=suffix=-p=npages=1=dl=Scheinert_David=PDF.pdf?dl=Scheinert_David.PDF
+    result.rtype  = 'ENCYCLOPAEDIA_ENTRY';
+    result.mime   = 'PDF';
+    
+    console.log(match[1]);
+  } else if (/^\/ps\/downloadDocument\.do$/i.test(path)) {
+    // http://go.galegroup.com/ps/downloadDocument.do?actionCmd=DO_DOWNLOAD_DOCUMENT&bucketId=&inPS=true&prodId=GVRL&userGroupName=unipari&tabID=&documentTitle=Le%2BDiable%2Bau%2BCorps&docId=GALE%7CCX3406800253&currentPosition=&tagId=&dynamicEtocAvail=&pubDate=&workId=sjff_01_00332-p.pdf|sjff_01_00333-p.pdf&callistoContentSet=SJP
+    result.rtype  = 'ENCYCLOPAEDIA_ENTRY';
+    result.mime   = 'PDF';
+    result.unitid = param.documentId;        
+  } else if (/^\/([a-z]+)\/eToc\.do$/i.test(path)) {
+    // https://go.gale.com/ps/eToc.do?searchType=BasicSearchForm&docId=GALE%7C5GVQ&userGroupName=unipari&inPS=true&action=DO_BROWSE_ETOC&contentSegment=9780028660974&prodId=GVRL
+    // http://go.galegroup.com/ps/eToc.do?userGroupName=franche&prodId=GVRL&inPS=true&action=DO_BROWSE_ETOC&searchType=BasicSearchForm&docId=GALE|CX2830800013&contentSegment=9781414418889
+    result.rtype  = 'TOC';
+    result.mime   = 'HTML';
+    result.unitid = param.documentId;
+  } else if (/^\/([a-z]+)\/([a-z-]+)\/AcademicJournalsDetailsPage\/AcademicJournalsDetailsWindow$/i.test(path)) {
+    // https://go.gale.com:443/ps/retrieve.do?tabID=T001&resultListType=RESULT_LIST&searchResultsType=SingleTab&hitCount=1&searchType=AdvancedSearchForm&currentPosition=1&docId=GALE%7CA606942084&docType=Article&sort=RELEVANCE&contentSegment=ZLRC-MOD1&prodId=LitRC&pageNum=1&contentSet=GALE%7CA606942084&searchId=R1&userGroupName=upitt_main&inPS=true
+    // https://worldscholar.gale.com:443/region/latin-america/AcademicJournalsDetailsPage/AcademicJournalsDetailsWindow?disableHighlighting=false&displayGroupName=Journals&currPage=&scanId=&query=&docIndex=&source=&prodId=LAC&search_within_results=&p=LACD%3ALACP&mode=view&catId=&u=upitt_main&limiter=&display-query=&displayGroups=&contentModules=&action=e&sortBy=&documentId=GALE%7CA596402689&windowstate=normal&activityType=&failOverType=&commentary=
+    result.rtype  = 'ARTICLE';
+    result.mime   = 'HTML';
+    result.unitid = param.documentId;
+  } else if ((match = /^\/([a-z]+)\/archive\/ImagesDetailsPage\/ImagesDetailsWindow$/i.exec(path)) !== null) {
+    // https://natgeo.gale.com/natgeo/archive/ImagesDetailsPage/ImagesDetailsWindow?displayGroupName=Images&currPage=1&query=&prodId=&source=HomePage&p=NGMK&mode=view&catId=MVELUV620804877&view=docDisplay&total=984&u=bcdc&limiter=&contentModules=&displayGroups=&action=e&documentId=GALE%7CKCOUJM268196061&windowstate=normal
+    result.rtype  = 'IMAGE';
+    result.mime   = 'HTML';
+    result.unitid = param.documentId;
+    result.title_id = match[1];
+  } else if ((match = /^\/([a-z]+)\/archive\/VideosDetailsPage\/VideosDetailsWindow$/i.exec(path)) !== null) {
+    // https://natgeo.gale.com/natgeo/archive/VideosDetailsPage/VideosDetailsWindow?displayGroupName=Videos&currPage=1&query=&prodId=&source=HomePage&p=NGMK&mode=view&catId=MVELUV620804877&view=docDisplay&total=218&u=bcdc&limiter=&contentModules=&displayGroups=&action=e&documentId=GALE%7CDTQEEB084044288&windowstate=normal
+    result.rtype  = 'VIDEO';
+    result.mime   = 'HTML';
+    result.unitid = param.documentId;
+    result.title_id = match[1];
+  } else if ((match = /^\/([a-z]+)\/archive\/(MonographsDetailsPage|CoversDetailsPage)\/(MonographsDetailsWindow|CoversDetailsWindow)$/i.exec(path)) !== null && (hash.get('pageNo') !== null)) {
+    // https://natgeo.gale.com/natgeo/archive/MonographsDetailsPage/MonographsDetailsWindow?disableHighlighting=true&displayGroupName=DVI-Monographs&currPage=1&scanId=&query=&docIndex=&source=HomePage&prodId=&search_within_results=&p=NGMK&mode=view&catId=MVELUV620804877&u=bcdc&limiter=&display-query=&displayGroups=&contentModules=&action=e&sortBy=&documentId=GALE%7CMTHOKO428853439&windowstate=normal&activityType=SelectedSearch&failOverType=&commentary=#pageNo=8
+    // https://natgeo.gale.com/natgeo/archive/CoversDetailsPage/CoversDetailsWindow?disableHighlighting=false&displayGroupName=NatGeo-Covers&currPage=&scanId=&query=&docIndex=&source=&prodId=NGMK&search_within_results=&p=NGMK&mode=view&catId=&u=bcdc&limiter=&display-query=&displayGroups=&contentModules=&action=e&sortBy=&documentId=GALE%7CMWZQCM916007738&windowstate=normal&activityType=&failOverType=&commentary=#pageNo=2
+    result.rtype  = 'BOOK_PAGE';
+    result.mime   = 'HTML';
+    result.unitid = param.documentId;
+    result.title_id = match[1];
+  } else if ((match = /^\/([a-z]+)\/artemis\/MonographsDetailsPage\/MonographsDetailsWindow$/i.exec(path)) !== null) {
+    // http://gdc.galegroup.com/gdc/artemis/MonographsDetailsPage/MonographsDetailsWindow?disableHighlighting=false&displayGroupName=DVI-Monographs&docIndex=1&source=&prodId=ECCO&mode=view&limiter=&display-query=OQE+%22day%22&contentModules=&action=e&sortBy=&windowstate=normal&currPage=1&dviSelectedPage=&scanId=&query=OQE+%22day%22&search_within_results=&p=GDCS&catId=&u=inisthom&displayGroups=&documentId=GALE%7CCB0132160943&activityType=BasicSearch&failOverType=&commentary=
     // http://gdc.galegroup.com/gdc/artemis/MonographsDetailsPage/MonographsDetailsWindow?disableHighlighting=false&displayGroupName=DVI-Monographs&result_type=DVI-Monographs&javax.portlet.action=detailsViewWithNavigation&currPage=1&scanId=&query=OQE+arabic&prodId=EAPB&source=fullList&search_within_results=&p=EAPB&catId=&u=spcesr&limiter=&totalSearchResultCount=&display-query=OQE+arabic&contentModules=&displayGroups=&action=1&sortBy=&activityType=BasicSearch&failOverType=&commentary=&documentId=GALE|ZVZZDR996049640&dviSelectedPage=&catId=
     result.rtype  = 'BOOK';
     result.mime   = 'HTML';
-    result.unitid = param.documentId;
-
-  }  else if (/^\/([a-z]+)\/archive\/FeatureArticlesDetailsPage\/FeatureArticlesDetailsWindow$/i.test(path)) {
-    // http://natgeo.galegroup.com/natgeo/archive/FeatureArticlesDetailsPage/FeatureArticlesDetailsWindow?disableHighlighting=&displayGroupName=NatGeo-Features&currPage=&dviSelectedPage=&scanId=&query=&source=&prodId=NGMA&search_within_results=&p=NGMA&mode=view&catId=&u=spcesr&limiter=&display-query=&displayGroups=&contentModules=&action=e&sortBy=&documentId=GALE%7CLCXYNN294769130&windowstate=normal&activityType=&failOverType=&commentary=
-    result.rtype  = 'ENCYCLOPAEDIA_ENTRY';
+    result.title_id = match[1];    
+    result.unitid = param.documentId;      
+  } else if ((match =/^\/([a-z]+)\/archive\/searchResults\/actionWin$/i.exec(path)) !== null) {
+    // https://natgeo.gale.com/natgeo/archive/searchResults/actionWin?scanId=CSH&query=OQE+rocks&prodId=NGMK&p=NGMK&mode=view&catId=&u=bcdc&totalSearchResultCount=1016&limiter=&contentModules=&displayGroups=&display-query=OQE+rocks&action=e&sortBy=&windowstate=normal&activityType=BasicSearch&resetBreadCrumb=true&failOverType=&commentary=
+    result.rtype  = 'SEARCH';
     result.mime   = 'HTML';
-    result.unitid = param.documentId;
+    result.title_id = match[1];
+  } else if ((match = /^\/ps\/i\.do$/i.exec(path)) !== null && param.qt !== null) {
+    // https://go.gale.com:443/ps/i.do?ty=as&v=2.1&u=upitt_main&it=DIourl&s=RELEVANCE&p=LitRC&qt=TI%7E%22MYTHOLOGY+IN+CHILDREN%27S+ANIMATION%22%7E%7ESP%7E261%7E%7EIU%7E135%7E%7ESN%7E0146-9339%7E%7EVO%7E38&lm=DA%7E120180000&sw=w
+    result.rtype  = 'SEARCH';
+    result.mime   = 'HTML';
+    result.title_id = match[1];
+    let metadataInfo = param.qt.split('~~').map(s => s.split('~'));
+    metadataInfo = new Map(metadataInfo);
+    result.vol = metadataInfo.get('VO');
+    result.issue = metadataInfo.get('IU');
+    result.print_identifier = metadataInfo.get('SN');
+    result.first_page = metadataInfo.get('SP');
   }
+  
+  
 
   return result;
 });
