@@ -1,0 +1,63 @@
+name: Run linter on pull request
+on:
+  pull_request:
+    branches:
+      - '*'
+    paths-ignore:
+      - '.lib'
+      - '.husky'
+      - '.eslintrc'
+      - '.gitignore'
+      - '.travis.yml'
+      - 'Makefile'
+      - 'README.md'
+      - 'fields.json'
+      - 'mime.json'
+      - 'rid.json'
+      - 'rtype.json'
+
+env:
+  NODE_VERSION: '14'
+
+jobs:
+  run-linter:
+    runs-on: ubuntu-latest
+
+    environment: development
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v2
+        with:
+          fetch-depth: 0
+
+      - name: Use Node.js ${{ env.NODE_VERSION }}
+        uses: actions/setup-node@v2
+        with:
+          node-version: ${{ env.NODE_VERSION }}
+          cache: 'npm'
+          cache-dependency-path: .lib/package-lock.json
+  
+      - name: Make install
+        run: make install
+
+      - name: Get changed files
+        id: changed-parser
+        uses: tj-actions/changed-files@v11.7
+        with:
+          files: |
+            \.js$
+
+      - name: Run lint test
+        shell: bash
+        run: |
+          ROOT_DIR=$(git rev-parse --show-toplevel)
+          ESLINT="${ROOT_DIR}/.lib/node_modules/eslint/bin/eslint.js --ext .js --no-ignore"
+          JSFILES=""
+          for file in ${{ steps.changed-parser.outputs.all_modified_files }}; do
+            JSFILES="$JSFILES $file"
+          done
+          if [ -n "$JSFILES" ]; then
+            echo "$JSFILES" | xargs node $ESLINT
+            if [ $? -ne 0 ]; then exit 1; fi
+          fi
