@@ -3,18 +3,9 @@ on:
   pull_request:
     branches:
       - '*'
-    paths-ignore:
-      - '.lib'
-      - '.husky'
-      - '.eslintrc'
-      - '.gitignore'
-      - '.travis.yml'
-      - 'Makefile'
-      - 'README.md'
-      - 'fields.json'
-      - 'mime.json'
-      - 'rid.json'
-      - 'rtype.json'
+    paths:
+      - '**.js'
+      - '!.lib/**'
 
 env:
   NODE_VERSION: '14'
