@@ -1,0 +1,29 @@
+{
+  "longname": "HyRead Journal",
+  "name": "hrj",
+  "describe": "HyRead期刊",
+  "contact": "robert@hyweb.com.tw",
+  "pkb": true,
+  "docurl": "http://analyses.ezpaarse.org/platforms/61694fbeab382929edce0902",
+  "domains": [
+    "www.hyread.com.tw"
+  ],
+  "recognize": {
+    "rid": [
+      "title_id",
+      "pii"
+    ],
+    "rtype": [
+      "SEARCH",
+      "TOC",
+      "ARTICLE",
+      "ABS"
+    ],
+    "mime": [
+      "HTML",
+      "PDF"
+    ]
+  },
+  "status": "beta",
+  "version": "2021-12-02"
+}

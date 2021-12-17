@@ -1,0 +1,1343 @@
+publication_title	print_identifier	publisher_name	date_first_issue_online	num_first_vol_online	date_last_issue_online	num_last_vol_online	title_url	title_id
+藥物食品分析	1021-9498	衛生福利部食品藥物管理署	199306	1:2	201212	20:4	http://www.hyread.com.tw/hyreadnew/search_detail_journal.jsp?dtd_id=1&sysid=00000003	3
+放射治療與腫瘤學	1023-988X	臺灣放射腫瘤學會	199403	1:1	201806	25:2	http://www.hyread.com.tw/hyreadnew/search_detail_journal.jsp?dtd_id=1&sysid=00000004	4
+勞工安全衛生研究季刊	1024-9877	勞動部勞動及職業安全衛生研究所	200603	14:1	201412	22:4	http://www.hyread.com.tw/hyreadnew/search_detail_journal.jsp?dtd_id=1&sysid=00000005	5
+興大中文學報	1991-4822	國立中興大學中國文學系	200601	18	202006	47	http://www.hyread.com.tw/hyreadnew/search_detail_journal.jsp?dtd_id=1&sysid=00000006	6
+洄瀾春秋	1812-6502	國立東華大學中國語文學系	200407	1	202102	15	http://www.hyread.com.tw/hyreadnew/search_detail_journal.jsp?dtd_id=1&sysid=00000007	7
+貨幣觀測與信用評等	2518-0517	台灣經濟新報社	199609	1	202111	152	http://www.hyread.com.tw/hyreadnew/search_detail_journal.jsp?dtd_id=1&sysid=00000008	8
+醒吾學報	1727-866X	醒吾科技大學	200506	29	202007	62	http://www.hyread.com.tw/hyreadnew/search_detail_journal.jsp?dtd_id=1&sysid=00000009	9
+護理雜誌	0047-262x	社團法人臺灣護理學會	197001	17:1	202112	68:6	http://www.hyread.com.tw/hyreadnew/search_detail_journal.jsp?dtd_id=1&sysid=00000010	10
+護理研究	1022-6265	社團法人臺灣護理學會	199403	2:1	200106	9:3	http://www.hyread.com.tw/hyreadnew/search_detail_journal.jsp?dtd_id=1&sysid=00000011	11
+The Journal of Nursing Research	1682-3141	臺灣護理學會	200106	9:3	202112	29:6	http://www.hyread.com.tw/hyreadnew/search_detail_journal.jsp?dtd_id=1&sysid=00000012	12
+實證護理	1814-2869	社團法人臺灣護理學會	200503	1:1	200812	4:4	http://www.hyread.com.tw/hyreadnew/search_detail_journal.jsp?dtd_id=1&sysid=00000013	13
+藥物食品檢驗局調查研究年報	0255-5891	衛生福利部食品藥物管理署	198809	6	200910	27	http://www.hyread.com.tw/hyreadnew/search_detail_journal.jsp?dtd_id=1&sysid=00000014	14
+中華公共衛生雜誌	1023-2141	中華民國公共衛生學會	199402	13:1	200012	19:6	http://www.hyread.com.tw/hyreadnew/search_detail_journal.jsp?dtd_id=1&sysid=00000015	15
+美容科技學刊	1727-6799	中華民國美容經營管理學會	200709	4:2	201806	15:1	http://www.hyread.com.tw/hyreadnew/search_detail_journal.jsp?dtd_id=1&sysid=00000021	21
+學校行政	1606-8300	社團法人中華民國學校行政研究學會	199905	1	202111	136	http://www.hyread.com.tw/hyreadnew/search_detail_journal.jsp?dtd_id=1&sysid=00000022	22
+臺北大學中文學報	1993-1638	國立臺北大學中國語文學系	200607	1	202103	29	http://www.hyread.com.tw/hyreadnew/search_detail_journal.jsp?dtd_id=1&sysid=00000023	23
+自然保育季刊	1607-2901	行政院農業委員會特有生物研究保育中心	200509	51	202109	115	http://www.hyread.com.tw/hyreadnew/search_detail_journal.jsp?dtd_id=1&sysid=00000025	25
+特有生物研究	1561-3771	行政院農業委員會特有生物研究保育中心	200701	9:1	200907	11:2	http://www.hyread.com.tw/hyreadnew/search_detail_journal.jsp?dtd_id=1&sysid=00000026	26
+國立臺北護理學院護理(學)系學刊	1563-3454	國立臺北護理健康大學	200405	16	200601	2:1	http://www.hyread.com.tw/hyreadnew/search_detail_journal.jsp?dtd_id=1&sysid=00000028	28
+民俗曲藝	1025-1383	財團法人施合鄭民俗文化基金會	200603	151	202109	213	http://www.hyread.com.tw/hyreadnew/search_detail_journal.jsp?dtd_id=1&sysid=00000029	29
+藝術欣賞	1814-3113	國立臺灣藝術大學	200804	4:2	201612	12:3	http://www.hyread.com.tw/hyreadnew/search_detail_journal.jsp?dtd_id=1&sysid=00000035	35
+藝術學報：表演類（革新版）	1021-3686	國立臺灣藝術大學	200704	80(綜合類)	202106	108=17:1	http://www.hyread.com.tw/hyreadnew/search_detail_journal.jsp?dtd_id=1&sysid=00000036	36
+藝術論文集刊	1811-8534	國立臺灣藝術大學	200704	8	201704	28	http://www.hyread.com.tw/hyreadnew/search_detail_journal.jsp?dtd_id=1&sysid=00000037	37
+科學教育	1021-3708	國立臺灣師範大學科學教育中心	200005	230	202107	440	http://www.hyread.com.tw/hyreadnew/search_detail_journal.jsp?dtd_id=1&sysid=00000038	38
+醫護教育學刊	1812-7290	國立臺北護理健康大學	200306	1	200412	3	http://www.hyread.com.tw/hyreadnew/search_detail_journal.jsp?dtd_id=1&sysid=00000039	39
+界面科學會誌		中華民國界面科學學會	200302	25:1-4	201007	32:1-4	http://www.hyread.com.tw/hyreadnew/search_detail_journal.jsp?dtd_id=1&sysid=00000040	40
+諮商與輔導	1684-6478	天馬文化事業有限公司	200701	253	202111	431	http://www.hyread.com.tw/hyreadnew/search_detail_journal.jsp?dtd_id=1&sysid=00000041	41
+東亞論壇	1817-3675	敏實科技大學	200509	449	202109	513	http://www.hyread.com.tw/hyreadnew/search_detail_journal.jsp?dtd_id=1&sysid=00000042	42
+海洋文化學刊	1994-8123	國立臺灣海洋大學	200512	1	202106	30	http://www.hyread.com.tw/hyreadnew/search_detail_journal.jsp?dtd_id=1&sysid=00000043	43
+通俗文學與雅正文學		國立中興大學中國文學系	200102	1	200312	4	http://www.hyread.com.tw/hyreadnew/search_detail_journal.jsp?dtd_id=1&sysid=00000046	46
+本土心理學研究	1029-8282	國立臺灣大學心理學系本土心理學研究室	199306	1	202012	54	http://www.hyread.com.tw/hyreadnew/search_detail_journal.jsp?dtd_id=1&sysid=00000047	47
+品質月刊	1017-3692	中華民國品質學會	200701	43:1	202110	57:10	http://www.hyread.com.tw/hyreadnew/search_detail_journal.jsp?dtd_id=1&sysid=00000048	48
+臺大歷史學報	1012-8514	國立臺灣大學歷史學系	199606	19	202106	67	http://www.hyread.com.tw/hyreadnew/search_detail_journal.jsp?dtd_id=1&sysid=00000049	49
+中山人文社會科學期刊	1025-5249	國立政治大學中山人文社會科學研究所	200406	12:1=26	200712	15:2=33	http://www.hyread.com.tw/hyreadnew/search_detail_journal.jsp?dtd_id=1&sysid=00000051	51
+公共行政學報(政大)	1561-8080	國立政治大學公共行政學系	200412	13	202103	60	http://www.hyread.com.tw/hyreadnew/search_detail_journal.jsp?dtd_id=1&sysid=00000052	52
+政大中文學報	1684-4246	政治大學	200406	1	202106	35	http://www.hyread.com.tw/hyreadnew/search_detail_journal.jsp?dtd_id=1&sysid=00000053	53
+政大勞動學報	1560-6678	政治大學	200407	16	202107	32	http://www.hyread.com.tw/hyreadnew/search_detail_journal.jsp?dtd_id=1&sysid=00000054	54
+Taiwan Journal of Linguistics	1729-4649、1994-2559	政治大學語言所	200306	1:1	202107	19:2	http://www.hyread.com.tw/hyreadnew/search_detail_journal.jsp?dtd_id=1&sysid=00000055	55
+智慧財產評論	1811-8518	政治大學	200504	3:1	201905	15:2	http://www.hyread.com.tw/hyreadnew/search_detail_journal.jsp?dtd_id=1&sysid=00000056	56
+國立政治大學社會學報	1028-8694	政治大學	200412	37	200801	39	http://www.hyread.com.tw/hyreadnew/search_detail_journal.jsp?dtd_id=1&sysid=00000057	57
+台灣土地研究	1606-4682	國立政治大學地政學系	200211	5:1	202105	24:1	http://www.hyread.com.tw/hyreadnew/search_detail_journal.jsp?dtd_id=1&sysid=00000058	58
+外國語文研究	1813-0755	政治大學外國語文學院	200406	1	202106	33	http://www.hyread.com.tw/hyreadnew/search_detail_journal.jsp?dtd_id=1&sysid=00000059	59
+東亞研究	1013-2546	政治大學	200501	36:1	202006	51:1	http://www.hyread.com.tw/hyreadnew/search_detail_journal.jsp?dtd_id=1&sysid=00000060	60
+俄語學報	1029-4996	政治大學	200506	9	202006	30	http://www.hyread.com.tw/hyreadnew/search_detail_journal.jsp?dtd_id=1&sysid=00000061	61
+國立政治大學哲學學報	1027-6076	國立政治大學哲學系	200507	14	202107	46	http://www.hyread.com.tw/hyreadnew/search_detail_journal.jsp?dtd_id=1&sysid=00000064	64
+國際關係學報	1023-8786	政治大學	200601	21	202012	50	http://www.hyread.com.tw/hyreadnew/search_detail_journal.jsp?dtd_id=1&sysid=00000065	65
+新聞學研究	1016-1007	政治大學	196705	1	202110	149	http://www.hyread.com.tw/hyreadnew/search_detail_journal.jsp?dtd_id=1&sysid=00000067	67
+會計評論	1018-1687	政治大學商學院會計系/財團法人李先庚會計文教基金會	200601	42	202107	73	http://www.hyread.com.tw/hyreadnew/search_detail_journal.jsp?dtd_id=1&sysid=00000068	68
+圖書與資訊學刊	1023-2125	國立政治大學	200411	51	201411	85	http://www.hyread.com.tw/hyreadnew/search_detail_journal.jsp?dtd_id=1&sysid=00000069	69
+臺灣文學學報	1608-1692	政治大學	200512	7	202106	38	http://www.hyread.com.tw/hyreadnew/search_detail_journal.jsp?dtd_id=1&sysid=00000070	70
+廣播與電視(政大)	1021-0776	政治大學	200207	19	202106	41	http://www.hyread.com.tw/hyreadnew/search_detail_journal.jsp?dtd_id=1&sysid=00000071	71
+選舉研究	1025-7551	政治大學	200505	12:1	202011	27:2	http://www.hyread.com.tw/hyreadnew/search_detail_journal.jsp?dtd_id=1&sysid=00000072	72
+廣告學研究	1025-5230	政治大學	200507	24	201207	38	http://www.hyread.com.tw/hyreadnew/search_detail_journal.jsp?dtd_id=1&sysid=00000073	73
+韓國語文研究		政治大學	200107	1	200407	2	http://www.hyread.com.tw/hyreadnew/search_detail_journal.jsp?dtd_id=1&sysid=00000074	74
+漢學研究集刊	1819-4427	國立雲林科技大學漢學資料整理研究所	200512	1	202106	32	http://www.hyread.com.tw/hyreadnew/search_detail_journal.jsp?dtd_id=1&sysid=00000075	75
+漢學論壇	1810-1062	國立雲林科技大學漢學資料整理研究所	200206	1	200312	3	http://www.hyread.com.tw/hyreadnew/search_detail_journal.jsp?dtd_id=1&sysid=00000076	76
+高醫通識教育學報	1991-1904	高雄醫學大學通識教育中心	200607	1	202012	15	http://www.hyread.com.tw/hyreadnew/search_detail_journal.jsp?dtd_id=1&sysid=00000083	83
+高醫人		高雄醫學大學	200512	17	202001	62	http://www.hyread.com.tw/hyreadnew/search_detail_journal.jsp?dtd_id=1&sysid=00000084	84
+致遠管理學院學報	1990-2662	致遠管理學院	200608	1	200809	3 管理科學	http://www.hyread.com.tw/hyreadnew/search_detail_journal.jsp?dtd_id=1&sysid=00000086	86
+電腦與通訊	1019-391X	財團法人工業技術研究院 資訊與通訊研究所	200709	121	202109	187	http://www.hyread.com.tw/hyreadnew/search_detail_journal.jsp?dtd_id=1&sysid=00000087	87
+中護學報	無	國立臺中護理專科學校	200208	1	201111	10	http://www.hyread.com.tw/hyreadnew/search_detail_journal.jsp?dtd_id=1&sysid=00000088	88
+台灣鞋訊		財團法人鞋類暨運動休閒科技研發中心	200702	26	202111	203	http://www.hyread.com.tw/hyreadnew/search_detail_journal.jsp?dtd_id=1&sysid=00000089	89
+BestMotion		財團法人鞋類暨運動休閒科技研發中心	200703	2	201411	48	http://www.hyread.com.tw/hyreadnew/search_detail_journal.jsp?dtd_id=1&sysid=00000090	90
+立德學報	1812-7150	立德管理學院	200312	1:1	201012	7:2	http://www.hyread.com.tw/hyreadnew/search_detail_journal.jsp?dtd_id=1&sysid=00000091	91
+亞洲家庭暴力與性侵害期刊	1994-5779	台灣家庭暴力暨性犯罪處遇協會	200512	1:1	201912	15:2	http://www.hyread.com.tw/hyreadnew/search_detail_journal.jsp?dtd_id=1&sysid=00000092	92
+嘉大體育健康休閒	1815-7319	國立嘉義大學體育系	200112	1	201212	11:3	http://www.hyread.com.tw/hyreadnew/search_detail_journal.jsp?dtd_id=1&sysid=00000096	96
+經濟前瞻	1019-0376	中華經濟研究院	198601	1	202111	198	http://www.hyread.com.tw/hyreadnew/search_detail_journal.jsp?dtd_id=1&sysid=00000097	97
+國教之友		國立臺南大學國教之友社,財團法人國立臺南大學校務發展文教基金會	200711	59:1=586	201007	61:1=594、595	http://www.hyread.com.tw/hyreadnew/search_detail_journal.jsp?dtd_id=1&sysid=00000098	98
+哲學與文化	1015-8383	哲學與文化月刊雜誌社	200712	34:12=403	202111	48:11=570	http://www.hyread.com.tw/hyreadnew/search_detail_journal.jsp?dtd_id=1&sysid=00000100	100
+長榮運動休閒學刊	2073-3208	長榮大學運動競技學系	200706	1	202106	15	http://www.hyread.com.tw/hyreadnew/search_detail_journal.jsp?dtd_id=1&sysid=00000102	102
+嘉義大學通識學報		國立嘉義大學通識教育中心	200412	2	201511	12	http://www.hyread.com.tw/hyreadnew/search_detail_journal.jsp?dtd_id=1&sysid=00000104	104
+臺灣社會學刊	1011-2219	台灣社會學會	200206	27	202106	69	http://www.hyread.com.tw/hyreadnew/search_detail_journal.jsp?dtd_id=1&sysid=00000106	106
+臺大管理論叢	1018-1601	國立臺灣大學管理學院	199005	1:1	202112	31:3	http://www.hyread.com.tw/hyreadnew/search_detail_journal.jsp?dtd_id=1&sysid=00000107	107
+大仁學報	1021-3708	大仁科技大學	200803	32	202012	54	http://www.hyread.com.tw/hyreadnew/search_detail_journal.jsp?dtd_id=1&sysid=00000112	112
+語文學報		國立新竹教育大學中國語文學系	200412	11	201112	17	http://www.hyread.com.tw/hyreadnew/search_detail_journal.jsp?dtd_id=1&sysid=00000114	114
+新竹教育大學教育學系碩士班論文集		國立新竹教育大學教育學系	200604	11	200804	13	http://www.hyread.com.tw/hyreadnew/search_detail_journal.jsp?dtd_id=1&sysid=00000116	116
+特教論壇	1994-1935	國立新竹教育大學	200612	1	201612	21	http://www.hyread.com.tw/hyreadnew/search_detail_journal.jsp?dtd_id=1&sysid=00000118	118
+新竹教育大學教育學報	1819-7310	國立新竹教育大學	200706	24:1	201612	33:2	http://www.hyread.com.tw/hyreadnew/search_detail_journal.jsp?dtd_id=1&sysid=00000120	120
+管理與教育研究學報	1815-655X	國立新竹教育大學	200309	1	200706	7	http://www.hyread.com.tw/hyreadnew/search_detail_journal.jsp?dtd_id=1&sysid=00000121	121
+教育研究學報	1990-4428	國立臺南大學	200604	40:1	202104	55:1	http://www.hyread.com.tw/hyreadnew/search_detail_journal.jsp?dtd_id=1&sysid=00000122	122
+人文研究學報	1990-441X	國立臺南大學	200604	40:1	200810	42:2	http://www.hyread.com.tw/hyreadnew/search_detail_journal.jsp?dtd_id=1&sysid=00000123	123
+理工研究學報	1990-4401	國立臺南大學	200604	40:1	201010	44:2	http://www.hyread.com.tw/hyreadnew/search_detail_journal.jsp?dtd_id=1&sysid=00000124	124
+美和技術學院學報		美和科技大學	200609	25:2	201003	29:1	http://www.hyread.com.tw/hyreadnew/search_detail_journal.jsp?dtd_id=1&sysid=00000125	125
+幼兒保育學刊	1728-6492	美和科技大學	200308	1	201508	12	http://www.hyread.com.tw/hyreadnew/search_detail_journal.jsp?dtd_id=1&sysid=00000126	126
+臺灣急診醫學會醫誌	1562-3386	臺灣急診醫學會	200209	4:3	201103	13:1	http://www.hyread.com.tw/hyreadnew/search_detail_journal.jsp?dtd_id=1&sysid=00000127	127
+臺灣語言與語文教育		國立新竹教育大學	200112	3	200512	6	http://www.hyread.com.tw/hyreadnew/search_detail_journal.jsp?dtd_id=1&sysid=00000129	129
+科儀新知	1019-5440	財團法人國家實驗研究院 / 儀器科技研究中心	200502	26:4=144	202109	228	http://www.hyread.com.tw/hyreadnew/search_detail_journal.jsp?dtd_id=1&sysid=00000130	130
+儀科中心簡訊	1029-497x	財團法人國家實驗研究院 / 儀器科技研究中心	200504	68	201810	149	http://www.hyread.com.tw/hyreadnew/search_detail_journal.jsp?dtd_id=1&sysid=00000131	131
+蘭陽學報		蘭陽技術學院	200806	7	201707	16	http://www.hyread.com.tw/hyreadnew/search_detail_journal.jsp?dtd_id=1&sysid=00000132	132
+中華推拿與現代康復科學雜誌	1812-7282	中華推拿科學學會	200410	1:1	201212	9:1	http://www.hyread.com.tw/hyreadnew/search_detail_journal.jsp?dtd_id=1&sysid=00000133	133
+人文社會科學研究	1996-7985	國立屏東科技大學人文暨社會科學院	200706	1:1	201509	9:3	http://www.hyread.com.tw/hyreadnew/search_detail_journal.jsp?dtd_id=1&sysid=00000134	134
+旅遊健康學刊	1726-3123	國立臺北護理健康大學休閒產業與健康促進系	200712	6:1	202012	19:1	http://www.hyread.com.tw/hyreadnew/search_detail_journal.jsp?dtd_id=1&sysid=00000135	135
+圖書資訊學刊	1606-7509	國立臺灣大學圖書資訊學系	200212	17	202112	19:2	http://www.hyread.com.tw/hyreadnew/search_detail_journal.jsp?dtd_id=1&sysid=00000136	136
+志為護理:慈濟護理雜誌	1683-1624	慈濟護理雜誌社	200603	5:1	200712	6:6	http://www.hyread.com.tw/hyreadnew/search_detail_journal.jsp?dtd_id=1&sysid=00000137	137
+Tzu Chi Nursing Journal		慈濟護理雜誌社	200705	1	201505	9	http://www.hyread.com.tw/hyreadnew/search_detail_journal.jsp?dtd_id=1&sysid=00000138	138
+儀科中心年報		財團法人國家實驗研究院 / 儀器科技研究中心	200512	94	202104	109	http://www.hyread.com.tw/hyreadnew/search_detail_journal.jsp?dtd_id=1&sysid=00000139	139
+Issues and Studies	1013-2511	政治大學	200101	37:1	202103	57:1	http://www.hyread.com.tw/hyreadnew/search_detail_journal.jsp?dtd_id=1&sysid=00000140	140
+問題與研究	0591-2539	政治大學	200704	46:2	202109	60:3	http://www.hyread.com.tw/hyreadnew/search_detail_journal.jsp?dtd_id=1&sysid=00000141	141
+中國大陸研究	1013-2716	國立政治大學國際關係研究中心	199801	41:1	202109	64:3	http://www.hyread.com.tw/hyreadnew/search_detail_journal.jsp?dtd_id=1&sysid=00000142	142
+中國行政	1017-575X	國立政治大學公共行政及企業管理教育中心	200706	78	201008	82	http://www.hyread.com.tw/hyreadnew/search_detail_journal.jsp?dtd_id=1&sysid=00000143	143
+社會科學論叢	1995-6584	政治大學	200704	1:1	202106	15:1	http://www.hyread.com.tw/hyreadnew/search_detail_journal.jsp?dtd_id=1&sysid=00000144	144
+國立政治大學民族學報	1024-8250	政治大學	200511	24	200906	28	http://www.hyread.com.tw/hyreadnew/search_detail_journal.jsp?dtd_id=1&sysid=00000145	145
+政大體育研究	1562-9686	政治大學	200309	15	201812	25	http://www.hyread.com.tw/hyreadnew/search_detail_journal.jsp?dtd_id=1&sysid=00000146	146
+國立政治大學歷史學報	0301-9667	政治大學	200405	21	202105	55	http://www.hyread.com.tw/hyreadnew/search_detail_journal.jsp?dtd_id=1&sysid=00000147	147
+傳播研究集刊		政治大學	199712	1	200307	8	http://www.hyread.com.tw/hyreadnew/search_detail_journal.jsp?dtd_id=1&sysid=00000148	148
+資管評論	1018-1393	政治大學	199812	8	200603	14	http://www.hyread.com.tw/hyreadnew/search_detail_journal.jsp?dtd_id=1&sysid=00000149	149
+Taiwan Journal of TESOL	1814-9448	政治大學	200404	1:1	202110	18:2	http://www.hyread.com.tw/hyreadnew/search_detail_journal.jsp?dtd_id=1&sysid=00000151	151
+語文與國際研究	1811-4717	文藻外語大學	200406	1	202106	25	http://www.hyread.com.tw/hyreadnew/search_detail_journal.jsp?dtd_id=1&sysid=00000152	152
+應華學報	1994-1919	文藻外語大學應用華語文系	200612	1	202006	22	http://www.hyread.com.tw/hyreadnew/search_detail_journal.jsp?dtd_id=1&sysid=00000153	153
+運動休閒管理學報	1815-4093	台灣生態休閒產業管理學會	200406	1:1	202106	18:1	http://www.hyread.com.tw/hyreadnew/search_detail_journal.jsp?dtd_id=1&sysid=00000154	154
+華岡英語學報		中國文化大學英國語文學系	200807	14	200906	15	http://www.hyread.com.tw/hyreadnew/search_detail_journal.jsp?dtd_id=1&sysid=00000155	155
+Annals of Nuclear Medicine and Molecular Imaging	1022-923X	中華民國核醫醫學會	199804	11:2	201312	26:4	http://www.hyread.com.tw/hyreadnew/search_detail_journal.jsp?dtd_id=1&sysid=00000156	156
+休閒暨觀光產業研究	1992-5565	國立高雄應用科技大學觀光管理系	200609	1:1	201511	7:2	http://www.hyread.com.tw/hyreadnew/search_detail_journal.jsp?dtd_id=1&sysid=00000157	157
+環球科技人文學刊	1992-2493	環球科技大學	200503	1	202107	28	http://www.hyread.com.tw/hyreadnew/search_detail_journal.jsp?dtd_id=1&sysid=00000159	159
+國立臺灣大學醫學院圖書分館館訊	1021-0768	國立臺灣大學醫學院圖書分館	199111	1	201210	106	http://www.hyread.com.tw/hyreadnew/search_detail_journal.jsp?dtd_id=1&sysid=00000160	160
+健康促進暨衛生教育雜誌	1561-3852	臺灣健康促進暨衛生教育學會	200512	25	202006	44	http://www.hyread.com.tw/hyreadnew/search_detail_journal.jsp?dtd_id=1&sysid=00000161	161
+國立嘉義大學通識教育集刊		國立嘉義大學通識教育中心	200312	1	200312	1	http://www.hyread.com.tw/hyreadnew/search_detail_journal.jsp?dtd_id=1&sysid=00000166	166
+中極學刊		國立暨南國際大學中國語文學系	200212	2	201607	10	http://www.hyread.com.tw/hyreadnew/search_detail_journal.jsp?dtd_id=1&sysid=00000167	167
+中正大學中文學術年刊	1996-269x	國立中正大學中國文學系	200712	10	201112	18	http://www.hyread.com.tw/hyreadnew/search_detail_journal.jsp?dtd_id=1&sysid=00000168	168
+中正大學中國文學研究所研究生論文集刊		國立中正大學中國文學系	200805	10	201406	16	http://www.hyread.com.tw/hyreadnew/search_detail_journal.jsp?dtd_id=1&sysid=00000169	169
+中山管理評論	1023-2842	國立中山大學管理學院	200403	12:1	202109	29:3	http://www.hyread.com.tw/hyreadnew/search_detail_journal.jsp?dtd_id=1&sysid=00000170	170
+議藝份子	1562-3475	國立中央大學藝術學研究所學生會	199810	1	202110	37	http://www.hyread.com.tw/hyreadnew/search_detail_journal.jsp?dtd_id=1&sysid=00000171	171
+哲學論集		輔仁大學哲學系	200807	41	202102	53	http://www.hyread.com.tw/hyreadnew/search_detail_journal.jsp?dtd_id=1&sysid=00000172	172
+國立虎尾科技大學學報	1993-7571	國立虎尾科技大學	200803	27:1	202106	35:4	http://www.hyread.com.tw/hyreadnew/search_detail_journal.jsp?dtd_id=1&sysid=00000173	173
+新竹師院國民教育研究所論文集		國立新竹教育大學	199512	1	200404	9	http://www.hyread.com.tw/hyreadnew/search_detail_journal.jsp?dtd_id=1&sysid=00000174	174
+國立新竹師範學院教育研究所論文集		國立新竹教育大學	200504	10	200504	10	http://www.hyread.com.tw/hyreadnew/search_detail_journal.jsp?dtd_id=1&sysid=00000175	175
+慈濟護理雜誌	1683-1624	慈濟護理雜誌社	200403	3:1	200512	4:4	http://www.hyread.com.tw/hyreadnew/search_detail_journal.jsp?dtd_id=1&sysid=00000178	178
+志為護理:慈濟護理人文與科學	1683-1624	慈濟護理雜誌社	200802	7:1	202110	20:5	http://www.hyread.com.tw/hyreadnew/search_detail_journal.jsp?dtd_id=1&sysid=00000179	179
+電腦與通訊應用	1992-237X	致遠管理學院	200701	1	200701	1	http://www.hyread.com.tw/hyreadnew/search_detail_journal.jsp?dtd_id=1&sysid=00000180	180
+幼教研究彙刊	1992-2396	台灣首府大學幼兒教育學系	200704	1:1	200807	2:1	http://www.hyread.com.tw/hyreadnew/search_detail_journal.jsp?dtd_id=1&sysid=00000181	181
+教育學術彙刊	1992-2418	台灣首府大學教育研究所	200702	1:1	201506	7	http://www.hyread.com.tw/hyreadnew/search_detail_journal.jsp?dtd_id=1&sysid=00000182	182
+致遠外國語文彙刊	1992-8572	致遠管理學院	200804	2:1	200804	2:1	http://www.hyread.com.tw/hyreadnew/search_detail_journal.jsp?dtd_id=1&sysid=00000183	183
+致遠管理論叢	1992-2388	致遠管理學院	200609	1:1	200809	3:1	http://www.hyread.com.tw/hyreadnew/search_detail_journal.jsp?dtd_id=1&sysid=00000184	184
+觀光餐旅評論	1992-5484	致遠管理學院	2007	1:1	2008	2:1	http://www.hyread.com.tw/hyreadnew/search_detail_journal.jsp?dtd_id=1&sysid=00000185	185
+致遠資管學刊	1992-2299	致遠管理學院	200612	1:1	200807	2:1	http://www.hyread.com.tw/hyreadnew/search_detail_journal.jsp?dtd_id=1&sysid=00000186	186
+Concentric:Studies in Linguistics	1810-7478	國立臺灣師範大學英語系	200306	29:2	201811	44:2	http://www.hyread.com.tw/hyreadnew/search_detail_journal.jsp?dtd_id=1&sysid=00000187	187
+Concentric:Literary and Cultural Studies	1729-6897	國立臺灣師範大學英語系	200401	30:1	202109	47:2	http://www.hyread.com.tw/hyreadnew/search_detail_journal.jsp?dtd_id=1&sysid=00000188	188
+英語教學	1023-7267	國立臺灣師範大學英語系	200806	32:2	201010	34:4	http://www.hyread.com.tw/hyreadnew/search_detail_journal.jsp?dtd_id=1&sysid=00000189	189
+水保技術	1998-2275	中華民國水土保持技師公會全國聯合會	200804	3:2	202110	15:3	http://www.hyread.com.tw/hyreadnew/search_detail_journal.jsp?dtd_id=1&sysid=00000190	190
+通識論叢		萬能科技大學	200706	6	202106	24	http://www.hyread.com.tw/hyreadnew/search_detail_journal.jsp?dtd_id=1&sysid=00000193	193
+新竹教育大學人文社會學報	2070-2892	國立新竹教育大學	200803	1.1	201610	9:2	http://www.hyread.com.tw/hyreadnew/search_detail_journal.jsp?dtd_id=1&sysid=00000194	194
+環境與生態學報	2070-3570	國立臺南大學	200804	1.1	201210	5:2	http://www.hyread.com.tw/hyreadnew/search_detail_journal.jsp?dtd_id=1&sysid=00000195	195
+藝術研究學報	2070-3589	國立臺南大學	200804	1:1	202010	13	http://www.hyread.com.tw/hyreadnew/search_detail_journal.jsp?dtd_id=1&sysid=00000196	196
+Taiwan Journal of Oral Medicine Sciences	2072-2486	高雄醫學大學口腔醫學院	200604	22:1	201510	30:2	http://www.hyread.com.tw/hyreadnew/search_detail_journal.jsp?dtd_id=1&sysid=00000200	200
+環球技術學院科技人文學刊		環球科技大學	200503	1	200505	2	http://www.hyread.com.tw/hyreadnew/search_detail_journal.jsp?dtd_id=1&sysid=00000201	201
+中原企管評論	1729-8822	中原大學企管系	200806	6:1	202110	19:2	http://www.hyread.com.tw/hyreadnew/search_detail_journal.jsp?dtd_id=1&sysid=00000202	202
+臺灣口腔醫學衛生科學雜誌	1560-1587	高雄醫學大學口腔衛生科學研究所	200210	18:1	200510	21:2	http://www.hyread.com.tw/hyreadnew/search_detail_journal.jsp?dtd_id=1&sysid=00000203	203
+嘉大農林學報	1029-0206	國立嘉義大學農學院	200802	5:1	202102	18:1	http://www.hyread.com.tw/hyreadnew/search_detail_journal.jsp?dtd_id=1&sysid=00000204	204
+東方人文學誌	1682-3044	文津出版社有限公司	200712	6:4	201012	9:4	http://www.hyread.com.tw/hyreadnew/search_detail_journal.jsp?dtd_id=1&sysid=00000205	205
+人本教育札記	1024-8285	人本教育基金會出版部	200803	225	202112	390	http://www.hyread.com.tw/hyreadnew/search_detail_journal.jsp?dtd_id=1&sysid=00000206	206
+福爾摩沙體育學刊		國立虎尾科技大學體育室	200612	1	200910	3	http://www.hyread.com.tw/hyreadnew/search_detail_journal.jsp?dtd_id=1&sysid=00000207	207
+輔仁大學體育學刊	1684-1018	輔仁大學體育學系	200209	1	202007	19	http://www.hyread.com.tw/hyreadnew/search_detail_journal.jsp?dtd_id=1&sysid=00000208	208
+住宅學報	1666-0040	中華民國住宅學會	199201	1	202106	30:1	http://www.hyread.com.tw/hyreadnew/search_detail_journal.jsp?dtd_id=1&sysid=00000209	209
+藥業市場雜誌		臺灣美迪達卡股份有限公司	200801	150	201005	178	http://www.hyread.com.tw/hyreadnew/search_detail_journal.jsp?dtd_id=1&sysid=00000210	210
+教育科學期刊	1680-8444	國立中興大學師資培育中心教師專業發展研究所	200106	1:1	202012	19:2	http://www.hyread.com.tw/hyreadnew/search_detail_journal.jsp?dtd_id=1&sysid=00000211	211
+臺灣管理學刊	1680-8479	國立中興大學企業管理系與財金系	200108	1:1	201002	10:1	http://www.hyread.com.tw/hyreadnew/search_detail_journal.jsp?dtd_id=1&sysid=00000212	212
+東華人文學報	1608-8344	國立東華大學人文社會科學學院	200901	14	201307	23	http://www.hyread.com.tw/hyreadnew/search_detail_journal.jsp?dtd_id=1&sysid=00000213	213
+北商學報	1991-2587	國立臺北商業大學	200901	15	202107	38	http://www.hyread.com.tw/hyreadnew/search_detail_journal.jsp?dtd_id=1&sysid=00000214	214
+教師之友	1816-076X	國立嘉義大學/教師之友雜誌社	200806	49:3	201012	51:3	http://www.hyread.com.tw/hyreadnew/search_detail_journal.jsp?dtd_id=1&sysid=00000215	215
+特殊教育與復健學報	1563-3586	國立臺南大學特殊教育學系	2003	11	201812	35	http://www.hyread.com.tw/hyreadnew/search_detail_journal.jsp?dtd_id=1&sysid=00000216	216
+林業研究季刊	1606-8351	國立中興大學農業暨自然資源學院實驗林管理處	199903	21:1	202109	43:3	http://www.hyread.com.tw/hyreadnew/search_detail_journal.jsp?dtd_id=1&sysid=00000217	217
+先進工程學刊	1991-797X	中原大學工學院	200607	1:1	202107	16:2	http://www.hyread.com.tw/hyreadnew/search_detail_journal.jsp?dtd_id=1&sysid=00000218	218
+設計學研究	1562-9708	中原大學設計學院	200607	9:1	202107	24:1	http://www.hyread.com.tw/hyreadnew/search_detail_journal.jsp?dtd_id=1&sysid=00000219	219
+農業經濟半年刊	0546-9600	國立中興大學農學院農業經濟學系	200006	67	200806	83	http://www.hyread.com.tw/hyreadnew/search_detail_journal.jsp?dtd_id=1&sysid=00000220	220
+全球政治評論	1726-3786	國立中興大學國際政治研究所	200401	5	202110	76	http://www.hyread.com.tw/hyreadnew/search_detail_journal.jsp?dtd_id=1&sysid=00000221	221
+高雄少年		臺灣高雄少年法院	200706	10	201112	19	http://www.hyread.com.tw/hyreadnew/search_detail_journal.jsp?dtd_id=1&sysid=00000222	222
+台灣神學論刊	2308-2321	台灣神學院	200812	30	201812	45	http://www.hyread.com.tw/hyreadnew/search_detail_journal.jsp?dtd_id=1&sysid=00000223	223
+教育研究月刊	1680-6360	高等教育文化事業有限公司	198806	1	202110	330	http://www.hyread.com.tw/hyreadnew/search_detail_journal.jsp?dtd_id=1&sysid=00000226	226
+教育研究集刊	1028-8708	國立臺灣師範大學教育學系	198006	22	202106	67:2	http://www.hyread.com.tw/hyreadnew/search_detail_journal.jsp?dtd_id=1&sysid=00000227	227
+教育與心理研究	1024-9885	國立政治大學教育學院	197705	1	202106	44:2	http://www.hyread.com.tw/hyreadnew/search_detail_journal.jsp?dtd_id=1&sysid=00000228	228
+臺灣教育社會學研究	1680-2004	臺灣教育社會學學會	200506	5:1	202012	20:2	http://www.hyread.com.tw/hyreadnew/search_detail_journal.jsp?dtd_id=1&sysid=00000229	229
+成人及終身教育學刊	1818-8001	中華民國成人教育學會等	200312	1	201906	32	http://www.hyread.com.tw/hyreadnew/search_detail_journal.jsp?dtd_id=1&sysid=00000232	232
+生命教育研究	2074-6601	國立臺灣大學生命教育研發育成中心˙社團法人台灣生命教育學會	200906	1:1	202012	12:2	http://www.hyread.com.tw/hyreadnew/search_detail_journal.jsp?dtd_id=1&sysid=00000233	233
+國立中正大學法學集刊	1728-7618	國立中正大學法律學系	200805	24	202107	72	http://www.hyread.com.tw/hyreadnew/search_detail_journal.jsp?dtd_id=1&sysid=00000234	234
+台灣社會學會通訊		台灣社會學會	200712	62	202106	92	http://www.hyread.com.tw/hyreadnew/search_detail_journal.jsp?dtd_id=1&sysid=00000235	235
+俄羅斯學報	1607-9302	政治大學	200303	3	201201	10	http://www.hyread.com.tw/hyreadnew/search_detail_journal.jsp?dtd_id=1&sysid=00000238	238
+課程研究	1816-5338	高等教育文化事業有限公司	200509	1:1	202009	15:2	http://www.hyread.com.tw/hyreadnew/search_detail_journal.jsp?dtd_id=1&sysid=00000241	241
+高等教育	1992-5476	台灣高等教育學會	200612	1:1	202012	15:2	http://www.hyread.com.tw/hyreadnew/search_detail_journal.jsp?dtd_id=1&sysid=00000242	242
+教育學刊	1563-3527	國立高雄師範大學教育學系	197904	1	202012	55	http://www.hyread.com.tw/hyreadnew/search_detail_journal.jsp?dtd_id=1&sysid=00000243	243
+教育研究雜誌(大陸版)	1727-768X	高等教育出版公司	200303	1	200512	12	http://www.hyread.com.tw/hyreadnew/search_detail_journal.jsp?dtd_id=1&sysid=00000244	244
+犯罪學期刊		中華民國犯罪學學會	199507	1	202006	22:1	http://www.hyread.com.tw/hyreadnew/search_detail_journal.jsp?dtd_id=1&sysid=00000245	245
+都市與計劃	1018-1067	中華民國都市計劃學會	197609	2	202109	48:3	http://www.hyread.com.tw/hyreadnew/search_detail_journal.jsp?dtd_id=1&sysid=00000246	246
+漢語基督教學術論評	1990-2670	中原大學宗教研究所	200606	1	201912	28	http://www.hyread.com.tw/hyreadnew/search_detail_journal.jsp?dtd_id=1&sysid=00000247	247
+明通醫藥	1023-4497	明通醫藥雜誌社	200808	380	202111	539	http://www.hyread.com.tw/hyreadnew/search_detail_journal.jsp?dtd_id=1&sysid=00000248	248
+國家與社會	1994-5736	元智大學社會學系	200812	5	202106	22	http://www.hyread.com.tw/hyreadnew/search_detail_journal.jsp?dtd_id=1&sysid=00000249	249
+電子商務學報	1816-6598	中華企業資源規劃學會	200303	5:1	202106	23:1	http://www.hyread.com.tw/hyreadnew/search_detail_journal.jsp?dtd_id=1&sysid=00000250	250
+元培學報	1028-7086	元培科技大學	200512	12	202012	25	http://www.hyread.com.tw/hyreadnew/search_detail_journal.jsp?dtd_id=1&sysid=00000251	251
+中原學報		中原大學	199601	24:1	200512	33:4	http://www.hyread.com.tw/hyreadnew/search_detail_journal.jsp?dtd_id=1&sysid=00000252	252
+雲科大體育		國立雲林科技大學體育室	200901	11	201202	14	http://www.hyread.com.tw/hyreadnew/search_detail_journal.jsp?dtd_id=1&sysid=00000253	253
+政治科學論叢	1018-3892	國立臺灣大學政治學系	200306	18	202106	88	http://www.hyread.com.tw/hyreadnew/search_detail_journal.jsp?dtd_id=1&sysid=00000254	254
+工業設計		明志科技大學工業設計系	200811	119	202006	48:1=142	http://www.hyread.com.tw/hyreadnew/search_detail_journal.jsp?dtd_id=1&sysid=00000255	255
+台北海洋技術學院學報	2071-3630	台北海洋技術學院	200809	1:2	201706	8:2	http://www.hyread.com.tw/hyreadnew/search_detail_journal.jsp?dtd_id=1&sysid=00000256	256
+中醫藥研究論叢	2311-1984	臺北市中醫師公會	200809	11:2	202106	24:2	http://www.hyread.com.tw/hyreadnew/search_detail_journal.jsp?dtd_id=1&sysid=00000260	260
+北市中醫會刊	2311-0643	臺北市中醫師公會	200806	14:2	201612	22:4=86	http://www.hyread.com.tw/hyreadnew/search_detail_journal.jsp?dtd_id=1&sysid=00000261	261
+傳統醫學雜誌		中華民國傳統醫學會	200810	19:2	201910	30:1	http://www.hyread.com.tw/hyreadnew/search_detail_journal.jsp?dtd_id=1&sysid=00000262	262
+成大體育學刊		國立成功大學體育健康與休閒研究所/國立成功大學體育室	200807	40:3/4	202110	53:2	http://www.hyread.com.tw/hyreadnew/search_detail_journal.jsp?dtd_id=1&sysid=00000264	264
+運動管理	1814-8972	臺灣體育運動管理學會	200911	13	201410	26	http://www.hyread.com.tw/hyreadnew/search_detail_journal.jsp?dtd_id=1&sysid=00000265	265
+臺灣體育運動管理學報	1814-8964	臺灣體育運動管理學會	200806	6	201501	14:1	http://www.hyread.com.tw/hyreadnew/search_detail_journal.jsp?dtd_id=1&sysid=00000266	266
+臺灣中醫臨床醫學雜誌	1817-6720	臺灣中醫臨床醫學會	200809	14:3	201705	22:2	http://www.hyread.com.tw/hyreadnew/search_detail_journal.jsp?dtd_id=1&sysid=00000269	269
+兒童與教育研究	1817-6453	國立臺南大學/幼兒教育學系	200508	1	201301	8	http://www.hyread.com.tw/hyreadnew/search_detail_journal.jsp?dtd_id=1&sysid=00000270	270
+運動知識學報	1816-532X	真理大學觀光休閒與運動學院	200809	5	202107	18	http://www.hyread.com.tw/hyreadnew/search_detail_journal.jsp?dtd_id=1&sysid=00000271	271
+亞太經濟管理評論	1682-8062	中華亞太經濟與管理學會	200303	6:2	202003	23:1/2	http://www.hyread.com.tw/hyreadnew/search_detail_journal.jsp?dtd_id=1&sysid=00000274	274
+臺南科技大學通識教育學刊	2071-4378	臺南科技大學通識教育中心	200804	7	201101	10	http://www.hyread.com.tw/hyreadnew/search_detail_journal.jsp?dtd_id=1&sysid=00000275	275
+運動傳播學刊		真理大學運動資訊傳播學系	200808	1	201008	3	http://www.hyread.com.tw/hyreadnew/search_detail_journal.jsp?dtd_id=1&sysid=00000276	276
+中醫藥雜誌	1017-6446、2411-3964	衛生福利部國家中醫藥研究所	199010	1:1	202106	32:1	http://www.hyread.com.tw/hyreadnew/search_detail_journal.jsp?dtd_id=1&sysid=00000277	277
+史學彙刊		中國文化大學史學研究所與史學系	200812	22	202012	39	http://www.hyread.com.tw/hyreadnew/search_detail_journal.jsp?dtd_id=1&sysid=00000278	278
+中華行政學報		中華大學行政管理學系	200906	6	202012	27	http://www.hyread.com.tw/hyreadnew/search_detail_journal.jsp?dtd_id=1&sysid=00000279	279
+規劃學報	1018-5402	國立成功大學都市計劃學系	200212	29	202106	39:1	http://www.hyread.com.tw/hyreadnew/search_detail_journal.jsp?dtd_id=1&sysid=00000280	280
+永達學報	1607-2480	永達技術學院	200712	8:2	201212	12:2	http://www.hyread.com.tw/hyreadnew/search_detail_journal.jsp?dtd_id=1&sysid=00000281	281
+中醫骨傷科醫學雜誌		中華民國中醫傷科醫學會	200812	7	201212	11	http://www.hyread.com.tw/hyreadnew/search_detail_journal.jsp?dtd_id=1&sysid=00000282	282
+中華人文社會學報	1814-2826	中華大學人文社會學院	200809	9:1	201103	14	http://www.hyread.com.tw/hyreadnew/search_detail_journal.jsp?dtd_id=1&sysid=00000285	285
+淡江中文學報	1027-6483	淡江大學中文系漢學研究中心	200812	19	202106	44	http://www.hyread.com.tw/hyreadnew/search_detail_journal.jsp?dtd_id=1&sysid=00000288	288
+Asia Pacific Management Review	1029-3132	國立成功大學企業管理學院	200303	8:1	201412	19:4	http://www.hyread.com.tw/hyreadnew/search_detail_journal.jsp?dtd_id=1&sysid=00000289	289
+資訊管理展望	1560-4683	淡江大學資訊管理研究所	200806	10:1	201312	15:1/2	http://www.hyread.com.tw/hyreadnew/search_detail_journal.jsp?dtd_id=1&sysid=00000290	290
+新北大．史學		國立臺北大學歷史學系	200810	6	202001	26	http://www.hyread.com.tw/hyreadnew/search_detail_journal.jsp?dtd_id=1&sysid=00000291	291
+地理學報	0494-5387	國立臺灣大學理學院地理環境資源學系	200012	28	202108	99	http://www.hyread.com.tw/hyreadnew/search_detail_journal.jsp?dtd_id=1&sysid=00000294	294
+親民學報		私立親民工商專科學校	200907	15	200907	15	http://www.hyread.com.tw/hyreadnew/search_detail_journal.jsp?dtd_id=1&sysid=00000298	298
+成大歷史學報	1683-9749	國立成功大學歷史學系	200206	26	202106	60	http://www.hyread.com.tw/hyreadnew/search_detail_journal.jsp?dtd_id=1&sysid=00000301	301
+中國廣告學刊	1817-6763	中國文化大學廣告學系	200903	14	202003	25	http://www.hyread.com.tw/hyreadnew/search_detail_journal.jsp?dtd_id=1&sysid=00000302	302
+音樂研究		國立臺灣師範大學音樂學院	200905	13	202105	34	http://www.hyread.com.tw/hyreadnew/search_detail_journal.jsp?dtd_id=1&sysid=00000303	303
+臺灣音樂研究	1818-9288	中華民國民族音樂學會	200510	1	201704	24	http://www.hyread.com.tw/hyreadnew/search_detail_journal.jsp?dtd_id=1&sysid=00000304	304
+設計研究學報	1996-4250	輔仁大學設計學群	200710	1	202110	13	http://www.hyread.com.tw/hyreadnew/search_detail_journal.jsp?dtd_id=1&sysid=00000305	305
+糖尿病家族：糖尿病關懷基金會會訊		財團法人糖尿病關懷基金會	200706	2007:2=29	202106	2021:2=85	http://www.hyread.com.tw/hyreadnew/search_detail_journal.jsp?dtd_id=1&sysid=00000306	306
+家庭教育與諮商學刊	1992-4461	國立嘉義大學家庭教育研究所	200612	1	202012	23	http://www.hyread.com.tw/hyreadnew/search_detail_journal.jsp?dtd_id=1&sysid=00000308	308
+建築與規劃學報	1606-8238	中華大學建築與都市計畫學系	200312	4:2	201912	20:2	http://www.hyread.com.tw/hyreadnew/search_detail_journal.jsp?dtd_id=1&sysid=00000309	309
+廣譯:語言、文學、與文化翻譯	1998-5177	政治大學外國語文學院翻譯中心《廣譯》編輯委員會	200801	1	201609	13	http://www.hyread.com.tw/hyreadnew/search_detail_journal.jsp?dtd_id=1&sysid=00000310	310
+中醫內科醫學雜誌	1818-6076	中華民國中醫內科醫學會	200508	3:3	202112	19:2	http://www.hyread.com.tw/hyreadnew/search_detail_journal.jsp?dtd_id=1&sysid=00000312	312
+中醫肝病醫學雜誌		中華民國中醫肝病醫學會	200411	1	201102	7:1	http://www.hyread.com.tw/hyreadnew/search_detail_journal.jsp?dtd_id=1&sysid=00000313	313
+中醫兒科醫學雜誌	1607-7423	中醫兒科醫學會	199907	1:1	201306	15:1	http://www.hyread.com.tw/hyreadnew/search_detail_journal.jsp?dtd_id=1&sysid=00000314	314
+中醫婦科醫學雜誌	1818-6084	中華民國中醫婦科醫學會	200408	4	202106	27	http://www.hyread.com.tw/hyreadnew/search_detail_journal.jsp?dtd_id=1&sysid=00000315	315
+亞東學報	1813-3754	亞東技術學院	200906	29	201912	39	http://www.hyread.com.tw/hyreadnew/search_detail_journal.jsp?dtd_id=1&sysid=00000316	316
+運籌與管理學刊	1684-0623	開南大學	200812	7:2	201206	11:1	http://www.hyread.com.tw/hyreadnew/search_detail_journal.jsp?dtd_id=1&sysid=00000317	317
+和信醫院與您		和信治癌中心醫院	199606	4	200408	22	http://www.hyread.com.tw/hyreadnew/search_detail_journal.jsp?dtd_id=1&sysid=00000318	318
+和信治癌中心醫院與您		和信治癌中心醫院	200409	23	201810	362	http://www.hyread.com.tw/hyreadnew/search_detail_journal.jsp?dtd_id=1&sysid=00000319	319
+中華民國急診醫學會醫誌		中華民國急診醫學會	199901	1:1	200206	4:2	http://www.hyread.com.tw/hyreadnew/search_detail_journal.jsp?dtd_id=1&sysid=00000320	320
+戲曲學報	2070-1136	國立臺灣戲曲學院	200706	1	201806	18	http://www.hyread.com.tw/hyreadnew/search_detail_journal.jsp?dtd_id=1&sysid=00000321	321
+經濟研究	1018-1245	國立臺北大學經濟學系,經濟研究編輯委員會	200801	44:1	202107	57:2	http://www.hyread.com.tw/hyreadnew/search_detail_journal.jsp?dtd_id=1&sysid=00000322	322
+臺灣醫學人文學刊	1606-5727	中山醫學大學醫學人文組	200011	1:1	202111	22:1/2	http://www.hyread.com.tw/hyreadnew/search_detail_journal.jsp?dtd_id=1&sysid=00000323	323
+聯新醫管	1815-6428	財團法人聯新文教基金會	200811	72/73	201609	108	http://www.hyread.com.tw/hyreadnew/search_detail_journal.jsp?dtd_id=1&sysid=00000325	325
+聯新醫訊	1562-3505	聯新醫訊雜誌社	200603	12:1	200603	12:1	http://www.hyread.com.tw/hyreadnew/search_detail_journal.jsp?dtd_id=1&sysid=00000326	326
+淡江體育	1814-5310	淡江大學體育室	200812	11	201211	15	http://www.hyread.com.tw/hyreadnew/search_detail_journal.jsp?dtd_id=1&sysid=00000327	327
+看守臺灣		看守臺灣雜誌社	200811	10:4	201312	15:4	http://www.hyread.com.tw/hyreadnew/search_detail_journal.jsp?dtd_id=1&sysid=00000328	328
+TAIWANIA	0372-333X	國立臺灣大學生命科學院	194710	0:1	202111	66:4	http://www.hyread.com.tw/hyreadnew/search_detail_journal.jsp?dtd_id=1&sysid=00000330	330
+大專體育	1560-3822	中華民國大專院校體育總會	200506	78	201002	106	http://www.hyread.com.tw/hyreadnew/search_detail_journal.jsp?dtd_id=1&sysid=00000331	331
+大專體育學刊	1563-3470	中華民國大專院校體育總會	200506	7:2	200909	11:3	http://www.hyread.com.tw/hyreadnew/search_detail_journal.jsp?dtd_id=1&sysid=00000332	332
+中華民國急救加護醫學會雜誌	1023-2214	中華民國急救加護醫學會	199803	9:1	201412	25:1	http://www.hyread.com.tw/hyreadnew/search_detail_journal.jsp?dtd_id=1&sysid=00000333	333
+身體文化學報	1817-6690	臺灣身體文化學會	200512	1	202012	28	http://www.hyread.com.tw/hyreadnew/search_detail_journal.jsp?dtd_id=1&sysid=00000334	334
+中國土木水利工程學刊	1015-5856	中國土木水利工程學會	200412	特刊	201803	30:1	http://www.hyread.com.tw/hyreadnew/search_detail_journal.jsp?dtd_id=1&sysid=00000335	335
+土木水利:中國土木水利工程學會會刊	0253-3804	中國土木水利工程學會	200902	36:1	202108	48:4	http://www.hyread.com.tw/hyreadnew/search_detail_journal.jsp?dtd_id=1&sysid=00000336	336
+女學學誌:婦女與性別研究	1683-4852	臺灣大學人口與性別研究中心婦女與性別研究組	200205	13	202012	47	http://www.hyread.com.tw/hyreadnew/search_detail_journal.jsp?dtd_id=1&sysid=00000338	338
+婦研縱橫	1727-592x	國立臺灣大學人口與性別研究中心婦女與性別研究組	200304	66	202104	114	http://www.hyread.com.tw/hyreadnew/search_detail_journal.jsp?dtd_id=1&sysid=00000342	342
+教育政策論壇	1560-8298	國立暨南國際大學教育政策與行政研究所	199802	1:1	202105	24:2	http://www.hyread.com.tw/hyreadnew/search_detail_journal.jsp?dtd_id=1&sysid=00000344	344
+中醫藥實證醫學雜誌		中華中醫藥實證醫學會	200809	1:1	201012	3:1	http://www.hyread.com.tw/hyreadnew/search_detail_journal.jsp?dtd_id=1&sysid=00000347	347
+問學集		淡江大學中國文學研究所	199305	3	202011	25	http://www.hyread.com.tw/hyreadnew/search_detail_journal.jsp?dtd_id=1&sysid=00000348	348
+教育科學研究期刊	2073-753X	國立臺灣師範大學	1986	31:1	202109	66:3	http://www.hyread.com.tw/hyreadnew/search_detail_journal.jsp?dtd_id=1&sysid=00000349	349
+會計與財金研究	2070-1055	中華管理績效評鑑學會	200807	1:1	201703	10:1	http://www.hyread.com.tw/hyreadnew/search_detail_journal.jsp?dtd_id=1&sysid=00000352	352
+績效與策略研究	1815-1663	中華管理績效評鑑學會	200412	1:1	201703	14:1	http://www.hyread.com.tw/hyreadnew/search_detail_journal.jsp?dtd_id=1&sysid=00000353	353
+技術學刊	1012-3407	國立臺灣科技大學技術及職業教育研究中心	200403	19:1	202109	36:3	http://www.hyread.com.tw/hyreadnew/search_detail_journal.jsp?dtd_id=1&sysid=00000354	354
+體育學報	1024-7297	中華民國體育學會	197912	1	202109	54:3	http://www.hyread.com.tw/hyreadnew/search_detail_journal.jsp?dtd_id=1&sysid=00000355	355
+中華體育	1024-7300	中華民國體育學會	198609	3	202109	35:3	http://www.hyread.com.tw/hyreadnew/search_detail_journal.jsp?dtd_id=1&sysid=00000356	356
+法律與生命科學	1995-6517	國立清華大學生物倫理與法律研究中心	200704	1	201806	7:1	http://www.hyread.com.tw/hyreadnew/search_detail_journal.jsp?dtd_id=1&sysid=00000358	358
+護理暨健康照護研究	2072-9235	臺灣護理學會	200903	5:1	201512	11:4	http://www.hyread.com.tw/hyreadnew/search_detail_journal.jsp?dtd_id=1&sysid=00000359	359
+臺灣社會福利學刊	1682-2927	臺灣社會福利學會	200702	5:2	202106	17:1	http://www.hyread.com.tw/hyreadnew/search_detail_journal.jsp?dtd_id=1&sysid=00000362	362
+師大學報：語言與文學類	2074-5192	國立臺灣師範大學研究發展處	200903	54:1	201609	61:2	http://www.hyread.com.tw/hyreadnew/search_detail_journal.jsp?dtd_id=1&sysid=00000367	367
+比較教育	1609-5758	中華民國比較教育學會	199701	43	202011	89	http://www.hyread.com.tw/hyreadnew/search_detail_journal.jsp?dtd_id=1&sysid=00000368	368
+中正教育研究	1683-9552	國立中正大學教育學院	200204	1:1	202012	19:2	http://www.hyread.com.tw/hyreadnew/search_detail_journal.jsp?dtd_id=1&sysid=00000369	369
+臺東大學教育學報	1027-1120	國立臺東大學	199806	9:1	202006	31:1	http://www.hyread.com.tw/hyreadnew/search_detail_journal.jsp?dtd_id=1&sysid=00000370	370
+創世紀詩雜誌	1683-9536	創世紀詩雜誌社	200203	130	202109	208	http://www.hyread.com.tw/hyreadnew/search_detail_journal.jsp?dtd_id=1&sysid=00000371	371
+稻江學報	1992-4534		200609	1:1	201211	6:1-2	http://www.hyread.com.tw/hyreadnew/search_detail_journal.jsp?dtd_id=1&sysid=00000372	372
+當代會計	1609-3895	財團法人臺北市淡江會計教育基金會	200905	10:1	202111	22:2	http://www.hyread.com.tw/hyreadnew/search_detail_journal.jsp?dtd_id=1&sysid=00000373	373
+冷凍空調＆能源科技		中誌文化事業有限公司	200904	56	201110	71	http://www.hyread.com.tw/hyreadnew/search_detail_journal.jsp?dtd_id=1&sysid=00000375	375
+永續發展與管理策略	1944-8082	中華管理績效評鑑學會	2009	1:1	201309	5:2	http://www.hyread.com.tw/hyreadnew/search_detail_journal.jsp?dtd_id=1&sysid=00000376	376
+臺灣園藝	1819-8317	臺灣園藝學會	200603	52:1	202103	67:1	http://www.hyread.com.tw/hyreadnew/search_detail_journal.jsp?dtd_id=1&sysid=00000377	377
+中國園藝	0529-6544	中國園藝學會	200403	50:1	200512	51:4	http://www.hyread.com.tw/hyreadnew/search_detail_journal.jsp?dtd_id=1&sysid=00000378	378
+加馬		元培科技大學放射技術系學會	200906	40	202012	51	http://www.hyread.com.tw/hyreadnew/search_detail_journal.jsp?dtd_id=1&sysid=00000379	379
+保險經營與制度	1684-1158	財團法人保險事業發展中心	200703	6:1	201309	12:2	http://www.hyread.com.tw/hyreadnew/search_detail_journal.jsp?dtd_id=1&sysid=00000380	380
+應用經濟論叢	0546-9600	國立中興大學應用經濟學系	200812	84	202106	109	http://www.hyread.com.tw/hyreadnew/search_detail_journal.jsp?dtd_id=1&sysid=00000381	381
+中華民國重症醫學雜誌	1563-356x	中華民國重症醫學會	200905	10:2	201304	14:2	http://www.hyread.com.tw/hyreadnew/search_detail_journal.jsp?dtd_id=1&sysid=00000383	383
+醫務管理期刊	1608-6961	臺灣醫務管理學會	200103	2:1	201606	17:2	http://www.hyread.com.tw/hyreadnew/search_detail_journal.jsp?dtd_id=1&sysid=00000384	384
+英美文學評論	1024-2856	中華民國英美文學學會	199307	創刊號	202106	38	http://www.hyread.com.tw/hyreadnew/search_detail_journal.jsp?dtd_id=1&sysid=00000385	385
+中華民國婦癌醫學雜誌	1019-5998	中華民國婦癌醫學會	200904	2009:1	201410	2014:2	http://www.hyread.com.tw/hyreadnew/search_detail_journal.jsp?dtd_id=1&sysid=00000386	386
+Journal of Medical and Biological Engineering	1609-0985	中華民國生物醫學工程學會	200012	20:4	201412	34:6	http://www.hyread.com.tw/hyreadnew/search_detail_journal.jsp?dtd_id=1&sysid=00000387	387
+人文與社會研究學報	2073-5219	國立臺南大學	200904	43:1	201410	48:2	http://www.hyread.com.tw/hyreadnew/search_detail_journal.jsp?dtd_id=1&sysid=00000388	388
+特殊教育學報	2074-5583	國立彰化師範大學特殊教育研究所特殊教育學系	200706	25	202106	53	http://www.hyread.com.tw/hyreadnew/search_detail_journal.jsp?dtd_id=1&sysid=00000389	389
+輔導與諮商學報	1818-1546	國立彰化師範大學輔導與諮商學系	200505	27:1	202111	43:3	http://www.hyread.com.tw/hyreadnew/search_detail_journal.jsp?dtd_id=1&sysid=00000390	390
+彰化師大輔導學報	1818-1562	國立彰化師範大學輔導與諮商學系	200406	26:1	200412	26:2	http://www.hyread.com.tw/hyreadnew/search_detail_journal.jsp?dtd_id=1&sysid=00000391	391
+中山醫學雜誌	1680-3108	中山醫學大學	200207	13:2	201912	30:2	http://www.hyread.com.tw/hyreadnew/search_detail_journal.jsp?dtd_id=1&sysid=00000392	392
+文大商管學報	1991-2501	中國文化大學商學院	200304	8:1	201309	18:2	http://www.hyread.com.tw/hyreadnew/search_detail_journal.jsp?dtd_id=1&sysid=00000394	394
+師資培育與教師專業發展期刊	2071-3649	國立彰化師範大學	200806	1:1	202108	14:2	http://www.hyread.com.tw/hyreadnew/search_detail_journal.jsp?dtd_id=1&sysid=00000395	395
+保險實務與制度	1684-1158	財團法人保險事業發展中心	200609	5:2	200609	5:2	http://www.hyread.com.tw/hyreadnew/search_detail_journal.jsp?dtd_id=1&sysid=00000396	396
+國際藝術教育學刊	1728-175x	國立臺灣藝術教育館	200907	7:1	202107	19:1	http://www.hyread.com.tw/hyreadnew/search_detail_journal.jsp?dtd_id=1&sysid=00000397	397
+臺德學刊	1562-3033	文橋出版社	199906	1	202107	28	http://www.hyread.com.tw/hyreadnew/search_detail_journal.jsp?dtd_id=1&sysid=00000398	398
+德明學報	2078-4899	德明財經科技大學	200312	22	201912	43	http://www.hyread.com.tw/hyreadnew/search_detail_journal.jsp?dtd_id=1&sysid=00000399	399
+臺灣東南亞學刊	1811-5713	國立暨南國際大學東南亞研究中心	200904	6:1	202104	16:1	http://www.hyread.com.tw/hyreadnew/search_detail_journal.jsp?dtd_id=1&sysid=00000401	401
+證交資料	1024-1116	臺灣證券交易所	200908	568	201312	620	http://www.hyread.com.tw/hyreadnew/search_detail_journal.jsp?dtd_id=1&sysid=00000402	402
+地景保育通訊	1025-9651	臺灣大學地理學系臺灣地形研究室	200912	29	202106	52	http://www.hyread.com.tw/hyreadnew/search_detail_journal.jsp?dtd_id=1&sysid=00000403	403
+中華林學季刊	0578-1345	中華林學會	200906	42:2	202012	53:4	http://www.hyread.com.tw/hyreadnew/search_detail_journal.jsp?dtd_id=1&sysid=00000404	404
+中國邊政		中國邊政協會	200909	179	202106	223	http://www.hyread.com.tw/hyreadnew/search_detail_journal.jsp?dtd_id=1&sysid=00000405	405
+臺南大學體育學報		國立臺南大學體育系	200612	1	202012	15	http://www.hyread.com.tw/hyreadnew/search_detail_journal.jsp?dtd_id=1&sysid=00000406	406
+美育	1021-4550	國立臺灣藝術教育館	200905	169	202111	244	http://www.hyread.com.tw/hyreadnew/search_detail_journal.jsp?dtd_id=1&sysid=00000407	407
+國立臺中技術學院通識教育學報	2071-4998	國立臺中技術學院通識教育中心	200812	2	201112	5	http://www.hyread.com.tw/hyreadnew/search_detail_journal.jsp?dtd_id=1&sysid=00000408	408
+中華團體心理治療		中華團體心理治療學會	199503	1:1	202109	27:3	http://www.hyread.com.tw/hyreadnew/search_detail_journal.jsp?dtd_id=1&sysid=00000409	409
+真空科技	1017-091X	中華民國真空科技學會	200502	18:1	202109	34:3	http://www.hyread.com.tw/hyreadnew/search_detail_journal.jsp?dtd_id=1&sysid=00000410	410
+彰化師大教育學報	1819-8309	國立彰化師範大學教育研究所	200606	9	201712	31/32	http://www.hyread.com.tw/hyreadnew/search_detail_journal.jsp?dtd_id=1&sysid=00000411	411
+國立高雄海洋科技大學學報	1819-6950	國立高雄海洋科技大學	200802	22	201703	31	http://www.hyread.com.tw/hyreadnew/search_detail_journal.jsp?dtd_id=1&sysid=00000412	412
+保險專刊	1562-9678	財團法人保險事業發展中心	200612	22:2	202009	36:3	http://www.hyread.com.tw/hyreadnew/search_detail_journal.jsp?dtd_id=1&sysid=00000413	413
+新竹教育大學學報	1819-7310	國立新竹教育大學	200512	21	200612	23	http://www.hyread.com.tw/hyreadnew/search_detail_journal.jsp?dtd_id=1&sysid=00000414	414
+教育心理學報	1011-5714	國立臺灣師範大學教育心理與輔導學系(所)	200110	33:1	202106	52:4	http://www.hyread.com.tw/hyreadnew/search_detail_journal.jsp?dtd_id=1&sysid=00000415	415
+內科學誌	1016-7390	中華民國內科醫學會	200502	16:1	202108	32:4	http://www.hyread.com.tw/hyreadnew/search_detail_journal.jsp?dtd_id=1&sysid=00000417	417
+臺大社會工作學刊	1681-8822	國立臺灣大學社會工作學系	200407	9	202106	43	http://www.hyread.com.tw/hyreadnew/search_detail_journal.jsp?dtd_id=1&sysid=00000418	418
+正修學報		正修科技大學	200911	22	202012	33	http://www.hyread.com.tw/hyreadnew/search_detail_journal.jsp?dtd_id=1&sysid=00000419	419
+餐旅暨家政學刊	1816-6539	國立高雄餐旅學院	200409	1:1	201012	7:4	http://www.hyread.com.tw/hyreadnew/search_detail_journal.jsp?dtd_id=1&sysid=00000420	420
+翻譯學研究集刊	2070-9668	台灣翻譯學學會	199605	1	202104	24	http://www.hyread.com.tw/hyreadnew/search_detail_journal.jsp?dtd_id=1&sysid=00000421	421
+運動健康與休閒學刊	1814-540X	正修科技大學運動健康與休閒系體育室	200903	11	201206	20	http://www.hyread.com.tw/hyreadnew/search_detail_journal.jsp?dtd_id=1&sysid=00000422	422
+校園		校園福音團契	200909	51:5	202111	63:6	http://www.hyread.com.tw/hyreadnew/search_detail_journal.jsp?dtd_id=1&sysid=00000423	423
+華岡紡織期刊	1025-9678	華岡紡織期刊編輯部	200803	15:1	202104	28:2	http://www.hyread.com.tw/hyreadnew/search_detail_journal.jsp?dtd_id=1&sysid=00000425	425
+中國行政評論	1019-2433	中華民國公共行政學會	200512	15:1	201803	24:1	http://www.hyread.com.tw/hyreadnew/search_detail_journal.jsp?dtd_id=1&sysid=00000426	426
+臺灣兒童牙醫學雜誌	1816-2584	中華民國兒童牙科醫學會	200212	2:4	202109	21:3	http://www.hyread.com.tw/hyreadnew/search_detail_journal.jsp?dtd_id=1&sysid=00000428	428
+中華圖書資訊學教育學會會訊	1024-6444	中華圖書資訊學教育學會	200606	26	201705	41	http://www.hyread.com.tw/hyreadnew/search_detail_journal.jsp?dtd_id=1&sysid=00000429	429
+臺灣農業化學與食品科學	1605-2471	中國農業化學會/中華民國食品科學技術學會	200502	43:1	202112	59:4	http://www.hyread.com.tw/hyreadnew/search_detail_journal.jsp?dtd_id=1&sysid=00000430	430
+幼兒保育研究集刊	1816-4676	正修科技大學幼兒保育系	200912	4:1	200912	4:1	http://www.hyread.com.tw/hyreadnew/search_detail_journal.jsp?dtd_id=1&sysid=00000431	431
+臺灣口腔顎面外科學會雜誌		中華民國口腔顎面外科學會	200903	20:1	202112	32:4	http://www.hyread.com.tw/hyreadnew/search_detail_journal.jsp?dtd_id=1&sysid=00000432	432
+運動文學		國立臺中技術學院體育系	200906	5	202012	16	http://www.hyread.com.tw/hyreadnew/search_detail_journal.jsp?dtd_id=1&sysid=00000433	433
+臺中學院體育		國立臺中技術學院體育系	200812	5	201111	8	http://www.hyread.com.tw/hyreadnew/search_detail_journal.jsp?dtd_id=1&sysid=00000434	434
+新生學報		新生醫護管理專科學校	200907	4	202103	23	http://www.hyread.com.tw/hyreadnew/search_detail_journal.jsp?dtd_id=1&sysid=00000435	435
+中華民國圖書館學會會訊	1819-8260	中華民國圖書館學會	200506	13:1-2	201412	22:1=162-163	http://www.hyread.com.tw/hyreadnew/search_detail_journal.jsp?dtd_id=1&sysid=00000436	436
+長庚人文社會學報	2070-9455	長庚大學通識教育中心	200804	1:1	201910	12:2	http://www.hyread.com.tw/hyreadnew/search_detail_journal.jsp?dtd_id=1&sysid=00000437	437
+關渡音樂學刊	1814-1889	國立臺北藝術大學音樂學院	200412	1	202007	32	http://www.hyread.com.tw/hyreadnew/search_detail_journal.jsp?dtd_id=1&sysid=00000438	438
+醫療品質		臺灣醫療品質協會	199805	1:1	202106	9:2	http://www.hyread.com.tw/hyreadnew/search_detail_journal.jsp?dtd_id=1&sysid=00000439	439
+白沙人文社會學報	1727-8538	國立彰化師範大學共同學科	200510	4	200610	5	http://www.hyread.com.tw/hyreadnew/search_detail_journal.jsp?dtd_id=1&sysid=00000440	440
+大專體育學術專刊		中華民國大專院校體育總會	200705	96	201110	100	http://www.hyread.com.tw/hyreadnew/search_detail_journal.jsp?dtd_id=1&sysid=00000442	442
+工業教育與技術學刊		國立彰化師範大學教育與技術學系	200612	30	200812	34	http://www.hyread.com.tw/hyreadnew/search_detail_journal.jsp?dtd_id=1&sysid=00000443	443
+藝術學	1013-1663	國立臺北藝術大學美術史研究所	200401	21	201710	32	http://www.hyread.com.tw/hyreadnew/search_detail_journal.jsp?dtd_id=1&sysid=00000444	444
+運動生理暨體能學報	1815-638X	臺灣運動生理暨體能學會	200409	1	201206	14	http://www.hyread.com.tw/hyreadnew/search_detail_journal.jsp?dtd_id=1&sysid=00000445	445
+臺灣期貨與衍生性商品學刊		中華民國期貨商業同業公會	200912	9	201112	13	http://www.hyread.com.tw/hyreadnew/search_detail_journal.jsp?dtd_id=1&sysid=00000446	446
+期貨人		中華民國期貨商業同業公會	200203	創刊號	202109	79	http://www.hyread.com.tw/hyreadnew/search_detail_journal.jsp?dtd_id=1&sysid=00000447	447
+萬竅：中華通識教育學刊	1815-1744	中華大學通識教育中心	200905	9	201205	15	http://www.hyread.com.tw/hyreadnew/search_detail_journal.jsp?dtd_id=1&sysid=00000448	448
+風起雲揚		國立臺中技術學院	200706	1	201609	10	http://www.hyread.com.tw/hyreadnew/search_detail_journal.jsp?dtd_id=1&sysid=00000450	450
+正修通識教育學報		正修科技大學通識教育中心	201006	7	202106	18	http://www.hyread.com.tw/hyreadnew/search_detail_journal.jsp?dtd_id=1&sysid=00000451	451
+管理科學與統計決策	1814-9073	正修科技大學國際交流組	200909	6:3	201012	7:4	http://www.hyread.com.tw/hyreadnew/search_detail_journal.jsp?dtd_id=1&sysid=00000452	452
+Pan-Pacific Management Review	1562-7705	義守大學	199708	1:1	201307	16:2	http://www.hyread.com.tw/hyreadnew/search_detail_journal.jsp?dtd_id=1&sysid=00000453	453
+台灣文學研究學報	1817-2946	國立台灣文學館	200510	1	202104	32	http://www.hyread.com.tw/hyreadnew/search_detail_journal.jsp?dtd_id=1&sysid=00000455	455
+台灣文學館通訊	1814-6805	國立台灣文學館	200803	18	202106	71	http://www.hyread.com.tw/hyreadnew/search_detail_journal.jsp?dtd_id=1&sysid=00000456	456
+考古人類學刊	0077-5843	《考古人類學刊》編輯委員會	200712	67	202106	94	http://www.hyread.com.tw/hyreadnew/search_detail_journal.jsp?dtd_id=1&sysid=00000458	458
+戲劇學刊	1813-9078	國立臺北藝術大學戲劇學院	200907	10	202107	34	http://www.hyread.com.tw/hyreadnew/search_detail_journal.jsp?dtd_id=1&sysid=00000459	459
+中華職業醫學雜誌	1023-3660	中華職業醫學會	200907	16:3	202110	28:4	http://www.hyread.com.tw/hyreadnew/search_detail_journal.jsp?dtd_id=1&sysid=00000460	460
+教育實踐與研究	1993-5633	國立臺北教育大學	200703	20:1	202106	34:1	http://www.hyread.com.tw/hyreadnew/search_detail_journal.jsp?dtd_id=1&sysid=00000461	461
+體育專業發展與運動休閒趨勢研討會論文集		國立臺中技術學院體育系	200705	1	200905	3	http://www.hyread.com.tw/hyreadnew/search_detail_journal.jsp?dtd_id=1&sysid=00000462	462
+白沙歷史地理學報	1991-1475	國立彰化師範大學歷史學研究所	200604	1	202012	21	http://www.hyread.com.tw/hyreadnew/search_detail_journal.jsp?dtd_id=1&sysid=00000463	463
+國文經緯	2218-4546	國立彰化師範大學	201011	6	202107	17	http://www.hyread.com.tw/hyreadnew/search_detail_journal.jsp?dtd_id=1&sysid=00000464	464
+SPECTRUM ： NCUE Studies in Language, Literature, Translation	1998-9148	國立彰化師範大學	200607	1	201901	17:1	http://www.hyread.com.tw/hyreadnew/search_detail_journal.jsp?dtd_id=1&sysid=00000465	465
+研究與創新		國立彰化師範大學研究發展處	200703	創刊號	201205	13	http://www.hyread.com.tw/hyreadnew/search_detail_journal.jsp?dtd_id=1&sysid=00000466	466
+彰化師大體育學報	1814-5167	國立彰化師範大學體育學系	200012	1	202012	19	http://www.hyread.com.tw/hyreadnew/search_detail_journal.jsp?dtd_id=1&sysid=00000467	467
+科學教育(彰化師大)	1019-5904	國立彰化師範大學科學教育研究所	200707	13	200707	13	http://www.hyread.com.tw/hyreadnew/search_detail_journal.jsp?dtd_id=1&sysid=00000468	468
+國文學誌		國立彰化師範大學國文學系	200406	8	200812	17	http://www.hyread.com.tw/hyreadnew/search_detail_journal.jsp?dtd_id=1&sysid=00000469	469
+真理財經學報	1609-8919	真理大學財經學院	200906	20	201912	29	http://www.hyread.com.tw/hyreadnew/search_detail_journal.jsp?dtd_id=1&sysid=00000470	470
+BioFormosa	1684-0925	國立臺灣師範大學生物學系	200106	36:1	201412	49	http://www.hyread.com.tw/hyreadnew/search_detail_journal.jsp?dtd_id=1&sysid=00000471	471
+師大生物學報	0378-8091	國立臺灣師範大學生物學系	196606	1	200012	35:2	http://www.hyread.com.tw/hyreadnew/search_detail_journal.jsp?dtd_id=1&sysid=00000472	472
+臺灣詩學學刊	1024-3933	臺灣詩學季刊雜誌社	200908	13	202011	36	http://www.hyread.com.tw/hyreadnew/search_detail_journal.jsp?dtd_id=1&sysid=00000473	473
+雲嘉特教期刊	1816-6938	國立嘉義大學特殊教育中心	200905	9	202105	33	http://www.hyread.com.tw/hyreadnew/search_detail_journal.jsp?dtd_id=1&sysid=00000474	474
+藝術評論	1015-6240	國立臺北藝術大學	200812	18	202107	41	http://www.hyread.com.tw/hyreadnew/search_detail_journal.jsp?dtd_id=1&sysid=00000475	475
+中華書道	2706-574X	中華書道學會	200908	65	202109	112	http://www.hyread.com.tw/hyreadnew/search_detail_journal.jsp?dtd_id=1&sysid=00000476	476
+俄國語文學報	1811-8461	中國文化大學俄國語文學系	201102	12	201912	19	http://www.hyread.com.tw/hyreadnew/search_detail_journal.jsp?dtd_id=1&sysid=00000477	477
+創世紀詩刊		創世紀詩社	195410	1	198305	61	http://www.hyread.com.tw/hyreadnew/search_detail_journal.jsp?dtd_id=1&sysid=00000478	478
+台灣性學學刊	1608-5787	臺灣性教育協會	200910	15:2	202105	27:1	http://www.hyread.com.tw/hyreadnew/search_detail_journal.jsp?dtd_id=1&sysid=00000479	479
+聯新品質	2072-6341	聯新醫療事業	200903	72	201312	91	http://www.hyread.com.tw/hyreadnew/search_detail_journal.jsp?dtd_id=1&sysid=00000480	480
+Intergrams	1683-4186	國立中興大學文學院外國語文學系	200408	5:2	202102	20:2-21:1	http://www.hyread.com.tw/hyreadnew/search_detail_journal.jsp?dtd_id=1&sysid=00000481	481
+海洋休閒管理學刊	2071-4467	國立高雄海洋科技大學 海洋休閒管理系	200912	2	201912	8	http://www.hyread.com.tw/hyreadnew/search_detail_journal.jsp?dtd_id=1&sysid=00000482	482
+住宅學會年會論文集		中華民國住宅學會	2010	19	2010	19	http://www.hyread.com.tw/hyreadnew/search_detail_journal.jsp?dtd_id=1&sysid=00000486	486
+國立臺灣大學歷史學系學報	1012-8514	國立臺灣大學歷史學系	197405	1	199412	18	http://www.hyread.com.tw/hyreadnew/search_detail_journal.jsp?dtd_id=1&sysid=00000487	487
+評鑑雙月刊	1991-1483	財團法人高等教育評鑑中心基金會	200605	1	202111	94	http://www.hyread.com.tw/hyreadnew/search_detail_journal.jsp?dtd_id=1&sysid=00000490	490
+長庚科技學刊	1991-2455	長庚學校財團法人長庚科技大學	200706	6	202106	34	http://www.hyread.com.tw/hyreadnew/search_detail_journal.jsp?dtd_id=1&sysid=00000491	491
+臺灣鑛業	1021-9927	中華民國鑛業協進會	200909	61:3	202109	73:3	http://www.hyread.com.tw/hyreadnew/search_detail_journal.jsp?dtd_id=1&sysid=00000492	492
+人類發展與家庭學報	2076-8591	國立臺灣師範大學人類發展與家庭學系	200907	11	202012	21	http://www.hyread.com.tw/hyreadnew/search_detail_journal.jsp?dtd_id=1&sysid=00000493	493
+中國地理學會會刊	1025-1464	中國地理學會	200912	43	202106	67	http://www.hyread.com.tw/hyreadnew/search_detail_journal.jsp?dtd_id=1&sysid=00000494	494
+吳鳳學報		吳鳳科技大學	200912	17	201207	20	http://www.hyread.com.tw/hyreadnew/search_detail_journal.jsp?dtd_id=1&sysid=00000495	495
+中國統計學報	0529-6528	中國統計學社	200403	42:1	202109	59:3	http://www.hyread.com.tw/hyreadnew/search_detail_journal.jsp?dtd_id=1&sysid=00000496	496
+中國統計通訊	1016-6171	中國統計學社	200910	20:10	201211	23:11	http://www.hyread.com.tw/hyreadnew/search_detail_journal.jsp?dtd_id=1&sysid=00000497	497
+慈濟通識教育學刊	1814-5213	慈濟大學	200909	5	201603	10	http://www.hyread.com.tw/hyreadnew/search_detail_journal.jsp?dtd_id=1&sysid=00000498	498
+慈濟大學教育研究學刊	1814-5205	慈濟大學	200907	5	201606	13	http://www.hyread.com.tw/hyreadnew/search_detail_journal.jsp?dtd_id=1&sysid=00000499	499
+慈濟大學人文社會科學學刊	1684-9760	慈濟大學	200503	4	201608	20	http://www.hyread.com.tw/hyreadnew/search_detail_journal.jsp?dtd_id=1&sysid=00000500	500
+中正歷史學刊	2070-1071	國立中正大學歷史研究所	200912	12	202012	23	http://www.hyread.com.tw/hyreadnew/search_detail_journal.jsp?dtd_id=1&sysid=00000501	501
+致理法學	1994-5817		200910	6	201203	11	http://www.hyread.com.tw/hyreadnew/search_detail_journal.jsp?dtd_id=1&sysid=00000502	502
+國立國父紀念館館刊	1562-7896	國立國父紀念館	200911	24	201808	50	http://www.hyread.com.tw/hyreadnew/search_detail_journal.jsp?dtd_id=1&sysid=00000503	503
+臺南科大學報. 生活藝術類		臺南科技大學	200709	26	200809	27	http://www.hyread.com.tw/hyreadnew/search_detail_journal.jsp?dtd_id=1&sysid=00000504	504
+臺南科大學報. 人文管理類		臺南科技大學	200709	26	200809	27	http://www.hyread.com.tw/hyreadnew/search_detail_journal.jsp?dtd_id=1&sysid=00000505	505
+嘉南學報. 科技類	1023-4470	嘉南藥理科技大學	200412	30	201412	40	http://www.hyread.com.tw/hyreadnew/search_detail_journal.jsp?dtd_id=1&sysid=00000506	506
+嘉南學報. 人文類	1023-4470	嘉南藥理科技大學	200412	30	201412	40	http://www.hyread.com.tw/hyreadnew/search_detail_journal.jsp?dtd_id=1&sysid=00000507	507
+嘉基護理	1816-661x	嘉義基督教醫院護理部	200912	9:2	202106	21:1	http://www.hyread.com.tw/hyreadnew/search_detail_journal.jsp?dtd_id=1&sysid=00000508	508
+臺大佛學研究	1027-1112	臺灣大學文學院佛學研究中心	200712	14	202012	40	http://www.hyread.com.tw/hyreadnew/search_detail_journal.jsp?dtd_id=1&sysid=00000509	509
+人文與社會學報	1726-2704	義守大學	201001	2:5	202105	3:10	http://www.hyread.com.tw/hyreadnew/search_detail_journal.jsp?dtd_id=1&sysid=00000511	511
+臺灣公共衛生雜誌	1023-2141	臺灣公共衛生學會	200102	20:1	202110	40:5	http://www.hyread.com.tw/hyreadnew/search_detail_journal.jsp?dtd_id=1&sysid=00000512	512
+國北教大體育	1996-2606	國立臺北教育大學體育學系	200612	1	201512	10	http://www.hyread.com.tw/hyreadnew/search_detail_journal.jsp?dtd_id=1&sysid=00000513	513
+台灣社會研究	1021-9528	台灣社會研究雜誌社	198802	1:1	202008	116	http://www.hyread.com.tw/hyreadnew/search_detail_journal.jsp?dtd_id=1&sysid=00000515	515
+休閒研究	2073-2368	國立體育大學創新領導研究發展中心	200812	1:1	202008	10:1	http://www.hyread.com.tw/hyreadnew/search_detail_journal.jsp?dtd_id=1&sysid=00000516	516
+課程與教學	1560-1277	中華民國課程與教學學會	199801	1:1	202110	24:4	http://www.hyread.com.tw/hyreadnew/search_detail_journal.jsp?dtd_id=1&sysid=00000517	517
+國立臺北師範學院體育學術研討會		國立臺北教育大學體育系	2004	2004	2005	2005	http://www.hyread.com.tw/hyreadnew/search_detail_journal.jsp?dtd_id=1&sysid=00000519	519
+國立臺北教育大學體育學術研討會		國立臺北教育大學體育系	200405	2004	201512	2015	http://www.hyread.com.tw/hyreadnew/search_detail_journal.jsp?dtd_id=1&sysid=00000520	520
+弘誓雙月刊		財團法人弘誓文教基金會	200604	80	202110	173	http://www.hyread.com.tw/hyreadnew/search_detail_journal.jsp?dtd_id=1&sysid=00000521	521
+臺北大學法學論叢	1681-5939	國立臺北大學法律學院	200909	71	202109	119	http://www.hyread.com.tw/hyreadnew/search_detail_journal.jsp?dtd_id=1&sysid=00000522	522
+臺灣水產	0529-6471	臺灣水產協會	201102	667	202110	731=16:5	http://www.hyread.com.tw/hyreadnew/search_detail_journal.jsp?dtd_id=1&sysid=00000523	523
+臺灣醫學	1028-1916、2414-3049	臺灣醫學會	200911	13:6	202111	25:6	http://www.hyread.com.tw/hyreadnew/search_detail_journal.jsp?dtd_id=1&sysid=00000524	524
+航運季刊	1812-4313	中華海運研究協會	200403	13:1	202006	29:2	http://www.hyread.com.tw/hyreadnew/search_detail_journal.jsp?dtd_id=1&sysid=00000525	525
+佛學與科學	1607-2952	財團法人圓覺文教基金會	200007	1:1	202103	22:1	http://www.hyread.com.tw/hyreadnew/search_detail_journal.jsp?dtd_id=1&sysid=00000526	526
+北臺灣中醫醫學雜誌	2078-4791	臺北縣中醫師公會	200909	1:1	202103	13:1	http://www.hyread.com.tw/hyreadnew/search_detail_journal.jsp?dtd_id=1&sysid=00000527	527
+華岡地理學報	1814-9219	中國文化大學地理學系	200912	24	201709	32	http://www.hyread.com.tw/hyreadnew/search_detail_journal.jsp?dtd_id=1&sysid=00000531	531
+明代研究通訊	1607-5994	中國明代研究學會	199807	1	200312	6	http://www.hyread.com.tw/hyreadnew/search_detail_journal.jsp?dtd_id=1&sysid=00000532	532
+明代研究	1607-5994	中國明代研究學會	200412	7	202106	36	http://www.hyread.com.tw/hyreadnew/search_detail_journal.jsp?dtd_id=1&sysid=00000533	533
+國立臺灣大學醫學院附設醫院雲林分院院訊		國立臺灣大學醫學院附設醫院雲林分院	200910	29	202111	81	http://www.hyread.com.tw/hyreadnew/search_detail_journal.jsp?dtd_id=1&sysid=00000534	534
+遠東學報	1811-816X	遠東科技大學	200803	25:1	202108	38:2	http://www.hyread.com.tw/hyreadnew/search_detail_journal.jsp?dtd_id=1&sysid=00000535	535
+遠東通識學報	1997-7638	遠東科技大學通識教育中心	201007	4:2	202107	15:2	http://www.hyread.com.tw/hyreadnew/search_detail_journal.jsp?dtd_id=1&sysid=00000536	536
+應用倫理教學與研究學刊	1818-1457	遠東科技大學	201101	6:1	201201	7:1	http://www.hyread.com.tw/hyreadnew/search_detail_journal.jsp?dtd_id=1&sysid=00000537	537
+興國學報	1814-5175	興國管理學院	201001	11	201501	16	http://www.hyread.com.tw/hyreadnew/search_detail_journal.jsp?dtd_id=1&sysid=00000538	538
+公共事務評論	1608-9456	中華公共事務管理學會	200912	10:2	202103	19:2	http://www.hyread.com.tw/hyreadnew/search_detail_journal.jsp?dtd_id=1&sysid=00000539	539
+商業設計學報	1028-9518	國立臺中科技大學商業設計系	200911	13	202012	24	http://www.hyread.com.tw/hyreadnew/search_detail_journal.jsp?dtd_id=1&sysid=00000540	540
+宗教大同		中國宗教大同推展協會	200212	1	201112	10	http://www.hyread.com.tw/hyreadnew/search_detail_journal.jsp?dtd_id=1&sysid=00000541	541
+國立臺灣大學建築與城鄉研究學報	1015-8405	國立臺灣大學建築與城鄉研究所	199812	9	201705	22	http://www.hyread.com.tw/hyreadnew/search_detail_journal.jsp?dtd_id=1&sysid=00000543	543
+東方學報	1816-4587	東方設計大學	200912	30	202012	41	http://www.hyread.com.tw/hyreadnew/search_detail_journal.jsp?dtd_id=1&sysid=00000544	544
+運動文化研究	1994-1900	臺灣身體文化學會、揚智文化事業股份有限公司	200706	1	202109	39	http://www.hyread.com.tw/hyreadnew/search_detail_journal.jsp?dtd_id=1&sysid=00000545	545
+臺灣宗教研究	2076-9458	臺灣宗教學會	200912	8:2	202106	20:1	http://www.hyread.com.tw/hyreadnew/search_detail_journal.jsp?dtd_id=1&sysid=00000546	546
+文山評論 ： 文學與文化	2077-1282	國立政治大學英國語文學系	200812	2:1	202106	14:2	http://www.hyread.com.tw/hyreadnew/search_detail_journal.jsp?dtd_id=1&sysid=00000547	547
+幼兒教保研究期刊	1997-468X	國立嘉義大學幼兒教育系	200803	1	202107	24	http://www.hyread.com.tw/hyreadnew/search_detail_journal.jsp?dtd_id=1&sysid=00000548	548
+教育理論與實踐學刊	2079-777X	國立臺中教育大學教育學系	199306	1	202106	43	http://www.hyread.com.tw/hyreadnew/search_detail_journal.jsp?dtd_id=1&sysid=00000549	549
+臺灣社會工作學刊	1811-0681	臺灣社會工作專業人員協會 中華民國醫務社會工作協會 中華民國社會工作師公會全國聯合會	200907	7	202108	24	http://www.hyread.com.tw/hyreadnew/search_detail_journal.jsp?dtd_id=1&sysid=00000551	551
+商管科技季刊	1994-8107	教育部	200806	9:2	202109	22:3	http://www.hyread.com.tw/hyreadnew/search_detail_journal.jsp?dtd_id=1&sysid=00000552	552
+測驗學刊	1609-4905	中國測驗學會、心理出版社	200306	50:1	202109	68:3	http://www.hyread.com.tw/hyreadnew/search_detail_journal.jsp?dtd_id=1&sysid=00000553	553
+臺灣消化醫學雜誌	1013-7696	臺灣消化系醫學會、臺灣消化系內視鏡醫學會	200503	22:1	201312	30:4	http://www.hyread.com.tw/hyreadnew/search_detail_journal.jsp?dtd_id=1&sysid=00000554	554
+師友雙月刊	1562-5818	師友月刊社	200101	403	201811	612	http://www.hyread.com.tw/hyreadnew/search_detail_journal.jsp?dtd_id=1&sysid=00000555	555
+International Journal of Applied Science and Engineering	1727-2394	朝陽科技大學理工學院	200303	1:1	202106	18:2	http://www.hyread.com.tw/hyreadnew/search_detail_journal.jsp?dtd_id=1&sysid=00000557	557
+止善	1992-0776	朝陽科技大學通識教育中心	200612	1	202012	29	http://www.hyread.com.tw/hyreadnew/search_detail_journal.jsp?dtd_id=1&sysid=00000558	558
+中原華語文學報	2070-1977	中原大學應用華語文學系	200804	1	202104	21	http://www.hyread.com.tw/hyreadnew/search_detail_journal.jsp?dtd_id=1&sysid=00000559	559
+資訊科技國際期刊	1996-2568	朝陽科技大學資訊學院	200710	1:1	201812	12:2	http://www.hyread.com.tw/hyreadnew/search_detail_journal.jsp?dtd_id=1&sysid=00000560	560
+水保技術研討會		中華民國水土保持技師公會全國聯合會	2008	2008	201301	2013	http://www.hyread.com.tw/hyreadnew/search_detail_journal.jsp?dtd_id=1&sysid=00000563	563
+企業管理學報	1025-9627	國立臺北大學企業管理學系	200004	46	202109	46:3	http://www.hyread.com.tw/hyreadnew/search_detail_journal.jsp?dtd_id=1&sysid=00000564	564
+醫療資訊雜誌	1021-3155	臺灣醫學資訊學會	200403	13:1	202106	30:2	http://www.hyread.com.tw/hyreadnew/search_detail_journal.jsp?dtd_id=1&sysid=00000565	565
+測驗統計年刊	1728-8231	國立臺中教育大學測驗統計與適性學習研究中心	200912	17下	201412	22下	http://www.hyread.com.tw/hyreadnew/search_detail_journal.jsp?dtd_id=1&sysid=00000567	567
+國民教育研究學報	1029-0192	國立嘉義大學國民教育研究所	200403	12	201003	24	http://www.hyread.com.tw/hyreadnew/search_detail_journal.jsp?dtd_id=1&sysid=00000568	568
+中華民國牙周病醫學會雜誌	1027-9962	中華民國牙周病醫學會	200003	5:1	200712	12:4	http://www.hyread.com.tw/hyreadnew/search_detail_journal.jsp?dtd_id=1&sysid=00000570	570
+臺灣牙周病醫學會雜誌	1027-9962	臺灣牙周病醫學會	200803	13:1	201612	21:4	http://www.hyread.com.tw/hyreadnew/search_detail_journal.jsp?dtd_id=1&sysid=00000571	571
+鵝湖學誌	1021-3732	東方人文學術研究基金會•中國哲學研究中心	198812	2	202106	66	http://www.hyread.com.tw/hyreadnew/search_detail_journal.jsp?dtd_id=1&sysid=00000572	572
+鵝湖	1813-3738	鵝湖月刊社	197507	1	202110	556	http://www.hyread.com.tw/hyreadnew/search_detail_journal.jsp?dtd_id=1&sysid=00000573	573
+海翁台語文學	1819-7485	開朗雜誌事業有限公司	200911	95	202111	239	http://www.hyread.com.tw/hyreadnew/search_detail_journal.jsp?dtd_id=1&sysid=00000574	574
+海翁台語文教學季刊	2072-9170	開朗雜誌事業有限公司	200809	1	201106	12	http://www.hyread.com.tw/hyreadnew/search_detail_journal.jsp?dtd_id=1&sysid=00000575	575
+臺灣中醫科學雜誌	1819-8384	台灣針刀醫學會	200602	1:1	201712	10:1	http://www.hyread.com.tw/hyreadnew/search_detail_journal.jsp?dtd_id=1&sysid=00000576	576
+植物病理學會刊	1021-9544	中華民國植物病理學會	200503	14:1	201406	23:2	http://www.hyread.com.tw/hyreadnew/search_detail_journal.jsp?dtd_id=1&sysid=00000577	577
+地籍測量：中華民國地籍測量學會會刊	2072-5507	中華民國地籍測量學會	198205	1	202109	40:3	http://www.hyread.com.tw/hyreadnew/search_detail_journal.jsp?dtd_id=1&sysid=00000579	579
+臺大日本語文研究	1609-8978	國立臺灣大學日本語文學系	200012	1	202106	41	http://www.hyread.com.tw/hyreadnew/search_detail_journal.jsp?dtd_id=1&sysid=00000580	580
+正覺學報		財團法人正覺教育基金會	200712	1	200912	3	http://www.hyread.com.tw/hyreadnew/search_detail_journal.jsp?dtd_id=1&sysid=00000581	581
+經濟論文叢刊	1018-3833	國立臺灣大學經濟學系	200909	37:3	202109	49:3	http://www.hyread.com.tw/hyreadnew/search_detail_journal.jsp?dtd_id=1&sysid=00000582	582
+臺灣藝術治療學刊	2077-0065	臺灣藝術治療學會	200906	1:1	201809	5:1	http://www.hyread.com.tw/hyreadnew/search_detail_journal.jsp?dtd_id=1&sysid=00000583	583
+International Journal of Computational Linguistics And Chinese Language Processing	1027-376x	中華民國計算語言學學會	199608	1	202106	26:1	http://www.hyread.com.tw/hyreadnew/search_detail_journal.jsp?dtd_id=1&sysid=00000584	584
+ROCLING論文集		中華民國計算語言學學會	1988	1988	2020	2020	http://www.hyread.com.tw/hyreadnew/search_detail_journal.jsp?dtd_id=1&sysid=00000585	585
+戲劇研究	2070-2663	國立臺灣大學戲劇學系	200801	創刊號	202107	28	http://www.hyread.com.tw/hyreadnew/search_detail_journal.jsp?dtd_id=1&sysid=00000586	586
+中華民國兒童胸腔醫學會雜誌		中華民國兒童胸腔醫學會	200210	3:3	201512	11:3	http://www.hyread.com.tw/hyreadnew/search_detail_journal.jsp?dtd_id=1&sysid=00000587	587
+危機管理學刊	1816-4714	中華民國危機管理學會	200403	1:1	201709	14:2	http://www.hyread.com.tw/hyreadnew/search_detail_journal.jsp?dtd_id=1&sysid=00000588	588
+東吳日語教育學報	1027-1155	東吳大學日本語文學系	200507	28	202103	54	http://www.hyread.com.tw/hyreadnew/search_detail_journal.jsp?dtd_id=1&sysid=00000589	589
+東吳外語學報	0259-3777	東吳大學外語學院	200503	20	202109	51	http://www.hyread.com.tw/hyreadnew/search_detail_journal.jsp?dtd_id=1&sysid=00000590	590
+東吳法律學報	0259-3750	東吳大學法學院	200608	18:1	202104	32:4	http://www.hyread.com.tw/hyreadnew/search_detail_journal.jsp?dtd_id=1&sysid=00000591	591
+東吳社會工作學報	1026-4493	東吳大學社會工作學系	200412	11	202106	40	http://www.hyread.com.tw/hyreadnew/search_detail_journal.jsp?dtd_id=1&sysid=00000592	592
+東吳社會學報	1019-0449	東吳大學社會學系	200412	17	200803	23	http://www.hyread.com.tw/hyreadnew/search_detail_journal.jsp?dtd_id=1&sysid=00000593	593
+東吳政治學報	1019-8636	東吳大學政治研究所	200409	19	202012	38:3	http://www.hyread.com.tw/hyreadnew/search_detail_journal.jsp?dtd_id=1&sysid=00000594	594
+東吳經濟商學學報	0259-3769	東吳大學商學院	200406	45	202106	102	http://www.hyread.com.tw/hyreadnew/search_detail_journal.jsp?dtd_id=1&sysid=00000595	595
+彰化師大國文學誌	1991-7856	國立彰化師範大學國文學系	200906	18	202012	40、41	http://www.hyread.com.tw/hyreadnew/search_detail_journal.jsp?dtd_id=1&sysid=00000596	596
+國際文化研究	1815-6576	真理大學	200506	1:1	202106	17:1	http://www.hyread.com.tw/hyreadnew/search_detail_journal.jsp?dtd_id=1&sysid=00000597	597
+農業經濟叢刊	1027-7757	臺灣農村經濟學會	199505	1:1	202106	27:1	http://www.hyread.com.tw/hyreadnew/search_detail_journal.jsp?dtd_id=1&sysid=00000598	598
+光連 ： 光電產業及技術情報	1682-2862	財團法人光電科技工業協進會	199601	1	202108	特刊164	http://www.hyread.com.tw/hyreadnew/search_detail_journal.jsp?dtd_id=1&sysid=00000599	599
+防蝕工程	1016-2356	中華民國防蝕工程學會	198404	1:1	202012	34:4	http://www.hyread.com.tw/hyreadnew/search_detail_journal.jsp?dtd_id=1&sysid=00000600	600
+國立臺灣大學生物資源暨農學院實驗林研究報告	0255-6014	國立臺灣大學生物資源暨農學院實驗林管理處	200306	17:2	202109	35:3	http://www.hyread.com.tw/hyreadnew/search_detail_journal.jsp?dtd_id=1&sysid=00000601	601
+商略學報	2073-2147	台灣管理學會	200912	1	202109	13:3	http://www.hyread.com.tw/hyreadnew/search_detail_journal.jsp?dtd_id=1&sysid=00000602	602
+美術學報		國立臺北藝術大學美術學院	201003	3	201110	4	http://www.hyread.com.tw/hyreadnew/search_detail_journal.jsp?dtd_id=1&sysid=00000603	603
+書府		國立臺灣大學圖書資訊學系系學會	197806	1	202105	39	http://www.hyread.com.tw/hyreadnew/search_detail_journal.jsp?dtd_id=1&sysid=00000605	605
+大漢學報	2071-4912	大漢技術學院	200601	20	201301	26	http://www.hyread.com.tw/hyreadnew/search_detail_journal.jsp?dtd_id=1&sysid=00000606	606
+臺大體育	1018-3868	國立臺灣大學體育室	199303	22	202106	72	http://www.hyread.com.tw/hyreadnew/search_detail_journal.jsp?dtd_id=1&sysid=00000609	609
+臺大體育學報	1991-2498	國立臺灣大學體育室	199805	1	202109	41	http://www.hyread.com.tw/hyreadnew/search_detail_journal.jsp?dtd_id=1&sysid=00000610	610
+休閒運動期刊		國立雲林科技大學休閒運動研究所	201007	9	201607	15	http://www.hyread.com.tw/hyreadnew/search_detail_journal.jsp?dtd_id=1&sysid=00000612	612
+Acta Cardiologica Sinica	1011-6842	中華民國心臟學會	200401	20:1	202111	37:6	http://www.hyread.com.tw/hyreadnew/search_detail_journal.jsp?dtd_id=1&sysid=00000613	613
+運輸計劃	1017-7159	交通部運輸研究所	200103	30:1	202109	50:3	http://www.hyread.com.tw/hyreadnew/search_detail_journal.jsp?dtd_id=1&sysid=00000614	614
+東吳哲學學報	1010-0725	東吳大學	201002	21	202108	44	http://www.hyread.com.tw/hyreadnew/search_detail_journal.jsp?dtd_id=1&sysid=00000615	615
+環球士心學報	2076-9431	環球科技大學通識教育中心	201003	創刊號	201201	3	http://www.hyread.com.tw/hyreadnew/search_detail_journal.jsp?dtd_id=1&sysid=00000617	617
+慈惠學報		慈惠醫護管理專科學校	201010	6	201212	8	http://www.hyread.com.tw/hyreadnew/search_detail_journal.jsp?dtd_id=1&sysid=00000618	618
+管理創新與教育研究學報		管理創新與教育研究學報編審委員會	200912	2	201106	5	http://www.hyread.com.tw/hyreadnew/search_detail_journal.jsp?dtd_id=1&sysid=00000619	619
+中國歷史學會史學集刊	1023-1893	中國歷史學會	200910	41	201110	43	http://www.hyread.com.tw/hyreadnew/search_detail_journal.jsp?dtd_id=1&sysid=00000620	620
+臺中教育大學學報. 教育類	1817-6402	國立臺中教育大學	200512	19:2	202106	35:1	http://www.hyread.com.tw/hyreadnew/search_detail_journal.jsp?dtd_id=1&sysid=00000622	622
+臺中教育大學學報. 人文藝術類	1817-6429	國立臺中教育大學	200512	19:2	202106	35:1	http://www.hyread.com.tw/hyreadnew/search_detail_journal.jsp?dtd_id=1&sysid=00000623	623
+臺中教育大學學報. 數理科技類	1817-6437	國立臺中教育大學	200512	19:2	202006	34:1	http://www.hyread.com.tw/hyreadnew/search_detail_journal.jsp?dtd_id=1&sysid=00000624	624
+大專高爾夫學刊	1814-7690	大專高爾夫學刊編輯委員會	201008	7	201308	10	http://www.hyread.com.tw/hyreadnew/search_detail_journal.jsp?dtd_id=1&sysid=00000625	625
+乾坤詩刊	1608-618X	乾坤詩刊雜誌社	201003	54	202109	100詩集	http://www.hyread.com.tw/hyreadnew/search_detail_journal.jsp?dtd_id=1&sysid=00000626	626
+鑛冶 ： 中國鑛冶工程學會會刊	0451-0011	中國鑛冶工程學會	201003	54:1	202109	65:3	http://www.hyread.com.tw/hyreadnew/search_detail_journal.jsp?dtd_id=1&sysid=00000627	627
+Optolink International Edition		財團法人光電科技工業協進會	200703	96Q1	201903	108年Q1	http://www.hyread.com.tw/hyreadnew/search_detail_journal.jsp?dtd_id=1&sysid=00000628	628
+築夢海洋-海生館科學教育專刊		國立海洋生物博物館	2003	92	201312	101	http://www.hyread.com.tw/hyreadnew/search_detail_journal.jsp?dtd_id=1&sysid=00000629	629
+Platax:An official publication of the National Museum of Marine Biology and Aquarium		國立海洋生物博物館	200412	1	202012	17	http://www.hyread.com.tw/hyreadnew/search_detail_journal.jsp?dtd_id=1&sysid=00000630	630
+海洋生物博物館年報		國立海洋生物博物館	2006	2006	2020	2020	http://www.hyread.com.tw/hyreadnew/search_detail_journal.jsp?dtd_id=1&sysid=00000631	631
+大學圖書館	1682-2889	國立臺灣大學圖書館	199701	1:1	201609	20:2	http://www.hyread.com.tw/hyreadnew/search_detail_journal.jsp?dtd_id=1&sysid=00000632	632
+朝陽學報	1026-244x	朝陽科技大學	199606	1	201607	21	http://www.hyread.com.tw/hyreadnew/search_detail_journal.jsp?dtd_id=1&sysid=00000633	633
+朝陽人文社會學刊	1684-6443	朝陽科技大學朝陽人文社會學刊編輯委員會	200206	1:1	201906	17:1	http://www.hyread.com.tw/hyreadnew/search_detail_journal.jsp?dtd_id=1&sysid=00000634	634
+朝陽商管評論	1684-2723	朝陽科技大學管理學院	200301	2:1	202001	18:1	http://www.hyread.com.tw/hyreadnew/search_detail_journal.jsp?dtd_id=1&sysid=00000635	635
+設計與環境學報	1729-3332	朝陽科技大學設計學院	200012	1	202012	21	http://www.hyread.com.tw/hyreadnew/search_detail_journal.jsp?dtd_id=1&sysid=00000636	636
+現代學術研究		財團法人現代學術研究基金會	201012	17	201303	18	http://www.hyread.com.tw/hyreadnew/search_detail_journal.jsp?dtd_id=1&sysid=00000637	637
+華岡工科學報		中國文化大學工學院	198406	2	198606	3	http://www.hyread.com.tw/hyreadnew/search_detail_journal.jsp?dtd_id=1&sysid=00000638	638
+華岡工程學報	2077-009X	中國文化大學工學院	198807	4	201206	29	http://www.hyread.com.tw/hyreadnew/search_detail_journal.jsp?dtd_id=1&sysid=00000639	639
+政治科學季評		國立臺灣大學政治學系暨研究所	200403	1	202110	61	http://www.hyread.com.tw/hyreadnew/search_detail_journal.jsp?dtd_id=1&sysid=00000640	640
+海峽兩岸體育研究學報	1995-1663	海峽兩岸體育研究學會	200703	1:1	202009	13:1	http://www.hyread.com.tw/hyreadnew/search_detail_journal.jsp?dtd_id=1&sysid=00000641	641
+海峽兩岸體育研究學會研討會論文集		海峽兩岸體育研究學會	200612	2006	201511	2015	http://www.hyread.com.tw/hyreadnew/search_detail_journal.jsp?dtd_id=1&sysid=00000642	642
+北投社雜誌季刊		臺北市八頭里仁協會	200606	40	201412	72	http://www.hyread.com.tw/hyreadnew/search_detail_journal.jsp?dtd_id=1&sysid=00000643	643
+國立臺灣大學哲學論評	1015-8995	國立臺灣大學哲學系	200406	27	202103	61	http://www.hyread.com.tw/hyreadnew/search_detail_journal.jsp?dtd_id=1&sysid=00000644	644
+作物、環境與生物資訊	1811-7406	臺灣農藝學會、中華農業氣象會	200409	1:3	202006	17:2	http://www.hyread.com.tw/hyreadnew/search_detail_journal.jsp?dtd_id=1&sysid=00000649	649
+文化研究	1816-0514	中華民國文化研究學會	200509	1	202110	33	http://www.hyread.com.tw/hyreadnew/search_detail_journal.jsp?dtd_id=1&sysid=00000650	650
+排球教練科學	1812-2779	謝天性排球發展基金會	200303	2	201512	21	http://www.hyread.com.tw/hyreadnew/search_detail_journal.jsp?dtd_id=1&sysid=00000651	651
+科技管理學刊	1028-7353	中華民國科技管理學會	200112	6:2	202106	26:1	http://www.hyread.com.tw/hyreadnew/search_detail_journal.jsp?dtd_id=1&sysid=00000652	652
+屏科大研發專刊	2076-880X	國立屏東科技大學研究發展處	201004	4	202012	2020專刊	http://www.hyread.com.tw/hyreadnew/search_detail_journal.jsp?dtd_id=1&sysid=00000653	653
+服務業管理評論	1814-5396	國立澎湖技術學院	201012	8	202012	15	http://www.hyread.com.tw/hyreadnew/search_detail_journal.jsp?dtd_id=1&sysid=00000654	654
+基層醫學		臺灣家庭醫學學會	200401	19:1	200903	24:3	http://www.hyread.com.tw/hyreadnew/search_detail_journal.jsp?dtd_id=1&sysid=00000655	655
+家庭醫學與基層醫療		臺灣家庭醫學醫學會	200904	24:4	202111	36:11	http://www.hyread.com.tw/hyreadnew/search_detail_journal.jsp?dtd_id=1&sysid=00000656	656
+台灣家庭醫學雜誌	1682-3281	台灣家庭醫學醫學會	200403	14:1	202109	31:3	http://www.hyread.com.tw/hyreadnew/search_detail_journal.jsp?dtd_id=1&sysid=00000657	657
+書畫藝術學刊	1993-7156	國立臺灣藝術大學	200611	1	202106	30	http://www.hyread.com.tw/hyreadnew/search_detail_journal.jsp?dtd_id=1&sysid=00000658	658
+造形藝術學刊		國立臺灣藝術大學書畫藝術學系	200212	2002	201812	2018	http://www.hyread.com.tw/hyreadnew/search_detail_journal.jsp?dtd_id=1&sysid=00000659	659
+中華針灸醫學會雜誌	1683-5875	中華針灸醫學會	199811	1	202006	23:1/2	http://www.hyread.com.tw/hyreadnew/search_detail_journal.jsp?dtd_id=1&sysid=00000661	661
+高大法學論叢	1819-8457	國立高雄大學法學院	200507	1:1	202109	17:1	http://www.hyread.com.tw/hyreadnew/search_detail_journal.jsp?dtd_id=1&sysid=00000662	662
+韓國學報	1021-4593	中華民國韓國研究學會	201006	21	201912	36	http://www.hyread.com.tw/hyreadnew/search_detail_journal.jsp?dtd_id=1&sysid=00000665	665
+資訊傳播學報		中國文化大學資訊傳播學系	2011	2011	201604	2016	http://www.hyread.com.tw/hyreadnew/search_detail_journal.jsp?dtd_id=1&sysid=00000666	666
+港灣報導	1019-2603	交通部運輸研究所	200902	82	201310	96	http://www.hyread.com.tw/hyreadnew/search_detail_journal.jsp?dtd_id=1&sysid=00000667	667
+中華水土保持學報	0255-6073	中華水土保持學會	201003	41:1	201609	47:3	http://www.hyread.com.tw/hyreadnew/search_detail_journal.jsp?dtd_id=1&sysid=00000668	668
+大氣科學	0254-0002	中華民國氣象學會	197403	1	202107	49:1	http://www.hyread.com.tw/hyreadnew/search_detail_journal.jsp?dtd_id=1&sysid=00000672	672
+行政暨政策學報	1728-6425	國立臺北大學公共行政暨政策學系	199910	1	202106	72	http://www.hyread.com.tw/hyreadnew/search_detail_journal.jsp?dtd_id=1&sysid=00000673	673
+孔學與人生		中國孔學會	200912	50	201603	74	http://www.hyread.com.tw/hyreadnew/search_detail_journal.jsp?dtd_id=1&sysid=00000674	674
+臺灣獸醫學雜誌	1682-6485	中華民國獸醫學會	200803	34:1	201403	40:1	http://www.hyread.com.tw/hyreadnew/search_detail_journal.jsp?dtd_id=1&sysid=00000675	675
+台灣昆蟲	1680-7650	臺灣昆蟲學會	200703	27:1	202108	41:3	http://www.hyread.com.tw/hyreadnew/search_detail_journal.jsp?dtd_id=1&sysid=00000676	676
+農業經營管理	1027-3751	台灣農業經營管理學會	201002	15	201102	16	http://www.hyread.com.tw/hyreadnew/search_detail_journal.jsp?dtd_id=1&sysid=00000677	677
+明道學術論壇	1817-6682	明道大學	200509	1	202006	11:2/12:1	http://www.hyread.com.tw/hyreadnew/search_detail_journal.jsp?dtd_id=1&sysid=00000678	678
+休閒保健期刊		明道大學休閒保健學系	200906	1	202012	24	http://www.hyread.com.tw/hyreadnew/search_detail_journal.jsp?dtd_id=1&sysid=00000679	679
+明道日本語教育		明道大學應用日語學系	200709	1	201508	9	http://www.hyread.com.tw/hyreadnew/search_detail_journal.jsp?dtd_id=1&sysid=00000680	680
+明道通識論叢	1993-6346	明道大學	200609	1	201012	9	http://www.hyread.com.tw/hyreadnew/search_detail_journal.jsp?dtd_id=1&sysid=00000681	681
+模型與工具雜誌	1026-7298	傳勝股份有限公司	199603	1=78	201312	111	http://www.hyread.com.tw/hyreadnew/search_detail_journal.jsp?dtd_id=1&sysid=00000682	682
+海外表面處理家		傳勝股份有限公司	200212	1	200505	12	http://www.hyread.com.tw/hyreadnew/search_detail_journal.jsp?dtd_id=1&sysid=00000683	683
+臺灣史研究	1024-2805	中央研究院臺灣史研究所	199406	1:1	202109	28:3	http://www.hyread.com.tw/hyreadnew/search_detail_journal.jsp?dtd_id=1&sysid=00000684	684
+表面工業雜誌	1016-7374	表面工業雜誌社	199302	37	201312	91	http://www.hyread.com.tw/hyreadnew/search_detail_journal.jsp?dtd_id=1&sysid=00000685	685
+台灣教育	1816-6482	台灣省教育會	200404	626	202110	731	http://www.hyread.com.tw/hyreadnew/search_detail_journal.jsp?dtd_id=1&sysid=00000686	686
+品質學報	1022-0690	中華民國品質學會	201002	17:1	201112	18:6	http://www.hyread.com.tw/hyreadnew/search_detail_journal.jsp?dtd_id=1&sysid=00000687	687
+農業與資源經濟	1729-2794	臺灣農業與資源經濟學會	200712	4:2	201412	8:2	http://www.hyread.com.tw/hyreadnew/search_detail_journal.jsp?dtd_id=1&sysid=00000689	689
+運輸學刊	1027-2275	中華民國運輸學會	200503	17:1	202109	33:3	http://www.hyread.com.tw/hyreadnew/search_detail_journal.jsp?dtd_id=1&sysid=00000690	690
+大葉學報	1021-7940	大葉大學	200312	12:2	200412	13:2	http://www.hyread.com.tw/hyreadnew/search_detail_journal.jsp?dtd_id=1&sysid=00000691	691
+人文暨社會科學期刊	1816-6571	大葉大學	200506	1:1	201412	10:2	http://www.hyread.com.tw/hyreadnew/search_detail_journal.jsp?dtd_id=1&sysid=00000692	692
+科學與工程技術期刊	1816-6563	大葉大學	200506	1:1	202109	17:2	http://www.hyread.com.tw/hyreadnew/search_detail_journal.jsp?dtd_id=1&sysid=00000693	693
+行銷評論	1813-4483	華泰文化事業股份有限公司	200409	1:1	202012	17:2	http://www.hyread.com.tw/hyreadnew/search_detail_journal.jsp?dtd_id=1&sysid=00000694	694
+臺灣急診專科醫師期刊	2077-351X	臺灣急診專科醫師醫學會、臺灣緊急醫療救護訓練協會	200912	1:1	201412	6:2	http://www.hyread.com.tw/hyreadnew/search_detail_journal.jsp?dtd_id=1&sysid=00000695	695
+禪天下	1683-7754	禪天下出版有限公司	200905	84	202112	201	http://www.hyread.com.tw/hyreadnew/search_detail_journal.jsp?dtd_id=1&sysid=00000696	696
+Journal of Grey System	1028-9488	中華民國灰色系統學會	200406	7:1	201909	22:1	http://www.hyread.com.tw/hyreadnew/search_detail_journal.jsp?dtd_id=1&sysid=00000697	697
+中華傳統獸醫學會會刊		中華傳統獸醫學會	200912	13:2	201805	22:1	http://www.hyread.com.tw/hyreadnew/search_detail_journal.jsp?dtd_id=1&sysid=00000698	698
+華岡哲學學報	2073-3712	中國文化大學哲學系	200906	1	201406	6	http://www.hyread.com.tw/hyreadnew/search_detail_journal.jsp?dtd_id=1&sysid=00000699	699
+電子商務研究	1726-2364	國立臺北大學資訊管理研究所	200306	1:1	201912	17:4	http://www.hyread.com.tw/hyreadnew/search_detail_journal.jsp?dtd_id=1&sysid=00000700	700
+思與言：人文與社會科學雜誌	0258-8412	思與言雜誌社	200403	42:1	202106	59:2	http://www.hyread.com.tw/hyreadnew/search_detail_journal.jsp?dtd_id=1&sysid=00000701	701
+中華民國家庭牙醫學雜誌	2072-2613	中華民國家庭牙醫學會	200806	3:1	201503	9:4	http://www.hyread.com.tw/hyreadnew/search_detail_journal.jsp?dtd_id=1&sysid=00000703	703
+電腦稽核	2073-090X	中華民國電腦稽核協會	201007	22	202108	44	http://www.hyread.com.tw/hyreadnew/search_detail_journal.jsp?dtd_id=1&sysid=00000704	704
+東港安泰醫護雜誌	1811-1955	安泰醫療社團法人安泰醫院	200406	10:2	200806	14:1	http://www.hyread.com.tw/hyreadnew/search_detail_journal.jsp?dtd_id=1&sysid=00000705	705
+安泰醫護雜誌	1811-1955	安泰醫療社團法人安泰醫院	200808	14:2	202112	27:2	http://www.hyread.com.tw/hyreadnew/search_detail_journal.jsp?dtd_id=1&sysid=00000706	706
+圖文傳播藝術學報		國立臺灣藝術大學圖文傳播藝術學系	200505	2005	202103	2021	http://www.hyread.com.tw/hyreadnew/search_detail_journal.jsp?dtd_id=1&sysid=00000707	707
+創新研發學刊	1814-1927	中華創新研發學會	201006	6:1	202006	15:1	http://www.hyread.com.tw/hyreadnew/search_detail_journal.jsp?dtd_id=1&sysid=00000708	708
+Journal of Medical Sciences	1011-4564	國防醫學院	200512	25:6	202110	41:5	http://www.hyread.com.tw/hyreadnew/search_detail_journal.jsp?dtd_id=1&sysid=00000709	709
+金色蓮花：佛學月刊	1023-0319	金色蓮花雜誌社	199301	1	201106	222	http://www.hyread.com.tw/hyreadnew/search_detail_journal.jsp?dtd_id=1&sysid=00000710	710
+國立臺中技術學院學報	1607-2413	國立臺中技術學院	200707	8:2	201206	16	http://www.hyread.com.tw/hyreadnew/search_detail_journal.jsp?dtd_id=1&sysid=00000712	712
+NTU Studies in Language and Literature　	1018-3914	國立臺灣大學外國語文學系	200706	17	201806	39	http://www.hyread.com.tw/hyreadnew/search_detail_journal.jsp?dtd_id=1&sysid=00000713	713
+臺灣文學研究集刊	1818-5649	國立臺灣大學臺灣文學研究所	201008	8	202102	25	http://www.hyread.com.tw/hyreadnew/search_detail_journal.jsp?dtd_id=1&sysid=00000714	714
+Hwa Kang English Journal	2218-8088	中國文化大學英國語文學系	201007	16	202107	26	http://www.hyread.com.tw/hyreadnew/search_detail_journal.jsp?dtd_id=1&sysid=00000717	717
+消費者報導	1020-7547	中華民國消費者文教基金會	200610	306	202112	488	http://www.hyread.com.tw/hyreadnew/search_detail_journal.jsp?dtd_id=1&sysid=00000719	719
+童綜合醫學雜誌	2071-3592	童綜合醫學雜誌社	201006	4:1	202109	15特刊	http://www.hyread.com.tw/hyreadnew/search_detail_journal.jsp?dtd_id=1&sysid=00000720	720
+國防管理學報	1022-4858	國防大學管理學院	198806	9:2	202105	42:1	http://www.hyread.com.tw/hyreadnew/search_detail_journal.jsp?dtd_id=1&sysid=00000723	723
+國家發展研究	1017-1355	國立臺灣大學國家發展研究所	200512	5:1	202106	20:2	http://www.hyread.com.tw/hyreadnew/search_detail_journal.jsp?dtd_id=1&sysid=00000724	724
+建築經理季刊		中華民國建築經理商業同業公會	200710	23	201010	26	http://www.hyread.com.tw/hyreadnew/search_detail_journal.jsp?dtd_id=1&sysid=00000729	729
+暨南史學	1606-8343	國立暨南國際大學歷史學系	200607	9	202007	23	http://www.hyread.com.tw/hyreadnew/search_detail_journal.jsp?dtd_id=1&sysid=00000731	731
+長庚護理	1026-7301	財團法人長庚紀念醫院	200003	11:1=29	202106	32:2=114	http://www.hyread.com.tw/hyreadnew/search_detail_journal.jsp?dtd_id=1&sysid=00000733	733
+幼兒教育	2075-0382	中國幼稚教育學會	201009	299	202111	332	http://www.hyread.com.tw/hyreadnew/search_detail_journal.jsp?dtd_id=1&sysid=00000734	734
+臺灣男性學醫學會會訊		台灣男性學醫學會	200204	4:1	202110	10:7	http://www.hyread.com.tw/hyreadnew/search_detail_journal.jsp?dtd_id=1&sysid=00000735	735
+建築學報	1016-3212	臺灣建築學會	200108	37	202106	116	http://www.hyread.com.tw/hyreadnew/search_detail_journal.jsp?dtd_id=1&sysid=00000736	736
+臺灣應用輻射與同位素雜誌	1815-6290	臺灣應用輻射與同位素協會	200512	1:1	202106	17:2	http://www.hyread.com.tw/hyreadnew/search_detail_journal.jsp?dtd_id=1&sysid=00000737	737
+車輛工程學刊	1996-7942	中華民國汽車工程學會	200705	4	201612	12	http://www.hyread.com.tw/hyreadnew/search_detail_journal.jsp?dtd_id=1&sysid=00000738	738
+帷幕牆會刊	1025-4390	中華民國帷幕牆技術發展協會	201106	25	201605	29	http://www.hyread.com.tw/hyreadnew/search_detail_journal.jsp?dtd_id=1&sysid=00000739	739
+中華民國血液淨化醫學會雜誌	1021-3112	中華民國血液淨化醫學會	200906	14:1/2	201506	18:1/2	http://www.hyread.com.tw/hyreadnew/search_detail_journal.jsp?dtd_id=1&sysid=00000740	740
+城市與設計學報	1028-1207	中華民國都市設計學會	200809	20	201906	24	http://www.hyread.com.tw/hyreadnew/search_detail_journal.jsp?dtd_id=1&sysid=00000741	741
+科技、醫療與社會	1680-5585	國立科學工藝博物館	200103	1	202110	33	http://www.hyread.com.tw/hyreadnew/search_detail_journal.jsp?dtd_id=1&sysid=00000742	742
+臺中教育大學體育學系系刊		國立臺中教育大學教育學系	201006	5	202012	15	http://www.hyread.com.tw/hyreadnew/search_detail_journal.jsp?dtd_id=1&sysid=00000743	743
+台灣土地研究(北大)	1606-4682	國立臺北大學公共事務學院地政學系	200105	2	200105	2	http://www.hyread.com.tw/hyreadnew/search_detail_journal.jsp?dtd_id=1&sysid=00000748	748
+中國造船暨輪機工程學刊	1023-4535	中國造船暨輪機工程師學會	200802	27:1	202008	39:3	http://www.hyread.com.tw/hyreadnew/search_detail_journal.jsp?dtd_id=1&sysid=00000752	752
+運動教練科學	1818-2801	中華民國運動教練協會	201009	19	201112	24	http://www.hyread.com.tw/hyreadnew/search_detail_journal.jsp?dtd_id=1&sysid=00000753	753
+植物種苗	1562-2746	中華種苗學會	200503	7:1	201703	19:1	http://www.hyread.com.tw/hyreadnew/search_detail_journal.jsp?dtd_id=1&sysid=00000754	754
+建國科大理工期刊	1815-1639	建國科技大學	201010	30:1	201704	36:2	http://www.hyread.com.tw/hyreadnew/search_detail_journal.jsp?dtd_id=1&sysid=00000755	755
+建國科大社會人文期刊	1815-1639	建國科技大學	201101	30:1	201707	36:2	http://www.hyread.com.tw/hyreadnew/search_detail_journal.jsp?dtd_id=1&sysid=00000756	756
+臺灣教育發展論壇	2220-0460	新竹教育大學教育學系	201009	1	201206	5	http://www.hyread.com.tw/hyreadnew/search_detail_journal.jsp?dtd_id=1&sysid=00000761	761
+美和學報	1998-1848	美和科技大學	201009	29:2	202005	38:2	http://www.hyread.com.tw/hyreadnew/search_detail_journal.jsp?dtd_id=1&sysid=00000763	763
+資優教育季刊	1561-3801	中華民國特殊教育學會	201003	114	201912	151	http://www.hyread.com.tw/hyreadnew/search_detail_journal.jsp?dtd_id=1&sysid=00000765	765
+特殊教育季刊	1561-3798	中華民國特殊教育學會	201003	114	202103	158	http://www.hyread.com.tw/hyreadnew/search_detail_journal.jsp?dtd_id=1&sysid=00000766	766
+臺灣腎臟護理學會雜誌	1726-7404	臺灣腎臟護理學會	200208	1:1	202109	20:1	http://www.hyread.com.tw/hyreadnew/search_detail_journal.jsp?dtd_id=1&sysid=00000767	767
+台灣日本語文學報	1727-2262	台灣日本語文學會	200112	16	202106	49	http://www.hyread.com.tw/hyreadnew/search_detail_journal.jsp?dtd_id=1&sysid=00000769	769
+明新學報	1728-760X	明新科技大學	200707	33:1	202012	44:1	http://www.hyread.com.tw/hyreadnew/search_detail_journal.jsp?dtd_id=1&sysid=00000770	770
+財產法暨經濟法	1816-4641	臺灣財產法暨經濟法研究協會	201103	25	201706	49	http://www.hyread.com.tw/hyreadnew/search_detail_journal.jsp?dtd_id=1&sysid=00000771	771
+長榮大學學報	1029-3086	長榮大學	201006	14:1	201312	17:2	http://www.hyread.com.tw/hyreadnew/search_detail_journal.jsp?dtd_id=1&sysid=00000772	772
+嶺東學報	1811-1912	嶺東科技大學	200712	22	202012	47	http://www.hyread.com.tw/hyreadnew/search_detail_journal.jsp?dtd_id=1&sysid=00000773	773
+民生論叢	2074-8159	實踐大學民生學院	200907	2	201807	15	http://www.hyread.com.tw/hyreadnew/search_detail_journal.jsp?dtd_id=1&sysid=00000774	774
+健康管理學刊	1811-1947	社團法人臺灣健康管理學會	200306	1:1	202106	19:1	http://www.hyread.com.tw/hyreadnew/search_detail_journal.jsp?dtd_id=1&sysid=00000775	775
+臺東大學體育學報	1818-2623	國立臺東大學體育學系	201006	12	202012	33	http://www.hyread.com.tw/hyreadnew/search_detail_journal.jsp?dtd_id=1&sysid=00000776	776
+崑山科技大學人文暨社會科學學報		崑山科技大學通識教育中心	200906	1	201210	4	http://www.hyread.com.tw/hyreadnew/search_detail_journal.jsp?dtd_id=1&sysid=00000777	777
+體育運動史學術研討會論文集		國立臺東大學體育學系	201012	2010	201012	2010	http://www.hyread.com.tw/hyreadnew/search_detail_journal.jsp?dtd_id=1&sysid=00000778	778
+臺東大學人文學報		國立臺東大學人文學院	201112	1:2	202012	10:2	http://www.hyread.com.tw/hyreadnew/search_detail_journal.jsp?dtd_id=1&sysid=00000779	779
+人類與文化		人類與文化編輯委員會	201110	42	201110	42	http://www.hyread.com.tw/hyreadnew/search_detail_journal.jsp?dtd_id=1&sysid=00000781	781
+幼兒運動遊戲年刊	2223-3598	台灣幼兒體育學會	2005	1	201804	10	http://www.hyread.com.tw/hyreadnew/search_detail_journal.jsp?dtd_id=1&sysid=00000782	782
+中華圖書資訊館際合作協會通訊	1028-1908	中華圖書資訊館際合作協會	200812	44-48	202012	83	http://www.hyread.com.tw/hyreadnew/search_detail_journal.jsp?dtd_id=1&sysid=00000783	783
+犯罪與刑事司法研究	1810-4045	國立臺北大學犯罪學研究所	200307	1	202011	33	http://www.hyread.com.tw/hyreadnew/search_detail_journal.jsp?dtd_id=1&sysid=00000786	786
+研究臺灣	1991-7937	國立臺北大學社會學系	200706	2	201306	8	http://www.hyread.com.tw/hyreadnew/search_detail_journal.jsp?dtd_id=1&sysid=00000787	787
+早期中國史研究	2075-0366	早期中國史研究編輯委員會	201006	2:1	202012	12	http://www.hyread.com.tw/hyreadnew/search_detail_journal.jsp?dtd_id=1&sysid=00000788	788
+人醫心傳：慈濟醫療人文月刊		財團法人中華民國佛教慈濟慈善事業基金會醫療志業發展處	201009	81	202111	215	http://www.hyread.com.tw/hyreadnew/search_detail_journal.jsp?dtd_id=1&sysid=00000789	789
+Medicine with Humanity		財團法人中華民國佛教慈濟慈善事業基金會醫療志業發展處	200406	1	200805	9	http://www.hyread.com.tw/hyreadnew/search_detail_journal.jsp?dtd_id=1&sysid=00000790	790
+Tzu Chi Medical Care：Medicine with Humanity		財團法人中華民國佛教慈濟慈善事業基金會醫療志業發展處	201012	11	201501	19	http://www.hyread.com.tw/hyreadnew/search_detail_journal.jsp?dtd_id=1&sysid=00000791	791
+台灣金融財務季刊	1607-9256	台灣金融研訓院	200909	10:3	201306	14:2	http://www.hyread.com.tw/hyreadnew/search_detail_journal.jsp?dtd_id=1&sysid=00000792	792
+健康世界	1607-7059	健康世界有限公司	201001	409	202111	539	http://www.hyread.com.tw/hyreadnew/search_detail_journal.jsp?dtd_id=1&sysid=00000793	793
+致理通識學報		致理科技大學通識教育中心	200711	1	200911	2	http://www.hyread.com.tw/hyreadnew/search_detail_journal.jsp?dtd_id=1&sysid=00000794	794
+臺灣海洋性貧血協會會刊		臺灣海洋性貧血協會	200308	27	202109	58	http://www.hyread.com.tw/hyreadnew/search_detail_journal.jsp?dtd_id=1&sysid=00000795	795
+職能治療學會雜誌	1013-7661	社團法人臺灣職能治療學會	201012	28:2	202106	39:1	http://www.hyread.com.tw/hyreadnew/search_detail_journal.jsp?dtd_id=1&sysid=00000796	796
+嘉大史地		國立嘉義大學史地系學會	200602	1	200809	3	http://www.hyread.com.tw/hyreadnew/search_detail_journal.jsp?dtd_id=1&sysid=00000797	797
+臺灣老人保健學刊	1818-6009	臺灣老人保健學會	200507	1:1	202012	16:1/2	http://www.hyread.com.tw/hyreadnew/search_detail_journal.jsp?dtd_id=1&sysid=00000798	798
+玄奘社會科學學報	1815-6517	玄奘大學	201111	9	201407	12	http://www.hyread.com.tw/hyreadnew/search_detail_journal.jsp?dtd_id=1&sysid=00000799	799
+玄奘人文學報		玄奘大學	201107	11	201107	11	http://www.hyread.com.tw/hyreadnew/search_detail_journal.jsp?dtd_id=1&sysid=00000800	800
+玄奘佛學研究	1813-3649	玄奘大學	200407	1	202109	36	http://www.hyread.com.tw/hyreadnew/search_detail_journal.jsp?dtd_id=1&sysid=00000801	801
+玄奘管理學報	1815-6525	玄奘大學	201103	8:1	201203	8:2	http://www.hyread.com.tw/hyreadnew/search_detail_journal.jsp?dtd_id=1&sysid=00000802	802
+玄奘資訊傳播學報	1815-6533	玄奘大學	201107	8	201207	9	http://www.hyread.com.tw/hyreadnew/search_detail_journal.jsp?dtd_id=1&sysid=00000803	803
+淡江外語論叢	1562-7675	淡江大學外國語文學院	201012	16	202012	34	http://www.hyread.com.tw/hyreadnew/search_detail_journal.jsp?dtd_id=1&sysid=00000804	804
+遠景基金會季刊	1560-1696	財團法人兩岸交流遠景基金會	200910	10:4	202107	22:3	http://www.hyread.com.tw/hyreadnew/search_detail_journal.jsp?dtd_id=1&sysid=00000805	805
+資訊管理學報	1608-5752	中華民國資訊管理學會	200801	15:1	202107	28:3	http://www.hyread.com.tw/hyreadnew/search_detail_journal.jsp?dtd_id=1&sysid=00000806	806
+資訊管理學報專刊		中華民國資訊管理學會	201012	17專刊	201012	17專刊	http://www.hyread.com.tw/hyreadnew/search_detail_journal.jsp?dtd_id=1&sysid=00000807	807
+中華民國資訊管理學會研討會論文集		中華民國資訊管理學會	2011	100	2012	101	http://www.hyread.com.tw/hyreadnew/search_detail_journal.jsp?dtd_id=1&sysid=00000808	808
+澄清醫護管理雜誌	1813-6702	財團法人澄清基金會	201101	7:1	202110	17:4	http://www.hyread.com.tw/hyreadnew/search_detail_journal.jsp?dtd_id=1&sysid=00000809	809
+表面技術雜誌	1016-7382	表面技術雜誌社	199702	163	201602	199	http://www.hyread.com.tw/hyreadnew/search_detail_journal.jsp?dtd_id=1&sysid=00000810	810
+臺灣觀光學報	2073-3259	臺灣觀光學院	201007	7	201509	10	http://www.hyread.com.tw/hyreadnew/search_detail_journal.jsp?dtd_id=1&sysid=00000811	811
+臺灣健康照顧研究學刊	1994-6236	臺灣健康照顧研究學會	200606	1	202107	24	http://www.hyread.com.tw/hyreadnew/search_detail_journal.jsp?dtd_id=1&sysid=00000812	812
+資訊與管理科學	2072-0971	資訊與管理科學期刊編輯委員會	200812	1:1	202107	14:1	http://www.hyread.com.tw/hyreadnew/search_detail_journal.jsp?dtd_id=1&sysid=00000813	813
+青少年犯罪防治研究期刊	2078-0249	台灣青少年犯罪防治研究學會	200906	1:1	202106	13:1	http://www.hyread.com.tw/hyreadnew/search_detail_journal.jsp?dtd_id=1&sysid=00000814	814
+嘉大中文學報	2073-3690	國立嘉義大學中國文學系	201009	4	202011	14	http://www.hyread.com.tw/hyreadnew/search_detail_journal.jsp?dtd_id=1&sysid=00000815	815
+臺灣東亞文明研究學刊	1812-6243	國立臺灣大學人文社會高等研究院	200606	3:1	201606	13:1	http://www.hyread.com.tw/hyreadnew/search_detail_journal.jsp?dtd_id=1&sysid=00000816	816
+生態臺灣	1991-4903	台灣生態學會	200310	創刊號	202110	73	http://www.hyread.com.tw/hyreadnew/search_detail_journal.jsp?dtd_id=1&sysid=00000817	817
+視覺藝術論壇	1029-0206	國立嘉義大學視覺藝術學系暨研究所	200607	1	202012	15	http://www.hyread.com.tw/hyreadnew/search_detail_journal.jsp?dtd_id=1&sysid=00000818	818
+人文研究期刊	1996-7934	國立嘉義大學人文藝術學院	201012	8	201812	14	http://www.hyread.com.tw/hyreadnew/search_detail_journal.jsp?dtd_id=1&sysid=00000819	819
+藝術研究期刊	1996-8019	國立嘉義大學人文藝術學院	201012	6	201712	13	http://www.hyread.com.tw/hyreadnew/search_detail_journal.jsp?dtd_id=1&sysid=00000820	820
+國立臺灣藝術大學戲劇學系研究生學術研討會論文集		國立臺灣藝術大學戲劇學系	201106	2010	201107	2011下冊	http://www.hyread.com.tw/hyreadnew/search_detail_journal.jsp?dtd_id=1&sysid=00000821	821
+四季兒童教育專刊	1816-6695	四季文化事業有限公司	200203	9	202004	52	http://www.hyread.com.tw/hyreadnew/search_detail_journal.jsp?dtd_id=1&sysid=00000822	822
+崑山科技大學學報		崑山科技大學	201008	7	201509	10	http://www.hyread.com.tw/hyreadnew/search_detail_journal.jsp?dtd_id=1&sysid=00000823	823
+身心障礙研究	1729-2832	財團法人中華啟能基金會	200307	1:1	202106	19:1/2	http://www.hyread.com.tw/hyreadnew/search_detail_journal.jsp?dtd_id=1&sysid=00000824	824
+車輛研測資訊	1561-381X	財團法人車輛研究測試中心	200902	68	201512	109	http://www.hyread.com.tw/hyreadnew/search_detail_journal.jsp?dtd_id=1&sysid=00000825	825
+臺灣原住民族研究	2070-9730	國立東華大學原民院	200803	1:1春季號	201912	12:2	http://www.hyread.com.tw/hyreadnew/search_detail_journal.jsp?dtd_id=1&sysid=00000826	826
+台灣體育發展學術研討會		輔仁大學體育學系	2010	99年	2011	100年	http://www.hyread.com.tw/hyreadnew/search_detail_journal.jsp?dtd_id=1&sysid=00000830	830
+外勞資訊通[中英文版]		新北市政府勞工局	201012	2010.冬季號	201511	24	http://www.hyread.com.tw/hyreadnew/search_detail_journal.jsp?dtd_id=1&sysid=00000852	852
+外勞資訊通[中印尼版]		新北市政府勞工局	201012	2010.冬季號	201511	24	http://www.hyread.com.tw/hyreadnew/search_detail_journal.jsp?dtd_id=1&sysid=00000854	854
+婦女與兩性學刊	1018-3922	臺灣大學人口研究中心婦女研究室	199001	1	200106	12	http://www.hyread.com.tw/hyreadnew/search_detail_journal.jsp?dtd_id=1&sysid=00000855	855
+外勞資訊通[中泰文版]		新北市政府勞工局	201012	2010.冬季號	201511	24	http://www.hyread.com.tw/hyreadnew/search_detail_journal.jsp?dtd_id=1&sysid=00000856	856
+婦女研究通訊	1018-3949	臺灣大學人口研究中心婦女研究室	198512	1	199406	32	http://www.hyread.com.tw/hyreadnew/search_detail_journal.jsp?dtd_id=1&sysid=00000857	857
+外勞資訊通[中越文版]		新北市政府勞工局	201012	2010.冬季號	201511	24	http://www.hyread.com.tw/hyreadnew/search_detail_journal.jsp?dtd_id=1&sysid=00000858	858
+婦女與兩性研究通訊	1018-3949	臺灣大學人口研究中心婦女研究室	199412	33	200109	60	http://www.hyread.com.tw/hyreadnew/search_detail_journal.jsp?dtd_id=1&sysid=00000859	859
+日本語日本文學	1609-896X	輔仁大學外語學院日本語文學系	200907	34	202007	49	http://www.hyread.com.tw/hyreadnew/search_detail_journal.jsp?dtd_id=1&sysid=00000865	865
+卦山史話		國立彰化師範大學歷史研究所研究生學會	201006	3	201706	7	http://www.hyread.com.tw/hyreadnew/search_detail_journal.jsp?dtd_id=1&sysid=00000869	869
+劇說．戲言		國立臺灣大學戲劇研究所學會	201004	7	201004	7	http://www.hyread.com.tw/hyreadnew/search_detail_journal.jsp?dtd_id=1&sysid=00000870	870
+地圖 ＝ Formosa Map		台灣古地圖文物史料協會	200907	3	201107	4	http://www.hyread.com.tw/hyreadnew/search_detail_journal.jsp?dtd_id=1&sysid=00000873	873
+朝陽設計學報	1729-3332	朝陽科技大學設計學院	200012	1	200606	7	http://www.hyread.com.tw/hyreadnew/search_detail_journal.jsp?dtd_id=1&sysid=00000877	877
+display-all		財團法人光電科技工業協進會	201005	18	201205	26	http://www.hyread.com.tw/hyreadnew/search_detail_journal.jsp?dtd_id=1&sysid=00000878	878
+明道中文學報	2078-4317	明道大學	200811	1	200909	2	http://www.hyread.com.tw/hyreadnew/search_detail_journal.jsp?dtd_id=1&sysid=00000879	879
+食品藥物研究年報	2219-5718	衛生福利部食品藥物管理署	201011	1	202012	11	http://www.hyread.com.tw/hyreadnew/search_detail_journal.jsp?dtd_id=1&sysid=00000884	884
+觀光研究學報	1025-5273	中華觀光管理學會	200503	11:1	200712	13:4	http://www.hyread.com.tw/hyreadnew/search_detail_journal.jsp?dtd_id=1&sysid=00000885	885
+觀光休閒學報	1025-5273	中華觀光管理學會	200804	14:1	202104	27:1	http://www.hyread.com.tw/hyreadnew/search_detail_journal.jsp?dtd_id=1&sysid=00000886	886
+中華觀光管理學會研討會論文集		中華觀光管理學會	2011	100	2011	100	http://www.hyread.com.tw/hyreadnew/search_detail_journal.jsp?dtd_id=1&sysid=00000887	887
+崇仁學報		崇仁醫護管理專科學校	200712	1	202103	13	http://www.hyread.com.tw/hyreadnew/search_detail_journal.jsp?dtd_id=1&sysid=00000888	888
+醫院雙月刊	1024-106x	台灣醫院協會	200702	40:1	202109	54:3	http://www.hyread.com.tw/hyreadnew/search_detail_journal.jsp?dtd_id=1&sysid=00000889	889
+海洋工程學刊	1683-5972	臺灣海洋工程學會	200111	1:1	201212	12:2	http://www.hyread.com.tw/hyreadnew/search_detail_journal.jsp?dtd_id=1&sysid=00000890	890
+醫療品質雜誌	1994-5795	財團法人醫院評鑑暨醫療品質策進會	200701	1:1	202111	15:6	http://www.hyread.com.tw/hyreadnew/search_detail_journal.jsp?dtd_id=1&sysid=00000891	891
+臺大中文學報	1013-2422	國立臺灣大學中國文學系	200612	25	202106	73	http://www.hyread.com.tw/hyreadnew/search_detail_journal.jsp?dtd_id=1&sysid=00000893	893
+中華印刷科技年報	2220-2579	社團法人中華印刷科技學會	200803	2008	202105	2021	http://www.hyread.com.tw/hyreadnew/search_detail_journal.jsp?dtd_id=1&sysid=00000894	894
+航空太空及民航學刊	1990-7729	中華民國航空太空學會	200604	38:1	201204	44:1	http://www.hyread.com.tw/hyreadnew/search_detail_journal.jsp?dtd_id=1&sysid=00000895	895
+台灣應用日語研究	1998-7579	台灣應用日語學會	201007	7	202106	27	http://www.hyread.com.tw/hyreadnew/search_detail_journal.jsp?dtd_id=1&sysid=00000896	896
+聽障教育			201112	10	201812	17	http://www.hyread.com.tw/hyreadnew/search_detail_journal.jsp?dtd_id=1&sysid=00000897	897
+Asian Journal of Arts and Sciences	2221-4224	亞洲大學	201006	1:1	201112	2:2	http://www.hyread.com.tw/hyreadnew/search_detail_journal.jsp?dtd_id=1&sysid=00000898	898
+微系統暨奈米科技協會會刊		中華民國微系統暨奈米科技協會	201106	25	202006	43	http://www.hyread.com.tw/hyreadnew/search_detail_journal.jsp?dtd_id=1&sysid=00000899	899
+台灣銀行家	2077-0103	台灣金融研訓院	201001	1	202112	144	http://www.hyread.com.tw/hyreadnew/search_detail_journal.jsp?dtd_id=1&sysid=00000900	900
+軍法專刊	0529-5483	軍法專刊社	199101	37:1	202110	67:5	http://www.hyread.com.tw/hyreadnew/search_detail_journal.jsp?dtd_id=1&sysid=00000901	901
+台灣首府大學學報	2219-5769	台灣首府大學	201009	1	201411	5	http://www.hyread.com.tw/hyreadnew/search_detail_journal.jsp?dtd_id=1&sysid=00000902	902
+臨床家庭牙醫學雜誌		中華民國家庭牙醫學會	200709	2:3	200803	2:4	http://www.hyread.com.tw/hyreadnew/search_detail_journal.jsp?dtd_id=1&sysid=00000903	903
+環境與世界	1029-3159	國立高雄師範大學地理學系	200111	5	201912	33	http://www.hyread.com.tw/hyreadnew/search_detail_journal.jsp?dtd_id=1&sysid=00000904	904
+高雄師大學報:人文與藝術類	1021-4542	國立高雄師範大學	200906	26	202106	50	http://www.hyread.com.tw/hyreadnew/search_detail_journal.jsp?dtd_id=1&sysid=00000905	905
+高雄師大學報:教育與社會科學類	1021-4542	國立高雄師範大學	200906	26	202106	50	http://www.hyread.com.tw/hyreadnew/search_detail_journal.jsp?dtd_id=1&sysid=00000906	906
+高雄師大學報:自然科學與科技類	1021-4542	國立高雄師範大學	200906	26	202106	50	http://www.hyread.com.tw/hyreadnew/search_detail_journal.jsp?dtd_id=1&sysid=00000907	907
+數位學習科技期刊	2071-260X	臺灣數位學習與內容學會	200809	1:1	202104	13:2	http://www.hyread.com.tw/hyreadnew/search_detail_journal.jsp?dtd_id=1&sysid=00000908	908
+土壤與環境	1029-2950	中華土壤肥料學會	200506	8:1/2	201612	19:1/2	http://www.hyread.com.tw/hyreadnew/search_detail_journal.jsp?dtd_id=1&sysid=00000909	909
+海峽兩岸土壤肥料學術交流研討會論文集		中華土壤肥料學會	201012	8	201410	10	http://www.hyread.com.tw/hyreadnew/search_detail_journal.jsp?dtd_id=1&sysid=00000910	910
+有機農業研究成果及管理技術研討會專刊		中華土壤肥料學會	201010	2010	201010	2010	http://www.hyread.com.tw/hyreadnew/search_detail_journal.jsp?dtd_id=1&sysid=00000911	911
+臺灣國家政策學刊		社團法人台灣國家政策學會	200708	1	201210	6	http://www.hyread.com.tw/hyreadnew/search_detail_journal.jsp?dtd_id=1&sysid=00000912	912
+台灣猛禽研究	1817-6364	台灣猛禽研究會	201105	11	201610	16	http://www.hyread.com.tw/hyreadnew/search_detail_journal.jsp?dtd_id=1&sysid=00000913	913
+中華放射線技術學雜誌	1684-9418	中華民國放射線技術學會	200912	33:2	202109	45:3	http://www.hyread.com.tw/hyreadnew/search_detail_journal.jsp?dtd_id=1&sysid=00000914	914
+嶺東設計學報		嶺東科技大學視覺傳達設計系	201005	1	201005	1	http://www.hyread.com.tw/hyreadnew/search_detail_journal.jsp?dtd_id=1&sysid=00000915	915
+中華民國物理治療學會雜誌	1013-7688	中華民國物理治療學會	199103	16:1	199911	26:6	http://www.hyread.com.tw/hyreadnew/search_detail_journal.jsp?dtd_id=1&sysid=00000917	917
+物理治療	1563-2555	臺灣物理治療學會	200001	25:1	202106	46:2	http://www.hyread.com.tw/hyreadnew/search_detail_journal.jsp?dtd_id=1&sysid=00000918	918
+文資學報	1814-3121	國立臺北藝術大學文化資源學院	2009	5	202012	13	http://www.hyread.com.tw/hyreadnew/search_detail_journal.jsp?dtd_id=1&sysid=00000919	919
+嘉大教育研究學刊	1029-0192	國立嘉義大學教育學系(含研究所)	201009	25	202006	44	http://www.hyread.com.tw/hyreadnew/search_detail_journal.jsp?dtd_id=1&sysid=00000920	920
+影像處理暨通訊期刊		元培醫事科技大學行動科技應用系	2009	1	201812	10:1	http://www.hyread.com.tw/hyreadnew/search_detail_journal.jsp?dtd_id=1&sysid=00000921	921
+工作與休閒學刊		中華民國原始生活教育學會	201009	2:1	201707	5:1	http://www.hyread.com.tw/hyreadnew/search_detail_journal.jsp?dtd_id=1&sysid=00000922	922
+鄉村旅遊研究	1997-3691	亞洲大學休閒與遊憩管理學系	200706	1:1	201712	10:2	http://www.hyread.com.tw/hyreadnew/search_detail_journal.jsp?dtd_id=1&sysid=00000923	923
+信用風險評估專刊	2518-0525	台灣經濟新報社	200208	1	202109	35	http://www.hyread.com.tw/hyreadnew/search_detail_journal.jsp?dtd_id=1&sysid=00000924	924
+植物保護學會會刊	0577-750X	中華植物保護學會	201003	52:1	201512	57:4	http://www.hyread.com.tw/hyreadnew/search_detail_journal.jsp?dtd_id=1&sysid=00000925	925
+植物保護通報		中華植物保護學會	201006	23	201307	28	http://www.hyread.com.tw/hyreadnew/search_detail_journal.jsp?dtd_id=1&sysid=00000926	926
+中國飲食文化	1811-9301	中華飲食文化基金會	200501	1:1	202110	17:2	http://www.hyread.com.tw/hyreadnew/search_detail_journal.jsp?dtd_id=1&sysid=00000927	927
+中華民國計算語言學會通訊		中華民國計算語言學學會	200403	15:1	201412	25:2	http://www.hyread.com.tw/hyreadnew/search_detail_journal.jsp?dtd_id=1&sysid=00000928	928
+Journal of Aeronautics, Astronautics and Aviation . Series A	1990-7710	中華民國航空太空學會	200603	38:1	201209	44:3	http://www.hyread.com.tw/hyreadnew/search_detail_journal.jsp?dtd_id=1&sysid=00000929	929
+國立臺灣體育運動大學體育學系(所)刊	1994-8131	國立臺灣體育運動大學體育學系暨體育研究所	200505	5	201708	16	http://www.hyread.com.tw/hyreadnew/search_detail_journal.jsp?dtd_id=1&sysid=00000931	931
+實踐通識論叢	1810-133x	實踐大學通識教育中心	200406	2	200601	5	http://www.hyread.com.tw/hyreadnew/search_detail_journal.jsp?dtd_id=1&sysid=00000932	932
+實踐通識學報	1810-133x	實踐大學通識教育中心	200607	6	200607	6	http://www.hyread.com.tw/hyreadnew/search_detail_journal.jsp?dtd_id=1&sysid=00000933	933
+實踐博雅學報	1810-133x	實踐大學博雅學部	200701	7	202106	32	http://www.hyread.com.tw/hyreadnew/search_detail_journal.jsp?dtd_id=1&sysid=00000934	934
+社會科教育研究	1729-2557	國立臺中師範學院社會科教育學系	199612	1	200912	14	http://www.hyread.com.tw/hyreadnew/search_detail_journal.jsp?dtd_id=1&sysid=00000935	935
+區域與社會發展研究	2221-1551	國立臺中教育大學區域與社會發展學系	201012	1	202012	11	http://www.hyread.com.tw/hyreadnew/search_detail_journal.jsp?dtd_id=1&sysid=00000936	936
+臺灣職能治療研究與實務雜誌		社團法人中華民國職能治療師公會全國聯合會	200511	1:1	202106	17:1	http://www.hyread.com.tw/hyreadnew/search_detail_journal.jsp?dtd_id=1&sysid=00000937	937
+關渡通識學刊	1816-3491	國立臺北藝術大學通識教育委員會	200912	5	201804	13	http://www.hyread.com.tw/hyreadnew/search_detail_journal.jsp?dtd_id=1&sysid=00000938	938
+新使者	1027-2399	長老教會總會新使者雜誌社	201104	123	202110	180	http://www.hyread.com.tw/hyreadnew/search_detail_journal.jsp?dtd_id=1&sysid=00000939	939
+鄉間小路	1015-8367	財團法人豐年社	199107	17:27	202112	47:12	http://www.hyread.com.tw/hyreadnew/search_detail_journal.jsp?dtd_id=1&sysid=00000941	941
+豐年	0017-8195	財團法人豐年社	195107	1:1	202111	71:11	http://www.hyread.com.tw/hyreadnew/search_detail_journal.jsp?dtd_id=1&sysid=00000942	942
+教育與多元文化研究	2078-0222	國立東華大學花師教育學院	200912	1	202011	22	http://www.hyread.com.tw/hyreadnew/search_detail_journal.jsp?dtd_id=1&sysid=00000943	943
+銘傳日本語教育	1029-6271	銘傳大學應用語文學院應用日語學系	200610	9	202110	24	http://www.hyread.com.tw/hyreadnew/search_detail_journal.jsp?dtd_id=1&sysid=00000944	944
+休閒與社會研究	2219-5777	休閒與社會研究編輯委員會	201006	1	202106	23	http://www.hyread.com.tw/hyreadnew/search_detail_journal.jsp?dtd_id=1&sysid=00000945	945
+育達科大學報	1811-3192	育達商業科技大學	201012	25	202106	49	http://www.hyread.com.tw/hyreadnew/search_detail_journal.jsp?dtd_id=1&sysid=00000946	946
+健康生活與成功老化學刊	2076-5495	臺北市健康生活與成功老化學會	200904	1:1	202011	12:1	http://www.hyread.com.tw/hyreadnew/search_detail_journal.jsp?dtd_id=1&sysid=00000947	947
+東海學報(工學院)	2226-3144	東海大學工學院	200912	48	201408	52	http://www.hyread.com.tw/hyreadnew/search_detail_journal.jsp?dtd_id=1&sysid=00000948	948
+東海哲學研究集刊	1025-5095	東海大學哲學研究所	200507	10	201307	19	http://www.hyread.com.tw/hyreadnew/search_detail_journal.jsp?dtd_id=1&sysid=00000949	949
+東海科學	1023-8719	東海大學理學院	199907	1	202007	22	http://www.hyread.com.tw/hyreadnew/search_detail_journal.jsp?dtd_id=1&sysid=00000950	950
+多元文化交流	2078-7359	東海大學日本語文學系	201106	3	202106	13	http://www.hyread.com.tw/hyreadnew/search_detail_journal.jsp?dtd_id=1&sysid=00000951	951
+東海教育評論	2071-4882	東海大學教育研究所	200810	創刊號	202010	14	http://www.hyread.com.tw/hyreadnew/search_detail_journal.jsp?dtd_id=1&sysid=00000952	952
+東海管理評論	1023-8719	東海大學管理學院	201107	12:1(特刊)	201907	21:1	http://www.hyread.com.tw/hyreadnew/search_detail_journal.jsp?dtd_id=1&sysid=00000953	953
+東海大學圖書館館訊	1682-1599	東海大學圖書館	201107	118	201512	171	http://www.hyread.com.tw/hyreadnew/search_detail_journal.jsp?dtd_id=1&sysid=00000954	954
+當代社會工作學刊		東海大學社會工作學系	201409	6	201809	10	http://www.hyread.com.tw/hyreadnew/search_detail_journal.jsp?dtd_id=1&sysid=00000955	955
+東海創藝學報		東海大學創意設計暨藝術學院	201306	3	201905	7	http://www.hyread.com.tw/hyreadnew/search_detail_journal.jsp?dtd_id=1&sysid=00000956	956
+組織與管理	1996-8760	台灣組織與管理學會	200802	1:1	202108	14:2	http://www.hyread.com.tw/hyreadnew/search_detail_journal.jsp?dtd_id=1&sysid=00000957	957
+中國航空太空學會學刊	1022-0666	中華民國航空太空學會	199403	26:1	200512	37:4	http://www.hyread.com.tw/hyreadnew/search_detail_journal.jsp?dtd_id=1&sysid=00000958	958
+絲織園地		臺灣區絲織工業同業公會	199207	1	202104	116	http://www.hyread.com.tw/hyreadnew/search_detail_journal.jsp?dtd_id=1&sysid=00000959	959
+絲織快訊		臺灣區絲織工業同業公會	201001	1627	202112	2248	http://www.hyread.com.tw/hyreadnew/search_detail_journal.jsp?dtd_id=1&sysid=00000960	960
+坡地防災學報	1727-8708	中華坡地防災學會	2002	1:1	201912	18:2	http://www.hyread.com.tw/hyreadnew/search_detail_journal.jsp?dtd_id=1&sysid=00000961	961
+臨床心理學刊	1813-6419	台灣臨床心理學會	200506	2:1	201306	7:1	http://www.hyread.com.tw/hyreadnew/search_detail_journal.jsp?dtd_id=1&sysid=00000962	962
+臨床心理通訊		台灣臨床心理學會	200602	32	201405	61	http://www.hyread.com.tw/hyreadnew/search_detail_journal.jsp?dtd_id=1&sysid=00000963	963
+International Journal of Science and Engineering	2223-4489	國立臺南大學	201104	1:1創刊號	202104	11:1	http://www.hyread.com.tw/hyreadnew/search_detail_journal.jsp?dtd_id=1&sysid=00000964	964
+藝術與設計學報	2220-3354	國立高雄師範大學藝術學院	201009	創刊號	201612	2	http://www.hyread.com.tw/hyreadnew/search_detail_journal.jsp?dtd_id=1&sysid=00000965	965
+International Journal of Kansei Information	2218-399X	台灣感性資訊學會	201009	1:1	201806	9:2	http://www.hyread.com.tw/hyreadnew/search_detail_journal.jsp?dtd_id=1&sysid=00000966	966
+感性工學研討會論文		台灣感性資訊學會	201105	2011	201111	2011	http://www.hyread.com.tw/hyreadnew/search_detail_journal.jsp?dtd_id=1&sysid=00000968	968
+奈米通訊	1209-502X	國家奈米元件實驗室出版委員會	200903	16:1	201809	25:3	http://www.hyread.com.tw/hyreadnew/search_detail_journal.jsp?dtd_id=1&sysid=00000969	969
+NDL Newsletter		國家奈米元件實驗室出版委員會	200704	4	200810	13	http://www.hyread.com.tw/hyreadnew/search_detail_journal.jsp?dtd_id=1&sysid=00000970	970
+台灣勞動評論	2074-4889	社團法人台灣勞動與社會保障協會	200906	1:1	201412	5:1	http://www.hyread.com.tw/hyreadnew/search_detail_journal.jsp?dtd_id=1&sysid=00000971	971
+中華科技史同好會會刊		中華科技史學會	200001	1:1	200212	6	http://www.hyread.com.tw/hyreadnew/search_detail_journal.jsp?dtd_id=1&sysid=00000972	972
+中華科技史學會會刊		中華科技史學會	200404	7	200712	11	http://www.hyread.com.tw/hyreadnew/search_detail_journal.jsp?dtd_id=1&sysid=00000973	973
+中華科技史學會學刊	2075-7379	中華科技史學會	200812	12	202012	25	http://www.hyread.com.tw/hyreadnew/search_detail_journal.jsp?dtd_id=1&sysid=00000974	974
+嶺東通識教育研究學刊	1811-4105	嶺東科技大學通識教育中心	200502	1:1	202108	9:2	http://www.hyread.com.tw/hyreadnew/search_detail_journal.jsp?dtd_id=1&sysid=00000975	975
+嶺東體育		嶺東技術學院	200103	創刊號	200204	2	http://www.hyread.com.tw/hyreadnew/search_detail_journal.jsp?dtd_id=1&sysid=00000976	976
+嶺東體育學刊		嶺東技術學院體育室	200410	3	200410	3	http://www.hyread.com.tw/hyreadnew/search_detail_journal.jsp?dtd_id=1&sysid=00000977	977
+嶺東體育暨休閒學刊	1991-2552	嶺東科技大學	200606	4	202106	19	http://www.hyread.com.tw/hyreadnew/search_detail_journal.jsp?dtd_id=1&sysid=00000978	978
+東吳中文學報	1027-1163	東吳大學中文系	200505	11	202105	41	http://www.hyread.com.tw/hyreadnew/search_detail_journal.jsp?dtd_id=1&sysid=00000979	979
+東吳中文線上學術論文	2075-0404	東吳大學中文系	200803	1	202109	55	http://www.hyread.com.tw/hyreadnew/search_detail_journal.jsp?dtd_id=1&sysid=00000980	980
+有鳳初鳴年刊		東吳大學中國文學系碩博士班學生會	200910	5	202007	16	http://www.hyread.com.tw/hyreadnew/search_detail_journal.jsp?dtd_id=1&sysid=00000981	981
+史轍	1819-8414	東吳大學歷史學系	201107	7	202007	15	http://www.hyread.com.tw/hyreadnew/search_detail_journal.jsp?dtd_id=1&sysid=00000982	982
+東吳歷史學報	1025-0689	東吳大學歷史學系	201106	25	202012	40	http://www.hyread.com.tw/hyreadnew/search_detail_journal.jsp?dtd_id=1&sysid=00000983	983
+病歷資訊管理期刊	1682-7988	台灣病歷資訊管理學會	200909	9:1	202104	19:2	http://www.hyread.com.tw/hyreadnew/search_detail_journal.jsp?dtd_id=1&sysid=00000984	984
+臺灣原住民研究論叢		臺灣原住民教授學會	200706	1	201912	26	http://www.hyread.com.tw/hyreadnew/search_detail_journal.jsp?dtd_id=1&sysid=00000985	985
+台灣生物多樣性研究	2076-6971	行政院農業委員會特有生物研究保育中心	201001	12:1	202107	23:3	http://www.hyread.com.tw/hyreadnew/search_detail_journal.jsp?dtd_id=1&sysid=00000986	986
+修平學報	1817-2954	修平科技大學	201103	22	202103	41/42	http://www.hyread.com.tw/hyreadnew/search_detail_journal.jsp?dtd_id=1&sysid=00000987	987
+修平人文社會學報	1817-2962	修平科技大學	201103	16	201309	21	http://www.hyread.com.tw/hyreadnew/search_detail_journal.jsp?dtd_id=1&sysid=00000988	988
+中國畜牧學會會誌	0253-9187	中國畜牧學會	199603	25:1	202106	50:2	http://www.hyread.com.tw/hyreadnew/search_detail_journal.jsp?dtd_id=1&sysid=00000990	990
+多國籍企業管理評論	1995-5392	中華民國國多國籍企業研究學會	200703	1:1	202009	14:2	http://www.hyread.com.tw/hyreadnew/search_detail_journal.jsp?dtd_id=1&sysid=00000992	992
+國立臺灣海洋大學海運學報	1022-7571	國立臺灣海洋大學海運暨管理學院	200906	18:1	201611	25:1	http://www.hyread.com.tw/hyreadnew/search_detail_journal.jsp?dtd_id=1&sysid=00000994	994
+教師專業研究期刊	2225-0042	國立嘉義大學/教師之友雜誌社	201106	創刊號	201906	17	http://www.hyread.com.tw/hyreadnew/search_detail_journal.jsp?dtd_id=1&sysid=00000995	995
+教育資料與圖書館學	1013-090X	淡江大學資訊與圖書館學系	200303	40:3	202106	58:2	http://www.hyread.com.tw/hyreadnew/search_detail_journal.jsp?dtd_id=1&sysid=00000996	996
+社會分析	2218-6689	社會分析編輯委員會	201008	1	201808	17	http://www.hyread.com.tw/hyreadnew/search_detail_journal.jsp?dtd_id=1&sysid=00000997	997
+第三部門學刊	1811-0940	第三部門學刊編輯委員會	200609	6	201903	23	http://www.hyread.com.tw/hyreadnew/search_detail_journal.jsp?dtd_id=1&sysid=00000998	998
+政大史粹	1562-7721	國立政治大學歷史學系	199906	1	202009	35	http://www.hyread.com.tw/hyreadnew/search_detail_journal.jsp?dtd_id=1&sysid=00000999	999
+顧客滿意學刊	1816-4668	中華顧客滿意學會	200503	1:1	201709	13:2	http://www.hyread.com.tw/hyreadnew/search_detail_journal.jsp?dtd_id=1&sysid=00001000	1000
+司法改革雜誌	1680-7758	財團法人民間司法改革基金會	199510	0	201501	103	http://www.hyread.com.tw/hyreadnew/search_detail_journal.jsp?dtd_id=1&sysid=00001001	1001
+設計學報	1606-8327	中華民國設計學會	199612	1:1	202109	26:3	http://www.hyread.com.tw/hyreadnew/search_detail_journal.jsp?dtd_id=1&sysid=00001002	1002
+教育行政研究	2223-5000	中華民國教育行政學會	201106	1:1	201906	9:1	http://www.hyread.com.tw/hyreadnew/search_detail_journal.jsp?dtd_id=1&sysid=00001003	1003
+地圖 ： 中華民國地圖學會會刊	1022-9728	中華民國地圖學會	199005	1	201711	27	http://www.hyread.com.tw/hyreadnew/search_detail_journal.jsp?dtd_id=1&sysid=00001004	1004
+文化生活	1813-3711	屏東縣立文化中心	201106	64=2011夏季號	201512	82=2015冬季號	http://www.hyread.com.tw/hyreadnew/search_detail_journal.jsp?dtd_id=1&sysid=00001005	1005
+屏東文獻	1813-3703	屏東縣政府文化局	201112	15	201912	23	http://www.hyread.com.tw/hyreadnew/search_detail_journal.jsp?dtd_id=1&sysid=00001006	1006
+Journal of Computers	1991-1599	中華民國電腦學會	200704	18:1	202110	32:5	http://www.hyread.com.tw/hyreadnew/search_detail_journal.jsp?dtd_id=1&sysid=00001007	1007
+另類教育	2222-0542	台灣另類教育學會	201103	1	201609	4	http://www.hyread.com.tw/hyreadnew/search_detail_journal.jsp?dtd_id=1&sysid=00001008	1008
+臺南科大學報(人文管理類. 生活藝術類)	2078- 7340	臺南科技大學	200910	28	201010	29	http://www.hyread.com.tw/hyreadnew/search_detail_journal.jsp?dtd_id=1&sysid=00001009	1009
+臺南應用科大學報(人文管理類. 生活藝術類)	2078- 7340	台南應用科技大學	201110	30	201410	33	http://www.hyread.com.tw/hyreadnew/search_detail_journal.jsp?dtd_id=1&sysid=00001010	1010
+政大日本研究	1810-1186	國立政治大學日本語文學系	200401	創刊號	202101	18	http://www.hyread.com.tw/hyreadnew/search_detail_journal.jsp?dtd_id=1&sysid=00001011	1011
+文化越界		政治大學外國語文學院跨文化研究中心	201003	1:3	201712	2:3	http://www.hyread.com.tw/hyreadnew/search_detail_journal.jsp?dtd_id=1&sysid=00001012	1012
+習慣領域期刊	1998-9121	國立交通大學資管所習慣領域研究室、社團法人中華民國習慣領域學會	200911	1:1	202103	12:1	http://www.hyread.com.tw/hyreadnew/search_detail_journal.jsp?dtd_id=1&sysid=00001013	1013
+中華管理學報	1818-4480	中華大學管理學院	200003	1:1	201109	12:3	http://www.hyread.com.tw/hyreadnew/search_detail_journal.jsp?dtd_id=1&sysid=00001014	1014
+中華民國氣象學會會刊		中華民國氣象學會	201003	51	201703	58	http://www.hyread.com.tw/hyreadnew/search_detail_journal.jsp?dtd_id=1&sysid=00001015	1015
+觀光旅遊研究學刊	1993-6362	銘傳大學觀光學院	200610	1	202106	16:1	http://www.hyread.com.tw/hyreadnew/search_detail_journal.jsp?dtd_id=1&sysid=00001016	1016
+中華禮儀		中華殯葬禮儀協會	199601	1	201706	36	http://www.hyread.com.tw/hyreadnew/search_detail_journal.jsp?dtd_id=1&sysid=00001017	1017
+農科新世紀		行政院農業委員會屏東農業生物技術園區籌備處	201112	12	202012	21	http://www.hyread.com.tw/hyreadnew/search_detail_journal.jsp?dtd_id=1&sysid=00001018	1018
+台灣內視鏡外科醫學會會訊		台灣內視鏡外科醫學會	201203	19	201502	22	http://www.hyread.com.tw/hyreadnew/search_detail_journal.jsp?dtd_id=1&sysid=00001019	1019
+中國現代文學	1684-4238	中國現代文學學會	200812	14	202106	39	http://www.hyread.com.tw/hyreadnew/search_detail_journal.jsp?dtd_id=1&sysid=00001020	1020
+海峽兩岸華文文學學術研討會論文集		中國現代文學學會	200303	2003	200707	2007	http://www.hyread.com.tw/hyreadnew/search_detail_journal.jsp?dtd_id=1&sysid=00001021	1021
+藝術與文化論衡	2218-6670	國立勤益科技大學	201009	1	201412	4	http://www.hyread.com.tw/hyreadnew/search_detail_journal.jsp?dtd_id=1&sysid=00001022	1022
+實踐設計學報	2409-2649	實踐大學設計學院	201109	5	202111	15	http://www.hyread.com.tw/hyreadnew/search_detail_journal.jsp?dtd_id=1&sysid=00001023	1023
+臺東大學綠色科學學刊	2223-6961	國立臺東大學理工學院	201105	1:1	201511	5:2	http://www.hyread.com.tw/hyreadnew/search_detail_journal.jsp?dtd_id=1&sysid=00001024	1024
+物業管理學報	2076-5509	臺灣物業管理學會	201003	1:1	202109	12:2	http://www.hyread.com.tw/hyreadnew/search_detail_journal.jsp?dtd_id=1&sysid=00001025	1025
+物業管理研究成果發表會論文集		臺灣物業管理學會	201009	4	202106	14	http://www.hyread.com.tw/hyreadnew/search_detail_journal.jsp?dtd_id=1&sysid=00001026	1026
+中華防災學刊		中華防災學會	200908	1:1	202109	13:2	http://www.hyread.com.tw/hyreadnew/search_detail_journal.jsp?dtd_id=1&sysid=00001027	1027
+島嶼觀光研究	2072-5388	國立澎湖科技大學	200809	1:1	202108	13:4	http://www.hyread.com.tw/hyreadnew/search_detail_journal.jsp?dtd_id=1&sysid=00001028	1028
+海大漁推	1023-0750	國立臺灣海洋大學漁業推廣委員會	199007	1	202012	50	http://www.hyread.com.tw/hyreadnew/search_detail_journal.jsp?dtd_id=1&sysid=00001029	1029
+貝類學報	0250-6378	中華民國貝類學會	200712	31	202101	44	http://www.hyread.com.tw/hyreadnew/search_detail_journal.jsp?dtd_id=1&sysid=00001030	1030
+湖南文獻		湖南文獻雜誌社	201010	151=38:4	201210	160=40:4	http://www.hyread.com.tw/hyreadnew/search_detail_journal.jsp?dtd_id=1&sysid=00001031	1031
+全民休閒發展學刊	2227-2089	中華民國全民休閒發展協會	201108	5:1	201706	10:1	http://www.hyread.com.tw/hyreadnew/search_detail_journal.jsp?dtd_id=1&sysid=00001032	1032
+中華土壤肥料學會研討會論文集		中華土壤肥料學會	201105	100	201212	101	http://www.hyread.com.tw/hyreadnew/search_detail_journal.jsp?dtd_id=1&sysid=00001033	1033
+兩岸共同市場基金會通訊	1726-7323	財團法人兩岸共同市場基金	201112	18	201906	28	http://www.hyread.com.tw/hyreadnew/search_detail_journal.jsp?dtd_id=1&sysid=00001034	1034
+台灣國際研究季刊	1816-2622	台灣國際研究學會	200701	3:1	202110	17:3	http://www.hyread.com.tw/hyreadnew/search_detail_journal.jsp?dtd_id=1&sysid=00001035	1035
+統計與資訊評論	1026-9614	統計與資訊評論編輯委員會	201009	12	202012	20	http://www.hyread.com.tw/hyreadnew/search_detail_journal.jsp?dtd_id=1&sysid=00001038	1038
+台灣日語教育學報	1993-7423	台灣日語教育學會	201006	14	202106	36	http://www.hyread.com.tw/hyreadnew/search_detail_journal.jsp?dtd_id=1&sysid=00001039	1039
+交大體育學刊	2219-5696	國立交通大學體育室	201106	1	202012	16	http://www.hyread.com.tw/hyreadnew/search_detail_journal.jsp?dtd_id=1&sysid=00001040	1040
+東吳中文研究集刊	1561-3828	東吳中文研究所學會	199405	1	201912	25	http://www.hyread.com.tw/hyreadnew/search_detail_journal.jsp?dtd_id=1&sysid=00001041	1041
+美術學刊		國立臺灣藝術大學美術學系	201006	1	201601	5	http://www.hyread.com.tw/hyreadnew/search_detail_journal.jsp?dtd_id=1&sysid=00001043	1043
+臺灣社區工作與社區研究學刊	2223-7240	臺灣社區工作與社區研究學會	201104	1:1	202104	11:1	http://www.hyread.com.tw/hyreadnew/search_detail_journal.jsp?dtd_id=1&sysid=00001044	1044
+Architecture Science	2219-1577	臺灣建築學會、內政部建築研究所	201006	1	202012	22	http://www.hyread.com.tw/hyreadnew/search_detail_journal.jsp?dtd_id=1&sysid=00001045	1045
+資訊管理與工程學報	1022-0720	中華民國公共工程資訊學會	201205	8:2	201205	8:2	http://www.hyread.com.tw/hyreadnew/search_detail_journal.jsp?dtd_id=1&sysid=00001046	1046
+經國學報	1563-1141	經國管理暨健康學院	200605	23	202012	36	http://www.hyread.com.tw/hyreadnew/search_detail_journal.jsp?dtd_id=1&sysid=00001047	1047
+新臺北護理期刊	1563-1230	臺北醫學大學	199908	1:1	201803	20:1	http://www.hyread.com.tw/hyreadnew/search_detail_journal.jsp?dtd_id=1&sysid=00001048	1048
+清華學報	0577-9170	國立清華大學	200512	35:2	202112	51:4	http://www.hyread.com.tw/hyreadnew/search_detail_journal.jsp?dtd_id=1&sysid=00001050	1050
+空間設計學報	1814-3148	中華民國空間設計學會	201106	11	201412	16	http://www.hyread.com.tw/hyreadnew/search_detail_journal.jsp?dtd_id=1&sysid=00001051	1051
+家庭教育雙月刊	1816-9651	社團法人中華民國家庭教育專業人員協會	200605	1	201901	77	http://www.hyread.com.tw/hyreadnew/search_detail_journal.jsp?dtd_id=1&sysid=00001052	1052
+燃燒學會會刊		中華民國燃燒學會	199803	22	202108	30:3=114	http://www.hyread.com.tw/hyreadnew/search_detail_journal.jsp?dtd_id=1&sysid=00001053	1053
+特殊教育研究學刊	1026-4485	國立臺灣師範大學特殊教育學系	200703	32:1	202106	46:2	http://www.hyread.com.tw/hyreadnew/search_detail_journal.jsp?dtd_id=1&sysid=00001054	1054
+中華民國癌症醫學會雜誌	1015-6267	中華民國癌症醫學會	200309	19:3	200912	專刊	http://www.hyread.com.tw/hyreadnew/search_detail_journal.jsp?dtd_id=1&sysid=00001055	1055
+臺灣癌症醫學雜誌	2311-3006	中華民國癌症醫學會	201002	26:1	201403	30:1	http://www.hyread.com.tw/hyreadnew/search_detail_journal.jsp?dtd_id=1&sysid=00001056	1056
+疼痛醫學雜誌	1021-7959	台灣疼痛醫學會	200403	14:1	202003	30:1	http://www.hyread.com.tw/hyreadnew/search_detail_journal.jsp?dtd_id=1&sysid=00001057	1057
+國立金門大學學報	2221-142X	國立金門大學	201103	1	202110	9:2	http://www.hyread.com.tw/hyreadnew/search_detail_journal.jsp?dtd_id=1&sysid=00001058	1058
+城市學學刊	2078-4279	高雄市立空中大學	201003	1:1	202109	11:1	http://www.hyread.com.tw/hyreadnew/search_detail_journal.jsp?dtd_id=1&sysid=00001059	1059
+中西整合醫學雜誌	1607-2928	臺灣中西整合醫學會	199905	1:1	202106	23:1	http://www.hyread.com.tw/hyreadnew/search_detail_journal.jsp?dtd_id=1&sysid=00001060	1060
+中西整合醫學會會訊		臺灣中西整合醫學會	200603	1	202110	77	http://www.hyread.com.tw/hyreadnew/search_detail_journal.jsp?dtd_id=1&sysid=00001061	1061
+高餐通識教育學刊		國立高雄餐旅學院	201112	7	201212	8	http://www.hyread.com.tw/hyreadnew/search_detail_journal.jsp?dtd_id=1&sysid=00001064	1064
+育達人文社會學報		育達商業科技大學	200407	1	201307	10	http://www.hyread.com.tw/hyreadnew/search_detail_journal.jsp?dtd_id=1&sysid=00001065	1065
+高應科大人文社會科學學報	1815-0373	國立高雄應用科技大學人文社會學院	200407	1	201712	12:1	http://www.hyread.com.tw/hyreadnew/search_detail_journal.jsp?dtd_id=1&sysid=00001066	1066
+彰化護理	1818-2747	財團法人彰化基督教醫院護理部	200306	10:2	202109	28:3	http://www.hyread.com.tw/hyreadnew/search_detail_journal.jsp?dtd_id=1&sysid=00001067	1067
+國立臺灣科技大學人文社會學報	1819-7205	國立臺灣科技大學	201112	7:3	202109	17:3	http://www.hyread.com.tw/hyreadnew/search_detail_journal.jsp?dtd_id=1&sysid=00001068	1068
+逢甲人文社會學報	1682-587N	逢甲大學人文社會學院	201012	21	202106	42	http://www.hyread.com.tw/hyreadnew/search_detail_journal.jsp?dtd_id=1&sysid=00001072	1072
+樹德科技大學學報	1670-243X	樹德科技大學	201101	13:1	202107	23:2	http://www.hyread.com.tw/hyreadnew/search_detail_journal.jsp?dtd_id=1&sysid=00001073	1073
+語言暨語言學	1606-822x	中央研究院語言學研究所	200001	1:1	201610	17:6	http://www.hyread.com.tw/hyreadnew/search_detail_journal.jsp?dtd_id=1&sysid=00001074	1074
+寶建醫護與管理雜誌	1683-0806	寶建醫院醫學教育委員會	201012	8:2	201812	15:1/2	http://www.hyread.com.tw/hyreadnew/search_detail_journal.jsp?dtd_id=1&sysid=00001075	1075
+國際非政府組織學刊	2078-7332	財團法人臺灣公益組織教育基金會	201001	1	201101	2	http://www.hyread.com.tw/hyreadnew/search_detail_journal.jsp?dtd_id=1&sysid=00001076	1076
+三聯技術		財團法人三聯科技教育基金會、三聯科技股份有限公司	199009	26	202112	122	http://www.hyread.com.tw/hyreadnew/search_detail_journal.jsp?dtd_id=1&sysid=00001077	1077
+科技博物	1684-1220	國立科學工藝博物館	201103	15:1	202109	25:3	http://www.hyread.com.tw/hyreadnew/search_detail_journal.jsp?dtd_id=1&sysid=00001078	1078
+大專跆拳道學刊		大專院校體育總會跆拳道委員會	201304	3	201304	3	http://www.hyread.com.tw/hyreadnew/search_detail_journal.jsp?dtd_id=1&sysid=00001079	1079
+舞蹈教育		國立臺灣體育運動大學體育舞蹈學系	201308	11	202012	18	http://www.hyread.com.tw/hyreadnew/search_detail_journal.jsp?dtd_id=1&sysid=00001080	1080
+中華民國泌尿科醫學會雜誌	1016-3220	中華民國泌尿科醫學會	199003	1:1	200206	13:2	http://www.hyread.com.tw/hyreadnew/search_detail_journal.jsp?dtd_id=1&sysid=00001081	1081
+臺灣泌尿科醫學會雜誌	1016-3220	臺灣泌尿科醫學會	200209	13:3	200912	20:4	http://www.hyread.com.tw/hyreadnew/search_detail_journal.jsp?dtd_id=1&sysid=00001082	1082
+中華民國雜草學會會刊	0253-8946	中華民國雜草學會	198002	1:1	202012	41:2	http://www.hyread.com.tw/hyreadnew/search_detail_journal.jsp?dtd_id=1&sysid=00001083	1083
+綠基會通訊		財團法人台灣綠色生產力基金會	200507	1	201608	44	http://www.hyread.com.tw/hyreadnew/search_detail_journal.jsp?dtd_id=1&sysid=00001084	1084
+浸神學刊	2219-5971	學校財團法人中華浸信會基督教台灣浸會神學院	201112	2011	202107	2021	http://www.hyread.com.tw/hyreadnew/search_detail_journal.jsp?dtd_id=1&sysid=00001085	1085
+浸神院訊		學校財團法人中華浸信會基督教台灣浸會神學院	201109	190	202109	242	http://www.hyread.com.tw/hyreadnew/search_detail_journal.jsp?dtd_id=1&sysid=00001086	1086
+華神期刊	1998-6505	財團法人基督教中華福音神學基金會	200805	1	201912	10	http://www.hyread.com.tw/hyreadnew/search_detail_journal.jsp?dtd_id=1&sysid=00001088	1088
+復興崗學報	0429-8063	國防大學政治作戰學院	200303	76	202106	118	http://www.hyread.com.tw/hyreadnew/search_detail_journal.jsp?dtd_id=1&sysid=00001089	1089
+東華大學花師教育學院特教通訊		國立東華大學特殊教育中心	200807	39	200912	42	http://www.hyread.com.tw/hyreadnew/search_detail_journal.jsp?dtd_id=1&sysid=00001090	1090
+地理教育	1029-5003	國立臺灣師範大學地理系學會	201506	41	202106	47	http://www.hyread.com.tw/hyreadnew/search_detail_journal.jsp?dtd_id=1&sysid=00001092	1092
+花蓮區農業專訊	1027-7684	行政院農業委員會花蓮區農業改良場	199210	1	202109	117	http://www.hyread.com.tw/hyreadnew/search_detail_journal.jsp?dtd_id=1&sysid=00001093	1093
+花蓮區農業改良場研究彙報	1018-4457	行政院農業委員會花蓮區農業改良場	198503	1	200111	19	http://www.hyread.com.tw/hyreadnew/search_detail_journal.jsp?dtd_id=1&sysid=00001094	1094
+行政院農業委員會花蓮區農業改良場研究彙報	1018-4457	行政院農業委員會花蓮區農業改良場	200212	20	202012	39	http://www.hyread.com.tw/hyreadnew/search_detail_journal.jsp?dtd_id=1&sysid=00001095	1095
+臺南區農業專訊	1560-6627	行政院農業委員會臺南區農業改良場	199210	1	202109	117	http://www.hyread.com.tw/hyreadnew/search_detail_journal.jsp?dtd_id=1&sysid=00001096	1096
+臺灣省臺南區農業改良場研究彙報	0255-6189	行政院農業委員會臺南區農業改良場	196807	1	199712	34	http://www.hyread.com.tw/hyreadnew/search_detail_journal.jsp?dtd_id=1&sysid=00001097	1097
+行政院農業委員會臺南區農業改良場研究彙報	0255-6189	行政院農業委員會臺南區農業改良場	199812	35	202106	77	http://www.hyread.com.tw/hyreadnew/search_detail_journal.jsp?dtd_id=1&sysid=00001098	1098
+臺南區農業改良場技術專刊		行政院農業委員會臺南區農業改良場	199612	65	202004	173	http://www.hyread.com.tw/hyreadnew/search_detail_journal.jsp?dtd_id=1&sysid=00001099	1099
+苗栗區農業專訊	1561-2600	行政院農業委員會苗栗區農業改良場	200503	29	202109	95	http://www.hyread.com.tw/hyreadnew/search_detail_journal.jsp?dtd_id=1&sysid=00001100	1100
+行政院農業委員會苗栗區農業改良場研究彙報		行政院農業委員會苗栗區農業改良場	200709	1	202107	10	http://www.hyread.com.tw/hyreadnew/search_detail_journal.jsp?dtd_id=1&sysid=00001101	1101
+臺東區農業專訊	1023-876X	行政院農業委員會臺東區農業改良場	199209	1	202109	117	http://www.hyread.com.tw/hyreadnew/search_detail_journal.jsp?dtd_id=1&sysid=00001102	1102
+臺灣省臺東區農業改良場研究彙報	1023-7321	行政院農業委員會臺東區農業改良場	199006	1	199906	10	http://www.hyread.com.tw/hyreadnew/search_detail_journal.jsp?dtd_id=1&sysid=00001103	1103
+行政院農業委員會臺東區農業改良場研究彙報	1023-7321	行政院農業委員會臺東區農業改良場	200012	11	202107	31	http://www.hyread.com.tw/hyreadnew/search_detail_journal.jsp?dtd_id=1&sysid=00001104	1104
+臺中區農業專訊	0257-571X	行政院農業委員會臺中區農業改良場	199210	1	202109	114	http://www.hyread.com.tw/hyreadnew/search_detail_journal.jsp?dtd_id=1&sysid=00001105	1105
+臺灣省臺中區農業改良場研究彙報	0255-5905	行政院農業委員會臺中區農業改良場	197612	1	199906	63	http://www.hyread.com.tw/hyreadnew/search_detail_journal.jsp?dtd_id=1&sysid=00001106	1106
+行政院農業委員會臺中區農業改良場研究彙報	0255-5905	行政院農業委員會臺中區農業改良場	199909	64	202109	152	http://www.hyread.com.tw/hyreadnew/search_detail_journal.jsp?dtd_id=1&sysid=00001107	1107
+桃園區農業專訊	1683-9668	行政院農業委員會桃園區農業改良場	199210	1	202109	117	http://www.hyread.com.tw/hyreadnew/search_detail_journal.jsp?dtd_id=1&sysid=00001108	1108
+桃園區農業改良場研究報告	0257-5523	行政院農業委員會桃園區農業改良場	198309	1	199906	37	http://www.hyread.com.tw/hyreadnew/search_detail_journal.jsp?dtd_id=1&sysid=00001109	1109
+桃園區農業改良場研究彙報	2220-0363	行政院農業委員會桃園區農業改良場	198309	1	202006	87	http://www.hyread.com.tw/hyreadnew/search_detail_journal.jsp?dtd_id=1&sysid=00001110	1110
+高雄區農業專訊	0257-5469	行政院農業委員會高雄區農業改良場	200109	37	202109	117	http://www.hyread.com.tw/hyreadnew/search_detail_journal.jsp?dtd_id=1&sysid=00001111	1111
+臺灣省高雄區農業改良場研究彙報	1015-5864	行政院農業委員會高雄區農業改良場	199212	4:2	199706	9:1	http://www.hyread.com.tw/hyreadnew/search_detail_journal.jsp?dtd_id=1&sysid=00001112	1112
+行政院農業委員會高雄區農業改良場研究彙報	1015-5864	行政院農業委員會高雄區農業改良場	199806	9:2	201712	28:2	http://www.hyread.com.tw/hyreadnew/search_detail_journal.jsp?dtd_id=1&sysid=00001113	1113
+茶業專訊	1016-930x	行政院農業委員會茶業改良場	201012	74	202109	117	http://www.hyread.com.tw/hyreadnew/search_detail_journal.jsp?dtd_id=1&sysid=00001114	1114
+臺灣茶業研究彙報	0254-6590	行政院農業委員會茶業改良場	2011	30	202011	39	http://www.hyread.com.tw/hyreadnew/search_detail_journal.jsp?dtd_id=1&sysid=00001115	1115
+歷史教育	1562-9759	國立臺灣師範大學歷史學系	199706	1	201912	22	http://www.hyread.com.tw/hyreadnew/search_detail_journal.jsp?dtd_id=1&sysid=00001116	1116
+歷史學報	0301-9667	國立臺灣師範大學歷史研究所歷史學系	197301	1	199906	27	http://www.hyread.com.tw/hyreadnew/search_detail_journal.jsp?dtd_id=1&sysid=00001117	1117
+臺灣師大歷史學報	0301-9667	國立臺灣師範大學歷史學系	200006	28	202106	65	http://www.hyread.com.tw/hyreadnew/search_detail_journal.jsp?dtd_id=1&sysid=00001118	1118
+史耘	1027-7641	國立臺灣師範大學歷史研究所	199509	1	201706	18	http://www.hyread.com.tw/hyreadnew/search_detail_journal.jsp?dtd_id=1&sysid=00001119	1119
+地理研究	1019-6684	國立臺灣師範大學地理學系	200305	38	202011	72	http://www.hyread.com.tw/hyreadnew/search_detail_journal.jsp?dtd_id=1&sysid=00001120	1120
+國文學報	1019-6706	國立臺灣師範大學國文學系	201112	50	202106	69	http://www.hyread.com.tw/hyreadnew/search_detail_journal.jsp?dtd_id=1&sysid=00001121	1121
+中國學術年刊	1021-7851	國立臺灣師範大學國文研究所	201103	33(春)	202109	43秋	http://www.hyread.com.tw/hyreadnew/search_detail_journal.jsp?dtd_id=1&sysid=00001122	1122
+公民訓育學報	1683-660X	國立臺灣師範大學公民教育與活動領導學系	201106	21	201304	22	http://www.hyread.com.tw/hyreadnew/search_detail_journal.jsp?dtd_id=1&sysid=00001123	1123
+資訊電子學刊	1991-1432	銘傳大學資訊學院	200603	1:1	202110	9:2	http://www.hyread.com.tw/hyreadnew/search_detail_journal.jsp?dtd_id=1&sysid=00001124	1124
+華梵人文學報	1812-4305	華梵大學文學院	200307	1	201501	23	http://www.hyread.com.tw/hyreadnew/search_detail_journal.jsp?dtd_id=1&sysid=00001125	1125
+國家圖書館館刊	1026-5279	國家圖書館	200606	95:1	202012	109:2	http://www.hyread.com.tw/hyreadnew/search_detail_journal.jsp?dtd_id=1&sysid=00001126	1126
+國家圖書館館訊	1026-7220	國家圖書館	200602	107	202011	166	http://www.hyread.com.tw/hyreadnew/search_detail_journal.jsp?dtd_id=1&sysid=00001127	1127
+全國新書資訊月刊	1560-6708	國家圖書館	200602	86	201712	228	http://www.hyread.com.tw/hyreadnew/search_detail_journal.jsp?dtd_id=1&sysid=00001128	1128
+漢學研究	0254-4466	國家圖書館	200308	22:3	202106	39:2	http://www.hyread.com.tw/hyreadnew/search_detail_journal.jsp?dtd_id=1&sysid=00001129	1129
+漢學研究通訊	0253-2875	國家圖書館	198203	1:1	202108	40:3	http://www.hyread.com.tw/hyreadnew/search_detail_journal.jsp?dtd_id=1&sysid=00001130	1130
+創新與管理	1814-8794	實踐大學管理學院	201005	7:2	202107	17:2	http://www.hyread.com.tw/hyreadnew/search_detail_journal.jsp?dtd_id=1&sysid=00001131	1131
+致理學報	1994-5728	致理科技大學教務處	201211	32	202011	40	http://www.hyread.com.tw/hyreadnew/search_detail_journal.jsp?dtd_id=1&sysid=00001132	1132
+International Journal of LISREL	1998-6521	中華理論結構模式LISREL學會	200903	2:1	201609	9:2	http://www.hyread.com.tw/hyreadnew/search_detail_journal.jsp?dtd_id=1&sysid=00001133	1133
+公共藝術簡訊		財團法人臺北市開放空間文教基金會	201202	105	201712	140	http://www.hyread.com.tw/hyreadnew/search_detail_journal.jsp?dtd_id=1&sysid=00001134	1134
+當代醫學	1816-4749	橘井文化事業股份有限公司	197503	17	201312	482	http://www.hyread.com.tw/hyreadnew/search_detail_journal.jsp?dtd_id=1&sysid=00001135	1135
+生物科技產學論壇		國立中興大學生物科技發展中心	201210	17	201804	21	http://www.hyread.com.tw/hyreadnew/search_detail_journal.jsp?dtd_id=1&sysid=00001136	1136
+食品營養研究期刊	2708-5968	王鳳英	200912	1	200912	1	http://www.hyread.com.tw/hyreadnew/search_detail_journal.jsp?dtd_id=1&sysid=00001137	1137
+史匯	2227-8036	國立中央大學歷史研究所	199605	創刊號	202104	23	http://www.hyread.com.tw/hyreadnew/search_detail_journal.jsp?dtd_id=1&sysid=00001138	1138
+輔導季刊	1996-6822	台灣輔導與諮商學會	199306	29:3	202106	57:2	http://www.hyread.com.tw/hyreadnew/search_detail_journal.jsp?dtd_id=1&sysid=00001139	1139
+中華輔導與諮商學報	1728-5186	台灣輔導與諮商學會	200803	23	202109	62	http://www.hyread.com.tw/hyreadnew/search_detail_journal.jsp?dtd_id=1&sysid=00001140	1140
+世新中文研究集刊		世新大學中國文學系	200806	4	201907	15	http://www.hyread.com.tw/hyreadnew/search_detail_journal.jsp?dtd_id=1&sysid=00001141	1141
+勤益學報	1021-9587	國立勤益科技大學	200409	22:1	200712	25	http://www.hyread.com.tw/hyreadnew/search_detail_journal.jsp?dtd_id=1&sysid=00001142	1142
+臺灣教育評論月刊	2225-7209	臺灣教育評論學會	201111	創刊號	202112	10:12	http://www.hyread.com.tw/hyreadnew/search_detail_journal.jsp?dtd_id=1&sysid=00001143	1143
+復健諮商	2070-1969	社團法人台灣職業重建專業協會	200706	1	201806	9	http://www.hyread.com.tw/hyreadnew/search_detail_journal.jsp?dtd_id=1&sysid=00001144	1144
+中州學報	2074-756x	中州學校財團法人中州科技大學	198607	1	201603	30	http://www.hyread.com.tw/hyreadnew/search_detail_journal.jsp?dtd_id=1&sysid=00001145	1145
+工程應用技術學刊	2226-9606	中州學校財團法人中州科技大學	201202	1:1	201408	2:2	http://www.hyread.com.tw/hyreadnew/search_detail_journal.jsp?dtd_id=1&sysid=00001146	1146
+健康與照顧科學學刊	2227-1112	中州學校財團法人中州科技大學	201202	1:1	201408	2:2	http://www.hyread.com.tw/hyreadnew/search_detail_journal.jsp?dtd_id=1&sysid=00001147	1147
+中州管理與人文科學叢刊	2224-3305	中州學校財團法人中州科技大學	201103	1:1	201109	1:2	http://www.hyread.com.tw/hyreadnew/search_detail_journal.jsp?dtd_id=1&sysid=00001148	1148
+臺北市醫師公會會刊		臺北市醫師公會	201202	56:2	202111	65:11	http://www.hyread.com.tw/hyreadnew/search_detail_journal.jsp?dtd_id=1&sysid=00001149	1149
+慈濟技術學院學報	1681-8814	慈濟技術學院	201203	18	201503	24	http://www.hyread.com.tw/hyreadnew/search_detail_journal.jsp?dtd_id=1&sysid=00001150	1150
+臺灣人權學刊	2224-6622	東吳大學	201112	1:1	202106	6:1	http://www.hyread.com.tw/hyreadnew/search_detail_journal.jsp?dtd_id=1&sysid=00001151	1151
+技職教育期刊	2223-1927	國立彰化師範大學工業教育與技術學系	201006	1	201406	9	http://www.hyread.com.tw/hyreadnew/search_detail_journal.jsp?dtd_id=1&sysid=00001153	1153
+東華漢學	1726-8265	國立東華大學華文文學系/中國語文學系	200302	1	202106	33	http://www.hyread.com.tw/hyreadnew/search_detail_journal.jsp?dtd_id=1&sysid=00001154	1154
+財金論文叢刊		朝陽科技大學財務金融系	201012	13	202106	34	http://www.hyread.com.tw/hyreadnew/search_detail_journal.jsp?dtd_id=1&sysid=00001155	1155
+管理學域學術研討會論文集		朝陽科技大學管理學院	201305	14	201605	17下	http://www.hyread.com.tw/hyreadnew/search_detail_journal.jsp?dtd_id=1&sysid=00001156	1156
+東華中國文學研究	1726-7447	國立東華大學中國語文學系	200609	4	201603	14	http://www.hyread.com.tw/hyreadnew/search_detail_journal.jsp?dtd_id=1&sysid=00001157	1157
+東華中文學報	2079-391X	國立東華大學中國語文學系	200712	2	201312	6	http://www.hyread.com.tw/hyreadnew/search_detail_journal.jsp?dtd_id=1&sysid=00001158	1158
+中華真菌學會會刊	1013-2732	中華民國真菌學會	201108	26	202110	36:1	http://www.hyread.com.tw/hyreadnew/search_detail_journal.jsp?dtd_id=1&sysid=00001159	1159
+屏東科大體育學刊	2227-6114	國立屏東科技大學體育室	201203	1	202109	15	http://www.hyread.com.tw/hyreadnew/search_detail_journal.jsp?dtd_id=1&sysid=00001160	1160
+拉丁美洲經貿季刊	2305-8927	致理科技大學商貿外語學院拉丁美洲經貿研究中心	201206	9	202012	43	http://www.hyread.com.tw/hyreadnew/search_detail_journal.jsp?dtd_id=1&sysid=00001161	1161
+高教技職簡訊	1727-1614	教育部高等教育司技術職業司	201202	61/62	201501	97	http://www.hyread.com.tw/hyreadnew/search_detail_journal.jsp?dtd_id=1&sysid=00001162	1162
+文史臺灣學報		國立臺北教育大學臺灣文化研究所	200911	1	202010	14	http://www.hyread.com.tw/hyreadnew/search_detail_journal.jsp?dtd_id=1&sysid=00001163	1163
+當代詩學		國立臺北教育大學臺灣文化研究所	201012	6	202106	15	http://www.hyread.com.tw/hyreadnew/search_detail_journal.jsp?dtd_id=1&sysid=00001164	1164
+亞洲金融季報		國立臺北大學亞洲研究中心	201207	2012秋季號	201807	2018秋季號	http://www.hyread.com.tw/hyreadnew/search_detail_journal.jsp?dtd_id=1&sysid=00001165	1165
+國立成功大學圖書館館刊	1029-3809	國立成功大學圖書館	201211	21	202111	30	http://www.hyread.com.tw/hyreadnew/search_detail_journal.jsp?dtd_id=1&sysid=00001166	1166
+龍陽學術研究集刊	1995-431X	余金龍	200707	1	202101	21	http://www.hyread.com.tw/hyreadnew/search_detail_journal.jsp?dtd_id=1&sysid=00001167	1167
+台灣高齡服務管理學刊		台灣高齡服務管理學會	201104	1:1	201304	2:1	http://www.hyread.com.tw/hyreadnew/search_detail_journal.jsp?dtd_id=1&sysid=00001168	1168
+聯合勸募論壇		中華社會福利聯合勸募協會	201204	1=1:1	201402	4=3:1	http://www.hyread.com.tw/hyreadnew/search_detail_journal.jsp?dtd_id=1&sysid=00001169	1169
+國防大學通識教育學報	2223-3547	國防大學通識教育中心	201106	1	202010	10	http://www.hyread.com.tw/hyreadnew/search_detail_journal.jsp?dtd_id=1&sysid=00001170	1170
+秀傳醫學雜誌	1561-0497	秀傳醫學雜誌編輯部	199810	1:1	202106	20:1	http://www.hyread.com.tw/hyreadnew/search_detail_journal.jsp?dtd_id=1&sysid=00001171	1171
+調查研究-方法與應用	1028-1649	中央研究院人文社會科學研究中心 調查研究專題中心	199409	試刊號	202104	46	http://www.hyread.com.tw/hyreadnew/search_detail_journal.jsp?dtd_id=1&sysid=00001172	1172
+中正嶺學報	0255-6030	國防大學理工學院	197007	1:1	202105	50:1	http://www.hyread.com.tw/hyreadnew/search_detail_journal.jsp?dtd_id=1&sysid=00001173	1173
+庶民文化研究	2078-9548	逢甲大學人文社會學院庶民文化研究中心	200909	1	202010	22	http://www.hyread.com.tw/hyreadnew/search_detail_journal.jsp?dtd_id=1&sysid=00001174	1174
+中華民國風濕病雜誌		中華民國風濕病醫學會	200712	21:2	202012	34:2	http://www.hyread.com.tw/hyreadnew/search_detail_journal.jsp?dtd_id=1&sysid=00001176	1176
+中山人文學報	1024-3135	國立中山大學文學院	200909	27	202107	51	http://www.hyread.com.tw/hyreadnew/search_detail_journal.jsp?dtd_id=1&sysid=00001177	1177
+南島研究學報	1815-1701	國立臺灣史前文化博物館	201206	3:1	201512	6:2	http://www.hyread.com.tw/hyreadnew/search_detail_journal.jsp?dtd_id=1&sysid=00001178	1178
+國立臺灣體育運動大學進修教育中心體育學系系刊	2072-5418	國立臺灣體育運動大學進修教育中心	200306	1	201206	10	http://www.hyread.com.tw/hyreadnew/search_detail_journal.jsp?dtd_id=1&sysid=00001179	1179
+藝術論壇	1726-4790	國立臺灣師範大學美術系暨研究所	200907	6	201609	10	http://www.hyread.com.tw/hyreadnew/search_detail_journal.jsp?dtd_id=1&sysid=00001180	1180
+健康促進與衛生教育學報	2070-1063	國立臺灣師範大學健康促進與衛生教育學系	201006	33	202106	53	http://www.hyread.com.tw/hyreadnew/search_detail_journal.jsp?dtd_id=1&sysid=00001181	1181
+弘光人文社會學報	1813-999X	弘光科技大學	200410	1	202107	24	http://www.hyread.com.tw/hyreadnew/search_detail_journal.jsp?dtd_id=1&sysid=00001183	1183
+休閒產業管理學刊	1998-0795	台灣生態休閒產業管理學會	200804	1:1	202109	14:2	http://www.hyread.com.tw/hyreadnew/search_detail_journal.jsp?dtd_id=1&sysid=00001184	1184
+法印學報	2224-1299	財團法人弘誓文教基金會	201110	1	202012	11	http://www.hyread.com.tw/hyreadnew/search_detail_journal.jsp?dtd_id=1&sysid=00001185	1185
+廣東文獻季刊		臺北市廣東同鄉會	201101	39:1=153	202110	49:4=196	http://www.hyread.com.tw/hyreadnew/search_detail_journal.jsp?dtd_id=1&sysid=00001186	1186
+國民教育	0452-8859	國立臺北教育大學師資培育暨就業輔導中心	200508	45:6	201512	55:4	http://www.hyread.com.tw/hyreadnew/search_detail_journal.jsp?dtd_id=1&sysid=00001188	1188
+資優教育研究	1680-7197	中華資優教育學會	200412	4:2	201112	10:2	http://www.hyread.com.tw/hyreadnew/search_detail_journal.jsp?dtd_id=1&sysid=00001189	1189
+資優教育論壇	1680-7197	中華資優教育學會	201303	11	202105	19:1	http://www.hyread.com.tw/hyreadnew/search_detail_journal.jsp?dtd_id=1&sysid=00001190	1190
+休閒運動健康評論	2218-0427	國立屏東科技大學主題休閒遊憩服務中心	200912	1:1	202109	10:2	http://www.hyread.com.tw/hyreadnew/search_detail_journal.jsp?dtd_id=1&sysid=00001191	1191
+休閒觀光與運動健康學報	2221-9382	國立屏東科技大學主題休閒遊憩服務中心	201009	1:1	201703	7:2	http://www.hyread.com.tw/hyreadnew/search_detail_journal.jsp?dtd_id=1&sysid=00001192	1192
+運動與健康研究	2226-2628	國立屏東科技大學主題休閒遊憩服務中心	201110	1:1	201404	3:2	http://www.hyread.com.tw/hyreadnew/search_detail_journal.jsp?dtd_id=1&sysid=00001193	1193
+臺北師院語文集刊	1561-378X	國立臺北師範學院語文教育學系	199606	1	200511	10	http://www.hyread.com.tw/hyreadnew/search_detail_journal.jsp?dtd_id=1&sysid=00001194	1194
+臺北教育大學語文集刊	1561-378X	國立臺北教育大學語文與創作學系	200612	11	202106	39	http://www.hyread.com.tw/hyreadnew/search_detail_journal.jsp?dtd_id=1&sysid=00001195	1195
+新地文學	1996-4285	新地文化藝術有限公司	200709	1	201706	40	http://www.hyread.com.tw/hyreadnew/search_detail_journal.jsp?dtd_id=1&sysid=00001196	1196
+濕地學刊	2304-1420	社團法人臺灣濕地學會	201201	1:1	202012	9:1	http://www.hyread.com.tw/hyreadnew/search_detail_journal.jsp?dtd_id=1&sysid=00001197	1197
+聲韻論叢	1682-2781	台灣學生書局	199105	3	202106	26	http://www.hyread.com.tw/hyreadnew/search_detail_journal.jsp?dtd_id=1&sysid=00001198	1198
+科技法律透析	1608-9499	財團法人資訊工業策進會科技法律研究所	200004	12:4	202106	33:6	http://www.hyread.com.tw/hyreadnew/search_detail_journal.jsp?dtd_id=1&sysid=00001199	1199
+國文學報. 高師大	1816-4692	國立高雄師範大學國文學系	201201	15	201301	17	http://www.hyread.com.tw/hyreadnew/search_detail_journal.jsp?dtd_id=1&sysid=00001200	1200
+問學		國立高雄師範大學國文學系	201206	16	202009	24	http://www.hyread.com.tw/hyreadnew/search_detail_journal.jsp?dtd_id=1&sysid=00001201	1201
+東亞觀念史集刊		東亞觀念史集刊編審委員會	201112	1	201912	17	http://www.hyread.com.tw/hyreadnew/search_detail_journal.jsp?dtd_id=1&sysid=00001202	1202
+智慧科技與應用統計學報	1812-433x	臺灣智慧科技與應用統計學會	201206	10:1	201706	15:1	http://www.hyread.com.tw/hyreadnew/search_detail_journal.jsp?dtd_id=1&sysid=00001203	1203
+創業管理研究	1993-7504	中華民國青年創業協會總會	201209	7:3	201412	9:2	http://www.hyread.com.tw/hyreadnew/search_detail_journal.jsp?dtd_id=1&sysid=00001204	1204
+藝術學研究	1996-1863	國立中央大學藝術學研究所	200606	1	202106	28	http://www.hyread.com.tw/hyreadnew/search_detail_journal.jsp?dtd_id=1&sysid=00001205	1205
+Journal of Marine Science and Technology	1023-2796	國立臺灣海洋大學	199906	7:1	202107	29:3	http://www.hyread.com.tw/hyreadnew/search_detail_journal.jsp?dtd_id=1&sysid=00001206	1206
+Journal of Foreign Language Instruction	1991-8534	文藻外語大學外語教學系	200611	1:1	201201	5:1	http://www.hyread.com.tw/hyreadnew/search_detail_journal.jsp?dtd_id=1&sysid=00001207	1207
+土地問題研究季刊	2224-6665	財團法人中國地政研究所	200203	1=1:1	202112	80=20:4	http://www.hyread.com.tw/hyreadnew/search_detail_journal.jsp?dtd_id=1&sysid=00001209	1209
+土地經濟年刊	1023-2591	財團法人中國地政研究所	201307	24	202107	32	http://www.hyread.com.tw/hyreadnew/search_detail_journal.jsp?dtd_id=1&sysid=00001210	1210
+農政與農情	1021-3074	行政院農業委員會	200801	187	202111	353	http://www.hyread.com.tw/hyreadnew/search_detail_journal.jsp?dtd_id=1&sysid=00001211	1211
+耕莘學報	1810-0961	耕莘健康專科學校	200906	7	202110	2021年特刊	http://www.hyread.com.tw/hyreadnew/search_detail_journal.jsp?dtd_id=1&sysid=00001212	1212
+中興工程	0257-554x	財團法人中興工程顧問社	200607	92	202107	152	http://www.hyread.com.tw/hyreadnew/search_detail_journal.jsp?dtd_id=1&sysid=00001213	1213
+台灣林業科學	1026-4469	行政院農業委員會林業試驗所	199603	11:1	202106	36:2	http://www.hyread.com.tw/hyreadnew/search_detail_journal.jsp?dtd_id=1&sysid=00001214	1214
+林業研究專訊	1605-6922	行政院農業委員會林業試驗所	1994	1:2	202108	28:4=162	http://www.hyread.com.tw/hyreadnew/search_detail_journal.jsp?dtd_id=1&sysid=00001215	1215
+中華農業研究	0022-4847	行政院農業委員會農業試驗所	196403	13:1	200412	53:4	http://www.hyread.com.tw/hyreadnew/search_detail_journal.jsp?dtd_id=1&sysid=00001216	1216
+台灣農業研究	0022-4847	行政院農業委員會農業試驗所	200503	54:1	202109	70:3	http://www.hyread.com.tw/hyreadnew/search_detail_journal.jsp?dtd_id=1&sysid=00001217	1217
+技術服務	1017-0863	行政院農業委員會農業試驗所	199003	1	202109	127	http://www.hyread.com.tw/hyreadnew/search_detail_journal.jsp?dtd_id=1&sysid=00001218	1218
+社區研究學刊		中華民國社區教育學會	201012	1	201312	3	http://www.hyread.com.tw/hyreadnew/search_detail_journal.jsp?dtd_id=1&sysid=00001219	1219
+臺灣海洋法學報		國立臺灣海洋大學海洋法律研究所	201212	10:2	202006	28	http://www.hyread.com.tw/hyreadnew/search_detail_journal.jsp?dtd_id=1&sysid=00001220	1220
+圖書館學與資訊科學	0363-3640	國立臺灣師範大學	200204	28:1	202004	46:1	http://www.hyread.com.tw/hyreadnew/search_detail_journal.jsp?dtd_id=1&sysid=00001221	1221
+矯政	2224-1205	法務部矯正署	201107	創刊號	202107	10:2	http://www.hyread.com.tw/hyreadnew/search_detail_journal.jsp?dtd_id=1&sysid=00001222	1222
+幼兒教育年刊	1018-158X	國立臺中教育大學幼兒教育系	200906	20	202012	31	http://www.hyread.com.tw/hyreadnew/search_detail_journal.jsp?dtd_id=1&sysid=00001223	1223
+統計通訊	1016-6171	中國統計學社	201201	23:1	201812	29:12	http://www.hyread.com.tw/hyreadnew/search_detail_journal.jsp?dtd_id=1&sysid=00001224	1224
+清華中文學報	2218-8517	國立清華大學中國文學系	200709	1	202106	25	http://www.hyread.com.tw/hyreadnew/search_detail_journal.jsp?dtd_id=1&sysid=00001225	1225
+明清詩文研究		國立清華大學中國文學系	200911	1	200911	1	http://www.hyread.com.tw/hyreadnew/search_detail_journal.jsp?dtd_id=1&sysid=00001226	1226
+臺北市立圖書館館訊	1011-2081	臺北市立圖書館	201209	30:1	202106	36:1	http://www.hyread.com.tw/hyreadnew/search_detail_journal.jsp?dtd_id=1&sysid=00001227	1227
+International Journal of Business and Economics	1607-0704	逢甲大學	200204	1:1	202109	20:2	http://www.hyread.com.tw/hyreadnew/search_detail_journal.jsp?dtd_id=1&sysid=00001228	1228
+資訊社會研究	1680-8428	台灣資訊社會研究學會	200107	1	202107	41	http://www.hyread.com.tw/hyreadnew/search_detail_journal.jsp?dtd_id=1&sysid=00001229	1229
+華人經濟研究	1728-2055	中華兩岸事務交流協會	200303	創刊號	202109	19:2	http://www.hyread.com.tw/hyreadnew/search_detail_journal.jsp?dtd_id=1&sysid=00001230	1230
+華人前瞻研究	1817-5309	中華民國南洋文化學會	200405	1:1	202005	16:1	http://www.hyread.com.tw/hyreadnew/search_detail_journal.jsp?dtd_id=1&sysid=00001231	1231
+衍學集		淡江大學中文系	200805	1	201501	7	http://www.hyread.com.tw/hyreadnew/search_detail_journal.jsp?dtd_id=1&sysid=00001232	1232
+雙溪教育論壇	2305-7270	東吳大學	201210	1	202012	9	http://www.hyread.com.tw/hyreadnew/search_detail_journal.jsp?dtd_id=1&sysid=00001233	1233
+生物科學	0379-7384	中國生物學會	2003	46:1	201212	54:2	http://www.hyread.com.tw/hyreadnew/search_detail_journal.jsp?dtd_id=1&sysid=00001235	1235
+學校衛生護理	2073-9834	中華民國學校衛生護理學會	199601	1-2	201909	27	http://www.hyread.com.tw/hyreadnew/search_detail_journal.jsp?dtd_id=1&sysid=00001236	1236
+康寧學報	1561-3844	康寧醫護暨專科管理學校	201306	15	201506	17	http://www.hyread.com.tw/hyreadnew/search_detail_journal.jsp?dtd_id=1&sysid=00001237	1237
+會計審計論叢	2221-9374	財團法人臺灣會計教育基金會	201106	1:1	202106	11:1	http://www.hyread.com.tw/hyreadnew/search_detail_journal.jsp?dtd_id=1&sysid=00001238	1238
+中華民國航空醫學暨科學期刊	1683-9595	中華民國航空醫學會	200206	16:1	201612	30:2	http://www.hyread.com.tw/hyreadnew/search_detail_journal.jsp?dtd_id=1&sysid=00001239	1239
+國立彰化師範大學文學院學報		國立彰化師範大學文學院	201203	5	202105	23	http://www.hyread.com.tw/hyreadnew/search_detail_journal.jsp?dtd_id=1&sysid=00001240	1240
+社會與區域發展學報	2073-3275	國立臺北教育大學社會與區域發展學系	200812	1:1	202012	6:1	http://www.hyread.com.tw/hyreadnew/search_detail_journal.jsp?dtd_id=1&sysid=00001241	1241
+中華民國肥胖研究學會會訊		中華民國肥胖研究學會	201303	41	202109	73	http://www.hyread.com.tw/hyreadnew/search_detail_journal.jsp?dtd_id=1&sysid=00001242	1242
+文學客家		台灣客家筆會	201001	1	202109	46	http://www.hyread.com.tw/hyreadnew/search_detail_journal.jsp?dtd_id=1&sysid=00001243	1243
+南開學報		南開科技大學	201212	9:2	202012	17:2	http://www.hyread.com.tw/hyreadnew/search_detail_journal.jsp?dtd_id=1&sysid=00001244	1244
+應用日語教育學術研討會大會論文集		銘傳大學應用語文學院應用日語學系	201303	2013	201903	2019	http://www.hyread.com.tw/hyreadnew/search_detail_journal.jsp?dtd_id=1&sysid=00001245	1245
+國土測繪與空間資訊		中華民國地籍測量學會	201301	1:1	202107	9:2	http://www.hyread.com.tw/hyreadnew/search_detail_journal.jsp?dtd_id=1&sysid=00001246	1246
+師大臺灣史學報	1997-3721	國立臺灣師範大學	200712	1	201912	12	http://www.hyread.com.tw/hyreadnew/search_detail_journal.jsp?dtd_id=1&sysid=00001247	1247
+International Journal of Fuzzy Systems	1562-2479	中華民國模糊學會	200603	8:1	201412	16:4	http://www.hyread.com.tw/hyreadnew/search_detail_journal.jsp?dtd_id=1&sysid=00001248	1248
+理律法律雜誌雙月刊(中文)		理律法律事務所	199901	1999:1	202010	2020:10	http://www.hyread.com.tw/hyreadnew/search_detail_journal.jsp?dtd_id=1&sysid=00001249	1249
+理律法律雜誌雙月刊(英文)		理律法律事務所	199901	1999:1	202010	2020:10	http://www.hyread.com.tw/hyreadnew/search_detail_journal.jsp?dtd_id=1&sysid=00001250	1250
+兒童文學家		中國海峽兩岸兒童文學研究會	201309	50	201701	57	http://www.hyread.com.tw/hyreadnew/search_detail_journal.jsp?dtd_id=1&sysid=00001251	1251
+Tamsui Oxford Journal of Mathematical Sciences	1561-8307	真理大學數理資訊學院	199711	13	201011	26:4	http://www.hyread.com.tw/hyreadnew/search_detail_journal.jsp?dtd_id=1&sysid=00001252	1252
+Tamsui Oxford Journal of Information and Mathematical Sciences	2222-4424	真理大學數理資訊學院	201102	27:1	201907	33:1	http://www.hyread.com.tw/hyreadnew/search_detail_journal.jsp?dtd_id=1&sysid=00001253	1253
+美國研究	0255-0083	中央研究院歐美研究所	197912	9:4	199106	21:2	http://www.hyread.com.tw/hyreadnew/search_detail_journal.jsp?dtd_id=1&sysid=00001254	1254
+歐美研究	1021-3058	中央研究院歐美研究所	199109	21:3	202109	51:3	http://www.hyread.com.tw/hyreadnew/search_detail_journal.jsp?dtd_id=1&sysid=00001255	1255
+文化創意集刊	2306-496X	國立勤益科技大學	201212	1	201212	1	http://www.hyread.com.tw/hyreadnew/search_detail_journal.jsp?dtd_id=1&sysid=00001256	1256
+輔仁國文學報	1023-3601	輔仁大學中國文學系	201004	30	201810	47	http://www.hyread.com.tw/hyreadnew/search_detail_journal.jsp?dtd_id=1&sysid=00001257	1257
+輔大中研所學刊	1561-0454	輔仁大學中國文學系	199110	1	201905	40	http://www.hyread.com.tw/hyreadnew/search_detail_journal.jsp?dtd_id=1&sysid=00001258	1258
+先秦兩漢學術	1811-6329	輔仁大學中國文學系	200809	10	201403	21	http://www.hyread.com.tw/hyreadnew/search_detail_journal.jsp?dtd_id=1&sysid=00001259	1259
+先秦兩漢學術研討會論文集		輔仁大學中國文學系	200511	4	201506	12	http://www.hyread.com.tw/hyreadnew/search_detail_journal.jsp?dtd_id=1&sysid=00001260	1260
+中國經學研究會全國學術研討會論文集		輔仁大學中國文學系	200905	6	200905	6	http://www.hyread.com.tw/hyreadnew/search_detail_journal.jsp?dtd_id=1&sysid=00001261	1261
+國民教育學報	1814-6783	文藻外語大學師資培育中心	201212	9	201712	14	http://www.hyread.com.tw/hyreadnew/search_detail_journal.jsp?dtd_id=1&sysid=00001264	1264
+Journal of the Chinese Society of Mechanical Engineers	0257-9731	中國機械工程學會	200712	28:6	201706	38:3	http://www.hyread.com.tw/hyreadnew/search_detail_journal.jsp?dtd_id=1&sysid=00001265	1265
+靜宜中文學報	2305-0845	靜宜大學中國文學系	201206	1	202106	19	http://www.hyread.com.tw/hyreadnew/search_detail_journal.jsp?dtd_id=1&sysid=00001268	1268
+臺灣省家畜衛生試驗所研究報告	0253-9136	行政院農業委員會家畜衛生試驗所	1963	1	1998	34	http://www.hyread.com.tw/hyreadnew/search_detail_journal.jsp?dtd_id=1&sysid=00001269	1269
+行政院農業委員會家畜衛生試驗所研究報告	0253-9136	行政院農業委員會家畜衛生試驗所	1999	35	2019	53	http://www.hyread.com.tw/hyreadnew/search_detail_journal.jsp?dtd_id=1&sysid=00001270	1270
+行政院農業委員會家畜衛生試驗所獸醫專訊	2219-2123	行政院農業委員會家畜衛生試驗所	201009	1	201508	11	http://www.hyread.com.tw/hyreadnew/search_detail_journal.jsp?dtd_id=1&sysid=00001271	1271
+化工	1015-8359	台灣化學工程學會	200612	53:6	202110	68:5	http://www.hyread.com.tw/hyreadnew/search_detail_journal.jsp?dtd_id=1&sysid=00001273	1273
+輔仁民生學誌	1027-6149	輔仁大學民生學院	201003	16:1	202012	26:2	http://www.hyread.com.tw/hyreadnew/search_detail_journal.jsp?dtd_id=1&sysid=00001275	1275
+文化研究月報	2076-2755	中華民國文化研究學會	201009	107	201212	135	http://www.hyread.com.tw/hyreadnew/search_detail_journal.jsp?dtd_id=1&sysid=00001276	1276
+文化研究雙月報	2076-2755	中華民國文化研究學會	201301	136	201506	150	http://www.hyread.com.tw/hyreadnew/search_detail_journal.jsp?dtd_id=1&sysid=00001277	1277
+國際化粧品科技管理學術研討會專刊		中華民國美容經營管理學會	201302	5	201302	5	http://www.hyread.com.tw/hyreadnew/search_detail_journal.jsp?dtd_id=1&sysid=00001278	1278
+中等教育	1018-0230	國立臺灣師範大學	200906	60:2	202109	72:3	http://www.hyread.com.tw/hyreadnew/search_detail_journal.jsp?dtd_id=1&sysid=00001279	1279
+師大學報. 教育類	1681-3138	國立臺灣師範大學	199710	42	200812	53:3	http://www.hyread.com.tw/hyreadnew/search_detail_journal.jsp?dtd_id=1&sysid=00001281	1281
+師大學報. 人文與社會科學類	1684-7652	國立臺灣師範大學	199710	42	200807	53:2	http://www.hyread.com.tw/hyreadnew/search_detail_journal.jsp?dtd_id=1&sysid=00001282	1282
+師大學報. 科學教育類	1684-7679	國立臺灣師範大學	199710	42	200812	53:2	http://www.hyread.com.tw/hyreadnew/search_detail_journal.jsp?dtd_id=1&sysid=00001283	1283
+師大學報. 數理與科技類	1684-7636	國立臺灣師範大學	199710	42	200604	51:1	http://www.hyread.com.tw/hyreadnew/search_detail_journal.jsp?dtd_id=1&sysid=00001284	1284
+船舶科技		中華民國船舶機械工程學會	1988	1	202107	54	http://www.hyread.com.tw/hyreadnew/search_detail_journal.jsp?dtd_id=1&sysid=00001285	1285
+感性學報	2409-6326	台灣感性學會	201303	1:1	202106	9:1	http://www.hyread.com.tw/hyreadnew/search_detail_journal.jsp?dtd_id=1&sysid=00001286	1286
+博物館簡訊	2222-3088	中華民國博物館學會	201109	57	202109	97	http://www.hyread.com.tw/hyreadnew/search_detail_journal.jsp?dtd_id=1&sysid=00001287	1287
+MD News生技與醫療器材報導		財團法人工業技術研究院 生醫與醫材研究所	200908	121	201506	184	http://www.hyread.com.tw/hyreadnew/search_detail_journal.jsp?dtd_id=1&sysid=00001289	1289
+國際農業科技新知	1607-744X	財團法人中正農業科技社會公益基金會	200006	1	202107	91	http://www.hyread.com.tw/hyreadnew/search_detail_journal.jsp?dtd_id=1&sysid=00001290	1290
+光學工程		中華民國光電學會	201104	113	201307	122	http://www.hyread.com.tw/hyreadnew/search_detail_journal.jsp?dtd_id=1&sysid=00001291	1291
+ODF 08 研討會論文集		中華民國光電學會	200806	2008:Optical Technology	200806	2008:Symposium	http://www.hyread.com.tw/hyreadnew/search_detail_journal.jsp?dtd_id=1&sysid=00001292	1292
+營建知訊	1019-6129	財團法人臺灣營建研究院	201110	345	202111	466	http://www.hyread.com.tw/hyreadnew/search_detail_journal.jsp?dtd_id=1&sysid=00001293	1293
+銘傳生技學報	2225-5184	銘傳大學生物科技學系	2009	1	2009	1	http://www.hyread.com.tw/hyreadnew/search_detail_journal.jsp?dtd_id=1&sysid=00001294	1294
+MC Transaction on Biotechnology	2225-5184	銘傳大學生物科技學系	2010	2	202101	12:1	http://www.hyread.com.tw/hyreadnew/search_detail_journal.jsp?dtd_id=1&sysid=00001295	1295
+中華民國特殊教育學會年刊		中華民國特殊教育學會	200512	2005	202011	2020	http://www.hyread.com.tw/hyreadnew/search_detail_journal.jsp?dtd_id=1&sysid=00001296	1296
+兩岸金融季刊		台灣金融研訓院	201309	1:1	201712	5:4	http://www.hyread.com.tw/hyreadnew/search_detail_journal.jsp?dtd_id=1&sysid=00001297	1297
+原住民文化傳播學刊		財團法人原住民族文化事業基金會	201306	4	201312	5	http://www.hyread.com.tw/hyreadnew/search_detail_journal.jsp?dtd_id=1&sysid=00001299	1299
+太陽能及新能源學刊		台灣太陽能及新能源學會	201506	17:1	201512	17:2	http://www.hyread.com.tw/hyreadnew/search_detail_journal.jsp?dtd_id=1&sysid=00001300	1300
+傳藝	1680-1490	國立傳統藝術中心	201302	104	201412	115	http://www.hyread.com.tw/hyreadnew/search_detail_journal.jsp?dtd_id=1&sysid=00001301	1301
+高雄少家	1727-1207	臺灣高雄少年法院	201304	20	202009	24	http://www.hyread.com.tw/hyreadnew/search_detail_journal.jsp?dtd_id=1&sysid=00001302	1302
+身體活動與運動科學學刊	2305-0527	臺灣身體活動與運動科學學會	201206	1:1	201406	3:1/2	http://www.hyread.com.tw/hyreadnew/search_detail_journal.jsp?dtd_id=1&sysid=00001304	1304
+生物醫學暨檢驗科學雜誌	1013-7653	社團法人台灣醫事檢驗學會	200612	18:1/2/3/4	202109	33:3	http://www.hyread.com.tw/hyreadnew/search_detail_journal.jsp?dtd_id=1&sysid=00001305	1305
+臺灣人類學刊	1727-1878	中央研究院民族學研究所	200306	1:1	202107	19:1	http://www.hyread.com.tw/hyreadnew/search_detail_journal.jsp?dtd_id=1&sysid=00001306	1306
+民族學研究所資料彙編	1016-3182	中央研究院民族學研究所	199001	1	201912	27	http://www.hyread.com.tw/hyreadnew/search_detail_journal.jsp?dtd_id=1&sysid=00001307	1307
+中正漢學研究	1996-269X	國立中正大學中國文學系	201206	19	202012	36	http://www.hyread.com.tw/hyreadnew/search_detail_journal.jsp?dtd_id=1&sysid=00001308	1308
+華教發展與研究		馬來西亞華校董事聯合會總會	201205	1	201311	3	http://www.hyread.com.tw/hyreadnew/search_detail_journal.jsp?dtd_id=1&sysid=00001309	1309
+國立臺灣體育運動大學學報	2226-535X	國立臺灣體育運動大學	201201	1	202101	10:1	http://www.hyread.com.tw/hyreadnew/search_detail_journal.jsp?dtd_id=1&sysid=00001310	1310
+政治與社會哲學評論	1684-5153	政治與社會哲學評論編輯委員會	200506	13	201412	51	http://www.hyread.com.tw/hyreadnew/search_detail_journal.jsp?dtd_id=1&sysid=00001311	1311
+社會政策與社會工作學刊	1028-7337	台灣社會政策學會	199706	1:1	202106	25:1	http://www.hyread.com.tw/hyreadnew/search_detail_journal.jsp?dtd_id=1&sysid=00001312	1312
+初等教育學報		國立臺南師範學院初等教育學系	198806	1	198806	1	http://www.hyread.com.tw/hyreadnew/search_detail_journal.jsp?dtd_id=1&sysid=00001313	1313
+教育學誌	2071-3126	國立臺南大學教育學系	200805	19	202105	45	http://www.hyread.com.tw/hyreadnew/search_detail_journal.jsp?dtd_id=1&sysid=00001314	1314
+觀光與休閒管理期刊	2225-949X	觀光與休閒管理期刊編輯委員會	201309	1:1	202108	9特刊	http://www.hyread.com.tw/hyreadnew/search_detail_journal.jsp?dtd_id=1&sysid=00001315	1315
+管理資訊計算	2225-9481	管理資訊計算編輯委員會	201308	2:1	202109	10:2	http://www.hyread.com.tw/hyreadnew/search_detail_journal.jsp?dtd_id=1&sysid=00001316	1316
+空花水月：人文佛學月刊	1023-0319	金色蓮花雜誌社	201107	223	201308	248	http://www.hyread.com.tw/hyreadnew/search_detail_journal.jsp?dtd_id=1&sysid=00001318	1318
+Zen禪	1023-0319	金色蓮花雜誌社	201309	249	201309	249	http://www.hyread.com.tw/hyreadnew/search_detail_journal.jsp?dtd_id=1&sysid=00001319	1319
+National Pingtung University of Science and Technology Special Report on Research & Innovation	2076-880X	國立屏東科技大學研究發展處	200908	1	202012	2020專刊	http://www.hyread.com.tw/hyreadnew/search_detail_journal.jsp?dtd_id=1&sysid=00001320	1320
+康大學報	2226-3748	康寧大學	201204	1:1	202106	11	http://www.hyread.com.tw/hyreadnew/search_detail_journal.jsp?dtd_id=1&sysid=00001321	1321
+東海中文學報	1024-2287	東海大學中國文學系	197911	1	202106	41	http://www.hyread.com.tw/hyreadnew/search_detail_journal.jsp?dtd_id=1&sysid=00001322	1322
+輔仁醫學期刊	1810-2093	輔仁大學醫學院	200312	1	202109	19:3	http://www.hyread.com.tw/hyreadnew/search_detail_journal.jsp?dtd_id=1&sysid=00001323	1323
+華文世界	1017-0855	華文世界雜誌社	201206	109	202106	127	http://www.hyread.com.tw/hyreadnew/search_detail_journal.jsp?dtd_id=1&sysid=00001324	1324
+華語文教學研究	1811-8429	世界華語文教育學會	200806	5:1	202109	18:3	http://www.hyread.com.tw/hyreadnew/search_detail_journal.jsp?dtd_id=1&sysid=00001325	1325
+行銷科學學報	1816-6601	台灣行銷科學學會	200504	1:1	202110	17:2	http://www.hyread.com.tw/hyreadnew/search_detail_journal.jsp?dtd_id=1&sysid=00001326	1326
+傳播文化		輔仁大學大眾傳播學研究所	199304	1	202012	20	http://www.hyread.com.tw/hyreadnew/search_detail_journal.jsp?dtd_id=1&sysid=00001327	1327
+證券服務	2310-8924	臺灣證券交易所	201401	621	202110	685	http://www.hyread.com.tw/hyreadnew/search_detail_journal.jsp?dtd_id=1&sysid=00001328	1328
+航空安全及管理季刊	2310-7480	飛航安全調查委員會	201401	1:1	201810	5:4	http://www.hyread.com.tw/hyreadnew/search_detail_journal.jsp?dtd_id=1&sysid=00001329	1329
+Frontiers of Law in China	1673-3428	高等教育出版社有限公司	200601	1:1	202103	16:1	http://www.hyread.com.tw/hyreadnew/search_detail_journal.jsp?dtd_id=1&sysid=00001330	1330
+Frontiers of Forestry in China	1673-3630	高等教育出版社有限公司	200601	1:1	200912	4:4	http://www.hyread.com.tw/hyreadnew/search_detail_journal.jsp?dtd_id=1&sysid=00001331	1331
+Frontiers of Chemistry in China	1673-3614	高等教育出版社有限公司	200601	1:1	201112	6:4	http://www.hyread.com.tw/hyreadnew/search_detail_journal.jsp?dtd_id=1&sysid=00001332	1332
+Frontiers of Agriculture in China	1673-744X	高等教育出版社有限公司	200702	1:1	201112	5:4	http://www.hyread.com.tw/hyreadnew/search_detail_journal.jsp?dtd_id=1&sysid=00001333	1333
+Frontiers of Electrical and Electronic Engineering	2095-2740	高等教育出版社有限公司	201203	7:1	201212	7:4	http://www.hyread.com.tw/hyreadnew/search_detail_journal.jsp?dtd_id=1&sysid=00001334	1334
+Frontiers of Electrical and Electronic Engineering in China	2095-2740	高等教育出版社有限公司	200601	1:1	201112	6:4	http://www.hyread.com.tw/hyreadnew/search_detail_journal.jsp?dtd_id=1&sysid=00001335	1335
+轉化醫學研究	2095-154x	高等教育出版社有限公司	201109	1:1	201412	4:4	http://www.hyread.com.tw/hyreadnew/search_detail_journal.jsp?dtd_id=1&sysid=00001336	1336
+婦產與遺傳	2095-1558	高等教育出版社有限公司	201112	1:1	202106	11:2	http://www.hyread.com.tw/hyreadnew/search_detail_journal.jsp?dtd_id=1&sysid=00001337	1337
+高校生物學教學研究	2095-1574	高等教育出版社有限公司	201109	1:1	202108	11:4	http://www.hyread.com.tw/hyreadnew/search_detail_journal.jsp?dtd_id=1&sysid=00001340	1340
+管制藥品簡訊	0255-6162	衛生福利部食品藥物管理署	199911	1	202110	89	http://www.hyread.com.tw/hyreadnew/search_detail_journal.jsp?dtd_id=1&sysid=00001342	1342
+藥物食品安全週報	1817-3691	衛生福利部食品藥物管理署	200509	1	202112	846	http://www.hyread.com.tw/hyreadnew/search_detail_journal.jsp?dtd_id=1&sysid=00001343	1343
+台灣學誌	2219-2204	國立臺灣師範大學	201004	1	202104	20	http://www.hyread.com.tw/hyreadnew/search_detail_journal.jsp?dtd_id=1&sysid=00001344	1344
+中央研究院民族學研究所集刊	0001-3935	中央研究院民族學研究所	195603	1	200009	90	http://www.hyread.com.tw/hyreadnew/search_detail_journal.jsp?dtd_id=1&sysid=00001345	1345
+戶外遊憩研究	1012-5434	中華民國戶外遊憩學會	198803	1:1	202109	34:3	http://www.hyread.com.tw/hyreadnew/search_detail_journal.jsp?dtd_id=1&sysid=00001346	1346
+新世紀宗教研究	1684-3738	財團法人世界宗教博物館發展基金會附設出版社	200209	1:1	202106	19:1	http://www.hyread.com.tw/hyreadnew/search_detail_journal.jsp?dtd_id=1&sysid=00001347	1347
+高教評鑑與發展	2312-2552	財團法人高等教育評鑑中心基金會	201408	8:1	201510	9:1	http://www.hyread.com.tw/hyreadnew/search_detail_journal.jsp?dtd_id=1&sysid=00001348	1348
+高雄師大國文學報	2311-8644	國立高雄師範大學國文學系	201401	19	202110	34	http://www.hyread.com.tw/hyreadnew/search_detail_journal.jsp?dtd_id=1&sysid=00001350	1350
+全球客家研究	2310-8436	國立交通大學客家文化學院	201311	1	202105	16	http://www.hyread.com.tw/hyreadnew/search_detail_journal.jsp?dtd_id=1&sysid=00001351	1351
+數理人文	2332-1490	美商波士頓國際出版事業有限公司	201312	1	202107	20	http://www.hyread.com.tw/hyreadnew/search_detail_journal.jsp?dtd_id=1&sysid=00001352	1352
+法律扶助	1815-1752	財團法人法律扶助基金會	201205	36	201608	51	http://www.hyread.com.tw/hyreadnew/search_detail_journal.jsp?dtd_id=1&sysid=00001353	1353
+自殺防治網通訊		社團法人台灣自殺防治學會	200603	1:1	202109	16:3	http://www.hyread.com.tw/hyreadnew/search_detail_journal.jsp?dtd_id=1&sysid=00001354	1354
+華人運動生物力學期刊	2073-3267	台灣運動生物力學學會	200910	1	202109	18:2	http://www.hyread.com.tw/hyreadnew/search_detail_journal.jsp?dtd_id=1&sysid=00001356	1356
+運動表現期刊	2409-9651	台灣運動生物力學學會	201406	1:1	202109	8:2	http://www.hyread.com.tw/hyreadnew/search_detail_journal.jsp?dtd_id=1&sysid=00001357	1357
+運動與健康研究	2226-2628	中華民國大專院校系際運動聯盟	201410	3:3	201804	7:1	http://www.hyread.com.tw/hyreadnew/search_detail_journal.jsp?dtd_id=1&sysid=00001358	1358
+法治與公共治理學報		《法治與公共治理學報》編輯委員會	201312	1	201412	2	http://www.hyread.com.tw/hyreadnew/search_detail_journal.jsp?dtd_id=1&sysid=00001359	1359
+國際政治與經濟論叢		《國際政治與經濟論叢》編輯委員會	201312	1	201312	1	http://www.hyread.com.tw/hyreadnew/search_detail_journal.jsp?dtd_id=1&sysid=00001360	1360
+全球化與多元文化學報		《全球化與多元文化學報》輯委員會	201312	1	201412	2	http://www.hyread.com.tw/hyreadnew/search_detail_journal.jsp?dtd_id=1&sysid=00001361	1361
+光華商場採購誌		聖洺國際通路顧問有限公司	201407	64	201801	105	http://www.hyread.com.tw/hyreadnew/search_detail_journal.jsp?dtd_id=1&sysid=00001362	1362
+中國文哲研究通訊	1017-7558	中央研究院中國文哲研究所	199103	1:1	202106	31:2=122	http://www.hyread.com.tw/hyreadnew/search_detail_journal.jsp?dtd_id=1&sysid=00001363	1363
+中國文哲研究集刊	1017-6462	中央研究院中國文哲研究所	199103	1	202009	57	http://www.hyread.com.tw/hyreadnew/search_detail_journal.jsp?dtd_id=1&sysid=00001364	1364
+臺灣文藝		台灣文藝雜誌社	201310	1:1	201611	4:2	http://www.hyread.com.tw/hyreadnew/search_detail_journal.jsp?dtd_id=1&sysid=00001365	1365
+管理學報	0255-9838	社團法人中華民國管理科學學會	200502	22:1	201706	34:2	http://www.hyread.com.tw/hyreadnew/search_detail_journal.jsp?dtd_id=1&sysid=00001366	1366
+休憩管理研究	2311-3855	社團法人台灣休憩管理學會休憩管理研究學刊編輯委員會	201404	1:1	202012	7:2	http://www.hyread.com.tw/hyreadnew/search_detail_journal.jsp?dtd_id=1&sysid=00001367	1367
+港灣季刊	1019-2603	交通部運輸研究所	200902	82	202106	119	http://www.hyread.com.tw/hyreadnew/search_detail_journal.jsp?dtd_id=1&sysid=00001368	1368
+文化快遞	1819-0219	臺北市政府文化局	201408	171	201901	224	http://www.hyread.com.tw/hyreadnew/search_detail_journal.jsp?dtd_id=1&sysid=00001369	1369
+中央大學人文學報	1993-9167	國立中央大學文學院	198306	1	202008	69	http://www.hyread.com.tw/hyreadnew/search_detail_journal.jsp?dtd_id=1&sysid=00001371	1371
+澳門文獻信息學刊	2077-1479	澳門文獻信息學會	200911	1	202012	26	http://www.hyread.com.tw/hyreadnew/search_detail_journal.jsp?dtd_id=1&sysid=00001372	1372
+餐旅暨觀光	1816-6539、	國立高雄餐旅大學	201103	8:1	202106	18:1	http://www.hyread.com.tw/hyreadnew/search_detail_journal.jsp?dtd_id=1&sysid=00001373	1373
+Journal of Cancer Research and Practice	2311-3006	中華民國癌症醫學會	201406	1:1	201412	1:3	http://www.hyread.com.tw/hyreadnew/search_detail_journal.jsp?dtd_id=1&sysid=00001374	1374
+教育學報(香港)	1025-1936、2227-0256	香港中文大學香港教育研究所	2010	38:1	202106	49:1	http://www.hyread.com.tw/hyreadnew/search_detail_journal.jsp?dtd_id=1&sysid=00001375	1375
+測量工程	0496-3334	中國測量工程學會	200506	49:1/2	202007	59	http://www.hyread.com.tw/hyreadnew/search_detail_journal.jsp?dtd_id=1&sysid=00001376	1376
+國立臺灣大學考古人類學刊	0077-5843	《考古人類學刊》編輯委員會	200612	66	200612	66	http://www.hyread.com.tw/hyreadnew/search_detail_journal.jsp?dtd_id=1&sysid=00001377	1377
+臺北畫刊	0039-9051	臺北市政府觀光傳播局	201501	564	202111	646	http://www.hyread.com.tw/hyreadnew/search_detail_journal.jsp?dtd_id=1&sysid=00001379	1379
+Discover Taipei	1728-1741	臺北市政府觀光傳播局	201501	105	201505	107	http://www.hyread.com.tw/hyreadnew/search_detail_journal.jsp?dtd_id=1&sysid=00001380	1380
+台灣專科護理師學刊	2410-325X	台灣專科護理師學會	201502	1:1	202106	8:1	http://www.hyread.com.tw/hyreadnew/search_detail_journal.jsp?dtd_id=1&sysid=00001381	1381
+應用心理研究	1560-9251	應用心理研究雜誌社	199901	1	202106	74	http://www.hyread.com.tw/hyreadnew/search_detail_journal.jsp?dtd_id=1&sysid=00001382	1382
+ディスカバー台北	2073-3461	臺北市政府觀光傳播局	201501	105	201505	107	http://www.hyread.com.tw/hyreadnew/search_detail_journal.jsp?dtd_id=1&sysid=00001383	1383
+史繹	2305-8919	國立臺灣大學歷史學系《史繹》編輯委員會	201406	38	201406	38	http://www.hyread.com.tw/hyreadnew/search_detail_journal.jsp?dtd_id=1&sysid=00001384	1384
+建國科大學報	2523-1103	建國科技大學	200910	29:1	202001	39:1	http://www.hyread.com.tw/hyreadnew/search_detail_journal.jsp?dtd_id=1&sysid=00001385	1385
+國立屏東大學學報-教育類	2523-0549	國立屏東大學	201704	1	202104	5	http://www.hyread.com.tw/hyreadnew/search_detail_journal.jsp?dtd_id=1&sysid=00001386	1386
+屏東教育大學學報－教育類	2070-1489	國立屏東教育大學	201203	38	201505	42	http://www.hyread.com.tw/hyreadnew/search_detail_journal.jsp?dtd_id=1&sysid=00001387	1387
+屏東教育大學學報－人文社會類	1995-9311	國立屏東教育大學	200903	32	201505	42	http://www.hyread.com.tw/hyreadnew/search_detail_journal.jsp?dtd_id=1&sysid=00001388	1388
+國立屏東商業技術學院學報	1729-3308	國立屏東商業技術學院	201108	13	201407	16	http://www.hyread.com.tw/hyreadnew/search_detail_journal.jsp?dtd_id=1&sysid=00001389	1389
+民主與治理	2311-505X	國立中正大學政治學系	201402	1:1	202102	8:1	http://www.hyread.com.tw/hyreadnew/search_detail_journal.jsp?dtd_id=1&sysid=00001391	1391
+技術及職業教育學報	1812-3112	國立臺灣師範大學工業教育學系	200906	3:1	201809	8:2	http://www.hyread.com.tw/hyreadnew/search_detail_journal.jsp?dtd_id=1&sysid=00001393	1393
+Asian Sports Management Review	1999-4109	臺灣體育運動管理學會	200701	1	201408	8	http://www.hyread.com.tw/hyreadnew/search_detail_journal.jsp?dtd_id=1&sysid=00001394	1394
+社會研究學報	2411-4243	國立臺南大學	201504	1:1	201704	3:1	http://www.hyread.com.tw/hyreadnew/search_detail_journal.jsp?dtd_id=1&sysid=00001395	1395
+國立屏東大學學報-人文社會類	2518-8879	國立屏東大學	201608	1	202108	6	http://www.hyread.com.tw/hyreadnew/search_detail_journal.jsp?dtd_id=1&sysid=00001397	1397
+國立屏東大學學報-管理類	2025-4319	國立屏東大學	201812	1	202012	3	http://www.hyread.com.tw/hyreadnew/search_detail_journal.jsp?dtd_id=1&sysid=00001398	1398
+當代詩學		國立臺北教育大學語文與創作學系	200812	4	201407	9	http://www.hyread.com.tw/hyreadnew/search_detail_journal.jsp?dtd_id=1&sysid=00001399	1399
+人文研究學報(新)	2411-9504	國立臺南大學	201504	49:1	202012	54	http://www.hyread.com.tw/hyreadnew/search_detail_journal.jsp?dtd_id=1&sysid=00001400	1400
+勞動及職業安全衛生研究季刊	1024-9877	勞動部勞動及職業安全衛生研究所	201503	23:1	202109	29:3	http://www.hyread.com.tw/hyreadnew/search_detail_journal.jsp?dtd_id=1&sysid=00001401	1401
+生產力及貿易月刊		財團法人中國生產力中心	195801	2:1	197812	22:12	http://www.hyread.com.tw/hyreadnew/search_detail_journal.jsp?dtd_id=1&sysid=00001402	1402
+生產力	1011-5722	財團法人中國生產力中心	198001	24:1	199003	409	http://www.hyread.com.tw/hyreadnew/search_detail_journal.jsp?dtd_id=1&sysid=00001404	1404
+戰略生產力	1011-5722	財團法人中國生產力中心	199004	410	199704	494	http://www.hyread.com.tw/hyreadnew/search_detail_journal.jsp?dtd_id=1&sysid=00001405	1405
+能力雜誌	1028-2181	財團法人中國生產力中心	199705	495試刊號	202111	789	http://www.hyread.com.tw/hyreadnew/search_detail_journal.jsp?dtd_id=1&sysid=00001406	1406
+國立臺中科技大學通識教育學報	2071-4998	國立臺中科技大學通識教育中心	201212	1	202012	7	http://www.hyread.com.tw/hyreadnew/search_detail_journal.jsp?dtd_id=1&sysid=00001407	1407
+Canadian Journal of Traditional Chinese Medicine	2369-0704	Canadian TCM Publishing House	201501	1:1創刊號	201501	1:1創刊號	http://www.hyread.com.tw/hyreadnew/search_detail_journal.jsp?dtd_id=1&sysid=00001408	1408
+GIS MAGAZINE 逢甲大學地理資訊系統研究中心年刊		逢甲大學地理資訊系統研究中心	201104	2011	201608	2016特刊	http://www.hyread.com.tw/hyreadnew/search_detail_journal.jsp?dtd_id=1&sysid=00001409	1409
+圖資與檔案學刊	1023-2125	政治大學	201506	86	202106	98	http://www.hyread.com.tw/hyreadnew/search_detail_journal.jsp?dtd_id=1&sysid=00001410	1410
+臺中科大體育學刊	2220-380X	國立臺中科技大學體育室	201305	9	202105	17	http://www.hyread.com.tw/hyreadnew/search_detail_journal.jsp?dtd_id=1&sysid=00001411	1411
+淡江體育學刊	2309-4176	淡江大學體育室	201311	16	202011	23	http://www.hyread.com.tw/hyreadnew/search_detail_journal.jsp?dtd_id=1&sysid=00001412	1412
+中州管理與人文科學學刊	2224-3305	中州學校財團法人中州科技大學	201409	2:2	201409	2:2	http://www.hyread.com.tw/hyreadnew/search_detail_journal.jsp?dtd_id=1&sysid=00001413	1413
+致理學報 (人文與生活應用特刊)	1027-1050		201406	34(人文特刊)	201406	34(人文特刊)	http://www.hyread.com.tw/hyreadnew/search_detail_journal.jsp?dtd_id=1&sysid=00001414	1414
+致理學報 (商業與管理特刊)	1651-1684		201406	34(商管特刊)	201406	34(商管特刊)	http://www.hyread.com.tw/hyreadnew/search_detail_journal.jsp?dtd_id=1&sysid=00001415	1415
+致理學報 (資訊特刊 )	1229-1254		201406	34(資訊特刊)	201406	34(資訊特刊)	http://www.hyread.com.tw/hyreadnew/search_detail_journal.jsp?dtd_id=1&sysid=00001416	1416
+圖書館學刊	1018-3817	國立臺灣大學圖書資訊學系	196712	1	199812	13	http://www.hyread.com.tw/hyreadnew/search_detail_journal.jsp?dtd_id=1&sysid=00001417	1417
+婦癌醫學期刊	1019-5998	中華民國婦癌醫學會	201504	41	202110	54	http://www.hyread.com.tw/hyreadnew/search_detail_journal.jsp?dtd_id=1&sysid=00001418	1418
+資訊法務透析		財團法人資訊工業策進會科技法律研究所	198904	1:4-1	200003	12:3	http://www.hyread.com.tw/hyreadnew/search_detail_journal.jsp?dtd_id=1&sysid=00001419	1419
+民主視野	2222-6826	社團法人李登輝民主協會	201506	10	201806	22	http://www.hyread.com.tw/hyreadnew/search_detail_journal.jsp?dtd_id=1&sysid=00001420	1420
+創思學刊	2078-7340	台南應用科技大學	201510	34	201610	35	http://www.hyread.com.tw/hyreadnew/search_detail_journal.jsp?dtd_id=1&sysid=00001421	1421
+產業論壇	1995-8234	財團法人工業技術研究院 產業經濟與趨勢研究中心	199912	1:1	200706	9:2	http://www.hyread.com.tw/hyreadnew/search_detail_journal.jsp?dtd_id=1&sysid=00001422	1422
+產業與管理論壇	1995-8234	財團法人工業技術研究院 產業經濟與趨勢研究中心	200709	9:3	202109	23:3	http://www.hyread.com.tw/hyreadnew/search_detail_journal.jsp?dtd_id=1&sysid=00001423	1423
+中外文學	0303-0849	國立臺灣大學外國語文學系	200501	33:8=392	202109	50:3=474	http://www.hyread.com.tw/hyreadnew/search_detail_journal.jsp?dtd_id=1&sysid=00001424	1424
+藝術認證	1816-3157	高雄市立美術館	201502	60	202102	96	http://www.hyread.com.tw/hyreadnew/search_detail_journal.jsp?dtd_id=1&sysid=00001425	1425
+家庭暴力與性侵害電子期刊		台灣家庭暴力暨性犯罪處遇協會	201107	1	201411	4	http://www.hyread.com.tw/hyreadnew/search_detail_journal.jsp?dtd_id=1&sysid=00001426	1426
+花蓮趣	2307-3799	花蓮縣政府	201503	12	202112	39	http://www.hyread.com.tw/hyreadnew/search_detail_journal.jsp?dtd_id=1&sysid=00001427	1427
+文化報報		臺中市政府文化局	201501	189	201901	237	http://www.hyread.com.tw/hyreadnew/search_detail_journal.jsp?dtd_id=1&sysid=00001428	1428
+石油通訊	0559-8214	台灣中油股份有限公司	201501	761	201712	796	http://www.hyread.com.tw/hyreadnew/search_detail_journal.jsp?dtd_id=1&sysid=00001429	1429
+消防月刊	1811-8577	內政部消防署	201501	104:1	201712	106:12	http://www.hyread.com.tw/hyreadnew/search_detail_journal.jsp?dtd_id=1&sysid=00001430	1430
+文化研究季刊	2076-2755	中華民國文化研究學會	201509	151	202109	175	http://www.hyread.com.tw/hyreadnew/search_detail_journal.jsp?dtd_id=1&sysid=00001432	1432
+當代儒學研究	1994-5760	國立中央大學儒學研究中心	200701	1	202012	29	http://www.hyread.com.tw/hyreadnew/search_detail_journal.jsp?dtd_id=1&sysid=00001433	1433
+應用倫理評論	1028-2483	國立中央大學哲學研究所	200904	46	202010	69	http://www.hyread.com.tw/hyreadnew/search_detail_journal.jsp?dtd_id=1&sysid=00001434	1434
+公民教育與活動領導學報	1683-660X	國立臺灣師範大學公民教育與活動領導學系	201409	23	201812	25	http://www.hyread.com.tw/hyreadnew/search_detail_journal.jsp?dtd_id=1&sysid=00001435	1435
+TAIPEI(英文版)		Department of Information and Tourism, Taipei City Government	201509	1	202109	25	http://www.hyread.com.tw/hyreadnew/search_detail_journal.jsp?dtd_id=1&sysid=00001436	1436
+TAIPEI(日文版)		台北市観光伝播局	201509	1	202109	25	http://www.hyread.com.tw/hyreadnew/search_detail_journal.jsp?dtd_id=1&sysid=00001437	1437
+新北市藝遊		新北市政府文化局	201901	2019-1	202112	2021-12	http://www.hyread.com.tw/hyreadnew/search_detail_journal.jsp?dtd_id=1&sysid=00001438	1438
+中科簡訊		科技部中部科學工業園區管理局	201501	124	201704	151	http://www.hyread.com.tw/hyreadnew/search_detail_journal.jsp?dtd_id=1&sysid=00001439	1439
+應用倫理研究通訊	1028-2483	國立中央大學哲學研究所	199701	1	200802	45	http://www.hyread.com.tw/hyreadnew/search_detail_journal.jsp?dtd_id=1&sysid=00001440	1440
+中華飲食文化國際學術研討會論文集		中華飲食文化基金會	200511	9	201510	2015:10	http://www.hyread.com.tw/hyreadnew/search_detail_journal.jsp?dtd_id=1&sysid=00001442	1442
+餐飲管理學術研討會論文集		中華飲食文化基金會	199605	1	200705	12	http://www.hyread.com.tw/hyreadnew/search_detail_journal.jsp?dtd_id=1&sysid=00001443	1443
+慈濟科技大學學報	1681-8814	慈濟科技大學	201509	1=總25	202106	10=總34	http://www.hyread.com.tw/hyreadnew/search_detail_journal.jsp?dtd_id=1&sysid=00001444	1444
+料理.台灣	2224-3313	中華飲食文化基金會	201201	1 創刊號	202111	60	http://www.hyread.com.tw/hyreadnew/search_detail_journal.jsp?dtd_id=1&sysid=00001445	1445
+中華飲食文化基金會會訊		中華飲食文化基金會	199502	1:1	201111	17:4	http://www.hyread.com.tw/hyreadnew/search_detail_journal.jsp?dtd_id=1&sysid=00001446	1446
+台灣地區飲食文化與國民健康研討會論文集		中華飲食文化基金會	200107	2001	200107	2001	http://www.hyread.com.tw/hyreadnew/search_detail_journal.jsp?dtd_id=1&sysid=00001447	1447
+臺灣飲食文化暨餐飲管理國際學術研討會論文集		中華飲食文化基金會	201204	2012	201204	2012	http://www.hyread.com.tw/hyreadnew/search_detail_journal.jsp?dtd_id=1&sysid=00001448	1448
+中國飲食文化國際學術研討會論文集		中華飲食文化基金會	198909	1	200310	8	http://www.hyread.com.tw/hyreadnew/search_detail_journal.jsp?dtd_id=1&sysid=00001449	1449
+傳播文化與政治	2411-4006	媒體改造學社	201506	1	202106	13	http://www.hyread.com.tw/hyreadnew/search_detail_journal.jsp?dtd_id=1&sysid=00001450	1450
+共誌		媒體改造學社	201103	1	201611	12	http://www.hyread.com.tw/hyreadnew/search_detail_journal.jsp?dtd_id=1&sysid=00001451	1451
+生命雙月刊		財團法人佛教蓮花基金會	201305	119	201911	158	http://www.hyread.com.tw/hyreadnew/search_detail_journal.jsp?dtd_id=1&sysid=00001452	1452
+台電月刊	0377-6018	台灣電力股份有限公司	201601	637	201912	684	http://www.hyread.com.tw/hyreadnew/search_detail_journal.jsp?dtd_id=1&sysid=00001453	1453
+東海大學圖書館館刊	1682-1599	東海大學圖書館	201601	1	202111	60	http://www.hyread.com.tw/hyreadnew/search_detail_journal.jsp?dtd_id=1&sysid=00001454	1454
+Tzu Chi Medical & Nursing Care		財團法人中華民國佛教慈濟慈善事業基金會醫療志業發展處	201601	20	202107	31	http://www.hyread.com.tw/hyreadnew/search_detail_journal.jsp?dtd_id=1&sysid=00001455	1455
+人文社會科學研究：教育類	2414-0228	國立屏東科技大學人文暨社會科學院	201509	9:3	202109	15:3	http://www.hyread.com.tw/hyreadnew/search_detail_journal.jsp?dtd_id=1&sysid=00001456	1456
+人文社會科學研究：人文社會科學類	1996-7985	國立屏東科技大學人文暨社會科學院	201512	9:4	202109	15:3	http://www.hyread.com.tw/hyreadnew/search_detail_journal.jsp?dtd_id=1&sysid=00001457	1457
+中國文字學國際學術研討會論文集		輔仁大學中國文學系、中國文字學會	200705	18	200705	18	http://www.hyread.com.tw/hyreadnew/search_detail_journal.jsp?dtd_id=1&sysid=00001458	1458
+中國文學國際學術研討會論文集		輔仁大學中國文學系	201111	2011	201111	2011	http://www.hyread.com.tw/hyreadnew/search_detail_journal.jsp?dtd_id=1&sysid=00001459	1459
+漢學國際學術研討會		輔仁大學中國文學系	201405	2014	201405	2014	http://www.hyread.com.tw/hyreadnew/search_detail_journal.jsp?dtd_id=1&sysid=00001460	1460
+跨界對談		國立臺灣藝術大學戲劇學系	201609	11	201810	13下	http://www.hyread.com.tw/hyreadnew/search_detail_journal.jsp?dtd_id=1&sysid=00001461	1461
+臺藝戲劇學刊	1817-003X	國立臺灣藝術大學戲劇學系	200507	1	201003	5	http://www.hyread.com.tw/hyreadnew/search_detail_journal.jsp?dtd_id=1&sysid=00001462	1462
+雲林好樣		雲林縣政府	201407	2014夏	201409	2014冬	http://www.hyread.com.tw/hyreadnew/search_detail_journal.jsp?dtd_id=1&sysid=00001463	1463
+安居樂業i屏東		屏東縣政府	201510	2015-5	201910	2019-10	http://www.hyread.com.tw/hyreadnew/search_detail_journal.jsp?dtd_id=1&sysid=00001464	1464
+幸福屏東		屏東縣政府	201408	2014-08	201411	2014-11	http://www.hyread.com.tw/hyreadnew/search_detail_journal.jsp?dtd_id=1&sysid=00001465	1465
+聲韻學學術研討會論文集		輔仁大學中國文學系、中國聲韻學會	200905	2009	200905	2009	http://www.hyread.com.tw/hyreadnew/search_detail_journal.jsp?dtd_id=1&sysid=00001466	1466
+紀念王靜芝教授九秩晉五誕辰暨訓詁學專題學術研討會論文集		輔仁大學中國文學系、中國訓詁學會	201005	2010	201005	2010	http://www.hyread.com.tw/hyreadnew/search_detail_journal.jsp?dtd_id=1&sysid=00001467	1467
+戲劇學系2014戲劇應用國際學術研討會		國立臺灣藝術大學戲劇學系	201403	2014	201403	2014	http://www.hyread.com.tw/hyreadnew/search_detail_journal.jsp?dtd_id=1&sysid=00001468	1468
+戲劇學系2013法國劇作家惹內與其他荒謬劇作家學術研討會		國立臺灣藝術大學戲劇學系	201303	2013	201303	2013	http://www.hyread.com.tw/hyreadnew/search_detail_journal.jsp?dtd_id=1&sysid=00001469	1469
+2012兩岸三地戲劇療育研討會與實務工作坊		國立臺灣藝術大學戲劇學系	201203	2012	201203	2012	http://www.hyread.com.tw/hyreadnew/search_detail_journal.jsp?dtd_id=1&sysid=00001470	1470
+2011尤里匹底斯國際學術研討會暨短劇創作工作坊		國立臺灣藝術大學戲劇學系	201206	2011	201206	2011	http://www.hyread.com.tw/hyreadnew/search_detail_journal.jsp?dtd_id=1&sysid=00001471	1471
+2010迪倫馬特暨田納西威廉斯國際學術研討會		國立臺灣藝術大學戲劇學系	201012	2010	201012	2010	http://www.hyread.com.tw/hyreadnew/search_detail_journal.jsp?dtd_id=1&sysid=00001472	1472
+2009易卜生國際學術研討會		國立臺灣藝術大學戲劇學系	200912	2009	200912	2009	http://www.hyread.com.tw/hyreadnew/search_detail_journal.jsp?dtd_id=1&sysid=00001473	1473
+2008達利歐‧佛國際學術研討會		國立臺灣藝術大學戲劇學系	200810	2008	200810	2008	http://www.hyread.com.tw/hyreadnew/search_detail_journal.jsp?dtd_id=1&sysid=00001474	1474
+2007亞里斯多芬尼斯學術研討會		國立臺灣藝術大學戲劇學系	200708	2007	200708	2007	http://www.hyread.com.tw/hyreadnew/search_detail_journal.jsp?dtd_id=1&sysid=00001475	1475
+2006莫里哀國際學術研討會		國立臺灣藝術大學戲劇學系	200909	2006	200909	2006	http://www.hyread.com.tw/hyreadnew/search_detail_journal.jsp?dtd_id=1&sysid=00001476	1476
+2005海峽兩岸契訶夫學術研討會		國立臺灣藝術大學戲劇學系	200504	2005	200504	2005	http://www.hyread.com.tw/hyreadnew/search_detail_journal.jsp?dtd_id=1&sysid=00001477	1477
+戲劇學系2004表演藝術國際學術研討會論文集		國立臺灣藝術大學戲劇學系	200405	2004	200405	2004	http://www.hyread.com.tw/hyreadnew/search_detail_journal.jsp?dtd_id=1&sysid=00001478	1478
+戲劇學系2002海峽兩岸暨香港地區當代劇場研討會論文集		國立臺灣藝術大學戲劇學系	200212	2002	200212	2002	http://www.hyread.com.tw/hyreadnew/search_detail_journal.jsp?dtd_id=1&sysid=00001479	1479
+教科書研究	1999-8856	國家教育研究院	200806	1:1	202108	14:2	http://www.hyread.com.tw/hyreadnew/search_detail_journal.jsp?dtd_id=1&sysid=00001480	1480
+大學教學實務與研究學刊	2519-6499	國立清華大學	201612	創刊號	202106	5:1	http://www.hyread.com.tw/hyreadnew/search_detail_journal.jsp?dtd_id=1&sysid=00001481	1481
+教育脈動	2411-409X	國家教育研究院	201503	1	201909	19	http://www.hyread.com.tw/hyreadnew/search_detail_journal.jsp?dtd_id=1&sysid=00001482	1482
+中華民國教育年報		國家教育研究院	199911	87	202102	108	http://www.hyread.com.tw/hyreadnew/search_detail_journal.jsp?dtd_id=1&sysid=00001483	1483
+教育資料與研究	1024-3058	國家教育研究院	201311	111	201411	115	http://www.hyread.com.tw/hyreadnew/search_detail_journal.jsp?dtd_id=1&sysid=00001484	1484
+奇萊論衡：東華文哲研究集刊	1726-7447	國立東華大學中國語文學系	201603	1	202109	10	http://www.hyread.com.tw/hyreadnew/search_detail_journal.jsp?dtd_id=1&sysid=00001485	1485
+屏東大學體育學刊	2414-4185	國立屏東大學體育學系	201512	1	202106	7	http://www.hyread.com.tw/hyreadnew/search_detail_journal.jsp?dtd_id=1&sysid=00001486	1486
+臺陽文史研究	2413-2691	臺陽文史研究學會	201601	創刊號	202101	6	http://www.hyread.com.tw/hyreadnew/search_detail_journal.jsp?dtd_id=1&sysid=00001487	1487
+臺陽文史研究學會電子報		臺陽文史研究學會	201502	創刊號	202108	26	http://www.hyread.com.tw/hyreadnew/search_detail_journal.jsp?dtd_id=1&sysid=00001488	1488
+物理雙月刊		台灣物理學會	201606	38:3	202112	43:6	http://www.hyread.com.tw/hyreadnew/search_detail_journal.jsp?dtd_id=1&sysid=00001489	1489
+國立金門技術學院學報		國立金門技術學院	200503	1	201001	4	http://www.hyread.com.tw/hyreadnew/search_detail_journal.jsp?dtd_id=1&sysid=00001490	1490
+華嚴學報	2222-6885	中華民國佛教華嚴學會	201104	1	202003	12	http://www.hyread.com.tw/hyreadnew/search_detail_journal.jsp?dtd_id=1&sysid=00001491	1491
+書目季刊	0006-1581	台灣學生書局	201006	44:1	202106	55:1	http://www.hyread.com.tw/hyreadnew/search_detail_journal.jsp?dtd_id=1&sysid=00001492	1492
+經學研究論叢		台灣學生書局	199808	5	201301	20	http://www.hyread.com.tw/hyreadnew/search_detail_journal.jsp?dtd_id=1&sysid=00001493	1493
+型農本色		財團法人中衛發展中心	201306	1	201803	20	http://www.hyread.com.tw/hyreadnew/search_detail_journal.jsp?dtd_id=1&sysid=00001494	1494
+城與書		澳門中央圖書館	201410	1	202110	28	http://www.hyread.com.tw/hyreadnew/search_detail_journal.jsp?dtd_id=1&sysid=00001495	1495
+陶博館季刊		新北市立鶯歌陶瓷博物館	201601	52	201810	63	http://www.hyread.com.tw/hyreadnew/search_detail_journal.jsp?dtd_id=1&sysid=00001496	1496
+Journal of Applied English	2071-8578	銘傳大學應用英語學系	200812	1	202106	16	http://www.hyread.com.tw/hyreadnew/search_detail_journal.jsp?dtd_id=1&sysid=00001497	1497
+Contemporary Management Research	1813-5498	Academy of Taiwan Information Systems Research	200509	1:1	202108	17:3	http://www.hyread.com.tw/hyreadnew/search_detail_journal.jsp?dtd_id=1&sysid=00001498	1498
+International Journal of Cyber Society and Education	1995-6649	Academy of Taiwan Information Systems Research	200806	1:1	201612	9:2	http://www.hyread.com.tw/hyreadnew/search_detail_journal.jsp?dtd_id=1&sysid=00001499	1499
+International Journal of Electronic Commerce Studies	2073-9729	Academy of Taiwan Information Systems Research	201006	1:1	202106	12:1	http://www.hyread.com.tw/hyreadnew/search_detail_journal.jsp?dtd_id=1&sysid=00001500	1500
+終身樂學研究學刊	2519-3422	社團法人高雄市終身樂學協會	201605	1:1	201805	3	http://www.hyread.com.tw/hyreadnew/search_detail_journal.jsp?dtd_id=1&sysid=00001502	1502
+經營管理學刊	2077-6446	國立屏東大學	201511	10	201809	16	http://www.hyread.com.tw/hyreadnew/search_detail_journal.jsp?dtd_id=1&sysid=00001503	1503
+教育行政論壇	2076-3638	國立屏東大學	201412	6:2	201906	11:1	http://www.hyread.com.tw/hyreadnew/search_detail_journal.jsp?dtd_id=1&sysid=00001504	1504
+科學教育(屏東大學)	2413-9165	國立屏東大學	201510	1	202010	6	http://www.hyread.com.tw/hyreadnew/search_detail_journal.jsp?dtd_id=1&sysid=00001505	1505
+中華輔導學報		台灣輔導與諮商學會	199402	2	200709	22	http://www.hyread.com.tw/hyreadnew/search_detail_journal.jsp?dtd_id=1&sysid=00001506	1506
+清華藝術學報	2664-9403	國立清華大學	201907	1	202012	2	http://www.hyread.com.tw/hyreadnew/search_detail_journal.jsp?dtd_id=1&sysid=00001507	1507
+清華教育學報	2521-9006	國立清華大學	201706	34:1	202006	37:1	http://www.hyread.com.tw/hyreadnew/search_detail_journal.jsp?dtd_id=1&sysid=00001508	1508
+桃園客家	2412-1789	桃園市政府客家事務局	201703	7	201812	14	http://www.hyread.com.tw/hyreadnew/search_detail_journal.jsp?dtd_id=1&sysid=00001509	1509
+灰色系統理論與應用研討會論文集		中華民國灰色系統學會	199611	1996	201606	2016	http://www.hyread.com.tw/hyreadnew/search_detail_journal.jsp?dtd_id=1&sysid=00001510	1510
+跆拳道學刊	2519-6995	台灣跆拳道運動學會	201405	1	202012	7	http://www.hyread.com.tw/hyreadnew/search_detail_journal.jsp?dtd_id=1&sysid=00001511	1511
+法律新聞雜誌	2219-3669	新保成出版事業有限公司	201311	143	201607	159	http://www.hyread.com.tw/hyreadnew/search_detail_journal.jsp?dtd_id=1&sysid=00001512	1512
+法律人潮流誌	2219-3669	新保成出版事業有限公司	201609	1	202111	32	http://www.hyread.com.tw/hyreadnew/search_detail_journal.jsp?dtd_id=1&sysid=00001513	1513
+婦女與性別研究通訊	1682-8607	國立臺灣大學人口與性別研究中心婦女與性別研究組	200112	61	200301	65	http://www.hyread.com.tw/hyreadnew/search_detail_journal.jsp?dtd_id=1&sysid=00001514	1514
+僑教與海外華人研究學報	2414-7494	中原大學海外華人研究中心	201310	1	201701	8	http://www.hyread.com.tw/hyreadnew/search_detail_journal.jsp?dtd_id=1&sysid=00001516	1516
+台北市中醫醫學雜誌	2311-0643	臺北市中醫師公會	201703	23:1=87	202109	27:2=100	http://www.hyread.com.tw/hyreadnew/search_detail_journal.jsp?dtd_id=1&sysid=00001517	1517
+首都中醫報導	2312-8763	臺北市中醫師公會	201206	14	202109	53	http://www.hyread.com.tw/hyreadnew/search_detail_journal.jsp?dtd_id=1&sysid=00001518	1518
+教育研究與發展期刊	1816-6054	國家教育研究院	200506	1:1	202109	17:3	http://www.hyread.com.tw/hyreadnew/search_detail_journal.jsp?dtd_id=1&sysid=00001519	1519
+師大學報	2518-9603	國立臺灣師範大學	201703	62:1	202109	66:2	http://www.hyread.com.tw/hyreadnew/search_detail_journal.jsp?dtd_id=1&sysid=00001520	1520
+中醫醫訊	2312-8763	臺北市中醫師公會	201006	6	201203	13	http://www.hyread.com.tw/hyreadnew/search_detail_journal.jsp?dtd_id=1&sysid=00001521	1521
+香光莊嚴雜誌	1027-5126	香光莊嚴雜誌社	198502	1	202106	140	http://www.hyread.com.tw/hyreadnew/search_detail_journal.jsp?dtd_id=1&sysid=00001522	1522
+華人宗教研究	2307-8456	國立政治大學華人宗教研究中心	201305	1	202001	15	http://www.hyread.com.tw/hyreadnew/search_detail_journal.jsp?dtd_id=1&sysid=00001523	1523
+語教新視野	2313-6820	中華民國語文教材與教法學會	201403	1	202009	11	http://www.hyread.com.tw/hyreadnew/search_detail_journal.jsp?dtd_id=1&sysid=00001524	1524
+語文教育論壇	2409-3599	中華民國語文教材與教法學會	201409	1	202109	25	http://www.hyread.com.tw/hyreadnew/search_detail_journal.jsp?dtd_id=1&sysid=00001525	1525
+醫學與健康期刊	2304-6856	衛生福利部臺中醫院	201209	1:1	202111	10:3	http://www.hyread.com.tw/hyreadnew/search_detail_journal.jsp?dtd_id=1&sysid=00001526	1526
+臺灣東亞文明研究學刊	1812-6243	國立臺灣師範大學國際與社會科學學院	201612	13:2=26	202106	18:1=35	http://www.hyread.com.tw/hyreadnew/search_detail_journal.jsp?dtd_id=1&sysid=00001527	1527
+大埔通訊		台北市大埔縣同鄉會	201110	1	202103	45	http://www.hyread.com.tw/hyreadnew/search_detail_journal.jsp?dtd_id=1&sysid=00001528	1528
+大埔會刊		台北市大埔縣同鄉會	201202	48	202102	57	http://www.hyread.com.tw/hyreadnew/search_detail_journal.jsp?dtd_id=1&sysid=00001529	1529
+臺灣建築學會會刊雜誌	1019-6994	臺灣建築學會	201501	77	202107	103	http://www.hyread.com.tw/hyreadnew/search_detail_journal.jsp?dtd_id=1&sysid=00001530	1530
+奇美醫訊		奇美醫訊雜誌社	201306	101	202112	135	http://www.hyread.com.tw/hyreadnew/search_detail_journal.jsp?dtd_id=1&sysid=00001531	1531
+管理學報	2521-4306	社團法人中華民國管理科學學會	201709	34:3	202109	38:3	http://www.hyread.com.tw/hyreadnew/search_detail_journal.jsp?dtd_id=1&sysid=00001532	1532
+機械工業	0255-0075	財團法人工業技術研究院 機械與機電系統研究所	201711	416	202112	465	http://www.hyread.com.tw/hyreadnew/search_detail_journal.jsp?dtd_id=1&sysid=00001533	1533
+聖嚴研究		法鼓文化	201003	1	201908	12	http://www.hyread.com.tw/hyreadnew/search_detail_journal.jsp?dtd_id=1&sysid=00001534	1534
+華人文化研究	2309-0057	中華民國南洋文化學會	201308	1:1	202106	9:1	http://www.hyread.com.tw/hyreadnew/search_detail_journal.jsp?dtd_id=1&sysid=00001536	1536
+貿易雜誌		台北市進出口商業同業公會	201801	319	202112	366	http://www.hyread.com.tw/hyreadnew/search_detail_journal.jsp?dtd_id=1&sysid=00001537	1537
+電電時代		台灣區電機電子工業同業公會	201801	121	202111	167	http://www.hyread.com.tw/hyreadnew/search_detail_journal.jsp?dtd_id=1&sysid=00001538	1538
+在野法潮		台北律師公會	201804	37	202104	49	http://www.hyread.com.tw/hyreadnew/search_detail_journal.jsp?dtd_id=1&sysid=00001539	1539
+嘉義市民報		嘉義市政府	201801	2018-1	201804	2018-4	http://www.hyread.com.tw/hyreadnew/search_detail_journal.jsp?dtd_id=1&sysid=00001540	1540
+清流雙月刊	2415-4970	法務部調查局	201801	13	202109	35	http://www.hyread.com.tw/hyreadnew/search_detail_journal.jsp?dtd_id=1&sysid=00001541	1541
+步兵季刊	2221-8319	陸軍步兵訓練指揮部	201005	236	202111	282	http://www.hyread.com.tw/hyreadnew/search_detail_journal.jsp?dtd_id=1&sysid=00001544	1544
+新識力		中國文化大學推廣教育部	201709	2017-09	201809	2018-09	http://www.hyread.com.tw/hyreadnew/search_detail_journal.jsp?dtd_id=1&sysid=00001545	1545
+經理人		巨思文化股份有限公司	201109	82	202112	205	http://www.hyread.com.tw/hyreadnew/search_detail_journal.jsp?dtd_id=1&sysid=00001546	1546
+數位時代	1563-1222	巨思文化股份有限公司	201109	208	202112	331	http://www.hyread.com.tw/hyreadnew/search_detail_journal.jsp?dtd_id=1&sysid=00001547	1547
+Shopping Design		巨思文化股份有限公司	201109	34	202112	141	http://www.hyread.com.tw/hyreadnew/search_detail_journal.jsp?dtd_id=1&sysid=00001548	1548
+臺灣出版與閱讀	2616-5074	國家圖書館	201803	1	202109	15	http://www.hyread.com.tw/hyreadnew/search_detail_journal.jsp?dtd_id=1&sysid=00001550	1550
+子衿論衡	2521-4322	國立中正大學中國文學系	201712	2	202006	5	http://www.hyread.com.tw/hyreadnew/search_detail_journal.jsp?dtd_id=1&sysid=00001551	1551
+台北海洋科技大學學報		台北海洋科技大學	201711	9:1	202103	12:1	http://www.hyread.com.tw/hyreadnew/search_detail_journal.jsp?dtd_id=1&sysid=00001552	1552
+TYC青年創世代	2413-6115	桃園市政府靑年事務局	201803	11	201811	14	http://www.hyread.com.tw/hyreadnew/search_detail_journal.jsp?dtd_id=1&sysid=00001553	1553
+食力雙週刊		厚策思維有限公司	201803	2018-Vol.1	202107	2021-vol.46	http://www.hyread.com.tw/hyreadnew/search_detail_journal.jsp?dtd_id=1&sysid=00001555	1555
+卓越雜誌	1011-2227	卓越全球傳媒股份有限公司	201102	307	202112	428	http://www.hyread.com.tw/hyreadnew/search_detail_journal.jsp?dtd_id=1&sysid=00001556	1556
+兩岸商情	2226-2598	卓越全球傳媒股份有限公司	201805	80	201901	88/89	http://www.hyread.com.tw/hyreadnew/search_detail_journal.jsp?dtd_id=1&sysid=00001557	1557
+Journal of Engineering, Project, and Production Management	2221-6529、2223-8379	De Gruyter	201107	1:1	202109	11:3	http://www.hyread.com.tw/hyreadnew/search_detail_journal.jsp?dtd_id=1&sysid=00001559	1559
+工業機器人雜誌	2225-4358、2304-8913	台灣工業機器人協會	201201	1	201903	8	http://www.hyread.com.tw/hyreadnew/search_detail_journal.jsp?dtd_id=1&sysid=00001560	1560
+環球生技月刊	2311-2778	環球生技多媒體股份有限公司	201802	51	202111	90	http://www.hyread.com.tw/hyreadnew/search_detail_journal.jsp?dtd_id=1&sysid=00001561	1561
+砲兵季刊	2221-0806	陸軍砲兵訓練指揮部	200909	146	202109	194	http://www.hyread.com.tw/hyreadnew/search_detail_journal.jsp?dtd_id=1&sysid=00001562	1562
+好戲刊		台灣戲曲中心	201901	1	201911	6	http://www.hyread.com.tw/hyreadnew/search_detail_journal.jsp?dtd_id=1&sysid=00001563	1563
+編譯論叢	2071-4858	國家教育研究院	200809	1:1	202109	14:2	http://www.hyread.com.tw/hyreadnew/search_detail_journal.jsp?dtd_id=1&sysid=00001564	1564
+中華傳播學刊	1726-3581	中華傳播學會	200606	9	202106	39	http://www.hyread.com.tw/hyreadnew/search_detail_journal.jsp?dtd_id=1&sysid=00001565	1565
+陸軍通資半年刊	1814-1811	陸軍通信電子資訊訓練中心	201904	131	202110	136	http://www.hyread.com.tw/hyreadnew/search_detail_journal.jsp?dtd_id=1&sysid=00001566	1566
+和信醫訊		和信治癌中心醫院	201811	1	202111	27	http://www.hyread.com.tw/hyreadnew/search_detail_journal.jsp?dtd_id=1&sysid=00001567	1567
+陸軍後勤季刊	2306-7438	陸軍後勤季刊社	201302	102年第1期	202111	110年第4期	http://www.hyread.com.tw/hyreadnew/search_detail_journal.jsp?dtd_id=1&sysid=00001568	1568
+民主、文化與認同		臺北教育大學台灣文化研究所	201811	201811	201811	201811	http://www.hyread.com.tw/hyreadnew/search_detail_journal.jsp?dtd_id=1&sysid=00001569	1569
+字花	1819-9178	水煮魚文化製作有限公司	201705	67	202111	94	http://www.hyread.com.tw/hyreadnew/search_detail_journal.jsp?dtd_id=1&sysid=00001570	1570
+香港美術教育期刊		香港美術教育協會	201609	2016:1	202108	2021:1	http://www.hyread.com.tw/hyreadnew/search_detail_journal.jsp?dtd_id=1&sysid=00001571	1571
+檔案半年刊	1684-1212	國家發展委員會檔案管理局	201607	15:1	202106	20:1	http://www.hyread.com.tw/hyreadnew/search_detail_journal.jsp?dtd_id=1&sysid=00001572	1572
+檔案季刊	1684-1212	國家發展委員會檔案管理局	200112	0:0	201512	14:4	http://www.hyread.com.tw/hyreadnew/search_detail_journal.jsp?dtd_id=1&sysid=00001573	1573
+Ex-position	2663-032X	國立臺灣大學外國語文學系	201812	40	202106	45	http://www.hyread.com.tw/hyreadnew/search_detail_journal.jsp?dtd_id=1&sysid=00001574	1574
+僧伽醫護會刊		財團法人佛教僧伽醫護基金會	201202	70	202109	114/115	http://www.hyread.com.tw/hyreadnew/search_detail_journal.jsp?dtd_id=1&sysid=00001576	1576
+創造雜誌	2616-4159	極光創作有限公司	201803	創刊號	202106	13	http://www.hyread.com.tw/hyreadnew/search_detail_journal.jsp?dtd_id=1&sysid=00001577	1577
+International Journal of Uncertainty and Innovation Research	2617-9571	中華民國灰色系統學會	201904	1:1	202012	2:3	http://www.hyread.com.tw/hyreadnew/search_detail_journal.jsp?dtd_id=1&sysid=00001578	1578
+漾台中	2664-1631	台中市政府新聞局	201904	1	201912	5	http://www.hyread.com.tw/hyreadnew/search_detail_journal.jsp?dtd_id=1&sysid=00001580	1580
+交流	1560-6716	財團法人海峽交流基金會	201702	151	202110	179	http://www.hyread.com.tw/hyreadnew/search_detail_journal.jsp?dtd_id=1&sysid=00001581	1581
+兩岸經貿	1562-9724	財團法人海峽交流基金會	201701	301	202111	359	http://www.hyread.com.tw/hyreadnew/search_detail_journal.jsp?dtd_id=1&sysid=00001582	1582
+台灣原YOUNG	1811-9247	原住民族委員會	201903	78	202110	94	http://www.hyread.com.tw/hyreadnew/search_detail_journal.jsp?dtd_id=1&sysid=00001584	1584
+九鼎月刊	1995-7394	九鼎傳播有限公司(MO)	201801	123	201907	141	http://www.hyread.com.tw/hyreadnew/search_detail_journal.jsp?dtd_id=1&sysid=00001585	1585
+師友雙月刊(新)	2663-3671	財團法人台灣省中小學校教職員福利文教基金會	201907	613	202111	630	http://www.hyread.com.tw/hyreadnew/search_detail_journal.jsp?dtd_id=1&sysid=00001587	1587
+國立科學工藝博物館年報		國立科學工藝博物館	200307	91	202102	109	http://www.hyread.com.tw/hyreadnew/search_detail_journal.jsp?dtd_id=1&sysid=00001588	1588
+輔仁中文學報	1023-3601	輔仁大學中國文學系	201904	48	202106	52	http://www.hyread.com.tw/hyreadnew/search_detail_journal.jsp?dtd_id=1&sysid=00001589	1589
+青溪雜誌	1991-783X	國防部後備指揮部	201912	552	202006	553	http://www.hyread.com.tw/hyreadnew/search_detail_journal.jsp?dtd_id=1&sysid=00001592	1592
+AMAZING PINGTUNG 驚艷屏東		屏東縣政府	201912	2019-12	202110	2021-10	http://www.hyread.com.tw/hyreadnew/search_detail_journal.jsp?dtd_id=1&sysid=00001593	1593
+PA.tw		暖暖書屋文化事業股份有限公司	201909	1	202011	7	http://www.hyread.com.tw/hyreadnew/search_detail_journal.jsp?dtd_id=1&sysid=00001594	1594
+花蓮美食專刊		花蓮縣政府	202001	2019	202001	2019	http://www.hyread.com.tw/hyreadnew/search_detail_journal.jsp?dtd_id=1&sysid=00001595	1595
+生命季刊		財團法人佛教蓮花基金會	202001	159	202110	166	http://www.hyread.com.tw/hyreadnew/search_detail_journal.jsp?dtd_id=1&sysid=00001596	1596
+好客竹縣	2071-2626	新竹縣政府	202004	47	202110	53	http://www.hyread.com.tw/hyreadnew/search_detail_journal.jsp?dtd_id=1&sysid=00001597	1597
+歷史文物	0457-6276	國立歷史博物館	202003	304	202112	311	http://www.hyread.com.tw/hyreadnew/search_detail_journal.jsp?dtd_id=1&sysid=00001598	1598
+悅讀台北 Kiffe Taipei		臺北文化創意協會	202005	1	202005	1	http://www.hyread.com.tw/hyreadnew/search_detail_journal.jsp?dtd_id=1&sysid=00001599	1599
+國家海洋研究院年報		國家海洋研究院	202004	2020創刊號	202104	2020	http://www.hyread.com.tw/hyreadnew/search_detail_journal.jsp?dtd_id=1&sysid=00001601	1601
+化生放核防護半年刊	1999-5121	陸軍化生放核訓練中心	201011	81	202105	111	http://www.hyread.com.tw/hyreadnew/search_detail_journal.jsp?dtd_id=1&sysid=00001602	1602
+靚道		臺灣鐵路管理局	202007	24	202107	27	http://www.hyread.com.tw/hyreadnew/search_detail_journal.jsp?dtd_id=1&sysid=00001604	1604
+區域與文化研究	2709-1104	台灣鄉土文化青年協會	202009	1:1	202108	2:2	http://www.hyread.com.tw/hyreadnew/search_detail_journal.jsp?dtd_id=1&sysid=00001605	1605
+理律新知		理律法律事務所	202011	2020:11	202110	2021:10	http://www.hyread.com.tw/hyreadnew/search_detail_journal.jsp?dtd_id=1&sysid=00001606	1606
+LEE & LI Bulletin		理律法律事務所	202011	2020:11	202110	2021:10	http://www.hyread.com.tw/hyreadnew/search_detail_journal.jsp?dtd_id=1&sysid=00001607	1607
+好農雜誌	2410-7425	高遠文化事業有限公司	201302	試刊號	201812	32	http://www.hyread.com.tw/hyreadnew/search_detail_journal.jsp?dtd_id=1&sysid=00001608	1608
+旅行好農	2410-7425	高遠文化事業有限公司	201903	33	202012	40	http://www.hyread.com.tw/hyreadnew/search_detail_journal.jsp?dtd_id=1&sysid=00001609	1609
+財稅研究	1682-5926	財政部	201401	43:1	202109	49:5	http://www.hyread.com.tw/hyreadnew/search_detail_journal.jsp?dtd_id=1&sysid=00001611	1611
+台灣會展		中華民國對外貿易發展協會	202010	38	202110	42	http://www.hyread.com.tw/hyreadnew/search_detail_journal.jsp?dtd_id=1&sysid=00001612	1612
+傳播前沿		台灣鄉土文化青年協會	202011	1:1	202111	2:3	http://www.hyread.com.tw/hyreadnew/search_detail_journal.jsp?dtd_id=1&sysid=00001613	1613
+科學月刊	0250-331X	科學月刊社	201901	589	202112	624	http://www.hyread.com.tw/hyreadnew/search_detail_journal.jsp?dtd_id=1&sysid=00001614	1614
+阿拉伯半島過去、現在與未來論文集		中華民國阿拉伯文化經濟協會	201912	2019	201912	2019	http://www.hyread.com.tw/hyreadnew/search_detail_journal.jsp?dtd_id=1&sysid=00001616	1616
+轉型中的阿拉伯國家-經濟與文化面面觀論文集		中華民國阿拉伯文化經濟協會	201810	2018	201810	2018	http://www.hyread.com.tw/hyreadnew/search_detail_journal.jsp?dtd_id=1&sysid=00001618	1618
+台灣與中東主要產油國能源經濟與技術合作論文集		中華民國阿拉伯文化經濟協會	202101	2021	202101	2021	http://www.hyread.com.tw/hyreadnew/search_detail_journal.jsp?dtd_id=1&sysid=00001619	1619
+中東與伊斯蘭論文集		中華民國阿拉伯文化經濟協會	200512	2005	200912	2009	http://www.hyread.com.tw/hyreadnew/search_detail_journal.jsp?dtd_id=1&sysid=00001620	1620
+嶺南學報		嶺南大學中文系(香港)	201503	復刊1/2	202012	復刊13	http://www.hyread.com.tw/hyreadnew/search_detail_journal.jsp?dtd_id=1&sysid=00001621	1621
+國防譯粹	1560-1455	國防部政務辦公室	202105	48:5	202112	48:12	http://www.hyread.com.tw/hyreadnew/search_detail_journal.jsp?dtd_id=1&sysid=00001623	1623
+陸軍工兵半年刊	2225-5400	陸軍工兵訓練中心	201705	150	202110	159	http://www.hyread.com.tw/hyreadnew/search_detail_journal.jsp?dtd_id=1&sysid=00001624	1624
+裝甲兵季刊	2072-229X	陸軍裝甲兵訓練指揮部	201612	242	202109	261	http://www.hyread.com.tw/hyreadnew/search_detail_journal.jsp?dtd_id=1&sysid=00001625	1625
+教育行政	2709-6610	國立政治大學教育學院					http://www.hyread.com.tw/hyreadnew/search_detail_journal.jsp?dtd_id=1&sysid=00001626	1626
+軍事史評論	1994-1943	國防部政務辦公室	202106	28	202106	28	http://www.hyread.com.tw/hyreadnew/search_detail_journal.jsp?dtd_id=1&sysid=00001627	1627
+青年企業管理評論	2073-0888	中華民國青年企業管理學會	202006	13:1	202012	13:2	http://www.hyread.com.tw/hyreadnew/search_detail_journal.jsp?dtd_id=1&sysid=00001628	1628
+海洋探索	2709-6629	國家海洋研究院	202012	試刊號	202012	試刊號	http://www.hyread.com.tw/hyreadnew/search_detail_journal.jsp?dtd_id=1&sysid=00001629	1629
+臺大文史哲學報	1015-2687	國立臺灣大學文學院	201811	90	202111	96	http://www.hyread.com.tw/hyreadnew/search_detail_journal.jsp?dtd_id=1&sysid=00001630	1630
+教學實務研究論叢	2708-0129	玄奘大學教學發展中心	201506	1	202109	10	http://www.hyread.com.tw/hyreadnew/search_detail_journal.jsp?dtd_id=1&sysid=00001631	1631
+農訓雜誌	1023-2907	中華民國農民團體幹部聯合訓練協會	202101	371	202112	382	http://www.hyread.com.tw/hyreadnew/search_detail_journal.jsp?dtd_id=1&sysid=00001632	1632
+傳播研究與實踐	2221-1411	世新大學新聞傳播學院					http://www.hyread.com.tw/hyreadnew/search_detail_journal.jsp?dtd_id=1&sysid=00001633	1633
