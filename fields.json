@@ -123,6 +123,10 @@
       "description": "package de plusieurs chapitres pdf d'un ebook dans un téléchargement",
       "description_en": "package of several pdf chapters of an ebook in one download"
     },{
+      "code": "METADATA_BUNDLE",
+      "description": "package de métadonnées concernant plusieurs ressources",
+      "description_en": "package of several metadata relative to multiple resources"
+    },{
       "code": "ABS",
       "description": "Résumé d'un article",
       "description_en": "Abstract of an article"
