@@ -40,6 +40,11 @@ module.exports = new Parser(function analyseEC(parsedUrl, ec) {
     result.mime = 'HTML';
     result.unitid = match[1];
     result.ark = match[1];
+  } else if ((match = /^\/item\/([0-9]+)$/i.exec(path)) !== null) {
+    // /item/190
+    result.rtype = 'REF';
+    result.mime = 'HTML';
+    result.unitid = match[1];
   } else if (/^\/solr-search$/i.test(path)) {
     // /solr-search?q=statue
     result.rtype = 'SEARCH';
