@@ -1,0 +1,13 @@
+{
+  "longname": "American Association for the Advancement of Science",
+  "name": "aaas",
+  "describe": "Recognizes the accesses to the platform American Association for the Advancement of Science",
+  "contact": "Frederic Truong inist, Sylvie Franck, Sonia Launay",
+  "pkb": false,
+  "docurl": "http://analyses.ezpaarse.org/platforms/54350b2c165f6e464ff0d034",
+  "domains": [
+    "www.science.org"
+  ],
+  "version": "2022-01-12",
+  "status": "beta"
+}
