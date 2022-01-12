@@ -22,16 +22,27 @@ module.exports = new Parser(function analyseEC(parsedUrl, ec) {
     result.sid = sid.slice(1, -1);
   }
 
-  if (param.q) {
-    result.istex_rtype = 'QUERY';
-    result.rtype       = 'QUERY';
-    result.mime        = 'JSON';
+  if (param.q || param.q_id) {
+    const size = Number.parseInt(param.size, 10);
+    if (size === 0) { return {}; }
+
+    if (param.extract) {
+      result.rtype = 'METADATA_BUNDLE';
+      result.mime = 'ZIP';
+    } else if (sid === 'istex-dl') {
+      // Queries from istex-dl without "extract" should be ignored
+      return {};
+    } else {
+      result.istex_rtype = 'QUERY';
+      result.rtype = 'QUERY';
+      result.mime = 'JSON';
+    }
   } else if ((match = /^\/(?:document\/([0-9a-z]{40})|(ark:\/[0-9]+\/[0-9a-z-]+))\/([a-z]+)[/.]([a-z]+)\/?/i.exec(path)) !== null) {
     // /document/4C46BB8FC3AE3CB005C44243414E9D0E9C8C6057/enrichments/catWos
     // /document/55420CDEEA0F6538E215A511C72E2E5E57570138/fulltext/original
     // /document/55420CDEEA0F6538E215A511C72E2E5E57570138/metadata/xml
 
-    result.unitid      = match[1] || match[2];
+    result.unitid = match[1] || match[2];
     result.istex_rtype = match[3];
 
     if (match[2]) {
