@@ -29,6 +29,7 @@ module.exports = new Parser(function analyseEC(parsedUrl, ec) {
     if (param.extract) {
       result.rtype = 'METADATA_BUNDLE';
       result.mime = 'ZIP';
+      result.istex_bundle_size = size;
     } else if (sid === 'istex-dl') {
       // Queries from istex-dl without "extract" should be ignored
       return {};
@@ -44,6 +45,7 @@ module.exports = new Parser(function analyseEC(parsedUrl, ec) {
 
     result.unitid = match[1] || match[2];
     result.istex_rtype = match[3];
+    result.istex_bundle_size = 1;
 
     if (match[2]) {
       result.ark = match[2];
@@ -72,9 +74,12 @@ module.exports = new Parser(function analyseEC(parsedUrl, ec) {
     // /document/4C46BB8FC3AE3CB005C44243414E9D0E9C8C6057/enrichments/
 
     result.istex_rtype = 'OTHER';
-    result.rtype       = 'OTHER';
-    result.mime        = 'JSON';
-    result.unitid      = match[1] || match[2];
+
+    result.rtype  = 'OTHER';
+    result.mime   = 'JSON';
+    result.unitid = match[1] || match[2];
+
+    result.istex_bundle_size = 1;
 
     if (match[2]) {
       result.ark = match[2];
@@ -84,8 +89,11 @@ module.exports = new Parser(function analyseEC(parsedUrl, ec) {
     // /document/5A30D5425B4E7A7A84075A5B2785BBA02FAFA3FC
 
     result.istex_rtype = 'metadata';
-    result.mime        = 'JSON';
-    result.unitid      = match[1] || match[2];
+
+    result.mime   = 'JSON';
+    result.unitid = match[1] || match[2];
+
+    result.istex_bundle_size = 1;
 
     if (match[2]) {
       result.ark = match[2];
