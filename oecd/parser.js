@@ -97,7 +97,7 @@ module.exports = new Parser(function analyseEC(parsedUrl, ec) {
     result.rtype = 'ARTICLE';
     result.mime = 'HTML';
     result.unitid = match[1];
-    const isbn = /(978[0-9]{10})/.exec(match[1])
+    const isbn = /(978[0-9]{10})/.exec(match[1]);
     if (isbn) {
       result.rtype = 'BOOK';
       result.online_identifier = isbn[1];
@@ -163,8 +163,8 @@ module.exports = new Parser(function analyseEC(parsedUrl, ec) {
     result.rtype = 'ARTICLE';
     result.mime = 'PDF';
     result.unitid = match[1];
-  
-    const isbn = /(978[0-9]{10})/.exec(match[1])
+
+    const isbn = /(978[0-9]{10})/.exec(match[1]);
     if (isbn) {
       result.rtype = 'BOOK';
       result.online_identifier = isbn[1];
