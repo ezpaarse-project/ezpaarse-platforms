@@ -6,6 +6,7 @@
   "pkb": false,
   "docurl": "http://ang.couperin.org/platforms/5d6ec392ec94b21b07a71bd5",
   "domains": [
+    "videostream.api.naxosvideolibrary.com",
     "audiostream.naxosmusiclibrary.com",
     "univportal.naxosmusiclibrary.com",
     "bibnatlux.naxosmusiclibrary.com",
