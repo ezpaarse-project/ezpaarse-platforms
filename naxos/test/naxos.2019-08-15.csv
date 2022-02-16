@@ -161,9 +161,9 @@ aus/gentop/09_music_of_the_twentieth_century;BOOK_SECTION;HTML;https://emory.nml
 ;SEARCH;HTML;https://emory.naxosworks.com:443/search?workcatid=60
 ;SEARCH;HTML;https://emory.naxosworks.com:443/search
 ;SEARCH;HTML;http://emory.naxosvideolibrary.com:80/search/?search=beethoven
-2.110291;VIDEO;MISC;http://emory.naxosvideolibrary.com:80/title/2.110291/
-EuroArts5407;VIDEO;MISC;http://emory.naxosvideolibrary.com:80/title/EuroArts5407/
-EUROARTS7965;VIDEO;MISC;http://emory.naxosvideolibrary.com:80/title/EUROARTS7965/
+2.110291;TOC;HTML;http://emory.naxosvideolibrary.com:80/title/2.110291/
+EuroArts5407;TOC;HTML;http://emory.naxosvideolibrary.com:80/title/EuroArts5407/
+EUROARTS7965;TOC;HTML;http://emory.naxosvideolibrary.com:80/title/EUROARTS7965/
 117491;REF;HTML;https://emory.nml3.naxosmusiclibrary.com:443/work/117491?type=analysis&_pjax=%23main
 525150;REF;HTML;https://emory.naxosworks.com:443/works/525150
 654444;REF;HTML;https://emory.naxosworks.com:443/works/654444
