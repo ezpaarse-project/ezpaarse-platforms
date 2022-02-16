@@ -47,7 +47,17 @@ platforms
 
             const parsed   = parser.execute(record.in);
             const allProps = Array.from(new Set(Object.keys(parsed).concat(Object.keys(record.out))));
-            const equal    = allProps.every(p => record.out[p] === parsed[p]);
+            const equal    = allProps.every(p => {
+              const expected = record.out[p];
+              let actual = parsed[p];
+
+              if (actual === false || actual === 0 || (actual && typeof actual.toString === 'function')) {
+                // Stringify parser result so that we can compare them with CSV values which are all strings
+                actual = actual.toString();
+              }
+
+              return expected === actual;
+            });
 
             if (equal) { return done(); }
 
@@ -119,10 +129,6 @@ function extractTestData(testDir, callback) {
         if (propName.startsWith('in-'))       { set.in[propName.substr(3)]  = value; }
         else if (propName.startsWith('out-')) { set.out[propName.substr(4)] = value; }
       });
-
-      if (Object.prototype.hasOwnProperty.call(set.out, '_granted')) {
-        set.out._granted = set.out._granted === 'true';
-      }
 
       testData.push(set);
     });
