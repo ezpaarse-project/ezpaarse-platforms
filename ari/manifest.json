@@ -1,0 +1,13 @@
+{
+  "longname": "Arret Sur Images",
+  "name": "ari",
+  "describe": "Recognizes the accesses to the platform Arret Sur Images",
+  "contact": "Justyn Shye",
+  "pkb": false,
+  "docurl": "http://analyses.ezpaarse.org/platforms/61eefe4a5d6eae897b39df15",
+  "domains": [
+    "www.arretsurimages.net"
+  ],
+  "version": "2022-02-21",
+  "status": "beta"
+}
