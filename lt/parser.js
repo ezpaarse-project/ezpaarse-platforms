@@ -26,7 +26,7 @@ module.exports = new Parser(function analyseEC(parsedUrl, ec) {
     result.rtype    = 'ABS';
     result.mime     = 'HTML';
     result.unitid = match[1];
-    result.doi = match[1]
+    result.doi = match[1];
 
   } else if (/^\/search$/i.test(path)) {
     // https://www.oxfordlawtrove.com/search?q=test&searchBtn=Search&isQuickSearch=true
