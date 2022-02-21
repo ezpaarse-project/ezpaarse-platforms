@@ -2,6 +2,7 @@
 
 'use strict';
 const Parser = require('../.lib/parser.js');
+const database = require('./database.json');
 
 /**
  * Recognizes the accesses to the platform Gale Cengage
@@ -180,7 +181,11 @@ module.exports = new Parser(function analyseEC(parsedUrl, ec) {
     result.first_page = metadataInfo.get('SP');
   }
 
-
+  if (result.db_id) {
+    if (database[result.db_id]) {
+      result.db_name = database[result.db_id];
+    }
+  }
 
   return result;
 });
