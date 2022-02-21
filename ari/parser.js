@@ -19,8 +19,6 @@ module.exports = new Parser(function analyseEC(parsedUrl, ec) {
   // use console.error for debuging
   // console.error(parsedUrl);
 
-  let match;
-
   if (/^\/articles\/([a-z-]+)$/i.test(path)) {
     // https://www.arretsurimages.net/articles/houellebecq-et-le-monde-la-possibilite-dune-idylle
     result.rtype    = 'ARTICLE';
