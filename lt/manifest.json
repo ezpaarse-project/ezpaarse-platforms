@@ -1,0 +1,13 @@
+{
+  "longname": "Law Trove",
+  "name": "lt",
+  "describe": "Recognizes the accesses to the platform Law Trove",
+  "contact": "Justyn Shye",
+  "pkb": false,
+  "docurl": "http://analyses.ezpaarse.org/platforms/61f15a581068237edc229e97",
+  "domains": [
+    "www.oxfordlawtrove.com"
+  ],
+  "version": "2022-02-21",
+  "status": "beta"
+}
