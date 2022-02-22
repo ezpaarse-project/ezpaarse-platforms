@@ -1,0 +1,13 @@
+{
+  "longname": "VLeBooks",
+  "name": "vle",
+  "describe": "Recognizes the accesses to the platform VLeBooks",
+  "contact": "Sean Duffy",
+  "pkb": false,
+  "docurl": "http://analyses.ezpaarse.org/platforms/61857ee41422770386396e51",
+  "domains": [
+    "www.vlebooks.com"
+  ],
+  "version": "2022-02-21",
+  "status": "beta"
+}
