@@ -1,0 +1,14 @@
+{
+  "longname": "J-Stage",
+  "name": "jstage",
+  "describe": "Recognizes the accesses to the platform J-Stage",
+  "contact": "Sean Duffy",
+  "pkb": false,
+  "docurl": "http://analyses.ezpaarse.org/platforms/61b361a69603d91a3650ff46",
+  "domains": [
+    "www.jstage.jst.go.jp",
+    "www.jstage-jst.go.jp"
+  ],
+  "version": "2022-02-21",
+  "status": "beta"
+}
