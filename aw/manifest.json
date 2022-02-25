@@ -1,0 +1,13 @@
+{
+  "longname": "Academic Writer",
+  "name": "aw",
+  "describe": "Recognizes the accesses to the platform Academic Writer",
+  "contact": "Sean Duffy",
+  "pkb": false,
+  "docurl": "http://analyses.ezpaarse.org/platforms/621549b3508da32f46bad3d6",
+  "domains": [
+    "academicwriter.apa.org"
+  ],
+  "version": "2022-02-25",
+  "status": "beta"
+}
