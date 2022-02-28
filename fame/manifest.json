@@ -1,0 +1,13 @@
+{
+  "longname": "Fame",
+  "name": "fame",
+  "describe": "Recognizes the accesses to the platform Fame",
+  "contact": "Justyn Shye",
+  "pkb": false,
+  "docurl": "http://analyses.ezpaarse.org/platforms/6213a6b4ef2a541c13301d02",
+  "domains": [
+    "fame.bvdinfo.com"
+  ],
+  "version": "2022-02-25",
+  "status": "beta"
+}
