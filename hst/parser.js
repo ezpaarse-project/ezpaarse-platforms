@@ -35,6 +35,10 @@ module.exports = new Parser(function analyseEC(parsedUrl, ec) {
     result.mime     = 'HTML';
     result.unitid   = match[1];
     result.db_id = Object.getOwnPropertyNames(param)[0];
+  } else if (/^\/search\/[a-z]+\/$/i.test(path)) {
+    // https://hstalks.com/search/agriculture/?biosci&subtype=TALK&filters=category_id%7C780
+    result.rtype    = 'SEARCH';
+    result.mime     = 'HTML';
   }
 
   return result;
