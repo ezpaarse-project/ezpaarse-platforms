@@ -26,11 +26,11 @@ module.exports = new Parser(function analyseEC(parsedUrl, ec) {
     result.mime     = 'HTML';
     result.unitid = match[1];
 
-  } else if ((match = /^\/chroniques\/([a-z-]+)\/([a-z0-9-]+)$/i.exec(path)) !== null) {
+  } else if ((match = /^\/chroniques\/[a-z-]+\/([a-z0-9-]+)$/i.exec(path)) !== null) {
     // https://www.arretsurimages.net/chroniques/plateau-tele/la-bataille-de-lelysee-tf1-dans-les-coulisses-du-neant
     result.rtype    = 'ISSUE';
     result.mime     = 'HTML';
-    result.unitid = match[2];
+    result.unitid = match[1];
   }
 
   return result;
