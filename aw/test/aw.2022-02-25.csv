@@ -1,0 +1,10 @@
+out-db_id;out-title_id;out-unitid;out-rtype;out-mime;in-url
+;;;SEARCH;HTML;https://academicwriter.apa.org/learn/browse?group=All&view=list&term=abstract&sort=asc
+QG;QG-72;QG-72;EXERCISE;HTML;https://academicwriter.apa.org/learn/browse/QG-72?group=QG&view=list&sort=asc
+TUT;TUT-11;TUT-11;EXERCISE;HTML;https://academicwriter.apa.org/learn/browse/TUT-11?group=TUT&view=list&sort=asc
+SR;SR-192;SR-192;REF;HTML;https://academicwriter.apa.org/learn/browse/SR-192?group=SR&view=list&sort=asc
+TBL;TBL-6;TBL-6;TABLE;HTML;https://academicwriter.apa.org/learn/browse/TBL-6?group=TBL&view=list&sort=asc
+FIG;FIG-1;FIG-1;FIGURE;HTML;https://academicwriter.apa.org/learn/browse/FIG-1?group=FIG&view=list&sort=asc
+;;;OTHER;HTML;https://academicwriter.apa.org/reference/addReference/selectType
+;;;OTHER;HTML;https://academicwriter.apa.org/reference/myReferences
+;;;OTHER;HTML;https://academicwriter.apa.org/write/editorTemplate
