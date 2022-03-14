@@ -60,7 +60,7 @@ module.exports = new Parser(function analyseEC(parsedUrl, ec) {
         result.db_id = productId;
       }
     }
-  } else if ((match = /^\/wos\/woscc\/full-record\/([a-zA-Z0-9:]+)$/i.exec(path)) !== null) {
+  } else if ((match = /^\/wos\/woscc\/full-record\/([a-z0-9:]+)$/i.exec(path)) !== null) {
     // /wos/woscc/full-record/WOS:000454372400003
     result.rtype  = 'RECORD_VIEW';
     result.mime   = 'HTML';
