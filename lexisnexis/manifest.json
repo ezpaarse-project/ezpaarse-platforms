@@ -11,6 +11,7 @@
 	"domains": [
     "www.lexisnexis.com",
     "www.lexis-nexis.com",
+    "lexisnexis.com",	
     "lexis.com"	
 	],
   "recognize": {
