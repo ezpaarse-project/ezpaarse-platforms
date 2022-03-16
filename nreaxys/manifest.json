@@ -7,6 +7,8 @@
   "docurl": "http://analyses.ezpaarse.org/platforms/5a5c62f175a27b817ccc3ddd",
   "domains": [
     "new.reaxys.com",
+    "www.reaxys.com",
+    "reaxys.com",
     "lls.reaxys.com"
   ],
   "version": "2018-01-15",
