@@ -181,9 +181,11 @@ module.exports = new Parser(function analyseEC(parsedUrl, ec) {
     result.first_page = metadataInfo.get('SP');
   }
 
+
   if (result.db_id) {
-    if (database[result.db_id.toUpperCase()]) {
-      result.db_name = database[result.db_id.toUpperCase()];
+    const dbName = Object.keys(database).find((db) => db.toLowerCase() === result.db_id.toLowerCase());
+    if (dbName) {
+      result.db_name = database[dbName];
     }
   }
 
