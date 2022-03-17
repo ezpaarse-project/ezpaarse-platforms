@@ -119,8 +119,8 @@ module.exports = new Parser(function analyseEC(parsedUrl, ec) {
   }
 
   if (result.db_id) {
-    if (database[result.db_id]) {
-      result.db_name = database[result.db_id];
+    if (database[result.db_id].toUpperCase()) {
+      result.db_name = database[result.db_id.toUpperCase()];
     }
   }
 
