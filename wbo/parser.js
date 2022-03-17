@@ -2,6 +2,7 @@
 
 'use strict';
 const Parser = require('../.lib/parser.js');
+const database = require('./database.json');
 
 /**
  * Recognizes the accesses to the platform World Book Online
@@ -64,25 +65,25 @@ module.exports = new Parser(function analyseEC(parsedUrl, ec) {
     // https://www.worldbookonline.com/advanced/media?id=lr012597&st=vietnam
 
     switch (param.id.substr(0, 2)) {
-      case 'pc':
-        result.rtype = 'IMAGE';
-        result.mime = 'GIF';
-        break;
+    case 'pc':
+      result.rtype = 'IMAGE';
+      result.mime = 'GIF';
+      break;
 
-      case 'ta':
-        result.rtype = 'TABLE';
-        result.mime = 'HTML';
-        break;
+    case 'ta':
+      result.rtype = 'TABLE';
+      result.mime = 'HTML';
+      break;
 
-      case 'au':
-        result.rtype = 'AUDIO';
-        result.mime = 'MP3';
-        break;
+    case 'au':
+      result.rtype = 'AUDIO';
+      result.mime = 'MP3';
+      break;
 
-      case 'lr':
-        result.rtype = 'MAP';
-        result.mime = 'GIF';
-        break;
+    case 'lr':
+      result.rtype = 'MAP';
+      result.mime = 'GIF';
+      break;
     }
 
     result.title_id = param.id;
@@ -114,6 +115,12 @@ module.exports = new Parser(function analyseEC(parsedUrl, ec) {
       result.rtype = 'VIDEO';
       result.title_id = hashMatch[1];
       result.unitid = hashMatch[1];
+    }
+  }
+
+  if (result.db_id) {
+    if (database[result.db_id.toLowerCase()]) {
+      result.db_name = database[result.db_id.toLowerCase()];
     }
   }
 
