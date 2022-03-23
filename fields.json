@@ -127,7 +127,7 @@
       "description": "package de métadonnées concernant plusieurs ressources",
       "description_en": "package of several metadata relative to multiple resources"
     },{
-      "code": "ISTEXDL_DUNDLE",
+      "code": "ISTEXDL_BUNDLE",
       "description": "Téléchargement bundle de la plateforme istex",
       "description_en": "Bundle download of istex platform"
     },
