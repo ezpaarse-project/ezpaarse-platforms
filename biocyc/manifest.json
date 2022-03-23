@@ -1,0 +1,13 @@
+{
+  "longname": "biocyc",
+  "name": "biocyc",
+  "describe": "Recognizes the accesses to the platform biocyc",
+  "contact": "Frederic Truong inist",
+  "pkb": false,
+  "docurl": "http://analyses.ezpaarse.org/platforms/61a5f7c98f8607788de389dc",
+  "domains": [
+    "biocyc.org"
+  ],
+  "version": "2022-03-23",
+  "status": "beta"
+}

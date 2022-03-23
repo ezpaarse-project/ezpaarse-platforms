@@ -1,0 +1,4 @@
+out-unitid;out-rtype;out-mime;in-url
+PWY-8147//;RECORD_VIEW;HTML;https://biocyc-org.insb.bib.cnrs.fr/ECOLI/NEW-IMAGE?type=PATHWAY&object=PWY-8147
+NIL/GCF_000733215/NW_011934226;RECORD_VIEW;HTML;https://biocyc.org/GCF_000733215/NEW-IMAGE?type=LOCUS-POSITION&object=NIL&orgids=GCF_000733215&chromosome=NW_011934226&bp-range=1/50000
+;SEARCH;HTML;https://biocyc.org/GCF_000733215/substring-search?type=NIL&object=gene
