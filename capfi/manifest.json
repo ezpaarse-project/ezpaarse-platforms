@@ -1,0 +1,13 @@
+{
+  "longname": "Cap Financials",
+  "name": "capfi",
+  "describe": "Recognizes the accesses to the platform Cap Financials",
+  "contact": "lucile.jay",
+  "pkb": false,
+  "docurl": "http://analyses.ezpaarse.org/platforms/6177ce261a391b07cdc39b6f",
+  "domains": [
+    "capfinancials.com"
+  ],
+  "version": "2022-03-23",
+  "status": "beta"
+}
