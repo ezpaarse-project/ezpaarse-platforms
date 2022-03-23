@@ -91,12 +91,12 @@ module.exports = new Parser(function analyseEC(parsedUrl) {
       result.rtype = 'BOOK_SECTION';
       result.pii = match[2];
     } else {
-      result.rtype = 'BOOK_SECTION';
-      result.online_identifier = match[2];
-    }
+      const isbnMatch = /^(97[89][0-9]{7}(?![0-9]{3})?)/.exec(match[2]);
 
-    if (param['event-type'] === 'FTLA') {
-      result.rtype = 'BOOK';
+      if (isbnMatch) {
+        result.rtype = (param['event-type'] === 'FTLA') ? 'BOOK' : 'BOOK_SECTION';
+        result.online_identifier = match[2];
+      }
     }
 
   } else if ((match = /^\/core\/journals\/([a-z-]+)\/article\/([a-z0-9-]+)\/[a-z0-9]+(\/core-reader)?\/?$/i.exec(pathname)) !== null) {
