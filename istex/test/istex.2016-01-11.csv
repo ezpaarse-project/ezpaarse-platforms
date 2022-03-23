@@ -1,6 +1,6 @@
 out-istex_bundle_size;out-sid;out-ark;out-rft.au;out-print_identifier;out-first_page;out-vol;out-issue;out-pii;out-doi;out-unitid;out-istex_rtype;out-rtype;out-mime;in-url
 1;none;ark:/67375/QHD-07B0XQ53-B;;;;;;;;ark:/67375/QHD-07B0XQ53-B;annexes;;GIF;https://api.istex.fr/ark:/67375/QHD-07B0XQ53-B/annexes.gif
-1;none;ark:/67375/QHD-07B0XQ53-B;;;;;;;;ark:/67375/QHD-07B0XQ53-B;bundle;;ZIP;https://api.istex.fr/ark:/67375/QHD-07B0XQ53-B/bundle.zip
+1;none;ark:/67375/QHD-07B0XQ53-B;;;;;;;;ark:/67375/QHD-07B0XQ53-B;single_doc_bundle;;ZIP;https://api.istex.fr/ark:/67375/QHD-07B0XQ53-B/bundle.zip
 1;none;ark:/67375/QHD-07B0XQ53-B;;;;;;;;ark:/67375/QHD-07B0XQ53-B;fulltext;;PDF;https://api.istex.fr/ark:/67375/QHD-07B0XQ53-B/fulltext.pdf
 1;none;ark:/67375/QHD-07B0XQ53-B;;;;;;;;ark:/67375/QHD-07B0XQ53-B;fulltext;;TEI;https://api.istex.fr/ark:/67375/QHD-07B0XQ53-B/fulltext.tei
 1;none;ark:/67375/QHD-07B0XQ53-B;;;;;;;;ark:/67375/QHD-07B0XQ53-B;fulltext;;TEXT;https://api.istex.fr/ark:/67375/QHD-07B0XQ53-B/fulltext.txt
@@ -26,8 +26,8 @@ out-istex_bundle_size;out-sid;out-ark;out-rft.au;out-print_identifier;out-first_
 ;none;;;;;;;S0143-0807(98)90774-7;;;;OPENURL;MISC;https://api.istex.fr/document/openurl?rft_id=info:pii/S0143-0807(98)90774-7
 ;none;;Richard James Clark;0964-5284;298;30;4;;;;;OPENURL;MISC;https://api.istex.fr/document/openurl?rft.au=Richard James Clark&rft.issn=0964-5284&rft.volume=30&rft.issue=4&rft.spage=298
 1;istex-api-harvester;;;;;;;;;3EB25E26A48D416FCA454CA097A9DCFFC03C907D;fulltext;;TEI;https://api.istex.fr/document/3EB25E26A48D416FCA454CA097A9DCFFC03C907D/fulltext/tei?sid=istex-api-harvester
-10;istex-dl;;;;;;;;;;;METADATA_BUNDLE;ZIP;https://api.istex.fr/document/?q_id=415ce83e4761a95a0b5384800b729409&extract=metadata%5Bjson%5D&size=10&rankBy=qualityOverRelevance&archiveType=zip&compressionLevel=6&sid=istex-dl&usage=2&total=2531&queryType=querywithARK
-20;istex-dl;;;;;;;;;;;METADATA_BUNDLE;ZIP;https://api.istex.fr/document/?q=aids&extract=metadata%5Bjson%5D&size=20&rankBy=qualityOverRelevance&archiveType=zip&compressionLevel=6&sid=istex-dl&usage=2&total=602718
+10;istex-dl;;;;;;;;;;;ISTEXDL_BUNDLE;ZIP;https://api.istex.fr/document/?q_id=415ce83e4761a95a0b5384800b729409&extract=metadata%5Bjson%5D&size=10&rankBy=qualityOverRelevance&archiveType=zip&compressionLevel=6&sid=istex-dl&usage=2&total=2531&queryType=querywithARK
+20;istex-dl;;;;;;;;;;;ISTEXDL_BUNDLE;ZIP;https://api.istex.fr/document/?q=aids&extract=metadata%5Bjson%5D&size=20&rankBy=qualityOverRelevance&archiveType=zip&compressionLevel=6&sid=istex-dl&usage=2&total=602718
 ;;;;;;;;;;;;;;https://api.istex.fr/document/?q_id=5e78aa2eacf62409f8b367e15b6b98a2&rankBy=qualityOverRelevance&archiveType=zip&compressionLevel=6&sid=istex-dl&total=0&queryType=querywithARK&output=title,host.title,publicationDate,author,arkIstex&size=6
 ;;;;;;;;;;;;;;https://api.istex.fr/document/?facet=host.issue%5B*-*%3A1%5D&output=*&size=0&q=((corpusName%3A%22springer-journals%22%20AND%20(host.issn%3A%220095-9502%22%20OR%20host.eissn%3A%222331-3439%22%20OR%20host.title.raw%3A%22Oil%20%26%20Fat%20Industries%22))%20AND%20publicationDate%3A%221931%22%20AND%20host.volume.raw%3A%228%22)
 ;;;;;;;;;;;;;;https://api.istex.fr/document/?facet=host.volume%5B*-*%3A1%5D&output=*&size=0&q=((corpusName%3A%22springer-journals%22%20AND%20(host.issn%3A%220095-9502%22%20OR%20host.eissn%3A%222331-3439%22%20OR%20host.title.raw%3A%22Oil%20%26%20Fat%20Industries%22))%20AND%20publicationDate%3A%221931%22)

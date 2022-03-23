@@ -27,7 +27,7 @@ module.exports = new Parser(function analyseEC(parsedUrl, ec) {
     if (size === 0) { return {}; }
 
     if (param.extract) {
-      result.rtype = 'METADATA_BUNDLE';
+      result.rtype = 'ISTEXDL_BUNDLE';
       result.mime = 'ZIP';
       result.istex_bundle_size = size;
     } else if (sid === 'istex-dl') {
@@ -42,7 +42,9 @@ module.exports = new Parser(function analyseEC(parsedUrl, ec) {
     // /document/4C46BB8FC3AE3CB005C44243414E9D0E9C8C6057/enrichments/catWos
     // /document/55420CDEEA0F6538E215A511C72E2E5E57570138/fulltext/original
     // /document/55420CDEEA0F6538E215A511C72E2E5E57570138/metadata/xml
+    // /ark:/67375/QHD-07B0XQ53-B/bundle.zip
 
+    if (match[3] === 'bundle') match[3] = 'single_doc_bundle';
     result.unitid = match[1] || match[2];
     result.istex_rtype = match[3];
     result.istex_bundle_size = 1;
