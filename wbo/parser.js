@@ -120,7 +120,7 @@ module.exports = new Parser(function analyseEC(parsedUrl, ec) {
 
   if (result.db_id) {
     if (database[result.db_id.toLowerCase()]) {
-      result.db_name = database[result.db_id.toLowerCase()];
+      result.db_title = database[result.db_id.toLowerCase()];
     }
   }
 
