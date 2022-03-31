@@ -1,0 +1,13 @@
+{
+  "longname": "Browzine",
+  "name": "bz",
+  "describe": "Recognizes the accesses to the platform Browzine",
+  "contact": "Sean Duffy",
+  "pkb": false,
+  "docurl": "http://analyses.ezpaarse.org/platforms/6245f39f492fd93cee1bd439",
+  "domains": [
+    "browzine.com"
+  ],
+  "version": "2022-03-31",
+  "status": "beta"
+}
