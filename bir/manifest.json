@@ -1,0 +1,13 @@
+{
+  "longname": "The British Institute of Radiology",
+  "name": "bir",
+  "describe": "Recognizes the accesses to the platform The British Institute of Radiology",
+  "contact": "thomas.porquet, Sean Duffy",
+  "pkb": false,
+  "docurl": "http://analyses.ezpaarse.org/platforms/573b3f312e8b5f799f614fd3",
+  "domains": [
+    "www.birpublications.org"
+  ],
+  "version": "2022-03-31",
+  "status": "beta"
+}
