@@ -12,7 +12,7 @@ const Parser = require('../.lib/parser.js');
  */
 module.exports = new Parser(function analyseEC(parsedUrl, ec) {
   let result = {};
-  let path   = parsedUrl.pathname;
+  let path = parsedUrl.pathname;
   // uncomment this line if you need parameters
   // let param = parsedUrl.query || {};
 
@@ -24,31 +24,32 @@ module.exports = new Parser(function analyseEC(parsedUrl, ec) {
   if ((match = /^\/tijdschrift\/([a-z]+)\/([a-z0-9-_]+)$/i.exec(path)) !== null) {
     // https://www.boomportaal.nl/tijdschrift/PA/PA_2011_017_003_005?q=economie
     // https://www.boomportaal.nl/tijdschrift/TCC/TCC_2211-9507_2021_011_002_003
-    result.rtype    = 'ARTICLE';
-    result.mime     = 'HTML';
+    result.rtype = 'ARTICLE';
+    result.mime = 'HTML';
     result.title_id = match[1];
     result.unitid = match[2];
 
-    if (match[2].split('_')[1].includes('-')) {
-      result.print_identifier = match[2].split('_')[1];
+    const printId = match[2].split('_')[1];
+
+    if (printId.includes('-')) {
+      result.print_identifier = printId;
     }
   } else if ((match = /^\/databankartikel\/([0-9]+)$/i.exec(path)) !== null) {
     // https://www.boomportaal.nl/databankartikel/14396?q=economie
-    result.rtype    = 'ARTICLE';
-    result.mime     = 'HTML';
+    result.rtype = 'ARTICLE';
+    result.mime = 'HTML';
     result.unitid = match[1];
   } else if ((match = /^\/boek\/([0-9]+)$/i.exec(path)) !== null) {
     // https://www.boomportaal.nl/boek/9789462366589?q=economie#1
-    result.rtype    = 'BOOK';
-    result.mime     = 'HTML';
+    result.rtype = 'BOOK';
+    result.mime = 'HTML';
     result.unitid = match[1];
     result.print_identifier = match[1];
 
   } else if ((match = /^\/catalogus$/i.exec(path)) !== null) {
-    // https://www.boomportaal.nl/catalogus?q=economie
     // https://www.boomportaal.nl/catalogus?t=ebook&q=economie
-    result.rtype    = 'SEARCH';
-    result.mime     = 'HTML';
+    result.rtype = 'SEARCH';
+    result.mime = 'HTML';
   }
 
   return result;
