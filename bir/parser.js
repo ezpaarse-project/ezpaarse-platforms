@@ -32,17 +32,14 @@ module.exports = new Parser(function analyseEC(parsedUrl, ec) {
     // https://www.birpublications.org/doi/pdf/10.1259/bjr.75.897.750743
     // https://www.birpublications.org/doi/epdfplus/10.1259/bjr.75.897.750743
 
+    result.rtype    = 'ARTICLE';
     if (match[1] == 'epub') {
-      result.rtype    = 'ARTICLE';
       result.mime     = 'EPUB';
     } else if (match[1] == 'pdf') {
-      result.rtype    = 'ARTICLE';
       result.mime     = 'PDF';
     } else if (match[1] == 'epdfplus') {
-      result.rtype    = 'ARTICLE';
       result.mime     = 'PDFPLUS';
     } else if (match[1] == null) {
-      result.rtype    = 'ARTICLE';
       result.mime     = 'HTML';
     }
 
