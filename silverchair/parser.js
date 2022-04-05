@@ -40,7 +40,6 @@ module.exports = new Parser(function analyseEC(parsedUrl, ec) {
     result.rtype      = 'BOOK_CHAPTER';
     result.unitid     = match[1];
     result.online_identifier = match[2];
-    console.log('aaa');
   } else if ((match = /^\/([a-z0-9_.-]+)\.pdf$/i.exec(path)) !== null) {
     // /dew237.pdf
     result.rtype    = 'ARTICLE';
