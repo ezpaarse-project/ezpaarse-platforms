@@ -1,0 +1,14 @@
+{
+  "longname": "Il Sole 24 Ore",
+  "name": "is24",
+  "describe": "Recognizes the accesses to the platform Il Sole 24 Ore",
+  "contact": "Sean Duffy",
+  "pkb": false,
+  "docurl": "http://analyses.ezpaarse.org/platforms/6246fe344cfffc634b978d0b",
+  "domains": [
+    "www.ilsole24ore.com",
+    "24plus.ilsole24ore.com"
+  ],
+  "version": "2022-04-04",
+  "status": "beta"
+}
