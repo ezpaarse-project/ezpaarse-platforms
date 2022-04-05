@@ -1,0 +1,13 @@
+{
+  "longname": "British Journal of Anaesthesia",
+  "name": "bja",
+  "describe": "Recognizes the accesses to the platform British Journal of Anaesthesia",
+  "contact": "Sean Duffy",
+  "pkb": false,
+  "docurl": "http://analyses.ezpaarse.org/platforms/624703b803d5e869f33c523d",
+  "domains": [
+    "www.bjanaesthesia.org"
+  ],
+  "version": "2022-04-04",
+  "status": "beta"
+}
