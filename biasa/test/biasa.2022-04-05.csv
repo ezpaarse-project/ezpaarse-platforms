@@ -1,0 +1,4 @@
+out-pii;out-unitid;out-rtype;out-mime;in-url
+;;SEARCH;HTML;http://periodici.librari.beniculturali.it/RicercaAvanzata.aspx?cercato=Archeologia
+;;TOC;HTML;http://periodici.librari.beniculturali.it/PeriodicoScheda.aspx?id_testata=3&Start=0
+15211;52997098;BOOK_PAGE;HTML;http://periodici.librari.beniculturali.it/visualizzatore.aspx?anno=1884-1885-1886&id_immagine=52997098&id_periodico=15211&id_testata=3
