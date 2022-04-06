@@ -1,0 +1,13 @@
+{
+  "longname": "BiASA",
+  "name": "biasa",
+  "describe": "Recognizes the accesses to the platform BiASA",
+  "contact": "Sean Duffy",
+  "pkb": false,
+  "docurl": "http://analyses.ezpaarse.org/platforms/624c97461c41a55d262ee542",
+  "domains": [
+    "periodici.librari.beniculturali.it"
+  ],
+  "version": "2022-04-05",
+  "status": "beta"
+}
