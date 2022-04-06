@@ -1,0 +1,13 @@
+{
+  "longname": "Drama Online",
+  "name": "do",
+  "describe": "Recognizes the accesses to the platform Drama Online",
+  "contact": "Sean Duffy",
+  "pkb": false,
+  "docurl": "http://analyses.ezpaarse.org/platforms/620532414aeffb2f81ea4aa5",
+  "domains": [
+    "www.dramaonlinelibrary.com"
+  ],
+  "version": "2022-04-05",
+  "status": "beta"
+}
