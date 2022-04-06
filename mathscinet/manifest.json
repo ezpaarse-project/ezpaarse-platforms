@@ -1,0 +1,13 @@
+{
+  "longname": "MathSciNet",
+  "name": "mathscinet",
+  "describe": "Recognizes the accesses to the platform MathSciNet",
+  "contact": "Rick Hoover, Virginie BU UPJV, Teresa Fernandez Olaizola, Sean Duffy",
+  "pkb": false,
+  "docurl": "http://analyses.ezpaarse.org/platforms/6067221da07a4b514cbfacae",
+  "domains": [
+    "mathscinet.ams.org"
+  ],
+  "version": "2022-04-05",
+  "status": "beta"
+}
