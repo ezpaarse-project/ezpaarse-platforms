@@ -21,14 +21,14 @@ module.exports = new Parser(function analyseEC(parsedUrl, ec) {
 
   let match;
 
-  if ((match = /^\/art\/([a-z0-9-]+)$/i.exec(path)) !== null) {
+  if ((match = /^\/art\/([a-z0-9-]+)-([a-z0-9]+)$/i.exec(path)) !== null) {
     // https://www.ilsole24ore.com/art/ucraina-chi-e-bozambo-ongaro-miliziano-italiano-ucciso-donbass-AE8pfROB
     // https://www.ilsole24ore.com/art/covid-oggi-stop-prezzo-calmierato-i-ragazzi-anche-loro-tampone-15-euro-farmacia-AEf3MGOB
     //https://24plus.ilsole24ore.com/art/guerra-ucraina-rivincita-d-immagine-dell-intelligence-americana-AEQFD0NB
     result.rtype    = 'ARTICLE';
     result.mime     = 'HTML';
-    result.title_id = match[1].substr(0, match[1].lastIndexOf('-'));
-    result.unitid = match[1].substr(match[1].lastIndexOf('-')+1);
+    result.title_id = match[1];
+    result.unitid = match[2];
 
   }
 
