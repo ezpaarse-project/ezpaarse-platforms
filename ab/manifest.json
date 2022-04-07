@@ -1,0 +1,14 @@
+{
+  "longname": "Archidat Bouwformatie",
+  "name": "ab",
+  "describe": "Recognizes the accesses to the platform Archidat Bouwformatie",
+  "contact": "Sean Duffy",
+  "pkb": false,
+  "docurl": "http://analyses.ezpaarse.org/platforms/624def2477a10c33a53a7f64",
+  "domains": [
+    "www.bouwformatie.nl",
+    "bouwtechniek.bouwformatie.nl"
+  ],
+  "version": "2022-04-06",
+  "status": "beta"
+}
