@@ -26,16 +26,16 @@ module.exports = new Parser(function analyseEC(parsedUrl, ec) {
     result.rtype    = 'SEARCH';
     result.mime     = 'HTML';
 
-  } else if ((match = /^\/tools\/([a-z]+)\/([a-z-]+)$/i.exec(path)) !== null) {
+  } else if ((match = /^\/tools\/[a-z]+\/([a-z-]+)$/i.exec(path)) !== null) {
     // https://www.bouwkosten.nl/tools/onwerkbaarweer/toelichting-onwerkbaar-weer
     result.rtype    = 'RECORD';
     result.mime     = 'HTML';
-    result.unitid   = match[2];
-  } else if ((match = /^\/([a-z_]+)\/([a-z_]+)\/(.+)\/(.+)\/([0-9]+)\.htm$/i.exec(path)) !== null) {
+    result.unitid   = match[1];
+  } else if ((match = /^\/[a-z_]+\/[a-z_]+\/.+\/.+\/([0-9]+)\.htm$/i.exec(path)) !== null) {
     // https://www.bouwkosten.nl/Ontdoeningskosten_afvalstoffen/Asbestverwijdering/Kosten_asbestsanering,_eenheidsprijs/kostengegevens-Prijzen,_Normen_en_Tarieven/1494335.htm
     result.rtype    = 'RECORD';
     result.mime     = 'HTML';
-    result.unitid   = match[5];
+    result.unitid   = match[1];
   }
 
   return result;
