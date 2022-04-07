@@ -26,7 +26,7 @@ module.exports = new Parser(function analyseEC(parsedUrl, ec) {
     result.rtype    = 'SEARCH';
     result.mime     = 'HTML';
 
-  } else if ((match = /^\/([a-z]+)\/([a-z0-9-%]+)(\/?)$/i.exec(path)) !== null) {
+  } else if ((match = /^\/([a-z]+)\/([a-z0-9-%]+)\/?$/i.exec(path)) !== null) {
     // https://www.bouwformatie.nl/bouwnieuws/verwijdering-lekbrug-duurder-door-kapotte-kabel
     // https://bouwtechniek.bouwformatie.nl/projecten/Rijtjeswoning%20-%20Houtskeletbouw/
     result.rtype    = 'ARTICLE';
