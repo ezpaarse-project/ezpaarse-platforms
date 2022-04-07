@@ -1,0 +1,13 @@
+{
+  "longname": "Bouwkosten",
+  "name": "bwk",
+  "describe": "Recognizes the accesses to the platform Bouwkosten",
+  "contact": "Sean Duffy",
+  "pkb": false,
+  "docurl": "http://analyses.ezpaarse.org/platforms/624df435fe6c960cfa2c52f3",
+  "domains": [
+    "www.bouwkosten.nl"
+  ],
+  "version": "2022-04-06",
+  "status": "beta"
+}
