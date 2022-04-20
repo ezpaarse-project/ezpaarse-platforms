@@ -6,7 +6,14 @@
   "pkb": false,
   "docurl": "http://analyses.ezpaarse.org/platforms/5fcfa1e04709b141fe154294",
   "domains": [
-    "web.b.ebscohost.com"
+    "web.b.ebscohost.com",
+    "web.a.ebscohost.com",
+    "web.c.ebscohost.com",
+    "web.d.ebscohost.com",
+    "web.e.ebscohost.com",
+    "web.p.ebscohost.com",
+    "web.s.ebscohost.com"
+    
   ],
   "version": "2020-12-08",
   "status": "beta"
