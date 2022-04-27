@@ -72,10 +72,15 @@ module.exports = new Parser(function analyseEC(parsedUrl, ec) {
       }
     }
   } else if (/^\/Pdf\/ImageList$/i.test(path)) {
+    // /Pdf/ImageList?docName=pdf
     result.rtype = 'ARTICLE';
     result.mime = 'PDF';
 
     if (param.docName) { result.unitid = decodeURIComponent(param.docName); }
+  } else if (/^\/Search\/ResultMobile$/i.test(path)) {
+    // /Search/ResultMobile
+    result.rtype = 'SEARCH';
+    result.mime = 'HTML';
   }
   return result;
 });
