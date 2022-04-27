@@ -47,6 +47,10 @@ module.exports = new Parser(function analyseEC(parsedUrl, ec) {
     result.mime     = 'HTML';
     result.unitid   = param.ISBN;
     result.online_identifier = param.ISBN;
+  } else if (/^\/[0-9]+\/catalog\/search$/i.test(path)) {
+    // /244/Catalog/Search?query=oraux&type=Title&pageindex=0
+    result.rtype    = 'SEARCH';
+    result.mime     = 'HTML';
   }
 
   return result;
