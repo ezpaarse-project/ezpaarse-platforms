@@ -7,7 +7,8 @@
   "docurl": "http://analyses.ezpaarse.org/platforms/60c9c787375d9577c611bd56",
   "domains": [
     "uk.westlaw.com",
-    "westlawchile.cl"
+    "westlawchile.cl",
+    "www.westlaw.com.au"
   ],
   "version": "2021-09-22",
   "status": "beta"
