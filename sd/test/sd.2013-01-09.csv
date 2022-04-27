@@ -33,3 +33,6 @@ out-vol;out-issue;out-pii;out-print_identifier;out-title_id;out-unitid;out-rtype
 ;;;;molecular-cell;molecular-cell;TOC;HTML;https://www.sciencedirect.com/journal/molecular-cell
 ;;S1097276519303636;1097-2765;10972765;S1097276519303636;ARTICLE;PDF;https://pdf.sciencedirectassets.com/272198/1-s2.0-S1097276518X00148/1-s2.0-S1097276519303636/main.pdf?pii=S1097276519303636&tid=spdf-800fde87-4c02-4d69-9af2-2e4f8aec3a22&sid=ea1393ce3f4832441578e17305497d440ee3gxrqa&type=client
 ;;B9780121381103500064;9780121381103;9780121381103;B9780121381103500064;BOOK_SECTION;PDF;https://pdf.sciencedirectassets.com/274131/3-s2.0-B9780121381103X50004/3-s2.0-B9780121381103500064/main.pdf?pii=B9780121381103500064&tid=spdf-02685ab0-8c30-405a-9c16-23c3b3055b8c&sid=ea1393ce3f4832441578e17305497d440ee3gxrqa&type=client
+;;;;;;TOC;HTML;https://www.sciencedirect.com/browse/journals-and-books
+;;;;;;SEARCH;HTML;https://www.sciencedirect.com/browse/journals-and-books?searchPhrase=medecine
+;;;;;;SEARCH;HTML;https://www.sciencedirect.com/search?qs=medecine%20et%20droit

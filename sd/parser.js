@@ -250,6 +250,16 @@ module.exports = new Parser(function analyseEC(parsedUrl) {
       result.print_identifier = `${match[3].substr(0, 4)}-${match[3].substr(4, 4)}`;
     }
 
+  } else if (/^\/browse\/journals-and-books\/?$/i.test(path)) {
+    // /browse/journals-and-books
+    // /browse/journals-and-books?searchPhrase=medecine
+    result.rtype = Object.keys(param).length === 0 ? 'TOC' : 'SEARCH';
+    result.mime = 'HTML';
+
+  } else if (/^\/search\/?$/i.test(path)) {
+    // /search?qs=medecine%20et%20droit
+    result.rtype = 'SEARCH';
+    result.mime = 'HTML';
   }
 
   return result;
