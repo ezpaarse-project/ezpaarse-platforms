@@ -1,0 +1,13 @@
+{
+  "longname": "Legalnews",
+  "name": "ln",
+  "describe": "Recognizes the accesses to the platform Legalnews",
+  "contact": "Laurence Sunyach, Catherine Bonin, Frederic Truong inist, Caballo, Monica",
+  "pkb": false,
+  "docurl": "http://analyses.ezpaarse.org/platforms/5538ff65456963f993ca8015",
+  "domains": [
+    "www.legalnews.fr"
+  ],
+  "version": "2022-04-27",
+  "status": "beta"
+}
