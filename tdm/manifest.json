@@ -1,0 +1,13 @@
+{
+  "longname": "Transnational Dispute Management",
+  "name": "tdm",
+  "describe": "Recognizes the accesses to the platform Transnational Dispute Management",
+  "contact": "Frederic Truong inist, Caballo, Monica, felix",
+  "pkb": false,
+  "docurl": "http://analyses.ezpaarse.org/platforms/6254135d86b48459dbbda85d",
+  "domains": [
+    "www.transnational-dispute-management.com"
+  ],
+  "version": "2022-04-27",
+  "status": "beta"
+}
