@@ -125,6 +125,14 @@ module.exports = new Parser(function analyseEC(parsedUrl, ec) {
     result.doi      = `${match[4]}/${match[5]}`;
     result.unitid   = match[5];
 
+  } else if ((match = /^(?:\/[a-z]+)?\/([a-z-]+)\/(article|article-abstract|article-pdf|article-standard)\/doi\/(10\.[0-9]+\/[a-z0-9._-]+)\/([0-9]+)(?:\/\S+)?$/i.exec(path)) !== null) {
+    // /cancerimmunolres/article/doi/10.1158/2326-6066.CIR-21-0696/694252/Phosphoantigen-Stimulated-T-Cells-Suppress-Natural
+    result.mime     = match[2] === 'article-pdf' ? 'PDF' : 'HTML';
+    result.rtype    = match[2] === 'article-abstract' ? 'ABS' : 'ARTICLE';
+    result.title_id = match[1];
+    result.doi      = match[3];
+    result.unitid   = match[4];
+
   } else if ((match = /^(?:\/[a-z]+)?\/([a-z-]+)\/(article|article-abstract|article-pdf|article-standard)\/([0-9]+)\/([0-9%()]+)\/([0-9]+|[a-z]+)\/([0-9]+)(?:\/\S+)?$/i.exec(path)) !== null) {
     // /humrep/article/32/1/14/2645576/Is-the-understanding-of-AMH-being-confounded-by
     // /segweb/economicgeology/article-abstract/108/1/1/128420/applying-stable-isotopes-to-mineral-exploration
