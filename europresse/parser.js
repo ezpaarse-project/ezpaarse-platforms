@@ -76,6 +76,9 @@ module.exports = new Parser(function analyseEC(parsedUrl, ec) {
     result.mime = 'PDF';
 
     if (param.docName) { result.unitid = decodeURIComponent(param.docName); }
+  } else if (/^\/Search\/ResultMobile$/i.test(path)) {
+    result.rtype = 'SEARCH';
+    result.mime = 'HTML';
   }
   return result;
 });
