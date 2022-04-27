@@ -1,0 +1,13 @@
+{
+  "longname": "Le Progrès",
+  "name": "lpg",
+  "describe": "Recognizes the accesses to the platform Le Progrès",
+  "contact": "Carole BRUNO, Frederic Truong inist, felix",
+  "pkb": false,
+  "docurl": "http://analyses.ezpaarse.org/platforms/623db56c1dfeb60465f3741a",
+  "domains": [
+    "www.leprogres.fr"
+  ],
+  "version": "2022-04-27",
+  "status": "beta"
+}
