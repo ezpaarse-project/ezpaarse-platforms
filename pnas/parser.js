@@ -41,14 +41,14 @@ module.exports = new Parser(function analyseEC(parsedUrl, ec) {
     result.title_id = match[1];
     result.unitid = match[1];
 
-  } else if ((match = /^\/doi\/e?pdf\/(10.[0-9]{4}\/([a-z]+.[0-9]+))$/i.exec(path)) !== null) {
+  } else if ((match = /^\/doi\/e?pdf\/(10\.[0-9]+\/([a-z]+\.[0-9]+))$/i.exec(path)) !== null) {
     // /doi/epdf/10.1073/pnas.2118210119
     result.rtype = 'ARTICLE';
     result.mime = 'PDF';
     result.unitid = match[2];
     result.doi = match[1];
 
-  } else if ((match = /^\/doi\/(10.[0-9]{4}\/([a-z]+.[0-9]+))$/i.exec(path)) !== null) {
+  } else if ((match = /^\/doi\/(10\.[0-9]+\/([a-z]+\.[0-9]+))$/i.exec(path)) !== null) {
     // /doi/10.1073/pnas.2118210119
     result.rtype = 'ARTICLE';
     result.mime = 'HTML';
