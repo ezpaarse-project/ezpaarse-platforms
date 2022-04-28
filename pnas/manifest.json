@@ -1,0 +1,13 @@
+{
+  "longname": "Proceedings of the National Academy of Sciences",
+  "name": "pnas",
+  "describe": "Recognizes the accesses to the platform Proceedings of the National Academy of Sciences",
+  "contact": "Teresa Fernandez Olaizola, Julie Verleyen, Virginie BU UPJV, Frederic Truong inist",
+  "pkb": false,
+  "docurl": "http://analyses.ezpaarse.org/platforms/54352db0dbbc861c6e0e5f03",
+  "domains": [
+    "www.pnas.org"
+  ],
+  "version": "2022-04-28",
+  "status": "beta"
+}
