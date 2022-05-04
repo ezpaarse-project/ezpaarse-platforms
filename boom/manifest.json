@@ -6,7 +6,8 @@
   "pkb": false,
   "docurl": "http://analyses.ezpaarse.org/platforms/622a47fc904f4c65ba188192",
   "domains": [
-    "www.boomportaal.nl"
+    "www.boomportaal.nl",
+    "pspdfkit.boomportaal.nl"
   ],
   "version": "2022-03-31",
   "status": "beta"
