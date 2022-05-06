@@ -1,0 +1,13 @@
+{
+  "longname": "Scholars Portal Books",
+  "name": "spb",
+  "describe": "Recognizes the accesses to the platform Scholars Portal Books",
+  "contact": "Sean Duffy",
+  "pkb": false,
+  "docurl": "http://analyses.ezpaarse.org/platforms/6274201d15cc2c8e5ac89d2a",
+  "domains": [
+    "books.scholarsportal.info"
+  ],
+  "version": "2022-05-06",
+  "status": "beta"
+}
