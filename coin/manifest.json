@@ -1,0 +1,13 @@
+{
+  "longname": "Company.Info",
+  "name": "coin",
+  "describe": "Recognizes the accesses to the platform Company.Info",
+  "contact": "Sean Duffy",
+  "pkb": false,
+  "docurl": "http://analyses.ezpaarse.org/platforms/62728c9fcc5b373c01597a12",
+  "domains": [
+    "company.info"
+  ],
+  "version": "2022-05-06",
+  "status": "beta"
+}
