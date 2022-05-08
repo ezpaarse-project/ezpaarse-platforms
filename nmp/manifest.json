@@ -1,0 +1,13 @@
+{
+  "longname": "Magazine Plus",
+  "name": "nmp",
+  "describe": "Recognizes the accesses to the platform Magazine Plus",
+  "contact": "Sean Duffy",
+  "pkb": false,
+  "docurl": "http://analyses.ezpaarse.org/platforms/6260710c5300417eeda73463",
+  "domains": [
+    "web.nichigai.jp"
+  ],
+  "version": "2022-05-08",
+  "status": "beta"
+}
