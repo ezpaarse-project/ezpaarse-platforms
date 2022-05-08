@@ -1,0 +1,13 @@
+{
+  "longname": "Cement Online",
+  "name": "co",
+  "describe": "Recognizes the accesses to the platform Cement Online",
+  "contact": "Sean Duffy",
+  "pkb": false,
+  "docurl": "http://analyses.ezpaarse.org/platforms/6272acc389e03059a97f8528",
+  "domains": [
+    "www.cementonline.nl"
+  ],
+  "version": "2022-05-08",
+  "status": "beta"
+}
