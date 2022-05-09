@@ -29,8 +29,12 @@ module.exports = new Parser(function analyseEC(parsedUrl, ec) {
       result.rtype = 'TOC';
     }
 
-    if (/^article$/i.test(param.docType)) {
+    if (/^article$/i.test(param.docType) || /^topic(.*)$/i.test(param.docType) || (!param.contentSegment && !param.actionCmd)) {
       result.rtype = 'ARTICLE';
+    }
+
+    if (param.method == 'doSearch') {
+      result.rtype = 'SEARCH';
     }
 
     if (param.docId) {
