@@ -1,0 +1,15 @@
+{
+  "longname": "cnki",
+  "name": "cnki",
+  "describe": "Recognizes the accesses to the platform cnki",
+  "contact": "Frederic Truong inist, Adeline Batailler, Sean Duffy",
+  "pkb": false,
+  "docurl": "http://analyses.ezpaarse.org/platforms/59561ef9f98950acd74a2c89",
+  "domains": [
+    "pdf.tmp.oversea.d.cnki.net.prext.num.bulac.fr",
+    "oversea.cnki.net",
+    "pdf-oversea.d.cnki.net"
+  ],
+  "version": "2022-05-06",
+  "status": "beta"
+}
