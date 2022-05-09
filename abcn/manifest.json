@@ -1,0 +1,13 @@
+{
+  "longname": "Ancient Books",
+  "name": "abcn",
+  "describe": "Recognizes the accesses to the platform Ancient Books",
+  "contact": "Sean Duffy",
+  "pkb": false,
+  "docurl": "http://analyses.ezpaarse.org/platforms/6266ac6ac632530f548315db",
+  "domains": [
+    "inscription.ancientbooks.cn"
+  ],
+  "version": "2022-05-08",
+  "status": "beta"
+}
