@@ -8,7 +8,9 @@
   "domains": [
     "uk.westlaw.com",
     "westlawchile.cl",
-    "www.westlaw.com.au"
+    "www.westlaw.com.au",
+    "westlawjapan.com",
+    "go.westlawjapan.com"
   ],
   "version": "2021-09-22",
   "status": "beta"
