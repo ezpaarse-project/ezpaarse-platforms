@@ -1,0 +1,15 @@
+{
+  "longname": "Le Figaro",
+  "name": "lfg",
+  "describe": "Recognizes the accesses to the platform Le Figaro",
+  "contact": "Carole BRUNO, Frederic Truong inist",
+  "pkb": false,
+  "docurl": "http://analyses.ezpaarse.org/platforms/623db6e250cc4d20758ad144",
+  "domains": [
+    "www.lefigaro.fr",
+    "recherche.lefigaro.fr",
+    "kiosque.lefigaro.fr"
+  ],
+  "version": "2022-06-08",
+  "status": "beta"
+}
