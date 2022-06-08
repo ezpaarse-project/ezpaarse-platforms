@@ -3,11 +3,6 @@
 'use strict';
 const Parser = require('../.lib/parser.js');
 
-function parseDOI(doi) {
-  const splited = doi.split('_');
-  return `${splited[0]}.${splited[1]}/${splited[2]}`;
-}
-
 /**
  * Recognizes the accesses to the platform Doranum
  * @param  {Object} parsedUrl an object representing the URL to analyze
@@ -26,19 +21,20 @@ module.exports = new Parser(function analyseEC(parsedUrl, ec) {
 
   let match;
 
-  if ((match = /^\/wp-content\/uploads\/[a-z0-9_-]+(10_[0-9]+_([a-z0-9-]+)).zip$/i.exec(path)) !== null) {
+  if ((match = /^\/wp-content\/uploads\/[a-z0-9_-]+10_([0-9]+)_([a-z0-9-]+)\.zip$/i.exec(path)) !== null) {
     // /wp-content/uploads/doranum_01_fiche_synthetique_10_13143_mgcn-1863.zip
-    result.rtype    = 'RECORD';
-    result.mime     = 'ZIP';
-    result.doi = parseDOI(match[1]);
+    result.rtype = 'RECORD';
+    result.mime = 'ZIP';
+    result.doi = `10.${match[1]}/${match[2]}`;
 
     result.unitid = match[2];
 
-  } else if ((match = /^\/[a-z-]+\/[a-z_-]+(10_[0-9]+_([a-z0-9-]+))\/?$/i.exec(path)) !== null) {
+  } else if ((match = /^\/[a-z-]+\/[a-z0-9_-]+10_([0-9]+)_([a-z0-9-]+)\/?$/i.exec(path)) !== null) {
     // /aspects-juridiques-ethiques/lois-pour-open-data_10_13143_k917-g053/
     result.rtype    = 'RECORD';
     result.mime     = 'HTML';
-    result.doi = parseDOI(match[1]);
+
+    result.doi = `10.${match[1]}/${match[2]}`;
     result.unitid = match[2];
 
   } else if (/^\/$/i.test(path)) {
