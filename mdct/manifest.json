@@ -1,0 +1,13 @@
+{
+  "longname": "Mediacités",
+  "name": "mdct",
+  "describe": "Recognizes the accesses to the platform Mediacités",
+  "contact": "Carole BRUNO",
+  "pkb": false,
+  "docurl": "http://analyses.ezpaarse.org/platforms/623db91312dd606590d65291",
+  "domains": [
+    "www.mediacites.fr"
+  ],
+  "version": "2022-06-08",
+  "status": "beta"
+}
