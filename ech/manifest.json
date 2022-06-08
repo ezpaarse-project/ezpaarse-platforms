@@ -1,0 +1,13 @@
+{
+  "longname": "Les Echos",
+  "name": "ech",
+  "describe": "Recognizes the accesses to the platform Les Echos",
+  "contact": "Carole BRUNO, felix",
+  "pkb": false,
+  "docurl": "http://analyses.ezpaarse.org/platforms/623db733649cb43da98c4709",
+  "domains": [
+    "www.lesechos.fr"
+  ],
+  "version": "2022-06-08",
+  "status": "beta"
+}
