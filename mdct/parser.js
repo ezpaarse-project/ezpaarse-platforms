@@ -21,7 +21,7 @@ module.exports = new Parser(function analyseEC(parsedUrl, ec) {
 
   let match;
 
-  if (/^\/$/i.test(path)) {
+  if (path === '/') {
     // /?s=covid
     result.rtype    = 'SEARCH';
     result.mime     = 'HTML';
