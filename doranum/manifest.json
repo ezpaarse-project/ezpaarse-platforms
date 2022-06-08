@@ -1,0 +1,13 @@
+{
+  "longname": "Doranum",
+  "name": "doranum",
+  "describe": "Recognizes the accesses to the platform Doranum",
+  "contact": "Frederic Truong inist, dominique_lechaudel, nojhamster, felix",
+  "pkb": false,
+  "docurl": "http://analyses.ezpaarse.org/platforms/60e5a2188bce602ae0978403",
+  "domains": [
+    "doranum.fr"
+  ],
+  "version": "2022-06-08",
+  "status": "beta"
+}
