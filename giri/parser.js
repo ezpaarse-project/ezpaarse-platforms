@@ -20,7 +20,7 @@ module.exports = new Parser(function analyseEC(parsedUrl, ec) {
   // console.error(parsedUrl);
 
 
-  if (/^\/repbase\/update\/search.php$/i.test(path)) {
+  if (/^\/repbase\/update\/search\.php$/i.test(path)) {
     // /repbase/update/search.php?query=genome&querytype=Titles
     // /repbase/update/search.php?query=genome&querytype=Authors
     result.rtype = 'SEARCH';
