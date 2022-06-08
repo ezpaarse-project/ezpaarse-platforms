@@ -21,7 +21,7 @@ module.exports = new Parser(function analyseEC(parsedUrl, ec) {
 
   let match;
 
-  if ((match = /^\/search\/node\/(?!\/).+$/i.exec(path)) !== null) {
+  if ((match = /^\/search\/node\/[^/]+$/i.exec(path)) !== null) {
     // /search/node/nourrisson
     result.rtype = 'SEARCH';
     result.mime = 'HTML';
