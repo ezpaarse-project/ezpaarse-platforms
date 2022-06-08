@@ -1,0 +1,13 @@
+{
+  "longname": "Le Quotidien du médecin",
+  "name": "lqdm",
+  "describe": "Recognizes the accesses to the platform Le Quotidien du médecin",
+  "contact": "Carole BRUNO, felix",
+  "pkb": false,
+  "docurl": "http://analyses.ezpaarse.org/platforms/623db66622c74e0c8b4c28fa",
+  "domains": [
+    "www.lequotidiendumedecin.fr"
+  ],
+  "version": "2022-06-08",
+  "status": "beta"
+}
