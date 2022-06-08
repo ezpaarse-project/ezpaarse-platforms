@@ -26,12 +26,14 @@ module.exports = new Parser(function analyseEC(parsedUrl, ec) {
     result.rtype = 'ISSUE';
     result.mime = 'HTML';
     result.unitid = param.origin;
-    let date;
-    if ((date = /([0-9]+-[0-9]{2}-[0-9]{2})$/i.exec(param.origin)) !== null) {
+
+    const date = /([0-9]+-[0-9]{2}-[0-9]{2})$/i.exec(param.origin);
+
+    if (date !== null) {
       result.publication_date = date[1];
     }
 
-  } else if (/^\/recherche\/(?!\/).+\/?$/i.test(path)) {
+  } else if (/^\/recherche\/[^/]+\/?$/i.test(path)) {
     // /recherche/covid/
     result.rtype = 'SEARCH';
     result.mime = 'HTML';
