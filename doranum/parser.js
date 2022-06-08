@@ -37,7 +37,7 @@ module.exports = new Parser(function analyseEC(parsedUrl, ec) {
     result.doi = `10.${match[1]}/${match[2]}`;
     result.unitid = match[2];
 
-  } else if (/^\/$/i.test(path)) {
+  } else if (path === '/') {
     // /?s=formulaire
     result.rtype    = 'SEARCH';
     result.mime     = 'HTML';
