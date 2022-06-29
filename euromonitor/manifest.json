@@ -8,7 +8,8 @@
   "domains": [
     "www.portal.euromonitor.com",
     "portal.euromonitor.com",
-    "euromonitor.com"
+    "euromonitor.com",
+    "microfrontend-passport.euromonitor.com"
   ],
   "version": "2019-04-24",
   "status": "beta"
