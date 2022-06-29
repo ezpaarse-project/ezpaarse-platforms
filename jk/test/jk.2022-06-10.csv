@@ -1,0 +1,6 @@
+out-title_id;out-db_id;out-unitid;out-rtype;out-mime;in-url
+;;;SEARCH;HTML;https://japanknowledge.com/lib/search/basic/index.html?q1=money&r1=1&phrase=0&sort=1&rows=20&pageno=1&s=s
+;10800;10800EC100710;ENCYCLOPAEDIA_ENTRY;HTML;https://japanknowledge.com/lib/display/?lid=10800EC100710
+;40110;40110C042900;ENCYCLOPAEDIA_ENTRY;HTML;https://japanknowledge.com/lib/display/?lid=40110C042900
+;;economist;TOC;HTML;https://japanknowledge.com/lib/shelf/economist/
+80110;;80110V00120108;BOOK_PAGE;HTML;https://japanknowledge.com/lib/display/?lid=80110V00120108
