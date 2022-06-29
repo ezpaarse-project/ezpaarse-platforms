@@ -20,7 +20,7 @@ module.exports = new Parser(function analyseEC(parsedUrl, ec) {
   // use console.error for debuging
   // console.error(parsedUrl);
 
-  if (/^\/olive\/([a-z]+)\/INA.Edu\/Default\.aspx$/i.test(path) && hash.includes('search') == true) {
+  if (/^\/olive\/([a-z]+)\/INA\.Edu\/Default\.aspx$/i.test(path) && hash.includes('search') == true) {
     // https://archive.irishnewsarchive.com/olive/APA/INA.Edu/Default.aspx#panel=search&search=0
     result.rtype    = 'SEARCH';
     result.mime     = 'HTML';
@@ -33,7 +33,7 @@ module.exports = new Parser(function analyseEC(parsedUrl, ec) {
     result.title_id = param.href.substring(0, param.href.indexOf('/'));
     result.publication_date = param.href.substring(param.href.indexOf('/')+1);
     result.unitid   = param.id;
-  } else if (/^\/olive\/([a-z]+)\/INA.Edu\/Default\.aspx$/i.test(path) && hash.includes('document') == true) {
+  } else if (/^\/olive\/([a-z]+)\/INA\.Edu\/Default\.aspx$/i.test(path) && hash.includes('document') == true) {
     // https://archive.irishnewsarchive.com/olive/APA/INA.Edu/Default.aspx#panel=document
     result.rtype    = 'ISSUE';
     result.mime     = 'HTML';
