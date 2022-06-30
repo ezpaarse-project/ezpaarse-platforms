@@ -1,0 +1,13 @@
+{
+  "longname": "Institute of Grocery Distribution",
+  "name": "igd",
+  "describe": "Recognizes the accesses to the platform Institute of Grocery Distribution",
+  "contact": "Sean Duffy, Justyn Shye",
+  "pkb": false,
+  "docurl": "http://analyses.ezpaarse.org/platforms/617077e7e933f55ffe069294",
+  "domains": [
+    "retailanalysis.igd.com"
+  ],
+  "version": "2022-06-03",
+  "status": "beta"
+}
