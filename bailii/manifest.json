@@ -1,0 +1,13 @@
+{
+  "longname": "BAILII",
+  "name": "bailii",
+  "describe": "Recognizes the accesses to the platform BAILII",
+  "contact": "Sean Duffy",
+  "pkb": false,
+  "docurl": "http://analyses.ezpaarse.org/platforms/62c842e0db9f1a8fbfbe7d0b",
+  "domains": [
+    "www.bailii.org"
+  ],
+  "version": "2022-07-25",
+  "status": "beta"
+}

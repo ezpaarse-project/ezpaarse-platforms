@@ -1,0 +1,4 @@
+out-publication_date;out-db_id;out-unitid;out-rtype;out-mime;in-url
+;;;SEARCH;HTML;https://www.bailii.org/cgi-bin/lucy_search_1.cgi?method=boolean&highlight=1&sort=rank&query=(Murder)&results=200&mask_path=/
+2008;IELRC;87;ARTICLE;HTML;https://www.bailii.org/cgi-bin/format.cgi?doc=/ie/other/IELRC/2008/87.html&query=(Murder)
+2008;IELRC;87;ARTICLE;PDF;https://www.bailii.org/ie/other/IELRC/2008/87.pdf
