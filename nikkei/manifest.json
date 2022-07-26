@@ -1,0 +1,13 @@
+{
+  "longname": "Nikkei",
+  "name": "nikkei",
+  "describe": "Recognizes the accesses to the platform Nikkei",
+  "contact": "Anna Orben",
+  "pkb": false,
+  "docurl": "http://analyses.ezpaarse.org/platforms/62aa367d6795bd781f63234a",
+  "domains": [
+    "t21.nikkei.co.jp"
+  ],
+  "version": "2022-07-25",
+  "status": "beta"
+}
