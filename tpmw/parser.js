@@ -12,7 +12,7 @@ const Parser = require('../.lib/parser.js');
  */
 module.exports = new Parser(function analyseEC(parsedUrl, ec) {
   let result = {};
-  let path   = parsedUrl.pathname;
+  let path = parsedUrl.pathname;
   // uncomment this line if you need parameters
   let param = parsedUrl.query || {};
 
@@ -21,22 +21,17 @@ module.exports = new Parser(function analyseEC(parsedUrl, ec) {
 
   let match;
 
-  if ((match = /^\/([a-z-]+)\/$/i.exec(path)) !== null && param.print == 'pdf') {
-    // https://www.all4maternity.com/newborn-weight-loss-and-supplementation-of-the-breastfed-infant-exploring-the-evidence/?print=pdf
-    result.rtype    = 'ARTICLE';
-    result.mime     = 'PDF';
-    result.unitid = match[1];
-
-  } else if ((match = /^\/([a-z-]+)\/$/i.exec(path)) !== null) {
+  if ((match = /^\/([a-z-]+)\/$/i.exec(path)) !== null) {
     // https://www.all4maternity.com/zero-separation/
     // https://www.all4maternity.com/newborn-weight-loss-and-supplementation-of-the-breastfed-infant-exploring-the-evidence/
-    result.rtype    = 'ARTICLE';
-    result.mime     = 'HTML';
-    result.unitid   = match[1];
+    // https://www.all4maternity.com/newborn-weight-loss-and-supplementation-of-the-breastfed-infant-exploring-the-evidence/?print=pdf
+    result.rtype = 'ARTICLE';
+    result.mime = param.print === 'pdf' ? 'PDF' : 'HTML';
+    result.unitid = match[1];
   } else if ((match = /^\/$/i.exec(path)) !== null) {
     // https://www.all4maternity.com/?s=babies
-    result.rtype    = 'SEARCH';
-    result.mime     = 'HTML';
+    result.rtype = 'SEARCH';
+    result.mime = 'HTML';
   }
 
   return result;
