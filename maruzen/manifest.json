@@ -1,0 +1,13 @@
+{
+  "longname": "Maruzen",
+  "name": "maruzen",
+  "describe": "Recognizes the accesses to the platform Maruzen",
+  "contact": "Anna Orben, Sean Duffy",
+  "pkb": false,
+  "docurl": "http://analyses.ezpaarse.org/platforms/62c43aab07ce3d84c4eac567",
+  "domains": [
+    "elib.maruzen.co.jp"
+  ],
+  "version": "2022-07-25",
+  "status": "beta"
+}
