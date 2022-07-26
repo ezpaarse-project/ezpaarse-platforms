@@ -1,0 +1,13 @@
+{
+  "longname": "Thomson Reuters Proview",
+  "name": "trp",
+  "describe": "Recognizes the accesses to the platform Thomson Reuters Proview",
+  "contact": "Justyn Shye, Sean Duffy",
+  "pkb": false,
+  "docurl": "http://analyses.ezpaarse.org/platforms/618bf014c264cf634c6f15db",
+  "domains": [
+    "proview.thomsonreuters.com"
+  ],
+  "version": "2022-07-25",
+  "status": "beta"
+}
