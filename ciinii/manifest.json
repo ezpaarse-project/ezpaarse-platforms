@@ -1,0 +1,14 @@
+{
+  "longname": "CiiNii",
+  "name": "ciinii",
+  "describe": "Recognizes the accesses to the platform CiiNii",
+  "contact": "Anna Orben",
+  "pkb": false,
+  "docurl": "http://analyses.ezpaarse.org/platforms/62cc3a5a4898708a3ea4c47c",
+  "domains": [
+    "cir.nii.ac.jp",
+    "ci.nii.ac.jp"
+  ],
+  "version": "2022-07-25",
+  "status": "beta"
+}
