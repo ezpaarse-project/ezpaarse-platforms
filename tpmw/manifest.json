@@ -1,0 +1,13 @@
+{
+  "longname": "The Practising Midwife",
+  "name": "tpmw",
+  "describe": "Recognizes the accesses to the platform The Practising Midwife",
+  "contact": "Sean Duffy",
+  "pkb": false,
+  "docurl": "http://analyses.ezpaarse.org/platforms/62c83b17bee9e887699b969c",
+  "domains": [
+    "www.all4maternity.com"
+  ],
+  "version": "2022-07-25",
+  "status": "beta"
+}
