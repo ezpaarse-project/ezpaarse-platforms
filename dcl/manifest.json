@@ -1,0 +1,14 @@
+{
+  "longname": "DCL",
+  "name": "dcl",
+  "describe": "Recognizes the accesses to the platform DCL",
+  "contact": "Anna Orben",
+  "pkb": false,
+  "docurl": "http://analyses.ezpaarse.org/platforms/62cd7ece502853703d0ff476",
+  "domains": [
+    "dcl.toyokeizai.net",
+    "dcl.toyokeizai.net."
+  ],
+  "version": "2022-07-25",
+  "status": "beta"
+}
