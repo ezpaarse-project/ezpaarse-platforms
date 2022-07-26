@@ -1,0 +1,13 @@
+{
+  "longname": "Black and White Movies",
+  "name": "bnwmov",
+  "describe": "Recognizes the accesses to the platform Black and White Movies",
+  "contact": "Sean Duffy",
+  "pkb": false,
+  "docurl": "http://analyses.ezpaarse.org/platforms/62c838a2f4d87132f6ec0a72",
+  "domains": [
+    "bnwmovies.com"
+  ],
+  "version": "2022-07-25",
+  "status": "beta"
+}
