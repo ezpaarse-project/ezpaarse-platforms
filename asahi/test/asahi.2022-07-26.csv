@@ -1,0 +1,5 @@
+out-unitid;out-rtype;out-mime;in-url
+;ARTICLE;HTML;http://database.asahi.com/library2/topic/t-detail.php
+;SEARCH;HTML;http://database.asahi.com/photoDB/result.html?search_method=top&image_keywords=a&btn_execution=Submit&keywords_synonymous=1&per_page=20&mode=thumbnail&sort_key1=category_code&sort_key2=shooting_location_code&sort_key3=shooting_date_acceptance_date&sort_type=1&ascdesc1=desc&ascdesc2=asc&ascdesc3=desc
+0000053140;IMAGE;HTML;http://database.asahi.com/photoDB/detail.html?id=0000053140&keywords=a
+;BOOK;HTML;http://database.asahi.com/library2/graph/g-image-frameset-main.php
