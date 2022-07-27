@@ -12,7 +12,7 @@ const Parser = require('../.lib/parser.js');
  */
 module.exports = new Parser(function analyseEC(parsedUrl, ec) {
   let result = {};
-  let path   = parsedUrl.pathname;
+  let path = parsedUrl.pathname;
   // uncomment this line if you need parameters
   // let param = parsedUrl.query || {};
 
@@ -21,23 +21,27 @@ module.exports = new Parser(function analyseEC(parsedUrl, ec) {
   // use console.error for debuging
   // console.error(parsedUrl);
 
-  if ((match = /^\/ap\/naviContents\/contentsViewInit\/hitotsubashi\/([0-9]+)\/([a-z0-9]+)$/i.exec(path)) !== null) {
-    // https://dcl.toyokeizai.net/ap/naviContents/contentsViewInit/hitotsubashi/2021061800/20210618HTB013
-    result.rtype    = 'BOOK';
-    result.mime     = 'HTML';
-    result.unitid     = match[2];
-  } else if (/^\/ap\/naviContents\/contentsViewInit\/geppou\/([0-9]+)\/([a-z0-9]+)$/i.test(path)) {
-    // https://dcl.toyokeizai.net/ap/naviContents/contentsViewInit/geppou/2008040700/20080407TKB009
-    result.rtype    = 'REPORT';
-    result.mime     = 'HTML';
+  if ((match = /^\/ap\/naviContents\/contentsViewInit\/hitotsubashi\/[0-9]+\/([a-z0-9]+)$/i.exec(path)) !== null) {
+    // /ap/naviContents/contentsViewInit/hitotsubashi/2021061800/20210618HTB013
+    result.rtype = 'BOOK';
+    result.mime = 'HTML';
+    result.unitid = match[1];
+
+  } else if ((match = /^\/ap\/naviContents\/contentsViewInit\/geppou\/[0-9]+\/([a-z0-9]+)$/i.exec(path)) !== null) {
+    // /ap/naviContents/contentsViewInit/geppou/2008040700/20080407TKB009
+    result.rtype = 'REPORT';
+    result.mime = 'HTML';
+    result.unitid = match[1];
+
   } else if (/^\/ap\/registinfo\/init\/([a-z]+)\/([0-9]+)$/i.test(path)) {
-    // https://dcl.toyokeizai.net/ap/registinfo/init/gyoukai/2021082600
-    result.rtype    = 'TOC';
-    result.mime     = 'HTML';
+    // /ap/registinfo/init/gyoukai/2021082600
+    result.rtype = 'TOC';
+    result.mime = 'HTML';
+
   } else if (/^\/ap\/search_freeword$/i.test(path)) {
-    // https://dcl.toyokeizai.net/ap/search_freeword
-    result.rtype    = 'SEARCH';
-    result.mime     = 'HTML';
+    // /ap/search_freeword
+    result.rtype = 'SEARCH';
+    result.mime = 'HTML';
   }
 
   return result;
