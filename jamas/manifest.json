@@ -1,0 +1,13 @@
+{
+  "longname": "Jamas",
+  "name": "jamas",
+  "describe": "Recognizes the accesses to the platform Jamas",
+  "contact": "Anna Orben",
+  "pkb": false,
+  "docurl": "http://analyses.ezpaarse.org/platforms/62cc2057d1c0f448ca5509dc",
+  "domains": [
+    "search.jamas.or.jp"
+  ],
+  "version": "2022-07-26",
+  "status": "beta"
+}
