@@ -1,0 +1,13 @@
+{
+  "longname": "LawNet",
+  "name": "lawnet",
+  "describe": "Recognizes the accesses to the platform LawNet",
+  "contact": "Anna Orben",
+  "pkb": false,
+  "docurl": "http://analyses.ezpaarse.org/platforms/62d18f1502d833768d067e6e",
+  "domains": [
+    "www.lawnet.sg"
+  ],
+  "version": "2022-07-26",
+  "status": "beta"
+}
