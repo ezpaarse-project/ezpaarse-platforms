@@ -1,0 +1,13 @@
+{
+  "longname": "Bizboard",
+  "name": "bizboard",
+  "describe": "Recognizes the accesses to the platform Bizboard",
+  "contact": "Anna Orben",
+  "pkb": false,
+  "docurl": "http://analyses.ezpaarse.org/platforms/62cc279ef8c54169b30b544f",
+  "domains": [
+    "bizboard.nikkeibp.co.jp"
+  ],
+  "version": "2022-07-26",
+  "status": "beta"
+}
