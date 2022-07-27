@@ -16,13 +16,16 @@ module.exports = new Parser(function analyseEC(parsedUrl, ec) {
   // uncomment this line if you need parameters
   // let param = parsedUrl.query || {};
 
+  let match;
+
   // use console.error for debuging
   // console.error(parsedUrl);
 
-  if (/^\/ap\/naviContents\/contentsViewInit\/hitotsubashi\/([0-9]+)\/([a-z0-9]+)$/i.test(path)) {
+  if ((match = /^\/ap\/naviContents\/contentsViewInit\/hitotsubashi\/([0-9]+)\/([a-z0-9]+)$/i.exec(path)) !== null) {
     // https://dcl.toyokeizai.net/ap/naviContents/contentsViewInit/hitotsubashi/2021061800/20210618HTB013
     result.rtype    = 'BOOK';
     result.mime     = 'HTML';
+    result.unitid     = match[2];
   } else if (/^\/ap\/naviContents\/contentsViewInit\/geppou\/([0-9]+)\/([a-z0-9]+)$/i.test(path)) {
     // https://dcl.toyokeizai.net/ap/naviContents/contentsViewInit/geppou/2008040700/20080407TKB009
     result.rtype    = 'REPORT';
