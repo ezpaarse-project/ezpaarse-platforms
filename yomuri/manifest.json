@@ -1,0 +1,13 @@
+{
+  "longname": "Yomuri",
+  "name": "yomuri",
+  "describe": "Recognizes the accesses to the platform Yomuri",
+  "contact": "Anna Orben",
+  "pkb": false,
+  "docurl": "http://analyses.ezpaarse.org/platforms/62c58da5f00214450ca64188",
+  "domains": [
+    "database.yomiuri.co.jp"
+  ],
+  "version": "2022-07-26",
+  "status": "beta"
+}
