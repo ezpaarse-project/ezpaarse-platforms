@@ -1,0 +1,173 @@
+publication_title	print_identifier	online_identifier	date_first_issue_online	num_first_vol_online	num_first_issue_online	date_last_issue_online	num_last_vol_online	num_last_issue_online	title_url	first_author	title_id	embargo_info	coverage_depth	coverage_notes	publisher_name	publication_type	date_monograph_published_print	date_monograph_published_online	monograph_volume	monograph_edition	first_editor	parent_publication_title_id	preceding_publication_title_id	access_type	pkb-piddomain
+AlphaMed Press Online Journals									http://www.alphamedpress.org		www.alphamedpress.org				AlphaMed Press										www.alphamedpress.org
+The Oncologist CME Online									http://cme.alphamedpress.org		cme.alphamedpress.org				AlphaMed Press										cme.alphamedpress.org
+The Annals of Family Medicine									http://www.annfammed.org		www.annfammed.org				American Academy of Family Physicians										www.annfammed.org
+Neurology									http://n.neurology.org		n.neurology.org				Lippincott Williams & Wilkins										n.neurology.org
+Neurology:  Neuroimmunology & Neuroinflammation									http://nn.neurology.org		nn.neurology.org				Lippincott Williams & Wilkins										nn.neurology.org
+Neurology: Genetics									http://ng.neurology.org		ng.neurology.org				Lippincott Williams & Wilkins										ng.neurology.org
+Neurology: Clinical Practice									http://cp.neurology.org		cp.neurology.org				Lippincott Williams & Wilkins										cp.neurology.org
+AAP Grand Rounds									http://aapgrandrounds.aappublications.org		aapgrandrounds.aappublications.org				American Academy of Pediatrics										aapgrandrounds.aappublications.org
+AAP Online Journals									http://www.aappublications.org		www.aappublications.org				American Academy of Pediatrics										www.aappublications.org
+Hospital Pediatrics									http://hosppeds.aappublications.org		hosppeds.aappublications.org				American Academy of Pediatrics										hosppeds.aappublications.org
+NeoReviews									http://neoreviews.aappublications.org		neoreviews.aappublications.org				American Academy of Pediatrics										neoreviews.aappublications.org
+Pediatrics									http://pediatrics.aappublications.org		pediatrics.aappublications.org				American Academy of Pediatrics										pediatrics.aappublications.org
+Pediatrics in Review									http://pedsinreview.aappublications.org		pedsinreview.aappublications.org				American Academy of Pediatrics										pedsinreview.aappublications.org
+Journal of the American Academy of Psychiatry and the Law Online									http://jaapl.org		jaapl.org				American Academy of Psychiatry and the Law										jaapl.org
+American Association for Cancer Research Journals									http://www.aacrjournals.org		www.aacrjournals.org				American Association for Cancer Research										www.aacrjournals.org
+Blood Cancer Discovery									http://bloodcancerdiscov.aacrjournals.org		bloodcancerdiscov.aacrjournals.org				American Association for Cancer Research										bloodcancerdiscov.aacrjournals.org
+Cancer Discovery									http://cancerdiscovery.aacrjournals.org		cancerdiscovery.aacrjournals.org				American Association for Cancer Research										cancerdiscovery.aacrjournals.org
+Cancer Epidemiology Biomarkers & Prevention									http://cebp.aacrjournals.org		cebp.aacrjournals.org				American Association for Cancer Research										cebp.aacrjournals.org
+Cancer Immunology Research									http://cancerimmunolres.aacrjournals.org		cancerimmunolres.aacrjournals.org				American Association for Cancer Research										cancerimmunolres.aacrjournals.org
+Cancer Prevention Research									http://cancerpreventionresearch.aacrjournals.org		cancerpreventionresearch.aacrjournals.org				American Association for Cancer Research										cancerpreventionresearch.aacrjournals.org
+Cancer Research									http://cancerres.aacrjournals.org		cancerres.aacrjournals.org				American Association for Cancer Research										cancerres.aacrjournals.org
+Clinical Cancer Research									http://clincancerres.aacrjournals.org		clincancerres.aacrjournals.org				American Association for Cancer Research										clincancerres.aacrjournals.org
+Molecular Cancer Research									http://mcr.aacrjournals.org		mcr.aacrjournals.org				American Association for Cancer Research										mcr.aacrjournals.org
+Molecular Cancer Therapeutics									http://mct.aacrjournals.org		mct.aacrjournals.org				American Association for Cancer Research										mct.aacrjournals.org
+Respiratory Care									http://rc.rcjournal.com		rc.rcjournal.com				American Association for Respiratory Care										rc.rcjournal.com
+Science									http://science.sciencemag.org		science.sciencemag.org				American Association for the Advancement of Science										science.sciencemag.org
+Science Signaling									http://stke.sciencemag.org		stke.sciencemag.org				American Association for the Advancement of Science										stke.sciencemag.org
+Science Translational Medicine									http://stm.sciencemag.org		stm.sciencemag.org				American Association for the Advancement of Science										stm.sciencemag.org
+AACN Advanced Critical Care									http://acc.aacnjournals.org		acc.aacnjournals.org				American Association of Critical Care Nurses										acc.aacnjournals.org
+The Journal of Immunology									http://www.jimmunol.org		www.jimmunol.org				American Association of Immunologists										www.jimmunol.org
+The Journal of the American Board of Family Medicine									http://www.jabfm.org		www.jabfm.org				American Board of Family Medicine										www.jabfm.org
+Journal of Dental Hygiene									http://jdh.adha.org		jdh.adha.org				American Dental Hygienists' Association										jdh.adha.org
+American Diabetes Association Journals									http://diabetesjournals.org		diabetesjournals.org				American Diabetes Association										diabetesjournals.org
+Clinical Diabetes									http://clinical.diabetesjournals.org		clinical.diabetesjournals.org				American Diabetes Association										clinical.diabetesjournals.org
+Diabetes									http://diabetes.diabetesjournals.org		diabetes.diabetesjournals.org				American Diabetes Association										diabetes.diabetesjournals.org
+Diabetes Care									http://care.diabetesjournals.org		care.diabetesjournals.org				American Diabetes Association										care.diabetesjournals.org
+Diabetes Spectrum									http://spectrum.diabetesjournals.org		spectrum.diabetesjournals.org				American Diabetes Association										spectrum.diabetesjournals.org
+American Journal of Science									http://www.ajsonline.org		www.ajsonline.org				American Journal of Science										www.ajsonline.org
+American Journal of Enology and Viticulture									http://www.ajevonline.org		www.ajevonline.org				American Society for Enology and Viticulture										www.ajevonline.org
+American Society for Microbiology Journals									http://journals.asm.org		journals.asm.org				American Society for Microbiology										journals.asm.org
+ASPET Journals Online									http://www.aspetjournals.org		www.aspetjournals.org				American Society for Pharmacology and Experimental Therapeutics										www.aspetjournals.org
+Drug Metabolism and Disposition									http://dmd.aspetjournals.org		dmd.aspetjournals.org				American Society for Pharmacology and Experimental Therapeutics										dmd.aspetjournals.org
+Journal of Pharmacology and Experimental Therapeutics									http://jpet.aspetjournals.org		jpet.aspetjournals.org				American Society for Pharmacology and Experimental Therapeutics										jpet.aspetjournals.org
+Molecular Pharmacology									http://molpharm.aspetjournals.org		molpharm.aspetjournals.org				American Society for Pharmacology and Experimental Therapeutics										molpharm.aspetjournals.org
+Pharmacological Reviews									http://pharmrev.aspetjournals.org		pharmrev.aspetjournals.org				American Society for Pharmacology and Experimental Therapeutics										pharmrev.aspetjournals.org
+American Journal of Health-System Pharmacy									http://www.ajhp.org		www.ajhp.org				American Society of Health-System Pharmacists										www.ajhp.org
+Clinical Journal of the American Society of Nephrology									http://cjasn.asnjournals.org		cjasn.asnjournals.org				American Society of Nephrology										cjasn.asnjournals.org
+Journal of the American Society of Nephrology									http://jasn.asnjournals.org		jasn.asnjournals.org				American Society of Nephrology										jasn.asnjournals.org
+American Journal of Neuroradiology									http://www.ajnr.org		www.ajnr.org				American Society of Neuroradiology										www.ajnr.org
+Radiologic Technology									http://www.radiologictechnology.org		www.radiologictechnology.org				American Society of Radiologic Technologists										www.radiologictechnology.org
+Annals of Clinical & Laboratory Science									http://www.annclinlabsci.org		www.annclinlabsci.org				Association of Clinical Scientists										www.annclinlabsci.org
+Annals of the Rheumatic Diseases									http://ard.bmj.com		ard.bmj.com				BMJ Publishing Group Ltd										ard.bmj.com
+Archives of Disease in Childhood									http://adc.bmj.com		adc.bmj.com				BMJ Publishing Group Ltd										adc.bmj.com
+Archives of Disease in Childhood - Education and Practice									http://ep.bmj.com		ep.bmj.com				BMJ Publishing Group Ltd										ep.bmj.com
+Archives of Disease in Childhood - Fetal and Neonatal Edition									http://fn.bmj.com		fn.bmj.com				BMJ Publishing Group Ltd										fn.bmj.com
+BMJ									http://www.bmj.com		www.bmj.com				BMJ Publishing Group Ltd										www.bmj.com
+BMJ Case Reports									http://casereports.bmj.com		casereports.bmj.com				BMJ Publishing Group Ltd										casereports.bmj.com
+BMJ Evidence-Based Medicine									http://ebm.bmj.com		ebm.bmj.com				BMJ Publishing Group Ltd										ebm.bmj.com
+BMJ Military Health									http://militaryhealth.bmj.com		militaryhealth.bmj.com				BMJ Publishing Group Ltd										militaryhealth.bmj.com
+BMJ Open									http://bmjopen.bmj.com		bmjopen.bmj.com				BMJ Publishing Group Ltd										bmjopen.bmj.com
+BMJ Open Sport & Exercise Medicine									http://bmjopensem.bmj.com		bmjopensem.bmj.com				BMJ Publishing Group Ltd										bmjopensem.bmj.com
+BMJ Quality & Safety									http://qualitysafety.bmj.com		qualitysafety.bmj.com				BMJ Publishing Group Ltd										qualitysafety.bmj.com
+BMJ Sexual & Reproductive Health									http://jfprhc.bmj.com		jfprhc.bmj.com				BMJ Publishing Group Ltd										jfprhc.bmj.com
+BMJ Specialist Journals									http://journals.bmj.com		journals.bmj.com				BMJ Publishing Group Ltd										journals.bmj.com
+BMJ Supportive & Palliative Care									http://spcare.bmj.com		spcare.bmj.com				BMJ Publishing Group Ltd										spcare.bmj.com
+British Journal of Ophthalmology									http://bjo.bmj.com		bjo.bmj.com				BMJ Publishing Group Ltd										bjo.bmj.com
+British Journal of Sports Medicine									http://bjsm.bmj.com		bjsm.bmj.com				BMJ Publishing Group Ltd										bjsm.bmj.com
+DTB - Drug and Therapeutics Bulletin									http://dtb.bmj.com		dtb.bmj.com				BMJ Publishing Group Ltd										dtb.bmj.com
+Emergency Medicine Journal									http://emj.bmj.com		emj.bmj.com				BMJ Publishing Group Ltd										emj.bmj.com
+European Journal of Hospital Pharmacy									http://ejhp.bmj.com		ejhp.bmj.com				BMJ Publishing Group Ltd										ejhp.bmj.com
+Evidence-Based Mental Health									http://ebmh.bmj.com		ebmh.bmj.com				Royal College of Psychiatrists										ebmh.bmj.com
+Evidence-Based Nursing									http://ebn.bmj.com		ebn.bmj.com				Royal College of Nursing										ebn.bmj.com
+Frontline Gastroenterology									http://fg.bmj.com		fg.bmj.com				BMJ Publishing Group Ltd										fg.bmj.com
+Gut									http://gut.bmj.com		gut.bmj.com				BMJ Publishing Group Ltd										gut.bmj.com
+Heart									http://heart.bmj.com		heart.bmj.com				BMJ Publishing Group Ltd										heart.bmj.com
+Heart Asia									http://heartasia.bmj.com		heartasia.bmj.com				BMJ Publishing Group Ltd										heartasia.bmj.com
+Injury Prevention									http://injuryprevention.bmj.com		injuryprevention.bmj.com				BMJ Publishing Group Ltd										injuryprevention.bmj.com
+Journal of Clinical Pathology									http://jcp.bmj.com		jcp.bmj.com				BMJ Publishing Group Ltd										jcp.bmj.com
+Journal of Epidemiology & Community Health									http://jech.bmj.com		jech.bmj.com				BMJ Publishing Group Ltd										jech.bmj.com
+Journal of Investigative Medicine									http://jim.bmj.com		jim.bmj.com				BMJ Publishing Group Ltd										jim.bmj.com
+Journal of Medical Ethics									http://jme.bmj.com		jme.bmj.com				BMJ Publishing Group Ltd										jme.bmj.com
+Journal of Medical Genetics									http://jmg.bmj.com		jmg.bmj.com				BMJ Publishing Group Ltd										jmg.bmj.com
+Journal of NeuroInterventional Surgery									http://jnis.bmj.com		jnis.bmj.com				BMJ Publishing Group Ltd										jnis.bmj.com
+Journal of Neurology, Neurosurgery & Psychiatry									http://jnnp.bmj.com		jnnp.bmj.com				BMJ Publishing Group Ltd										jnnp.bmj.com
+Medical Humanities									http://mh.bmj.com		mh.bmj.com				BMJ Publishing Group Ltd										mh.bmj.com
+Molecular Pathology									http://mp.bmj.com		mp.bmj.com				BMJ Publishing Group Ltd										mp.bmj.com
+Occupational and Environmental Medicine									http://oem.bmj.com		oem.bmj.com				BMJ Publishing Group Ltd										oem.bmj.com
+Postgraduate Medical Journal									http://pmj.bmj.com		pmj.bmj.com				BMJ Publishing Group Ltd										pmj.bmj.com
+Practical Neurology									http://pn.bmj.com		pn.bmj.com				BMJ Publishing Group Ltd										pn.bmj.com
+Sexually Transmitted Infections									http://sti.bmj.com		sti.bmj.com				BMJ Publishing Group Ltd										sti.bmj.com
+Stroke and Vascular Neurology									http://svn.bmj.com		svn.bmj.com				BMJ Publishing Group Ltd										svn.bmj.com
+Thorax									http://thorax.bmj.com		thorax.bmj.com				BMJ Publishing Group Ltd										thorax.bmj.com
+Tobacco Control									http://tobaccocontrol.bmj.com		tobaccocontrol.bmj.com				BMJ Publishing Group Ltd										tobaccocontrol.bmj.com
+Canadian Journal of Surgery									http://canjsurg.ca		canjsurg.ca				Canadian Medical Association										canjsurg.ca
+Canadian Medical Association Journal									http://www.cmaj.ca		www.cmaj.ca				Canadian Medical Association										www.cmaj.ca
+Journal of Psychiatry and Neuroscience									http://jpn.ca		jpn.ca				Canadian Medical Association										jpn.ca
+Cold Spring Harbor Molecular Case Studies									http://molecularcasestudies.cshlp.org		molecularcasestudies.cshlp.org				Cold Spring Harbor Laboratory Press										molecularcasestudies.cshlp.org
+Cold Spring Harbor Perspectives in Biology									http://cshperspectives.cshlp.org		cshperspectives.cshlp.org				Cold Spring Harbor Laboratory Press										cshperspectives.cshlp.org
+Cold Spring Harbor Perspectives in Medicine									http://perspectivesinmedicine.cshlp.org		perspectivesinmedicine.cshlp.org				Cold Spring Harbor Laboratory Press										perspectivesinmedicine.cshlp.org
+Cold Spring Harbor Protocols									http://cshprotocols.cshlp.org		cshprotocols.cshlp.org				Cold Spring Harbor Laboratory Press										cshprotocols.cshlp.org
+Cold Spring Harbor Symposia on Quantitative Biology									http://symposium.cshlp.org		symposium.cshlp.org				Cold Spring Harbor Laboratory Press										symposium.cshlp.org
+Genes & Development									http://genesdev.cshlp.org		genesdev.cshlp.org				Cold Spring Harbor Laboratory Press										genesdev.cshlp.org
+Genome Research									http://genome.cshlp.org		genome.cshlp.org				Cold Spring Harbor Laboratory Press										genome.cshlp.org
+Learning & Memory									http://learnmem.cshlp.org		learnmem.cshlp.org				Cold Spring Harbor Laboratory Press										learnmem.cshlp.org
+medRxiv									http://medrxiv.org		medrxiv.org				Cold Spring Harbor Laboratory Press										medrxiv.org
+RNA									http://rnajournal.cshlp.org		rnajournal.cshlp.org				Cold Spring Harbor Laboratory Press										rnajournal.cshlp.org
+Breathe									http://breathe.ersjournals.com		breathe.ersjournals.com				European Respiratory Society										breathe.ersjournals.com
+European Respiratory Journal									http://erj.ersjournals.com		erj.ersjournals.com				European Respiratory Society										erj.ersjournals.com
+ERS Monograph									http://books.ersjournals.com/		books.ersjournals.com				European Respiratory Society										books.ersjournals.com
+European Respiratory Review									http://err.ersjournals.com		err.ersjournals.com				European Respiratory Society										err.ersjournals.com
+European Respiratory Society Journals									http://www.ersjournals.com		www.ersjournals.com				European Respiratory Society										www.ersjournals.com
+Haematologica									http://www.haematologica.org		www.haematologica.org				Ferrata Storti Foundation										www.haematologica.org
+G3: Genes|Genomes|Genetics									http://www.g3journal.org		www.g3journal.org				Genetics Society of America										www.g3journal.org
+Genetics									http://www.genetics.org		www.genetics.org				Genetics Society of America										www.genetics.org
+Geochemistry: Exploration, Environment, Analysis									http://geea.lyellcollection.org		geea.lyellcollection.org				Geological Society of London										geea.lyellcollection.org
+Geological Society, London, Engineering Geology Special Publications									http://egsp.lyellcollection.org		egsp.lyellcollection.org				Geological Society of London										egsp.lyellcollection.org
+Geological Society, London, Memoirs									http://mem.lyellcollection.org		mem.lyellcollection.org				Geological Society of London										mem.lyellcollection.org
+Geological Society, London, Petroleum Geology Conference series									http://pgc.lyellcollection.org		pgc.lyellcollection.org				Geological Society of London										pgc.lyellcollection.org
+Geological Society, London, Special Publications									http://sp.lyellcollection.org		sp.lyellcollection.org				Geological Society of London										sp.lyellcollection.org
+Journal of Micropalaeontology									http://jm.lyellcollection.org		jm.lyellcollection.org				The Micropalaeontological Society										jm.lyellcollection.org
+Journal of the Geological Society									http://jgs.lyellcollection.org		jgs.lyellcollection.org				Geological Society of London										jgs.lyellcollection.org
+Lyell Collection: Geological Society Publications Online									http://www.lyellcollection.org		www.lyellcollection.org				Geological Society of London										www.lyellcollection.org
+Petroleum Geoscience									http://pg.lyellcollection.org		pg.lyellcollection.org				Geological Society of London										pg.lyellcollection.org
+Proceedings of the Yorkshire Geological Society									http://pygs.lyellcollection.org		pygs.lyellcollection.org				Geological Society of London										pygs.lyellcollection.org
+Quarterly Journal of Engineering Geology and Hydrogeology									http://qjegh.lyellcollection.org		qjegh.lyellcollection.org				Geological Society of London										qjegh.lyellcollection.org
+Demo Journal of Physical Therapy News									http://demo.highwire.org/news		demo.highwire.org				HighWire Press										demo.highwire.org
+NAVIGATION: Journal of the Institute of Navigation									https://navi.ion.org		navi.ion.org				Institute of Navigation										navi.ion.org
+Turnaround Management									http://guides.pm-research.com		guides.pm-research.com				Institutional Investor Journals										guides.pm-research.com
+Practical Applications									http://pa.pm-research.com		pa.pm-research.com				Institutional Investor Journals										pa.pm-research.com
+The Journal of Alternative Investments									http://jai.pm-research.com		jai.pm-research.com				Institutional Investor Journals										jai.pm-research.com
+The Journal of Beta Investment Strategies									http://jii.pm-research.com		jii.pm-research.com				Institutional Investor Journals										jii.pm-research.com
+The Journal of Derivatives									http://jod.pm-research.com		jod.pm-research.com				Institutional Investor Journals										jod.pm-research.com
+The Journal of Fixed Income									http://jfi.pm-research.com		jfi.pm-research.com				Institutional Investor Journals										jfi.pm-research.com
+The Journal of Investing									http://joi.pm-research.com		joi.pm-research.com				Institutional Investor Journals										joi.pm-research.com
+The Journal of Portfolio Management									http://jpm.pm-research.com		jpm.pm-research.com				Institutional Investor Journals										jpm.pm-research.com
+The Journal of Private Equity									http://jpe.pm-research.com		jpe.pm-research.com				Institutional Investor Journals										jpe.pm-research.com
+The Journal of Retirement									http://jor.pm-research.com		jor.pm-research.com				Institutional Investor Journals										jor.pm-research.com
+The Journal of Structured Finance									http://jsf.pm-research.com		jsf.pm-research.com				Institutional Investor Journals										jsf.pm-research.com
+The Journal of Trading									http://jot.pm-research.com		jot.pm-research.com				Institutional Investor Journals										jot.pm-research.com
+The Journal of Wealth Management									http://jwm.pm-research.com		jwm.pm-research.com				Institutional Investor Journals										jwm.pm-research.com
+Anticancer Research									http://ar.iiarjournals.org		ar.iiarjournals.org				International Institute of Anticancer Research										ar.iiarjournals.org
+Cancer Genomics & Proteomics									http://cgp.iiarjournals.org		cgp.iiarjournals.org				International Institute of Anticancer Research										cgp.iiarjournals.org
+In Vivo									http://iv.iiarjournals.org		iv.iiarjournals.org				International Institute of Anticancer Research										iv.iiarjournals.org
+Global Health: Science and Practice									http://www.ghspjournal.org		www.ghspjournal.org				Johns Hopkins Center for Communication Programs										www.ghspjournal.org
+Neurology Online CME									http://aancme.highwire.org		aancme.highwire.org				Lippincott Williams & Wilkins										aancme.highwire.org
+Clinical Medicine & Research									http://www.clinmedres.org		www.clinmedres.org				Marshfield Clinic										www.clinmedres.org
+PNAS									http://www.pnas.org		www.pnas.org				National Academy of Sciences										www.pnas.org
+North Carolina Medical Journal									http://www.ncmedicaljournal.com		www.ncmedicaljournal.com				North Carolina Institute of Medicine										www.ncmedicaljournal.com
+Ochsner Journal									http://www.ochsnerjournal.org		www.ochsnerjournal.org				Ochsner Journal										www.ochsnerjournal.org
+PDA Journal of Pharmaceutical Science and Technology									http://journal.pda.org		journal.pda.org				Parenteral Drug Association (PDA)										journal.pda.org
+British Journal of General Practice									http://bjgp.org		bjgp.org				Royal College of General Practitioners										bjgp.org
+Clinical Medicine									http://www.rcpjournals.org		www.rcpjournals.org				Royal College of Physicians										www.rcpjournals.org
+Journal of the Royal College of Physicians									http://www.clinmed.rcpjournal.org		www.clinmed.rcpjournal.org				Royal College of Physicians										www.clinmed.rcpjournal.org
+jneuro Admincenter									http://admincenter.jneurosci.org		admincenter.jneurosci.org				Society for Neuroscience										admincenter.jneurosci.org
+Journal of Neuroscience									http://www.jneurosci.org		www.jneurosci.org				Society for Neuroscience										www.jneurosci.org
+Journal of Nuclear Medicine									http://jnm.snmjournals.org		jnm.snmjournals.org				Society of Nuclear Medicine										jnm.snmjournals.org
+Journal of Nuclear Medicine Technology									http://tech.snmjournals.org		tech.snmjournals.org				Society of Nuclear Medicine										tech.snmjournals.org
+Journals of the Society of Nuclear Medicine									http://www.snmjournals.org		www.snmjournals.org				Society of Nuclear Medicine										www.snmjournals.org
+Journal of Soil and Water Conservation									http://www.jswconline.org		www.jswconline.org				Soil and Water Conservation Society										www.jswconline.org
+Telos									http://journal.telospress.com		journal.telospress.com				Telos Press										journal.telospress.com
+Canadian Family Physician									http://www.cfp.ca		www.cfp.ca				The College of Family Physicians of Canada										www.cfp.ca
+The Journal of Rheumatology									http://www.jrheum.org		www.jrheum.org				The Journal of Rheumatology										www.jrheum.org
+African Economic History									http://www.aeh.uwpress.org		www.aeh.uwpress.org				University of Wisconsin Press										www.aeh.uwpress.org
+Arctic Anthropology									http://aa.uwpress.org		aa.uwpress.org				University of Wisconsin Press										aa.uwpress.org
+Contemporary Literature									http://cl.uwpress.org		cl.uwpress.org				University of Wisconsin Press										cl.uwpress.org
+Ecological Restoration									http://er.uwpress.org		er.uwpress.org				University of Wisconsin Press										er.uwpress.org
+History of Pharmacy and Pharmaceuticals									http://hopp.uwpress.org		hopp.uwpress.org				University of Wisconsin Press										hopp.uwpress.org
+Journal of Human Resources									http://jhr.uwpress.org		jhr.uwpress.org				University of Wisconsin Press										jhr.uwpress.org
+Land Economics									http://le.uwpress.org		le.uwpress.org				University of Wisconsin Press										le.uwpress.org
+Landscape Journal									http://lj.uwpress.org		lj.uwpress.org				University of Wisconsin Press										lj.uwpress.org
+Luso-Brazilian Review									http://lbr.uwpress.org		lbr.uwpress.org				University of Wisconsin Press										lbr.uwpress.org
+Monatshefte									http://mon.uwpress.org		mon.uwpress.org				University of Wisconsin Press										mon.uwpress.org
