@@ -6,7 +6,9 @@
   "pkb": false,
   "docurl": "http://analyses.ezpaarse.org/platforms/62aa367d6795bd781f63234a",
   "domains": [
-    "t21.nikkei.co.jp"
+    "t21.nikkei.co.jp",
+    "t21s.nikkei.co.jp",
+    "t21ipau.nikkei.co.jp"
   ],
   "version": "2022-07-25",
   "status": "beta"
