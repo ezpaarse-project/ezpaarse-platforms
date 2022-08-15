@@ -6,7 +6,8 @@
   "pkb": false,
   "docurl": "http://analyses.ezpaarse.org/platforms/62c6dfaac5bc8924babb1550",
   "domains": [
-    "database.asahi.com"
+    "database.asahi.com",
+    "xsearch.asahi.com"
   ],
   "version": "2022-07-26",
   "status": "beta"
