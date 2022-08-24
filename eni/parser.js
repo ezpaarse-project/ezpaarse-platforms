@@ -23,26 +23,26 @@ module.exports = new Parser(function analyseEC(parsedUrl, ec) {
     if (param.idM || param.idm) result.unitid = param.idM || param.idm;
 
     switch (match[2]) {
-      case 'mediabook':
-      case 'get_Resource':
-        result.rtype = 'BOOK_SECTION';
-        result.mime = 'HTML';
-        break;
+    case 'mediabook':
+    case 'get_Resource':
+      result.rtype = 'BOOK_SECTION';
+      result.mime = 'HTML';
+      break;
 
-      case 'video':
-        result.rtype = 'TOC';
-        result.mime = 'MISC';
-        break;
+    case 'video':
+      result.rtype = 'TOC';
+      result.mime = 'MISC';
+      break;
 
-      case 'get_PlayList':
-        result.rtype = 'VIDEO';
-        result.mime = 'MISC';
-        break;
+    case 'get_PlayList':
+      result.rtype = 'VIDEO';
+      result.mime = 'MISC';
+      break;
 
-      case 'pdfexport':
-        result.rtype = 'BOOK_SECTION';
-        result.mime = 'PDF';
-        break;
+    case 'pdfexport':
+      result.rtype = 'BOOK_SECTION';
+      result.mime = 'PDF';
+      break;
     }
   } else if (/^\/portal\/api\/Mediabook\/GetPage\/$/i.test(path)) {
     // /portal/api/Mediabook/GetPage/
