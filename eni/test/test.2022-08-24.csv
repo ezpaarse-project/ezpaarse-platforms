@@ -1,0 +1,5 @@
+out-unitid;out-rtype;out-mime;in-url
+;BOOK_SECTION;HTML;https://www-eni-training-com/portal/api/Mediabook/GetPage/
+;VIDEO;MISC;https://www-eni-training-com/portal/api/Video/GetVideo/
+;BOOK;HTML;https://www-eni-training-com/portal/api/Mediabook/GetMediabook/
+;SEARCH;HTML;https://www-eni-training-com/portal/api/Filter/GetResults/

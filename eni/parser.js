@@ -12,8 +12,8 @@ const Parser = require('../.lib/parser.js');
  */
 module.exports = new Parser(function analyseEC(parsedUrl, ec) {
   let result = {};
-  let path   = parsedUrl.pathname;
-  let param  = parsedUrl.query || {};
+  let path = parsedUrl.pathname;
+  let param = parsedUrl.query || {};
   let match;
 
   if ((match = /^\/([a-z_]+)\/([a-z_]+).aspx$/i.exec(path)) !== null) {
@@ -26,25 +26,47 @@ module.exports = new Parser(function analyseEC(parsedUrl, ec) {
     case 'mediabook':
     case 'get_Resource':
       result.rtype = 'BOOK_SECTION';
-      result.mime  = 'HTML';
+      result.mime = 'HTML';
       break;
 
     case 'video':
       result.rtype = 'TOC';
-      result.mime  = 'MISC';
+      result.mime = 'MISC';
       break;
 
     case 'get_PlayList':
       result.rtype = 'VIDEO';
-      result.mime  = 'MISC';
+      result.mime = 'MISC';
       break;
 
     case 'pdfexport':
       result.rtype = 'BOOK_SECTION';
-      result.mime  = 'PDF';
+      result.mime = 'PDF';
       break;
     }
+  } else if (/^\/portal\/api\/Mediabook\/GetPage\/$/i.test(path)) {
+    // /portal/api/Mediabook/GetPage/
+    result.rtype = 'BOOK_SECTION';
+    result.mime = 'HTML';
+
+  } else if (/^\/portal\/api\/Video\/GetVideo\/$/i.test(path)) {
+    // /portal/api/Video/GetVideo/
+    result.rtype = 'VIDEO';
+    result.mime = 'MISC';
+
+  } else if (/^\/portal\/api\/Mediabook\/GetMediabook\/$/i.test(path)) {
+    // //portal/api/Mediabook/GetMediabook/
+    result.rtype = 'BOOK';
+    result.mime = 'HTML';
+
+  } else if (/^\/portal\/api\/Filter\/GetResults\/$/i.test(path)) {
+    // /portal/api/Filter/GetResults/
+    result.rtype = 'SEARCH';
+    result.mime = 'HTML';
+
   }
+
+
 
   return result;
 });
