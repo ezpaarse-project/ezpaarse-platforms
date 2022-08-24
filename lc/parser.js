@@ -52,8 +52,6 @@ module.exports = new Parser(function analyseEC(parsedUrl, ec) {
     // /doi/epdf/10.1144/jmpaleo2016-001
     // /doi/epub/10.1144/jmpaleo2016-001
 
-    console.log(match[1]);
-
     switch (match[1]) {
     case 'epub':
       result.rtype = 'ARTICLE';
