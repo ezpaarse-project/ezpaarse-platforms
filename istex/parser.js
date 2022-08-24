@@ -23,7 +23,9 @@ module.exports = new Parser(function analyseEC(parsedUrl, ec) {
   }
 
   if (param.q || param.q_id) {
-    const size = Number.parseInt(param.size, 10);
+    let size = Number.parseInt(param.size, 10);
+
+    if (Number.isNaN(size)) { size = 5; } // Default bundle size
     if (size === 0) { return {}; }
 
     if (param.extract) {
