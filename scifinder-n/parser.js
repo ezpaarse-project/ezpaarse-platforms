@@ -25,7 +25,10 @@ module.exports = new Parser(function analyseEC(parsedUrl, ec) {
     // /patent-viewer?docuri=GJoLFx0bLO-a_GyaL7MHTYpl8aazAECgsmSPAZOPIV0&markedFullTextKey=SYeWXFqEw3zJf9Qbd6ptMHTr_8tHXOoyQjKpgh0wLQw.pdf&fullTextKey=foF0RdkcUQqkpVPmwhRpTRBi3P6KtQhu81hFT4UP8-w.pdf
     result.rtype = 'FULL_TEXT_USE';
     result.mime = 'HTML';
-    result.unitid = param.fullTextKey.split('.')[0];
+    
+    if (typeof param.fullTextKey === 'string') {
+      result.unitid = param.fullTextKey.split('.')[0];
+    }
 
   } else if ((match = /^\/pdf\/v1\/[a-z0-9_-]+\/[a-z0-9_-]+\/([a-z0-9_-]+)\.pdf$/i.exec(path)) !== null) {
     // /pdf/v1/AUTH_5060d187888f42fe97a1589aed05c6d6/full-patentpak-fulltext-12/foF0RdkcUQqkpVPmwhRpTRBi3P6KtQhu81hFT4UP8-w.pdf?temp_url_sig=b252dd9d88dd837f400562fe75371eb23d310aa0&temp_url_expires=1656076506&inline
