@@ -25,13 +25,12 @@ module.exports = new Parser(function analyseEC(parsedUrl, ec) {
   if (param.q || param.q_id) {
     let size = Number.parseInt(param.size, 10);
 
-    if (Number.isNaN(size)) { size = 5; } // Default bundle size
     if (size === 0) { return {}; }
 
     if (param.extract) {
       result.rtype = 'ISTEXDL_BUNDLE';
       result.mime = 'ZIP';
-      result.istex_bundle_size = size;
+      result.istex_bundle_size = Number.isNaN(size) ? 5 : size; // Default bundle size
     } else if (sid === 'istex-dl') {
       // Queries from istex-dl without "extract" should be ignored
       return {};
