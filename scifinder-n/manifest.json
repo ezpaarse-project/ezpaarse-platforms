@@ -1,0 +1,13 @@
+{
+  "longname": "Scifinder-n",
+  "name": "scifinder-n",
+  "describe": "Recognizes the accesses to the platform Scifinder-n",
+  "contact": "Frederic Truong inist, nojhamster",
+  "pkb": false,
+  "docurl": "http://analyses.ezpaarse.org/platforms/62b5b03d3a8e8a799ae77fc8",
+  "domains": [
+    "scifinder-n.cas.org"
+  ],
+  "version": "2022-08-24",
+  "status": "beta"
+}
