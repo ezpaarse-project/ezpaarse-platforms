@@ -47,7 +47,7 @@ module.exports = new Parser(function analyseEC(parsedUrl, ec) {
       break;
 
     case 'references':
-      result.rtype = 'REF';
+      result.rtype = 'RECORD_VIEW';
       result.mime  = 'HTML';
       break;
 

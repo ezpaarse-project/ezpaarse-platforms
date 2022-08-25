@@ -43,12 +43,12 @@ module.exports = new Parser(function analyseEC(parsedUrl, ec) {
     result.unitid = match[1];
   } else if ((match = /^\/article\/full\/opr\/([a-z0-9]+)\/([a-z0-9]+)\/images\/([a-z0-9.]+).jpg$/i.exec(path)) !== null) {
     // /article/full/opr/t243/e4/images/9780195175929.ablution.1.jpg
-    result.rtype  = 'REF';
+    result.rtype  = 'RECORD_VIEW';
     result.mime   = 'HTML';
     result.unitid = match[3];
   } else if ((match = /^\/article\/full\/book\/([a-z0-9-]+)\/([a-z0-9-]+)\/images\/([a-z0-9-]+)$/i.exec(path)) !== null) {
     // /article/full/book/islam-9780195107999/islam-9780195107999-div1-5/images/islam-9780195107999-figureGroup-11
-    result.rtype  = 'REF';
+    result.rtype  = 'RECORD_VIEW';
     result.mime   = 'HTML';
     result.unitid = match[3];
   }

@@ -45,7 +45,7 @@ module.exports = new Parser(function analyseEC(parsedUrl, ec) {
     // http://book.duxiu.com:80/StdDetail.jsp?dxid=320150885025&d=4E5400CB12C210379C0120228B11B8BD
     // http://jour.duxiu.com:80/thesisDetail.jsp?dxNumber=390102513141&d=C90969D30D1392AC1689F64A75418331
     // http://book.duxiu.com:80/videoDetail.jsp?dxid=163803630969&d=9D8F4B491F23F40CC4FB78A9FD84C68D
-      result.rtype    = 'REF';
+      result.rtype    = 'RECORD_VIEW';
       result.mime     = 'HTML';
       result.title_id = param.dxNumber || param.dxid || param.sw;
       result.unitid   = param.d;

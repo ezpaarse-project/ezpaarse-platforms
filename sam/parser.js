@@ -28,7 +28,7 @@ module.exports = new Parser(function analyseEC(parsedUrl) {
     result.unitid = match[3];
   } else if ((match = /^\/handle\/([0-9]+\/[0-9]+)$/.exec(path)) !== null) {
   // https://sam.ensam.eu/handle/10985/10188
-    result.rtype = 'REF';
+    result.rtype = 'RECORD_VIEW';
     result.mime  = 'HTML';
     result.title_id = match[1];
     result.unitid = match[1];

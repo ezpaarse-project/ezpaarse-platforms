@@ -42,7 +42,7 @@ module.exports = new Parser(function analyseEC(parsedUrl) {
 
     } else if (param.vue === 'biblio') {
       // /revue/crimino/2013/v46/n1/1015292ar.html?vue=biblio&mode=restriction
-      result.rtype = 'REF';
+      result.rtype = 'RECORD_VIEW';
       result.mime  = 'HTML';
 
     } else if (match[7] === 'pdf') {

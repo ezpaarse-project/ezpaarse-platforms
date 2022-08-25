@@ -49,7 +49,7 @@ module.exports = new Parser(function analyseEC(parsedUrl, ec) {
     // /bibliographic-document/3528/pdf
 
     result.unitid = match[1];
-    result.rtype = 'REF';
+    result.rtype = 'RECORD_VIEW';
     result.mime = 'MISC';
 
     if (match[3] && match[3] === 'pdf') {

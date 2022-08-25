@@ -37,7 +37,7 @@ module.exports = new Parser(function analyseEC(parsedUrl, ec) {
       result.rtype = 'ARTICLE';
       result.mime  = 'PDF';
     } else if (match[2] === 'references') {
-      result.rtype = 'REF';
+      result.rtype = 'RECORD_VIEW';
       result.mime  = 'HTML';
     }
     result.pii      = match[1];

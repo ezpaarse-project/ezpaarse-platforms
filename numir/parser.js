@@ -26,7 +26,7 @@ module.exports = new Parser(function analyseEC(parsedUrl, ec) {
     }
   } else if (/^\/articles\/bibtex.php$/i.test(path)) {
     // http://www.numir.org/articles/bibtex.php?id=AMAS_1999_136
-    result.rtype = 'REF';
+    result.rtype = 'RECORD_VIEW';
     result.mime  = 'BIBTEX';
     if (param && param.id) {
       result.title_id         = param.id.split('_')[0];

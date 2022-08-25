@@ -44,7 +44,7 @@ module.exports = new Parser(function analyseEC(parsedUrl, ec) {
     // http://materials.springer.com/citation/download/endnote/ads000340/adsorption
     // http://materials.springer.com/citation/download/ris/ads000340/adsorption
 
-    result.rtype    = 'REF';
+    result.rtype    = 'RECORD_VIEW';
     result.unitid   = `${match[2]}.${match[1]}`;
     result.title_id = `${match[2]}.${match[1]}`;
 

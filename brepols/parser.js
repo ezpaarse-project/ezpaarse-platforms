@@ -27,7 +27,7 @@ module.exports = new Parser(function analyseEC(parsedUrl, ec) {
   if ((match = /^\/([a-z]+)\/search.cfm$/.exec(path)) !== null) {
     // http://apps.brepolis.net/bmb/search.cfm?action=search_simple_detail_single&startrow=1&
     // endrow=1&search_order=year_desc&FULL_TEXT=chateau&SOURCE=IMB%20OR%20BCM&search_selection=
-    result.rtype    = 'REF';
+    result.rtype    = 'RECORD_VIEW';
     result.mime     = 'HTML';
     result.title_id = match[1];
     result.unitid=match[1];

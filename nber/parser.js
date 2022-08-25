@@ -17,7 +17,7 @@ module.exports = new Parser(function analyseEC(parsedUrl, ec) {
 
   if ((match = /^\/([a-z]+)\/([a-z0-9]+)$/i.exec(path)) !== null) {
     // http://www.nber.org/papers/w20518
-    result.rtype  = 'REF';
+    result.rtype  = 'RECORD_VIEW';
     result.mime   = 'HTML';
     result.unitid = match[2];
 

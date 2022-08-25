@@ -69,12 +69,12 @@ module.exports = new Parser(function analyseEC(parsedUrl, ec) {
     result.title_id = match[2];
   } else if ((match = /^\/practice-resources/i.exec(path)) !== null) {
     //  https://www.acponline.org:443/practice-resources/
-    result.rtype    = 'REF';
+    result.rtype    = 'RECORD_VIEW';
     result.mime     = 'HTML';
   } else if (hostname === 'advocacyblog.acponline.org') {
     // http://advocacyblog.acponline.org:80/2017/08/
     if ((match = /([0-9]+\/[0-9]+)/.exec(path)) !== null) {
-      result.rtype    = 'REF';
+      result.rtype    = 'RECORD_VIEW';
       result.mime     = 'HTML';
       result.title_id = match[1];
     }

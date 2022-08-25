@@ -58,7 +58,7 @@ module.exports = new Parser(function analyseEC(parsedUrl, ec) {
     result.unitid   = match[6];
   } else if ((match = /^\/page\/([a-zA-Z0-9-]+)$/i.exec(path)) !== null) {
     // https://www.jgme.org:443/page/medical-education-papers-worth-reading
-    result.rtype    = 'REF';
+    result.rtype    = 'RECORD_VIEW';
     result.mime     = 'HTML';
     result.title_id = match[1];
     result.unitid   = match[1];

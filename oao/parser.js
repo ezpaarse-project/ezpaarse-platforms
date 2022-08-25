@@ -39,7 +39,7 @@ module.exports = new Parser(function analyseEC(parsedUrl, ec) {
     // Benezit
     // http://www.oxfordartonline.com/subscriber/article/benezit/B00088821
     // http://www.oxfordartonline.com/subscriber/article_citations/benezit/B00052634?q=donatello&search=quick&source=oao_benz&pos=1&_start=1
-    result.rtype    = (match[1] === 'article') ? 'ARTICLE' : 'REF';
+    result.rtype    = (match[1] === 'article') ? 'ARTICLE' : 'RECORD_VIEW';
     result.mime     = 'HTML';
     result.title_id = 'benezit';
     result.unitid   = match[2];

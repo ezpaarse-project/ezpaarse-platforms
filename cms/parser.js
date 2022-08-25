@@ -69,30 +69,30 @@ module.exports = new Parser(function analyseEC(parsedUrl, ec) {
     result.mime     = 'HTML';
   } else if ((match = /^\/(tools_citationguide).html$/i.exec(path)) !== null) {
     // http://www.chicagomanualofstyle.org:80/tools_citationguide.html
-    result.rtype    = 'REF';
+    result.rtype    = 'RECORD_VIEW';
     result.mime     = 'HTML';
     result.title_id = match[1];
   } else if ((match = /^\/((tools_citationguide)\/(.*)).html$/i.exec(path)) !== null) {
     // http://www.chicagomanualofstyle.org:80/tools_citationguide/citation-guide-2.html
-    result.rtype    = 'REF';
+    result.rtype    = 'RECORD_VIEW';
     result.mime     = 'HTML';
     result.title_id = match[2];
     result.unitid   = match[1];
   } else if ((match = /^\/((qanda)\/(latest)).html$/i.exec(path)) !== null) {
     // http://www.chicagomanualofstyle.org:80/qanda/latest.html
-    result.rtype    = 'REF';
+    result.rtype    = 'RECORD_VIEW';
     result.mime     = 'HTML';
     result.title_id = match[2];
     result.unitid   = match[1];
   } else if ((match = /^\/((qanda)\/(.*)).html$/i.exec(path)) !== null) {
     // http://www.chicagomanualofstyle.org:80/qanda/data/faq/topics/LessorFewer.html
-    result.rtype    = 'REF';
+    result.rtype    = 'RECORD_VIEW';
     result.mime     = 'HTML';
     result.title_id = match[2];
     result.unitid   = match[1];
   } else if ((match = /^\/((help-tools)\/(.*)).html$/i.exec(path)) !== null) {
     // http://www.chicagomanualofstyle.org:80/help-tools/my-manual/notes.html
-    result.rtype    = 'REF';
+    result.rtype    = 'RECORD_VIEW';
     result.mime     = 'HTML';
     result.title_id = match[2];
     result.unitid   = match[1];

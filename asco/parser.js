@@ -47,7 +47,7 @@ module.exports = new Parser(function analyseEC(parsedUrl, ec) {
     result.unitid   = match[3];
   } else if (/jobs\/(.*?)\//.test(path)) {
     // https://careercenter-asco-org.proxytest.library.emory.edu/jobs/melanoma/
-    result.rtype    = 'REF';
+    result.rtype    = 'RECORD_VIEW';
     result.mime     = 'HTML';
   } else if ((match = /([A-Za-z]*?)\/site\/podcasts\//.exec(path)) !== null) {
     // http://ascopubs.org:80/jco/site/podcasts/index.xhtml

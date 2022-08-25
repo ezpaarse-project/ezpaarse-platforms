@@ -24,7 +24,7 @@ module.exports = new Parser(function analyseEC(parsedUrl, ec) {
   if ((match = /^\/(list-of-abstractors|journals-we-abstract).php$/i.exec(path)) !== null) {
     // http://www.rtabstracts.org:80/list-of-abstractors.php
     // /journals-we-abstract.php
-    result.rtype    = 'REF';
+    result.rtype    = 'RECORD_VIEW';
     result.mime     = 'HTML';
     result.title_id = match[1];
   } else if (/^\/search\/(singleresult|detailedresults).php$/i.test(path)) {

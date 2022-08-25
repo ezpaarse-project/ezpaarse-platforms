@@ -51,7 +51,7 @@ module.exports = new Parser(function analyseEC(parsedUrl, ec) {
     } else if (match[2] === 'supplemental') {
       result.rtype  = 'SUPPL';
     } else if (match[2] === 'references') {
-      result.rtype  = 'REF';
+      result.rtype  = 'RECORD_VIEW';
     } else if (match[2] === 'ppt') {
       result.rtype  = 'IMAGE';
       result.mime   = 'MISC';
@@ -80,7 +80,7 @@ module.exports = new Parser(function analyseEC(parsedUrl, ec) {
     result.unitid   = match[1];
   } else if ((match = /^\/interactive-grand-round\/(.*)$/i.exec(path)) !== null) {
     // http://www.thelancet.com:80/interactive-grand-round/central-vision-loss
-    result.rtype    = 'REF';
+    result.rtype    = 'RECORD_VIEW';
     result.mime     = 'HTML';
     result.title_id = match[1];
     result.unitid   = match[1];

@@ -48,21 +48,21 @@ module.exports = new Parser(function analyseEC(parsedUrl, ec) {
 
   } else if ((match = /^\/content\/([0-z()-_]{13,14})$/i.exec(path)) !== null) {
     // https://www.jaacap.org:443/content/jaac_otc_50_10
-    result.rtype = 'REF';
+    result.rtype = 'RECORD_VIEW';
     result.mime = 'HTML';
     result.unitid = match[1];
     result.title_id = match[1];
 
   } else if ((match = /^\/article\/([0-z()-]+)\/references$/i.exec(path)) !== null) {
     // https://www.jaacap.org:443/article/S0890-8567(18)32061-6/references
-    result.rtype = 'REF';
+    result.rtype = 'RECORD_VIEW';
     result.mime = 'HTML';
     result.unitid = match[1];
     result.pii = match[1];
 
   } else if (/^\/action\/showCitFormats$/i.test(path)) {
     // https://www.jaacap.org:443/action/showCitFormats?pii=S0890-8567%2816%2931569-6&doi=10.1016%2Fj.jaac.2016.09.340
-    result.rtype = 'REF';
+    result.rtype = 'RECORD_VIEW';
     result.mime = 'HTML';
     result.unitid = param.pii;
     result.pii = param.pii;

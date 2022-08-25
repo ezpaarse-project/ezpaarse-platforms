@@ -6,8 +6,8 @@ SEARCH;HTML;;http://kiss.kstudy.com:80/subject/subj-thesis-view.asp?key=8
 SEARCH;HTML;;http://kiss.kstudy.com:80/dataReport/data2.asp?key=204
 SEARCH;HTML;;http://kiss.kstudy.com:80/inc/aside_view_thesis.asp?key=3660962,3217329,3656253
 SEARCH;HTML;;http://kiss.kstudy.com:80/inc/aside_view_thesis.asp?key=3660962,3217329,3656253,2851753,404440,404449,3664469,1637421,3581678,3186305,3666921,3547940,3667618,3587276
-REF;HTML;7113;http://kiss.kstudy.com:80/publish/pub-office.asp?queryIn=7113
-REF;HTML;7120;http://kiss.kstudy.com:80/publish/pub-office.asp?queryIn=7120
+RECORD_VIEW;HTML;7113;http://kiss.kstudy.com:80/publish/pub-office.asp?queryIn=7113
+RECORD_VIEW;HTML;7120;http://kiss.kstudy.com:80/publish/pub-office.asp?queryIn=7120
 TOC;HTML;30199/7136;http://kiss.kstudy.com:80/journal/journal-view.asp?key1=30199&key2=7136
 TOC;HTML;30127/7129;http://kiss.kstudy.com:80/journal/journal-view.asp?key1=30127&key2=7129
 TOC;HTML;28637/3002;http://kiss.kstudy.com:80/journal/journal-view.asp?key1=28637&key2=3002

@@ -2,4 +2,4 @@ out-title_id;out-unitid;out-rtype;out-mime;in-url
 JEP;JEP_2015__2__1_12;ARTICLE;PDF;http://jep.cedram.org/cedram-bin/article/JEP_2015__2__1_12.pdf
 JEP;JEP_2015__2_;TOC;HTML;http://jep.cedram.org/cgi-bin/feuilleter?id=JEP_2015__2_
 JEP;JEP_2015__2__1_01;ARTICLE;TEX;http://jep.cedram.org/cgi-bin/source/JEP_2015__2__1_01.tex
-JEP;JEP_2015__2__1_01;REF;HTML;http://jep.cedram.org/jep-bin/fitem?id=JEP_2015__2__1_01
+JEP;JEP_2015__2__1_01;RECORD_VIEW;HTML;http://jep.cedram.org/jep-bin/fitem?id=JEP_2015__2__1_01

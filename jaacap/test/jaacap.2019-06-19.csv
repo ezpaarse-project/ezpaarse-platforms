@@ -2,11 +2,11 @@ out-rtype;out-mime;out-unitid;out-pii;out-doi;out-title_id;in-url
 SEARCH;HTML;;;;;https://www.jaacap.org:443/action/doSearch?occurrences=all&searchText=childhood+anxiety&searchType=quick&searchScope=fullSite&journalCode=jaac
 SEARCH;HTML;;;;;https://www.jaacap.org:443/action/doSearch?occurrences=all&searchText=rainbow&searchType=quick&searchScope=fullSite&journalCode=jaac
 SEARCH;HTML;;;;;https://www.jaacap.org:443/action/doSearch?searchType=authorLookUp&author=Belcher,%20Harolyn%20M.E.&prod=HA
-REF;HTML;S0890-8567(18)32061-6;S0890-8567(18)32061-6;;;https://www.jaacap.org:443/article/S0890-8567(18)32061-6/references
-REF;HTML;S0890-8567(16)31569-6;S0890-8567(16)31569-6;10.1016/j.jaac.2016.09.340;;https://www.jaacap.org:443/action/showCitFormats?pii=S0890-8567%2816%2931569-6&doi=10.1016%2Fj.jaac.2016.09.340
-REF;HTML;S0890-8567(18)31967-1;S0890-8567(18)31967-1;10.1016/j.jaac.2018.08.013;;https://www.jaacap.org:443/action/showCitFormats?pii=S0890-8567%2818%2931967-1&doi=10.1016%2Fj.jaac.2018.08.013
-REF;HTML;jaac_otc_50_10;;;jaac_otc_50_10;https://www.jaacap.org:443/content/jaac_otc_50_10
-REF;HTML;jaac_otc_58_5;;;jaac_otc_58_5;https://www.jaacap.org:443/content/jaac_otc_58_5
+RECORD_VIEW;HTML;S0890-8567(18)32061-6;S0890-8567(18)32061-6;;;https://www.jaacap.org:443/article/S0890-8567(18)32061-6/references
+RECORD_VIEW;HTML;S0890-8567(16)31569-6;S0890-8567(16)31569-6;10.1016/j.jaac.2016.09.340;;https://www.jaacap.org:443/action/showCitFormats?pii=S0890-8567%2816%2931569-6&doi=10.1016%2Fj.jaac.2016.09.340
+RECORD_VIEW;HTML;S0890-8567(18)31967-1;S0890-8567(18)31967-1;10.1016/j.jaac.2018.08.013;;https://www.jaacap.org:443/action/showCitFormats?pii=S0890-8567%2818%2931967-1&doi=10.1016%2Fj.jaac.2018.08.013
+RECORD_VIEW;HTML;jaac_otc_50_10;;;jaac_otc_50_10;https://www.jaacap.org:443/content/jaac_otc_50_10
+RECORD_VIEW;HTML;jaac_otc_58_5;;;jaac_otc_58_5;https://www.jaacap.org:443/content/jaac_otc_58_5
 TOC;HTML;S0890-8567(18)X0007-0;S0890-8567(18)X0007-0;;;https://www.jaacap.org:443/issue/S0890-8567(18)X0007-0
 TOC;HTML;S0890-8567(17)X0002-6;S0890-8567(17)X0002-6;;;https://www.jaacap.org:443/issue/S0890-8567(17)X0002-6
 TOC;HTML;clinpersp;;;clinpersp;https://www.jaacap.org:443/content/clinpersp

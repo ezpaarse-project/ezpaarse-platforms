@@ -42,7 +42,7 @@ module.exports = new Parser(function analyseEC(parsedUrl, ec) {
   } else if ((match = /^\/doi\/ref\/10\.3366\/([0-z.]+)$/i.exec(path)) !== null) {
     // https://www.euppublishing.com:443/doi/ref/10.3366/anh.2018.0485
     // https://www.euppublishing.com:443/doi/ref/10.3366/drs.2018.0218
-    result.rtype = 'REF';
+    result.rtype = 'RECORD_VIEW';
     result.mime = 'HTML';
     result.unitid = '10.3366' + '/' + match[1];
     result.title_id = '10.3366' + '/' + match[1];

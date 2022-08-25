@@ -40,7 +40,7 @@ module.exports = new Parser(function analyseEC(parsedUrl, ec) {
   } else if ((match = /^\/fileasset\/files\/quizzes\/(.*).pdf$/i.exec(path)) !== null) {
     // https://www.amamanualofstyle.com:443/fileasset/files/quizzes/AMA%20MoS%209-2015%20Quiz.pdf
     // https://www.amamanualofstyle.com:443/fileasset/files/quizzes/References_Answers_final.pdf
-    result.rtype    = 'REF';
+    result.rtype    = 'RECORD_VIEW';
     result.mime     = 'PDF';
     result.title_id = match[1];
     result.unitid   = match[1];
@@ -59,7 +59,7 @@ module.exports = new Parser(function analyseEC(parsedUrl, ec) {
     // https://www.amamanualofstyle.com:443/view/10.1093/jama/9780195176339.001.0001/med-9780195176339-div2-359
     // https://www.amamanualofstyle.com:443/view/10.1093/jama/9780195176339.001.0001/med-9780195176339-div2-371?rskey=IhYxpu&result=4
     // https://www.amamanualofstyle.com:443/view/10.1093/jama/9780195176339.001.0001/med-9780195176339-div2-361?print=pdf
-    result.rtype    = 'REF';
+    result.rtype    = 'RECORD_VIEW';
     result.title_id = match[1] + '/' + match[2] + '/' + match[3];
     result.unitid   = match[1] + '/' + match[2] + '/' + match[3];
     result.doi      = match[1] + '/' + match[2] + '/' + match[3];

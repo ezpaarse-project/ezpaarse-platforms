@@ -86,7 +86,7 @@ module.exports = new Parser(function analyseEC(parsedUrl, ec) {
       break;
     case 'citedby':
       // http://press.endocrine.org/doi/citedby/10.1210/jc.2014-3282
-      result.rtype  = 'REF';
+      result.rtype  = 'RECORD_VIEW';
       result.mime   = 'MISC';
       result.unitid =  match[4]+'.'+ match[5]+'-'+ match[7];
       break;

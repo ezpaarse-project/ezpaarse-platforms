@@ -28,7 +28,7 @@ module.exports = new Parser(function analyseEC(parsedUrl, ec) {
     result.mime     = 'HTML';
   } else if ((match = /^\/profile\/([0-9-]+)$/i.exec(path)) !== null) {
     // https://www.guidestar.org:443/profile/13-1915124
-    result.rtype    = 'REF';
+    result.rtype    = 'RECORD_VIEW';
     result.mime     = 'HTML';
     result.title_id = match[1];
     result.unitid   = match[1];

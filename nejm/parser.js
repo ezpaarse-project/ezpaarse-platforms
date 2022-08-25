@@ -39,7 +39,7 @@ module.exports = new Parser(function analyseEC(parsedUrl, ec) {
       result.mime  = 'HTML';
       break;
     case 'ref':
-      result.rtype = 'REF';
+      result.rtype = 'RECORD_VIEW';
       result.mime  = 'HTML';
       break;
     case 'audio':
@@ -76,7 +76,7 @@ module.exports = new Parser(function analyseEC(parsedUrl, ec) {
   } else if (/^\/action\/showPowerPoint$/i.test(path)) {
     // /action/showPowerPoint?doi=10.1056/NEJMoa1411480
 
-    result.rtype = 'REF';
+    result.rtype = 'RECORD_VIEW';
     result.mime  = 'HTML';
 
     if (param.doi) {

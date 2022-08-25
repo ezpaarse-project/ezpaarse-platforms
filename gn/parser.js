@@ -53,7 +53,7 @@ module.exports = new Parser(function analyseEC(parsedUrl, ec) {
 
     const format = (param.optionformat || '').toLowerCase();
     result.mime = format === 'pdf' ? 'PDF' : 'HTML';
-    result.rtype = 'REF';
+    result.rtype = 'RECORD_VIEW';
 
     if (param['export_record']) {
       result.unitid = param['export_record'];

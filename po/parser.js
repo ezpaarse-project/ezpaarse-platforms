@@ -81,7 +81,7 @@ module.exports = new Parser(function analyseEC(parsedUrl, ec) {
     result.unitid = match[3];
   } else if ((match = /doi\/ref\/((.*)\/(.*))/.exec(path)) !== null) {
     // http://ps.psychiatryonline.org:80/doi/ref/10.1176/appi.ps.201700055
-    result.rtype  = 'REF';
+    result.rtype  = 'RECORD_VIEW';
     result.mime   = 'HTML';
     result.doi    = match[1];
     result.unitid = match[3];
@@ -93,11 +93,11 @@ module.exports = new Parser(function analyseEC(parsedUrl, ec) {
     result.unitid = match[3];
   } else if (/^\/international$/.test(path)) {
     // http://psychiatryonline.org:80/international
-    result.rtype = 'REF';
+    result.rtype = 'RECORD_VIEW';
     result.mime  = 'HTML';
   } else if (/^\/cme$/.test(path)) {
     // http://psychiatryonline.org:80/cme
-    result.rtype = 'REF';
+    result.rtype = 'RECORD_VIEW';
     result.mime  = 'HTML';
   } else if (/^\/action\/doSearch$/.test(path)) {
     // http://ajp.psychiatryonline.org:80/action/doSearch?AllField=cancer&SeriesKey=

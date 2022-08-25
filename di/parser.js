@@ -25,7 +25,7 @@ module.exports = new Parser(function analyseEC(parsedUrl, ec) {
 
   } else if (/^\/resultat.asp$/i.test(path)) {
     // http://www.delphes-indexpresse.com/resultat.asp?connecteur=y&BI=1157678
-    result.rtype = 'REF';
+    result.rtype = 'RECORD_VIEW';
     result.mime  = 'HTML';
 
     if (param.BI) {

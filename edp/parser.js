@@ -5,7 +5,7 @@ const Parser = require('../.lib/parser.js');
 
 const abbrToRtype = new Map([
   ['abs', 'ABS'],
-  ['ref', 'REF'],
+  ['ref', 'RECORD_VIEW'],
   ['olm', 'SUPPL'],
   ['ps', 'ARTICLE'],
   ['full', 'ARTICLE'],
@@ -90,7 +90,7 @@ module.exports = new Parser(function analyseEC(parsedUrl) {
       result.mime   = 'HTML';
       break;
     case 'fulltext':
-      result.rtype = param.pdftype ? 'ARTICLE' : 'REF';
+      result.rtype = param.pdftype ? 'ARTICLE' : 'RECORD_VIEW';
       result.mime  = param.pdftype ? 'PDF' : 'HTML';
       break;
     case 'abstract':

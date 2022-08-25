@@ -62,7 +62,7 @@ module.exports = new Parser(function analyseEC(parsedUrl, ec) {
 
   } else if ((match = /^\/en\/topic\/([a-z+-]+)\/overview$/i.exec(path)) !== null) {
     // http://www.worldbank.org:80/en/topic/climatechange/overview
-    result.rtype    = 'REF';
+    result.rtype    = 'RECORD_VIEW';
     result.mime     = 'HTML';
     result.title_id = match[1];
     result.unitid   = match[1];
@@ -139,7 +139,7 @@ module.exports = new Parser(function analyseEC(parsedUrl, ec) {
     }
     if (match[1] == 'ref') {
     // https://elibrary.worldbank.org:443/doi/pdf/10.1596/978-1-4648-1281-1_ch3
-      result.rtype    = 'REF';
+      result.rtype    = 'RECORD_VIEW';
       result.mime     = 'HTML';
     }
     result.title_id = match[2] + '/' + match[3];

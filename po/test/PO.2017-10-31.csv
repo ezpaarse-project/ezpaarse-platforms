@@ -8,8 +8,8 @@ out-vol;out-issue;out-doi;out-print_identifier;out-unitid;out-rtype;out-mime;out
 ;;10.1176/appi.ajp.2017.17070796;;appi.ajp.2017.17070796;ABS;HTML;ajp;http://ajp.psychiatryonline.org:80/doi/abs/10.1176/appi.ajp.2017.17070796
 ;;10.1176/appi.books.9781585624836;9781585624836;appi.books.9781585624836;BOOK;HTML;dsm;http://dsm.psychiatryonline.org:80/doi/book/10.1176/appi.books.9781585624836
 ;;10.1176/appi.ps.201700055;;appi.ps.201700055;ARTICLE;HTML;ps;http://ps.psychiatryonline.org:80/doi/10.1176/appi.ps.201700055
-;;10.1176/appi.ps.201700055;;appi.ps.201700055;REF;HTML;ps;http://ps.psychiatryonline.org:80/doi/ref/10.1176/appi.ps.201700055
+;;10.1176/appi.ps.201700055;;appi.ps.201700055;RECORD_VIEW;HTML;ps;http://ps.psychiatryonline.org:80/doi/ref/10.1176/appi.ps.201700055
 ;;10.1176/appi.ps.201700055;;appi.ps.201700055;SUPPL;HTML;ps;http://ps.psychiatryonline.org:80/doi/suppl/10.1176/appi.ps.201700055
-;;;;;REF;HTML;;http://psychiatryonline.org:80/international
-;;;;;REF;HTML;;http://psychiatryonline.org:80/cme
+;;;;;RECORD_VIEW;HTML;;http://psychiatryonline.org:80/international
+;;;;;RECORD_VIEW;HTML;;http://psychiatryonline.org:80/cme
 ;;;;;SEARCH;HTML;ajp;http://ajp.psychiatryonline.org:80/action/doSearch?AllField=cancer&SeriesKey=

@@ -8,10 +8,10 @@ HS223VL;TOC;HTML;https://bibnatlux.naxosmusiclibrary.com/jazz/catalogue/HS223VL
 SAVANT-CD2183;TOC;HTML;https://naxosmusiclibrary-com/jazz/catalogue/SAVANT-CD2183
 russian/0004;AUDIO;MISC;http://www.naxosmusiclibrary.com:80/resources/pronunciation/russian/0004.mp3
 instrumentoforchestra;BOOK_SECTION;HTML;https://emory.nml3.naxosmusiclibrary.com:443/resources/juniorsection/instrumentoforchestra
-transp;REF;HTML;https://emory.nml3.naxosmusiclibrary.com:443/mtio/assets/pages/transp.asp
+transp;RECORD_VIEW;HTML;https://emory.nml3.naxosmusiclibrary.com:443/mtio/assets/pages/transp.asp
 BLI/-1/1;TOC;HTML;https://emory.nml3.naxosmusiclibrary.com:443/label/BLI/-1/1?_pjax=%23main
 nml;TOC;HTML;https://emory.nml3.naxosmusiclibrary.com:443/folder?category=nml&_pjax=%23main
-data/booklet;REF;HTML;https://emory.nml3.naxosmusiclibrary.com:443/arthur/data/booklet.htm
+data/booklet;RECORD_VIEW;HTML;https://emory.nml3.naxosmusiclibrary.com:443/arthur/data/booklet.htm
 ;SEARCH;HTML;https://emory.naxosmusiclibrary.com:443/world/google/result.asp?site=world_collection&client=world_frontend&proxystylesheet=nml_family&output=xml_no_dtd&partialfields=%28artist%3AJones%7Cconductor%3AJones%29&requiredfields=-RestrictedCountry%3AUS&filter=p&getfields=*&q=&skin=world&label=Label&artist=Artist&country=Country&composer=Composer&period=Period&emmain=%2Fworld%2Fgoogle%2Fresult.asp&hideImages=true&category=Category&num=10
 053;TOC;HTML;https://emory.naxosmusiclibrary.com:443/World/GeoMap/GeoMapApi.asp?cmd=GetCountryListByRegion&region=053
 GCD921002;TOC;HTML;https://emory.naxosmusiclibrary.com:443/World/catalogue/item.asp?cid=GCD921002

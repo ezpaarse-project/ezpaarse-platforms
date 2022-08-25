@@ -65,7 +65,7 @@ module.exports = new Parser(function analyseEC(parsedUrl, ec) {
     result.mime     = 'HTML';
   } else if ((match = /\/details_toc.pl$/i.exec(path)) !== null) {
     // https://dkbl.alexanderstreet.com:443/cgi-bin/asp/philo/dkbl/details_toc.pl?&philodocid=4563&showfullrecord=ON&kirch=ON
-    result.rtype    = 'REF';
+    result.rtype    = 'RECORD_VIEW';
     result.mime     = 'HTML';
     result.unitid   = param.philodocid;
   } else if (/\/getvolume.pl$/i.test(path)) {
@@ -84,7 +84,7 @@ module.exports = new Parser(function analyseEC(parsedUrl, ec) {
     }
   } else if (/\/sourceidx.pl$/i.test(path)) {
     // https://cwld.alexanderstreet.com:443/cgi-bin/asp/philo/cwld/sourceidx.pl?sourceid=S109&showfullrecord=ON
-    result.rtype    = 'REF';
+    result.rtype    = 'RECORD_VIEW';
     result.mime     = 'HTML';
     result.unitid   = param.sourceid;
   } else if ((match = /^\/bios\/(.*).html$/i.exec(path)) !== null) {

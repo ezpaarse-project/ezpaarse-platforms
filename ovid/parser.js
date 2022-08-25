@@ -41,7 +41,7 @@ module.exports = new Parser(function analyseEC(parsedUrl, ec) {
     result.unitid   = param.Abstract;
   } else if (typeof param['Complete Reference'] !== 'undefined' && param['Complete Reference'] !== '') {
     // http://ovidsp.tx.ovid.com/sp-3.15.0a/ovidweb.cgi?&S=NKDIFPLLDDDDHPEINCKKEDDCPAJLAA00&Complete+Reference=S.sh.29.30.34.48%7c1%7c1
-    result.rtype    = 'REF';
+    result.rtype    = 'RECORD_VIEW';
     result.mime     = 'HTML';
     result.unitid   = param['Complete Reference'];
   } else if ((typeof param['Book Reader'] !== 'undefined' && param['Book Reader'] !== '') || param['Counter5Data'].includes('books')) {

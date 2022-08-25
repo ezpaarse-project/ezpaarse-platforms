@@ -29,7 +29,7 @@ module.exports = new Parser(function analyseEC(parsedUrl, ec) {
     result.unitid   = match[1];
   } else if ((match = /^\/guides\/(.*)$/i.exec(path)) !== null) {
     // https://www.wetfeet.com:443/guides/beat-the-street-investment-banking-interviews
-    result.rtype    = 'REF';
+    result.rtype    = 'RECORD_VIEW';
     result.mime     = 'HTML';
     result.title_id = match[1];
     result.unitid   = match[1];
@@ -41,7 +41,7 @@ module.exports = new Parser(function analyseEC(parsedUrl, ec) {
     result.unitid   = match[1];
   } else if ((match = /^\/companies\/c\/(.*)$/i.exec(path)) !== null) {
     // https://www.wetfeet.com:443/companies/c/lvmh
-    result.rtype    = 'REF';
+    result.rtype    = 'RECORD_VIEW';
     result.mime     = 'HTML';
     result.title_id = match[1];
     result.unitid   = match[1];

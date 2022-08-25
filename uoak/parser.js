@@ -35,7 +35,7 @@ module.exports = new Parser(function analyseEC(parsedUrl, ec) {
     result.unitid = match[1];
   } else if ((match = /^\/islandora\/object\/islandora:([0-9]+)$/i.exec(path)) !== null) {
     // https://univoak.eu/islandora/object/islandora:80605
-    result.rtype    = 'REF';
+    result.rtype    = 'RECORD_VIEW';
     result.mime     = 'HTML';
     result.title_id = match[1];
     result.unitid   = match[1];

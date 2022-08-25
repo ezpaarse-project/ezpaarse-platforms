@@ -33,13 +33,13 @@ module.exports = new Parser(function analyseEC(parsedUrl, ec) {
     result.unitid   = param.id;
   } else if ((/^\/(.+)\/file\.php$/i.test(path))) {
     // http://library.cqpress.com:80/cqalmanac/file.php?path=Floor%20Votes%20Tables/cqal60_1960_House_Floor_Votes_34-37.pdf
-    result.rtype    = 'REF';
+    result.rtype    = 'RECORD_VIEW';
     result.mime     = 'PDF';
     result.title_id = param.path;
     result.unitid   = param.path;
   } else if ((/^\/(.+)\/static\.php$/i.test(path))) {
     // http://library.cqpress.com:80/congress/static.php?page=interestgroups
-    result.rtype    = 'REF';
+    result.rtype    = 'RECORD_VIEW';
     result.mime     = 'HTML';
     result.title_id = param.page;
     result.unitid   = param.page;

@@ -23,7 +23,7 @@ module.exports = new Parser(function analyseEC(parsedUrl, ec) {
     result.mime  = 'HTML';
   } else if ((match = /^\/btn\/([a-z]+)$/i.exec(path)) !== null) {
     // https://www.future-science.com:443/btn/newsandmedia
-    result.rtype    = 'REF';
+    result.rtype    = 'RECORD_VIEW';
     result.mime     = 'HTML';
     result.title_id = match[1];
   } else if ((match = /^\/([a-z]{3})\/(.*?\/(.*))$/i.exec(path)) !== null) {
@@ -49,7 +49,7 @@ module.exports = new Parser(function analyseEC(parsedUrl, ec) {
   } else if (/^\/(viewtopic|viewforum)\.php$/i.test(path)) {
     // http://forums.biotechniques.com:80/viewtopic.php?f=2&t=45158
     // http://forums.biotechniques.com:80/viewforum.php?f=28
-    result.rtype = 'REF';
+    result.rtype = 'RECORD_VIEW';
     result.mime  = 'HTML';
   }
 

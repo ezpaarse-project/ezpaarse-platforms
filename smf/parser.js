@@ -30,7 +30,7 @@ module.exports = new Parser(function analyseEC(parsedUrl, ec) {
       result.vol = match[3];
     }
     if (match[8] == 'php') {
-      result.rtype = 'REF';
+      result.rtype = 'RECORD_VIEW';
     }
   } else if ((match = /^(\/en)?\/[a-z]+\/([a-z\s]*)\/([0-9/]+)?([a-z/]+)?/i.exec(path)) !== null) {
     //en/Publications/Bulletin/144/html/

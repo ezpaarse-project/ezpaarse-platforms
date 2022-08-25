@@ -43,7 +43,7 @@ module.exports = new Parser(function analyseEC(parsedUrl, ec) {
     result.unitid   = match[1];
   } else if ((match = /^\/handle\/([0-9\.\/]+)$/i.exec(path)) !== null) {
     // https://lilloa.univ-lille.fr/handle/20.500.12210/15129.3
-    result.rtype    = 'REF';
+    result.rtype    = 'RECORD_VIEW';
     result.mime     = 'HTML';
     //result.title_id = match[1];
     result.unitid   = match[1];

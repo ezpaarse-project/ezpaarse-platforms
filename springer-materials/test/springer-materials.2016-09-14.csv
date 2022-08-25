@@ -1,7 +1,7 @@
 out-title_id;out-unitid;out-rtype;out-mime;in-url
-sm_lbs_978-3-540-75486-2_199.bib;sm_lbs_978-3-540-75486-2_199.bib;REF;TEXT;http://materials.springer.com/citation/download/bib/sm_lbs_978-3-540-75486-2_199/lbs
-sm_lbs_978-3-540-75486-2_199.endnote;sm_lbs_978-3-540-75486-2_199.endnote;REF;TEXT;http://materials.springer.com/citation/download/endnote/sm_lbs_978-3-540-75486-2_199/lbs
-ads000340.ris;ads000340.ris;REF;RIS;http://materials.springer.com/citation/download/ris/ads000340/adsorption
+sm_lbs_978-3-540-75486-2_199.bib;sm_lbs_978-3-540-75486-2_199.bib;RECORD_VIEW;TEXT;http://materials.springer.com/citation/download/bib/sm_lbs_978-3-540-75486-2_199/lbs
+sm_lbs_978-3-540-75486-2_199.endnote;sm_lbs_978-3-540-75486-2_199.endnote;RECORD_VIEW;TEXT;http://materials.springer.com/citation/download/endnote/sm_lbs_978-3-540-75486-2_199/lbs
+ads000340.ris;ads000340.ris;RECORD_VIEW;RIS;http://materials.springer.com/citation/download/ris/ads000340/adsorption
 sm_msi_r_20_012479_01_full_LnkDia0;sm_msi_r_20_012479_01_full_LnkDia0;SUPPL;MISC;http://materials.springer.com/msi/phase-diagram/docs/sm_msi_r_20_012479_01_full_LnkDia0
 "Calculated Heat Capacity and Thermodynamic Functions;Experimental Heat Capacity (Amorphous Phase);Experimental Heat Capacity (Crystalline Phase)";tables-athas_0011;SUPPL;MISC;http://materials.springer.com/tables/sm_ptd/athas_0011?data-table=Calculated%20Heat%20Capacity%20and%20Thermodynamic%20Functions&data-table=Experimental%20Heat%20Capacity%20(Amorphous%20Phase)&data-table=Experimental%20Heat%20Capacity%20(Crystalline%20Phase)
 ads000340.png;ads000340.png;IMAGE;MISC;http://materials-static.springer.com/assets/sm_ads/087/ads000340/ads000340-plot-large.png?auth66=1473945189_2b4f6c95653d711b9843a9521265979e&ext=.png

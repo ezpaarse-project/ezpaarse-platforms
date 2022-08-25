@@ -33,7 +33,7 @@ module.exports = new Parser(function analyseEC(parsedUrl, ec) {
     result.unitid   = query.ResultsID;
   } else if (path == '/markedList/displayDownloadRecord.do') {
     // http://nsarchive.chadwyck.com/markedList/displayDownloadRecord.do?markedList=fullrec&ItemID=CKR00045&category=cat&id=CKR00045&title=Breakfast+Meeting+with+Korean+Foreign+Minister+Lee+Bum+Suk
-    result.rtype    = 'REF';
+    result.rtype    = 'RECORD_VIEW';
     result.mime     = 'MISC';
     result.title_id = query.ItemID;
     result.unitid   = query.ItemID;

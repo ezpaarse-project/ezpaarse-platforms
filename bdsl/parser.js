@@ -17,7 +17,7 @@ module.exports = new Parser(function analyseEC(parsedUrl, ec) {
 
   if (/^\/[a-z-]+\/suche\/Titelaufnahme\.xml$/i.test(path) && query.Publikation_ID) {
     // /BDSL-DB/suche/Titelaufnahme.xml?vid=439F755D-2AF2-4283-AC79-F7B66E73678D&erg=0&Anzeige=10&Sprache=de&contenttype=text/html&Skript=titelaufnahme&Publikation_ID=468779787
-    result.rtype  = 'REF';
+    result.rtype  = 'RECORD_VIEW';
     result.mime   = 'HTML';
     result.unitid = query.Publikation_ID;
   }

@@ -67,12 +67,12 @@ module.exports = new Parser(function analyseEC(parsedUrl, ec) {
     result.mime  = 'HTML';
   } else if ((match = /^\/pb-assets\/docs\/journals\/[a-z]*-books-recd\/(.*)\.pdf$/i.exec(path)) !== null) {
     // http://www.journals.uchicago.edu:80/pb-assets/docs/journals/rq-books-recd/RQ-books-received-70-3.pdf
-    result.rtype  = 'REF';
+    result.rtype  = 'RECORD_VIEW';
     result.mime   = 'PDF';
     result.unitid = match[1];
   } else if ((match = /^\/doi\/citedby\/(10\.[0-9]+\/(.*))$/i.exec(path)) !== null) {
     // http://www.journals.uchicago.edu:80/doi/citedby/10.1086/693161
-    result.rtype  = 'REF';
+    result.rtype  = 'RECORD_VIEW';
     result.mime   = 'HTML';
     result.doi    = match[1];
     result.unitid = match[2];

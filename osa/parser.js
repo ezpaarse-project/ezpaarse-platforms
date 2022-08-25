@@ -33,7 +33,7 @@ module.exports = new Parser(function analyseEC(parsedUrl, ec) {
     if (parsedUrl.hash === null) {
       result.rtype    = 'ABS';
     } else {
-      result.rtype    = 'REF';
+      result.rtype    = 'RECORD_VIEW';
     }
     result.unitid   = param.uri;
     result.mime     = 'HTML';

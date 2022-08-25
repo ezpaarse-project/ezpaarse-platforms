@@ -1,7 +1,7 @@
 out-unitid;out-rtype;out-mime;in-url
-06497268;REF;PDF;https://zbmath.org/pdf/06497268.pdf
-06497268;REF;XML;https://zbmath.org/xml/06497268.xml
-06497268;REF;BIBTEX;https://zbmath.org/bibtex/06497268.bib
+06497268;RECORD_VIEW;PDF;https://zbmath.org/pdf/06497268.pdf
+06497268;RECORD_VIEW;XML;https://zbmath.org/xml/06497268.xml
+06497268;RECORD_VIEW;BIBTEX;https://zbmath.org/bibtex/06497268.bib
 0;SEARCH;HTML;https://zbmath.org/authors/?s=0&c=100&q=fourier
 0;SEARCH;HTML;https://zbmath.org/journals/?s=0&c=100&q=fourier
 0;SEARCH;HTML;https://zbmath.org/classification/?q=theory

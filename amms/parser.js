@@ -31,13 +31,13 @@ module.exports = new Parser(function analyseEC(parsedUrl, ec) {
     result.rtype    = 'SEARCH';
     result.mime     = 'HTML';
     if (/([a-z]+)doc/.test(match[2])) {
-      result.rtype    = 'REF';
+      result.rtype    = 'RECORD_VIEW';
     }
     //result.title_id = match[1];
     //result.unitid   = match[2];
   } else if ((match = /^\/([a-z]+)\/pdf\/([0-9]+).pdf$/.exec(path)) !== null) {
     // http://www.ams.org/mathscinet/pdf/3477652.pdf?
-    result.rtype    = 'REF';
+    result.rtype    = 'RECORD_VIEW';
     result.mime     = 'PDF';
     result.unitid   = match[2];
   }

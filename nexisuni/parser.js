@@ -42,7 +42,7 @@ module.exports = new Parser(function analyseEC(parsedUrl, ec) {
     result.unitid   = match[1];
   } else if (/^\/en-us\/about-us\/media\/press-release.page$/i.test(path)) {
     // http://www.lexisnexis.com:80/en-us/about-us/media/press-release.page?id=1485461802825730&y=2017
-    result.rtype    = 'REF';
+    result.rtype    = 'RECORD_VIEW';
     result.mime     = 'HTML';
     result.unitid   = param.id;
     result.publication_date = param.y;
@@ -56,7 +56,7 @@ module.exports = new Parser(function analyseEC(parsedUrl, ec) {
     result.mime     = 'HTML';
   } else if ((match = /^\/pdf\/lexis-advance\/(.*)$/i.exec(path)) !== null) {
     // https://www.lexisnexis.com:443/pdf/lexis-advance/Common-Research-Tasks.pdf
-    result.rtype    = 'REF';
+    result.rtype    = 'RECORD_VIEW';
     result.mime     = 'PDF';
     result.title_id = match[1];
     result.unitid   = match[1];

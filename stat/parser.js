@@ -42,14 +42,14 @@ module.exports = new Parser(function analyseEC(parsedUrl, ec) {
     // https://www.statista.com:443/statistics/480418/annual-household-expenditure-on-tablet-computers-canada/
     // https://www.statista.com:443/statistiques/553029/economie-circulaire-notoriete-francais/
     // https://www.statista.com:443/chart/14963/california-wildfires-inflict-structural-damage/
-    result.rtype    = 'REF';
+    result.rtype    = 'RECORD_VIEW';
     result.mime     = 'HTML';
     result.title_id = match[3];
     result.unitid   = match[2];
   } else if (/^\/(download|telechargement)\//i.test(path)) {
     // https://www.statista.com:443/download/MTUzMzMyMzYwMSMjNTIwMDA1IyMyMjc2MiMjMSMjbnVsbCMjU3R1ZHk=
     // https://www.statista.com:443/telechargement/MTU1NjgwODI3NyMjMTI5MzI0MyMjMzcyNDQjIzEjI3BkZiMjU3R1ZHk=
-    result.rtype    = 'REF';
+    result.rtype    = 'RECORD_VIEW';
     result.mime     = 'MISC';
   }
 

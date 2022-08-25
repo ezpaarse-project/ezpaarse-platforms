@@ -84,12 +84,12 @@ module.exports = new Parser(function analyseEC(parsedUrl, ec) {
     result.pii    = match[2];
   } else if ((match = /\/service\/content\/ck\/([0-9a-z-]*?-[0-9a-z.]*?-[0-9a-zA-Z-_]*)/i.exec(path)) !== null) {
     // /ui/service/content/ck/31-s2.0-50300
-    result.rtype    = 'REF';
+    result.rtype    = 'RECORD_VIEW';
     result.mime     = 'HTML';
     result.unitid   = match[1];
   } else if ((match = /^\/ui\/service\/clinical_overviews\/html\/(.+?)$/i.exec(path)) !== null) {
     // /ui/service/clinical_overviews/html/67-s2.0-3ccbf894-f46b-41db-9321-02dea462dc2c?separateUrgentAction=true&boxes=Differential%20Diagnosis&accordions=Diagnostic%20Procedures&references=true&imageHtml=true&crossLinkHtml=true&product=global
-    result.rtype    = 'REF';
+    result.rtype    = 'RECORD_VIEW';
     result.mime     = 'HTML';
     result.unitid   = match[1];
   } else if ((match = /\/service\/browse\/(.+?)\/toc$/i.exec(path)) !== null) {
@@ -103,7 +103,7 @@ module.exports = new Parser(function analyseEC(parsedUrl, ec) {
     result.mime     = 'HTML';
   } else if ((match = /service\/content\/ck\/(.*)/i.exec(path)) !== null) {
     // /service/content/ck/6-s2.0-3547
-    result.rtype    = 'REF';
+    result.rtype    = 'RECORD_VIEW';
     result.mime     = 'HTML';
     result.unitid   = match[1];
   }

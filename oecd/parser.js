@@ -23,7 +23,7 @@ module.exports = new Parser(function analyseEC(parsedUrl, ec) {
     result.unitid = match[1];
 
     if (param.citeformat && param.citeformat == 'ris') {
-      result.rtype = 'REF';
+      result.rtype = 'RECORD_VIEW';
       result.mime = 'RIS';
     } else {
       result.rtype = 'TOC';

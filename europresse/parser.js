@@ -29,7 +29,7 @@ module.exports = new Parser(function analyseEC(parsedUrl, ec) {
       result.unitid   = param.docKey;
       result.title_id = docKeySplit[2];
       if (docKeySplit[0] === 'web' || docKeySplit[0] === 'report') {
-        result.rtype = 'REF';
+        result.rtype = 'RECORD_VIEW';
       }
     }
 

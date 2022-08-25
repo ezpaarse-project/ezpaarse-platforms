@@ -154,49 +154,49 @@ module.exports = new Parser(function analyseEC(parsedUrl, ec) {
 
   } else if ((match = /^\/arthur\/(data\/[a-z0-9_-]+).htm$/i.exec(path)) !== null) {
     // https://emory.nml3.naxosmusiclibrary.com:443/arthur/data/booklet.htm
-    result.rtype = 'REF';
+    result.rtype = 'RECORD_VIEW';
     result.mime = 'HTML';
     result.unitid = match[1];
 
   } else if ((match = /^\/mtio\/assets\/pages\/([a-z0-9_-]+)\.asp$/i.exec(path)) !== null) {
     // https://emory.nml3.naxosmusiclibrary.com:443/mtio/assets/pages/transp.asp
-    result.rtype = 'REF';
+    result.rtype = 'RECORD_VIEW';
     result.mime = 'HTML';
     result.unitid = match[1];
 
   } else if ((match = /^\/mtio\/assets\/pages\/([a-z0-9_-]+\/[a-z0-9_-]+)\.asp$/i.exec(path)) !== null) {
     // https://emory.nml3.naxosmusiclibrary.com:443/mtio/assets/pages/bclar/sndbclar.asp
-    result.rtype = 'REF';
+    result.rtype = 'RECORD_VIEW';
     result.mime = 'HTML';
     result.unitid = match[1];
 
   } else if ((match = /^\/resources\/guidedtours\/([a-z0-9_-]+)\/([a-z0-9_-]+)$/i.exec(path)) !== null) {
     // https://emory.nml3.naxosmusiclibrary.com:443/resources/guidedtours/nationalism/06_verdi_giuseppe?_pjax=%23main
-    result.rtype = 'REF';
+    result.rtype = 'RECORD_VIEW';
     result.mime = 'HTML';
     result.unitid = match[2];
 
   } else if ((match = /^\/resources\/opera\/([a-z0-9_-]+)\/([a-z0-9_%-]+)$/i.exec(path)) !== null) {
     // https://emory.nml3.naxosmusiclibrary.com:443/resources/opera/synopses/elegy%20for%20young%20lovers?f=e&_pjax=%23main
-    result.rtype = 'REF';
+    result.rtype = 'RECORD_VIEW';
     result.mime = 'HTML';
     result.unitid = match[2];
 
   } else if ((match = /^\/resources\/opera\/[a-z0-9_-]+\/([a-z0-9_-]+\/[a-z0-9_-]+\/[a-z0-9_-]+\/[a-z0-9_-]+)$/i.exec(path)) !== null) {
     // https://emory.nml3.naxosmusiclibrary.com:443/resources/opera/libretto/haydn/the_creation/english/part_2
-    result.rtype = 'REF';
+    result.rtype = 'RECORD_VIEW';
     result.mime = 'HTML';
     result.unitid = match[1];
 
   } else if (((match = /^\/works\/([a-z0-9_-]+)$/i.exec(path)) !== null) || ((match = /^\/work\/([a-z0-9_-]+)$/i.exec(path)) !== null)) {
     // https://emory.nml3.naxosmusiclibrary.com:443/work/117491?type=analysis&_pjax=%23main
-    result.rtype = 'REF';
+    result.rtype = 'RECORD_VIEW';
     result.mime = 'HTML';
     result.unitid = match[1];
 
   } else if ((match = /^\/sharedfiles\/booklets\/[a-z0-9_-]+\/([a-z0-9_-]+).pdf$/i.exec(path)) !== null) {
     // https://emory.naxosmusiclibrary.com:443/sharedfiles/booklets/CHA/booklet-CHAN20141.pdf
-    result.rtype = 'REF';
+    result.rtype = 'RECORD_VIEW';
     result.mime = 'PDF';
     result.unitid = match[1];
 

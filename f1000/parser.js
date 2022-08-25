@@ -50,7 +50,7 @@ module.exports = new Parser(function analyseEC(parsedUrl, ec) {
   } else if ((match = /^\/(collections|posters)\/((([0-z-]+)\/([0-z-]+))|([0-9-]+))/i.exec(path)) !== null) {
     // https://f1000research.com:443/collections/BOSC/about-this-collection
     // https://f1000research.com:443/posters/6-499
-    result.rtype = 'REF';
+    result.rtype = 'RECORD_VIEW';
     result.mime  = 'HTML';
     result.unitid = match[2];
     result.title_id = match[2];

@@ -78,7 +78,7 @@ module.exports = new Parser(function analyseEC(parsedUrl, ec) {
     // https://www.artnet.com:443/auctions/artists/richard-hambleton/untitled-jumping-cat-4
     // https://www.artnet.com:443/auctions/artists/anish-kapoor/untitled-8
     // http://www.artnet.com:80/auction-houses/ewbanks/artist-banksy/
-    result.rtype = 'REF';
+    result.rtype = 'RECORD_VIEW';
     result.mime = 'HTML';
     result.unitid = match[1] + '/' + match[4] + '/' + match[5];
     result.title_id = match[1] + '/' + match[4] + '/' + match[5];
@@ -86,7 +86,7 @@ module.exports = new Parser(function analyseEC(parsedUrl, ec) {
   } if ((match = /^\/(PDB\/FAADSearch\/LotDetailView)/i.exec(path)) !== null) {
   // http://www.artnet.com:80/PDB/FAADSearch/LotDetailView.aspx?Page=1&artType=FineArt&subTypeId=11
   // http://www.artnet.com:80/PDB/FAADSearch/LotDetailView.aspx?Page=1&artType=DecArt&subTypeId=159
-    result.rtype = 'REF';
+    result.rtype = 'RECORD_VIEW';
     result.mime = 'HTML';
     result.unitid = match[1] + '/' + param.artType + '-' + param.subTypeId;
     result.title_id = match[1] + '/' + param.artType + '-' + param.subTypeId;
@@ -94,7 +94,7 @@ module.exports = new Parser(function analyseEC(parsedUrl, ec) {
   } if ((match = /^\/(pdb\/faadsearch\/lotpdfviewer)\.ashx/i.exec(path)) !== null) {
     // http://www.artnet.com:80/pdb/faadsearch/lotpdfviewer.ashx?Page=1&artType=FineArt&subTypeId=11
     // http://www.artnet.com:80/pdb/faadsearch/lotpdfviewer.ashx?Page=1&artType=DecArt&subTypeId=159
-    result.rtype = 'REF';
+    result.rtype = 'RECORD_VIEW';
     result.mime = 'PDF';
     result.unitid= match[1] + '/' + param.artType + '-' + param.subTypeId;
     result.title_id= match[1] + '/' + param.artType + '-' + param.subTypeId;

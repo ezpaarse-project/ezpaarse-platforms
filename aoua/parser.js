@@ -25,7 +25,7 @@ module.exports = new Parser(function analyseEC(parsedUrl) {
   // commenté DB if ((match = /^\/(publications)\/([a-zA-Z0-9]+)$/.exec(path)) !== null) {
   else if ((match = /^\/(publications)\/([a-zA-Z0-9]+)$/.exec(path)) !== null) {
     // http://ao.univ-angers.fr/publications/ua2864
-    result.rtype  = 'REF';
+    result.rtype  = 'RECORD_VIEW';
     result.mime   = 'HTML';
     result.unitid = 'notice' + match[2];
     result.title_id = match[2];

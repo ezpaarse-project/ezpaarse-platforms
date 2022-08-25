@@ -42,7 +42,7 @@ module.exports = new Parser(function analyseEC(parsedUrl, ec) {
   } else if (/^\/publish\/pub-office\.asp/i.test(path)) {
     // http://kiss.kstudy.com:80/publish/pub-office.asp?queryIn=7113
     // http://kiss.kstudy.com:80/publish/pub-office.asp?queryIn=7120
-    result.rtype = 'REF';
+    result.rtype = 'RECORD_VIEW';
     result.mime = 'HTML';
     result.unitid = param.queryIn;
 

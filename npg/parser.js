@@ -188,14 +188,14 @@ module.exports = new Parser(function analyseEC(parsedUrl) {
   } else if ((match = /^\/nano\/([a-z0-9-]+)/i.exec(path)) !== null) {
     // http://nano.nature.com.insb.bib.cnrs.fr/nano/GR-M21079
     result.mime   = 'HTML';
-    result.rtype  = 'REF';
+    result.rtype  = 'RECORD_VIEW';
     result.unitid = match[1];
 
   } else if ((match = /^\/related-nanoobject-summary/i.exec(path)) !== null) {
     // http://nano.nature.com/related-nanoobject-summary?doi=10.2147/IJN.S59290
     if (params.doi) {
       result.mime   = 'MISC';
-      result.rtype  = 'REF';
+      result.rtype  = 'RECORD_VIEW';
       result.doi    = params.doi;
       result.unitid = result.doi.split('/')[1];
     }

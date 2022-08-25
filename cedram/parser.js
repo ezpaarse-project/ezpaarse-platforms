@@ -30,7 +30,7 @@ module.exports = new Parser(function analyseEC(parsedUrl, ec) {
       result.rtype = 'TOC';
       result.mime  = 'HTML';
     } else {
-      result.rtype = 'REF';
+      result.rtype = 'RECORD_VIEW';
       result.mime  = 'HTML';
     }
 

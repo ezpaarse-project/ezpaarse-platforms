@@ -36,18 +36,18 @@ module.exports = new Parser(function analyseEC(parsedUrl, ec) {
     result.unitid = match[1];
   } else if ((match = /^\/(ark:\/[0-9]+\/[a-z0-9]+)$/i.exec(path)) !== null) {
     // /ark%3A/67375/WLXWKr99tB1E
-    result.rtype = 'REF';
+    result.rtype = 'RECORD_VIEW';
     result.mime = 'HTML';
     result.unitid = match[1];
     result.ark = match[1];
   } else if ((match = /^\/item\/([0-9]+)$/i.exec(path)) !== null) {
     // /item/190
-    result.rtype = 'REF';
+    result.rtype = 'RECORD_VIEW';
     result.mime = 'HTML';
     result.unitid = match[1];
   } else if ((match = /^\/items\/show\/([0-9]+)$/i.exec(path)) !== null) {
     // /items/show/2057
-    result.rtype = 'REF';
+    result.rtype = 'RECORD_VIEW';
     result.mime = 'HTML';
     result.unitid = match[1];
   } else if (/^\/solr-search$/i.test(path)) {

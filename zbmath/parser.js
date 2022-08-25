@@ -18,19 +18,19 @@ module.exports = new Parser(function analyseEC(parsedUrl, ec) {
 
   if ((match = /^\/pdf\/([0-9.]+)\.pdf$/.exec(path)) !== null) {
     // https://zbmath.org/pdf/06497268.pdf
-    result.rtype  = 'REF';
+    result.rtype  = 'RECORD_VIEW';
     result.mime   = 'PDF';
     result.unitid = match[1];
 
   } else if ((match = /^\/xml\/([0-9.]+)\.xml$/.exec(path)) !== null) {
     // https://zbmath.org/xml/06497268.xml
-    result.rtype  = 'REF';
+    result.rtype  = 'RECORD_VIEW';
     result.mime   = 'XML';
     result.unitid = match[1];
 
   } else if ((match = /^\/bibtex\/([0-9.]+)\.bib$/.exec(path)) !== null) {
     // https://zbmath.org/bibtex/06497268.bib
-    result.rtype  = 'REF';
+    result.rtype  = 'RECORD_VIEW';
     result.mime   = 'BIBTEX';
     result.unitid = match[1];
 

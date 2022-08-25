@@ -76,7 +76,7 @@ module.exports = new Parser(function analyseEC(parsedUrl, ec) {
     result.unitid   = match[1];
   } else if ((match = /^\/view\/resource\/main\/main\/id\/(.*).html$/i.exec(path)) !== null) {
     // http://allafrica.com:80/view/resource/main/main/id/00111751.html
-    result.rtype    = 'REF';
+    result.rtype    = 'RECORD_VIEW';
     result.mime     = 'HTML';
     result.title_id = match[1];
     result.unitid   = match[1];

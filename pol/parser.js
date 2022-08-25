@@ -32,7 +32,7 @@ module.exports = new Parser(function analyseEC(parsedUrl, ec) {
     result.unitid   = match[1];
   } else if ((match = /^\/f\/$/i.exec(path)) !== null) {
     // https://subscriber.politicopro.com/f/?id=0000017a-e3ea-d17c-ad7e-e7ea52040000
-    result.rtype    = 'REF';
+    result.rtype    = 'RECORD_VIEW';
     result.mime     = 'PDF';
     result.unitid   = param.id;
   }

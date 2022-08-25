@@ -26,7 +26,7 @@ module.exports = new Parser(function analyseEC(parsedUrl, ec) {
     result.rtype = 'GRAPH';
     result.mime  = 'HTML';
   } else if (/^\/Tables/i.test(path)) {
-    // https://analyticscampus.gallup.com:443/Tables/ 
+    // https://analyticscampus.gallup.com:443/Tables/
     result.rtype = 'TABLE';
     result.mime  = 'HTML';
   } else if (/^\/Explore/i.test(path)) {
@@ -35,7 +35,7 @@ module.exports = new Parser(function analyseEC(parsedUrl, ec) {
     result.mime  = 'HTML';
   } else if (/^\/Profiles/i.test(path)) {
     // https://analyticscampus.gallup.com:443/Profiles
-    result.rtype = 'REF';
+    result.rtype = 'RECORD_VIEW';
     result.mime  = 'HTML';
   } else if (/^\/Data\/GetArticleData$/i.test(path)) {
     // https://analyticscampus.gallup.com:443/Data/GetArticleData?itemId=257612

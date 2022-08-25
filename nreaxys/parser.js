@@ -32,7 +32,7 @@ module.exports = new Parser(function analyseEC(parsedUrl, ec) {
   if (/^\/services\/print\/download$/i.test(path)) {
     // /services/print/download?access_token=25264948-3c9d-4b4a-9851-fca63251f78a&jobId=21641899_20180115_085956_796&document=21641899_20180115_085956_796.pdf
 
-    result.rtype = 'REF';
+    result.rtype = 'RECORD_VIEW';
     result.mime  = 'PDF';
 
     if (param.document) {

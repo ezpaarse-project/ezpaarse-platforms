@@ -37,7 +37,7 @@ module.exports = new Parser(function analyseEC(parsedUrl, ec) {
       result.mime     = 'HTML';
       break;
     case 'ref' :
-      result.rtype    = 'REF';
+      result.rtype    = 'RECORD_VIEW';
       result.mime     = 'HTML';
       break;
     case 'pdfplus' :

@@ -36,7 +36,7 @@ module.exports = new Parser(function analyseEC(parsedUrl, ec) {
     if (match[2] == 'QG' || match[2] == 'TUT') {
       result.rtype    = 'EXERCISE';
     } else if (match[2] == 'SR') {
-      result.rtype    = 'REF';
+      result.rtype    = 'RECORD_VIEW';
     } else if (match[2] == 'TBL') {
       result.rtype    = 'TABLE';
     } else if (match[2] == 'FIG') {

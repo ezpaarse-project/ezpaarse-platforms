@@ -27,19 +27,19 @@ module.exports = new Parser(function analyseEC(parsedUrl, ec) {
     result.mime     = 'HTML';
   } else if ((match = /^\/en\/e-Anatomy\/(.*)$/i.exec(path)) !== null) {
     // https://www.imaios.com:443/en/e-Anatomy/Anatomical-Parts/10L-11L-Left-hilar-and-interlobar-nodes
-    result.rtype    = 'REF';
+    result.rtype    = 'RECORD_VIEW';
     result.mime     = 'HTML';
     result.title_id = match[1];
     result.unitid   = match[1];
   } else if ((match = /^\/en\/e-Courses\/(.*)$/i.exec(path)) !== null) {
     // https://www.imaios.com:443/en/e-Courses/e-MRI/MRI-instrumentation-and-MRI-safety
-    result.rtype    = 'REF';
+    result.rtype    = 'RECORD_VIEW';
     result.mime     = 'HTML';
     result.title_id = match[1];
     result.unitid   = match[1];
   } else if ((match = /^\/en\/vet-Anatomy\/(.*)$/i.exec(path)) !== null) {
     // https://www.imaios.com:443/en/vet-Anatomy/Dog/Canine-elbow-CT
-    result.rtype    = 'REF';
+    result.rtype    = 'RECORD_VIEW';
     result.mime     = 'HTML';
     result.title_id = match[1];
     result.unitid   = match[1];
@@ -49,13 +49,13 @@ module.exports = new Parser(function analyseEC(parsedUrl, ec) {
     result.mime     = 'HTML';
   } else if ((match = /^\/en\/e-Cases\/Channels\/(.*)$/i.exec(path)) !== null) {
     // https://www.imaios.com:443/en/e-Cases/Channels/Radiology/Pediatric-PET-CT-cases/Synovial-sarcoma
-    result.rtype    = 'REF';
+    result.rtype    = 'RECORD_VIEW';
     result.mime     = 'HTML';
     result.title_id = match[1];
     result.unitid   = match[1];
   } else if ((match = /^\/en\/e-Cases\/Public-channels\/(.*)$/i.exec(path)) !== null) {
     // https://www.imaios.com:443/en/e-Cases/Public-channels/Thorax
-    result.rtype    = 'REF';
+    result.rtype    = 'RECORD_VIEW';
     result.mime     = 'HTML';
     result.title_id = match[1];
     result.unitid   = match[1];

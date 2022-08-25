@@ -24,7 +24,7 @@ module.exports = new Parser(function analyseEC(parsedUrl, ec) {
     // https://theindex.princeton.edu:443/s/view/ViewWorkOfArt.action?id=E512F406-A94C-4D7C-9611-165AA4054DA5
     // https://theindex.princeton.edu:443/s/view/ViewIllustrationType.action?id=D566D8A8-D87D-4696-A0A2-3F974F98501A
     // https://theindex.princeton.edu:443/s/view/ViewLocation.action?id=30FAC388-6F0B-45D4-8381-37A1CF94AC75
-    result.rtype    = 'REF';
+    result.rtype    = 'RECORD_VIEW';
     result.mime     = 'HTML';
     result.unitid   = param.id;
 

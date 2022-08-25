@@ -18,7 +18,7 @@ module.exports = new Parser(function analyseEC(parsedUrl, ec) {
 
   if ((match = /^\/fiaf\/([a-z]+)\/(([a-z]+)_([a-z]+)\.htm)$/.exec(path)) !== null) {
     // http://film.chadwyck.co.uk/fiaf/framesets/fii_frameset.htm
-    result.rtype    = 'REF';
+    result.rtype    = 'RECORD_VIEW';
     result.mime     = 'HTML';
     result.title_id = match[3];
     result.unitid   = match[2];

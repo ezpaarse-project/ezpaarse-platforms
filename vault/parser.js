@@ -24,7 +24,7 @@ module.exports = new Parser(function analyseEC(parsedUrl, ec) {
     result.mime     = 'HTML';
   } else if ((match = /^\/internship-rankings\/([a-z0-9-]+)/i.exec(path)) !== null) {
     // http://www.vault.com:80/internship-rankings/best-tech-engineering-internships/
-    result.rtype    = 'REF';
+    result.rtype    = 'RECORD_VIEW';
     result.mime     = 'HTML';
     result.title_id = match[1];
     result.unitid   = match[1];

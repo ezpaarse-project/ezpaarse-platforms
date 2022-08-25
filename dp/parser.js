@@ -27,7 +27,7 @@ module.exports = new Parser(function analyseEC(parsedUrl, ec) {
     result.mime     = 'HTML';
   } else if (/\/data-available$|\/data-planet-data-hosting-services$|\/data-planet-statistical-datasets$|\/data-planet-statistical-ready-reference$|\/faq$|\/how-does-data-planet-compare$/i.test(path)) {
     // http://www.data-planet.com:80/data-available
-    result.rtype    = 'REF';
+    result.rtype    = 'RECORD_VIEW';
     result.mime     = 'HTML';
   } else if ((match = /^\/([a-z0-9-]+)$/i.exec(path)) !== null) {
     // http://www.data-planet.com:80/data-planet-reaches-52-billion-data-points
@@ -37,7 +37,7 @@ module.exports = new Parser(function analyseEC(parsedUrl, ec) {
     result.unitid   = match[1];
   } else if (/^\/dataplanet\/Datasets.html$/i.test(path)) {
     // https://statisticaldatasets.data-planet.com:443/dataplanet/Datasets.html?id=c592841f-6d8e-4dab-b1e6-fae551d8b9ce&operatingMode=RR
-    result.rtype    = 'REF';
+    result.rtype    = 'RECORD_VIEW';
     result.mime     = 'HTML';
     result.title_id = param.id;
     result.unitid   = param.id;
@@ -49,25 +49,25 @@ module.exports = new Parser(function analyseEC(parsedUrl, ec) {
     result.unitid   = param.sid;
   } else if (/^\/dataplanet\/DSH__Excel$/i.test(path)) {
     // https://statisticaldatasets.data-planet.com:443/dataplanet/DSH__Excel?sid=661d4cdbb95d5%24199
-    result.rtype    = 'REF';
+    result.rtype    = 'RECORD_VIEW';
     result.mime     = 'MISC';
     result.title_id = param.sid;
     result.unitid   = param.sid;
   } else if (/^\/dataplanet\/DSH__Csv$/i.test(path)) {
     // http://statisticaldatasets.data-planet.com:80/dataplanet/DSH__Csv?sid=1c959da4aa4b9%2473
-    result.rtype    = 'REF';
+    result.rtype    = 'RECORD_VIEW';
     result.mime     = 'MISC';
     result.title_id = param.sid;
     result.unitid   = param.sid;
   } else if (/^\/dataplanet\/DSH__Pdf$/i.test(path)) {
     // https://statisticaldatasets.data-planet.com:443/dataplanet/DSH__Pdf?sid=6a49deb304ff9%241c
-    result.rtype    = 'REF';
+    result.rtype    = 'RECORD_VIEW';
     result.mime     = 'PDF';
     result.title_id = param.sid;
     result.unitid   = param.sid;
   } else if (/^\/dataplanet\/DSH__DoiGen$/i.test(path)) {
     // https://statisticaldatasets.data-planet.com:443/dataplanet/DSH__DoiGen?type=doi&sid=6a6dbc61a458b$36&ses=46f39071-7a7f-4316-9e27-ecdd74f4f57d
-    result.rtype    = 'REF';
+    result.rtype    = 'RECORD_VIEW';
     result.mime     = 'MISC';
     result.title_id = param.sid;
     result.unitid   = param.sid;
@@ -77,7 +77,7 @@ module.exports = new Parser(function analyseEC(parsedUrl, ec) {
     result.mime     = 'HTML';
   } else if (/^\/ld.php$/i.test(path)) {
     // http://data-planet.libguides.com:80/ld.php?content_id=21684814
-    result.rtype    = 'REF';
+    result.rtype    = 'RECORD_VIEW';
     result.mime     = 'PDF';
     result.title_id = param.content_id;
     result.unitid   = param.content_id;

@@ -31,19 +31,19 @@ module.exports = new Parser(function analyseEC(parsedUrl, ec) {
     result.mime     = 'HTML';
   } else if ((match = /^\/[a-z0-9]+\/view\/(.*)$/i.exec(path)) !== null) {
     // https://www.unboundmedicine.com:443/5minute/view/5-Minute-Clinical-Consult/816407/all/Gastric_Cancer
-    result.rtype    = 'REF';
+    result.rtype    = 'RECORD_VIEW';
     result.mime     = 'HTML';
     result.title_id = match[1];
     result.unitid   = match[1];
   } else if ((match = /^\/news\/(.*)$/i.exec(path)) !== null) {
     // https://www.unboundmedicine.com:443/news/apsa_pediatric_surgery_library
-    result.rtype    = 'REF';
+    result.rtype    = 'RECORD_VIEW';
     result.mime     = 'HTML';
     result.title_id = match[1];
     result.unitid   = match[1];
   } else if ((match = /^\/solutions\/(.*)$/i.exec(path)) !== null) {
     // https://www.unboundmedicine.com:443/solutions/nursing_schools
-    result.rtype    = 'REF';
+    result.rtype    = 'RECORD_VIEW';
     result.mime     = 'HTML';
     result.title_id = match[1];
     result.unitid   = match[1];

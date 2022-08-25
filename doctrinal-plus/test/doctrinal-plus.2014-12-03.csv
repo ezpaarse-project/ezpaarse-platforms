@@ -1,8 +1,8 @@
 out-title_id;out-unitid;out-rtype;out-mime;in-url
 ;alph;TOC;HTML;http://newip.doctrinalplus.fr/doctrinal/revues/alph
 ;domaine;TOC;HTML;http://newip.doctrinalplus.fr/doctrinal/revues/domaine
-REVDRSANITSOC;REVDRSANITSOC;REF;HTML;http://newip.doctrinalplus.fr/doc/doctrinal/revue/REVDRSANITSOC
-379663;379663;REF;HTML;http://newip.doctrinalplus.fr/doc/doctrinal/notice/379663
+REVDRSANITSOC;REVDRSANITSOC;RECORD_VIEW;HTML;http://newip.doctrinalplus.fr/doc/doctrinal/revue/REVDRSANITSOC
+379663;379663;RECORD_VIEW;HTML;http://newip.doctrinalplus.fr/doc/doctrinal/notice/379663
 jorf;jorf/2014/10/29/29643924;ARTICLE;HTML;http://newip.doctrinalplus.fr/doc/fr/jo/jorf/2014/10/29/29643924
 securite_sociale;securite_sociale/20120509/D412-79;ARTICLE;HTML;http://newip.doctrinalplus.fr/doc/fr/code/securite_sociale/20120509/D412-79
 ;arrete/IOCC1134994A;ARRETE;HTML;http://newip.doctrinalplus.fr/doc/fr/texte/arrete/IOCC1134994A?nop=1&search_id=e3ae7ac8108a5a9eceff342146f1a10b&idx=9

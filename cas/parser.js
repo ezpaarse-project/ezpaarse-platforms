@@ -27,7 +27,7 @@ module.exports = new Parser(function analyseEC(parsedUrl, ec) {
     result.mime     = 'HTML';
   } else if ((match = /^\/scifinder\/references\/((.*?):(.*))\/fulltext$/i.exec(path)) !== null) {
     // https://scifinder.cas.org:443/scifinder/references/CAPLUS_2017:1899309/fulltext?nav=eNpb85aBtYSBMbGEQcXI3MnExMnAJMLCzM3Y1MDSOMLE2NLJ0MjI2cjU2MXSwMnE2RKoNKm4iEEwK7EsUS8nMS9dzzOvJDU9tUjo0YIl3xvbLZgYGD0ZWMsSc0pTK4oYBBDq_Epzk1KL2tZMleWe8qCbiYGhooCBgYEZaGBGCYO0Y2iIh39QvKdfmKtfCJDh5x_vHuQfGuDp517CwJmZW5BfVAI0obiQoY6BGaiPASianVsQlFqIIgoAGac7Hw
-    result.rtype    = 'REF';
+    result.rtype    = 'RECORD_VIEW';
     result.mime     = 'HTML';
     result.title_id = match[1];
     result.unitid   = match[3];
@@ -47,7 +47,7 @@ module.exports = new Parser(function analyseEC(parsedUrl, ec) {
     result.mime     = 'MISC';
   } else if (/^\/scifinder\/substances\/answers\/.*\.html$/i.test(path)) {
     // https://scifinder.cas.org:443/scifinder/substances/answers/27A3CCCEX86F35094X3341EB425496620440:27F22503X86F35093X7774DEFC1439F415B9/1.html?key=REGISTRY_1328895-95-9&title=1328895-95-9&launchSrc=sublist&pageNum=1&nav=eNpb85aBtYSBMbGEQcXI3M3IyNTAOMLCzM3Y1MDSOMLc3NzExdXN2dDE2NLNxNDUyRKoNKm4iEEwK7EsUS8nMS9dzzOvJDU9tUjo0YIl3xvbLZgYGD0ZWMsSc0pTK4oYBBDq_Epzk1KL2tZMleWe8qCbiYGhooCBgUEcaGBGCQN3cGiAa1B8kL-PazBQJL-4kKGOgRkoz1jCwFRUhmqjU35-Tmpi3lmFooarc369A9oYBbOxgAEAg04-rQ&sortKey=SUBSTANCE_ID&sortOrder=DESCENDING
-    result.rtype    = 'REF';
+    result.rtype    = 'RECORD_VIEW';
     result.mime     = 'HTML';
     result.title_id = param.title;
     result.unitid   = param.title;

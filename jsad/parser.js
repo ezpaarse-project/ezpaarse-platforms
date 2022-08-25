@@ -34,7 +34,7 @@ module.exports = new Parser(function analyseEC(parsedUrl, ec) {
     } else if (match[1].toLowerCase() === 'abs') {
       result.rtype = 'ABS';
     } else if (match[1].toLowerCase() === 'ref') {
-      result.rtype = 'REF';
+      result.rtype = 'RECORD_VIEW';
     } else if (match[1].toLowerCase() === 'suppl') {
       result.rtype = 'SUPPL';
     } else if (match[1].toLowerCase() === 'citedby') {

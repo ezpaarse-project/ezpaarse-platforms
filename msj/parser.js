@@ -58,7 +58,7 @@ module.exports = new Parser(function analyseEC(parsedUrl, ec) {
     result.unitid   = match[3];
   } else if (/^\/metrics\/usage\.action$/i.test(path)) {
     // http://jmm.microbiologyresearch.org:80/metrics/usage.action?startDate=2017-11-29&endDate=2018-01-26&itemId=/content/journal/jmm/10.1099/jmm.0.000636
-    result.rtype    = 'REF';
+    result.rtype    = 'RECORD_VIEW';
     result.mime     = 'HTML';
     if ((itemid = /^\/content\/journal\/[a-z]*\/((.*?)\/(.*))$/i.exec(param.itemId)) !== null) {
       result.doi      = itemid[1];
@@ -66,7 +66,7 @@ module.exports = new Parser(function analyseEC(parsedUrl, ec) {
     }
   } else if (/^\/references\/matchedRefsForItem\.action$/i.test(path)) {
     // http://jmm.microbiologyresearch.org:80/references/matchedRefsForItem.action?itemId=/content/journal/jmm/10.1099/jmm.0.000682.v1
-    result.rtype    = 'REF';
+    result.rtype    = 'RECORD_VIEW';
     result.mime     = 'HTML';
     if ((itemid = /^\/content\/journal\/[a-z]*\/((.*?)\/(.*))\.v[0-9]$/i.exec(param.itemId)) !== null) {
       result.doi    = itemid[1];

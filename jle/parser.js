@@ -31,7 +31,7 @@ module.exports = new Parser(function analyseEC(parsedUrl, ec) {
       result.rtype = 'ARTICLE';
       break;
     case 'references':
-      result.rtype = 'REF';
+      result.rtype = 'RECORD_VIEW';
       break;
     case 'images':
       result.rtype = 'IMAGE';

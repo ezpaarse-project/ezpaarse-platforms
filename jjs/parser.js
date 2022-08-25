@@ -45,7 +45,7 @@ module.exports = new Parser(function analyseEC(parsedUrl, ec) {
     result.title_id = match[1];
     result.unitid   = match[1];
     if (match[1] == 'catalogue') {
-      result.rtype  = 'REF';
+      result.rtype  = 'RECORD_VIEW';
     }
     else {
       result.rtype  = 'ABS';
@@ -55,7 +55,7 @@ module.exports = new Parser(function analyseEC(parsedUrl, ec) {
     result.title_id = match[2];
     result.unitid   = match[2];
     if (match[1] == 'article') {
-      result.rtype  = 'REF';
+      result.rtype  = 'RECORD_VIEW';
       result.mime   = 'HTML';
     }
     else if (match[1] == 'fulltext') {

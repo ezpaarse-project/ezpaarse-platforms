@@ -83,7 +83,7 @@ module.exports = new Parser(function analyseEC(parsedUrl, ec) {
 
   } else if ((match = /^(?:\/(\w+))?\/citedreferences\/MSTAR_(\d+)\//i.exec(path)) !== null) {
     // /asfa/citedreferences/MSTAR_304898618/C3CDCDB5CD9248A8PQ/1
-    result.rtype    = 'REF';
+    result.rtype    = 'RECORD_VIEW';
     result.mime     = 'HTML';
     result.title_id = match[1];
     result.unitid   = match[2];
