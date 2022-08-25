@@ -50,9 +50,9 @@ module.exports = new Parser(function analyseEC(parsedUrl) {
       break;
     case 'PDF':
     case 'EXTREF':
-        // http://www.nature.com/nature/journal/v493/n7431/pdf/493166a.pdf
-        // http://www.nature.com/cdd/journal/vaop/ncurrent/pdf/cdd2014195a.pdf
-        // http://www.nature.com/nature/journal/v445/n7125/extref/nature05382-s1.pdf
+      // http://www.nature.com/nature/journal/v493/n7431/pdf/493166a.pdf
+      // http://www.nature.com/cdd/journal/vaop/ncurrent/pdf/cdd2014195a.pdf
+      // http://www.nature.com/nature/journal/v445/n7125/extref/nature05382-s1.pdf
       result.rtype = 'ARTICLE';
       result.mime  = 'PDF';
       break;

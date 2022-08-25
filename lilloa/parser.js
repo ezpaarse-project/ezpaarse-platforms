@@ -21,7 +21,7 @@ module.exports = new Parser(function analyseEC(parsedUrl, ec) {
 
   let match;
 
-  if ((match = /(^\/bitstream\/handle\/([0-9\.\/]+)\/(.*)\.pdf)$/i.exec(path)) !== null && param.isAllowed == 'y') {
+  if ((match = /(^\/bitstream\/handle\/([0-9./]+)\/(.*)\.pdf)$/i.exec(path)) !== null && param.isAllowed == 'y') {
     // https://lilloa.univ-lille.fr/bitstream/handle/20.500.12210/20385.2/Marie%20Glon-OSE.pdf?sequence=1&isAllowed=y
     result.rtype    = 'ARTICLE';
     result.mime     = 'PDF';
@@ -35,13 +35,13 @@ module.exports = new Parser(function analyseEC(parsedUrl, ec) {
      */
     result.unitid = match[2];
 
-  } else if ((match = /^\/handle\/([0-9\.\/]+)\/restricted-resource$/i.exec(path)) !== null) {
+  } else if ((match = /^\/handle\/([0-9./]+)\/restricted-resource$/i.exec(path)) !== null) {
     // https://lilloa.univ-lille.fr/handle/20.500.12210/37541/restricted-resource?bitstreamId=8fb77f9c-e6a8-48fc-81b6-3bccd15495dd
     result.rtype    = 'QUERY';
     result.mime     = 'HTML';
     //result.title_id = match[1];
     result.unitid   = match[1];
-  } else if ((match = /^\/handle\/([0-9\.\/]+)$/i.exec(path)) !== null) {
+  } else if ((match = /^\/handle\/([0-9./]+)$/i.exec(path)) !== null) {
     // https://lilloa.univ-lille.fr/handle/20.500.12210/15129.3
     result.rtype    = 'RECORD_VIEW';
     result.mime     = 'HTML';
