@@ -196,35 +196,6 @@ module.exports = new Parser(function analyseEC(parsedUrl, ec) {
     result.rtype  = 'TOC';
     result.mime   = 'HTML';
 
-  } else if ((match = /^\/doi(\/[a-z]+)?\/(10\.[0-9]+\/([a-z0-9.-]+))$/i.exec(path)) !== null) {
-    result.doi    = match[2];
-    result.unitid = match[3];
-
-    if (!match[1]) {
-      // /doi/10.1091/mbc.e09-12-1011
-      result.rtype = 'ARTICLE';
-      result.mime  = 'HTML';
-      return result;
-    }
-
-    switch (match[1]) {
-    case '/pdf':
-    case '/epdf':
-      // /doi/pdf/10.1091/mbc.e09-12-1011
-      result.rtype = 'ARTICLE';
-      result.mime  = 'PDF';
-      break;
-    case '/full':
-      // /doi/full/10.1091/mbc.e09-12-1011
-      result.rtype = 'ARTICLE';
-      result.mime  = 'HTML';
-      break;
-    case '/abs':
-      // /doi/abs/10.1091/mbc.e09-12-1011
-      result.rtype = 'ABS';
-      result.mime  = 'HTML';
-      break;
-    }
   } else if ((match = /^\/search\/([a-z]+)$/i.exec(path)) !== null) {
     result.rtype = 'SEARCH';
     result.mime  = 'HTML';
