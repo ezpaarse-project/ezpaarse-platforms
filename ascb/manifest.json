@@ -1,0 +1,14 @@
+{
+  "longname": "The American Society for Cell Biology",
+  "name": "ascb",
+  "describe": "Recognizes the accesses to the platform The American Society for Cell Biology",
+  "contact": "Frederic Truong inist",
+  "pkb": false,
+  "docurl": "http://analyses.ezpaarse.org/platforms/63062f32b3f71c001fceb49d",
+  "domains": [
+    "www.molbiolcell.org",
+    "www.lifescied.org"
+  ],
+  "version": "2022-08-25",
+  "status": "beta"
+}
