@@ -148,10 +148,6 @@
       "description": "Sommaire d'un handbook",
       "description_en": "Summary of a handbook"
     },{
-      "code": "REF",
-      "description": "Référence de document",
-      "description_en": "Document Reference"
-    },{
       "code": "CODE_JURIDIQUE",
       "description": "Code juridique",
       "description_en": "Legal Code",
