@@ -14,33 +14,25 @@ module.exports = new Parser(function analyseEC(parsedUrl, ec) {
   let result = {};
   let path   = parsedUrl.pathname;
   // uncomment this line if you need parameters
-  // let param = parsedUrl.query || {};
+  let param = parsedUrl.query || {};
 
   // use console.error for debuging
   // console.error(parsedUrl);
 
-  let match;
-
-  if ((match = /^\/platform\/path\/to\/(document-([0-9]+)-test\.pdf)$/i.exec(path)) !== null) {
-    // http://parser.skeleton.js/platform/path/to/document-123456-test.pdf?sequence=1
-    result.rtype    = 'ARTICLE';
-    result.mime     = 'PDF';
-    result.title_id = match[1];
-
-    /**
-     * unitid is a crucial information needed to filter double-clicks phenomenon, like described by COUNTER
-     * it described the most fine-grained of what's being accessed by the user
-     * it can be a DOI, an internal identifier or a part of the accessed URL
-     * more at http://ezpaarse.readthedocs.io/en/master/essential/ec-attributes.html#unitid
-     */
-    result.unitid = match[2];
-
-  } else if ((match = /^\/platform\/path\/to\/(document-([0-9]+)-test\.html)$/i.exec(path)) !== null) {
-    // http://parser.skeleton.js/platform/path/to/document-123456-test.html?sequence=1
-    result.rtype    = 'ARTICLE';
+  if (/^\/searchmain\.php$/i.test(path)) {
+    // https://www-chem-reference.com/searchmain.php
+    result.rtype    = 'SEARCH';
     result.mime     = 'HTML';
-    result.title_id = match[1];
-    result.unitid   = match[2];
+
+  } else if (/^\/viewpdf\/view2\.php$/i.test(path)) {
+    // https://www-chem-reference.com/viewpdf/view2.php?out=2&DIV=2&CHAPTER=2-11&PAGE=272
+    result.rtype    = 'BOOK_PAGE';
+    result.mime     = 'PDF';
+  } else if (/^\/viewkiso\.php$/i.test(path)) {
+    // https://www-chem-reference.com/viewkiso.php?ID=T080074
+    result.rtype    = 'TABLE';
+    result.mime     = 'HTML';
+    result.unitid   = param.ID;
   }
 
   return result;
