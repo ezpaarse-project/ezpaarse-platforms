@@ -1,0 +1,13 @@
+{
+  "longname": "Chem Reference",
+  "name": "chem-ref",
+  "describe": "Recognizes the accesses to the platform Chem Reference",
+  "contact": "Anna Orben",
+  "pkb": false,
+  "docurl": "http://analyses.ezpaarse.org/platforms/62f95c932147050020819150",
+  "domains": [
+    "www-chem-reference.com"
+  ],
+  "version": "2022-08-31",
+  "status": "beta"
+}
