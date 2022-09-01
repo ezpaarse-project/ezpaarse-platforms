@@ -21,26 +21,25 @@ module.exports = new Parser(function analyseEC(parsedUrl, ec) {
 
   let match;
 
-  if ((match = /^\/platform\/path\/to\/(document-([0-9]+)-test\.pdf)$/i.exec(path)) !== null) {
-    // http://parser.skeleton.js/platform/path/to/document-123456-test.pdf?sequence=1
-    result.rtype    = 'ARTICLE';
+  if ((match = /^\/result\/index\.html$/i.exec(path)) !== null) {
+    // https://www.jiia.or.jp/result/index.html#/?ajaxUrl=%2F%2Fmf2apr01.marsflag.com%2Fjiia_jic__ja_2__ja%2Fx_search.x&ct=&d=&doctype=all&htmlLang=en&imgsize=1&page=1&pagemax=10&q=war&sort=0
+    result.rtype    = 'SEARCH';
+    result.mime     = 'HTML';
+
+  } else if ((match = /^\/research\/[0-9]{4}\/[0-9]{2}\/[0-9]{2}\/([0-9a-z]+)\.pdf$/i.exec(path)) !== null) {
+    // https://www.jiia.or.jp/research/2022/05/13/2021USMilitaryPower.pdf
+    result.rtype    = 'BOOK';
     result.mime     = 'PDF';
-    result.title_id = match[1];
-
-    /**
-     * unitid is a crucial information needed to filter double-clicks phenomenon, like described by COUNTER
-     * it described the most fine-grained of what's being accessed by the user
-     * it can be a DOI, an internal identifier or a part of the accessed URL
-     * more at http://ezpaarse.readthedocs.io/en/master/essential/ec-attributes.html#unitid
-     */
-    result.unitid = match[2];
-
-  } else if ((match = /^\/platform\/path\/to\/(document-([0-9]+)-test\.html)$/i.exec(path)) !== null) {
-    // http://parser.skeleton.js/platform/path/to/document-123456-test.html?sequence=1
+    result.unitid   = match[1];
+  } else if ((match = /^\/strategic_comment\/([0-9]+)-([0-9]+)\.html$/i.exec(path)) !== null) {
+    // https://www.jiia.or.jp/strategic_comment/2022-08.html
     result.rtype    = 'ARTICLE';
     result.mime     = 'HTML';
-    result.title_id = match[1];
-    result.unitid   = match[2];
+  } else if ((match = /^\/research-report\/([a-z0-9-]+)\.html$/i.exec(path)) !== null) {
+    // https://www.jiia.or.jp/research-report/indo-pacific-fy2021-06.html
+    result.rtype    = 'REPORT';
+    result.mime     = 'HTML';
+    result.unitid   = match[1];
   }
 
   return result;
