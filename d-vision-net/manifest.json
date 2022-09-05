@@ -1,0 +1,13 @@
+{
+  "longname": "D-VISION NET",
+  "name": "d-vision-net",
+  "describe": "Recognizes the accesses to the platform D-VISION NET",
+  "contact": "Anna Orben",
+  "pkb": false,
+  "docurl": "http://analyses.ezpaarse.org/platforms/62f14749c364ae0c6a5de00e",
+  "domains": [
+    "www-d-vision.ne.jp"
+  ],
+  "version": "2022-09-05",
+  "status": "beta"
+}
