@@ -1,0 +1,13 @@
+{
+  "longname": "American Oil Chemists Society",
+  "name": "aocs",
+  "describe": "Recognizes the accesses to the platform American Oil Chemists Society",
+  "contact": "Sean Duffy",
+  "pkb": false,
+  "docurl": "http://analyses.ezpaarse.org/platforms/6310dfb42652a201b8c17743",
+  "domains": [
+    "www.aocs.org"
+  ],
+  "version": "2022-09-05",
+  "status": "beta"
+}
