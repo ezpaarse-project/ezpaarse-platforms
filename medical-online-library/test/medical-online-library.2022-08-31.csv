@@ -1,6 +1,6 @@
 out-unitid;out-rtype;out-mime;in-url
-13.236.81.23;SEARCH;HTML;https://mol.medicalonline.jp/library/search/result?from=form_simple&query=dog&num=20&UserID=13.236.81.23
+;SEARCH;HTML;https://mol.medicalonline.jp/library/search/result?from=form_simple&query=dog&num=20&UserID=13.236.81.23
 ;SEARCH;HTML;https://pha.medicalonline.jp/index/search?searchtarget=2&from=form_simple&from=form_option&criteria=ibuprofen&perpage_=10&is_iryouyaku_=1&is_iryo_zaikei_naiyou_=1&is_iryo_zaikei_gaiyou_=1&is_iryo_zaikei_chusya_=1&is_iryo_zaikei_shika_=1&is_shouhin_mei_=1&is_ippan_mei_=1&is_tekiou_sikkanmei_=1
 dat1149001F2214;ENCYCLOPAEDIA_ENTRY;HTML;https://pha.medicalonline.jp/tenpu_html/iryouyaku/dat1149001F2214.htm
-13.236.81.23;SEARCH;HTML;https://mol.medicalonline.jp/library/ebooks/search?from=form_simple&purchased=0&query=medicine&num=20&UserID=13.236.81.23
+;SEARCH;HTML;https://mol.medicalonline.jp/library/ebooks/search?from=form_simple&purchased=0&query=medicine&num=20&UserID=13.236.81.23
 ;SEARCH;HTML;https://dev.medicalonline.jp/index/search?searchtarget=3&criteria=heart&perpage=10&accepted=0&accepted=1&unaccepted=0&unaccepted=1&maker_id=&from=form
