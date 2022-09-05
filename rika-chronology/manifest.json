@@ -1,0 +1,13 @@
+{
+  "longname": "Rika Chronology- Premium",
+  "name": "rika-chronology",
+  "describe": "Recognizes the accesses to the platform Rika Chronology- Premium",
+  "contact": "Anna Orben",
+  "pkb": false,
+  "docurl": "http://analyses.ezpaarse.org/platforms/62f961418cbbc700af1404a1",
+  "domains": [
+    "www.rikanenpyo.jp"
+  ],
+  "version": "2022-09-05",
+  "status": "beta"
+}
