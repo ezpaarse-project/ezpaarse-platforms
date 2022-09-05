@@ -1,0 +1,15 @@
+{
+  "longname": "Medical Online Library",
+  "name": "med-online-lib",
+  "describe": "Recognizes the accesses to the platform Medical Online Library",
+  "contact": "Anna Orben",
+  "pkb": false,
+  "docurl": "http://analyses.ezpaarse.org/platforms/62f276e81d92930026745f33",
+  "domains": [
+    "mol.medicalonline.jp",
+    "pha.medicalonline.jp",
+    "dev.medicalonline.jp"
+  ],
+  "version": "2022-09-05",
+  "status": "beta"
+}
