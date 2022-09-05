@@ -1,0 +1,13 @@
+{
+  "longname": "Keiyou Digital Library",
+  "name": "keiyou-dl",
+  "describe": "Recognizes the accesses to the platform Keiyou Digital Library",
+  "contact": "Anna Orben",
+  "pkb": false,
+  "docurl": "http://analyses.ezpaarse.org/platforms/62f26ba6c3d29c005923b9c4",
+  "domains": [
+    "lib.keiyou.jp"
+  ],
+  "version": "2022-09-05",
+  "status": "beta"
+}
