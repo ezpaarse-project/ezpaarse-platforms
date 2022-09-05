@@ -1,0 +1,14 @@
+{
+  "longname": "D1 Law",
+  "name": "d1-law",
+  "describe": "Recognizes the accesses to the platform D1 Law",
+  "contact": "Anna Orben",
+  "pkb": false,
+  "docurl": "http://analyses.ezpaarse.org/platforms/62f2bd3fe0b99c00aff8c8d5",
+  "domains": [
+    "ghk-jg-d1-law.com",
+    "d1l-ptl-d1-law.com"
+  ],
+  "version": "2022-09-05",
+  "status": "beta"
+}
