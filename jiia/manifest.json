@@ -1,0 +1,13 @@
+{
+  "longname": "JIIA",
+  "name": "jiia",
+  "describe": "Recognizes the accesses to the platform JIIA",
+  "contact": "Anna Orben",
+  "pkb": false,
+  "docurl": "http://analyses.ezpaarse.org/platforms/62fcea626c4bc8008e8e4518",
+  "domains": [
+    "www.jiia.or.jp"
+  ],
+  "version": "2022-08-31",
+  "status": "beta"
+}
