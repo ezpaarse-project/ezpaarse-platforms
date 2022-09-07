@@ -6,7 +6,8 @@
   "pkb": false,
   "docurl": "http://analyses.ezpaarse.org/platforms/6177ce261a391b07cdc39b6f",
   "domains": [
-    "capfinancials.com"
+    "capfinancials.com",
+    "app.capfinancials.com"
   ],
   "version": "2022-03-23",
   "status": "beta"
