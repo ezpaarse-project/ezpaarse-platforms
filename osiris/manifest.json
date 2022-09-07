@@ -1,0 +1,13 @@
+{
+  "longname": "Osiris",
+  "name": "osiris",
+  "describe": "Recognizes the accesses to the platform Osiris",
+  "contact": "Sean Duffy",
+  "pkb": false,
+  "docurl": "http://analyses.ezpaarse.org/platforms/630631df8e0e8a00529f454c",
+  "domains": [
+    "osiris.r1.bvdinfo.com"
+  ],
+  "version": "2022-08-31",
+  "status": "beta"
+}

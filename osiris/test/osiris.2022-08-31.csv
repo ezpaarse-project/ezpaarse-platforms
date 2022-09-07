@@ -1,0 +1,7 @@
+out-unitid;out-rtype;out-mime;in-url
+;SESSION;HTML;https://osiris.r1.bvdinfo.com/version-20220406-2418-22/home.serv?product=OsirisNeo&
+;SEARCH;HTML;https://osiris.r1.bvdinfo.com/version-20220406-2418-22/Search.CompanyName.serv?_CID=42&EditSearchStep=true&product=osirisneo&SearchStepId=Current.%7b2caa0661-0cb0-4cd9-9310-8c7a924ddcd3%7d0
+;SEARCH;HTML;https://osiris.r1.bvdinfo.com/version-20220406-2418-22/Search.WorldRegions.serv?_CID=88&EditSearchStep=true&product=osirisneo&SearchStepId=Current.%7bfc4dfda2-5236-4322-aa46-829fb94e7450%7d1
+;SEARCH;HTML;https://osiris.r1.bvdinfo.com/version-20220406-2418-22/Search.QuickSearch.serv?_CID=115&product=osirisneo
+;REPORT;HTML;https://osiris.r1.bvdinfo.com/version-20220406-2418-22/Report.serv?_CID=187&product=osirisneo&SeqNr=0
+;REPORT;HTML;https://osiris.r1.bvdinfo.com/version-20220406-2418-22/Report.serv?_CID=217&product=osirisneo&SeqNr=1&HideTab=true&CJD_OpenedLevelsInput=&CJD_DefaultOpenedLevelsInput=CJD_D0L0&CMA_OpenedLevelsInput=&CMA_DefaultOpenedLevelsInput=CMA_D0L0
