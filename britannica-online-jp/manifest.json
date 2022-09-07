@@ -1,0 +1,14 @@
+{
+  "longname": "Britannica Online Japan",
+  "name": "britannica-online-jp",
+  "describe": "Recognizes the accesses to the platform Britannica Online Japan",
+  "contact": "Anna Orben",
+  "pkb": false,
+  "docurl": "http://analyses.ezpaarse.org/platforms/62f3c43349759d008bcb7bb4",
+  "domains": [
+    "japan-eb-com",
+    "japan-eb.com"
+  ],
+  "version": "2022-08-31",
+  "status": "beta"
+}

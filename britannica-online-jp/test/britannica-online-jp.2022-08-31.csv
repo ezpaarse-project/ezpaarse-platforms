@@ -1,0 +1,6 @@
+out-unitid;out-rtype;out-mime;in-url
+;SEARCH;HTML;https://japan-eb-com/search?query1=man&matchType=f&x=0&y=0
+130900;ARTICLE;HTML;https://japan-eb.com/mb/article-130900_
+130900;ARTICLE;HTML;https://japan-eb.com/mb/print?view=fullprint&articleId=130900
+;SEARCH;HTML;https://japan-eb.com/search?matchType=p&searchType=advanced&query1=man&exOp2=AND&query2=war&exOp3=AND&query3=american&exOp4=AND&query4=&gcode=&perPage=10&x=39&y=9
+;RECORD_VIEW;PDF;https://japan-eb.com/resources/pdf/BOLJ_Guidetour.pdf
