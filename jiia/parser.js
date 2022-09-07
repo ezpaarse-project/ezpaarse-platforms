@@ -31,10 +31,11 @@ module.exports = new Parser(function analyseEC(parsedUrl, ec) {
     result.rtype    = 'BOOK';
     result.mime     = 'PDF';
     result.unitid   = match[1];
-  } else if ((match = /^\/strategic_comment\/([0-9]+)-([0-9]+)\.html$/i.exec(path)) !== null) {
+  } else if ((match = /^\/strategic_comment\/(([0-9]+)-([0-9]+))\.html$/i.exec(path)) !== null) {
     // https://www.jiia.or.jp/strategic_comment/2022-08.html
     result.rtype    = 'ARTICLE';
     result.mime     = 'HTML';
+    result.unitid = match[1];
   } else if ((match = /^\/research-report\/([a-z0-9-]+)\.html$/i.exec(path)) !== null) {
     // https://www.jiia.or.jp/research-report/indo-pacific-fy2021-06.html
     result.rtype    = 'REPORT';
