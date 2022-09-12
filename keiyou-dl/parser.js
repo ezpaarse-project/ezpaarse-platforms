@@ -19,8 +19,6 @@ module.exports = new Parser(function analyseEC(parsedUrl, ec) {
   // use console.error for debuging
   // console.error(parsedUrl);
 
-  let match;
-
   if (/^\/Search$/i.test(path)) {
     // https://lib.keiyou.jp/Search?mode=1&pkg=diamond&pkg=toyokeizai&pkg=toyokeizai-2nd&pkg=DHBR_Part1&pkg=Economist_1960s&pkg=Economist_1970s&pkg=Economist_1980s&pkg=domei&pkg=WeeklyPhotographic&pkg=fuzokugaho&title=food&author=&ideo=1&pdrange=0
     result.rtype    = 'SEARCH';
