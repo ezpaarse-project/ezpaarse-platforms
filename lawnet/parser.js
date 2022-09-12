@@ -26,7 +26,7 @@ module.exports = new Parser(function analyseEC(parsedUrl, ec) {
     result.mime     = 'PDF';
     result.unitid   = param._legalresearchpagecontent_WAR_lawnet3legalresearchportlet_contentDocID.replace(/\.[^/.]+$/, '');
   } else if (/^\/lawnet\/group\/lawnet\/page-content$/i.test(path)) {
-    // https://www.lawnet.sg/lawnet/group/lawnet/page-content?p_p_id=legalresearchpagecontent_WAR_lawnet3legalresearchportlet&p_p_lifecycle=1&p_p_state=normal&p_p_mode=view&p_p_col_id=column-2&p_p_col_count=1&_legalresearchpagecontent_WAR_lawnet3legalresearchportlet_action=openContentPage&_legalresearchpagecontent_WAR_lawnet3legalresearchportlet_contentDocID=/APBook/11_SEC_7978d4ef-1a20-46af-88eb-329799352981_Chapter4_SEC1-2.xml&&_legalresearchpagecontent_WAR_lawnet3legalresearchportlet_loadPage=1
+    //https://www.lawnet.sg/lawnet/group/lawnet/page-content?p_p_id=legalresearchpagecontent_WAR_lawnet3legalresearchportlet&p_p_lifecycle=1&p_p_state=normal&p_p_mode=view&p_p_col_id=column-2&p_p_col_count=1&_legalresearchpagecontent_WAR_lawnet3legalresearchportlet_action=openContentPage&_legalresearchpagecontent_WAR_lawnet3legalresearchportlet_contentDocID=/APBook/11_SEC_7978d4ef-1a20-46af-88eb-329799352981_Chapter4_SEC1-2.xml&&_legalresearchpagecontent_WAR_lawnet3legalresearchportlet_loadPage=1
     result.rtype    = 'BOOK';
     result.mime     = 'HTML';
     result.unitid   = param._legalresearchpagecontent_WAR_lawnet3legalresearchportlet_contentDocID.replace(/\.[^/.]+$/, '');
