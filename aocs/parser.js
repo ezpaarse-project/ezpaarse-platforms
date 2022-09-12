@@ -24,10 +24,6 @@ module.exports = new Parser(function analyseEC(parsedUrl, ec) {
     result.rtype    = 'SEARCH';
     result.mime     = 'HTML';
 
-  } else if (/^\/[a-z-]+\/methods\/methods\/search$/i.test(path)) {
-    // https://www.aocs.org/attain-lab-services/methods/methods/search
-    result.rtype    = 'SESSION';
-    result.mime     = 'HTML';
   }
 
   return result;
