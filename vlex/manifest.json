@@ -6,7 +6,8 @@
   "pkb": false,
   "docurl": "http://analyses.ezpaarse.org/platforms/5c0a3384204fd76c95fb90d3",
   "domains": [
-    "app.vlex.com"
+    "app.vlex.com",
+    "justis.vlex.com"
   ],
   "version": "2021-11-23",
   "status": "beta"
