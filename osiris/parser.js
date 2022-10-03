@@ -24,7 +24,7 @@ module.exports = new Parser(function analyseEC(parsedUrl, ec) {
     result.rtype    = 'SESSION';
     result.mime     = 'HTML';
 
-  } else if (/^\/version-[0-9]+-[0-9]+-[0-9]+\/Search\.[a-z]+\.serv$/i.test(path)) {
+  } else if (/^\/version-[0-9]+-[0-9]+-[0-9]+\/Search\.[A-Za-z]+\.serv$/i.test(path)) {
     // https://osiris.r1.bvdinfo.com/version-20220406-2418-22/Search.CompanyName.serv?_CID=42&EditSearchStep=true&product=osirisneo&SearchStepId=Current.%7b2caa0661-0cb0-4cd9-9310-8c7a924ddcd3%7d0
     // https://osiris.r1.bvdinfo.com/version-20220406-2418-22/Search.WorldRegions.serv?_CID=88&EditSearchStep=true&product=osirisneo&SearchStepId=Current.%7bfc4dfda2-5236-4322-aa46-829fb94e7450%7d1
     // https://osiris.r1.bvdinfo.com/version-20220406-2418-22/Search.QuickSearch.serv?_CID=115&product=osirisneo
