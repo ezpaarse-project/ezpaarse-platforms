@@ -22,7 +22,7 @@ module.exports = new Parser(function analyseEC(parsedUrl, ec) {
     result.sid = sid.slice(1, -1);
   }
 
-  if (param.q || param.q_id) {
+  if (/\/document\/?$/i.test(path) && (param.q || param.q_id)) {
     let size = Number.parseInt(param.size, 10);
 
     if (size === 0) { return {}; }
