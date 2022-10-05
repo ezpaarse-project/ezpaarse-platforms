@@ -13,15 +13,11 @@ const Parser = require('../.lib/parser.js');
 module.exports = new Parser(function analyseEC(parsedUrl, ec) {
   let result = {};
   let path = parsedUrl.pathname;
-  // uncomment this line if you need parameters
-  // let param = parsedUrl.query || {};
-
-  // use console.error for debuging
-  // console.error(parsedUrl);
+  let query = parsedUrl.query || {};
 
   let match;
 
-  if (path === '/') {
+  if (path === '/' && query.s) {
     // /?s=covid
     result.rtype = 'SEARCH';
     result.mime = 'HTML';
@@ -32,6 +28,12 @@ module.exports = new Parser(function analyseEC(parsedUrl, ec) {
     result.mime = 'HTML';
     result.publication_date = `${match[1]}-${match[2]}-${match[3]}`;
     result.unitid = match[4];
+
+  } else if ((match = /^\/[a-z0-9_-]+\/([a-z0-9_.-]+)\/?$/i.exec(path)) !== null) {
+    // /societe/notre-classement-des-meilleurs-lycees-publics-et-prives-de-lyon/
+    result.rtype = 'ARTICLE';
+    result.mime = 'HTML';
+    result.unitid = match[1];
   }
 
   return result;
