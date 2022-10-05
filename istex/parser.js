@@ -102,7 +102,7 @@ module.exports = new Parser(function analyseEC(parsedUrl, ec) {
       result.ark = match[2];
     }
 
-  } else if (/^\/document\/openurl$/i.test(path)) {
+  } else if (/^\/document\/(multi)?openurl$/i.test(path)) {
     result.rtype = 'OPENURL';
     result.mime  = 'MISC';
 
