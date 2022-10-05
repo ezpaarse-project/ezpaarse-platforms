@@ -19,3 +19,4 @@ out-issue;out-title_id;out-db_id;out-publisher_name;out-unitid;out-rtype;out-mim
 ;;jama;jama;;SEARCH;HTML;;;;https://jamanetwork.com/searchresults?q=COVID&allSites=1&SearchSourceType=1&exPrm_qqq={!payloadDisMaxQParser%20pf=Tags%20qf=Tags^0.0000001%20payloadFields=Tags%20bf=}%22COVID%22&exPrm_hl.q=COVID
 ;cancerimmunolres;;;694252;ARTICLE;HTML;;;10.1158/2326-6066.CIR-21-0696;https://aacrjournals.org/cancerimmunolres/article/doi/10.1158/2326-6066.CIR-21-0696/694252/Phosphoantigen-Stimulated-T-Cells-Suppress-Natural
 4;cancerimmunolres;;;689547;ARTICLE;HTML;10;372;;https://aacrjournals.org/cancerimmunolres/article/10/4/372/689547/Hallmarks-of-Resistance-to-Immune-Checkpoint
+;;asmedigitalcollection;asmedigitalcollection;;SEARCH;HTML;;;;https://asmedigitalcollection.asme.org/computingengineering/search-results?page=1&q=manage&fl_SiteID=1000009

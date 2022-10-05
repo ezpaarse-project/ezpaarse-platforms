@@ -161,10 +161,14 @@ module.exports = new Parser(function analyseEC(parsedUrl, ec) {
     result.unitid     = match[1];
     result.online_identifier = match[2];
     result.chapter    = match[3];
-  } else if ((match = /^\/searchresults$/i.exec(path)) !== null) {
+  } else if (/^\/searchresults$/i.test(path)) {
     // https://jamanetwork.com/searchresults?q=COVID&allSites=1&SearchSourceType=1&exPrm_qqq={!payloadDisMaxQParser%20pf=Tags%20qf=Tags^0.0000001%20payloadFields=Tags%20bf=}%22COVID%22&exPrm_hl.q=COVID
-    result.rtype    = 'SEARCH';
-    result.mime     = 'HTML';
+    result.rtype = 'SEARCH';
+    result.mime  = 'HTML';
+  } else if (/^\/[a-z0-9]+\/search-results$/i.test(path)) {
+    // /computingengineering/search-results?page=1&q=manage&fl_SiteID=1000009
+    result.rtype = 'SEARCH';
+    result.mime  = 'HTML';
   }
 
   return result;
