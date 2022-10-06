@@ -102,7 +102,14 @@ module.exports = new Parser(function analyseEC(parsedUrl, ec) {
       result.ark = match[2];
     }
 
-  } else if (/^\/document\/(multi)?openurl$/i.test(path)) {
+  } else if (/^\/document\/multiopenurl$/i.test(path) && /^post$/i.test(ec.method)) {
+    result.rtype = 'OPENURL';
+    result.mime  = 'MISC';
+
+    let count = Number.parseInt(param.count, 10);
+    result.istex_bundle_size = Number.isNaN(count) ? 1 : count;
+
+  } else if (/^\/document\/openurl$/i.test(path)) {
     result.rtype = 'OPENURL';
     result.mime  = 'MISC';
 
