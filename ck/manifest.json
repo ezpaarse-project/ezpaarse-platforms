@@ -4,7 +4,8 @@
   "domains": [
     "www.clinicalkey.com",
     "www.clinicalkey.es",
-    "www.clinicalkey.com.au"
+    "www.clinicalkey.com.au",
+    "www.clinicalkey.jp"
   ],
   "recognize": {
     "rid": [
