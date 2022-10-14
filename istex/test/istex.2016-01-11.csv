@@ -27,7 +27,7 @@ out-istex_bundle_size;out-sid;out-ark;out-rft.au;out-print_identifier;out-first_
 ;none;;Richard James Clark;0964-5284;298;30;4;;;;;OPENURL;MISC;GET;https://api.istex.fr/document/openurl?rft.au=Richard James Clark&rft.issn=0964-5284&rft.volume=30&rft.issue=4&rft.spage=298
 ;clickandread;;;;;;;;;;;;;GET;https://api.istex.fr/document/multiopenurl?sid=clickandread
 1;clickandread;;;;;;;;;;;OPENURL;MISC;POST;https://api.istex.fr/document/multiopenurl?sid=clickandread
-15;clickandread;;;;;;;;;;;OPENURL;MISC;POST;https://api.istex.fr/document/multiopenurl?sid=clickandread&count=15
+15;clickandread;;;;;;;;;;;OPENURL;MISC;POST;https://api.istex.fr/document/multiopenurl?sid=clickandread&bodySize=15
 1;istex-api-harvester;;;;;;;;;3EB25E26A48D416FCA454CA097A9DCFFC03C907D;fulltext;;TEI;GET;https://api.istex.fr/document/3EB25E26A48D416FCA454CA097A9DCFFC03C907D/fulltext/tei?sid=istex-api-harvester
 10;istex-dl;;;;;;;;;;;ISTEXDL_BUNDLE;ZIP;GET;https://api.istex.fr/document/?q_id=415ce83e4761a95a0b5384800b729409&extract=metadata%5Bjson%5D&size=10&rankBy=qualityOverRelevance&archiveType=zip&compressionLevel=6&sid=istex-dl&usage=2&total=2531&queryType=querywithARK
 20;istex-dl;;;;;;;;;;;ISTEXDL_BUNDLE;ZIP;GET;https://api.istex.fr/document/?q=aids&extract=metadata%5Bjson%5D&size=20&rankBy=qualityOverRelevance&archiveType=zip&compressionLevel=6&sid=istex-dl&usage=2&total=602718

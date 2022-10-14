@@ -106,8 +106,8 @@ module.exports = new Parser(function analyseEC(parsedUrl, ec) {
     result.rtype = 'OPENURL';
     result.mime  = 'MISC';
 
-    let count = Number.parseInt(param.count, 10);
-    result.istex_bundle_size = Number.isNaN(count) ? 1 : count;
+    let bodySize = Number.parseInt(param.bodySize, 10);
+    result.istex_bundle_size = Number.isNaN(bodySize) ? 1 : bodySize;
 
   } else if (/^\/document\/openurl$/i.test(path)) {
     result.rtype = 'OPENURL';
