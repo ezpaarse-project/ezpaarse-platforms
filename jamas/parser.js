@@ -19,14 +19,15 @@ module.exports = new Parser(function analyseEC(parsedUrl, ec) {
   // use console.error for debuging
   // console.error(parsedUrl);
 
-  let match;
-
-  if ((match = /^\/search\/do\/detail\/sidx\/([0-9]+)$/i.exec(path)) !== null) {
+  if (/^\/search\/do\/detail\/sidx\/([0-9]+)$/i.test(path)) {
     // https://search.jamas.or.jp/search/do/detail/sidx/0
     result.rtype    = 'ARTICLE';
     result.mime     = 'HTML';
-    result.unitid = match[1];
 
+  } else if (/^\/link\/bc\/detail\/sidx\/([0-9]+)$/i.test(path)) {
+    // https://search.jamas.or.jp/link/bc/detail/sidx/0
+    result.rtype    = 'RECORD';
+    result.mime     = 'HTML';
   } else if (/^\/search\/do(:?\/exec)?$/i.test(path)) {
     // https://search.jamas.or.jp/search/do
     // https://search.jamas.or.jp/search/do/exec?h=1&field=word&query=%238
