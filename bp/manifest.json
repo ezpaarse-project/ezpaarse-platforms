@@ -1,0 +1,13 @@
+{
+  "longname": "British Pharmacopoeia",
+  "name": "bp",
+  "describe": "Recognizes the accesses to the platform British Pharmacopoeia",
+  "contact": "Anna Orben",
+  "pkb": false,
+  "docurl": "http://analyses.ezpaarse.org/platforms/6334613e9b7fc5033eac7bae",
+  "domains": [
+    "www.pharmacopoeia.com"
+  ],
+  "version": "2022-10-18",
+  "status": "beta"
+}
