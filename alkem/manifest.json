@@ -1,0 +1,13 @@
+{
+  "longname": "ALKEM Digital Library",
+  "name": "alkem",
+  "describe": "Recognizes the accesses to the platform ALKEM Digital Library",
+  "contact": "Anna Orben",
+  "pkb": false,
+  "docurl": "http://analyses.ezpaarse.org/platforms/63344dc9ec630f00172a3562",
+  "domains": [
+    "tpsg.alkemlibrary.com"
+  ],
+  "version": "2022-10-18",
+  "status": "beta"
+}
