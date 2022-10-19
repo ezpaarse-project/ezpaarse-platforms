@@ -1,0 +1,15 @@
+{
+  "longname": "Human Kinetics",
+  "name": "hk",
+  "describe": "Recognizes the accesses to the platform Human Kinetics",
+  "contact": "Anna Orben",
+  "pkb": false,
+  "docurl": "http://analyses.ezpaarse.org/platforms/633482fb5b11180267b6c5bd",
+  "domains": [
+    "www.humankinetics.com",
+    "us.humankinetics.com",
+    "journals.humankinetics.com"
+  ],
+  "version": "2022-10-18",
+  "status": "beta"
+}
