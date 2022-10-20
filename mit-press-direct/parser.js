@@ -48,9 +48,9 @@ module.exports = new Parser(function analyseEC(parsedUrl, ec) {
     result.unitid   = match[1];
   } else if ((match = /^\/books\/monograph\/([0-9]+)\/chapter-abstract\/([0-9]+)\/([0-9a-z-]+)$/i.exec(path)) !== null) {
   // https://direct.mit.edu/books/monograph/5359/chapter-abstract/3884051/How-to-Read-This-Book?redirectedFrom=fulltext
-    result.rtype    = 'BOOK_CHAPTERS_BUNDLE';
+    result.rtype    = 'BOOK_SECTION';
     result.mime     = 'HTML';
-    result.title_id = match[2];
+    result.title_id = match[1];
     result.unitid   = match[1] + '-' + match[2];
   }
 
