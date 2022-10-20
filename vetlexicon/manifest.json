@@ -1,0 +1,13 @@
+{
+  "longname": "Vetlexicon",
+  "name": "vetlexicon",
+  "describe": "Recognizes the accesses to the platform Vetlexicon",
+  "contact": "Anna Orben",
+  "pkb": false,
+  "docurl": "http://analyses.ezpaarse.org/platforms/634041e121153d0024d847c5",
+  "domains": [
+    "www.vetlexicon.com"
+  ],
+  "version": "2022-10-19",
+  "status": "beta"
+}
