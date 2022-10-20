@@ -12,7 +12,7 @@ const Parser = require('../.lib/parser.js');
  */
 module.exports = new Parser(function analyseEC(parsedUrl, ec) {
   let result = {};
-  let path   = parsedUrl.pathname;
+  let path = parsedUrl.pathname;
   // uncomment this line if you need parameters
   // let param = parsedUrl.query || {};
 
@@ -21,16 +21,16 @@ module.exports = new Parser(function analyseEC(parsedUrl, ec) {
 
   let match;
 
-  if ((match = /^\/treat\/([a-z]+)\/([a-z-]+)\/([a-z-]+)$/i.exec(path)) !== null) {
+  if ((match = /^\/treat\/[a-z]+\/[a-z-]+\/([a-z-]+)$/i.exec(path)) !== null) {
     // https://www.vetlexicon.com/treat/canis/breeds-pages/anatolian-shepherd-dog
-    result.rtype    = 'ARTICLE';
-    result.mime     = 'HTML';
-    result.unitid = match[1] + '-' + match[2]+ '-' + match[3];
+    result.rtype = 'ARTICLE';
+    result.mime = 'HTML';
+    result.unitid = match[1];
 
   } else if (/^\/treat\/search\.aspx$/i.test(path)) {
     // https://www.vetlexicon.com/treat/search.aspx?searchtext=dog&searchmode=anyword
-    result.rtype    = 'SEARCH';
-    result.mime     = 'HTML';
+    result.rtype = 'SEARCH';
+    result.mime = 'HTML';
   }
 
   return result;
