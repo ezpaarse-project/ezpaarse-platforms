@@ -12,27 +12,32 @@ const Parser = require('../.lib/parser.js');
  */
 module.exports = new Parser(function analyseEC(parsedUrl, ec) {
   let result = {};
-  let path   = parsedUrl.pathname;
+  let path = parsedUrl.pathname;
   // uncomment this line if you need parameters
   // let param = parsedUrl.query || {};
 
   // use console.error for debuging
   // console.error(parsedUrl);
 
-  if (/^\/search\/do\/detail\/sidx\/([0-9]+)$/i.test(path)) {
-    // https://search.jamas.or.jp/search/do/detail/sidx/0
-    result.rtype    = 'ARTICLE';
-    result.mime     = 'HTML';
+  let match;
 
-  } else if (/^\/link\/bc\/detail\/sidx\/([0-9]+)$/i.test(path)) {
+  if ((match = /^\/search\/do\/detail\/sidx\/([0-9]+)$/i.exec(path)) !== null) {
+    // https://search.jamas.or.jp/search/do/detail/sidx/0
+    result.rtype = 'ARTICLE';
+    result.mime = 'HTML';
+    result.unitid = match[1];
+
+  } else if ((match = /^\/link\/bc\/detail\/sidx\/([0-9]+)$/i.exec(path)) !== null) {
     // https://search.jamas.or.jp/link/bc/detail/sidx/0
-    result.rtype    = 'RECORD';
-    result.mime     = 'HTML';
+    result.rtype = 'RECORD';
+    result.mime = 'HTML';
+    result.unitid = match[1];
+
   } else if (/^\/search\/do(:?\/exec)?$/i.test(path)) {
     // https://search.jamas.or.jp/search/do
     // https://search.jamas.or.jp/search/do/exec?h=1&field=word&query=%238
-    result.rtype    = 'SEARCH';
-    result.mime     = 'HTML';
+    result.rtype = 'SEARCH';
+    result.mime = 'HTML';
   }
 
   return result;
