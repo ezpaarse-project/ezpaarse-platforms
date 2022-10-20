@@ -12,7 +12,7 @@ const Parser = require('../.lib/parser.js');
  */
 module.exports = new Parser(function analyseEC(parsedUrl, ec) {
   let result = {};
-  let path   = parsedUrl.pathname;
+  let path = parsedUrl.pathname;
   // uncomment this line if you need parameters
   // let param = parsedUrl.query || {};
 
@@ -22,17 +22,17 @@ module.exports = new Parser(function analyseEC(parsedUrl, ec) {
   let match;
 
   if ((match = /^\/(photo|footage|audio)_([0-9]+)_[a-z-]+\.html$/i.exec(path)) !== null) {
-    result.mime     = 'HTML';
+    result.mime = 'HTML';
     result.unitid = match[2];
     if (match[1] == 'photo') {
       // https://www.123rf.com/photo_129407680_child-playing-with-baby-dog-and-cat-kids-play-with-puppy-and-kitten-little-boy-and-american-cocker-s.html?vti=nemmudp95bmhkhd5xi-1-6
-      result.rtype    = 'IMAGE';
+      result.rtype = 'IMAGE';
     } else if (match[1] == 'footage') {
       // https://www.123rf.com/footage_137527960_ink-water-explosion-sorcery-chemistry-pink-yellow-smog-effect-.html
-      result.rtype    = 'VIDEO';
-    } else if (match[1] =='audio') {
+      result.rtype = 'VIDEO';
+    } else if (match[1] == 'audio') {
       // https://www.123rf.com/audio_192142832_beautiful-warm-positive-cool-fun-romantic-loving-guitar-whistle-koto-pan-flute-and-accordion-backgro.html
-      result.rtype    = 'AUDIO';
+      result.rtype = 'AUDIO';
     }
   }
 
