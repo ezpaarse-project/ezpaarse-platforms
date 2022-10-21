@@ -39,7 +39,7 @@ module.exports = new Parser(function analyseEC(parsedUrl, ec) {
     result.vol = match[2];
     result.issue = match[3];
     result.spage = match[4];
-    result.unitid = match[1] + '-' + match[2] + '-' + match[3] + '-' + match[4] + '-pdf';
+    result.unitid = match[1] + '-' + match[2] + '-' + match[3] + '-' + match[4];
   } else if ((match = /^\/books\/book\/([0-9]+)\/([0-9a-z-]+)$/i.exec(path)) !== null) {
     // https://direct.mit.edu/books/book/2683/The-Big-Book-of-Concepts
     result.rtype    = 'BOOK';
