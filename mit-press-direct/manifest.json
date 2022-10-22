@@ -1,0 +1,13 @@
+{
+  "longname": "MIT Press Direct",
+  "name": "mit-press-direct",
+  "describe": "Recognizes the accesses to the platform MIT Press Direct",
+  "contact": "Anna Orben",
+  "pkb": false,
+  "docurl": "http://analyses.ezpaarse.org/platforms/633d874320568502102910c5",
+  "domains": [
+    "direct.mit.edu"
+  ],
+  "version": "2022-10-18",
+  "status": "beta"
+}
