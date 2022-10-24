@@ -34,6 +34,10 @@ module.exports = new Parser(function analyseEC(parsedUrl, ec) {
       // https://www.123rf.com/audio_192142832_beautiful-warm-positive-cool-fun-romantic-loving-guitar-whistle-koto-pan-flute-and-accordion-backgro.html
       result.rtype = 'AUDIO';
     }
+  } else if (/^\/stock-photo\/[a-z-]+\.html$/i.test(path)) {
+    // https://www.123rf.com/stock-photo/Dog.html
+    result.mime = 'HTML';
+    result.rtype = 'SEARCH';
   }
 
   return result;
