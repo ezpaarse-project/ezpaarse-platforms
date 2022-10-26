@@ -1,0 +1,13 @@
+{
+  "longname": "Prairial",
+  "name": "prairial",
+  "describe": "Recognizes the accesses to the platform Prairial",
+  "contact": "thomas.porquet, Frederic Truong inist",
+  "pkb": false,
+  "docurl": "http://analyses.ezpaarse.org/platforms/62da68c1a934084b1ad8e9d2",
+  "domains": [
+    "publications-prairial.fr"
+  ],
+  "version": "2022-10-26",
+  "status": "beta"
+}
