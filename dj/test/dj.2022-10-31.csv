@@ -1,0 +1,4 @@
+out-unitid;out-rtype;out-mime;in-url
+;SEARCH;HTML;https://dejure.it/#/ricerca/giurisprudenza_lista_risultati?isCorrelazioniSearch=false
+10062620;RECORD;HTML;https://dejure.it/#/ricerca/giurisprudenza_documento_massime?idDatabank=0&idDocMaster=10062620&idUnitaDoc=0&nVigUnitaDoc=1&docIdx=0&semantica=0&isPdf=false&fromSearch=false&isCorrelazioniSearch=false
+3948531;RECORD;HTML;https://dejure.it/#/ricerca/fonti_documento?idDatabank=7&idDocMaster=3948531&idUnitaDoc=20129755&nVigUnitaDoc=1&isCorrelazioniSearch=true
