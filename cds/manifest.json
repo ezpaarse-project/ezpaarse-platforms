@@ -1,0 +1,15 @@
+{
+  "longname": "Corriere Della Sera",
+  "name": "cds",
+  "describe": "Recognizes the accesses to the platform Corriere Della Sera",
+  "contact": "Sean Duffy",
+  "pkb": false,
+  "docurl": "http://analyses.ezpaarse.org/platforms/6362af277c6b5e01f7f48909",
+  "domains": [
+    "video.corriere.it",
+    "www.corriere.it",
+    "sitesearch.corriere.it"
+  ],
+  "version": "2022-11-02",
+  "status": "beta"
+}
