@@ -31,7 +31,7 @@ module.exports = new Parser(function analyseEC(parsedUrl, ec) {
     // https://www.corriere.it/politica/22_novembre_02/meloni-norma-anti-rave-facebook-b5b0e806-5ac5-11ed-b909-d31977d24b2b.shtml
     result.rtype = 'ARTICLE';
     result.mime = 'HTML';
-    result.unitid = match[3];
+    result.unitid = match[1];
   } else if (/^\/forward\.jsp$/i.test(path)) {
     // https://sitesearch.corriere.it/forward.jsp?q=putin#
     result.rtype = 'SEARCH';
