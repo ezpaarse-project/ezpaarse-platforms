@@ -1,7 +1,9 @@
-out-unitid;out-title_id;out-vol;out-issue;out-rtype;out-mime;in-url
-;;;;SEARCH;HTML;https://www.humankinetics.com/search-old?Q=brain&x=0&y=0#&sSearchWord=brain
-Brain-Compatible-Dance-Education-Web-Resource-2nd-Edition;;;;RECORD;HTML;https://us.humankinetics.com/products/Brain-Compatible-Dance-Education-Web-Resource-2nd-Edition?
-article-10.1123-kr.2022-0018;krj;;;ABS;HTML;https://journals.humankinetics.com/view/journals/krj/aop/article-10.1123-kr.2022-0018/article-10.1123-kr.2022-0018.xml?rskey=qLCrSF&result=2
-article-p761;japa;30;5;ABS;HTML;https://journals.humankinetics.com/view/journals/japa/30/5/article-p761.xml
-article-p10;japa;25;1;ABS;HTML;https://journals.humankinetics.com/view/journals/japa/25/1/article-p10.xml
-article-p761;japa;30;5;ARTICLE;PDF;https://journals.humankinetics.com/view/journals/japa/30/5/article-p761.xml?content=pdf
+out-unitid;out-doi;out-title_id;out-vol;out-issue;out-spage;out-rtype;out-mime;in-url
+;;;;;;SEARCH;HTML;https://www.humankinetics.com/search-old?Q=brain&x=0&y=0#&sSearchWord=brain
+Brain-Compatible-Dance-Education-Web-Resource-2nd-Edition;;;;;;RECORD;HTML;https://us.humankinetics.com/products/Brain-Compatible-Dance-Education-Web-Resource-2nd-Edition?
+article-10.1123-kr.2022-0018;10.1123-kr.2022-0018;krj;;;;ABS;HTML;https://journals.humankinetics.com/view/journals/krj/aop/article-10.1123-kr.2022-0018/article-10.1123-kr.2022-0018.xml?rskey=qLCrSF&result=2
+article-p761;;japa;30;5;761;ABS;HTML;https://journals.humankinetics.com/view/journals/japa/30/5/article-p761.xml
+article-p10;;japa;25;1;10;ABS;HTML;https://journals.humankinetics.com/view/journals/japa/25/1/article-p10.xml
+article-p761;;japa;30;5;761;ARTICLE;PDF;https://journals.humankinetics.com/view/journals/japa/30/5/article-p761.xml?content=pdf
+apaq-overview;;apaq;;;;TOC;HTML;https://journals.humankinetics.com/view/journals/apaq/apaq-overview.xml
+apaq.38.issue-4;;apaq;38;4;;TOC;HTML;https://journals.humankinetics.com/view/journals/apaq/38/4/apaq.38.issue-4.xml
