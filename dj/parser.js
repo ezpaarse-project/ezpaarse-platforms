@@ -2,7 +2,7 @@
 
 'use strict';
 const Parser = require('../.lib/parser.js');
-const URL    = require('url');
+const URL = require('url');
 
 /**
  * Recognizes the accesses to the platform Dejure
@@ -20,18 +20,16 @@ module.exports = new Parser(function analyseEC(parsedUrl, ec) {
 
   if (/^\/ricerca\/giurisprudenza_lista_risultati$/i.test(path)) {
     // https://dejure.it/#/ricerca/giurisprudenza_lista_risultati?isCorrelazioniSearch=false
-    result.rtype    = 'SEARCH';
-    result.mime     = 'HTML';
+    result.rtype = 'SEARCH';
+    result.mime = 'HTML';
 
   } else if (/^\/ricerca\/[a-z_]+$/i.test(path)) {
     // https://dejure.it/#/ricerca/giurisprudenza_documento_massime?idDatabank=0&idDocMaster=10062620&idUnitaDoc=0&nVigUnitaDoc=1&docIdx=0&semantica=0&isPdf=false&fromSearch=false&isCorrelazioniSearch=false
     // https://dejure.it/#/ricerca/fonti_documento?idDatabank=7&idDocMaster=3948531&idUnitaDoc=20129755&nVigUnitaDoc=1&isCorrelazioniSearch=true
-    result.rtype    = 'RECORD';
-    result.mime     = 'HTML';
-    if (param.idDocMaster) {
-      result.unitid   = param.idDocMaster;
-    } else if (param.idUnitaDoc) {
-      result.unitid   = param.idDocMaster;
+    result.rtype = 'RECORD';
+    result.mime = 'HTML';
+    if (param.idDocMaster || param.idUnitaDoc) {
+      result.unitid = param.idDocMaster;
     }
   }
 
