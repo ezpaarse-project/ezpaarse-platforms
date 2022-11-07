@@ -12,7 +12,7 @@ const Parser = require('../.lib/parser.js');
  */
 module.exports = new Parser(function analyseEC(parsedUrl, ec) {
   let result = {};
-  let path   = parsedUrl.pathname;
+  let path = parsedUrl.pathname;
   // uncomment this line if you need parameters
   // let param = parsedUrl.query || {};
 
@@ -24,19 +24,19 @@ module.exports = new Parser(function analyseEC(parsedUrl, ec) {
   if (/^\/cabdirect\/search\/$/i.test(path)) {
     // https://www.cabdirect.org/cabdirect/search/?q=Brain
     // https://www.cabdirect.org/cabdirect/search/?q=do%3a%22Zhongguo%20Weishengtaxixue%20Zazhi%20%2F%20Chinese%20Journal%20of%20Microecology%22
-    result.rtype    = 'SEARCH';
-    result.mime     = 'HTML';
+    result.rtype = 'SEARCH';
+    result.mime = 'HTML';
 
-  } else if ((match = /^\/cabdirect\/FullTextPDF\/([0-9]+)\/([0-9]+)\.PDF$/i.exec(path)) !== null) {
+  } else if ((match = /^\/cabdirect\/FullTextPDF\/[0-9]+\/([0-9]+)\.PDF$/i.exec(path)) !== null) {
     // https://www.cabdirect.org/cabdirect/FullTextPDF/2022/20220157058.pdf
-    result.rtype    = 'ARTICLE';
-    result.mime     = 'PDF';
-    result.unitid   = match[2];
+    result.rtype = 'ARTICLE';
+    result.mime = 'PDF';
+    result.unitid = match[1];
   } else if ((match = /^\/cabdirect\/abstract\/([0-9]+)$/i.exec(path)) !== null) {
     // https://www.cabdirect.org/cabdirect/abstract/20220294881?q=(Brain)
-    result.rtype    = 'ABS';
-    result.mime     = 'HTML';
-    result.unitid   = match[1];
+    result.rtype = 'ABS';
+    result.mime = 'HTML';
+    result.unitid = match[1];
   }
 
   return result;
