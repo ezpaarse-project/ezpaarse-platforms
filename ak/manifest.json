@@ -1,0 +1,13 @@
+{
+  "longname": "Akademiai Kiado",
+  "name": "ak",
+  "describe": "Recognizes the accesses to the platform Akademiai Kiado",
+  "contact": "Anna Orben, Karen Coombs",
+  "pkb": false,
+  "docurl": "http://analyses.ezpaarse.org/platforms/62f10b9fec839a00186c5341",
+  "domains": [
+    "akjournals.com"
+  ],
+  "version": "2022-10-24",
+  "status": "beta"
+}
