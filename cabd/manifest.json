@@ -1,0 +1,13 @@
+{
+  "longname": "Cab Direct",
+  "name": "cabd",
+  "describe": "Recognizes the accesses to the platform Cab Direct",
+  "contact": "Sean Duffy",
+  "pkb": false,
+  "docurl": "http://analyses.ezpaarse.org/platforms/635a90fdfbffb000fc5de1da",
+  "domains": [
+    "www.cabdirect.org"
+  ],
+  "version": "2022-10-31",
+  "status": "beta"
+}
