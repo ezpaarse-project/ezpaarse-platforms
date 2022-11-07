@@ -1,0 +1,13 @@
+{
+  "longname": "Kluwer Law Online",
+  "name": "klo",
+  "describe": "Recognizes the accesses to the platform Kluwer Law Online",
+  "contact": "Sean Duffy",
+  "pkb": false,
+  "docurl": "http://analyses.ezpaarse.org/platforms/6362dbe13d5c9001b205c531",
+  "domains": [
+    "kluwerlawonline.com"
+  ],
+  "version": "2022-11-03",
+  "status": "beta"
+}
