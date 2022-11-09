@@ -21,14 +21,16 @@ module.exports = new Parser(function analyseEC(parsedUrl, ec) {
 
   let match;
 
-  if ((match = /^\/results$/i.exec(path)) !== null) {
+  if (/^\/results$/i.test(path)) {
     // https://www.dynamed.com/results?q=heart&lang=en
-    result.rtype    = 'SEARCH';
-    result.mime     = 'HTML';
-  } else if ((match = /^\/api\/BuzzDmpSearch$/i.exec(path)) !== null) {
-    // http://www.dynamed.com:80/api/BuzzDmpSearch
-    result.rtype    = 'SEARCH';
-    result.mime     = 'HTML';
+    result.rtype = 'SEARCH';
+    result.mime = 'HTML';
+  } else if (/^\/api\/search|BuzzDmpSearch(\/v6\/search)?$/i.test(path)) {
+    //https://www.dynamed.com:443/api/search/v6/search?term=nasogastric+tube+placement&transaction-id=b480d8a7-e6a7-4798-abaf-e4ae738f5ec9&includeQa=true&types=articles,drugs&filterType=group
+    //https://www.dynamed.com:443/api/search/v6/search?term=burkholderia+pseudomallei&types=articles,drugs,images,tools,videos,calculators&aggregationType=group,pretty&size=0&aggregations=true&transaction-id=0762df92-2992-4c9c-aa1c-359eb01d0aa0
+    //http://www.dynamed.com:80/api/BuzzDmpSearch
+    result.rtype = 'SEARCH';
+    result.mime = 'HTML';
   } else if ((match = /^\/topics\/(([a-z0-9-~]+)\/([a-z0-9-~]+))$/i.exec(path)) !== null) {
     // http://www.dynamed.com:80/topics/dmp~AN~T116756/Superficial-vein-thrombosis-SVT
     result.rtype    = 'ARTICLE';
