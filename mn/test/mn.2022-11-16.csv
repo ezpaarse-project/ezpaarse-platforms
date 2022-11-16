@@ -1,0 +1,5 @@
+out-unitid;out-rtype;out-mime;in-url
+il-buco;ABS;HTML;https://vod.mediatheque-numerique.com/films/il-buco
+3a9f619d-5b95-11ed-bb83-d2b43dac3155;VIDEO;MISC;https://vod.mediatheque-numerique.com/api/proxy/api/user/createTransaction?productUuid=3a9f619d-5b95-11ed-bb83-d2b43dac3155
+;SEARCH;HTML;https://vod.mediatheque-numerique.com/products?
+;SEARCH;HTML;https://vod.mediatheque-numerique.com/products?tagsNames=ABANDON&sortType=PUBLICATION_DATE&productionYearMin=1900&productionYearMax=2022&noQuotas=0
