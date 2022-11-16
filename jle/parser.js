@@ -19,9 +19,6 @@ module.exports = new Parser(function analyseEC(parsedUrl, ec) {
   // uncomment this line if you need parameters
   var param = parsedUrl.query || {};
 
-  // use console.error for debuging
-  // console.error(parsedUrl);
-
   var match;
 
   if ((match = /^\/fr\/revues\/(.+)\/e-docs\/(\w+)_(\d+)\/article\.phtml$/.exec(path)) !== null) {
@@ -29,32 +26,51 @@ module.exports = new Parser(function analyseEC(parsedUrl, ec) {
     switch (param.tab) {
     case 'texte':
       result.rtype = 'ARTICLE';
+      result.mime = 'HTML';
       break;
     case 'references':
       result.rtype = 'RECORD_VIEW';
+      result.mime = 'HTML';
       break;
     case 'images':
       result.rtype = 'IMAGE';
+      result.mime = 'HTML';
+      break;
+    case 'download':
+      if (param.pj_key) {
+        result.rtype = 'SUPPL';
+        result.mime = 'PDF';
+      }
       break;
     default:
       result.rtype = 'ABS';
+      result.mime = 'HTML';
       break;
     }
-    result.mime = 'HTML';
     result.title_id = match[1];
     result.unitid = match[3];
+
   } else if ((match = /^\/download\/([a-z]{3,4})-(\d+)-.*\.pdf$/.exec(path)) !== null) {
     // http://www.jle.com/download/ipe-304480-proposition_dune_grille_danalyse_des_representations_sociales_pour_la_prise_en_charge_des_auteurs_dagression_sexuelle-scd_lille_2-Vt2DzX8AAQEAAHKJNncAAAAG-u.pdf
     result.rtype = 'ARTICLE';
     result.mime = 'PDF';
     result.title_id = match[1];
     result.unitid = match[2];
+
   } else if ((match = /^\/fr\/revues\/(.+)\/sommaire\.phtml$/.exec(path)) !== null) {
     // http://www.jle.com/fr/revues/ipe/sommaire.phtml?cle_parution=4295
     result.rtype = 'TOC';
     result.mime = 'HTML';
     result.title_id = match[1];
     result.unitid = param.cle_parution;
+
+  } else if ((match = /^\/(10\.[0-9]+\/(([a-z]+)\..+))$/.exec(path)) !== null) {
+    // /10.1684/vir.2022.0966
+    result.rtype = 'ABS';
+    result.mime = 'HTML';
+    result.doi = match[1];
+    result.unitid = match[2];
+    result.title_id = match[3];
   }
 
   return result;
