@@ -19,6 +19,9 @@
       "PDF"
     ]
   },
+  "bacon": {
+    "provider": "JLE"
+  },
   "name": "jle",
   "longname": "John Libbey Eurotext",
   "describe": "Identifie les consultations de la plateforme John Libbery Eurotext",
