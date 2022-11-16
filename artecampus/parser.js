@@ -25,16 +25,9 @@ module.exports = new Parser(function analyseEC(parsedUrl, ec) {
     // /program/philosophie-inconscient
     result.rtype    = 'ABS';
     result.mime     = 'HTML';
-
-    /**
-     * unitid is a crucial information needed to filter double-clicks phenomenon, like described by COUNTER
-     * it described the most fine-grained of what's being accessed by the user
-     * it can be a DOI, an internal identifier or a part of the accessed URL
-     * more at http://ezpaarse.readthedocs.io/en/master/essential/ec-attributes.html#unitid
-     */
     result.unitid = match[1];
 
-  } else if ((match = /^\/search\/[0-9a-z-/]+$/i.exec(path)) !== null) {
+  } else if ((match = /^\/search\/.+$/i.exec(path)) !== null) {
     // /search/freud
     // /search/freud/thesaurus/8287/page/1
     result.rtype    = 'SEARCH';
