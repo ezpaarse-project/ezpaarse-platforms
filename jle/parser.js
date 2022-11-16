@@ -21,7 +21,7 @@ module.exports = new Parser(function analyseEC(parsedUrl, ec) {
 
   var match;
 
-  if ((match = /^\/fr\/revues\/(.+)\/e-docs\/(\w+)_(\d+)\/article\.phtml$/.exec(path)) !== null) {
+  if ((match = /^\/[a-z]{2}\/revues\/(.+)\/e-docs\/(\w+)_(\d+)\/article\.phtml$/.exec(path)) !== null) {
     // http://www.jle.com/fr/revues/ipe/e-docs/proposition_dune_grille_danalyse_des_representations_sociales_pour_la_prise_en_charge_des_auteurs_dagression_sexuelle_304480/article.phtml?tab=texte
     switch (param.tab) {
     case 'texte':
@@ -57,7 +57,7 @@ module.exports = new Parser(function analyseEC(parsedUrl, ec) {
     result.title_id = match[1];
     result.unitid = match[2];
 
-  } else if ((match = /^\/fr\/revues\/(.+)\/sommaire\.phtml$/.exec(path)) !== null) {
+  } else if ((match = /^\/[a-z]{2}\/revues\/(.+)\/sommaire\.phtml$/.exec(path)) !== null) {
     // http://www.jle.com/fr/revues/ipe/sommaire.phtml?cle_parution=4295
     result.rtype = 'TOC';
     result.mime = 'HTML';
