@@ -1,0 +1,52 @@
+publication_title	print_identifier	online_identifier	date_first_issue_online	num_first_vol_online	num_first_issue_online	date_last_issue_online	num_last_vol_online	num_last_issue_online	title_url	first_author	title_id	embargo_info	coverage_depth	notes	publisher_name	publication_type	date_monograph_published_print	date_monograph_published_online	monograph_volume	monograph_edition	first_editor	parent_publication_title_id	preceding_publication_title_id	access_type	bestppn
+Annales de Biologie Clinique	0003-3898	1950-6112	1997	55	1				https://www.jle.com/fr/revues/abc/archive.phtml		abc	P1Y	fulltext		John Libbey Eurotext	serial								F	142870625
+Annales de Biologie Clinique	0003-3898	1950-6112	1997	55	1				https://www.jle.com/fr/revues/abc/archive.phtml		abc	R1Y	fulltext		John Libbey Eurotext	serial								P	142870625
+Annales de Gérontologie	1968-0805	2102-6009	2008	1	1	2011	4	1	https://www.jle.com/fr/revues/age/archive.phtml		age		fulltext		John Libbey Eurotext	serial								F	137918968
+Bulletin Infirmier du Cancer	1628-2205	2102-5983	2001	1	1				https://www.jle.com/fr/revues/bic/archive.phtml		bic	P1Y	fulltext		John Libbey Eurotext	serial								F	137918941
+Bulletin Infirmier du Cancer	1628-2205	2102-5983	2001	1	1				https://www.jle.com/fr/revues/bic/archive.phtml		bic	R1Y	fulltext		John Libbey Eurotext	serial								P	137918941
+Cahiers d'études et de recherches francophones / Santé	1157-5999	1950-6953	1991	1	1	2011	21	3	https://www.jle.com/fr/revues/san/archive.phtml		san		fulltext		John Libbey Eurotext	serial								F	145456811
+Cahiers santé Médecine thérapeutique	2780-8858	2780-8866	2021	30	1				https://www.jle.com/fr/revues/smt/archive.phtml		met		fulltext		John Libbey Eurotext	serial								P	256870314
+Dermato Mag	2271-8273	2272-057X	2013	1	1				https://www.jle.com/fr/revues/dmg/archive.phtml		dmg	P2Y	fulltext		John Libbey Eurotext	serial								F	177498080
+Dermato Mag	2271-8273	2272-057X	2013	1	1				https://www.jle.com/fr/revues/dmg/archive.phtml		dmg	R2Y	fulltext		John Libbey Eurotext	serial								P	177498080
+Environnement, Risques & Santé	1635-0421	1952-3998	2002	1	1				https://www.jle.com/fr/revues/ers/archive.phtml		ers	P2Y	fulltext		John Libbey Eurotext	serial								F	159793661
+Environnement, Risques & Santé	1635-0421	1952-3998	2002	1	1				https://www.jle.com/fr/revues/ers/archive.phtml		ers	R2Y	fulltext		John Libbey Eurotext	serial								P	159793661
+Epileptic Disorders	1294-9361	1950-6945	1999	1	1				https://www.jle.com/fr/revues/epd/archive.phtml		epd	P1Y	fulltext		John Libbey Eurotext	serial								F	128405732
+Epileptic Disorders	1294-9361	1950-6945	1999	1	1				https://www.jle.com/fr/revues/epd/archive.phtml		epd	R1Y	fulltext		John Libbey Eurotext	serial								P	128405732
+European Cytokine Network	1148-5493	1952-4005	1997	8	2				https://www.jle.com/fr/revues/ecn/archive.phtml		ecn		fulltext		John Libbey Eurotext	serial								P	121373037
+European Journal of Dermatology	1167-1122	1952-4013	1997	7	6				https://www.jle.com/fr/revues/ejd/archive.phtml		ejd		fulltext		John Libbey Eurotext	serial								P	128405856
+Gériatrie et Psychologie Neuropsychiatrie du Vieillissement	2115-8789	2115-7863	2011	9	1				https://www.jle.com/fr/revues/gpn/archive.phtml		gpn	P1Y	fulltext		John Libbey Eurotext	serial								F	15261091X
+Gériatrie et Psychologie Neuropsychiatrie du Vieillissement	2115-8789	2115-7863	2011	9	1				https://www.jle.com/fr/revues/gpn/archive.phtml		gpn	R1Y	fulltext		John Libbey Eurotext	serial								P	15261091X
+Hématologie	1264-7527	1950-6368	1995	1	1				https://www.jle.com/fr/revues/hma/archive.phtml		hma	P1Y	fulltext		John Libbey Eurotext	serial								F	128405708
+Hématologie	1264-7527	1950-6368	1995	1	1				https://www.jle.com/fr/revues/hma/archive.phtml		hma	R1Y	fulltext		John Libbey Eurotext	serial								P	128405708
+Hépato-Gastro & Oncologie Digestive	2115-3310	2115-5631	2010	17	1				https://www.jle.com/fr/revues/hpg/archive.phtml		hpg	P2Y	fulltext		John Libbey Eurotext	serial								F	142879509
+Hépato-Gastro & Oncologie Digestive	2115-3310	2115-5631	2010	17	1				https://www.jle.com/fr/revues/hpg/archive.phtml		hpg	R2Y	fulltext		John Libbey Eurotext	serial								P	142879509
+Hépato-Gastro	1253-7020	1952-4048	1995	2	1	2009	16	6	https://www.jle.com/fr/revues/hpg/archive.phtml		hpg		fulltext		John Libbey Eurotext	serial								F	128405864
+Innovations & Thérapeutiques en Oncologie	2431-3203	2491-7028	2015	1	1				https://www.jle.com/fr/revues/ito/archive.phtml		ito	P2Y	fulltext		John Libbey Eurotext	serial								F	192263617
+Innovations & Thérapeutiques en Oncologie	2431-3203	2491-7028	2015	1	1				https://www.jle.com/fr/revues/ito/archive.phtml		ito	R2Y	fulltext		John Libbey Eurotext	serial								P	192263617
+Journal de Pharmacie Clinique	0291-1981	1952-4064	1997	16	2				https://www.jle.com/fr/revues/jpc/archive.phtml		jpc	P1Y	fulltext		John Libbey Eurotext	serial								F	142881007
+Journal de Pharmacie Clinique	0291-1981	1952-4064	1997	16	2				https://www.jle.com/fr/revues/jpc/archive.phtml		jpc	R1Y	fulltext		John Libbey Eurotext	serial								P	142881007
+L'Information Psychiatrique	0020-0204	1952-4056	2003	79	1				https://www.jle.com/fr/revues/ipe/archive.phtml		ipe	P2Y	fulltext		John Libbey Eurotext	serial								F	127809449
+L'Information Psychiatrique	0020-0204	1952-4056	2003	79	1				https://www.jle.com/fr/revues/ipe/archive.phtml		ipe	R2Y	fulltext		John Libbey Eurotext	serial								P	127809449
+L'Orthodontie Française	0078-6608	1954-3395	2000	71	1				https://www.jle.com/fr/revues/odf/archive.phtml		odf		fulltext		John Libbey Eurotext	serial								P	11543478X
+Magnesium Research	0953-1424	1952-4021	2003	16	1				https://www.jle.com/fr/revues/mrh/archive.phtml		mrh	P3Y	fulltext		John Libbey Eurotext	serial								F	175786801
+Magnesium Research	0953-1424	1952-4021	2003	16	1				https://www.jle.com/fr/revues/mrh/archive.phtml		mrh	R3Y	fulltext		John Libbey Eurotext	serial								P	175786801
+Médecine	1777-2044	1952-4196	2005	1	1				https://www.jle.com/fr/revues/med/archive.phtml		med	P2Y	fulltext		John Libbey Eurotext	serial								F	122381033
+Médecine	1777-2044	1952-4196	2005	1	1				https://www.jle.com/fr/revues/med/archive.phtml		med	R2Y	fulltext		John Libbey Eurotext	serial								P	122381033
+Médecine de la Reproduction	2650-8427	2650-698X	2008	10	1				https://www.jle.com/fr/revues/mtg/archive.phtml		mtg	P2Y	fulltext		John Libbey Eurotext	serial								F	233601821
+Médecine de la Reproduction	2650-8427	2650-698X	2008	10	1				https://www.jle.com/fr/revues/mtg/archive.phtml		mtg	R2Y	fulltext		John Libbey Eurotext	serial								P	233601821
+Médecine et Santé Tropicales	2261-3684	2261-2211	2012	22	1	2019	29	4	https://www.jle.com/fr/revues/mst/archive.phtml		mst		fulltext		John Libbey Eurotext	serial								P	166197688
+Médecine Thérapeutique	1264-6520	1952-4099	1997	3	1	2020	26	6	https://www.jle.com/fr/revues/met/archive.phtml		met	P2Y	fulltext		John Libbey Eurotext	serial								F	101398883
+Médecine Thérapeutique	1264-6520	1952-4099	1997	3	1	2020	26	6	https://www.jle.com/fr/revues/met/archive.phtml		met	R2Y	fulltext		John Libbey Eurotext	serial								P	101398883
+Médecine thérapeutique / Endocrinologie	1295-9359	2552-9897	1999	1	1	2004	6	5	https://www.jle.com/fr/revues/mte/archive.phtml		mte		fulltext		John Libbey Eurotext	serial								F	200458507
+Médecine Thérapeutique / médecine de la reproduction	1774-640X	1952-4102	2005	7	1	2007	9	6	https://www.jle.com/fr/revues/mtm/archive.phtml		mtm		fulltext		John Libbey Eurotext	serial								F	128405872
+Médecine thérapeutique / Pédiatrie	1286-5494	1952-4188	1998	1	1				https://www.jle.com/fr/revues/mtp/archive.phtml		mtp	P2Y	fulltext		John Libbey Eurotext	serial								F	144482673
+Médecine thérapeutique / Pédiatrie	1286-5494	1952-4188	1998	1	1				https://www.jle.com/fr/revues/mtp/archive.phtml		mtp	R2Y	fulltext		John Libbey Eurotext	serial								P	144482673
+Psychologie & NeuroPsychiatrie du vieillissement	1760-1703	1950-6988	2003	1	1	2010	8	4	https://www.jle.com/fr/revues/pnv/archive.phtml		pnv		fulltext		John Libbey Eurotext	serial								F	142882747
+Revue de neuropsychologie	2101-6739	2102-6025	2009	1	1				https://www.jle.com/fr/revues/nrp/archive.phtml		nrp	P2Y	fulltext		John Libbey Eurotext	serial								F	137918976
+Revue de neuropsychologie	2101-6739	2102-6025	2009	1	1				https://www.jle.com/fr/revues/nrp/archive.phtml		nrp	R2Y	fulltext		John Libbey Eurotext	serial								P	137918976
+Sang Thrombose Vaisseaux	0999-7385	1950-6104	1995	7	1				https://www.jle.com/fr/revues/stv/archive.phtml		stv	P2Y	fulltext		John Libbey Eurotext	serial								F	131773844
+Sang Thrombose Vaisseaux	0999-7385	1950-6104	1995	7	1				https://www.jle.com/fr/revues/stv/archive.phtml		stv	R2Y	fulltext		John Libbey Eurotext	serial								P	131773844
+Sciences sociales et santé	0294-0337	1777-5914	1997	15	2				https://www.jle.com/fr/revues/sss/archive.phtml		sss	P1Y	fulltext		John Libbey Eurotext	serial								F	116269502
+Sciences sociales et santé	0294-0337	1777-5914	1997	15	2				https://www.jle.com/fr/revues/sss/archive.phtml		sss	R1Y	fulltext		John Libbey Eurotext	serial								P	116269502
+Virologie	1267-8694	1950-6961	1997	1	1				https://www.jle.com/fr/revues/vir/archive.phtml		vir	P2Y	fulltext		John Libbey Eurotext	serial								F	17578678X
+Virologie	1267-8694	1950-6961	1997	1	1				https://www.jle.com/fr/revues/vir/archive.phtml		vir	R2Y	fulltext		John Libbey Eurotext	serial								P	17578678X
