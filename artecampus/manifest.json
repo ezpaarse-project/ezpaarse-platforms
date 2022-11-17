@@ -1,0 +1,13 @@
+{
+  "longname": "Arte campus",
+  "name": "artecampus",
+  "describe": "Recognizes the accesses to the platform Arte campus",
+  "contact": "Frederic Truong inist, Tom SUBLET",
+  "pkb": false,
+  "docurl": "http://analyses.ezpaarse.org/platforms/634687046a94cc0406c0d30b",
+  "domains": [
+    "www.arte-campus.fr"
+  ],
+  "version": "2022-11-16",
+  "status": "beta"
+}
