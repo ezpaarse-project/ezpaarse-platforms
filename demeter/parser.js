@@ -21,18 +21,19 @@ module.exports = new Parser(function analyseEC(parsedUrl, ec) {
 
   let match;
 
-  if ((match = /^\/liste-des-depots-formulaire-sciences-([0-9]+)\/?$/i.exec(path)) !== null) {
+  if ((match = /^\/(liste-des-depots-formulaire-sciences-[0-9]+)\/?$/i.exec(path)) !== null) {
     // /liste-des-depots-formulaire-sciences-2022
     // /liste-des-depots-formulaire-sciences-2022/
 
     result.rtype = 'TOC';
     result.mime = 'HTML';
-    result.unitid = `liste-des-depots-formulaire-sciences-${match[1]}`;
+    result.unitid = match[1];
 
-  } else if ((match = /^\/faculte\/faculte-humanite\/memoires-non-consultables$/i.exec(path)) !== null) {
+  } else if ((match = /^\/faculte\/faculte-humanite\/([a-z-]+)$/i.exec(path)) !== null) {
     // /faculte/faculte-humanite/memoires-non-consultables
     result.rtype = 'TOC';
     result.mime = 'HTML';
+    result.unitid = match[1];
 
   } else if ((match = /^\/ameluco$/i.exec(path)) !== null) {
     // /ameluco?f[search]=biologie&f[year]=2014
