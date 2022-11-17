@@ -29,7 +29,7 @@ module.exports = new Parser(function analyseEC(parsedUrl, ec) {
     result.mime = 'HTML';
     result.unitid = match[1];
 
-  } else if ((match = /^\/faculte\/faculte-humanite\/([a-z-]+)$/i.exec(path)) !== null) {
+  } else if ((match = /^\/faculte\/faculte-humanite\/(memoires-non-consultables)$/i.exec(path)) !== null) {
     // /faculte/faculte-humanite/memoires-non-consultables
     result.rtype = 'TOC';
     result.mime = 'HTML';
