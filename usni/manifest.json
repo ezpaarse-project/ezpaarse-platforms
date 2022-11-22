@@ -1,0 +1,14 @@
+{
+  "longname": "US Naval Institute",
+  "name": "usni",
+  "describe": "Recognizes the accesses to the platform US Naval Institute",
+  "contact": "Sean Duffy",
+  "pkb": false,
+  "docurl": "http://analyses.ezpaarse.org/platforms/637698618e311602221bc4d2",
+  "domains": [
+    "www.usni.org",
+    "news.usni.org"
+  ],
+  "version": "2022-11-18",
+  "status": "beta"
+}
