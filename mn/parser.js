@@ -21,8 +21,8 @@ module.exports = new Parser(function analyseEC(parsedUrl, ec) {
 
   let match;
 
-  if (/^\/products$/i.test(path)) {
-    // /products
+  if (/^\/_next\/[0-9a-z]+\/products.json$/i.test(path)) {
+    // /_next/gok1UN0gaihOmz3wf6t9A/products.json
     result.rtype = 'SEARCH';
     result.mime = 'HTML';
 
@@ -33,8 +33,8 @@ module.exports = new Parser(function analyseEC(parsedUrl, ec) {
     if (param.productUuid) {
       result.unitid = param.productUuid;
     }
-  } else if ((match = /^\/films\/([0-9a-z-]+)$/i.exec(path)) !== null) {
-    // /films/il-buco
+  } else if ((match = /^\/_next\/[0-9a-z]+\/films\/([0-9a-z-]+).json$/i.exec(path)) !== null) {
+    // /_next/gok1UN0gaihOmz3wf6t9A/films/il-buco.json
     result.rtype = 'ABS';
     result.mime = 'HTML';
     result.unitid = match[1];
