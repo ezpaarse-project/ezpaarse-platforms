@@ -21,8 +21,14 @@ module.exports = new Parser(function analyseEC(parsedUrl, ec) {
 
   let match;
 
-  if (/^\/_next\/[0-9a-z]+\/products.json$/i.test(path)) {
-    // /_next/gok1UN0gaihOmz3wf6t9A/products.json
+  if (
+    /^\/products$/i.test(path)
+    || /^\/api\/proxy\/api\/product\/search$/i.test(path)
+    || /^\/_next\/data\/[0-9a-z]+\/products\.json$/i.test(path)
+  ) {
+    // /products?
+    // /api/proxy/api/product/search
+    // /_next/data/gok1UN0gaihOmz3wf6t9A/products.json
     result.rtype = 'SEARCH';
     result.mime = 'HTML';
 
@@ -33,8 +39,12 @@ module.exports = new Parser(function analyseEC(parsedUrl, ec) {
     if (param.productUuid) {
       result.unitid = param.productUuid;
     }
-  } else if ((match = /^\/_next\/[0-9a-z]+\/films\/([0-9a-z-]+).json$/i.exec(path)) !== null) {
-    // /_next/gok1UN0gaihOmz3wf6t9A/films/il-buco.json
+  } else if (
+    (match = /^\/films\/([0-9a-z-]+)$/i.exec(path)) !== null
+    || (match = /^\/_next\/data\/[0-9a-z]+\/films\/([0-9a-z-]+)\.json$/i.exec(path)) !== null
+  ) {
+    // /films/le-dessous-des-cartes
+    // /_next/data/gok1UN0gaihOmz3wf6t9A/films/il-buco.json
     result.rtype = 'ABS';
     result.mime = 'HTML';
     result.unitid = match[1];
