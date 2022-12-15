@@ -1,0 +1,13 @@
+{
+  "longname": "Newslink",
+  "name": "newslink",
+  "describe": "Recognizes the accesses to the platform Newslink",
+  "contact": "Anna Orben",
+  "pkb": false,
+  "docurl": "http://analyses.ezpaarse.org/platforms/632b4ecdc90b2f016a72434e",
+  "domains": [
+    "www.newslink.sg"
+  ],
+  "version": "2022-10-19",
+  "status": "beta"
+}

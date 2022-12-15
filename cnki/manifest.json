@@ -8,7 +8,11 @@
   "domains": [
     "pdf.tmp.oversea.d.cnki.net.prext.num.bulac.fr",
     "oversea.cnki.net",
-    "pdf-oversea.d.cnki.net"
+    "pdf-oversea.d.cnki.net",
+    "chn.oversea.cnki.net",
+    "o.cnki.net",
+    "kns.cnki.net"
+
   ],
   "version": "2022-05-06",
   "status": "beta"

@@ -1,4 +1,4 @@
 out-title_id;out-unitid;out-rtype;out-mime;in-url
 ;;SEARCH;HTML;https://www.dynamed.com/results?q=heart&lang=en
-acute-heart-failure;condition/acute-heart-failure;ARTICLE;HTML;https://www.dynamed.com/condition/acute-heart-failure
-labetalol;drug-monograph/labetalol;ARTICLE;HTML;https://www.dynamed.com/drug-monograph/labetalol
+;acute-heart-failure;ARTICLE;HTML;https://www.dynamed.com/condition/acute-heart-failure
+;labetalol;ARTICLE;HTML;https://www.dynamed.com/drug-monograph/labetalol

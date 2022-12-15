@@ -1,0 +1,13 @@
+{
+  "longname": "123rf",
+  "name": "123rf",
+  "describe": "Recognizes the accesses to the platform 123rf",
+  "contact": "Anna Orben, Sean Duffy",
+  "pkb": false,
+  "docurl": "http://analyses.ezpaarse.org/platforms/633d9a772c80cd01656101af",
+  "domains": [
+    "www.123rf.com"
+  ],
+  "version": "2022-10-19",
+  "status": "beta"
+}

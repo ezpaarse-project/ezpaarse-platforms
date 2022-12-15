@@ -1,0 +1,13 @@
+{
+  "longname": "Dejure",
+  "name": "dj",
+  "describe": "Recognizes the accesses to the platform Dejure",
+  "contact": "Sean Duffy",
+  "pkb": false,
+  "docurl": "http://analyses.ezpaarse.org/platforms/63601b9dc3b5c8036a185272",
+  "domains": [
+    "dejure.it"
+  ],
+  "version": "2022-10-31",
+  "status": "beta"
+}

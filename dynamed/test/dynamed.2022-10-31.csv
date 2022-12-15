@@ -1,0 +1,8 @@
+out-title_id;out-unitid;out-rtype;out-mime;in-url
+;;SEARCH;HTML;https://www.dynamed.com/results?q=blood&lang=en&contentFilterValue%5B0%5D=Drug%20Review
+;common-variable-immunodeficiency-cvid;ARTICLE;HTML;https://www.dynamed.com/condition/common-variable-immunodeficiency-cvid
+;labetalol;ARTICLE;HTML;https://www.dynamed.com/drug-monograph/labetalol
+;acute-heart-failure;ARTICLE;HTML;https://www.dynamed.com/condition/acute-heart-failure
+;;SEARCH;HTML;https://www.dynamed.com/results?q=heart&lang=en
+Superficial-vein-thrombosis-SVT;dmp~AN~T116756;ARTICLE;HTML;http://www.dynamed.com:80/topics/dmp~AN~T116756/Superficial-vein-thrombosis-SVT
+;;SEARCH;HTML;http://www.dynamed.com:80/api/BuzzDmpSearch

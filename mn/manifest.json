@@ -1,0 +1,13 @@
+{
+  "longname": "Mediathèque Numérique",
+  "name": "mn",
+  "describe": "Recognizes the accesses to the platform Mediathèque Numérique",
+  "contact": "Frederic Truong inist",
+  "pkb": false,
+  "docurl": "http://analyses.ezpaarse.org/platforms/636a2a7060f18b004a7210e0",
+  "domains": [
+    "vod.mediatheque-numerique.com"
+  ],
+  "version": "2022-11-16",
+  "status": "beta"
+}
