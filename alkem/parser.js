@@ -25,7 +25,7 @@ module.exports = new Parser(function analyseEC(parsedUrl, ec) {
     // http://tpsg.alkemlibrary.com/index.php?option=com_content&id=11&view=article&catid=14#modal_63344d614850c8549
     result.rtype    = 'BOOK';
     result.mime     = 'HTML';
-
+    result.unitid = parsedUrl.hash.replace('#modal_', '');
   } else if ((match = /^\/alkemdocs\/(.+)\.pdf$/i.exec(path)) !== null) {
     // http://tpsg.alkemlibrary.com/alkemdocs/How%20to%20read%20eBook%20online.pdf
     result.rtype    = 'ARTICLE';
