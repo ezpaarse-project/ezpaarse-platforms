@@ -1,0 +1,13 @@
+{
+  "longname": "Warc",
+  "name": "warc",
+  "describe": "Recognizes the accesses to the platform Warc",
+  "contact": "Anna Orben, Sean Duffy",
+  "pkb": false,
+  "docurl": "http://analyses.ezpaarse.org/platforms/63406e62f757dc02a1a86e3b",
+  "domains": [
+    "www.warc.com"
+  ],
+  "version": "2022-12-19",
+  "status": "beta"
+}
