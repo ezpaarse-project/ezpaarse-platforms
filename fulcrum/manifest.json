@@ -1,0 +1,13 @@
+{
+  "longname": "Fulcrum",
+  "name": "fulcrum",
+  "describe": "Recognizes the accesses to the platform Fulcrum",
+  "contact": "Sean Duffy",
+  "pkb": false,
+  "docurl": "http://analyses.ezpaarse.org/platforms/62bf2f4dfbc7683da47eba6d",
+  "domains": [
+    "www.fulcrum.org"
+  ],
+  "version": "2022-12-15",
+  "status": "beta"
+}
