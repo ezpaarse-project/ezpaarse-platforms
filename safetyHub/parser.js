@@ -14,7 +14,7 @@ module.exports = new Parser(function analyseEC(parsedUrl, ec) {
   let result = {};
   let path   = parsedUrl.pathname;
   // uncomment this line if you need parameters
-  // let param = parsedUrl.query || {};
+  let param = parsedUrl.query || {};
 
   // use console.error for debuging
   // console.error(parsedUrl);
@@ -32,7 +32,12 @@ module.exports = new Parser(function analyseEC(parsedUrl, ec) {
     // https://tafeqld.safetyhub.com/category/cvdm/?region=au
     result.rtype    = 'TOC';
     result.mime     = 'HTML';
-    result.title_id = match[1];
+    result.unitid = match[1];
+  } else if (/^\/companylanding\/landingPageAjaxLoad\.php$/i.test(path)) {
+    // https://singaporepolytechnic.safetyhub.com/companylanding/landingPageAjaxLoad.php?action=getVideoPlayer&videoInstanceID=307
+    result.rtype    = 'VIDEO';
+    result.mime     = 'HTML';
+    result.unitid = param.videoInstanceID;
   }
 
   return result;
