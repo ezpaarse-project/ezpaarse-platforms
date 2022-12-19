@@ -1,0 +1,13 @@
+{
+  "longname": "Sankei Shimbun",
+  "name": "ss",
+  "describe": "Recognizes the accesses to the platform Sankei Shimbun",
+  "contact": "Sean Duffy",
+  "pkb": false,
+  "docurl": "http://analyses.ezpaarse.org/platforms/639b2051e547d6017a0e5f64",
+  "domains": [
+    "shimbun-data.denshi.sankei.co.jp"
+  ],
+  "version": "2022-12-19",
+  "status": "beta"
+}
