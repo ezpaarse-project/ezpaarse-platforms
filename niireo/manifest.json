@@ -1,0 +1,13 @@
+{
+  "longname": "NII-REO",
+  "name": "niireo",
+  "describe": "Recognizes the accesses to the platform NII-REO",
+  "contact": "Sean Duffy",
+  "pkb": false,
+  "docurl": "http://analyses.ezpaarse.org/platforms/63a5c8ff0a963a0015abd891",
+  "domains": [
+    "reo.nii.ac.jp"
+  ],
+  "version": "2022-12-26",
+  "status": "beta"
+}
