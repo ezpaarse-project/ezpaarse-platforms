@@ -1,0 +1,13 @@
+{
+  "longname": "Nikkei Value Search",
+  "name": "nvs",
+  "describe": "Recognizes the accesses to the platform Nikkei Value Search",
+  "contact": "Anna Orben",
+  "pkb": false,
+  "docurl": "http://analyses.ezpaarse.org/platforms/62fd261807893200df8a1da1/",
+  "domains": [
+    "valuesearch.nikkei.com"
+  ],
+  "version": "2022-12-26",
+  "status": "beta"
+}

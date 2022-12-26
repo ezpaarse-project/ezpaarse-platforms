@@ -1,0 +1,5 @@
+out-unitid;out-rtype;out-mime;in-url
+;SEARCH;HTML;https://valuesearch.nikkei.com/searchlist/corp?searchParam=work
+0005010001166966;REPORT;HTML;https://valuesearch.nikkei.com/corp/summary?corpIndustyCode=0005010001166966&corpIndustyKbn=1&corpType=5&corpStkCode=%E9%9D%9E%E4%B8%8A%E5%A0%B4&asrf=
+DISNWS140120220815520127;ISSUE;HTML;https://valuesearch.nikkei.com/popup?keyBody=DISNWS140120220815520127&transitionId=7dfddbd2-d0fb-47f9-bba7-1c8a11e4ff63&tldTransitionId=&corpIndustyKbn=6&pathname=/searchlist/news&mediaFeeType=0&keyBodyFare=0&articleId=DISNWS140120220815520127&pdfViewer=true&keywords=work
+;TOOL;HTML;https://valuesearch.nikkei.com/macro/statistics?corpIndustyKbn=5&keyword=work
