@@ -1,0 +1,4 @@
+out-db_id;out-unitid;out-rtype;out-mime;in-url
+BAAS,NYAS,RAI;;SEARCH;HTML;"https://app.wileydigitalarchives.com/wiley/search;searchTerm=Celts;selectedArchives=BAAS,NYAS,RAI"
+;RAIPFA831-C0001-MA000085;RECORD;HTML;"https://app.wileydigitalarchives.com/wiley/detail/RAIPFA831-C0001-MA000085;searchTerm=Celts;isFromResultsPage=true;filterParam=%26%26archive%3DBAAS%7CNYAS%7CRAI;start=1"
+;BSAUFA002-C0001-BO0000100;RECORD;HTML;"https://app.wileydigitalarchives.com/wiley/detail/BSAUFA002-C0001-BO0000100;searchTerm=;isFromResultsPage=true;filterParam=%26%26archive%3DBAAS%7CNYAS%7CRAI;start=0;docID=BSAUFA002-C0001-BO0000100;invokedFrom=%5Bobject%20Object%5D;pageId="
