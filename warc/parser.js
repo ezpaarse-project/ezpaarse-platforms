@@ -21,7 +21,7 @@ module.exports = new Parser(function analyseEC(parsedUrl, ec) {
 
   let match;
 
-  if ((match = /^\/content\/article\/[a-z]+\/([a-z-]+)\/([0-9]+)$/i.exec(path)) !== null) {
+  if ((match = /^\/content\/article\/[a-z0-9-]+\/([a-z0-9-]+)\/([0-9]+)$/i.exec(path)) !== null) {
     // https://www.warc.com/content/article/bestprac/what-we-know-about-comparative-advertising/111994
     // https://www.warc.com/content/article/cannes/paramount-a-mountain-of-entertainment/138341
     result.rtype    = 'ARTICLE';
