@@ -40,7 +40,7 @@ module.exports = new Parser(function analyseEC(parsedUrl, ec) {
     result.mime     = 'HTML';
     result.title_id = match[1];
     result.unitid   = match[1];
-  } else if (/^\/([a-z]+)$/i.test(path) && param.q) {
+  } else if (/^\/heb$/i.test(path) && param.q) {
     // https://www.fulcrum.org/heb?utf8=%E2%9C%93&q=violence
     result.rtype    = 'SEARCH';
     result.mime     = 'HTML';
