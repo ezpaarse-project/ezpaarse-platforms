@@ -21,7 +21,7 @@ module.exports = new Parser(function analyseEC(parsedUrl, ec) {
 
   if (/^\/content\.php$/i.test(path) && param.url == 'article') {
     // https://poj.peeters-leuven.be/content.php?url=article&id=3289946&journal_code=BASP
-    result.rtype    = 'ARTICLE';
+    result.rtype    = 'ABS';
     result.mime     = 'HTML';
     result.unitid = param.id;
     result.title_id = param.journal_code;
