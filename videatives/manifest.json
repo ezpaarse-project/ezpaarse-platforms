@@ -1,0 +1,13 @@
+{
+  "longname": "Videatives Streaming Service",
+  "name": "videatives",
+  "describe": "Recognizes the accesses to the platform Videatives Streaming Service",
+  "contact": "Anna Orben, Sean Duffy",
+  "pkb": false,
+  "docurl": "http://analyses.ezpaarse.org/platforms/63406c63b8e79c012681e08c",
+  "domains": [
+    "streaming.videatives.com"
+  ],
+  "version": "2022-12-19",
+  "status": "beta"
+}
