@@ -1,5 +1,5 @@
-out-rtype;out-mime;out-login;out-title_id;out-unitid;in-url
-SEARCH;HTML;;;;https://tafeqld.safetyhub.com/?searchKeywords=compressed+air&region=au
-SEARCH;HTML;;;;https://tafeqld.safetyhub.com/?searchKeywords=atomic+waste&region=au
-TOC;HTML;;en-hazenv;;https://tafeqld.safetyhub.com/category/en-hazenv/?region=au#
-TOC;HTML;;cvdm;;https://tafeqld.safetyhub.com/category/cvdm/?region=au
+out-rtype;out-mime;out-unitid;in-url
+SEARCH;HTML;;https://tafeqld.safetyhub.com/?searchKeywords=compressed+air&region=au
+SEARCH;HTML;;https://tafeqld.safetyhub.com/?searchKeywords=atomic+waste&region=au
+TOC;HTML;en-hazenv;https://tafeqld.safetyhub.com/category/en-hazenv/?region=au#
+TOC;HTML;cvdm;https://tafeqld.safetyhub.com/category/cvdm/?region=au

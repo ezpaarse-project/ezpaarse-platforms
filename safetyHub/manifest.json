@@ -7,7 +7,7 @@
   "docurl": "http://analyses.ezpaarse.org/platforms/5fa98b00e274e966cd7ebb32",
   "domains": [
     "safetyhub.com",
-    "tafeqld.safetyhub.com"
+    "*.on.worldcat.org"
   ],
   "version": "2020-11-03",
   "status": "beta"
