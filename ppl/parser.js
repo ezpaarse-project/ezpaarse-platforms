@@ -26,7 +26,7 @@ module.exports = new Parser(function analyseEC(parsedUrl, ec) {
     result.unitid = param.id;
     result.title_id = param.journal_code;
 
-  } else if (/^\/content\.php$/i.test(path)) {
+  } else if (/^\/content\.php$/i.test(path) && /^(journal|issue)$/i.test(param.url)) {
     // https://poj.peeters-leuven.be/content.php?url=journal&journal_code=BASP
     // https://poj.peeters-leuven.be/content.php?url=issue&journal_code=BASP&issue=0&vol=58
     result.rtype    = 'TOC';
