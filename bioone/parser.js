@@ -132,6 +132,10 @@ module.exports = new Parser(function analyseEC(parsedUrl) {
         result.unitid = doiMatch[1];
       }
     }
+  } else if (/^\/search$/i.test(pathname)) {
+    // https://bioone.org/search?term=cactus
+    result.rtype = 'SEARCH';
+    result.mime  = 'HTML';
   }
 
   return result;
