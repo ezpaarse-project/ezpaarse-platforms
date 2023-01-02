@@ -8,7 +8,9 @@
   "domains": [
     "osiris.r1.bvdinfo.com",
     "osiris.bvdinfo.com",
-    "osiris-r1.bvdinfo.com"
+    "osiris-r1.bvdinfo.com",
+    "osiris-r0.bvdinfo.com",
+    "osiris.bvdep.com"
   ],
   "version": "2022-08-31",
   "status": "beta"
