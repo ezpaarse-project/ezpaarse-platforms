@@ -57,7 +57,8 @@
 	  "watch.ondemand.org",
 	  "wkhealth.com",
 	  "wolterskluwer.com",
-	  "www.ovid.com"
+	  "www.ovid.com",
+	  "geisinger.ovidds.com"
   ],
   "recognize": {
     "rid": [
