@@ -21,13 +21,13 @@ module.exports = new Parser(function analyseEC(parsedUrl, ec) {
 
   let match;
 
-  if ((match = /^\/hss\/([0-9]+)\/fulltext\/ja$/i.exec(path)) !== null) {
+  if ((match = /^\/hss\/([0-9]+)\/fulltext\/[a-z]{2}$/i.exec(path)) !== null) {
     // https://reo.nii.ac.jp/hss/2000000000215788/fulltext/ja
     result.rtype    = 'RECORD';
     result.mime     = 'HTML';
     result.unitid = match[1];
 
-  } else if ((match = /^\/hss\/([0-9]+)\/ja$/i.exec(path)) !== null) {
+  } else if ((match = /^\/hss\/([0-9]+)\/[a-z]{2}$/i.exec(path)) !== null) {
     // https://reo.nii.ac.jp/hss/2200000000667829/ja
     result.rtype    = 'RECORD_VIEW';
     result.mime     = 'HTML';
