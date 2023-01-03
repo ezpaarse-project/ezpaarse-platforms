@@ -1,0 +1,13 @@
+{
+  "longname": "MAG Online",
+  "name": "mag",
+  "describe": "Recognizes the accesses to the platform MAG Online",
+  "contact": "Sean Duffy",
+  "pkb": false,
+  "docurl": "http://analyses.ezpaarse.org/platforms/63ab0e1e5f356400f3e56c53",
+  "domains": [
+    "www.magonlinelibrary.com"
+  ],
+  "version": "2023-01-03",
+  "status": "beta"
+}
