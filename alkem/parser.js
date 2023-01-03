@@ -19,18 +19,11 @@ module.exports = new Parser(function analyseEC(parsedUrl, ec) {
   // use console.error for debuging
   // console.error(parsedUrl);
 
-  let match;
-
-  if (/^\/index\.php$/i.test(path) && param.view) {
+  if (/^\/index\.php$/i.test(path) && param.view == 'article') {
     // http://tpsg.alkemlibrary.com/index.php?option=com_content&id=11&view=article&catid=14#modal_63344d614850c8549
     result.rtype    = 'BOOK';
     result.mime     = 'HTML';
     result.unitid = parsedUrl.hash.replace('#modal_', '');
-  } else if ((match = /^\/alkemdocs\/(.+)\.pdf$/i.exec(path)) !== null) {
-    // http://tpsg.alkemlibrary.com/alkemdocs/How%20to%20read%20eBook%20online.pdf
-    result.rtype    = 'ARTICLE';
-    result.mime     = 'PDF';
-    result.unitid   = match[1];
   } else if (/^\/index\.php$/i.test(path) && param.searchword) {
     // http://tpsg.alkemlibrary.com/index.php?searchword=market&searchphrase=all&option=com_search
     result.rtype    = 'SEARCH';
