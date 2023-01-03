@@ -24,7 +24,7 @@ module.exports = new Parser(function analyseEC(parsedUrl, ec) {
     result.rtype    = 'TOOL';
     result.mime     = 'HTML';
 
-  } else if (/^\/popup$/i.test(path)) {
+  } else if (/^\/popup$/i.test(path) && param.articleId) {
     // https://valuesearch.nikkei.com/popup?keyBody=DISNWS140120220815520127&transitionId=7dfddbd2-d0fb-47f9-bba7-1c8a11e4ff63&tldTransitionId=&corpIndustyKbn=6&pathname=/searchlist/news&mediaFeeType=0&keyBodyFare=0&articleId=DISNWS140120220815520127&pdfViewer=true&keywords=work
     result.rtype    = 'ISSUE';
     result.mime     = 'HTML';
