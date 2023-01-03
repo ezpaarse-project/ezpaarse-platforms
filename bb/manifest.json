@@ -1,0 +1,13 @@
+{
+  "longname": "Bloomsbury",
+  "name": "bb",
+  "describe": "Recognizes the accesses to the platform Bloomsbury",
+  "contact": "Sean Duffy",
+  "pkb": false,
+  "docurl": "http://analyses.ezpaarse.org/platforms/61686937fd6ad31ec772d03f/",
+  "domains": [
+    "www.bloomsburycollections.com"
+  ],
+  "version": "2023-01-03",
+  "status": "beta"
+}
