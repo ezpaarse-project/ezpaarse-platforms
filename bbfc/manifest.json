@@ -1,0 +1,13 @@
+{
+  "longname": "Bloomsbury Fashion Central",
+  "name": "bbfc",
+  "describe": "Recognizes the accesses to the platform Bloomsbury Fashion Central",
+  "contact": "Sean Duffy",
+  "pkb": false,
+  "docurl": "http://analyses.ezpaarse.org/platforms/63ab02d587d6d501579b5231",
+  "domains": [
+    "www.bloomsburyfashioncentral.com"
+  ],
+  "version": "2023-01-03",
+  "status": "beta"
+}
