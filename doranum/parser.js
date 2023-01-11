@@ -14,10 +14,7 @@ module.exports = new Parser(function analyseEC(parsedUrl, ec) {
   let result = {};
   let path   = parsedUrl.pathname;
   // uncomment this line if you need parameters
-  // let param = parsedUrl.query || {};
-
-  // use console.error for debuging
-  // console.error(parsedUrl);
+  let param = parsedUrl.query || {};
 
   let match;
 
@@ -37,7 +34,7 @@ module.exports = new Parser(function analyseEC(parsedUrl, ec) {
     result.doi = `10.${match[1]}/${match[2]}`;
     result.unitid = match[2];
 
-  } else if (path === '/') {
+  } else if (path === '/' && param.s) {
     // /?s=formulaire
     result.rtype    = 'SEARCH';
     result.mime     = 'HTML';
