@@ -1,0 +1,13 @@
+{
+  "longname": "Contexte",
+  "name": "contexte",
+  "describe": "Recognizes the accesses to the platform Contexte",
+  "contact": "Frederic Truong inist",
+  "pkb": false,
+  "docurl": "http://analyses.ezpaarse.org/platforms/639ae6c0575137034f51df6e",
+  "domains": [
+    "www.contexte.com"
+  ],
+  "version": "2023-01-11",
+  "status": "beta"
+}
