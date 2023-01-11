@@ -1,0 +1,13 @@
+{
+  "longname": "Omekas",
+  "name": "omekas",
+  "describe": "Recognizes the accesses to the platform Omekas",
+  "contact": "felix, nojhamster, Frederic Truong inist",
+  "pkb": false,
+  "docurl": "http://analyses.ezpaarse.org/platforms/61bb401edab08c58308f1a01",
+  "domains": [
+    "animal-representation.cnrs.fr"
+  ],
+  "version": "2023-01-11",
+  "status": "beta"
+}
