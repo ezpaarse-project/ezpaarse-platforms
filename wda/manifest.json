@@ -1,0 +1,13 @@
+{
+  "longname": "Wiley Digital Archives",
+  "name": "wda",
+  "describe": "Recognizes the accesses to the platform Wiley Digital Archives",
+  "contact": "Sean Duffy",
+  "pkb": false,
+  "docurl": "http://analyses.ezpaarse.org/platforms/63a5be726ad38001fd894bba",
+  "domains": [
+    "app.wileydigitalarchives.com"
+  ],
+  "version": "2022-12-26",
+  "status": "beta"
+}
