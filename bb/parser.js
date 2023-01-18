@@ -21,24 +21,24 @@ module.exports = new Parser(function analyseEC(parsedUrl, ec) {
 
   let match;
 
-  if ((match = /^\/book\/([a-z-]+)\.pdf$/i.exec(path)) !== null) {
+  if ((match = /^\/book\/([a-z0-9-]+)\.pdf$/i.exec(path)) !== null) {
     // //www.bloomsburycollections.com/book/metaphors-of-death-and-resurrection-in-the-quran-an-intertextual-approach-with-biblical-and-rabbinic-literature.pdf?dl
     result.rtype    = 'BOOK';
     result.mime     = 'PDF';
     result.unitid = match[1];
-  } else if ((match = /^\/book\/([a-z-]+)\/([a-z0-9-]+)\.pdf$/i.exec(path)) !== null) {
+  } else if ((match = /^\/book\/([a-z0-9-]+)\/([a-z0-9-]+)\.pdf$/i.exec(path)) !== null) {
     // https://www.bloomsburycollections.com/book/metaphors-of-death-and-resurrection-in-the-quran-an-intertextual-approach-with-biblical-and-rabbinic-literature/ch1-concepts-of-the-afterlife.pdf?dl
     result.rtype    = 'BOOK_SECTION';
     result.mime     = 'PDF';
     result.title_id = match[1];
     result.unitid   = match[2];
-  } else if ((match = /^\/book\/([a-z-]+)\/([a-z0-9-]+)$/i.exec(path)) !== null) {
+  } else if ((match = /^\/book\/([a-z0-9-]+)\/([a-z0-9-]+)$/i.exec(path)) !== null) {
     // https://www.bloomsburycollections.com/book/metaphors-of-death-and-resurrection-in-the-quran-an-intertextual-approach-with-biblical-and-rabbinic-literature/ch1-concepts-of-the-afterlife
     result.rtype    = 'BOOK_SECTION';
     result.mime     = 'HTML';
     result.title_id = match[1];
     result.unitid   = match[2];
-  } else if ((match = /^\/book\/([a-z-]+)\/$/i.exec(path)) !== null) {
+  } else if ((match = /^\/book\/([a-z0-9-]+)\/$/i.exec(path)) !== null) {
     // https://www.bloomsburycollections.com/book/metaphors-of-death-and-resurrection-in-the-quran-an-intertextual-approach-with-biblical-and-rabbinic-literature/
     result.rtype    = 'TOC';
     result.mime     = 'HTML';
