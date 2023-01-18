@@ -1,6 +1,6 @@
 out-unitid;out-rtype;out-mime;in-url
-;ISSUE;HTML;https://www.pharmacopoeia.com.tp-library/BP2023?utm_source=TSO&utm_medium=Carousel&utm_campaign=Just+Published+23&utm_id=Just+Published+
+BP2023;ISSUE;HTML;https://www.pharmacopoeia.com/BP2023?utm_source=TSO&utm_medium=Carousel&utm_campaign=Just+Published+23&utm_id=Just+Published+
 1000015262;RECORD;HTML;https://www.pharmacopoeia.com.tp-library/Catalogue/ProductDetails?productid=1000015262&page=1&pageSize=20&searchText=&startsWith=
-;ISSUE;HTML;https://www.pharmacopoeia.com.tp-library/bp-2023/surgical/absorbent-viscose-wadding.html?date=2023-01-01
-;REPORT;PDF;https://www.pharmacopoeia.com.tp-library/monographs/Phenylephrine-Eye-Drops.pdf
+absorbent-viscose-wadding;ISSUE;HTML;https://www.pharmacopoeia.com.tp-library/bp-2023/surgical/absorbent-viscose-wadding.html?date=2023-01-01
+Phenylephrine-Eye-Drops;REPORT;PDF;https://www.pharmacopoeia.com.tp-library/monographs/Phenylephrine-Eye-Drops.pdf
 ;SEARCH;HTML;https://www.pharmacopoeia.com/search?text=eye
