@@ -21,19 +21,13 @@ module.exports = new Parser(function analyseEC(parsedUrl, ec) {
 
   let match;
 
-  if ((match = /^\/doi\/epdf\/(([0-9.]+)\/([a-z0-9.]+))$/i.exec(path)) !== null) {
+  if ((match = /^\/doi\/(epdf|epdfplus)\/(([0-9.]+)\/([a-z0-9.]+))$/i.exec(path)) !== null) {
     // https://www.magonlinelibrary.com/doi/epdf/10.12968/hmed.2020.0321
-    result.rtype    = 'ARTICLE';
-    result.mime     = 'PDF';
-    result.doi = match[1];
-    result.unitid = match[1];
-
-  } else if ((match = /^\/doi\/epdfplus\/(([0-9.]+)\/([a-z0-9.]+))$/i.exec(path)) !== null) {
     // https://www.magonlinelibrary.com/doi/epdfplus/10.12968/hmed.2020.0321
     result.rtype    = 'ARTICLE';
-    result.mime     = 'PDFPLUS';
-    result.doi = match[1];
-    result.unitid = match[1];
+    result.mime     = 'PDF';
+    result.doi = match[2];
+    result.unitid = match[2];
   } else if ((match = /^\/doi\/epub\/(([0-9.]+)\/([a-z0-9.]+))$/i.exec(path)) !== null) {
     // https://www.magonlinelibrary.com/doi/epub/10.12968/hmed.2020.0321
     result.rtype    = 'ARTICLE';
