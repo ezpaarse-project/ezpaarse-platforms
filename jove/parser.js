@@ -15,13 +15,11 @@ module.exports = new Parser(function analyseEC(parsedUrl, ec) {
   let result = {};
   let path   = parsedUrl.pathname;
   let param  = parsedUrl.query || {};
-
   let match;
 
   if ((match = /^\/(video|science-education)\/([0-9]+)\/[a-z0-9-]+?$/i.exec(path)) !== null) {
     // /video/54732/determination-relative-cell-surface-total-expression-recombinant-ion
     // /science-education/5019/une-introduction-la-centrifugeuse?language=French
-
     result.unitid = match[2];
 
     if (match[1].toLowerCase() === 'video') {
@@ -32,6 +30,11 @@ module.exports = new Parser(function analyseEC(parsedUrl, ec) {
       result.rtype = 'VIDEO';
       result.mime  = 'MISC';
     }
+  } else if ((match = /^\/(v|t)\/([0-9]+)\/[a-z0-9-]+$/i.exec(path)) !== null) {
+    // https://www.jove.com/v/64425/a-soluble-tetrazolium-based-reduction-assay-to-evaluate-the-effect-of-antibodies-on-candida-tropicalis-biofilms
+    result.rtype = 'ARTICLE';
+    result.mime  = 'HTML';
+    result.unitid = match[2];
 
   } else if ((match = /^\/pdf(?:-materials)?\/([0-9]+)\/[a-z0-9-]+?$/i.exec(path)) !== null) {
     // /pdf/54732/jove-protocol-54732-determination-relative-cell-surface-total-expression-recombinant-ion
@@ -83,6 +86,11 @@ module.exports = new Parser(function analyseEC(parsedUrl, ec) {
     result.rtype  = 'TOC';
     result.mime   = 'MISC';
     result.unitid = match[1];
+
+  } else if (/^\/search$/i.test(path) && param.content_type == '') {
+    // https://www.jove.com/search?query=covid&content_type=&page=1
+    result.rtype  = 'SEARCH';
+    result.mime   = 'HTML';
 
   } else if (/^\/search$/i.test(path)) {
     // /search?q=aluminum&filter_type_1=and&filter_type_2=or&filter_type_3=not&exclude_sections=0+1+2+4+11+12+14+15+16+17+18+19+20+28+29+30+32+33+34+35+36+37+38+39+40+41+42+43+44+45+46+47+48+49+50+51+52+53+54+55+56+57+58
