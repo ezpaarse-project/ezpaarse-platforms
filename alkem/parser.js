@@ -19,7 +19,7 @@ module.exports = new Parser(function analyseEC(parsedUrl, ec) {
   // use console.error for debuging
   // console.error(parsedUrl);
 
-  if (/^\/index\.php$/i.test(path) && param.view == 'article') {
+  if (/^\/index\.php$/i.test(path) && param.view === 'article') {
     // http://tpsg.alkemlibrary.com/index.php?option=com_content&id=11&view=article&catid=14#modal_63344d614850c8549
     result.rtype    = 'BOOK';
     result.mime     = 'HTML';
