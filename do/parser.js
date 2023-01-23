@@ -32,6 +32,16 @@ module.exports = new Parser(function analyseEC(parsedUrl, ec) {
     result.mime     = 'HTML';
     result.unitid = param.docid.split('-')[1];
     result.online_identifier = param.docid.split('-')[1];
+  } else if (/^\/audio$/i.test(path)) {
+    // https://www.dramaonlinelibrary.com/audio?docid=do-9781527288676&tocid=do-9781527288676_6240388646001
+    result.rtype    = 'AUDIO';
+    result.mime     = 'HTML';
+    result.unitid = param.docid.split('-')[1];
+  } else if (/^\/video$/i.test(path)) {
+    // https://www.dramaonlinelibrary.com/video?docid=do-9781350935129&tocid=do-9781350935129_6083699316001
+    result.rtype    = 'VIDEO';
+    result.mime     = 'HTML';
+    result.unitid = param.docid.split('-')[1];
   } else if (/^\/search-results$/i.test(path)) {
     // https://www.dramaonlinelibrary.com/search-results?any=Rent
     result.rtype    = 'SEARCH';
