@@ -20,13 +20,16 @@ module.exports = new Parser(function analyseEC(parsedUrl, ec) {
   // console.error(parsedUrl);
 
   let match;
-
   if ((match = /^\/monographs\/([0-9a-z-]+)\.pdf$/i.exec(path)) !== null) {
     // https://www.pharmacopoeia.com/monographs/Phenylephrine-Eye-Drops.pdf
     result.rtype = 'REPORT';
     result.mime = 'PDF';
     result.unitid = match[1];
-
+  } else if (/^\/$/i.test(path) || /^\/search$/i.test(path)) {
+    // https://www.pharmacopoeia.com?text=eye
+    // https://www.pharmacopoeia.com/search?text=eye
+    result.rtype = 'SEARCH';
+    result.mime = 'HTML';
   } else if ((match = /^\/[0-9a-z-]+\/[a-z]+\/([a-z-]+)\.html$/i.exec(path)) !== null) {
     // https://www.pharmacopoeia.com/bp-2023/surgical/absorbent-viscose-wadding.html?date=2023-01-01
     result.rtype = 'ISSUE';
@@ -42,10 +45,6 @@ module.exports = new Parser(function analyseEC(parsedUrl, ec) {
     result.rtype = 'RECORD';
     result.mime = 'HTML';
     result.unitid = param.productid;
-  } else if (/^\/$/i.test(path)) {
-    // https://www.pharmacopoeia.com?text=eye
-    result.rtype = 'SEARCH';
-    result.mime = 'HTML';
   }
 
   return result;
