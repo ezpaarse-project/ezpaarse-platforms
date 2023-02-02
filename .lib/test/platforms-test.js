@@ -25,10 +25,12 @@ platforms
   .forEach(platform => {
 
     let manifest;
+    let errorManifest;
     try {
       manifest = JSON.parse(fs.readFileSync(path.resolve(platform, 'manifest.json')));
     } catch (e) {
       manifest = e;
+      errorManifest = e;
     }
 
     let parser;
@@ -43,6 +45,9 @@ platforms
       extractTestData(path.resolve(platform, 'test'), (err, testData) => {
         testData.forEach((record) => {
           it(`Test ${record.in.url}`, (done) => {
+
+            if (errorManifest) { return done(new Error(errorManifest)); }
+
             assert(record.in.url, 'some entries in the test file have no URL');
 
             const parsed   = parser.execute(record.in);
