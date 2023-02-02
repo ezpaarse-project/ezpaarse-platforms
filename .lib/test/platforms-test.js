@@ -2,11 +2,11 @@
 /*eslint global-require:0, no-sync:0*/
 'use strict';
 
-const fs        = require('fs');
-const Papa      = require('papaparse');
-const path      = require('path');
-const assert    = require('assert');
-const table     = require('table').table;
+const fs = require('fs');
+const Papa = require('papaparse');
+const path = require('path');
+const assert = require('assert');
+const table = require('table').table;
 
 const platformsDir = path.resolve(__dirname, '../..');
 
@@ -50,9 +50,9 @@ platforms
 
             assert(record.in.url, 'some entries in the test file have no URL');
 
-            const parsed   = parser.execute(record.in);
+            const parsed = parser.execute(record.in);
             const allProps = Array.from(new Set(Object.keys(parsed).concat(Object.keys(record.out))));
-            const equal    = allProps.every(p => {
+            const equal = allProps.every(p => {
               const expected = record.out[p];
               let actual = parsed[p];
 
@@ -131,7 +131,7 @@ function extractTestData(testDir, callback) {
         const propName = prop.trim();
 
         if (value.length === 0) { return; }
-        if (propName.startsWith('in-'))       { set.in[propName.substr(3)]  = value; }
+        if (propName.startsWith('in-')) { set.in[propName.substr(3)] = value; }
         else if (propName.startsWith('out-')) { set.out[propName.substr(4)] = value; }
       });
 
