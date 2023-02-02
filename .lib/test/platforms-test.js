@@ -42,7 +42,18 @@ platforms
 
     describe(manifest && manifest.longname || path.basename(platform), () => {
       it('Manifest is valid', done => {
-        done(errorManifest);
+        if (errorManifest) {
+          return done(errorManifest);
+        }
+
+        assert(typeof manifest.longname === 'string', 'property [longname] should be a string');
+        assert(typeof manifest.name === 'string', 'property [name] should be a string');
+        assert(manifest.longname.trim().length > 0, 'property [longname] should not be empty');
+        assert(manifest.name.trim().length > 0, 'property [name] should not be empty');
+        assert(Array.isArray(manifest.domains), 'property [domains] should be an array');
+        assert(manifest.domains.every(x => (typeof x === 'string')), 'property [domains] should only contain strings');
+
+        done();
       });
 
       extractTestData(path.resolve(platform, 'test'), (err, testData) => {
