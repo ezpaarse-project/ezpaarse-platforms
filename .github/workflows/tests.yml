@@ -4,8 +4,8 @@ on:
     branches:
       - '*'
     paths-ignore:
-      - '.lib'
-      - '.husky'
+      - '.lib/**'
+      - '.husky/**'
       - '.eslintrc'
       - '.gitignore'
       - '.travis.yml'
@@ -37,7 +37,7 @@ jobs:
           node-version: ${{ env.NODE_VERSION }}
           cache: 'npm'
           cache-dependency-path: .lib/package-lock.json
-  
+
       - name: Make install
         run: make install
 
@@ -47,6 +47,7 @@ jobs:
         with:
           files: |
             \.js$
+          files_ignore: .lib/**
 
       - name: Run mocha tests
         shell: bash

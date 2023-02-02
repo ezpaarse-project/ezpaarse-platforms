@@ -2,11 +2,11 @@
 /*eslint global-require:0, no-sync:0*/
 'use strict';
 
-const fs        = require('fs');
-const Papa      = require('papaparse');
-const path      = require('path');
-const assert    = require('assert');
-const table     = require('table').table;
+const fs = require('fs');
+const Papa = require('papaparse');
+const path = require('path');
+const assert = require('assert');
+const table = require('table').table;
 
 const platformsDir = path.resolve(__dirname, '../..');
 
@@ -25,10 +25,11 @@ platforms
   .forEach(platform => {
 
     let manifest;
+    let errorManifest;
     try {
       manifest = JSON.parse(fs.readFileSync(path.resolve(platform, 'manifest.json')));
     } catch (e) {
-      manifest = e;
+      errorManifest = e;
     }
 
     let parser;
@@ -40,14 +41,29 @@ platforms
     }
 
     describe(manifest && manifest.longname || path.basename(platform), () => {
+      it('Manifest is valid', done => {
+        if (errorManifest) {
+          return done(errorManifest);
+        }
+
+        assert(typeof manifest.longname === 'string', 'property [longname] should be a string');
+        assert(typeof manifest.name === 'string', 'property [name] should be a string');
+        assert(manifest.longname.trim().length > 0, 'property [longname] should not be empty');
+        assert(manifest.name.trim().length > 0, 'property [name] should not be empty');
+        assert(Array.isArray(manifest.domains), 'property [domains] should be an array');
+        assert(manifest.domains.every(x => (typeof x === 'string')), 'property [domains] should only contain strings');
+
+        done();
+      });
+
       extractTestData(path.resolve(platform, 'test'), (err, testData) => {
         testData.forEach((record) => {
           it(`Test ${record.in.url}`, (done) => {
             assert(record.in.url, 'some entries in the test file have no URL');
 
-            const parsed   = parser.execute(record.in);
+            const parsed = parser.execute(record.in);
             const allProps = Array.from(new Set(Object.keys(parsed).concat(Object.keys(record.out))));
-            const equal    = allProps.every(p => {
+            const equal = allProps.every(p => {
               const expected = record.out[p];
               let actual = parsed[p];
 
@@ -126,7 +142,7 @@ function extractTestData(testDir, callback) {
         const propName = prop.trim();
 
         if (value.length === 0) { return; }
-        if (propName.startsWith('in-'))       { set.in[propName.substr(3)]  = value; }
+        if (propName.startsWith('in-')) { set.in[propName.substr(3)] = value; }
         else if (propName.startsWith('out-')) { set.out[propName.substr(4)] = value; }
       });
 
