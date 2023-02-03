@@ -35,6 +35,7 @@ module.exports = new Parser(function analyseEC(parsedUrl, ec) {
     result.rtype = 'ARTICLE';
     result.mime  = 'HTML';
     result.unitid = match[2];
+    result.doi    = `${doiPrefix}/${match[2]}`;
 
   } else if ((match = /^\/pdf(?:-materials)?\/([0-9]+)\/[a-z0-9-]+?$/i.exec(path)) !== null) {
     // /pdf/54732/jove-protocol-54732-determination-relative-cell-surface-total-expression-recombinant-ion
@@ -50,7 +51,6 @@ module.exports = new Parser(function analyseEC(parsedUrl, ec) {
     result.mime   = 'XML';
     result.unitid = match[1];
     result.doi    = `${doiPrefix}/${match[1]}`;
-
   } else if (/^\/api\/articles\/v[0-9]+\/GetRIS\.php$/i.test(path)) {
     // /api/articles/v0/GetRIS.php?id=54732
     result.rtype = 'METADATA';
@@ -73,7 +73,6 @@ module.exports = new Parser(function analyseEC(parsedUrl, ec) {
     result.mime   = 'MISC';
     result.unitid = match[1];
     result.issue  = match[1];
-
   } else if ((match = /^\/institutions\/[a-z-]+\/[a-z-]+\/[a-z-]+\/([a-z0-9-]+)$/i.exec(path)) !== null) {
     // /institutions/NA-north-america/US-united-states/CA-california/16242-university-of-california-irvine
     result.rtype  = 'TOC';
@@ -96,7 +95,23 @@ module.exports = new Parser(function analyseEC(parsedUrl, ec) {
     // /search?q=aluminum&filter_type_1=and&filter_type_2=or&filter_type_3=not&exclude_sections=0+1+2+4+11+12+14+15+16+17+18+19+20+28+29+30+32+33+34+35+36+37+38+39+40+41+42+43+44+45+46+47+48+49+50+51+52+53+54+55+56+57+58
     result.rtype  = 'SEARCH';
     result.mime   = 'MISC';
+  } else if ((match = /^\/api\/article\/pdf\/([0-9]+)$/i.exec(path)) !== null) {
+    // /api/article/pdf/64404
+    result.rtype = 'ARTICLE';
+    result.mime = 'PDF';
+    result.unitid = match[1];
+    result.doi = `${doiPrefix}/${match[1]}`;
+  } else if ((match = /^\/api\/free\/article\/[a-z]+\/([0-9]+)$/i.exec(path)) !== null) {
+    // /api/free/article/en/53631
+    result.rtype = 'ARTICLE';
+    result.mime = 'HTML';
+    result.unitid = match[1];
+    result.doi = `${doiPrefix}/${match[1]}`;
+  } else if (/^\/api\/free\/search\/$/i.test(path)) {
+    // /api/free/search/?query=automobiles&content_type=journal_content&page=1&from=&to=
+    // /api/free/search/?query=automobiles&content_type=scied_content&page=1&from=&to=
+    result.rtype = 'SEARCH';
+    result.mime = 'HTML';
   }
-
   return result;
 });
