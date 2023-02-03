@@ -43,10 +43,10 @@ jobs:
 
       - name: Get changed files
         id: changed-parser
-        uses: tj-actions/changed-files@v11.7
+        uses: tj-actions/changed-files@v35
         with:
           files: |
-            \.js$
+            **/*.js
           files_ignore: .lib/**
 
       - name: Run mocha tests

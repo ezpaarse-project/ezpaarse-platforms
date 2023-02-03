@@ -28,16 +28,16 @@ jobs:
           node-version: ${{ env.NODE_VERSION }}
           cache: 'npm'
           cache-dependency-path: .lib/package-lock.json
-  
+
       - name: Make install
         run: make install
 
       - name: Get changed files
         id: changed-parser
-        uses: tj-actions/changed-files@v11.7
+        uses: tj-actions/changed-files@v35
         with:
           files: |
-            \.js$
+            **/*.js
 
       - name: Run lint test
         shell: bash
