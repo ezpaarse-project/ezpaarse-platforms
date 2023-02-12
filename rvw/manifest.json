@@ -1,0 +1,13 @@
+{
+  "longname": "Rivisteweb",
+  "name": "rvw",
+  "describe": "Recognizes the accesses to the platform Rivisteweb",
+  "contact": "Justyn Shye",
+  "pkb": false,
+  "docurl": "http://analyses.ezpaarse.org/platforms/63e10e6034701e19d74fd37b",
+  "domains": [
+    "www.rivisteweb.it"
+  ],
+  "version": "2023-02-12",
+  "status": "beta"
+}
