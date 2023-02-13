@@ -34,7 +34,7 @@ module.exports = new Parser(function analyseEC(parsedUrl, ec) {
     result.mime     = 'HTML';
     result.unitid   = match[1];
     result.doi = match[1];
-  } else if ((match = /^\/rivisteweb\/searchresults$/i.exec(path)) !== null) {
+  } else if (/^\/rivisteweb\/searchresults$/i.test(path)) {
     // https://www.rivisteweb.it/rivisteweb/searchresults?search_query=Simona+Salustri&search_query_defaultValue=Author%2C+Title%2C+Subtitle&search_field=journal&fields%5BsearchOption%5D%5Bkeys%5D=&fields%5BsearchOption%5D%5Bcontributors%5D=&fields%5BsearchOption%5D%5Btitle%5D=&fields%5BsearchOption%5D%5Bdoi%5D=&fields%5BsearchOption%5D%5Beditore%5D=&fields%5BsearchOption%5D%5Bargomenti%5D%5B%5D=&fields%5BsearchOption%5D%5Briviste%5D%5B%5D=&fields%5BsearchOption%5D%5BfromYear%5D=&fields%5BsearchOption%5D%5BtoYear%5D=
     result.rtype    = 'SEARCH';
     result.mime     = 'HTML';
