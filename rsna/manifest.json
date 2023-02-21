@@ -1,0 +1,13 @@
+{
+  "longname": "Radiological Society of North America",
+  "name": "rsna",
+  "describe": "Recognizes the accesses to the platform Radiological Society of North America",
+  "contact": "Frederic Truong inist",
+  "pkb": false,
+  "docurl": "http://analyses.ezpaarse.org/platforms/63e350298d1676526e146b11",
+  "domains": [
+    "pubs.rsna.org"
+  ],
+  "version": "2023-02-21",
+  "status": "beta"
+}
