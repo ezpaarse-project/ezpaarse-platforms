@@ -1,6 +1,6 @@
 out-db_id;out-unitid;out-rtype;out-mime;in-url
 bjc;bjc-6181;RECORD_VIEW;HTML;https://animal-representation.cnrs.fr/s/bjc/item/6181
-;;SEARCH;HTML;https://animal-representation.cnrs.fr/s/bjc/search?q=matière&submit=
+bjc;;SEARCH;HTML;https://animal-representation.cnrs.fr/s/bjc/search?q=matière&submit=
 bjc;bjc-6181;;HTML;https://animal-representation.cnrs.fr/s/bjc/item/6181/mirador
 bjc;;SEARCH;HTML;https://animal-representation.cnrs.fr/s/bjc/searchAll?q=grotte
 ;d1d9e6f1085bc29e93cf95320e144f4f2f985dd9;RECORD_VIEW;PDF;https://animal-representation.cnrs.fr/files/original/d1d9e6f1085bc29e93cf95320e144f4f2f985dd9.pdf

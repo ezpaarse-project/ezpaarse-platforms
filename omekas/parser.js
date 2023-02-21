@@ -31,6 +31,7 @@ module.exports = new Parser(function analyseEC(parsedUrl, ec) {
     // /s/bjc/search
     result.rtype = 'SEARCH';
     result.mime = 'HTML';
+    result.db_id = match[1];
 
   } else if ((match = /^\/s\/([a-z]+)\/searchAll$/i.exec(path)) !== null) {
     // /s/bjc/searchAll?q=grotte
