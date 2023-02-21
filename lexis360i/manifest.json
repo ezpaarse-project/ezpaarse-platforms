@@ -1,0 +1,14 @@
+{
+  "longname": "Lexis360Intelligence",
+  "name": "lexis360i",
+  "describe": "Recognizes the accesses to the platform Lexis360Intelligence",
+  "contact": "Frederic Truong inist",
+  "pkb": false,
+  "docurl": "http://analyses.ezpaarse.org/platforms/63be84cb24746a031c664ee1",
+  "domains": [
+    "www.lexis360intelligence.fr",
+    "www-lexis360intelligence-fr.ressources-electroniques.univ-lille.fr"
+  ],
+  "version": "2023-02-21",
+  "status": "beta"
+}
