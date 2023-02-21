@@ -1,0 +1,13 @@
+{
+  "longname": "Opus",
+  "name": "opus",
+  "describe": "Recognizes the accesses to the platform Opus",
+  "contact": "thomas.porquet, felix",
+  "pkb": false,
+  "docurl": "http://analyses.ezpaarse.org/platforms/63da8167d8c16f8ca1f32956",
+  "domains": [
+    "opus.u-paris.fr"
+  ],
+  "version": "2023-02-21",
+  "status": "beta"
+}
