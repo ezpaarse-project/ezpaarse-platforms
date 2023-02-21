@@ -27,7 +27,7 @@ module.exports = new Parser(function analyseEC(parsedUrl, ec) {
     result.mime     = 'PDF';
     result.unitid = match[1];
 
-  } else if ((match = /^\/api\/recherche\/\/search$/i.exec(path)) !== null) {
+  } else if (/^\/api\/recherche\/\/search$/i.test(path)) {
     // /api/recherche//search
     result.rtype    = 'SEARCH';
     result.mime     = 'HTML';
