@@ -1,0 +1,13 @@
+{
+  "longname": "O'Reilly Learning",
+  "name": "orl",
+  "describe": "Recognizes the accesses to the platform O'Reilly Learning",
+  "contact": "Sean Duffy",
+  "pkb": false,
+  "docurl": "http://analyses.ezpaarse.org/platforms/63ebdf6531a82b68774e9827",
+  "domains": [
+    "learning.oreilly.com"
+  ],
+  "version": "2023-03-01",
+  "status": "beta"
+}
