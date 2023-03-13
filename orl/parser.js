@@ -36,7 +36,6 @@ module.exports = new Parser(function analyseEC(parsedUrl, ec) {
     result.unitid   = match[3];
   } else if ((match = /^\/library\/view\/([a-z0-9-]+)\/([0-9]+)\/([a-z0-9-]+)\.html$/i.exec(path)) !== null) {
     // https://learning.oreilly.com/library/view/python-in-a/9781098113544/ch01.html
-    // https://learning.oreilly.com/library/view/python-in-a/9781098113544/ch01.html#the_python_languag
     result.rtype    = 'BOOK_SECTION';
     result.mime     = 'HTML';
     result.print_identifier = match[2];
@@ -46,11 +45,11 @@ module.exports = new Parser(function analyseEC(parsedUrl, ec) {
     // https://learning.oreilly.com/videos/case-study-how/0636920696391/
     result.rtype    = 'RECORD_VIEW';
     result.mime     = 'HTML';
-    if (match[1] == 'library') {
+    if (match[1] === 'library') {
       result.print_identifier = match[5];
     }
     result.unitid = match[5];
-  } else if ((match = /^\/search\/$/i.exec(path)) !== null) {
+  } else if (/^\/search\/$/i.test(path)) {
     // https://learning.oreilly.com/search/?q=python&type=*&rows=10
     result.rtype    = 'SEARCH';
     result.mime     = 'HTML';
