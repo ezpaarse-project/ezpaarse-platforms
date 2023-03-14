@@ -1,5 +1,20 @@
 name: Run tests on pull request
 on:
+  push:
+    branches:
+      - master
+    paths-ignore:
+      - '.lib/**'
+      - '.husky/**'
+      - '.eslintrc'
+      - '.gitignore'
+      - '.travis.yml'
+      - 'Makefile'
+      - 'README.md'
+      - 'fields.json'
+      - 'mime.json'
+      - 'rid.json'
+      - 'rtype.json'
   pull_request:
     branches:
       - '*'
