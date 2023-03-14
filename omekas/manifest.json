@@ -6,7 +6,17 @@
   "pkb": false,
   "docurl": "http://analyses.ezpaarse.org/platforms/61bb401edab08c58308f1a01",
   "domains": [
-    "animal-representation.cnrs.fr",
+    "statest.hiscant.univ-lorraine.fr",
+    "amiaf-imaf.cnrs.fr",
+    "architoul-msh-toulouse.cnrs.fr",
+    "cenhtor-msh-lorraine.cnrs.fr",
+    "pacea-collections.inist.fr",
+    "paleorient.cnrs.fr",
+    "kaleidomed-mmsh.cnrs.fr",
+    "revcoleurop.cnrs.fr",
+    "image.hiscant.univ-lorraine.fr",
+    "ccj-corea.cnrs.fr",
+    "animal-representation.cnrs.fr,
     "corpus-visuels-invisu.inist.fr"
   ],
   "version": "2023-01-11",
