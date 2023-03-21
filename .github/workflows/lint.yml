@@ -1,5 +1,11 @@
 name: Run linter on pull request
 on:
+  push:
+    branches:
+      - master
+    paths:
+      - '**.js'
+      - '!.lib/**'
   pull_request:
     branches:
       - '*'
