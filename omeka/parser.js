@@ -27,7 +27,9 @@ module.exports = new Parser(function analyseEC(parsedUrl, ec) {
 
   let match;
 
-  result.publisher_name = publisherName[parsedUrl.host];
+  if (publisherName[parsedUrl.host]) {
+    result.publisher_name = publisherName[parsedUrl.host];
+  }
 
   if ((match = /^\/files\/original\/([0-9a-z]+)\.(jpg|pdf)$/i.exec(path)) !== null) {
     // /files/original/7f89e1ff3f55c4719445087d15f40b79.jpg
