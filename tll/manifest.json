@@ -1,0 +1,13 @@
+{
+  "longname": "Thesaurus Linguae Latinae",
+  "name": "tll",
+  "describe": "Recognizes the accesses to the platform Thesaurus Linguae Latinae",
+  "contact": "Frederic Truong inist",
+  "pkb": false,
+  "docurl": "http://analyses.ezpaarse.org/platforms/64219b9caa1c214bd756b327",
+  "domains": [
+    "tll.degruyter.com"
+  ],
+  "version": "2023-03-29",
+  "status": "beta"
+}
