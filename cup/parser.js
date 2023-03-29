@@ -103,7 +103,7 @@ module.exports = new Parser(function analyseEC(parsedUrl) {
     // /core/journals/journal-of-the-history-of-economic-thought/article/old-generation-of-economists-and-the-new-an-intellectual-historians-approach-to-a-significant-transition/A95C410BA1767D60C3DA96901466AABD/core-reader
 
     result.mime = 'HTML';
-    result.rtype = match[3] ? 'ARTICLE' : 'ABS';
+    result.rtype = 'ARTICLE';
     result.unitid = match[2];
     result.title_id = match[1];
 
