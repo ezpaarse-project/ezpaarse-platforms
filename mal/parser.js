@@ -33,11 +33,11 @@ module.exports = new Parser(function analyseEC(parsedUrl) {
     result.title_id = match[2];
     result.unitid   = result.doi = match[1];
     result.unitid   = match[2] + '.' + match[3];
-    result.publication_date = info[2].substring(0,4);
+    result.publication_date = info[2].substring(0, 4);
 
   } else if ((match = /^\/doi(\/full)?\/(([0-9.]+)\/(([^.]+)\.[0-9]{4}[-\W].*))$/i.exec(path)) !== null) {
     // http://online.liebertpub.com.gate1.inist.fr/doi/full/10.1089/dna.2012.1776
-	// https://www-liebertpub-com.insb.bib.cnrs.fr/doi/10.1089/sur.2019-29015-df
+    // https://www-liebertpub-com.insb.bib.cnrs.fr/doi/10.1089/sur.2019-29015-df
     // /doi/10.1089/hgtb.2018.041
     info = match[2].split('.');
     result.rtype    = 'ARTICLE';
@@ -45,25 +45,26 @@ module.exports = new Parser(function analyseEC(parsedUrl) {
     result.title_id = match[5];
     result.unitid   = result.doi = match[2];
     result.unitid   = match[4];
-    result.publication_date = info[2].substring(0,4);
+    result.publication_date = info[2].substring(0, 4);
 
-  } else if ((match = /^\/doi\/pdf(plus)?\/(([0-9.]+)\/([^/(.)]+)\.([^/)]+))$/i.exec(path)) !== null) {
-    // http://online.liebertpub.com.gate1.inist.fr/doi/pdf/10.1089/dna.2012.1776
-    // http://online.liebertpub.com.gate1.inist.fr/doi/pdfplus/10.1089/dna.2012.1776
-	// https://www-liebertpub-com.insb.bib.cnrs.fr/doi/pdf/10.1089/sur.2018.29014.df
-    info = match[2].split('.');
+  } else if ((match = /^\/doi\/pdf(?:plus)?\/([0-9.]+\/([a-z]+)\.([0-9a-z.-]+))$/i.exec(path)) !== null) {
+    // /doi/pdf/10.1089/dna.2012.1776
+    // /doi/pdfplus/10.1089/dna.2012.1776
+    // /doi/pdf/10.1089/sur.2018.29014.df
+    // /doi/pdf/10.1089/sur.2019-29015-df
+    // /doi/pdf/10.1089/DERM.0000000000000905
     result.rtype = 'ARTICLE';
     result.mime  = 'PDF';
 
-    result.title_id = match[4];
-    result.doi      = match[2];
-    result.unitid   = match[4] + '.' + match[5];
+    result.title_id = match[2];
+    result.doi      = match[1];
+    result.unitid   = match[2] + '.' + match[3];
 
-    if (!isNaN(info[2].substring(0,4))) {
-      result.publication_date = info[2].substring(0,4);
-    } else {
-      result.publication_date = info[3];
+    const info = /^([0-9]{4})[.-]/.exec(match[3] || '');
+    if (info && info[1]) {
+      result.publication_date = info[1];
     }
   }
+
   return result;
 });
