@@ -40,9 +40,8 @@ module.exports = new Parser(function analyseEC(parsedUrl, ec) {
     result.rtype    = 'SEARCH';
     result.mime     = 'HTML';
 
-  } else if ((match = /^\/([a-z]+)\/([a-z]+)$/i.exec(path)) !== null) {
-    // https://customer.janes.com/TerrorismInsurgency/Events?f=SOURCE_TYPE(Terrorism+and+Insurgency)
-    // https://customer.janes.com/DefenceBudgets/home
+  } else if ((match = /^\/([a-z]+)\/search$/i.exec(path)) !== null) {
+    // https://customer.janes.com/DefenceBudgetsReports/search?q=Germany&pg=1
     result.rtype    = 'SEARCH';
     result.mime     = 'HTML';
   }

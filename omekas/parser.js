@@ -26,16 +26,25 @@ module.exports = new Parser(function analyseEC(parsedUrl, ec) {
     result.mime = 'HTML';
     result.unitid = `${match[1]}-${match[2]}`;
     result.db_id = match[1];
+
+  } else if ((match = /^\/s\/([a-z]+)\/search$/i.exec(path)) !== null) {
+    // /s/bjc/search
+    result.rtype = 'SEARCH';
+    result.mime = 'HTML';
+    result.db_id = match[1];
+
   } else if ((match = /^\/s\/([a-z]+)\/searchAll$/i.exec(path)) !== null) {
     // /s/bjc/searchAll?q=grotte
     result.rtype = 'SEARCH';
     result.mime = 'HTML';
     result.db_id = match[1];
+
   } else if ((match = /^\/files\/original\/([a-z0-9]+)\.pdf$/i.exec(path)) !== null) {
     // /files/original/d1d9e6f1085bc29e93cf95320e144f4f2f985dd9.pdf
     result.rtype = 'RECORD_VIEW';
     result.mime = 'PDF';
     result.unitid = match[1];
+
   } else if ((match = /^\/s\/([a-z]+)\/item\/([0-9]+)$/i.exec(path)) !== null) {
     // /s/bjc/item/6181
     result.rtype = 'RECORD_VIEW';
@@ -43,8 +52,6 @@ module.exports = new Parser(function analyseEC(parsedUrl, ec) {
     result.unitid = `${match[1]}-${match[2]}`;
     result.db_id = match[1];
   }
-
-
 
   return result;
 });

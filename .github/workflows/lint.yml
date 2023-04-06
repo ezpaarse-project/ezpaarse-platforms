@@ -1,5 +1,11 @@
 name: Run linter on pull request
 on:
+  push:
+    branches:
+      - master
+    paths:
+      - '**.js'
+      - '!.lib/**'
   pull_request:
     branches:
       - '*'
@@ -18,26 +24,26 @@ jobs:
 
     steps:
       - name: Checkout
-        uses: actions/checkout@v2
+        uses: actions/checkout@v3
         with:
           fetch-depth: 0
 
       - name: Use Node.js ${{ env.NODE_VERSION }}
-        uses: actions/setup-node@v2
+        uses: actions/setup-node@v3
         with:
           node-version: ${{ env.NODE_VERSION }}
           cache: 'npm'
           cache-dependency-path: .lib/package-lock.json
-  
+
       - name: Make install
         run: make install
 
       - name: Get changed files
         id: changed-parser
-        uses: tj-actions/changed-files@v11.7
+        uses: tj-actions/changed-files@v35
         with:
           files: |
-            \.js$
+            **/*.js
 
       - name: Run lint test
         shell: bash

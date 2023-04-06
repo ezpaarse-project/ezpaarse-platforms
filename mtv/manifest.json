@@ -1,0 +1,13 @@
+{
+  "longname": "Medici TV",
+  "name": "mtv",
+  "describe": "Recognizes the accesses to the platform Medici TV",
+  "contact": "Sean Duffy",
+  "pkb": false,
+  "docurl": "http://analyses.ezpaarse.org/platforms/63bc66668387d601b164cd52",
+  "domains": [
+    "edu.medici.tv"
+  ],
+  "version": "2023-01-23",
+  "status": "beta"
+}

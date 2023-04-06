@@ -1,0 +1,13 @@
+{
+  "longname": "Quintessence Publishing",
+  "name": "qp",
+  "describe": "Recognizes the accesses to the platform Quintessence Publishing",
+  "contact": "Frederic Truong inist",
+  "pkb": false,
+  "docurl": "http://analyses.ezpaarse.org/platforms/63fcb79499d37f1502ac0cb7",
+  "domains": [
+    "www.quintpub.com"
+  ],
+  "version": "2023-03-29",
+  "status": "beta"
+}
