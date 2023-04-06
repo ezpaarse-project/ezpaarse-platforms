@@ -58,7 +58,7 @@ module.exports = new Parser(function analyseEC(parsedUrl) {
 
     result.title_id = match[2];
     result.doi      = match[1];
-    result.unitid   = `${match[2]}.${match[3]}`;
+    result.unitid   = match[2] + '.' + match[3];
 
     const info = /^([0-9]{4})[.-]/.exec(match[3] || '');
     if (info && info[1]) {
