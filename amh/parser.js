@@ -21,19 +21,11 @@ module.exports = new Parser(function analyseEC(parsedUrl, ec) {
 
   let match;
 
-  if ((match = /^\/chapters\/([a-z]+)\/([a-z]+)$/i.exec(path)) !== null) {
-    // https://amhonline.amh.net.au/chapters/allergy-anaphylaxis/allergy?menu=vertical#anaphylaxis-table
-    result.rtype    = 'TOC';
-    result.mime     = 'HTML';
-    result.title_id = match[1];
-    result.unitid = match[2];
-
-  } else if ((match = /^\/chapters\/([a-z]+)\/([a-z]+)\/([a-z]+)\/([a-z]+)$/i.exec(path)) !== null) {
+  if ((match = /^\/chapters\/[a-z-]+\/[a-z-]+\/[a-z-]+\/([a-z-]+)$/i.exec(path)) !== null) {
     // https://amhonline.amh.net.au/chapters/blood-electrolytes/anticoagulants/heparins/danaparoid
     result.rtype    = 'ARTICLE';
     result.mime     = 'HTML';
-    result.title_id = match[1];
-    result.unitid   = match[2];
+    result.unitid   = match[1];
   } else if (/^\/search$/i.test(path)) {
     // https://amhonline.amh.net/search?q=heparins
     result.rtype    = 'SEARCH';
