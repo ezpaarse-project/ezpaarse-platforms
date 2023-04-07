@@ -20,15 +20,15 @@ module.exports = new Parser(function analyseEC(parsedUrl, ec) {
   // console.error(parsedUrl);
   let match;
 
-  if ((match =/^\/shelf\/([a-z-]+)\/([a-z0-9-_]+)\.html$/i.exec(path)) !== null) {
+  if ((match = /^\/shelf\/[a-z-]+\/([a-z0-9-_]+)\.html$/i.exec(path)) !== null) {
     //https://4canoesportal.org/shelf/Haida/TheHaidaofHaidaGwaii_2022-11-07_15-24-05.html
-    result.rtype    = 'BOOK';
-    result.mime     = 'HTML';
-    result.unitid = match[2];
+    result.rtype = 'BOOK';
+    result.mime = 'HTML';
+    result.unitid = match[1];
   } else if (/^\/([a-z-]+)\/?$/i.test(path)) {
     // https://4canoes.com/focused-education-resources
-    result.rtype    = 'QUERY';
-    result.mime     = 'HTML';
+    result.rtype = 'QUERY';
+    result.mime = 'HTML';
   }
 
   return result;
