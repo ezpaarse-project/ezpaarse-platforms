@@ -18,7 +18,7 @@ const searchPatterns = [
   /^\/resources\/pronunciation\/[a-z0-9_-]+$/i,
   /^\/google\/result.asp$/i,
   /^\/work\/[a-z0-9_-]+\/$/i,
-  /^\/(search|label|persons?|composers?|artist|recentaddi?tions|newreleases|filtered)\/[a-z0-9_-]+\/?$/i,
+  /^\/(search|label|recentaddi?tions|newreleases|filtered)\/[a-z0-9_-]+\/?$/i,
   /^\/(search|label|persons?|composers?|artist|recentaddi?tions|news|resources|catcategory)\/?$/i,
   /^\/(Readerlist|recentaddi?tions|labels|authorList|newreleases|browsesearch(label)?)\.asp$/i
 ];
@@ -42,6 +42,10 @@ module.exports = new Parser(function analyseEC(parsedUrl, ec) {
     result.rtype = 'SEARCH';
     result.mime = 'HTML';
 
+  } else if ((match = /^\/(artist|person|composers)\/([a-z0-9_-]+)\/?$/i.exec(path)) !== null) {
+    result.rtype = 'RECORD';
+    result.mime = 'HTML';
+    result.unitid = match[2];
   } else if ((match = /^\/(world|jazz)\/([a-z0-9_-]+).asp$/i.exec(path)) !== null) {
     if (match[2] === 'artist_pro_new') {
       // https://emory.naxosmusiclibrary.com:443/World/artist_pro_new.asp?personid=32318
@@ -193,6 +197,7 @@ module.exports = new Parser(function analyseEC(parsedUrl, ec) {
     result.rtype = 'RECORD_VIEW';
     result.mime = 'HTML';
     result.unitid = match[1];
+    result.db_id = "works"
 
   } else if ((match = /^\/sharedfiles\/booklets\/[a-z0-9_-]+\/([a-z0-9_-]+).pdf$/i.exec(path)) !== null) {
     // https://emory.naxosmusiclibrary.com:443/sharedfiles/booklets/CHA/booklet-CHAN20141.pdf
@@ -227,7 +232,7 @@ module.exports = new Parser(function analyseEC(parsedUrl, ec) {
   } else if ((match = /^\/title\/([a-z0-9_.-]+)/i.exec(path)) !== null) {
     // http://emory.naxosvideolibrary.com:80/title/2.110291/
     // /title/L7922DVD
-    result.rtype = 'TOC';
+    result.rtype = 'VIDEO';
     result.mime = 'HTML';
     result.unitid = match[1];
 
@@ -277,11 +282,17 @@ module.exports = new Parser(function analyseEC(parsedUrl, ec) {
     result.mime = 'MISC';
     result.unitid = match[1].split('.mp4')[0];
 
-  } else if ((match = /^\/(world|jazz)\/naxos\/track\/streamLog$/i.exec(path)) !== null) {
+  } else if ((match = /^(?:\/(world|jazz))?\/naxos\/track(?:\/audio)?\/(address|streamLog)$/i.exec(path)) !== null) {
     // /world/naxos/track/streamLog?trackId=69669&quality=128
     // /jazz/naxos/track/streamLog?trackId=38031&quality=128
     result.rtype = 'AUDIO';
-    result.mime = 'MISC';
+    console.log(match);
+    if (match[2] == 'streamLog') {
+      result.mime = 'MISC';
+    } else {
+      result.mime = 'HTML';
+      result.db_id = match[1];
+    }
     result.unitid = param.trackId;
 
   }
