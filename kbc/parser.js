@@ -21,7 +21,7 @@ module.exports = new Parser(function analyseEC(parsedUrl, ec) {
 
   let match;
 
-  if ((match = /^\/books\/([a-zA-Z-]+)\/([a-zA-Z-]+)\/([a-zA-Z-]+)\/([a-zA-Z-]+)(?:\/([a-zA-Z0-9-]+))?$/i.exec(path)) !== null) {
+  if ((match = /^\/books\/([a-zA-Z-]+)\/([a-zA-Z-]+)\/([a-zA-Z-]+)\/([a-zA-Z-]+)(\/([a-zA-Z0-9-]+))?$/i.exec(path)) !== null) {
     // https://www.knowbc.com/books/Marine-Life-of-the-Pacific-Northwest/Invertebrates/Molluscs/Octopuses-and-Squids/MC371-GIANT-PACIFIC-OCTOPUS
     // https://www.knowbc.com/books/Field-Guides/Wildlife-of-the-Rockies/Birds/Spruce-Grouse
     result.rtype = 'ENCYCLOPAEDIA_ENTRY';
@@ -40,7 +40,7 @@ module.exports = new Parser(function analyseEC(parsedUrl, ec) {
     result.unitid   = match[2];
     result.title_id = match[1];
 
-  } else if ((match = /^\/books\/([a-zA-Z-]+)\/([a-zA-Z-]+)(?:\/([a-zA-Z-]+))?$/i.exec(path)) !== null) {
+  } else if ((match = /^\/books\/([a-zA-Z-]+)\/([a-zA-Z-]+)(\/([a-zA-Z-]+))?$/i.exec(path)) !== null) {
     // https://www.knowbc.com/books/Encyclopedia-of-BC/A
     // https://www.knowbc.com/books/Field-Guides/Wildlife-of-the-Rockies/Birds
     result.rtype    = 'TOC';
