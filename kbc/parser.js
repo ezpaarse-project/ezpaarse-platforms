@@ -40,7 +40,7 @@ module.exports = new Parser(function analyseEC(parsedUrl, ec) {
     result.unitid   = match[2];
     result.title_id = match[1];
 
-  } else if ((match = /^\/books\/([a-zA-Z-]+)\/([a-zA-Z-]+)(:?\/([a-zA-Z-]+))?$/i.exec(path)) !== null) {
+  } else if ((match = /^\/books\/([a-zA-Z-]+)\/([a-zA-Z-]+)(?:\/([a-zA-Z-]+))?$/i.exec(path)) !== null) {
     // https://www.knowbc.com/books/Encyclopedia-of-BC/A
     // https://www.knowbc.com/books/Field-Guides/Wildlife-of-the-Rockies/Birds
     result.rtype    = 'TOC';
