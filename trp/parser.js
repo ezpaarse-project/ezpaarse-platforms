@@ -31,6 +31,10 @@ module.exports = new Parser(function analyseEC(parsedUrl, ec) {
     result.mime     = 'HTML';
     result.title_id = param.titleKey;
     result.unitid   = param.titleKey;
+  } else if (/^\/title$/i.test(path)) {
+    // https://next-proview.thomsonreuters.com/title
+    result.rtype    = 'QUERY';
+    result.mime     = 'HTML';
   }
 
   return result;
