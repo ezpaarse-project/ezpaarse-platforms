@@ -1,0 +1,13 @@
+{
+  "longname": "Know BC",
+  "name": "kbc",
+  "describe": "Recognizes the accesses to the platform Know BC",
+  "contact": "Sean Duffy",
+  "pkb": false,
+  "docurl": "http://analyses.ezpaarse.org/platforms/641b46a3832fbd9a362378aa",
+  "domains": [
+    "www.knowbc.com"
+  ],
+  "version": "2023-04-06",
+  "status": "beta"
+}
