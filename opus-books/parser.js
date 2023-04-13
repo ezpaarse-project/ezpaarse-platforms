@@ -28,10 +28,10 @@ module.exports = new Parser(function analyseEC(parsedUrl, ec) {
     result.publication_title = match[1];
     result.unitid = match[1];
 
-  } else if ((match = /^\/catalog\/view\/([0-9a-z-]+)\/(1|2)\/([0-9]+)$/i.exec(path)) !== null) {
+  } else if ((match = /^\/catalog\/view\/([0-9a-z-]+)\/(1|2|html|pdf)\/([0-9]+)$/i.exec(path)) !== null) {
     // /catalog/view/quatre-atlas-de-myologie-de-van-horne-et-sagemolen/1/355
     result.rtype = 'BOOK_SECTION';
-    result.mime = match[2] === '1' ? 'HTML' : 'PDF';
+    result.mime = /^1|html$/i.test(match[2]) ? 'HTML' : 'PDF';
     result.unitid = match[3];
     result.publication_title = match[1];
 
