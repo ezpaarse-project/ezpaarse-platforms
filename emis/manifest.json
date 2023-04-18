@@ -1,0 +1,13 @@
+{
+  "longname": "EMIS",
+  "name": "emis",
+  "describe": "Recognizes the accesses to the platform EMIS",
+  "contact": "Sean Duffy",
+  "pkb": false,
+  "docurl": "http://analyses.ezpaarse.org/platforms/63ab44187efb2804c14a6164",
+  "domains": [
+    "www.emis.com"
+  ],
+  "version": "2023-04-17",
+  "status": "beta"
+}
