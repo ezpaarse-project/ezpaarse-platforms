@@ -1,0 +1,116 @@
+publication_title	print_identifier	online_identifier	date_first_issue_online	num_first_vol_online	num_first_issue_online	date_last_issue_online	num_last_vol_online	num_last_issue_online	title_url	first_author	title_id	embargo_info	coverage_depth	notes	publisher_name	publication_type	date_monograph_published_print	date_monograph_published_online	monograph_volume	monograph_edition	first_editor	parent_publication_title_id	preceding_publication_title_id	access_type	bestppn
+Cahiers jungiens de psychanalyse	0984-8207	2262-4783	1974	1	1				https://www.cairn.info/revue-cahiers-jungiens-de-psychanalyse.htm		revue-cahiers-jungiens-de-psychanalyse		fulltext		Les cahiers jungiens de psychanalyse	serial								P	
+Cancer(s) et psy(s)	2269-9201	2495-0920	2014	1	1				https://www.cairn.info/revue-cancers-et-psys.htm		revue-cancers-et-psys		fulltext		Érès	serial								P	195211464
+Carrefours de l'éducation	1262-3490	1969-6949	2001	11	1				https://www.cairn.info/revue-carrefours-de-l-education.htm		revue-carrefours-de-l-education		fulltext		Armand Colin	serial								P	
+Champ lacanien	1767-6827	2606-5827	2004	1	1				https://www.cairn.info/revue-champ-lacanien.htm		revue-champ-lacanien		fulltext		EPFCL-France	serial								P	
+Che vuoi ?	0994-2424	2262-4848	2003	19	1				https://www.cairn.info/revue-che-vuoi.htm		revue-che-vuoi		fulltext		Érès	serial								P	16619798X
+Cliniques	2115-8177	1968-3944	2011	1	1				https://www.cairn.info/revue-cliniques.htm		revue-cliniques		fulltext		Érès	serial								P	
+Cliniques méditerranéennes	0762-7491	1776-2790	2001	63	1				https://www.cairn.info/revue-cliniques-mediterraneennes.htm		revue-cliniques-mediterraneennes		fulltext		Érès	serial								P	097477958
+Cliopsy		2100-0670	2009	1	1				https://www.cairn.info/revue-cliopsy.htm		revue-cliopsy		fulltext		Association Cliopsy	serial								P	13595942X
+Communication et langages	0336-1500	1778-7459	2009	159	1				https://www.cairn.info/revue-communication-et-langages.htm		revue-communication-et-langages		fulltext		Presses Universitaires de France	serial								P	124596576
+Connexions	0337-3126	1776-2804	2001	75	1				https://www.cairn.info/revue-connexions.htm		revue-connexions		fulltext		Érès	serial								P	097479780
+Contraste	1254-7689	2259-3780	2005		1				https://www.cairn.info/revue-contraste.htm		revue-contraste		fulltext		Érès	serial								P	
+Corps et Psychisme	2496-4476	2553-6087	2001	21	1				https://www.cairn.info/revue-corps-et-psychisme.htm		revue-corps-et-psychisme		fulltext		L’Esprit du temps	serial								P	
+Dialogue	0242-8962	1961-8662	2001	151	1				https://www.cairn.info/revue-dialogue.htm		revue-dialogue		fulltext		Érès	serial								P	111875161
+Droit, Santé et Société	0999-9809	2606-6645	2016	1	1				https://www.cairn.info/revue-droit-sante-et-societe.htm		revue-droit-sante-et-societe		fulltext		ESKA	serial								P	22526370X
+Éducation et didactique	1956-3485	2111-4838	2022	16	1				https://www.cairn.info/revue-education-et-didactique.htm		revue-education-et-didactique		fulltext		Presses universitaires de Rennes	serial								P	148528678
+Éducation Permanente	0339-7513	2823-1848	2019	218	1				https://www.cairn.info/revue-education-permanente.htm		revue-education-permanente		fulltext		Éducation Permanente	serial								P	260893137
+Empan	1152-3336	1776-2812	2002	45	1				https://www.cairn.info/revue-empan.htm		revue-empan		fulltext		Érès	serial								P	097526029
+Enfance	0013-7545	1969-6981	2001	53	1				https://www.cairn.info/revue-enfance.htm		revue-enfance		fulltext		Presses Universitaires de France	serial								P	
+Enfances et Psy	1286-5559	1776-2820	2000	12	4				https://www.cairn.info/revue-enfances-et-psy.htm		revue-enfances-et-psy		fulltext		Érès	serial								P	09755569X
+Envies de changer !	2742-8885	2779-1769	2020	3	1				https://www.cairn.info/revue-envies-de-changer.htm		revue-envies-de-changer		fulltext		Presses universitaires de Grenoble	serial								P	
+Essaim	1287-258X	1776-2839	2001	7	1				https://www.cairn.info/revue-essaim.htm		revue-essaim		fulltext		Érès	serial								P	097556939
+Feuillets psychanalytiques		2779-2765	2016	1	1				https://www.cairn.info/revue-feuillets-psychanalytiques.htm		revue-feuillets-psychanalytiques		fulltext		Association Lacanienne Internationale (A.L.I.) Rhône Alpes	serial								P	
+Figures de la psychanalyse	1623-3883	1776-2847	2001	4	1				https://www.cairn.info/revue-figures-de-la-psy.htm		revue-figures-de-la-psy		fulltext		Érès	serial								P	097557781
+Forum	0988-6486	2551-9921	2016	147	1				https://www.cairn.info/revue-forum.htm		revue-forum		fulltext		Champ social	serial								P	
+Gestalt	1154-5232	1950-6716	2002	22	1				https://www.cairn.info/revue-gestalt.htm		revue-gestalt		fulltext		Société française de Gestalt	serial								P	110968522
+Hegel	2269-0530	2115-452X	2011	1	1				https://www.cairn.info/revue-hegel.htm		revue-hegel		fulltext		ALN éditions	serial								P	152610766
+I2D - Information, données et documents	2428-2111	2431-3467	2001	38	1				https://www.cairn.info/revue-i2d-information-donnees-et-documents.htm		revue-i2d-information-donnees-et-documents		fulltext		A.D.B.S.	serial								P	
+Imaginaire et Inconscient	1628-9676	1965-0183	2001	1	1				https://www.cairn.info/revue-imaginaire-et-inconscient.htm		revue-imaginaire-et-inconscient		fulltext		L’Esprit du temps	serial								P	111987725
+Insistance	1778-7807	1951-6258	2005	1	1				https://www.cairn.info/revue-insistance.htm		revue-insistance		fulltext		Érès	serial								P	111472415
+Journal de la psychanalyse de l'enfant	0994-7949	2264-590X	2011	1	1				https://www.cairn.info/revue-journal-de-la-psychanalyse-de-l-enfant.htm		revue-journal-de-la-psychanalyse-de-l-enfant		fulltext		Presses Universitaires de France	serial								P	167869841
+Journal français de psychiatrie	1260-5999	1776-2855	2001	12	1				https://www.cairn.info/revue-journal-francais-de-psychiatrie.htm		revue-journal-francais-de-psychiatrie		fulltext		Érès	serial								P	097559679
+Jusqu’à la mort accompagner la vie	0768-6625	2428-3592	2012	109	2				https://www.cairn.info/revue-jusqu-a-la-mort-accompagner-la-vie.htm		revue-jusqu-a-la-mort-accompagner-la-vie		fulltext		Presses universitaires de Grenoble	serial								P	
+L'école des parents	0424-2238	2491-2875	2011	588	1				https://www.cairn.info/revue-l-ecole-des-parents.htm		revue-l-ecole-des-parents		fulltext		Érès	serial								P	
+L'en-je lacanien	1761-2861	1951-6231	2003	1	1				https://www.cairn.info/revue-l-en-je-lacanien.htm		revue-l-en-je-lacanien		fulltext		Érès	serial								P	110961854
+L'information psychiatrique	0020-0204	1952-4056	2006	82	1				https://www.cairn.info/revue-l-information-psychiatrique.htm		revue-l-information-psychiatrique		fulltext		John Libbey Eurotext	serial								P	127809449
+L'Observatoire	1165-2675	2553-615X	2007	32	2				https://www.cairn.info/revue-l-observatoire.htm		revue-l-observatoire		fulltext		Observatoire des politiques culturelles	serial								P	200793519
+La Cause du Désir	2258-8051	2606-6041	2004	56	1				https://www.cairn.info/revue-la-cause-du-desir.htm		revue-la-cause-du-desir		fulltext		L'École de la Cause freudienne	serial								P	
+La clinique lacanienne	1288-6629	1776-2782	2001	5	1				https://www.cairn.info/revue-la-clinique-lacanienne.htm		revue-la-clinique-lacanienne		fulltext		Érès	serial								P	098130595
+La psychiatrie de l'enfant	0079-726X	2102-5320	2001	44	1				https://www.cairn.info/revue-la-psychiatrie-de-l-enfant.htm		revue-la-psychiatrie-de-l-enfant		fulltext		Presses Universitaires de France	serial								P	
+La revue internationale de l'éducation familiale	1279-7766	1968-388X	2006	19	1				https://www.cairn.info/revue-la-revue-internationale-de-l-education-familiale.htm		revue-la-revue-internationale-de-l-education-familiale		fulltext		L'Harmattan	serial								P	
+La revue lacanienne	1967-2055	2109-9553	2007	1	1				https://www.cairn.info/revue-la-revue-lacanienne.htm		revue-la-revue-lacanienne		fulltext		Érès	serial								P	147872278
+Le Carnet PSY	1260-5921	2107-0954	2001	61	1				https://www.cairn.info/revue-le-carnet-psy.htm		revue-le-carnet-psy		fulltext		Le Carnet PSY	serial								P	
+Le Coq-héron	0335-7899	1951-6290	2002	168	1				https://www.cairn.info/revue-le-coq-heron.htm		revue-le-coq-heron		fulltext		Érès	serial								P	110959965
+Le Divan familial	1292-668X	2118-1942	2001	6	1				https://www.cairn.info/revue-le-divan-familial.htm		revue-le-divan-familial		fulltext		In Press	serial								P	
+Le Journal des psychologues	0752-501X	2118-3015	2006	234	1				https://www.cairn.info/revue-le-journal-des-psychologues.htm		revue-le-journal-des-psychologues		fulltext		Martin Média	serial								P	
+Le présent de la psychanalyse	2677-7924	2678-6133	2007	2007	1				https://www.cairn.info/revue-le-present-de-la-psychanalyse.htm		revue-le-present-de-la-psychanalyse		fulltext		Presses Universitaires de France	serial								P	
+Légipresse	2681-6415	EN COURS	1995	8	2				https://www.cairn.info/revue-legipresse.htm		revue-legipresse		fulltext		Dalloz	serial								P	
+Les Cahiers du numérique	1622-1494	2111-434X	2001	2	1				https://www.cairn.info/revue-les-cahiers-du-numerique.htm		revue-les-cahiers-du-numerique		fulltext		Lavoisier	serial								P	
+Les Cahiers Dynamiques	1276-3780	2109-9545	2005	33	1				https://www.cairn.info/revue-les-cahiers-dynamiques.htm		revue-les-cahiers-dynamiques		fulltext		Érès	serial								P	
+Les Lettres de la SPF	1281-0797	2728-5014	2007	17	1				https://www.cairn.info/revue-les-lettres-de-la-spf.htm		revue-les-lettres-de-la-spf		fulltext		Éditions Campagne Première	serial								P	
+L’Année psychologique	0003-5033	1955-2580	2009	109	1				https://www.cairn.info/revue-l-annee-psychologique.htm		revue-l-annee-psychologique		fulltext		Presses Universitaires de France	serial								P	113508131
+Management des technologies organisationnelles	2553-3851		2009	1	1				https://www.cairn.info/revue-management-des-technologies-organisationnelles.htm		revue-management-des-technologies-organisationnelles		fulltext		Les Presses des Mines	serial								P	
+Nectart	2429-2877	2554-8441	2015	1	1				https://www.cairn.info/revue-nectart.htm		revue-nectart		fulltext		Éditions de l'Attribut	serial								P	202731286
+Nouvelle Revue de l'Enfance et de l'Adolescence	2644-9633	2728-9915	2019	1	1				https://www.cairn.info/revue-nouvelle-revue-de-l-enfance-et-de-l-adolescence.htm		revue-nouvelle-revue-de-l-enfance-et-de-l-adolescence		fulltext		L'Harmattan	serial								P	
+Panard	2824-0391	EN COURS	2022	1	1				https://www.cairn.info/revue-panard.htm		revue-panard		fulltext		Éditions de l'Attribut	serial								P	
+Périnatalité	2678-6524	2801-4324	2016	8	1				https://www.cairn.info/revue-perinatalite.htm		revue-perinatalite		fulltext		Lavoisier	serial								P	254522580
+Perspectives Psy	0031-6032	2118-4038	2004	43	1				https://www.cairn.info/revue-perspectives-psy.htm		revue-perspectives-psy		fulltext		EDP Sciences	serial								P	
+Phronesis		1925-4873	2015	4	3				https://www.cairn.info/revue-phronesis.htm		revue-phronesis		fulltext		Revue Phronesis	serial								P	164364935
+Politiques et management public	0758-1726	2119-4831	2017	1	1				https://www.cairn.info/revue-politiques-et-management-public.htm		revue-politiques-et-management-public		fulltext		Lavoisier	serial								P	157752984
+Politiques de communication	2271-068X	2426-5977	2013	1	1				https://www.cairn.info/revue-politiques-de-communication.htm		revue-politiques-de-communication		fulltext		Presses universitaires de Grenoble	serial								P	
+Pratiques en santé mentale	1286-1286	2426-640X	2014		1				https://www.cairn.info/revue-pratique-en-sante-mentale.htm		revue-pratique-en-sante-mentale		fulltext		Champ social	serial								P	187657408
+Présence haptonomique	2103-8570	2968-1286	1990	1	1				https://www.cairn.info/revue-presence-haptonomique.htm		revue-presence-haptonomique		fulltext		CIRDH – Frans Veldman	serial								P	
+PSN	1639-8319	1955-2351	2012	10	1				https://www.cairn.info/revue-psn.htm		revue-psn		fulltext		Éditions Matériologiques	serial								P	118354914
+Psychanalyse YETU	1770-0078	1951-6320	2004	1	1				https://www.cairn.info/revue-psychanalyse-yetu.htm		revue-psychanalyse-yetu		fulltext		Érès	serial								P	110853024
+Psychologie Clinique	1145-1882	2118-4224	2009	27	1				https://www.cairn.info/revue-psychologie-clinique.htm		revue-psychologie-clinique		fulltext		EDP Sciences	serial								P	
+Psychologie clinique et projective	1265-5449	2118-4496	2001	7	1				https://www.cairn.info/revue-psychologie-clinique-et-projective.htm		revue-psychologie-clinique-et-projective		fulltext		Érès	serial								P	
+Psychologues et Psychologies	0297-6234		2011	220	6				https://www.cairn.info/revue-psychologues-et-psychologies.htm		revue-psychologues-et-psychologies		fulltext		Syndicat National des Psychologues	serial								P	
+Psychosomatique relationnelle		2272-916X	2013	1	1				https://www.cairn.info/revue-psychosomatique-relationnelle.htm		revue-psychosomatique-relationnelle		fulltext		Centre international de psychosomatique	serial								P	178359602
+Psychothérapies	0251-737X	2235-2104	2002	22	1				https://www.cairn.info/revue-psychotherapies.htm		revue-psychotherapies		fulltext		Médecine et Hygiène	serial								P	
+Psychotropes	1245-2092	1782-1487	2001	7	1				https://www.cairn.info/revue-psychotropes.htm		revue-psychotropes		fulltext		De Boeck Supérieur	serial								P	097586811
+Recherche et formation	0988-1824	1968-3936	2018	89	3				https://www.cairn.info/revue-recherche-et-formation.htm		revue-recherche-et-formation		fulltext		ENS Editions	serial								P	
+Recherche en soins infirmiers	0297-2964	2271-8362	1985	1	1				https://www.cairn.info/revue-recherche-en-soins-infirmiers.htm		revue-recherche-en-soins-infirmiers		fulltext		Association de Recherche en Soins Infirmiers	serial								P	
+Recherche et Cas en Sciences de Gestion	2646-6546	2678-0631	2017	17	1				https://www.cairn.info/revue-recherche-et-cas-en-sciences-de-gestion.htm		revue-recherche-et-cas-en-sciences-de-gestion		fulltext		EMS Editions	serial								P	236575651
+Recherches en didactiques	2116-9683	2608-0958	2011	11	1				https://www.cairn.info/revue-recherches-en-didactiques.htm		revue-recherches-en-didactiques		fulltext		Université de Lille	serial								P	
+Recherches en psychanalyse		1965-0213	2004	1	1				https://www.cairn.info/revue-recherches-en-psychanalyse.htm		revue-recherches-en-psychanalyse		fulltext		Laboratoire CRPMS, Université de Paris	serial								P	112132928
+Revue Belge de Psychanalyse	0775-0196		2016	69	2				https://www.cairn.info/revue-belge-de-psychanalyse.htm		revue-belge-de-psychanalyse		fulltext		Association pour les Publications et la Recherche Psychanalytiques	serial								P	
+Revue critique de droit international privé	0035-0958	2114-5156	2010	1	1				https://www.cairn.info/revue-critique-de-droit-international-prive.htm		revue-critique-de-droit-international-prive		fulltext		Dalloz	serial								P	143036432
+Revue de neuropsychologie	2101-6739	2102-6025	2009	1	1				https://www.cairn.info/revue-de-neuropsychologie.htm		revue-de-neuropsychologie		fulltext		John Libbey Eurotext	serial								P	137918976
+Revue de Psychologie Analytique	2268-8870	2271-2151	2013	1	1				https://www.cairn.info/revue-de-psychologie-analytique.htm		revue-de-psychologie-analytique		fulltext		@RPA	serial								P	
+Revue de psychothérapie psychanalytique de groupe	0297-1194	1776-2863	2001	36	1				https://www.cairn.info/revue-de-psychotherapie-psychanalytique-de-groupe.htm		revue-de-psychotherapie-psychanalytique-de-groupe		fulltext		Érès	serial								P	09884637X
+Revue des Collèges de Clinique psychanalytique du Champ Lacanien	2101-6429	2801-4537	2016	15	1				https://www.cairn.info/revue-des-colleges-de-clinique-psychanalytique-du-champ-lacanien.htm		revue-des-colleges-de-clinique-psychanalytique-du-champ-lacanien		fulltext		Hermann	serial								P	254991858
+Revue du Crieur	2428-4068	2649-7565	2015	1	1				https://www.cairn.info/revue-du-crieur.htm		revue-du-crieur		fulltext		La Découverte	serial								P	230616704
+Revue française de psychanalyse	0035-2942	2105-2964	2001	65	1				https://www.cairn.info/revue-francaise-de-psychanalyse.htm		revue-francaise-de-psychanalyse		fulltext		Presses Universitaires de France	serial								P	111200229
+Revue française de psychosomatique	1164-4796	2105-2603	1991	1	1				https://www.cairn.info/revue-francaise-de-psychosomatique.htm		revue-francaise-de-psychosomatique		fulltext		Presses Universitaires de France	serial								P	
+Actualités en analyse transactionnelle	1377-8935	2272-060X	2008	125	1				https://www.cairn.info/revue-actualites-en-analyse-transactionnelle.htm		revue-actualites-en-analyse-transactionnelle		fulltext		Institut français d'analyse transactionnelle	serial								P	
+Revue Management et Innovation	2658-9222		2020	1	1				https://www.cairn.info/revue-management-et-innovation.htm		revue-management-et-innovation		fulltext		Éditions EMI	serial								P	
+Revue trimestrielle des droits de l'Homme	0777-3579		2019	117	1				https://www.cairn.info/revue-trimestrielle-des-droits-de-l-homme.htm		revue-trimestrielle-des-droits-de-l-homme		fulltext		Anthemis	serial								P	
+Savoirs et clinique	1634-3298	1776-2871	2002	1	1				https://www.cairn.info/revue-savoirs-et-cliniques.htm		revue-savoirs-et-cliniques		fulltext		Érès	serial								P	099209225
+Servir	1956-922X	2827-6329	2019	493	1				https://www.cairn.info/revue-servir.htm		revue-servir		fulltext		Association SERVIR - Alumni de l'ENA et de l'INSP	serial								P	264073460
+Administration	0223-5439		2020	266	1				https://www.cairn.info/revue-administration.htm		revue-administration		fulltext		L’Association du Corps Préfectoral et des Hauts Fonctionnaires du Ministère de l’Intérieur	serial								P	
+Administration et Éducation	0222-674X	2554-8395	2014	141	1				https://www.cairn.info/revue-administration-et-education.htm		revue-administration-et-education		fulltext		Association Française des Acteurs de l'Éducation	serial								P	202731278
+Adolescence	0751-7696	1969-6736	2004		3				https://www.cairn.info/revue-adolescence.htm		revue-adolescence		fulltext		Éditions GREUPP	serial								P	
+ADSP	1771-7450	2804-0163	2021	113	1				https://www.cairn.info/revue-actualite-et-dossier-en-sante-publique.htm		revue-actualite-et-dossier-en-sante-publique		fulltext		Presses de l’EHESP	serial								P	260056650
+Agencements	2608-5739		2018	1	1				https://www.cairn.info/revue-agencements.htm		revue-agencements		fulltext		Éditions du Commun	serial								P	
+Analyse Freudienne Presse	1253-1472	1969-6744	2001	3	1				https://www.cairn.info/revue-analyse-freudienne-presse.htm		revue-analyse-freudienne-presse		fulltext		Érès	serial								P	
+Approche Centrée sur la Personne. Pratique et recherche	1774-5314	1961-8670	2005	1	1				https://www.cairn.info/revue-approche-centree-sur-la-personne.htm		revue-approche-centree-sur-la-personne		fulltext		ACP-PR	serial								P	11309647X
+Sociographe	1297-6628	2107-0636	2008	27	3				https://www.cairn.info/revue-sociographe.htm		revue-sociographe		fulltext		Association Sociographe	serial								P	143743562
+Spécificités	2256-7186	2426-6272	2008	1	1				https://www.cairn.info/revue-specificites.htm		revue-specificites		fulltext		Champ social	serial								P	
+Spirale	1278-4699	1951-6274	2001	17	1				https://www.cairn.info/revue-spirale.htm		revue-spirale		fulltext		Érès	serial								P	
+Spirale - Revue de recherches en éducation	0994-3722	2118-724X	2016	58	2				https://www.cairn.info/revue-spirale-revue-de-recherches-en-education.htm		revue-spirale-revue-de-recherches-en-education		fulltext		Association pour la Recherche en Éducation	serial								P	132926806
+Sud/Nord	1265-2067	1776-288X	2001	14	1				https://www.cairn.info/revue-sud-nord.htm		revue-sud-nord		fulltext		Érès	serial								P	099222272
+Tèque	2805-1548		2022	1	1				https://www.cairn.info/revue-teque.htm		revue-teque		fulltext		Audimat Éditions	serial								P	
+Thérapie Familiale	0250-4952	2235-2112	2001	22	1				https://www.cairn.info/revue-therapie-familiale.htm		revue-therapie-familiale		fulltext		Médecine et Hygiène	serial								P	156453401
+Thérapie Psychomotrice et Recherches	1253-8256		2022	186	2				https://www.cairn.info/revue-therapie-psychomotrice-et-recherches.htm		revue-therapie-psychomotrice-et-recherches		fulltext		Syndicat National d'Union des Psychomotriciens (SNUP)	serial								P	
+Tiers	2112-6984		2015	12	1				https://www.cairn.info/revue-tiers.htm		revue-tiers		fulltext		Association Pour la Médiation Familiale	serial								P	
+Topique	0040-9375	1965-0604	2001	74	1				https://www.cairn.info/revue-topique.htm		revue-topique		fulltext		L’Esprit du temps	serial								P	112264441
+Travail et Apprentissages	1961-3865	2823-0310	2008	1	1				https://www.cairn.info/revue-travail-et-apprentissages.htm		revue-travail-et-apprentissages		fulltext		Éditions Raison et Passions	serial								P	260892858
+Approches Théoriques en Information-Communication (ATIC)		2779-1106	2020	1	1				https://www.cairn.info/revue-approches-theoriques-en-information-communication.htm		revue-approches-theoriques-en-information-communication		fulltext		DICEN IdF	serial								P	
+Bulletin de psychologie	0007-4403	1968-3766	2005	475	1				https://www.cairn.info/revue-bulletin-de-psychologie.htm		revue-bulletin-de-psychologie		fulltext		Groupe d'études de psychologie	serial								P	
+Cahiers critiques de thérapie familiale et de pratiques de réseaux	1372-8202	1782-1398	2001	26	1				https://www.cairn.info/revue-cahiers-critiques-de-therapie-familiale.htm		revue-cahiers-critiques-de-therapie-familiale		fulltext		De Boeck Supérieur	serial								P	097476110
+Cahiers de Gestalt-thérapie	1277-6874	1775-4348	2001	9	1				https://www.cairn.info/revue-cahiers-de-gestalt-therapie.htm		revue-cahiers-de-gestalt-therapie		fulltext		Collège européen de Gestalt-thérapie	serial								P	
+Cahiers de l'enfance et de l'adolescence	2650-3891	2678-6060	2019	1	1				https://www.cairn.info/revue-cahiers-de-l-enfance-et-de-l-adolescence.htm		revue-cahiers-de-l-enfance-et-de-l-adolescence		fulltext		Érès	serial								P	
+Cahiers de PréAut	1767-3151	2273-2225	2004	1	1				https://www.cairn.info/revue-cahiers-de-preaut.htm		revue-cahiers-de-preaut		fulltext		Érès	serial								P	178719269
+Cahiers de psychologie clinique	1370-074X	1782-1401	2001	16	1				https://www.cairn.info/revue-cahiers-de-psychologie-clinique.htm		revue-cahiers-de-psychologie-clinique		fulltext		De Boeck Supérieur	serial								P	097477079
+VST - Vie sociale et traitements	0396-8669	1776-2898	2001	69	1				https://www.cairn.info/revue-vie-sociale-et-traitements.htm		revue-vie-sociale-et-traitements		fulltext		Érès	serial								P	099235749
