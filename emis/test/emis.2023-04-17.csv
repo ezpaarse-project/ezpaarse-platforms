@@ -1,0 +1,7 @@
+out-unitid;out-rtype;out-mime;in-url
+;SEARCH;HTML;https://www.emis.com/php/search/searchv2
+766831747;REPORT;PDF;https://www.emis.com/php/search/docpdf?doc_id=766831747
+9737982;RECORD;HTML;https://www.emis.com/php/companies/index?pc=HK&cmpy=9737982
+9737982;DATASET;XLS;https://www.emis.com/php/companies/index/keystatsbox?pc=HK&cmpy=9737982&hideValues=&currency=HKD&display_units=3&excel=1&tbl=keystats-page-table-exchange
+719516695;REPORT;PDF;https://www.emis.com/php/search/docpdf?pc=BR&sv=EMIS&doc_id=719516695
+719516695;REPORT;HTML;https://www.emis.com/php/search/pdf2html?pc=BR&doc_id=719516695&type=1

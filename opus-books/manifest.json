@@ -1,7 +1,7 @@
 {
-  "longname": "Opus",
-  "name": "opus",
-  "describe": "Recognizes the accesses to the platform Opus",
+  "longname": "OPUS Books",
+  "name": "opus-books",
+  "describe": "Recognizes the accesses to the platform OPUS Books",
   "contact": "thomas.porquet, felix",
   "pkb": false,
   "docurl": "http://analyses.ezpaarse.org/platforms/63da8167d8c16f8ca1f32956",

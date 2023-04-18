@@ -1,7 +1,7 @@
 {
-  "longname": "emerging-neurologist",
-  "name": "en",
-  "describe": "Recognizes the accesses to the platform emerging-neurologist",
+  "longname": "OPUS Journals",
+  "name": "opus-journals",
+  "describe": "Recognizes the accesses to the platform OPUS Journals",
   "contact": "felix",
   "pkb": false,
   "docurl": "http://analyses.ezpaarse.org/platforms/63f49d6aab932b9770b6fc5e",

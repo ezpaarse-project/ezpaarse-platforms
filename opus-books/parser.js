@@ -4,7 +4,7 @@
 const Parser = require('../.lib/parser.js');
 
 /**
- * Recognizes the accesses to the platform 4 Canoes
+ * Recognizes the accesses to the platform Opus
  * @param  {Object} parsedUrl an object representing the URL to analyze
  *                            main attributes: pathname, query, hostname
  * @param  {Object} ec        an object representing the EC whose URL is being analyzed
@@ -18,17 +18,23 @@ module.exports = new Parser(function analyseEC(parsedUrl, ec) {
 
   // use console.error for debuging
   // console.error(parsedUrl);
+
   let match;
 
-  if ((match = /^\/shelf\/[a-z-]+\/([a-z0-9-_]+)\.html$/i.exec(path)) !== null) {
-    //https://4canoesportal.org/shelf/Haida/TheHaidaofHaidaGwaii_2022-11-07_15-24-05.html
-    result.rtype = 'BOOK';
+  if ((match = /^\/catalog\/book\/([0-9a-z-]+)$/i.exec(path)) !== null) {
+    // /catalog/book/quatre-atlas-de-myologie-de-van-horne-et-sagemolen
+    result.rtype = 'TOC';
     result.mime = 'HTML';
+    result.publication_title = match[1];
     result.unitid = match[1];
-  } else if (/^\/([a-z-]+)\/?$/i.test(path)) {
-    // https://4canoes.com/focused-education-resources
-    result.rtype = 'QUERY';
-    result.mime = 'HTML';
+
+  } else if ((match = /^\/catalog\/view\/([0-9a-z-]+)\/(1|2|html|pdf)\/([0-9]+)$/i.exec(path)) !== null) {
+    // /catalog/view/quatre-atlas-de-myologie-de-van-horne-et-sagemolen/1/355
+    result.rtype = 'BOOK_SECTION';
+    result.mime = /^1|html$/i.test(match[2]) ? 'HTML' : 'PDF';
+    result.unitid = match[3];
+    result.publication_title = match[1];
+
   }
 
   return result;

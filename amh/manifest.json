@@ -1,0 +1,14 @@
+{
+  "longname": "Australian Medicines Handbook",
+  "name": "amh",
+  "describe": "Recognizes the accesses to the platform Australian Medicines Handbook",
+  "contact": "Justyn Shye",
+  "pkb": false,
+  "docurl": "http://analyses.ezpaarse.org/platforms/63977e0bb0175601883c4815",
+  "domains": [
+    "amhonline.amh.net.au",
+    "amhonline.amh.net"
+  ],
+  "version": "2022-12-19",
+  "status": "beta"
+}

@@ -1,0 +1,5 @@
+out-title_id;out-unitid;out-rtype;out-mime;in-url
+;;QUERY;HTML;https://next-proview.thomsonreuters.com/title
+SG/FULL/AISAP2ED/v1.0;SG/FULL/AISAP2ED/v1.0;BOOK_PAGE;HTML;https://proview.thomsonreuters.com/title.html?redirect=true&titleKey=SG%2FFULL%2FAISAP2ED%2Fv1.0&titleStage=F&titleAcct=i0ad62976000001746c1a652e25c47ead#sl=p&eid=62148b13d108bac08d4131c19365222d&eat=&pg=89&psl=&nvgS=false
+;;SEARCH;HTML;https://proview.thomsonreuters.com/catalog.html#/catalog/anacat/results?keyword=Libel&thesaurus=
+SG/FULL/AISAP2ED/v1.0;SG/FULL/AISAP2ED/v1.0;BOOK_PAGE;HTML;https://proview.thomsonreuters.com/title.html?redirect=true&titleKey=SG%2FFULL%2FAISAP2ED%2Fv1.0&titleStage=F&titleAcct=i0ad62976000001746c1a652e25c47ead#sl=p&eid=39fb769eecf451298626b5ec528616c5&eat=&pg=cover&psl=p

@@ -4,7 +4,7 @@
 const Parser = require('../.lib/parser.js');
 
 /**
- * Recognizes the accesses to the platform Opus
+ * Recognizes the accesses to the platform Australian Medicines Handbook
  * @param  {Object} parsedUrl an object representing the URL to analyze
  *                            main attributes: pathname, query, hostname
  * @param  {Object} ec        an object representing the EC whose URL is being analyzed
@@ -12,7 +12,7 @@ const Parser = require('../.lib/parser.js');
  */
 module.exports = new Parser(function analyseEC(parsedUrl, ec) {
   let result = {};
-  let path = parsedUrl.pathname;
+  let path   = parsedUrl.pathname;
   // uncomment this line if you need parameters
   // let param = parsedUrl.query || {};
 
@@ -21,12 +21,16 @@ module.exports = new Parser(function analyseEC(parsedUrl, ec) {
 
   let match;
 
-  if ((match = /^\/catalog\/book\/([0-9a-z-]+)$/i.exec(path)) !== null) {
-    // /catalog/book/quatre-atlas-de-myologie-de-van-horne-et-sagemolen
-    result.rtype = 'TOC';
-    result.mime = 'HTML';
-    result.unitid = match[1];
-
+  if ((match = /^\/chapters\/[a-z-]+\/[a-z-]+\/[a-z-]+\/([a-z-]+)$/i.exec(path)) !== null) {
+    // https://amhonline.amh.net.au/chapters/blood-electrolytes/anticoagulants/heparins/danaparoid
+    result.rtype    = 'ARTICLE';
+    result.mime     = 'HTML';
+    result.unitid   = match[1];
+  } else if (/^\/search$/i.test(path)) {
+    // https://amhonline.amh.net/search?q=heparins
+    result.rtype    = 'SEARCH';
+    result.mime     = 'HTML';
   }
+
   return result;
 });
