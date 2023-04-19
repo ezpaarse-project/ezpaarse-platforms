@@ -21,9 +21,12 @@ module.exports = new Parser(function analyseEC(parsedUrl, ec) {
 
   let match;
 
-  if (/^\/(?:Vleweb\/)?Search\/Keyword(?:\/searchBox)?$/i.test(path)) {
+  if (/^\/Vleweb\/Search\/Keyword?$/i.test(path)) {
     // https://www.vlebooks.com/Vleweb/Search/Keyword?keyword=fiction
-    //https://www.vlebooks.com/Search/Keyword/searchBox?keyword=test
+    result.rtype    = 'SEARCH';
+    result.mime     = 'HTML';
+  } else if (/^\/Search\/Keyword\/searchBox?$/i.test(path)) {
+    // https://www.vlebooks.com/Search/Keyword/searchBox?keyword=test
     result.rtype    = 'SEARCH';
     result.mime     = 'HTML';
   } else if ((match = /^\/Vleweb\/Product\/Index\/([0-9]+)$/i.exec(path)) !== null) {
