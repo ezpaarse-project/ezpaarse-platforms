@@ -21,9 +21,10 @@ module.exports = new Parser(function analyseEC(parsedUrl, ec) {
 
   let match;
 
-  if ((match = /^\/[a-z]{2}\/([a-z-]+)\/([a-z-]+)$/i.exec(path)) !== null) {
+  if ((match = /^\/[a-z]{2}\/([a-z-]+)\/([0-9a-z-]+)$/i.exec(path)) !== null) {
     // https://edu.medici.tv/en/concerts/charles-dutoit-kodaly-prokofiev-stravinsky-alexander-malofeev
     // https://edu.medici.tv/en/masterclasses/master-class-daniel-hope-chamber-music-society
+    // https://edu.medici.tv/en/concerts/2022-vienna-philharmonic-summer-night-concert-andris-nelsons-gautier-capucon
     result.rtype    = 'VIDEO';
     result.mime     = 'HTML';
     result.db_id = match[1];
