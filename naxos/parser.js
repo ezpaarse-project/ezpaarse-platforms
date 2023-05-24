@@ -42,8 +42,12 @@ module.exports = new Parser(function analyseEC(parsedUrl, ec) {
     result.rtype = 'SEARCH';
     result.mime = 'HTML';
 
-  } else if ((match = /^\/(artist|person|composers)\/([a-z0-9_-]+)\/?$/i.exec(path)) !== null) {
+  } else if ((match = /^\/(artist|person)\/([a-z0-9_-]{2,})\/?$/i.exec(path)) !== null) {
     result.rtype = 'RECORD';
+    result.mime = 'HTML';
+    result.unitid = match[2];
+  } else if ((match = /^\/(artist|composers)\/([a-z0-9_-]+)\/?$/i.exec(path)) !== null) {
+    result.rtype = 'TOC';
     result.mime = 'HTML';
     result.unitid = match[2];
   } else if ((match = /^\/(world|jazz)\/([a-z0-9_-]+).asp$/i.exec(path)) !== null) {
@@ -197,7 +201,7 @@ module.exports = new Parser(function analyseEC(parsedUrl, ec) {
     result.rtype = 'RECORD_VIEW';
     result.mime = 'HTML';
     result.unitid = match[1];
-    result.db_id = "works"
+    result.db_id = 'works';
 
   } else if ((match = /^\/sharedfiles\/booklets\/[a-z0-9_-]+\/([a-z0-9_-]+).pdf$/i.exec(path)) !== null) {
     // https://emory.naxosmusiclibrary.com:443/sharedfiles/booklets/CHA/booklet-CHAN20141.pdf
