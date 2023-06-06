@@ -18,8 +18,8 @@ const searchPatterns = [
   /^\/resources\/pronunciation\/[a-z0-9_-]+$/i,
   /^\/google\/result.asp$/i,
   /^\/work\/[a-z0-9_-]+\/$/i,
-  /^\/(search|label|persons?|composers?|artist|recentaddi?tions|newreleases|filtered)\/[a-z0-9_-]+\/?$/i,
-  /^\/(search|label|persons?|composers?|artist|recentaddi?tions|news|resources|catcategory)\/?$/i,
+  /^\/(search|label|persons|recentaddi?tions|newreleases|filtered)\/[a-z0-9_-]+\/?$/i,
+  /^\/(search|label|persons|composer?s|recentaddi?tions|news|resources|catcategory)\/?$/i,
   /^\/(Readerlist|recentaddi?tions|labels|authorList|newreleases|browsesearch(label)?)\.asp$/i
 ];
 
@@ -193,6 +193,7 @@ module.exports = new Parser(function analyseEC(parsedUrl, ec) {
     result.rtype = 'RECORD_VIEW';
     result.mime = 'HTML';
     result.unitid = match[1];
+    result.db_id = 'works';
 
   } else if ((match = /^\/sharedfiles\/booklets\/[a-z0-9_-]+\/([a-z0-9_-]+).pdf$/i.exec(path)) !== null) {
     // https://emory.naxosmusiclibrary.com:443/sharedfiles/booklets/CHA/booklet-CHAN20141.pdf
@@ -225,9 +226,9 @@ module.exports = new Parser(function analyseEC(parsedUrl, ec) {
     result.unitid = match[1];
 
   } else if ((match = /^\/title\/([a-z0-9_.-]+)/i.exec(path)) !== null) {
-    // http://emory.naxosvideolibrary.com:80/title/2.110291/
+    // /title/2.110291/
     // /title/L7922DVD
-    result.rtype = 'TOC';
+    result.rtype = 'VIDEO';
     result.mime = 'HTML';
     result.unitid = match[1];
 
@@ -284,6 +285,51 @@ module.exports = new Parser(function analyseEC(parsedUrl, ec) {
     result.mime = 'MISC';
     result.unitid = param.trackId;
 
+  } else if ((match = /^\/composers\/([a-z0-9]+)$/i.exec(path)) !== null) {
+    // /composers/26063
+    result.rtype = 'TOC';
+    result.mime = 'HTML';
+    result.unitid = match[1];
+
+  } else if ((match = /^\/naxos\/track\/audio\/address$/i.exec(path)) !== null) {
+    // /naxos/track/audio/address?trackId=5511058&quality=128
+    result.rtype = 'AUDIO';
+    result.mime = 'HTML';
+    result.unitid = param.trackId;
+
+  } else if ((match = /^\/([a-z]+)\/naxos\/track\/audio\/address$/i.exec(path)) !== null) {
+    // /world/naxos/track/audio/address?trackId=5521823&quality=128
+    result.rtype = 'AUDIO';
+    result.mime = 'HTML';
+    result.unitid = param.trackId;
+    result.db_id = match[1];
+
+  } else if ((match = /^\/artist\/([0-9]+)$/i.exec(path)) !== null) {
+    // /artist/168217
+    result.rtype = 'RECORD';
+    result.mime = 'HTML';
+    result.unitid = match[1];
+
+  } else if ((match = /^\/person\/([0-9]+)$/i.exec(path)) !== null) {
+    // /person/57824
+    result.rtype = 'RECORD';
+    result.mime = 'HTML';
+    result.unitid = match[1];
+
+  } else if ((match = /^\/artist\/([a-z]+)$/i.exec(path)) !== null) {
+    // /artist/s
+    result.rtype = 'TOC';
+    result.mime = 'HTML';
+    result.unitid = match[1];
+  } else if ((match = /^\/(?:artist)|(?:composer)$/i.exec(path)) !== null) {
+    // /artist?_pjax=%23main
+    // /composer?_pjax=%23main
+    result.rtype = 'SEARCH';
+    result.mime = 'HTML';
+  } else if (/^\/(?:composer)\/[a-z0-9]+$/i.test(path)) {
+    // /composer/H?_pjax=%23main
+    result.rtype = 'SEARCH';
+    result.mime = 'HTML';
   }
   return result;
 });

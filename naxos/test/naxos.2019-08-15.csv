@@ -39,8 +39,6 @@ data/seven;RECORD_VIEW;HTML;https://emory.nml3.naxosmusiclibrary.com:443/arthur/
 canada;AUDIO;MISC;https://emory.nml3.naxosmusiclibrary.com:443/arthur/data/canada.mp3
 czech;AUDIO;MISC;https://emory.nml3.naxosmusiclibrary.com:443/arthur/data/czech.mp3
 ;SEARCH;HTML;https://emory.nml3.naxosmusiclibrary.com:443/artist?_pjax=%23main
-;SEARCH;HTML;https://emory.nml3.naxosmusiclibrary.com:443/artist/230102?_pjax=%23main
-;SEARCH;HTML;https://emory.nml3.naxosmusiclibrary.com:443/artist/H?_pjax=%23main
 ;SEARCH;HTML;https://emory.naxosspokenwordlibrary.com:443/authorlist.asp?filter=t
 ;SEARCH;HTML;https://emory.naxosspokenwordlibrary.com:443/authorList.asp
 ;SEARCH;HTML;https://emory.naxosspokenwordlibrary.com:443/browsesearch.asp?p_strSelCountry=EN&CategoryID=53
@@ -53,8 +51,6 @@ czech;AUDIO;MISC;https://emory.nml3.naxosmusiclibrary.com:443/arthur/data/czech.
 ;SEARCH;HTML;https://emory.nml3.naxosmusiclibrary.com:443/composer/29268?_pjax=%23main
 ;SEARCH;HTML;https://emory.nml3.naxosmusiclibrary.com:443/composer/H?_pjax=%23main
 ;SEARCH;HTML;http://emory.naxosvideolibrary.com:80/composers/
-;SEARCH;HTML;https://emory.naxosworks.com:443/composers/25893
-;SEARCH;HTML;https://emory.naxosworks.com:443/composers/261191
 ;SEARCH;HTML;http://emory.naxosvideolibrary.com:80/filtered/ballet/?sortby=composer
 ;SEARCH;HTML;http://emory.naxosvideolibrary.com:80/filtered/ballet/?sortby=work
 ;SEARCH;HTML;http://emory.naxosvideolibrary.com:80/filtered/competitions/
@@ -101,7 +97,6 @@ xylo/sndxylo;RECORD_VIEW;HTML;https://emory.nml3.naxosmusiclibrary.com:443/mtio/
 ;SEARCH;HTML;https://emory.nml3.naxosmusiclibrary.com:443/newreleases/category/211
 ;SEARCH;HTML;https://emory.nml3.naxosmusiclibrary.com:443/newreleases/label/CNR
 ;SEARCH;HTML;https://emory.nml3.naxosmusiclibrary.com:443/news?_pjax=%23main
-;SEARCH;HTML;http://emory.naxosvideolibrary.com:80/person/17612/
 ;SEARCH;HTML;http://emory.naxosvideolibrary.com:80/persons/?person_type=choir
 ;SEARCH;HTML;http://emory.naxosvideolibrary.com:80/persons/?person_type=chorus_master
 ;SEARCH;HTML;http://emory.naxosvideolibrary.com:80/persons/a/?person_type=choir
@@ -161,14 +156,7 @@ aus/gentop/09_music_of_the_twentieth_century;BOOK_SECTION;HTML;https://emory.nml
 ;SEARCH;HTML;https://emory.naxosworks.com:443/search?workcatid=60
 ;SEARCH;HTML;https://emory.naxosworks.com:443/search
 ;SEARCH;HTML;http://emory.naxosvideolibrary.com:80/search/?search=beethoven
-2.110291;TOC;HTML;http://emory.naxosvideolibrary.com:80/title/2.110291/
-EuroArts5407;TOC;HTML;http://emory.naxosvideolibrary.com:80/title/EuroArts5407/
-EUROARTS7965;TOC;HTML;http://emory.naxosvideolibrary.com:80/title/EUROARTS7965/
-117491;RECORD_VIEW;HTML;https://emory.nml3.naxosmusiclibrary.com:443/work/117491?type=analysis&_pjax=%23main
-525150;RECORD_VIEW;HTML;https://emory.naxosworks.com:443/works/525150
-654444;RECORD_VIEW;HTML;https://emory.naxosworks.com:443/works/654444
 ;SEARCH;HTML;http://emory.naxosvideolibrary.com:80/work/127223/
-117491;TOC;HTML;https://emory.nml3.naxosmusiclibrary.com:443/work/catalogue/117491
 7502258852989;TOC;HTML;https://emory.nml3.naxosmusiclibrary.com:443/catalogue/7502258852989?_pjax=%23main
 FB1904783;TOC;HTML;https://emory.nml3.naxosmusiclibrary.com:443/catalogue/FB1904783?_pjax=%23main
 NA443812;TOC;HTML;https://emory.naxosspokenwordlibrary.com:443/catalogue/item.asp?cid=NA443812
