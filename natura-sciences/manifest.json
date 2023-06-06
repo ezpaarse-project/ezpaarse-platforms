@@ -1,0 +1,13 @@
+{
+  "longname": "Natura Sciences",
+  "name": "natura-sciences",
+  "describe": "Recognizes the accesses to the platform Natura Sciences",
+  "contact": "thomas.porquet",
+  "pkb": false,
+  "docurl": "http://analyses.ezpaarse.org/platforms/644654c6084e7f754ef57611",
+  "domains": [
+    "www.natura-sciences.com"
+  ],
+  "version": "2023-06-06",
+  "status": "beta"
+}
