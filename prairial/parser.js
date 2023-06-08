@@ -19,7 +19,7 @@ module.exports = new Parser(function analyseEC(parsedUrl, ec) {
 
   let match;
 
-  if ((match = /^\/([a-z0-9-]+)\/(index.php)?$/i.exec(path)) !== null) {
+  if ((match = /^\/(?!idref|prairialdoc)([a-z0-9-]+)\/(index.php)?$/i.exec(path)) !== null) {
     // /bacaly/index.php?file=1&id=1295
     // /voix-contemporaines/?do=_pdfgen_get&document=140&lang=en
     // /voix-contemporaines/index.php?id=140
