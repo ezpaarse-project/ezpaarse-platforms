@@ -195,7 +195,7 @@ module.exports = new Parser(function analyseEC(parsedUrl, ec) {
     result.unitid = match[1];
     result.db_id = 'works';
 
-  } 
+  }
   else if (((match = /^\/work\/([a-z0-9_-]+)$/i.exec(path)) !== null)) {
     // https://emory.nml3.naxosmusiclibrary.com:443/work/117491?type=analysis&_pjax=%23main
     result.rtype = 'RECORD_VIEW';
