@@ -38,158 +38,221 @@ module.exports = new Parser(function analyseEC(parsedUrl, ec) {
   let match;
 
   if (searchPatterns.some(p => p.test(path))) {
-    // Many
+    // /jazz/browsesearch.asp?genreid=434&CategoryID=202
+    // /jazz/browsesearchlabel.asp?catlabelid=CEL
+    // /jazz/composerlist.asp
+    // /jazz/labels.asp
+    // /World/artistlist.asp
+    // /World/browsesearchlabel.asp?catlabelid=GLO
+    // /World/composerlist.asp
+    // /World/culturalgrouplist.asp
+    // /World/labels.asp
+    // /World/GeoMap/SearchByRegion.asp?tab=Alphabetical&alpha=P
+    // /World/GeoMap/SearchByRegion.asp
+    // /composers/
+    // /composers/browse
+    // /composers/browse/M
+    // /jazz/google/result.asp?q=herbie+handcock&ie=&output=xml_no_dtd&oe=utf-8&getfields=*&start=0&num=20&filter=0&requiredfields=-RestrictedCountry%3AUS&site=nmlj_collection&client=nmlj_frontend&proxystylesheet=nml_family&skin=jazz&label=Label&artist=Artist&country=Country&composer=Composer&category=Category&emmain=/jazz/google/result.asp&hideImages=false
+    // /world/google/result.asp?site=world_collection&client=world_frontend&proxystylesheet=nml_family&output=xml_no_dtd&partialfields=%28artist%3ABeethoven%7Cconductor%3ABeethoven%29&requiredfields=-RestrictedCountry%3AUS&filter=p&getfields=*&q=&skin=world&label=Label&artist=Artist&country=Country&composer=Composer&period=Period&emmain=%2Fworld%2Fgoogle%2Fresult.asp&hideImages=true&category=Category&num=10
+    // /world/google/result.asp?site=world_collection&client=world_frontend&proxystylesheet=nml_family&output=xml_no_dtd&partialfields=%28artist%3AJones%7Cconductor%3AJones%29&requiredfields=-RestrictedCountry%3AUS&filter=p&getfields=*&q=&skin=world&label=Label&artist=Artist&country=Country&composer=Composer&period=Period&emmain=%2Fworld%2Fgoogle%2Fresult.asp&hideImages=true&category=Category&num=10
+    // /jazz/playlists/playlist.asp
+    // /World/playlists/playlist.asp
+    // /artist/search?pkeyword=jones&_pjax=%23main
+    // /composer/search?pkeyword=bach&_pjax=%23main
+    // /englishtitles.asp
+    // /frenchtitles.asp
+    // /germantitles.asp
+    // /portuguesetitles.asp
+    // /authorList.asp
+    // /browsesearch.asp?p_strSelCountry=EN&CategoryID=53
+    // /browsesearchlabel.asp?catlabelid=CDS
+    // /catcategory?_pjax=%23main
+    // /category/211/All/1?_pjax=%23main
+    // /category/211/D/1?_pjax=%23main
+    // /filtered/ballet/?sortby=composer
+    // /google/result.asp?q=becket&ie=&output=xml_no_dtd&oe=utf-8&getfields=*&start=0&num=20&filter=0&requiredfields=-RestrictedCountry%3AUS&site=nswl_collection&client=nswl_frontend&proxystylesheet=nml_family&skin=nswl&label=Publisher(s)&artist=Reader&country=Country&composer=Author&category=Category&emmain=/google/result.asp&hideImages=false
+    // /label?_pjax=%23main
+    // /label/BAN/
+    // /labels.asp
+    // /newreleases.asp
+    // /newreleases/category?_pjax=%23main
+    // /newreleases/label?_pjax=%23main
+    // /newreleases/category/211
+    // /newreleases/label/CNR
+    // /news?_pjax=%23main
+    // /persons/a/?person_type=choir
+    // /persons/?person_type=choir
+    // /readerlist.asp?filter=t
+    // /ReaderList.asp
+    // /recentadditions.asp
+    // /recentaddtions?_pjax=%23main
+    // /recentaddtions/data?dateRange=2019-08-08&showType=1
+    // /resources?_pjax=%23main
+    // /resources/opera/libretto
+    // /pronunciation/artist
+    // /search?keyword=beethoven&page=1&_pjax=%23main
+    // /search?workcatid=60
+    // /search/?search=beethoven
+    // /work/127223/
+
     result.rtype = 'SEARCH';
     result.mime = 'HTML';
 
   } else if ((match = /^\/(world|jazz)\/([a-z0-9_-]+).asp$/i.exec(path)) !== null) {
     if (match[2] === 'artist_pro_new') {
-      // https://emory.naxosmusiclibrary.com:443/World/artist_pro_new.asp?personid=32318
+      // /World/artist_pro_new.asp?personid=32318
       result.rtype = 'TOC';
       result.mime = 'HTML';
       result.unitid = param.personid;
+
     } else if (match[2] === 'culturalgroupinfo') {
-      // https://emory.naxosmusiclibrary.com:443/World/culturalgroupinfo.asp?id=ANA
+      // /World/culturalgroupinfo.asp?id=ANA
       result.rtype = 'TOC';
       result.mime = 'HTML';
       result.unitid = param.id;
+
     } else if (match[2] === 'featuredarticles') {
-      // https://emory.naxosmusiclibrary.com:443/world/featuredarticles.asp?art=Mali
+      // /world/featuredarticles.asp?art=Mali
+      // /world/featuredarticles.asp?art=Tango
       result.rtype = 'ARTICLE';
       result.mime = 'HTML';
       result.unitid = param.art;
+
     } else if (match[2] !== null) {
-      // https://emory.naxosmusiclibrary.com:443/jazz/artistlist.asp
+      // /jazz/artistlist.asp
       result.rtype = 'SEARCH';
       result.mime = 'HTML';
-    }
 
+    }
   } else if ((match = /^\/resources\/([a-z0-9_-]+)$/i.exec(path)) !== null) {
     if (match[1] === 'playlist') {
-      // https://emory.nml3.naxosmusiclibrary.com:443/resources/playlist?tab=omea
+      // /resources/playlist?tab=omea
       result.rtype = 'TOC';
       result.mime = 'HTML';
       result.unitid = match[1];
+
     } else if (match[1] === 'work-analyses') {
-      //  https://emory.nml3.naxosmusiclibrary.com:443/resources/work-analyses
+      // /resources/work-analyses
       result.rtype = 'TOC';
       result.mime = 'HTML';
       result.unitid = match[1];
+
     } else if (match[1] !== null) {
-      //  https://emory.nml3.naxosmusiclibrary.com:443/resources/audiobooks
+      // /resources/audiobooks
       result.rtype = 'SEARCH';
       result.mime = 'HTML';
       result.unitid = match[1];
-    }
 
+    }
   } else if ((/^\/catalogue\/item\.asp$/i.test(path)) || (/^\/folder$/i.test(path)) || (/^\/naxos\/track\/trackListByIds$/i.test(path))) {
-    // https://emory.naxosspokenwordlibrary.com:443/catalogue/item.asp?cid=NA443812
-    // https://emory.nml3.naxosmusiclibrary.com:443/folder?category=nml&_pjax=%23main
-    // https://emory.nml3.naxosmusiclibrary.com:443/naxos/track/trackListByIds?ids=4168074%2C4168075%2C4168076%2C4168077%2C4168078%2C4168079%2C4168080%2C4168081%2C4168082%2C4168083%2C4168084%2C4168085%2C4168086%2C4168087%2C4168088%2C4168089%2C4168090%2C4168091%2C4168092%2C4168093%2C4168094%2C4168095%2C4168096%2C4168097%2C4168098&quality=
+    // /catalogue/item.asp?cid=NA443812
+    // /naxos/track/trackListByIds?ids=4168074%2C4168075%2C4168076%2C4168077%2C4168078%2C4168079%2C4168080%2C4168081%2C4168082%2C4168083%2C4168084%2C4168085%2C4168086%2C4168087%2C4168088%2C4168089%2C4168090%2C4168091%2C4168092%2C4168093%2C4168094%2C4168095%2C4168096%2C4168097%2C4168098&quality=
+    // /folder?category=nml&_pjax=%23main
+    // /folder?category=unv&folderId=74146&_pjax=%23main
     result.rtype = 'TOC';
     result.mime = 'HTML';
     result.unitid = param.cid || param.category || param.ids;
 
   } else if (/^\/([a-z0-9_-]+)\/catalogue\/item\.asp$/i.test(path)) {
-    // https://emory.naxosmusiclibrary.com:443/jazz/catalogue/item.asp?cid=CD-4835
+    // /jazz/catalogue/item.asp?cid=CD-4835
     result.rtype = 'TOC';
     result.mime = 'HTML';
     result.unitid = param.cid;
 
   } else if (/^(\/[a-z0-9_-]+)?\/composer\/btm\.asp$/i.test(path) || /^\/artist_pro_new\.asp$/i.test(path)) {
-    // https://emory.naxosspokenwordlibrary.com:443/composer/btm.asp?composerid=333317
-    // https://emory.naxosmusiclibrary.com:443/World/composer/btm.asp?composerid=252742
-    // https://emory.naxosspokenwordlibrary.com:443/artist_pro_new.asp?personid=238263
+    // /composer/btm.asp?composerid=333317
+    // /World/composer/btm.asp?composerid=252742
+    // /artist_pro_new.asp?personid=238263
     result.rtype = 'TOC';
     result.mime = 'HTML';
     result.unitid = param.composerid || param.personid;
 
   } else if ((match = /^\/([a-z0-9_-]+)\/GeoMap\/GeoMapApi\.asp$/i.exec(path)) !== null) {
-    // https://emory.naxosmusiclibrary.com:443/World/GeoMap/GeoMapApi.asp?cmd=GetCountryListByRegion&region=053
+    // /World/GeoMap/GeoMapApi.asp?cmd=GetCountryListByRegion&region=053
     result.rtype = 'TOC';
     result.mime = 'HTML';
     result.unitid = param.region;
 
   } else if ((match = /^\/label\/([a-z0-9_-]+\/[a-z0-9_-]+\/[a-z0-9_-]+)$/i.exec(path)) !== null) {
-    // https://emory.nml3.naxosmusiclibrary.com:443/label/BLI/-1/1?_pjax=%23main
+    // /label/BLI/-1/1?_pjax=%23main
     result.rtype = 'TOC';
     result.mime = 'HTML';
     result.unitid = match[1];
 
   } else if ((match = /^\/resources\/guidedtours\/([a-z0-9_-]+)\/$/i.exec(path)) !== null) {
-    // https://emory.nml3.naxosmusiclibrary.com:443/resources/guidedtours/20thcentury/
+    // /resources/guidedtours/20thcentury/
     result.rtype = 'TOC';
     result.mime = 'HTML';
     result.unitid = match[1];
 
   } else if ((match = /^\/resources\/studyarea\/([a-z0-9_-]+)\/$/i.exec(path)) !== null) {
-    // https://emory.nml3.naxosmusiclibrary.com:443/resources/studyarea/ireland/
+    // /resources/studyarea/ireland/
     result.rtype = 'TOC';
     result.mime = 'HTML';
     result.unitid = match[1];
 
   } else if ((match = /^\/resources\/studyarea\/([a-z0-9_-]+\/[a-z0-9_-]+)\/$/i.exec(path)) !== null) {
-    // https://emory.nml3.naxosmusiclibrary.com:443/resources/studyarea/aus/gentop/
+    // /resources/studyarea/aus/gentop/
     result.rtype = 'TOC';
     result.mime = 'HTML';
     result.unitid = match[1];
 
   } else if ((match = /^\/resources\/work-analyses\/([a-z0-9_-]+)$/i.exec(path)) !== null) {
-    // https://emory.nml3.naxosmusiclibrary.com:443/resources/work-analyses/20_nielsen_carl?_pjax=%23main
+    // /resources/work-analyses/20_nielsen_carl?_pjax=%23main
     result.rtype = 'TOC';
     result.mime = 'HTML';
     result.unitid = match[1];
 
   } else if ((match = /^\/work\/[a-z0-9_-]+\/([a-z0-9_-]+)$/i.exec(path)) !== null) {
-    // https://emory.nml3.naxosmusiclibrary.com:443/work/catalogue/117491
+    // /work/catalogue/117491
     result.rtype = 'TOC';
     result.mime = 'HTML';
     result.unitid = match[1];
 
   } else if ((match = /^\/catalogue\/([a-z0-9_-]+)/i.exec(path)) !== null) {
-    // https://emory.nml3.naxosmusiclibrary.com:443/catalogue/7502258852989?_pjax=%23main
+    // /catalogue/FB1904783?_pjax=%23main
     result.rtype = 'TOC';
     result.mime = 'HTML';
     result.unitid = match[1];
 
   } else if ((match = /^\/arthur\/(data\/[a-z0-9_-]+).htm$/i.exec(path)) !== null) {
-    // https://emory.nml3.naxosmusiclibrary.com:443/arthur/data/booklet.htm
+    // /arthur/data/booklet.htm
     result.rtype = 'RECORD_VIEW';
     result.mime = 'HTML';
     result.unitid = match[1];
 
   } else if ((match = /^\/mtio\/assets\/pages\/([a-z0-9_-]+)\.asp$/i.exec(path)) !== null) {
-    // https://emory.nml3.naxosmusiclibrary.com:443/mtio/assets/pages/transp.asp
+    // /mtio/assets/pages/transp.asp
     result.rtype = 'RECORD_VIEW';
     result.mime = 'HTML';
     result.unitid = match[1];
 
   } else if ((match = /^\/mtio\/assets\/pages\/([a-z0-9_-]+\/[a-z0-9_-]+)\.asp$/i.exec(path)) !== null) {
-    // https://emory.nml3.naxosmusiclibrary.com:443/mtio/assets/pages/bclar/sndbclar.asp
+    // /mtio/assets/pages/bclar/sndbclar.asp
     result.rtype = 'RECORD_VIEW';
     result.mime = 'HTML';
     result.unitid = match[1];
 
   } else if ((match = /^\/resources\/guidedtours\/([a-z0-9_-]+)\/([a-z0-9_-]+)$/i.exec(path)) !== null) {
-    // https://emory.nml3.naxosmusiclibrary.com:443/resources/guidedtours/nationalism/06_verdi_giuseppe?_pjax=%23main
+    // /resources/guidedtours/nationalism/06_verdi_giuseppe?_pjax=%23main
     result.rtype = 'RECORD_VIEW';
     result.mime = 'HTML';
     result.unitid = match[2];
 
   } else if ((match = /^\/resources\/opera\/([a-z0-9_-]+)\/([a-z0-9_%-]+)$/i.exec(path)) !== null) {
-    // https://emory.nml3.naxosmusiclibrary.com:443/resources/opera/synopses/elegy%20for%20young%20lovers?f=e&_pjax=%23main
+    // /resources/opera/synopses/elegy%20for%20young%20lovers?f=e&_pjax=%23main
     result.rtype = 'RECORD_VIEW';
     result.mime = 'HTML';
     result.unitid = match[2];
 
   } else if ((match = /^\/resources\/opera\/[a-z0-9_-]+\/([a-z0-9_-]+\/[a-z0-9_-]+\/[a-z0-9_-]+\/[a-z0-9_-]+)$/i.exec(path)) !== null) {
-    // https://emory.nml3.naxosmusiclibrary.com:443/resources/opera/libretto/haydn/the_creation/english/part_2
+    // /resources/opera/libretto/haydn/the_creation/english/part_2
     result.rtype = 'RECORD_VIEW';
     result.mime = 'HTML';
     result.unitid = match[1];
 
   } else if (((match = /^\/works\/([a-z0-9_-]+)$/i.exec(path)) !== null)) {
-    // https://emory.nml3.naxosmusiclibrary.com:443/work/117491?type=analysis&_pjax=%23main
+    // /works/525150
     result.rtype = 'RECORD_VIEW';
     result.mime = 'HTML';
     result.unitid = match[1];
@@ -197,37 +260,41 @@ module.exports = new Parser(function analyseEC(parsedUrl, ec) {
 
   }
   else if (((match = /^\/work\/([a-z0-9_-]+)$/i.exec(path)) !== null)) {
-    // https://emory.nml3.naxosmusiclibrary.com:443/work/117491?type=analysis&_pjax=%23main
+    // /work/117491?type=analysis&_pjax=%23main
     result.rtype = 'RECORD_VIEW';
     result.mime = 'HTML';
     result.unitid = match[1];
 
   } else if ((match = /^\/sharedfiles\/booklets\/[a-z0-9_-]+\/([a-z0-9_-]+).pdf$/i.exec(path)) !== null) {
-    // https://emory.naxosmusiclibrary.com:443/sharedfiles/booklets/CHA/booklet-CHAN20141.pdf
+    // /sharedfiles/booklets/CHA/booklet-CHAN20141.pdf
     result.rtype = 'RECORD_VIEW';
     result.mime = 'PDF';
     result.unitid = match[1];
 
   } else if ((match = /^\/arthur\/data\/([a-z0-9_-]+)\.mp3$/i.exec(path)) !== null) {
-    // https://emory.nml3.naxosmusiclibrary.com:443/arthur/data/canada.mp3
+    // /arthur/data/canada.mp3
+    // /arthur/data/four.htm
+    // /arthur/data/seven.htm
+    // /arthur/data/canada.mp3
+    // /arthur/data/czech.mp3
     result.rtype = 'AUDIO';
     result.mime = 'MISC';
     result.unitid = match[1];
 
   } else if ((match = /^\/media\/aacstorage\/[a-z0-9_-]+\/[a-z0-9_-]+\/([a-z0-9_-]+)\.mp4$/i.exec(path)) !== null) {
-    // https://audiostream.naxosmusiclibrary.com:443/media/aacstorage/aac128k/nac/383871_01_full_128.mp4?dlauth=1565893683_ab51a603d9caa624e21b755d97b81290
+    // /media/aacstorage/aac128k/bli/fz0786_001_full_128.mp4?dlauth=1565892996_eeb9e1428b4b470f2b3c512972dd6e08
     result.rtype = 'AUDIO';
     result.mime = 'MISC';
     result.unitid = match[1];
 
   } else if (/^\/mediaplayer\/player\.asp$/i.test(path)) {
-    // https://emory.naxosspokenwordlibrary.com:443/mediaplayer/player.asp?br=64&domain=emory.naxosspokenwordlibrary.com&pl_token=CB07DBA7-A441-4D50-80D8-2EA3C796E21A&forceFlash=0&tracktoplay=&tp=
+    // /mediaplayer/player.asp?br=64&domain=emory.naxosspokenwordlibrary.com&pl_token=CB07DBA7-A441-4D50-80D8-2EA3C796E21A&forceFlash=0&tracktoplay=&tp=
     result.rtype = 'AUDIO';
     result.mime = 'MISC';
     result.unitid = param.tl;
 
   } else if ((match = /^\/resources\/pronunciation\/([a-z0-9_-]+\/[a-z0-9_%-]+)\.mp3$/i.exec(path)) !== null) {
-    // http://www.naxosmusiclibrary.com:80/resources/pronunciation/american/americapron_002.mp3
+    // /resources/pronunciation/american/americapron_002.mp3
     result.rtype = 'AUDIO';
     result.mime = 'MISC';
     result.unitid = match[1];
@@ -240,33 +307,33 @@ module.exports = new Parser(function analyseEC(parsedUrl, ec) {
     result.unitid = match[1];
 
   } else if (((match = /^\/resources\/juniorsection\/([a-z0-9_-]+)\/?$/i.exec(path)) !== null)) {
-    // https://emory.nml3.naxosmusiclibrary.com:443/resources/juniorsection/historyofopera
-    // https://emory.nml3.naxosmusiclibrary.com:443/resources/juniorsection/historyofclassicalmusic/
+    // /resources/juniorsection/historyofopera
+    // /resources/juniorsection/historyofclassicalmusic/
     result.rtype = 'BOOK_SECTION';
     result.mime = 'HTML';
     result.unitid = match[1];
 
   } else if ((match = /^\/resources\/juniorsection\/([a-z0-9_-]+\/[a-z0-9_-]+)$/i.exec(path)) !== null) {
-    // https://emory.nml3.naxosmusiclibrary.com:443/resources/juniorsection/historyofclassicalmusic/part2
+    // /resources/juniorsection/historyofclassicalmusic/part2
     result.rtype = 'BOOK_SECTION';
     result.mime = 'HTML';
     result.unitid = match[1];
 
   } else if ((match = /^\/resources\/studyarea\/([a-z0-9_-]+\/[a-z0-9_-]+)$/i.exec(path)) !== null) {
-    // https://emory.nml3.naxosmusiclibrary.com:443/resources/studyarea/ireland/chapter02?_pjax=%23main
+    // /resources/studyarea/ireland/chapter02?_pjax=%23main
     result.rtype = 'BOOK_SECTION';
     result.mime = 'HTML';
     result.unitid = match[1];
 
   } else if (/^\/resources\/studyarea\/([a-z0-9_-]+)\/([a-z0-9_-]+)\.([a-z]+)$/i.test(path) || /^\/default\.asp$/i.test(path)) {
-    // https://emory.naxosmusiclibrary.com:443/resources/studyarea/ireland/default.asp?content=Chapter02
-    // https://emory.naxosmusiclibrary.com:443/default.asp?page_name=resources&label=studyarea1&path=09_Music_of_the_Twentieth_Century.htm
+    // /resources/studyarea/ireland/default.asp?content=Chapter02
+    // /default.asp?page_name=resources&label=studyarea1&path=09_Music_of_the_Twentieth_Century.htm
     result.rtype = 'BOOK_SECTION';
     result.mime = 'HTML';
     result.unitid = param.content || param.path;
 
   } else if ((match = /^\/resources\/studyarea\/([a-z0-9_-]+\/[a-z0-9_-]+\/[a-z0-9_-]+)$/i.exec(path)) !== null) {
-    // https://emory.nml3.naxosmusiclibrary.com:443/resources/studyarea/aus/gentop/09_music_of_the_twentieth_century?_pjax=%23main
+    // /resources/studyarea/aus/gentop/09_music_of_the_twentieth_century?_pjax=%23main
     result.rtype = 'BOOK_SECTION';
     result.mime = 'HTML';
     result.unitid = match[1];
@@ -275,6 +342,7 @@ module.exports = new Parser(function analyseEC(parsedUrl, ec) {
     // /jazz/catalogue/SAVANT-CD2183
     // /jazz/catalogue/HS223VL
     // /world/catalogue/76032-2
+    // /World/catalogue/item.asp?cid=GCD921002
     result.rtype = 'TOC';
     result.mime = 'HTML';
     result.unitid = match[1];
@@ -328,15 +396,19 @@ module.exports = new Parser(function analyseEC(parsedUrl, ec) {
     result.rtype = 'TOC';
     result.mime = 'HTML';
     result.unitid = match[1];
+
   } else if ((match = /^\/(?:artist)|(?:composer)$/i.exec(path)) !== null) {
     // /artist?_pjax=%23main
     // /composer?_pjax=%23main
     result.rtype = 'SEARCH';
     result.mime = 'HTML';
+
   } else if (/^\/(?:composer)\/[a-z0-9]+$/i.test(path)) {
     // /composer/H?_pjax=%23main
+    // /composer/29268?_pjax=%23main
     result.rtype = 'SEARCH';
     result.mime = 'HTML';
+
   }
   return result;
 });
