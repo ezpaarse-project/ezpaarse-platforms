@@ -6,7 +6,8 @@
   "pkb": false,
   "docurl": "http://analyses.ezpaarse.org/platforms/61857ee41422770386396e51",
   "domains": [
-    "www.vlebooks.com"
+    "www.vlebooks.com",
+    "r4.vlereader.com"
   ],
   "version": "2022-02-21",
   "status": "beta"
