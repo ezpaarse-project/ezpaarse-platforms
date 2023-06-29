@@ -1,0 +1,13 @@
+{
+  "longname": "Cabells",
+  "name": "cab",
+  "describe": "Recognizes the accesses to the platform Cabells",
+  "contact": "Sean Duffy",
+  "pkb": false,
+  "docurl": "http://analyses.ezpaarse.org/platforms/644a900ab075fa66a3911cc7",
+  "domains": [
+    "www2.cabells.com"
+  ],
+  "version": "2023-06-28",
+  "status": "beta"
+}
