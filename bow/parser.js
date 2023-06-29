@@ -21,7 +21,7 @@ module.exports = new Parser(function analyseEC(parsedUrl, ec) {
 
   let match;
 
-  if ((match = /^\/bow\/species\/([0-9a-z]+)\/cur\/(multimedia|introduction|species|references)$/i.exec(path)) !== null) {
+  if ((match = /^\/bow\/species\/([0-9a-z]+)\/cur\/(multimedia|introduction|species|references|appearance|habitat)$/i.exec(path)) !== null) {
     // https://birdsoftheworld.org/bow/species/chfspa1/cur/multimedia?media=photos
     // https://birdsoftheworld.org/bow/species/unijay1/cur/multimedia?media=photos
     // https://birdsoftheworld.org/bow/species/mexjay3/cur/multimedia?media=illustrations
@@ -34,6 +34,9 @@ module.exports = new Parser(function analyseEC(parsedUrl, ec) {
     // https://birdsoftheworld.org/bow/species/mexjay3/cur/introduction#sounds
     // https://birdsoftheworld.org/bow/species/corvid1/cur/species
     // https://birdsoftheworld.org/bow/species/mexjay3/cur/references
+    // https://birdsoftheworld.org/bow/species/mouqua/cur/appearance
+    // https://birdsoftheworld.org/bow/species/mouqua/cur/habitat
+    // https://birdsoftheworld.org/bow/species/corvid1/cur/species
     result.unitid = match[1];
 
     if (match[2] === 'multimedia') {
@@ -66,7 +69,14 @@ module.exports = new Parser(function analyseEC(parsedUrl, ec) {
       result.rtype = 'ENCYCLOPAEDIA_ENTRY';
       result.mime = 'HTML';
       break;
-
+    case 'habitat':
+      result.rtype = 'ENCYCLOPAEDIA_ENTRY';
+      result.mime = 'HTML';
+      break;
+    case 'appearance':
+      result.rtype = 'ENCYCLOPAEDIA_ENTRY';
+      result.mime = 'HTML';
+      break;
     case 'species':
       result.rtype = 'TOC';
       result.mime  = 'HTML';
