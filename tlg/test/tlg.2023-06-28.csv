@@ -1,0 +1,4 @@
+out-pii;out-title_id;out-unitid;out-rtype;out-mime;in-url
+;;;SEARCH;HTML;https://stephanus.tlg.uci.edu/Iris/inst/csearch.jsp#doc=tlg&aid=&wid=&q=Enter%20your%20selection&dt=list&cs_sort=1_sortname_asc&st=author_text&aw=&verndipl=0&filter_ds=00&per=50&c=3&acp=&editid=
+tlg;0537;010;RECORD;HTML;https://stephanus.tlg.uci.edu/Iris/inst/browser.jsp#doc=tlg&aid=0537&wid=010&st=0&l=20
+tlg;0537;016;RECORD;HTML;https://stephanus.tlg.uci.edu/Iris/inst/browser.jsp#doc=tlg&aid=0537&wid=016&q=EPICURUS&st=0

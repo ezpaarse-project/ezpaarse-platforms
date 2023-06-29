@@ -1,0 +1,13 @@
+{
+  "longname": "Thesaurus Linguae Graecae",
+  "name": "tlg",
+  "describe": "Recognizes the accesses to the platform Thesaurus Linguae Graecae",
+  "contact": "thomas.porquet, hsamyn, Julie Verleyen, Teresa Fernandez Olaizola, Sean Duffy",
+  "pkb": false,
+  "docurl": "http://analyses.ezpaarse.org/platforms/56fd3cd815ae306636c96da9",
+  "domains": [
+    "stephanus.tlg.uci.edu"
+  ],
+  "version": "2023-06-28",
+  "status": "beta"
+}
