@@ -1,0 +1,13 @@
+{
+  "longname": "Kheox",
+  "name": "kheox",
+  "describe": "Recognizes the accesses to the platform Kheox",
+  "contact": "Rachid Aliouat, Frederic Truong inist, magali.dias, nojhamster",
+  "pkb": false,
+  "docurl": "http://analyses.ezpaarse.org/platforms/565d74c819c63f9bfea072a0",
+  "domains": [
+    "www.kheox.fr"
+  ],
+  "version": "2023-07-05",
+  "status": "beta"
+}
