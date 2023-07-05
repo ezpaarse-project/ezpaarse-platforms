@@ -1,0 +1,13 @@
+{
+  "longname": "Batipédia",
+  "name": "batipedia",
+  "describe": "Recognizes the accesses to the platform Batipédia",
+  "contact": "Rachid Aliouat, Frederic Truong inist, magali.dias",
+  "pkb": false,
+  "docurl": "http://analyses.ezpaarse.org/platforms/635a540563d0b100f454e777",
+  "domains": [
+    "www.batipedia.com"
+  ],
+  "version": "2023-07-05",
+  "status": "beta"
+}
