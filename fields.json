@@ -123,6 +123,10 @@
       "description": "package de plusieurs chapitres pdf d'un ebook dans un téléchargement",
       "description_en": "package of several pdf chapters of an ebook in one download"
     },{
+      "code": "RECORD_BUNDLE",
+      "description": "package de plusieurs enregistrements non-bibliographiques d'une base de données",
+      "description_en": "package of several non-bibliographic database records"
+    },{
       "code": "METADATA_BUNDLE",
       "description": "package de métadonnées concernant plusieurs ressources",
       "description_en": "package of several metadata relative to multiple resources"
