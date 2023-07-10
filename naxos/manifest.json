@@ -25,7 +25,9 @@
     "www.naxosmusiclibrary.com",
     "ntch.naxosmusiclibrary.com",
     "ntch.naxosvideolibrary.com",
-    "ntch.naxosworks.com"
+    "ntch.naxosworks.com",
+    "ipm.naxosmusiclibrary.com",
+    "ipm.naxosspokenwordlibrary.com"
   ],
   "version": "2019-08-15",
   "status": "stable"
