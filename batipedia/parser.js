@@ -16,22 +16,26 @@ module.exports = new Parser(function analyseEC(parsedUrl, ec) {
   let params = parsedUrl.query || {};
   let match;
 
-  if ((match = /^\/document\/texte\/([a-z0-9_.-]+)\.html$/i.exec(path)) !== null) {
+  if ((match = /^(?:\/[a-z0-9]+)?\/document\/(texte|fiche)\/([a-z0-9_.-]+)\.html$/i.exec(path)) !== null) {
+    // /document/fiche/EYS-3.html
     // /document/texte/AHTF-2.html?article=AHTF-2_COR3
-    result.rtype    = 'RECORD';
+    // /reef/document/texte/AHTF-2.html?article=AHTF-2_COR3
+    result.rtype    = match[1] === 'texte' ? 'ARTICLE' : 'RECORD';
     result.mime     = 'HTML';
-    result.title_id = match[1];
-    result.unitid   = params.article;
+    result.title_id = match[2];
+    result.unitid   = params.article || result.title_id;
 
-  } else if ((match = /^\/pdf\/document\/([a-z0-9_.-]+)\.pdf$/i.exec(path)) !== null) {
+  } else if ((match = /^(?:\/[a-z0-9]+)?\/pdf\/document\/([a-z0-9_.-]+)\.pdf$/i.exec(path)) !== null) {
     // /pdf/document/AHTF-2.pdf#zoom=100
-    result.rtype    = 'RECORD_BUNDLE';
+    // /reef/pdf/document/AHTF-2.pdf#zoom=100
+    result.rtype    = 'ARTICLES_BUNDLE';
     result.mime     = 'PDF';
     result.title_id = match[1];
     result.unitid   = match[1];
 
-  } else if (/^\/rechercheREEF\.html$/i.test(path)) {
+  } else if (/^(?:\/[a-z0-9]+)?\/recherche[a-z0-9]+\.html$/i.test(path)) {
     // /rechercheREEF.html?options.completionShowValidation=false&....
+    // /reef/rechercheREEF.html?options.completionShowValidation=false&....
     result.rtype = 'SEARCH';
     result.mime  = 'HTML';
   }

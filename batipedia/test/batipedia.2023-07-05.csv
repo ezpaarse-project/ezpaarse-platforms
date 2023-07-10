@@ -1,4 +1,9 @@
 out-title_id;out-unitid;out-rtype;out-mime;in-url
+EYS-3;EYS-3;RECORD;HTML;https://www.batipedia.com/document/fiche/EYS-3.html
+EYS-3;EYS-3;RECORD;HTML;https://www.batipedia.com/reef/document/fiche/EYS-3.html
 ;;SEARCH;HTML;https://www.batipedia.com/rechercheREEF.html?options.completionShowValidation=false&options.query=&options.date=&options.withArchive=false&options.internalRedirect=redirect&options.currentPageNumber=1&__fsk=-1663469219&options.searchIn=SEARCH_IN_UIS_CONTENTS&options.treeNodesChecked=&options.activateQuery=true&options.excludeNoticesWithoutTI=false&options.treeNodesDisplayed=&options.excludeLibrary=false
-AHTF-2;AHTF-2_COR3;RECORD;HTML;https://www.batipedia.com/document/texte/AHTF-2.html?article=AHTF-2_COR3
-AHTF-2;AHTF-2;RECORD_BUNDLE;PDF;https://www.batipedia.com/pdf/document/AHTF-2.pdf#zoom=100
+;;SEARCH;HTML;https://www.batipedia.com/reef/rechercheREEF.html?options.completionShowValidation=false&options.query=&options.date=&options.withArchive=false&options.internalRedirect=redirect&options.currentPageNumber=1&__fsk=-1663469219&options.searchIn=SEARCH_IN_UIS_CONTENTS&options.treeNodesChecked=&options.activateQuery=true&options.excludeNoticesWithoutTI=false&options.treeNodesDisplayed=&options.excludeLibrary=false
+AHTF-2;AHTF-2_COR3;ARTICLE;HTML;https://www.batipedia.com/document/texte/AHTF-2.html?article=AHTF-2_COR3
+AHTF-2;AHTF-2_COR3;ARTICLE;HTML;https://www.batipedia.com/reef/document/texte/AHTF-2.html?article=AHTF-2_COR3
+AHTF-2;AHTF-2;ARTICLES_BUNDLE;PDF;https://www.batipedia.com/pdf/document/AHTF-2.pdf#zoom=100
+AHTF-2;AHTF-2;ARTICLES_BUNDLE;PDF;https://www.batipedia.com/reef/pdf/document/AHTF-2.pdf#zoom=100
