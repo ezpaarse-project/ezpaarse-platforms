@@ -17,9 +17,14 @@ module.exports = new Parser(function analyseEC(parsedUrl, ec) {
 
   if ((match = /^\/[a-z]+\/document\/[a-z]+\/([a-z0-9:_.-]+)\/(1|2)$/i.exec(path)) !== null) {
     // /bt/document/FM/BONI04SI30F333_2004-09-01T00:00:00/1
-    // /bt/document/FM/VERI06SI35F24_01_C_2009-06-12T13:48:46/2
     result.rtype  = 'RECORD';
-    result.mime   = match[2] === '1' ? 'HTML' : 'PDF';
+    result.mime   = 'HTML';
+    result.unitid = match[1];
+
+  } else if ((match = /^\/pdf\/([a-z0-9:_.-]+)$/i.exec(path)) !== null) {
+    // /pdf/wt_fd28f8cffdb669c5550f0f2dc7668615
+    result.rtype  = 'RECORD';
+    result.mime   = 'PDF';
     result.unitid = match[1];
 
   } else if (/^\/[a-z]+\/recherche\/resultats$/i.test(path)) {
