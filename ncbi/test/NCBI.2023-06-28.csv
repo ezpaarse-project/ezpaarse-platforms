@@ -1,0 +1,7 @@
+out-title_id;out-unitid;out-rtype;out-mime;in-url
+;;;;https://www.ncbi.nlm.nih.gov/biosample/SAMN16556596
+;;SEARCH;HTML;https://www.ncbi.nlm.nih.gov/biosample/?term=%22pathogen%20cl%201%200%22[filter]
+;;CITATION;XML;https://www.ncbi.nlm.nih.gov/sites/PubmedCitation?id=32661314&_=1638133014618
+;;SEARCH;HTML;https://www.ncbi.nlm.nih.gov/nlmcatalog?term=%22Prog+Polym+Sci%22%5BTitle+Abbreviation%5D
+;;CITATION;HTML;https://www.ncbi.nlm.nih.gov/nlmcatalog/255562
+;PMC4981537;ARTICLE;HTML;https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4981537/

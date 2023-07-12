@@ -34,8 +34,14 @@ module.exports = new Parser(function analyseEC(parsedUrl, ec) {
   } else if ((match = /^\/([a-z]+)\/([a-z0-9]+)\/?$/i.exec(path)) !== null) {
     // /pubmed/28750474
     // /books/NBK435759/
+    // /sites/PubmedCitation?id=32661314&_=1638133014618
+    // /nlmcatalog/255562
 
-    if (!/^[a-z]+$/.test(match[2])) {
+    if (/^(sites|nlmcatalog)$/.test(match[1])) {
+      result.mime = match[1] === 'nlmcatalog' ? 'HTML' : 'XML';
+      result.rtype = 'CITATION';
+    }
+    else if (/^(books|pubmed)$/.test(match[1])) {
       result.mime   = 'HTML';
       result.rtype  = match[1] === 'books' ? 'BOOK_SECTION' : 'ABS';
       result.unitid = match[2];
