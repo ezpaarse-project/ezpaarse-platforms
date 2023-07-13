@@ -12,7 +12,7 @@ const Parser = require('../.lib/parser.js');
  */
 module.exports = new Parser(function analyseEC(parsedUrl, ec) {
   let result = {};
-  let path   = parsedUrl.pathname;
+  let path = parsedUrl.pathname;
   // uncomment this line if you need parameters
   // let param = parsedUrl.query || {};
   let hash = new Map((parsedUrl.hash || '').replace('#', '').split('&').map(s => s.split('=')));
@@ -20,18 +20,18 @@ module.exports = new Parser(function analyseEC(parsedUrl, ec) {
   // console.error(parsedUrl);
 
   if (/^\/Iris\/inst\/browser\.jsp$/i.test(path)) {
-    // https://stephanus.tlg.uci.edu/Iris/inst/browser.jsp#doc=tlg&aid=0537&wid=010&st=0&l=20
-    // https://stephanus.tlg.uci.edu/Iris/inst/browser.jsp#doc=tlg&aid=0537&wid=016&q=EPICURUS&st=0
-    result.rtype    = 'RECORD';
-    result.mime     = 'HTML';
+    // /Iris/inst/browser.jsp#doc=tlg&aid=0537&wid=010&st=0&l=20
+    // /Iris/inst/browser.jsp#doc=tlg&aid=0537&wid=016&q=EPICURUS&st=0
+    result.rtype = 'RECORD';
+    result.mime = 'HTML';
     result.title_id = hash.get('aid');
     result.pii = hash.get('doc');
     result.unitid = hash.get('wid');
 
   } else if (/^\/Iris\/inst\/csearch\.jsp$/i.test(path)) {
-    // https://stephanus.tlg.uci.edu/Iris/inst/csearch.jsp#doc=tlg&aid=&wid=&q=Enter%20your%20selection&dt=list&cs_sort=1_sortname_asc&st=author_text&aw=&verndipl=0&filter_ds=00&per=50&c=3&acp=&editid=
-    result.rtype    = 'SEARCH';
-    result.mime     = 'HTML';
+    // /Iris/inst/csearch.jsp#doc=tlg&aid=&wid=&q=Enter%20your%20selection&dt=list&cs_sort=1_sortname_asc&st=author_text&aw=&verndipl=0&filter_ds=00&per=50&c=3&acp=&editid=
+    result.rtype = 'SEARCH';
+    result.mime = 'HTML';
   }
 
   return result;
