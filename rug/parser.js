@@ -21,7 +21,7 @@ module.exports = new Parser(function analyseEC(parsedUrl, ec) {
 
   let match;
 
-  if ((match = /^\/([a-z]+)\/([a-z]+)\/([a-z]+)\/([a-z0-9]+)(\/[0-9]+)?$/i.exec(path)) !== null) {
+  if ((match = /^\/([a-z]+)\/Detail\/Tagged\/([a-z0-9]+)(\/[0-9]+)?$/i.exec(path)) !== null) {
     // https://www.referenceusagov.com/UsBusiness/Detail/Tagged/307e1f6384a44cf19374ba73139f7899?recordId=737950879
     // https://www.referenceusagov.com/UsHistoricalBusiness/Detail/Tagged/7ad351936a6946e492070289257ce54b/2000?recordId=511092157
     result.rtype    = 'RECORD';
