@@ -1,0 +1,13 @@
+{
+  "longname": "Reference USA Gov",
+  "name": "rug",
+  "describe": "Recognizes the accesses to the platform Reference USA Gov",
+  "contact": "Sean Duffy",
+  "pkb": false,
+  "docurl": "http://analyses.ezpaarse.org/platforms/648238f33a2d2baf444724c2",
+  "domains": [
+    "www.referenceusagov.com"
+  ],
+  "version": "2023-06-28",
+  "status": "beta"
+}
