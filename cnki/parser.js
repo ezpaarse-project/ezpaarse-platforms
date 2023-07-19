@@ -19,6 +19,8 @@ module.exports = new Parser(function analyseEC(parsedUrl, ec) {
   // use console.error for debuging
   // console.error(parsedUrl);
 
+  let match;
+
   if (/^\/cjfdsearch\/pdfdownloadnew\.asp$/i.test(path)) {
     // http://pdf.tmp.oversea.d.cnki.net.prext.num.bulac.fr/cjfdsearch/pdfdownloadnew.asp?encode=en&zt=A002&filename=UMFl2Y5MjbZJXe1JnQjdGczpkY2YWaFdVbMV1MvNHVSNEc0l3anlDTnRHaFhXaYV2T4ADcqlVRuNnUKZTY2QmQx0EM6VTUEFXb4cmRpx2aIZ0cK1Uaj9iTG9SU3Y3QTdVNDtmQXxUZDJ1V=0TT6ZVOvl3NOtCNNJmdyJkbH1UUh9yZqJnW0MWTrpFThhWQLl1bVhETXZVcrIjW2UFaxA3Vm9mSyYkV2E3TpdzMKp1Lzh1ayF1LHdEMDRDTy92TINDc4s2RWhHbFJjdVh3ZFl0UiNzQFN&doi=CNKI:SUN:KJGL.0.2017-07-015&filetitle=%e5%9f%ba%e4%ba%8e%e5%b1%82%e6%ac%a1%e5%88%86%e6%9e%90_%e6%a8%a1%e7%b3%8a%e7%bb%bc%e5%90%88%e8%af%84%e4%bb%b7%e7%9a%84%e5%8c%97%e4%ba%ac%e5%b8%82%e6%96%b0%e8%83%bd%e6%ba%90%e4%ba%a7%e4%b8%9a%e7%ab%9e%e4%ba%89%e5%8a%9b%e7%a0%94%e7%a9%b6&p=cjfq&cflag=&u=WEEvREcwSlJHSldRa1Fhb09jMjQxRGlXbmtYWWdSQ0ZBVEs5dDFHSjlnWT0%3d%249A4hF_YAuvQ5obgVAqNKPCYcEjKensW4ggI8Fm4gTkoUKaID8j8gFw!!&pager=100-104
     result.rtype    = 'ARTICLE';
@@ -63,6 +65,19 @@ module.exports = new Parser(function analyseEC(parsedUrl, ec) {
     result.title_id = param.FileName;
     result.db_id    = param.DBCODE;
     result.unitid   = param.FileName;
+  } else if ((match = /^\/([a-z-]+)\/book\/OnlineView\/([0-9a-z-]+)$/i.exec(path)) !== null) {
+    // https://oversea.cnki.net/CCGBWEB/book/OnlineView/OB200208065
+    result.rtype    = 'BOOK';
+    result.mime     = 'HTML';
+    result.title_id = param.FileName;
+    result.db_id    = match[1];
+    result.unitid   = match[2];
+  } else if ((match = /^\/([a-z-]+)\/(SearchResult|search|Search)(?:\/Find)?$/i.exec(path)) !== null) {
+    // https://ar.cnki.net/AcadRef/SearchResult?searchText=brain
+    // https://enscholar.cnki.net/home/search?sw=1&sw-input=machine%20learning
+    // https://jtp.cnki.net/bilingual/Search/Find?field=all&val=brain
+    result.rtype    = 'SEARCH';
+    result.mime     = 'HTML';
   }
 
   return result;
