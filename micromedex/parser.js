@@ -28,6 +28,8 @@ module.exports = new Parser(function analyseEC(parsedUrl, ec) {
 
   } else if (/^\/.+\/evidencexpert.GetDocumentSection$/i.test(path)) {
     // https://www.micromedexsolutions.com:443/micromedex2/librarian/CS/F796D5/ND_PR/evidencexpert/ND_P/evidencexpert/DUPLICATIONSHIELDSYNC/749F42/ND_PG/evidencexpert/ND_B/evidencexpert/ND_AppProduct/evidencexpert/ND_T/evidencexpert/PFActionId/evidencexpert.GetDocumentSection?topicId=dosingAdminSection&subtopicId=adultDosageSection&contentSetId=100&docId=301568&title=Insulin%20Human%20Regular&crossWalkContentSetId=31&crossWalkDocId=0002&selectedGRA=fda
+    // https://www.micromedexsolutions.com/micromedex2/librarian/CS/EA42CE/ND_PR/evidencexpert/ND_P/evidencexpert/DUPLICATIONSHIELDSYNC/949D97/ND_PG/evidencexpert/ND_B/evidencexpert/ND_AppProduct/evidencexpert/ND_T/evidencexpert/PFActionId/evidencexpert.DoIntegratedSearch?SearchTerm=Ibuprofen&fromInterSaltBase=true&UserMdxSearchTerm=%24userMdxSearchTerm&false=null&=null#
+    // https://www.micromedexsolutions.com/micromedex2/librarian/CS/ABC89A/ND_PR/evidencexpert/ND_P/evidencexpert/DUPLICATIONSHIELDSYNC/B9146F/ND_PG/evidencexpert/ND_B/evidencexpert/ND_AppProduct/evidencexpert/ND_T/evidencexpert/PFActionId/evidencexpert.DoIntegratedSearch?SearchTerm=Ibuprofen&fromInterSaltBase=true&UserMdxSearchTerm=%24userMdxSearchTerm&false=null&=null#
     result.rtype    = 'ARTICLE';
     result.mime     = 'HTML';
     result.unitid   = param.docId;
