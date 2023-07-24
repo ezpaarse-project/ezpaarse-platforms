@@ -1,5 +1,5 @@
 out-db_id;out-title_id;out-unitid;out-rtype;out-mime;in-url
-;hts;ada1;ARTICLE;HTML;https://www.benjamins.com/online/hts/articles/ada1
-;hts;hyb1;ARTICLE;HTML;https://benjamins.com/online/hts/articles/hyb1.fr
+hts;hts;ada1;ARTICLE;HTML;https://www.benjamins.com/online/hts/articles/ada1
+hts;hts;hyb1;ARTICLE;HTML;https://benjamins.com/online/hts/articles/hyb1.fr
 hts;;;SEARCH;HTML;https://www.benjamins.com/online/hts/search?r=all&q=Adaption
 etsb;;52963;RECORD;HTML;https://benjamins.com/online/etsb/publications/52963
