@@ -1,7 +1,11 @@
 out-unitid;out-mime;out-rtype;in-url
-index;HTML;INDEX;http://www.arabidopsis.org.gate1.inist.fr/index.jsp
-servlets/Search;HTML;SEARCH;http://www.arabidopsis.org.gate1.inist.fr/servlets/Search?type=general&action=new_search
-tools/index;HTML;TOOLS;http://www.arabidopsis.org.gate1.inist.fr/tools/index.jsp
-portals/index;HTML;PORTALS;http://www.arabidopsis.org.gate1.inist.fr/portals/index.jsp
-download/index;HTML;DOWNLOAD;http://www.arabidopsis.org.gate1.inist.fr/download/index.jsp
-submit/index;HTML;SUBMIT;http://www.arabidopsis.org.gate1.inist.fr/submit/index.jsp
+index;HTML;INDEX;http://www.arabidopsis.org/index.jsp
+;HTML;SEARCH;http://www.arabidopsis.org/servlets/Search?type=general&action=new_search
+tools/index;HTML;TOOLS;http://www.arabidopsis.org/tools/index.jsp
+portals/index;HTML;PORTALS;http://www.arabidopsis.org/portals/index.jsp
+download/index;HTML;DOWNLOAD;http://www.arabidopsis.org/download/index.jsp
+submit/index;HTML;SUBMIT;http://www.arabidopsis.org/submit/index.jsp
+gene_class_symbol/1005832620;HTML;RECORD;https://www.arabidopsis.org/servlets/TairObject?type=gene_class_symbol&id=1005832620
+transposon/1866;HTML;RECORD;https://www.arabidopsis.org/servlets/TairObject?type=transposon&id=1866
+locus/At1g44170;HTML;RECORD;https://www.arabidopsis.org/servlets/TairObject?type=locus&name=At1g44170
+/Genes/Araport11_genome_release/Araport11_blastsets/Araport11_cds_20220914.gz;MISC;RECORD;https://www.arabidopsis.org/download_files/Genes/Araport11_genome_release/Araport11_blastsets/Araport11_cds_20220914.gz
