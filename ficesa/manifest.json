@@ -1,0 +1,14 @@
+{
+  "longname": "Ficesa",
+  "name": "ficesa",
+  "describe": "Recognizes the accesses to the platform Ficesa",
+  "contact": "Violita Kovchegov",
+  "pkb": false,
+  "docurl": "http://analyses.ezpaarse.org/platforms/64f89738430b3955cf3751f6",
+  "domains": [
+    "www.fac-ficesa.com",
+    "www.fac-ficesa-com"
+  ],
+  "version": "2023-09-15",
+  "status": "beta"
+}
