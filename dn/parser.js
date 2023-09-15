@@ -38,6 +38,22 @@ module.exports = new Parser(function analyseEC(parsedUrl, ec) {
     result.rtype    = 'RECORD';
     result.mime     = 'HTML';
     result.unitid   = param.codigo;
+  } else if ((match = /^\/metricas\/investigadores\/([0-9]+)$/i.exec(path)) !== null) {
+    // https://dialnet.unirioja.es/metricas/investigadores/1797057
+    result.rtype    = 'RECORD';
+    result.mime     = 'HTML';
+    result.unitid = match[1];
+  } else if ((match = /^\/metricas\/([a-z]+)\/revistas\/([0-9]+)$/i.exec(path)) !== null) {
+    // https://dialnet.unirioja.es/metricas/idr/revistas/24285
+    result.rtype    = 'RECORD';
+    result.mime     = 'HTML';
+    result.db_id = match[1];
+    result.unitid = match[2];
+  } else if ((match = /^\/servlet\/tesis$/i.exec(path)) !== null) {
+    // https://dialnet.unirioja.es/servlet/tesis?codigo=71589
+    result.rtype    = 'PHD_THESIS';
+    result.mime     = 'HTML';
+    result.unitid   = param.codigo;
   } else if ((match = /^\/buscar\/documentos$/i.exec(path)) !== null) {
     // https://dialnet.unirioja.es/buscar/documentos?querysDismax.DOCUMENTAL_TODO=Rocks
     result.rtype    = 'SEARCH';
