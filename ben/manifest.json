@@ -1,0 +1,14 @@
+{
+  "longname": "Benjamins",
+  "name": "ben",
+  "describe": "Recognizes the accesses to the platform Benjamins",
+  "contact": "Sean Duffy",
+  "pkb": false,
+  "docurl": "http://analyses.ezpaarse.org/platforms/64ad733df42178dc451bcf6a",
+  "domains": [
+    "www.benjamins.com",
+    "benjamins.com"
+  ],
+  "version": "2023-07-23",
+  "status": "beta"
+}
