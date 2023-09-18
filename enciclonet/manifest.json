@@ -1,0 +1,13 @@
+{
+  "longname": "Enciclonet",
+  "name": "enciclonet",
+  "describe": "Recognizes the accesses to the platform Enciclonet",
+  "contact": "Violita Kovchegov",
+  "pkb": false,
+  "docurl": "http://analyses.ezpaarse.org/platforms/64f7853da5e84d13583f3156",
+  "domains": [
+    "www.enciclonet.com"
+  ],
+  "version": "2023-09-15",
+  "status": "beta"
+}
