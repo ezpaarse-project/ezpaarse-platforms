@@ -1,0 +1,9 @@
+out-db_id;out-unitid;out-rtype;out-mime;in-url
+;1797057;RECORD;HTML;https://dialnet.unirioja.es/metricas/investigadores/1797057
+;71589;PHD_THESIS;HTML;https://dialnet.unirioja.es/servlet/tesis?codigo=71589
+idr;24285;RECORD;HTML;https://dialnet.unirioja.es/metricas/idr/revistas/24285
+;1961635;RECORD;HTML;https://dialnet.unirioja.es/servlet/autor?codigo=1961635
+;2231656;ARTICLE;PDF;https://dialnet.unirioja.es/descarga/articulo/2231656.pdf
+;2231656;RECORD_VIEW;HTML;https://dialnet.unirioja.es/servlet/articulo?codigo=2231656
+;593963;RECORD_VIEW;HTML;https://dialnet.unirioja.es/servlet/libro?codigo=593963
+;;SEARCH;HTML;https://dialnet.unirioja.es/buscar/documentos?querysDismax.DOCUMENTAL_TODO=Rocks
