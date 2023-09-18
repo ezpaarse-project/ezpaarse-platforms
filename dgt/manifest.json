@@ -1,0 +1,13 @@
+{
+  "longname": "Digitalia",
+  "name": "dgt",
+  "describe": "Recognizes the accesses to the platform Digitalia",
+  "contact": "Ghislaine Crespy-Faure, Sean Duffy",
+  "pkb": false,
+  "docurl": "http://analyses.ezpaarse.org/platforms/565d715d74bd5ac15be36ab8",
+  "domains": [
+    "www.digitaliapublishing.com"
+  ],
+  "version": "2023-09-15",
+  "status": "beta"
+}
