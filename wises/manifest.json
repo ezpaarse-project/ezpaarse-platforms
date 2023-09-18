@@ -1,0 +1,13 @@
+{
+  "longname": "Wise Search",
+  "name": "wises",
+  "describe": "Recognizes the accesses to the platform Wise Search",
+  "contact": "Sean Duffy",
+  "pkb": false,
+  "docurl": "http://analyses.ezpaarse.org/platforms/64b168885376bc00edab7c4d",
+  "domains": [
+    "wisesearch.wisers.net"
+  ],
+  "version": "2023-07-23",
+  "status": "beta"
+}
