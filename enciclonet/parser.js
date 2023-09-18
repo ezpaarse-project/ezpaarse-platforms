@@ -12,7 +12,7 @@ const Parser = require('../.lib/parser.js');
  */
 module.exports = new Parser(function analyseEC(parsedUrl, ec) {
   let result = {};
-  let path   = parsedUrl.pathname;
+  let path = parsedUrl.pathname;
   // uncomment this line if you need parameters
   // let param = parsedUrl.query || {};
 
@@ -23,15 +23,15 @@ module.exports = new Parser(function analyseEC(parsedUrl, ec) {
 
   if ((match = /^\/articulo\/([a-z-]+)\/$/i.exec(path)) !== null) {
     // https://www.enciclonet.com/articulo/huizinga-johan/
-    result.rtype    = 'ARTICLE';
-    result.mime     = 'HTML';
+    result.rtype = 'ARTICLE';
+    result.mime = 'HTML';
     result.unitid = match[1];
 
   } else if (/^\/busqueda$/i.test(path)) {
     // https://www.enciclonet.com/busqueda?q=Erasmo+de+Rotterdam
     // https://www.enciclonet.com/busqueda?q=Ciencias+de+la+Tierra&t=0&f=fisica
-    result.rtype    = 'SEARCH';
-    result.mime     = 'HTML';
+    result.rtype = 'SEARCH';
+    result.mime = 'HTML';
   }
 
   return result;
