@@ -12,7 +12,7 @@ const Parser = require('../.lib/parser.js');
  */
 module.exports = new Parser(function analyseEC(parsedUrl, ec) {
   let result = {};
-  let path   = parsedUrl.pathname;
+  let path = parsedUrl.pathname;
   // uncomment this line if you need parameters
   // let param = parsedUrl.query || {};
 
@@ -23,19 +23,19 @@ module.exports = new Parser(function analyseEC(parsedUrl, ec) {
 
   if ((match = /^\/article\/citation\/([0-9]+)$/i.exec(path)) !== null) {
     // https://hapi.ucla.edu/article/citation/378232
-    result.rtype    = 'RECORD_VIEW';
-    result.mime     = 'HTML';
+    result.rtype = 'RECORD_VIEW';
+    result.mime = 'HTML';
     result.unitid = match[1];
 
   } else if ((match = /^\/article\/frame\/([0-9]+)\/([0-9]+)$/i.exec(path)) !== null) {
     // https://hapi.ucla.edu/article/frame/378288/1315
-    result.rtype    = 'TOC';
-    result.mime     = 'HTML';
-    result.unitid   = match[2];
+    result.rtype = 'TOC';
+    result.mime = 'HTML';
+    result.unitid = match[2];
   } else if (/^\/search\/advanced$/i.test(path)) {
     // https://hapi.ucla.edu/search/advanced
-    result.rtype    = 'SEARCH';
-    result.mime     = 'HTML';
+    result.rtype = 'SEARCH';
+    result.mime = 'HTML';
   }
 
   return result;
