@@ -1,0 +1,13 @@
+{
+  "longname": "Hispanic American Periodicals",
+  "name": "hapi",
+  "describe": "Recognizes the accesses to the platform Hispanic American Periodicals",
+  "contact": "Violita Kovchegov",
+  "pkb": false,
+  "docurl": "http://analyses.ezpaarse.org/platforms/64f8b318d77a71c949527f9b",
+  "domains": [
+    "hapi.ucla.edu"
+  ],
+  "version": "2023-09-15",
+  "status": "beta"
+}
