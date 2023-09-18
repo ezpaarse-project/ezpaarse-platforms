@@ -12,7 +12,7 @@ const Parser = require('../.lib/parser.js');
  */
 module.exports = new Parser(function analyseEC(parsedUrl, ec) {
   let result = {};
-  let path   = parsedUrl.pathname;
+  let path = parsedUrl.pathname;
   // uncomment this line if you need parameters
   // let param = parsedUrl.query || {};
 
@@ -23,8 +23,8 @@ module.exports = new Parser(function analyseEC(parsedUrl, ec) {
 
   if (/^\/wortal\/index\.do$/i.test(path)) {
     // https://wisesearch.wisers.net/wortal/index.do?srp_restore=discard&new-login=true
-    result.rtype    = 'SESSION';
-    result.mime     = 'HTML';
+    result.rtype = 'SESSION';
+    result.mime = 'HTML';
 
   }
 
