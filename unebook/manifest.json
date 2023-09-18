@@ -1,0 +1,13 @@
+{
+  "longname": "UNEBOOK",
+  "name": "unebook",
+  "describe": "Recognizes the accesses to the platform UNEBOOK",
+  "contact": "Violita Kovchegov",
+  "pkb": false,
+  "docurl": "http://analyses.ezpaarse.org/platforms/64f8c81f1001ff2b90ed4748",
+  "domains": [
+    "lectura.unebook.es"
+  ],
+  "version": "2023-09-15",
+  "status": "beta"
+}
