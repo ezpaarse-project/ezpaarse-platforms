@@ -1,0 +1,13 @@
+{
+  "longname": "EZMovie",
+  "name": "ezm",
+  "describe": "Recognizes the accesses to the platform EZMovie",
+  "contact": "Sean Duffy",
+  "pkb": false,
+  "docurl": "http://analyses.ezpaarse.org/platforms/650c7ca219e8ba0ca41bc9f9",
+  "domains": [
+    "www.ezmovie.tw"
+  ],
+  "version": "2023-09-21",
+  "status": "beta"
+}
