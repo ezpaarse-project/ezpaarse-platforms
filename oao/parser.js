@@ -18,7 +18,7 @@ module.exports = new Parser(function analyseEC(parsedUrl, ec) {
   let match;
 
 
-  if ((match = /^\/[a-z]+\/view\/10\.\d+\/[a-z]+\/([0-9]+)[\d.]*\/([a-z0-9_-]+)$/i.exec(path)) !== null) {
+  if ((match = /^\/[a-z]+\/(?:view|display)\/10\.\d+\/[a-z]+\/([0-9]+)[\d.]*\/([a-z0-9_-]+)$/i.exec(path)) !== null) {
     // /benezit/view/10.1093/benz/9780199773787.001.0001/acref-9780199773787-e-00000023?rskey=PkGWDp&result=5
     // /groveart/view/10.1093/gao/9781884446054.001.0001/oao-9781884446054-e-7000000064?print=pdf
 
