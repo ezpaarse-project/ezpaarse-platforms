@@ -21,25 +21,29 @@ module.exports = new Parser(function analyseEC(parsedUrl, ec) {
 
   let match;
 
-  if ((match = /^\/doi\/epdf\/(10.\d{4,9}\/[-._;()/:A-Z0-9]+)$/i.exec(path)) !== null) {
+  if ((match = /^\/doi\/(epdf|full|abs)\/(10.\d{4,9}\/[-._;()/:A-Z0-9]+)$/i.exec(path)) !== null) {
     // https://journals.physiology.org/doi/epdf/10.1152/jappl.1995.79.1.214
-    result.rtype    = 'ARTICLE';
-    result.mime     = 'PDF';
-    result.unitid = match[1];
-    result.doi = match[1];
-
-  } else if ((match = /^\/doi\/full\/(10.\d{4,9}\/[-._;()/:A-Z0-9]+)$/i.exec(path)) !== null) {
     // https://journals.physiology.org/doi/full/10.1152/jappl.1997.82.3.755
-    result.rtype    = 'ARTICLE';
-    result.mime     = 'HTML';
-    result.unitid   = match[1];
-    result.doi = match[1];
-  } else if ((match = /^\/doi\/abs\/(10.\d{4,9}\/[-._;()/:A-Z0-9]+)$/i.exec(path)) !== null) {
     // https://journals.physiology.org/doi/abs/10.1152/jappl.1995.79.1.214
-    result.rtype    = 'ABS';
-    result.mime     = 'HTML';
-    result.unitid   = match[1];
-    result.doi = match[1];
+    result.rtype    = 'ARTICLE';
+    switch (match[1]) {
+    case 'epdf':
+      result.mime     = 'PDF';
+      break;
+    case 'full':
+      result.mime     = 'HTML';
+      break;
+    case 'abs':
+      result.rtype    = 'ABS';
+      result.mime    = 'HTML';
+      break;
+
+    default:
+      break;
+    }
+    result.unitid = match[2];
+    result.doi = match[2];
+
   } else if (/^\/action\/doSearch$/i.test(path)) {
     // https://journals.physiology.org/action/doSearch?AllField=Compartment+Syndrome
     // https://journals.physiology.org/action/doSearch?AllField=Compartment+Syndrome&startPage=&SeriesKey=jappl
