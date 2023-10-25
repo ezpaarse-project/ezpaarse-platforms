@@ -21,25 +21,25 @@ module.exports = new Parser(function analyseEC(parsedUrl, ec) {
 
   let match;
 
-  if ((match = /^\/doi\/epdf\/(10.\d{4,9}\/[-._;()/:A-Z0-9]+)$/i.exec(path)) !== null) {
+  if ((match = /^\/doi\/(epdf|full|abs)\/(10.\d{4,9}\/[-._;()/:A-Z0-9]+)$/i.exec(path)) !== null) {
     // https://www.journal.csj.jp/doi/epdf/10.1246/bcsj.20230110
-    result.rtype    = 'ARTICLE';
-    result.mime     = 'PDF';
-    result.unitid   = match[1];
-    result.doi   = match[1];
-
-  } else if ((match = /^\/doi\/full\/(10.\d{4,9}\/[-._;()/:A-Z0-9]+)$/i.exec(path)) !== null) {
     // https://www.journal.csj.jp/doi/full/10.1246/bcsj.20230110
-    result.rtype    = 'ARTICLE';
-    result.mime     = 'HTML';
-    result.unitid   = match[1];
-    result.doi   = match[1];
-  } else if ((match = /^\/doi\/abs\/(10.\d{4,9}\/[-._;()/:A-Z0-9]+)$/i.exec(path)) !== null) {
     // https://www.journal.csj.jp/doi/abs/10.1246/bcsj.20230110
-    result.rtype    = 'ABS';
-    result.mime     = 'HTML';
-    result.unitid   = match[1];
-    result.doi   = match[1];
+    result.rtype  = 'ARTICLE';
+    switch (match[1]) {
+    case 'epdf':
+      result.mime     = 'PDF';
+      break;
+    case 'full':
+      result.mime     = 'HTML';
+      break;
+    case 'abs':
+      result.rtype    = 'ABS';
+      result.mime     = 'HTML';
+      break;
+    }
+    result.unitid = match[2];
+    result.doi    = match[2];
   } else if (/^\/action\/doSearch$/i.test(path)) {
     // https://www.journal.csj.jp/action/doSearch?AllField=ammonia&ConceptID=
     result.rtype    = 'SEARCH';
