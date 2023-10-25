@@ -14,10 +14,11 @@ module.exports = new Parser(function analyseEC(parsedUrl, ec) {
   let result = {};
   let path   = parsedUrl.pathname;
   let param  = parsedUrl.query;
+  let hash   = parsedUrl.hash;
 
   let match;
 
-  if ((match = /^\/doi\/(full|pdf|abs)\/([0-9.]+\/([0-9a-z./-]+))$/i.exec(path)) !== null) {
+  if ((match = /^\/doi\/(full|pdf|abs|epdf|pdfdirect)\/([0-9.]+\/([0-9a-z./-]+))$/i.exec(path)) !== null) {
     result.doi    = match[2];
     result.unitid = match[3];
 
@@ -31,6 +32,14 @@ module.exports = new Parser(function analyseEC(parsedUrl, ec) {
       // /doi/full/10.1080/17400309.2013.861174#abstract
       result.rtype = 'ARTICLE';
       result.mime  = 'HTML';
+      break;
+    case 'EPDF':
+      result.rtype = 'ARTICLE';
+      result.mime  = 'PDF';
+      break;
+    case 'PDFDIRECT':
+      result.rtype = 'ARTICLE';
+      result.mime  = 'PDF';
       break;
     case 'PDF':
       // /doi/pdf/10.1080/17400309.2013.861174
@@ -52,12 +61,20 @@ module.exports = new Parser(function analyseEC(parsedUrl, ec) {
     result.title_id = match[1];
     result.unitid   = match[1];
 
-  } else if ((match = /^\/loi\/([a-z0-9]+)$/i.exec(path)) !== null) {
+  } else if ((match = /^\/(loi|toc)\/([a-z0-9]+)(\/[0-9]+)?(\/[0-9]+)?$/i.exec(path)) !== null) {
     // /loi/wjsa21
+    // http://www.tandfonline.com/toc/wjsa21/39/10
+    // http://www.tandfonline.com/loi/wjsa21?open=39&repitition=0#vol_39
     result.rtype    = 'TOC';
     result.mime     = 'HTML';
-    result.title_id = match[1];
-    result.unitid   = match[1];
+    result.title_id = match[2];
+    if (hash) {
+      result.unitid   = match[2] + hash;
+    } else if (match[3] && match[4]) {
+      result.unitid   = match[2] + match[3] + match[4];
+    } else {
+      result.unitid   = match[2];
+    }
 
   } else if ((match = /^\/books(?:\/e)?\/([0-9X]+)$/i.exec(path)) !== null) {
     // /books/9780203005361
@@ -94,6 +111,37 @@ module.exports = new Parser(function analyseEC(parsedUrl, ec) {
       result.unitid = param.isbn;
     }
 
+  } else if ((match = /^\/action\/(generateIssuePDFs|generateMultiplePDFs|downloadTable)$/i.exec(path)) !== null) {
+    if (match[1] == 'downloadTable') {
+      //https://www.tandfonline.com/action/downloadTable?id=T0001&doi=10.1080%2F14693062.2019.1605330&downloadType=CSV
+      result.rtype  = 'TABLE';
+      result.mime   = 'CSV';
+      result.unitid = param.doi;
+      result.doi = param.doi;
+    } else {
+      // https://www.tandfonline.com/action/generateIssuePDFs?dois=10.1080%2Frsih20.v032.i04
+      // https://www.tandfonline.com/action/generateMultiplePDFs?dois=10.1080%2F17460263.2012.738610%2C10.1080%2F17460263.2012.759668%2C10.1080%2F17460263.2012.746850%2C10.1080%2F17460263.2012.746851
+      result.rtype  = 'ARTICLES_BUNDLE';
+      result.mime   = 'PDF';
+      result.unitid = param.dois;
+      result.doi = param.dois;
+    }
+
+  } else if (/^\/openurl$/i.test(path)) {
+    // https://www.tandfonline.com/openurl?stitle=rsih20&genre=journal
+    result.rtype  = 'OPENURL';
+    result.mime   = 'HTML';
+  } else if ((match = /^\/doi\/reader\/figures\/([0-9.]+\/([0-9a-z./-]+))$/i.exec(path)) !== null) {
+    // https://www.tandfonline.com/doi/reader/figures/10.1080/14693062.2019.1605330
+    result.rtype  = 'FIGURE';
+    result.mime   = 'JPEG';
+    result.unitid = match[2];
+    result.doi = match[1];
+  } else if (/^\/action\/doSearch$/i.test(path)) {
+    // https://www.tandfonline.com/action/doSearch?AllField=sport+studies+in+Asia
+    // https://www.tandfonline.com%2faction%2fdoSearch%3fAllField%3dsport%2bstudies%2bin%2bAsia
+    result.rtype  = 'SEARCH';
+    result.mime   = 'HTML';
   }
 
   return result;
