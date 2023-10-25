@@ -21,14 +21,14 @@ module.exports = new Parser(function analyseEC(parsedUrl, ec) {
 
   let match;
 
-  if ((match = /^\/doi\/epdf\/([0-9]+\.[0-9]+\/[a-z]+\.[0-9]+)$/i.exec(path)) !== null) {
+  if ((match = /^\/doi\/epdf\/(10.\d{4,9}\/[-._;()/:A-Z0-9]+)$/i.exec(path)) !== null) {
     // https://search.informit.org/doi/epdf/10.3316/informit.273886063150734
     result.rtype    = 'ARTICLE';
     result.mime     = 'PDF';
     result.unitid = match[1];
     result.doi = match[1];
 
-  } else if ((match = /^\/doi\/([0-9]+\.[0-9]+\/[a-z]+\.[0-9]+)$/i.exec(path)) !== null) {
+  } else if ((match = /^\/doi\/(10.\d{4,9}\/[-._;()/:A-Z0-9]+)$/i.exec(path)) !== null) {
     // https://search.informit.org/doi/10.3316/informit.273886063150734
     result.rtype    = 'ARTICLE';
     result.mime     = 'HTML';
