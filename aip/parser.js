@@ -70,13 +70,13 @@ module.exports = new Parser(function analyseEC(parsedUrl) {
       break;
     }
 
-  } else if ((match = /^\/aip\/([a-z]+)\/article-pdf\/doi\/((10\.[0-9]+\/([a-z0-9.]+))\/[0-9]+\/[0-9._]+\.pdf)$/i.exec(path)) !== null) {
+  } else if ((match = /^\/aip\/([a-z]+)\/article-pdf\/doi\/(10\.[0-9]+\/([a-z0-9.]+))\/[0-9]+\/[0-9._]+\.pdf$/i.exec(path)) !== null) {
     // https://pubs.aip.org/aip/acp/article-pdf/doi/10.1063/5.0164351/18116273/020004_1_5.0164351.pdf
     result.rtype = 'ARTICLE';
     result.mime  = 'PDF';
     result.title_id = match[1];
-    result.doi = match[3];
-    result.unitid = match[4];
+    result.doi = match[2];
+    result.unitid = match[3];
   } else if ((match = /^\/aip\/([a-z]+)\/article-pdf\/[0-9]+\/([0-9._]+)\.pdf$/i.exec(path)) !== null) {
     // https://pubs.aip.org/aip/acp/article-pdf/18146317/020023_1_5.0167690.pdf
     result.rtype = 'ARTICLE';
