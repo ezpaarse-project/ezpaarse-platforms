@@ -1,0 +1,13 @@
+{
+  "longname": "Aranzadi",
+  "name": "az",
+  "describe": "Recognizes the accesses to the platform Aranzadi",
+  "contact": "Violita Kovchegov",
+  "pkb": false,
+  "docurl": "http://analyses.ezpaarse.org/platforms/65318a66a699d2a85b1b0e8b",
+  "domains": [
+    "aranzadi.aranzadidigital.es"
+  ],
+  "version": "2023-11-01",
+  "status": "beta"
+}
