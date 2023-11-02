@@ -1,0 +1,14 @@
+{
+  "longname": "KinoDen",
+  "name": "kd",
+  "describe": "Recognizes the accesses to the platform KinoDen",
+  "contact": "Violita Kovchegov",
+  "pkb": false,
+  "docurl": "http://analyses.ezpaarse.org/platforms/6516ee80c123e1f56187f867",
+  "domains": [
+    "kinoden.kinokuniya.co.jp",
+    "breader.cloud"
+  ],
+  "version": "2023-11-02",
+  "status": "beta"
+}
