@@ -6,7 +6,9 @@
   "pkb": false,
   "docurl": "http://analyses.ezpaarse.org/platforms/62da68c1a934084b1ad8e9d2",
   "domains": [
-    "publications-prairial.fr"
+    "publications-prairial.fr",
+    "alyoda.eu",
+    "rifrancophonies.com"
   ],
   "version": "2022-10-26",
   "status": "beta"
