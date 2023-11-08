@@ -62,6 +62,7 @@ module.exports = new Parser(function analyseEC(parsedUrl, ec) {
         if (isPdf) { result.rtype = 'ARTICLE'; }
         result.mime = isPdf ? 'PDF' : 'HTML';
         result.unitid = id;
+        result.doi = `${doiPrefix}/rif.${id}`;
       }
     }
   }
