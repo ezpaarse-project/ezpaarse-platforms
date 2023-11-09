@@ -83,14 +83,14 @@ module.exports = new Parser(function analyseEC(parsedUrl) {
     result.mime  = 'PDF';
     result.title_id = match[1];
     result.unitid = match[2];
-  } else if ((match = /^\/aip\/([a-z]+)\/article\/([0-9]+)\/([0-9]+)\/([0-9]+)\/([0-9]+)\/([a-z-]+)$/i.exec(path)) !== null) {
+  } else if ((match = /^\/aip\/([a-z]+)\/article\/([0-9]+)\/([0-9]+)\/[0-9]+\/([0-9]+)\/[a-z-]+$/i.exec(path)) !== null) {
     //https://pubs.aip.org/aip/acp/article/2872/1/120047/2913626/Brain-activity-vs-seismicity-Scaling-and-memory?searchresult=1
     result.rtype = 'ARTICLE';
     result.mime  = 'HTML';
     result.title_id = match[1];
     result.vol  = match[2];
     result.issue = match[3];
-    result.unitid = match[5];
+    result.unitid = match[4];
   } else if ((match = /^\/aip\/([a-z]+)\/article-abstract\/([0-9]+)\/([0-9]+)\/([0-9]+)\/([0-9]+)\/([a-z-]+)$/i.exec(path)) !== null) {
     //https://pubs.aip.org/aip/acp/article-abstract/2845/1/050013/2911196/Brain-cancer-detection-in-the-MRI-using-the?redirectedFrom=fulltext
     result.rtype = 'ABS';
