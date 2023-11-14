@@ -50,13 +50,13 @@ module.exports = new Parser(function analyseEC(parsedUrl, ec) {
     }
   }
   if (ec.domain === 'rifrancophonies.com') {
-    if ((match = /^\/index.php$/i.exec(path)) !== null) {
+    if ((match = /^(?:\/(?!idref|prairialdoc)([a-z0-9-]+))?\/(index.php)?$/i.exec(path)) !== null) {
       // https://rifrancophonies.com/index.php?id=1442
 
       let id = param.id || param.document;
       id = Number.parseInt(id, 10);
 
-      result.title_id = 'rif';
+      result.title_id = match[1] || 'rif';
       result.mime = 'HTML';
       result.rtype = 'ARTICLE';
 
@@ -65,15 +65,17 @@ module.exports = new Parser(function analyseEC(parsedUrl, ec) {
         result.mime = 'HTML';
       } else {
         const isPdf = param.do === '_pdfgen_get' || param.file;
+
         if (isPdf) { result.rtype = 'ARTICLE'; }
+
         result.mime = isPdf ? 'PDF' : 'HTML';
         result.unitid = id;
-        result.doi = `${doiPrefix}/rif.${id}`;
+        result.doi = `${doiPrefix}/${result.title_id}.${id}`;
       }
     }
   }
   if (ec.domain === 'publications-prairial.fr') {
-    if ((match = /^(?:\/(?!idref|prairialdoc)([a-z0-9-]+))?\/(index.php)?$/i.exec(path)) !== null) {
+    if ((match = /^\/(?!idref|prairialdoc)([a-z0-9-]+)\/(index.php)?$/i.exec(path)) !== null) {
       // /bacaly/index.php?file=1&id=1295
       // /voix-contemporaines/?do=_pdfgen_get&document=140&lang=en
       // /voix-contemporaines/index.php?id=140
@@ -81,6 +83,12 @@ module.exports = new Parser(function analyseEC(parsedUrl, ec) {
       let titleId = match[1];
       let id = param.id || param.document;
       id = Number.parseInt(id, 10);
+
+      if (titleId === 'pratiques-et-formes-litteraires') {
+        titleId = 'pfl';
+      } else if (titleId === 'frontiere-s') {
+        titleId = 'frontieres';
+      }
 
       if (Number.isNaN(id)) {
         result.rtype = 'TOC';
@@ -93,14 +101,8 @@ module.exports = new Parser(function analyseEC(parsedUrl, ec) {
         result.mime = isPdf ? 'PDF' : 'HTML';
         result.title_id = titleId;
         result.unitid = `${titleId}/${id}`;
+        result.doi = `${doiPrefix}/${titleId}.${id}`;
       }
-
-      if (titleId === 'pratiques-et-formes-litteraires') {
-        titleId = 'pfl';
-      } else if (titleId === 'frontiere-s') {
-        titleId = 'frontieres';
-      }
-      result.doi = `${doiPrefix}/${titleId}.${id}`;
     }
   }
 
