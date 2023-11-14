@@ -27,12 +27,17 @@ module.exports = new Parser(function analyseEC(parsedUrl, ec) {
       result.mime = 'HTML';
       result.rtype = 'ARTICLE';
 
-      const id = param.id;
+      let id = param.id;
+      id = Number.parseInt(id, 10);
       if (id && parsedUrl.hash) {
-        result.doi = `${doiPrefix}/alyoda.${parsedUrl.hash.substring(1)}`;
+        let hash = parsedUrl.hash.substring(1);
+        hash = Number.parseInt(hash, 10);
+        if (!Number.isNaN(hash)) {
+          result.doi = `${doiPrefix}/alyoda.${hash}`;
+        }
       }
 
-      if (!id) {
+      if (Number.isNaN(id)) {
         result.rtype = 'TOC';
         result.mime = 'HTML';
       } else {
@@ -48,13 +53,14 @@ module.exports = new Parser(function analyseEC(parsedUrl, ec) {
     if ((match = /^\/index.php$/i.exec(path)) !== null) {
       // https://rifrancophonies.com/index.php?id=1442
 
-      const id = param.id || param.document;
+      let id = param.id || param.document;
+      id = Number.parseInt(id, 10);
 
       result.title_id = 'rif';
       result.mime = 'HTML';
       result.rtype = 'ARTICLE';
 
-      if (!id) {
+      if (Number.isNaN(id)) {
         result.rtype = 'TOC';
         result.mime = 'HTML';
       } else {
@@ -73,9 +79,10 @@ module.exports = new Parser(function analyseEC(parsedUrl, ec) {
       // /voix-contemporaines/index.php?id=140
 
       let titleId = match[1];
-      const id = param.id || param.document;
+      let id = param.id || param.document;
+      id = Number.parseInt(id, 10);
 
-      if (!id) {
+      if (Number.isNaN(id)) {
         result.rtype = 'TOC';
         result.mime = 'HTML';
       } else {
@@ -96,9 +103,6 @@ module.exports = new Parser(function analyseEC(parsedUrl, ec) {
       result.doi = `${doiPrefix}/${titleId}.${id}`;
     }
   }
-
-
-
 
   return result;
 });
