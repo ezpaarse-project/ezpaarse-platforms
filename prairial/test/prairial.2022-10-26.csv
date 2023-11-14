@@ -1,8 +1,8 @@
-out-title_id;out-doi;out-unitid;out-rtype;out-mime;in-url
-bacaly;10.35562/bacaly.1295;bacaly/1295;ARTICLE;PDF;https://publications-prairial.fr/bacaly/index.php?file=1&id=1295
-voix-contemporaines;10.35562/voix-contemporaines.140;voix-contemporaines/140;ARTICLE;PDF;https://publications-prairial.fr/voix-contemporaines/?do=_pdfgen_get&document=140&lang=en
-voix-contemporaines;10.35562/voix-contemporaines.140;voix-contemporaines/140;;HTML;https://publications-prairial.fr/voix-contemporaines/index.php?id=140
-frontiere-s;10.35562/frontieres.506;frontiere-s/506;;HTML;https://publications-prairial.fr/frontiere-s/index.php?id=506
-pratiques-et-formes-litteraires;10.35562/pfl.199;pratiques-et-formes-litteraires/199;ARTICLE;PDF;https://publications-prairial.fr/pratiques-et-formes-litteraires/?do=_pdfgen_get&document=199&lang=fr
-;;;;;https://publications-prairial.fr/idref/index.php?id=082121338
-;;;;;https://publications-prairial.fr/prairialdoc/index.php?id=203
+out-title_id;out-doi;out-unitid;out-rtype;out-mime;in-domain;in-url
+bacaly;10.35562/bacaly.1295;bacaly/1295;ARTICLE;PDF;publications-prairial.fr;https://publications-prairial.fr/bacaly/index.php?file=1&id=1295
+voix-contemporaines;10.35562/voix-contemporaines.140;voix-contemporaines/140;ARTICLE;PDF;publications-prairial.fr;https://publications-prairial.fr/voix-contemporaines/?do=_pdfgen_get&document=140&lang=en
+voix-contemporaines;10.35562/voix-contemporaines.140;voix-contemporaines/140;;HTML;publications-prairial.fr;https://publications-prairial.fr/voix-contemporaines/index.php?id=140
+frontiere-s;10.35562/frontieres.506;frontiere-s/506;;HTML;publications-prairial.fr;https://publications-prairial.fr/frontiere-s/index.php?id=506
+pratiques-et-formes-litteraires;10.35562/pfl.199;pratiques-et-formes-litteraires/199;ARTICLE;PDF;publications-prairial.fr;https://publications-prairial.fr/pratiques-et-formes-litteraires/?do=_pdfgen_get&document=199&lang=fr
+;;;;;publications-prairial.fr;https://publications-prairial.fr/idref/index.php?id=082121338
+;;;;;publications-prairial.fr;https://publications-prairial.fr/prairialdoc/index.php?id=203

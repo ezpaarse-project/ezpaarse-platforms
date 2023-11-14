@@ -19,7 +19,7 @@ module.exports = new Parser(function analyseEC(parsedUrl, ec) {
 
   let match;
 
-  if (parsedUrl.hostname === 'alyoda.eu') {
+  if (ec.domain === 'alyoda.eu') {
     if (/^\/index.php$/i.test(path)) {
       // https://alyoda.eu/index.php?id=8868#9080
 
@@ -44,7 +44,7 @@ module.exports = new Parser(function analyseEC(parsedUrl, ec) {
 
     }
   }
-  if (parsedUrl.hostname === 'rifrancophonies.com') {
+  if (ec.domain === 'rifrancophonies.com') {
     if ((match = /^\/index.php$/i.exec(path)) !== null) {
       // https://rifrancophonies.com/index.php?id=1442
 
@@ -66,7 +66,7 @@ module.exports = new Parser(function analyseEC(parsedUrl, ec) {
       }
     }
   }
-  if (parsedUrl.hostname === 'publications-prairial.fr') {
+  if (ec.domain === 'publications-prairial.fr') {
     if ((match = /^(?:\/(?!idref|prairialdoc)([a-z0-9-]+))?\/(index.php)?$/i.exec(path)) !== null) {
       // /bacaly/index.php?file=1&id=1295
       // /voix-contemporaines/?do=_pdfgen_get&document=140&lang=en
