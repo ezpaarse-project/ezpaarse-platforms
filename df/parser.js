@@ -28,12 +28,11 @@ module.exports = new Parser(function analyseEC(parsedUrl, ec) {
     result.mime     = 'HTML';
     result.unitid = match[1];
 
-  } else if ((match = /^\/film\/(([0-9]+)\/([0-9a-z-]+))$/i.exec(path)) !== null) {
+  } else if ((match = /^\/film\/[0-9]+\/([0-9a-z-]+)$/i.exec(path)) !== null) {
     // https://www.digitaliafilmlibrary.com/film/1620/african-presidents--angola
     // https://www.digitaliafilmlibrary.com/film/322/03-34-terremoto-en-chile
     result.rtype    = 'RECORD';
     result.mime     = 'HTML';
-    result.title_id = match[3];
     result.unitid   = match[1];
   } else if ((match = /^\/(genero|novedad)(\/(([0-9]+)\/([a-z]+)))?$/i.exec(path)) !== null) {
     // https://www.digitaliafilmlibrary.com/genero/2/Action
