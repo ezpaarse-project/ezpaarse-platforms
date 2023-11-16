@@ -12,7 +12,7 @@ const Parser = require('../.lib/parser.js');
  */
 module.exports = new Parser(function analyseEC(parsedUrl, ec) {
   let result = {};
-  let path   = parsedUrl.pathname;
+  let path = parsedUrl.pathname;
   // uncomment this line if you need parameters
   let param = parsedUrl.query || {};
 
@@ -24,15 +24,15 @@ module.exports = new Parser(function analyseEC(parsedUrl, ec) {
   if (/^\/article\.php$/i.test(path)) {
     // https://new.cwk.com.tw/article.php?db=cw&id=40187&flag=1
     //  https://new.cwk.com.tw/article.php?db=cheers&id=11991&flag=1
-    result.rtype    = 'ARTICLE';
-    result.mime     = 'HTML';
+    result.rtype = 'ARTICLE';
+    result.mime = 'HTML';
     result.db_id = param.db;
     result.unitid = param.id;
 
   } else if (/^\/result\.php$/i.test(path)) {
     // https://new.cwk.com/result.php
-    result.rtype    = 'SEARCH';
-    result.mime     = 'HTML';
+    result.rtype = 'SEARCH';
+    result.mime = 'HTML';
   }
 
   return result;
