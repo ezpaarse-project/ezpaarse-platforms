@@ -1,0 +1,14 @@
+{
+  "longname": "CWK",
+  "name": "cwk",
+  "describe": "Recognizes the accesses to the platform CWK",
+  "contact": "Sean Duffy",
+  "pkb": false,
+  "docurl": "http://analyses.ezpaarse.org/platforms/652eb63cae03c120f625f0b9",
+  "domains": [
+    "new.cwk.com",
+    "new.cwk.com.tw"
+  ],
+  "version": "2023-11-15",
+  "status": "beta"
+}

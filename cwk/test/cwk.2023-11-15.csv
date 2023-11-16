@@ -1,0 +1,4 @@
+out-db_id;out-unitid;out-rtype;out-mime;in-url
+;;SEARCH;HTML;https://new.cwk.com/result.php
+cw;40187;ARTICLE;HTML;https://new.cwk.com.tw/article.php?db=cw&id=40187&flag=1
+cheers;11991;ARTICLE;HTML;https://new.cwk.com.tw/article.php?db=cheers&id=11991&flag=1
