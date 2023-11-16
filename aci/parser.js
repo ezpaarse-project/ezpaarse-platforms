@@ -12,7 +12,7 @@ const Parser = require('../.lib/parser.js');
  */
 module.exports = new Parser(function analyseEC(parsedUrl, ec) {
   let result = {};
-  let path   = parsedUrl.pathname;
+  let path = parsedUrl.pathname;
   // uncomment this line if you need parameters
   let param = parsedUrl.query || {};
 
@@ -24,29 +24,29 @@ module.exports = new Parser(function analyseEC(parsedUrl, ec) {
   if (/^\/publications\/getarticle\.aspx$/i.test(path)) {
     // https://www.concrete.org/publications/getarticle.aspx?m=icap&pubid=51738829
     // https://www.concrete.org/publications/getarticle.aspx?m=icap&pubid=51739193
-    result.rtype    = 'ARTICLE';
-    result.mime     = 'PDF';
+    result.rtype = 'ARTICLE';
+    result.mime = 'PDF';
     result.unitid = param.pubid;
 
   } else if (/^\/publications\/internationalconcreteabstractsportal\.aspx$/i.test(path) && param.id) {
     // https://www.concrete.org/publications/internationalconcreteabstractsportal.aspx?m=details&id=51739193
-    result.rtype    = 'ABS';
-    result.mime     = 'HTML';
-    result.unitid   = param.id;
+    result.rtype = 'ABS';
+    result.mime = 'HTML';
+    result.unitid = param.id;
   } else if ((match = /^\/publications\/([a-z]+)\/currentissue\.aspx$/i.exec(path)) !== null) {
     // https://www.concrete.org/publications/acistructuraljournal/currentissue.aspx
     // https://www.concrete.org/publications/acimaterialsjournal/currentissue.aspx
-    result.rtype    = 'TOC';
-    result.mime     = 'HTML';
-    result.unitid   = match[1];
-  } else if ((match = /^\/education\/([a-z]+)\/completelisting\.aspx$/i.exec(path)) !== null) {
+    result.rtype = 'TOC';
+    result.mime = 'HTML';
+    result.unitid = match[1];
+  } else if ((match = /^\/education\/[a-z]+\/completelisting\.aspx$/i.exec(path)) !== null) {
     // https://www.concrete.org/education/freewebsessions/completelisting.aspx
-    result.rtype    = 'TOC';
-    result.mime     = 'HTML';
+    result.rtype = 'TOC';
+    result.mime = 'HTML';
   } else if (/^\/publications\/internationalconcreteabstractsportal\.aspx$/i.test(path)) {
     // https://www.concrete.org/publications/internationalconcreteabstractsportal.aspx?m=results
-    result.rtype    = 'SEARCH';
-    result.mime     = 'HTML';
+    result.rtype = 'SEARCH';
+    result.mime = 'HTML';
   }
 
   return result;
