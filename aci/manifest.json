@@ -1,0 +1,13 @@
+{
+  "longname": "American Concrete Institute",
+  "name": "aci",
+  "describe": "Recognizes the accesses to the platform American Concrete Institute",
+  "contact": "Violita Kovchegov",
+  "pkb": false,
+  "docurl": "http://analyses.ezpaarse.org/platforms/6532e232ef9310fb39b50769",
+  "domains": [
+    "www.concrete.org"
+  ],
+  "version": "2023-11-15",
+  "status": "beta"
+}
