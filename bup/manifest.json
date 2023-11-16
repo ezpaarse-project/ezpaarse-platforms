@@ -1,0 +1,14 @@
+{
+  "longname": "Bristol University Press Digital",
+  "name": "bup",
+  "describe": "Recognizes the accesses to the platform Bristol University Press Digital",
+  "contact": "Violita Kovchegov, Karen Coombs",
+  "pkb": false,
+  "docurl": "http://analyses.ezpaarse.org/platforms/652e9709cc59f04a297ddd70",
+  "domains": [
+    "bristoluniversitypressdigital.com",
+    "bristoluniversitypressdigital-com"
+  ],
+  "version": "2023-11-15",
+  "status": "beta"
+}
