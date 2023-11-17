@@ -34,14 +34,6 @@ module.exports = new Parser(function analyseEC(parsedUrl, ec) {
     result.rtype    = 'RECORD';
     result.mime     = 'HTML';
     result.unitid   = match[1];
-  } else if ((match = /^\/(genero|novedad)(\/(([0-9]+)\/([a-z]+)))?$/i.exec(path)) !== null) {
-    // https://www.digitaliafilmlibrary.com/genero/2/Action
-    // https://www.digitaliafilmlibrary.com/genero/4/Adventure
-    // https://www.digitaliafilmlibrary.com/genero/3/Animation
-    // https://www.digitaliafilmlibrary.com/novedad
-    result.rtype    = 'TOC';
-    result.mime     = 'HTML';
-    result.unitid   = match[3];
   } else if (/^\/sa$/i.test(path)) {
     // https://www.digitaliafilmlibrary.com/sa
     result.rtype    = 'SEARCH';
