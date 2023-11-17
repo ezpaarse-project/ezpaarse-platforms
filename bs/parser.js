@@ -21,26 +21,33 @@ module.exports = new Parser(function analyseEC(parsedUrl, ec) {
 
   let match;
 
-  if ((match = /^\/platform\/path\/to\/(document-([0-9]+)-test\.pdf)$/i.exec(path)) !== null) {
-    // http://parser.skeleton.js/platform/path/to/document-123456-test.pdf?sequence=1
+  if ((match = /^\/article\/([0-9]+)$/i.exec(path)) !== null) {
+    // https://www.eurekaselect.com/article/127389
+    // https://www.eurekaselect.com/article/121184
     result.rtype    = 'ARTICLE';
     result.mime     = 'PDF';
-    result.title_id = match[1];
+    result.unitid = match[1];
 
-    /**
-     * unitid is a crucial information needed to filter double-clicks phenomenon, like described by COUNTER
-     * it described the most fine-grained of what's being accessed by the user
-     * it can be a DOI, an internal identifier or a part of the accessed URL
-     * more at http://ezpaarse.readthedocs.io/en/master/essential/ec-attributes.html#unitid
-     */
-    result.unitid = match[2];
-
-  } else if ((match = /^\/platform\/path\/to\/(document-([0-9]+)-test\.html)$/i.exec(path)) !== null) {
-    // http://parser.skeleton.js/platform/path/to/document-123456-test.html?sequence=1
-    result.rtype    = 'ARTICLE';
+  } else if ((match = /^\/ebook_volume\/([0-9]+)$/i.exec(path)) !== null) {
+    // https://www.eurekaselect.com/ebook_volume/863
+    result.rtype    = 'BOOK';
+    result.mime     = 'PDF';
+    result.unitid   = match[1];
+  } else if ((match = /^\/issue\/([0-9]+)$/i.exec(path)) !== null) {
+    // https://www.eurekaselect.com/issue/6135
+    result.rtype    = 'ISSUE';
     result.mime     = 'HTML';
-    result.title_id = match[1];
-    result.unitid   = match[2];
+    result.unitid   = match[1];
+  } else if ((match = /^\/journal\/([0-9]+)$/i.exec(path)) !== null) {
+    // https://www.eurekaselect.com/journal/2
+    result.rtype    = 'TOC';
+    result.mime     = 'HTML';
+    result.unitid   = match[1];
+  } else if ((match = /^\/bybook\/([0-9]+)$/i.exec(path)) !== null) {
+    // https://www.eurekaselect.com/bybook/2008
+    result.rtype    = 'SEARCH';
+    result.mime     = 'HTML';
+    result.unitid   = match[1];
   }
 
   return result;
