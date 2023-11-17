@@ -14,33 +14,64 @@ module.exports = new Parser(function analyseEC(parsedUrl, ec) {
   let result = {};
   let path   = parsedUrl.pathname;
   // uncomment this line if you need parameters
-  // let param = parsedUrl.query || {};
+  let param = parsedUrl.query || {};
 
   // use console.error for debuging
   // console.error(parsedUrl);
 
   let match;
 
-  if ((match = /^\/platform\/path\/to\/(document-([0-9]+)-test\.pdf)$/i.exec(path)) !== null) {
-    // http://parser.skeleton.js/platform/path/to/document-123456-test.pdf?sequence=1
+  if (/^\/Tools\/(PreperingPDF|DownloadPDF)$/i.test(path)) {
+    // https://platform.almanhal.com/Tools/PreperingPDF?Org=13441&StartPage=1&EndPage=19&_=1698085040614
+    //https://platform.almanhal.com/Tools/DownloadPDF?id=2310230921332123506&fileName=The+Silence+of+Gifted+Women++An+Analytical+Study+of+Virgi....zip
     result.rtype    = 'ARTICLE';
     result.mime     = 'PDF';
-    result.title_id = match[1];
+    if (param.fileName) {
+      result.title_id = param.fileName;
+    }
+    if (param.id) {
+      result.unitid = param.id;
+    } else if (param.Org) {
+      result.unitid = param.Org;
+    }
 
-    /**
-     * unitid is a crucial information needed to filter double-clicks phenomenon, like described by COUNTER
-     * it described the most fine-grained of what's being accessed by the user
-     * it can be a DOI, an internal identifier or a part of the accessed URL
-     * more at http://ezpaarse.readthedocs.io/en/master/essential/ec-attributes.html#unitid
-     */
-    result.unitid = match[2];
+    if (param.StartPage) {
+      result.first_page = param.StartPage;
+    }
 
-  } else if ((match = /^\/platform\/path\/to\/(document-([0-9]+)-test\.html)$/i.exec(path)) !== null) {
-    // http://parser.skeleton.js/platform/path/to/document-123456-test.html?sequence=1
+    if (param.EndPage) {
+      result.last_page = param.EndPage;
+    }
+
+  } else if ((match = /^\/Reader\/Article\/([0-9]+)$/i.exec(path)) !== null) {
+    // https://platform.almanhal.com/Reader/Article/123506
+    // https://platform.almanhal.com/Reader/Article/13441
     result.rtype    = 'ARTICLE';
     result.mime     = 'HTML';
-    result.title_id = match[1];
-    result.unitid   = match[2];
+    result.unitid   = match[1];
+
+  } else if ((match = /^\/Reader\/Thesis\/([0-9]+)$/i.exec(path)) !== null) {
+    // https://platform.almanhal.com/Reader/Thesis/48454
+    // https://platform.almanhal.com/Reader/Thesis/45982?search=Virginia%20Woolf
+    result.rtype    = 'MASTER_THESIS';
+    result.mime     = 'HTML';
+    result.unitid   = match[1];
+  } else if ((match = /^\/Reader\/Book\/([0-9]+)$/i.exec(path)) !== null) {
+    // https://platform.almanhal.com/Reader/Book/2269
+    // https://platform.almanhal.com/Reader/Book/121352
+    result.rtype    = 'BOOK';
+    result.mime     = 'HTML';
+    result.unitid   = match[1];
+  } else if (/^\/Browse\/Subject$/i.test(path)) {
+    // https://platform.almanhal.com/Browse/Subject
+    result.rtype    = 'TOC';
+    result.mime     = 'HTML';
+  } else if (/^\/Search\/Result$/i.test(path)) {
+    // https://platform.almanhal.com/Search/Result?q=&f_maintopics_ids=89%5B%7C%7C%5D102%5B%7C%7C%5D94%5B%7C%7C%5D925%5B%7C%7C%5D938%5B%7C%7C%5D9%5B%7C%7C%5D20%5B%7C%7C%5D13%5B%7C%7C%5D26%5B%7C%7C%5D27%5B%7C%7C%5D66%5B%7C%7C%5D63%5B%7C%7C%5D45&sf_40_1_2=%D8%A7%D9%84%D8%A3%D8%AF%D8%A8%20%D9%88%D8%A7%D9%84%D9%84%D8%BA%D8%A9
+    // https://platform.almanhal.com/Search/Result?q=&sf_40_0_2=%d8%a7%d9%84%d8%a3%d8%af%d8%a8+%d9%88%d8%a7%d9%84%d9%84%d8%ba%d8%a9&f_maintopics_ids=89%5b%7c%7c%5d102%5b%7c%7c%5d94%5b%7c%7c%5d925%5b%7c%7c%5d938%5b%7c%7c%5d9%5b%7c%7c%5d20%5b%7c%7c%5d13%5b%7c%7c%5d26%5b%7c%7c%5d27%5b%7c%7c%5d66%5b%7c%7c%5d63%5b%7c%7c%5d45&f_language_exact_loc_ar=%d8%a7%d9%84%d8%a5%d8%b3%d8%a8%d8%a7%d9%86%d9%8a%d8%a9%5b%7c%7c%5d%d8%a7%d9%84%d8%a5%d9%86%d8%ac%d9%84%d9%8a%d8%b2%d9%8a%d8%a9&opf_language_exact_loc_ar=2&voa=1
+
+    result.rtype    = 'SEARCH';
+    result.mime     = 'HTML';
   }
 
   return result;
