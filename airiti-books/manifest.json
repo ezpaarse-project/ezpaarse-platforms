@@ -1,0 +1,13 @@
+{
+  "longname": "Airiti Books",
+  "name": "airiti-books",
+  "describe": "Recognizes the accesses to the platform Airiti Books",
+  "contact": "Violita Kovchegov",
+  "pkb": false,
+  "docurl": "http://analyses.ezpaarse.org/platforms/65329738fb76be6e29dcf884",
+  "domains": [
+    "www.airitibooks.com"
+  ],
+  "version": "2023-11-17",
+  "status": "beta"
+}
