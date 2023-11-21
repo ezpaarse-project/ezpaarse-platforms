@@ -1,0 +1,13 @@
+{
+  "longname": "American Academy of Pediatrics",
+  "name": "aap",
+  "describe": "Recognizes the accesses to the platform American Academy of Pediatrics",
+  "contact": "Anna Orben, Violita Kovchegov",
+  "pkb": false,
+  "docurl": "http://analyses.ezpaarse.org/platforms/6308f781c92edb018436d323",
+  "domains": [
+    "publications.aap.org"
+  ],
+  "version": "2023-11-20",
+  "status": "beta"
+}
