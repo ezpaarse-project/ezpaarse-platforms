@@ -1,0 +1,13 @@
+{
+  "longname": "Webpat",
+  "name": "wp",
+  "describe": "Recognizes the accesses to the platform Webpat",
+  "contact": "Violita Kovchegov",
+  "pkb": false,
+  "docurl": "http://analyses.ezpaarse.org/platforms/653687a7209008e78ca0db1c",
+  "domains": [
+    "webpat.tw"
+  ],
+  "version": "2023-11-17",
+  "status": "beta"
+}
