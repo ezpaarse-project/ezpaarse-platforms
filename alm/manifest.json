@@ -1,0 +1,13 @@
+{
+  "longname": "Al-Manhal Electronic Library",
+  "name": "alm",
+  "describe": "Recognizes the accesses to the platform Al-Manhal Electronic Library",
+  "contact": "Violita Kovchegov",
+  "pkb": false,
+  "docurl": "http://analyses.ezpaarse.org/platforms/6536b7fe67fa00363b75531c",
+  "domains": [
+    "platform.almanhal.com"
+  ],
+  "version": "2023-11-17",
+  "status": "beta"
+}
