@@ -1,0 +1,13 @@
+{
+  "longname": "Digitalia Film",
+  "name": "df",
+  "describe": "Recognizes the accesses to the platform Digitalia Film",
+  "contact": "Violita Kovchegov",
+  "pkb": false,
+  "docurl": "http://analyses.ezpaarse.org/platforms/651739de5feacc4664c4ca08",
+  "domains": [
+    "www.digitaliafilmlibrary.com"
+  ],
+  "version": "2023-10-26",
+  "status": "beta"
+}
