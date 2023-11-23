@@ -12,7 +12,7 @@ const Parser = require('../.lib/parser.js');
  */
 module.exports = new Parser(function analyseEC(parsedUrl, ec) {
   let result = {};
-  let path   = parsedUrl.pathname;
+  let path = parsedUrl.pathname;
   // uncomment this line if you need parameters
   // let param = parsedUrl.query || {};
 
@@ -24,30 +24,30 @@ module.exports = new Parser(function analyseEC(parsedUrl, ec) {
   if ((match = /^\/article\/([0-9]+)$/i.exec(path)) !== null) {
     // https://www.eurekaselect.com/article/127389
     // https://www.eurekaselect.com/article/121184
-    result.rtype    = 'ARTICLE';
-    result.mime     = 'PDF';
+    result.rtype = 'ARTICLE';
+    result.mime = 'PDF';
     result.unitid = match[1];
 
   } else if ((match = /^\/ebook_volume\/([0-9]+)$/i.exec(path)) !== null) {
     // https://www.eurekaselect.com/ebook_volume/863
-    result.rtype    = 'BOOK';
-    result.mime     = 'PDF';
-    result.unitid   = match[1];
+    result.rtype = 'BOOK';
+    result.mime = 'PDF';
+    result.unitid = match[1];
   } else if ((match = /^\/issue\/([0-9]+)$/i.exec(path)) !== null) {
     // https://www.eurekaselect.com/issue/6135
-    result.rtype    = 'ISSUE';
-    result.mime     = 'HTML';
-    result.unitid   = match[1];
+    result.rtype = 'ISSUE';
+    result.mime = 'HTML';
+    result.unitid = match[1];
   } else if ((match = /^\/journal\/([0-9]+)$/i.exec(path)) !== null) {
     // https://www.eurekaselect.com/journal/2
-    result.rtype    = 'TOC';
-    result.mime     = 'HTML';
-    result.unitid   = match[1];
+    result.rtype = 'TOC';
+    result.mime = 'HTML';
+    result.unitid = match[1];
   } else if ((match = /^\/bybook\/([0-9]+)$/i.exec(path)) !== null) {
     // https://www.eurekaselect.com/bybook/2008
-    result.rtype    = 'SEARCH';
-    result.mime     = 'HTML';
-    result.unitid   = match[1];
+    result.rtype = 'SEARCH';
+    result.mime = 'HTML';
+    result.unitid = match[1];
   }
 
   return result;
