@@ -1,0 +1,13 @@
+{
+  "longname": "Bentham Science",
+  "name": "bs",
+  "describe": "Recognizes the accesses to the platform Bentham Science",
+  "contact": "Violita Kovchegov",
+  "pkb": false,
+  "docurl": "http://analyses.ezpaarse.org/platforms/5435118bbacb0c0741736b98",
+  "domains": [
+    "www.eurekaselect.com"
+  ],
+  "version": "2023-11-17",
+  "status": "beta"
+}
