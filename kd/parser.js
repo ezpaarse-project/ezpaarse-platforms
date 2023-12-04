@@ -26,8 +26,8 @@ module.exports = new Parser(function analyseEC(parsedUrl, ec) {
     // https://kinoden.kinokuniya.co.jp/aUnivLibrary/bookdetail/p/KP00065110 - AUDIO/HTML
     // https://kinoden.kinokuniya.co.jp/aUnivLibrary/bookdetail/p/KP00019593 - ARTICLE/EPUB
     // https://kinoden.kinokuniya.co.jp/aUnivLibrary/bookdetail/p/KP00036445 - ARTICLE/PDF
-    result.rtype    = 'ARTICLE';
-    result.mime     = 'PDF';
+    result.rtype    = 'RECORD';
+    result.mime     = 'HTML';
     result.unitid = match[1];
 
   } else if ((match = /^\/book\/p\/([a-z0-9]+)$/i.exec(path)) !== null) {
