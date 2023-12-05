@@ -1,0 +1,15 @@
+{
+  "longname": "Clinical Skills",
+  "name": "cs",
+  "describe": "Recognizes the accesses to the platform Clinical Skills",
+  "contact": "Violita Kovchegov",
+  "pkb": false,
+  "docurl": "http://analyses.ezpaarse.org/platforms/653981fa3957ce1dbd80761c",
+  "domains": [
+    "point.of.care.elsevierperformancemanager.com",
+    "mns.progressivecontent.elsevierperformancemanager.com",
+    "mns.content.elsevierperformancemanager.com"
+  ],
+  "version": "2023-12-04",
+  "status": "beta"
+}
