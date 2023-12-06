@@ -36,7 +36,7 @@ module.exports = new Parser(function analyseEC(parsedUrl, ec) {
     result.rtype    = 'BOOK';
     result.mime     = 'HTML';
     result.unitid   = match[1];
-  } else if (/^\/aUnivLibrary\/search\/([a-z0-9=/]+)$/i.test(path)) {
+  } else if (/^\/aUnivLibrary\/search\/[a-z0-9=/]+$/i.test(path)) {
     // https://kinoden.kinokuniya.co.jp/aUnivLibrary/search/eyJkZXRhaWxzIjp7ImZvcm1hdCI6WyI0Il0sInR5cGUiOlsiMSIsIjIiXX0sImlzRGV0YWlsIjp0cnVlLCJvcmRlckJ5U2NvcmUiOjB9/Kg==/MA==
     // https://kinoden.kinokuniya.co.jp/aUnivLibrary/search/eyJkZXRhaWxzIjp7InRpdGxlIjoi6Zu75rCXIiwiZm9ybWF0IjpbIjEiLCIyIiwiMyIsIjQiXSwidHlwZSI6WyIxIiwiMiJdfSwiaXNEZXRhaWwiOnRydWUsImlzTW9iaWxlRmlsdGVyT3BlbiI6ZmFsc2UsIm9yZGVyQnlTY29yZSI6MCwib25seUxpYnJhcnkiOmZhbHNlLCJhdXRob3IiOiIiLCJwdWJsaXNoZXIiOiIiLCJzZXJpZXMiOiIiLCJwdWJZZWFyIjoiIiwibmRjIjoiIiwiZm9ybWF0IjoiMSIsInR5cGUiOiIiLCJ0dHMiOmZhbHNlLCJkb3dubG9hZCI6ZmFsc2V9/Kg==/MA==
     // https://kinoden.kinokuniya.co.jp/aUnivLibrary/search/eyJkZXRhaWxzIjp7ImZvcm1hdCI6WyIzIl0sInR5cGUiOlsiMSIsIjIiXX0sImlzRGV0YWlsIjp0cnVlLCJvcmRlckJ5U2NvcmUiOjB9/Kg==/MA==
