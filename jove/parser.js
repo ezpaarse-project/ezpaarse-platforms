@@ -86,32 +86,26 @@ module.exports = new Parser(function analyseEC(parsedUrl, ec) {
     result.mime   = 'MISC';
     result.unitid = match[1];
 
-  } else if (/^\/search$/i.test(path) && param.content_type == '') {
-    // https://www.jove.com/search?query=covid&content_type=&page=1
+  } else if (/^(\/api\/free)?\/search\/?$/i.test(path)) {
+    // /search?query=covid&content_type=&page=1
+    // /api/free/search/?query=automobiles&content_type=journal_content&page=1&from=&to=
     result.rtype  = 'SEARCH';
     result.mime   = 'HTML';
 
-  } else if (/^\/search$/i.test(path)) {
-    // /search?q=aluminum&filter_type_1=and&filter_type_2=or&filter_type_3=not&exclude_sections=0+1+2+4+11+12+14+15+16+17+18+19+20+28+29+30+32+33+34+35+36+37+38+39+40+41+42+43+44+45+46+47+48+49+50+51+52+53+54+55+56+57+58
-    result.rtype  = 'SEARCH';
-    result.mime   = 'MISC';
   } else if ((match = /^\/api\/article\/pdf\/([0-9]+)$/i.exec(path)) !== null) {
     // /api/article/pdf/64404
     result.rtype = 'ARTICLE';
     result.mime = 'PDF';
     result.unitid = match[1];
     result.doi = `${doiPrefix}/${match[1]}`;
+
   } else if ((match = /^\/api\/free\/article\/[a-z]+\/([0-9]+)$/i.exec(path)) !== null) {
     // /api/free/article/en/53631
     result.rtype = 'ARTICLE';
     result.mime = 'HTML';
     result.unitid = match[1];
     result.doi = `${doiPrefix}/${match[1]}`;
-  } else if (/^\/api\/free\/search\/$/i.test(path)) {
-    // /api/free/search/?query=automobiles&content_type=journal_content&page=1&from=&to=
-    // /api/free/search/?query=automobiles&content_type=scied_content&page=1&from=&to=
-    result.rtype = 'SEARCH';
-    result.mime = 'HTML';
+
   }
   return result;
 });
