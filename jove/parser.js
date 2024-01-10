@@ -30,10 +30,11 @@ module.exports = new Parser(function analyseEC(parsedUrl, ec) {
       result.rtype = 'VIDEO';
       result.mime  = 'MISC';
     }
-  } else if ((match = /^\/(v|t)\/([0-9]+)\/[a-z0-9-]+$/i.exec(path)) !== null) {
+  } else if ((match = /^\/(?:[a-z]{2}\/)?(v|t)\/([0-9]+)\/[a-z0-9-]+$/i.exec(path)) !== null) {
     // https://www.jove.com/v/64425/a-soluble-tetrazolium-based-reduction-assay-to-evaluate-the-effect-of-antibodies-on-candida-tropicalis-biofilms
-    result.rtype = 'ARTICLE';
-    result.mime  = 'HTML';
+
+    result.rtype = match[1] === 'v' ? 'VIDEO' : 'ARTICLE';
+    result.mime  = match[1] === 'v' ? 'MISC' : 'HTML';
     result.unitid = match[2];
     result.doi    = `${doiPrefix}/${match[2]}`;
 
@@ -86,7 +87,7 @@ module.exports = new Parser(function analyseEC(parsedUrl, ec) {
     result.mime   = 'MISC';
     result.unitid = match[1];
 
-  } else if (/^(\/api\/free)?\/search\/?$/i.test(path)) {
+  } else if (/^(\/api\/free|\/[a-z]{2})?\/search\/?$/i.test(path)) {
     // /search?query=covid&content_type=&page=1
     // /api/free/search/?query=automobiles&content_type=journal_content&page=1&from=&to=
     result.rtype  = 'SEARCH';
