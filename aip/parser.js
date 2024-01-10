@@ -10,6 +10,7 @@ const Parser = require('../.lib/parser.js');
 module.exports = new Parser(function analyseEC(parsedUrl) {
   let result = {};
   let path   = parsedUrl.pathname;
+  let param = parsedUrl.query || {};
   let match;
 
   if ((match = /^\/docserver\/(?:[^/]+\/)?fulltext\/[a-z]+\/journal\/([a-z0-9]+)\/[0-9]+\/[0-9]+\/([0-9.]+\.(pdf|html))$/i.exec(path)) !== null) {
@@ -105,6 +106,20 @@ module.exports = new Parser(function analyseEC(parsedUrl) {
     result.unitid   = match[2];
     result.rtype    = 'IMAGE';
     result.mime     = 'GIF';
+
+  } else if ((match = /^\/([a-z]+)\/ajp\/PlatformArticle\/ArticleAbstractAjax$/i.exec(path)) !== null) {
+    // https://pubs.aip.org/aapt/ajp/PlatformArticle/ArticleAbstractAjax?articleId=2922148&layAbstract=false
+    result.title_id = match[1];
+    result.unitid = param.articleId;
+    result.rtype = 'ABS';
+    result.mime = 'HTML';
+
+  } else if ((match = /^\/([a-z]+)\/ajp\/issue$/i.exec(path)) !== null) {
+    // https://pubs.aip.org/aapt/ajp/issue
+    result.unitid = match[1];
+    result.rtype = 'TOC';
+    result.mime = 'HTML';
+
   } else if (/^\/search-results$/i.test(path)) {
     //https://pubs.aip.org/search-results?page=1&q=rocks
     result.rtype = 'SEARCH';
