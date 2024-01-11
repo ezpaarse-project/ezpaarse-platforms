@@ -71,20 +71,20 @@ module.exports = new Parser(function analyseEC(parsedUrl) {
       break;
     }
 
-  } else if ((match = /^\/aip\/([a-z]+)\/article-pdf\/doi\/(10\.[0-9]+\/([a-z0-9.]+))\/[0-9]+\/[0-9._]+\.pdf$/i.exec(path)) !== null) {
+  } else if ((match = /^\/[a-z]+\/([a-z]+)\/article-pdf\/doi\/(10\.[0-9]+\/([a-z0-9.]+))\/[0-9]+\/[0-9._]+\.pdf$/i.exec(path)) !== null) {
     // https://pubs.aip.org/aip/acp/article-pdf/doi/10.1063/5.0164351/18116273/020004_1_5.0164351.pdf
     result.rtype = 'ARTICLE';
     result.mime  = 'PDF';
     result.title_id = match[1];
     result.doi = match[2];
     result.unitid = match[3];
-  } else if ((match = /^\/aip\/([a-z]+)\/article-pdf\/[0-9]+\/([0-9._]+)\.pdf$/i.exec(path)) !== null) {
+  } else if ((match = /^\/[a-z]+\/([a-z]+)\/article-pdf\/[0-9]+\/([0-9._]+)\.pdf$/i.exec(path)) !== null) {
     // https://pubs.aip.org/aip/acp/article-pdf/18146317/020023_1_5.0167690.pdf
     result.rtype = 'ARTICLE';
     result.mime  = 'PDF';
     result.title_id = match[1];
     result.unitid = match[2];
-  } else if ((match = /^\/aip\/([a-z]+)\/article\/([0-9]+)\/([0-9]+)\/[0-9]+\/([0-9]+)\/[a-z-]+$/i.exec(path)) !== null) {
+  } else if ((match = /^\/[a-z]+\/([a-z]+)\/article\/([0-9]+)\/([0-9]+)\/[0-9]+\/([0-9]+)\/[a-z-]+$/i.exec(path)) !== null) {
     //https://pubs.aip.org/aip/acp/article/2872/1/120047/2913626/Brain-activity-vs-seismicity-Scaling-and-memory?searchresult=1
     result.rtype = 'ARTICLE';
     result.mime  = 'HTML';
@@ -92,7 +92,7 @@ module.exports = new Parser(function analyseEC(parsedUrl) {
     result.vol  = match[2];
     result.issue = match[3];
     result.unitid = match[4];
-  } else if ((match = /^\/aip\/([a-z]+)\/article-abstract\/([0-9]+)\/([0-9]+)\/[0-9]+\/([0-9]+)\/[a-z-]+$/i.exec(path)) !== null) {
+  } else if ((match = /^\/[a-z]+\/([a-z]+)\/article-abstract\/([0-9]+)\/([0-9]+)\/[0-9]+\/([0-9]+)\/[a-z-]+$/i.exec(path)) !== null) {
     //https://pubs.aip.org/aip/acp/article-abstract/2845/1/050013/2911196/Brain-cancer-detection-in-the-MRI-using-the?redirectedFrom=fulltext
     result.rtype = 'ABS';
     result.mime = 'HTML';
@@ -107,15 +107,16 @@ module.exports = new Parser(function analyseEC(parsedUrl) {
     result.rtype    = 'IMAGE';
     result.mime     = 'GIF';
 
-  } else if ((match = /^\/([a-z]+)\/ajp\/PlatformArticle\/ArticleAbstractAjax$/i.exec(path)) !== null) {
+  } else if ((match = /^\/([a-z]+)\/[a-z]+\/PlatformArticle\/ArticleAbstractAjax$/i.exec(path)) !== null) {
     // https://pubs.aip.org/aapt/ajp/PlatformArticle/ArticleAbstractAjax?articleId=2922148&layAbstract=false
     result.title_id = match[1];
     result.unitid = param.articleId;
     result.rtype = 'ABS';
     result.mime = 'HTML';
 
-  } else if ((match = /^\/([a-z]+)\/ajp\/issue$/i.exec(path)) !== null) {
+  } else if ((match = /^\/([a-z]+)\/[a-z]+\/issue(\/[0-9]+\/[0-9]+)?$/i.exec(path)) !== null) {
     // https://pubs.aip.org/aapt/ajp/issue
+    // https://pubs.aip.org/aapt/ajp/issue/91/1
     result.unitid = match[1];
     result.rtype = 'TOC';
     result.mime = 'HTML';
