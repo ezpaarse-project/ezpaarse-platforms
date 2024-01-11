@@ -107,14 +107,14 @@ module.exports = new Parser(function analyseEC(parsedUrl) {
     result.rtype    = 'IMAGE';
     result.mime     = 'GIF';
 
-  } else if ((match = /^\/([a-z]+)\/[a-z]+\/PlatformArticle\/ArticleAbstractAjax$/i.exec(path)) !== null) {
+  } else if ((match = /^\/[a-z]+\/([a-z]+)\/PlatformArticle\/ArticleAbstractAjax$/i.exec(path)) !== null) {
     // https://pubs.aip.org/aapt/ajp/PlatformArticle/ArticleAbstractAjax?articleId=2922148&layAbstract=false
     result.title_id = match[1];
     result.unitid = param.articleId;
     result.rtype = 'ABS';
     result.mime = 'HTML';
 
-  } else if ((match = /^\/([a-z]+)\/[a-z]+\/issue(\/[0-9]+\/[0-9]+)?$/i.exec(path)) !== null) {
+  } else if ((match = /^\/[a-z]+\/([a-z]+)\/issue(\/[0-9]+\/[0-9]+)?$/i.exec(path)) !== null) {
     // https://pubs.aip.org/aapt/ajp/issue
     // https://pubs.aip.org/aapt/ajp/issue/91/1
     result.unitid = match[1];
