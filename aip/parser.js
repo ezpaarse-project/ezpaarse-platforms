@@ -117,7 +117,8 @@ module.exports = new Parser(function analyseEC(parsedUrl) {
   } else if ((match = /^\/[a-z]+\/([a-z]+)\/issue(\/[0-9]+\/[0-9]+)?$/i.exec(path)) !== null) {
     // https://pubs.aip.org/aapt/ajp/issue
     // https://pubs.aip.org/aapt/ajp/issue/91/1
-    result.unitid = match[1];
+    result.title_id = match[1];
+    result.unitid = `${match[1]}${match[2] || ''}`;
     result.rtype = 'TOC';
     result.mime = 'HTML';
 
