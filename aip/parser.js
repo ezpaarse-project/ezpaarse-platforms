@@ -122,8 +122,9 @@ module.exports = new Parser(function analyseEC(parsedUrl) {
     result.rtype = 'TOC';
     result.mime = 'HTML';
 
-  } else if (/^\/search-results$/i.test(path)) {
-    //https://pubs.aip.org/search-results?page=1&q=rocks
+  } else if (/^\/search-results$/i.test(path) || /^\/Solr\/SolrSearch\/SearchResults$/i.test(path)) {
+    // https://pubs.aip.org/search-results?page=1&q=rocks
+    // https://pubs.aip.org/Solr/SolrSearch/SearchResults?q=brain&fl_SiteID=1&qb={%22q%22:%22brain%22}&page=1
     result.rtype = 'SEARCH';
     result.mime = 'HTML';
   }
