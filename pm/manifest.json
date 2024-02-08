@@ -4,6 +4,7 @@
   "domains": [
     "www.policymap.com",
     "emory.policymap.com",
+    "uthscsa.policymap.com",
     "policymap.com"
   ],
   "recognize": {
