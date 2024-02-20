@@ -1,0 +1,13 @@
+{
+  "longname": "Theses.fr",
+  "name": "thesesfr",
+  "describe": "Recognizes the accesses to the platform Theses.fr",
+  "contact": "thomas.porquet, Sonia Salami",
+  "pkb": false,
+  "docurl": "http://analyses.ezpaarse.org/platforms/6551f4d2bfb51d277b8c4def",
+  "domains": [
+    "beta.theses.fr"
+  ],
+  "version": "2024-01-09",
+  "status": "beta"
+}

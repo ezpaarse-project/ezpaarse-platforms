@@ -2,7 +2,8 @@
   "version": "2017-07-05",
   "status": "beta",
   "domains": [
-    "www.jove.com"
+    "www.jove.com",
+    "app.jove.com"
   ],
   "name": "jove",
   "longname": "Jove",

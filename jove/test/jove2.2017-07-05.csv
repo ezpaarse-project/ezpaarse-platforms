@@ -11,4 +11,7 @@ out-doi;out-unitid;out-rtype;out-mime;out-issue;in-url
 ;archive;TOC;MISC;;http://www.jove.com/archive
 ;112;TOC;MISC;112;http://www.jove.com/archive/112/june-2016
 ;16242-university-of-california-irvine;TOC;MISC;;http://www.jove.com/institutions/NA-north-america/US-united-states/CA-california/16242-university-of-california-irvine
-;;SEARCH;MISC;;https://www.jove.com/search?q=aluminum&filter_type_1=and&filter_type_2=or&filter_type_3=not&exclude_sections=0+1+2+4+11+12+14+15+16+17+18+19+20+28+29+30+32+33+34+35+36+37+38+39+40+41+42+43+44+45+46+47+48+49+50+51+52+53+54+55+56+57+58
+;;SEARCH;HTML;;https://www.jove.com/search?q=aluminum&filter_type_1=and&filter_type_2=or&filter_type_3=not&exclude_sections=0+1+2+4+11+12+14+15+16+17+18+19+20+28+29+30+32+33+34+35+36+37+38+39+40+41+42+43+44+45+46+47+48+49+50+51+52+53+54+55+56+57+58
+;;SEARCH;HTML;;https://www.jove.com/fr/search?q=passaging+cells
+10.3791/5052;5052;VIDEO;MISC;;https://app.jove.com/fr/v/5052/passaging-cells-cell-lines-subculturing-methods-and-applications
+10.3791/2236;2236;ARTICLE;HTML;;https://app.jove.com/fr/t/2236/feeder-free-adaptation-culture-and-passaging-of-human-ips-cells-using-complete-knockout-serum-replacement-feeder-free-medium

@@ -5,18 +5,18 @@
       "description": "(KBART) Identifiant interne de l'éditeur",
       "description_en": "(KBART) Publisher's internal identifier",
       "comment": "croisé avec la PKB quand elle existe",
-      "comment_en": "crossed with the PKB when it exists."
+      "comment_en": "matched against the PKB when it exists."
     },{
       "code": "print_identifier",
       "description": "(KBART) Identifiant papier (ISSN, ISBN...)",
       "description_en": "(KBART) Paper ID (ISSN, ISBN...)",
       "comment": "croisé avec la PKB quand elle existe",
-      "comment_en": "crossed with the PKB when it exists."
+      "comment_en": "matched against the PKB when it exists."
     },{
       "code": "doi",
       "description": "Digital Object Identifier",
       "comment": "Interrogé via Crossref",
-      "comment_en": "Questioned via Crossref."
+      "comment_en": "Requested via Crossref."
     },{
       "code": "ark",
       "description": "Archival Resource Key"
@@ -24,7 +24,12 @@
       "code": "pii",
       "description": "Publisher Item Identifier",
       "comment": "Interrogé via Crossref",
-      "comment_en": "Questioned via Crossref."
+      "comment_en": "Requested via Crossref."
+    },{
+      "code": "ppn",
+      "description": "Pica Production Number",
+      "comment": "Identifiant interne des bases utilisant la solution PICA d'OCLC",
+      "comment_en": "Internal identifier for databases using OCLC's PICA solution"
     },{
       "code": "online_identifier",
       "description": "(KBART) Identifiant électronique (eISSN, eISBN...)",
