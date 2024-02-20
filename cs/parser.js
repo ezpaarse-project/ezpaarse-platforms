@@ -27,7 +27,7 @@ module.exports = new Parser(function analyseEC(parsedUrl, ec) {
     result.rtype    = 'ARTICLE';
     result.mime     = 'HTML';
     result.title_id = param.skillId;
-    result.unitid = match[1] + parsedUrl.search;
+    result.unitid = match[1] + '_' + param.skillId;
 
   } else if ((match = /^\/MNSImages\/([a-z0-9_]+\/[a-z0-9_]+)\.jpg$/i.exec(path)) !== null) {
     // https://mns.content.elsevierperformancemanager.com/MNSImages/EN_004/en_004_fig1_750_v6_00.jpg
