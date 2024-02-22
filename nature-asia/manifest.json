@@ -1,0 +1,16 @@
+{
+  "longname": "Nature Asia",
+  "name": "nature-asia",
+  "describe": "Recognizes the accesses to the platform Nature Asia",
+  "contact": "Anna Orben, Violita Kovchegov",
+  "pkb": false,
+  "docurl": "http://analyses.ezpaarse.org/platforms/6303b80c1437da00523f3375",
+  "domains": [
+    "www.natureasia.com",
+    "www.nature.com",
+    "media.nature.com",
+    "resource-cms.springernature.com"
+  ],
+  "version": "2024-02-22",
+  "status": "beta"
+}
