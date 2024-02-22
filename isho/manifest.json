@@ -1,0 +1,13 @@
+{
+  "longname": "Isho",
+  "name": "isho",
+  "describe": "Recognizes the accesses to the platform Isho",
+  "contact": "Anna Orben, Violita Kovchegov",
+  "pkb": false,
+  "docurl": "http://analyses.ezpaarse.org/platforms/62f297d4c7ab7100d9f798e8",
+  "domains": [
+    "webview.isho.jp"
+  ],
+  "version": "2024-02-22",
+  "status": "beta"
+}
