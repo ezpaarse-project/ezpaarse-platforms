@@ -20,7 +20,7 @@ function getMetadata(parameter) {
  */
 module.exports = new Parser(function analyseEC(parsedUrl, ec) {
   let result = {};
-  let path   = parsedUrl.pathname;
+  let path = parsedUrl.pathname;
   // uncomment this line if you need parameters
   let param = parsedUrl.query || {};
 
@@ -34,21 +34,21 @@ module.exports = new Parser(function analyseEC(parsedUrl, ec) {
     // https://dev.medicalonline.jp/index/search?searchtarget=3&criteria=heart&perpage=10&accepted=0&accepted=1&unaccepted=0&unaccepted=1&maker_id=&from=form
     // https://mol.medicalonline.jp/library/search/result?from=form_simple&query=dog&num=20&UserID=13.236.81.23
     // https://mol.medicalonline.jp/library/ebooks/search?from=form_simple&purchased=0&query=medicine&num=20&UserID=13.236.81.23
-    result.rtype    = 'SEARCH';
-    result.mime     = 'HTML';
+    result.rtype = 'SEARCH';
+    result.mime = 'HTML';
 
   } else if ((match = /^\/tenpu_html\/iryouyaku\/([0-9a-z]+)\.htm$/i.exec(path)) !== null) {
     // https://pha.medicalonline.jp/tenpu_html/iryouyaku/dat1149001F2214.htm
-    result.rtype    = 'ENCYCLOPAEDIA_ENTRY';
-    result.mime     = 'HTML';
-    result.unitid   = match[1];
+    result.rtype = 'ENCYCLOPAEDIA_ENTRY';
+    result.mime = 'HTML';
+    result.unitid = match[1];
   } else if (/^\/library\/archive\/[search|select]/i.test(path)) {
     // https://mol.medicalonline.jp/library/archive/search?jo=di4aatex&ye=2022&vo=27&issue=1&UserID=13.236.81.23
     // https://mol.medicalonline.jp/library/archive/select?jo=di4aatex&UserID=13.236.81.23
-    result.rtype    = 'TOC';
-    result.mime     = 'HTML';
+    result.rtype = 'TOC';
+    result.mime = 'HTML';
     result.title_id = param.jo;
-    result.unitid   = param.jo;
+    result.unitid = param.jo;
     if (param.ye) {
       result.publication_date = param.ye;
     }
@@ -60,12 +60,12 @@ module.exports = new Parser(function analyseEC(parsedUrl, ec) {
     }
   } else if (/^\/library\/journal\/abstract/i.test(path)) {
     // https://mol.medicalonline.jp/library/journal/abstract?GoodsID=dq4hdtib/2023/003201/008&name=0057-0066e&UserID=13.236.81.23
-    result.rtype    = 'ABS';
-    result.mime     = 'HTML';
-    result.title_id   = param.GoodsID.split('/')[0];
-    result.unitid   = param.GoodsID;
+    result.rtype = 'ABS';
+    result.mime = 'HTML';
+    result.title_id = param.GoodsID.split('/')[0];
+    result.unitid = param.GoodsID;
     let metadata = getMetadata(param.GoodsID);
-    result.title_id   = metadata[1];
+    result.title_id = metadata[1];
     result.publication_date = metadata[2];
     result.vol = metadata[3];
     result.issue = metadata[4];
@@ -73,11 +73,11 @@ module.exports = new Parser(function analyseEC(parsedUrl, ec) {
     result.last_page = param.name.split('-')[1].slice(0, -1);
   } else if (/^\/library\/journal\/download/i.test(path)) {
     // https://mol.medicalonline.jp/library/journal/download?GoodsID=dq4hdtib/2019/002801/001&name=0001-0006e&UserID=13.236.81.23
-    result.rtype    = 'ARTICLE';
-    result.mime     = 'PDF';
-    result.unitid   = param.GoodsID;
+    result.rtype = 'ARTICLE';
+    result.mime = 'PDF';
+    result.unitid = param.GoodsID;
     let metadata = getMetadata(param.GoodsID);
-    result.title_id   = metadata[1];
+    result.title_id = metadata[1];
     result.publication_date = metadata[2];
     result.vol = metadata[3];
     result.issue = metadata[4];
