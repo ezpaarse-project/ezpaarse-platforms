@@ -1,0 +1,13 @@
+{
+  "longname": "Portfolio Management Research",
+  "name": "pmr",
+  "describe": "Recognizes the accesses to the platform Portfolio Management Research",
+  "contact": "Violita Kovchegov",
+  "pkb": false,
+  "docurl": "http://analyses.ezpaarse.org/platforms/65428b84289a13dcc5ddb200",
+  "domains": [
+    "www.pm-research.com"
+  ],
+  "version": "2024-02-23",
+  "status": "beta"
+}
