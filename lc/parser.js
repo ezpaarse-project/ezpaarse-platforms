@@ -71,13 +71,32 @@ module.exports = new Parser(function analyseEC(parsedUrl, ec) {
       result.mime = 'PDF';
       break;
     case 'full':
-      result.mime = 'ARTICLE';
-      result.rtype = 'HTML';
+      result.rtype = 'ARTICLE';
+      result.mime = 'HTML';
       break;
     }
 
     result.doi = match[2];
     result.unitid = match[3];
+  } else if ((match = /^\/toc\/([a-z]+\/([0-9]+)\/([0-9]+))$/i.exec(path)) !== null) {
+    // https://www.lyellcollection.org/toc/geea/23/2
+    // https://www.lyellcollection.org/toc/geoenergy/1/1
+    result.rtype = 'TOC';
+    result.mime = 'HTML';
+    result.unitid = match[1];
+    result.vol = match[2];
+    result.issue = match[3];
+  } else if ((match = /^\/journal\/loi\/([a-z]+)$/i.exec(path)) !== null) {
+    // https://www.lyellcollection.org/journal/loi/geoenergy
+    // https://www.lyellcollection.org/journal/loi/geea
+    result.rtype = 'TOC';
+    result.mime = 'HTML';
+
+    result.unitid = match[1];
+  } else if (/^\/action\/doSearch$/i.test(path)) {
+    // https://www.lyellcollection.org/action/doSearch?AllField=chemistry
+    result.rtype = 'SEARCH';
+    result.mime = 'HTML';
   }
 
   return result;
