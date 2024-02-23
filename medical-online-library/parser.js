@@ -7,7 +7,6 @@ function getMetadata(parameter) {
   let matchMetadata;
   if ((matchMetadata = /^([a-z0-9]+)\/(\d{4})\/(\d{4})(\d{2})\/[0-9]+$/i.exec(parameter)) !== null) {
     //dq4hdtib/2023/003201/008
-    console.log(matchMetadata);
     return matchMetadata;
   }
 }
