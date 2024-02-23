@@ -1,0 +1,13 @@
+{
+  "longname": "Diaolong",
+  "name": "diaolong",
+  "describe": "Recognizes the accesses to the platform Diaolong",
+  "contact": "Violita Kovchegov",
+  "pkb": false,
+  "docurl": "http://analyses.ezpaarse.org/platforms/65414cdccb05ef74396bcdc2",
+  "domains": [
+    "www.diaolong.jp"
+  ],
+  "version": "2024-02-21",
+  "status": "beta"
+}
