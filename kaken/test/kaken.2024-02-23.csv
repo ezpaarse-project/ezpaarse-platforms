@@ -1,0 +1,8 @@
+out-db_id;out-unitid;out-rtype;out-mime;in-url
+;;SEARCH;HTML;https://kaken.nii.ac.jp/search/?kw=physics
+;1000090421825;RECORD;HTML;https://nrid.nii.ac.jp/en/nrid/1000090421825/
+;90421825;RECORD;CSV;https://nrid.nii.ac.jp/en/nrid/download/?rkey=90421825&mode=grants
+;;SEARCH;HTML;https://kaken.nii.ac.jp/en/search/?qm=90421825
+;15K10014seika;REPORT;PDF;https://kaken.nii.ac.jp/en/file/KAKENHI-PROJECT-15K10014/15K10014seika.pdf
+;20209399;RECORD;CSV;https://nrid.nii.ac.jp/en/nrid/download/?rkey=20209399&mode=grants
+;KAKENHI-PROJECT-15H04637;RECORD;HTML;https://kaken.nii.ac.jp/en/grant/KAKENHI-PROJECT-15H04637/
