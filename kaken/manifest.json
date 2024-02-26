@@ -1,0 +1,14 @@
+{
+  "longname": "Kaken",
+  "name": "kaken",
+  "describe": "Recognizes the accesses to the platform Kaken",
+  "contact": "Violita Kovchegov",
+  "pkb": false,
+  "docurl": "http://analyses.ezpaarse.org/platforms/65426577b5374de19df4211a",
+  "domains": [
+    "kaken.nii.ac.jp",
+    "nrid.nii.ac.jp"
+  ],
+  "version": "2024-02-23",
+  "status": "beta"
+}
