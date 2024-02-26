@@ -33,8 +33,25 @@ module.exports = new Parser(function analyseEC(parsedUrl, ec) {
     // http://database.asahi.com/library2/graph/g-image-frameset-main.php
     result.rtype    = 'BOOK';
     result.mime     = 'HTML';
+  } else if (/^\/[a-z]+\/detail\/$/i.test(path)) {
+    // https://xsearch.asahi.com/kiji/detail/?1705417150644
+    // https://xsearch.asahi.com/kiji/detail/?1705417046206
+    result.rtype    = 'ARTICLE';
+    result.mime     = 'HTML';
+    result.unitid = Object.keys(parsedUrl.query)[0];
+  } else if (/^\/[a-z]+\/pdf\/$/i.test(path)) {
+    // https://xsearch.asahi.com/shimen/pdf/?1705416744329
+    // https://xsearch.asahi.com/shimen/pdf/?1705416517642
+    result.rtype    = 'ARTICLE';
+    result.mime     = 'PDF';
+    result.unitid = Object.keys(parsedUrl.query)[0];
   } else if (/^\/[a-z]+\/result\.html$/i.test(path)) {
     // http://database.asahi.com/photoDB/result.html?search_method=top&image_keywords=a&btn_execution=Submit&keywords_synonymous=1&per_page=20&mode=thumbnail&sort_key1=category_code&sort_key2=shooting_location_code&sort_key3=shooting_date_acceptance_date&sort_type=1&ascdesc1=desc&ascdesc2=asc&ascdesc3=desc
+    result.rtype    = 'SEARCH';
+    result.mime     = 'HTML';
+  } else if (/^\/[a-z]+\/?([a-z]+\/)$/i.test(path)) {
+    // https://xsearch.asahi.com/top/
+    //https://xsearch.asahi.com/shimen/date/
     result.rtype    = 'SEARCH';
     result.mime     = 'HTML';
   }
