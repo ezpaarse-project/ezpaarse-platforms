@@ -1,0 +1,11 @@
+out-db_id;out-first_page;out-issue;out-vol;out-unitid;out-rtype;out-mime;in-url
+;;;;;SEARCH;HTML;https://www.pm-research.com/search?sort_by=search_api_relevance_1&sort_order=DESC&items_per_page=10&f%5B0%5D=0&query=Risk%20Management&implicit-login=true
+iijpormgmt;82;1;50;iijpormgmt/50/1/82;ABS;HTML;https://www.pm-research.com/content/iijpormgmt/50/1/82
+;;;;iijpormgmt;TOC;HTML;https://www.pm-research.com/content/iijpormgmt/
+;;;;iijtrade;TOC;HTML;https://www.pm-research.com/content/iijtrade
+iijtrade;119;4;13;iijtrade/13/4/119;ABS;HTML;https://www.pm-research.com/content/iijtrade/13/4/119
+;;;;;SEARCH;HTML;https://www.pm-research.com/search?sort_by=search_api_relevance_1&sort_order=DESC&items_per_page=10&f%5B0%5D=topics%3A91&query=Taxation&implicit-login=true
+iijpormgmt;82;1;50;iijpormgmt/50/1/82;ARTICLE;PDF;https://www.pm-research.com/content/iijpormgmt/50/1/82.full.pdf
+iijpormgmt;4;4;39;iijpormgmt/39/4/4;ARTICLE;PDF;https://www.pm-research.com/content/iijpormgmt/39/4/4.full.pdf
+iijpormgmt;;1;50;iijpormgmt/50/1;ARTICLES_BUNDLE;PDF;https://www.pm-research.com/content/iijpormgmt/50/1/local/complete-issue.pdf
+iijpormgmt;;6;45;iijpormgmt/45/6;ARTICLES_BUNDLE;PDF;https://www.pm-research.com/content/iijpormgmt/45/6/local/complete-issue.pdf
