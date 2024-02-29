@@ -1,0 +1,13 @@
+{
+  "longname": "People's Daily",
+  "name": "pd",
+  "describe": "Recognizes the accesses to the platform People's Daily",
+  "contact": "Violita Kovchegov",
+  "pkb": false,
+  "docurl": "http://analyses.ezpaarse.org/platforms/65cb9531c5ba45c6dcde0cc0",
+  "domains": [
+    "data.people.com.cn"
+  ],
+  "version": "2024-02-29",
+  "status": "beta"
+}
