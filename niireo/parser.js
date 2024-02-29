@@ -32,10 +32,31 @@ module.exports = new Parser(function analyseEC(parsedUrl, ec) {
     result.rtype    = 'RECORD_VIEW';
     result.mime     = 'HTML';
     result.unitid   = match[1];
+  } else if ((match = /^\/oja\/ART([0-9]+)\/?([a-z]{2})?$/i.exec(path)) !== null) {
+    // https://reo.nii.ac.jp/oja/ART1000061051/en
+    result.rtype    = 'RECORD_VIEW';
+    result.mime     = 'HTML';
+    result.unitid   = `ART${match[1]}`;
   } else if (/^\/hss\/searchresult$/i.test(path)) {
     // https://reo.nii.ac.jp/hss/searchresult
     result.rtype    = 'SEARCH';
     result.mime     = 'HTML';
+  } else if (/^\/oja\/advance$/i.test(path)) {
+    // https://reo.nii.ac.jp/oja/advance
+    result.rtype    = 'SEARCH';
+    result.mime     = 'HTML';
+  } else if ((match = /^\/oja\/HtmlIndicate\/html\/vol_issues\/SUP0000002000\/JOU([0-9]+)\/vol_issue_list(_en)?.html$/i.exec(path)) !== null) {
+    // https://reo.nii.ac.jp/oja/HtmlIndicate/html/vol_issues/SUP0000002000/JOU0002000011/vol_issue_list_en.html
+    // https://reo.nii.ac.jp/oja/HtmlIndicate/html/vol_issues/SUP0000002000/JOU0002000014/vol_issue_list_en.html
+    result.rtype    = 'TOC';
+    result.mime     = 'HTML';
+    result.unitid   = `JOU${match[1]}`;
+  } else if ((match = /^\/oja\/HtmlIndicate\/Contents\/SUP0000002000\/JOU([0-9]+)\/ISS([0-9]+)\/ART([0-9]+)\/ART([0-9]+).pdf$/i.exec(path)) !== null) {
+    // https://reo.nii.ac.jp/oja/HtmlIndicate/Contents/SUP0000002000/JOU0002000014/ISS0010000855/ART1000067239/ART1000067239.pdf
+    // https://reo.nii.ac.jp/oja/HtmlIndicate/Contents/SUP0000002000/JOU0000000000/ISS1010000366/ART1000036996/ART1000036996.pdf
+    result.rtype    = 'ARTICLE';
+    result.mime     = 'PDF';
+    result.unitid   = `ART${match[3]}`;
   }
 
   return result;
