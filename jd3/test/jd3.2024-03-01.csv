@@ -1,0 +1,4 @@
+out-unitid;out-rtype;out-mime;in-url
+;SEARCH;HTML;https://dbs.g-search.or.jp/jds/dj/quick-search-init?ssid=&screenID=STM_SRC_002
+;RECORD_BUNDLE;PDF;https://dbs.g-search.or.jp/jds/dj/HighpriceCheckDownload003?ssid=&fromNumber=1&toNumber=20&screenID=STM_SRC_103&lnumber=L1
+;SEARCH;HTML;https://dbs.g-search.or.jp/jds/dj/AnswerDownload003?ssid=

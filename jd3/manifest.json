@@ -1,0 +1,13 @@
+{
+  "longname": "J Dream 3",
+  "name": "jd3",
+  "describe": "Recognizes the accesses to the platform J Dream 3",
+  "contact": "Sean Duffy, Violita Kovchegov, ChaoYin Yang",
+  "pkb": false,
+  "docurl": "http://analyses.ezpaarse.org/platforms/63a5bc396a896f00e4515e52",
+  "domains": [
+    "dbs.g-search.or.jp"
+  ],
+  "version": "2024-03-01",
+  "status": "beta"
+}
