@@ -12,7 +12,7 @@ const Parser = require('../.lib/parser.js');
  */
 module.exports = new Parser(function analyseEC(parsedUrl, ec) {
   let result = {};
-  let path   = parsedUrl.pathname;
+  let path = parsedUrl.pathname;
   // uncomment this line if you need parameters
   // let param = parsedUrl.query || {};
 
@@ -22,9 +22,9 @@ module.exports = new Parser(function analyseEC(parsedUrl, ec) {
   //let match;
 
   if (/^\/sakuin\/list$/i.test(path)) {
-    // https://www.oya-bunko.com/sakuin/list
-    result.rtype    = 'SEARCH';
-    result.mime     = 'HTML';
+    // /sakuin/list
+    result.rtype = 'SEARCH';
+    result.mime = 'HTML';
   }
 
   return result;
