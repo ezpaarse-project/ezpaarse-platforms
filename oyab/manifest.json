@@ -1,0 +1,13 @@
+{
+  "longname": "Oya Bunko",
+  "name": "oyab",
+  "describe": "Recognizes the accesses to the platform Oya Bunko",
+  "contact": "Sean Duffy",
+  "pkb": false,
+  "docurl": "http://analyses.ezpaarse.org/platforms/63a5e4a070c311014e901c07",
+  "domains": [
+    "www.oya-bunko.com"
+  ],
+  "version": "2024-03-01",
+  "status": "beta"
+}
