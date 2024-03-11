@@ -1,0 +1,13 @@
+{
+  "longname": "CountryWatch",
+  "name": "cw",
+  "describe": "Recognizes the accesses to the platform CountryWatch",
+  "contact": "Violita Kovchegov",
+  "pkb": false,
+  "docurl": "http://analyses.ezpaarse.org/platforms/65e23e68627141216efe96ae",
+  "domains": [
+    "www.countrywatch.com"
+  ],
+  "version": "2024-03-11",
+  "status": "beta"
+}
