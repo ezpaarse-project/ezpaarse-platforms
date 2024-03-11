@@ -12,7 +12,7 @@ const Parser = require('../.lib/parser.js');
  */
 module.exports = new Parser(function analyseEC(parsedUrl, ec) {
   let result = {};
-  let path   = parsedUrl.pathname;
+  let path = parsedUrl.pathname;
   // uncomment this line if you need parameters
   // let param = parsedUrl.query || {};
 
@@ -22,44 +22,44 @@ module.exports = new Parser(function analyseEC(parsedUrl, ec) {
   let match;
 
   if (/^\/search$/i.test(path)) {
-    // https://edu.digitaltheatreplus.com/search?q=tragedies
-    // https://edu.digitaltheatreplus.com/search?q=othello
-    // https://edu.digitaltheatreplus.com/search?q=romeo+and+juliet
-    result.rtype    = 'SEARCH';
-    result.mime     = 'HTML';
+    // /search?q=tragedies
+    // /search?q=othello
+    // /search?q=romeo+and+juliet
+    result.rtype = 'SEARCH';
+    result.mime = 'HTML';
   } else if ((match = /^\/content\/productions\/([a-zA-Z0-9-]+)$/i.exec(path)) !== null) {
-    // https://edu.digitaltheatreplus.com/content/productions/romeo-and-juliet-broadwayhd
-    // https://edu.digitaltheatreplus.com/content/productions/king-lear-the-film
-    result.rtype    = 'VIDEO';
-    result.mime     = 'MISC';
+    // /content/productions/romeo-and-juliet-broadwayhd
+    // /content/productions/king-lear-the-film
+    result.rtype = 'VIDEO';
+    result.mime = 'MISC';
     result.title_id = match[1];
-    result.unitid   = match[1];
+    result.unitid = match[1];
   } else if (/^\/content\/productions$/i.test(path)) {
-    // https://edu.digitaltheatreplus.com/content/productions
-    result.rtype    = 'TOC';
-    result.mime     = 'HTML';
+    // /content/productions
+    result.rtype = 'TOC';
+    result.mime = 'HTML';
   } else if ((match = /^\/content\/guides\/([a-zA-Z0-9-]+)$/i.exec(path)) !== null) {
-    // https://edu.digitaltheatreplus.com/content/guides/15-heroines-15-monologues-adapted-from-ovid
-    // https://edu.digitaltheatreplus.com/content/guides/15-heroines-a-critical-introduction
-    // https://edu.digitaltheatreplus.com/content/guides/a-christmas-carol-education-pack
-    result.rtype    = 'BOOK';
-    result.mime     = 'HTML';
+    // /content/guides/15-heroines-15-monologues-adapted-from-ovid
+    // /content/guides/15-heroines-a-critical-introduction
+    // /content/guides/a-christmas-carol-education-pack
+    result.rtype = 'BOOK';
+    result.mime = 'HTML';
     result.title_id = match[1];
-    result.unitid   = match[1];
+    result.unitid = match[1];
   } else if ((match = /^\/content\/interviews\/([a-zA-Z0-9-]+)$/i.exec(path)) !== null) {
-    // https://edu.digitaltheatreplus.com/content/interviews/actors-preparing-and-playing
-    // https://edu.digitaltheatreplus.com/content/interviews/eric-bentley-at-100-on-brecht-theatre-politics-and-writing
-    result.rtype    = 'VIDEO';
-    result.mime     = 'MISC';
+    // /content/interviews/actors-preparing-and-playing
+    // /content/interviews/eric-bentley-at-100-on-brecht-theatre-politics-and-writing
+    result.rtype = 'VIDEO';
+    result.mime = 'MISC';
     result.title_id = match[1];
-    result.unitid   = match[1];
+    result.unitid = match[1];
   } else if ((match = /^\/content\/lesson-plans\/([a-zA-Z0-9-]+)$/i.exec(path)) !== null) {
-    // https://edu.digitaltheatreplus.com/content/lesson-plans/a-christmas-carol-workshop-plan
-    // https://edu.digitaltheatreplus.com/content/lesson-plans/analyzing-character-in-fish-cheeks
-    result.rtype    = 'OTHER';
-    result.mime     = 'HTML';
+    // /content/lesson-plans/a-christmas-carol-workshop-plan
+    // /content/lesson-plans/analyzing-character-in-fish-cheeks
+    result.rtype = 'OTHER';
+    result.mime = 'HTML';
     result.title_id = match[1];
-    result.unitid   = match[1];
+    result.unitid = match[1];
   }
 
   return result;
