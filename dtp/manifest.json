@@ -1,0 +1,13 @@
+{
+  "longname": "Digital Theatre Plus",
+  "name": "dtp",
+  "describe": "Recognizes the accesses to the platform Digital Theatre Plus",
+  "contact": "Violita Kovchegov",
+  "pkb": false,
+  "docurl": "http://analyses.ezpaarse.org/platforms/65dd027d42b586903e567c17",
+  "domains": [
+    "edu.digitaltheatreplus.com"
+  ],
+  "version": "2024-03-11",
+  "status": "beta"
+}
