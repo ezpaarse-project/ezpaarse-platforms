@@ -1,0 +1,15 @@
+{
+  "longname": "Torrossa",
+  "name": "torrossa",
+  "describe": "Recognizes the accesses to the platform Torrossa",
+  "contact": "Violita Kovchegov",
+  "pkb": false,
+  "docurl": "http://analyses.ezpaarse.org/platforms/5587c342a995c9afcfbb30c8",
+  "domains": [
+    "www.torrossa.com",
+    "oa.torrossa.com",
+    "access.torrossa.com"
+  ],
+  "version": "2024-03-11",
+  "status": "beta"
+}
