@@ -1,0 +1,13 @@
+out-title_id;out-unitid;out-rtype;out-mime;in-url
+;;SEARCH;HTML;http://www.countrywatch.com/home/search?q=Trump
+;;SEARCH;HTML;http://www.countrywatch.com/home/search?q=Biden
+;7083883;ARTICLE;HTML;http://www.countrywatch.com/intelligence/countrywirestory?uid=7083883
+;7083882;ARTICLE;HTML;http://www.countrywatch.com/intelligence/countrywirestory?uid=7083882
+;sectionid=1&catgoryid=1&subcategoryid=1&submenuid=1;MAP;HTML;http://www.countrywatch.com/intelligence/mapsdisplay?sectionid=1&catgoryid=1&subcategoryid=1&submenuid=1
+;sectionid=2&catgoryid=4;MAP;HTML;http://www.countrywatch.com/intelligence/mapsdisplay?sectionid=2&catgoryid=4
+;globalsectionid=3&imageid=1;MAP;HTML;http://www.countrywatch.com/intelligence/mapsglobal?globalsectionid=3&imageid=1
+;sectionid=1&catgoryid=6&subcategoryid=1&submenuid=1;MAP;HTML;http://www.countrywatch.com/intelligence/mapsdisplay?sectionid=1&catgoryid=6&subcategoryid=1&submenuid=1
+;coronavirus?topic=sdcvd;TABLE;HTML;http://www.countrywatch.com/home/coronavirus?topic=sdcvd
+;coronavirus?topic=sdcvs;TABLE;HTML;http://www.countrywatch.com/home/coronavirus?topic=sdcvs
+105;countryid=105&eltype=40&eltid=808;REPORT;HTML;http://www.countrywatch.com/elections/profile?countryid=105&eltype=40&eltid=808
+142;countryid=142&eltype=41&eltid=756;REPORT;HTML;http://www.countrywatch.com/elections/profile?countryid=142&eltype=41&eltid=756
