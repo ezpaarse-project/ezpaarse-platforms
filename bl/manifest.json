@@ -1,0 +1,14 @@
+{
+  "longname": "Booklist",
+  "name": "bl",
+  "describe": "Recognizes the accesses to the platform Booklist",
+  "contact": "Violita Kovchegov",
+  "pkb": false,
+  "docurl": "http://analyses.ezpaarse.org/platforms/65df5cca40133f413a2c6be4",
+  "domains": [
+    "www.booklistonline.com",
+    "booklist.booklistonline.com"
+  ],
+  "version": "2024-03-11",
+  "status": "beta"
+}
