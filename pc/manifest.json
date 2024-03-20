@@ -1,0 +1,14 @@
+{
+  "longname": "Policy Commons",
+  "name": "pc",
+  "describe": "Recognizes the accesses to the platform Policy Commons",
+  "contact": "Violita Kovchegov",
+  "pkb": false,
+  "docurl": "http://analyses.ezpaarse.org/platforms/65f9c29569ead21362caea48",
+  "domains": [
+    "policycommons.net",
+    "policycommons-net"
+  ],
+  "version": "2024-03-20",
+  "status": "beta"
+}
