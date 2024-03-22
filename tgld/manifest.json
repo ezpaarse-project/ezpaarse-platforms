@@ -1,0 +1,13 @@
+{
+  "longname": "Therapeutic Guidelines",
+  "name": "tgld",
+  "describe": "Recognizes the accesses to the platform Therapeutic Guidelines",
+  "contact": "Sean Duffy",
+  "pkb": false,
+  "docurl": "http://analyses.ezpaarse.org/platforms/658adb3b6a7444abac602db7",
+  "domains": [
+    "tgldcdp.tg.org.au"
+  ],
+  "version": "2024-03-22",
+  "status": "beta"
+}
