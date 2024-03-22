@@ -1,0 +1,15 @@
+{
+  "longname": "Medica Panamericana",
+  "name": "mp",
+  "describe": "Recognizes the accesses to the platform Medica Panamericana",
+  "contact": "Violita Kovchegov",
+  "pkb": false,
+  "docurl": "http://analyses.ezpaarse.org/platforms/654cfbfce685c5a3b5b7eb1a",
+  "domains": [
+    "www.medicapanamericana.com",
+    "mieureka.medicapanamericana.com",
+    "mieureka-filiales.medicapanamericana.com"
+  ],
+  "version": "2024-03-22",
+  "status": "beta"
+}
