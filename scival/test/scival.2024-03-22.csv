@@ -1,0 +1,7 @@
+out-db_id;out-unitid;out-rtype;out-mime;in-url
+;;SESSION;HTML;https://scival.com/home
+;;TOOL;HTML;https://scival.com/benchmarking/analyse
+summary;201011;TOOL;HTML;https://scival.com/overview/summary?uri=Institution%2F201011
+;165664;TOOL;HTML;https://scival.com/trends/summary?uri=Customer/0/ResearchArea/165664
+collaboration;Institution/508179;TOOL;HTML;https://scival.com/collaboration/currentCollabMap?uri=Institution/508179
+impact;201011;TOOL;HTML;https://scival.com/impact/policy?uri=Institution/201011
