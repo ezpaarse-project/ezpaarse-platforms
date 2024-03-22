@@ -1,0 +1,13 @@
+{
+  "longname": "SciVal",
+  "name": "scival",
+  "describe": "Recognizes the accesses to the platform SciVal",
+  "contact": "Sean Duffy",
+  "pkb": false,
+  "docurl": "http://analyses.ezpaarse.org/platforms/658af23d3a96fc306db71555",
+  "domains": [
+    "scival.com"
+  ],
+  "version": "2024-03-22",
+  "status": "beta"
+}
