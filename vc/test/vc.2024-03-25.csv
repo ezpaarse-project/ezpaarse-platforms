@@ -1,0 +1,11 @@
+out-unitid;out-rtype;out-mime;in-url
+;SEARCH;HTML;https://cl.vidal-consult.com/search/product?id=1137063&edm=false
+;SEARCH;HTML;https://cl.vidal-consult-com/search/ingredient?id=24446
+;SEARCH;HTML;https://cl.vidal-consult.com/search/ingredient?id=22980
+;SEARCH;HTML;https://cl.vidal-consult.com/search/product?id=1392972&edm=false
+;SEARCH;HTML;https://mx.vidal-consult.com/search?term=Sangre
+;SEARCH;HTML;https://mx.vidal-consult.com/search?term=Madre
+;SEARCH;HTML;https://mx.vidal-consult.com/search/ingredient?id=23313
+;SEARCH;HTML;https://mx.vidal-consult.com/search/ingredient?id=22980
+B01AB11;RECORD;HTML;https://mx.vidal-consult.com/html_docs/mx/FICHAS_CLASES_ATC/B01AB11.html
+B01AA03;RECORD;HTML;https://mx.vidal-consult.com/html_docs/mx/FICHAS_CLASES_ATC/B01AA03.html
