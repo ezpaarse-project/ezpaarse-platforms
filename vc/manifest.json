@@ -1,0 +1,15 @@
+{
+  "longname": "Vidal Consult",
+  "name": "vc",
+  "describe": "Recognizes the accesses to the platform Vidal Consult",
+  "contact": "Violita Kovchegov",
+  "pkb": false,
+  "docurl": "http://analyses.ezpaarse.org/platforms/65dcfb1177c70843ecda8864",
+  "domains": [
+    "cl.vidal-consult.com",
+    "cl.vidal-consult-com",
+    "mx.vidal-consult.com"
+  ],
+  "version": "2024-03-25",
+  "status": "beta"
+}
