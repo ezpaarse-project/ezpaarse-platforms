@@ -1,0 +1,13 @@
+{
+  "longname": "Oxford Politics Trove",
+  "name": "opt",
+  "describe": "Recognizes the accesses to the platform Oxford Politics Trove",
+  "contact": "Violita Kovchegov",
+  "pkb": false,
+  "docurl": "http://analyses.ezpaarse.org/platforms/65fd871cd8583a26c9aabc3d",
+  "domains": [
+    "www.oxfordpoliticstrove.com"
+  ],
+  "version": "2024-03-25",
+  "status": "beta"
+}
