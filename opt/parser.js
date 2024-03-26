@@ -32,7 +32,7 @@ module.exports = new Parser(function analyseEC(parsedUrl, ec) {
     // https://www.oxfordpoliticstrove.com/display/10.1093/hepl/9780198829560.001.0001/hepl-9780198829560?rskey=va4v17&result=2
     result.rtype    = 'BOOK';
     result.mime     = 'HTML';
-    result.doi      = `${match[1]}/${match[2]}/${match[3]}/${match[4]}-${match[5]}`;
+    result.doi      = `${match[1]}/${match[2]}/${match[3]}`;
     result.print_identifier   = match[5];
     result.unitid             = `${match[1]}/${match[2]}/${match[3]}/${match[4]}-${match[5]}`;
   } else if ((match = /^\/display\/([0-9.]+)\/([a-zA-Z0-9]+)\/([0-9.]+)\/([a-zA-Z0-9]+)-([0-9]+)-chapter-([0-9]+)$/i.exec(path)) !== null) {
