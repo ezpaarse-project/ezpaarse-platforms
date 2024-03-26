@@ -1,0 +1,13 @@
+out-title_id;out-db_id;out-unitid;out-rtype;out-mime;in-url
+;;20151;ARTICLE;PDF;https://research.morningstar.com/api/v1/articles/20151/file?type=CommonArticle
+;;1189179;ARTICLE;PDF;https://research.morningstar.com/api/v1/articles/1189179/file?type=AnalystClientResearch
+inflation-still-expected-to-plummet;1189996;1189996/inflation-still-expected-to-plummet;ARTICLE;HTML;https://research.morningstar.com/articles/1189996/inflation-still-expected-to-plummet
+charging-the-future-unleashing-the-power-of-battery-technology;1190828;1190828/charging-the-future-unleashing-the-power-of-battery-technology;ARTICLE;HTML;https://research.morningstar.com/articles/1190828/charging-the-future-unleashing-the-power-of-battery-technology
+;;;TOOL;HTML;https://research.morningstar.com/calendar
+;;;DATASET;HTML;https://research.morningstar.com/chart
+;;;SESSION;HTML;https://research.morningstar.com/home
+;;;REPORT;PDF;http://library.morningstar.com/Returns/Consumer_Cyclical_Q4_2020.pdf
+;;;REPORT;HTML;http://library.morningstar.com/Returns/CategoryReturns.html
+;;;REPORT;HTML;http://library.morningstar.com/v2/quote?id=0P0001KOSA&typeid=ST
+;;;VIDEO;MISC;http://library.morningstar.com/videos/?id=1017223
+;;;ARTICLE;HTML;http://library.morningstar.com/ArticleSuppot/article?id=1016715

@@ -8,7 +8,8 @@
   "domains": [
     "library.morningstar.com",
     "datanalysis.morningstar.com.au",
-    "ar.morningstar.com"
+    "ar.morningstar.com",
+    "research.morningstar.com"
   ],
   "version": "2021-01-15",
   "status": "beta"
