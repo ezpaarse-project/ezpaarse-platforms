@@ -1,0 +1,14 @@
+{
+  "longname": "Tirant Online",
+  "name": "to",
+  "describe": "Recognizes the accesses to the platform Tirant Online",
+  "contact": "Violita Kovchegov",
+  "pkb": false,
+  "docurl": "http://analyses.ezpaarse.org/platforms/66018309fd80733107dca9c1",
+  "domains": [
+    "www.tirantonline.com.mx",
+    "www.tirantonline.com"
+  ],
+  "version": "2024-03-26",
+  "status": "beta"
+}
