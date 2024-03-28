@@ -6,8 +6,8 @@ charging-the-future-unleashing-the-power-of-battery-technology;1190828;1190828/c
 ;;;TOOL;HTML;https://research.morningstar.com/calendar
 ;;;DATASET;HTML;https://research.morningstar.com/chart
 ;;;SESSION;HTML;https://research.morningstar.com/home
-;;;REPORT;PDF;http://library.morningstar.com/Returns/Consumer_Cyclical_Q4_2020.pdf
+;;Consumer_Cyclical_Q4_2020;REPORT;PDF;http://library.morningstar.com/Returns/Consumer_Cyclical_Q4_2020.pdf
 ;;;REPORT;HTML;http://library.morningstar.com/Returns/CategoryReturns.html
-;;;REPORT;HTML;http://library.morningstar.com/v2/quote?id=0P0001KOSA&typeid=ST
-;;;VIDEO;MISC;http://library.morningstar.com/videos/?id=1017223
-;;;ARTICLE;HTML;http://library.morningstar.com/ArticleSuppot/article?id=1016715
+;;0P0001KOSA;REPORT;HTML;http://library.morningstar.com/v2/quote?id=0P0001KOSA&typeid=ST
+;;1017223;VIDEO;MISC;http://library.morningstar.com/videos/?id=1017223
+;;1016715;ARTICLE;HTML;http://library.morningstar.com/ArticleSuppot/article?id=1016715
