@@ -1,0 +1,10 @@
+out-unitid;out-rtype;out-mime;in-url
+;SEARCH;HTML;https://www.teachingbooks.net/tb.cgi?go=1&adv=all&keywordType1=all&implicitWild=0&keywordText1=green
+;SEARCH;HTML;https://www.teachingbooks.net/tb.cgi?go=1&adv=all&keywordType1=all&implicitWild=0&keywordText1=Homer
+63012;RECORD;HTML;https://www.teachingbooks.net/tb.cgi?tid=63012#Resources
+60280;RECORD;HTML;https://www.teachingbooks.net/tb.cgi?tid=60280
+718;AUDIO;MP3;https://www.teachingbooks.net/pronounce.cgi?aid=718
+15222;AUDIO;MP3;https://www.teachingbooks.net/book_reading.cgi?id=15222
+13;VIDEO;MISC;https://www.teachingbooks.net/author_collection.cgi?id=13&mid=25
+60280;EXERCISE;PDF;https://www.teachingbooks.net/clp.cgi?master_id=60280&lf_id=9
+242982;EXERCISE;PDF;https://www.teachingbooks.net/agr.cgi?r=1&ri=62612&url_id=242982&i=&x=1
