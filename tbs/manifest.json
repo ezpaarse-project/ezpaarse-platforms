@@ -1,0 +1,13 @@
+{
+  "longname": "TeachingBooks",
+  "name": "tbs",
+  "describe": "Recognizes the accesses to the platform TeachingBooks",
+  "contact": "Violita Kovchegov",
+  "pkb": false,
+  "docurl": "http://analyses.ezpaarse.org/platforms/66059516de2e24ea39df2819",
+  "domains": [
+    "www.teachingbooks.net"
+  ],
+  "version": "2024-03-29",
+  "status": "beta"
+}
