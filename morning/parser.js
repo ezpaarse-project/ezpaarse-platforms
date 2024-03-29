@@ -25,8 +25,7 @@ module.exports = new Parser(function analyseEC(parsedUrl, ec) {
     // http://library.morningstar.com/ArticleSuppot/article?id=1016715
     result.rtype    = 'ARTICLE';
     result.mime     = 'HTML';
-    result.unitid = param.id;
-
+    result.unitid   = param.id;
   } else if ((match = /^\/videos\/$/i.exec(path)) !== null) {
     // http://library.morningstar.com/videos/?id=1017223
     result.rtype    = 'VIDEO';
@@ -44,6 +43,32 @@ module.exports = new Parser(function analyseEC(parsedUrl, ec) {
   } else if ((match = /^\/Returns\/([0-9a-z_]+).pdf$/i.exec(path)) !== null) {
     // http://library.morningstar.com/Returns/Consumer_Cyclical_Q4_2020.pdf
     result.rtype    = 'REPORT';
+    result.mime     = 'PDF';
+    result.unitid   = match[1];
+  } else if (/^\/home$/i.test(path) && parsedUrl.hostname === 'research.morningstar.com') {
+    // https://research.morningstar.com/home
+    result.rtype    = 'SESSION';
+    result.mime     = 'HTML';
+  } else if (/^\/chart$/i.test(path) && parsedUrl.hostname === 'research.morningstar.com') {
+    // https://research.morningstar.com/chart
+    result.rtype    = 'DATASET';
+    result.mime     = 'HTML';
+  } else if (/^\/calendar$/i.test(path) && parsedUrl.hostname === 'research.morningstar.com') {
+    // https://research.morningstar.com/calendar
+    result.rtype    = 'TOOL';
+    result.mime     = 'HTML';
+  } else if ((match = /^\/articles\/([0-9a-zA-Z]+)\/([a-zA-Z0-9-]+)$/i.exec(path)) !== null) {
+    // https://research.morningstar.com/articles/1190828/charging-the-future-unleashing-the-power-of-battery-technology
+    // https://research.morningstar.com/articles/1189996/inflation-still-expected-to-plummet
+    result.rtype    = 'ARTICLE';
+    result.mime     = 'HTML';
+    result.title_id   = match[2];
+    result.db_id      = match[1];
+    result.unitid     = `${match[1]}/${match[2]}`;
+  } else if ((match = /^\/api\/v1\/articles\/([0-9]+)\/file$/i.exec(path)) !== null) {
+    // https://research.morningstar.com/api/v1/articles/1189179/file?type=AnalystClientResearch
+    // https://research.morningstar.com/api/v1/articles/20151/file?type=CommonArticle
+    result.rtype    = 'ARTICLE';
     result.mime     = 'PDF';
     result.unitid   = match[1];
   }
