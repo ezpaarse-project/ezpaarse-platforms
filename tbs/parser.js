@@ -12,7 +12,7 @@ const Parser = require('../.lib/parser.js');
  */
 module.exports = new Parser(function analyseEC(parsedUrl, ec) {
   let result = {};
-  let path   = parsedUrl.pathname;
+  let path = parsedUrl.pathname;
   // uncomment this line if you need parameters
   let param = parsedUrl.query || {};
 
@@ -22,33 +22,33 @@ module.exports = new Parser(function analyseEC(parsedUrl, ec) {
   // let match;
 
   if (/^\/tb.cgi$/i.test(path) && param.go !== undefined && param.keywordText1 !== undefined) {
-    // https://www.teachingbooks.net/tb.cgi?go=1&adv=all&keywordType1=all&implicitWild=0&keywordText1=green
-    // https://www.teachingbooks.net/tb.cgi?go=1&adv=all&keywordType1=all&implicitWild=0&keywordText1=Homer
-    result.rtype    = 'SEARCH';
-    result.mime     = 'HTML';
+    // /tb.cgi?go=1&adv=all&keywordType1=all&implicitWild=0&keywordText1=green
+    // /tb.cgi?go=1&adv=all&keywordType1=all&implicitWild=0&keywordText1=Homer
+    result.rtype = 'SEARCH';
+    result.mime = 'HTML';
   } else if (/^\/tb.cgi$/i.test(path) && param.tid !== undefined) {
-    // https://www.teachingbooks.net/tb.cgi?tid=63012#Resources
-    // https://www.teachingbooks.net/tb.cgi?tid=60280
-    result.rtype    = 'RECORD';
-    result.mime     = 'HTML';
-    result.unitid   = param.tid;
+    // /tb.cgi?tid=63012#Resources
+    // /tb.cgi?tid=60280
+    result.rtype = 'RECORD';
+    result.mime = 'HTML';
+    result.unitid = param.tid;
   } else if (/^\/pronounce.cgi|book_reading.cgi$/i.test(path) && (param.aid !== undefined || param.id !== undefined)) {
-    // https://www.teachingbooks.net/pronounce.cgi?aid=718
-    // https://www.teachingbooks.net/book_reading.cgi?id=15222
-    result.rtype    = 'AUDIO';
-    result.mime     = 'MP3';
-    result.unitid = param.aid !== undefined ? param.aid:param.id;
+    // /pronounce.cgi?aid=718
+    // /book_reading.cgi?id=15222
+    result.rtype = 'AUDIO';
+    result.mime = 'MP3';
+    result.unitid = param.aid !== undefined ? param.aid : param.id;
   } else if (/^\/author_collection.cgi$/i.test(path) && param.id !== undefined) {
-    // https://www.teachingbooks.net/author_collection.cgi?id=13&mid=25
-    result.rtype    = 'VIDEO';
-    result.mime     = 'MISC';
+    // /author_collection.cgi?id=13&mid=25
+    result.rtype = 'VIDEO';
+    result.mime = 'MISC';
     result.unitid = param.id;
   } else if (/^\/clp.cgi|agr.cgi$/i.test(path) && (param.master_id !== undefined || param.url_id !== undefined)) {
-    // https://www.teachingbooks.net/clp.cgi?master_id=60280&lf_id=9
-    // https://www.teachingbooks.net/agr.cgi?r=1&ri=62612&url_id=242982&i=&x=1
-    result.rtype    = 'EXERCISE';
-    result.mime     = 'PDF';
-    result.unitid = param.master_id !== undefined ? param.master_id:param.url_id;
+    // /clp.cgi?master_id=60280&lf_id=9
+    // /agr.cgi?r=1&ri=62612&url_id=242982&i=&x=1
+    result.rtype = 'EXERCISE';
+    result.mime = 'PDF';
+    result.unitid = param.master_id !== undefined ? param.master_id : param.url_id;
   }
 
   return result;
