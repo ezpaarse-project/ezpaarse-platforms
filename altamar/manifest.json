@@ -1,0 +1,14 @@
+{
+  "longname": "Altamar",
+  "name": "altamar",
+  "describe": "Recognizes the accesses to the platform Altamar",
+  "contact": "Violita Kovchegov",
+  "pkb": false,
+  "docurl": "http://analyses.ezpaarse.org/platforms/65dcf73e7ab45e4834760571",
+  "domains": [
+    "www.recursos.altamar.es",
+    "www.altamar.es"
+  ],
+  "version": "2024-04-03",
+  "status": "beta"
+}
