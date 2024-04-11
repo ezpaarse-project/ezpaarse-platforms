@@ -18,8 +18,14 @@ module.exports = new Parser(function analyseEC(parsedUrl, ec) {
 
   let sid = result.sid = ec.sid || param.sid || 'none';
 
+  const listOfSID = ['istex-exchange'];
+
   if (sid.startsWith('"') && sid.endsWith('"')) {
     result.sid = sid.slice(1, -1);
+  }
+
+  if (listOfSID.includes(result.sid)) {
+    return {};
   }
 
   if (/\/document\/?$/i.test(path) && (param.q || param.q_id)) {
