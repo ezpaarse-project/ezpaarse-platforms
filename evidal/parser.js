@@ -27,7 +27,7 @@ module.exports = new Parser(function analyseEC(parsedUrl, ec) {
 
   } else if ((match = /^\/medicament\/.+-(\d+)\.html$/i.exec(path)) !== null) {
     // https://evidal.vidal.fr/medicament/doliprane_500_mg_gel-5480.html
-    result.rtype    = 'ABS';
+    result.rtype    = 'RECORD';
     result.mime     = 'HTML';
     result.unitid   = match[1];
 
@@ -45,7 +45,7 @@ module.exports = new Parser(function analyseEC(parsedUrl, ec) {
 
   } else if ((match = /^\/recos\/details\/(\d+)\/.+$/i.exec(path)) !== null) {
     // https://evidal.vidal.fr/recos/details/2720/grippe_saisonniere/prise_en_charge
-    result.rtype    = 'ARTICLE';
+    result.rtype    = 'GRAPH';
     result.mime     = 'HTML';
     result.unitid   = match[1];
 
@@ -54,6 +54,17 @@ module.exports = new Parser(function analyseEC(parsedUrl, ec) {
     result.rtype    = 'ARTICLE';
     result.mime     = 'PDF';
     result.unitid   = param.id;
+
+  } else if ((match = /^\/actualites\/details\/id:(\d+)/i.exec(path)) !== null) {
+    // https://evidal-vidal-fr/actualites/details/id:28957/permalink:glaucome_xiop_nouvelle_specialite_a_base_de_latanoprost_en_unidose_et_sans_conservateur/
+    result.rtype    = 'ARTICLE';
+    result.mime     = 'HTML';
+    result.unitid   = match[1];
+
+  } else if (/^\/analyse-ordonnance\.html$/i.test(path)) {
+    // https://evidal-vidal-fr/analyse-ordonnance.html
+    result.rtype    = 'ANALYSIS';
+    result.mime     = 'HTML';
 
   }
 
