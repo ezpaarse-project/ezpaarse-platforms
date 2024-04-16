@@ -20,7 +20,7 @@ module.exports = new Parser(function analyseEC(parsedUrl, ec) {
 
   let match;
 
-  if ((match = /^\/recherche/i.exec(path)) !== null) {
+  if ((match = /^\/recherche\.html$/i.exec(path)) !== null) {
     // https://evidal.vidal.fr/recherche.html?q=DOLIPRANE%20500%20MG%20G%C3%89L
     result.rtype    = 'SEARCH';
     result.mime     = 'HTML';
@@ -37,7 +37,7 @@ module.exports = new Parser(function analyseEC(parsedUrl, ec) {
     result.mime     = 'HTML';
     result.unitid   = match[1];
 
-  } else if ((match = /^\/medicament\/pdf\.html/i.exec(path)) !== null) {
+  } else if ((match = /^\/medicament\/pdf\.html$/i.exec(path)) !== null) {
     // https://evidal.vidal.fr/medicament/pdf.html?id=5480
     result.rtype    = 'RECORD';
     result.mime     = 'PDF';
@@ -49,7 +49,7 @@ module.exports = new Parser(function analyseEC(parsedUrl, ec) {
     result.mime     = 'HTML';
     result.unitid   = match[1];
 
-  } else if ((match = /^\/baseDocumentaire\/pdf\.html/i.exec(path)) !== null) {
+  } else if ((match = /^\/baseDocumentaire\/pdf\.html$/i.exec(path)) !== null) {
     // https://evidal.vidal.fr/baseDocumentaire/pdf.html?id=2720&permalink=grippe_saisonniere
     result.rtype    = 'ARTICLE';
     result.mime     = 'PDF';
