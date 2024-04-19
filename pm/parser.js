@@ -15,7 +15,7 @@ module.exports = new Parser(function analyseEC(parsedUrl, ec) {
   let path   = parsedUrl.pathname;
   // uncomment this line if you need parameters
   let param = parsedUrl.query || {};
-
+  let match;
   // use console.error for debuging
   // console.error(parsedUrl);
 
@@ -37,6 +37,24 @@ module.exports = new Parser(function analyseEC(parsedUrl, ec) {
       result.mime    = 'HTML';
       result.unitid  = param.pid;
     }
+  }  else if (/^\/newmaps#?\/?$/i.test(path)) {
+    // https://uc.policymap.com/newmaps#/
+    result.rtype   = 'MAP';
+    result.mime    = 'HTML';
+  } else if ((match = /^\/blog\/([a-zA-Z0-9-]+)\/?$/i.exec(path)) !== null) {
+    // https://uc.policymap.com/blog/limited-supermarket-access-data
+    // https://uc.policymap.com/blog/investing-in-communities-understanding-trends-and-needs
+    result.rtype    = 'ARTICLE';
+    result.mime     = 'HTML';
+    result.title_id = match[1];
+    result.unitid   = match[1];
+  } else if ((match = /^\/resources\/customer-stories\/([a-zA-Z0-9-]+)\/?$/i.exec(path)) !== null) {
+    // https://uc.policymap.com/resources/customer-stories/life-lines-throughout-the-us
+    // https://uc.policymap.com/resources/customer-stories/apple-tree-dental
+    result.rtype    = 'ISSUE';
+    result.mime     = 'HTML';
+    result.title_id = match[1];
+    result.unitid   = match[1];
   }
 
   return result;
