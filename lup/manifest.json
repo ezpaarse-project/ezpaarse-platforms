@@ -1,0 +1,14 @@
+{
+  "longname": "Liverpool University Press",
+  "name": "lup",
+  "describe": "Recognizes the accesses to the platform Liverpool University Press",
+  "contact": "thomas.porquet, Violita Kovchegov",
+  "pkb": false,
+  "docurl": "http://analyses.ezpaarse.org/platforms/573af66c57170557c8afbdcf",
+  "domains": [
+    "www.liverpooluniversitypress.co.uk",
+    "www-liverpooluniversitypress-co-uk"
+  ],
+  "version": "2024-04-22",
+  "status": "beta"
+}
