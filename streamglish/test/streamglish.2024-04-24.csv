@@ -1,0 +1,5 @@
+out-unitid;out-rtype;out-mime;in-url
+3150;VIDEO;MISC;https://api.streamglish.com/api/videos/3150/player
+4;;HTML;https://api.streamglish.com/api/lessons/4
+4;;HTML;https://api.streamglish.com/api/lessons/4/20
+1;EXERCISE;HTML;https://api.streamglish.com/api/placementtest/list/1
