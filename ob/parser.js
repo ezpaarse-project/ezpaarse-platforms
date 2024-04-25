@@ -31,7 +31,7 @@ module.exports = new Parser(function analyseEC(parsedUrl, ec) {
     // https://www.oxfordbibliographies.com/display/document/obo-9780199941728/obo-9780199941728-0024.xml?rskey=9t8ng0&result=7#null
     result.rtype    = 'ARTICLE';
     result.mime     = 'HTML';
-    result.doi = match[2];
+    result.online_identifier = match[2];
     result.unitid   = `${match[1]}/${match[2]}.xml?rskey=${param.rskey}&result=${param.result}${parsedUrl.hash}`;
   }
 
