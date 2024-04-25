@@ -1,0 +1,13 @@
+{
+  "longname": "Oxford Bibliographies",
+  "name": "ob",
+  "describe": "Recognizes the accesses to the platform Oxford Bibliographies",
+  "contact": "Violita Kovchegov",
+  "pkb": false,
+  "docurl": "http://analyses.ezpaarse.org/platforms/660330eb26da97bebd6c745a",
+  "domains": [
+    "www.oxfordbibliographies.com"
+  ],
+  "version": "2024-04-22",
+  "status": "beta"
+}

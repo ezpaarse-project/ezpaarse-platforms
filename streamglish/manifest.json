@@ -1,0 +1,13 @@
+{
+  "longname": "Streamglish",
+  "name": "streamglish",
+  "describe": "Recognizes the accesses to the platform Streamglish",
+  "contact": "Frederic Truong inist",
+  "pkb": false,
+  "docurl": "http://analyses.ezpaarse.org/platforms/64afd08adbafd396368e7858",
+  "domains": [
+    "api.streamglish.com"
+  ],
+  "version": "2024-04-24",
+  "status": "beta"
+}
