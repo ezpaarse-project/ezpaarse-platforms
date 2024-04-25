@@ -1,0 +1,13 @@
+{
+  "longname": "Scite",
+  "name": "scite",
+  "describe": "Recognizes the accesses to the platform Scite",
+  "contact": "Violita Kovchegov",
+  "pkb": false,
+  "docurl": "http://analyses.ezpaarse.org/platforms/661d6c59cb430beef8a60b2f",
+  "domains": [
+    "scite.ai"
+  ],
+  "version": "2024-04-25",
+  "status": "beta"
+}
