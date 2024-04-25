@@ -1,0 +1,15 @@
+{
+  "longname": "Dimensions",
+  "name": "dimensions",
+  "describe": "Recognizes the accesses to the platform Dimensions",
+  "contact": "Violita Kovchegov",
+  "pkb": false,
+  "docurl": "http://analyses.ezpaarse.org/platforms/661934cda4bc76f0dee1419f",
+  "domains": [
+    "app.dimensions.ai",
+    "app-dimensions-ai.zulib.idm.oclc.org",
+    "app-dimensions-ai"
+  ],
+  "version": "2024-04-22",
+  "status": "beta"
+}
