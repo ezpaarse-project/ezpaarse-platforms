@@ -28,13 +28,6 @@ module.exports = new Parser(function analyseEC(parsedUrl, ec) {
     // https://scite.ai/search?mode=all&author=John%20Edwards
     result.rtype    = 'SEARCH';
     result.mime     = 'HTML';
-    if (param.q) {
-      result.title_id = param.q;
-      result.unitid   = param.q;
-    }
-    if (param.author) {
-      result.unitid   = param.author;
-    }
 
   } else if ((match = /^\/reports\/([a-z-]+)-[a-zA-Z0-9]+$/i.exec(path)) !== null) {
     // https://scite.ai/reports/depth-dependent-microbial-communities-potentially-mediating-NlaN3YZQ?showReferences=true
