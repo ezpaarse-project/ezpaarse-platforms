@@ -1,0 +1,11 @@
+out-unitid;out-rtype;out-mime;in-url
+;SEARCH;HTML;https://ksdcdb.kr/data/dataSearchRes.do
+2832;DATASET;HTML;https://ksdcdb.kr/data/dataSearchResView.do?surveyId=2832
+2840;DATASET;HTML;https://ksdcdb.kr/data/dataSearchResView.do?surveyId=2840
+cbook_2832;REPORT;PDF;https://ksdcdb.kr/attach/cbook/cbook_2832.pdf
+cbook_2840;REPORT;PDF;https://ksdcdb.kr/attach/cbook/cbook_2840.pdf
+;EXERCISE;HTML;https://ksdcdb.kr/data/dataSearchResPollPopup.do
+data_9920240507222915;ANALYSIS;CSV;https://www.ksdcdb.kr/sbs/stat/Descript.jsp?statT=1&analT=1&fileN=data_9920240507222915.csv
+data_120240507223334;ANALYSIS;CSV;https://www.ksdcdb.kr/sbs/stat/Descript.jsp?statT=1&analT=1&fileN=data_120240507223334.csv
+rpp_2834;DATASET;PDF;https://ksdcdb.kr/attach/rpp/rpp_2834.pdf
+rpp_2831;DATASET;PDF;https://ksdcdb.kr/attach/rpp/rpp_2831.pdf

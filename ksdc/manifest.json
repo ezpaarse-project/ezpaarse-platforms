@@ -1,0 +1,14 @@
+{
+  "longname": "Korean Social Science Data Center",
+  "name": "ksdc",
+  "describe": "Recognizes the accesses to the platform Korean Social Science Data Center",
+  "contact": "Violita Kovchegov",
+  "pkb": false,
+  "docurl": "http://analyses.ezpaarse.org/platforms/6633fffa5c1d608547968b15",
+  "domains": [
+    "ksdcdb.kr",
+    "www.ksdcdb.kr"
+  ],
+  "version": "2024-05-09",
+  "status": "beta"
+}
