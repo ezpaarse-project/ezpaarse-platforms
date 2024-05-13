@@ -1,0 +1,14 @@
+{
+  "longname": "Peter Lang",
+  "name": "pl",
+  "describe": "Recognizes the accesses to the platform Peter Lang",
+  "contact": "Sean Duffy, Violita Kovchegov",
+  "pkb": false,
+  "docurl": "http://analyses.ezpaarse.org/platforms/5f7f35d72e6bcc3b9fdcb293",
+  "domains": [
+    "www.peterlang.com",
+    "www.peterlang.comsearch"
+  ],
+  "version": "2024-05-10",
+  "status": "beta"
+}
