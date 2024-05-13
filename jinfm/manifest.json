@@ -1,0 +1,14 @@
+{
+  "longname": "Jinfm",
+  "name": "jinfm",
+  "describe": "Recognizes the accesses to the platform Jinfm",
+  "contact": "Violita Kovchegov",
+  "pkb": false,
+  "docurl": "http://analyses.ezpaarse.org/platforms/663a71e0ba1d88b19396791d",
+  "domains": [
+    "jinfm.net",
+    "jinfm.udn.com"
+  ],
+  "version": "2024-05-09",
+  "status": "beta"
+}
