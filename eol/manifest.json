@@ -1,0 +1,13 @@
+{
+  "longname": "EOL",
+  "name": "eol",
+  "describe": "Recognizes the accesses to the platform EOL",
+  "contact": "Violita Kovchegov",
+  "pkb": false,
+  "docurl": "http://analyses.ezpaarse.org/platforms/65c2aabb5bb75de81f9e6598",
+  "domains": [
+    "ssl.eoldb.jp"
+  ],
+  "version": "2024-05-23",
+  "status": "beta"
+}
