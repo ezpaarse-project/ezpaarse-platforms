@@ -1,0 +1,14 @@
+{
+  "longname": "Vision Media",
+  "name": "vmedia",
+  "describe": "Recognizes the accesses to the platform Vision Media",
+  "contact": "Sean Duffy, Violita Kovchegov",
+  "pkb": false,
+  "docurl": "http://analyses.ezpaarse.org/platforms/650c844a484adaf4809270f5",
+  "domains": [
+    "cgust.app.visionmedia.com.tw",
+    "ntust.app.visionmedia.com.tw"
+  ],
+  "version": "2024-05-23",
+  "status": "beta"
+}

@@ -1,0 +1,12 @@
+out-unitid;out-rtype;out-mime;in-url
+;SEARCH;HTML;https://cgust.app.visionmedia.com.tw/video/search?q=最新電影
+;SEARCH;HTML;https://cgust.app.visionmedia.com.tw/video/search?q=美味午餐大作戰
+;SEARCH;HTML;https://ntust.app.visionmedia.com.tw/video/search?q=最新電影
+;SEARCH;HTML;https://ntust.app.visionmedia.com.tw/video/search?q=美味午餐大作戰
+48a6dfd6-8723-4d26-9005-d9a2ac678c5d;VIDEO;MISC;https://ntust.app.visionmedia.com.tw/video/detail/trailer/48a6dfd6-8723-4d26-9005-d9a2ac678c5d
+feda4692-8aa5-4ac6-b33c-5c744482befb;VIDEO;MISC;https://cgust.app.visionmedia.com.tw/video/detail/trailer/feda4692-8aa5-4ac6-b33c-5c744482befb
+feda4692-8aa5-4ac6-b33c-5c744482befb;VIDEO;MISC;https://cgust.app.visionmedia.com.tw/video/detail/movie/feda4692-8aa5-4ac6-b33c-5c744482befb
+70ce40f9-04b2-4a07-a56a-a99beb2b5694;VIDEO;MISC;https://ntust.app.visionmedia.com.tw/video/detail/movie/70ce40f9-04b2-4a07-a56a-a99beb2b5694
+科幻奇幻;TOC;HTML;https://ntust.app.visionmedia.com.tw/video/list?tag_name=科幻奇幻
+西班牙語;TOC;HTML;https://ntust.app.visionmedia.com.tw/video/list?tag_name=科幻奇幻&tag_name=西班牙語
+西班牙語;TOC;HTML;https://cgust.app.visionmedia.com.tw/video/list?tag_name=西班牙語
