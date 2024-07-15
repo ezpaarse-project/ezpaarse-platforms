@@ -1,0 +1,14 @@
+{
+  "longname": "Chilton",
+  "name": "chilton",
+  "describe": "Recognizes the accesses to the platform Chilton",
+  "contact": "Violita Kovchegov",
+  "pkb": false,
+  "docurl": "http://analyses.ezpaarse.org/platforms/6688515723b4aef40b1b8fb3",
+  "domains": [
+    "app.chiltonlibrary.com",
+    "appcontent.chiltonlibrary.com"
+  ],
+  "version": "2024-07-15",
+  "status": "beta"
+}
