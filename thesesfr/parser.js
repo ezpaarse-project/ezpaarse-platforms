@@ -21,7 +21,24 @@ module.exports = new Parser(function analyseEC(parsedUrl, ec) {
 
   let match;
 
-  if ((match = /^\/([0-9]{8}[0-9X])$/i.exec(path)) !== null) {
+  if ((match = /^\/api\/v1\/document\/([0-9a-z]+)$/i.exec(path)) !== null) {
+    // /api/v1/document/2019LYSE2053
+    result.rtype = 'PHD_THESIS';
+    result.unitid = match[1];
+    switch (ec.status) {
+    case 200:
+      result.mime = 'PDF';
+      break;
+    case 302:
+      result.mime = 'HTML';
+      break;
+
+    default:
+      result.mime = 'MISC';
+      break;
+    }
+
+  } else if ((match = /^\/([0-9]{8}[0-9X])$/i.exec(path)) !== null) {
     // /258987731
     result.rtype = 'BIO';
     result.mime = 'HTML';
