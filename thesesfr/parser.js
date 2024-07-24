@@ -28,7 +28,7 @@ module.exports = new Parser(function analyseEC(parsedUrl, ec) {
     result.unitid = match[1];
     result.publication_date = match[2];
     result.institution_code = match[3];
-    switch (ec.status) {
+    switch (Number.parseInt(ec.status, 10)) {
     case 200:
       result.mime = 'PDF';
       break;
