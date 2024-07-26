@@ -172,6 +172,25 @@ module.exports = new Parser(function analyseEC(parsedUrl) {
     result.rtype    = 'ARTICLE';
     result.mime     = 'PDF';
 
+  } else if ((match = /^\/articles\/([0-9a-z-]+)\/figures\/[0-9]+$/i.exec(path)) !== null) {
+    // https://www.nature.com/articles/s41467-023-41754-0/figures/1
+    result.rtype  = 'FIGURE';
+    result.mime   = 'HTML';
+    result.unitid = match[1];
+  } else if (/^\/[a-z-]+\/volumes$/i.test(path)) {
+    // https://www.nature.com/nature/volumes
+    result.rtype = 'TOC';
+    result.mime  = 'HTML';
+
+  } else if ((match = /^\/nature\/volumes\/(([0-9]+)\/issues\/([0-9]+))$/i.exec(path)) !== null) {
+    // https://www.nature.com/nature/volumes/617/issues/7962
+    // https://www.nature.com/nature/volumes/596/issues/7873
+    result.rtype  = 'TOC';
+    result.mime   = 'HTML';
+    result.unitid = match[1];
+    result.vol    = match[2];
+    result.issue  = match[3];
+
   } else if (path === '/siteindex/index.html') {
     // http://www.nature.com/siteindex/index.html
     result.rtype = 'TOC';
@@ -179,11 +198,8 @@ module.exports = new Parser(function analyseEC(parsedUrl) {
 
   } else if ((match = /^\/(search|facet-search)/.exec(path)) !== null) {
     // http://nano.nature.com.insb.bib.cnrs.fr/search?q=nanoparticules&workflow=article&term=concept%3A%22nanoparticles%22&new-search=true
-    if (params.q) {
-      result.mime   = 'HTML';
-      result.rtype  = 'SEARCH';
-      result.unitid = params.q;
-    }
+    result.mime  = 'HTML';
+    result.rtype = 'SEARCH';
 
   } else if ((match = /^\/nano\/([a-z0-9-]+)/i.exec(path)) !== null) {
     // http://nano.nature.com.insb.bib.cnrs.fr/nano/GR-M21079
