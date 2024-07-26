@@ -44,7 +44,7 @@ module.exports = new Parser(function analyseEC(parsedUrl, ec) {
   } else if ((match = /^\/nature\/volumes\/(([0-9]+)\/issues\/([0-9]+))$/i.exec(path)) !== null) {
     // https://www.nature.com/nature/volumes/617/issues/7962
     // https://www.nature.com/nature/volumes/596/issues/7873
-    result.rtype    = 'ISSUE';
+    result.rtype    = 'TOC';
     result.mime     = 'HTML';
     result.unitid   = match[1];
     result.vol = match[2];
