@@ -1,0 +1,13 @@
+{
+  "longname": "HyRead ebook",
+  "name": "hrb",
+  "describe": "Recognizes the accesses to the platform HyRead ebook",
+  "contact": "Violita Kovchegov",
+  "pkb": false,
+  "docurl": "https://analyses.ezpaarse.org/platforms/6169500277b41e76a7188dfd",
+  "domains": [
+    "ntust.ebook.hyread.com.tw"
+  ],
+  "version": "2024-08-09",
+  "status": "beta"
+}
