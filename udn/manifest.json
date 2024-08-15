@@ -1,0 +1,13 @@
+{
+  "longname": "Reading UDN",
+  "name": "udn",
+  "describe": "Recognizes the accesses to the platform Reading UDN",
+  "contact": "Violita Kovchegov",
+  "pkb": false,
+  "docurl": "https://analyses.ezpaarse.org/platforms/66ba5f51a0dbbbaa0e3efc3c",
+  "domains": [
+    "reading.udn.com"
+  ],
+  "version": "2024-08-15",
+  "status": "beta"
+}
