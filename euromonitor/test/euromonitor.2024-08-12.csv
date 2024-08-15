@@ -1,0 +1,13 @@
+out-title_id;out-unitid;out-rtype;out-mime;in-url
+;67/ppt/f-1970309-39143267;ANALYSIS;MISC;https://download.portal.euromonitor.com/documents/67/ppt/f-1970309-39143267.ppt?sv=2019-02-02&sr=b&sig=zW0XRGYbYieXfjjyD9qWokohhdL0AKLdXWDlvH3l594%3D&se=2024-08-06T18%3A38%3A56Z&sp=r&rscd=attachment%3B%20filename%20%3D%20Analysis.ppt
+;e41c23bc-20d4-4442-99d0-87df52e25c35;MAP;HTML;https://www.portal.euromonitor.com/dashboard/dashboarddetails?id=e41c23bc-20d4-4442-99d0-87df52e25c35
+;766edb3d-2fe1-4af9-8f65-e4d88fd2e762;MAP;HTML;https://www.portal.euromonitor.com/dashboard/dashboarddetails?id=766edb3d-2fe1-4af9-8f65-e4d88fd2e762
+;2100395;ANALYSIS;PDF;https://api.passport.euromonitor.com/CountryReportsApi/download-report?documentId=2100395
+;21003;ANALYSIS;PDF;https://api.passport.euromonitor.com/CountryReportsApi/download-report?documentId=21003
+;;ANALYSIS;HTML;https://www.portal.euromonitor.com/analysis/tab
+;;DATASET;HTML;https://www.portal.euromonitor.com/StatisticsEvolution/index
+;;SEARCH;HTML;https://www.portal.euromonitor.com/resultslist/index
+;1556039200418;DATASET;HTML;http://www.portal.euromonitor.com:80/portal/statisticsevolution/exporttoolsasync?measureTypeId=119&_=1556039200418
+462055;462055;REPORT;PDF;http://www.portal.euromonitor.com:80/portal/analysis/downloadpdf?analysisId=462055&analysisTypeId=1&itemTypeId=48&elementId=0&elementTypeId=0&checksum=014264A2BDEE0CCDE0F27E9FBC42BAFD&searchString=TesT
+431730;1556038977927;REPORT;HTML;http://www.portal.euromonitor.com:80/portal/dashboard/analysisrelateddashboards?analysisId=431730&analysisTypeId=1&_=1556038977927
+;;SEARCH;HTML;https://www.portal.euromonitor.com/searchui/main.js?version=20180704_1
