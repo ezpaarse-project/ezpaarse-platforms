@@ -1,0 +1,14 @@
+{
+  "longname": "Company of Biologists",
+  "name": "cob",
+  "describe": "Recognizes the accesses to the platform Company of Biologists",
+  "contact": "Violita Kovchegov",
+  "pkb": false,
+  "docurl": "https://analyses.ezpaarse.org/platforms/66ba68ae318b257026852114",
+  "domains": [
+    "journals.biologists.com",
+    "journals-biologists-com.manchester.idm.oclc.org"
+  ],
+  "version": "2024-08-15",
+  "status": "beta"
+}
