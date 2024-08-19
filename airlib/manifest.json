@@ -1,0 +1,13 @@
+{
+  "longname": "Airiti Library",
+  "name": "airlib",
+  "describe": "Recognizes the accesses to the platform Airiti Library",
+  "contact": "Sean Duffy, Violita Kovchegov",
+  "pkb": false,
+  "docurl": "http://analyses.ezpaarse.org/platforms/650c8e6d3ec8e615baad5c97",
+  "domains": [
+    "www.airitilibrary.com"
+  ],
+  "version": "2024-08-12",
+  "status": "beta"
+}
