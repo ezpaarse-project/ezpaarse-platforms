@@ -1,0 +1,13 @@
+{
+  "longname": "Sports Business Journal",
+  "name": "sbj",
+  "describe": "Recognizes the accesses to the platform Sports Business Journal",
+  "contact": "Violita Kovchegov",
+  "pkb": false,
+  "docurl": "https://analyses.ezpaarse.org/platforms/6643cceb54ebd848d73993d6",
+  "domains": [
+    "www.sportsbusinessjournal.com"
+  ],
+  "version": "2024-08-09",
+  "status": "beta"
+}
