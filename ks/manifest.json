@@ -1,0 +1,15 @@
+{
+  "longname": "Kyobo Scholar",
+  "name": "ks",
+  "describe": "Recognizes the accesses to the platform Kyobo Scholar",
+  "contact": "Violita Kovchegov",
+  "pkb": false,
+  "docurl": "https://analyses.ezpaarse.org/platforms/66b6324cddbca40e3a4ed278",
+  "domains": [
+    "scholar.kyobobook-co.kr",
+    "scholar.kyobobook.co.kr",
+    "wviewer.kyobobook.co.kr"
+  ],
+  "version": "2024-08-16",
+  "status": "beta"
+}
