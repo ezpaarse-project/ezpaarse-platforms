@@ -61,13 +61,11 @@ module.exports = new Parser(function analyseEC(parsedUrl, ec) {
     // https://pharmacylibrary.com/doi/epub/10.21019/9781582122861
     result.rtype    = 'BOOK';
     result.mime     = 'EPUB';
-    result.doi      = `${match[1]}/${match[2]}`;
     result.unitid   = `${match[1]}/${match[2]}`;
   } else if ((match = /^\/doi\/epdf\/([0-9.]+)\/([0-9]+)$/i.exec(path)) !== null) {
     // https://pharmacylibrary.com/doi/epdf/10.21019/9781582121444
     result.rtype    = 'BOOK';
     result.mime     = 'PDF';
-    result.doi      = `${match[1]}/${match[2]}`;
     result.unitid   = `${match[1]}/${match[2]}`;
   }
   return result;
