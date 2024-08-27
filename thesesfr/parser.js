@@ -17,18 +17,29 @@ module.exports = new Parser(function analyseEC(parsedUrl, ec) {
   // let param = parsedUrl.query || {};
 
   // use console.error for debuging
-  // console.error(parsedUrl);
+   //console.error(parsedUrl);
+
+const regex1 = /\/api\/v1\/personnes\/personne\/([0-9]{8}[0-9X])/ig;
+const regex3 = /\/api\/v1\/theses\/organisme\/([0-9]{8}[0-9X])/ig;
+const regex2 = /\/api\/v1\/theses\/these\/(([0-9]{4})([a-z]{2}[0-9a-z]{2})[0-9a-z]+)/ig;
+
+const regex4 = /\/api\/v1\/document\/(([0-9]{4})([a-z]{2}[0-9a-z]{2})[0-9a-z]+)/ig;
+const regex5 = /\/api\/v1\/document\/protected\/(([0-9]{4})([a-z]{2}[0-9a-z]{2})[0-9a-z]+)/ig;
+
 
   let match;
 
-  if ((match = /^\/api\/v1\/document\/(([0-9]{4})([0-9a-z]{4})[0-9a-z]+)$/i.exec(path)) !== null) {
-    // /api/v1/document/2019LYSE2053
-    // /api/v1/document/2010AIX22039
+
+
+if (((match = /^\/(([0-9]{4})([a-z]{2}[0-9a-z]{2})[0-9a-z]+)\/document$/i.exec(path)) !== null) ||
+     ((match = regex4.exec(path)) !== null) ) {
+    // https://theses.fr/2020EMAC0007/document Accès au PDF d’une thèse soutenue PHD_THESIS disponible en ligne
+	// /api/v1/document/2020EMAC0007 Accès au PDF d’une thèse soutenue PHD_THESIS disponible en ligne
     result.rtype = 'PHD_THESIS';
     result.unitid = match[1];
     result.publication_date = match[2];
     result.institution_code = match[3];
-    switch (Number.parseInt(ec.status, 10)) {
+	switch (Number.parseInt(ec.status, 10)) {
     case 200:
       result.mime = 'PDF';
       break;
@@ -40,46 +51,66 @@ module.exports = new Parser(function analyseEC(parsedUrl, ec) {
       result.mime = 'MISC';
       break;
     }
+  }
+  
+else  if ((match = regex5.exec(path)) !== null) {
+    // /api/v1/document/protected/2014PA070043  Accès au PDF d’une thèse PHD_THESIS sur l’intranet national
+    result.rtype = 'PHD_THESIS';
+    result.mime = 'PDF';
+    result.unitid = match[1];
+    result.publication_date = match[2];
+    result.institution_code = match[3];
 
-  } else if (
-    (match = /^\/([0-9]{8}[0-9X])$/i.exec(path)) !== null
-    || (match = /^\/api\/v1\/personnes\/personne\/([0-9]{8}[0-9X])$/i.exec(path)) !== null
-  ) {
-    // /264066944
-    // /api/v1/personnes/personne/264066944
-    result.rtype = 'BIO';
+  }  
+
+else if ((match = regex1.exec(path)) !== null) {
+    // RECORD person JSON, will be changed to BIO in middleware thesesfr-personne
+	// /api/v1/personnes/personne/264066944
+    result.rtype = 'RECORD';
+    result.mime = 'JSON';
+    result.unitid = match[1];
+    result.ppn = match[1];
+
+  } else if ((match = regex3.exec(path)) !== null) {
+    // RECORD organism JSON
+	// /api/v1/theses/organisme/159502497
+    result.rtype = 'RECORD';
+    result.mime = 'JSON';
+    result.unitid = match[1];
+    result.ppn = match[1];
+
+  } else if ((match = /^\/([0-9]{8}[0-9X])$/i.exec(path)) !== null) {
+    // /258987731 RECORD HTML undeterminable person or organism, will eventually set to BIO in middleware thesesfr-personne
+    result.rtype = 'RECORD';
     result.mime = 'HTML';
     result.unitid = match[1];
     result.ppn = match[1];
 
-  } else if (
-    (match = /^\/(s[0-9]+)$/i.exec(path)) !== null
-    || (match = /^\/api\/v1\/theses\/these\/(s[0-9]+)$/i.exec(path)) !== null
-  ) {
-    // /s366354
-    // /api/v1/theses/these/s383095
+  } else if ((match = /^\/(s[0-9]+)$/i.exec(path)) !== null) {
+    // /s366354 ABStract notice d’une thèse en préparation
     result.rtype = 'ABS';
     result.mime = 'HTML';
     result.unitid = match[1];
 
-  } else if (
-    (match = /^\/(([0-9]{4})([0-9a-z]{4})[0-9a-z]+)$/i.exec(path)) !== null
-    || (match = /^\/api\/v1\/theses\/these\/(([0-9]{4})([0-9a-z]{4})[0-9a-z]+)$/i.exec(path)) !== null
-  ) {
-    // /2023UPASP097
-    // /api/v1/theses/these/2024BORD0122
+  } else if ((match = regex2.exec(path)) !== null) {
+    // ABStract notice d’une thèse soutenue JSON
+	// /api/v1/theses/these/s383095
+    result.rtype = 'ABS';
+    result.mime = 'JSON';
+    result.unitid = match[1];
+    result.publication_date = match[2];
+    result.institution_code = match[3];
+
+  } else if ((match = /^\/(([0-9]{4})([a-z]{2}[0-9a-z]{2})[0-9a-z]+)$/i.exec(path)) !== null) {
+    // /2023UPASP097 ABStract notice d’une thèse soutenue HTML
     result.rtype = 'ABS';
     result.mime = 'HTML';
     result.unitid = match[1];
     result.publication_date = match[2];
     result.institution_code = match[3];
-
-  } else if (/^\/api\/v1\/theses\/recherche\/$/i.test(path)) {
-    // /api/v1/theses/recherche/?q=test&debut=0&nombre=10&tri=pertinence
-    result.rtype = 'SEARCH';
-    result.mime = 'HTML';
-
   }
+
+
 
   return result;
 });
