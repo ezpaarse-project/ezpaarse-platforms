@@ -1,0 +1,14 @@
+{
+  "longname": "APhA Pharmacy Library",
+  "name": "apha",
+  "describe": "Recognizes the accesses to the platform APhA Pharmacy Library",
+  "contact": "Violita Kovchegov",
+  "pkb": false,
+  "docurl": "https://analyses.ezpaarse.org/platforms/66b279634aa96e614c74a4bf",
+  "domains": [
+    "pharmacylibrary.com",
+    "pharmacylibrary-com.jerome.stjohns.edu"
+  ],
+  "version": "2024-08-09",
+  "status": "beta"
+}
