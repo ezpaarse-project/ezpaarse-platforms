@@ -7,7 +7,8 @@
      "db.degruyter.com"
   ],
   "bacon": {
-    "provider": "DEGRUYTER"
+    "provider": "DEGRUYTER",
+    "matches": ["GLOBAL"]
   },
   "name": "degruyter",
   "longname": "De Gruyter",
