@@ -1,13 +1,5 @@
 publication_title	print_identifier	online_identifier	date_first_issue_online	num_first_vol_online	num_first_issue_online	date_last_issue_online	num_last_vol_online	num_last_issue_online	title_url	first_author	title_id	embargo_info	coverage_depth	notes	publisher_name	publication_type	date_monograph_published_print	date_monograph_published_online	monograph_volume	monograph_edition	first_editor	parent_publication_title_id	preceding_publication_title_id	access_type
 Aesthetic Surgery Journal. Open Forum		2631-4797	2019	1	1				https://academic.oup.com/asjof/issue		asjofissue		fulltext	Open Access; new (2020); content not yet available		serial								P
-American Entomologist	1046-2821	2155-9902	1990	36	1				https://academic.oup.com/ae		ae		fulltext	transfer in (2015): Entomological Society of America		serial								P
-American Journal of Health-System Pharmacy	1079-2082	1535-2900	1995	52	1				https://academic.oup.com/ajhp		ajhp		fulltext	Transfer in (2019):American Society of Health System Pharmacists. Previously: American journal of hospital pharmacy (1958-1994), Bulletin - American Society of Hospital Pharmacists (1943-1957)		serial								P
 Geophysical Journal International	0956-540X	1365-246X	1958	1	1				https://academic.oup.com/gji		gji		fulltext	2013 takeover from Wiley. It was part of NESLI2 Wiley 2012		serial								P
 Geophysical Supplements to the Monthly Notices of the Royal Astronomical Society	2051-1965	2051-1973	1922	1	1				https://academic.oup.com/gsmnras		gsmnras		fulltext			serial								P
-International Studies Quarterly	0020-8833	1468-2478	1967	11	1				https://academic.oup.com/isq		isq		fulltext	transfer in (2016): Wiley Blackwell.		serial								P
-Journal of Chromatographic Science	0021-9665	1945-239X	1963	1	1				https://academic.oup.com/chromsci		chromsci		fulltext	Transfer in (2012): Preston Publications		serial								P
 Literary and Linguistic Computing	0268-1145	1477-4615	1986	1	1	2014	29	4	https://academic.oup.com/llc		llc		fulltext	now: Digital Scholarship in the Humanities		serial								P
-Military Medicine	0026-4075	1930-613X	1955	116	1				https://academic.oup.com/milmed		milmed		fulltext	Transfer in (2018). Previously: Military Surgeon (1907-1954)		serial								P
-Social Forces	0037-7732	1534-7605	1922	1	1				https://academic.oup.com/sf		sf		fulltext			serial								P
-The American Journal of Jurisprudence	0065-8995	2049-6494	1956	1	1				https://academic.oup.com/ajj		ajj		fulltext	New to Oxford Journals in 2013		serial								P
-The Journal of Clinical Endocrinology & Metabolism	0021-972X	1845-7197	1941	1	1				https://academic.oup.com/jcem		jcem		fulltext	Transfer in (2017): Endocrine Society		serial								P

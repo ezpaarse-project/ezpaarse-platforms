@@ -1,24 +1,10 @@
 publication_title	print_identifier	online_identifier	date_first_issue_online	num_first_vol_online	num_first_issue_online	date_last_issue_online	num_last_vol_online	num_last_issue_online	title_url	publisher_name	first_author	title_id	embargo_info	coverage_depth	coverage_notes	publication_type	date_monograph_published_print	date_monograph_published_online	monograph_volume	monograph_edition	first_editor	parent_publication_title_id	preceding_publication_title_id	access_type
 			2002	Vol. 57	01	2013	Vol. 68	06	http://www.cairn.info/revue-.htm	Institut national d'études démographiques (INED)		revue-												
 Annales. Histoire, Sciences Sociales (English)	2268-3763		2012	67th Year	01	2013	68th Year	04	http://www.cairn.info/revue-annales-english.htm	Éditions de l'EHESS		revue-annales-english												
-Cahiers de PréAut	1767-3151	2273-2225	2004	N° 1	01	2014	N° 9	01	http://www.cairn.info/revue-cahiers-de-preaut1.htm	L'Harmattan		revue-cahiers-de-preaut1												
-Cahiers de sociolinguistique	1273-6449		2001	n° 10	01	2010	n° 9	01	http://www.cairn.info/revue-cahiers-de-sociolinguistique.htm	Presses univ. de Rennes		revue-cahiers-de-sociolinguistique												
-Champ psy	2260-2100	2273-1571	2001	n° 21	01	2014	n° 65	04	http://www.cairn.info/revue-champ-psychosomatique.htm	L'Esprit du temps		revue-champ-psychosomatique												
 Clio	1252-7017	1777-5299	2012	n° 35	01	2014	n° 40	02	http://www.cairn.info/revue-clio.htm	Presses univ. du Mirail		revue-clio												
-Documentaliste-Sciences de l'Information	0012-4508	1777-5868	2001	Vol. 38	01	2014	Vol. 51	06	http://www.cairn.info/revue-documentaliste-sciences-de-l-information.htm	A.D.B.S.		revue-documentaliste-sciences-de-l-information												
 L'Espace géographique (English Edition)			2012	Volume 41	01	2012	Volume 41	04	http://www.cairn.info/revue-espace-geographique-english.htm	Belin		revue-espace-geographique-english												
 Revue française de science politique (English)	2263-7494		2010	Vol. 60	01	2013	Vol. 63	06	http://www.cairn.info/revue-francaise-de-science-politique-english.htm	Presses de Sciences Po (P.F.N.S.P.)		revue-francaise-de-science-politique-english												
 Géomorphologie	1266-5304	1957-777X	2012	n° 1	01	2014	n° 4	04	http://www.cairn.info/revue-geomorphologie.htm	Groupe français de géomorphologie		revue-geomorphologie												
 Annales des Mines - Gérer et comprendre	0295-4397	2271-7943	2008	N° 100	01	2014	N° 99	04	http://www.cairn.info/revue-gerer-et-comprendre1.htm	ESKA		revue-gerer-et-comprendre1												
-Revue internationale de psychosociologie	1260-1705	2105-2662	2001	Vol. IX	16	2012	Vol. XVIII	44	http://www.cairn.info/revue-internationale-de-psychosociologie.htm	ESKA		revue-internationale-de-psychosociologie												
-Les cahiers de médiologie	1777-5604		1996	N° 1	01	2003	N° 9	02	http://www.cairn.info/revue-les-cahiers-de-mediologie.htm	Gallimard		revue-les-cahiers-de-mediologie												
-Les cahiers Irice	1967-2713	2118-0067	2008	n° 10	01	2014	n°8	02	http://www.cairn.info/revue-les-cahiers-irice.htm	IRICE		revue-les-cahiers-irice												
-La lettre de l'enfance et de l'adolescence	1146-061X	1951-6304	2001	n° 43	01	2013	n° 88	04	http://www.cairn.info/revue-lettre-de-l-enfance-et-de-l-adolescence.htm	ERES		revue-lettre-de-l-enfance-et-de-l-adolescence												
-Lignes	0988-5226	2272-818X	1987	n° 1	01	2014	n° 35	04	http://www.cairn.info/revue-lignes1.htm	Editions Léo Scheer		revue-lignes1												
-Market Management	1779-3572	2111-4374	2001	Vol. 1	01	2009	Vol. 9	04	http://www.cairn.info/revue-market-management.htm	ESKA		revue-market-management												
-Outre-Terre	1636-3671	1951-624X	2003	n° 10	01	2014	N° 41	04	http://www.cairn.info/revue-outre-terre1.htm	Outre-terre		revue-outre-terre1												
-Parlement[s], Revue d'histoire politique	1768-6520	1760-6233	2004	n° 1	01	2014	n° HS 9	03	http://www.cairn.info/revue-parlements1.htm	L'Harmattan		revue-parlements1												
-Annales des Mines - Réalités industrielles	1148-7941	2271-7978	2008	Août 2008	01	2015	Novembre 2014	04	http://www.cairn.info/revue-realites-industrielles1.htm	ESKA		revue-realites-industrielles1												
 Annales des Mines - Responsabilité et environnement	1268-4783	2271-8052	2008	N° 49	01	2015	N°57	04	http://www.cairn.info/revue-responsabilite-et-environnement1.htm	ESKA		revue-responsabilite-et-environnement1												
 Revue française de sociologie (English)			2012	Vol. 53	01	2012	Vol. 53	04	http://www.cairn.info/revue-revue-francaise-de-sociologie-english.htm	Presses de Sciences Po (P.F.N.S.P.)		revue-revue-francaise-de-sociologie-english												
-Movement et Sport Sciences	2118-5735	2118-5743	2002	n° 45	01	2014	n° 86	04	http://www.cairn.info/revue-science-et-motricite.htm	EDP Sciences		revue-science-et-motricite												

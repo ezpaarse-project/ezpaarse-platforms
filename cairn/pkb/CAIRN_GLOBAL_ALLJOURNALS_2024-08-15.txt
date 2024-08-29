@@ -1,0 +1,51 @@
+publication_title	print_identifier	online_identifier	date_first_issue_online	num_first_vol_online	num_first_issue_online	date_last_issue_online	num_last_vol_online	num_last_issue_online	title_url	first_author	title_id	embargo_info	coverage_depth	notes	publisher_name	publication_type	date_monograph_published_print	date_monograph_published_online	monograph_volume	monograph_edition	first_editor	parent_publication_title_id	preceding_publication_title_id	access_type	bestppn
+Action publique. Recherche et pratiques		2647-3135	2018	1	1				https://www.cairn.info/revue-action-publique-recherche-et-pratiques.htm		revue-action-publique-recherche-et-pratiques		fulltext		Institut de la gestion publique et du développement économique (IGPDE)	serial								F	23259189X
+Déviance et Société	0378-7931	2296-4096	2006	30	3				https://www.cairn.info/revue-deviance-et-societe.htm		revue-deviance-et-societe		fulltext		Médecine et Hygiène	serial								F	170352218
+Dialogues d'histoire ancienne	0755-7256	1955-270X	2007		1				https://www.cairn.info/revue-dialogues-d-histoire-ancienne.htm		revue-dialogues-d-histoire-ancienne		fulltext		Presses universitaires de Franche-Comté	serial								F	114711208
+Flux	1154-2721	1958-9557	2001	43	1				https://www.cairn.info/revue-flux.htm		revue-flux		fulltext		Université Gustave Eiffel	serial								F	120432234
+Formation emploi	0759-6340	2107-0946	2006	93	1				https://www.cairn.info/revue-formation-emploi.htm		revue-formation-emploi		fulltext		Céreq	serial								F	139618112
+Forum de l’assurance	1376-3954		2020	200	1				https://www.cairn.info/revue-forum-de-l-assurance.htm		revue-forum-de-l-assurance	R5Y	fulltext		Anthemis	serial								P	
+Population	0032-4663	1957-7966	2001	56	4				https://www.cairn.info/revue-population.htm		revue-population		fulltext		Ined Éditions	serial								F	112126227
+Revue Cyber et Conformité	2738-9413		2021	1	1				https://www.cairn.info/revue-cyber-et-conformite.htm		revue-cyber-et-conformite	R5Y	fulltext		Legitech	serial								P	
+Revue des entreprises en difficulté	2953-1691		2023	1	1				https://www.cairn.info/revue-des-entreprises-en-difficulte.htm		revue-des-entreprises-en-difficulte	R5Y	fulltext		Anthemis	serial								P	
+Revue internationale de politique comparée	1370-0731	1782-1533	2007	14	1				https://www.cairn.info/revue-internationale-de-politique-comparee.htm		revue-internationale-de-politique-comparee		fulltext		De Boeck Supérieur	serial								F	099058022
+Revue d'études palestiniennes			1981	1	1	2008		3	https://www.cairn.info/revue-d-etudes-palestiniennes.htm		revue-d-etudes-palestiniennes		fulltext		Institut des études palestiniennes	serial								F	
+Revue d'histoire des sciences	0151-4105	1969-6582	2006	59	1				https://www.cairn.info/revue-d-histoire-des-sciences.htm		revue-d-histoire-des-sciences		fulltext		Armand Colin	serial								F	127474099
+Revue économique	0035-2764	1950-6694	2001	52	5				https://www.cairn.info/revue-economique.htm		revue-economique		fulltext		Presses de Sciences Po	serial								F	098320335
+Revue française de criminologie et de droit pénal	2270-1109		2013	1	1				https://www.cairn.info/revue-revue-francaise-de-criminologie-et-de-droit-penal.htm		revue-revue-francaise-de-criminologie-et-de-droit-penal	R3Y	fulltext		Institut pour la Justice	serial								P	
+Santé mentale au Québec	0383-6320	1708-3923	2017	42	1				https://www.cairn.info/revue-sante-mentale-au-quebec.htm		revue-sante-mentale-au-quebec		fulltext		Santé mentale au Québec	serial								F	114926050
+Santé Publique	0995-3914	2104-3841	2001	13	1				https://www.cairn.info/revue-sante-publique.htm		revue-sante-publique		fulltext		S.F.S.P.	serial								F	122245296
+Sciences sociales et santé	0294-0337	1777-5914	2006	24	1				https://www.cairn.info/revue-sciences-sociales-et-sante.htm		revue-sciences-sociales-et-sante		fulltext		JLE Editions	serial								F	116269502
+Cahiers de récits			2024	11	1				https://www.cairn.info/revue-cahiers-de-recits.htm		revue-cahiers-de-recits	R3Y	fulltext		Université de technologie de Belfort-Montbéliard	serial								P	
+Cahiers ISPOLE			2024	1	1				https://www.cairn.info/revue-cahiers-ispole.htm		revue-cahiers-ispole		fulltext		Université catholique de Louvain	serial								F	
+DPO news			2020	6	1				https://www.cairn.info/revue-dpo-news.htm		revue-dpo-news	R5Y	fulltext		Anthemis	serial								P	
+Droit et société	0769-3362	1969-6973	2001	47	1				https://www.cairn.info/revue-droit-et-societe.htm		revue-droit-et-societe		fulltext		Lextenso	serial								F	133156834
+Économie rurale	0013-0559	2105-2581	2005	289	5				https://www.cairn.info/revue-economie-rurale.htm		revue-economie-rurale		fulltext		Société française d’économie rurale	serial								F	136790410
+Éducation et formations	0294-0868	1777-5558	2023	105	1				https://www.cairn.info/revue-education-et-formations.htm		revue-education-et-formations		fulltext		DEPP – MENJ / SIES – MESR	serial								F	116261129
+Histoire et mesure	0982-1783	1957-7745	2001		1				https://www.cairn.info/revue-histoire-et-mesure.htm		revue-histoire-et-mesure		fulltext		Éditions de l'EHESS	serial								F	11653852X
+Histoire et missions chrétiennes	1957-5246	2264-4938	2007	1	1	2012		3	https://www.cairn.info/revue-histoire-monde-et-cultures-religieuses1.htm		revue-histoire-monde-et-cultures-religieuses1	R3Y	fulltext		Karthala	serial								P	166369454
+Hommes et Migrations	1142-852X	2262-3353	2009	1277	1				https://www.cairn.info/revue-hommes-et-migrations.htm		revue-hommes-et-migrations		fulltext		Musée de l’histoire de l’immigration	serial								F	148632106
+Céreq Essentiels			2018	1	1				https://www.cairn.info/revue-cereq-essentiels.htm		revue-cereq-essentiels		fulltext		Céreq	serial								F	
+Champ psychosomatique	1266-5371	1961-8638	2001	21	1	2009		4	https://www.cairn.info/revue-champ-psychosomatique.htm		revue-champ-psychosomatique	R5Y	fulltext		L’Esprit du temps	serial								P	111858690
+Che Vuoi ?	0994-2424	2262-4848	2003	19	1	2016		1	https://www.cairn.info/revue-che-vuoi-2.htm		revue-che-vuoi-2	R3Y	fulltext		Le Cercle freudien	serial								P	16619798X
+Chroniques de l'administration publique		3000-8018	2023	1	1				https://www.cairn.info/revue-chroniques-de-l-administration-publique.htm		revue-chroniques-de-l-administration-publique		fulltext		Institut national du service public	serial								F	272230057
+Espaces et sociétés	0014-0481	1961-8700	2004	116	1				https://www.cairn.info/revue-espaces-et-societes.htm		revue-espaces-et-societes		fulltext		Érès	serial								F	111964547
+Horizons stratégiques	1958-3370	1760-8023	2006	1	1	2008		1	https://www.cairn.info/revue-horizons-strategiques.htm		revue-horizons-strategiques		fulltext		La Documentation française	serial								F	131778544
+Monde(s)	2261-6268	2260-7927	2012	1	1				https://www.cairn.info/revue-mondes.htm		revue-mondes	R2Y	fulltext		Presses universitaires de Rennes	serial								P	166197386
+Raison publique	1767-0543	2268-5944	2012	17	2				https://www.cairn.info/revue-raison-publique.htm		revue-raison-publique	R2Y	fulltext		Éditions Raison publique	serial								P	172121825
+Archives de sciences sociales des religions	0335-5985	1777-5825	2020	192	5				https://www.cairn.info/revue-archives-de-sciences-sociales-des-religions.htm		revue-archives-de-sciences-sociales-des-religions		fulltext		Éditions de l'EHESS	serial								F	110670558
+Consilio manuque	2030-2568		2020		1				https://www.cairn.info/revue-consilio-manuque.htm		revue-consilio-manuque	R5Y	fulltext		Anthemis	serial								P	
+European Investment Fund Review	2795-708X		2022	1	1				https://www.cairn.info/revue-european-investment-fund-review.htm		revue-european-investment-fund-review	R5Y	fulltext		Legitech	serial								P	
+La nouvelle revue de l'adaptation et de la scolarisation	1957-0341	2426-6248	2006	33	1	2017		3-4	https://www.cairn.info/revue-la-nouvelle-revue-de-l-adaptation-et-de-la-scolarisation.htm		revue-la-nouvelle-revue-de-l-adaptation-et-de-la-scolarisation		fulltext		INSEI	serial								F	183578325
+Les cahiers de médiologie	1270-0665	1777-5604	1996	1	1	2003		1	https://www.cairn.info/revue-les-cahiers-de-mediologie.htm		revue-les-cahiers-de-mediologie		fulltext		Gallimard	serial								F	116261153
+Nouvelle revue d’esthétique	1969-2269	2264-2595	2008	1	1				https://www.cairn.info/revue-nouvelle-revue-d-esthetique.htm		revue-nouvelle-revue-d-esthetique		fulltext		Presses Universitaires de France	serial								F	16750164X
+Nouvelles FondationS	1951-9745	2101-0242	2006	1	1	2007		3-4	https://www.cairn.info/revue-nouvelles-fondations.htm		revue-nouvelles-fondations		fulltext		Fondation Gabriel Péri	serial								F	122137175
+Nouvelles Questions Féministes	0248-4951	2297-3850	2002	21	1				https://www.cairn.info/revue-nouvelles-questions-feministes.htm		revue-nouvelles-questions-feministes		fulltext		Éditions Antipodes	serial								F	18530656X
+Staps	0247-106X	1782-1568	2001	54	1				https://www.cairn.info/revue-staps.htm		revue-staps		fulltext		De Boeck Supérieur	serial								F	099221012
+Les Champs de Mars	1253-1871	2427-3244	1996	1	1	2013		1	https://www.cairn.info/revue-les-champs-de-mars-ldm.htm		revue-les-champs-de-mars-ldm	R3Y	fulltext		La Documentation française	serial								P	187252408
+Lignes	0988-5226	2272-818X	1987	1	1	1999		3	https://www.cairn.info/revue-lignes0.htm		revue-lignes0		fulltext		Éditions Hazan	serial								P	178582085
+Littératures classiques	0992-5279	2260-8478	2004	54	2				https://www.cairn.info/revue-litteratures-classiques.htm		revue-litteratures-classiques	R3Y	fulltext		Presses universitaires du Midi	serial								P	166197440
+Parlement[s], Revue d'histoire politique	1768-6520	1760-6233	2004	1	1	2013		2	https://www.cairn.info/revue-parlements1.htm		revue-parlements1	R3Y	fulltext		L'Harmattan	serial								P	131778463
+Participations	2034-7650	2034-7669	2011	1	1				https://www.cairn.info/revue-participations.htm		revue-participations		fulltext		De Boeck Supérieur	serial								F	155661019
+Terrains et travaux	1627-9506	2104-3779	2000	1	1				https://www.cairn.info/revue-terrains-et-travaux.htm		revue-terrains-et-travaux		fulltext		ENS Paris-Saclay	serial								F	122249550
+Travail, genre et sociétés	1294-6303	2105-2174	1999	1	1				https://www.cairn.info/revue-travail-genre-et-societes.htm		revue-travail-genre-et-societes		fulltext		La Découverte	serial								F	130473405

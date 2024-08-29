@@ -24,7 +24,6 @@ Vauxhall Advance, The (web site)											AVA
 Boston Herald											BH													
 Process Alimentaire (blogues)											BKB													
 Bloomberg (web site ref.)											BLO													
-Business Wire											BW													
 4Ps Business and Marketing											CAAA													
 ABC Live (India) (web site)											CABC													
 Accommodation Times											CACC													
@@ -214,7 +213,6 @@ Newsline (Pakistan)											CNEL
 NewsWorms (web site)											CNEW													
 Wingham Advance-Times, The  (web site ref.)											CNG													
 Nova Scotia Business Journal (web site ref.)											CNS													
-Thomson Reuters ONE (français)											CO													
 Metro (Calgary) (web site ref.)											COA													
 Courrier, Le (réf. site web)											COC													
 Metro (Edmonton) (web site ref.)											COD													
@@ -345,12 +343,9 @@ United News of India (UNI)											FUNI
 JCN Newswire											GDC													
 Guide des Etats-Majors - Sociétés - L'AGEFI											GES													
 Middle East, The											GFP													
-Al Arabiya (Dubai, UAE)											GJA													
-Daily News Egypt											GJE													
 Dar Al Hayat (Beirut, Lebanon)											GJF													
 Emirates News Agency (WAM)											GJI													
 Moj News Agency (Tehran, Iran)											GJU													
-Pajhwok Afghan News (Kabul, Afghanistan)											GJY													
 Annuaire de la finance  - Sociétés - L'AGEFI											GKA													
 Egyptian Gazette, The (Cairo, Egypt)											GLC													
 Palestine Chronicle, The (Mountlake Terrace, WA)											GLF													
@@ -642,7 +637,6 @@ Hernando Today (Brooksville, FL)											NCHO
 Hickory Daily Record (NC)											NCHP													
 High Point Enterprise (NC)											NCHQ													
 Highlands Today (Sebring, FL)											NCHR													
-Hindustan Times (New Delhi)											NCHS													
 Hour, The (Norwalk, CT)											NCHT													
 Houston Chronicle (TX)											NCHU													
 Honolulu Star-Advertiser (HI), The											NCHV													
@@ -684,7 +678,6 @@ Lake Wylie Pilot (SC)											NCLW
 Madison County Eagle (VA)											NCMA													
 Mail Tribune (Medford, OR)											NCMB													
 Manila Times, The											NCMC													
-Mint (New Delhi)											NCMD													
 McAlester News-Capital (OK)											NCME													
 McCreary County Record (Whitley City, KY)											NCMF													
 McDowell News, The (Marion, NC)											NCMG													
@@ -1146,7 +1139,6 @@ York Daily Record (PA)											NKYD
 York Dispatch, The (PA)											NKYK													
 Kyodo News International											NKYN													
 Zap2it (web site)											NKZA													
-All Africa (web site)											NMAF													
 M2 Airline Industry Information											NMCA													
 M2 Corporate IT Update											NMCC													
 EquityBites											NMCE													
@@ -1178,7 +1170,6 @@ Daily Princetonian (Princeton U., NJ)											NUDH
 Daily Targum (Rutgers U., NJ)											NUDI													
 District Chronicles, The (Howard U., DC)											NUDJ													
 Daily Californian, The (U. of California)											NUDK													
-Harvard Political Review											NUHA													
 Hoya, The (Georgetown U., DC)											NUHO													
 Indiana Daily Student (Indiana U.)											NUIN													
 Johns Hopkins News-Letter, The (J.H.U., MD)											NUJO													
@@ -1222,8 +1213,6 @@ Market News Video (web TV)											NZM
 New York Financial Press (web TV)											NZN													
 Pop17 (web TV)											NZP													
 This Week In, Inc. (web TV)											NZS													
-Opinion, L'											OPI													
-Opinion, L' (site web)											OPJ													
 Journal de Montréal, Le (réf. site web)											OPW													
 Journal de Québec, Le (réf. site web)											ORW													
 Burnaby NewsLeader											PBN													
@@ -1307,13 +1296,11 @@ ADP News Middle East and Africa											SADP
 Africa Review (web site)											SAFC													
 AfricaFocus Bulletin											SAFD													
 Afghan Islamic Press (AIP)											SAFG													
-Agence d'Informations du Burkina (AIB)											SAGB													
 Agence de Presse Africaine (APAnews)											SAGE													
 Agence Mauritanienne d'Information (AMI)											SAGM													
 AKIpress News Agency											SAKI													
 Al Ain Times (Abu Dhabi)											SALA													
 Al-Arab											SALB													
-Al Riyadh (Saudi Arabia)											SALD													
 Al-Akhbar English (Lebanon)											SALE													
 Al Alam (Iran) (web site)											SALF													
 Al-Ahram Hebdo											SALH													
@@ -1326,7 +1313,6 @@ American Bedu (blog)											SAME
 Andy McTiernan Property and Economy Bulletin											SAND													
 Angry Arab News Service, The											SANG													
 ANSAmed											SANS													
-Arab Times (Kuwait)											SARB													
 Arabian Gazette (web site)											SARC													
 Arabic Literature (blogs)											SARD													
 Arab Ad											SARE													
@@ -1367,7 +1353,6 @@ Cape Times (South Africa)											SCAQ
 Cashy											SCAS													
 ChinaBidding - Tender Awards (web site)											SCHA													
 China Daily - Africa (web site)											SCHB													
-China Daily - Europe											SCHC													
 China Daily - Hong Kong (web site)											SCHD													
 China Daily - USA (web site)											SCHE													
 China Watch Blog											SCHI													
@@ -1415,14 +1400,12 @@ ET Net (web site)											SETN
 Eurasia Review (web site)											SEUR													
 Executive Appointments Worldwide											SEXA													
 San Francisco Chronicle											SF													
-Fadi Abu Sa'da (Palestine)											SFAD													
 FairWarning (web site)											SFAI													
 FARS News Agency (Iran)											SFAR													
 Fashionista (web site)											SFAS													
 First Avenue Magazine											SFIR													
 FooDiva (blog)											SFOO													
 ForexPros											SFOR													
-France 24 (site web)											SFRA													
 Fustany (web site)											SFUS													
 Gadgets and Gizmos (India)											SGAD													
 Garhwal Post (India)											SGAR													
@@ -1444,7 +1427,6 @@ Horizons (Algérie)											SHOR
 H2O Middle East											SHTW													
 IDentity (Dubai)											SIDE													
 Imphal Free Press (India)											SIMP													
-InPR											SIN													
 India Prwire											SINB													
 India Today Travel Plus											SINE													
 India Automobile News											SING													
@@ -1468,7 +1450,6 @@ IT Mag (Algérie)											SITM
 ITP (web site)											SITP													
 ITWeb (web site)											SITW													
 Jagran Post (web site)											SJAG													
-Jerusalem Post (Israel) (web site)											SJER													
 Kazakhstan Government News											SKA													
 Kamil Pasha (blog)											SKAH													
 Kashmir Images											SKAI													
@@ -1513,7 +1494,6 @@ New African (français)											SNEW
 NextBigWhat (web site)											SNEX													
 Newzglobe (web site)											SNEZ													
 Northlines, The (India)											SNOR													
-Nouvelle Tribune, La (Maroc)											SNOU													
 Oxbow Herald, The (SK)											SOH													
 Oman News Agency (ONA)											SOMA													
 Oman Tribune											SOMB													
@@ -1536,9 +1516,6 @@ Prevention (India)											SPRV
 Qatar News Agency (QNA)											SQAN													
 Qatar Tribune (Doha)											SQAT													
 Radio and Television Business Report (RBR-TVBR)											SRAD													
-RFI (site web) (français)											SRFA													
-RFI (web site) (english)											SRFB													
-RFI (sitio web) (español)											SRFC													
 RFI (web site) (português)											SRFD													
 Right Vision News (Lahore, Pakistan)											SRIG													
 Radville Star, The (SK)											SRS													
@@ -1667,7 +1644,6 @@ TradingMarkets  (web site ref.)											WTM
 ITespresso (réf. site web)											WVN													
 Sorel-Tracy Express											WX													
 Vallée du Richelieu Express											WY													
-Daily Mail (London, UK)											XD													
 Kingston Whig Standard, The (ON)	1197-4397										XG													
 Lindsay Post, The (ON)											XH													
 Niagara Falls Review (ON)	0839-1572										XJ													

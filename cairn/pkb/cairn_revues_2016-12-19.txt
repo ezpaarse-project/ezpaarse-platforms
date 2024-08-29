@@ -331,9 +331,7 @@ Revue européenne des sciences sociales	0048-8046	1663-4446	Librairie Droz	http:
 Revue d'éthique et de théologie morale	1266-0078	2118-4518	Editions du Cerf	http://www.cairn.info/revue-d-ethique-et-de-theologie-morale.htm			229			292			RETM											
 Revue sur le droit et la politique de la concurrence	1560-7798	1684-3452	Ed. de l’OCDE	http://www.cairn.info/revue-sur-le-droit-et-la-politique-de-la-concurrence.htm			3			9			REVD											
 Revue économique de l'OCDE	0255-0830	1684-3444	Ed. de l’OCDE	http://www.cairn.info/revue-economique-de-l-ocde.htm			32			44			REVO											
-Corps	1954-1228	1969-6957	Dilecta	http://www.cairn.info/revue-corps-dilecta.htm			1			8			revue-corps-dilecta											
 Géocarrefour	1627-4873	1960-601X	Association des amis de la Revue de géographie de Lyon	http://www.cairn.info/revue-geocarrefour.htm			88			90			revue-geocarrefour											
-Revue Tiers Monde	1293-8882	1963-1359	Armand Colin	http://www.cairn.info/revue-tiers-monde.htm			173			227			revue-tiers-monde											
 Tracés	1763-0061	1963-1812	E.N.S. Editions	http://www.cairn.info/revue-traces.htm			24			31			revue-traces											
 Recherches familiales	1763-718X	2118-3252	Union nationale des associations familiales (UNAF)	http://www.cairn.info/revue-recherches-familiales.htm			1			12			RF											
 Revue française d'administration publique	0152-7401	1965-0620	Ecole nationale d'administration (ENA)	http://www.cairn.info/revue-francaise-d-administration-publique.htm			101			158			RFAP											

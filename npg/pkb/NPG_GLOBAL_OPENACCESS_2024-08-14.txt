@@ -1,0 +1,84 @@
+publication_title	print_identifier	online_identifier	date_first_issue_online	num_first_vol_online	num_first_issue_online	date_last_issue_online	num_last_vol_online	num_last_issue_online	title_url	first_author	title_id	embargo_info	coverage_depth	notes	publisher_name	publication_type	date_monograph_published_print	date_monograph_published_online	monograph_volume	monograph_edition	first_editor	parent_publication_title_id	preceding_publication_title_id	access_type	bestppn
+BDJ Open		2056-807X	2015-12-01	1	1				http://www.nature.com/bdjopen		bdjopen		fulltext	fully open access	Nature Publishing Group	serial								F	189875003
+BJC Reports		2731-9377	2023-12-01	1	1				https://www.nature.com/bjcreports/		bjcreports		fulltext	fully open access	Nature Publishing Group	serial								F	271822406
+Blood Cancer Journal		2044-5385	2011	1	1				http://www.nature.com/bcj		bcj		fulltext	fully open access	Nature Publishing Group	serial								F	197426565
+Bone Research		2095-6231	2013-12-01	1	1				http://www.nature.com/boneres		boneres		fulltext	fully open access	Nature Publishing Group	serial								F	223276308
+Cell Death & Disease		2041-4889	2010	1	1				http://www.nature.com/cddis/		cddis		fulltext	fully open access	Nature Publishing Group	serial								F	151981647
+Cell Death Discovery		2058-7716	2015-12-01	1	1				http://www.nature.com/cddiscovery		cddiscovery		fulltext	fully open access	Nature Publishing Group	serial								F	18933553X
+Cell Discovery		2056-5968	2015-12-01	1	1				https://www.nature.com/celldisc		celldisc		fulltext	fully open access	Nature Publishing Group	serial								F	188557865
+Clinical and Translational Gastroenterology		2155-384X	2010-10-01	1	10	2018-12-01	9	12	https://www.nature.com/ctg/		ctg		fulltext	fully open access	Nature Publishing Group	serial								F	165470259
+Communications Biology		2399-3642	2018-12-01	1	1				http://www.nature.com/commsbio/		commsbio		fulltext	fully open access	Nature Publishing Group	serial								F	224182595
+Communications Chemistry		2399-3669	2018-12-01	1	1				http://www.nature.com/commschem/		commschem		fulltext	fully open access	Nature Publishing Group	serial								F	22549857X
+Communications Earth & Environment		2662-4435	2020-12-01	1	1				https://www.nature.com/commsenv/		commsenv		fulltext	fully open access	Nature Publishing Group	serial								F	250471922
+Communications Engineering		2731-3395	2022-12-01	1	1				https://www.nature.com/commseng/		commseng		fulltext	fully open access	Nature Publishing Group	serial								F	263425738
+Communications Materials		2662-4443	2020-12-01	1	1				https://www.nature.com/commsmat/		commsmat		fulltext	fully open access	Nature Publishing Group	serial								F	248313851
+Communications Medicine		2730-664X	2021-12-01	1	1				https://www.nature.com/commsmed		commsmed		fulltext	fully open access	Nature Publishing Group	serial								F	257220038
+Communications Physics		2399-3650	2018-12-01	1	1				http://www.nature.com/commsphys		commsphys		fulltext	fully open access	Nature Publishing Group	serial								F	225257084
+Communications Psychology		2731-9121	2023-12-01	1	1				https://www.nature.com/commspsychol/		commspsychol		fulltext	fully open access	Nature Publishing Group	serial								F	272376035
+EMBO Molecular Medicine	1757-4676	1757-4684	2021-09-01	13	9				https://www.embopress.org/journal/17574684		https:www.embopress.orgjournal17574684		fulltext	fully open access	Nature Publishing Group	serial								F	136115403
+EMBO Reports	1469-221X	1469-3178	2014-04-01	15	4				https://www.embopress.org/journal/14693178		https:www.embopress.orgjournal14693178		fulltext	fully open access	Nature Publishing Group	serial								F	058289208
+Emerging Microbes & Infections		2222-1751	2012-07-01	1	7	2018-12-01	7	1	https://www.nature.com/emi/		emi		fulltext	fully open access	Nature Publishing Group	serial								F	166195413
+Experimental & Molecular Medicine	1226-3613	2092-6413	1996-03-01	28	1				http://www.nature.com/emm		emm		fulltext	fully open access	Nature Publishing Group	serial								F	156164957
+Horticulture Research	2662-6810	2052-7276	2014-12-01	1	1	2021-12-01	8	1	http://www.nature.com/hortres		hortres		fulltext	fully open access	Nature Publishing Group	serial								F	179322966
+Human Genome Variation		2054-345X	2014-12-01	1	1				http://www.nature.com/hgv		hgv		fulltext	fully open access	Nature Publishing Group	serial								F	183632508
+International Journal of Oral Science	1674-2818	2049-3169	2009-03-01	1	1				http://www.nature.com/ijos		ijos		fulltext	fully open access	Nature Publishing Group	serial								F	169699153
+ISME Communications		2730-6151	2021-12-01	1	1	2023-12-01	3	1	https://www.nature.com/ismecomms		ismecomms		fulltext	fully open access	Nature Publishing Group	serial								F	263425681
+Light: Science & Applications		2047-7538	2012-03-01	1	3				http://www.nature.com/lsa		lsa		fulltext	fully open access	Nature Publishing Group	serial								F	16539482X
+Microsystems & Nanoengineering		2055-7434	2015-12-01	1	1				http://www.nature.com/micronano/		micronano		fulltext	fully open access	Nature Publishing Group	serial								F	188557830
+Molecular Systems Biology		1744-4292	2024	20	1				https://www.embopress.org/page/journal/17444292/about		https:www.embopress.orgpagejournal17444292about		fulltext	fully open access	Nature Publishing Group	serial								F	11696989X
+Nature Communications		2041-1723	2010-12-01	1	1				http://www.nature.com/naturecommunications		naturecommunications		fulltext	fully open access	Nature Publishing Group	serial								F	145457443
+NPG Asia Materials	1884-4049	1884-4057	2009-10-01	1	1				http://www.nature.com/am		am		fulltext	fully open access	Nature Publishing Group	serial								F	148655963
+npj 2D Materials and Applications		2397-7132	2017-12-01	1	1				http://www.nature.com/npj2dmaterials		npj2dmaterials		fulltext	fully open access	Nature Publishing Group	serial								F	21952520X
+npj Aging		2731-6068	2015-12-01	1	1				http://www.nature.com/npjamd		npjamd		fulltext	fully open access	Nature Publishing Group	serial								F	262899221
+npj Antimicrobials and Resistance		2731-8745	2023-12-01	1	1				https://www.nature.com/npjamar/		npjamar		fulltext	fully open access	Nature Publishing Group	serial								F	263949117
+npj Biodiversity		2731-4243	2022-12-01	1	1				https://www.nature.com/npjbiodivers/		npjbiodivers		fulltext	fully open access	Nature Publishing Group	serial								F	267570449
+npj Biofilms and Microbiomes		2055-5008	2015-12-01	1	1				http://www.nature.com/npjbiofilms		npjbiofilms		fulltext	fully open access	Nature Publishing Group	serial								F	188859071
+npj Biological Timing and Sleep		2948-281X	2024-12-01	1	1				https://www.nature.com/npjbts		npjbts		fulltext	fully open access	Nature Publishing Group	serial								F	279686668
+npj Breast Cancer		2374-4677	2015-11-01	1	1				http://www.nature.com/npjbcancer		npjbcancer		fulltext	fully open access	Nature Publishing Group	serial								F	189401885
+npj Cardiovascular Health		2948-2836	2024-12-01	1	1				https://www.nature.com/npjcardiohealth		npjcardiohealth		fulltext	fully open access	Nature Publishing Group	serial								F	279673957
+npj Clean Water		2059-7037	2018-12-01	1	1				http://www.nature.com/npjcleanwater		npjcleanwater		fulltext	fully open access	Nature Publishing Group	serial								F	226864782
+npj Climate Action		2731-9814	2022-12-01	1	1				https://www.nature.com/npjclimataction/		npjclimataction		fulltext	fully open access	Nature Publishing Group	serial								F	269306609
+npj Climate and Atmospheric Science		2397-3722	2018-12-01	1	1				http://www.nature.com/npjclimatsci		npjclimatsci		fulltext	fully open access	Nature Publishing Group	serial								F	224058509
+npj Complexity		2731-8753	2024-12-01	1	1				https://www.nature.com/npjcomplex		npjcomplex		fulltext	fully open access	Nature Publishing Group	serial								F	263949125
+npj Computational Materials		2057-3960	2015-12-01	1	1				http://www.nature.com/npjcompumats		npjcompumats		fulltext	fully open access	Nature Publishing Group	serial								F	193606852
+npj Digital Medicine		2398-6352	2018-12-01	1	1				http://www.nature.com/npjdigitalmed		npjdigitalmed		fulltext	fully open access	Nature Publishing Group	serial								F	224182579
+npj Flexible Electronics		2397-4621	2017-12-01	1	1				http://www.nature.com/npjflexelectron		npjflexelectron		fulltext	fully open access	Nature Publishing Group	serial								F	219525196
+npj Genomic Medicine		2056-7944	2016-11-01	1	1				http://www.nature.com/npjgenmed		npjgenmed		fulltext	fully open access	Nature Publishing Group	serial								F	192165224
+npj Gut and Liver		3004-9806	2024-12-01	1	1				https://www.nature.com/npjgutliver		npjgutliver		fulltext	fully open access	Nature Publishing Group	serial								F	279688326
+npj Imaging		2948-197X	2023-12-01	1	1				https://www.nature.com/npjimaging		npjimaging		fulltext	fully open access	Nature Publishing Group	serial								F	279673876
+npj Materials Degradation		2397-2106	2017-12-01	1	1				http://www.nature.com/npjmatdeg		npjmatdeg		fulltext	fully open access	Nature Publishing Group	serial								F	204062446
+npj Materials Sustainability		2948-1775	2023-12-01	1	1				https://www.nature.com/npjmatsustain		npjmatsustain		fulltext	fully open access	Nature Publishing Group	serial								F	27967385X
+npj Mental Health Research		2731-4251	2022-12-01	1	1				https://www.nature.com/npjmentalhealth/		npjmentalhealth		fulltext	fully open access	Nature Publishing Group	serial								F	263425762
+npj Metabolic Health and Disease		2948-2828	2023-12-01	1	1				https://www.nature.com/npjmetabhealth		npjmetabhealth		fulltext	fully open access	Nature Publishing Group	serial								F	279673949
+npj Microgravity		2373-8065	2015-11-01	1	1				http://www.nature.com/npjmgrav		npjmgrav		fulltext	fully open access	Nature Publishing Group	serial								F	189401826
+npj Nanophotonics		2948-216X	2024-12-01	1	1				https://www.nature.com/npjnanophoton		npjnanophoton		fulltext	fully open access	Nature Publishing Group	serial								F	279673922
+npj Natural Hazards		2948-2100	2024-12-01	1	1				https://www.nature.com/npjnathazards		npjnathazards		fulltext	fully open access	Nature Publishing Group	serial								F	279673892
+npj Ocean Sustainability		2731-426X	2022-12-01	1	1				https://www.nature.com/npjoceansustain/		npjoceansustain		fulltext	fully open access	Nature Publishing Group	serial								F	
+npj Parkinson's Disease		2373-8057	2015-12-01	1	1				http://www.nature.com/npjparkd		npjparkd		fulltext	fully open access	Nature Publishing Group	serial								F	189401818
+npj Precision Oncology		2397-768X	2017-12-01	1	1				http://www.nature.com/npjprecisiononcology		npjprecisiononcology		fulltext	fully open access	Nature Publishing Group	serial								F	200451189
+npj Primary Care Respiratory Medicine		2055-1010	2014-11-01	24	1				http://www.nature.com/npjpcrm		npjpcrm		fulltext	fully open access	Nature Publishing Group	serial								F	182467732
+npj Quantum Information		2056-6387	2015-12-01	1	1				http://www.nature.com/npjqi		npjqi		fulltext	fully open access	Nature Publishing Group	serial								F	189874996
+npj Quantum Materials		2397-4648	2016-12-01	1	1				http://www.nature.com/npjquantmats		npjquantmats		fulltext	fully open access	Nature Publishing Group	serial								F	195204042
+npj Regenerative Medicine		2057-3995	2016-12-01	1	1				http://www.nature.com/npjregenmed		npjregenmed		fulltext	fully open access	Nature Publishing Group	serial								F	197426735
+npj Robotics		2731-4278	2023-12-01	1	1				https://www.nature.com/npjrobot		npjrobot		fulltext	fully open access	Nature Publishing Group	serial								F	279672810
+npj Science of Food		2396-8370	2017-12-01	1	1				http://www.nature.com/npjscifood		npjscifood		fulltext	fully open access	Nature Publishing Group	serial								F	221012710
+npj Science of Learning		2056-7936	2016-12-01	1	1				http://www.nature.com/npjscilearn		npjscilearn		fulltext	fully open access	Nature Publishing Group	serial								F	197426727
+npj Spintronics		2948-2119	2023-12-01	1	1				https://www.nature.com/npjspintronics		npjspintronics		fulltext	fully open access	Nature Publishing Group	serial								F	279673906
+npj Sustainable Agriculture		2731-9202	2023-12-01	1	1				https://www.nature.com/npjsustainagric		npjsustainagric		fulltext	fully open access	Nature Publishing Group	serial								F	275392635
+npj Sustainable Mobility and Transport		3004-8664	2024-12-01	1	1				https://www.nature.com/npjbiosensing		npjbiosensing		fulltext	fully open access	Nature Publishing Group	serial								F	279676530
+npj Systems Biology and Applications		2056-7189	2015-12-01	1	1				http://www.nature.com/npjsba		npjsba		fulltext	fully open access	Nature Publishing Group	serial								F	192165208
+npj Ultrafast Science		2948-2097	2023-12-01	1	1	2023-12-01	1	1	https://www.nature.com/npjultafasci		npjultafasci		fulltext	fully open access	Nature Publishing Group	serial								F	
+npj Unconventional Computing		3004-8672	2024-12-01	1	1				https://www.nature.com/npjunconvcomput		npjunconvcomput		fulltext	fully open access	Nature Publishing Group	serial								F	
+npj Urban Sustainability		2661-8001	2021-12-01	1	1				https://www.nature.com/npjurbansustain/		npjurbansustain		fulltext	fully open access	Nature Publishing Group	serial								F	254897576
+npj Vaccines		2059-0105	2016-12-01	1	1				http://www.nature.com/npjvaccines		npjvaccines		fulltext	fully open access	Nature Publishing Group	serial								F	195202228
+npj Viruses		2948-1767	2023-12-01	1	1				https://www.nature.com/npjviruses		npjviruses		fulltext	fully open access	Nature Publishing Group	serial								F	273389734
+npj Women's Health		2948-1716	2023-12-01	1	1				https://www.nature.com/npjwomenshealth		npjwomenshealth		fulltext	fully open access	Nature Publishing Group	serial								F	273389726
+Nutrition & Diabetes		2044-4052	2011	1	1				http://www.nature.com/nutd		nutd		fulltext	fully open access	Nature Publishing Group	serial								F	187671281
+Oncogenesis		2157-9024	2012-02-01	1	2				http://www.nature.com/oncsis		oncsis		fulltext	fully open access	Nature Publishing Group	serial								F	165470283
+Palgrave Communications		2055-1045	2015-12-01	1	1	2020-12-01	6	1	https://www.nature.com/palcomms		palcomms		fulltext	fully open access	Nature Publishing Group	serial								F	187158169
+Schizophrenia		2754-6993	2015-12-01	1	1				http://www.nature.com/npjschz		npjschz		fulltext	fully open access	Nature Publishing Group	serial								F	26331653X
+Scientific Data		2052-4463	2014-12-01	1	1				http://www.nature.com/sdata/		sdata		fulltext	fully open access	Nature Publishing Group	serial								F	180270044
+Scientific Reports		2045-2322	2011-12-01	1	1				http://www.nature.com/srep/		srep		fulltext	fully open access	Nature Publishing Group	serial								F	153912472
+Signal Transduction and Targeted Therapy		2059-3635	2016-12-01	1	1				http://www.nature.com/sigtrans/		sigtrans		fulltext	fully open access	Nature Publishing Group	serial								F	195202244
+The EMBO Journal	0261-4189	1460-2075	2003-10-01	22	20				https://www.embopress.org/journal/14602075		https:www.embopress.orgjournal14602075		fulltext	fully open access	Nature Publishing Group	serial								F	058286314
+Translational Psychiatry		2158-3188	2011-04-01	1	4				http://www.nature.com/tp/		tp		fulltext	fully open access	Nature Publishing Group	serial								F	153205237
