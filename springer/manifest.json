@@ -9,7 +9,8 @@
   "contact": "yannick.schurter at inist.fr, stephane.gully at inist.fr",
   "pkb": true,
   "bacon": {
-    "provider": "SPRINGER"
+    "provider": "SPRINGER",
+    "matched": ["GLOBAL"]
   },
   "domains": [
     "rd.springer.com",
@@ -27,6 +28,6 @@
     "link.springer.de",
     "link.springer-ny.com",
     "ebooks.springerlink.com",
-    "aa.springer.de"      
+    "aa.springer.de"
   ]
 }

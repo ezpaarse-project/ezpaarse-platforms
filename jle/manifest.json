@@ -20,7 +20,8 @@
     ]
   },
   "bacon": {
-    "provider": "JLE"
+    "provider": "JLE",
+    "matches": ["GLOBAL"]
   },
   "name": "jle",
   "longname": "John Libbey Eurotext",
