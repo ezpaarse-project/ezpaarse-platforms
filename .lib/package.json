@@ -28,6 +28,7 @@
     "yargs": "^17.2.1"
   },
   "dependencies": {
+    "csv": "^6.3.10",
     "fs-extra": "^10.0.0",
     "papaparse": "^5.3.1"
   }
