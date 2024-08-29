@@ -1,12 +1,6 @@
 publication_title	print_identifier	online_identifier	date_first_issue_online	num_first_vol_online	num_first_issue_online	date_last_issue_online	num_last_vol_online	num_last_issue_online	title_url	first_author	title_id	embargo_info	coverage_depth	notes	publisher_name	publication_type	date_monograph_published_print	date_monograph_published_online	monograph_volume	monograph_edition	first_editor	parent_publication_title_id	preceding_publication_title_id	access_type	bestppn
-Alzheimer's Research & Therapy		1758-9193	2015	1	1				https://link.springer.com/journal/13195		13195		fulltext	Open Access		serial								F	148653081
 Asthma Research and Practice		2054-7064	2015	1	1				https://link.springer.com/journal/volumesAndIssues/40733		volumesAndIssues/40733		fulltext	New (2015). Open Access		serial								F	187671311
 Biologics in Therapy		2190-9164	2011	1		2015	5		https://link.springer.com/journal/13354		13354		fulltext	ceased 2016. Available in electronic format only. Open Access; Springer Open		serial								F	157205827
 Clinical Practice and Epidemiology in Mental Health		1745-0179	2005	1	1	2009	5	1	https://link.springer.com/journal/volumesAndIssues/12994		volumesAndIssues/12994		fulltext	open access		serial								F	104882514
-Disaster and Military Medicine		2054-314X	2015	1	1				https://link.springer.com/journal/40696		40696		fulltext	new (2015). Open Access		serial								F	184857368
-Genus	0016-6987	2035-5556	2016	72	1				https://www.springer.com/journal/41118		41118		fulltext	Fully Open Access		serial								F	133943151
-Gynecologic Oncology Research and Practice		2053-6844	2014	1	1				https://link.springer.com/journal/40661		40661		fulltext	New (2014). Open Access		serial								F	183632451
-IPSJ Transactions on Computer Vision and Applications		1882-6695	2016	8	1				https://www.springer.com/journal/41074		41074		fulltext	Fully Open Access		serial								F	133153827
 Journal of Invasive and Interventional Cardiology		2054-1783							https://link.springer.com/journal/40672		40672		fulltext	New (2015). Open Access		serial								F	
-Journal of Shipping and Trade		2364-4575	2016	1	1				https://www.springer.com/journal/41072		41072		fulltext	Fully Open Access		serial								F	195203550
 PathoGenetics		1755-8417	2008	1	1	2010	3	1	https://link.springer.com/journal/volumesAndIssues/13070		volumesAndIssues/13070		fulltext			serial								F	130897310

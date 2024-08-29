@@ -1,21 +1,13 @@
 ﻿publication_title	print_identifier	online_identifier	date_first_issue_online	num_first_vol_online	num_first_issue_online	date_last_issue_online	num_last_vol_online	num_last_issue_online	title_url	first_author	title_id	embargo_info	coverage_depth	coverage_notes	publisher_name	publication_type	date_monograph_published_print	date_monograph_published_online	monograph_volume	monograph_edition	first_editor	parent_publication_title_id	preceding_publication_title_id
-Akupunktur & Aurikulomedizin	2192-9319	2196-6400	2013-03	39	3	2017-06	43	2	http://link.springer.com/journal/15009		15009		fulltext		Springer Medizin	Serial							
-Angewandte Schmerztherapie und Palliativmedizin	1866-1424	2196-6389	2010-02	3	1	2014-11	7	4	http://link.springer.com/journal/15223		15223		fulltext		Urban & Vogel	Serial							
 Annali di Matematica Pura ed Applicata (1858-1865)		0373-3114	1858-12	1	1	1865-12	7	1	http://link.springer.com/journal/40768		40768		fulltext		Springer Berlin Heidelberg	Serial							
 Annali di Matematica Pura ed Applicata (1867-1897)		0373-3114	1867-12	1	1	1897-12	26	1	http://link.springer.com/journal/40769		40769		fulltext		Springer Berlin Heidelberg	Serial							
 Annali di Matematica Pura ed Applicata (1898-1922)		0373-3114	1898-12	1	1	1922-12	31	1	http://link.springer.com/journal/40770		40770		fulltext		Springer Berlin Heidelberg	Serial							
-Annals of PDE		2199-2576	2015-09	1	1	2017-07	3	2	http://link.springer.com/journal/40818		40818		fulltext		Springer International Publishing	Serial							
-Applied Network Science		2364-8228	2016-06	1	1	2017-08	2	1	http://link.springer.com/journal/41109		41109		fulltext		Springer International Publishing	Serial							
 Bulletin Géodésique (1946-1975)		0007-4632	1946-07	1	1	2008-11	118	1	http://link.springer.com/journal/40771		40771		fulltext		Springer Berlin Heidelberg	Serial							
 Cell & Chromosome		1475-9268	2002-09	1	1	2008-03	7	1	http://link.springer.com/journal/13342		13342		fulltext		BioMed Central	Serial							
-Chinesische Medizin / Chinese Medicine	0930-2786	2196-5668	2009-03	24	1	2017-06	32	2	http://link.springer.com/journal/52		52		fulltext		Springer Medizin	Serial							
 De Verpleegkundig Specialist	2352-8605	2352-8613	2014-09	9	2	2016-12	11	4	http://link.springer.com/journal/40884		40884		fulltext		Bohn Stafleu van Loghum	Serial							
 Dublin Journal of Medical Science (1872-1920)		0790-231X	1872-01	53	1	2014-05	149	2	http://link.springer.com/journal/40772		40772		fulltext		Springer London	Serial							
 Dublin Journal of Medical Science (1920-1922)		0790-231X	1920-03	1	1	2014-05	3	2	http://link.springer.com/journal/40773		40773		fulltext		Springer London	Serial							
 Dynamic Medicine		1476-5918	2002-10	1	1	2009-12	8	1	http://link.springer.com/journal/12945		12945		fulltext		BioMed Central	Serial							
-Geoenvironmental Disasters		2197-8670	2014-09	1	1	2017-07	4	1	http://link.springer.com/journal/40677		40677		fulltext		Springer International Publishing	Serial							
-Giornale Italiano di Health Technology Assessment	2035-3510	2035-6129	2008-01	1	1	2013-12	6	2	http://link.springer.com/journal/40269		40269		fulltext		Springer International Publishing	Serial							
-Huisarts Nu	0775-0501	2405-7827	2015-02	44	1	2017-07	46	4	http://link.springer.com/journal/40954		40954		fulltext		Bohn Stafleu van Loghum	Serial							
 Il Nuovo Cimento (1869-1876)		1827-6121	1869-12	1	1	2008-05	16	1	http://link.springer.com/journal/40754		40754		fulltext		Società Italiana di Fisica	Serial							
 Il Nuovo Cimento (1877-1894)		1827-6121	1877-12	1	1	2008-05	36	1	http://link.springer.com/journal/40755		40755		fulltext		Società Italiana di Fisica	Serial							
 Il Nuovo Cimento (1895-1900)		1827-6121	1895-01	1	1	2007-10	12	1	http://link.springer.com/journal/40756		40756		fulltext		Società Italiana di Fisica	Serial							
@@ -25,48 +17,26 @@ Il Nuovo Cimento (1924-1942)		1827-6121	1924-12	1	1	2008-09	19	9	http://link.spr
 Il Nuovo Cimento (1943-1954)		1827-6121	1943-02	1	1	2009-04	12	6	http://link.springer.com/journal/40761		40761		fulltext		Società Italiana di Fisica	Serial							
 Il Nuovo Cimento (1955-1965)		1827-6121	1955-01	1	1	2009-04	39	4	http://link.springer.com/journal/40762		40762		fulltext		Società Italiana di Fisica	Serial							
 Il Nuovo Cimento A (1971-1996)		1826-9869	1965-11	1	1	2016-01	112	11	http://link.springer.com/journal/40763		40763		fulltext		Springer Berlin Heidelberg	Serial							
-In Silico Cell and Tissue Science		2196-050X	2014-10	1	1	2015-12	2	1	http://link.springer.com/journal/40482		40482		fulltext		Springer International Publishing	Serial							
-International Journal of Child Care and Education Policy		2288-6729	2007-05	1	1	2017-07	11	1	http://link.springer.com/journal/40723		40723		fulltext		Springer Singapore	Serial							
 International Journal of Educational Advancement		1744-6511	2003-06	4	1	2011-04	10	4	http://link.springer.com/journal/41486		41486		fulltext		Palgrave Macmillan UK	Serial							
-International Journal of Implant Dentistry		2198-4034	2015-02	1	1	2017-08	3	1	http://link.springer.com/journal/40729		40729		fulltext		Springer Berlin Heidelberg	Serial							
 International Seminars in Surgical Oncology		1477-7800	2004-04	1	1	2010-02	7	1	http://link.springer.com/journal/12956		12956		fulltext		BioMed Central	Serial							
 Irish Journal of Medical Science (1922-1925)		0021-1265	1922-03	1	1	2008-10	4	12	http://link.springer.com/journal/40774		40774		fulltext		Springer London	Serial							
 Irish Journal of Medical Science (1926-1967)		0021-1265	1926-01	1	1	2009-01	42	11	http://link.springer.com/journal/40775		40775		fulltext		Springer London	Serial							
 Irish Journal of Medical Science (1968-1970)		0021-1265	1968-01	1	1	2008-11	3	12	http://link.springer.com/journal/40776		40776		fulltext		Springer London	Serial							
-Journal of Big Data		2196-1115	2014-06	1	1	2017-08	4	1	http://link.springer.com/journal/40537		40537		fulltext		Springer International Publishing	Serial							
 Journal of Biomedical Discovery and Collaboration		1747-5333	2006-03	1	1	2009-02	4	1	http://link.springer.com/journal/13009		13009		fulltext		BioMed Central	Serial							
 Journal of Biomedical Science	1021-7770	1423-0127	1993-12	1	1	2008-11	15	6	http://link.springer.com/journal/11373		11373		fulltext		Springer Netherlands	Serial							
 Journal of Commercial Biotechnology		1478-565X	2002-09	9	1	2011-11	17	4	http://link.springer.com/journal/41488		41488		fulltext		Palgrave Macmillan UK	Serial							
 Journal of Database Marketing & Customer Strategy Management		1741-2447	2000-08	8	1	2012-12	19	4	http://link.springer.com/journal/41489		41489		fulltext		Palgrave Macmillan UK	Serial							
-Journal of Experimental Orthopaedics		2197-1153	2014-06	1	1	2017-08	4	1	http://link.springer.com/journal/40634		40634		fulltext		Springer Berlin Heidelberg	Serial							
-Journal of Frugal Innovation		2197-7917	2015-11	1	1	2017-04	2	1	http://link.springer.com/journal/40669		40669		fulltext		Springer Singapore	Serial							
-Lettera Matematica Pristem	1593-5884	1970-6820	2013-04	96	1	2017-01	2015	95	http://link.springer.com/journal/10031		10031		fulltext		Springer Milan	Serial							
 Lettere al Nuovo Cimento (1971-1985)		1827-613X	1969-01	1	1	2016-01	44	8	http://link.springer.com/journal/40767		40767		fulltext		Springer Berlin Heidelberg	Serial							
 MTZextra	2509-4580	2509-4599	2016-09	21	2	2017-08	22	1	http://link.springer.com/journal/41490		41490		fulltext		Springer Fachmedien Wiesbaden	Serial							
-Managementforschung	2366-6129	2366-6137	2016-06	26	1	2017-08	26	1	http://link.springer.com/journal/41113		41113		fulltext		Springer Fachmedien Wiesbaden	Serial							
-Marine Biodiversity Records		1755-2672	2016-03	9	1	2017-08	10	1	http://link.springer.com/journal/41200		41200		fulltext		BioMed Central	Serial							
-Maxillofacial Plastic and Reconstructive Surgery		2288-8586	2015-01	37	1	2017-08	39	1	http://link.springer.com/journal/40902		40902		fulltext		Springer Berlin Heidelberg	Serial							
-Mechanics of Advanced Materials and Modern Processes		2198-7874	2015-05	1	1	2017-08	3	1	http://link.springer.com/journal/40759		40759		fulltext		Springer International Publishing	Serial							
 Medical Immunology		1476-9433	2002-09	1	1	2006-09	5	1	http://link.springer.com/journal/41085		41085		fulltext		BioMed Central	Serial							
 Migration Statistics Quarterly Report		2040-8544	2011-02	8	1	2011-11	11	1	http://link.springer.com/journal/41496		41496		fulltext		Palgrave Macmillan UK	Serial							
 Molecules Online	1420-3049	1433-1373	1996-01	1	1	1996-09	1	10	http://link.springer.com/journal/783		783		fulltext		Springer-Verlag	Serial							
 Nuclear Receptor		1478-1336	2003-05	1	1	2007-05	5	1	http://link.springer.com/journal/41076		41076		fulltext		BioMed Central	Serial							
-Nutrire		2316-7874	2016-05	41	1	2017-08	42	1	http://link.springer.com/journal/41110		41110		fulltext		BioMed Central	Serial							
 Orthopädie und Unfallchirurgie	2193-5254	2193-5262	2017-02	7	1	2017-08	7	4	http://link.springer.com/journal/41785		41785		fulltext		Springer Medizin	Serial							
-PharmacoEconomics German Research Articles	1612-3727	1868-677X	2003-10	1	1	2013-10	11	2	http://link.springer.com/journal/40275		40275		fulltext		Springer International Publishing	Serial							
-PodoPost	0922-4742	1876-5823	2014-02	27	1	2017-08	30	6	http://link.springer.com/journal/12480		12480		fulltext		Bohn Stafleu van Loghum	Serial							
-Praktische Huisartsgeneeskunde	2405-8661	2405-867X	2015-03	1	1	2017-08	3	4	http://link.springer.com/journal/41045		41045		fulltext		Bohn Stafleu van Loghum	Serial							
-Psychopraktijk	1878-4844	2210-7754	2009-10	1	1	2016-08	8	4	http://link.springer.com/journal/13170		13170		fulltext		Bohn Stafleu van Loghum	Serial							
 Psychopraxis	1566-6166	1876-584X	1999-03	1	1	2010-04	2010	2	http://link.springer.com/journal/12484		12484		fulltext		Bohn Stafleu van Loghum	Serial							
 Rendiconti del Circolo Matematico di Palermo (1884-1940)		0009-725X	1887-12	1	1	2009-01	63	1	http://link.springer.com/journal/40777		40777		fulltext		Springer Milan	Serial							
 Software - Concepts & Tools	0945-8115	1432-2188	1998-03	19	1	2000-10	19	4	http://link.springer.com/journal/378		378		fulltext		Springer-Verlag	Serial							
 Sonderprojekte ATZ/MTZ	2509-4602	2509-4610	2016-06	21	1	2017-08	22	1	http://link.springer.com/journal/41491		41491		fulltext		Springer Fachmedien Wiesbaden	Serial							
 Sonderprojekte ATZ/MTZ worldwide	2509-467X	2509-4688	2016-09	21	1	2016-09	21	1	http://link.springer.com/journal/41511		41511		fulltext		Springer Fachmedien Wiesbaden	Serial							
-Sports Medicine - Open	2199-1170	2198-9761	2015-01	1	1	2017-08	3	1	http://link.springer.com/journal/40798		40798		fulltext		Springer International Publishing	Serial							
-Standby	0922-310X	1876-5572	2005-02	19	1	2017-08	31	4	http://link.springer.com/journal/12490		12490		fulltext		Bohn Stafleu van Loghum	Serial							
-Surgical Case Reports		2198-7793	2015-01	1	1	2017-08	3	1	http://link.springer.com/journal/40792		40792		fulltext		Springer Berlin Heidelberg	Serial							
-The Journal of Chinese Sociology		2198-2635	2014-10	1	1	2017-08	4	1	http://link.springer.com/journal/40711		40711		fulltext		Springer Berlin Heidelberg	Serial							
-Topics in Current Chemistry	2365-0869	2364-8961	2015-12	374	1	2017-08	375	5	http://link.springer.com/journal/41061		41061		fulltext		Springer International Publishing	Serial							
 Video Journal of Education and Pedagogy		2364-4583	2016-08	1	1	2017-02	2	1	http://link.springer.com/journal/40990		40990		fulltext		Springer Singapore	Serial							
-Zeitschrift für Bildungsforschung	2190-6890	2190-6904	2011-04	1	1	2017-07	7	1	http://link.springer.com/journal/35834		35834		fulltext		Springer Fachmedien Wiesbaden	Serial							
 Zeitschrift für Parlamentsfragen	0340-1758	1862-2534	2006-03	37	1	2006-06	37	2	http://link.springer.com/journal/11619		11619		fulltext		VS Verlag für Sozialwissenschaften	Serial							

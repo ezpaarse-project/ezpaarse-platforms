@@ -1,0 +1,194 @@
+publication_title	print_identifier	online_identifier	date_first_issue_online	num_first_vol_online	num_first_issue_online	date_last_issue_online	num_last_vol_online	num_last_issue_online	title_url	first_author	title_id	embargo_info	coverage_depth	notes	publisher_name	publication_type	date_monograph_published_print	date_monograph_published_online	monograph_volume	monograph_edition	first_editor	parent_publication_title_id	preceding_publication_title_id	access_type	bestppn
+Japanese journal of human genetics	0021-5074	1435-232X	1977-06-01	22	1	1997-12-01	42	4	https://www.nature.com/jhg/		0021-5074		fulltext	hybrid	Springer Nature Singapore	serial								P	044895518
+Journal of Human Genetics	1434-5161	1435-232X	1998-02-01	43	1				https://www.nature.com/jhg/		10038		fulltext	hybrid	Springer Nature Singapore	serial							0021-5074	P	044895518
+Experimental & Molecular Medicine	1226-3613	2092-6413	1996-03-01	28	1				https://www.nature.com/emm/		12276		fulltext	fully open access	Nature Publishing Group UK	serial								F	156164957
+International Journal of Obesity Supplements	2046-2166	2046-2174	2018-09-01	8	1	2020-07-01	10	1	https://www.nature.com/ijosup/		41367		fulltext	hybrid	Nature Publishing Group UK	serial								P	223274615
+International Journal of Obesity	0307-0565	1476-5497	1997	21	1				https://www.nature.com/ijo/		41366		fulltext	hybrid	Nature Publishing Group UK	serial								P	068852762
+Journal of Human Hypertension	0950-9240	1476-5527	1997	11	1				https://www.nature.com/jhh/		41371		fulltext	hybrid	Nature Publishing Group UK	serial								P	068852797
+Journal of Perinatology	0743-8346	1476-5543	1999-02-01	19	1				https://www.nature.com/jp/		41372		fulltext	hybrid	Nature Publishing Group US	serial								P	068852819
+Journal of Exposure Science & Environmental Epidemiology	1559-0631	1559-064X	1999-02-01	9	1				https://www.nature.com/jes/		41370		fulltext	hybrid	Nature Publishing Group US	serial							1476-5519	P	104872128
+Leukemia	0887-6924	1476-5551	1997	11	1				https://www.nature.com/leu/		41375		fulltext	hybrid	Nature Publishing Group UK	serial								P	068852827
+International Journal of Oral Science	1674-2818	2049-3169	2009-03-01	1	1				https://www.nature.com/ijos/		41368		fulltext	fully open access	Nature Publishing Group UK	serial								F	169699153
+Laboratory Investigation	0023-6837	1530-0307	2000-01-01	80	1	2022-12-01	102	12	https://www.nature.com/labinvest/		41374		fulltext	hybrid	Nature Publishing Group US	serial								P	115431829
+Leukemia Supplements	2044-5210	2044-5229	2019-10-01	4	1	2019-10-01	4	1	https://www.nature.com/leusup/		41376		fulltext	hybrid	Nature Publishing Group UK	serial								P	163389772
+Modern Pathology	0893-3952	1530-0285	2000-01-01	13	1	2022-12-01	35	12	https://www.nature.com/modpathol/		41379		fulltext	hybrid	Nature Publishing Group US	serial								P	15988697X
+Light: Science & Applications		2047-7538	2012-03-01	1	3				https://www.nature.com/lsa/		41377		fulltext	fully open access	Nature Publishing Group UK	serial								F	16539482X
+Molecular Psychiatry	1359-4184	1476-5578	1997	2	1				https://www.nature.com/mp/		41380		fulltext	hybrid	Nature Publishing Group UK	serial								P	067781454
+Neuropsychopharmacology	0893-133X	1740-634X	1993	8	1				https://www.nature.com/npp/		41386		fulltext	hybrid	Springer International Publishing	serial								P	073642312
+Microsystems & Nanoengineering		2055-7434	2015-12-01	1	1				https://www.nature.com/micronano/		41378		fulltext	fully open access	Nature Publishing Group UK	serial								F	188557830
+Nutrition & Diabetes		2044-4052	2011	1	1				https://www.nature.com/nutd/		41387		fulltext	fully open access	Nature Publishing Group UK	serial								F	187671281
+Signal Transduction and Targeted Therapy		2059-3635	2016-12-01	1	1				https://www.nature.com/sigtrans/		41392		fulltext	fully open access	Nature Publishing Group UK	serial								F	195202244
+Mucosal Immunology	1933-0219	1935-3456	2008-01-01	1	1	2022-06-01	15	6	https://www.nature.com/mi/		41385		fulltext	hybrid	Nature Publishing Group US	serial								P	146046862
+Oncogenesis		2157-9024	2012-02-01	1	2				https://www.nature.com/oncsis/		41389		fulltext	fully open access	Nature Publishing Group UK	serial								F	165470283
+Pediatric Research	0031-3998	1530-0447	1967	1	1				https://www.nature.com/pr/		41390		fulltext	hybrid	Nature Publishing Group US	serial							0365-4966	P	07686233X
+Spinal Cord	1362-4393	1476-5624	1963-05-01	1	1				https://www.nature.com/sc/		41393		fulltext	hybrid	Nature Publishing Group UK	serial							2058-1084	P	068852894
+Spinal Cord Series and Cases		2058-6124	2015-10-01	1	1				https://www.nature.com/scsandc/		41394		fulltext	hybrid	Nature Publishing Group UK	serial								P	189335491
+Prostate Cancer and Prostatic Diseases	1365-7852	1476-5608	1997-09-01	1	1				https://www.nature.com/pcan/		41391		fulltext	hybrid	Nature Publishing Group UK	serial								P	067781489
+Translational Psychiatry		2158-3188	2011-04-01	1	4				https://www.nature.com/tp/		41398		fulltext	fully open access	Nature Publishing Group UK	serial								F	153205237
+The ISME Journal	1751-7362	1751-7370	2007-05-01	1	1	2023-12-01	17	12	https://www.nature.com/ismej/		41396		fulltext	hybrid	Nature Publishing Group UK	serial								P	11626912X
+The Pharmacogenomics Journal	1470-269X	1473-1150	2001	1	1				https://www.nature.com/tpj/		41397		fulltext	hybrid	Nature Publishing Group UK	serial								P	064161242
+Oncogene	0950-9232	1476-5594	1997	14	1				https://www.nature.com/onc/		41388		fulltext	hybrid	Nature Publishing Group UK	serial								P	06885286X
+Acta Pharmacologica Sinica	1671-4083	1745-7254	2005	26	1				https://www.nature.com/aps/		41401		fulltext	hybrid	Springer Nature Singapore	serial								P	108918882
+BDJ Open		2056-807X	2015-12-01	1	1				https://www.nature.com/bdjopen/		41405		fulltext	fully open access	Nature Publishing Group UK	serial								F	189875003
+Bone Marrow Transplantation	0268-3369	1476-5365	1997	19	1				https://www.nature.com/bmt/		41409		fulltext	hybrid	Nature Publishing Group UK	serial								P	068852630
+Vital	1741-7503	1741-7511	2003-11-01	1	1	2013-11-01	11	1	https://www.nature.com/vital/		1741-7511		fulltext	subscription	Nature Publishing Group UK	serial								P	078942454
+BDJ Team		2054-7617	2015-05-01	1	1				https://www.nature.com/bdjteam/		41407		fulltext	subscription	Nature Publishing Group UK	serial							1741-7511	P	180528432
+Blood Cancer Journal		2044-5385	2011	1	1				https://www.nature.com/bcj/		41408		fulltext	fully open access	Nature Publishing Group UK	serial								F	197426565
+Bone Research		2095-6231	2013-12-01	1	1				https://www.nature.com/boneres/		41413		fulltext	fully open access	Nature Publishing Group UK	serial								F	223276308
+Cell Death & Differentiation	1350-9047	1476-5403	1997	4	1				https://www.nature.com/cdd/		41418		fulltext	hybrid	Nature Publishing Group UK	serial								P	068852673
+British Journal of Cancer	0007-0920	1532-1827	1947-03-01	1	1				https://www.nature.com/bjc/		41416		fulltext	hybrid	Nature Publishing Group UK	serial								P	058402438
+British Dental Journal	0007-0610	1476-5373	1970	128	1				https://www.nature.com/bdj/		41415		fulltext	hybrid	Nature Publishing Group UK	serial								P	068852649
+Cell Death & Disease		2041-4889	2010	1	1				https://www.nature.com/cddis/		41419		fulltext	fully open access	Nature Publishing Group UK	serial								F	151981647
+Cancer Gene Therapy	0929-1903	1476-5500	1999	6	1				https://www.nature.com/cgt/		41417		fulltext	hybrid	Nature Publishing Group US	serial								P	068852770
+Cell Discovery		2056-5968	2015-12-01	1	1				https://www.nature.com/celldisc/		41421		fulltext	fully open access	Springer Nature Singapore	serial								F	188557865
+Cell Death Discovery		2058-7716	2015-12-01	1	1				https://www.nature.com/cddiscovery/		41420		fulltext	fully open access	Nature Publishing Group UK	serial								F	18933553X
+Cellular & Molecular Immunology	1672-7681	2042-0226	2008-02-01	5	1				https://www.nature.com/cmi/		41423		fulltext	hybrid	Nature Publishing Group UK	serial								P	174852207
+Cell Research	1001-0602	1748-7838	1990-03-01	1	1				https://www.nature.com/cr/		41422		fulltext	hybrid	Springer Nature Singapore	serial								P	165393661
+NPG Asia Materials	1884-4049	1884-4057	2009-10-01	1	1				https://www.nature.com/am/		41427		fulltext	fully open access	Springer Japan	serial								F	148655963
+The Journal of Antibiotics	0021-8820	1881-1469	2005	58	1				https://www.nature.com/ja/		41429		fulltext	hybrid	Springer Japan	serial								P	171501659
+Polymer Journal	0032-3896	1349-0540	1970	1	1				https://www.nature.com/pj/		41428		fulltext	hybrid	Nature Publishing Group UK	serial								P	112104339
+Genetics in Medicine	1098-3600	1530-0366	1998-11-01	1	1	2021-12-01	23	12	https://www.nature.com/gim/		41436		fulltext	hybrid	Nature Publishing Group US	serial								P	128394889
+European Journal of Clinical Nutrition	0954-3007	1476-5640	1997	51	1				https://www.nature.com/ejcn/		41430		fulltext	hybrid	Nature Publishing Group UK	serial								P	068852916
+Evidence-Based Dentistry	1462-0049	1476-5446	1998-11-01	1	1				https://www.nature.com/ebd/		41432		fulltext	hybrid	Nature Publishing Group UK	serial								P	068852711
+European Journal of Human Genetics	1018-4813	1476-5438	1993	1	1				https://www.nature.com/ejhg/		41431		fulltext	hybrid	Springer International Publishing	serial								P	068852703
+Eye	0950-222X	1476-5454	1987	1	1				https://www.nature.com/eye/		41433		fulltext	hybrid	Nature Publishing Group UK	serial								P	067781330
+Gene Therapy	0969-7128	1476-5462	1997	4	1				https://www.nature.com/gt/		41434		fulltext	hybrid	Nature Publishing Group UK	serial								P	068852738
+Genes & Immunity	1466-4879	1476-5470	1999-09-01	1	1				https://www.nature.com/gene/		41435		fulltext	hybrid	Nature Publishing Group UK	serial								P	067781357
+Hypertension Research	0916-9636	1348-4214	2005	28	1				https://www.nature.com/hr/		41440		fulltext	hybrid	Springer Nature Singapore	serial								P	083084800
+Heredity	0018-067X	1365-2540	1947-07-01	1	1				https://www.nature.com/hdy/		41437		fulltext	hybrid	Springer International Publishing	serial								P	050927965
+Horticulture Research	2662-6810	2052-7276	2014-12-01	1	1	2021-12-01	8	1	https://www.nature.com/hortres/		41438		fulltext	fully open access	Nature Publishing Group UK	serial								F	179322966
+Human Genome Variation		2054-345X	2014-12-01	1	1				https://www.nature.com/hgv/		41439		fulltext	fully open access	Nature Publishing Group UK	serial								F	183632508
+International Journal of Impotence Research	0955-9930	1476-5489	1997-03-01	9	1				https://www.nature.com/ijir/		41443		fulltext	hybrid	Nature Publishing Group UK	serial								P	068852754
+Nature Communications		2041-1723	2010-12-01	1	1				https://www.nature.com/ncomms/		41467		fulltext	fully open access	Nature Publishing Group UK	serial								F	145457443
+Nature Plants		2055-0278	2015	1	1				https://www.nature.com/nplants/		41477		fulltext	hybrid	Nature Publishing Group UK	serial								P	18767132X
+npj Aging and Mechanisms of Disease		2056-3973	2015-12-01	1	1	2021-12-01	7	1	https://www.nature.com/npjamd/		2056-3973		fulltext	fully open access	Nature Publishing Group UK	serial								F	18987497X
+npj Aging		2731-6068	2022-12-01	8	1				https://www.nature.com/npjamd/		41514		fulltext	fully open access	Nature Publishing Group UK	serial							2056-3973	F	262899221
+npj Breast Cancer		2374-4677	2015-11-01	1	1				https://www.nature.com/npjbcancer/		41523		fulltext	fully open access	Nature Publishing Group UK	serial								F	189401885
+npj Biofilms and Microbiomes		2055-5008	2015-12-01	1	1				https://www.nature.com/npjbiofilms/		41522		fulltext	fully open access	Nature Publishing Group UK	serial								F	188859071
+npj Genomic Medicine		2056-7944	2016-11-01	1	1				https://www.nature.com/npjgenmed/		41525		fulltext	fully open access	Nature Publishing Group UK	serial								F	192165224
+npj Computational Materials		2057-3960	2015-12-01	1	1				https://www.nature.com/npjcompumats/		41524		fulltext	fully open access	Nature Publishing Group UK	serial								F	193606852
+npj Microgravity		2373-8065	2015-11-01	1	1				https://www.nature.com/npjmgrav/		41526		fulltext	fully open access	Nature Publishing Group UK	serial								F	189401826
+npj Materials Degradation		2397-2106	2017-12-01	1	1				https://www.nature.com/npjmatdeg/		41529		fulltext	fully open access	Nature Publishing Group UK	serial								F	204062446
+npj Flexible Electronics		2397-4621	2017-12-01	1	1				https://www.nature.com/npjflexelectron/		41528		fulltext	fully open access	Nature Publishing Group UK	serial								F	219525196
+npj Parkinson's Disease		2373-8057	2015-12-01	1	1				https://www.nature.com/npjparkd/		41531		fulltext	fully open access	Nature Publishing Group UK	serial								F	189401818
+npj Primary Care Respiratory Medicine		2055-1010	2014-11-01	24	1				https://www.nature.com/npjpcrm/		41533		fulltext	fully open access	Nature Publishing Group UK	serial							1475-1534	F	182467732
+npj Quantum Materials		2397-4648	2016-12-01	1	1				https://www.nature.com/npjquantmats/		41535		fulltext	fully open access	Nature Publishing Group UK	serial								F	195204042
+npj Quantum Information		2056-6387	2015-12-01	1	1				https://www.nature.com/npjqi/		41534		fulltext	fully open access	Nature Publishing Group UK	serial								F	189874996
+npj Science of Learning		2056-7936	2016-12-01	1	1				https://www.nature.com/npjscilearn/		41539		fulltext	fully open access	Nature Publishing Group UK	serial								F	197426727
+npj Vaccines		2059-0105	2016-12-01	1	1				https://www.nature.com/npjvaccines/		41541		fulltext	fully open access	Nature Publishing Group UK	serial								F	195202228
+npj Schizophrenia		2334-265X	2015-12-01	1	1	2021-12-01	7	1	https://www.nature.com/npjschz/		2334-265X		fulltext	fully open access	Nature Publishing Group UK	serial								F	189337400
+Schizophrenia		2754-6993	2022-12-01	8	1				https://www.nature.com/npjschz/		41537		fulltext	fully open access	Nature Publishing Group UK	serial							2334-265X	F	26331653X
+npj Regenerative Medicine		2057-3995	2016-12-01	1	1				https://www.nature.com/npjregenmed/		41536		fulltext	fully open access	Nature Publishing Group UK	serial								F	197426735
+npj Science of Food		2396-8370	2017-12-01	1	1				https://www.nature.com/npjscifood/		41538		fulltext	fully open access	Nature Publishing Group UK	serial								F	221012710
+npj Systems Biology and Applications		2056-7189	2015-12-01	1	1				https://www.nature.com/npjsba/		41540		fulltext	fully open access	Nature Publishing Group UK	serial								F	192165208
+npj Clean Water		2059-7037	2018-12-01	1	1				https://www.nature.com/npjcleanwater/		41545		fulltext	fully open access	Nature Publishing Group UK	serial								F	226864782
+Nature Biomedical Engineering		2157-846X	2017	1	1				https://www.nature.com/natbiomedeng/		41551		fulltext	hybrid	Nature Publishing Group UK	serial								P	19852787X
+Nature Cell Biology	1465-7392	1476-4679	1999-05-01	1	1				https://www.nature.com/ncb/		41556		fulltext	hybrid	Nature Publishing Group UK	serial								P	068852622
+Nature Chemistry	1755-4330	1755-4349	2009-04-01	1	1				https://www.nature.com/nchem/		41557		fulltext	hybrid	Nature Publishing Group UK	serial								P	133945197
+Nature Climate Change	1758-678X	1758-6798	2011-04-01	1	1				https://www.nature.com/nclimate/		41558		fulltext	hybrid	Nature Publishing Group UK	serial							1753-9315	P	153474521
+Nature Astronomy		2397-3366	2017	1	1				https://www.nature.com/natastron/		41550		fulltext	hybrid	Nature Publishing Group UK	serial								P	198530382
+Nature Ecology & Evolution		2397-334X	2017	1	1				https://www.nature.com/natecolevol/		41559		fulltext	hybrid	Nature Publishing Group UK	serial								P	198530366
+Nature Energy		2058-7546	2016	1	1				https://www.nature.com/nenergy/		41560		fulltext	hybrid	Nature Publishing Group UK	serial								P	19152221X
+Nature Geoscience	1752-0894	1752-0908	2008	1	1				https://www.nature.com/ngeo/		41561		fulltext	hybrid	Nature Publishing Group UK	serial								P	123679125
+Nature Microbiology		2058-5276	2016	1	1				https://www.nature.com/nmicrobiol/		41564		fulltext	hybrid	Nature Publishing Group UK	serial								P	191522201
+Nature Nanotechnology	1748-3387	1748-3395	2006-10-01	1	1				https://www.nature.com/nnano/		41565		fulltext	hybrid	Nature Publishing Group UK	serial								P	121687104
+Nature Materials	1476-1122	1476-4660	2002-09-01	1	1				https://www.nature.com/nmat/		41563		fulltext	hybrid	Nature Publishing Group UK	serial								P	069618550
+Nature Photonics	1749-4885	1749-4893	2007	1	1				https://www.nature.com/nphoton/		41566		fulltext	hybrid	Nature Publishing Group UK	serial								P	132974630
+Nature Human Behaviour		2397-3374	2017	1	1				https://www.nature.com/nathumbehav/		41562		fulltext	hybrid	Nature Publishing Group UK	serial								P	198530390
+Nature Physics	1745-2473	1745-2481	2005-10-01	1	1				https://www.nature.com/nphys/		41567		fulltext	hybrid	Nature Publishing Group UK	serial								P	116260327
+Nature Clinical Practice Cardiovascular Medicine	1743-4297	1743-4300	2004-11-01	1	1	2009-02-01	6	2	https://www.nature.com/nrcardio/		1743-4300		fulltext	subscription	Nature Publishing Group UK	serial								P	090138481
+Nature Reviews Cardiology	1759-5002	1759-5010	2009-03-01	6	3				https://www.nature.com/nrcardio/		41569		fulltext	subscription	Nature Publishing Group UK	serial							1743-4300	P	134316193
+Nature Clinical Practice Oncology	1743-4254	1743-4262	2004-11-01	1	1	2009-02-01	6	2	https://www.nature.com/nrclinonc/		1743-4262		fulltext	subscription	Nature Publishing Group UK	serial								P	140087710
+Nature Reviews Clinical Oncology	1759-4774	1759-4782	2009-03-01	6	3				https://www.nature.com/nrclinonc/		41571		fulltext	subscription	Nature Publishing Group UK	serial							1743-4262	P	136115438
+Nature Reviews Cancer	1474-175X	1474-1768	2001-10-01	1	1				https://www.nature.com/nrc/		41568		fulltext	subscription	Nature Publishing Group UK	serial								P	068852134
+Nature Reviews Disease Primers		2056-676X	2015-12-01	1	1				https://www.nature.com/nrdp/		41572		fulltext	subscription	Nature Publishing Group UK	serial								P	187630852
+Nature Reviews Drug Discovery	1474-1776	1474-1784	2002	1	1				https://www.nature.com/nrd/		41573		fulltext	subscription	Nature Publishing Group UK	serial								P	068852142
+Nature Reviews Immunology	1474-1733	1474-1741	2001-10-01	1	1				https://www.nature.com/nri/		41577		fulltext	subscription	Nature Publishing Group UK	serial								P	068852126
+Nature Reviews Genetics	1471-0056	1471-0064	2000-10-01	1	1				https://www.nature.com/nrg/		41576		fulltext	subscription	Nature Publishing Group UK	serial								P	058289968
+Nature Clinical Practice Gastroenterology & Hepatology	1743-4378	1743-4386	2004-11-01	1	1	2009-02-01	6	2	https://www.nature.com/nrgastro/		1743-4386		fulltext	subscription	Nature Publishing Group UK	serial								P	116245824
+Nature Reviews Gastroenterology & Hepatology	1759-5045	1759-5053	2009-03-01	6	3				https://www.nature.com/nrgastro/		41575		fulltext	subscription	Nature Publishing Group UK	serial							1743-4386	P	134316215
+Nature Clinical Practice Endocrinology & Metabolism	1745-8366	1745-8374	2005-11-01	1	1	2009-02-01	5	2	https://www.nature.com/nrendo/		1745-8374		fulltext	subscription	Nature Publishing Group UK	serial								P	116260424
+Nature Reviews Endocrinology	1759-5029	1759-5037	2009-03-01	5	3				https://www.nature.com/nrendo/		41574		fulltext	subscription	Nature Publishing Group UK	serial							1745-8374	P	134316207
+Nature Reviews Materials		2058-8437	2016	1	1				https://www.nature.com/natrevmats/		41578		fulltext	subscription	Nature Publishing Group UK	serial								P	191522236
+Nature Reviews Chemistry		2397-3358	2017	1	1				https://www.nature.com/natrevchem/		41570		fulltext	subscription	Nature Publishing Group UK	serial								P	198530374
+Nature Reviews Microbiology	1740-1526	1740-1534	2003-10-01	1	1				https://www.nature.com/nrmicro/		41579		fulltext	subscription	Nature Publishing Group UK	serial								P	078941318
+Nature Reviews Neuroscience	1471-003X	1471-0048	2000-10-01	1	1				https://www.nature.com/nrn/		41583		fulltext	subscription	Nature Publishing Group UK	serial								P	05828995X
+Nature Clinical Practice Nephrology	1745-8323	1745-8331	2005-11-01	1	1	2009-02-01	5	2	https://www.nature.com/nrneph/		1745-8331		fulltext	subscription	Nature Publishing Group UK	serial								P	116260408
+Nature Reviews Nephrology	1759-5061	1759-507X	2009-03-01	5	3				https://www.nature.com/nrneph/		41581		fulltext	subscription	Nature Publishing Group UK	serial							1745-8331	P	134316223
+Nature Reviews Molecular Cell Biology	1471-0072	1471-0080	2000-10-01	1	1				https://www.nature.com/nrm/		41580		fulltext	subscription	Nature Publishing Group UK	serial								P	058289976
+Nature Clinical Practice Urology	1743-4270	1743-4289	2004-11-01	1	1	2009-02-01	6	2	https://www.nature.com/nrurol/		1743-4289		fulltext	subscription	Nature Publishing Group UK	serial								P	104882182
+Nature Reviews Urology	1759-4812	1759-4820	2009-03-01	6	3				https://www.nature.com/nrurol/		41585		fulltext	subscription	Nature Publishing Group UK	serial							1743-4289	P	134316185
+Nature Clinical Practice Neurology	1745-834X	1745-8358	2005-11-01	1	1	2009-02-01	5	2	https://www.nature.com/nrneurol/		1745-8358		fulltext	subscription	Nature Publishing Group UK	serial								P	116260416
+Nature Reviews Neurology	1759-4758	1759-4766	2009-03-01	5	3				https://www.nature.com/nrneurol/		41582		fulltext	subscription	Nature Publishing Group UK	serial							1745-8358	P	134316169
+Nature Clinical Practice Rheumatology	1745-8382	1745-8390	2005-11-01	1	1	2009-02-01	5	2	https://www.nature.com/nrrheum/		1745-8390		fulltext	subscription	Nature Publishing Group UK	serial								P	104882719
+Nature Reviews Rheumatology	1759-4790	1759-4804	2009-03-01	5	3				https://www.nature.com/nrrheum/		41584		fulltext	subscription	Nature Publishing Group UK	serial							1745-8390	P	134316177
+Nature	0028-0836	1476-4687	1869-11-01	1	1				https://www.nature.com/nature		41586		fulltext	hybrid	Nature Publishing Group UK	serial								P	068267983
+Bio/Technology	0733-222X		1983-03-01	1	1	1996-02-01	14	2	https://www.nature.com/nbt/		0733-222X		fulltext	hybrid	Nature Publishing Group US	serial								P	
+Nature Biotechnology	1087-0156	1546-1696	1996-03-01	14	3				https://www.nature.com/nbt/		41587		fulltext	hybrid	Nature Publishing Group US	serial							0733-222X	P	07343180X
+Nature Chemical Biology	1552-4450	1552-4469	2005-06-01	1	1				https://www.nature.com/nchembio/		41589		fulltext	hybrid	Nature Publishing Group US	serial								P	112783643
+Nature Genetics	1061-4036	1546-1718	1992-04-01	1	1				https://www.nature.com/ng/		41588		fulltext	hybrid	Nature Publishing Group US	serial								P	074131265
+Nature Immunology	1529-2908	1529-2916	2000-07-01	1	1				https://www.nature.com/ni/		41590		fulltext	hybrid	Nature Publishing Group US	serial								P	05835266X
+Nature Methods	1548-7091	1548-7105	2004-10-01	1	1				https://www.nature.com/nmeth/		41592		fulltext	hybrid	Nature Publishing Group US	serial								P	112783589
+Nature Medicine	1078-8956	1546-170X	1995	1	1				https://www.nature.com/nm/		41591		fulltext	hybrid	Nature Publishing Group US	serial								P	076879496
+Nature Structural Biology	1072-8368		1994-01-01	1	1	2003-11-01	10	11	https://www.nature.com/nsmb/		1072-8368		fulltext	hybrid	Nature Publishing Group US	serial								P	
+Nature Structural & Molecular Biology	1545-9993	1545-9985	2003-03-01	10	3				https://www.nature.com/nsmb/		41594		fulltext	hybrid	Nature Publishing Group US	serial							1072-8368	P	112728626
+Nature Neuroscience	1097-6256	1546-1726	1998-05-01	1	1				https://www.nature.com/neuro/		41593		fulltext	hybrid	Nature Publishing Group US	serial								P	074329367
+Nature Protocols	1754-2189	1750-2799	2006-06-01	1	1				https://www.nature.com/nprot/		41596		fulltext	subscription	Nature Publishing Group UK	serial								P	112894933
+Scientific Data		2052-4463	2014-12-01	1	1				https://www.nature.com/sdata/		41597		fulltext	fully open access	Nature Publishing Group UK	serial								F	180270044
+Palgrave Communications		2055-1045	2015-12-01	1	1	2020-12-01	6	1	https://www.nature.com/palcomms/		2055-1045		fulltext	fully open access	Palgrave Macmillan UK	serial								F	187158169
+Humanities and Social Sciences Communications		2662-9992	2020-06-01	6	1				https://www.nature.com/palcomms/		41599		fulltext	fully open access	Palgrave Macmillan UK	serial							2055-1045	F	248716352
+Scientific Reports		2045-2322	2011-12-01	1	1				https://www.nature.com/srep/		41598		fulltext	fully open access	Nature Publishing Group UK	serial								F	153912472
+npj Climate and Atmospheric Science		2397-3722	2018-12-01	1	1				https://www.nature.com/npjclimatsci/		41612		fulltext	fully open access	Nature Publishing Group UK	serial								F	224058509
+Lab Animal	0093-7355	1548-4475	2003	32	1				https://www.nature.com/laban/		41684		fulltext	hybrid	Nature Publishing Group US	serial								P	083136657
+npj Precision Oncology		2397-768X	2017-12-01	1	1				https://www.nature.com/npjprecisiononcology/		41698		fulltext	fully open access	Nature Publishing Group UK	serial								F	200451189
+npj 2D Materials and Applications		2397-7132	2017-12-01	1	1				https://www.nature.com/npj2dmaterials/		41699		fulltext	fully open access	Nature Publishing Group UK	serial								F	21952520X
+npj Digital Medicine		2398-6352	2018-12-01	1	1				https://www.nature.com/npjdigitalmed/		41746		fulltext	fully open access	Nature Publishing Group UK	serial								F	224182579
+Nature Sustainability		2398-9629	2018	1	1				https://www.nature.com/natsustain/		41893		fulltext	hybrid	Nature Publishing Group UK	serial								P	224182587
+Nature Electronics		2520-1131	2018	1	1				https://www.nature.com/natelectron/		41928		fulltext	hybrid	Nature Publishing Group UK	serial								P	224183052
+Nature Catalysis		2520-1158	2018	1	1				https://www.nature.com/natcatal/		41929		fulltext	hybrid	Nature Publishing Group UK	serial								P	224183060
+Communications Biology		2399-3642	2018-12-01	1	1				https://www.nature.com/commsbio/		42003		fulltext	fully open access	Nature Publishing Group UK	serial								F	224182595
+Communications Chemistry		2399-3669	2018-12-01	1	1				https://www.nature.com/commschem/		42004		fulltext	fully open access	Nature Publishing Group UK	serial								F	22549857X
+Communications Physics		2399-3650	2018-12-01	1	1				https://www.nature.com/commsphys/		42005		fulltext	fully open access	Nature Publishing Group UK	serial								F	225257084
+Nature Reviews Physics		2522-5820	2019	1	1				https://www.nature.com/natrevphys/		42254		fulltext	subscription	Nature Publishing Group UK	serial								P	234522291
+Nature Metabolism		2522-5812	2019	1	1				https://www.nature.com/natmetab/		42255		fulltext	hybrid	Nature Publishing Group UK	serial								P	234522283
+Nature Machine Intelligence		2522-5839	2019	1	1				https://www.nature.com/natmachintell/		42256		fulltext	hybrid	Nature Publishing Group UK	serial								P	234522305
+npj Urban Sustainability		2661-8001	2021-12-01	1	1				https://www.nature.com/npjurbansustain/		42949		fulltext	fully open access	Nature Publishing Group UK	serial								F	254897576
+Nature Reviews Earth & Environment		2662-138X	2020	1	1				https://www.nature.com/natrevearthenviron/		43017		fulltext	subscription	Nature Publishing Group UK	serial								P	243086717
+Nature Food		2662-1355	2020	1	1				https://www.nature.com/natfood/		43016		fulltext	hybrid	Nature Publishing Group UK	serial								P	243086709
+Nature Cancer		2662-1347	2020	1	1				https://www.nature.com/natcancer/		43018		fulltext	hybrid	Nature Publishing Group US	serial								P	243086695
+Communications Earth & Environment		2662-4435	2020-12-01	1	1				https://www.nature.com/commsenv/		43247		fulltext	fully open access	Nature Publishing Group UK	serial								F	250471922
+Communications Materials		2662-4443	2020-12-01	1	1				https://www.nature.com/commsmat/		43246		fulltext	fully open access	Nature Publishing Group UK	serial								F	248313851
+Nature Reviews Methods Primers		2662-8449	2021-12-01	1	1				https://www.nature.com/nrmp/		43586		fulltext	subscription	Nature Publishing Group UK	serial								P	258681926
+Nature Aging		2662-8465	2021	1	1				https://www.nature.com/nataging		43587		fulltext	hybrid	Nature Publishing Group US	serial								P	258681942
+Nature Computational Science		2662-8457	2021	1	1				https://www.nature.com/natcomputsci		43588		fulltext	hybrid	Nature Publishing Group US	serial								P	258681934
+ISME Communications		2730-6151	2021-12-01	1	1	2023-12-01	3	1	https://www.nature.com/ismecomms		43705		fulltext	fully open access	Nature Publishing Group UK	serial								F	263425681
+Communications Medicine		2730-664X	2021-12-01	1	1				https://www.nature.com/commsmed		43856		fulltext	fully open access	Nature Publishing Group UK	serial								F	257220038
+Nature Cardiovascular Research		2731-0590	2022	1	1				https://www.nature.com/natcardiovascres/		44161		fulltext	hybrid	Nature Publishing Group UK	serial								P	260620289
+Nature Reviews Psychology		2731-0574	2022	1	1				https://www.nature.com/nrpsychol/		44159		fulltext	subscription	Nature Publishing Group US	serial								P	261660829
+Nature Synthesis		2731-0582	2022	1	1				https://www.nature.com/natsynth/		44160		fulltext	hybrid	Nature Publishing Group UK	serial								P	260620270
+Climate Action		2731-3263	2022-12-01	1	1	2022-12-01	1	1	https://www.nature.com/npjclimataction/		2731-3263		fulltext	fully open access	Nature Publishing Group UK	serial								F	26774627X
+npj Climate Action		2731-9814	2023-12-01	2	1				https://www.nature.com/npjclimataction/		44168		fulltext	fully open access	Nature Publishing Group UK	serial							2731-3263	F	269306609
+Communications Engineering		2731-3395	2022-12-01	1	1				https://www.nature.com/commseng/		44172		fulltext	fully open access	Nature Publishing Group UK	serial								F	263425738
+npj Robotics		2731-4278	2023-12-01	1	1				https://www.nature.com/npjrobot/		44182		fulltext	fully open access	Nature Publishing Group UK	serial								F	279672810
+npj Ocean Sustainability		2731-426X	2022-12-01	1	1				https://www.nature.com/npjoceansustain/		44183		fulltext	fully open access	Nature Publishing Group UK	serial								F	
+npj Biodiversity		2731-4243	2022-12-01	1	1				https://www.nature.com/npjbiodivers/		44185		fulltext	fully open access	Nature Publishing Group UK	serial								F	267570449
+npj Mental Health Research		2731-4251	2022-12-01	1	1				https://www.nature.com/npjmentalhealth/		44184		fulltext	fully open access	Nature Publishing Group UK	serial								F	263425762
+Nature Mental Health		2731-6076	2023	1	1				https://www.nature.com/natmentalhealth/		44220		fulltext	hybrid	Nature Publishing Group US	serial								P	268714533
+Nature Water		2731-6084	2023	1	1				https://www.nature.com/natwater/		44221		fulltext	hybrid	Nature Publishing Group UK	serial								P	268589372
+Nature Reviews Bioengineering		2731-6092	2023	1	1				https://www.nature.com/natrevbioeng/		44222		fulltext	subscription	Nature Publishing Group UK	serial								P	268589380
+npj Antimicrobials and Resistance		2731-8745	2023-12-01	1	1				https://www.nature.com/npjamar/		44259		fulltext	fully open access	Nature Publishing Group UK	serial								F	263949117
+npj Sustainable Agriculture		2731-9202	2023-12-01	1	1				https://www.nature.com/npjsustainagric/		44264		fulltext	fully open access	Nature Publishing Group UK	serial								F	275392635
+Communications Psychology		2731-9121	2023-12-01	1	1				https://www.nature.com/commspsychol/		44271		fulltext	fully open access	Nature Publishing Group UK	serial								F	272376035
+BJC Reports		2731-9377	2023-12-01	1	1				https://www.nature.com/bjcreports/		44276		fulltext	fully open access	Nature Publishing Group UK	serial								F	271822406
+NPP—Digital Psychiatry and Neuroscience		2948-1570	2023-12-01	1	1				https://www.nature.com/dpn		44277		fulltext	fully open access	Springer International Publishing	serial								F	276920449
+Nature Cities		2731-9997	2024	1	1				https://www.nature.com/natcities/		44284		fulltext	hybrid	Nature Publishing Group US	serial								P	
+Nature Reviews Electrical Engineering		2948-1201	2024	1	1				https://www.nature.com/natrevelectreng/		44287		fulltext	subscription	Nature Publishing Group UK	serial								P	279673841
+Nature Chemical Engineering		2948-1198	2024	1	1				https://www.nature.com/natchemeng/		44286		fulltext	hybrid	Nature Publishing Group US	serial								P	279673833
+npj Women's Health		2948-1716	2023-12-01	1	1				https://www.nature.com/npjwomenshealth/		44294		fulltext	fully open access	Nature Publishing Group UK	serial								F	273389726
+npj Materials Sustainability		2948-1775	2023-12-01	1	1				https://www.nature.com/npjmatsustain/		44296		fulltext	fully open access	Nature Publishing Group UK	serial								F	27967385X
+npj Viruses		2948-1767	2023-12-01	1	1				https://www.nature.com/npjviruses/		44298		fulltext	fully open access	Nature Publishing Group UK	serial								F	273389734
+npj Imaging		2948-197X	2023-12-01	1	1				https://www.nature.com/npjimaging/		44303		fulltext	fully open access	Nature Publishing Group UK	serial								F	279673876
+npj Spintronics		2948-2119	2023-12-01	1	1				https://www.nature.com/npjspintronics/		44306		fulltext	fully open access	Nature Publishing Group UK	serial								F	279673906
+npj Metabolic Health and Disease		2948-2828	2023-12-01	1	1				https://www.nature.com/npjmetabhealth/		44324		fulltext	fully open access	Nature Publishing Group UK	serial								F	279673949
+npj Cardiovascular Health		2948-2836	2024-12-01	1	1				https://www.nature.com/npjcardiohealth/		44325		fulltext	fully open access	Nature Publishing Group UK	serial								F	279673957
+npj Biosensing		3004-8656	2024-12-01	1	1				https://www.nature.com/npjbiosensing/		44328		fulltext	fully open access	Nature Publishing Group UK	serial								F	27968830X
