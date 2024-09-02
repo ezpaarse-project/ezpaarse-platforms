@@ -17,43 +17,42 @@ module.exports = new Parser(function analyseEC(parsedUrl, ec) {
   // let param = parsedUrl.query || {};
 
   // use console.error for debuging
-   //console.error(parsedUrl);
+  //console.error(parsedUrl);
 
-const regex1 = /\/api\/v1\/personnes\/personne\/([0-9]{8}[0-9X])/ig;
-const regex3 = /\/api\/v1\/theses\/organisme\/([0-9]{8}[0-9X])/ig;
-const regex2 = /\/api\/v1\/theses\/these\/(([0-9]{4})([a-z]{2}[0-9a-z]{2})[0-9a-z]+)/ig;
+  const apiPersonRegex = /\/api\/v1\/personnes\/personne\/([0-9]{8}[0-9X])/ig;
+  const apiOrganismeRegex = /\/api\/v1\/theses\/organisme\/([0-9]{8}[0-9X])/ig;
+  const apiThesisRegex = /\/api\/v1\/theses\/these\/(([0-9]{4})([a-z]{2}[0-9a-z]{2})[0-9a-z]+)/ig;
 
-const regex4 = /\/api\/v1\/document\/(([0-9]{4})([a-z]{2}[0-9a-z]{2})[0-9a-z]+)/ig;
-const regex5 = /\/api\/v1\/document\/protected\/(([0-9]{4})([a-z]{2}[0-9a-z]{2})[0-9a-z]+)/ig;
+  const apiDocumentRegex = /\/api\/v1\/document\/(([0-9]{4})([a-z]{2}[0-9a-z]{2})[0-9a-z]+)/ig;
+  const apiProtectedDocRegex = /\/api\/v1\/document\/protected\/(([0-9]{4})([a-z]{2}[0-9a-z]{2})[0-9a-z]+)/ig;
 
 
   let match;
 
-
-
-if (((match = /^\/(([0-9]{4})([a-z]{2}[0-9a-z]{2})[0-9a-z]+)\/document$/i.exec(path)) !== null) ||
-     ((match = regex4.exec(path)) !== null) ) {
+  if (
+    ((match = /^\/(([0-9]{4})([a-z]{2}[0-9a-z]{2})[0-9a-z]+)\/document$/i.exec(path)) !== null) ||
+    ((match = apiDocumentRegex.exec(path)) !== null)
+  ) {
     // https://theses.fr/2020EMAC0007/document Accès au PDF d’une thèse soutenue PHD_THESIS disponible en ligne
-	// /api/v1/document/2020EMAC0007 Accès au PDF d’une thèse soutenue PHD_THESIS disponible en ligne
+    // /api/v1/document/2020EMAC0007 Accès au PDF d’une thèse soutenue PHD_THESIS disponible en ligne
     result.rtype = 'PHD_THESIS';
     result.unitid = match[1];
     result.publication_date = match[2];
     result.institution_code = match[3];
-	switch (Number.parseInt(ec.status, 10)) {
+
+    switch (Number.parseInt(ec.status, 10)) {
     case 200:
       result.mime = 'PDF';
       break;
     case 302:
       result.mime = 'HTML';
       break;
-
     default:
       result.mime = 'MISC';
       break;
     }
-  }
-  
-else  if ((match = regex5.exec(path)) !== null) {
+
+  } else if ((match = apiProtectedDocRegex.exec(path)) !== null) {
     // /api/v1/document/protected/2014PA070043  Accès au PDF d’une thèse PHD_THESIS sur l’intranet national
     result.rtype = 'PHD_THESIS';
     result.mime = 'PDF';
@@ -61,19 +60,17 @@ else  if ((match = regex5.exec(path)) !== null) {
     result.publication_date = match[2];
     result.institution_code = match[3];
 
-  }  
-
-else if ((match = regex1.exec(path)) !== null) {
+  } else if ((match = apiPersonRegex.exec(path)) !== null) {
     // RECORD person JSON, will be changed to BIO in middleware thesesfr-personne
-	// /api/v1/personnes/personne/264066944
+    // /api/v1/personnes/personne/264066944
     result.rtype = 'RECORD';
     result.mime = 'JSON';
     result.unitid = match[1];
     result.ppn = match[1];
 
-  } else if ((match = regex3.exec(path)) !== null) {
+  } else if ((match = apiOrganismeRegex.exec(path)) !== null) {
     // RECORD organism JSON
-	// /api/v1/theses/organisme/159502497
+    // /api/v1/theses/organisme/159502497
     result.rtype = 'RECORD';
     result.mime = 'JSON';
     result.unitid = match[1];
@@ -92,9 +89,9 @@ else if ((match = regex1.exec(path)) !== null) {
     result.mime = 'HTML';
     result.unitid = match[1];
 
-  } else if ((match = regex2.exec(path)) !== null) {
+  } else if ((match = apiThesisRegex.exec(path)) !== null) {
     // ABStract notice d’une thèse soutenue JSON
-	// /api/v1/theses/these/s383095
+    // /api/v1/theses/these/s383095
     result.rtype = 'ABS';
     result.mime = 'JSON';
     result.unitid = match[1];
@@ -109,8 +106,6 @@ else if ((match = regex1.exec(path)) !== null) {
     result.publication_date = match[2];
     result.institution_code = match[3];
   }
-
-
 
   return result;
 });
