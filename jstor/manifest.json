@@ -11,28 +11,13 @@
   "pkb": true,
   "bacon": {
     "provider": "JSTOR",
-    "matches": ["GLOBAL"]
+    "matches": [
+      "GLOBAL_ALLEBOOKS",
+      "GLOBAL_ALLJOURNALS"
+    ]
   },
   "domains": [
     "www.jstor.org",
     "about.jstor.org"
-  ],
-  "recognize": {
-    "rid": [
-      "title_id",
-      "doi",
-      "unitid"
-    ],
-    "rtype": [
-      "TOC",
-      "BOOK_SECTION",
-      "ARTICLE",
-      "ABS"
-    ],
-    "mime": [
-      "HTML",
-      "PDF",
-      "MISC"
-    ]
-  }
+  ]
 }

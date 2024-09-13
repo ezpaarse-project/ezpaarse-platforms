@@ -4,24 +4,16 @@
   "domains": [
     "content.iospress.com"
   ],
-  "recognize": {
-    "rid": [
-      "title_id",
-      "unitid"
-    ],
-    "rtype": [
-      "ARTICLE",
-      "ABS"
-    ],
-    "mime": [
-      "HTML",
-      "PDF"
-    ]
-  },
   "name": "ios",
   "longname": "IOS press",
   "describe": "Identifie les consultations de la plateforme IOS press",
   "docurl": "http://analyses.ezpaarse.org/platforms/5656eb290d03d63066fe9a51",
   "contact": "daniele.franco03@univ-paris8.fr",
-  "pkb": false
+  "pkb": false,
+  "bacon": {
+    "provider": "IOSPRESS",
+    "matches": [
+      "GLOBAL_ALLJOURNALS"
+    ]
+  }
 }

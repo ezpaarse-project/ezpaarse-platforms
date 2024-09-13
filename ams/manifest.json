@@ -1,34 +1,18 @@
 {
+  "name": "ams",
+  "longname": "American Meteorological Society",
+  "describe": "Identifie les consultations de la plateforme American Meteorological Society",
   "version": "2015-12-11",
   "status": "beta",
   "domains": [
     "journals.ametsoc.org",
     "ams.allenpress.com"
   ],
-  "recognize": {
-    "rid": [
-      "title_id",
-      "unitid",
-      "vol",
-      "issue",
-      "doi"
-    ],
-    "rtype": [
-      "TOC",
-      "ABS",
-      "ARTICLE",
-      "IMAGE"
-    ],
-    "mime": [
-      "HTML",
-      "PDF",
-      "MISC"
-    ]
-  },
-  "name": "ams",
-  "longname": "American Meteorological Society",
-  "describe": "Identifie les consultations de la plateforme American Meteorological Society",
   "docurl": "http://analyses.ezpaarse.org/platforms/564ca9869fe112d5d2c36d8d",
   "contact": "abderrazzak.loukili@inist.fr",
-  "pkb": false
+  "pkb": false,
+  "bacon": {
+    "provider": "AMS",
+    "matches": ["GLOBAL_ALLJOURNALS"]
+  }
 }

@@ -13,20 +13,8 @@
     "online.liebertpub.com"
 	],
   "pkb": true,
-  "recognize": {
-    "rid": [
-      "title_id",
-      "unitid"
-    ],
-    "rtype": [
-      "TOC",
-      "ABS",
-      "ARTICLE"
-    ],
-    "mime": [
-      "MISC",
-      "PDF",
-      "HTML"
-    ]
+  "bacon": {
+    "provider": "MARYANNLIEBERT",
+    "matches": ["GLOBAL_ALLJOURNALS"]
   }
 }

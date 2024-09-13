@@ -13,21 +13,11 @@
     "journals.cambridge.org",
     "www.cambridge.org"
   ],
-  "recognize": {
-    "rid": [
-      "title_id",
-      "print_identifier",
-      "unitid"
-    ],
-    "rtype": [
-      "TOC",
-      "ABS",
-      "ARTICLE"
-    ],
-    "mime": [
-      "HTML",
-      "PDF",
-      "MISC"
+  "bacon": {
+    "provider": "CUP",
+    "matches": [
+      "GLOBAL_ALLEBOOKS",
+      "GLOBAL_ALLJOURNALS"
     ]
   }
 }

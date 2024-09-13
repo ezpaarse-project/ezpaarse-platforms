@@ -5,28 +5,17 @@
     "www.endocrine.org",
     "press.endocrine.org"
   ],
-  "recognize": {
-    "rid": [
-      "title_id",
-      "unitid"
-    ],
-    "rtype": [
-      "BOOK_SECTION",
-      "ABS",
-      "TOC",
-      "REF",
-      "ARTICLE"
-    ],
-    "mime": [
-      "MISC",
-      "PDF"
-    ]
-  },
   "name": "es",
   "longname": "Endocrine Society",
   "publisher_name": "Endocrine Society",
   "describe": "Identifie les consultations de la plateforme endocrine society",
   "docurl": "http://analyses.ezpaarse.org/platforms/5435183c6d9da5c2aca4b48c",
   "contact": "abderrazzak.loukili@inist.fr",
-  "pkb": false
+  "pkb": false,
+  "bacon": {
+    "provider": "ENDOCRINESOCIETY",
+    "matches": [
+      "GLOBAL_ALLJOURNALS"
+    ]
+  }
 }

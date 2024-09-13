@@ -12,32 +12,17 @@
     "primarysources.brillonline.com",
     "brillonline.com"
   ],
-  "recognize": {
-    "rid": [
-      "title_id",
-      "doi",
-      "unitid",
-      "vol",
-      "issue",
-      "issn",
-      "isbn"
-    ],
-    "rtype": [
-      "TOC",
-      "ARTICLE",
-      "ABS",
-      "BOOK_SECTION"
-    ],
-    "mime": [
-      "PDF",
-      "HT",
-      "HTML"
-    ]
-  },
   "name": "brill",
   "longname": "Brill",
   "describe": "Identifie les consultations de la plateforme Brill",
   "docurl": "http://analyses.ezpaarse.org/platforms/53a983d7e393a5f030450064",
   "contact": "abderrazzak.loukili@inist.fr",
-  "pkb": false
+  "pkb": false,
+  "bacon": {
+    "provider": "BRILL",
+    "matches": [
+      "GLOBAL_ALLEBOOKS",
+      "GLOBAL_ALLJOURNALS"
+    ]
+  }
 }
