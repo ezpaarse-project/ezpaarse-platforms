@@ -1,0 +1,432 @@
+publication_title	print_identifier	online_identifier	date_first_issue_online	num_first_vol_online	num_first_issue_online	date_last_issue_online	num_last_vol_online	num_last_issue_online	title_url	first_author	title_id	embargo_info	coverage_depth	notes	publisher_name	publication_type	date_monograph_published_print	date_monograph_published_online	monograph_volume	monograph_edition	first_editor	parent_publication_title_id	preceding_publication_title_id	access_type	bestppn
+Japan Architectural Review		2475-8876	2018	1	1				https://onlinelibrary.wiley.com/loi/24758876		10.1002/(ISSN)2475-8876		fulltext		Wiley	serial								F	22933685X
+Journal of the Agricultural and Applied Economics Association		2769-2485	2022	1	1				https://onlinelibrary.wiley.com/loi/27692485		10.1002/(ISSN)2769-2485		fulltext		Wiley	serial								F	264036972
+Journal of the American Heart Association Cardiovascular and Cerebrovascular Disease	2047-9980	2047-9980	2012	1	1				http://jaha.ahajournals.org/content/by/year		10.1002/(ISSN)2047-9980		fulltext		Wiley	serial								F	163389993
+Journal of the International AIDS Society		1758-2652	2024	1	2004				https://onlinelibrary.wiley.com/loi/17582652		10.1002/(ISSN)1758-2652		fulltext		Wiley	serial								F	131763768
+Journal of the World Aquaculture Society	0893-8849	1749-7345	1997	28	1				https://onlinelibrary.wiley.com/loi/17497345		10.1111/(ISSN)1749-7345		fulltext		Wiley	serial							1749-7345	F	112894879
+Journal of Advanced Transportation	0197-6729	2042-3195	1997	31	1	2016	50	7	https://onlinelibrary.wiley.com/loi/20423195		10.1002/(ISSN)2042-3195		fulltext		Wiley	serial								F	162245963
+Journal of Advances in Modeling Earth Systems	1942-2466	1942-2466	2009	1	1				https://agupubs.onlinelibrary.wiley.com/loi/19422466		10.1002/(ISSN)1942-2466		fulltext		Wiley	serial								F	16436496X
+Journal of Applied Clinical Medical Physics	1526-9914	1526-9914	2000	1	1				https://aapm.onlinelibrary.wiley.com/loi/15269914		10.1002/(ISSN)1526-9914		fulltext		Wiley	serial								F	059182148
+Journal of Applied Ichthyology	0175-8659	1439-0426	1997	13	1				https://onlinelibrary.wiley.com/loi/14390426		10.1111/(ISSN)1439-0426		fulltext		Wiley	serial								F	120653990
+Journal of Arrhythmia		1883-2148	2005	21	3				https://onlinelibrary.wiley.com/loi/18832148		10.1002/(ISSN)1883-2148		fulltext		Wiley	serial								F	180442600
+Journal of Avian Biology	0908-8857	1600-048X	2000	31	1				https://onlinelibrary.wiley.com/loi/1600048X		10.1111/(ISSN)1600-048X		fulltext		Wiley	serial								F	110325699
+Journal of Cachexia, Sarcopenia and Muscle	2190-5991	2190-6009	2010	1	1				https://onlinelibrary.wiley.com/loi/1353921906009		10.1007/13539.2190-6009		fulltext		Wiley	serial								F	151984727
+Reproductive Medicine and Biology	1445-5781	1447-0578	2002	1	1				https://onlinelibrary.wiley.com/loi/14470578		10.1111/(ISSN)1447-0578		fulltext		Wiley	serial								F	120421194
+Reproductive, Female and Child Health		2768-7228	2022	1	1				https://onlinelibrary.wiley.com/loi/27687228		10.1002/(ISSN)2768-7228		fulltext		Wiley	serial								F	267733445
+Respirology Case Reports	2051-3380	2051-3380	2013	1	1				https://onlinelibrary.wiley.com/loi/20513380		10.1002/(ISSN)2051-3380		fulltext		Wiley	serial								F	180712241
+Responsive Materials	2834-894X	2834-8966	2023	1	1				https://onlinelibrary.wiley.com/loi/28348966		10.1002/(ISSN)2834-8966		fulltext		Wiley	serial								F	272949124
+Rheumatology & Autoimmunity	2767-1410	2767-1429	2021	1	1				https://onlinelibrary.wiley.com/loi/27671429		10.1002/(ISSN)2767-1429		fulltext		Wiley	serial								F	261661728
+River		2750-4867	2022	1	1				https://onlinelibrary.wiley.com/loi/27504867		10.1002/(ISSN)2750-4867		fulltext		Wiley	serial								F	265188601
+Security and Communication Networks	1939-0114	1939-0122	2008	1	1	2016	9	17	https://onlinelibrary.wiley.com/loi/19390122		10.1002/(ISSN)1939-0122		fulltext		Wiley	serial								F	128400706
+Sensory Neuroscience		2997-8874	2025	1	1				https://onlinelibrary.wiley.com/loi/29978874		10.1002/(ISSN)2997-8874		fulltext		Wiley	serial								F	
+Skin Research and Technology	0909-752X	1600-0846	1997	3	1				https://onlinelibrary.wiley.com/loi/16000846		10.1111/(ISSN)1600-0846		fulltext		Wiley	serial								F	111046904
+Sleep Research	2994-4147	2994-4155	2024	1	1				https://onlinelibrary.wiley.com/loi/29944155		10.1002/(ISSN)2994-4155		fulltext		Wiley	serial								F	
+Small Science		2688-4046	2020	1	1				https://onlinelibrary.wiley.com/loi/26884046		10.1002/(ISSN)2688-4046		fulltext		Wiley	serial								F	25228304X
+Small Structures		2688-4062	2020	1	1				https://onlinelibrary.wiley.com/loi/26884062		10.1002/(ISSN)2688-4062		fulltext		Wiley	serial								F	252283058
+Smart Medicine	2751-1863	2751-1871	2022	1	1				https://onlinelibrary.wiley.com/loi/27511871		10.1002/(ISSN)2751-1871		fulltext		Wiley	serial								F	26774658X
+Smart Molecules	2751-4587	2751-4595	2023	1	1				https://onlinelibrary.wiley.com/loi/27514595		10.1002/(ISSN)2751-4595		fulltext		Wiley	serial								F	
+SmartMat	2766-8525	2688-819X	2020	1	1				https://onlinelibrary.wiley.com/loi/2688819X		10.1002/(ISSN)2688-819X		fulltext		Wiley	serial								F	253393205
+Space Weather	1542-7390	1542-7390	2003	1	1				https://agupubs.onlinelibrary.wiley.com/loi/15427390		10.1002/(ISSN)1542-7390		fulltext		Wiley	serial								F	083136088
+Concepts in Magnetic Resonance: Part A	1546-6086	1552-5023	2003	16A	1	2018	47A	2	https://onlinelibrary.wiley.com/loi/15525023		10.1002/(ISSN)1552-5023		fulltext		Wiley	serial							1099-0534	F	094933480
+Conservation Letters	1755-263X	1755-263X	2008	1	1				https://conbio.onlinelibrary.wiley.com/loi/1755263X		10.1111/(ISSN)1755-263X		fulltext		Wiley	serial								F	131763407
+Conservation Science and Practice		2578-4854	2019	1	1				https://conbio.onlinelibrary.wiley.com/loi/25784854		10.1111/(ISSN)2578-4854		fulltext		Wiley	serial								F	236449419
+Contemporary European Politics		2833-0188	2023	1	1				https://onlinelibrary.wiley.com/loi/28330188		10.1002/(ISSN)2833-0188		fulltext		Wiley	serial								F	264093321
+CA: A Cancer Journal for Clinicians	0007-9235	1542-4863	1997	47	1				https://onlinelibrary.wiley.com/loi/15424863		10.3322/(ISSN)1542-4863		fulltext		Wiley	serial								F	076873552
+Journal of Cardiac Surgery	0886-0440	1540-8191	1997	12	1				https://onlinelibrary.wiley.com/loi/15408191		10.1111/(ISSN)1540-8191		fulltext		Wiley	serial								F	102213380
+Journal of Cell Communication and Signaling	1873-9601	1873-961X	2024	18	1				https://onlinelibrary.wiley.com/journal/1873961X		10.1002/(ISSN)1873-961X		fulltext		Wiley	serial								F	148654347
+Journal of Cellular and Molecular Medicine	1582-1838	1582-4934	2000	4	3				https://onlinelibrary.wiley.com/loi/15824934		10.1111/(ISSN)1582-4934		fulltext		Wiley	serial								F	059187646
+Journal of Clinical Laboratory Analysis	0887-8013	1098-2825	1996	10	1				https://onlinelibrary.wiley.com/loi/10982825		10.1002/(ISSN)1098-2825		fulltext		Wiley	serial								F	040632849
+Journal of Clinical Pharmacy and Therapeutics	0269-4727	1365-2710	1997	22	1				https://onlinelibrary.wiley.com/loi/13652710		10.1111/(ISSN)1365-2710		fulltext		Wiley	serial								F	050928139
+Journal of Cosmetic Dermatology	1473-2130	1473-2165	2002	1	1				https://onlinelibrary.wiley.com/loi/14732165		10.1111/(ISSN)1473-2165		fulltext		Wiley	serial								F	068677650
+Journal of Diabetes	1753-0393	1753-0407	2009	1	1				https://onlinelibrary.wiley.com/loi/17530407		10.1111/(ISSN)1753-0407		fulltext		Wiley	serial								F	133945138
+Journal of Diabetes Investigation	2040-1116	2040-1124	2010	1	1-2				https://onlinelibrary.wiley.com/loi/20401124		10.1111/(ISSN)2040-1124		fulltext		Wiley	serial								F	14629730X
+Journal of Experimental Orthopaedics		2197-1153	2014	1	1				https://onlinelibrary.wiley.com/loi/21971153		10.1002/(ISSN)2197-1153		fulltext		Wiley	serial								F	175788626
+Journal of Extracellular Biology		2768-2811	2021	1	1				https://onlinelibrary.wiley.com/loi/27682811		10.1002/(ISSN)2768-2811		fulltext		Wiley	serial								F	263316874
+Stroke: Vascular and Interventional Neurology		2694-5746	2021	1	1				https://onlinelibrary.wiley.com/loi/26945746		10.1161/(ISSN)2694-5746		fulltext		Wiley	serial								F	260052159
+Structural Control and Health Monitoring	1545-2255	1545-2263	2004	11	1				https://onlinelibrary.wiley.com/loi/15452263		10.1002/(ISSN)1545-2263		fulltext		Wiley	serial							1528-2716	F	099117150
+Sustainable Food Proteins		2771-9693	2023	1	1				https://onlinelibrary.wiley.com/loi/27719693		10.1002/(ISSN)2771-9693		fulltext		Wiley	serial								F	270720332
+SusMat	2766-8479	2692-4552	2021	1	1				https://onlinelibrary.wiley.com/loi/26924552		10.1002/(ISSN)2692-4552		fulltext		Wiley	serial								F	254898211
+SCI Sustainability		2997-6286	2025	1	1				https://onlinelibrary.wiley.com/loi/29976286		10.1002/(ISSN)2997-6286		fulltext		Wiley	serial								F	
+SPE Polymers		2690-3857	2020	1	1				https://onlinelibrary.wiley.com/loi/26903857		10.1002/(ISSN)2690-3857		fulltext		Wiley	serial								F	263534529
+The Breast Journal	1075-122X	1524-4741	1997	3	1	2021	27	12	https://onlinelibrary.wiley.com/loi/15244741		10.1111/(ISSN)1524-4741		fulltext		Wiley	serial								F	120757885
+The Bulletin of the Ecological Society of America	2327-6096	2327-6096	1997	78	1				https://esajournals.onlinelibrary.wiley.com/loi/23276096		10.1002/(ISSN)2327-6096		fulltext		Wiley	serial								F	169437159
+The Clinical Respiratory Journal	1752-6981	1752-699X	2007	1	1				https://onlinelibrary.wiley.com/loi/1752699X		10.1111/(ISSN)1752-699X		fulltext		Wiley	serial								F	116985747
+The Depositional Record	2055-4877	2055-4877	2015	1	1				https://onlinelibrary.wiley.com/loi/20554877		10.1002/(ISSN)2055-4877		fulltext		Wiley	serial								F	195121287
+The Journal of Clinical Hypertension	1524-6175	1751-7176	2001	3	1				https://onlinelibrary.wiley.com/loi/17517176		10.1111/(ISSN)1751-7176		fulltext		Wiley	serial							1559-4572	F	116269111
+cMat		3006-2691	2024	1	1				https://onlinelibrary.wiley.com/loi/30062691		10.1002/(ISSN)3006-2691		fulltext		Wiley	serial								F	
+CAAI Transactions on Intelligence Technology	2468-6557	2468-2322	2017	2	2				https://onlinelibrary.wiley.com/loi/24682322		10.1049/(ISSN)2468-2322		fulltext		Wiley	serial								F	198309651
+CNS Drug Reviews	1080-563X	1527-3458	1997	3	1	2007	13	4	https://onlinelibrary.wiley.com/loi/15273458		10.1111/(ISSN)1527-3458		fulltext		Wiley	serial								F	117458457
+CNS Neuroscience & Therapeutics	1755-5930	1755-5949	2008	14	1				https://onlinelibrary.wiley.com/loi/17555949		10.1111/(ISSN)1755-5949		fulltext		Wiley	serial							1527-3458	F	124092101
+CPT: Pharmacometrics & Systems Pharmacology	2163-8306	2163-8306	2012	1	9				https://ascpt.onlinelibrary.wiley.com/loi/21638306		10.1002/(ISSN)2163-8306		fulltext		Wiley	serial								F	170348555
+Deep Underground Science and Engineering		2770-1328	2022	1	1				https://onlinelibrary.wiley.com/loi/27701328		10.1002/(ISSN)2770-1328		fulltext		Wiley	serial								F	264090071
+Depression and Anxiety	1091-4269	1520-6394	1996	4	3				https://onlinelibrary.wiley.com/loi/15206394		10.1002/(ISSN)1520-6394		fulltext		Wiley	serial							1522-7154	F	058350764
+Dermatologic Therapy	1396-0296	1529-8019	2000	13	1				https://onlinelibrary.wiley.com/loi/15298019		10.1111/(ISSN)1529-8019		fulltext		Wiley	serial								F	154002852
+Die Angewandte Makromolekulare Chemie	0003-3146	1522-9505	1998	254	1	1999	273	1	https://onlinelibrary.wiley.com/loi/15229505		10.1002/(ISSN)1522-9505		fulltext		Wiley	serial								F	058847073
+Diversity & Inclusion Research		2835-236X	2024	1	1				https://onlinelibrary.wiley.com/loi/2835236X		10.1002/(ISSN)2835-236X		fulltext		Wiley	serial								F	276915348
+Journal of Extracellular Vesicles		2001-3078	2012	1	1				https://onlinelibrary.wiley.com/loi/20013078		10.1002/(ISSN)2001-3078		fulltext		Wiley	serial								F	162245831
+Journal of Flood Risk Management	1753-318X	1753-318X	2008	1	1				https://onlinelibrary.wiley.com/loi/1753318X		10.1111/(ISSN)1753-318X		fulltext		Wiley	serial								F	131763040
+Journal of Food Biochemistry	0145-8884	1745-4514	1997	21	1				https://onlinelibrary.wiley.com/loi/17454514		10.1111/(ISSN)1745-4514		fulltext		Wiley	serial							1745-4522	F	110350863
+Journal of Food Lipids	1065-7258	1745-4522	1997	4	1	2009	16	4	https://onlinelibrary.wiley.com/loi/17454522		10.1111/(ISSN)1745-4522		fulltext		Wiley	serial								F	110351509
+Journal of Food Processing and Preservation	0145-8892	1745-4549	1997	21	1				https://ifst.onlinelibrary.wiley.com/loi/17454549		10.1111/(ISSN)1745-4549		fulltext		Wiley	serial								F	110354249
+Journal of Food Quality	0146-9428	1745-4557	1997	20	1	2016	39	6	https://onlinelibrary.wiley.com/loi/17454557		10.1111/(ISSN)1745-4557		fulltext		Wiley	serial								F	110356500
+The Journal of Engineering		2051-3305	2013	2013	1				https://onlinelibrary.wiley.com/loi/20513305		10.1049/(ISSN)2051-3305		fulltext		Wiley	serial								F	174285132
+The Journal of Pathology: Clinical Research	2056-4538	2056-4538	2015	1	1				https://onlinelibrary.wiley.com/loi/20564538		10.1002/(ISSN)2056-4538		fulltext		Wiley	serial							2054-8818	F	185374670
+The Kaohsiung Journal of Medical Sciences		2410-8650	2003	19	1				https://onlinelibrary.wiley.com/loi/24108650		10.1002/(ISSN)2410-8650		fulltext		Wiley	serial								F	118967738
+The Plant Genome		1940-3372	2008	1	1				https://onlinelibrary.wiley.com/loi/19403372		10.1002/(ISSN)1940-3372		fulltext		Wiley	serial								F	136984754
+The Plant Phenome Journal		2578-2703	2018	1	1				https://onlinelibrary.wiley.com/loi/25782703		10.1002/(ISSN)2578-2703		fulltext		Wiley	serial								F	229289142
+Theoretical Economics	1933-6837	1555-7561	2010	5	1				https://onlinelibrary.wiley.com/loi/15557561		10.1111/(ISSN)1555-7561		fulltext		Wiley	serial								F	120428326
+Thoracic Cancer	1759-7706	1759-7714	2010	1	1				https://onlinelibrary.wiley.com/loi/17597714		10.1111/(ISSN)1759-7714		fulltext		Wiley	serial								F	146863909
+Transactions of the London Mathematical Society	2052-4986	2052-4986	2014	1	1				https://londmathsoc.onlinelibrary.wiley.com/loi/20524986		10.1112/(ISSN)2052-4986		fulltext		Wiley	serial								F	17932294X
+Transboundary and Emerging Diseases	1865-1674	1865-1682	2008	55	1				https://onlinelibrary.wiley.com/loi/18651682		10.1111/(ISSN)1865-1682		fulltext		Wiley	serial							1439-0442	F	123985676
+eFood		2666-3066	2020	1	1				https://onlinelibrary.wiley.com/loi/26663066		10.1002/(ISSN)2666-3066		fulltext		Wiley	serial								F	244300488
+eJHaem		2688-6146	2019	1	1				https://onlinelibrary.wiley.com/loi/26886146		10.1002/(ISSN)2688-6146		fulltext		Wiley	serial								F	248717278
+iLABMED	2834-443X	2834-4448	2023	1	1				https://onlinelibrary.wiley.com/loi/28344448		10.1002/(ISSN)2834-4448		fulltext		Wiley	serial								F	272949116
+iMeta	2770-5986	2770-596X	2022	1	1				https://onlinelibrary.wiley.com/loi/2770596X		10.1002/(ISSN)2770-596X		fulltext		Wiley	serial								F	263950018
+iMetaOmics	2996-9506	2996-9514	2024	1	1				https://onlinelibrary.wiley.com/loi/29969514		10.1002/(ISSN)2996-9514		fulltext		Wiley	serial								F	
+iRADIOLOGY	2834-2860	2834-2879	2023	1	1				https://onlinelibrary.wiley.com/loi/28342879		10.1002/(ISSN)2834-2879		fulltext		Wiley	serial								F	270212728
+Diversity and Distributions	1366-9516	1472-4642	1998	4	2				https://onlinelibrary.wiley.com/loi/14724642		10.1111/(ISSN)1472-4642		fulltext		Wiley	serial								F	05829063X
+Droplet	2769-2159	2731-4375	2022	1	1				https://onlinelibrary.wiley.com/loi/27314375		10.1002/(ISSN)2731-4375		fulltext		Wiley	serial								F	264036395
+DEN Open		2692-4609	2021	1	1				https://onlinelibrary.wiley.com/loi/26924609		10.1002/(ISSN)2692-4609		fulltext		Wiley	serial								F	257218777
+Earth and Space Science	2333-5084	2333-5084	2014	1	1				https://agupubs.onlinelibrary.wiley.com/loi/23335084		10.1002/(ISSN)2333-5084		fulltext		Wiley	serial								F	187653372
+Earth Stewardship		2835-3617	2024	1	1				https://onlinelibrary.wiley.com/loi/28353617		10.1002/(ISSN)2835-3617		fulltext		Wiley	serial								F	
+Earth's Future	2328-4277	2328-4277	2013	1	1				https://agupubs.onlinelibrary.wiley.com/loi/23284277		10.1002/(ISSN)2328-4277		fulltext		Wiley	serial								F	176335161
+Ecography	0906-7590	1600-0587	1997	20	1				https://onlinelibrary.wiley.com/loi/16000587		10.1111/(ISSN)1600-0587		fulltext		Wiley	serial								F	109904532
+Ecological Solutions and Evidence		2688-8319	2020	1	1				https://besjournals.onlinelibrary.wiley.com/loi/26888319		10.1002/(ISSN)2688-8319		fulltext		Wiley	serial								F	25031780X
+Ecology and Evolution	2045-7758	2045-7758	2011	1	1				https://onlinelibrary.wiley.com/loi/20457758		10.1002/(ISSN)2045-7758		fulltext		Wiley	serial								F	159252253
+Ecosphere	2150-8925	2150-8925	2010	1	1				https://esajournals.onlinelibrary.wiley.com/loi/21508925		10.1002/(ISSN)2150-8925		fulltext		Wiley	serial								F	159167272
+EcoEnergy	2835-9380	2835-9399	2023	1	1				https://onlinelibrary.wiley.com/loi/28359399		10.1002/(ISSN)2835-9399		fulltext		Wiley	serial								F	276436490
+Journal of Foot and Ankle Research		1757-1146	2008	1	1				https://onlinelibrary.wiley.com/loi/17571146		10.1002/(ISSN)1757-1146		fulltext		Wiley	serial								F	128396164
+Journal of General and Family Medicine		2189-7948	2015	16	3				https://onlinelibrary.wiley.com/loi/21897948		10.1002/(ISSN)2189-7948		fulltext		Wiley	serial							1883-6011	F	191025682
+Journal of Geophysical Research: Machine Learning and Computation		2993-5210	2024	1	1				https://onlinelibrary.wiley.com/loi/29935210		10.1002/(ISSN)2993-5210		fulltext		Wiley	serial								F	
+Journal of GeoEnergy		2976-5501									10.1155/jge		fulltext		Wiley	serial								F	
+Journal of Intelligent Medicine	2837-6749	2837-6757	2023	1	1				https://onlinelibrary.wiley.com/loi/28376757		10.1002/(ISSN)2837-6757		fulltext		Wiley	serial								F	
+Journal of Interventional Cardiology	0896-4327	1540-8183	1997	10	1				https://onlinelibrary.wiley.com/loi/15408183		10.1111/(ISSN)1540-8183		fulltext		Wiley	serial								F	120730057
+Journal of Medical Radiation Sciences	2051-3895	2051-3909	2013	60	1				https://onlinelibrary.wiley.com/loi/20513909		10.1002/(ISSN)2051-3909		fulltext		Wiley	serial							2051-3909	F	17077452X
+Journal of Nursing Management	0966-0429	1365-2834	1997	5	1				https://onlinelibrary.wiley.com/loi/13652834		10.1111/(ISSN)1365-2834		fulltext		Wiley	serial								F	050928236
+Translational Biophotonics		2627-1850	2019	1	1				https://onlinelibrary.wiley.com/loi/26271850		10.1002/(ISSN)2627-1850		fulltext		Wiley	serial								F	252280342
+Translational Sports Medicine		2573-8488	2018	1	1	2021	4	6	https://onlinelibrary.wiley.com/loi/25738488		10.1002/(ISSN)2573-8488		fulltext		Wiley	serial								F	229741134
+United European Gastroenterology Journal		2050-6414	2013	1	1				https://onlinelibrary.wiley.com/loi/20506414		10.1002/(ISSN)2050-6414		fulltext		Wiley	serial								F	170347036
+Urban Agriculture & Regional Food Systems		2575-1220	2016	1	1				https://onlinelibrary.wiley.com/loi/25751220		10.1002/(ISSN)2575-1220		fulltext		Wiley	serial								F	219529302
+mLife	2097-1699	2770-100X	2022	1	1				https://onlinelibrary.wiley.com/loi/2770100X		10.1002/(ISSN)2770-100X		fulltext		Wiley	serial								F	263316971
+Acta Biotechnologica	0138-4988	1521-3846	2001	21	1	2003	23	4	https://onlinelibrary.wiley.com/loi/15213846		10.1002/(ISSN)1521-3846		fulltext		Wiley	serial								F	11624402X
+EcoMat		2567-3173	2019	1	1				https://onlinelibrary.wiley.com/loi/25673173		10.1002/(ISSN)2567-3173		fulltext		Wiley	serial								F	243180039
+Electrical Materials and Applications	2996-0959	2996-0851	2024	1	1				https://onlinelibrary.wiley.com/loi/29960851		10.1049/(ISSN)2996-0851		fulltext		Wiley	serial								F	
+Electrochemical Science Advances		2698-5977	2020	1	1				https://onlinelibrary.wiley.com/loi/26985977		10.1002/(ISSN)2698-5977		fulltext		Wiley	serial								F	250067625
+Electron	2751-2606	2751-2614	2023	1	1				https://onlinelibrary.wiley.com/loi/27512614		10.1002/(ISSN)2751-2614		fulltext		Wiley	serial								F	272947741
+Electronics Letters		1350-911X	2013	49	1				https://onlinelibrary.wiley.com/loi/1350911X		10.1049/(ISSN)1350-911X		fulltext		Wiley	serial								F	073858005
+Endocrinology, Diabetes & Metabolism		2398-9238	2017	1	1				https://onlinelibrary.wiley.com/loi/23989238		10.1002/(ISSN)2398-9238		fulltext		Wiley	serial								F	22675961X
+Energy & Environmental Materials		2575-0356	2018	1	1				https://onlinelibrary.wiley.com/loi/25750356		10.1002/(ISSN)2575-0356		fulltext		Wiley	serial								F	233837531
+Energy Conversion and Economics		2634-1581	2020	1	1				https://onlinelibrary.wiley.com/loi/26341581		10.1049/(ISSN)2634-1581		fulltext		Wiley	serial								F	252959205
+Energy Internet	2995-5610	2995-2166	2024	1	1				https://onlinelibrary.wiley.com/loi/29952166		10.1049/(ISSN)2995-2166		fulltext		Wiley	serial								F	
+Journal of Structural Control	1122-8385	1538-523X	2002	9	1	2003	10	3-4	https://onlinelibrary.wiley.com/loi/1538523X		10.1002/(ISSN)1538-523X		fulltext		Wiley	serial								F	076868168
+Journal of Synchrotron Radiation	0909-0495	1600-5775	1997	4	1				https://onlinelibrary.wiley.com/loi/S16005775		10.1107/S16005775		fulltext		Wiley	serial								F	110729250
+Journal of Theoretical Social Psychology		2475-0387	2017	1	1	2021	5	4	https://onlinelibrary.wiley.com/loi/24750387		10.1002/(ISSN)2475-0387		fulltext		Wiley	serial								F	204275849
+Journal of Tissue Engineering and Regenerative Medicine	1932-6254	1932-7005	2007	1	1				https://onlinelibrary.wiley.com/loi/19327005		10.1002/(ISSN)1932-7005		fulltext		Wiley	serial								F	121372308
+UroPrecision	2835-1061	2835-1053	2023	1	1				https://onlinelibrary.wiley.com/loi/28351053		10.1002/(ISSN)2835-1053		fulltext		Wiley	serial								F	272949132
+Vadose Zone Journal		1539-1663	2018	17	1				https://onlinelibrary.wiley.com/loi/15391663		10.1002/(ISSN)1539-1663		fulltext		Wiley	serial								F	076869288
+Veterinary Medicine and Science	2053-1095	2053-1095	2015	1	1				https://onlinelibrary.wiley.com/loi/20531095		10.1002/(ISSN)2053-1095		fulltext		Wiley	serial								F	188858970
+Veterinary Record Open		2052-6113	2014	1	1				https://onlinelibrary.wiley.com/loi/20526113		10.1002/(ISSN)2052-6113		fulltext		Wiley	serial								F	177874651
+VIEW	2688-3988	2688-268X	2020	1	1				https://onlinelibrary.wiley.com/loi/2688268X		10.1002/(ISSN)2688-268X		fulltext		Wiley	serial								F	24530276X
+Water Resources Research	0043-1397	1944-7973	1997	33	1				https://agupubs.onlinelibrary.wiley.com/loi/19447973		10.1002/(ISSN)1944-7973		fulltext		Wiley	serial								F	128404558
+Wildlife Biology		1903-220X	1997	3	1				https://onlinelibrary.wiley.com/loi/1903220X		10.1002/(ISSN)1903-220X		fulltext		Wiley	serial								F	165062614
+Wildlife Letters		2832-5869	2023	1	1				https://onlinelibrary.wiley.com/loi/28325869		10.1002/(ISSN)2832-5869		fulltext		Wiley	serial								F	263955990
+Wildlife Society Bulletin		2328-5540	2011	35	1				https://wildlife.onlinelibrary.wiley.com/loi/23285540		10.1002/(ISSN)2328-5540		fulltext		Wiley	serial							1938-5463	F	170088871
+Energy Science & Engineering	2050-0505	2050-0505	2013	1	1				https://onlinelibrary.wiley.com/loi/20500505		10.1002/(ISSN)2050-0505		fulltext		Wiley	serial								F	17787449X
+Engineering in Life Sciences	1618-0240	1618-2863	2001	1	1				https://onlinelibrary.wiley.com/loi/16182863		10.1002/(ISSN)1618-2863		fulltext		Wiley	serial							1521-3846	F	097538779
+Engineering Biology		2398-6182	2017	1	1				https://onlinelibrary.wiley.com/loi/23986182		10.1049/(ISSN)2398-6182		fulltext		Wiley	serial								F	204062535
+Engineering Reports		2577-8196	2019	1	1				https://onlinelibrary.wiley.com/loi/25778196		10.1002/(ISSN)2577-8196		fulltext		Wiley	serial								F	238217140
+Environmental DNA		2637-4943	2019	1	1				https://onlinelibrary.wiley.com/loi/26374943		10.1002/(ISSN)2637-4943		fulltext		Wiley	serial								F	237358689
+Environmental Microbiology Reports	1758-2229	1758-2229	2009	1	1				https://onlinelibrary.wiley.com/loi/17582229		10.1111/(ISSN)1758-2229		fulltext		Wiley	serial								F	149003358
+Epilepsia Open	2470-9239	2470-9239	2016	1	1-2				https://onlinelibrary.wiley.com/loi/24709239		10.1002/(ISSN)2470-9239		fulltext		Wiley	serial								F	200856073
+European Journal of Cancer Care	0961-5423	1365-2354	1997	6	1				https://onlinelibrary.wiley.com/loi/13652354		10.1111/(ISSN)1365-2354		fulltext		Wiley	serial								F	050927930
+European Journal of Neurology	1351-5101	1468-1331	1997	4	1				https://onlinelibrary.wiley.com/loi/14681331		10.1111/(ISSN)1468-1331		fulltext		Wiley	serial								F	064130436
+European Journal of Sport Science	1746-1391	1536-7290	2024	24	1				https://onlinelibrary.wiley.com/loi/15367290		10.1002/(ISSN)1536-7290		fulltext		Wiley	serial								F	104868171
+European Transactions on Electrical Power	1430-144X	1546-3109	2004	14	1	2012	22	8	https://onlinelibrary.wiley.com/loi/15463109		10.1002/(ISSN)1546-3109		fulltext		Wiley	serial								F	097548030
+Evolutionary Applications	1752-4571	1752-4571	2008	1	1				https://onlinelibrary.wiley.com/loi/17524571		10.1111/(ISSN)1752-4571		fulltext		Wiley	serial								F	124305768
+Journal of Veterinary Internal Medicine	0891-6640	1939-1676	1997	11	1				https://onlinelibrary.wiley.com/loi/19391676		10.1111/(ISSN)1939-1676		fulltext		Wiley	serial								F	116990651
+Journal of Veterinary Medicine Series A	0931-184X	1439-0442	1997	44	1-10	2007	54	10	https://onlinelibrary.wiley.com/loi/14390442		10.1111/(ISSN)1439-0442		fulltext		Wiley	serial							1439-0442	F	110798724
+Journal of Zoological Systematics and Evolutionary Research	0947-5745	1439-0469	1996	34	1	2021	59	8	https://onlinelibrary.wiley.com/loi/14390469		10.1111/(ISSN)1439-0469		fulltext		Wiley	serial								F	110803310
+JCPP Advances		2692-9384	2021	1	1				https://acamh.onlinelibrary.wiley.com/loi/26929384		10.1002/(ISSN)2692-9384		fulltext		Wiley	serial								F	25489822X
+JCSM Communications		2996-1394							https://onlinelibrary.wiley.com/loi/29961394		10.1002/(ISSN)2996-1394		fulltext		Wiley	serial							2617-1619	F	278806163
+JCSM Rapid Communications		2617-1619	2018	1	1	2023	6	2	https://onlinelibrary.wiley.com/loi/26171619		10.1002/(ISSN)2617-1619		fulltext		Wiley	serial								F	229422152
+Wildlife Society Bulletin	0091-7648	1938-5463	2004	32	1	2006	34	5	https://wildlife.onlinelibrary.wiley.com/loi/19385463		10.1002/(ISSN)1938-5463a		fulltext		Wiley	serial								F	115434682
+Wind Energy	1095-4244	1099-1824	1998	1	S1				https://onlinelibrary.wiley.com/loi/10991824		10.1002/(ISSN)1099-1824		fulltext		Wiley	serial								F	076860671
+World Journal of Otorhinolaryngology - Head and Neck Surgery		2589-1081	2015	1	1				https://onlinelibrary.wiley.com/loi/25891081		10.1002/(ISSN)2589-1081		fulltext		Wiley	serial								F	204650038
+Acta Neurologica Scandinavica	0001-6314	1600-0404	1997	95	1				https://onlinelibrary.wiley.com/loi/16000404		10.1111/(ISSN)1600-0404		fulltext		Wiley	serial								F	108545431
+Acta Obstetricia et Gynecologica Scandinavica	0001-6349	1600-0412	1997	76	1				https://obgyn.onlinelibrary.wiley.com/loi/16000412		10.1111/(ISSN)1600-0412		fulltext		Wiley	serial								F	116962232
+Acute Medicine & Surgery	2052-8817	2052-8817	2014	1	1				https://onlinelibrary.wiley.com/loi/20528817		10.1002/(ISSN)2052-8817		fulltext		Wiley	serial								F	18035342X
+Addiction Biology	1355-6215	1369-1600	1997	2	1				https://onlinelibrary.wiley.com/loi/13691600		10.1111/(ISSN)1369-1600		fulltext		Wiley	serial								F	044837925
+Advanced Chinese Medicine		2836-8886							https://onlinelibrary.wiley.com/loi/28368886		10.1002/(ISSN)2836-8886		fulltext		Wiley	serial								F	
+Advanced Electronic Materials	2199-160X	2199-160X	2015	1	1-2				https://onlinelibrary.wiley.com/loi/2199160X		10.1002/(ISSN)2199-160X		fulltext		Wiley	serial								F	231012047
+Advanced Energy and Sustainability Research		2699-9412	2020	1	1				https://onlinelibrary.wiley.com/loi/26999412		10.1002/(ISSN)2699-9412		fulltext		Wiley	serial								F	25454861X
+Advanced Genetics		2641-6573	2020	1	1				https://onlinelibrary.wiley.com/loi/26416573		10.1002/(ISSN)2641-6573		fulltext		Wiley	serial								F	248715372
+Advanced Gut & Microbiome Research		2755-1652									10.1155/agmr		fulltext		Wiley	serial								F	26616322X
+Advanced Intelligent Systems		2640-4567	2019	1	1				https://onlinelibrary.wiley.com/loi/26404567		10.1002/(ISSN)2640-4567		fulltext		Wiley	serial								F	237770024
+Advanced Materials Interfaces	2196-7350	2196-7350	2014	1	1				https://onlinelibrary.wiley.com/loi/21967350		10.1002/(ISSN)2196-7350		fulltext		Wiley	serial							1521-3862	F	177940492
+Advanced NanoBiomed Research		2699-9307	2020	1	1				https://onlinelibrary.wiley.com/loi/26999307		10.1002/(ISSN)2699-9307		fulltext		Wiley	serial								F	254548601
+Advanced Photonics Research		2699-9293	2020	1	1				https://onlinelibrary.wiley.com/loi/26999293		10.1002/(ISSN)2699-9293		fulltext		Wiley	serial								F	254548598
+Advanced Physics Research		2751-1200	2022	1	1				https://onlinelibrary.wiley.com/loi/27511200		10.1002/(ISSN)2751-1200		fulltext		Wiley	serial								F	269113525
+Advanced Science	2198-3844	2198-3844	2014	1	1				https://onlinelibrary.wiley.com/loi/21983844		10.1002/(ISSN)2198-3844		fulltext		Wiley	serial								F	18856005X
+Advanced Sensor Research		2751-1219	2022	1	1				https://onlinelibrary.wiley.com/loi/27511219		10.1002/(ISSN)2751-1219		fulltext		Wiley	serial								F	269113533
+Advances in Cell and Gene Therapy		2573-8461	2018	1	1	2021	4	4	https://onlinelibrary.wiley.com/loi/25738461		10.1002/(ISSN)2573-8461		fulltext		Wiley	serial								F	232984301
+Advances in Polymer Technology	0730-6679	1098-2329	1996	15	1				https://onlinelibrary.wiley.com/loi/10982329		10.1002/(ISSN)1098-2329		fulltext		Wiley	serial								F	040632636
+Experimental Physiology	0958-0670	1469-445X	1997	82	1				https://physoc.onlinelibrary.wiley.com/loi/1469445X		10.1111/(ISSN)1469-445X		fulltext		Wiley	serial								F	048900354
+Exploration	2766-8509	2766-2098	2021	1	1				https://onlinelibrary.wiley.com/loi/27662098		10.1002/(ISSN)2766-2098		fulltext		Wiley	serial								F	257995196
+Eye & ENT Research	2835-107X	2835-1088	2023	1	1				https://onlinelibrary.wiley.com/loi/28351088		10.1002/(ISSN)2835-1088		fulltext		Wiley	serial								F	
+EFSA Journal	1831-4732	1831-4732	2003	1	1				https://efsa.onlinelibrary.wiley.com/loi/18314732		10.1002/(ISSN)1831-4732		fulltext		Wiley	serial								F	191084093
+EFSA Supporting Publications	2397-8325	2397-8325	2004	1	1				https://efsa.onlinelibrary.wiley.com/loi/23978325		10.1002/(ISSN)2397-8325		fulltext		Wiley	serial								F	19481503X
+ESC Heart Failure	2055-5822	2055-5822	2014	1	1				https://onlinelibrary.wiley.com/loi/20555822		10.1002/(ISSN)2055-5822		fulltext		Wiley	serial								F	184857503
+FlexMat	2836-9092	2836-9106	2024	1	1				https://onlinelibrary.wiley.com/loi/28369106		10.1002/(ISSN)2836-9106		fulltext		Wiley	serial								F	
+FlexTech	2771-1706	2771-1714	2024	1	1				https://onlinelibrary.wiley.com/loi/27711714		10.1002/(ISSN)2771-1714		fulltext		Wiley	serial								F	
+Food and Energy Security	2048-3694	2048-3694	2012	1	1				https://onlinelibrary.wiley.com/loi/20483694		10.1002/(ISSN)2048-3694		fulltext		Wiley	serial								F	167867512
+JEADV Clinical Practice		2768-6566	2022	1	1				https://onlinelibrary.wiley.com/loi/27686566		10.1002/(ISSN)2768-6566		fulltext		Wiley	serial								F	262006707
+JGH Open		2397-9070	2017	1	1				https://onlinelibrary.wiley.com/loi/23979070		10.1002/(ISSN)2397-9070		fulltext		Wiley	serial								F	219995516
+JIMD Reports		2192-8312	2019	46	1				https://onlinelibrary.wiley.com/loi/21928312		10.1002/(ISSN)2192-8312		fulltext		Wiley	serial								F	159890128
+JOR Spine		2572-1143	2018	1	1				https://onlinelibrary.wiley.com/loi/25721143		10.1002/(ISSN)2572-1143		fulltext		Wiley	serial								F	229339344
+JPGN Reports		2691-171X	2020	1	1				https://onlinelibrary.wiley.com/loi/2691171X		10.1002/(ISSN)2691-171X		fulltext		Wiley	serial								F	250066289
+JSFA Reports		2573-5098	2021	1	1				https://onlinelibrary.wiley.com/loi/25735098		10.1002/(ISSN)2573-5098		fulltext		Wiley	serial								F	263957489
+Laryngoscope Investigative Otolaryngology	2378-8038	2378-8038	2016	1	1				https://onlinelibrary.wiley.com/loi/23788038		10.1002/(ISSN)2378-8038		fulltext		Wiley	serial								F	192655558
+Learning Health Systems	2379-6146	2379-6146	2017	1	1		0	0	https://onlinelibrary.wiley.com/loi/23796146		10.1002/(ISSN)2379-6146		fulltext		Wiley	serial								F	200451081
+Legume Science		2639-6181	2019	1	1				https://onlinelibrary.wiley.com/loi/26396181		10.1002/(ISSN)2639-6181		fulltext		Wiley	serial								F	243085931
+Aggregate	2766-8541	2692-4560	2020	1	1				https://onlinelibrary.wiley.com/loi/26924560		10.1002/(ISSN)2692-4560		fulltext		Wiley	serial								F	253699398
+Aging and Cancer		2643-8909	2020	1	1				https://onlinelibrary.wiley.com/loi/26438909		10.1002/(ISSN)2643-8909		fulltext		Wiley	serial								F	249572346
+Aging Cell	1474-9718	1474-9726	2002	1	1				https://onlinelibrary.wiley.com/loi/14749726		10.1111/(ISSN)1474-9726		fulltext		Wiley	serial								F	069601151
+Aging Medicine		2475-0360	2018	1	1				https://onlinelibrary.wiley.com/loi/24750360		10.1002/(ISSN)2475-0360		fulltext		Wiley	serial								F	233154515
+Agricultural & Environmental Letters		2471-9625	2016	1	1				https://onlinelibrary.wiley.com/loi/24719625		10.1002/(ISSN)2471-9625		fulltext		Wiley	serial								F	193570025
+Agrosystems, Geosciences & Environment		2639-6696	2018	1	1				https://onlinelibrary.wiley.com/loi/26396696		10.1002/(ISSN)2639-6696		fulltext		Wiley	serial								F	231607377
+Alzheimer's & Dementia	1552-5260	1552-5279	2005	1	1				https://onlinelibrary.wiley.com/loi/15525279		10.1002/(ISSN)1552-5279		fulltext		Wiley	serial								F	092224199
+Food Bioengineering		2770-2081	2022	1	1				https://onlinelibrary.wiley.com/loi/27702081		10.1002/(ISSN)2770-2081		fulltext		Wiley	serial								F	26331698X
+Food Biomacromolecules		2996-2757	2024	1	1				https://onlinelibrary.wiley.com/loi/29962757		10.1002/(ISSN)2996-2757		fulltext		Wiley	serial								F	
+Food Frontiers		2643-8429	2020	1	1				https://onlinelibrary.wiley.com/loi/26438429		10.1002/(ISSN)2643-8429		fulltext		Wiley	serial								F	245110704
+Food Risk Assess Europe		2940-1399	2023	1	1				https://efsa.onlinelibrary.wiley.com/loi/29401399		10.1002/(ISSN)2940-1399		fulltext		Wiley	serial								F	273389548
+Food Safety and Health		2835-1096	2023	1	1				https://onlinelibrary.wiley.com/loi/28351096		10.1002/(ISSN)2835-1096		fulltext		Wiley	serial								F	272377171
+Food Science & Nutrition	2048-7177	2048-7177	2013	1	1				https://onlinelibrary.wiley.com/loi/20487177		10.1002/(ISSN)2048-7177		fulltext		Wiley	serial								F	170346706
+Future in Educational Research		2835-9402	2023	1	1				https://onlinelibrary.wiley.com/loi/28359402		10.1002/(ISSN)2835-9402		fulltext		Wiley	serial								F	273393502
+Future Humanities		2770-2030	2023	1	1				https://onlinelibrary.wiley.com/loi/27702030		10.1002/(ISSN)2770-2030		fulltext		Wiley	serial								F	271830905
+Future Postharvest and Food		2837-6846	2024	1	1				https://onlinelibrary.wiley.com/loi/28376846		10.1002/(ISSN)2837-6846		fulltext		Wiley	serial								F	278573657
+FASEB BioAdvances		2573-9832	2019	1	1		1		https://onlinelibrary.wiley.com/loi/25739832		10.1096/(ISSN)2573-9832		fulltext		Wiley	serial								F	233155864
+FEBS Open Bio	2211-5463	2211-5463	2011	1	1				https://febs.onlinelibrary.wiley.com/loi/22115463		10.1002/(ISSN)2211-5463		fulltext		Wiley	serial								F	158244885
+GastroHep		1478-1239	2019	1	1	2021	3	7	https://onlinelibrary.wiley.com/loi/14781239		10.1002/(ISSN)1478-1239		fulltext		Wiley	serial								F	223231134
+General Medicine	1346-0072	1883-6011	2000	1	1	2014	15	2	https://onlinelibrary.wiley.com/loi/18836011		10.1002/(ISSN)1883-6011		fulltext		Wiley	serial								F	13394607X
+Lifestyle Medicine		2688-3740	2020	1	1				https://onlinelibrary.wiley.com/loi/26883740		10.1002/(ISSN)2688-3740		fulltext		Wiley	serial								F	252598253
+Limnology and Oceanography Letters	2378-2242	2378-2242	2016	1	1				https://aslopubs.onlinelibrary.wiley.com/loi/23782242		10.1002/(ISSN)2378-2242		fulltext		Wiley	serial								F	19842695X
+Liver Cancer International		2642-3561	2019	1	1	2023	4	4	https://onlinelibrary.wiley.com/loi/26423561		10.1002/(ISSN)2642-3561		fulltext		Wiley	serial								F	254270549
+Liver International Communications		2994-1393							https://onlinelibrary.wiley.com/loi/29941393		10.1002/(ISSN)2994-1393		fulltext		Wiley	serial							2642-3561	F	
+Macromolecular Materials and Engineering	1438-7492	1439-2054	2000	274	1				https://onlinelibrary.wiley.com/loi/14392054		10.1002/(ISSN)1439-2054		fulltext		Wiley	serial							1522-9505	F	058845038
+Malignancy Spectrum	2770-9159	2770-9140	2024	1	1				https://onlinelibrary.wiley.com/loi/27709140		10.1002/(ISSN)2770-9140		fulltext		Wiley	serial								F	264090152
+Material Design & Processing Communications		2577-6576	2019	1	1	2021	3	6	https://onlinelibrary.wiley.com/loi/25776576		10.1002/(ISSN)2577-6576		fulltext		Wiley	serial								F	236832956
+Materials Genome Engineering Advances	2940-9489	2940-9497	2023	1	1				https://onlinelibrary.wiley.com/loi/29409497		10.1002/(ISSN)2940-9497		fulltext		Wiley	serial								F	273389556
+Maternal & Child Nutrition	1740-8695	1740-8709	2005	1	1				https://onlinelibrary.wiley.com/loi/17408709		10.1111/(ISSN)1740-8709		fulltext		Wiley	serial								F	090137787
+Medicine Advances	2834-4391	2834-4405	2023	1	1				https://onlinelibrary.wiley.com/loi/28344405		10.1002/(ISSN)2834-4405		fulltext		Wiley	serial								F	271967749
+Alzheimer's & Dementia: Behavior & Socioeconomics of Aging		2997-3805	2024	1	1				https://onlinelibrary.wiley.com/loi/29973805		10.1002/(ISSN)2997-3805		fulltext		Wiley	serial								F	
+Alzheimer's & Dementia: Diagnosis, Assessment & Disease Monitoring		2352-8729	2015	1	1				https://onlinelibrary.wiley.com/loi/23528729		10.1002/(ISSN)2352-8729		fulltext		Wiley	serial								F	194814289
+Alzheimer's & Dementia: Translational Research & Clinical Interventions		2352-8737	2015	1	1				https://onlinelibrary.wiley.com/loi/23528737		10.1002/(ISSN)2352-8737		fulltext		Wiley	serial								F	194814297
+Analytical Science Advances		2628-5452	2020	1	1				https://onlinelibrary.wiley.com/loi/26285452		10.1002/(ISSN)2628-5452		fulltext		Wiley	serial								F	252280369
+Andrologia	0303-4569	1439-0272	1997	29	1				https://onlinelibrary.wiley.com/loi/14390272		10.1111/(ISSN)1439-0272		fulltext		Wiley	serial								F	228776813
+Angewandte Chemie Forum		2510-9529	2025	1	1				https://onlinelibrary.wiley.com/loi/25109529		10.1002/(ISSN)2510-9529		fulltext		Wiley	serial								F	
+Angewandte Chemie Novit		2510-9537	2025	1	1				https://onlinelibrary.wiley.com/loi/25109537		10.1002/(ISSN)2510-9537		fulltext		Wiley	serial								F	
+Animal Models and Experimental Medicine		2576-2095	2018	1	1				https://onlinelibrary.wiley.com/loi/25762095		10.1002/(ISSN)2576-2095		fulltext		Wiley	serial								F	229339409
+Animal Research and One Health		2835-5075	2023	1	1				https://onlinelibrary.wiley.com/loi/28355075		10.1002/(ISSN)2835-5075		fulltext		Wiley	serial								F	272949140
+Annals of the Child Neurology Society		2831-3267		1	2023				https://onlinelibrary.wiley.com/loi/28313267		10.1002/(ISSN)2831-3267		fulltext		Wiley	serial								F	267734816
+Genes, Brain and Behavior	1601-1848	1601-183X	2002	1	1				https://onlinelibrary.wiley.com/loi/1601183X		10.1111/(ISSN)1601-183X		fulltext		Wiley	serial								F	076282910
+Genetics Research	0016-6723	1469-5073									10.1155/gr		fulltext		Wiley	serial								F	048900389
+Geo: Geography and Environment	2054-4049	2054-4049	2014	1	1				https://rgs-ibg.onlinelibrary.wiley.com/loi/20544049		10.1002/(ISSN)2054-4049		fulltext		Wiley	serial								F	180011510
+Geochemistry, Geophysics, Geosystems	1525-2027	1525-2027	2000	1	1				https://agupubs.onlinelibrary.wiley.com/loi/15252027		10.1002/(ISSN)1525-2027		fulltext		Wiley	serial								F	111964644
+Geofluids	1468-8115	1468-8123	2001	1	1	2016	16	5	https://onlinelibrary.wiley.com/loi/14688123		10.1111/(ISSN)1468-8123		fulltext		Wiley	serial								F	064160653
+Geophysical Research Letters	0094-8276	1944-8007	1997	24	1				https://agupubs.onlinelibrary.wiley.com/loi/19448007		10.1002/(ISSN)1944-8007		fulltext		Wiley	serial								F	128404582
+Geoscience Data Journal	2049-6060	2049-6060	2014	1	1				https://rmets.onlinelibrary.wiley.com/loi/20496060		10.1002/(ISSN)2049-6060		fulltext		Wiley	serial								F	180712225
+GeoHealth	2471-1403	2471-1403	2016	1	1				https://agupubs.onlinelibrary.wiley.com/loi/24711403		10.1002/(ISSN)2471-1403		fulltext		Wiley	serial								F	204143810
+Global Challenges	2056-6646	2056-6646	2017	1	1				https://onlinelibrary.wiley.com/loi/20566646		10.1002/(ISSN)2056-6646		fulltext		Wiley	serial								F	199744548
+Global Health, Epidemiology and Genomics		2054-4200									10.1155/gheg		fulltext		Wiley	serial								F	19216502X
+MedComm		2688-2663	2020	1	1				https://onlinelibrary.wiley.com/loi/26882663		10.1002/(ISSN)2688-2663		fulltext		Wiley	serial								F	245111743
+MedComm - Biomaterials and Applications		2769-643X	2022	1	1				https://onlinelibrary.wiley.com/loi/2769643X		10.1002/(ISSN)2769-643X		fulltext		Wiley	serial								F	264935586
+MedComm - Future Medicine		2769-6456	2022	1	1				https://onlinelibrary.wiley.com/loi/27696456		10.1002/(ISSN)2769-6456		fulltext		Wiley	serial								F	264935608
+MedComm - Oncology		2769-6448	2022	1	1				https://onlinelibrary.wiley.com/loi/27696448		10.1002/(ISSN)2769-6448		fulltext		Wiley	serial								F	264935594
+Mental Health Science		2642-3588	2023	1	1				https://onlinelibrary.wiley.com/loi/26423588		10.1002/(ISSN)2642-3588		fulltext		Wiley	serial								F	264036026
+Annals of Clinical and Translational Neurology	2328-9503	2328-9503	2014	1	1				https://onlinelibrary.wiley.com/loi/23289503		10.1002/(ISSN)2328-9503		fulltext		Wiley	serial								F	180272918
+Annals of Gastroenterological Surgery	2475-0328	2475-0328	2017	1	1				https://onlinelibrary.wiley.com/loi/24750328		10.1002/(ISSN)2475-0328		fulltext		Wiley	serial								F	204144019
+Annals of Noninvasive Electrocardiology	1082-720X	1542-474X	1997	2	1				https://onlinelibrary.wiley.com/loi/1542474X		10.1111/(ISSN)1542-474X		fulltext		Wiley	serial								F	153829648
+Applications in Plant Sciences		2168-0450	2013	1	1				https://bsapubs.onlinelibrary.wiley.com/loi/21680450		10.1002/(ISSN)2168-0450		fulltext		Wiley	serial								F	170775631
+Applied AI Letters		2689-5595	2020	2020	1				https://onlinelibrary.wiley.com/loi/26895595		10.1002/(ISSN)2689-5595		fulltext		Wiley	serial								F	252598261
+Aquaculture Nutrition	1353-5773	1365-2095	1997	3	1	2021	27	6	https://onlinelibrary.wiley.com/loi/13652095		10.1111/(ISSN)1365-2095		fulltext		Wiley	serial								F	040645541
+Aquaculture Research	1355-557X	1365-2109	1997	28	1				https://onlinelibrary.wiley.com/loi/13652109		10.1111/(ISSN)1365-2109		fulltext		Wiley	serial								F	04064555X
+Grassland Research		2770-1743	2022	1	1				https://onlinelibrary.wiley.com/loi/27701743		10.1002/(ISSN)2770-1743		fulltext		Wiley	serial								F	263539083
+GCB Bioenergy	1757-1693	1757-1707	2009	1	1				https://onlinelibrary.wiley.com/loi/17571707		10.1111/(ISSN)1757-1707		fulltext		Wiley	serial								F	133945251
+Health & Social Care in the Community	0966-0410	1365-2524	1997	5	1				https://onlinelibrary.wiley.com/loi/13652524		10.1111/(ISSN)1365-2524		fulltext		Wiley	serial								F	050927949
+Health Care Science	2771-1749	2771-1757	2022	1	1				https://onlinelibrary.wiley.com/27711757		10.1002/(ISSN)2771-1757		fulltext		Wiley	serial								F	264090187
+Health Expectations	1369-6513	1369-7625	1998	1	1				https://onlinelibrary.wiley.com/loi/13697625		10.1111/(ISSN)1369-7625		fulltext		Wiley	serial								F	04483845X
+Health Science Reports	2398-8835	2398-8835	2017	1	1				https://onlinelibrary.wiley.com/loi/23988835		10.1002/(ISSN)2398-8835		fulltext		Wiley	serial								F	229377866
+Healthcare Technology Letters		2053-3713	2014	1	1				https://onlinelibrary.wiley.com/loi/20533713		10.1049/(ISSN)2053-3713		fulltext		Wiley	serial								F	17871707X
+HemaSphere		2572-9241	1997	1	1				https://onlinelibrary.wiley.com/loi/25729241		10.1002/(ISSN)2572-9241		fulltext		Wiley	serial								F	229741118
+Heteroatom Chemistry	1042-7163	1098-1071	1996	7	1				https://onlinelibrary.wiley.com/loi/10981071		10.1002/(ISSN)1098-1071		fulltext		Wiley	serial								F	040632474
+MetalMat		2940-1402	2024	1	1				https://onlinelibrary.wiley.com/loi/29401402		10.1002/(ISSN)2940-1402		fulltext		Wiley	serial								F	
+Meteorological Applications	1350-4827	1469-8080	1997	4	1				https://rmets.onlinelibrary.wiley.com/loi/14698080		10.1002/(ISSN)1469-8080		fulltext		Wiley	serial								F	048900761
+Methods in Ecology and Evolution	2041-210X	2041-210X	2010	1	1				https://besjournals.onlinelibrary.wiley.com/loi/2041210X		10.1111/(ISSN)2041-210X		fulltext		Wiley	serial								F	157098176
+Micro & Nano Letters		1750-0443	2013	8	1				https://onlinelibrary.wiley.com/loi/17500443		10.1049/(ISSN)1750-0443		fulltext		Wiley	serial								F	151979200
+Microbial Biotechnology	1751-7915	1751-7915	2008	1	1				https://onlinelibrary.wiley.com/loi/17517915		10.1111/(ISSN)1751-7915		fulltext		Wiley	serial								F	128395664
+MicrobiologyOpen	2045-8827	2045-8827	2012	1	1				https://onlinelibrary.wiley.com/loi/20458827		10.1002/(ISSN)2045-8827		fulltext		Wiley	serial								F	164365249
+Modern Agriculture		2751-4102	2023	1	1				https://onlinelibrary.wiley.com/loi/27514102		10.1002/(ISSN)2751-4102		fulltext		Wiley	serial								F	270720227
+Aquaculture, Fish and Fisheries		2693-8847	2021	1	1				https://onlinelibrary.wiley.com/loi/26938847		10.1002/(ISSN)2693-8847		fulltext		Wiley	serial								F	260671703
+Asia & the Pacific Policy Studies	2050-2680	2050-2680	2014	1	1				https://onlinelibrary.wiley.com/loi/20502680		10.1002/(ISSN)2050-2680		fulltext		Wiley	serial								F	17871688X
+Atmospheric Science Letters	1530-261X	1530-261X	2000	1	1				https://rmets.onlinelibrary.wiley.com/loi/1530261X		10.1002/(ISSN)1530-261X		fulltext		Wiley	serial								F	058352791
+High Voltage		2397-7264	2016	1	1				https://onlinelibrary.wiley.com/loi/23977264		10.1049/(ISSN)2397-7264		fulltext		Wiley	serial								F	198124368
+Hong Kong Journal of Emergency Medicine	1024-9079	2309-5407	2000	7	1				https://onlinelibrary.wiley.com/loi/23095407		10.1002/(ISSN)2309-5407		fulltext		Wiley	serial								F	172123712
+Human Behavior and Emerging Technologies		2578-1863	2019	1	1				https://onlinelibrary.wiley.com/loi/25781863		10.1002/(ISSN)2578-1863		fulltext		Wiley	serial								F	23452295X
+Human Brain Mapping	1065-9471	1097-0193	1996	4	1				https://onlinelibrary.wiley.com/loi/10970193		10.1002/(ISSN)1097-0193		fulltext		Wiley	serial								F	059164700
+Human Mutation	1059-7794	1098-1004	1996	7	1				https://onlinelibrary.wiley.com/loi/10981004		10.1002/(ISSN)1098-1004		fulltext		Wiley	serial								F	040632458
+Ibrain	2313-1934	2769-2795	2015	1	1				https://onlinelibrary.wiley.com/loi/27692795		10.1002/(ISSN)2769-2795		fulltext		Wiley	serial								F	260621994
+Immunity, Inflammation and Disease	2050-4527	2050-4527	2013	1	1				https://onlinelibrary.wiley.com/loi/20504527		10.1002/(ISSN)2050-4527		fulltext		Wiley	serial								F	170774430
+ImmunoMedicine		2510-5345	2018	1	1				https://onlinelibrary.wiley.com/loi/25105345		10.1002/(ISSN)2510-5345		fulltext		Wiley	serial								F	261133543
+Indoor Air	0905-6947	1600-0668	1997	7	1				https://onlinelibrary.wiley.com/loi/16000668		10.1111/(ISSN)1600-0668		fulltext		Wiley	serial								F	110230027
+Infectious Diseases in Obstetrics and Gynecology	1064-7449	1098-0997							https://onlinelibrary.wiley.com/loi/10980997		10.1002/(ISSN)1098-0997		fulltext		Wiley	serial								F	04063244X
+Molecular Genetics & Genomic Medicine	2324-9269	2324-9269	2013	1	1				https://onlinelibrary.wiley.com/loi/23249269		10.1002/(ISSN)2324-9269		fulltext		Wiley	serial								F	17670180X
+Molecular Oncology	1878-0261	1878-0261	2007	1	1				https://febs.onlinelibrary.wiley.com/loi/18780261		10.1002/(ISSN)1878-0261		fulltext		Wiley	serial								F	122655702
+Molecular Plant Pathology	1464-6722	1364-3703	2000	1	1				https://bsppjournals.onlinelibrary.wiley.com/loi/13643703		10.1111/(ISSN)1364-3703		fulltext		Wiley	serial								F	036763128
+Nano Select		2688-4011	2020	1	1				https://onlinelibrary.wiley.com/loi/26884011		10.1002/(ISSN)2688-4011		fulltext		Wiley	serial								F	252283031
+Nanomaterials and Nanotechnology		1847-9804									10.1155/nax		fulltext		Wiley	serial								F	169062031
+Natural Resource Modeling	0890-8575	1939-7445	1999	12	1				https://onlinelibrary.wiley.com/loi/19397445		10.1111/(ISSN)1939-7445		fulltext		Wiley	serial								F	118360531
+Natural Sciences		2698-6248	2021	1	1				https://onlinelibrary.wiley.com/loi/26986248		10.1002/(ISSN)2698-6248		fulltext		Wiley	serial								F	25454858X
+Neuroprotection	2770-7296	2770-730X	2023	1	1				https://onlinelibrary.wiley.com/loi/2770730X		10.1002/(ISSN)2770-730X		fulltext		Wiley	serial								F	27594980X
+Neuropsychopharmacology Reports		2574-173X	2018	38	1				https://onlinelibrary.wiley.com/loi/2574173X		10.1002/(ISSN)2574-173X		fulltext		Wiley	serial								F	229380492
+Australian Journal of Grape and Wine Research	1322-7130	1755-0238	1997	3	1				https://onlinelibrary.wiley.com/loi/17550238		10.1111/(ISSN)1755-0238		fulltext		Wiley	serial								F	131763342
+ACR Open Rheumatology		2578-5745	2019	1	1				https://onlinelibrary.wiley.com/loi/25785745		10.1002/(ISSN)2578-5745		fulltext		Wiley	serial								F	236087851
+AGU Advances		2576-604X	2020	1	1				https://agupubs.onlinelibrary.wiley.com/loi/2576604X		10.1002/(ISSN)2576-604X		fulltext		Wiley	serial								F	24429979X
+AI Magazine	0738-4602	2371-9621	2022	43	1				https://onlinelibrary.wiley.com/loi/23719621		10.1002/(ISSN)2371-9621		fulltext		Wiley	serial								F	177947985
+Barrier Immunity	2994-1792	2994-1806	2024	1	1				https://onlinelibrary.wiley.com/loi/29941806		10.1002/(ISSN)2994-1806		fulltext		Wiley	serial								F	
+Battery Energy	2768-1688	2768-1696	2022	1	1				https://onlinelibrary.wiley.com/loi/27681696		10.1002/(ISSN)2768-1696		fulltext		Wiley	serial								F	261136011
+Influenza and Other Respiratory Viruses	1750-2640	1750-2659	2007	1	1				https://onlinelibrary.wiley.com/loi/17502659		10.1111/(ISSN)1750-2659		fulltext		Wiley	serial								F	158656768
+Information & Functional Materials	2751-9554	2751-9457	2024	1	1				https://onlinelibrary.wiley.com/loi/27519457		10.1002/(ISSN)2751-9457		fulltext		Wiley	serial								F	
+InfoMat	2770-5110	2567-3165	2019	1	1				https://onlinelibrary.wiley.com/loi/25673165		10.1002/(ISSN)2567-3165		fulltext		Wiley	serial								F	236448846
+InfoScience	2769-5875	2769-5883	2024	1	1				https://onlinelibrary.wiley.com/loi/27695883		10.1002/(ISSN)2769-5883		fulltext		Wiley	serial								F	
+Integrative Conservation		2770-9329	2022	1	1				https://onlinelibrary.wiley.com/loi/27709329		10.1002/(ISSN)2770-9329		fulltext		Wiley	serial								F	268034486
+Interdisciplinary Materials	2767-4401	2767-441X	2022	1	1				https://onlinelibrary.wiley.com/loi/2767441X		10.1002/(ISSN)2767-441X		fulltext		Wiley	serial								F	262006685
+Interdisciplinary Medicine	2832-6237	2832-6245	2022	1	1				https://onlinelibrary.wiley.com/loi/28326245		10.1002/(ISSN)2832-6245		fulltext		Wiley	serial								F	263961915
+New Directions for Child and Adolescent Development	1520-3247	1534-8687	2001	2001	91				https://onlinelibrary.wiley.com/loi/15348687		10.1002/(ISSN)1534-8687		fulltext		Wiley	serial							2331-3498	F	098935917
+New Disease Reports		2044-0588	2010	21	1				https://onlinelibrary.wiley.com/loi/20440588		10.1002/(ISSN)2044-0588		fulltext		Wiley	serial								F	144190206
+New Plant Protection		2994-9890	2024	1	1				https://onlinelibrary.wiley.com/loi/29949890		10.1002/(ISSN)2994-9890		fulltext		Wiley	serial								F	
+Bioengineering & Translational Medicine	2380-6761	2380-6761	2016	1	1				https://aiche.onlinelibrary.wiley.com/loi/23806761		10.1002/(ISSN)2380-6761		fulltext		Wiley	serial								F	195678400
+Biological Diversity		2994-4139	2024	1	1				https://onlinelibrary.wiley.com/loi/29944139		10.1002/(ISSN)2994-4139		fulltext		Wiley	serial								F	
+Biosurface and Biotribology		2405-4518	2018	4	1				https://onlinelibrary.wiley.com/loi/24054518		10.1049/(ISSN)2405-4518		fulltext		Wiley	serial								F	198307608
+Boreas	0300-9483	1502-3885	1997	26	1				https://onlinelibrary.wiley.com/loi/15023885		10.1111/(ISSN)1502-3885		fulltext		Wiley	serial								F	058349790
+Brain and Behavior	2162-3279	2162-3279	2011	1	1				https://onlinelibrary.wiley.com/loi/21579032		10.1002/(ISSN)2157-9032		fulltext		Wiley	serial								F	162247206
+Brain Pathology	1015-6305	1750-3639	1997	7	1				https://onlinelibrary.wiley.com/loi/17503639		10.1111/(ISSN)1750-3639		fulltext		Wiley	serial								F	11278576X
+Brain-X		2835-3153	2023	1	1				https://onlinelibrary.wiley.com/loi/28353153		10.1002/(ISSN)2835-3153		fulltext		Wiley	serial								F	270720545
+BJUI Compass		2688-4526	2019	1	1				https://bjui-journals.onlinelibrary.wiley.com/loi/26884526		10.1002/(ISSN)2688-4526		fulltext		Wiley	serial								F	248574175
+BMEMat	2751-7438	2751-7446	2023	1	1				https://onlinelibrary.wiley.com/loi/27517446		10.1002/(ISSN)2751-7446		fulltext		Wiley	serial								F	263958647
+Campbell Systematic Reviews		1891-1803	2005	1	1				https://onlinelibrary.wiley.com/loi/18911803		10.1002/(ISSN)1891-1803		fulltext		Wiley	serial								F	136188141
+Cancer Communications		2523-3548	1997	18	1				https://onlinelibrary.wiley.com/loi/25233548		10.1002/(ISSN)2523-3548		fulltext		Wiley	serial								F	225499916
+Cancer Innovation	2770-9191	2770-9183	2022	1	1				https://onlinelibrary.wiley.com/loi/27709183		10.1002/(ISSN)2770-9183		fulltext		Wiley	serial								F	264090160
+International Journal of Ceramic Engineering & Science		2578-3270	2019	1	1				https://ceramics.onlinelibrary.wiley.com/loi/25783270		10.1002/(ISSN)2578-3270		fulltext		Wiley	serial								F	238217167
+International Journal of Clinical Practice	1368-5031	1742-1241	2004	58	1	2021	75	12	https://onlinelibrary.wiley.com/loi/17421241		10.1111/(ISSN)1742-1241		fulltext		Wiley	serial								F	090138198
+International Journal of Energy Research	0363-907X	1099-114X	1996	20	1				https://onlinelibrary.wiley.com/loi/1099114X		10.1002/(ISSN)1099-114X		fulltext		Wiley	serial								F	076860485
+International Journal of Intelligent Systems	0884-8173	1098-111X	1996	11	1				https://onlinelibrary.wiley.com/loi/1098111X		10.1002/(ISSN)1098-111X		fulltext		Wiley	serial								F	040632512
+International Journal of Mechanical System Dynamics		2767-1402	2021	1	1				https://onlinelibrary.wiley.com/loi/27671402		10.1002/(ISSN)2767-1402		fulltext		Wiley	serial								F	260621854
+International Journal of Methods in Psychiatric Research	1049-8931	1557-0657	1998	7	1				https://onlinelibrary.wiley.com/loi/15570657		10.1002/(ISSN)1557-0657		fulltext		Wiley	serial								F	153829680
+International Journal of Microwave and Millimeter-Wave Computer-Aided Engineering	1050-1827	1522-6301	1996	6	1	1997	7	6	https://onlinelibrary.wiley.com/loi/15226301		10.1002/(ISSN)1522-6301		fulltext		Wiley	serial								F	058351477
+International Journal of RF and Microwave Computer-Aided Engineering	1096-4290	1099-047X	1998	8	1				https://onlinelibrary.wiley.com/loi/1099047X		10.1002/(ISSN)1099-047X		fulltext		Wiley	serial							1522-6301	F	040633128
+Nursing Forum	0029-6473	1744-6198	1997	32	1				https://onlinelibrary.wiley.com/loi/17446198		10.1111/(ISSN)1744-6198		fulltext		Wiley	serial								F	110865448
+Nursing Open	2054-1058	2054-1058	2014	1	1				https://onlinelibrary.wiley.com/loi/20541058		10.1002/(ISSN)2054-1058		fulltext		Wiley	serial								F	192165011
+Nursing Plus	2771-1781	2771-179X	2024	1	1				https://onlinelibrary.wiley.com/loi/2771179X		10.1002/(ISSN)2771-179X		fulltext		Wiley	serial								F	
+Obesity Science & Practice	2055-2238	2055-2238	2015	1	1				https://onlinelibrary.wiley.com/loi/20552238		10.1002/(ISSN)2055-2238		fulltext		Wiley	serial								F	189560312
+Occupational Therapy International	0966-7903	1557-0703	1997	4	1	2016	23	1	https://onlinelibrary.wiley.com/loi/15570703		10.1002/(ISSN)1557-0703		fulltext		Wiley	serial								F	107986345
+Orthopaedic Surgery	1757-7853	1757-7861	2009	1	1				https://onlinelibrary.wiley.com/loi/17577861		10.1111/(ISSN)1757-7861		fulltext		Wiley	serial								F	134316088
+OTO Open		2473-974X		1	2017				https://onlinelibrary.wiley.com/loi/2473974X		10.1002/(ISSN)2473-974X		fulltext		Wiley	serial								F	203185153
+Paediatric and Neonatal Pain		2637-3807	2019	1	1				https://onlinelibrary.wiley.com/loi/26373807		10.1002/(ISSN)2637-3807		fulltext		Wiley	serial								F	249195992
+Pediatric Diabetes	1399-543X	1399-5448	2000	1	1				https://onlinelibrary.wiley.com/loi/13995448		10.1111/(ISSN)1399-5448		fulltext		Wiley	serial								F	11090494X
+Cancer Medicine	2045-7634	2045-7634	2012	1	1				https://onlinelibrary.wiley.com/loi/20457634		10.1002/(ISSN)2045-7634		fulltext		Wiley	serial								F	168244837
+Cancer Reports		2573-8348	2018	1	1				https://onlinelibrary.wiley.com/loi/25738348		10.1002/(ISSN)2573-8348		fulltext		Wiley	serial								F	229339360
+Cancer Science	1347-9032	1349-7006	2003	94	1				https://onlinelibrary.wiley.com/loi/13497006		10.1111/(ISSN)1349-7006		fulltext		Wiley	serial							1876-4673	F	083135014
+Carbon Energy	2096-9570	2637-9368	2019	1	1				https://onlinelibrary.wiley.com/loi/26379368		10.1002/(ISSN)2637-9368		fulltext		Wiley	serial								F	241014719
+Carbon Neutralization	2769-3333	2769-3325	2022	1	1				https://onlinelibrary.wiley.com/loi/27693325		10.1002/(ISSN)2769-3325		fulltext		Wiley	serial								F	266252680
+Cardiovascular Drug Reviews	0897-5957	1527-3466	1997	15	1	2008	26	1	https://onlinelibrary.wiley.com/loi/15273466		10.1111/(ISSN)1527-3466		fulltext		Wiley	serial								F	05835249X
+Cardiovascular Therapeutics	1755-5914	1755-5922	2008	26	2	2018	36	6	https://onlinelibrary.wiley.com/loi/17555922		10.1111/(ISSN)1755-5922		fulltext		Wiley	serial							1527-3466	F	124038123
+Cell Proliferation	0960-7722	1365-2184	1997	30	1				https://onlinelibrary.wiley.com/loi/13652184		10.1111/(ISSN)1365-2184		fulltext		Wiley	serial								F	040645630
+International Studies of Economics		2831-3224	2022	17	1				https://onlinelibrary.wiley.com/loi/28313224		10.1002/(ISSN)2831-3224		fulltext		Wiley	serial								F	266165133
+International Transactions on Electrical Energy Systems	2050-7038	2050-7038	2013	23	1	2021	31	12	https://onlinelibrary.wiley.com/loi/20507038		10.1002/(ISSN)2050-7038		fulltext		Wiley	serial							1546-3109	F	170774473
+International Wound Journal	1742-4801	1742-481X	2004	1	1				https://onlinelibrary.wiley.com/loi/1742481X		10.1111/(ISSN)1742-481X		fulltext		Wiley	serial								F	116268700
+IET Blockchain		2634-1573	2021	1	1				https://ietresearch.onlinelibrary.wiley.com/loi/26341573		10.1049/(ISSN)2634-1573		fulltext		Wiley	serial								F	256263744
+IET Collaborative Intelligent Manufacturing		2516-8398	2019	1	1				https://ietresearch.onlinelibrary.wiley.com/loi/25168398		10.1049/(ISSN)2516-8398		fulltext		Wiley	serial								F	237353644
+IET Communications		1751-8636	2013	7	1				https://ietresearch.onlinelibrary.wiley.com/loi/17518636		10.1049/(ISSN)1751-8636		fulltext		Wiley	serial								F	118357980
+IET Computer Vision		1751-9640	2013	7	1				https://ietresearch.onlinelibrary.wiley.com/loi/17519640		10.1049/(ISSN)1751-9640		fulltext		Wiley	serial								F	115432728
+IET Computers & Digital Techniques		1751-861X	2013	7	1				https://ietresearch.onlinelibrary.wiley.com/loi/1751861X		10.1049/(ISSN)1751-861X		fulltext		Wiley	serial								F	151979243
+IET Control Theory & Applications		1751-8652	2013	7	1				https://onlinelibrary.wiley.com/loi/17518652		10.1049/(ISSN)1751-8652		fulltext		Wiley	serial								F	151979251
+Pediatric Discovery	2835-558X	2835-5598	2023	1	1				https://onlinelibrary.wiley.com/loi/28355598		10.1002/(ISSN)2835-5598		fulltext		Wiley	serial								F	272027014
+Pediatric Investigation		2574-2272	2017	1	1				https://onlinelibrary.wiley.com/loi/25742272		10.1002/(ISSN)2574-2272		fulltext		Wiley	serial								F	229339387
+People and Nature		2575-8314	2019	1	1				https://besjournals.onlinelibrary.wiley.com/loi/25758314		10.1002/(ISSN)2575-8314		fulltext		Wiley	serial								F	234522887
+Perspectives in Psychiatric Care	0031-5990	1744-6163	1997	33	1				https://onlinelibrary.wiley.com/loi/17446163		10.1111/(ISSN)1744-6163		fulltext		Wiley	serial								F	110920058
+Perspectives of Earth and Space Scientists		2637-6989	2019	1	1				https://agupubs.onlinelibrary.wiley.com/loi/26376989		10.1002/(ISSN)2637-6989		fulltext		Wiley	serial								F	244300062
+Pharmacology Research & Perspectives	2052-1707	2052-1707	2013	1	1				https://bpspubs.onlinelibrary.wiley.com/loi/20521707		10.1002/(ISSN)2052-1707		fulltext		Wiley	serial								F	180712292
+PhotoMat	2771-3156	2771-3164	2024	1	1				https://onlinelibrary.wiley.com/loi/27713164		10.1002/(ISSN)2771-3164		fulltext		Wiley	serial								F	
+Physiological Reports	2051-817X	2051-817X	2013	1	1				https://physoc.onlinelibrary.wiley.com/loi/2051817X		10.1002/(ISSN)2051-817X		fulltext		Wiley	serial								F	175145636
+Plant Biotechnology Journal	1467-7644	1467-7652	2003	1	1				https://onlinelibrary.wiley.com/loi/14677652		10.1111/(ISSN)1467-7652		fulltext		Wiley	serial								F	07144761X
+Plant Direct		2475-4455	2017	1	1				https://onlinelibrary.wiley.com/loi/24754455		10.1002/(ISSN)2475-4455		fulltext		Wiley	serial								F	224058789
+Plant-Environment Interactions		2575-6265	2019	1	1				https://onlinelibrary.wiley.com/loi/25756265		10.1002/(ISSN)2575-6265		fulltext		Wiley	serial								F	252279859
+Cellular Microbiology	1462-5814	1462-5822	1999	1	1	2021	23	12	https://onlinelibrary.wiley.com/loi/14625822		10.1111/(ISSN)1462-5822		fulltext		Wiley	serial								F	044923406
+Chemistry - Methods		2628-9725	2020	1	1				https://onlinelibrary.wiley.com/loi/26289725		10.1002/(ISSN)2628-9725		fulltext		Wiley	serial								F	254547478
+ChemistryEurope		2751-4765	2023	1	1				https://onlinelibrary.wiley.com/loi/27514765		10.1002/(ISSN)2751-4765		fulltext		Wiley	serial								F	263958442
+ChemistryOpen	2191-1363	2191-1363	2012	1	1				https://chemistry-europe.onlinelibrary.wiley.com/loi/21911363		10.1002/(ISSN)2191-1363		fulltext		Wiley	serial								F	16339198X
+ChemElectroChem	2196-0216	2196-0216	2014	1	1				https://chemistry-europe.onlinelibrary.wiley.com/loi/21960216		10.1002/(ISSN)2196-0216		fulltext		Wiley	serial								F	177940263
+Chronic Diseases and Translational Medicine		2589-0514	2015	1	1				https://onlinelibrary.wiley.com/loi/25890514		10.1002/(ISSN)2589-0514		fulltext		Wiley	serial								F	20416219X
+CleanMat		2837-6722	2024	1	1				https://onlinelibrary.wiley.com/loi/28376722		10.1002/(ISSN)2837-6722		fulltext		Wiley	serial								F	
+Climate Resilience and Sustainability		2692-4587	2021	1	1				https://onlinelibrary.wiley.com/loi/26924587		10.1002/(ISSN)2692-4587		fulltext		Wiley	serial								F	257218769
+Clinical & Translational Immunology		2050-0068	2012	1	1				https://onlinelibrary.wiley.com/loi/20500068		10.1002/(ISSN)2050-0068		fulltext		Wiley	serial								F	170346986
+Clinical and Experimental Dental Research	2057-4347	2057-4347	2015	1	1				https://onlinelibrary.wiley.com/loi/20574347		10.1002/(ISSN)2057-4347		fulltext		Wiley	serial								F	193685558
+Clinical and Public Health Guidelines		2836-3973	2024	1	1				https://onlinelibrary.wiley.com/loi/28363973		10.1002/(ISSN)2836-3973		fulltext		Wiley	serial								F	
+Clinical and Translational Allergy		2045-7022	2011	1	1				https://onlinelibrary.wiley.com/loi/20457022		10.1002/(ISSN)2045-7022		fulltext		Wiley	serial								F	153912480
+Clinical and Translational Discovery		2768-0622	2021	1	1				https://onlinelibrary.wiley.com/loi/27680622		10.1002/(ISSN)2768-0622		fulltext		Wiley	serial								F	260621935
+Clinical and Translational Medicine		2001-1326	2012	1	1				https://onlinelibrary.wiley.com/loi/20011326		10.1002/(ISSN)2001-1326		fulltext		Wiley	serial								F	169589218
+IET Cyber-Physical Systems: Theory & Applications		2398-3396	2016	1	1				https://ietresearch.onlinelibrary.wiley.com/loi/23983396		10.1049/(ISSN)2398-3396		fulltext		Wiley	serial								F	201817896
+IET Cyber-Systems and Robotics	2097-3608	2631-6315	2019	1	1				https://ietresearch.onlinelibrary.wiley.com/loi/26316315		10.1049/(ISSN)2631-6315		fulltext		Wiley	serial								F	237357941
+IET Electric Power Applications		1751-8679	2013	7	1				https://ietresearch.onlinelibrary.wiley.com/loi/17518679		10.1049/(ISSN)1751-8679		fulltext		Wiley	serial								F	180073125
+IET Electrical Systems in Transportation		2042-9746	2013	3	1				https://ietresearch.onlinelibrary.wiley.com/loi/20429746		10.1049/(ISSN)2042-9746		fulltext		Wiley	serial								F	153476109
+IET Energy Systems Integration		2516-8401	2019	1	1				https://ietresearch.onlinelibrary.wiley.com/loi/25168401		10.1049/(ISSN)2516-8401		fulltext		Wiley	serial								F	237353652
+IET Generation, Transmission & Distribution		1751-8695	2013	7	1				https://ietresearch.onlinelibrary.wiley.com/loi/17518695		10.1049/(ISSN)1751-8695		fulltext		Wiley	serial								F	15197926X
+IET Image Processing		1751-9667	2013	7	1				https://ietresearch.onlinelibrary.wiley.com/loi/17519667		10.1049/(ISSN)1751-9667		fulltext		Wiley	serial								F	115432736
+IET Information Security		1751-8717	2013	7	1				https://ietresearch.onlinelibrary.wiley.com/loi/17518717		10.1049/(ISSN)1751-8717		fulltext		Wiley	serial								F	11543271X
+IET Intelligent Transport Systems		1751-9578	2013	7	1				https://ietresearch.onlinelibrary.wiley.com/loi/17519578		10.1049/(ISSN)1751-9578		fulltext		Wiley	serial								F	18070687X
+IET Microwaves, Antennas & Propagation		1751-8733	2013	7	1				https://ietresearch.onlinelibrary.wiley.com/loi/17518733		10.1049/(ISSN)1751-8733		fulltext		Wiley	serial								F	151979278
+IET Nanobiotechnology		1751-875X	2013	7	1				https://ietresearch.onlinelibrary.wiley.com/loi/1751875X		10.1049/(ISSN)1751-875X		fulltext		Wiley	serial								F	180707019
+IET Nanodielectrics		2514-3255	2018	1	1				https://ietresearch.onlinelibrary.wiley.com/loi/25143255		10.1049/(ISSN)2514-3255		fulltext		Wiley	serial								F	229740170
+Plants, People, Planet		2572-2611	2018	1	1				https://nph.onlinelibrary.wiley.com/loi/25722611		10.1002/(ISSN)2572-2611		fulltext		Wiley	serial								F	233506276
+Polymer Crystallization		2573-7619	2018	1	1	2021	4	6	https://onlinelibrary.wiley.com/loi/25737619		10.1002/(ISSN)2573-7619		fulltext		Wiley	serial								F	231603894
+Portal Hypertension & Cirrhosis	2770-5838	2770-5846	2022	1	1				https://onlinelibrary.wiley.com/loi/27705846		10.1002/(ISSN)2770-5846		fulltext		Wiley	serial								F	264090098
+Precision Medical Sciences		2642-2514	2019	8	1				https://onlinelibrary.wiley.com/loi/26422514		10.1002/(ISSN)2642-2514		fulltext		Wiley	serial							2227-6394	F	248653725
+Precision Radiation Oncology	2398-7324	2398-7324	2017	1	1				https://onlinelibrary.wiley.com/loi/23987324		10.1002/(ISSN)2398-7324		fulltext		Wiley	serial								F	223589500
+Pregnancy		2997-9684	2025	1	1				https://onlinelibrary.wiley.com/loi/29979684		10.1002/(ISSN)2997-9684		fulltext		Wiley	serial								F	
+Progress in Structural Engineering and Materials	1365-0556	1528-2716	1997	1	1	2006	8	4	https://onlinelibrary.wiley.com/loi/15282716		10.1002/(ISSN)1528-2716		fulltext		Wiley	serial							1538-523X	F	076861678
+Proteoglycan Research		2832-3556	2023	1	1				https://onlinelibrary.wiley.com/loi/28323556		10.1002/(ISSN)2832-3556		fulltext		Wiley	serial								F	271645571
+Psychiatric Research and Clinical Practice		2575-5609	2019	1	1				https://onlinelibrary.wiley.com/loi/25755609		10.1176/(ISSN)2575-5609		fulltext		Wiley	serial								F	236449109
+Psychiatry and Clinical Neurosciences Reports		2769-2558	2022	1	1				https://onlinelibrary.wiley.com/loi/27692558		10.1002/(ISSN)2769-2558		fulltext		Wiley	serial								F	263426939
+Clinical and Translational Science	1752-8054	1752-8062	2008	1	1				https://ascpt.onlinelibrary.wiley.com/loi/17528062		10.1111/(ISSN)1752-8062		fulltext		Wiley	serial								F	137599757
+Clinical Cardiology	0160-9289	1932-8737	1978	1	1				https://onlinelibrary.wiley.com/loi/19328737		10.1002/(ISSN)1932-8737		fulltext		Wiley	serial								F	120657511
+Clinical Case Reports	2050-0904	2050-0904	2013	1	1				https://onlinelibrary.wiley.com/loi/20500904		10.1002/(ISSN)2050-0904		fulltext		Wiley	serial								F	177874503
+Clinical Neuroimaging		2837-3219	2024	1	1				https://onlinelibrary.wiley.com/loi/28373219		10.1002/(ISSN)2837-3219		fulltext		Wiley	serial								F	
+Cochrane Evidence Synthesis and Methods		2832-9023	2023	1	1				https://onlinelibrary.wiley.com/loi/28329023		10.1002/(ISSN)2832-9023		fulltext		Wiley	serial								F	264041135
+Cognitive Computation and Systems		2517-7567	2019	1	1				https://onlinelibrary.wiley.com/loi/25177567		10.1049/(ISSN)2517-7567		fulltext		Wiley	serial								F	237353695
+Community Science		2692-9430	2022	1	1				https://onlinelibrary.wiley.com/loi/26929430		10.1002/(ISSN)2692-9430		fulltext		Wiley	serial								F	266320015
+IET Networks		2047-4962	2013	2	1				https://ietresearch.onlinelibrary.wiley.com/loi/20474962		10.1049/(ISSN)2047-4962		fulltext		Wiley	serial								F	162246145
+IET Optoelectronics		1751-8776	2013	7	1				https://ietresearch.onlinelibrary.wiley.com/loi/17518776		10.1049/(ISSN)1751-8776		fulltext		Wiley	serial								F	180690310
+IET Power Electronics		1755-4543	2013	6	1				https://ietresearch.onlinelibrary.wiley.com/loi/17554543		10.1049/(ISSN)1755-4543		fulltext		Wiley	serial								F	124306071
+IET Quantum Communication		2632-8925	2021	2	1				https://ietresearch.onlinelibrary.wiley.com/loi/26328925		10.1049/(ISSN)2632-8925		fulltext		Wiley	serial								F	250316366
+IET Radar, Sonar & Navigation		1751-8792	2013	7	1				https://ietresearch.onlinelibrary.wiley.com/loi/17518792		10.1049/(ISSN)1751-8792		fulltext		Wiley	serial								F	151979286
+IET Renewable Power Generation		1752-1424	2013	7	1				https://ietresearch.onlinelibrary.wiley.com/loi/17521424		10.1049/(ISSN)1752-1424		fulltext		Wiley	serial								F	151979316
+IET Science, Measurement & Technology		1751-8830	2013	7	1				https://ietresearch.onlinelibrary.wiley.com/loi/17518830		10.1049/(ISSN)1751-8830		fulltext		Wiley	serial								F	151979308
+IET Signal Processing		1751-9683	2013	7	1				https://ietresearch.onlinelibrary.wiley.com/loi/17519683		10.1049/(ISSN)1751-9683		fulltext		Wiley	serial								F	115432744
+IET Smart Cities		2631-7680	2019	1	1				https://ietresearch.onlinelibrary.wiley.com/loi/26317680		10.1049/(ISSN)2631-7680		fulltext		Wiley	serial								F	238563448
+IET Smart Grid		2515-2947	2018	1	1				https://ietresearch.onlinelibrary.wiley.com/loi/25152947		10.1049/(ISSN)2515-2947		fulltext		Wiley	serial								F	226896161
+IET Software		1751-8814	2013	7	1				https://ietresearch.onlinelibrary.wiley.com/loi/17518814		10.1049/(ISSN)1751-8814		fulltext		Wiley	serial								F	151979294
+IET Systems Biology		1751-8857	2013	7	1				https://ietresearch.onlinelibrary.wiley.com/loi/17518857		10.1049/(ISSN)1751-8857		fulltext		Wiley	serial								F	163677239
+IET Wireless Sensor Systems		2043-6394	2013	3	1				https://ietresearch.onlinelibrary.wiley.com/loi/20436394		10.1049/(ISSN)2043-6394		fulltext		Wiley	serial								F	153476125
+IJU Case Reports		2577-171X	2018	1	1				https://onlinelibrary.wiley.com/loi/2577171X		10.1002/(ISSN)2577-171X		fulltext		Wiley	serial								F	233156003
+PsyCh Journal	2046-0252	2046-0260	2012	1	1				https://onlinelibrary.wiley.com/loi/20460260		10.1002/(ISSN)2046-0260		fulltext		Wiley	serial								F	165394773
+Public Health Challenges		2769-2450	2022	1	1				https://onlinelibrary.wiley.com/loi/27692450		10.1002/(ISSN)2769-2450		fulltext		Wiley	serial								F	263316920
+Pulmonary Circulation		2045-8940	2011	1	1				https://onlinelibrary.wiley.com/loi/20458940		10.1002/(ISSN)2045-8940		fulltext		Wiley	serial								F	152287159
+Quantitative Biology	2095-4689	2095-4697	2013	1	1				https://onlinelibrary.wiley.com/loi/20954697		10.1002/(ISSN)2095-4697		fulltext		Wiley	serial								F	171478312
+Quantitative Economics	1759-7323	1759-7331	2010	1	1				https://onlinelibrary.wiley.com/loi/17597331		10.1111/(ISSN)1759-7331		fulltext		Wiley	serial								F	14865312X
+Quantum Engineering		2577-0470	2019	1	1				https://onlinelibrary.wiley.com/loi/25770470		10.1002/(ISSN)2577-0470		fulltext		Wiley	serial								F	236449354
+Remote Sensing in Ecology and Conservation	2056-3485	2056-3485	2015	1	1				https://zslpublications.onlinelibrary.wiley.com/loi/20563485		10.1002/(ISSN)2056-3485		fulltext		Wiley	serial								F	19071056X
+Complexity	1076-2787	1099-0526	1996	1	4	2016	21	S2	https://onlinelibrary.wiley.com/loi/10990526		10.1002/(ISSN)1099-0526		fulltext		Wiley	serial								F	040633179
+Computational and Mathematical Methods		2577-7408	2018	1	1	2021	3	6	https://onlinelibrary.wiley.com/loi/25777408		10.1002/(ISSN)2577-7408		fulltext		Wiley	serial								F	23735506X
+Computational and Systems Oncology		2689-9655	2020	1	1				https://onlinelibrary.wiley.com/loi/26899655		10.1002/(ISSN)2689-9655		fulltext		Wiley	serial								F	254271723
+Concepts in Magnetic Resonance	1043-7347	1099-0534	1996	8	1	2002	15	4	https://onlinelibrary.wiley.com/loi/10990534		10.1002/(ISSN)1099-0534		fulltext		Wiley	serial								F	040633187
+Concepts in Magnetic Resonance Part B: Magnetic Resonance Engineering	1552-5031	1552-504X	2003	16B	1	2018	48B	4	https://onlinelibrary.wiley.com/loi/1552504X		10.1002/(ISSN)1552-504X		fulltext		Wiley	serial								F	097505528

@@ -1,8 +1,0 @@
-﻿publication_title	print_identifier	online_identifier	date_first_issue_online	num_first_vol_online	num_first_issue_online	date_last_issue_online	num_last_vol_online	num_last_issue_online	title_url	first_author	title_id	embargo_info	coverage_depth	coverage_notes	publisher_name	publication_type	date_monograph_published_print	date_monograph_published_online	monograph_volume	monograph_edition	first_editor	parent_publication_title_id	preceding_publication_title_id
-BioMedicine		2211-8039	2014-02	4	1	2016-05	6	2	http://link.springer.com/journal/40681		40681		fulltext		China Medical University	Serial							
-GSTF Journal of Advances in Medical Research (JAMR)		2345-721X	2014-06	1	1	2016-04	1	4	http://link.springer.com/journal/40782		40782		fulltext		Global Science and Technology Forum	Serial							
-GSTF Journal of BioSciences (JBio)		2251-3159	2014-12	3	1	2015-11	3	2	http://link.springer.com/journal/40835		40835		fulltext		Global Science and Technology Forum	Serial							
-GSTF Journal of Engineering Technology (JET)		2251-371X	2013-08	2	2	2016-02	3	3	http://link.springer.com/journal/40707		40707		fulltext		Global Science and Technology Forum	Serial							
-GSTF Journal of Music (JMusic)		2382-5928	2015-07	1	1	2016-02	2	1	http://link.springer.com/journal/40958		40958		fulltext		Global Science and Technology Forum	Serial							
-GSTF Journal of Nursing and Health Care (JNHC)		2345-7198	2015-07	2	1	2016-01	3	1	http://link.springer.com/journal/40743		40743		fulltext		Global Science and Technology Forum	Serial							
-GSTF Journal on Agricultural Engineering (JAE)		2345-7945	2016-01	2	1	2016-02	2	1	http://link.springer.com/journal/40872		40872		fulltext		Global Science and Technology Forum	Serial							

@@ -1,0 +1,500 @@
+publication_title	print_identifier	online_identifier	date_first_issue_online	num_first_vol_online	num_first_issue_online	date_last_issue_online	num_last_vol_online	num_last_issue_online	title_url	first_author	title_id	embargo_info	coverage_depth	notes	publisher_name	publication_type	date_monograph_published_print	date_monograph_published_online	monograph_volume	monograph_edition	first_editor	parent_publication_title_id	preceding_publication_title_id	access_type	bestppn
+Latin American Economic Review	2198-3526	2196-436X	2014-12-01	23	1	2019-12-01	28	1	https://link.springer.com/journal/40503		40503		fulltext	fully open access	Springer Berlin Heidelberg	serial								F	172120284
+Life Sciences, Society and Policy		2195-7819	2005-12-01	1	1	2021-12-01	17	1	https://link.springer.com/journal/40504		40504		fulltext	fully open access	Springer Berlin Heidelberg	serial								F	170349225
+Sustainable Chemical Processes		2043-7129	2013-12-01	1	1	2016-12-01	4	1	https://link.springer.com/journal/40508		40508		fulltext	fully open access	Springer International Publishing	serial								F	178716847
+Journal of Chinese Management		2195-9897	2014-12-01	1	1	2014-12-01	1	1	https://link.springer.com/journal/40527		40527		fulltext	fully open access	Springer Berlin Heidelberg	serial								F	180353896
+Applied Informatics		2196-0089	2014-12-01	1	1	2018-12-01	5	1	https://link.springer.com/journal/40535		40535		fulltext	fully open access	Springer Berlin Heidelberg	serial								F	174288468
+Journal of Solid State Lighting		2196-1107	2014-12-01	1	1	2016-12-01	3	1	https://link.springer.com/journal/40539		40539		fulltext	fully open access	Springer International Publishing	serial								F	178717908
+Asia Pacific Journal on Computational Engineering		2196-1166	2014-12-01	1	1	2017-12-01	4	1	https://link.springer.com/journal/40540		40540		fulltext	fully open access	Springer Nature Singapore	serial								F	178717916
+Infrastructure Complexity		2196-3258	2014-12-01	1	1	2016-12-01	3	1	https://link.springer.com/journal/40551		40551		fulltext	fully open access	Springer International Publishing	serial								F	172120276
+Brazilian Journal of Science and Technology		2196-288X	2014-12-01	1	1	2017-12-01	4	1	https://link.springer.com/journal/40552		40552		fulltext	fully open access	Springer International Publishing	serial								F	177497084
+Functional Linguistics		2196-419X	2014-12-01	1	1	2020-12-01	7	1	https://link.springer.com/journal/40554		40554		fulltext	fully open access	Springer Berlin Heidelberg	serial								F	202725006
+Zoological Studies		1810-522X	2013-12-01	52	1	2015-12-01	54	1	https://link.springer.com/journal/40555		40555		fulltext	fully open access	Springer Berlin Heidelberg	serial								F	074205897
+Applied Adhesion Science		2196-4351	2013-12-01	1	1	2021-12-01	9	1	https://link.springer.com/journal/40563		40563		fulltext	fully open access	Springer International Publishing	serial								F	176273603
+Journal of Modern Power Systems and Clean Energy	2196-5625	2196-5420	2013-06-01	1	1	2019-11-01	7	6	https://link.springer.com/journal/40565		40565		fulltext	fully open access	Springer Nature Singapore	serial								F	172120292
+China Finance and Economic Review		2196-5633	2013-12-01	1	1	2017-12-01	5	1	https://link.springer.com/journal/40589		40589		fulltext	fully open access	Springer Berlin Heidelberg	serial								F	176273611
+Vietnam Journal of Computer Science	2196-8888	2196-8896	2014-02-01	1	1	2018-09-01	5	3-4	https://link.springer.com/journal/40595		40595		fulltext	fully open access	Springer Berlin Heidelberg	serial								F	177940522
+Triple Helix		2197-1927	2014-12-01	1	1	2018-12-01	5	1	https://link.springer.com/journal/40604		40604		fulltext	fully open access	Springer International Publishing	serial								F	175788707
+International Journal of Dharma Studies		2196-8802	2013-12-01	1	1	2017-12-01	5	1	https://link.springer.com/journal/40613		40613		fulltext	fully open access	Springer International Publishing	serial								F	174288522
+Journal of Experimental Orthopaedics		2197-1153	2014-12-01	1	1	2023-12-01	10	1	https://link.springer.com/journal/40634		40634		fulltext	fully open access	Springer Berlin Heidelberg	serial								F	175788626
+Robotics and Biomimetics		2197-3768	2014-12-01	1	1	2018-12-01	5	1	https://link.springer.com/journal/40638		40638		fulltext	fully open access	Springer Berlin Heidelberg	serial								F	175788790
+Computational Social Networks		2197-4314	2014-12-01	1	1	2021-12-01	8	1	https://link.springer.com/journal/40649		40649		fulltext	fully open access	Springer International Publishing	serial								F	175788812
+Lingua Sinica		2197-6678	2015-12-01	1	1	2021-12-01	8	1	https://link.springer.com/journal/40655		40655		fulltext	fully open access	Springer Berlin Heidelberg	serial								F	187652325
+Technology, Innovation and Education		2197-9855	2015-12-01	1	1	2016-12-01	2	1	https://link.springer.com/journal/40660		40660		fulltext	fully open access	Springer International Publishing	serial								F	190711000
+Forest Ecosystems		2197-5620	2014-12-01	1	1	2021-12-01	8	1	https://link.springer.com/journal/40663		40663		fulltext	fully open access	Springer Nature Singapore	serial								F	175788820
+Computational Astrophysics and Cosmology		2197-7909	2014-12-01	1	1	2021-12-01	8	1	https://link.springer.com/journal/40668		40668		fulltext	fully open access	Springer International Publishing	serial								F	187652333
+Journal of Frugal Innovation		2197-7917	2015-12-01	1	1	2017-01-01	2	1	https://link.springer.com/journal/40669		40669		fulltext	fully open access	Springer Nature Singapore	serial								F	190710993
+Advanced Structural and Chemical Imaging		2198-0926	2015-12-01	1	1	2020-12-01	6	1	https://link.springer.com/journal/40679		40679		fulltext	fully open access	Springer International Publishing	serial								F	18765235X
+Business Research	2198-3402	2198-2627	2008-05-01	1	1	2020-04-01	13	1	https://link.springer.com/journal/40685		40685		fulltext	fully open access	Springer International Publishing	serial								F	125028784
+Textiles and Clothing Sustainability		2197-9936	2015-12-01	1	1	2017-12-01	3	1	https://link.springer.com/journal/40689		40689		fulltext	fully open access	Springer Nature Singapore	serial								F	187673012
+Smart Water		2198-2619	2016-12-01	1	1	2021-12-01	6	1	https://link.springer.com/journal/40713		40713		fulltext	fully open access	Springer Nature Singapore	serial								F	194236080
+Bandung: Journal of the Global South		2198-3534	2015-12-01	2	1	2018-12-01	5	1	https://link.springer.com/journal/40728		40728		fulltext	fully open access	Springer International Publishing	serial								F	183247302
+Pacific Journal of Mathematics for Industry		2198-4115	2014-12-01	6	1	2018-12-01	10	1	https://link.springer.com/journal/40736		40736		fulltext	fully open access	Springer Berlin Heidelberg	serial								F	202725103
+Mechanics of Advanced Materials and Modern Processes		2198-7874	2015-12-01	1	1	2020-12-01	6	1	https://link.springer.com/journal/40759		40759		fulltext	fully open access	Springer International Publishing	serial								F	187652406
+Drug Safety - Case Reports	2199-1162	2198-977X	2014-12-01	1	1	2019-12-01	6	1	https://link.springer.com/journal/40800		40800		fulltext	fully open access	Springer International Publishing	serial								F	19071106X
+Journal of Open Innovation: Technology, Market, and Complexity		2199-8531	2015-12-01	1	1	2018-12-01	4	1	https://link.springer.com/journal/40852		40852		fulltext	fully open access	Springer Nature Singapore	serial								F	188560181
+Journal of Chinese Studies		2199-868X	2016-12-01	1	1	2017-12-01	2	1	https://link.springer.com/journal/40853		40853		fulltext	fully open access	Springer Berlin Heidelberg	serial								F	199150346
+Asian Journal of German and European Studies		2199-4579	2016-12-01	1	1	2019-12-01	4	1	https://link.springer.com/journal/40856		40856		fulltext	fully open access	Springer Nature Singapore	serial								F	194026272
+International Journal of Quality Innovation		2363-7021	2015-12-01	1	1	2020-12-01	6	1	https://link.springer.com/journal/40887		40887		fulltext	fully open access	Springer International Publishing	serial								F	188561730
+Coaching | Theorie & Praxis		2364-5148	2015-10-01	1	1	2022-12-01	8	1	https://link.springer.com/journal/40896		40896		fulltext	fully open access	Springer Fachmedien Wiesbaden	serial								F	188561773
+Fields Mathematics Education Journal		1925-6639	2018-12-01	3	1	2018-12-01	3	1	https://link.springer.com/journal/40928		40928		fulltext	fully open access	Springer International Publishing	serial								F	183828534
+Mathematics-in-Industry Case Studies		1913-4967	2017-01-01	7	1	2019-12-01	10	1	https://link.springer.com/journal/40929		40929		fulltext	fully open access	Springer International Publishing	serial								F	194006476
+Open Geospatial Data, Software and Standards		2363-7501	2016-12-01	1	1	2021-12-01	6	1	https://link.springer.com/journal/40965		40965		fulltext	fully open access	Springer International Publishing	serial								F	202725235
+Future Cities and Environment		2363-9075	2015-12-01	1	1	2017-12-01	3	1	https://link.springer.com/journal/40984		40984		fulltext	fully open access	Springer International Publishing	serial								F	189197986
+Asia-Pacific Science Education		2364-1177	2015-12-01	1	1	2019-12-01	5	1	https://link.springer.com/journal/41029		41029		fulltext	fully open access	Springer Nature Singapore	serial								F	19102712X
+Research and Practice in Technology Enhanced Learning		1793-7078	2015-12-01	10	1	2022-12-01	17	1	https://link.springer.com/journal/41039		41039		fulltext	fully open access	Springer Nature Singapore	serial								F	177495464
+Biophysics Reports	2364-3439	2364-3420	2015-08-01	1	1	2022-12-01	17	1	https://link.springer.com/journal/41048		41048		fulltext	fully open access	Springer Nature Singapore	serial								F	189595671
+Scientific Phone Apps and Mobile Devices		2364-4958	2015-12-01	1	1	2018-12-01	4	1	https://link.springer.com/journal/41070		41070		fulltext	fully open access	Springer Nature Singapore	serial								F	191027197
+IPSJ Transactions on Computer Vision and Applications		1882-6695	2016-12-01	8	1	2020-12-01	12	1	https://link.springer.com/journal/41074		41074		fulltext	fully open access	Springer Berlin Heidelberg	serial								F	133153827
+Evidence-Based Endodontics		2364-9526	2016-12-01	1	1	2020-12-01	5	1	https://link.springer.com/journal/41121		41121		fulltext	fully open access	Springer International Publishing	serial								F	194027376
+Asian Journal of Sustainability and Social Responsibility		2365-6417	2016-12-01	1	1	2021-12-01	6	1	https://link.springer.com/journal/41180		41180		fulltext	fully open access	Springer Nature Singapore	serial								F	199150583
+The Journal of Global Positioning Systems		1446-3164	2016-12-01	14	1	2018-12-01	16	1	https://link.springer.com/journal/41445		41445		fulltext	fully open access	Springer Nature Singapore	serial								F	198099509
+Journal of the European Optical Society-Rapid Publications		1990-2573	2016-12-01	12	1	2021-12-01	17	1	https://link.springer.com/journal/41476		41476		fulltext	fully open access	Springer International Publishing	serial								F	223271624
+Probability, Uncertainty and Quantitative Risk		2367-0126	2016-12-01	1	1	2020-12-01	5	1	https://link.springer.com/journal/41546		41546		fulltext	fully open access	Springer Nature Singapore	serial								F	195678001
+Energy Transitions	2520-1166	2520-114X	2017-06-01	1	1	2020-12-01	4	2	https://link.springer.com/journal/41825		41825		fulltext	fully open access	Springer International Publishing	serial								F	20414664X
+Ain-Shams Journal of Anesthesiology		2090-925X	2018-12-01	10	1	2023-12-01	15	1	https://link.springer.com/journal/42077		42077		fulltext	fully open access	Springer Berlin Heidelberg	serial								F	161726046
+Journal of Palaeogeography		2524-4507	2018-12-01	7	1	2021-12-01	10	1	https://link.springer.com/journal/42501		42501		fulltext	fully open access	Springer Nature Singapore	serial								F	233505989
+Leadership, Education, Personality: An Interdisciplinary Journal		2524-6178	2019-09-01	1	1	2023-12-01	5	1-2	https://link.springer.com/journal/42681		42681		fulltext	fully open access	Springer Fachmedien Wiesbaden	serial								F	243396120
+Journal of the Egyptian Mathematical Society		2090-9128	2019-12-01	27	1	2023-12-01	31	1	https://link.springer.com/journal/42787		42787		fulltext	fully open access	Springer Berlin Heidelberg	serial								F	158245172
+Journal of Genetic Engineering and Biotechnology		2090-5920	2019-12-01	17	1	2023-12-01	21	1	https://link.springer.com/journal/43141		43141		fulltext	fully open access	Springer Berlin Heidelberg	serial								F	149142889
+Annals of Pediatric Surgery		2090-5394	2019-12-01	15	1	2023-12-01	19	1	https://link.springer.com/journal/43159		43159		fulltext	fully open access	Springer Berlin Heidelberg	serial								F	149142838
+Clinical Hematology International		2590-0048	2019-03-01	1	1	2023-06-01	5	2-3	https://link.springer.com/journal/44228		44228		fulltext	fully open access	Springer Netherlands	serial								F	242321690
+Dr. Sulaiman Al Habib Medical Journal	2666-819X	2590-3349	2022-03-01	4	1	2023-12-01	5	4	https://link.springer.com/journal/44229		44229		fulltext	fully open access	Springer Netherlands	serial								F	242995497
+Journal of African Trade	2214-8515	2214-8523	2014-03-01	1	1-2				https://link.springer.com/journal/44232		44232		fulltext	fully open access	Springer Netherlands	serial								F	18417208X
+ASEAN Heart Journal		2315-4551	2013-09-01	21	1				https://link.springer.com/journal/40602		40602		fulltext	fully open access	ASEAN Federation of Cardiology	serial								F	223284084
+Asia-Pacific Journal of Innovation in Hospitality and Tourism (APJIHT)		2289-1471	2014-09-01	3	1				https://link.springer.com/journal/40930		40930		fulltext	fully open access	Taylor's University	serial								F	16796979X
+Biomedical Research and Therapy		2198-4093	2014-04-01	1	1				https://link.springer.com/journal/40730		40730		fulltext	fully open access	Laboratory of Stem Cell Research and Application	serial								F	188560068
+BioMedicine		2211-8039	2014-03-01	4	1				https://link.springer.com/journal/40681		40681		fulltext	fully open access	China Medical University	serial								F	158971361
+China Accounting and Finance Review		2307-3055	2013-03-01	15	1				https://link.springer.com/journal/40570		40570		fulltext	fully open access	The Hong Kong Polytechnic University	serial								F	174857683
+Computational Cognitive Science		2195-3961	2015-12-01	1	1				https://link.springer.com/journal/40469		40469		fulltext	fully open access	Springer Nature Singapore	serial								F	170349179
+GSTF Journal of Advances in Medical Research (JAMR)		2345-721X	2014-05-01	1	1				https://link.springer.com/journal/40782		40782		fulltext	fully open access	Global Science and Technology Forum	serial								F	243178603
+GSTF Journal of BioSciences (JBio)		2251-3159	2014-08-01	3	1				https://link.springer.com/journal/40835		40835		fulltext	fully open access	Global Science and Technology Forum	serial								F	
+GSTF Journal of Chemical Sciences (JChem)		2339-5079	2014-09-01	1	2				https://link.springer.com/journal/40837		40837		fulltext	fully open access	Global Science and Technology Forum	serial								F	178974420
+GSTF Journal of Engineering Technology (JET)		2251-371X	2013-08-01	2	2				https://link.springer.com/journal/40707		40707		fulltext	fully open access	Global Science and Technology Forum	serial								F	16942913X
+GSTF Journal of General Philosophy (JPhilo)		2345-7937	2015-03-01	1	2				https://link.springer.com/journal/40873		40873		fulltext	fully open access	Global Science and Technology Forum	serial								F	20462570X
+GSTF Journal of Geological Sciences (JGS)		2335-6782	2015-07-01	2	1				https://link.springer.com/journal/40875		40875		fulltext	fully open access	Global Science and Technology Forum	serial								F	182013367
+GSTF Journal of Law and Social Sciences (JLSS)		2251-2861	2014-04-01	3	2				https://link.springer.com/journal/40741		40741		fulltext	fully open access	Global Science and Technology Forum	serial								F	182747581
+GSTF Journal of Mathematics, Statistics and Operations Research (JMSOR)		2251-3396	2015-09-01	3	1				https://link.springer.com/journal/40836		40836		fulltext	fully open access	Global Science and Technology Forum	serial								F	169429075
+GSTF Journal of Music (JMusic)		2382-5928	2014-03-01	1	1				https://link.springer.com/journal/40958		40958		fulltext	fully open access	Global Science and Technology Forum	serial								F	184864577
+GSTF Journal of Nursing and Health Care (JNHC)		2345-7198	2015-03-01	2	1				https://link.springer.com/journal/40743		40743		fulltext	fully open access	Global Science and Technology Forum	serial								F	24317859X
+GSTF Journal of Physics and Applications (JPA)		2335-691X	2014-04-01	1	2				https://link.springer.com/journal/40838		40838		fulltext	fully open access	Global Science and Technology Forum	serial								F	225256762
+GSTF Journal of Psychology (JPsych)		2345-7929	2014-05-01	1	1				https://link.springer.com/journal/40790		40790		fulltext	fully open access	Global Science and Technology Forum	serial								F	245298355
+GSTF Journal of Veterinary Science (JVet)		2345-7910	2014-03-01	1	1				https://link.springer.com/journal/40871		40871		fulltext	fully open access	Global Science and Technology Forum	serial								F	248650432
+GSTF Journal on Agricultural Engineering (JAE)		2345-7945	2016	2	1				https://link.springer.com/journal/40872		40872		fulltext	fully open access	Global Science and Technology Forum	serial								F	225239191
+GSTF Journal on Aviation Technology (JAT)		2382-591X	2014-03-01	1	1				https://link.springer.com/journal/40957		40957		fulltext	fully open access	Global Science and Technology Forum	serial								F	184864569
+GSTF Journal on Business Review (GBR)		2251-2888	2013-11-01	3	1				https://link.springer.com/journal/40706		40706		fulltext	fully open access	Global Science and Technology Forum	serial								F	18274759X
+GSTF Journal on Computing (JoC)		2010-2283	2013-08-01	3	2				https://link.springer.com/journal/40601		40601		fulltext	fully open access	Global Science and Technology Forum	serial								F	177476591
+GSTF Journal on Education (JEd)		2345-7171	2014-06-01	2	1				https://link.springer.com/journal/40742		40742		fulltext	fully open access	Global Science and Technology Forum	serial								F	243178581
+GSTF Journal on Media & Communications (JMC)		2335-6626	2014-12-01	2	1				https://link.springer.com/journal/40874		40874		fulltext	fully open access	Global Science and Technology Forum	serial								F	176868178
+Advanced Biotechnology		2948-2801	2023-12-01	1	4				https://link.springer.com/journal/44307		44307		fulltext	fully open access	Springer Nature Singapore	serial								F	276920457
+Blood Research	2287-979X	2288-0011	2024-12-01	59	1				https://link.springer.com/journal/44313		44313		fulltext	fully open access	Springer Nature Singapore	serial								F	169590755
+Discover Animals		3004-894X	2024-12-01	1	1				https://link.springer.com/journal/44338		44338		fulltext	fully open access	Springer Nature Singapore	serial								F	
+Discover Cities		3004-8311	2024-12-01	1	1				https://link.springer.com/journal/44327		44327		fulltext	fully open access	Springer International Publishing	serial								F	
+Marine Development		3004-832X	2023-12-01	1	1				https://link.springer.com/journal/44312		44312		fulltext	fully open access	Springer Nature Singapore	serial								F	274996324
+Journal of New Approaches in Educational Research		2254-7339	2024-12-01	1	1				https://link.springer.com/journal/44322		44322		fulltext	fully open access	Springer International Publishing	serial								F	164585885
+3D Printing in Medicine		2365-6271	2015-01-12	1	1				https://link.springer.com/journal/41205		41205		fulltext	fully open access	Springer International Publishing	serial								F	190735708
+Aging Clinical and Experimental Research		1720-8319	2024-12-01	36	1				https://link.springer.com/journal/40520		40520		fulltext	fully open access	Springer International Publishing	serial								F	069626227
+Amino Acids	0939-4451	1438-2199	2024-12-01	56	1				https://link.springer.com/journal/726		726		fulltext	fully open access	Springer Vienna	serial								F	078952883
+Animal Cognition	1435-9448	1435-9456	2024-12-01	27	1				https://link.springer.com/journal/10071		10071		fulltext	fully open access	Springer Berlin Heidelberg	serial								F	044898495
+Animal Diseases		2731-0442	2021-01-12	1	1				https://link.springer.com/journal/44149		44149		fulltext	fully open access	Springer Nature Singapore	serial								F	256266123
+Applied Microbiology and Biotechnology	0175-7598	1432-0614	2024-12-01	108	1				https://link.springer.com/journal/253		253		fulltext	fully open access	Springer Berlin Heidelberg	serial								F	112243290
+Artery Research		1876-4401	2021-01-03	27	1				https://link.springer.com/journal/44200		44200		fulltext	fully open access	Springer Netherlands	serial								F	121771318
+Artificial Intelligence Review	0269-2821	1573-7462	2024	57	1				https://link.springer.com/journal/10462		10462		fulltext	fully open access	Springer Netherlands	serial								F	111374979
+Automotive and Engine Technology	2365-5127	2365-5135	2024-12-01	9	1				https://link.springer.com/journal/41104		41104		fulltext	fully open access	Springer International Publishing	serial								F	243374534
+Biogeochemistry	0168-2563	1573-515X	2024	167	1				https://link.springer.com/journal/10533		10533		fulltext	fully open access	Springer International Publishing	serial								F	111480655
+BMC Chemistry		2661-801X	2007-01-12	1	1				https://link.springer.com/journal/13065		13065		fulltext	fully open access	Springer International Publishing	serial								F	240172574
+Cancer Immunology, Immunotherapy	0340-7004	1432-0851	2024	73	1				https://link.springer.com/journal/262		262		fulltext	fully open access	Springer Berlin Heidelberg	serial								F	083467351
+Cancer Nanotechnology	1868-6958	1868-6966	2010-01-12	1	1-6				https://link.springer.com/journal/12645		12645		fulltext	fully open access	Springer Vienna	serial								F	155355430
+Cell Biology and Toxicology	0742-2091	1573-6822	2024-12-01	40	1				https://link.springer.com/journal/10565		10565		fulltext	fully open access	Springer Netherlands	serial								F	104819596
+Cell Discovery		2056-5968	2015-01-12	1	1				https://link.springer.com/journal/41421		41421		fulltext	fully open access	Springer Nature Singapore	serial								F	188557865
+Cellular and Molecular Life Sciences	1420-682X	1420-9071	2024-12-01	81	1				https://link.springer.com/journal/18		18		fulltext	fully open access	Springer International Publishing	serial								F	044875185
+Cellular and Molecular Neurobiology	0272-4340	1573-6830	2024-12-01	44	1				https://link.springer.com/journal/10571		10571		fulltext	fully open access	Springer US	serial								F	104820519
+Clinical Cancer Bulletin		2791-3937	2023-01-12	2	1				https://link.springer.com/journal/44272		44272		fulltext	fully open access	Springer Nature Singapore	serial								F	263539377
+Clinical and Experimental Medicine	1591-8890	1591-9528	2024-12-01	24	1				https://link.springer.com/journal/10238		10238		fulltext	fully open access	Springer International Publishing	serial								F	059187956
+Computational Science and Engineering		2948-1597	2023-01-12	1	1				https://link.springer.com/journal/44207		44207		fulltext	fully open access	Springer International Publishing	serial								F	
+Crime Science		2193-7680	2012-01-12	1	1				https://link.springer.com/journal/40163		40163		fulltext	fully open access	Springer Berlin Heidelberg	serial								F	177940085
+Discover Atmosphere		2948-1554	2023-01-12	1	1				https://link.springer.com/journal/44292		44292		fulltext	fully open access	Springer International Publishing	serial								F	276436520
+Discover Civil Engineering		2948-1546	2023-01-12	1	1				https://link.springer.com/journal/44290		44290		fulltext	fully open access	Springer International Publishing	serial								F	277329833
+Discover Electronics		2948-1600	2023-01-12	1	1				https://link.springer.com/journal/44291		44291		fulltext	fully open access	Springer International Publishing	serial								F	278805302
+Discover Geoscience		2948-1589	2023-01-12	1	1				https://link.springer.com/journal/44288		44288		fulltext	fully open access	Springer International Publishing	serial								F	275950077
+Journal for Interdisciplinary Research in Education (JIRE)		1985-9414	2014-12-01	4	1				https://link.springer.com/journal/40933		40933		fulltext	fully open access	Taylor's University	serial								F	
+Journal of Aeronautics and Space Technologies (Havacilik ve Uzay Teknolojileri Dergisi)		2148-1059	2014	7	1				https://link.springer.com/journal/40690		40690		fulltext	fully open access	Turkish Air Force Academy	serial								F	235211400
+Journal of Engineering Research	2307-1877	2307-1885	2014-06-01	2	2				https://link.springer.com/journal/40632		40632		fulltext	fully open access	Academic Publication Council	serial								F	170782123
+Moroccan Journal of Pure and Applied Analysis		2351-8227	2015-07-01	1	1				https://link.springer.com/journal/40956		40956		fulltext	fully open access	University Sidi Mohamed Ben Abdallah	serial								F	182014061
+Petroleum Geology & Experiment		2363-7625	2015	37	1				https://link.springer.com/journal/40972		40972		fulltext	fully open access	Geological Society of China	serial								F	266250912
+Progress in STEM CELL		2199-4633	2014-09-01	1	1				https://link.springer.com/journal/40855		40855		fulltext	fully open access	Laboratory of Stem Cell Research and Application	serial								F	199150338
+Revista Latinoamericana de Biotecnología Ambiental y Algal		2007-2570	2013-09-01	4	1				https://link.springer.com/journal/40682		40682		fulltext	fully open access	Sociedad Latinoamericana de Biotecnología Ambiental y Algal	serial								F	223273503
+SEARCH: The Journal of the South East Asia Research Centre for Communication and Humanities		2229-872X	2014-10-01	6	2				https://link.springer.com/journal/40931		40931		fulltext	fully open access	Taylor's University	serial								F	154274968
+Türk Fizyoterapi ve Rehabilitasyon Dergisi/Turkish Journal of Physiotherapy and Rehabilitation		2148-0109	2013	24	3				https://link.springer.com/journal/40680		40680		fulltext	fully open access	Turkish Physiotherapy Association	serial								F	23258253X
+Taylor's Business Review (TBR)		2232-0172	2014-08-01	4	2				https://link.springer.com/journal/40932		40932		fulltext	fully open access	Taylor's University	serial								F	235723800
+Tropical Technology Journal		2199-8698	2015-10-01	19	1				https://link.springer.com/journal/40934		40934		fulltext	fully open access	Cebu Technological University	serial								F	266319289
+Moore and More		3004-8680	2024-12-01	1	1				https://link.springer.com/journal/44275		44275		fulltext	fully open access	Springer Nature Singapore	serial								F	
+Discover Toxicology		3004-8893	2024-12-01	1	1				https://link.springer.com/journal/44339		44339		fulltext	fully open access	Springer Nature Singapore	serial								F	
+Discover Molecules		3004-9350	2024-12-01	1	1				https://link.springer.com/journal/44345		44345		fulltext	fully open access	Springer Nature Singapore	serial								F	
+Discover Bacteria		3004-9768	2024-12-01	1	1				https://link.springer.com/journal/44351		44351		fulltext	fully open access	Springer Nature Singapore	serial								F	
+Discover Conservation		3004-9784	2024-12-01	1	1				https://link.springer.com/journal/44353		44353		fulltext	fully open access	Springer Nature Singapore	serial								F	
+Complex analysis and its synergies	2524-7581	2197-120X	2015-12-01	1	1				https://link.springer.com/journal/40627		40627		fulltext	fully open access	Springer International Publishing	serial								F	175788634
+Railway Engineering Science	2662-4745	2662-4753	2020-03-01	28	1				https://link.springer.com/journal/40534		40534		fulltext	fully open access	Springer Nature Singapore	serial								F	244189196
+Discover Computing	2948-2984	2948-2992	2023-12-01	26	1-2				https://link.springer.com/journal/10791		10791		fulltext	fully open access	Springer Netherlands	serial								F	278574130
+Discover Oceans		2948-1562	2023-01-12	1	1				https://link.springer.com/journal/44289		44289		fulltext	fully open access	Springer International Publishing	serial								F	277110939
+Discover Space	2948-2941	2948-295X	2024-12-01	128	1				https://link.springer.com/journal/11038		11038		fulltext	fully open access	Springer Netherlands	serial								F	
+Evolution: Education and Outreach		1936-6434	2008	1	1				https://link.springer.com/journal/12052		12052		fulltext	fully open access	Springer US	serial								F	123476143
+Food Safety and Risk		2731-9245	2014-01-12	1	1				https://link.springer.com/journal/40550		40550		fulltext	fully open access	Springer International Publishing	serial								F	268861951
+Health Economics Review		2191-1991	2011-01-12	1	1				https://link.springer.com/journal/13561		13561		fulltext	fully open access	Springer Berlin Heidelberg	serial								F	165470593
+Health & Justice		2194-7899	2013-01-12	1	1				https://link.springer.com/journal/40352		40352		fulltext	fully open access	Springer Berlin Heidelberg	serial								F	175147442
+Humanities and Social Sciences Communications		2662-9992	2015-01-12	1	1				https://link.springer.com/journal/41599		41599		fulltext	fully open access	Palgrave Macmillan UK	serial								F	248716352
+Intelligent Marine Technology and Systems		2948-1953	2023-01-12	1	1				https://link.springer.com/journal/44295		44295		fulltext	fully open access	Springer Nature Singapore	serial								F	274991594
+International Journal of Colorectal Disease	0179-1958	1432-1262	2024-12-01	39	1				https://link.springer.com/journal/384		384		fulltext	fully open access	Springer Berlin Heidelberg	serial								F	058249028
+International Journal for Educational Integrity		1833-2595	2015-01-12	11	1				https://link.springer.com/journal/40979		40979		fulltext	fully open access	Springer Nature Singapore	serial								F	116270330
+International Journal of Emergency Medicine	1865-1372	1865-1380	2008-01-04	1	1				https://link.springer.com/journal/12245		12245		fulltext	fully open access	Springer Berlin Heidelberg	serial								F	170881342
+Journal of Applied Volcanology		2191-5040	2012-01-12	1	1				https://link.springer.com/journal/13617		13617		fulltext	fully open access	Springer Berlin Heidelberg	serial								F	166196053
+Journal of Cancer Research and Clinical Oncology	0171-5216	1432-1335	2024	150	1				https://link.springer.com/journal/432		432		fulltext	fully open access	Springer Berlin Heidelberg	serial								F	083135030
+Journal of Cheminformatics		1758-2946	2009-01-12	1	1				https://link.springer.com/journal/13321		13321		fulltext	fully open access	Springer International Publishing	serial								F	149003366
+Journal of Intelligent & Robotic Systems	0921-0296	1573-0409	2024-03-01	110	1				https://link.springer.com/journal/10846		10846		fulltext	fully open access	Springer Netherlands	serial								F	111373883
+Journal of Materials Science: Materials in Energy		2948-2151	2023-01-12	1	1				https://link.springer.com/journal/44308		44308		fulltext	fully open access	Springer International Publishing	serial								F	
+Landscape Ecology	0921-2973	1572-9761	2024	39	1				https://link.springer.com/journal/10980		10980		fulltext	fully open access	Springer Netherlands	serial								F	111373751
+Microbial Ecology	0095-3628	1432-184X	2024	87	1				https://link.springer.com/journal/248		248		fulltext	fully open access	Springer US	serial								F	120154633
+Neural Processing Letters	1370-4621	1573-773X	2024-02-01	56	1				https://link.springer.com/journal/11063		11063		fulltext	fully open access	Springer US	serial								F	11137510X
+NPG Asia Materials	1884-4049	1884-4057	2009-01-10	1	1				https://link.springer.com/journal/41427		41427		fulltext	fully open access	Springer Japan	serial								F	148655963
+NPP—Digital Psychiatry and Neuroscience		2948-1570	2023-01-12	1	1				https://link.springer.com/journal/44277		44277		fulltext	fully open access	Springer International Publishing	serial								F	276920449
+Discover Life	2948-2968	2948-2976	2024	54	1				https://link.springer.com/journal/11084		11084		fulltext	fully open access	Springer Netherlands	serial								F	
+Process Science		2948-2178	2023-01-12	1	1				https://link.springer.com/journal/44311		44311		fulltext	fully open access	Springer International Publishing	serial								F	
+Propulsion and Energy		2948-2089	2023-01-12	1	1				https://link.springer.com/journal/44270		44270		fulltext	fully open access	Springer Nature Singapore	serial								F	
+Science and Engineering Ethics	1353-3452	1471-5546	2024-02-01	30	1				https://link.springer.com/journal/11948		11948		fulltext	fully open access	Springer Netherlands	serial								F	090128877
+Surface Science and Technology	2097-3624	2731-7838	2023-01-12	1	1				https://link.springer.com/journal/44251		44251		fulltext	fully open access	Springer Nature Singapore	serial								F	274990016
+Urban Lifeline		2731-9989	2023-01-12	1	1				https://link.springer.com/journal/44285		44285		fulltext	fully open access	Springer Nature Singapore	serial								F	276919688
+Virtual Reality	1359-4338	1434-9957	2024-03-01	28	1				https://link.springer.com/journal/10055		10055		fulltext	fully open access	Springer London	serial								F	116936347
+ALTEX	1868-596X	1868-8551	2006-01-02	23	1				https://link.springer.com/journal/12270		12270		fulltext	fully open access	Springer Berlin Heidelberg	serial								F	146123492
+Fortschrittsberichte über Kolloide und Polymere	0071-8017		1909-01-10	1	1-2				https://link.springer.com/journal/12277		12277		fulltext	fully open access	Springer Berlin Heidelberg	serial								F	
+Cancer Convergence		2366-6196	2017-01-12	1	1	2023-12-01	7	1	https://link.springer.com/journal/41236		41236		fulltext	fully open access	Springer International Publishing	serial								F	223675113
+AAPPS Bulletin		2309-4710	2021-12-01	31	1				https://link.springer.com/journal/43673		43673		fulltext	fully open access	Springer Nature Singapore	serial								F	172123402
+AAPS Open		2364-9534	2015-12-01	1	1				https://link.springer.com/journal/41120		41120		fulltext	fully open access	Springer International Publishing	serial								F	190735694
+Advanced Modeling and Simulation in Engineering Sciences		2213-7467	2014-12-01	1	1				https://link.springer.com/journal/40323		40323		fulltext	fully open access	Springer International Publishing	serial								F	17627426X
+Advances in Aerodynamics		2524-6992	2019-12-01	1	1				https://link.springer.com/journal/42774		42774		fulltext	fully open access	Springer Nature Singapore	serial								F	240166906
+Advances in Bridge Engineering		2662-5407	2020-12-01	1	1				https://link.springer.com/journal/43251		43251		fulltext	fully open access	Springer Nature Singapore	serial								F	24857325X
+Advances in Continuous and Discrete Models		2731-4235	2004-12-01	2004	1				https://link.springer.com/journal/13662		13662		fulltext	fully open access	Springer International Publishing	serial								F	264934733
+African Journal of Urology	1110-5704	1961-9987	2008-03-01	14	1				https://link.springer.com/journal/12301		12301		fulltext	fully open access	Springer Berlin Heidelberg	serial								F	133150135
+Agricultural and Food Economics		2193-7532	2013-12-01	1	1				https://link.springer.com/journal/40100		40100		fulltext	fully open access	Springer Berlin Heidelberg	serial								F	177940077
+AI in Civil Engineering	2097-0943	2730-5392	2022-12-01	1	1				https://link.springer.com/journal/43503		43503		fulltext	fully open access	Springer Nature Singapore	serial								F	264036360
+AI Perspectives & Advances		2948-2143	2019-12-01	1	1				https://link.springer.com/journal/42467		42467		fulltext	fully open access	Springer International Publishing	serial								F	
+AMB Express		2191-0855	2011-12-01	1	1				https://link.springer.com/journal/13568		13568		fulltext	fully open access	Springer Berlin Heidelberg	serial								F	15428615X
+Anesthesiology and Perioperative Science		2731-8389	2023-03-01	1	1				https://link.springer.com/journal/44254		44254		fulltext	fully open access	Springer Nature Singapore	serial								F	270211403
+Annals of Intensive Care		2110-5820	2011-12-01	1	1				https://link.springer.com/journal/13613		13613		fulltext	fully open access	Springer International Publishing	serial								F	153735007
+Anthropocene Coasts		2561-4150	2022-12-01	5	1				https://link.springer.com/journal/44218		44218		fulltext	fully open access	Springer Nature Singapore	serial								F	250315874
+Applied Biological Chemistry	2468-0834	2468-0842	2019	62	1				https://link.springer.com/journal/13765		13765		fulltext	fully open access	Springer Nature Singapore	serial								F	223675636
+Applied Microscopy		2287-4445	2019-12-01	49	1				https://link.springer.com/journal/42649		42649		fulltext	fully open access	Springer Nature Singapore	serial								F	166198730
+Applied Network Science		2364-8228	2016-12-01	1	1				https://link.springer.com/journal/41109		41109		fulltext	fully open access	Springer International Publishing	serial								F	194027368
+Applied Water Science	2190-5487	2190-5495	2011-09-01	1	1				https://link.springer.com/journal/13201		13201		fulltext	fully open access	Springer International Publishing	serial								F	177939850
+Arabian Journal of Mathematics	2193-5343	2193-5351	2012-04-01	1	1				https://link.springer.com/journal/40065		40065		fulltext	fully open access	Springer Berlin Heidelberg	serial								F	182540162
+Architectural Intelligence		2731-6726	2022-12-01	1	1				https://link.springer.com/journal/44223		44223		fulltext	fully open access	Springer Nature Singapore	serial								F	264088751
+Asian Journal of Atmospheric Environment		2287-1160	2023-12-01	1	1				https://link.springer.com/journal/44273		44273		fulltext	fully open access	Springer Nature Singapore	serial								F	161729479
+Asian Review of Political Economy		2731-5835	2022-12-01	1	1				https://link.springer.com/journal/44216		44216		fulltext	fully open access	Springer Nature Singapore	serial								F	268033633
+Asian-Pacific Journal of Second and Foreign Language Education		2363-5169	2016-12-01	1	1				https://link.springer.com/journal/40862		40862		fulltext	fully open access	Springer Berlin Heidelberg	serial								F	193687291
+Autonomous Intelligent Systems		2730-616X	2021-12-01	1	1				https://link.springer.com/journal/43684		43684		fulltext	fully open access	Springer Nature Singapore	serial								F	258683058
+Beni-Suef University Journal of Basic and Applied Sciences		2314-8543	2019-12-01	8	1				https://link.springer.com/journal/43088		43088		fulltext	fully open access	Springer Berlin Heidelberg	serial								F	171507436
+Biochar	2524-7972	2524-7867	2019-03-01	1	1				https://link.springer.com/journal/42773		42773		fulltext	fully open access	Springer Nature Singapore	serial								F	249195232
+Bioresources and Bioprocessing		2197-4365	2014-12-01	1	1				https://link.springer.com/journal/40643		40643		fulltext	fully open access	Springer Nature Singapore	serial								F	180530089
+Botanical Studies		1999-3110	2013-12-01	54	1				https://link.springer.com/journal/40529		40529		fulltext	fully open access	Springer Nature Singapore	serial								F	119935228
+Boundary Value Problems		1687-2770	2005-12-01	2005	1				https://link.springer.com/journal/13661		13661		fulltext	fully open access	Springer International Publishing	serial								F	116244461
+Brain Informatics	2198-4018	2198-4026	2014-12-01	1	1				https://link.springer.com/journal/40708		40708		fulltext	fully open access	Springer Berlin Heidelberg	serial								F	187652376
+Built Heritage	2096-3041	2662-6802	2017-03-01	1	1				https://link.springer.com/journal/43238		43238		fulltext	fully open access	Springer Nature Singapore	serial								F	244847940
+Bulletin of Faculty of Physical Therapy		2536-9660	2015-12-01	20	2				https://link.springer.com/journal/43161		43161		fulltext	fully open access	Springer Berlin Heidelberg	serial								F	24919533X
+Bulletin of the National Research Centre		2522-8307	2018-12-01	42	1				https://link.springer.com/journal/42269		42269		fulltext	fully open access	Springer Berlin Heidelberg	serial								F	23160310X
+Cambridge Journal of Evidence-Based Policing	2520-1344	2520-1336	2023-12-02	7	1				https://link.springer.com/journal/41887		41887		fulltext	fully open access	Springer International Publishing	serial								F	200857185
+Carbon Balance and Management		1750-0680	2006-12-01	1	1				https://link.springer.com/journal/13021		13021		fulltext	fully open access	Springer International Publishing	serial								F	124375731
+Carbon Neutrality	2788-8614	2731-3948	2022-12-01	1	1				https://link.springer.com/journal/43979		43979		fulltext	fully open access	Springer Nature Singapore	serial								F	262899183
+Carbon Research		2731-6696	2022-12-01	1	1				https://link.springer.com/journal/44246		44246		fulltext	fully open access	Springer Nature Singapore	serial								F	264574567
+Cardiology and Therapy	2193-8261	2193-6544	2012-12-01	1	1				https://link.springer.com/journal/40119		40119		fulltext	fully open access	Springer Healthcare	serial								F	172120195
+The Cardiothoracic Surgeon		2662-2203	2019-12-01	27	1				https://link.springer.com/journal/43057		43057		fulltext	fully open access	Springer Berlin Heidelberg	serial								F	237662922
+Cell Regeneration		2045-9769	2012-12-01	1	1				https://link.springer.com/journal/13619		13619		fulltext	fully open access	Springer Nature Singapore	serial								F	163678677
+Chemical and Biological Technologies in Agriculture		2196-5641	2014-12-01	1	1				https://link.springer.com/journal/40538		40538		fulltext	fully open access	Springer International Publishing	serial								F	175147493
+Chinese Journal of Mechanical Engineering	1000-9345	2192-8258	2018	31	1				https://link.springer.com/journal/10033		10033		fulltext	fully open access	Springer Nature Singapore	serial								F	183247191
+City and Built Environment		2435-7936	2023-12-01	1	1				https://link.springer.com/journal/44213		44213		fulltext	fully open access	Springer Nature Singapore	serial								F	268588694
+City, Territory and Architecture		2195-2701	2014-12-01	1	1				https://link.springer.com/journal/40410		40410		fulltext	fully open access	Springer Berlin Heidelberg	serial								F	170349144
+Clinical Phytoscience		2199-1197	2015-12-01	1	1				https://link.springer.com/journal/40816		40816		fulltext	fully open access	Springer Berlin Heidelberg	serial								F	188860940
+Cognitive Research: Principles and Implications		2365-7464	2016-12-01	1	1				https://link.springer.com/journal/41235		41235		fulltext	fully open access	Springer International Publishing	serial								F	199150591
+Collagen and Leather	2097-1419	2731-6998	2019-12-01	1	1				https://link.springer.com/journal/42825		42825		fulltext	fully open access	Springer Nature Singapore	serial								F	269306552
+Comparative Migration Studies		2214-594X	2013	1	1				https://link.springer.com/journal/40878		40878		fulltext	fully open access	Springer International Publishing	serial								F	187248087
+Complex & Intelligent Systems	2199-4536	2198-6053	2015-12-01	1	1				https://link.springer.com/journal/40747		40747		fulltext	fully open access	Springer International Publishing	serial								F	191025747
+Computational Urban Science		2730-6852	2021-12-01	1	1				https://link.springer.com/journal/43762		43762		fulltext	fully open access	Springer Nature Singapore	serial								F	256849226
+Computational Visual Media	2096-0433	2096-0662	2015-03-01	1	1	2024-06-01	10	3	https://link.springer.com/journal/41095		41095		fulltext	fully open access	Tsinghua University Press	serial								F	192254618
+Computing and Software for Big Science	2510-2036	2510-2044	2023-12-01	7	1				https://link.springer.com/journal/41781		41781		fulltext	fully open access	Springer International Publishing	serial								F	221674985
+Crop Health		2948-1945	2023-12-01	1	1				https://link.springer.com/journal/44297		44297		fulltext	fully open access	Springer Nature Singapore	serial								F	274991586
+Current Medicine		2731-0868	2022-12-01	1	1				https://link.springer.com/journal/44194		44194		fulltext	fully open access	Springer Nature Singapore	serial								F	263948994
+CVIR Endovascular		2520-8934	2018-12-01	1	1				https://link.springer.com/journal/42155		42155		fulltext	fully open access	Springer International Publishing	serial								F	229379354
+Cybersecurity		2523-3246	2018-12-01	1	1				https://link.springer.com/journal/42400		42400		fulltext	fully open access	Springer Nature Singapore	serial								F	232584478
+Data Science and Engineering	2364-1185	2364-1541	2016-03-01	1	1				https://link.springer.com/journal/41019		41019		fulltext	fully open access	Springer Nature Singapore	serial								F	189595663
+Dermatology and Therapy	2193-8210	2190-9172	2011-09-01	1	1				https://link.springer.com/journal/13555		13555		fulltext	fully open access	Springer Healthcare	serial								F	182540014
+Diabetes Therapy	1869-6953	1869-6961	2010-08-01	1	1				https://link.springer.com/journal/13300		13300		fulltext	fully open access	Springer Healthcare	serial								F	163677409
+Digital Economy and Sustainable Development		2731-9423	2023-12-01	1	1				https://link.springer.com/journal/44265		44265		fulltext	fully open access	Springer Nature Singapore	serial								F	271644109
+Disciplinary and Interdisciplinary Science Education Research		2662-2300	2019-12-01	1	1				https://link.springer.com/journal/43031		43031		fulltext	fully open access	Springer Nature Singapore	serial								F	242377629
+Discover Agriculture		2731-9598	2023-12-01	1	1				https://link.springer.com/journal/44279		44279		fulltext	fully open access	Springer International Publishing	serial								F	272376051
+Discover Analytics		2731-8117	2023-12-01	1	1				https://link.springer.com/journal/44257		44257		fulltext	fully open access	Springer International Publishing	serial								F	269073426
+Discover Artificial Intelligence		2731-0809	2021-12-01	1	1				https://link.springer.com/journal/44163		44163		fulltext	fully open access	Springer International Publishing	serial								F	266162819
+Discover Chemical Engineering		2730-7700	2021-12-01	1	1				https://link.springer.com/journal/43938		43938		fulltext	fully open access	Springer International Publishing	serial								F	254550576
+Discover Data		2731-6955	2023-12-01	1	1				https://link.springer.com/journal/44248		44248		fulltext	fully open access	Springer International Publishing	serial								F	270211373
+Discover Education		2731-5525	2022-12-01	1	1				https://link.springer.com/journal/44217		44217		fulltext	fully open access	Springer International Publishing	serial								F	263425789
+Discover Energy		2730-7719	2021-12-01	1	1				https://link.springer.com/journal/43937		43937		fulltext	fully open access	Springer International Publishing	serial								F	25799372X
+Discover Environment		2731-9431	2023-12-01	1	1				https://link.springer.com/journal/44274		44274		fulltext	fully open access	Springer International Publishing	serial								F	271560061
+Discover Epidemics		2731-4545	2021-12-01	1	1				https://link.springer.com/journal/44203		44203		fulltext	fully open access	Springer International Publishing	serial								F	
+Discover Food		2731-4286	2021-12-01	1	1				https://link.springer.com/journal/44187		44187		fulltext	fully open access	Springer International Publishing	serial								F	
+Discover Global Society		2731-9687	2023-12-01	1	1				https://link.springer.com/journal/44282		44282		fulltext	fully open access	Springer International Publishing	serial								F	270211411
+Discover Health Systems		2731-7501	2022-12-01	1	1				https://link.springer.com/journal/44250		44250		fulltext	fully open access	Springer International Publishing	serial								F	264574575
+Discover Internet of Things		2730-7239	2021-12-01	1	1				https://link.springer.com/journal/43926		43926		fulltext	fully open access	Springer International Publishing	serial								F	254550568
+Discover Materials		2730-7727	2021-12-01	1	1				https://link.springer.com/journal/43939		43939		fulltext	fully open access	Springer International Publishing	serial								F	253917395
+Discover Mechanical Engineering		2731-6564	2022-12-01	1	1				https://link.springer.com/journal/44245		44245		fulltext	fully open access	Springer International Publishing	serial								F	264036417
+Discover Mental Health		2731-4383	2021-12-01	1	1				https://link.springer.com/journal/44192		44192		fulltext	fully open access	Springer International Publishing	serial								F	266162835
+Discover Nano		2731-9229	2006-06-01	1	1				https://link.springer.com/journal/11671		11671		fulltext	fully open access	Springer US	serial								F	269306587
+Discover Oncology	1868-8497	2730-6011	2021-12-01	12	1				https://link.springer.com/journal/12672		12672		fulltext	fully open access	Springer US	serial								F	254900216
+Discover Psychology		2731-4537	2021-12-01	1	1				https://link.springer.com/journal/44202		44202		fulltext	fully open access	Springer International Publishing	serial								F	271644087
+Discover Social Science and Health		2731-0469	2021-12-01	1	1				https://link.springer.com/journal/44155		44155		fulltext	fully open access	Springer International Publishing	serial								F	255795181
+Discover Sustainability		2662-9984	2020-12-01	1	1				https://link.springer.com/journal/43621		43621		fulltext	fully open access	Springer International Publishing	serial								F	250471981
+Discover Water		2730-647X	2021-12-01	1	1				https://link.springer.com/journal/43832		43832		fulltext	fully open access	Springer International Publishing	serial								F	253917387
+Drugs in R&D	1174-5886	1179-6901	1999	1	1				https://link.springer.com/journal/40268		40268		fulltext	fully open access	Springer International Publishing	serial								F	155354124
+Drugs - Real World Outcomes	2199-1154	2198-9788	2014-12-01	1	1				https://link.springer.com/journal/40801		40801		fulltext	fully open access	Springer International Publishing	serial								F	188560165
+Earth, Planets and Space		1880-5981	1998	50	1				https://link.springer.com/journal/40623		40623		fulltext	fully open access	Springer Berlin Heidelberg	serial								F	13605658X
+Eating and Weight Disorders - Studies on Anorexia, Bulimia and Obesity		1590-1262	2023-12-01	28	1				https://link.springer.com/journal/40519		40519		fulltext	fully open access	Springer International Publishing	serial								F	048912913
+Ecological Processes		2192-1709	2012-12-01	1	1				https://link.springer.com/journal/13717		13717		fulltext	fully open access	Springer Berlin Heidelberg	serial								F	177939907
+The Egyptian Heart Journal		2090-911X	2019-12-01	71	1				https://link.springer.com/journal/43044		43044		fulltext	fully open access	Springer Berlin Heidelberg	serial								F	161725996
+Egyptian Journal of Biological Pest Control		2536-9342	2018-12-01	28	1				https://link.springer.com/journal/41938		41938		fulltext	fully open access	Springer Berlin Heidelberg	serial								F	221676384
+The Egyptian Journal of Bronchology	1687-8426	2314-8551	2013-12-01	7	2				https://link.springer.com/journal/43168		43168		fulltext	fully open access	Springer Berlin Heidelberg	serial								F	171507444
+Egyptian Journal of Forensic Sciences		2090-5939	2017-12-01	7	1				https://link.springer.com/journal/41935		41935		fulltext	fully open access	Springer Berlin Heidelberg	serial								F	149564139
+The Egyptian Journal of Internal Medicine	1110-7782	2090-9098	2012-04-01	24	1				https://link.springer.com/journal/43162		43162		fulltext	fully open access	Springer Berlin Heidelberg	serial								F	16172597X
+Egyptian Journal of Medical Human Genetics		2090-2441	2019-12-01	20	1				https://link.springer.com/journal/43042		43042		fulltext	fully open access	Springer Berlin Heidelberg	serial								F	146124421
+The Egyptian Journal of Neurology, Psychiatry and Neurosurgery		1687-8329	2018-12-01	54	1				https://link.springer.com/journal/41983		41983		fulltext	fully open access	Springer Berlin Heidelberg	serial								F	223240559
+Egyptian Journal of Neurosurgery		2520-8225	2018-12-01	33	1				https://link.springer.com/journal/41984		41984		fulltext	fully open access	Springer Berlin Heidelberg	serial								F	229379346
+The Egyptian Journal of Otolaryngology	1012-5574	2090-8539	2012	28	1				https://link.springer.com/journal/43163		43163		fulltext	fully open access	Springer Berlin Heidelberg	serial								F	161725929
+Egyptian Journal of Radiology and Nuclear Medicine		2090-4762	2019-12-01	50	1				https://link.springer.com/journal/43055		43055		fulltext	fully open access	Springer Berlin Heidelberg	serial								F	146297814
+Egyptian Liver Journal		2090-6226	2019-12-01	9	1				https://link.springer.com/journal/43066		43066		fulltext	fully open access	Springer Berlin Heidelberg	serial								F	161725333
+Egyptian Pediatric Association Gazette		2090-9942	2019-12-01	67	1				https://link.springer.com/journal/43054		43054		fulltext	fully open access	Springer Berlin Heidelberg	serial								F	161726542
+Egyptian Rheumatology and Rehabilitation	1110-161X	2090-3235	2013	40	1				https://link.springer.com/journal/43166		43166		fulltext	fully open access	Springer Berlin Heidelberg	serial								F	146124669
+EJNMMI Physics		2197-7364	2014-12-01	1	1				https://link.springer.com/journal/40658		40658		fulltext	fully open access	Springer International Publishing	serial								F	182540286
+EJNMMI Radiopharmacy and Chemistry		2365-421X	2017	1	1				https://link.springer.com/journal/41181		41181		fulltext	fully open access	Springer International Publishing	serial								F	192940554
+EJNMMI Research		2191-219X	2011-12-01	1	1				https://link.springer.com/journal/13550		13550		fulltext	fully open access	Springer Berlin Heidelberg	serial								F	164368442
+eLight	2097-1710	2662-8643	2021-12-01	1	1				https://link.springer.com/journal/43593		43593		fulltext	fully open access	Springer Nature Singapore	serial								F	258681950
+Empirical Research in Vocational Education and Training		1877-6345	2009-03-01	1	1				https://link.springer.com/journal/40461		40461		fulltext	fully open access	Springer International Publishing	serial								F	151980306
+Energy Informatics		2520-8942	2018-12-01	1	1				https://link.springer.com/journal/42162		42162		fulltext	fully open access	Springer International Publishing	serial								F	232584222
+Energy, Sustainability and Society		2192-0567	2011-12-01	1	1				https://link.springer.com/journal/13705		13705		fulltext	fully open access	Springer Berlin Heidelberg	serial								F	170775852
+Environmental Sciences Europe	2190-4707	2190-4715	1989-03-01	1	1				https://link.springer.com/journal/12302		12302		fulltext	fully open access	Springer Berlin Heidelberg	serial								F	163681538
+Environmental Systems Research		2193-2697	2012-12-01	1	1				https://link.springer.com/journal/40068		40068		fulltext	fully open access	Springer Berlin Heidelberg	serial								F	177940050
+EPJ Data Science		2193-1127	2012-12-01	1	1				https://link.springer.com/journal/13688		13688		fulltext	fully open access	Springer Berlin Heidelberg	serial								F	166196134
+EPJ Quantum Technology	2662-4400	2196-0763	2014-12-01	1	1				https://link.springer.com/journal/40507		40507		fulltext	fully open access	Springer Berlin Heidelberg	serial								F	17034925X
+EPJ Techniques and Instrumentation		2195-7045	2014-12-01	1	1				https://link.springer.com/journal/40485		40485		fulltext	fully open access	Springer Berlin Heidelberg	serial								F	170349217
+EURASIP Journal on Advances in Signal Processing		1687-6180	2001-12-01	2001	1				https://link.springer.com/journal/13634		13634		fulltext	fully open access	Springer International Publishing	serial								F	175113939
+EURASIP Journal on Audio, Speech, and Music Processing		1687-4722	2006-12-01	2007	1				https://link.springer.com/journal/13636		13636		fulltext	fully open access	Springer International Publishing	serial								F	151979081
+EURASIP Journal on Image and Video Processing		1687-5281	2007-12-01	2007	1				https://link.springer.com/journal/13640		13640		fulltext	fully open access	Springer International Publishing	serial								F	110159705
+EURASIP Journal on Information Security		2510-523X	2007-12-01	2007	1				https://link.springer.com/journal/13635		13635		fulltext	fully open access	Springer International Publishing	serial								F	200114220
+EURASIP Journal on Wireless Communications and Networking		1687-1499	2004-12-01	2004	1				https://link.springer.com/journal/13638		13638		fulltext	fully open access	Springer International Publishing	serial								F	116645482
+European Journal of Ageing	1613-9372	1613-9380	2023-12-01	20	1				https://link.springer.com/journal/10433		10433		fulltext	fully open access	Springer Netherlands	serial								F	100952429
+European Journal of Futures Research	2195-4194	2195-2248	2013-12-01	1	1				https://link.springer.com/journal/40309		40309		fulltext	fully open access	Springer Berlin Heidelberg	serial								F	175147477
+EJNMMI Reports		3005-074X	2017-12-01	1	1				https://link.springer.com/journal/41824		41824		fulltext	fully open access	Springer International Publishing	serial								F	
+European Journal of Population	0168-6577	1572-9885	2023-12-01	39	1				https://link.springer.com/journal/10680		10680		fulltext	fully open access	Springer Netherlands	serial								F	111373824
+The European Physical Journal C	1434-6044	1434-6052	1998-03-01	1	1				https://link.springer.com/journal/10052		10052		fulltext	fully open access	Springer Berlin Heidelberg	serial								F	143181009
+European Radiology Experimental		2509-9280	2017-12-01	1	1				https://link.springer.com/journal/41747		41747		fulltext	fully open access	Springer Vienna	serial								F	204644585
+European Transport Research Review	1867-0717	1866-8887	2009-03-01	1	1				https://link.springer.com/journal/12544		12544		fulltext	fully open access	Springer International Publishing	serial								F	135957702
+Fashion and Textiles		2198-0802	2014-12-01	1	1				https://link.springer.com/journal/40691		40691		fulltext	fully open access	Springer Nature Singapore	serial								F	180530135
+Financial Innovation		2199-4730	2015-12-01	1	1				https://link.springer.com/journal/40854		40854		fulltext	fully open access	Springer Berlin Heidelberg	serial								F	18767308X
+Fire Ecology		1933-9747	2005-02-01	1	1				https://link.springer.com/journal/42408		42408		fulltext	fully open access	Springer International Publishing	serial								F	120430924
+Fixed Point Theory and Algorithms for Sciences and Engineering		2730-5422	2004-12-01	2004	1				https://link.springer.com/journal/13663		13663		fulltext	fully open access	Springer International Publishing	serial								F	257220011
+Friction	2223-7690	2223-7704	2013-03-01	1	1	2024-06-01	12	6	https://link.springer.com/journal/40544		40544		fulltext	fully open access	Tsinghua University Press	serial								F	194814017
+Frontiers of Optoelectronics	2095-2759	2095-2767	2008-09-01	1	1				https://link.springer.com/journal/12200		12200		fulltext	fully open access	Higher Education Press	serial								F	159746736
+Frontiers of Urban and Rural Planning		2731-6661	2022-12-01	1	1				https://link.springer.com/journal/44243		44243		fulltext	fully open access	Springer Nature Singapore	serial								F	271560029
+Functional Composite Materials		2522-5774	2020-12-01	1	1				https://link.springer.com/journal/42252		42252		fulltext	fully open access	Springer International Publishing	serial								F	245299114
+Future Business Journal		2314-7210	2019-12-01	5	1				https://link.springer.com/journal/43093		43093		fulltext	fully open access	Springer Berlin Heidelberg	serial								F	171060334
+Future Journal of Pharmaceutical Sciences		2314-7253	2019-12-01	5	1				https://link.springer.com/journal/43094		43094		fulltext	fully open access	Springer Berlin Heidelberg	serial								F	230851363
+Genus		2035-5556	2016-12-01	72	1				https://link.springer.com/journal/41118		41118		fulltext	fully open access	Springer International Publishing	serial								F	133943151
+Geochemical Transactions		1467-4866	2000-12-01	1	1				https://link.springer.com/journal/12932		12932		fulltext	fully open access	Springer International Publishing	serial								F	058286934
+Geoenvironmental Disasters		2197-8670	2014-12-01	1	1				https://link.springer.com/journal/40677		40677		fulltext	fully open access	Springer International Publishing	serial								F	187652341
+Geomechanics and Geophysics for Geo-Energy and Geo-Resources	2363-8419	2363-8427	2023-12-01	9	1				https://link.springer.com/journal/40948		40948		fulltext	fully open access	Springer International Publishing	serial								F	191027065
+Geoscience Letters		2196-4092	2014-12-01	1	1				https://link.springer.com/journal/40562		40562		fulltext	fully open access	Springer International Publishing	serial								F	177940301
+Geothermal Energy		2195-9706	2013-12-01	1	1				https://link.springer.com/journal/40517		40517		fulltext	fully open access	Springer Berlin Heidelberg	serial								F	170349233
+Green Technology, Resilience, and Sustainability		2731-3425	2022-12-01	2	1				https://link.springer.com/journal/44173		44173		fulltext	fully open access	Springer Nature Singapore	serial								F	262005891
+Heritage Science		2050-7445	2013-12-01	1	1				https://link.springer.com/journal/40494		40494		fulltext	fully open access	Springer International Publishing	serial								F	174284896
+Holistic Integrative Oncology		2731-4529	2022-12-01	1	1				https://link.springer.com/journal/44178		44178		fulltext	fully open access	Springer Nature Singapore	serial								F	263425770
+Horticulture Advances		2948-1104	2023-12-01	1	1				https://link.springer.com/journal/44281		44281		fulltext	fully open access	Springer Nature Singapore	serial								F	27339357X
+Human-Centric Intelligent Systems		2667-1336	2021-06-01	1	1-2				https://link.springer.com/journal/44230		44230		fulltext	fully open access	Springer Netherlands	serial								F	26408831X
+Industrial Artificial Intelligence		2731-667X	2022-12-01	1	1				https://link.springer.com/journal/44244		44244		fulltext	fully open access	Springer International Publishing	serial								F	272376027
+Infectious Diseases and Therapy	2193-8229	2193-6382	2012-12-01	1	1				https://link.springer.com/journal/40121		40121		fulltext	fully open access	Springer Healthcare	serial								F	174288409
+Insights into Imaging		1869-4101	2010	1	1				https://link.springer.com/journal/13244		13244		fulltext	fully open access	Springer Vienna	serial								F	144950952
+Intensive Care Medicine – Paediatric and Neonatal		2731-944X	2023-12-01	1	1				https://link.springer.com/journal/44253		44253		fulltext	fully open access	Springer International Publishing	serial								F	27152765X
+Intensive Care Medicine Experimental		2197-425X	2013-12-01	1	1				https://link.springer.com/journal/40635		40635		fulltext	fully open access	Springer International Publishing	serial								F	175147574
+Intensive Care Research		2666-9862	2021-06-01	1	1-2				https://link.springer.com/journal/44231		44231		fulltext	fully open access	Springer Netherlands	serial								F	264088301
+International Journal of Air-Conditioning and Refrigeration		2010-1333	2022-12-01	30	1				https://link.springer.com/journal/44189		44189		fulltext	fully open access	Springer Nature Singapore	serial								F	163886938
+International Journal of Anthropology and Ethnology		2366-1003	2017-12-01	1	1				https://link.springer.com/journal/41257		41257		fulltext	fully open access	Springer Nature Singapore	serial								F	224656678
+International Journal of Bipolar Disorders		2194-7511	2013-12-01	1	1				https://link.springer.com/journal/40345		40345		fulltext	fully open access	Springer Berlin Heidelberg	serial								F	177940204
+International Journal of Child Care and Education Policy		2288-6729	2007-05-01	1	1				https://link.springer.com/journal/40723		40723		fulltext	fully open access	Springer Nature Singapore	serial								F	176275541
+International Journal of Coal Science & Technology	2095-8293	2198-7823	2014-03-01	1	1				https://link.springer.com/journal/40789		40789		fulltext	fully open access	Springer Nature Singapore	serial								F	195677102
+International Journal of Computational Intelligence Systems		1875-6883	2021-12-01	14	1				https://link.springer.com/journal/44196		44196		fulltext	fully open access	Springer Netherlands	serial								F	154280518
+International Journal of Concrete Structures and Materials	1976-0485	2234-1315	2012-03-01	6	1				https://link.springer.com/journal/40069		40069		fulltext	fully open access	Springer Nature Singapore	serial								F	156453304
+International Journal of Corporate Social Responsibility	2366-0066	2366-0074	2016-12-01	1	1				https://link.springer.com/journal/40991		40991		fulltext	fully open access	Springer International Publishing	serial								F	195203585
+International Journal of Disaster Risk Science	2095-0055	2192-6395	2010-03-01	1	1				https://link.springer.com/journal/13753		13753		fulltext	fully open access	Springer Nature Singapore	serial								F	177939982
+International Journal of Educational Technology in Higher Education		2365-9440	2010-07-01	7	2				https://link.springer.com/journal/41239		41239		fulltext	fully open access	Springer International Publishing	serial								F	192654705
+International Journal of Geo-Engineering	2092-9196	2198-2783	2015-12-01	6	1				https://link.springer.com/journal/40703		40703		fulltext	fully open access	Springer Nature Singapore	serial								F	184860245
+International Journal of Implant Dentistry		2198-4034	2015-12-01	1	1				https://link.springer.com/journal/40729		40729		fulltext	fully open access	Springer Berlin Heidelberg	serial								F	187652384
+Journal of Materials Science: Materials in Engineering		3004-8958	2014-12-01	9	1				https://link.springer.com/journal/40712		40712		fulltext	fully open access	Springer Nature Singapore	serial								F	
+International Journal of Networked and Distributed Computing	2211-7938	2211-7946	2013	1	1				https://link.springer.com/journal/44227		44227		fulltext	fully open access	Springer Netherlands	serial								F	194813991
+International Journal of STEM Education		2196-7822	2014-12-01	1	1				https://link.springer.com/journal/40594		40594		fulltext	fully open access	Springer International Publishing	serial								F	175147531
+JA Clinical Reports		2363-9024	2015-12-01	1	1				https://link.springer.com/journal/40981		40981		fulltext	fully open access	Springer Berlin Heidelberg	serial								F	188898336
+The Journal of Basic and Applied Zoology		2090-990X	2017-12-01	78	1				https://link.springer.com/journal/41936		41936		fulltext	fully open access	Springer Berlin Heidelberg	serial								F	161726518
+The Journal of Chinese Sociology		2198-2635	2014-12-01	1	1				https://link.springer.com/journal/40711		40711		fulltext	fully open access	Springer Nature Singapore	serial								F	183040147
+The Journal of Comparative Germanic Linguistics	1383-4924	1572-8552	2023-12-01	26	1				https://link.springer.com/journal/10828		10828		fulltext	fully open access	Springer Netherlands	serial								F	111216435
+The Journal of Headache and Pain	1129-2369	1129-2377	2000-07-01	1	1				https://link.springer.com/journal/10194		10194		fulltext	fully open access	Springer Milan	serial								F	103926224
+Journal of Analytical Science and Technology		2093-3371	2013-12-01	4	1				https://link.springer.com/journal/40543		40543		fulltext	fully open access	Springer Nature Singapore	serial								F	143848852
+Journal of Big Data		2196-1115	2014-12-01	1	1				https://link.springer.com/journal/40537		40537		fulltext	fully open access	Springer International Publishing	serial								F	170349276
+Journal of Cloud Computing		2192-113X	2012-12-01	1	1				https://link.springer.com/journal/13677		13677		fulltext	fully open access	Springer Berlin Heidelberg	serial								F	177496991
+Journal of Economic Structures		2193-2409	2012-12-01	1	1				https://link.springer.com/journal/40008		40008		fulltext	fully open access	Springer Berlin Heidelberg	serial								F	177940042
+Journal of the Egyptian National Cancer Institute		2589-0409	2019-12-01	31	1				https://link.springer.com/journal/43046		43046		fulltext	fully open access	Springer Berlin Heidelberg	serial								F	15688478X
+Journal of the Egyptian Public Health Association		2090-262X	2019-12-01	94	1				https://link.springer.com/journal/42506		42506		fulltext	fully open access	Springer Berlin Heidelberg	serial								F	14612460X
+Journal of Electric Propulsion		2731-4596	2022-12-01	1	1				https://link.springer.com/journal/44205		44205		fulltext	fully open access	Springer International Publishing	serial								F	
+Journal of Electrical Systems and Information Technology		2314-7172	2019-12-01	6	1				https://link.springer.com/journal/43067		43067		fulltext	fully open access	Springer Berlin Heidelberg	serial								F	171507363
+Journal of Engineering and Applied Science	1110-1903	2536-9512	2021-12-01	68	1				https://link.springer.com/journal/44147		44147		fulltext	fully open access	Springer Berlin Heidelberg	serial								F	198432410
+Journal of Epidemiology and Global Health		2210-6014	2021-12-01	11	4				https://link.springer.com/journal/44197		44197		fulltext	fully open access	Springer Netherlands	serial								F	160376521
+Journal of High Energy Physics		1029-8479	2010	2010	1				https://link.springer.com/journal/13130		13130		fulltext	fully open access	Springer Berlin Heidelberg	serial								F	040628035
+Journal of Inequalities and Applications		1029-242X	2005-12-01	2005	1				https://link.springer.com/journal/13660		13660		fulltext	fully open access	Springer International Publishing	serial								F	058045821
+Journal of Infrastructure Preservation and Resilience		2662-2521	2020-12-01	1	1				https://link.springer.com/journal/43065		43065		fulltext	fully open access	Springer International Publishing	serial								F	240297393
+Journal of Innovation and Entrepreneurship		2192-5372	2012-12-01	1	1				https://link.springer.com/journal/13731		13731		fulltext	fully open access	Springer Berlin Heidelberg	serial								F	177939974
+Journal of International Humanitarian Action	2364-3412	2364-3404	2016-12-01	1	1				https://link.springer.com/journal/41018		41018		fulltext	fully open access	Springer International Publishing	serial								F	19294052X
+Journal for Labour Market Research	2510-5019	2510-5027	2009-05-01	42	1				https://link.springer.com/journal/12651		12651		fulltext	fully open access	Springer Berlin Heidelberg	serial								F	204145716
+Journal of Mammary Gland Biology and Neoplasia	1083-3021	1573-7039	2023-12-01	28	1				https://link.springer.com/journal/10911		10911		fulltext	fully open access	Springer US	serial								F	106966235
+Journal of Materials Science: Materials in Medicine	0957-4530	1573-4838	2021	32	1				https://link.springer.com/journal/10856		10856		fulltext	fully open access	Springer US	serial								F	111374669
+Journal of Mathematics in Industry		2190-5983	2011-12-01	1	1				https://link.springer.com/journal/13362		13362		fulltext	fully open access	Springer Berlin Heidelberg	serial								F	165470569
+Journal of Nonlinear Mathematical Physics		1776-0852	2021-12-01	28	4				https://link.springer.com/journal/44198		44198		fulltext	fully open access	Springer Netherlands	serial								F	113870396
+Journal of Ophthalmic Inflammation and Infection		1869-5760	2011-03-01	1	1				https://link.springer.com/journal/12348		12348		fulltext	fully open access	Springer Berlin Heidelberg	serial								F	152566856
+Journal of Orthopaedics and Traumatology	1590-9921	1590-9999	2000-10-01	1	1				https://link.springer.com/journal/10195		10195		fulltext	fully open access	Springer International Publishing	serial								F	058447946
+Journal of Patient-Reported Outcomes		2509-8020	2017-12-01	1	1				https://link.springer.com/journal/41687		41687		fulltext	fully open access	Springer International Publishing	serial								F	204644577
+Journal of Petroleum Exploration and Production Technology	2190-0558	2190-0566	2011-05-01	1	1				https://link.springer.com/journal/13202		13202		fulltext	fully open access	Springer International Publishing	serial								F	177939834
+Journal of Rare Diseases		2731-085X	2022-12-01	1	1				https://link.springer.com/journal/44162		44162		fulltext	fully open access	Springer Berlin Heidelberg	serial								F	271559950
+Journal of Shipping and Trade		2364-4575	2016-12-01	1	1				https://link.springer.com/journal/41072		41072		fulltext	fully open access	Springer Nature Singapore	serial								F	195203550
+Journal of Statistical Theory and Applications		2214-1766	2021-09-01	20	3				https://link.springer.com/journal/44199		44199		fulltext	fully open access	Springer Netherlands	serial								F	192254995
+Journal of Umm Al-Qura University for Applied Sciences	2731-6734	1658-8185	2022-12-01	8	2				https://link.springer.com/journal/43994		43994		fulltext	fully open access	Springer International Publishing	serial								F	255763964
+Journal of Umm Al-Qura University for Engineering and Architecture	2731-6688	1658-8150	2022-12-01	13	1-2				https://link.springer.com/journal/43995		43995		fulltext	fully open access	Springer International Publishing	serial								F	25576393X
+Journal of Wood Science	1435-0211	1611-4663	2019	65	1				https://link.springer.com/journal/10086		10086		fulltext	fully open access	Springer Nature Singapore	serial								F	090132165
+Language Testing in Asia		2229-0443	2011-12-01	1	1				https://link.springer.com/journal/40468		40468		fulltext	fully open access	Springer International Publishing	serial								F	153729767
+Large-scale Assessments in Education		2196-0739	2013-12-01	1	1				https://link.springer.com/journal/40536		40536		fulltext	fully open access	Springer US	serial								F	17212025X
+Living Reviews in Computational Astrophysics	2367-3621	2365-0524	2015-12-01	1	1				https://link.springer.com/journal/41115		41115		fulltext	fully open access	Springer International Publishing	serial								F	193240521
+Living Reviews in Relativity	2367-3613	1433-8351	1998-12-01	1	1				https://link.springer.com/journal/41114		41114		fulltext	fully open access	Springer International Publishing	serial								F	163731624
+Living Reviews in Solar Physics	2367-3648	1614-4961	2004-12-01	1	1				https://link.springer.com/journal/41116		41116		fulltext	fully open access	Springer International Publishing	serial								F	083141480
+Low-carbon Materials and Green Construction		2731-6319	2022-12-01	1	1				https://link.springer.com/journal/44242		44242		fulltext	fully open access	Springer Nature Singapore	serial								F	271560010
+Management System Engineering		2731-5843	2022-12-01	1	1				https://link.springer.com/journal/44176		44176		fulltext	fully open access	Springer Nature Singapore	serial								F	267746288
+Materials for Renewable and Sustainable Energy	2194-1459	2194-1467	2012-12-01	1	1				https://link.springer.com/journal/40243		40243		fulltext	fully open access	Springer International Publishing	serial								F	177940123
+Journal of Materials Science: Materials Theory		3004-8966	2017-12-01	1	1				https://link.springer.com/journal/41313		41313		fulltext	fully open access	Springer International Publishing	serial								F	
+Maxillofacial Plastic and Reconstructive Surgery		2288-8586	2015-12-01	37	1				https://link.springer.com/journal/40902		40902		fulltext	fully open access	Springer Nature Singapore	serial								F	177943742
+Med-X		2731-8710	2023-12-01	1	1				https://link.springer.com/journal/44258		44258		fulltext	fully open access	Springer Nature Singapore	serial								F	263949095
+Micro and Nano Systems Letters		2213-9621	2013-12-01	1	1				https://link.springer.com/journal/40486		40486		fulltext	fully open access	Springer Nature Singapore	serial								F	170349926
+Microplastics and Nanoplastics		2662-4966	2021-12-01	1	1				https://link.springer.com/journal/43591		43591		fulltext	fully open access	Springer International Publishing	serial								F	253914302
+Middle East Current Psychiatry		2090-5416	2019-12-01	26	1				https://link.springer.com/journal/43045		43045		fulltext	fully open access	Springer Berlin Heidelberg	serial								F	149142846
+Middle East Fertility Society Journal		2090-3251	2020	24	1				https://link.springer.com/journal/43043		43043		fulltext	fully open access	Springer Berlin Heidelberg	serial								F	146124685
+Molecular Biomedicine		2662-8651	2020-12-01	1	1				https://link.springer.com/journal/43556		43556		fulltext	fully open access	Springer Nature Singapore	serial								F	249572710
+Molecular and Cellular Pediatrics		2194-7791	2014-12-01	1	1				https://link.springer.com/journal/40348		40348		fulltext	fully open access	Springer International Publishing	serial								F	182540243
+Nano Convergence		2196-5404	2014-12-01	1	1				https://link.springer.com/journal/40580		40580		fulltext	fully open access	Springer Nature Singapore	serial								F	175147485
+Nano-Micro Letters	2311-6706	2150-5551	2009-12-01	1	1				https://link.springer.com/journal/40820		40820		fulltext	fully open access	Springer Nature Singapore	serial								F	151146985
+NanoEthics	1871-4757	1871-4765	2023-04-01	17	1				https://link.springer.com/journal/11569		11569		fulltext	fully open access	Springer Netherlands	serial								F	148905870
+Nanomanufacturing and Metrology	2520-811X	2520-8128	2023-12-01	6	1				https://link.springer.com/journal/41871		41871		fulltext	fully open access	Springer Nature Singapore	serial								F	249571072
+Natural Products and Bioprospecting	2192-2195	2192-2209	2011-08-01	1	1				https://link.springer.com/journal/13659		13659		fulltext	fully open access	Springer Nature Singapore	serial								F	177939923
+Nederlands Tijdschrift voor Diabetologie	1567-2743	1876-6242	2011-05-01	9	1				https://link.springer.com/journal/12467		12467		fulltext	fully open access	Bohn Stafleu van Loghum	serial								F	177623624
+Netherlands Heart Journal	1568-5888	1876-6250	2007	15	1				https://link.springer.com/journal/12471		12471		fulltext	fully open access	Bohn Stafleu van Loghum	serial								F	147869714
+Neurology and Therapy	2193-8253	2193-6536	2012-12-01	1	1				https://link.springer.com/journal/40120		40120		fulltext	fully open access	Springer Healthcare	serial								F	180530038
+Oncology and Therapy	2366-1070	2366-1089	2013-12-01	1	1				https://link.springer.com/journal/40487		40487		fulltext	fully open access	Springer Healthcare	serial								F	192940589
+Ophthalmology and Therapy	2193-8245	2193-6528	2012-12-01	1	1				https://link.springer.com/journal/40123		40123		fulltext	fully open access	Springer Healthcare	serial								F	192317350
+Pain and Therapy	2193-8237	2193-651X	2012-12-01	1	1				https://link.springer.com/journal/40122		40122		fulltext	fully open access	Springer Healthcare	serial								F	19520252X
+PharmacoEconomics - Open	2509-4262	2509-4254	2017-03-01	1	1				https://link.springer.com/journal/41669		41669		fulltext	fully open access	Springer International Publishing	serial								F	200788116
+Photonic Sensors	1674-9251	2190-7439	2011-03-01	1	1				https://link.springer.com/journal/13320		13320		fulltext	fully open access	Springer Nature Singapore	serial								F	163499926
+PhotoniX		2662-1991	2020-12-01	1	1				https://link.springer.com/journal/43074		43074		fulltext	fully open access	Springer Nature Singapore	serial								F	243398611
+Progress in Earth and Planetary Science		2197-4284	2014-12-01	1	1				https://link.springer.com/journal/40645		40645		fulltext	fully open access	Springer Berlin Heidelberg	serial								F	175147582
+Progress in Orthodontics		2196-1042	2013-12-01	14	1				https://link.springer.com/journal/40510		40510		fulltext	fully open access	Springer Berlin Heidelberg	serial								F	170349268
+Protection and Control of Modern Power Systems	2367-2617	2367-0983	2016-12-01	1	1	2023-12-01	8	1	https://link.springer.com/journal/41601		41601		fulltext	fully open access	Springer Nature Singapore	serial								F	195203615
+Psicologia: Reflexão e Crítica		1678-7153	2016-12-01	29	1				https://link.springer.com/journal/41155		41155		fulltext	fully open access	Springer International Publishing	serial								F	116268263
+Publications mathématiques de l'IHÉS	0073-8301	1618-1913	2021	133	1				https://link.springer.com/journal/10240		10240		fulltext	fully open access	Springer International Publishing	serial								F	116682655
+Pulmonary Therapy	2364-1754	2364-1746	2015-12-01	1	1				https://link.springer.com/journal/41030		41030		fulltext	fully open access	Springer Healthcare	serial								F	189198052
+Quantum Frontiers		2731-6106	2022-12-01	1	1				https://link.springer.com/journal/44214		44214		fulltext	fully open access	Springer Nature Singapore	serial								F	267746296
+Research in Health Services & Regions		2730-9827	2021-12-01	1	1				https://link.springer.com/journal/43999		43999		fulltext	fully open access	Springer Berlin Heidelberg	serial								F	263538257
+Rheumatology and Therapy	2198-6576	2198-6584	2014-12-01	1	1				https://link.springer.com/journal/40744		40744		fulltext	fully open access	Springer Healthcare	serial								F	189195851
+Rice	1939-8425	1939-8433	2008-09-01	1	1				https://link.springer.com/journal/12284		12284		fulltext	fully open access	Springer US	serial								F	14384721X
+ROBOMECH Journal		2197-4225	2014-12-01	1	1				https://link.springer.com/journal/40648		40648		fulltext	fully open access	Springer International Publishing	serial								F	175788804
+Satellite Navigation	2662-9291	2662-1363	2020-12-01	1	1				https://link.springer.com/journal/43020		43020		fulltext	fully open access	Springer Nature Singapore	serial								F	242996299
+Schmalenbach Journal of Business Research	0341-2687	2366-6153	2021	73	1				https://link.springer.com/journal/41471		41471		fulltext	fully open access	Springer International Publishing	serial								F	25626161X
+SERIEs	1869-4187	1869-4195	2010-03-01	1	1				https://link.springer.com/journal/13209		13209		fulltext	fully open access	Springer Berlin Heidelberg	serial								F	145520420
+Smart Construction and Sustainable Cities		2731-9032	2023-12-01	1	1				https://link.springer.com/journal/44268		44268		fulltext	fully open access	Springer Nature Singapore	serial								F	264088794
+Smart Learning Environments		2196-7091	2014-12-01	1	1				https://link.springer.com/journal/40561		40561		fulltext	fully open access	Springer Nature Singapore	serial								F	175147515
+Discover Applied Sciences	2523-3963	3004-9261	2021	3	1				https://link.springer.com/journal/42452		42452		fulltext	fully open access	Springer International Publishing	serial								F	277113504
+Sports Medicine - Open	2199-1170	2198-9761	2015-12-01	1	1				https://link.springer.com/journal/40798		40798		fulltext	fully open access	Springer International Publishing	serial								F	185375278
+Stress Biology		2731-0450	2021-12-01	1	1				https://link.springer.com/journal/44154		44154		fulltext	fully open access	Springer Nature Singapore	serial								F	258683090
+Surgical Case Reports		2198-7793	2015-12-01	1	1	2024-12-01	10	1	https://link.springer.com/journal/40792		40792		fulltext	fully open access	Springer Berlin Heidelberg	serial								F	187248079
+Sustainable Energy Research		2731-9237	2015-12-01	2	1				https://link.springer.com/journal/40807		40807		fulltext	fully open access	Springer Nature Singapore	serial								F	269306595
+Swiss Journal of Economics and Statistics		2235-6282	2007	143	1				https://link.springer.com/journal/41937		41937		fulltext	fully open access	Springer International Publishing	serial								F	189594438
+Swiss Journal of Geosciences	1661-8726	1661-8734	2020	113	1				https://link.springer.com/journal/15		15		fulltext	fully open access	Springer International Publishing	serial								F	121166465
+Swiss Journal of Palaeontology	1664-2376	1664-2384	2020	139	1				https://link.springer.com/journal/13358		13358		fulltext	fully open access	Springer International Publishing	serial								F	151979014
+Terrestrial, Atmospheric and Oceanic Sciences	1017-0839	2311-7680	2022-12-01	33	1				https://link.springer.com/journal/44195		44195		fulltext	fully open access	Springer Nature Singapore	serial								F	226069753
+Tijdschrift voor Urologie	2211-3037	2211-4718	2011-02-01	1	1				https://link.springer.com/journal/13629		13629		fulltext	fully open access	Bohn Stafleu van Loghum	serial								F	156993953
+TSG - Tijdschrift voor gezondheidswetenschappen	1388-7491	1876-8776	2019	97	1				https://link.springer.com/journal/12508		12508		fulltext	fully open access	Bohn Stafleu van Loghum	serial								F	148655238
+The Ultrasound Journal		2524-8987	2009-10-01	1	1				https://link.springer.com/journal/13089		13089		fulltext	fully open access	Springer International Publishing	serial								F	235737097
+Urban Informatics		2731-6963	2022-12-01	1	1				https://link.springer.com/journal/44212		44212		fulltext	fully open access	Springer Nature Singapore	serial								F	266251897
+Urban Rail Transit	2199-6687	2199-6679	2015-03-01	1	1				https://link.springer.com/journal/40864		40864		fulltext	fully open access	Springer Nature Singapore	serial								F	187652414
+Visual Computing for Industry, Biomedicine, and Art		2524-4442	2018-12-01	1	1				https://link.springer.com/journal/42492		42492		fulltext	fully open access	Springer Nature Singapore	serial								F	231603134
+Visual Intelligence		2731-9008	2023-12-01	1	1				https://link.springer.com/journal/44267		44267		fulltext	fully open access	Springer Nature Singapore	serial								F	264088778
+Vocations and Learning	1874-785X	1874-7868	2023-04-01	16	1				https://link.springer.com/journal/12186		12186		fulltext	fully open access	Springer Netherlands	serial								F	148906079
+Zeitschrift für Immobilienökonomie	1611-4051	2198-8021	2015-09-01	1	1	2023-10-01	9	1	https://link.springer.com/journal/41056		41056		fulltext	fully open access	Springer Fachmedien Wiesbaden	serial								F	176865853
+Zeitschrift für Weiterbildungsforschung	2364-0014	2364-0022	2015-04-01	38	1				https://link.springer.com/journal/40955		40955		fulltext	fully open access	Springer Fachmedien Wiesbaden	serial								F	19402735X
+Poiesis & Praxis	1615-6609	1615-6617	2001-12-01	1	1	2012-12-01	9	3-4	https://link.springer.com/journal/10202		10202		fulltext	fully open access	Springer Berlin Heidelberg	serial								F	064163407
+Intereconomics	0020-5346	1613-964X	2020-01-01	55	1	2022-11-01	57	6	https://link.springer.com/journal/10272		10272		fulltext	fully open access	Springer Berlin Heidelberg	serial								F	114966087
+Wirtschaftsdienst	0043-6275	1613-978X	2020-01-01	100	1	2022-12-01	102	12	https://link.springer.com/journal/10273		10273		fulltext	fully open access	Springer Berlin Heidelberg	serial								F	116960906
+Gynecological Surgery	1613-2076	1613-2084	2004-03-01	1	1	2021-12-01	18	1	https://link.springer.com/journal/10397		10397		fulltext	fully open access	Springer Berlin Heidelberg	serial								F	09013222X
+The HUGO Journal	1877-6558	1877-6566	2007-09-01	1	1	2015-12-01	9	1	https://link.springer.com/journal/11568		11568		fulltext	fully open access	Springer Berlin Heidelberg	serial								F	148655386
+Strategies in Trauma and Limb Reconstruction	1828-8936	1828-8928	2006-12-01	1	1	2018-11-01	13	3	https://link.springer.com/journal/11751		11751		fulltext	fully open access	Springer Milan	serial								F	116370505
+Frontiers of Business Research in China	1673-7326	1673-7431	2007-02-01	1	1	2021-12-01	15	1	https://link.springer.com/journal/11782		11782		fulltext	fully open access	Springer Nature Singapore	serial								F	15348120X
+Journal of Children's Orthopaedics	1863-2521	1863-2548	2007-03-01	1	1	2016-12-01	10	6	https://link.springer.com/journal/11832		11832		fulltext	fully open access	Springer Berlin Heidelberg	serial								F	122503260
+Logistics Research	1865-035X	1865-0368	2009-03-01	1	1	2016-12-01	9	1	https://link.springer.com/journal/12159		12159		fulltext	fully open access	Springer Berlin Heidelberg	serial								F	177496029
+Petroleum Science	1672-5107	1995-8226	2007-03-01	4	1	2021-06-01	18	3	https://link.springer.com/journal/12182		12182		fulltext	fully open access	China University of Petroleum (Beijing)	serial								F	135958792
+European View	1781-6858	1865-5831	2007-12-01	6	1	2017-12-01	16	2	https://link.springer.com/journal/12290		12290		fulltext	fully open access	Springer Berlin Heidelberg	serial								F	130210676
+Identity in the Information Society		1876-0678	2008-12-01	1	1	2010-12-01	3	3	https://link.springer.com/journal/12394		12394		fulltext	fully open access	Springer Netherlands	serial								F	148906206
+Tijdschrift voor Medisch Onderwijs	1389-6555	1876-5157	2000-02-01	19	1	2011-12-01	30	6	https://link.springer.com/journal/12507		12507		fulltext	fully open access	Bohn Stafleu van Loghum	serial								F	148655009
+Journal of the Brazilian Computer Society	0104-6500	1678-4804	2004-02-01	10	1	2021-12-01	27	1	https://link.springer.com/journal/13173		13173		fulltext	fully open access	Springer London	serial								F	116268123
+Journal of Internet Services and Applications	1867-4828	1869-0238	2010-05-01	1	1	2021-12-01	12	1	https://link.springer.com/journal/13174		13174		fulltext	fully open access	Springer London	serial								F	148654134
+Applied Petrochemical Research	2190-5525	2190-5533	2012-03-01	1	1	2021-12-01	11	3	https://link.springer.com/journal/13203		13203		fulltext	fully open access	Springer International Publishing	serial								F	171058453
+Protein & Cell	1674-800X	1674-8018	2010-01-01	1	1	2022-12-01	13	12	https://link.springer.com/journal/13238		13238		fulltext	fully open access	Higher Education Press	serial								F	145013014
+Journal of Systems Chemistry		1759-2208	2010-12-01	1	1	2015-12-01	6	1	https://link.springer.com/journal/13322		13322		fulltext	fully open access	Springer International Publishing	serial								F	147796784
+Bulletin of Mathematical Sciences	1664-3607	1664-3615	2011-06-01	1	1	2018-12-01	8	3	https://link.springer.com/journal/13373		13373		fulltext	fully open access	Springer International Publishing	serial								F	151445192
+Security Informatics		2190-8532	2012-12-01	1	1	2018-12-01	7	1	https://link.springer.com/journal/13388		13388		fulltext	fully open access	Springer Berlin Heidelberg	serial								F	177939869
+The Journal of Mathematical Neuroscience		2190-8567	2011-12-01	1	1	2021-12-01	11	1	https://link.springer.com/journal/13408		13408		fulltext	fully open access	Springer Berlin Heidelberg	serial								F	177939885
+Planetary Science		2191-2521	2012-12-01	1	1	2015-12-01	4	1	https://link.springer.com/journal/13535		13535		fulltext	fully open access	Springer US	serial								F	177939893
+Biologics in Therapy	2195-5840	2190-9164	2011-08-01	1	1	2015-12-01	5	1-2	https://link.springer.com/journal/13554		13554		fulltext	fully open access	Springer Healthcare	serial								F	157205827
+Combination Products in Therapy	2195-5859	2190-9180	2011-10-01	1	1	2014-02-01	4	1-2	https://link.springer.com/journal/13556		13556		fulltext	fully open access	Springer Healthcare	serial								F	166926981
+Pastoralism		2041-7136	2011-12-01	1	1	2023-12-01	13	1	https://link.springer.com/journal/13570		13570		fulltext	fully open access	Springer Berlin Heidelberg	serial								F	175145466
+Organic and Medicinal Chemistry Letters		2191-2858	2011-12-01	1	1				https://link.springer.com/journal/13588		13588		fulltext	fully open access	Springer Berlin Heidelberg	serial								F	165470607
+Psychology of Well-Being		2211-1522	2011-12-01	1	1	2016-12-01	6	1	https://link.springer.com/journal/13612		13612		fulltext	fully open access	Springer Berlin Heidelberg	serial								F	170882888
+Multilingual Education		2191-5059	2011-12-01	1	1	2016-12-01	6	1	https://link.springer.com/journal/13616		13616		fulltext	fully open access	Springer Berlin Heidelberg	serial								F	16076176X
+EURASIP Journal on Bioinformatics and Systems Biology		1687-4153	2006-12-01	2006	1	2017-12-01	2017	1	https://link.springer.com/journal/13637		13637		fulltext	fully open access	Springer International Publishing	serial								F	104880570
+EURASIP Journal on Embedded Systems		1687-3963	2006-12-01	2006	1	2019-12-01	2019	1	https://link.springer.com/journal/13639		13639		fulltext	fully open access	Springer International Publishing	serial								F	116244488
+Human-centric Computing and Information Sciences		2192-1962	2011-12-01	1	1	2021-12-01	11	1	https://link.springer.com/journal/13673		13673		fulltext	fully open access	Springer Berlin Heidelberg	serial								F	177876166
+mUX: The Journal of Mobile User Experience		2196-873X	2012-12-01	1	1	2016-12-01	5	1	https://link.springer.com/journal/13678		13678		fulltext	fully open access	Springer Berlin Heidelberg	serial								F	189937084
+Optical Nanoscopy		2192-2853	2012-12-01	1	1	2014-12-01	3	1	https://link.springer.com/journal/13689		13689		fulltext	fully open access	Springer Berlin Heidelberg	serial								F	177939931
+Biointerphases	1934-8630	1559-4106	2006-03-01	1	1	2013-12-01	8	1	https://link.springer.com/journal/13758		13758		fulltext	fully open access	Springer Berlin Heidelberg	serial								F	11834935X
+Perspectives on Medical Education	2212-2761	2212-277X	2012-03-01	1	1	2022-12-01	11	6	https://link.springer.com/journal/40037		40037		fulltext	fully open access	Bohn Stafleu van Loghum	serial								F	161090834
+Fire Science Reviews		2193-0414	2012-12-01	1	1				https://link.springer.com/journal/40038		40038		fulltext	fully open access	Springer Berlin Heidelberg	serial								F	177940034
+SpringerPlus		2193-1801	2012-12-01	1	1	2017-12-01	5	1	https://link.springer.com/journal/40064		40064		fulltext	fully open access	Springer International Publishing	serial								F	17514740X
+International Aquatic Research	2008-4935	2008-6970	2012-12-01	4	1	2019-12-01	11	4	https://link.springer.com/journal/40071		40071		fulltext	fully open access	Springer Berlin Heidelberg	serial								F	142486892
+International Journal of Advanced Structural Engineering	2008-3556	2008-6695	2012-12-01	4	1	2019-12-01	11	4	https://link.springer.com/journal/40091		40091		fulltext	fully open access	Springer Berlin Heidelberg	serial								F	14014255X
+Journal of Industrial Engineering International	1735-5702	2251-712X	2012-12-01	8	1	2019-12-01	15	4	https://link.springer.com/journal/40092		40092		fulltext	fully open access	Springer Berlin Heidelberg	serial								F	157210537
+International Journal of Recycling of Organic Waste in Agriculture	2195-3228	2251-7715	2012-12-01	1	1	2019-12-01	8	1	https://link.springer.com/journal/40093		40093		fulltext	fully open access	Springer Berlin Heidelberg	serial								F	15841201X
+Journal of Advanced Ceramics	2226-4108	2227-8508	2012-03-01	1	1	2022-12-01	11	12	https://link.springer.com/journal/40145		40145		fulltext	fully open access	Tsinghua University Press	serial								F	167868942
+Decision Analytics		2193-8636	2014-12-01	1	1	2017-12-01	4	1	https://link.springer.com/journal/40165		40165		fulltext	fully open access	Springer Berlin Heidelberg	serial								F	177497025
+Journal of Interaction Science		2194-0827	2013-12-01	1	1	2016-12-01	4	1	https://link.springer.com/journal/40166		40166		fulltext	fully open access	Springer Berlin Heidelberg	serial								F	177940115
+Clinical and Translational Medicine		2001-1326	2012-12-01	1	1	2020-12-01	9	1	https://link.springer.com/journal/40169		40169		fulltext	fully open access	Springer Berlin Heidelberg	serial								F	169589218
+IZA Journal of Labor Economics		2193-8997	2012-12-01	1	1	2018-12-01	7	1	https://link.springer.com/journal/40172		40172		fulltext	fully open access	Springer Berlin Heidelberg	serial								F	170349047
+IZA Journal of Labor Policy		2193-9004	2012-12-01	1	1	2019-12-01	8	1	https://link.springer.com/journal/40173		40173		fulltext	fully open access	Springer Berlin Heidelberg	serial								F	170349055
+IZA Journal of European Labor Studies		2193-9012	2012-12-01	1	1	2017-12-01	6	1	https://link.springer.com/journal/40174		40174		fulltext	fully open access	Springer Berlin Heidelberg	serial								F	170349063
+IZA Journal of Labor & Development		2193-9020	2012-12-01	1	1	2017-12-01	6	1	https://link.springer.com/journal/40175		40175		fulltext	fully open access	Springer Berlin Heidelberg	serial								F	170349071
+IZA Journal of Development and Migration		2520-1786	2012-12-01	1	1	2019-12-01	9	1	https://link.springer.com/journal/40176		40176		fulltext	fully open access	Springer Berlin Heidelberg	serial								F	202727033
+Journal of Computational Surgery		2194-3990	2014-12-01	1	1	2016-12-01	4	1	https://link.springer.com/journal/40244		40244		fulltext	fully open access	Springer Berlin Heidelberg	serial								F	17794014X
+Translational Respiratory Medicine		2213-0802	2013-12-01	1	1	2015-12-01	3	1	https://link.springer.com/journal/40247		40247		fulltext	fully open access	Springer Berlin Heidelberg	serial								F	170882993
+Complex Adaptive Systems Modeling		2194-3206	2013-12-01	1	1	2020-12-01	8	1	https://link.springer.com/journal/40294		40294		fulltext	fully open access	Springer Berlin Heidelberg	serial								F	177940131
+Earth Perspectives		2194-6434	2014-12-01	1	1	2017-12-01	4	1	https://link.springer.com/journal/40322		40322		fulltext	fully open access	Springer Berlin Heidelberg	serial								F	177497068
+Visualization in Engineering		2213-7459	2013-12-01	1	1	2019-12-01	7	1	https://link.springer.com/journal/40327		40327		fulltext	fully open access	Springer International Publishing	serial								F	17034990X
+EPJ Nonlinear Biomedical Physics		2195-0008	2013-12-01	1	1	2016-12-01	4	1	https://link.springer.com/journal/40366		40366		fulltext	fully open access	Springer Berlin Heidelberg	serial								F	177940212
+Asian Journal of Gambling Issues and Public Health		2195-3007	2010-10-01	1	1	2017-12-01	7	1	https://link.springer.com/journal/40405		40405		fulltext	fully open access	Springer Berlin Heidelberg	serial								F	170349152
+Journal of Software Engineering Research and Development		2195-1721	2013-12-01	1	1	2018-12-01	6	1	https://link.springer.com/journal/40411		40411		fulltext	fully open access	Springer Berlin Heidelberg	serial								F	175147469
+Journal of Uncertainty Analysis and Applications		2195-5468	2013-12-01	1	1	2017-12-01	5	1	https://link.springer.com/journal/40467		40467		fulltext	fully open access	Springer Berlin Heidelberg	serial								F	170349195
+In Silico Cell and Tissue Science		2196-050X	2014-12-01	1	1	2015-12-01	2	1	https://link.springer.com/journal/40482		40482		fulltext	fully open access	Springer International Publishing	serial								F	187652317
+Journal of Statistical Distributions and Applications		2195-5832	2014-12-01	1	1	2021-12-01	8	1	https://link.springer.com/journal/40488		40488		fulltext	fully open access	Springer Berlin Heidelberg	serial								F	180353888
+New Zealand Journal of Forestry Science		1179-5395	2013-12-01	43	1	2018-12-01	48	1	https://link.springer.com/journal/40490		40490		fulltext	fully open access	Springer International Publishing	serial								F	140087109
+Journal of Trust Management		2196-064X	2014-12-01	1	1	2016-12-01	3	1	https://link.springer.com/journal/40493		40493		fulltext	fully open access	Springer Berlin Heidelberg	serial								F	18035390X

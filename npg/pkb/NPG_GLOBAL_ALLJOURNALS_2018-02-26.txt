@@ -46,7 +46,6 @@ Nature Biotechnology	1087-0156	1546-1696	1983	1	1				http://www.nature.com/nbt		
 Nature Catalysis		2520-1158	2018	1	1				https://www.nature.com/natcatal/		natcatal		fulltext	New for 2018		serial								P
 Nature Chemical Biology	1552-4450	1552-4469	2005	1	1				http://www.nature.com/nchembio		nchembio		fulltext			serial								P
 Nature Climate Change	1758-678X	1758-6798	2007	June	6				http://www.nature.com/natureclimatechange		natureclimatechange		fulltext			serial								P
-Nature Communications		2041-1723	2010						http://www.nature.com/naturecommunications		naturecommunications		fulltext	Will be fully open access from 2016		serial								F
 Nature Ecology & Evolution		2397-334X	2017	1	1				http://www.nature.com/natecolevol/		natecolevol		fulltext	New for 2017		serial								P
 Nature Electronics		2520-1131	2018	1	1				https://www.nature.com/natelectron/		natelectron		fulltext	New for 2018		serial								P
 Nature Energy		2058-7546	2016	1	1				http://www.nature.com/nenergy/		nenergy		fulltext	New for 2016		serial								P

@@ -1,0 +1,47 @@
+publication_title	print_identifier	online_identifier	date_first_issue_online	num_first_vol_online	num_first_issue_online	date_last_issue_online	num_last_vol_online	num_last_issue_online	title_url	first_author	title_id	embargo_info	coverage_depth	notes	publisher_name	publication_type	date_monograph_published_print	date_monograph_published_online	monograph_volume	monograph_edition	first_editor	parent_publication_title_id	preceding_publication_title_id	access_type	bestppn
+AAPG Bulletin	0149-1423	1558-9153	2000	84	1				https://pubs.geoscienceworld.org/aapgbull		aapgbull		fulltext			serial								P	111805252
+American Mineralogist	0003-004X	1945-3027	1916-08-01	1	2				http://ammin.geoscienceworld.org/		ammin		fulltext			serial								P	159233496
+Bulletin de la Société Géologique de France	0037-9409	1777-5817	1940						https://pubs.geoscienceworld.org/bsgf		bsgf		fulltext			serial								P	104152559
+Bulletin of Canadian Petroleum Geology	0007-4802	2368-0261	2000-03-01	48	1				https://pubs.geoscienceworld.org/bcpg		bcpg		fulltext			serial								P	187767882
+Bulletin of the Geological Society of America	1050-9747		1890	1	1	1960	71	12	http://bulletin.geoscienceworld.org/		bulletin		fulltext	Now: Geological Society of America Bulletin		serial								P	
+Bulletin of the Seismological Society of America	0037-1106	1943-3573	1911-03-01	1	1				https://pubs.geoscienceworld.org/bssa		bssa		fulltext			serial								P	128402504
+Canadian Journal of Earth Sciences	0008-4077	1480-3313	2000	36	10				https://pubs.geoscienceworld.org/cjes		cjes		fulltext			serial								P	044940041
+Canadian Mineralogist	0008-4476	1499-1276	1957-12-01	6	1				https://pubs.geoscienceworld.org/canmin		canmin		fulltext			serial								P	060644729
+Clay Minerals	0009-8558	1471-8030	1996-03-01	31	1				https://pubs.geoscienceworld.org/claymin		claymin		fulltext	Transfer out (2018): Cambridge University Press		serial								P	058290435
+Clays and Clay Minerals	0009-8604	1552-8367	2000-02-01	48	1				https://pubs.geoscienceworld.org/ccm		ccm		fulltext			serial								P	083140891
+Economic Geology: Bulletin of the Society of Economic Geologists	0361-0128	1554-0774	1930-03-01	25	2				https://pubs.geoscienceworld.org/economicgeology		economicgeology		fulltext	Previously: Economic Geology (1905-1930)		serial								P	104869682
+Elements	1811-5209	1811-5217	2005	1	1				https://pubs.geoscienceworld.org/elements		elements		fulltext			serial								P	120422980
+Environmental Geosciences	1075-9565	1526-0984	1997-03-01	4	1				https://pubs.geoscienceworld.org/eg		eg		fulltext			serial								P	058352228
+Environmental and Engineering Geoscience	1078-7275	1558-9161	1995-03-01	1	1				https://pubs.geoscienceworld.org/eeg		eeg		fulltext	Previously: Bulletin of the Association of Engineering Geologists (1968 -1994)		serial								P	116257091
+European Journal of Mineralogy	0935-1221	1617-4011	1989-02-01	1	1				https://pubs.geoscienceworld.org/eurjmin		eurjmin		fulltext			serial								P	058456406
+Exploration and Mining Geology	0964-1823	1878-6715	2000-01-01	9	1	2010-07-31	19	3-4	https://pubs.geoscienceworld.org/emg		emg		fulltext			serial								P	127801731
+Geochemical Perspectives	2223-7755	2224-2759	2012	1	1				https://pubs.geoscienceworld.org/perspectives		perspectives		fulltext			serial								P	158589963
+Geochemistry: Exploration, Environment, Analysis	1467-7873	2041-4943	2001-02-01	1	1				https://pubs.geoscienceworld.org/geea		geea		fulltext			serial								P	136638163
+Geological Magazine	0016-7568	1469-5081	2000	137	1				https://pubs.geoscienceworld.org/geolmag		geolmag		fulltext			serial								P	048900397
+Geological Society of America Bulletin	0016-7606	1943-2674	1961	72	1				https://pubs.geoscienceworld.org/gsabulletin		gsabulletin		fulltext	Previously: Bulletin of the Geological Society of America (1890-1960)		serial								P	128401842
+Geology	0091-7613	1943-2682	1973	1	1				https://pubs.geoscienceworld.org/geology		geology		fulltext			serial								P	128401850
+Geophysics	0016-8033	1942-2156	1936	1	1				https://pubs.geoscienceworld.org/geophysics		geophysics		fulltext			serial								P	123880254
+Geosphere		1553-040X	2005-08-01	1	1				https://pubs.geoscienceworld.org/geosphere		geosphere		fulltext			serial								P	104902426
+Interpretation: a Journal of Subsurface Characterization	2324-8858	2324-8866	2013-08-01	1	1				https://pubs.geoscienceworld.org/interpretation		interpretation		fulltext			serial								P	180533762
+Italian Journal of Geoscience	2038-1719	2038-1727	2010-02-01	129	1				https://pubs.geoscienceworld.org/italianjgeo		italianjgeo		fulltext	Previously: Bollettino della Società Geologica Italiana (1882-2009)		serial								P	143848186
+Journal of Environmental & Engineering Geophysics	1083-1363	1943-2658	2005-03-01	10	1				https://pubs.geoscienceworld.org/jeeg		jeeg		fulltext			serial								P	128401826
+Journal of Micropalaeontology	0262-821X	2041-4978	2000-05-01	19	1				https://pubs.geoscienceworld.org/jm		jm		fulltext			serial								P	157098249
+Journal of Paleontology	0022-3360	1937-2337	2000	74	1				https://pubs.geoscienceworld.org/jpaleontol		jpaleontol		fulltext			serial								P	115434143
+Journal of Sedimentary Research. Section B, Stratigraphy and Global Studies	1073-1318		1994-02-01	64	1b	1995-11-30	65	4b	https://pubs.geoscienceworld.org/jsedres		jsedres		fulltext	Now: Journal of Sedimentary Research		serial								P	
+Journal of the Geological Society	0016-7649	2041-479X	1971-02-01	127	1				https://pubs.geoscienceworld.org/jgs		jgs		fulltext			serial								P	136638139
+Lithosphere	1941-8264	1947-4253	2009-02-01	1	1				https://pubs.geoscienceworld.org/lithosphere/		lithosphere		fulltext			serial								P	136635121
+Micropaleontology	0026-2803	1937-2795	1955-01-01	1	1	2007-11-30	53	6	https://pubs.geoscienceworld.org/micropal		micropal		fulltext			serial								P	116264748
+Mineralogical Magazine	0026-461X	1471-8022	1997-02-01	61	1				https://pubs.geoscienceworld.org/minmag		minmag		fulltext	transfer in (2018): Walter de Gruyter		serial								P	058290427
+PALAIOS	0883-1351	1938-5323	1986-02-01	1	1				https://pubs.geoscienceworld.org/palaios		palaios		fulltext			serial								P	115434593
+Paleobiology	0094-8373	1938-5331	2000-03-01	26	2				https://pubs.geoscienceworld.org/paleobiol		paleobiol		fulltext			serial								P	115434607
+Palynology	0191-6122	1558-9188	2000	24	1				https://pubs.geoscienceworld.org/palynology		palynology		fulltext			serial								P	11278383X
+Petroleum Geoscience	1354-0793	2041-496X	1995	1	1				https://pubs.geoscienceworld.org/pg		pg		fulltext			serial								P	13663818X
+Proceedings of the Yorkshire Geological Society	0044-0604	2041-4811	2000	53	1				https://pubs.geoscienceworld.org/pygs		pygs		fulltext			serial								P	162291477
+Quarterly Journal of Engineering Geology and Hydrogeology	1470-9236	2041-4803	2000-02-01	33	1				https://pubs.geoscienceworld.org/qjegh		qjegh		fulltext	Previously: Quarterly Journal of Engineering Geology (1967-1999)		serial								P	136638147
+Reviews in Mineralogy and Geochemistry	1529-6466		2000	39	1				https://pubs.geoscienceworld.org/rimg		rimg		fulltext	Previously: Reviews in Mineralogy (1980-1999)		serial								P	
+Rocky Mountain Geology	1555-7332	1555-7340	1998-04-01	33	1				https://pubs.geoscienceworld.org/rmg		rmg		fulltext	Previously: Contributions to Geology (1962-1998)		serial								P	140041109
+Scottish Journal of Geology	0036-9276	2041-4951	2000-05-01	36	1				https://pubs.geoscienceworld.org/sjg		sjg		fulltext			serial								P	136638171
+Seismological Research Letters	0895-0695	1938-2057	1987	58	1				https://pubs.geoscienceworld.org/srl		srl		fulltext	Previously: Earthquake Notes (1929-1986)		serial								P	131770209
+South African Journal of Geology	1012-0750	1996-8590	2000-03-01	103	1				https://pubs.geoscienceworld.org/sajg		sajg		fulltext			serial								P	120426390
+The Leading Edge	1070-485X		1993	12	1				https://pubs.geoscienceworld.org/tle		tle		fulltext	Previously: Geophysics: the Leading Edge of Exploration (1982-1992)		serial								P	
+Vadose Zone Journal		1539-1663	2002-08-01	1	1	2017-12-31	16	1-5	https://pubs.geoscienceworld.org/vzj		vzj		fulltext	New issues only available as Open Access directly from Vadose Zone		serial								P	076869288

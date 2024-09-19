@@ -1,0 +1,112 @@
+publication_title	print_identifier	online_identifier	date_first_issue_online	num_first_vol_online	num_first_issue_online	date_last_issue_online	num_last_vol_online	num_last_issue_online	title_url	first_author	title_id	embargo_info	coverage_depth	notes	publisher_name	publication_type	date_monograph_published_print	date_monograph_published_online	monograph_volume	monograph_edition	first_editor	parent_publication_title_id	preceding_publication_title_id	access_type	bestppn
+Interface Science	0927-7056	1573-2746	1993	1		1996	12	4	https://rd.springer.com/journal/10793		10793		fulltext		Springer	serial								P	111374537
+Il Cimento	1124-1845	1827-5672	1843	1		1847	5		https://rd.springer.com/journal/11584		11584		fulltext		Springer	serial								P	104899573
+Nuovo cimento. A	0369-3546		1965	40	1	1970	70	4	https://rd.springer.com/journal/11539		11539		fulltext		Springer	serial								P	
+Nuovo cimento. B	0369-3554		1965	40	1	1970	70	2	https://rd.springer.com/journal/11542		11542		fulltext		Springer	serial								P	
+Il Nuovo cimento della Società italiana di fisica. B	1594-9982	1826-9877	1985			1996			https://rd.springer.com/journal/40764		40764		fulltext		Springer	serial								P	104905034
+Il Nuovo cimento della Società italiana di fisica. C. Geophysics and space physics	1124-1896	2385-2119	1982			1996			https://rd.springer.com/journal/11543		11543		fulltext		Springer	serial								P	182546934
+Il Nuovo Cimento	0029-6341	1827-6121	1855	1	1	1867	28	1	https://rd.springer.com/journal/11583		11583		fulltext		Springer	serial								P	116262486
+Nuovo cimento della Società italiana di fisica. D Condensed matter, atomic, molecular and chemical physics, biophysics	0392-6737	1826-9893	1982	1		1998	20		https://rd.springer.com/journal/11544		11544		fulltext		Springer	serial								P	104905050
+Zeitschrift für die gesamte Neurologie und Psychiatrie	0303-4194		1910			1944			https://rd.springer.com/journal/12359		12359		fulltext		Springer	serial								P	
+Dynamics and Control	0925-4668	1573-8450	1991	1		2002	11		https://rd.springer.com/journal/10638		10638		fulltext		Springer	serial								P	111375150
+MOCT-MOST: Economic Policy in Transitional Economies	1120-7388	1573-7063	1991	1	1	2001	11	4	https://rd.springer.com/journal/11039		11039		fulltext		Springer	serial								P	114199329
+Journal of Child and Adolescent Group Therapy	1053-0800	1573-3467	1991	1		2001	11		https://rd.springer.com/journal/10821		10821		fulltext		Springer	serial								P	132494310
+Geriatric Nephrology and Urology	0924-8455	1573-7306	1991	1		1999	9		https://rd.springer.com/journal/10715		10715		fulltext		Springer	serial								P	107973561
+The Forum	0732-0426		1971	1		1976			https://rd.springer.com/journal/12143		12143		fulltext		Springer	serial								P	
+Orthopedics and Traumatology	0941-2530	1617-3538	1992	1		1996	10		https://rd.springer.com/journal/65		65		fulltext		Springer	serial								P	136980821
+Dublin Journal of Medical and Chemical Science	0332-1029		1832	1		1836	9		https://rd.springer.com/journal/12629		12629		fulltext		Springer	serial								P	
+Somatic cell genetics	0098-0366		1975	1	1	1983	9	6	https://rd.springer.com/journal/11188		11188		fulltext		Springer	serial								P	
+Bulletin of General Relativity and Gravitation	0573-049X	1662-5390	1962			1969			https://rd.springer.com/journal/12366		12366		fulltext		Springer	serial								P	155486152
+Journal of social distress and the homeless	1053-0789	1573-658X	1992	1		2002	11		https://rd.springer.com/journal/10949		10949		fulltext		Springer	serial								P	113781059
+Applied Scientific Research Section B / Electrophysics, acoustics, optics, mathematical methods	0365-7140	1872-8065	1950	1		1966	12		https://rd.springer.com/journal/12380		12380		fulltext		Springer	serial								P	108069494
+Academic Questions	0895-4852	1936-4709	1988	1		2014			https://rd.springer.com/journal/12129		12129		fulltext		Springer	serial								P	121372472
+Journal of instructional development	0162-2641	2331-3978	1978	1		1988	11		https://rd.springer.com/journal/12384		12384		fulltext		Springer	serial								P	174300174
+Iconographia Mycologica	0073-4411	2214-7004	1959	1		1984	53		https://rd.springer.com/journal/13093		13093		fulltext		Springer	serial								P	160288819
+Der Urologe B	0042-1111	1433-0571	1997	37	1	2002	42	6	https://rd.springer.com/journal/131		131		fulltext		Springer	serial								P	104701463
+Mikrochemie	0369-0261		1923			1938			https://rd.springer.com/journal/12363		12363		fulltext		Springer	serial								P	
+Journal of neurocytology	0300-4864	1573-7381	1972	1	1	2005	34	6	https://rd.springer.com/journal/11068		11068		fulltext		Springer	serial								P	106971964
+Lettere al nuovo cimento	0024-1318	1827-613X	1969	1	1	1970	4	26	https://rd.springer.com/journal/11545		11545		fulltext		Springer	serial								P	116262494
+Reliable computing	1385-3139	1573-1340	1995	1		2007	13		https://rd.springer.com/journal/11155		11155		fulltext		Springer	serial								P	111374243
+European demographic information bulletin	0046-2756		1970	1		1983	14		https://rd.springer.com/journal/12365		12365		fulltext		Springer	serial								P	
+Journal of Systems Integration	0925-4676	1573-8787	1991	1		2001	10		https://rd.springer.com/journal/10952		10952		fulltext		Springer	serial								P	111688604
+Advanced performance materials	0929-1881	1572-8765	1994	1		1999	6		https://rd.springer.com/journal/10491		10491		fulltext		Springer	serial								P	111132738
+Economic Bulletin	0343-754X	1438-261X	1974	11		1996	41		https://rd.springer.com/journal/10160		10160		fulltext		Springer	serial								P	117859613
+International Journal of Salt Lake Research	1037-0544	1573-8590	1992	1		1996	8		https://rd.springer.com/journal/10770		10770		fulltext		Springer	serial								P	111688582
+Journal of Aquatic Ecosystem Stress and Recovery	1386-1980	1573-5141	1997	6	1	2014	9	4	https://rd.springer.com/journal/10813		10813		fulltext		Springer	serial								P	132389746
+Law and human behavior	0147-7307	1573-661X	1977	1		2011	35		https://rd.springer.com/journal/10979		10979		fulltext		Springer	serial								P	113979770
+Zeitschrift für Kristallographie, Mineralogie und Petrographie. Abteilung B, Mineralogische und petrographische Mitteilungen	0373-4218		1878	1		1943	55		https://rd.springer.com/journal/12379		12379		fulltext		Springer	serial								P	
+Bulletin of alloy phase diagrams	0197-0216	2168-8141	1980	1	1	1990	11	6	https://rd.springer.com/journal/12385		12385		fulltext		Springer	serial								P	160287502
+Chesapeake science	0009-3262	2168-8060	1960	1		1977	18		https://rd.springer.com/journal/12395		12395		fulltext		Springer	serial								P	155513702
+Current Psychological Reviews	0144-3895		1981	1		1982	2		https://rd.springer.com/journal/12391		12391		fulltext		Springer	serial								P	
+Advances in Contraception	0267-4874	1573-7195	1985	1	1	1999	15	4	https://rd.springer.com/journal/10451		10451		fulltext		Springer	serial								P	11114308X
+Annals of Software Engineering	1022-7091	1573-7489	1995	1		2002	14		https://rd.springer.com/journal/10480		10480		fulltext		Springer	serial								P	111311497
+Environmental Geology	0943-0105	1432-0495	1993	1		2009	58		https://rd.springer.com/journal/254		254		fulltext		Springer	serial								P	112494838
+Group	0362-4021	1573-3386	1977	1		2003	27	4	https://rd.springer.com/journal/10724		10724		fulltext		Springer	serial								P	112191487
+Journal of Materials for Energy Systems	0162-9719	2168-8133	1979	1	1	1987	8	4	https://rd.springer.com/journal/12386		12386		fulltext		Springer	serial								P	155548646
+Biotechnology Techniques	0951-208X	1573-6784	1987	1	1	1999	13	12	https://rd.springer.com/journal/10542		10542		fulltext		Springer	serial								P	111374774
+Physical Oceanography	0928-5105	1573-160X	1993	4	1	2012	0		https://rd.springer.com/journal/11110		11110		fulltext		Springer	serial								P	111374324
+Annalen der Philosophie	1866-6167		1919	1		1923	3		https://rd.springer.com/journal/12377		12377		fulltext		Springer	serial								P	
+The cotton oil press	0099-7919		1920	4	1	1924	8	1	https://rd.springer.com/journal/12279		12279		fulltext		Springer	serial								P	
+Urologic Radiology	0171-1091		1979	1		1992	14		https://rd.springer.com/journal/290		290		fulltext		Springer	serial								P	
+Plasmas and Polymers	1084-0184	1572-8978	1996	1		1996	9		https://rd.springer.com/journal/11088		11088		fulltext		Springer	serial								P	114647798
+Acta physica Hungarica	0231-4428	2064-3055	1983	54	1	1994	75	4	https://rd.springer.com/journal/12242		12242		fulltext		Springer	serial								P	160287510
+Acta Physica Hungarica. New Series. Heavy Ion Physics	1219-7580	1588-2675	1995	1	1	2006	27	4	https://rd.springer.com/journal/12656		12656		fulltext		Springer	serial								P	060695110
+Acta physica. Academiae Scientiarum Hungaricae	0001-6705	2064-3047	1951	1	1	1982	53	4	https://rd.springer.com/journal/12658		12658		fulltext		Springer	serial								P	160281482
+Hungarica Acta Physica	0367-6382	2064-3039	1947			1949			https://rd.springer.com/journal/12659		12659		fulltext		Springer	serial								P	223275301
+Molecular Engineering	0925-5125	1572-8951	1991	1		1999	8		https://rd.springer.com/journal/11037		11037		fulltext		Springer	serial								P	111373514
+Mangroves and salt marshes	1386-3509	1572-977X	1996	1	1	1999	4		https://rd.springer.com/journal/10000		10000		fulltext		Springer	serial								P	11137376X
+Perspectives in drug discovery and design	0928-2866	1573-9023	1993	1		2000	20		https://rd.springer.com/journal/11091		11091		fulltext		Springer	serial								P	11461380X
+Journal of Applied Metalworking	0162-9700	2168-8125	1979	1	1	1987	4	4	https://rd.springer.com/journal/12387		12387		fulltext		Springer	serial								P	155546724
+Journal of Heat Treating	0190-9177		1979	1		1991	9		https://rd.springer.com/journal/136		136		fulltext		Springer	serial								P	
+Journal of Materials Engineering	0931-7058		1987	9		1991	13		https://rd.springer.com/journal/135		135		fulltext		Springer	serial								P	
+Journal of Materials Shaping Technology	0931-704X		1987	5	1	1991	9	4	https://rd.springer.com/journal/499		499		fulltext		Springer	serial								P	
+Foundations of Physics Letters	0894-9875	1572-9524	1988	1		1996	19		https://rd.springer.com/journal/10702		10702		fulltext		Springer	serial								P	112121845
+International Journal of value-based Management	0895-8815	1572-8528	1988	1	1	1996	16	3	https://rd.springer.com/journal/10774		10774		fulltext		Springer	serial								P	111216419
+Transactions of the Royal Academy of Medicine in Ireland	0790-2352		1888	6	1	1919	37	1	https://rd.springer.com/journal/12680		12680		fulltext		Springer	serial								P	
+Biotherapy	0921-299X	1573-8280	1989	1		1996	11		https://rd.springer.com/journal/10537		10537		fulltext		Springer	serial								P	155488821
+Annales geophysicae	0992-7689	1432-0576	1994	12		2000	18		https://rd.springer.com/journal/585		585		fulltext		Springer	serial								P	070068828
+Bulletin géodésique	0007-4632		1922	1		1995	76		https://rd.springer.com/journal/12357		12357		fulltext		Springer	serial								P	
+Annals of sex research	0843-4611		1988	1	1	1993	6	4	https://rd.springer.com/journal/11194		11194		fulltext		Springer	serial								P	
+Research in nondestructive evaluation	0934-9847	1432-2110	1990	1		2003	14	4	https://rd.springer.com/journal/164		164		fulltext		Springer	serial								P	058249079
+Journal of Market-Focused Management	1382-3019	1572-8846	1996	1	1	2002	5		https://rd.springer.com/journal/10850		10850		fulltext		Springer	serial								P	111373476
+Dublin Journal of Medical Science	0790-231X		1836	9		1845	28	2	https://rd.springer.com/journal/12627		12627		fulltext		Springer	serial								P	
+Dublin Quarterly Journal of Medical Science	0790-2328		1846	1	1	1871	52	2	https://rd.springer.com/journal/12628		12628		fulltext		Springer	serial								P	
+Journal of Materials Science Letters	0261-8028	1573-4811	1982	1		2003	22		https://rd.springer.com/journal/10855		10855		fulltext		Springer	serial								P	111374642
+Georgian Mathematical Journal	1072-947X	1572-9176	1994	1		1999	6		https://rd.springer.com/journal/11290		11290		fulltext		Springer	serial								P	111688329
+Czechoslovak Journal of Physics	0011-4626	1572-9486	1952	1		2006	56		https://rd.springer.com/journal/10582		10582		fulltext		Springer	serial								P	111812348
+Virchows Archiv B / Cell pathology including molecular pathology	0340-6075		1968			1993			https://rd.springer.com/journal/443		443		fulltext		Springer	serial								P	
+International journal of clinical monitoring and computing	0167-9945	2214-7314	1984	1		1997	14	4	https://rd.springer.com/journal/12521		12521		fulltext		Springer	serial								P	171058992
+Zeitschrift für Physik A, Hadrons and Nuclei	0939-7922	1431-5831	1991			1997	359		https://rd.springer.com/journal/218		218		fulltext		Springer	serial								P	133146243
+Trabajos de Estadística	0213-8190	2340-4094	1986	1		1991	6		https://rd.springer.com/journal/12535		12535		fulltext		Springer	serial								P	155506889
+Trabajos de estadísticas (1950)	0210-5675		1950			1963			https://rd.springer.com/journal/12536		12536		fulltext		Springer	serial								P	
+Rivista del nuovo cimento (1969)	0035-5917		1969	1	1	1970	2	4	https://rd.springer.com/journal/11546		11546		fulltext		Springer	serial								P	
+La Rivista del nuovo cimento della Società italiana di fisica	0393-697X	1826-9850	1971	1	1	1977	7	4	https://rd.springer.com/journal/40765		40765		fulltext		Springer	serial								P	116248823
+Irrigation and Drainage Systems	0168-6291	1573-0654	1986	1		2011	25		https://rd.springer.com/journal/10795		10795		fulltext		Springer	serial								P	111374065
+Invertebrate Neuroscience	1354-2516	1439-1104	1995	1		2014			https://rd.springer.com/journal/10158		10158		fulltext		Springer	serial								P	115010629
+International journal of clinical & laboratory research	0940-5437	1434-4467	1991	21	1	2000	30		https://rd.springer.com/journal/599		599		fulltext		Springer	serial								P	058249265
+Zeitschrift für Experimentelle Pathologie und Therapie	0372-8552		1905			1921			https://rd.springer.com/journal/12383		12383		fulltext		Springer	serial								P	
+Proceedings: Plant Sciences	0370-0097		1934	1		1996	100		https://rd.springer.com/journal/12388		12388		fulltext		Springer	serial								P	
+Trabajos de Investigación Operativa	0213-8204	2340-4108	1986	1		1992	7		https://rd.springer.com/journal/12537		12537		fulltext		Springer	serial								P	155506072
+Archival informatics newsletter & technical reports. Part 1, Archival informatics newsletter	0892-2179		1987	1	1	1989	2	4	https://rd.springer.com/journal/10505		10505		fulltext		Springer	serial								P	
+Knowledge, technology, & policy	1946-4789	1874-6314	1999	12	1	2010	23		https://rd.springer.com/journal/12130		12130		fulltext		Springer	serial								P	131121170
+Zeitschrift für die gesamte experimentelle Medizin einschliesslich experimenteller Chirurgie	0044-2534		1966	140	1	1971	156	4	https://rd.springer.com/journal/433		433		fulltext		Springer	serial								P	
+International Journal of Rehabilitation and Health	1068-9591	1573-1537	1995	1		2000	5		https://rd.springer.com/journal/10769		10769		fulltext		Springer	serial								P	115004424
+Journal of Computer-Aided Materials Design	0928-1045	1573-4900	1993	1	1	1996	14	3	https://rd.springer.com/journal/10820		10820		fulltext		Springer	serial								P	111374693
+International Journal of Angiology	1061-1711	1615-5939	1992	1		2006	15		https://rd.springer.com/journal/547		547		fulltext		Springer	serial								P	058455167
+Journal of career development	0894-8453	1573-3548	1986	13		2005	31		https://rd.springer.com/journal/10871		10871		fulltext		Springer	serial								P	155488619
+Physics of Particles and Nuclei Letters	1547-4771	1531-8567	2006	3	1	2014			https://rd.springer.com/journal/11567		11567		fulltext		Springer	serial								P	140670246
+Zeitschrift für Physik, C : Particles and fields	0170-9739	1431-5858	1979	1		1997	76		https://rd.springer.com/journal/288		288		fulltext		Springer	serial								P	143180991
+Archiv für mikroskopische Anatomie (1911)	0176-7348		1911	31	3	1923	98	2	https://rd.springer.com/journal/12361		12361		fulltext		Springer	serial								P	
+Integrated Pest Management Reviews	1353-5226	1572-9745	1995	1	1	2002	7	4	https://rd.springer.com/journal/10794		10794		fulltext		Springer	serial								P	111373735
+Zeitschrift für Physik, D : Atoms, molecules and clusters	0178-7683	1431-5866	1986	1		1997	42		https://rd.springer.com/journal/460		460		fulltext		Springer	serial								P	143236644
+Commentarii mathematici Helvetici	0010-2571	1420-8946	1929	1		2004	79		https://rd.springer.com/journal/14		14		fulltext		Springer	serial								P	04487510X
+TCA manual	0361-0268		1975	1	1	1979	5	4	https://rd.springer.com/journal/11022		11022		fulltext		Springer	serial								P	
+Journal of elementary science education	1090-185X	2168-8753	1989	1		2009	21		https://rd.springer.com/journal/13270		13270		fulltext		Springer	serial								P	153061243
+Bulletin Volcanologique (1st series)	0366-483X	2385-2666	1924	1		1931			https://rd.springer.com/journal/12362		12362		fulltext		Springer	serial								P	155503774
+Journal of Neural Transmission - Parkinson's Disease and Dementia Section	0936-3076		1989	1		1995	10		https://rd.springer.com/journal/722		722		fulltext		Springer	serial								P	
+Blätter der DGVFM	0012-0200	1864-0303	1950	1		2010	31	2	https://rd.springer.com/journal/11857		11857		fulltext		Springer	serial								P	158613945
+International Journal of Stress Management	1072-5245	1573-3424	1994	1		2002	9		https://rd.springer.com/journal/10771		10771		fulltext		Springer	serial								P	123894743
+Neurochemical pathology	0734-600X	2168-8664	1983	1		1988	9		https://rd.springer.com/journal/12373		12373		fulltext		Springer	serial								P	160288363
+Zeitschrift für Physik B Condensed Matter	0722-3277	1431-584X	1980	1		1997	104		https://rd.springer.com/journal/257		257		fulltext		Springer	serial								P	140594671
+Journal of Northeast Forestry University	1002-5618		1990	1		2014			https://rd.springer.com/journal/11677		11677		fulltext		Springer	serial								P	
+Annalen der Philosophie und philosophischen Kritik	1866-6175		1924	4	1	1929	8		https://rd.springer.com/journal/12375		12375		fulltext		Springer	serial								P	

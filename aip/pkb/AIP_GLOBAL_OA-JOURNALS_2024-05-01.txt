@@ -1,0 +1,14 @@
+publication_title	print_identifier	online_identifier	date_first_issue_online	num_first_vol_online	num_first_issue_online	date_last_issue_online	num_last_vol_online	num_last_issue_online	title_url	first_author	title_id	embargo_info	coverage_depth	notes	publisher_name	publication_type	date_monograph_published_print	date_monograph_published_online	monograph_volume	monograph_edition	first_editor	parent_publication_title_id	preceding_publication_title_id	access_type	bestppn
+AIP Advances		2158-3226	2011-02-28	1	1		14	4	https://pubs.aip.org/aip/adv/issue		adv		fulltext		AIP Publishing	serial								F	157957748
+APL Bioengineering		2473-2877	2017-11-30	1	1		8	2	https://pubs.aip.org/aip/apb/issue		apb		fulltext		AIP Publishing	serial								F	22607143X
+APL Energy		2770-9000	2023-05-31	1	1		2	2	https://pubs.aip.org/aip/ape/issue		ape		fulltext		AIP Publishing	serial								F	271956763
+APL Machine Learning		2770-9019	2023-02-28	1	1		2	2	https://pubs.aip.org/aip/aml/issue		aml		fulltext		AIP Publishing	serial								F	269113614
+APL Materials		2166-532X	2013-06-30	1	1		12	4	https://pubs.aip.org/aip/apm/issue		apm		fulltext		AIP Publishing	serial								F	180529471
+APL Photonics		2378-0967	2016-03-31	1	1		9	4	https://pubs.aip.org/aip/app/issue		app		fulltext		AIP Publishing	serial								F	195203984
+Acoustics Research Letters Online		1529-7853	2000-06-30	1	1				https://pubs.aip.org/asa/arlo/issue		arlo		fulltext		Acoustical Society of America	serial								F	059183217
+JASA Express Letters		2691-1191	2020-12-31	1	1		4	4	https://pubs.aip.org/asa/jel/issue		jel		fulltext		Acoustical Society of America	serial								F	244301751
+Matter and Radiation at Extremes	2468-2047	2468-080X	2015-12-31	1	1		9	4	https://pubs.aip.org/aip/mre/issue		mre		fulltext		AIP Publishing	serial								F	195681029
+Nanotechnology and Precision Engineering	1672-6030	2589-5540	2018-02-28	1	1		7	4	https://pubs.aip.org/aip/npe/issue		npe		fulltext		AIP Publishing	serial								F	232984409
+Proceedings of Meetings on Acoustics		1939-800X	2007-06-03	1	1				https://pubs.aip.org/asa/poma/issue		poma		fulltext		Acoustical Society of America	serial								F	147870577
+Scilight		2572-7907	2017-06-25	2017	1		2024	18	https://pubs.aip.org/aip/sci/issue		sci		fulltext		AIP Publishing	serial								F	204155525
+Structural Dynamics		2329-7778	2013-12-31	1	1		11	2	https://pubs.aip.org/aca/sdy/issue		sdy		fulltext		American Crystallographic Association, Inc.	serial								F	180534092
