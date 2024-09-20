@@ -75,8 +75,10 @@ module.exports = new Parser(function analyseEC(parsedUrl) {
                    split[2] + '_' +
                    split[3];
     }
-  } else if ((match = /^\/(((?:revue-|magazine-)[a-z0-9@-]+)-([0-9]{4})-([0-9]+)-(page|p)-([0-9]+))\.html?$/i.exec(path)) !== null) {
+  } else if ((match = /^\/(((?:revue-|magazine-)[a-z0-9@-]+)-([0-9]{4})-([0-9]+)-(page|p)-([0-9]+))(\.html?)?$/i.exec(path)) !== null) {
     // journal example: http://www.cairn.info/revue-actes-de-la-recherche-en-sciences-sociales-2012-5-page-4.htm
+    // /revue-administration-et-education-2024-1-page-33?lang=fr
+    // /revue-histoire-et-societes-rurales-2008-2-page-67?lang=fr&tab=resume
     result.rtype            = match[5] === 'page' ? 'ARTICLE' : 'PREVIEW';
     result.mime             = 'HTML';
     result.unitid           = match[1];
@@ -85,8 +87,13 @@ module.exports = new Parser(function analyseEC(parsedUrl) {
     result.issue            = match[4];
     result.first_page       = match[6];
 
-  } else if ((match = /^\/(((?:revue-|magazine-)[a-z0-9@-]+?)(?:-([0-9]{4})-([0-9]+))?)\.html?$/i.exec(path)) !== null) {
+    if (param.tab === 'resume') {
+      result.rtype = 'ABS';
+    }
+
+  } else if ((match = /^\/(((?:revue-|magazine-)[a-z0-9@-]+?)(?:-([0-9]{4})-([0-9]+))?)(\.html?)?$/i.exec(path)) !== null) {
     // journal example: http://www.cairn.info/revue-a-contrario.htm
+    // /revue-administration-et-education-2024-1?lang=fr
     result.unitid   = match[1];
     result.title_id = match[2];
     result.rtype    = 'TOC';
@@ -97,11 +104,12 @@ module.exports = new Parser(function analyseEC(parsedUrl) {
       result.issue = match[4];
     }
 
-  } else if ((match = /^\/(([a-z0-9 @-]+)--([0-9]{0,13})(?:-(page|p)-([0-9]+))?)\.html?$/i.exec(path)) !== null) {
+  } else if ((match = /^\/(([a-z0-9 @-]+)--([0-9]{0,13})(?:-(page|p)-([0-9]+))?)(\.html?)?$/i.exec(path)) !== null) {
     // /a-l-ecole-du-sujet--9782749202358-page-9.htm
     // /a-l-ecole-du-sujet--9782749202358-p-9.htm
     // /a-l-ecole-du-sujet--9782749202358.htm
     // /couple-conjugal-couple-parental-vers-de-nouveaux--978274920806-p-217.htm
+    // /les-101-mots-de-la-democratie-francaise--9782738111562-page-89?lang=fr
     result.mime             = 'HTML';
     result.unitid           = match[1];
     result.title_id         = match[2];
@@ -116,6 +124,16 @@ module.exports = new Parser(function analyseEC(parsedUrl) {
       result.rtype = 'PREVIEW';
       result.first_page = match[5];
     }
+  } else if ((match = /^\/numero\/([a-z0-9_]+)$/i.exec(path)) !== null) {
+    // /numero/OJ_HADAS_2002_01?lang=fr
+    result.rtype = 'TOC';
+    result.mime = 'HTML';
+    result.unitid = match[1];
+  } else if ((match = /^\/article\/([a-z0-9_]+)\/pdf$/i.exec(path)) !== null) {
+    // /article/ADMED_181_0033/pdf?lang=fr
+    result.rtype = 'ARTICLE';
+    result.mime = 'PDF';
+    result.unitid = match[1];
   }
 
   return result;
