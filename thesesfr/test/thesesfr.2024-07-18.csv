@@ -1,9 +1,9 @@
 out-publication_date;out-ppn;out-unitid;out-rtype;out-mime;out-publication_date;out-institution_code;in-url;in-status
 ;;2019LYSE2053;PHD_THESIS;PDF;2019;LYSE;https://theses.fr/api/v1/document/2019LYSE2053;200
 ;;2010AIX22039;PHD_THESIS;HTML;2010;AIX2;https://theses.fr/api/v1/document/2010AIX22039;302
-;264066944;264066944;BIO;HTML;;;https://theses.fr/264066944;200
-;264066944;264066944;BIO;HTML;;;https://theses.fr/api/v1/personnes/personne/264066944;200
+;264066944;264066944;RECORD;HTML;;;https://theses.fr/264066944;200
+;264066944;264066944;RECORD;JSON;;;https://theses.fr/api/v1/personnes/personne/264066944;200
 ;;s383095;ABS;HTML;;;https://theses.fr/s383095;200
-;;s383095;ABS;HTML;;;https://theses.fr/api/v1/theses/these/s383095;200
+;;s383095;ABS;JSON;;;https://theses.fr/api/v1/theses/these/s383095;200
 2023;;2024BORD0122;ABS;HTML;2024;BORD;https://theses.fr/2024BORD0122;200
-2023;;2024BORD0122;ABS;HTML;2024;BORD;https://theses.fr/api/v1/theses/these/2024BORD0122;200
+2023;;2024BORD0122;ABS;JSON;2024;BORD;https://theses.fr/api/v1/theses/these/2024BORD0122;200
