@@ -22,6 +22,7 @@ module.exports = new Parser(function analyseEC(parsedUrl, ec) {
   const apiPersonRegex = /\/api\/v1\/personnes\/personne\/([0-9]{8}[0-9X])/ig;
   const apiOrganismeRegex = /\/api\/v1\/theses\/organisme\/([0-9]{8}[0-9X])/ig;
   const apiThesisRegex = /\/api\/v1\/theses\/these\/(([0-9]{4})([a-z]{2}[0-9a-z]{2})[0-9a-z]+)/ig;
+  const apiSubjectRegex = /\/api\/v1\/theses\/these\/(s[0-9]+)/ig;
 
   const apiDocumentRegex = /\/api\/v1\/document\/(([0-9]{4})([a-z]{2}[0-9a-z]{2})[0-9a-z]+)/ig;
   const apiProtectedDocRegex = /\/api\/v1\/document\/protected\/(([0-9]{4})([a-z]{2}[0-9a-z]{2})[0-9a-z]+)/ig;
@@ -83,15 +84,22 @@ module.exports = new Parser(function analyseEC(parsedUrl, ec) {
     result.unitid = match[1];
     result.ppn = match[1];
 
+  } else if ((match = apiSubjectRegex.exec(path)) !== null) {
+    // ABStract notice d’une thèse en préparation
+    // /api/v1/theses/these/s383095
+    result.rtype = 'ABS';
+    result.mime = 'JSON';
+    result.unitid = match[1];
+
   } else if ((match = /^\/(s[0-9]+)$/i.exec(path)) !== null) {
-    // /s366354 ABStract notice d’une thèse en préparation
+    // /s366354 ABStract notice d’une thèse en préparation HTML
     result.rtype = 'ABS';
     result.mime = 'HTML';
     result.unitid = match[1];
 
   } else if ((match = apiThesisRegex.exec(path)) !== null) {
     // ABStract notice d’une thèse soutenue JSON
-    // /api/v1/theses/these/s383095
+    // /api/v1/theses/these/2023UPASP097
     result.rtype = 'ABS';
     result.mime = 'JSON';
     result.unitid = match[1];
