@@ -33,8 +33,8 @@ module.exports = new Parser(function analyseEC(parsedUrl, ec) {
   let match;
 
   if (ec['User-Agent'] === 'node') {
-         //NOP
-		 
+    //NOP
+
   } else if (
     ((match = /^\/(([0-9]{4})([a-z]{2}[0-9a-z]{2})[0-9a-z]+)\/document$/i.exec(path)) !== null) ||
     ((match = apiDocumentRegex.exec(path)) !== null)
