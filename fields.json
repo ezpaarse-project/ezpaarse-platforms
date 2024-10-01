@@ -382,6 +382,10 @@
       "description_en": "consultation of a reference or list of references in a citational database",
       "comment": "cas de Web of Science",
       "comment_en": "case of Web of Science"
+    },{
+      "code": "ORGANISATION",
+      "description": "consultation d'une fiche d'information sur une organisation",
+      "description_en": "consultation of the information sheet of on organisation"
     }
   ],
   "other": [

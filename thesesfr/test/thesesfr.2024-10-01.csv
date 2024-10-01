@@ -1,0 +1,15 @@
+out-ppn;out-publication_date;out-institution_code;out-unitid;out-rtype;out-mime;in-url;in-status
+;2024;UPAS;2024UPASL018;PHD_THESIS;PDF;https://theses.fr/api/v1/document/protected/2024UPASL018/125383_BOUDERKA_2024_archivage.pdf;200
+;2024;UPAS;2024UPASL018;PHD_THESIS;PDF;https://theses.fr/api/v1/document/protected/2024UPASL018;200
+;2010;AIX2;2010AIX22039;PHD_THESIS;PDF;https://theses.fr/2010AIX22039/abes;200
+;2010;AIX2;2010AIX22039;PHD_THESIS;PDF;https://theses.fr/api/v1/document/2010AIX22039/THESE_2010_CALPAS_BETTY.pdf;200
+;2010;AIX2;2010AIX22039;PHD_THESIS;PDF;https://theses.fr/2010AIX22039/document;200
+;2010;AIX2;2010AIX22039;PHD_THESIS;PDF;https://theses.fr/api/v1/document/2010AIX22039;200
+241345251;;;241345251;ORGANISATION;JSON;https://theses.fr/api/v1/theses/organisme/241345251;200
+264066944;;;264066944;BIO;JSON;https://theses.fr/api/v1/personnes/personne/264066944;200
+;;;s383095;ABS;JSON;https://theses.fr/api/v1/theses/these/s383095;200
+;2024;BORD;2024BORD0122;ABS;JSON;https://theses.fr/api/v1/theses/these/2024BORD0122;200
+;2019;LYSE;2019LYSE2053;PHD_THESIS;HTML;https://theses.fr/api/v1/document/2019LYSE2053;302
+264066944;;;264066944;RECORD;HTML;https://theses.fr/264066944;200
+;;;s383095;ABS;HTML;https://theses.fr/s383095;200
+;2024;BORD;2024BORD0122;ABS;HTML;https://theses.fr/2024BORD0122;200
