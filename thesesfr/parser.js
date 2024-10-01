@@ -31,7 +31,7 @@ module.exports = new Parser(function analyseEC(parsedUrl, ec) {
   let match;
 
   if (
-    ((match = /^\/(([0-9]{4})([a-z]{2}[0-9a-z]{2})[0-9a-z]+)\/document$/i.exec(path)) !== null) ||
+    ((match = /^\/(([0-9]{4})([a-z]{2}[0-9a-z]{2})[0-9a-z]+)\/(document|abes)$/i.exec(path)) !== null) ||
     ((match = apiDocumentRegex.exec(path)) !== null)
   ) {
     // https://theses.fr/2020EMAC0007/document Accès au PDF d’une thèse soutenue PHD_THESIS disponible en ligne
