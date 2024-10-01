@@ -64,7 +64,7 @@ module.exports = new Parser(function analyseEC(parsedUrl, ec) {
   } else if ((match = apiPersonRegex.exec(path)) !== null) {
     // RECORD person JSON, will be changed to BIO in middleware thesesfr-personne
     // /api/v1/personnes/personne/264066944
-    result.rtype = 'RECORD';
+    result.rtype = 'BIO';
     result.mime = 'JSON';
     result.unitid = match[1];
     result.ppn = match[1];
@@ -72,7 +72,7 @@ module.exports = new Parser(function analyseEC(parsedUrl, ec) {
   } else if ((match = apiOrganismeRegex.exec(path)) !== null) {
     // RECORD organism JSON
     // /api/v1/theses/organisme/159502497
-    result.rtype = 'RECORD';
+    result.rtype = 'ORGANISATION';
     result.mime = 'JSON';
     result.unitid = match[1];
     result.ppn = match[1];
