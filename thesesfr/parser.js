@@ -30,6 +30,18 @@ module.exports = new Parser(function analyseEC(parsedUrl, ec) {
   const baseReferer ='https://www.theses.fr/';
   const baseRefererShort ='https://theses.fr/';
 
+  /**
+   * Returns true if the request comes from a browser (based on the referer)
+   * @param {string} unitid - ID of the resource being accessed
+   * @returns {boolean}
+   */
+  const isHumanBrowsing = function (unitid) {
+    return (
+      ec['Referer'] === `${baseReferer}${unitid}` ||
+      ec['Referer'] === `${baseRefererShort}${unitid}`
+    );
+  };
+
   let match;
 
   if (ec['User-Agent'] === 'node') {
@@ -70,31 +82,17 @@ module.exports = new Parser(function analyseEC(parsedUrl, ec) {
     // RECORD person JSON, will be changed to BIO in middleware thesesfr-personne
     // /api/v1/personnes/personne/264066944
     result.rtype = 'RECORD';
-    result.mime = 'JSON';
+    result.mime = isHumanBrowsing(match[1]) ? 'HTML' : 'JSON';
     result.unitid = match[1];
     result.ppn = match[1];
-
-    let myReferer = baseReferer + result.unitid;
-    let myRefererShort = baseRefererShort + result.unitid;
-
-    if ((ec['Referer'] === myReferer) || (ec['Referer'] === myRefererShort)) {
-      result.mime = 'HTML';
-    }
 
   } else if ((match = apiOrganismeRegex.exec(path)) !== null) {
     // RECORD organism JSON
     // /api/v1/theses/organisme/159502497
     result.rtype = 'RECORD';
-    result.mime = 'JSON';
+    result.mime = isHumanBrowsing(match[1]) ? 'HTML' : 'JSON';
     result.unitid = match[1];
     result.ppn = match[1];
-
-    let myReferer = baseReferer+result.unitid;
-    let myRefererShort = baseRefererShort+result.unitid;
-
-    if ((ec['Referer'] === myReferer) || (ec['Referer'] === myRefererShort)) {
-      result.mime = 'HTML';
-    }
 
   } else if ((match = /^\/([0-9]{8}[0-9X])$/i.exec(path)) !== null) {
     // /258987731 RECORD HTML undeterminable person or organism, will eventually set to BIO in middleware thesesfr-personne
@@ -107,15 +105,8 @@ module.exports = new Parser(function analyseEC(parsedUrl, ec) {
     // ABStract notice d’une thèse en préparation
     // /api/v1/theses/these/s383095
     result.rtype = 'ABS';
-    result.mime = 'JSON';
+    result.mime = isHumanBrowsing(match[1]) ? 'HTML' : 'JSON';
     result.unitid = match[1];
-
-    let myReferer = baseReferer+result.unitid;
-    let myRefererShort = baseRefererShort+result.unitid;
-
-    if ((ec['Referer'] === myReferer) || (ec['Referer'] === myRefererShort)) {
-      result.mime = 'HTML';
-    }
 
   } else if ((match = /^\/(s[0-9]+)$/i.exec(path)) !== null) {
     // /s366354 ABStract notice d’une thèse en préparation HTML
@@ -127,17 +118,10 @@ module.exports = new Parser(function analyseEC(parsedUrl, ec) {
     // ABStract notice d’une thèse soutenue JSON
     // /api/v1/theses/these/2023UPASP097
     result.rtype = 'ABS';
-    result.mime = 'JSON';
+    result.mime = isHumanBrowsing(match[1]) ? 'HTML' : 'JSON';
     result.unitid = match[1];
     result.publication_date = match[2];
     result.institution_code = match[3];
-
-    let myReferer = baseReferer+result.unitid;
-    let myRefererShort = baseRefererShort+result.unitid;
-
-    if ((ec['Referer'] === myReferer) || (ec['Referer'] === myRefererShort)) {
-      result.mime = 'HTML';
-    }
 
   } else if ((match = /^\/(([0-9]{4})([a-z]{2}[0-9a-z]{2})[0-9a-z]+)$/i.exec(path)) !== null) {
     // /2023UPASP097 ABStract notice d’une thèse soutenue HTML
