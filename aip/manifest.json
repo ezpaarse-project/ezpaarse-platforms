@@ -10,7 +10,8 @@
   "contact": "Thomas Jouneau",
   "pkb": true,
   "bacon": {
-    "provider": "AIP"
+    "provider": "AIP",
+    "matches": ["GLOBAL"]
   },
 	"domains": [
     "scitation.aip.org",

@@ -12,6 +12,7 @@
   "domains": [],
   "pkb-domains": "title_url",
   "bacon": {
-    "provider": "EDPSCIENCES"
+    "provider": "EDPSCIENCES",
+    "matches": ["GLOBAL"]
   }
 }

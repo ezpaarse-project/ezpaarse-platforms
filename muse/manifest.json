@@ -13,6 +13,7 @@
     "muse.jhu.edu"
 	],
   "bacon": {
-    "provider": "PROJECTMUSE"
+    "provider": "PROJECTMUSE",
+    "matches": ["GLOBAL"]
   }
 }

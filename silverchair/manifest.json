@@ -9,7 +9,8 @@
       "OUP",
       "GSW",
       "PORTLANDPRESS"
-    ]
+    ],
+    "matched": ["GLOBAL"]
   },
   "domains": [
     "www.asmedigitalcollection.asme.org",
