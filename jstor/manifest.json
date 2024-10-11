@@ -10,9 +10,8 @@
   "contact": "karine.delvert at univ-paris1 point fr",
   "pkb": true,
   "bacon": {
-    "provider": [
-      "JSTOR"
-    ]
+    "provider": "JSTOR",
+    "matches": ["GLOBAL"]
   },
   "domains": [
     "www.jstor.org",
