@@ -104,6 +104,7 @@
       "zslpublications.onlinelibrary.wiley.com"
   ],
   "bacon": {
-    "provider": "WILEY"
+    "provider": "WILEY",
+    "matched": ["GLOBAL"]
   }
 }

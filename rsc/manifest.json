@@ -8,7 +8,7 @@
   "bacon": {
     "provider": "RSC",
     "matches": [
-      "ISTEX-EBOOKS",
+      "GLOBAL_ALLEBOOKS",
       "ISTEX-JOURNALS"
     ]
   },

@@ -21,7 +21,7 @@
   },
   "bacon": {
     "provider": "TI",
-    "matches": ["^GLOBAL_ALLTITLES$"]
+    "matches": ["GLOBAL_ALLTITLES"]
   },
   "name": "ti",
   "longname": "Techniques de l'Ingénieur",

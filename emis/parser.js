@@ -15,6 +15,7 @@ module.exports = new Parser(function analyseEC(parsedUrl, ec) {
   let path   = parsedUrl.pathname;
   // uncomment this line if you need parameters
   let param = parsedUrl.query || {};
+  let match;
 
   // use console.error for debuging
   // console.error(parsedUrl);
@@ -33,11 +34,21 @@ module.exports = new Parser(function analyseEC(parsedUrl, ec) {
     result.rtype    = 'REPORT';
     result.mime     = 'HTML';
     result.unitid   = param.doc_id;
+  } else if ((match = /^\/v2\/documents\/report\/([0-9]+)$/i.exec(path)) != null) {
+    // https://www.emis.com/v2/documents/report/834568862?keyword=anduril
+    result.rtype    = 'REPORT';
+    result.mime     = 'HTML';
+    result.unitid   = match[1];
   } else if (/^\/php\/companies\/index$/i.test(path)) {
     // https://www.emis.com/php/companies/index?pc=HK&cmpy=9737982
     result.rtype    = 'RECORD';
     result.mime     = 'HTML';
     result.unitid   = param.cmpy;
+  } else if ((match = /^\/v2\/companies\/profile\/[a-zA-Z0-9]+\/([0-9]+)$/i.exec(path)) != null) {
+    // https://www.emis.com/v2/companies/profile/US/14330970
+    result.rtype    = 'RECORD';
+    result.mime     = 'HTML';
+    result.unitid   = match[1];
   } else if (/^\/php\/companies\/index\/keystatsbox$/i.test(path) && param.excel === '1') {
     // https://www.emis.com/php/companies/index/keystatsbox?pc=HK&cmpy=9737982&hideValues=&currency=HKD&display_units=3&excel=1&tbl=keystats-page-table-exchange
     result.rtype    = 'DATASET';
@@ -47,6 +58,11 @@ module.exports = new Parser(function analyseEC(parsedUrl, ec) {
     // https://www.emis.com/php/search/searchv2
     result.rtype    = 'SEARCH';
     result.mime     = 'HTML';
+  } else if ((match = /^\/v2\/documents\/([0-9]+)$/i.exec(path)) != null) {
+    // https://www.emis.com/v2/documents/837338451
+    result.rtype    = 'ARTICLE';
+    result.mime     = 'HTML';
+    result.unitid   = match[1];
   }
 
   return result;
