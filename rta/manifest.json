@@ -2,7 +2,8 @@
   "version": "2018-06-20",
   "status": "stable",
   "domains": [
-    "www.rtabstracts.org"
+    "www.rtabstracts.org",
+    "rtabstracts.org"
   ],
   "recognize": {
     "rid": [
