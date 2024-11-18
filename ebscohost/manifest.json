@@ -18,7 +18,7 @@
     "eds.p.ebscohost.com",
     "eds.s.ebscohost.com",
     "search.ebsco.com",
-    
+    "research.ebsco.com",
     "content.ebscohost.com",
     "resolver.ebscohost.com",
     "rs.ebscohost.com",
@@ -26,7 +26,8 @@
     "www.ebscohost.com",
     "ejournals.ebscohost.com",
     "ebsco-content.com",
-    "web.ebscohost.com"
+    "web.ebscohost.com",
+    "viewer.ebscohost.com"
   ],
   "name": "ebscohost",
   "longname": "EbscoHost",
