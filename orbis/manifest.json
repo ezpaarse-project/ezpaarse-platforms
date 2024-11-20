@@ -6,7 +6,8 @@
   "pkb": false,
   "docurl": "http://analyses.ezpaarse.org/platforms/5fdbd2a1637c443b21e5918f",
   "domains": [
-    "orbis.bvdinfo.com"
+    "orbis.bvdinfo.com",
+    "orbiseurope.bvdinfo.com"
   ],
   "version": "2020-12-17",
   "status": "beta"

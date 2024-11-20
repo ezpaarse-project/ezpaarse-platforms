@@ -1,6 +1,7 @@
-out-rtype;out-mime;out-login;out-unitid;in-url
-SEARCH;HTML;;;https://orbis.bvdinfo.com/version-20201210/orbis/1/Companies/Search
-BOOK;HTML;;1;https://orbis.bvdinfo.com/version-20201210/orbis/1/Companies/Report
-TOC;HTML;;1;https://orbis.bvdinfo.com/version-20201210/orbis/1/Companies/report/Index?format=_standard&BookSection=TOC&seq=0
-BOOK_SECTION;HTML;;1-PROFILE;https://orbis.bvdinfo.com/version-20201210/orbis/1/Companies/report/Index?format=_standard&BookSection=PROFILE&seq=0
-BOOK_SECTION;HTML;;1-GLOBALREPORTS;https://orbis.bvdinfo.com/version-20201210/orbis/1/Companies/report/Index?format=_standard&BookSection=GLOBALREPORTS&seq=0
+out-rtype;out-mime;out-unitid;in-url
+SEARCH;HTML;;https://orbis.bvdinfo.com/version-20201210/orbis/1/Companies/Search
+BOOK;HTML;1;https://orbis.bvdinfo.com/version-20201210/orbis/1/Companies/Report
+TOC;HTML;1;https://orbis.bvdinfo.com/version-20201210/orbis/1/Companies/report/Index?format=_standard&BookSection=TOC&seq=0
+BOOK_SECTION;HTML;1-PROFILE;https://orbis.bvdinfo.com/version-20201210/orbis/1/Companies/report/Index?format=_standard&BookSection=PROFILE&seq=0
+BOOK_SECTION;HTML;1-GLOBALREPORTS;https://orbis.bvdinfo.com/version-20201210/orbis/1/Companies/report/Index?format=_standard&BookSection=GLOBALREPORTS&seq=0
+SEARCH;HTML;;https://orbiseurope.bvdinfo.com/version-20240919-5-2/Orbis4Europe/1/Companies/List?sl=1730725526995

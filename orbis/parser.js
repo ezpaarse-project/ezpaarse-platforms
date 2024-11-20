@@ -12,35 +12,33 @@ const Parser = require('../.lib/parser.js');
  */
 module.exports = new Parser(function analyseEC(parsedUrl, ec) {
   let result = {};
-  let path   = parsedUrl.pathname;
-  // uncomment this line if you need parameters
+  let path = parsedUrl.pathname;
   let param = parsedUrl.query || {};
-
-  // use console.error for debuging
-  // console.error(parsedUrl);
 
   let match;
 
-  if ((match = /^\/version-20201210\/orbis\/[0-9]+\/Companies\/Search$/i.exec(path)) !== null) {
+  if ((match = /^\/version-[0-9-]+\/(?:orbis|Orbis4Europe)\/[0-9]+\/Companies\/Search$/i.exec(path)) !== null) {
     // https://orbis.bvdinfo.com/version-20201210/orbis/1/Companies/Search
-    result.rtype    = 'SEARCH';
-    result.mime     = 'HTML';
+    result.rtype = 'SEARCH';
+    result.mime  = 'HTML';
 
-  } else if ((match = /^\/version-20201210\/orbis\/([0-9]+)\/Companies\/Report$/i.exec(path)) !== null) {
+  } else if (/^\/version-[0-9-]+\/(?:orbis|Orbis4Europe)\/([0-9]+)\/Companies\/List$/i.test(path)) {
+    // https://orbiseurope.bvdinfo.com/version-20240919-5-2/Orbis4Europe/1/Companies/List
+    result.rtype = 'SEARCH';
+    result.mime  = 'HTML';
+
+  } else if ((match = /^\/version-[0-9-]+\/(?:orbis|Orbis4Europe)\/([0-9]+)\/Companies\/Report$/i.exec(path)) !== null) {
     // https://orbis.bvdinfo.com/version-20201210/orbis/1/Companies/Report
-    result.rtype    = 'BOOK';
-    result.mime     = 'HTML';
-    result.unitid   = match[1];
-  } else if ((match = /^\/version-20201210\/orbis\/([0-9]+)\/Companies\/report\/Index$/i.exec(path)) !== null && param.BookSection == 'TOC') {
+    result.rtype  = 'BOOK';
+    result.mime   = 'HTML';
+    result.unitid = match[1];
+
+  } else if ((match = /^\/version-[0-9-]+\/(?:orbis|Orbis4Europe)\/([0-9]+)\/Companies\/report\/Index$/i.exec(path)) !== null) {
     // https://orbis.bvdinfo.com/version-20201210/orbis/1/Companies/report/Index?format=_standard&BookSection=TOC&seq=0
-    result.rtype    = 'TOC';
-    result.mime     = 'HTML';
-    result.unitid   = match[1];
-  } else if ((match = /^\/version-20201210\/orbis\/([0-9]+)\/Companies\/report\/Index$/i.exec(path)) !== null && param.BookSection !== 'TOC') {
     // https://orbis.bvdinfo.com/version-20201210/orbis/1/Companies/report/Index?format=_standard&BookSection=PROFILE&seq=0
-    result.rtype    = 'BOOK_SECTION';
-    result.mime     = 'HTML';
-    result.unitid   = match[1] + '-' + param.BookSection;
+    result.rtype  = param.BookSection === 'TOC' ? 'TOC' : 'BOOK_SECTION';
+    result.mime   = 'HTML';
+    result.unitid = param.BookSection === 'TOC' ? match[1] : `${match[1]}-${param.BookSection}`;
   }
 
   return result;
