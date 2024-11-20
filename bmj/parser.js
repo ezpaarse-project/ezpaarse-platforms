@@ -17,7 +17,6 @@ module.exports = new Parser(function analyseEC(parsedUrl, ec) {
   let match;
 
   const doiPrefix = '10.1136/';
-  // (10.[0-9]+\/[a-z0-9-.]+)
 
   if ((match = /^\/content\/([a-z0-9]+)\/([0-9]+)\/([a-z0-9-]+).full.pdf$/i.exec(path)) !== null) {
     // /content/bmj/379/bmj-2022-071517.full.pdf
