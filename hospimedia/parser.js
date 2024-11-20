@@ -33,7 +33,7 @@ module.exports = new Parser(function analyseEC(parsedUrl, ec) {
     result.mime = 'MISC';
     result.unitid = match[1];
 
-  } else if ((match = /^\/recherche$/i.exec(path)) !== null) {
+  } else if (/^\/recherche$/i.test(path)) {
     // http://www.hospimedia.fr/recherche?q=ehpad
     result.rtype = 'SEARCH';
     result.mime = 'HTML';
