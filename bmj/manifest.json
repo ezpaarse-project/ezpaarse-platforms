@@ -1,0 +1,13 @@
+{
+  "longname": "BMJ",
+  "name": "bmj",
+  "describe": "Recognizes the accesses to the platform BMJ",
+  "contact": "Frederic Truong inist, ez PAARSE",
+  "pkb": false,
+  "docurl": "https://analyses.ezpaarse.org/platforms/66e28ebc92e4dc682439c975",
+  "domains": [
+    "www.bmj.com"
+  ],
+  "version": "2024-11-20",
+  "status": "beta"
+}
