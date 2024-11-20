@@ -274,7 +274,7 @@ function fetchRemoteData (docid) {
 function fetchRemoteAnalyses (cardID) {
   return new Promise((resolve, reject) => {
     const options = {
-      url: `http://analyses.ezpaarse.org/api/platforms/${cardID}/analyses`,
+      url: `https://analyses.ezpaarse.org/api/platforms/${cardID}/analyses`,
       json: true
     };
 
@@ -297,7 +297,7 @@ function fetchRemoteAnalyses (cardID) {
 function fetchTrelloCard (cardID) {
   return new Promise((resolve, reject) => {
     const options = {
-      url: `http://api.trello.com/1/cards/${cardID}?members=true`,
+      url: `https://api.trello.com/1/cards/${cardID}?members=true`,
       json: true,
       headers: { 'user-agent': 'node' }
     };
