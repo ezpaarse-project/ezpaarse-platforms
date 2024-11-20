@@ -72,6 +72,18 @@ module.exports = new Parser(function analyseEC(parsedUrl, ec) {
     // /doctrinal/results
     result.rtype  = 'SEARCH';
     result.mime   = 'HTML';
+
+  } else if ((match = /^\/revue-[a-z-]+\/([0-9a-z-]+)$/i.exec(path)) !== null) {
+    // /revue-juridique/GAZPAL-la-gazette-du-palais
+    result.rtype  = 'RECORD';
+    result.mime   = 'HTML';
+    result.unitid = match[1];
+
+  }  else if ((match = /^\/recherche-[a-z-]+$/i.exec(path)) !== null) {
+    // /recherche-notices-juridiques
+    result.rtype  = 'SEARCH';
+    result.mime   = 'HTML';
+
   }
 
   return result;

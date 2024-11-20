@@ -1,0 +1,13 @@
+{
+  "longname": "Hospimedia",
+  "name": "hospimedia",
+  "describe": "Recognizes the accesses to the platform Hospimedia",
+  "contact": "Frederic Truong inist, ezPAARSE",
+  "pkb": false,
+  "docurl": "https://analyses.ezpaarse.org/platforms/6723986a8e33b361a62282a8",
+  "domains": [
+    "www.hospimedia.fr"
+  ],
+  "version": "2024-11-20",
+  "status": "beta"
+}

@@ -22,6 +22,19 @@ module.exports = new Parser(function analyseEC(parsedUrl) {
     result.rtype  = 'BOOK';
     result.mime   = 'PDF';
     result.unitid = result.title_id = 'puc:' + param['puc'] + '-nu:' + param['nu'];
+
+  } else if ((match = /^\/ouvrage\/[a-z]+\/[a-z-]+_([0-9]+)$/i.exec(path)) !== null) {
+    // /ouvrage/mementos/droit-administratif-biens_9782247156900
+    result.rtype    = 'BOOK';
+    result.mime     = 'HTML';
+    result.unitid = match[1];
+    result.online_identifier = match[1];
+
+  } else if ((match = /^\/recherche$/i.exec(path)) !== null) {
+    // /recherche?query=droit+administratif+des+biens
+    result.rtype    = 'SEARCH';
+    result.mime     = 'HTML';
+
   }
 
   return result;
