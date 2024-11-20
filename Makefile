@@ -20,8 +20,11 @@ endif
 install: ## Install dependencies
 	cd .lib && npm install --no-save
 
-test: ## Tests every platforms. You can also select one or more. Ex: make test sd npg
-	cd .lib && EZPAARSE_PLATFORM_TO_TEST="$(COMMAND_ARGS)" npm test
+test: ## Test platforms. You can also select one or more. Ex: make test sd npg
+	cd .lib && EZPAARSE_PLATFORM_TO_TEST="$(COMMAND_ARGS)" npm run test:platforms
+
+test-all: ## Run all tests
+	cd .lib && npm test
 
 lint: ## Run syntax verification on javascript files
 	cd .lib && npm run lint

@@ -4,6 +4,7 @@
   "description": "Platforms parsers, scrapers and PKBs for ezPAARSE",
   "scripts": {
     "test": "mocha test/*-test.js",
+    "test:platforms": "mocha test/platforms-test.js",
     "lint": "eslint --ext .js --ignore-path .gitignore ..",
     "create-parser": "node ./platform-init.js",
     "prepare": "cd .. && husky install"
