@@ -6,7 +6,8 @@
   "pkb": false,
   "docurl": "https://analyses.ezpaarse.org/platforms/6723986a8e33b361a62282a8",
   "domains": [
-    "www.hospimedia.fr"
+    "www.hospimedia.fr",
+    "abonnes.hospimedia.fr"
   ],
   "version": "2024-11-20",
   "status": "beta"
