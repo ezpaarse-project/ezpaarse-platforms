@@ -3,7 +3,8 @@
   "status": "stable",
   "domains": [
     "newip.doctrinalplus.fr",
-    "ip.doctrinal.fr"
+    "ip.doctrinal.fr",
+    "www.doctrinal.fr"
   ],
   "recognize": {
     "rid": [
