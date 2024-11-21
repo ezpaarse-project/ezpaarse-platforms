@@ -10,7 +10,8 @@
   "contact": "yannick.schurter at inist.fr",
   "pkb": true,
   "domains": [
-    "www.oxfordhandbooks.com"
+    "www.oxfordhandbooks.com",
+    "academic.oup.com"
   ],
   "recognize": {
     "rid": [
