@@ -1,0 +1,14 @@
+{
+  "longname": "Research4Life",
+  "name": "r4l",
+  "describe": "Recognizes the accesses to the platform Research4Life",
+  "contact": "Violita Kovchegov",
+  "pkb": false,
+  "docurl": "https://analyses.ezpaarse.org/platforms/6750a00a10a95d13398078b5",
+  "domains": [
+    "hinari.summon.serialssolutions.com",
+    "login.research4life.org"
+  ],
+  "version": "2025-01-08",
+  "status": "beta"
+}
