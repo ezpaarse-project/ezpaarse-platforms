@@ -1,0 +1,13 @@
+{
+  "longname": "eLibro.net",
+  "name": "elibro",
+  "describe": "Recognizes the accesses to the platform eLibro.net",
+  "contact": "Violita Kovchegov",
+  "pkb": false,
+  "docurl": "https://analyses.ezpaarse.org/platforms/67509af93595021835be6e3f",
+  "domains": [
+    "elibro.net"
+  ],
+  "version": "2025-01-22",
+  "status": "beta"
+}

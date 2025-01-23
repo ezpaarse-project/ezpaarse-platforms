@@ -1,0 +1,13 @@
+out-unitid;out-rtype;out-mime;in-url
+273538;BOOK;EPUB;https://elibro.net/en/ereader/ipn/epub/273538?as_all=Negocios&as_all_op=unaccent__icontains&as_has_epub=true&prev=as
+;SEARCH;HTML;https://elibro-net/en/lc/ipn/busqueda_avanzada?as_all=Ciudad&as_all_op=unaccent__icontains&prev=as
+;TOC;HTML;https://elibro.net/es/lc/ipn/colecciones/ELC004?prev=col
+271086;BOOK;PDF;https://elibro.net/es/ereader/bibliotecaudb/271086
+271086;RECORD_VIEW;HTML;https://elibro.net/es/lc/bibliotecaudb/titulos/271086
+61256;BOOK;PDF;https://elibro.net/es/ereader/bibliotecaudb/61256
+61699;BOOK;PDF;https://elibro.net/es/ereader/csic/61699
+58469;BOOK;PDF;https://elibro.net/es/ereader/csic/58469
+58469;RECORD_VIEW;HTML;https://elibro.net/es/lc/csic/titulos/58469
+35303;RECORD_VIEW;HTML;https://elibro.net/es/lc/csic/titulos/35303
+;SEARCH;HTML;https://elibro.net/es/lc/csic/busqueda_avanzada?as_all=Mundo&as_all_op=unaccent__icontains&prev=as
+;SEARCH;HTML;https://elibro.net/es/lc/csic/busqueda_avanzada?as_all=Negocios&as_all_op=unaccent__icontains&prev=as
