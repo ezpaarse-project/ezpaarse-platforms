@@ -1,0 +1,13 @@
+{
+  "longname": "elDial.com",
+  "name": "eldial",
+  "describe": "Recognizes the accesses to the platform elDial.com",
+  "contact": "Violita Kovchegov",
+  "pkb": false,
+  "docurl": "https://analyses.ezpaarse.org/platforms/6753b96fd4cb8992c664f684",
+  "domains": [
+    "www.eldial.com"
+  ],
+  "version": "2025-02-07",
+  "status": "beta"
+}
