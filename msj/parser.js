@@ -111,7 +111,7 @@ module.exports = new Parser(function analyseEC(parsedUrl, ec) {
     result.mime     = 'HTML';
     result.doi      = `${match[2]}/${match[3]}`;
     result.db_id    = match[1];
-    result.unitid   = `${match[1]}/${match[2]}/${match[3]}`;
+    result.unitid   = `${match[2]}/${match[3]}`;
   } else if ((match = /^\/content\/journal\/([a-zA-Z0-9]+)\/browse$/i.exec(path)) !== null) {
     // https://www.microbiologyresearch.org/content/journal/micro/browse
     // https://www.microbiologyresearch.org/content/journal/mgen/browse
