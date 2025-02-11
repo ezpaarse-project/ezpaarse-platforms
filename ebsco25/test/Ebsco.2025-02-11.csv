@@ -1,0 +1,11 @@
+out-db_id;out-unitid;out-rtype;out-mime;in-url
+;;SEARCH;HTML;https://research-ebsco-com.inee.bib.cnrs.fr/api/search/v1/search?applyAllLimiters=true&includeSavedItems=false
+;w2sj2vnexn;RECORD;HTML;https://research-ebsco-com.inee.bib.cnrs.fr/api/search/v2/details?recordId=w2sj2vnexn&profileIdentifier=dgznfn
+;w2sj2vnexn;ARTICLE;PDF;https://research-ebsco-com.inee.bib.cnrs.fr/api/viewer/v5/details/w2sj2vnexn?opid=dgznfn
+kah,mlf;seiqme3mwr;RECORD;HTML;https://research.ebsco.com/c/kczqeg/search/details/seiqme3mwr?db=kah%2Cmlf&isDashboardExpanded=false&limiters=None&q=A14
+;zcsn4yhmbv;ARTICLE;HTML;https://research-ebsco-com.ezproxy.unilim.fr/c/kczqeg/viewer/html/zcsn4yhmbv
+;zcsn4yhmbv;ARTICLE;PDF;https://research-ebsco-com.ezproxy.unilim.fr/c/kczqeg/viewer/pdf/zcsn4yhmbv
+nlebk;nsywpxxlmv;RECORD;HTML;https://research-ebsco-com.ezproxy.unilim.fr/c/cp44gr/search/details/nsywpxxlmv?db=nlebk
+nlebk;nsywpxxlmv;BOOK;HTML;https://viewer-ebscohost-com.ezproxy.unilim.fr/EbscoViewerService/ebook?an=157704&callbackUrl=https%3a%2f%2fresearch.ebsco.com&db=nlebk&format=EK&profId=eds&lpid=&ppid=&lang=fr&location=https%3a%2f%2fresearch-ebsco-com.ezproxy.unilim.fr%2fc%2fcp44gr%2fsearch%2fdetails%2fnsywpxxlmv%3fdb%3dnlebk&isPLink=False&requestContext=&profileIdentifier=cp44gr&recordId=nsywpxxlmv
+nlebk;nsywpxxlmv;BOOK;PDF;https://viewer-ebscohost-com.ezproxy.unilim.fr/EbscoViewerService/ebook?an=157704&callbackUrl=https%3a%2f%2fresearch.ebsco.com&db=nlebk&format=EB&profId=eds&lpid=&ppid=&lang=fr&location=https%3a%2f%2fresearch-ebsco-com.ezproxy.unilim.fr%2fc%2fcp44gr%2fsearch%2fdetails%2fnsywpxxlmv%3fdb%3dnlebk&isPLink=False&requestContext=&profileIdentifier=cp44gr&recordId=nsywpxxlmv
+;w2sj2vnexn;ARTICLE;HTML;https://research-ebsco-com.inee.bib.cnrs.fr/api/viewer/v6/htmlfulltext/w2sj2vnexn?opid=dgznfn
