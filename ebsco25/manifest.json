@@ -1,0 +1,14 @@
+{
+  "longname": "Ebsco Host 2025",
+  "name": "ebsco25",
+  "describe": "Recognizes the accesses to the platform Ebsco Host 2025",
+  "contact": "Frederic Truong inist",
+  "pkb": false,
+  "docurl": "https://analyses.ezpaarse.org/platforms/632b48ac2cde73015cd63cd3",
+  "domains": [
+    "research.ebsco.com",
+    "viewer.ebscohost.com"
+  ],
+  "version": "2025-02-11",
+  "status": "beta"
+}
