@@ -3,7 +3,7 @@
   "name": "torrossa",
   "describe": "Recognizes the accesses to the platform Torrossa",
   "contact": "Violita Kovchegov",
-  "pkb": false,
+  "pkb": true,
   "docurl": "http://analyses.ezpaarse.org/platforms/5587c342a995c9afcfbb30c8",
   "domains": [
     "www.torrossa.com",
