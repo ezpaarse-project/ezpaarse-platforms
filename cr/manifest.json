@@ -1,0 +1,15 @@
+{
+  "longname": "Campus Review",
+  "name": "cr",
+  "describe": "Recognizes the accesses to the platform Campus Review",
+  "contact": "Violita Kovchegov",
+  "pkb": false,
+  "docurl": "https://analyses.ezpaarse.org/platforms/67a377895bff01c498b868ad",
+  "domains": [
+    "viewer.joomag.com",
+    "www-campusreview-com-au.libraryproxy.griffith.edu.au",
+    "www.campusreview.com.au"
+  ],
+  "version": "2025-02-20",
+  "status": "beta"
+}
