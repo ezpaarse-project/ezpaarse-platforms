@@ -1,0 +1,14 @@
+{
+  "longname": "Pitchbook",
+  "name": "pitchbook",
+  "describe": "Recognizes the accesses to the platform Pitchbook",
+  "contact": "kgilje@upenn.edu",
+  "pkb": false,
+  "docurl": "",
+  "domains": [
+    "my.pitchbook.com",
+    "files.pitchbook.com"
+  ],
+  "version": "2025-03-14",
+  "status": "beta"
+}
