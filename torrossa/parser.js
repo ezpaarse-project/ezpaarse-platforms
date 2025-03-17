@@ -61,6 +61,12 @@ module.exports = new Parser(function analyseEC(parsedUrl, ec) {
     result.rtype = 'BOOK';
     result.mime = 'PDF';
     result.unitid = match[1];
+  } else if ((match = /^\/digital\/doc\/([0-9]+)_[a-z0-9.]+$/i.exec(path)) !== null) {
+    // /digital/doc/4443854_ab7000e724a.pdf
+    result.rtype = 'BOOK';
+    result.mime = 'PDF';
+    result.unitid = match[1];
+    result.title_id = match[1];
   }
 
   return result;
