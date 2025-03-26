@@ -66,11 +66,6 @@ module.exports = new Parser(function analyseEC(parsedUrl, ec) {
       result.mime     = 'HTML';
       result.unitid   = 'consumer';
     }
-    else if (path === '/') {
-      // https://clients.mintel.com/
-      result.rtype    = 'TOC';
-      result.mime     = 'HTML';
-    }
     else if (path === '/my-account') {
       // https://clients.mintel.com/my-account
       result.rtype    = 'RECORD';
@@ -91,11 +86,16 @@ module.exports = new Parser(function analyseEC(parsedUrl, ec) {
         result.query = param.freetext;
       }
     }
+    else if (path === '/') {
+      // https://clients.mintel.com/
+      result.rtype    = 'TOC';
+      result.mime     = 'HTML';
+    }
   }
 
   // Handle reports.mintel.com domain
   else if (hostname === 'reports.mintel.com') {
-    if ((match = /^\/display\/([0-9]+)$/i.exec(path)) !== null) {
+    if ((match = /^\/display\/([0-9]+)?\/$/i.exec(path)) !== null) {
       // https://reports.mintel.com/display/1155195/
       result.rtype    = 'REPORT';
       result.mime     = 'HTML';
