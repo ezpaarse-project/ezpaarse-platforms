@@ -1,0 +1,40 @@
+{
+  "version": "2024-02-13",
+  "status": "stable",
+  "domains": [
+    "academic.mintel.com",
+    "clients.mintel.com",
+    "reports.mintel.com",
+    "data.mintel.com",
+    "marketsizes.mintel.com",
+    "store.mintel.com",
+    "help.mintel.com"
+  ],
+  "recognize": {
+    "rid": [
+      "unitid",
+      "publication_location",
+      "content_type",
+      "query",
+      "title_id"
+    ],
+    "rtype": [
+      "ABS",
+      "ANALYSIS",
+      "ARTICLE",
+      "DATASET",
+      "REPORT",
+      "RECORD",
+      "SEARCH",
+      "TOC"
+    ],
+    "mime": [
+      "HTML"
+    ]
+  },
+  "name": "mintel",
+  "longname": "Mintel",
+  "describe": "Recognizes the accesses to the Mintel market research platform",
+  "docurl": "http://analyses.ezpaarse.org/platforms/mintel/",
+  "contact": "ezpaarse@couperin.org"
+} 
