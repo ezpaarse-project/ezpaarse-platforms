@@ -26,7 +26,6 @@ module.exports = new Parser(function analyseEC(parsedUrl, ec) {
     // /licence/aims-revues
     result.rtype    = 'RECORD';
     result.mime     = 'HTML';
-    // result.title_id = match[1];
     result.unitid   = match[1];
   } else if ((match = /^\/sites\/default\/files\/licences\/publics\/([a-z0-9_-]+(\.[a-z]+)?)$/i.exec(path)) !== null) {
     // /sites/default/files/licences/publics/JSTORMathStatdec2020_0.ods
@@ -36,6 +35,8 @@ module.exports = new Parser(function analyseEC(parsedUrl, ec) {
     let mime = 'MISC';
     if (/^\.(ods|xls)x?$/i.test(match[2])) {
       mime = 'XLS';
+    } else if (/^\.(odt|doc)x?$/i.test(match[2])) {
+      mime = 'DOC';
     } else if (/^\.pdf$/i.test(match[2])) {
       mime = 'PDF';
     }
