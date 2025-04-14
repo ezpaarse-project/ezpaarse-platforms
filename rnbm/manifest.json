@@ -1,0 +1,13 @@
+{
+  "longname": "Licence RNBM",
+  "name": "rnbm",
+  "describe": "Recognizes the accesses to the platform Licence RNBM",
+  "contact": "thomas.porquet",
+  "pkb": false,
+  "docurl": "https://analyses.ezpaarse.org/platforms/67e55461addb102e0b1faa06",
+  "domains": [
+    "licence.rnbm.org"
+  ],
+  "version": "2025-04-08",
+  "status": "beta"
+}
