@@ -337,6 +337,10 @@
       "comment": "cas des base de données: ZbMATH, MathSciNet...",
       "comment_en": "case of databases: ZbMATH, MathSciNet..."
     },{
+      "code": "SEARCH_FACET",
+      "description": "Recherche de ressources documentaires par facettes",
+      "description_en": "Search for information resources by facets"
+    },{
       "code": "SESSION",
       "description": "Connection",
       "comment": "cas de la plateforme Reaxys",
