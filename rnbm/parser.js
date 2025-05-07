@@ -20,38 +20,37 @@ module.exports = new Parser(function analyseEC(parsedUrl, ec) {
 
   if ((match = /^\/trouver\/?$/i.exec(path)) !== null) {
     // /trouver?search_api_fulltext=jstor
-    result.rtype    = 'SEARCH';
-    result.mime     = 'HTML';
+    result.rtype = 'SEARCH';
+    result.mime  = 'HTML';
   } else if ((match = /^\/licence\/([a-z0-9-]+)\/?$/i.exec(path)) !== null) {
     // /licence/aims-revues
-    result.rtype    = 'RECORD';
-    result.mime     = 'HTML';
-    result.unitid   = match[1];
+    result.rtype  = 'RECORD';
+    result.mime   = 'HTML';
+    result.unitid = match[1];
   } else if ((match = /^\/sites\/default\/files\/licences\/publics\/([a-z0-9_-]+(\.[a-z]+)?)$/i.exec(path)) !== null) {
     // /sites/default/files/licences/publics/JSTORMathStatdec2020_0.ods
-    result.rtype    = 'METADATA';
-    result.unitid   = match[1];
+    result.rtype  = 'METADATA';
+    result.unitid = match[1];
+    result.mime   = 'MISC';
 
-    let mime = 'MISC';
     if (/^\.(ods|xls)x?$/i.test(match[2])) {
-      mime = 'XLS';
+      result.mime = 'XLS';
     } else if (/^\.(odt|doc)x?$/i.test(match[2])) {
-      mime = 'DOC';
+      result.mime = 'DOC';
     } else if (/^\.pdf$/i.test(match[2])) {
-      mime = 'PDF';
+      result.mime = 'PDF';
     }
-    result.mime     = mime;
   } else if ((match = /^(?:\/index.php)?\/news\/(([0-9]{4})([0-9]{2})([0-9]{2}))\/?$/i.exec(path)) !== null) {
     // /news/20240312
-    result.rtype    = 'ARTICLE';
-    result.mime     = 'HTML';
-    result.unitid   = match[1];
-    result.publication_date = match[2] + '-' + match[3] + '-' + match[4];
+    result.rtype  = 'ARTICLE';
+    result.mime   = 'HTML';
+    result.unitid = match[1];
+    result.publication_date = `${match[2]}-${match[3]}-${match[4]}`;
   } else if ((match = /^\/mot-cle\/([a-z0-9-]+)\/?$/i.exec(path)) !== null) {
     // /mot-cle/ams
-    result.rtype    = 'SEARCH_FACET';
-    result.mime     = 'HTML';
-    result.unitid   = match[1];
+    result.rtype  = 'SEARCH_FACET';
+    result.mime   = 'HTML';
+    result.unitid = match[1];
   }
 
   return result;
