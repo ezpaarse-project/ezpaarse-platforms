@@ -1,0 +1,13 @@
+{
+  "longname": "Edimark",
+  "name": "edimark",
+  "describe": "Recognizes the accesses to the platform Edimark",
+  "contact": "Frederic Truong inist",
+  "pkb": false,
+  "docurl": "https://analyses.ezpaarse.org/platforms/682c6dabbc9ba58a50e26589",
+  "domains": [
+    "www.edimark.fr"
+  ],
+  "version": "2025-05-28",
+  "status": "beta"
+}
