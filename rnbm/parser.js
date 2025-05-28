@@ -48,7 +48,7 @@ module.exports = new Parser(function analyseEC(parsedUrl, ec) {
     result.publication_date = `${match[2]}-${match[3]}-${match[4]}`;
   } else if ((match = /^\/mot-cle\/([a-z0-9-]+)\/?$/i.exec(path)) !== null) {
     // /mot-cle/ams
-    result.rtype  = 'SEARCH_FACET';
+    result.rtype  = 'FACETED_SEARCH';
     result.mime   = 'HTML';
     result.unitid = match[1];
   }

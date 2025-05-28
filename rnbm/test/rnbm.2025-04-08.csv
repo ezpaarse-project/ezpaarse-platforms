@@ -3,4 +3,4 @@ out-title_id;out-publication_date;out-unitid;out-rtype;out-mime;in-url
 ;;;SEARCH;HTML;https://licence.rnbm.org/trouver?search_api_fulltext=jstor
 ;;JSTORMathStatdec2020_0.ods;METADATA;XLS;https://licence.rnbm.org/sites/default/files/licences/publics/JSTORMathStatdec2020_0.ods
 ;2024-03-12;20240312;ARTICLE;HTML;https://licence.rnbm.org/news/20240312
-;;ams;SEARCH_FACET;HTML;https://licence.rnbm.org/mot-cle/ams
+;;ams;FACETED_SEARCH;HTML;https://licence.rnbm.org/mot-cle/ams
