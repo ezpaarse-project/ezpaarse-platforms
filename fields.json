@@ -337,7 +337,7 @@
       "comment": "cas des base de données: ZbMATH, MathSciNet...",
       "comment_en": "case of databases: ZbMATH, MathSciNet..."
     },{
-      "code": "SEARCH_FACET",
+      "code": "FACETED_SEARCH",
       "description": "Recherche de ressources documentaires par facettes",
       "description_en": "Search for information resources by facets"
     },{
