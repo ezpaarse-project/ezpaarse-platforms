@@ -1,0 +1,13 @@
+{
+  "longname": "Tribune de l'Art",
+  "name": "tda",
+  "describe": "Recognizes the accesses to the platform Tribune de l'Art",
+  "contact": "Frederic Truong inist",
+  "pkb": false,
+  "docurl": "https://analyses.ezpaarse.org/platforms/682c6dcbd842ef7509c34a3b",
+  "domains": [
+    "www.latribunedelart.com"
+  ],
+  "version": "2025-05-28",
+  "status": "beta"
+}
