@@ -7,11 +7,9 @@
     "www.clinicalkey.com.au",
     "www.clinicalkey.jp"
   ],
-  "recognize": {
-    "rid": [
-      "unitid",
-      "pii"
-    ]
+  "bacon": {
+    "provider": "ELSEVIER",
+    "matches": ["CLINICALKEY"]
   },
   "name": "ck",
   "longname": "ClinicalKey",
