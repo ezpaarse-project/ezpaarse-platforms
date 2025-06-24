@@ -3,6 +3,8 @@
 'use strict';
 const Parser = require('../.lib/parser.js');
 
+const piiPattern = /^\d-s\d\.\d-(([SB]).*)/i;
+
 /**
  * Recognizes the accesses to the platform ClinicalKey
  * @param  {Object} parsedUrl an object representing the URL to analyze
@@ -28,6 +30,7 @@ module.exports = new Parser(function analyseEC(parsedUrl, ec) {
     result.rtype  = 'TOC';
     result.mime   = 'HTML';
     result.unitid = match[1];
+    result.title_id = match[1];
     result.print_identifier = `${match[1].substring(0, 4)}-${match[1].substring(4, 8)}`;
 
   } else if ((match = /^\/student\/content\/(toc|book|emc)\/(\d+-s\d\.\d-([SBC][a-z0-9]+))$/i.exec(path)) !== null) {
@@ -36,27 +39,22 @@ module.exports = new Parser(function analyseEC(parsedUrl, ec) {
     // /student/content/emc/51-s2.0-S1155194114514205
 
     result.unitid = match[2];
+    result.title_id = match[2];
+    result.pii = match[3];
 
     switch (match[1]) {
     case 'toc':
-      result.rtype    = 'TOC';
-      result.mime     = 'HTML';
-      result.title_id = match[3];
+      result.rtype = 'TOC';
+      result.mime  = 'HTML';
       break;
     case 'book':
       result.rtype = 'BOOK_SECTION';
       result.mime  = 'HTML';
-      result.pii   = match[3];
       break;
     case 'emc':
       result.rtype = 'ARTICLE';
       result.mime  = 'HTML';
-      result.pii   = match[3];
       break;
-    }
-
-    if (result.pii && result.pii.startsWith('S')) {
-      result.print_identifier = `${result.pii.substring(1, 5)}-${result.pii.substring(5, 9)}`;
     }
 
   } else if (/^\/ui\/service\/content\/html$/i.test(path)) {
@@ -65,8 +63,9 @@ module.exports = new Parser(function analyseEC(parsedUrl, ec) {
 
     result.mime   = 'HTML';
     result.unitid = params.eid;
+    result.title_id = params.eid;
 
-    const piiMatch = /^\d-s\d\.\d-(([SB]).*)/i.exec(params.eid);
+    const piiMatch = piiPattern.exec(params.eid);
 
     if (piiMatch) {
       result.rtype = piiMatch[2] === 'S' ? 'ARTICLE' : 'BOOK';
@@ -81,22 +80,31 @@ module.exports = new Parser(function analyseEC(parsedUrl, ec) {
     }
     result.mime   = 'PDF';
     result.unitid = match[1];
+    result.title_id = match[1];
     result.pii    = match[2];
   } else if ((match = /\/service\/content\/ck\/([0-9a-z-]*?-[0-9a-z.]*?-[0-9a-zA-Z-_]*)/i.exec(path)) !== null) {
     // /ui/service/content/ck/31-s2.0-50300
     result.rtype    = 'RECORD_VIEW';
     result.mime     = 'HTML';
     result.unitid   = match[1];
+    result.title_id = match[1];
   } else if ((match = /^\/ui\/service\/clinical_overviews\/html\/(.+?)$/i.exec(path)) !== null) {
     // /ui/service/clinical_overviews/html/67-s2.0-3ccbf894-f46b-41db-9321-02dea462dc2c?separateUrgentAction=true&boxes=Differential%20Diagnosis&accordions=Diagnostic%20Procedures&references=true&imageHtml=true&crossLinkHtml=true&product=global
     result.rtype    = 'RECORD_VIEW';
     result.mime     = 'HTML';
     result.unitid   = match[1];
+    result.title_id = match[1];
   } else if ((match = /\/service\/browse\/(.+?)\/toc$/i.exec(path)) !== null) {
     // /service/browse/1-s2.0-S0306460317X00117/toc?hubeid=1-s2.0-S0306460317X00117&product=en_US&rows=9999&start=0
     result.rtype    = 'TOC';
     result.mime     = 'HTML';
     result.unitid   = match[1];
+    result.title_id = match[1];
+
+    const piiMatch = piiPattern.exec(result.unitid);
+    if (piiMatch) {
+      result.pii = piiMatch[1];
+    }
   } else if (/^\/service\/browse\/drugs$/i.test(path)) {
     // /service/browse/drugs?ckproduct=CK_US&contenttype=DM&firstchar=O&onlyEntitled=true&product=en_US&rows=50
     result.rtype    = 'TOC';
@@ -106,6 +114,22 @@ module.exports = new Parser(function analyseEC(parsedUrl, ec) {
     result.rtype    = 'RECORD_VIEW';
     result.mime     = 'HTML';
     result.unitid   = match[1];
+  }
+
+  if (result.pii) {
+    if (result.pii.startsWith('S')) {
+      // S0306460317X00117 => 0306-4603
+      result.print_identifier = `${result.pii.substring(1, 5)}-${result.pii.substring(5, 9)}`;
+    } else if (result.pii.startsWith('B')) {
+      // B978229475106600032X => 978-2-294-75106-6
+      result.print_identifier = [
+        result.pii.substring(1, 4),
+        result.pii.substring(4, 5),
+        result.pii.substring(5, 8),
+        result.pii.substring(8, 13),
+        result.pii.substring(13, 14),
+      ].join('-');
+    }
   }
 
   return result;
