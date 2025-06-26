@@ -16,5 +16,9 @@
     "rss.sciencedirect.com",
     "reader.elsevier.com",
     "pdf.sciencedirectassets.com"
-  ]
+  ],
+  "bacon": {
+    "provider": "ELSEVIER",
+    "matches": ["SCIENCEDIRECT-ALLTITLES"]
+  }
 }
