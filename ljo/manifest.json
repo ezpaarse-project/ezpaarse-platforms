@@ -1,0 +1,13 @@
+{
+  "longname": "Les Jours",
+  "name": "ljo",
+  "describe": "Recognizes the accesses to the platform Les Jours",
+  "contact": "thomas.porquet",
+  "pkb": false,
+  "docurl": "https://analyses.ezpaarse.org/platforms/67fe6d8821542abe179862f5",
+  "domains": [
+    "lesjours.fr"
+  ],
+  "version": "2025-07-02",
+  "status": "beta"
+}
