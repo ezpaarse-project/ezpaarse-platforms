@@ -1,0 +1,13 @@
+{
+  "longname": "Elgaronline",
+  "name": "elgar",
+  "describe": "Recognizes the accesses to the platform Elgaronline",
+  "contact": "Frederic Truong inist",
+  "pkb": false,
+  "docurl": "https://analyses.ezpaarse.org/platforms/56b85fc4b6ff1a4ef762b9a8",
+  "domains": [
+    "www.elgaronline.com"
+  ],
+  "version": "2025-07-02",
+  "status": "beta"
+}
