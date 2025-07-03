@@ -20,11 +20,11 @@ module.exports = new Parser(function analyseEC(parsedUrl, ec) {
     result.rtype = 'SEARCH';
     result.mime  = 'HTML';
 
-  } else if (/^\/obsessions\/?$/i.test(path)) {
+  } else if ((match = /^\/(obsessions|episodes|les-jours-en-clair|podcasts)\/?$/i.exec(path)) !== null) {
     // https://lesjours.fr/obsessions/
     result.rtype  = 'TOC';
     result.mime   = 'HTML';
-    result.unitid = 'obsessions';
+    result.unitid = match[1];
 
   } else if ((match = /^\/obsessions\/([a-z0-9_.-]+\/[a-z0-9_.-]+)\/?$/i.exec(path)) !== null) {
     // https://lesjours.fr/obsessions/la-fete-du-stream-6/ep1-bonnes-feuilles-pelly/
