@@ -17,7 +17,7 @@ module.exports = new Parser(function analyseEC(parsedUrl, ec) {
   let match;
 
   if ((match = /^\/view\/journals\/([a-z]+)\/[0-9-]+\/([a-z]+\.([0-9]+)\.([0-9]+)\.issue-([0-9]+))\.xml$/i.exec(path)) !== null) {
-  // https://www.elgaronline.com/view/journals/clj/20-4/clj.2021.20.issue-4.xml
+    // /view/journals/clj/20-4/clj.2021.20.issue-4.xml
     result.rtype = 'TOC';
     result.mime = 'HTML';
     result.title_id = match[1];
@@ -27,8 +27,8 @@ module.exports = new Parser(function analyseEC(parsedUrl, ec) {
     result.issue = match[5];
 
   } else if ((match = /^(?:\/downloadpdf)?\/view\/journals\/(([a-z]+)\/([0-9]+)\/([0-9]+)\/article-p([0-9]+))\.(xml|pdf)$/i.exec(path)) !== null) {
-    // https://www.elgaronline.com/view/journals/clj/23/3/article-p148.xml
-    // https://www.elgaronline.com/downloadpdf/view/journals/clj/23/3/article-p137.pdf
+    // /view/journals/clj/23/3/article-p148.xml
+    // /downloadpdf/view/journals/clj/23/3/article-p137.pdf
     result.rtype = 'ARTICLE';
     result.mime = match[6] === 'pdf' ? 'PDF' : 'HTML';
     result.title_id = match[2];
@@ -38,20 +38,22 @@ module.exports = new Parser(function analyseEC(parsedUrl, ec) {
     result.first_page = match[5];
 
   } else if ((match = /^(?:\/downloadpdf)?\/edcollchap-oa\/edcoll\/([0-9X]+)\/([0-9X.]+)\.(pdf|xml)$/i.exec(path)) !== null) {
-    // https://www.elgaronline.com/edcollchap-oa/edcoll/9781788118187/9781788118187.00011.xml
-    // https://www.elgaronline.com/downloadpdf/edcollchap-oa/edcoll/9781788118187/9781788118187.00011.pdf
+    // /edcollchap-oa/edcoll/9781788118187/9781788118187.00011.xml
+    // /downloadpdf/edcollchap-oa/edcoll/9781788118187/9781788118187.00011.pdf
     result.rtype = 'BOOK_SECTION';
     result.mime = match[3] === 'pdf' ? 'PDF' : 'HTML';
     result.unitid = match[2];
     result.online_identifier = match[1];
     result.doi = `${doiPrefix}/${result.unitid}`;
 
-  } else if ((match = /^(?:\/downloadpdf)?\/display\/book\/(?:b-)?(([0-9X]+)\/([0-9X]+|chapter[0-9]+))\.(pdf|xml)$/i.exec(path)) !== null) {
-    // https://www.elgaronline.com/display/book/9781800886933/b-9781800886933.african.intellectual.property.organization.xml
-    // https://www.elgaronline.com/display/book/9781800886933/9781800886933.xml
-    // https://www.elgaronline.com/display/book/9781035306459/chapter36.xml
-    // https://www.elgaronline.com/downloadpdf/display/book/9781035306459/chapter36.pdf
-    result.rtype = /^[0-9]+$/.test(match[3]) ? 'BOOK' : 'BOOK_SECTION';
+  // } else if ((match = /^(?:\/downloadpdf)?\/display\/book\/(([0-9X]+)\/(?:b-)?([0-9X]+|chapter[0-9]+))\.(pdf|xml)$/i.exec(path)) !== null) {
+  } else if ((match = /^(?:\/downloadpdf)?\/display\/book\/((97[0-9X]+)\/(?:b-)?([a-z0-9_.-]+))\.(pdf|xml)$/i.exec(path)) !== null) {
+    // /display/book/9781800886933/b-9781800886933.african.intellectual.property.organization.xml
+    // /display/book/9781803920924/book-part-9781803920924-38.xml
+    // /display/book/9781800886933/9781800886933.xml
+    // /display/book/9781035306459/chapter36.xml
+    // /downloadpdf/display/book/9781035306459/chapter36.pdf
+    result.rtype = match[2] === match[3] ? 'TOC' : 'BOOK_SECTION';
     result.mime = match[4] === 'pdf' ? 'PDF' : 'HTML';
     result.online_identifier = match[2];
 
@@ -63,8 +65,8 @@ module.exports = new Parser(function analyseEC(parsedUrl, ec) {
     }
 
   } else if ((match = /^(?:\/downloadpdf)?\/monochap\/(([0-9X]+)\.[0-9]+)\.(pdf|xml)$/i.exec(path)) !== null) {
-    // https://www.elgaronline.com/monochap/9781849808606.00008.xml
-    // https://www.elgaronline.com/downloadpdf/monochap/9781849808606.00008.pdf
+    // /monochap/9781849808606.00008.xml
+    // /downloadpdf/monochap/9781849808606.00008.pdf
     result.rtype = 'BOOK_SECTION';
     result.mime = match[3] === 'pdf' ? 'PDF' : 'HTML';
     result.unitid = match[1];
