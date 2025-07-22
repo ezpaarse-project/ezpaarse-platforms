@@ -10,7 +10,10 @@
   "pkb": true,
   "bacon": {
     "provider": "SPRINGER",
-    "matched": ["GLOBAL"]
+    "matches": [
+      "GLOBAL_ALLJOURNALS",
+      "GLOBAL_ALLEBOOKS"
+    ]
   },
   "domains": [
     "rd.springer.com",

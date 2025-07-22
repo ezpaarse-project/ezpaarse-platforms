@@ -17,6 +17,9 @@
 	],
   "bacon": {
     "provider": "CAIRN",
-    "matches": ["GLOBAL"]
+    "matches": [
+      "GLOBAL_ALLJOURNALS",
+      "GLOBAL_ALLEBOOKS"
+    ]
   }
 }

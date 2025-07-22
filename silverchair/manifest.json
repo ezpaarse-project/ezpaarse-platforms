@@ -10,7 +10,10 @@
       "GSW",
       "PORTLANDPRESS"
     ],
-    "matched": ["GLOBAL"]
+    "matches": [
+      "GLOBAL_ALLJOURNALS",
+      "GLOBAL_ALLEBOOKS"
+    ]
   },
   "domains": [
     "www.asmedigitalcollection.asme.org",

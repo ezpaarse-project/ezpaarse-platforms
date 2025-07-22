@@ -119,6 +119,9 @@
   ],
   "bacon": {
     "provider": "WILEY",
-    "matched": ["GLOBAL"]
+    "matches": [
+      "GLOBAL_ALLJOURNALS",
+      "GLOBAL_ALLEBOOKS"
+    ]
   }
 }

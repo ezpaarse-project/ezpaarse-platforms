@@ -11,7 +11,10 @@
   "pkb": true,
   "bacon": {
     "provider": "AIP",
-    "matches": ["GLOBAL"]
+    "matches": [
+      "GLOBAL_ALLJOURNALS",
+      "GLOBAL_ALLEBOOKS"
+    ]
   },
 	"domains": [
     "scitation.aip.org",
