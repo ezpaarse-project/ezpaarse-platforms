@@ -6,16 +6,13 @@ Acta Crystallographica Section C	0108-2701	1600-5759	2013						http://onlinelibr
 Acta Crystallographica. Section D, Biological Crystallography.	0907-4449	1399-0047	2013						http://onlinelibrary.wiley.com/journal/10.1111/(ISSN)1399-0047		10.1111/(ISSN)1399-0047		fulltext		Wiley	serial								P	108535177
 Acta Crystallographica Section F		1744-3091	2013						http://onlinelibrary.wiley.com/journal/10.1111/(ISSN)1744-3091		10.1111/(ISSN)1744-3091		fulltext		Wiley	serial								P	108539768
 Adultspan Journal	1524-6817	2161-0029	2013						http://onlinelibrary.wiley.com/journal/10.1002/(ISSN)2161-0029		10.1002/(ISSN)2161-0029		fulltext		Wiley	serial								P	174287712
-Alternatives To The High Cost Of Litigation	1549-4373	1549-4381	2013						http://onlinelibrary.wiley.com/journal/10.1002/(ISSN)1549-4381		10.1002/(ISSN)1549-4381		fulltext		Wiley	serial								P	097515299
 American Journal Of Medical Genetics Part A	1552-4825	1552-4833	2013						http://onlinelibrary.wiley.com/journal/10.1002/(ISSN)1552-4833		10.1002/(ISSN)1552-4833		fulltext		Wiley	serial								P	08314014X
 American Journal Of Medical Genetics Part C: Seminars In Medical Genetics	1552-4868	1552-4876	2013						http://onlinelibrary.wiley.com/journal/10.1002/(ISSN)1552-4876		10.1002/(ISSN)1552-4876		fulltext		Wiley	serial								P	097206040
 American Journal Of Transplantation	1600-6135	1600-6143	2001	1					http://onlinelibrary.wiley.com/journal/10.1111/(ISSN)1600-6143		10.1111/(ISSN)1600-6143		fulltext		Wiley	serial								P	108976874
-Art History	0141-6790	1467-8365	2013						http://onlinelibrary.wiley.com/journal/10.1111/(ISSN)1467-8365		10.1111/(ISSN)1467-8365		fulltext		Wiley	serial								P	05828723X
 Australian Journal Of Psychology	0004-9530	1742-9536	2013						http://onlinelibrary.wiley.com/journal/10.1111/(ISSN)1742-9536		10.1111/(ISSN)1742-9536		fulltext		Wiley	serial								P	10806896X
 Australian Psychologist	0005-0067		2013						http://onlinelibrary.wiley.com/journal/10.1111/(ISSN)1742-9544/issues		10.1111/(ISSN)1742-9544		fulltext		Wiley	serial								P	
 Autonomic And Autacoid Pharmacology	1474-8665	1474-8673	2013						http://onlinelibrary.wiley.com/journal/10.1111/(ISSN)1474-8673		10.1111/(ISSN)1474-8673		fulltext		Wiley	serial								P	069599653
 Biologie In Unserer Zeit (biuz)	0045-205X	1521-415X	2000	30					http://onlinelibrary.wiley.com/journal/10.1002/(ISSN)1521-415X		10.1002/(ISSN)1521-415X		fulltext		Wiley	serial								P	09850603X
-Biometrics	0006-341X	1541-0420	2013						http://onlinelibrary.wiley.com/journal/10.1111/(ISSN)1541-0420		10.1111/(ISSN)1541-0420		fulltext		Wiley	serial								P	081200129
 Bjog : An International Journal Of Obstetrics And Gynaecology	1470-0328	1471-0528	2012						http://onlinelibrary.wiley.com/journal/10.1111/%28ISSN%291471-0528/issues		10.1111/%28ISSN%291471-0528		fulltext		Wiley	serial								P	050929356
 British Journal Of Dermatology	0007-0963	1365-2133	2013						http://onlinelibrary.wiley.com/journal/10.1111/(ISSN)1365-2133/issues		10.1111/(ISSN)1365-2133		fulltext		Wiley	serial								P	040645584
 British Journal Of Surgery	0007-1323	1365-2168	2013						http://onlinelibrary.wiley.com/journal/10.1002/(ISSN)1365-2168		10.1002/(ISSN)1365-2168		fulltext		Wiley	serial								P	040645614
@@ -47,7 +44,6 @@ Future Prescriber	1468-9871	1931-2261	2013						http://onlinelibrary.wiley.com/j
 Geographical Review	0016-7428	1931-0846	2013						http://onlinelibrary.wiley.com/journal/10.1001/(ISSN)1931-0846		10.1001/(ISSN)1931-0846		fulltext		Wiley	serial								P	116975571
 German Economic Review	1465-6485	1468-0475	2013						http://onlinelibrary.wiley.com/journal/10.1111/(ISSN)1468-0475		10.1111/(ISSN)1468-0475		fulltext		Wiley	serial								P	090128168
 German Research	0172-1526	1522-2322	2001	23					http://onlinelibrary.wiley.com/journal/10.1002/(ISSN)1522-2322		10.1002/(ISSN)1522-2322		fulltext		Wiley	serial								P	064164365
-Hepatology	0270-9139	1527-3350	1996	23					http://onlinelibrary.wiley.com/journal/10.1002/(ISSN)1527-3350		10.1002/(ISSN)1527-3350		fulltext		Wiley	serial								P	048903817
 Higher Education Abstracts	0748-4364	2150-1092	2013						http://onlinelibrary.wiley.com/journal/10.1111/(ISSN)2150-1092		10.1111/(ISSN)2150-1092		fulltext		Wiley	serial								P	136639267
 Historian	0018-2370	1540-6563	2013						http://onlinelibrary.wiley.com/journal/10.1111/(ISSN)1540-6563		10.1111/(ISSN)1540-6563		fulltext		Wiley	serial								P	081906501
 Historical Research	0950-3471	1468-2281	2013						http://onlinelibrary.wiley.com/journal/10.1111/(ISSN)1468-2281		10.1111/(ISSN)1468-2281		fulltext		Wiley	serial								P	058288651
@@ -64,11 +60,9 @@ Journal Of Applied Biobehavioral Research	1071-2089	1751-9861	2013						http://o
 Journal Of Applied Crystallography	0021-8898	1600-5767	2013						http://onlinelibrary.wiley.com/journal/10.1111/(ISSN)1600-5767		10.1111/(ISSN)1600-5767		fulltext		Wiley	serial								P	110321448
 Journal Of Applied Microbiology	1364-5072	1365-2672	1997	82					http://onlinelibrary.wiley.com/journal/10.1111/(ISSN)1365-2672		10.1111/(ISSN)1365-2672		fulltext		Wiley	serial								P	050928090
 Journal Of Biomedical Materials Research Part B: Applied Biomaterials	1552-4973	1552-4981	2013						http://onlinelibrary.wiley.com/journal/10.1002/(ISSN)1552-4981		10.1002/(ISSN)1552-4981		fulltext		Wiley	serial								P	083140174
-Journal Of Bone And Mineral Research	0884-0431	1523-4681	1997	12					http://onlinelibrary.wiley.com/journal/10.1002/(ISSN)1523-4681		10.1002/(ISSN)1523-4681		fulltext		Wiley	serial								P	044996179
 Journal Of Chinese Philosophy	0301-8121	1540-6253	2013						http://onlinelibrary.wiley.com/journal/10.1111/(ISSN)1540-6253		10.1111/(ISSN)1540-6253		fulltext		Wiley	serial								P	076871304
 Journal Of College Counseling	1099-0399	2161-1882	2013						http://onlinelibrary.wiley.com/journal/10.1002/(ISSN)2161-1882		10.1002/(ISSN)2161-1882		fulltext		Wiley	serial								P	125209177
 Journal Of Communication	0021-9916	1460-2466	2013						http://onlinelibrary.wiley.com/journal/10.1111/(ISSN)1460-2466		10.1111/(ISSN)1460-2466		fulltext		Wiley	serial								P	058286527
-Journal Of Evolutionary Biology	1010-061X	1420-9101	1997	10					http://onlinelibrary.wiley.com/journal/10.1111/(ISSN)1420-9101		10.1111/(ISSN)1420-9101		fulltext		Wiley	serial								P	044875215
 Journal Of Experimental Zoology Part A: Ecological Genetics And Physiology	1932-5223	1932-5231	2013						http://onlinelibrary.wiley.com/journal/10.1002/(ISSN)1932-5223		10.1002/(ISSN)1932-5223		fulltext		Wiley	serial								P	113154712
 Journal Of Field Ornithology	0273-8570	1557-9263	2013						http://onlinelibrary.wiley.com/journal/10.1111/(ISSN)1557-9263		10.1111/(ISSN)1557-9263		fulltext		Wiley	serial								P	112783805
 Journal Of Food Science Education		1541-4329	2002	1					http://onlinelibrary.wiley.com/journal/10.1111/(ISSN)1541-4329		10.1111/(ISSN)1541-4329		fulltext		Wiley	serial								P	076872491
@@ -89,26 +83,20 @@ Journal Of The Royal Statistical Society: Series C (applied Statistics)	0035-925
 Journal Of Thrombosis And Haemostasis	1538-7933	1538-7836	2003	1					http://onlinelibrary.wiley.com/journal/10.1111/(ISSN)1538-7836		10.1111/(ISSN)1538-7836		fulltext		Wiley	serial								P	090130979
 Latin American Politics And Society	1531-426X	1548-2456	2013						http://onlinelibrary.wiley.com/journal/10.1111/(ISSN)1548-2456		10.1111/(ISSN)1548-2456		fulltext		Wiley	serial								P	076881849
 Law & Social Inquiry	0897-6546	1545-696X	2013						http://onlinelibrary.wiley.com/journal/10.1111/(ISSN)1747-4469/issues		10.1111/(ISSN)1747-4469		fulltext		Wiley	serial								P	
-Law & Society Review	0023-9216	1540-5893	2013						http://onlinelibrary.wiley.com/journal/10.1111/(ISSN)1540-5893		10.1111/(ISSN)1540-5893		fulltext		Wiley	serial								P	076373746
-Learning Disabilities Research & Practice	0938-8982	1540-5826	2013						http://onlinelibrary.wiley.com/journal/10.1111/(ISSN)1540-5826		10.1111/(ISSN)1540-5826		fulltext		Wiley	serial								P	076871231
 Legal Studies	0261-3875	1748-121X	2013						http://onlinelibrary.wiley.com/journal/10.1111/(ISSN)1748-121X		10.1111/(ISSN)1748-121X		fulltext		Wiley	serial								P	110805275
 Lethaia	0024-1164	1502-3931	2013						http://onlinelibrary.wiley.com/journal/10.1111/(ISSN)1502-3931		10.1111/(ISSN)1502-3931		fulltext		Wiley	serial								P	058349812
 Letters In Applied Microbiology	0266-8254	1472-765X	1997	24					http://onlinelibrary.wiley.com/journal/10.1111/(ISSN)1472-765X		10.1111/(ISSN)1472-765X		fulltext		Wiley	serial								P	058290710
 Limnology & Oceanography: Methods	1541-5856	1541-5856	2013						http://aslopubs.onlinelibrary.wiley.com/hub/journal/10.1002/(ISSN)1541-5856/issues/		10.1002/(ISSN)1541-5856/		fulltext		Wiley	serial								P	108068145
 Lipid Technology	0956-666X	1863-5377	2006	18					http://onlinelibrary.wiley.com/journal/10.1002/(ISSN)1863-5377		10.1002/(ISSN)1863-5377		fulltext		Wiley	serial								P	135198496
-Liver Transplantation And Surgery	1074-3022	2331-3293	1995			1999			http://onlinelibrary.wiley.com/journal/10.1002/(ISSN)1527-6473		10.1002/(ISSN)1527-6473		fulltext		Wiley	serial								P	174299524
 London Business School Review	2057-1607	2057-1615	2015						http://onlinelibrary.wiley.com/journal/10.1111/(ISSN)2057-1615		10.1111/(ISSN)2057-1615		fulltext		Wiley	serial								P	187675848
 Mauerwerk - European Journal Of Masonry	1432-3427	1437-1022	2001	5					http://onlinelibrary.wiley.com/journal/10.1002/(ISSN)1437-1022		10.1002/(ISSN)1437-1022		fulltext		Wiley	serial								P	123677467
 Midwest Studies In Philosophy	0363-6550	1475-4975	2013						http://onlinelibrary.wiley.com/journal/10.1111/(ISSN)1475-4975		10.1111/(ISSN)1475-4975		fulltext		Wiley	serial								P	067779573
 Museum International	1350-0775	1468-0033	2013						http://onlinelibrary.wiley.com/journal/10.1111/(ISSN)1468-0033		10.1111/(ISSN)1468-0033		fulltext		Wiley	serial								P	048899755
 Negotiation And Conflict Management Research	1750-4708	1750-4716	2013						http://onlinelibrary.wiley.com/journal/10.1111/(ISSN)1750-4716		10.1111/(ISSN)1750-4716		fulltext		Wiley	serial								P	124305709
-Negotiation Journal	0748-4526	1571-9979	2013						http://onlinelibrary.wiley.com/journal/10.1111/(ISSN)1571-9979		10.1111/(ISSN)1571-9979		fulltext		Wiley	serial								P	074420925
 Neuromodulation: Technology At The Neural Interface	1094-7159	1525-1403	2013						http://onlinelibrary.wiley.com/journal/10.1111/(ISSN)1525-1403		10.1111/(ISSN)1525-1403		fulltext		Wiley	serial								P	120830965
-New Blackfriars	0028-4289	1741-2005	2013						http://onlinelibrary.wiley.com/journal/10.1111/(ISSN)1741-2005		10.1111/(ISSN)1741-2005		fulltext		Wiley	serial								P	110858719
 New Directions For Institutional Research	0271-0579	1536-075X	2013						http://onlinelibrary.wiley.com/journal/10.1002/(ISSN)1536-075X		10.1002/(ISSN)1536-075X		fulltext		Wiley	serial								P	153829559
 New Horizons In Adult Education And Human Resource Development		1939-4225	2010						http://onlinelibrary.wiley.com/journal/10.1002/(ISSN)1939-4225/issues		10.1002/(ISSN)1939-4225		fulltext		Wiley	serial								P	118353993
 New Perspectives Quarterly	0893-7850	1540-5842	2013						http://onlinelibrary.wiley.com/journal/10.1111/(ISSN)1540-5842		10.1111/(ISSN)1540-5842		fulltext		Wiley	serial								P	076871258
-Papers In Regional Science	1056-8190	1435-5957	2013						http://onlinelibrary.wiley.com/journal/10.1111/(ISSN)1435-5957		10.1111/(ISSN)1435-5957		fulltext		Wiley	serial								P	048898449
 Performance Improvement	1090-8811	1930-8272	2013						http://onlinelibrary.wiley.com/journal/10.1002/(ISSN)1930-8272		10.1002/(ISSN)1930-8272		fulltext		Wiley	serial								P	104901721
 Performance Improvement Quarterly	0898-5952	1937-8327	2013						http://onlinelibrary.wiley.com/journal/10.1002/(ISSN)1937-8327		10.1002/(ISSN)1937-8327		fulltext		Wiley	serial								P	154281387
 Physica Status Solidi (c) Current Topics In Solid State Physics	1862-6351	1610-1642	2006						http://onlinelibrary.wiley.com/journal/10.1002/(ISSN)1610-1642a		10.1002/(ISSN)1610-1642a		fulltext		Wiley	serial								P	098995308
@@ -116,10 +104,8 @@ Political Science Quarterly	0032-3195	1538-165X	2013						http://onlinelibrary.w
 Presidential Studies Quarterly	0360-4918	1741-5705	2013						http://onlinelibrary.wiley.com/journal/10.1111/(ISSN)1741-5705		10.1111/(ISSN)1741-5705		fulltext		Wiley	serial								P	074985442
 Proceedings In Applied Mathematics & Mechanics	1617-7061	1617-7061	2002	1					http://onlinelibrary.wiley.com/journal/10.1002/(ISSN)1617-7061		10.1002/(ISSN)1617-7061		fulltext		Wiley	serial								P	159250838
 Proceedings Of The American Society For Information Science & Technology	0044-7870	2373-9231	2002	39					http://onlinelibrary.wiley.com/journal/10.1002/(ISSN)2373-9231		10.1002/(ISSN)2373-9231		fulltext		Wiley	serial								P	
-Production And Operations Management	1059-1478	1937-5956	2013						http://onlinelibrary.wiley.com/journal/10.1111/(ISSN)1937-5956		10.1111/(ISSN)1937-5956		fulltext		Wiley	serial								P	120424533
 Progress In Neurology And Psychiatry	1367-7543	1931-227X	2013						http://onlinelibrary.wiley.com/journal/10.1002/(ISSN)1931-227X		10.1002/(ISSN)1931-227X		fulltext		Wiley	serial								P	118362402
 Psychotherapy And Politics International	1476-9263	1556-9195	2013						http://onlinelibrary.wiley.com/journal/10.1002/(ISSN)1556-9195		10.1002/(ISSN)1556-9195		fulltext		Wiley	serial								P	114709734
-Regional Science Policy & Practice		1757-7802	2013						http://onlinelibrary.wiley.com/journal/10.1111/(ISSN)1757-7802		10.1111/(ISSN)1757-7802		fulltext		Wiley	serial								P	140138021
 Research World		2330-4448	2013	2013					http://onlinelibrary.wiley.com/journal/10.1002/(ISSN)2330-4448		10.1002/(ISSN)2330-4448		fulltext		Wiley	serial								P	180534173
 Review Of Urban & Regional Development Studies	0917-0553	1467-940X	2013						http://onlinelibrary.wiley.com/journal/10.1111/(ISSN)1467-940X		10.1111/(ISSN)1467-940X		fulltext		Wiley	serial								P	083845127
 Revue Internationale Du Travail	0378-5599	1564-9121	2013						http://onlinelibrary.wiley.com/journal/10.1111/(ISSN)1564-9121		10.1111/(ISSN)1564-9121		fulltext		Wiley	serial								P	045037698
@@ -134,10 +120,8 @@ The Latin Americanist	1557-2021	1557-203X	2013						http://onlinelibrary.wiley.c
 The Psychoanalytic Quarterly	0033-2828	2167-4086	2013						http://onlinelibrary.wiley.com/journal/10.1002/(ISSN)2167-4086		10.1002/(ISSN)2167-4086		fulltext		Wiley	serial								P	164581596
 The Yale Review	0044-0124	1467-9736	2013						http://onlinelibrary.wiley.com/journal/10.1111/(ISSN)1467-9736		10.1111/(ISSN)1467-9736		fulltext		Wiley	serial								P	111122678
 Thought: A Journal Of Philosophy		2161-2234	2014						http://onlinelibrary.wiley.com/journal/10.1002/(ISSN)2161-2234		10.1002/(ISSN)2161-2234		fulltext		Wiley	serial								P	17787581X
-Transforming Anthropology	1051-0559	1548-7466	2013						http://onlinelibrary.wiley.com/journal/10.1111/(ISSN)1548-7466		10.1111/(ISSN)1548-7466		fulltext		Wiley	serial								P	083137033
 Transplant International	0934-0874	1432-2277	1997	10					http://onlinelibrary.wiley.com/journal/10.1111/(ISSN)1432-2277		10.1111/(ISSN)1432-2277		fulltext		Wiley	serial								P	074753533
 Wiley Interdisciplinary Reviews: Data Mining And Knowledge Discovery	1942-4787	1942-4795	2013						http://onlinelibrary.wiley.com/journal/10.1111/(ISSN)1942-4795		10.1111/(ISSN)1942-4795		fulltext		Wiley	serial								P	15320401X
 Wilmott	1540-6962	1541-8286	2013						http://onlinelibrary.wiley.com/journal/10.1002/(ISSN)1541-8286/issues		10.1002/(ISSN)1541-8286		fulltext		Wiley	serial								P	16906154X
 Workingusa	1089-7011	1743-4580	2013						http://onlinelibrary.wiley.com/journal/10.1111/(ISSN)1743-4580		10.1111/(ISSN)1743-4580		fulltext		Wiley	serial								P	11110002X
 World Banking Abstracts	0265-9484	1467-9698	2013						http://onlinelibrary.wiley.com/journal/10.1111/(ISSN)1467-9698		10.1111/(ISSN)1467-9698		fulltext		Wiley	serial								P	111101719
-Zygon	0591-2385	1467-9744	2013						http://onlinelibrary.wiley.com/journal/10.1111/(ISSN)1467-9744		10.1111/(ISSN)1467-9744		fulltext		Wiley	serial								P	058288031

@@ -1,0 +1,401 @@
+publication_title	print_identifier	online_identifier	date_first_issue_online	num_first_vol_online	num_first_issue_online	date_last_issue_online	num_last_vol_online	num_last_issue_online	title_url	first_author	title_id	embargo_info	coverage_depth	notes	publisher_name	publication_type	date_monograph_published_print	date_monograph_published_online	monograph_volume	monograph_edition	first_editor	parent_publication_title_id	preceding_publication_title_id	access_type	bestppn
+Physical Therapy	0031-9023	1538-6724	1996	76	1				https://academic.oup.com/ptj/issue		ptj		fulltext	Title change: (until 1964) American Physical Therapy Association. Journal (United States) which superseded in part (in 1962) by The Physical Therapy Review (United States) (0735-7435) which was formerly (until 1948) Physiotherapy Review (United States); (until 1927) PT.Review (United States)	Oxford University Press	serial								P	076868346
+Social Work	0037-8046	1545-6846	1996	41	1				https://academic.oup.com/sw/issue		sw		fulltext		Oxford University Press	serial								P	076878430
+Sociology Of Religion	1069-4404	1759-8818	1996	57	1				https://academic.oup.com/socrel/issue		socrel		fulltext		Oxford University Press	serial								P	128157267
+The Journal Of Clinical Endocrinology & Metabolism	0021-972X	1945-7197	1996	81	1				https://academic.oup.com/jcem/issue		jcem		fulltext	Title change: incorporates in part (in 1957) American Goiter Association. Transactions (United States) (0096-7173) which was formerly (until 1948) American Association for the Study of Goiter. Transactions (United States); formerly (until 1952) Journal of Clinical Endocrinology (United States) (0368-1610)	Oxford University Press	serial								P	109340140
+The Journal Of American History	0021-8723	1945-2314	1996-03-01	82	4				https://academic.oup.com/jah/issue		jah		fulltext		Oxford University Press	serial								P	133149366
+Uniform Law Review	1124-3694	2050-9065	1996	1	1				https://academic.oup.com/ulr/issue		ulr		fulltext		Oxford University Press	serial								P	176864490
+British Journal Of Radiology	0007-1285	1748-880X	1996	69	1				https://Academic.oup.com/bjr/issue		bjr		fulltext		Oxford University Press	serial								P	104883308
+Modern Rheumatology	1439-7595	1439-7609	1997	7	1				https://academic.oup.com/mr/issue		mr		fulltext		Oxford University Press	serial								P	104184566
+Journal Of Evolutionary Biology	1010-061X	1420-9101	1996	9	1				https://academic.oup.com/jeb/issue		jeb		fulltext		Oxford University Press	serial								P	044875215
+Transactions Of The London Mathematical Society		2052-4986	2014	1	1	2016	3	1	https://academic.oup.com/tlms/issue		tlms		fulltext		Oxford University Press	serial								P	17932294X
+Journal Of Antitrust Enforcement	2050-0688	2050-0696	2013-04-01	1	1				https://academic.oup.com/antitrust/issue		antitrust		fulltext		Oxford University Press	serial								P	174284837
+Jnci Monographs	1052-6773	1745-6614	1997	1997	22				https://academic.oup.com/jncimono/issue		jncimono		fulltext		Oxford University Press	serial								P	090140729
+Journal Of International Criminal Justice	1478-1387	1478-1395	2003-04-01	1	1				https://academic.oup.com/jicj/issue		jicj		fulltext		Oxford University Press	serial								P	116266201
+Journal Of Forestry	0022-1201	1938-3746	1996	94	1				https://academic.oup.com/jof/issue		jof		fulltext	Title change: Formed by the merger of (1902-1916): Forestry Quarterly (United States) and (1905-1916): Society of American Foresters. Proceedings (United States)	Oxford University Press	serial								P	150799209
+Music Therapy Perspectives	0734-6875	2053-7387	1996	14	1				https://academic.oup.com/mtp/issue		mtp		fulltext		Oxford University Press	serial								P	176271899
+Modern Judaism: A Journal Of Jewish Ideas And Experience	0276-1114	1086-3273	1996	16	1				https://academic.oup.com/mj/issue		mj		fulltext		Oxford University Press	serial								P	058046585
+Leo Baeck Institute Year Book	0075-8744	1758-437X	1996	41	1				https://academic.oup.com/leobaeck/issue		leobaeck		fulltext		Oxford University Press	serial								P	146296176
+Military Medicine	0026-4075	1930-613X	1996	161	1				https://academic.oup.com/milmed/issue		milmed		fulltext	Title change: Former titles (until 1955): The Military Surgeon (United States) (0096-6827); (until 1907): Association of Military Surgeons of the United States. Journal (United States) (1075-637X); (until 1901): Association of Military Surgeons of the United States. Annual Meeting. Proceedings (United States) (1077-6478); (until 1894): Association of Military Surgeons of the National Guard of the United States. Annual Meeting. Transactions (United States) (1077-6486)	Oxford University Press	serial								P	119311445
+Oah Magazine Of History	0882-228X	1938-2340	1996	10	2	2013	27	4	https://academic.oup.com/maghis/issue		maghis		fulltext	The OAH Magazine of History has ceased its publication with the October 2013 issue.	Oxford University Press	serial								P	12736577X
+The British Yearbook Of International Law	0068-2691	2044-9437	1996	66	1				https://academic.oup.com/bybil/issue		bybil		fulltext	volume covers activities in the prior year	Oxford University Press	serial								P	153476184
+Social History Of Medicine	0951-631X	1477-4666	1996-04-01	9	1				https://academic.oup.com/shm/issue		shm		fulltext		Oxford University Press	serial								P	068853807
+The Gerontologist	0016-9013	1758-5341	1996-02-01	36	1				https://academic.oup.com/gerontologist/issue		gerontologist		fulltext		Oxford University Press	serial								P	132431629
+The Review Of Corporate Finance Studies	2046-9128	2046-9136	2012-09-01	1	1				https://academic.oup.com/rcfs/issue		rcfs		fulltext		Oxford University Press	serial								P	166194670
+Translational Behavioral Medicine	1869-6716	1613-9860	2011-03-01	1	1				https://academic.oup.com/tbm/issue		tbm		fulltext		Oxford University Press	serial								P	183036018
+Western Historical Quarterly	0043-3810	1939-8603	1996-02-01	27	1				https://academic.oup.com/whq/issue		whq		fulltext		Oxford University Press	serial								P	118362585
+Journal Of Topology	1753-8416	1753-8424	2008	1	1	2016	9	4	https://academic.oup.com/jtopol/issue		jtopol		fulltext		Oxford University Press	serial								P	122501330
+Fisheries [magazine]	0363-2415	1548-8446	1996	21	1				https://academic.oup.com/fisheries		fisheries		fulltext		Oxford University Press	serial								P	083137092
+Integrated Environmental Assessment And Management	1551-3777	1551-3793	2000	1	1				https://academic.oup.com/ieam		ieam		fulltext		Oxford University Press	serial								P	112785441
+Japanese Journal Of Clinical Oncology	0368-2811	1465-3621	1996-02-01	26	1				https://academic.oup.com/jjco/issue		jjco		fulltext		Oxford University Press	serial								P	044929757
+Journal Of Design History	0952-4649	1741-7279	1996	9	1				https://academic.oup.com/jdh/issue		jdh		fulltext		Oxford University Press	serial								P	130836818
+Journal Of Travel Medicine	1195-1982	1708-8305	1996-03-01	3	1				https://academic.oup.com/jtm/issue		jtm		fulltext		Oxford University Press	serial								P	110735870
+Journal Of Logic And Computation	0955-792X	1465-363X	1996-02-01	6	1				https://academic.oup.com/logcom/issue		logcom		fulltext		Oxford University Press	serial								P	044929765
+Music Theory Spectrum	0195-6167	1533-8339	1996	18	1				https://academic.oup.com/mts/issue		mts		fulltext		Oxford University Press	serial								P	083135413
+Music Therapy	0734-7367		1996	14	1	1996	14	1	https://academic.oup.com/musictherapy/issue		musictherapy		fulltext	Music Therapy was the official publication of the American Association for Music Therapy (AAMT) and was published annually from 1981 to 1996	Oxford University Press	serial								P	
+Neuro-oncology Practice	2054-2577	2054-2585	2014-03-01	1	1				https://academic.oup.com/nop/issue		nop		fulltext		Oxford University Press	serial								P	179323083
+Publications Of The Astronomical Society Of Japan	0004-6264	2053-051X	1996	48	1				https://academic.oup.com/pasj/issue		pasj		fulltext		Oxford University Press	serial								P	163248249
+The Journal Of Law, Economics, And Organization	8756-6222	1465-7341	1996-04-01	12	1				https://academic.oup.com/jleo/issue		jleo		fulltext		Oxford University Press	serial								P	094255954
+The English Historical Review	0013-8266	1477-4534	1996-02-01	111	440				https://academic.oup.com/ehr/issue		ehr		fulltext		Oxford University Press	serial								P	06885367X
+The Review Of English Studies	0034-6551	1471-6968	1996-02-01	47	185				https://academic.oup.com/res/issue		res		fulltext		Oxford University Press	serial								P	064161102
+Stem Cells	1066-5099	1549-4918	1996	14	1				https://academic.oup.com/stmcls/issue		stmcls		fulltext		Oxford University Press	serial								P	111805112
+Journal Of Philosophy Of Education	0309-8249	1467-9752	1996	30	1				https://academic.oup.com/jope/issue		jope		fulltext		Oxford University Press	serial								P	05828804X
+Transactions Of The American Fisheries Society	0002-8487	1548-8659	1996	125	1				https://academic.oup.com/tafs		tafs		fulltext		Oxford University Press	serial								P	083137157
+Journal Of Financial Econometrics	1479-8409	1479-8417	2003	1	1				https://academic.oup.com/jfec/issue		jfec		fulltext		Oxford University Press	serial								P	122851897
+Jnci Journal Of The National Cancer Institute	0027-8874	1460-2105	1996	88	1				https://academic.oup.com/jnci/issue		jnci		fulltext		Oxford University Press	serial								P	058286349
+Journal Of Crustacean Biology	0278-0372	1937-240X	1996	16	1				https://academic.oup.com/jcb/issue		jcb		fulltext		Oxford University Press	serial								P	120657716
+Journal Of The History Of Medicine And Allied Sciences	0022-5045	1468-4373	1996	51	1				https://academic.oup.com/jhmas/issue		jhmas		fulltext		Oxford University Press	serial								P	058288902
+Journal Of Petrology	0022-3530	1460-2415	1996-02-01	37	1				https://academic.oup.com/petrology/issue		petrology		fulltext		Oxford University Press	serial								P	058286500
+Journal Of Survey Statistics And Methodology	2325-0984	2325-0992	2013-05-01	1	1				https://academic.oup.com/jssam/issue		jssam		fulltext		Oxford University Press	serial								P	172126908
+Journal Of The American Medical Informatics Association	1067-5027	1527-974X	1996	22	1				https://academic.oup.com/jamia/issue		jamia		fulltext		Oxford University Press	serial								P	111183529
+Mhr: Basic Science Of Reproductive Medicine	1360-9947	1460-2407	1996	2	1				https://academic.oup.com/molehr/issue		molehr		fulltext		Oxford University Press	serial								P	058286497
+American Law And Economics Review	1465-7252	1465-7260	1999	1	1				https://academic.oup.com/aler/issue		aler		fulltext		Oxford University Press	serial								P	058286772
+Journal Of Chromatographic Science	0021-9665	1945-239X	1996	34	1				https://academic.oup.com/chromsci/issue		chromsci		fulltext		Oxford University Press	serial								P	137258917
+Journal Of Pharmaceutical Health Services Research	1759-8885	1759-8893	2010-02-01	1	1				https://academic.oup.com/jphsr/issue		jphsr		fulltext		Oxford University Press	serial								P	16124355X
+London Review Of International Law	2050-6325	2050-6333	2013-09-01	1	1				https://academic.oup.com/lril/issue		lril		fulltext		Oxford University Press	serial								P	175145539
+Journal Of Tropical Pediatrics	0142-6338	1465-3664	1996-02-01	42	1				https://academic.oup.com/tropej/issue		tropej		fulltext		Oxford University Press	serial								P	090128060
+Literature And Theology	0269-1205	1477-4623	1996-03-01	10	1				https://academic.oup.com/litthe/issue		litthe		fulltext		Oxford University Press	serial								P	067784860
+Journal Of Antimicrobial Chemotherapy	0305-7453	1460-2091	1996	37	1				https://academic.oup.com/jac/issue		jac		fulltext		Oxford University Press	serial								P	058286330
+Journal Of Islamic Studies	0955-2340	1471-6917	1996	7	1				https://academic.oup.com/jis/issue		jis		fulltext		Oxford University Press	serial								P	064161056
+Journal Of Global Security Studies	2057-3170	2057-3189	2016	1	1				https://academic.oup.com/jogss/issue		jogss		fulltext		Oxford University Press	serial								P	194813355
+Journal Of Experimental Botany	0022-0957	1460-2431	1996	47	1				https://academic.oup.com/jxb/issue		jxb		fulltext		Oxford University Press	serial								P	090128036
+Journal Of Social History	0022-4529	1527-1897	1996	29	3				https://academic.oup.com/jsh/issue		jsh		fulltext		Oxford University Press	serial								P	045015244
+Law, Probability & Risk	1470-8396	1470-840X	2002-07-01	1	1				https://academic.oup.com/lpr/issue		lpr		fulltext		Oxford University Press	serial								P	074420739
+Nephrology Dialysis Transplantation	0931-0509	1460-2385	1996	11	1				https://academic.oup.com/ndt/issue		ndt		fulltext		Oxford University Press	serial								P	037217216
+Notes And Queries	0029-3970	1471-6941	1996-03-01	43	1				https://academic.oup.com/nq/issue		nq		fulltext		Oxford University Press	serial								P	064161080
+The Review Of Asset Pricing Studies	2045-9920	2045-9939	2011-12-01	1	1				https://academic.oup.com/raps/issue		raps		fulltext		Oxford University Press	serial								P	157957284
+Systematic Biology	1063-5157	1076-836X	1996-03-01	45	1				https://academic.oup.com/sysbio/issue		sysbio		fulltext		Oxford University Press	serial								P	040628825
+The Journals Of Gerontology: Series B	1079-5014	1758-5368	1996	51B	1				https://academic.oup.com/psychsocgerontology/issue		psychsocgerontology		fulltext		Oxford University Press	serial								P	143181416
+The World Bank Economic Review	0258-6770	1564-698X	1996	10	1				https://academic.oup.com/wber/issue		wber		fulltext		Oxford University Press	serial								P	045036454
+The World Bank Research Observer	0257-3032	1564-6971	1996-02-01	11	1				https://academic.oup.com/wbro/issue		wbro		fulltext		Oxford University Press	serial								P	045036446
+American Journal Of Health-system Pharmacy	1079-2082	1535-2900	1996	53	1				https://academic.oup.com/ajhp/issue		ajhp		fulltext	Title change: Former titles (until 1995): American Journal of Hospital Pharmacy (United States) (0002-9289) Which incorporated (1982-1993): Clinical Pharmacy (United States) (0278-2677) (until 1958): American Society of Hospital Pharmacists. Bulletin (United States) (0099-7501)	Oxford University Press	serial								P	120829304
+Dentomaxillofacial Radiology	0250-832X	1476-542X	1996	25	1				https://academic.oup.com/dmfr/issue		dmfr		fulltext		Oxford University Press	serial								P	06885269X
+The British Journal Of Radiology. Rontgen Society Section	2053-1346	2053-1354	1904	1	1	1927	23	90	https://academic.oup.com/bjrrss		bjrrss		fulltext		Oxford University Press	serial								P	180528319
+Journal Of Consumer Research	0093-5301	1537-5277	1996-03-01	22	4				https://academic.oup.com/jcr/issue		jcr		fulltext		Oxford University Press	serial								P	076866696
+Journal Of Professions And Organization	2051-8803	2051-8811	2014-03-01	1	1				https://academic.oup.com/jpo/issue		jpo		fulltext		Oxford University Press	serial								P	177938897
+Medical Mycology	1369-3786	1460-2709	1998	36	1				https://academic.oup.com/mmy/issue		mmy		fulltext	Title change: Sabouraudia published from 1962 through 1985; the journal was later published as Journal of Medical and Veterinary Mycology and currently as Medical Mycology from 1998-01 on.	Oxford University Press	serial							0268-1218	P	044920237
+Journal Of Medical Entomology	0022-2585	1938-2928	1996	33	1				https://academic.oup.com/jme/issue		jme		fulltext		Oxford University Press	serial								P	128369639
+Journal Of Semantics	0167-5133	1477-4593	1996	13	1				https://academic.oup.com/jos/issue		jos		fulltext		Oxford University Press	serial								P	068853734
+Archives Of Clinical Neuropsychology	0887-6177	1873-5843	1996	11	1				https://academic.oup.com/acn/issue		acn		fulltext		Oxford University Press	serial								P	076091090
+Rheumatology	1462-0324	1462-0332	1996	35	1				https://academic.oup.com/rheumatology/issue		rheumatology		fulltext	Title change: Annals of Physical Medicine (0365-5547) 1952-01 through 1970-05; Rheumatology and Physical Medicine (0003-4908) 1970-08 through 1972-11; Rheumatology and Rehabilitation (0300-3396) 1973-02 through 1982-11; British Journal of Rheumatology (0263-7103) 1983 through 1999;Rheumatology 1999-	Oxford University Press	serial							0263-7103	P	083218386
+Public Policy & Aging Report	1055-3037	2053-4892	1998	9	3				https://academic.oup.com/ppar/issue		ppar		fulltext		Oxford University Press	serial								P	180270117
+Socio-economic Review	1475-1461	1475-147X	2003	1	1				https://academic.oup.com/ser/issue		ser		fulltext		Oxford University Press	serial								P	074953656
+The Quarterly Journal Of Mathematics	0033-5606	1464-3847	1996-03-01	47	1				https://academic.oup.com/qjmath/issue		qjmath		fulltext		Oxford University Press	serial								P	157096505
+The Econometrics Journal	1368-4221	1368-423X	1998-06-01	1	1				https://academic.oup.com/ectj/issue		ectj		fulltext		Oxford University Press	serial								P	044837607
+The Philosophical Quarterly	0031-8094	1467-9213	1996	46	182				https://academic.oup.com/pq/issue		pq		fulltext		Oxford University Press	serial								P	058287604
+Toxicology Research	2045-452X	2045-4538	2012	1	1				https://academic.oup.com/toxres/issue		toxres		fulltext		Oxford University Press	serial								P	163330336
+Environmental Toxicology And Chemistry	0730-7268	1552-8618	1996	15	1				https://academic.oup.com/etc/issue		etc		fulltext		Oxford University Press	serial								P	094933588
+Letters In Applied Microbiology	0266-8254	1472-765X	1996	22	1				https://academic.oup.com/lambio/issue		lambio		fulltext		Oxford University Press	serial								P	058290710
+Reports Of Patent, Design And Trade Mark Cases	0080-1364	1756-1000	1884	1	1	1995	112	24	https://academic.oup.com/rpc/issue		rpc		fulltext		Oxford University Press	serial								P	128395974
+Journal Of Pharmacy And Pharmacology	0022-3573	2042-7158	1996	48	1				https://academic.oup.com/jpp/issue		jpp		fulltext		Oxford University Press	serial								P	148310192
+Journal Of Financial Regulation	2053-4833	2053-4841	2015-03-01	1	1				https://academic.oup.com/jfr/issue		jfr		fulltext		Oxford University Press	serial								P	187158118
+Journal Of Mammalogy	0022-2372	1545-1542	1996-02-01	77	1				https://academic.oup.com/jmammal/issue		jmammal		fulltext		Oxford University Press	serial								P	076877337
+Oxford Journal Of Legal Studies	0143-6503	1464-3820	1996	16	1				https://academic.oup.com/ojls/issue		ojls		fulltext		Oxford University Press	serial								P	112892647
+Communication Theory	1050-3293	1468-2885	1996-02-01	6	1				https://academic.oup.com/ct/issue		ct		fulltext		Oxford University Press	serial								P	115431632
+Oxford Art Journal	0142-6540	1741-7287	1996	19	1				https://academic.oup.com/oaj/issue		oaj		fulltext		Oxford University Press	serial								P	119969025
+Neuro-oncology	1522-8517	1523-5866	1999	1	1				https://academic.oup.com/neuro-oncology/issue		neuro-oncology		fulltext		Oxford University Press	serial								P	044996934
+Advances In Nutrition	2161-8313	2156-5376	2010	1	1	2022	13	6	https://academic.oup.com/advances/issue		advances		fulltext		Oxford University Press	serial								P	15720328X
+Journal Of International Dispute Settlement	2040-3585	2040-3593	2010-02-01	1	1				https://academic.oup.com/jids/issue		jids		fulltext		Oxford University Press	serial								P	14686591X
+Carcinogenesis	0143-3334	1460-2180	1996	17	1				https://academic.oup.com/carcin/issue		carcin		fulltext		Oxford University Press	serial								P	058286403
+Journal Of Plankton Research	0142-7873	1464-3774	1996	18	1				https://academic.oup.com/plankt/issue		plankt		fulltext		Oxford University Press	serial								P	112892612
+Journal Of The History Of Collections	0954-6650	1477-8564	1996	8	1				https://academic.oup.com/jhc/issue		jhc		fulltext		Oxford University Press	serial								P	14033694X
+Chemical Senses	0379-864X	1464-3553	1996-02-01	21	1				https://academic.oup.com/chemse/issue		chemse		fulltext		Oxford University Press	serial								P	120421208
+Journal Of World Energy Law & Business	1754-9957	1754-9965	2008-05-01	1	1				https://academic.oup.com/jwelb/issue		jwelb		fulltext		Oxford University Press	serial								P	127818790
+Metallomics	1756-5901	1756-591X	2009	1	1				https://academic.oup.com/metallomics/issue		metallomics		fulltext		Oxford University Press	serial								P	140305882
+Plant Cell	1040-4651	1532-298X	1996	8	1				https://academic.oup.com/plcell/issue		plcell		fulltext		Oxford University Press	serial								P	058402942
+Journal Of Armed Conflict Law	1364-0224		1996	1	1	1999	4	2	https://academic.oup.com/jcsl/issue		jcsl		fulltext	Title change: Former titles (until 2000): Journal of Armed Conflict Law (United Kingdom) (1364-0224) 2000-06 onward Journal of Armed Conflict and Security Law	Oxford University Press	serial								P	229282857
+Journal Of Refugee Studies	0951-6328	1471-6925	1996-03-01	9	1				https://academic.oup.com/jrs/issue		jrs		fulltext		Oxford University Press	serial								P	064161064
+Journal Of Complex Networks	2051-1310	2051-1329	2013-06-01	1	1				https://academic.oup.com/comnet/issue		comnet		fulltext		Oxford University Press	serial								P	172118816
+Journal Of The Pediatric Infectious Diseases Society	2048-7193	2048-7207	2012-03-01	1	1				https://academic.oup.com/jpids/issue		jpids		fulltext		Oxford University Press	serial								P	162246196
+Music & Letters	0027-4224	1477-4631	1996-02-01	77	1				https://academic.oup.com/ml/issue		ml		fulltext		Oxford University Press	serial								P	067784879
+Laboratory Medicine	0007-5027	1943-7730	1996	27	1				https://academic.oup.com/labmed/issue		labmed		fulltext		Oxford University Press	serial								P	133941353
+Microscopy	2050-5698	2050-5701	2013-02-01	62	1				https://academic.oup.com/jmicro/issue		jmicro		fulltext	Title change: Formerly (until 2013): Journal of Electron Microscopy (United Kingdom) (0022-0744)Formerly (until 2013): Journal of Electron Microscopy (Online) (United Kingdom) (1477-9986)Which incorporated (1950-2003): Denshi Kembikyo (Japan) (0417-0326); Microscopy from 2013-02 on	Oxford University Press	serial								P	169699226
+Journal Of Analytical Toxicology	0146-4760	1945-2403	1996	20	1				https://academic.oup.com/jat/issue		jat		fulltext		Oxford University Press	serial								P	168689812
+Journal Of International Economic Law	1369-3034	1464-3758	1998-03-01	1	1				https://academic.oup.com/jiel/issue		jiel		fulltext		Oxford University Press	serial								P	112892590
+Journal Of Victorian Culture	1355-5502	1750-0133	1996	1	1				https://academic.oup.com/jvc/issue		jvc		fulltext		Oxford University Press	serial								P	130400688
+Journal Of Pediatric Psychology	0146-8693	1465-735X	1996-02-01	21	1				https://academic.oup.com/jpepsy/issue		jpepsy		fulltext		Oxford University Press	serial								P	115431543
+Mammalian Species	0076-3519	1545-1410	1996-05-01	1996	517				https://academic.oup.com/mspecies/issue		mspecies		fulltext		Oxford University Press	serial								P	076877280
+Molecular Endocrinology	0888-8809	1944-9917	1996	10	1	2016	30	10	https://academic.oup.com/mend/issue		mend		fulltext		Oxford University Press	serial								P	131252747
+Policing: A Journal Of Policy And Practice	1752-4512	1752-4520	2007	1	1				https://academic.oup.com/policing/issue		policing		fulltext		Oxford University Press	serial								P	119400448
+Chinese Journal Of International Law	1540-1650	1746-9937	2002	1	1				https://academic.oup.com/chinesejil/issue		chinesejil		fulltext		Oxford University Press	serial								P	111216982
+Nicotine & Tobacco Research	1462-2203	1469-994X	1999-03-01	1	1				https://academic.oup.com/ntr/issue		ntr		fulltext		Oxford University Press	serial								P	090128788
+Shakespeare Quarterly	0037-3222	1538-3555	1996	47	1				https://academic.oup.com/sq/issue		sq		fulltext	Title change: Formerly (until 1950): The Shakespeare Association. Bulletin (United States) (0270-8604)	Oxford University Press	serial								P	076867692
+Social Science Japan Journal	1369-1465	1468-2680	1998-04-01	1	1				https://academic.oup.com/ssjj/issue		ssjj		fulltext		Oxford University Press	serial								P	07022918X
+The British Journal Of Aesthetics	0007-0904	1468-2842	1996	36	1				https://academic.oup.com/bjaesthetics/issue		bjaesthetics		fulltext		Oxford University Press	serial								P	115431616
+The Economic Journal	0013-0133	1468-0297	1996	106	434				https://academic.oup.com/ej/issue		ej		fulltext		Oxford University Press	serial								P	058288430
+Journal Of Sexual Medicine	1743-6095	1743-6109	2004	1	1				https://academic.oup.com/jsm/issue		jsm		fulltext		Oxford University Press	serial								P	112894216
+Annals Of The International Communication Association	2380-8985	2380-8977	2005-07-01	41	1				https://academic.oup.com/anncom		anncom		fulltext		Oxford University Press	serial								P	226759601
+Zoological Journal Of The Linnean Society	0024-4082	1096-3642	1996	116	1				https://academic.oup.com/zoolinnean/issue		zoolinnean		fulltext	Title change: (until 1969) Linnean Society of London. Zoology Journal (United Kingdom) (0368-2935); (until 1965) Linnean Society Proceedings Zoology Journal (United Kingdom) (1945-9475) which superseded in part (in 1957) Linnean Society of London Transactions (United Kingdom) (1945-9467) which superseded in part (in 1936) Linnean Society of London Zoology Transactions (United Kingdom) (1945-9440) which superseded in part (in 1875) Linnean Society Transactions (United Kingdom) (1945-9432)	Oxford University Press	serial								P	040632288
+Transactions Of The Linnean Society Of London. Botany	1945-9351		1875	1	1	1922	9	2	https://academic.oup.com/transactionslinneanbot/issue		transactionslinneanbot		fulltext		Oxford University Press	serial								P	161724744
+North American Journal Of Aquaculture	1522-2055	1548-8454	1999	61	1				https://academic.oup.com/naja		naja		fulltext		Oxford University Press	serial								P	11696751X
+Social Work In Education	0162-7961		1996	18	1	2000	22	3	https://academic.oup.com/cs/issue		cs		fulltext	Title change: Formerly (through July 2000): Social Work in Education (United States) (0162-7961); Children & Schools from 2000-10 on	Oxford University Press	serial								P	166408913
+Past & Present	0031-2746	1477-464X	1996-02-01	150	1				https://academic.oup.com/past/issue		past		fulltext		Oxford University Press	serial								P	068853785
+Plant Physiology	0032-0889	1532-2548	1996	110	1				https://academic.oup.com/plphys/issue		plphys		fulltext		Oxford University Press	serial								P	058402756
+Pain Medicine	1526-2375	1526-4637	2000-03-01	1	1				https://academic.oup.com/painmedicine/issue		painmedicine		fulltext		Oxford University Press	serial								P	058352309
+The Cambridge Quarterly	0008-199X	1471-6836	1996	25	1				https://academic.oup.com/camqtly/issue		camqtly		fulltext		Oxford University Press	serial								P	06416098X
+Qjm: An International Journal Of Medicine	1460-2725	1460-2393	1996	89	1				https://academic.oup.com/qjmed/issue		qjmed		fulltext		Oxford University Press	serial								P	037217232
+The American Historical Review	0002-8762	1937-5239	1996-02-01	101	1				https://academic.oup.com/ahr/issue		ahr		fulltext		Oxford University Press	serial								P	118775243
+The Journals Of Gerontology: Series A	1079-5006	1758-535X	1996	51A	1				https://academic.oup.com/biomedgerontology/issue		biomedgerontology		fulltext		Oxford University Press	serial								P	143181408
+Bulletin Of The Chemical Society Of Japan	0009-2673	1348-0634	1996	69	1				https://academic.oup.com/bcsj/issue		bcsj		fulltext		Oxford University Press	serial								P	083134506
+Biometrics	0006-341X	1541-0420	1999	55	1				https://academic.oup.com/biometrics/issue		biometrics		fulltext	Title change: Former titles (until 1946): Biometrics Bulletin (0099-4987)	Oxford University Press	serial								P	081200129
+European Journal Of Endocrinology	0804-4643	1479-683X	1996	134	1				https://academic.oup.com/ejendo/issue		ejendo		fulltext		Oxford University Press	serial								P	071448845
+Journal Of The Royal Statistical Society Series C – Applied Statistics	0035-9254	1467-9876	1996	45	1				https://academic.oup.com/jrsssc/issue		jrsssc		fulltext		Oxford University Press	serial								P	053335694
+Journal Of Aquatic Animal Health	0899-7659	1548-8667	1996	8	1				https://academic.oup.com/jaah		jaah		fulltext		Oxford University Press	serial								P	156448491
+Oxford Journal Of Law And Religion	2047-0770	2047-0789	2012-04-01	1	1				https://academic.oup.com/ojlr/issue		ojlr		fulltext		Oxford University Press	serial								P	162246080
+The Chinese Journal Of Comparative Law	2050-4802	2050-4810	2013-03-01	1	1				https://academic.oup.com/cjcl/issue		cjcl		fulltext		Oxford University Press	serial								P	169699218
+Publius: The Journal Of Federalism	0048-5950	1747-7107	1996	26	1				https://academic.oup.com/publius/issue		publius		fulltext		Oxford University Press	serial								P	120428652
+Screen	0036-9543	1460-2474	1996	37	1				https://academic.oup.com/screen/issue		screen		fulltext		Oxford University Press	serial								P	036492469
+The Chinese Journal Of International Politics	1750-8916	1750-8924	2006	1	1				https://academic.oup.com/cjip/issue		cjip		fulltext		Oxford University Press	serial								P	11121713X
+The Journal Of Applied Laboratory Medicine	2576-9456	2475-7241	2016-07-01	1	1				https://academic.oup.com/jalm/issue		jalm		fulltext		Oxford University Press	serial								P	198532504
+The Opera Quarterly	0736-0053	1476-2870	1996	12	3				https://academic.oup.com/oq/issue		oq		fulltext		Oxford University Press	serial								P	145238725
+The Library	0024-2160	1744-8581	1996	S6-18	1				https://academic.oup.com/library/issue		library		fulltext		Oxford University Press	serial								P	151979162
+Modern British History	2976-7016	2976-7024	2024	35	1				https://academic.oup.com/tcbh/issue		tcbh		fulltext	Title change: Formerly (until 2024) Twentieth Century British History	Oxford University Press	serial							1477-4674	P	
+Clinical And Experimental Dermatology	0307-6938	1365-2230	1996	21	1				https://academic.oup.com/ced/issue		ced		fulltext		Oxford University Press	serial								P	040645681
+Journal Of The Royal Statistical Society Series B – Statistical Methodology	1369-7412	1467-9868	1996	58	1				https://academic.oup.com/jrsssb/issue		jrsssb		fulltext		Oxford University Press	serial								P	058288147
+The European Journal Of Surgery.		1741-9271	1998	164	1	2002	168	12	https://academic.oup.com/ejs		ejs		fulltext		Oxford University Press	serial								P	075036444
+Perspectives On Public Management And Governance	2398-4910	2398-4929	2017-09-01	1	1				https://academic.oup.com/ppmg/issue		ppmg		fulltext		Oxford University Press	serial								P	231602596
+The Journal Of Medicine And Philosophy	0360-5310	1744-5019	1996-02-01	21	1				https://academic.oup.com/jmp/issue		jmp		fulltext		Oxford University Press	serial								P	090139704
+Parliamentary Affairs	0031-2290	1460-2482	1996	49	1				https://academic.oup.com/pa/issue		pa		fulltext		Oxford University Press	serial								P	058286543
+The Journal Of Deaf Studies And Deaf Education	1081-4159	1465-7325	1996	1	1				https://academic.oup.com/jdsde/issue		jdsde		fulltext		Oxford University Press	serial								P	115431527
+The British Journal Of Social Work	0045-3102	1468-263X	1996-02-01	26	1				https://academic.oup.com/bjsw/issue		bjsw		fulltext		Oxford University Press	serial								P	064160580
+The British Journal Of Criminology	0007-0955	1464-3529	1996	36	1				https://academic.oup.com/bjc/issue		bjc		fulltext		Oxford University Press	serial								P	115209255
+Trusts & Trustees	1363-1780	1752-2110	1996	2	2				https://academic.oup.com/tandt/issue		tandt		fulltext		Oxford University Press	serial								P	120428849
+The Musical Quarterly	0027-4631	1741-8399	1996	80	1				https://academic.oup.com/mq/issue		mq		fulltext		Oxford University Press	serial								P	077566998
+Work, Aging And Retirement	2054-4642	2054-4650	2015	1	1				https://academic.oup.com/workar/issue		workar		fulltext		Oxford University Press	serial								P	187158142
+Microscopy Today	1551-9295	2150-3583	1996	4	1				https://academic.oup.com/mt/issue		mt		fulltext		Oxford University Press	serial								P	136639666
+American Journal Of Epidemiology	0002-9262	1476-6256	1996	143	1				https://academic.oup.com/aje/issue		aje		fulltext		Oxford University Press	serial								P	064162141
+Journal Of Bone And Mineral Research	0884-0431	1523-4681	1996	11					https://academic.oup.com/jbmr/issue		jbmr		fulltext		Oxford University Press	serial								P	044996179
+The Journal Of Immunology	0022-1767	1550-6606	2016-02-01	1	1				https://academic.oup.com/jimmunol		jimmunol		fulltext		Oxford University Press	serial								P	083138439
+Statute Law Review	0144-3593	1464-3863	1996	17	1				https://academic.oup.com/slr/issue		slr		fulltext		Oxford University Press	serial								P	112892655
+Public Health Ethics	1754-9973	1754-9981	2008-04-01	1	1				https://academic.oup.com/phe/issue		phe		fulltext		Oxford University Press	serial								P	133146979
+Sleep	0161-8105	1550-9109	1996	19	1				https://academic.oup.com/sleep/issue		sleep		fulltext		Oxford University Press	serial								P	083138633
+Teaching Mathematics And Its Applications	0268-3679	1471-6976	1996-03-01	15	1				https://academic.oup.com/teamat/issue		teamat		fulltext		Oxford University Press	serial								P	064161110
+Tree Physiology	0829-318X	1758-4469	1996	16	10				https://academic.oup.com/treephys/issue		treephys		fulltext		Oxford University Press	serial								P	144186780
+The Journal Of Biochemistry	0021-924X	1756-2651	1996	119	1				https://academic.oup.com/jb/issue		jb		fulltext		Oxford University Press	serial								P	083556559
+Bjd (british Journal Of Dermatology )	0007-0963	1365-2133	1996	134	1				https://academic.oup.com/bjd/issue		bjd		fulltext		Oxford University Press	serial								P	040645584
+Modern Rheumatology Case Reports		2472-5625	2017	1	1				https://academic.oup.com/mrcr/issue		mrcr		fulltext		Oxford University Press	serial								P	204143888
+Microscopy And Microanalysis (mam)	1431-9276	1435-8115	1996	2	1				https://academic.oup.com/mam/issue		mam		fulltext		Oxford University Press	serial								P	044897634
+Political Science Quarterly	0032-3195	1538-165X	1996	111	1				https://academic.oup.com/psq/issue		psq		fulltext		Oxford University Press	serial								P	07686751X
+Imaging	0965-6812	1748-8818	1999	11	1	2014	23	1	https://academic.oup.com/imaging/issue		imaging		fulltext		Oxford University Press	serial								P	104883316
+Bjr Section	2053-1303	2053-1311	1896	1	1	1927	32	329	https://academic.oup.com/bjrbir		bjrbir		fulltext		Oxford University Press	serial								P	180528297
+Research Evaluation	0958-2029	1471-5449	1996-04-01	6	1				https://academic.oup.com/rev/issue		rev		fulltext		Oxford University Press	serial								P	058290346
+Refugee Survey Quarterly	1020-4067	1471-695X	1996	15	1				https://academic.oup.com/rsq/issue		rsq		fulltext		Oxford University Press	serial								P	064161099
+Schizophrenia Bulletin	0586-7614	1745-1701	1996	22	1				https://academic.oup.com/schizophreniabulletin/issue		schizophreniabulletin		fulltext		Oxford University Press	serial								P	124375588
+Social Forces	0037-7732	1534-7605	1996-03-01	74	3				https://academic.oup.com/sf/issue		sf		fulltext		Oxford University Press	serial								P	058847804
+The American Journal Of Comparative Law	0002-919X	2326-9197	1996	44	1				https://academic.oup.com/ajcl/issue		ajcl		fulltext		Oxford University Press	serial								P	168250853
+Transactions Of The Royal Society Of Tropical Medicine And Hygiene	0035-9203	1878-3503	1996	90	1				https://academic.oup.com/trstmh/issue		trstmh		fulltext		Oxford University Press	serial								P	09588176X
+The Quarterly Journal Of Economics	0033-5533	1531-4650	1996-02-01	111	1				https://academic.oup.com/qje/issue		qje		fulltext		Oxford University Press	serial								P	058401598
+Yearbook Of European Law	0263-3264	2045-0044	1996	16	1				https://academic.oup.com/yel/issue		yel		fulltext		Oxford University Press	serial								P	164365222
+Chemistry Letters	0366-7022	1348-0715	1996	25	1				https://academic.oup.com/chemlett/issue		chemlett		fulltext		Oxford University Press	serial								P	083134514
+Art History	0141-6790	1467-8365	1996-03-01	19	1				https://academic.oup.com/arthistory/issue		arthistory		fulltext		Oxford University Press	serial								P	05828723X
+Journal Of Applied Bacteriology	0021-8847	2056-5232	1996	80	1	1996	80	6	https://academic.oup.com/jambio/issue		jambio		fulltext	Title change: Proceedings of the Society of Applied Bacteriologists (ISSN 0370-1786) 1938-1944; Proceedings of the Society for Applied Bacteriology (ISSN 0370-1778) 1945-1953; Journal of Applied Bacteriology (ISSN 0021-8847) 1954-1996; Journal of Applied Microbiology (ISSN 1364-5072, eISSN 1365-2672) 1997-Present	Oxford University Press	serial							0021-8847	P	180712616
+Paediatrics & Child Health	1205-7088	1918-1485	1996	1	1				https://academic.oup.com/pch/issue		pch		fulltext	Title change: (until 1996) Canadian Journal of Pediatrics (Canada) (0843-4263); (until 1989) Contemporary Pediatrics Canada (Canada) (0832-7831)	Oxford University Press	serial								P	169062643
+Proceedings Of The Aristotelian Society	0066-7374	1467-9264	1996-06-01	96	1				https://academic.oup.com/aristotelian/issue		aristotelian		fulltext		Oxford University Press	serial								P	058287655
+Cambridge Journal Of Regions, Economy And Society	1752-1378	1752-1386	2008-04-01	1	1				https://academic.oup.com/cjres/issue		cjres		fulltext		Oxford University Press	serial								P	13314691X
+Endocrine Reviews	0163-769X	1945-7189	1996	17	1				https://academic.oup.com/edrv/issue		edrv		fulltext	Incorporates (1947-2005): Recent Progress in Hormone Research (United States) (0079-9963)	Oxford University Press	serial								P	128405465
+European Journal Of Cardiovascular Nursing	1474-5151	1873-1953	2002-02-01	1	1				https://academic.oup.com/eurjcn/issue		eurjcn		fulltext		Oxford University Press	serial								P	086313509
+Age And Ageing	0002-0729	1468-2834	1996	25	1				https://academic.oup.com/ageing/issue		ageing		fulltext		Oxford University Press	serial								P	116266015
+Forum For Modern Language Studies	0015-8518	1471-6860	1996	XXXII	1				https://academic.oup.com/fmls/issue		fmls		fulltext		Oxford University Press	serial								P	064161013
+Glycobiology	0959-6658	1460-2423	1996	6	1				https://academic.oup.com/glycob/issue		glycob		fulltext		Oxford University Press	serial								P	090128028
+Human Reproduction	0268-1161	1460-2350	1996	11	1				https://academic.oup.com/humrep/issue		humrep		fulltext		Oxford University Press	serial								P	058286462
+Insect Systematics And Diversity		2399-3421	2017	1	1				https://academic.oup.com/isd/issue		isd		fulltext		Oxford University Press	serial								P	221012877
+Botanical Journal Of The Linnean Society	0024-4074	1095-8339	1996	120	1				https://academic.oup.com/botlinnean/issue		botlinnean		fulltext	Title change: (until 1969) Linnean Society of London Botany Journal (United Kingdom) (0368-2927); (until 1967) Linnean Society of London Proceedings Botany Journal (United Kingdom) (1945-9483) which superseded in part (in 1957) Linnean Society of London Transactions (United Kingdom) (1945-9467) which superseded in part (in 1936) Linnean Society of London Zoology Transactions (United Kingdom) (1945-9440) which superseded in part (in 1875) Linnean Society Transactions (United Kingdom) (1945-9432)	Oxford University Press	serial								P	040631230
+Christian Bioethics	1380-3603	1744-4195	1996-03-01	2	1				https://academic.oup.com/cb/issue		cb		fulltext		Oxford University Press	serial								P	090139569
+European Heart Journal - Cardiovascular Pharmacotherapy	2055-6837	2055-6845	2015	1	1				https://academic.oup.com/ehjcvp/issue		ehjcvp		fulltext		Oxford University Press	serial								P	185302203
+Fems Immunology & Medical Microbiology	0928-8244	1574-695X	1996	13	1	2012	66	3	https://academic.oup.com/femspd/issue		femspd		fulltext	Title change: FEMS Immunology & Medical Microbiology was started in 1993 following an expansion of the original journal FEMS Microbiology Immunology. FEMS Immunology & Medical Microbiology has since changed scope and name and is currently known as Pathogens and Disease from 2013-02 on.	Oxford University Press	serial							0920-8534	P	070749132
+Information And Inference: A Journal Of The Ima	2049-8764	2049-8772	2012-12-01	1	1				https://academic.oup.com/imaiai/issue		imaiai		fulltext		Oxford University Press	serial								P	168244934
+Isle: Interdisciplinary Studies In Literature And Environment	1076-0962	1759-1090	1996	2	2				https://academic.oup.com/isle/issue		isle		fulltext		Oxford University Press	serial								P	146296206
+International Journal Of Public Opinion Research	0954-2892	1471-6909	1996	8	1				https://academic.oup.com/ijpor/issue		ijpor		fulltext		Oxford University Press	serial								P	064161048
+Journal Of Language Evolution		2058-458X	2016-07-01	1	1				https://academic.oup.com/jole/issue		jole		fulltext		Oxford University Press	serial								P	194813371
+Journal Of Crohn's And Colitis	1873-9946	1876-4479	2007-09-01	1	1				https://academic.oup.com/ecco-jcc/issue		ecco-jcc		fulltext		Oxford University Press	serial								P	118963236
+Journal Of Competition Law & Economics	1744-6414	1744-6422	2005-03-01	1	1				https://academic.oup.com/jcle/issue		jcle		fulltext		Oxford University Press	serial								P	111216915
+Journal Of Intellectual Property Law & Practice	1747-1532	1747-1540	2005-11-01	1	1				https://academic.oup.com/jiplp/issue		jiplp		fulltext		Oxford University Press	serial								P	111217008
+Journal Of Heredity	0022-1503	1465-7333	1996	87	1				https://academic.oup.com/jhered/issue		jhered		fulltext		Oxford University Press	serial								P	115431535
+Oxford Economic Papers	0030-7653	1464-3812	1996	48	1				https://academic.oup.com/oep/issue		oep		fulltext		Oxford University Press	serial								P	120198177
+Melus: Multi-ethnic Literature Of The United States	0163-755X	1946-3170	1996-03-01	21	1				https://academic.oup.com/melus/issue		melus		fulltext		Oxford University Press	serial								P	131781677
+American Literary History	0896-7148	1468-4365	1996	8	1				https://academic.oup.com/alh/issue		alh		fulltext		Oxford University Press	serial								P	058288899
+Bioscience Biotechnology And Biochemistry	0916-8451	1347-6947	1996	60	1				https://academic.oup.com/bbb/issue		bbb		fulltext		Oxford University Press	serial								P	069623961
+Contemporary Women's Writing	1754-1476	1754-1484	2007-12-01	1	1				https://academic.oup.com/cww/issue		cww		fulltext		Oxford University Press	serial								P	133945170
+Forestry: An International Journal Of Forest Research	0015-752X	1464-3626	1996	69	1				https://academic.oup.com/forestry/issue		forestry		fulltext		Oxford University Press	serial								P	112892485
+Icsid Review - Foreign Investment Law Journal	0258-3690	2049-1999	1996	11	1				https://academic.oup.com/icsidreview/issue		icsidreview		fulltext		Oxford University Press	serial								P	166194751
+Industrial And Corporate Change	0960-6491	1464-3650	1996	5	1				https://academic.oup.com/icc/issue		icc		fulltext		Oxford University Press	serial								P	112892507
+Ima Journal Of Numerical Analysis	0272-4979	1464-3642	1996	16	1				https://academic.oup.com/imajna/issue		imajna		fulltext		Oxford University Press	serial								P	112892493
+Bulletin Of The Institute Of Classical Studies	0076-0730	2041-5370	1996	41	1				https://academic.oup.com/bics/issue		bics		fulltext		Oxford University Press	serial								P	158703685
+Bjs (british Journal Of Surgery)	0007-1323	1365-2168	1996	83	1				https://academic.oup.com/bjs/issue		bjs		fulltext		Oxford University Press	serial								P	040645614
+Contributions To Political Economy	0277-5921	1464-3588	1996	15	1				https://academic.oup.com/cpe/issue		cpe		fulltext		Oxford University Press	serial								P	131211226
+European Heart Journal Quality Of Care & Clinical Outcomes	2058-5225	2058-1742	2015	1	1				https://academic.oup.com/ehjqcco/issue		ehjqcco		fulltext		Oxford University Press	serial								P	189875089
+French Studies	0016-1128	1468-2931	1996	L	1				https://academic.oup.com/fs/issue		fs		fulltext		Oxford University Press	serial								P	116243538
+American Entomologist	1046-2821	2155-9902	1996	42	1				https://academic.oup.com/ae/issue		ae		fulltext		Oxford University Press	serial								P	147873614
+Forest Science	0015-749X	1938-3738	1996-02-01	42	1				https://academic.oup.com/forestscience/issue		forestscience		fulltext	Title change: Incorporates (1977-2013): Southern Journal of Applied Forestry (0148-4419); (1986-2013): Western Journal of Applied Forestry (0885-6095); (1984-2013): Northern Journal of Applied Fotestry (0742-6348)	Oxford University Press	serial								P	204057914
+International Data Privacy Law	2044-3994	2044-4001	2011-02-01	1	1				https://academic.oup.com/idpl/issue		idpl		fulltext		Oxford University Press	serial								P	151981868
+Biology Of Reproduction	0006-3363	1529-7268	1996	54	1				https://academic.oup.com/biolreprod/issue		biolreprod		fulltext		Oxford University Press	serial								P	059183136
+Integrative And Comparative Biology	1540-7063	1557-7023	2002-02-01	42	1				https://academic.oup.com/icb/issue		icb		fulltext	Title change: American Zoologist is the name for content published within Integrative and Comparative Biology (ICB) prior to 2002	Oxford University Press	serial								P	076871487
+Journal Of Burn Care & Research	1559-047X	1559-0488	1996	17	1				https://academic.oup.com/jbcr/issue		jbcr		fulltext	Title change: Formerly (until 2006): Journal of Burn Care & Rehabilitation (United States) (0273-8481, 1534-5939)	Oxford University Press	serial								P	145775658
+Cambridge Journal Of Economics	0309-166X	1464-3545	1996	20	1				https://academic.oup.com/cje/issue		cje		fulltext		Oxford University Press	serial								P	129182494
+Biometrika	0006-3444	1464-3510	1996-03-01	83	1				https://academic.oup.com/biomet/issue		biomet		fulltext		Oxford University Press	serial								P	116647760
+Brain	0006-8950	1460-2156	1996-02-01	119	1				https://academic.oup.com/brain/issue		brain		fulltext		Oxford University Press	serial								P	058286381
+Epidemiologic Reviews	0193-936X	1478-6729	1996	18	1				https://academic.oup.com/epirev/issue		epirev		fulltext		Oxford University Press	serial								P	124375170
+Health Promotion International	0957-4824	1460-2245	1996-03-01	11	1				https://academic.oup.com/heapro/issue		heapro		fulltext		Oxford University Press	serial								P	058286454
+Grur International: Journal Of European And International Ip Law	2632-8623	2632-8550	2020	69	1				https://academic.oup.com/grurint/issue		grurint		fulltext		Oxford University Press	serial								P	243397534
+International Journal Of Constitutional Law	1474-2640	1474-2659	2003	1	1				https://academic.oup.com/icon/issue		icon		fulltext		Oxford University Press	serial								P	115209271
+Ima Journal Of Mathematical Control And Information	0265-0754	1471-6887	1996-03-01	13	1				https://academic.oup.com/imamci/issue		imamci		fulltext		Oxford University Press	serial								P	06416103X
+International Mathematics Research Notices	1073-7928	1687-0247	1996	1996					https://academic.oup.com/imrn/issue		imrn		fulltext	Title change: As of 2009, International Mathematics Research Papers has been incorporated into International Mathematics Research Notices.	Oxford University Press	serial							imrp	P	073906123
+International Journal Of Lexicography	0950-3846	1477-4577	1996-03-01	9	1				https://academic.oup.com/ijl/issue		ijl		fulltext		Oxford University Press	serial								P	068853718
+Annals Of Work Exposures And Health	2398-7308	2398-7316	2017	61	1				https://academic.oup.com/annweh/issue		annweh		fulltext	Title change: The Annals of Occupational Hygiene (1980-2016); Annals of Work Exposures and Health 2017-	Oxford University Press	serial								P	200451308
+Early Music	0306-1078	1741-7260	1996-02-01	XXIV	1				https://academic.oup.com/em/issue		em		fulltext		Oxford University Press	serial								P	133810151
+Current Legal Problems	0070-1998	2044-8422	1996	49	1				https://academic.oup.com/clp/issue		clp		fulltext		Oxford University Press	serial								P	163678642
+Clinical Infectious Diseases	1058-4838	1537-6591	1996	22	1				https://academic.oup.com/cid/issue		cid		fulltext		Oxford University Press	serial								P	074022164
+European Review Of Economic History	1361-4916	1474-0044	1997-04-01	1	1				https://academic.oup.com/ereh/issue		ereh		fulltext		Oxford University Press	serial								P	058291539
+Fems Microbiology Letters	0378-1097	1574-6968	1996	135	1				https://academic.oup.com/femsle/issue		femsle		fulltext		Oxford University Press	serial								P	086837648
+Human Molecular Genetics	0964-6906	1460-2083	1996	5	1				https://academic.oup.com/hmg/issue		hmg		fulltext		Oxford University Press	serial								P	058286322
+Ima Journal Of Mathematics Applied In Business And Industry	0953-0061		1996	7	1	2000	11	4	https://academic.oup.com/imaman/issue		imaman		fulltext	Title change: Former titles (until 2001): IMA Journal of Mathematics Applied in Business and Industry (United Kingdom) (0953-0061); IMA Journal of Management Mathematics from 2001-07 on	Oxford University Press	serial								P	177971231
+International Affairs	0020-5850	1468-2346	1996	72	1				https://academic.oup.com/ia/issue		ia		fulltext	Title change: (until 1944) International Affairs Review Supplement (United Kingdom) (1473-8112); (until 1940) International Affairs (United Kingdom) (1473-8104); (until 1931) Royal Institute of International Affairs. Journal (United Kingdom) (1473-799X); (until 1926) British Institute of International Affairs. Journal (United Kingdom) (1473-7981)	Oxford University Press	serial								P	058288716
+Journal Of Communication	0021-9916	1460-2466	1996-03-01	46	1				https://academic.oup.com/joc/issue		joc		fulltext		Oxford University Press	serial								P	058286527
+Astronomy & Geophysics	1366-8781	1468-4004	1997-02-01	38	1				https://academic.oup.com/astrogeo/issue		astrogeo		fulltext		Oxford University Press	serial								P	058288864
+Clinical Chemistry	0009-9147	1530-8561	1996	42	1				https://academic.oup.com/clinchem/issue		clinchem		fulltext	Title change: (until 1955): Clinical Chemist (United States) (0097-4005)	Oxford University Press	serial								P	058400885
+Annals Of Botany	0305-7364	1095-8290	1996	77	1				https://academic.oup.com/aob/issue		aob		fulltext		Oxford University Press	serial								P	040631192
+European Journal Of Cardio-thoracic Surgery	1010-7940	1873-734X	1996	10	1				https://academic.oup.com/ejcts/issue		ejcts		fulltext		Oxford University Press	serial								P	086312154
+German History	0266-3554	1477-089X	1996	14	1				https://academic.oup.com/gh/issue		gh		fulltext		Oxford University Press	serial								P	068853300
+French Studies Bulletin	0262-2750	1748-9180	1996	17	58				https://academic.oup.com/fsb/issue		fsb		fulltext		Oxford University Press	serial								P	116246111
+Historical Research: Bulletin Of The Institute Of Historical Research	0950-3471	1468-2281	1996-02-01	69	168				https://academic.oup.com/histres/issue		histres		fulltext		Oxford University Press	serial								P	058288651
+International Journal Of Pharmacy Practice	0961-7671	2042-7174	1996	4	1				https://academic.oup.com/ijpp/issue		ijpp		fulltext		Oxford University Press	serial								P	148310214
+International Journal Of Transitional Justice	1752-7716	1752-7724	2007-03-01	1	1				https://academic.oup.com/ijtj/issue		ijtj		fulltext		Oxford University Press	serial								P	116269219
+American Journal Of Clinical Pathology	0002-9173	1943-7722	1996	105	1				https://academic.oup.com/ajcp/issue		ajcp		fulltext		Oxford University Press	serial								P	133154904
+Behavioral Ecology	1045-2249	1465-7279	1996	7	1				https://academic.oup.com/beheco/issue		beheco		fulltext		Oxford University Press	serial								P	114561753
+Annals Of Behavioral Medicine	0883-6612	1532-4796	1996-03-01	18	1				https://academic.oup.com/abm/issue		abm		fulltext		Oxford University Press	serial								P	121461475
+Diseases Of The Esophagus	1120-8694	1442-2050	1996	9	3				https://academic.oup.com/dote/issue		dote		fulltext	Incorporates (in July 1993): Gullet (United Kingdom) (0952-0643)	Oxford University Press	serial								P	109642279
+Family Practice	0263-2136	1460-2229	1996	13	1				https://academic.oup.com/fampra/issue		fampra		fulltext		Oxford University Press	serial								P	058286438
+Ima Journal Of Mathematics Applied In Medicine & Biology	0265-0746	1471-6879	1996	13	1	2002	19	4	https://academic.oup.com/imammb/issue		imammb		fulltext	Title change: IMA Journal of Mathematics Applied in Medicine & Biology (1984-2002);	Oxford University Press	serial								P	064161021
+Health & Social Work	0360-7283	1545-6854	1996-02-01	21	1				https://academic.oup.com/hsw/issue		hsw		fulltext		Oxford University Press	serial								P	076878449
+Interacting With Computers	0953-5438	1873-7951	1996-03-01	8	1				https://academic.oup.com/iwc/issue		iwc		fulltext		Oxford University Press	serial								P	11067099X
+International Political Sociology	1749-5679	1749-5687	2007-03-01	1	1				https://academic.oup.com/ips/issue		ips		fulltext		Oxford University Press	serial								P	114163413
+Journal Of Aoac International	1060-3271	1944-7922	1996	79	1				https://academic.oup.com/jaoac/issue		jaoac		fulltext	Title change: (until 1992): Association of Official Analytical Chemists. Journal (United States) (0004-5756) Formerly (until 1992): Association of Official Analytical Chemists. Journal (Online) (United States) (until 1966): Association of Official Agricultural Chemists. Journal (United States) (0095-9111)	Oxford University Press	serial							0095-9111	P	128404507
+Briefings In Functional Genomics	2041-2649	2041-2657	2010	9	1				https://academic.oup.com/bfg/issue		bfg		fulltext	Title change: Formerly (until 2010): Briefings in Functional Genomics & Proteomics (United Kingdom) (1473-9550)Formerly (until 2010): Briefings in Functional Genomics and Proteomics (Online) (United Kingdom) (1477-4062); Briefings in Functional Genomics from 2010-01 on	Oxford University Press	serial								P	14418981X
+British Medical Bulletin	0007-1420	1471-8391	1996	52	1				https://academic.oup.com/bmb/issue		bmb		fulltext		Oxford University Press	serial								P	112893066
+Community Development Journal	0010-3802	1468-2656	1996	31	1				https://academic.oup.com/cdj/issue		cdj		fulltext		Oxford University Press	serial								P	064160602
+Foreign Policy Analysis	1743-8586	1743-8594	2005-03-01	1	1				https://academic.oup.com/fpa/issue		fpa		fulltext		Oxford University Press	serial								P	100704492
+European Journal Of Cardiovascular Prevention & Rehabilitation	1741-8267	1741-8275	2003	10	1	2011	18	6	https://academic.oup.com/eurjpc/issue		eurjpc		fulltext	Title changes: Journal of Cardiovascular Risk (ISSN 1350-6277) 1994-2002; European journal of cardiovascular prevention and rehabilitation (ISSN 1741-8267) 2003-2011; European Journal of Preventive Cardiology (ISSN 2047-4873) 2012-Present	Oxford University Press	serial								P	090138090
+European Journal Of Echocardiography	1525-2167	1532-2114	2000	1	1	2011	12	12	https://academic.oup.com/ehjcimaging/issue		ehjcimaging		fulltext	Title change: Formerly (until 2012): European Journal of Echocardiography (United Kingdom) (1525-2167)Formerly (until 2012): European Journal of Echocardiography (Online) (United Kingdom) (1532-2114); European Heart Journal - Cardiovascular Imaging from 2012-01 on	Oxford University Press	serial								P	058402616
+Ima Journal Of Applied Mathematics	0272-4960	1464-3634	1996-02-01	56	1				https://academic.oup.com/imamat/issue		imamat		fulltext		Oxford University Press	serial								P	119399504
+Human Rights Law Review	1461-7781	1744-1021	2001	1	1				https://academic.oup.com/hrlr/issue		hrlr		fulltext		Oxford University Press	serial								P	112894305
+Jerusalem Review Of Legal Studies	2219-7125	2219-7117	2010-03-01	1	1				https://academic.oup.com/jrls/issue		jrls		fulltext		Oxford University Press	serial								P	148798411
+International Mathematics Research Papers	1687-3017	1687-3009	2005	2005	1	2008	2008		https://academic.oup.com/imrp/issue		imrp		fulltext	Title change: As of 2009, International Mathematics Research Papers has been incorporated into International Mathematics Research Notices.	Oxford University Press	serial								P	116100931
+Aesthetic Surgery Quarterly	1084-0761		1996	16	1	1996	16	4	https://academic.oup.com/asj/issue		asj		fulltext	Title change: Former titles (until 1997): Aesthetic Surgery Quarterly (United States) (1084-0761); Aesthetic Surgery Journal from 1997-01 on	Oxford University Press	serial								P	182207706
+Analysis	0003-2638	1467-8284	1996	56	1				https://academic.oup.com/analysis/issue		analysis		fulltext		Oxford University Press	serial								P	058287167
+Biological Journal Of The Linnean Society	0024-4066	1095-8312	1996	57	1				https://academic.oup.com/biolinnean/issue		biolinnean		fulltext	Title change: (until 1969) Linnean Society of London. Proceedings (United Kingdom) (0370-0461)	Oxford University Press	serial								P	040631214
+European Heart Journal Supplements	1520-765X	1554-2815	2001-05-01	3	suppl A				https://academic.oup.com/eurheartjsupp/issue		eurheartjsupp		fulltext		Oxford University Press	serial								P	120421399
+Environmental Entomology	0046-225X	1938-2936	1996-02-01	25	1				https://academic.oup.com/ee/issue		ee		fulltext		Oxford University Press	serial								P	128339136
+Economic Policy	0266-4658	1468-0327	1996-04-01	11	22				https://academic.oup.com/economicpolicy/issue		economicpolicy		fulltext		Oxford University Press	serial								P	058288457
+Fundamental And Applied Toxicology	0272-0590	1095-6832	1996	29	1	1997	40	2	https://academic.oup.com/toxsci/issue		toxsci		fulltext	Title change: Formerly (until 1998): Fundamental and Applied Toxicology (United States) (0272-0590)Formerly (until 1998): Fundamental and Applied Toxicology (Online Edition) (United States) (1095-6832); Toxicological Sciences from 1998-01 on	Oxford University Press	serial								P	04063096X
+Health Education Research	0268-1153	1465-3648	1996-03-01	11	1				https://academic.oup.com/her/issue		her		fulltext		Oxford University Press	serial								P	094932026
+Human Communication Research	0360-3989	1468-2958	1996-03-01	22	3				https://academic.oup.com/hcr/issue		hcr		fulltext		Oxford University Press	serial								P	115431659
+Inflammatory Bowel Diseases	1078-0998	1536-4844	1996	2	1				https://academic.oup.com/ibdjournal/issue		ibdjournal		fulltext		Oxford University Press	serial								P	076865355
+International Studies Perspectives	1528-3577	1528-3585	2000-04-01	1	1				https://academic.oup.com/isp/issue		isp		fulltext		Oxford University Press	serial								P	083650911
+Annals Of The Entomological Society Of America	0013-8746	1938-2901	1996	89	1				https://academic.oup.com/aesa/issue		aesa		fulltext		Oxford University Press	serial								P	12835710X
+Alcohol And Alcoholism	0735-0414	1464-3502	1996	31	1				https://academic.oup.com/alcalc/issue		alcalc		fulltext		Oxford University Press	serial								P	124374980
+Classical Receptions Journal	1759-5134	1759-5142	2009	1	1				https://academic.oup.com/crj/issue		crj		fulltext		Oxford University Press	serial								P	146296214
+English	0013-8215	1756-1124	1996	45	181				https://academic.oup.com/english/issue		english		fulltext		Oxford University Press	serial								P	128395982
+European Finance Review	1382-6662	1573-692X	1997	1	1	2003	7	3	https://academic.oup.com/rof/issue		rof		fulltext	Title change: Formerly (until 2004): European Finance Review (Print) (United States) (1382-6662); Review of Finance from 2004 onwards (ISSN 1572-3097, 1573-692x)	Oxford University Press	serial								P	090131592
+European Journal Of Orthodontics	0141-5387	1460-2210	1996	18	1				https://academic.oup.com/ejo/issue		ejo		fulltext		Oxford University Press	serial								P	05828642X
+European Review Of Agricultural Economics	0165-1587	1464-3618	1996	23	1				https://academic.oup.com/erae/issue		erae		fulltext		Oxford University Press	serial								P	112892477
+Human Reproduction Update	1355-4786	1460-2369	1996	2	1				https://academic.oup.com/humupd/issue		humupd		fulltext		Oxford University Press	serial								P	037217178
+International Journal Of Law, Policy And The Family	1360-9939	1464-3707	1996-04-01	10	1				https://academic.oup.com/lawfam/issue		lawfam		fulltext		Oxford University Press	serial								P	112892558
+International Journal Of Epidemiology	0300-5771	1464-3685	1996-02-01	25	1				https://academic.oup.com/ije/issue		ije		fulltext		Oxford University Press	serial								P	112892531
+Journal Of Animal Science	0021-8812	1525-3163	1996	74	1				https://academic.oup.com/jas/issue		jas		fulltext		Oxford University Press	serial								P	04500885X
+Applied Linguistics	0142-6001	1477-450X	1996-03-01	17	1				https://academic.oup.com/applij/issue		applij		fulltext		Oxford University Press	serial								P	068853645
+Biostatistics	1465-4644	1468-4357	2000-03-01	1	1				https://academic.oup.com/biostatistics/issue		biostatistics		fulltext		Oxford University Press	serial								P	050929097
+Elt Journal	0951-0893	1477-4526	1996	50	1				https://academic.oup.com/eltj/issue		eltj		fulltext		Oxford University Press	serial								P	067784763
+European Journal Of International Law	0938-5428	1464-3596	1996	7	1				https://academic.oup.com/ejil/issue		ejil		fulltext		Oxford University Press	serial								P	176863478
+European Sociological Review	0266-7215	1468-2672	1996-05-01	12	1				https://academic.oup.com/esr/issue		esr		fulltext		Oxford University Press	serial								P	064160629
+History Workshop Journal	1363-3554	1477-4569	1996	1996	41				https://academic.oup.com/hwj/issue		hwj		fulltext		Oxford University Press	serial								P	067784801
+Industrial Law Journal	0305-9332	1464-3669	1996-03-01	25	1				https://academic.oup.com/ilj/issue		ilj		fulltext		Oxford University Press	serial								P	112892515
+International Journal For Quality In Health Care	1353-4505	1464-3677	1996	8	1				https://academic.oup.com/intqhc/issue		intqhc		fulltext		Oxford University Press	serial								P	112892523
+International Immunology	0953-8178	1460-2377	1996	8	1				https://academic.oup.com/intimm/issue		intimm		fulltext		Oxford University Press	serial								P	058286489
+International Relations Of The Asia-pacific	1470-482X	1470-4838	2001	1	1				https://academic.oup.com/irap/issue		irap		fulltext		Oxford University Press	serial								P	064160807
+American Journal Of Hypertension	0895-7061	1941-7225	1996	9	1				https://academic.oup.com/ajh/issue		ajh		fulltext		Oxford University Press	serial								P	070129738
+American Journal Of Legal History	0002-9319	2161-797X	1996	40	1				https://academic.oup.com/ajlh/issue		ajlh		fulltext		Oxford University Press	serial								P	153735856
+Bioscience	0006-3568	1525-3244	1996	46	1				https://academic.oup.com/bioscience/issue		bioscience		fulltext		Oxford University Press	serial								P	05835204X
+Communication, Culture & Critique	1753-9129	1753-9137	2008-03-01	1	1				https://academic.oup.com/ccc/issue		ccc		fulltext		Oxford University Press	serial								P	131763148
+Diplomatic History	0145-2096	1467-7709	1996	20	1				https://academic.oup.com/dh/issue		dh		fulltext		Oxford University Press	serial								P	058287108
+Essays In Criticism	0014-0856	1471-6852	1996	XLVI	1				https://academic.oup.com/eic/issue		eic		fulltext		Oxford University Press	serial								P	064161005
+European Heart Journal: Acute Cardiovascular Care	2048-8726	2048-8734	2012-04-01	1	1				https://academic.oup.com/ehjacc/issue		ehjacc		fulltext		Oxford University Press	serial								P	163390029
+French History	0269-1191	1477-4542	1996-03-01	10	1				https://academic.oup.com/fh/issue		fh		fulltext		Oxford University Press	serial								P	06778478X
+International Studies Quarterly	0020-8833	1468-2478	1996-03-01	40	1				https://academic.oup.com/isq/issue		isq		fulltext		Oxford University Press	serial								P	058288813
+Itnow	1746-5702	1746-5710	2005-03-01	47	2				https://academic.oup.com/itnow/issue		itnow		fulltext	Title change: Formerly (until 2005): The Computer Bulletin (United Kingdom) (0010-4531)Incorporates: Computer Newsletter (United Kingdom) (0266-4631); ITNOW from 2005-03 on	Oxford University Press	serial							1464-357x	P	104882867
+International Journal Of Refugee Law	0953-8186	1464-3715	1996	8	1				https://academic.oup.com/ijrl/issue		ijrl		fulltext		Oxford University Press	serial								P	112892566
+Arbitration International	0957-0411	1875-8398	1996-03-01	12	1				https://academic.oup.com/arbitration/issue		arbitration		fulltext		Oxford University Press	serial								P	121371271
+Adaptation	1755-0637	1755-0645	2008	1	1				https://academic.oup.com/adaptation/issue		adaptation		fulltext		Oxford University Press	serial								P	131763369
+African Affairs	0001-9909	1468-2621	1996	95	378				https://academic.oup.com/afraf/issue		afraf		fulltext		Oxford University Press	serial								P	064160572
+Digital Scholarship In The Humanities	2055-7671	2055-768X	2015-04-01	30	1				https://academic.oup.com/dsh/issue		dsh		fulltext	Title change: As of December 3rd 2014 Literary and Linguistic Computing (LLC) has changed name to Digital Scholarship in the Humanities (DSH).	Oxford University Press	serial							1477-4615	P	189874961
+European Heart Journal	0195-668X	1522-9645	1996	17	1				https://academic.oup.com/eurheartj/issue		eurheartj		fulltext		Oxford University Press	serial								P	058351663
+Endocrinology	0013-7227	1945-7170	1996	137	1				https://academic.oup.com/endo/issue		endo		fulltext	Title change: incorporates in part (in 1957) American Goiter Association Transactions (United States) (0096-7173) which was formerly (until 1948) American Association for the Study of Goiter Transactions (United States)	Oxford University Press	serial								P	128405457
+Holocaust And Genocide Studies	8756-6583	1476-7937	1996	10	1				https://academic.oup.com/hgs/issue		hgs		fulltext		Oxford University Press	serial								P	078919231
+Genetics	0016-6731	1943-2631	1996	142	1				https://academic.oup.com/genetics/issue		genetics		fulltext		Oxford University Press	serial								P	12840180X
+International Journal Of Law And Information Technology	0967-0769	1464-3693	1996	4	1				https://academic.oup.com/ijlit/issue		ijlit		fulltext		Oxford University Press	serial								P	11289254X
+Integrative Biology	1757-9694	1757-9708	2009	1	1				https://academic.oup.com/ib/issue		ib		fulltext		Oxford University Press	serial								P	140305955
+Journal Of European Competition Law & Practice	2041-7764	2041-7772	2010	1	1				https://academic.oup.com/jeclap/issue		jeclap		fulltext		Oxford University Press	serial								P	149005660
+Journal Of Breast Imaging	2631-6110	2631-6129	2019	1	1				https://academic.oup.com/jbi/issue		jbi		fulltext		Oxford University Press	serial								P	236089358
+Journal Of Economic Entomology	0022-0493	1938-291X	1996-02-01	89	1				https://academic.oup.com/jee/issue		jee		fulltext		Oxford University Press	serial								P	128332298
+Aristotelian Society Supplementary Volume	0309-7013	1467-8349	1996-07-01	70	1				https://academic.oup.com/aristoteliansupp/issue		aristoteliansupp		fulltext		Oxford University Press	serial								P	058287213
+Journal Of Public Administration Research And Theory	1053-1858	1477-9803	1996	6	1				https://academic.oup.com/jpart/issue		jpart		fulltext		Oxford University Press	serial								P	133033988
+Journal Of Church And State	0021-969X	2040-4867	1996	38	1				https://academic.oup.com/jcs/issue		jcs		fulltext		Oxford University Press	serial								P	146297326
+Journal Of Music Therapy	0022-2917	2053-7395	1996	33	1				https://academic.oup.com/jmt/issue		jmt		fulltext		Oxford University Press	serial								P	180528378
+Journal Of The European Economic Association	1542-4766	1542-4774	2003	1	1				https://academic.oup.com/jeea/issue		jeea		fulltext		Oxford University Press	serial								P	114355061
+Journal Of Public Health Medicine	0957-4832	1464-3782	1996	18	1	2003	25	4	https://academic.oup.com/jpubhealth/issue		jpubhealth		fulltext	Title change: Former titles (until 2004): Journal of Public Health Medicine (United Kingdom) (0957-4832)Formerly (until 2004): Journal of Public Health Medicine (Online) (United Kingdom) (0957-4832); Journal of Public Health from 2004-03 on	Oxford University Press	serial							0142-2456	P	073861820
+Literary Imagination	1523-9012	1752-6566	1999	1	1				https://academic.oup.com/litimag/issue		litimag		fulltext		Oxford University Press	serial								P	115432833
+Medical Law Review	0967-0742	1464-3790	1996	4	1				https://academic.oup.com/medlaw/issue		medlaw		fulltext		Oxford University Press	serial								P	112892620
+Mind	0026-4423	1460-2113	1996	105	417				https://academic.oup.com/mind/issue		mind		fulltext		Oxford University Press	serial								P	058286357
+Occupational Medicine	0962-7480	1471-8405	1996-02-01	46	1				https://academic.oup.com/occmed/issue		occmed		fulltext	Title Change: The Quarterly Bulletin of the Associate of Industrial Medical Officers (1948-1949); Transactions of the Association of Industrial Medical Officers (1951-1965); Transactions of the Society of Occupational Medicine (1966-1972); The Journal of the Society of Occupational Medicine (1973-1991); Occupational Medicine (1992-)	Oxford University Press	serial							0301-0023	P	064161145
+Social Work Research	1070-5309	1545-6838	1996-03-01	20	1				https://academic.oup.com/swr/issue		swr		fulltext		Oxford University Press	serial								P	076878422
+Social Politics	1072-4745	1468-2893	1996	3	1				https://academic.oup.com/sp/issue		sp		fulltext		Oxford University Press	serial								P	115431640
+The Journal Of Hindu Studies	1756-4255	1756-4263	2008-10-01	1	1				https://academic.oup.com/jhs/issue		jhs		fulltext		Oxford University Press	serial								P	146059069
+The American Journal Of Jurisprudence	0065-8995	2049-6494	1996	41	1				https://academic.oup.com/ajj/issue		ajj		fulltext		Oxford University Press	serial								P	172118638
+Sexual Medicine Reviews	2050-0513	2050-0521	2013	1	1				https://academic.oup.com/smr/issue		smr		fulltext		Oxford University Press	serial								P	169362469
+The Monist	0026-9662	2153-3601	1996	79	1				https://academic.oup.com/monist/issue		monist		fulltext		Oxford University Press	serial								P	143848984
+Evolution	0014-3820	1558-5646	1996-02-01	50	1				https://academic.oup.com/evolut/issue		evolut		fulltext		Oxford University Press	serial								P	116256443
+Yearbook Of International Environmental Law	0965-1721	2045-0052	1996	6	1				https://academic.oup.com/yielaw/issue		yielaw		fulltext		Oxford University Press	serial								P	166925616
+Postgraduate Medical Journal	0032-5473	1469-0756	1996	72	843				https://academic.oup.com/pmj/issue		pmj		fulltext		Oxford University Press	serial								P	048900028
+Journal Of The Royal Statistical Society Series A – Statistics In Society	0964-1998	1467-985X	1996	159	1				https://academic.oup.com/jrsssa/issue		jrsssa		fulltext		Oxford University Press	serial								P	058288139
+Mutagenesis	0267-8357	1464-3804	1996	11	1				https://academic.oup.com/mutage/issue		mutage		fulltext		Oxford University Press	serial								P	112892639
+Oxford Review Of Economic Policy	0266-903X	1460-2121	1996	12	1				https://academic.oup.com/oxrep/issue		oxrep		fulltext		Oxford University Press	serial								P	058286365
+Philosophia Mathematica	0031-8019	1744-6406	1996	4	1				https://academic.oup.com/philmat/issue		philmat		fulltext		Oxford University Press	serial								P	116260246
+Radiation Protection Dosimetry	0144-8420	1742-3406	1996	63	1				https://academic.oup.com/rpd/issue		rpd		fulltext		Oxford University Press	serial								P	175443084
+The Review Of Economic Studies	0034-6527	1467-937X	1996	63	1				https://academic.oup.com/restud/issue		restud		fulltext		Oxford University Press	serial								P	123677521
+The Computer Journal	0010-4620	1460-2067	1996	39	1				https://academic.oup.com/comjnl/issue		comjnl		fulltext		Oxford University Press	serial								P	058286306
+The Journal Of Theological Studies	0022-5185	1477-4607	1996-04-01	47	1				https://academic.oup.com/jts/issue		jts		fulltext		Oxford University Press	serial								P	068853742
+The Review Of Financial Studies	0893-9454	1465-7368	1996	9	1				https://academic.oup.com/rfs/issue		rfs		fulltext		Oxford University Press	serial								P	115431551
+The Year's Work In Critical And Cultural Theory	1077-4254	1471-681X	1996	6	1				https://academic.oup.com/ywcct/issue		ywcct		fulltext		Oxford University Press	serial								P	112893058
+Food Science & Technology [magazine]	1475-3324	2689-1816	2016-03-01	30	1				https://academic.oup.com/fst		fst		fulltext		Oxford University Press	serial								P	244301646
+Transactions Of The Linnean Society Of London. Zoology	1945-9343		1875	1	1	1936	19	4	https://academic.oup.com/transactionslinneanzoo/issue		transactionslinneanzoo		fulltext		Oxford University Press	serial								P	161724736
+Nutrition Reviews	0029-6643	1753-4887	1996	54	1				https://academic.oup.com/nutritionreviews/issue		nutritionreviews		fulltext		Oxford University Press	serial								P	12084530X
+Journal Of Aesthetics And Art Criticism	0021-8529	1540-6245	1996	54	1				https://academic.oup.com/jaac/issue		jaac		fulltext		Oxford University Press	serial								P	076871290
+Journal Of Human Rights Practice	1757-9619	1757-9627	2009-03-01	1	1				https://academic.oup.com/jhrp/issue		jhrp		fulltext		Oxford University Press	serial								P	140138048
+Capital Markets Law Journal	1750-7219	1750-7227	2006-07-01	1	1				https://academic.oup.com/cmlj/issue		cmlj		fulltext		Oxford University Press	serial								P	112785816
+Journal Of Environmental Law	0952-8873	1464-374X	1996	8	1				https://academic.oup.com/jel/issue		jel		fulltext		Oxford University Press	serial								P	112892582
+International Studies Review	1521-9488	1468-2486	1999-03-01	1	1				https://academic.oup.com/isr/issue		isr		fulltext	Title change: Mershon International Studies Review (1079-1760) changed to International Studies Review as of 1999	Oxford University Press	serial							1079-1760	P	058288821
+Cesifo Economic Studies	1610-241X	1612-7501	2003	49	1				https://academic.oup.com/cesifo/issue		cesifo		fulltext		Oxford University Press	serial								P	076883019
+Journal Of Semitic Studies	0022-4480	1477-8556	1996	XLI	1				https://academic.oup.com/jss/issue		jss		fulltext		Oxford University Press	serial								P	145172538
+Journal Of The Igpl	0945-9103		1996	4	1	1996	4	3	https://academic.oup.com/jigpal/issue		jigpal		fulltext	Title change: Bulletin of the IGPL (1993-1994); Journal of the IGPL (1995-1996); Logic Journal of the IGPL (1997-)	Oxford University Press	serial								P	
+Protein Engineering	0269-2139	1460-213X	1996	9	1	2003	16	12	https://academic.oup.com/peds/issue		peds		fulltext	Title change: Formerly (until 2004): Protein Engineering (United Kingdom) (0269-2139)Formerly (until 2004): Protein Engineering (Online) (United Kingdom) (1460-213X); Protein Engineering, Design and Selection from 2004-02 on	Oxford University Press	serial								P	059167343
+Migration Studies	2049-5838	2049-5846	2013-03-01	1	1				https://academic.oup.com/migration/issue		migration		fulltext		Oxford University Press	serial								P	170346811
+Plant & Cell Physiology	0032-0781	1471-9053	1996	37	1				https://academic.oup.com/pcp/issue		pcp		fulltext		Oxford University Press	serial								P	112893074
+Public Opinion Quarterly	0033-362X	1537-5331	1996	60	1				https://academic.oup.com/poq/issue		poq		fulltext		Oxford University Press	serial								P	076866742
+The Journal Of Infectious Diseases	0022-1899	1537-6613	1996	173	1				https://academic.oup.com/jid/issue		jid		fulltext		Oxford University Press	serial								P	123677696
+Social Problems	0037-7791	1533-8533	1996-02-01	43	1				https://academic.oup.com/socpro/issue		socpro		fulltext		Oxford University Press	serial								P	08379252X
+The Quarterly Journal Of Mechanics And Applied Mathematics	0033-5614	1464-3855	1996-02-01	49	1				https://academic.oup.com/qjmam/issue		qjmam		fulltext		Oxford University Press	serial								P	124305482
+The Auk		1938-4254	1996	113	1	2020	137	4	https://academic.oup.com/auk/issue		auk		fulltext	Title change: The Auk (ISSN 0004-8038, eISSN 1938-4254) 1996-2013; The Auk: Ornithological Advances 2014-2020; Ornithology (eISSN 2732-4613) 2021-Present	Oxford University Press	serial								P	115213899
+Journal Of Leukocyte Biology	0741-5400	1938-3673	1996	59	1				https://academic.oup.com/jleukbio/issue		jleukbio		fulltext		Oxford University Press	serial								P	16749919X
+The Year's Work In English Studies	0084-4144	1471-6801	1996	74	1				https://academic.oup.com/ywes/issue		ywes		fulltext		Oxford University Press	serial								P	064160963
+Clinical And Experimental Immunology	0009-9104	1365-2249	1996	103	1				https://academic.oup.com/cei/issue		cei		fulltext		Oxford University Press	serial								P	04064569X
+Significance	1740-9705	1740-9713	2004-02-01	01	1				https://academic.oup.com/jrssig		jrssig		fulltext		Oxford University Press	serial								P	090137965
+Journal Of The Royal Statistical Society Series D – The Statistician	2515-7884	1467-9884	1996	45	1	2003	52	4	https://academic.oup.com/jrsssd/issue		jrsssd		fulltext		Oxford University Press	serial								P	058288163
+North American Journal Of Fisheries Management	0275-5947	1548-8675	1996	16	1				https://academic.oup.com/najfm		najfm		fulltext		Oxford University Press	serial								P	116244054
+Journal Of African Economies	0963-8024	1464-3723	1996-03-01	5	1				https://academic.oup.com/jae/issue		jae		fulltext		Oxford University Press	serial								P	112892574
+Journal Of Economic Geography	1468-2702	1468-2710	2001	1	1				https://academic.oup.com/joeg/issue		joeg		fulltext		Oxford University Press	serial								P	064160645
+Cardiovascular Research	0008-6363	1755-3245	1996	31	1				https://academic.oup.com/cardiovascres/issue		cardiovascres		fulltext		Oxford University Press	serial								P	148653006
+Cerebral Cortex	1047-3211	1460-2199	1996	6	1				https://academic.oup.com/cercor/issue		cercor		fulltext		Oxford University Press	serial								P	058286411
+Journal Of Molluscan Studies	0260-1230	1464-3766	1996	62	1				https://academic.oup.com/mollus/issue		mollus		fulltext		Oxford University Press	serial								P	112892604
+Journal Of Neuropathology And Experimental Neurology	0022-3069	1554-6578	1996	55	1				https://academic.oup.com/jnen/issue		jnen		fulltext		Oxford University Press	serial								P	118042084
+Journal Of The American Academy Of Religion	0002-7189	1477-4585	1996	LXIV	1				https://academic.oup.com/jaar/issue		jaar		fulltext		Oxford University Press	serial								P	068853726
+Ornithological Applications		2732-4621	2021-02-01	123	1				https://academic.oup.com/condor/issue		condor		fulltext	Title change: The Condor: Ornithological Applications (ISSN 0010-5422, eISSN 1938-5129) 1996-2020; Ornithological Applications (eISSN 2732-4621) 2021-Present	Oxford University Press	serial								P	25626614X
+Science And Public Policy	0302-3427	1471-5430	1996-02-01	23	1				https://academic.oup.com/spp/issue		spp		fulltext		Oxford University Press	serial								P	058290338

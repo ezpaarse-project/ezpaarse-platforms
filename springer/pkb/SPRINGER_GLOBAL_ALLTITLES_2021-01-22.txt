@@ -283,7 +283,6 @@ Urban Development and Megacities	2523-3238	2522-8773							https://link.springer
 Versicherungsmagazin	1616-1963	2192-8622							http://www.springer.com/finance/journal/35128		35128		fulltext			serial								P	154286400
 Visual Geosciences		1998-2002	1998	3		2008	13		https://link.springer.com/journal/10069		10069		fulltext			serial								P	
 Wasser und Abfall	1436-9095								http://www.springer.com/environment/journal/35152		35152		fulltext			serial								P	
-WASSERWIRTSCHAFT	0043-0978								http://www.springer.com/environment/journal/35147		35147		fulltext			serial								P	
 Water, Air, & Soil Pollution: Focus	1567-7230	1573-2940	2001	1		2009	9		https://link.springer.com/journal/11267		11267		fulltext			serial								P	115421564
 Water Quality and Ecosystems Modeling	1388-266X	1573-1669	2000	1		2000	1		https://link.springer.com/journal/11279		11279		fulltext			serial								P	223237876
 Welding International	0950-7116	1754-2138	2003	17		2004	18		https://link.springer.com/journal/11271		11271		fulltext			serial								P	118358227

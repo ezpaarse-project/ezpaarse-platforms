@@ -1,0 +1,14 @@
+publication_title	print_identifier	online_identifier	date_first_issue_online	num_first_vol_online	num_first_issue_online	date_last_issue_online	num_last_vol_online	num_last_issue_online	title_url	first_author	title_id	embargo_info	coverage_depth	notes	publisher_name	publication_type	date_monograph_published_print	date_monograph_published_online	monograph_volume	monograph_edition	first_editor	parent_publication_title_id	preceding_publication_title_id	access_type	bestppn
+Matter And Radiation At Extremes	2468-2047	2468-080X	2016	1	1		10	1	https://pubs.aip.org/aip/mre/issue		mre		fulltext		AIP Publishing	serial								F	195681029
+Jasa Express Letters		2691-1191	2021	1	1		4	11	https://pubs.aip.org/asa/jel/issue		jel		fulltext		Acoustical Society of America	serial								F	244301751
+Apl Materials		2166-532X	2013-01-07	1	1		12	11	https://pubs.aip.org/aip/apm/issue		apm		fulltext		AIP Publishing	serial								F	180529471
+Scilight		2572-7907	2017-06-26	2017	1		2024	48	https://pubs.aip.org/aip/sci/issue		sci		fulltext		AIP Publishing	serial								F	204155525
+Apl Machine Learning		2770-9019	2023-01-03	1	1		2	4	https://pubs.aip.org/aip/aml/issue		aml		fulltext		AIP Publishing	serial								F	269113614
+Aip Advances		2158-3226	2011-01-03	1	1		14	11	https://pubs.aip.org/aip/adv/issue		adv		fulltext		AIP Publishing	serial								F	157957748
+Apl Bioengineering		2473-2877	2017-01-12	1	1		8	4	https://pubs.aip.org/aip/apb/issue		apb		fulltext		AIP Publishing	serial								F	22607143X
+Apl Energy		2770-9000	2023-01-06	1	1		2	4	https://pubs.aip.org/aip/ape/issue		ape		fulltext		AIP Publishing	serial								F	271956763
+Apl Photonics		2378-0967	2016-01-04	1	1		9	11	https://pubs.aip.org/aip/app/issue		app		fulltext		AIP Publishing	serial								F	195203984
+Structural Dynamics		2329-7778	2014	1	1		11	6	https://pubs.aip.org/aca/sdy/issue		sdy		fulltext		American Crystallographic Association, Inc.	serial								F	180534092
+Nanotechnology And Precision Engineering	1672-6030	2589-5540	2018-01-03	1	1		8	2	https://pubs.aip.org/aip/npe/issue		npe		fulltext		AIP Publishing	serial								F	232984409
+Acoustics Research Letters Online		1529-7853	2000-01-07	1	1				https://pubs.aip.org/asa/arlo/issue		arlo		fulltext		Acoustical Society of America	serial								F	059183217
+Proceedings Of Meetings On Acoustics		1939-800X	2007-04-06	1	1				https://pubs.aip.org/asa/poma/issue		poma		fulltext		Acoustical Society of America	serial								F	147870577
