@@ -38,7 +38,10 @@
     "calgarypl.naxosmusiclibrary.com",
     "kcl.naxosmusiclibrary.com",
     "rhodes.naxosmusiclibrary.com",
-    "wmich.naxosmusiclibrary.com"
+    "wmich.naxosmusiclibrary.com",
+    "oberlincoll.naxosmusiclibrary.com",
+    "oberlincoll.naxosspokenwordlibrary.com",
+    "oberlincoll.naxosvideolibrary.com"
   ],
   "version": "2019-08-15",
   "status": "stable"
