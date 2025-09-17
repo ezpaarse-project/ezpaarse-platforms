@@ -1,0 +1,13 @@
+{
+  "longname": "Biblioondemand",
+  "name": "bod",
+  "describe": "Recognizes the accesses to the platform Biblioondemand",
+  "contact": "",
+  "pkb": false,
+  "docurl": "https://analyses.ezpaarse.org/platforms/68b1abed9ac8402bb22ee047",
+  "domains": [
+    "www.biblioondemand.com"
+  ],
+  "version": "2025-09-17",
+  "status": "beta"
+}
