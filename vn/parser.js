@@ -34,9 +34,14 @@ module.exports = new Parser(function analyseEC(parsedUrl, ec) {
     result.mime   = 'PDF';
     result.unitid = match[1].toLowerCase().replace(/\s/g, '_');
 
-  } else if (/^\/numerique\/learning$/.test(path)) {
+  } else if (/^\/numerique\/learning(?:\/archive)?$/.test(path)) {
     // /numerique/learning
     result.rtype = 'TOC';
+    result.mime  = 'HTML';
+
+  } else if (/^\/numerique\/learning\/recherche$/.test(path)) {
+    // /numerique/learning/recherche
+    result.rtype = 'SEARCH';
     result.mime  = 'HTML';
 
   } else if ((match = /^\/numerique\/learning\/quiz\/([0-9]+)$/i.exec(path)) !== null) {
