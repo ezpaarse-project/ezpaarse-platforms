@@ -42,5 +42,3 @@ ALTEX	1868-596X	1868-8551	2006-01-02	23	1				https://link.springer.com/journal/1
 Fortschrittsberichte über Kolloide und Polymere	0071-8017		1909-01-10	1	1-2				https://link.springer.com/journal/12277		12277		fulltext	fully open access	Springer Berlin Heidelberg	serial								F	
 Heritage Science		2050-7445	2013-12-01	1	1				https://link.springer.com/journal/40494		40494		fulltext	fully open access	Springer International Publishing	serial								F	174284896
 Identity in the Information Society		1876-0678	2008-12-01	1	1	2010-12-01	3	3	https://link.springer.com/journal/12394		12394		fulltext	fully open access	Springer Netherlands	serial								F	148906206
-Journal of the Brazilian Computer Society	0104-6500	1678-4804	2004-02-01	10	1	2021-12-01	27	1	https://link.springer.com/journal/13173		13173		fulltext	fully open access	Springer London	serial								F	116268123
-Decision Analytics		2193-8636	2014-12-01	1	1	2017-12-01	4	1	https://link.springer.com/journal/40165		40165		fulltext	fully open access	Springer Berlin Heidelberg	serial								F	177497025

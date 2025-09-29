@@ -1,8 +1,2 @@
 publication_title	print_identifier	online_identifier	date_first_issue_online	num_first_vol_online	num_first_issue_online	date_last_issue_online	num_last_vol_online	num_last_issue_online	title_url	first_author	title_id	embargo_info	coverage_depth	notes	publisher_name	publication_type	date_monograph_published_print	date_monograph_published_online	monograph_volume	monograph_edition	first_editor	parent_publication_title_id	preceding_publication_title_id	access_type	bestppn
-Fizier	2588-8722	2588-8773	2014	31	1	2019	36	5	https://www.springer.com/journal/40739		40739		fulltext		BSL Media & Learning	serial								P	224062298
-Emergent Materials	2522-5731	2522-574X	2018-06-01	1	1				https://www.springer.com/journal/42247		42247		fulltext		Springer International Publishing	serial								P	243396074
-Current Dermatology Reports		2162-4933	2012-03-01	1	1				https://www.springer.com/journal/13671		13671		fulltext		Springer US	serial								P	166661686
-Indian Journal of Pure and Applied Mathematics	0019-5588	0975-7465	2010-02-01	41	1				https://www.springer.com/journal/13226		13226		fulltext		Indian National Science Academy	serial								P	148652018
-Drugs & Therapy Perspectives	1172-0360	1179-1977	1993	1	1				https://www.springer.com/journal/40267		40267		fulltext		Springer International Publishing	serial								P	155354035
 maschinenbau	2730-9835	2730-9843	2021-02-01	1	1				https://www.springer.com/journal/44029		44029		fulltext		Springer Fachmedien Wiesbaden	serial								P	266320228
-Current Treatment Options in Cardiovascular Medicine	1092-8464	1534-3189	1999-03-01	1	1				https://www.springer.com/journal/11936		11936		fulltext		Springer US	serial								P	058407138
