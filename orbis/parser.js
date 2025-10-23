@@ -33,6 +33,12 @@ module.exports = new Parser(function analyseEC(parsedUrl, ec) {
     result.mime   = 'HTML';
     result.unitid = match[1];
 
+  } else if ((match = /^\/version-[0-9-]+\/(?:orbis|Orbis4Europe)\/([0-9]+)\/Companies\/Report\/seq\/([0-9]+)$/i.exec(path)) !== null) {
+    // https://orbis.bvdinfo.com/version-20250619-4-0/Orbis/1/Companies/Report/seq/0?sl=1759852363156
+    result.rtype  = 'RECORD_VIEW';
+    result.mime   = 'HTML';
+    result.unitid = match[1];
+
   } else if ((match = /^\/version-[0-9-]+\/(?:orbis|Orbis4Europe)\/([0-9]+)\/Companies\/report\/Index$/i.exec(path)) !== null) {
     // https://orbis.bvdinfo.com/version-20201210/orbis/1/Companies/report/Index?format=_standard&BookSection=TOC&seq=0
     // https://orbis.bvdinfo.com/version-20201210/orbis/1/Companies/report/Index?format=_standard&BookSection=PROFILE&seq=0
