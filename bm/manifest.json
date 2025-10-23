@@ -1,0 +1,13 @@
+{
+  "longname": "Brief.me",
+  "name": "bm",
+  "describe": "Recognizes the accesses to the platform Brief.me",
+  "contact": "ez PAARSE, Frederic Truong inist",
+  "pkb": false,
+  "docurl": "https://analyses.ezpaarse.org/platforms/62053238fb08d26b77e1c208",
+  "domains": [
+    "app.brief.me"
+  ],
+  "version": "2025-10-23",
+  "status": "beta"
+}
