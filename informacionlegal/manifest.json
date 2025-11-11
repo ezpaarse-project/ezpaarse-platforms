@@ -1,0 +1,14 @@
+{
+  "version": "2025-11-11",
+  "status": "beta",
+  "domains": [
+    "informacionlegal.com.ar",
+    "www.informacionlegal.com.ar"
+  ],
+  "name": "informacionlegal",
+  "longname": "Información Legal",
+  "describe": "Recognizes the accesses to the platform Información Legal",
+  "docurl": "https://analyses.ezpaarse.org/platforms/68f2002afd4d9afbce86b822",
+  "contact": "Violita Kovchegov",
+  "pkb": false
+} 
