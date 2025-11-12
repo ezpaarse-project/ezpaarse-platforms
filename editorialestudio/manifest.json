@@ -1,0 +1,13 @@
+{
+  "version": "2025-11-12",
+  "status": "beta",
+  "domains": [
+    "www.digital.editorialestudio.com.ar"
+  ],
+  "name": "editorialestudio",
+  "longname": "Editorial Estudio",
+  "describe": "Recognizes the accesses to the platform Editorial Estudio",
+  "docurl": "https://analyses.ezpaarse.org/platforms/6914ad88ca6bec9d325dedb6",
+  "contact": "Violita Kovchegov",
+  "pkb": false
+}
