@@ -15,21 +15,21 @@ module.exports = new Parser(function analyseEC(parsedUrl, ec) {
   const path = parsedUrl.pathname;
   const param = parsedUrl.query || {};
 
-  // BOOK_SECTION: /reader/{book-id}?location={page}
-  const bookSectionMatch = /^\/reader\/([a-z0-9-]+)$/i.exec(path);
-  if (bookSectionMatch && param.location) {
-    result.rtype = 'BOOK_SECTION';
-    result.mime = 'HTML';
-    result.title_id = bookSectionMatch[1];
-    result.unitid = `${bookSectionMatch[1]}?location=${param.location}`;
-    result.first_page = param.location;
-  }
-  // BOOK: /reader/{book-id}
-  else if (bookSectionMatch) {
+  let match;
+
+  if ((match = /^\/reader\/([a-z0-9-]+)$/i.exec(path)) !== null) {
+    // /reader/ge-procesal-penal-2025
+    // /reader/manual-de-sociedades-2023-3ra-ed?location=39
+
     result.rtype = 'BOOK';
     result.mime = 'HTML';
-    result.title_id = bookSectionMatch[1];
-    result.unitid = bookSectionMatch[1];
+    result.title_id = match[1];
+    result.unitid = match[1];
+    if (param.location) {
+      result.rtype = 'BOOK_SECTION';
+      result.first_page = param.location;
+      result.unitid = `${match[1]}?location=${param.location}`;
+    }
   }
   // METADATA: /api/v1/library-issue/{id}
   else if (/^\/api\/v1\/library-issue\/[0-9]+$/i.test(path)) {
