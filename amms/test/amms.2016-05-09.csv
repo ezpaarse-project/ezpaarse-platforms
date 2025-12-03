@@ -1,8 +1,0 @@
-out-unitid;out-rtype;out-mime;in-url
-;SEARCH;HTML;http://www.ams.org/mathscinet/search/publications.html?pg4=AUCN&s4=DEGOND&co4=AND&pg5=TI&s5=&co5=AND&pg6=PC&s6=&co6=AND&pg7=ALLF&s7=&co7=AND&dr=all&yrop=eq&arg3=&yearRangeFirst=&yearRangeSecond=&pg8=ET&s8=All&review_format=html&Submit=Chercher
-;SEARCH;HTML;http://www.ams.org/mathscinet/search/journals.html?journalName=asymptotic&Submit=Chercher
-;SEARCH;HTML;http://www.ams.org/mathscinet/search/author.html?mrauthid=140565
-;RECORD_VIEW;HTML;http://www.ams.org/mathscinet/search/journaldoc.html?cn=Theory_and_Decision
-;RECORD_VIEW;HTML;http://www.ams.org/mathscinet/search/journaldoc.html?jc=MATHA
-;RECORD_VIEW;HTML;http://www.ams.org/mathscinet/search/publdoc.html?arg3=&co4=AND&co5=AND&co6=AND&co7=AND&dr=all&pg4=AUCN&pg5=TI&pg6=PC&pg7=ALLF&pg8=ET&review_format=html&s4=&s5=bayesian&s6=&s7=&s8=All&vfpref=html&yearRangeFirst=&yearRangeSecond=&yrop=eq&r=5&mx-pid=3425937
-3477652;RECORD_VIEW;PDF;http://www.ams.org/mathscinet/pdf/3477652.pdf?arg3=&co4=AND&co5=AND&co6=AND&co7=AND&dr=all&pg4=MR&pg5=TI&pg6=PC&pg7=ALLF&pg8=ET&review_format=pdf&s4=&s5=bayesian&s6=&s7=&s8=All&vfpref=pdf&yearRangeFirst=&yearRangeSecond=&yrop=eq&r=5
