@@ -224,7 +224,7 @@ module.exports = new Parser(function analyseEC(parsedUrl, ec) {
   // Author search
   else if (/^\/mathscinet\/search\/author\.html$/.test(path)) {
     // http://www.ams.org/mathscinet/search/author.html?mrauthid=140565
-    result.rtype    = 'SEARCH';
+    result.rtype    = 'Search';
     result.mime     = 'HTML';
   }
   // Journal document
@@ -233,12 +233,18 @@ module.exports = new Parser(function analyseEC(parsedUrl, ec) {
     // http://www.ams.org/mathscinet/search/journaldoc.html?jc=MATHA
     result.rtype    = 'RECORD_VIEW';
     result.mime     = 'HTML';
+    if (param.jc) {
+      result.unitid = param.jc;
+    }
   }
   // Publication document
   else if (/^\/mathscinet\/search\/publdoc\.html$/.test(path)) {
     // http://www.ams.org/mathscinet/search/publdoc.html?mx-pid=3425937&...
     result.rtype    = 'RECORD_VIEW';
     result.mime     = 'HTML';
+    if (param['mx-pid']) {
+      result.unitid = param['mx-pid'];
+    }
   }
 
   return result;
