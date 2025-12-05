@@ -1,8 +1,11 @@
 {
-  "version": "2016-05-09",
+  "version": "2025-12-03",
   "status": "beta",
   "domains": [
-    "www.ams.org"
+    "www.ams.org",
+    "mathscinet.ams.org",
+    "bookstore.ams.org",
+    "ebus.ams.org"
   ],
   "recognize": {
     "rid": [
@@ -13,6 +16,6 @@
   "longname": "American Mathematical Society",
   "describe": "Recognizes the accesses to the platform American Mathematical Society",
   "docurl": "http://analyses.ezpaarse.org/platforms/5436458ab6c584f07e92ddca",
-  "contact": "abderrazzak.loukili@inist.fr",
+  "contact": "Violita Kovchegov",
   "pkb": false
 }
