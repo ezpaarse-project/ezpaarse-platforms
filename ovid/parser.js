@@ -15,16 +15,82 @@ var Parser = require('../.lib/parser.js');
  */
 module.exports = new Parser(function analyseEC(parsedUrl, ec) {
   var result = {};
-  //var path   = parsedUrl.pathname;
-  // uncomment this line if you need parameters
-  var param  = parsedUrl.query || {};
+  var path = parsedUrl.pathname;
+  var param = parsedUrl.query || {};
+  var hostname = parsedUrl.hostname;
 
-  // use console.error for debuging
-  //console.error(path);
-  //console.error(param);
+  // Extract VisibleBody URL from proxy URLs (qurl or url parameter)
+  var visibleBodyUrl = null;
+  if (param.qurl) {
+    try {
+      visibleBodyUrl = decodeURIComponent(param.qurl);
+      if (visibleBodyUrl.startsWith('r0$')) {
+        visibleBodyUrl = visibleBodyUrl.substring(3);
+      }
+    } catch (e) {
+      // Invalid URL encoding, skip
+    }
+  } else if (param.url) {
+    try {
+      visibleBodyUrl = decodeURIComponent(param.url);
+    } catch (e) {
+      // Invalid URL encoding, skip
+    }
+  }
 
-  //var match;
-  if (typeof param['Link Set'] != 'undefined' && param['Link Set'] !== '' && param['Counter5Data'] == null) {
+  // Parse VisibleBody URL if extracted from proxy (only ovid.visiblebody.com, not support.visiblebody.com)
+  if (visibleBodyUrl) {
+    try {
+      var vbUrl = new URL(visibleBodyUrl);
+      if (vbUrl.hostname && (vbUrl.hostname === 'ovid.visiblebody.com' || vbUrl.hostname === 'visiblebody.com')) {
+        path = vbUrl.pathname;
+        var vbParams = {};
+        vbUrl.searchParams.forEach(function(value, key) {
+          vbParams[key] = value;
+        });
+        param = vbParams;
+        hostname = vbUrl.hostname;
+      }
+    } catch (e) {
+      // Invalid URL, continue with original parsing
+    }
+  }
+
+  // Handle VisibleBody URLs (domain verification done upstream by ezPAARSE)
+  // Document access: atlas_21/app_gl/index.php, atlas_21/ with osptok, proxy.php
+  if ((path.indexOf('/atlas_') !== -1 && path.indexOf('/app_gl/') !== -1) || path.indexOf('/proxy.php') !== -1) {
+    if (param.osptok) {
+      result.rtype = 'ARTICLE';
+      result.mime = 'HTML';
+      result.unitid = param.osptok;
+    }
+  } else if (path.indexOf('/atlas_') !== -1 && param.osptok) {
+    // atlas_21/ or atlas_18/ with osptok parameter
+    result.rtype = 'ARTICLE';
+    result.mime = 'HTML';
+    result.unitid = param.osptok;
+  } else if (path === '/' || path === '') {
+    // Homepage
+    result.rtype = 'SESSION';
+    result.mime = 'HTML';
+    result.unitid = '/';
+  }
+  if (result.rtype) {
+    return result;
+  }
+
+  // Original Ovid parsing logic
+  // Handle bookreader paths (BOOK_SECTION)
+  if (path.indexOf('/bookreader/') !== -1) {
+    result.rtype = 'BOOK_SECTION';
+    result.mime = 'HTML';
+    result.unitid = path;
+  } else if (typeof param.AN !== 'undefined' && param.AN !== '' && param.D === 'books') {
+    // https://ovidsp.ovid.com/ovidweb.cgi?checkipval=yes&T=JS&XPATH=%2FPG(0)&AN=02163061%24&EPUB=Y&NEWS=N&D=books&MODE=ovid&PAGE=booktext
+    result.rtype = 'BOOK';
+    result.mime = 'HTML';
+    result.unitid = param.AN;
+  } else if (typeof param['Link Set'] != 'undefined' && param['Link Set'] !== '' && param['Counter5Data'] == null) {
     // http://ovidsp.tx.ovid.com/sp-3.15.0a/ovidweb.cgi?&S=NKDIFPLLDDDDHPEINCKKEDDCPAJLAA00&Link+Set=S.sh.29.30.34.48%7c1%7csl_10
     result.rtype    = 'ARTICLE';
     result.mime     = 'HTML';
@@ -44,7 +110,7 @@ module.exports = new Parser(function analyseEC(parsedUrl, ec) {
     result.rtype    = 'RECORD_VIEW';
     result.mime     = 'HTML';
     result.unitid   = param['Complete Reference'];
-  } else if ((typeof param['Book Reader'] !== 'undefined' && param['Book Reader'] !== '') || param['Counter5Data'].includes('books')) {
+  } else if ((typeof param['Book Reader'] !== 'undefined' && param['Book Reader'] !== '') || (param['Counter5Data'] && param['Counter5Data'].includes('books'))) {
     // http://ovidsp.dc2.ovid.com/ovid-b/ovidweb.cgi?&S=KAPNFPIOAMEBOCHIJPAKBGHGICALAA00&Link+Set=S.sh.46%7c1%7csl_10&Counter5=SS_view_found_article%7c02191022%2f29th_Edition%2f4%7cbooks%7cbookdb%7cbooks1&Counter5Data=02191022%2f29th_Edition%2f4%7cbooks%7cbookdb%7cbooks1
     // http://ovidsp.dc2.ovid.com/ovid-b/ovidweb.cgi?&S=KKDIFPIOAMEBOCBGJPAKEGHGOEGIAA00&Book+Reader=1&FTS+Book+Reader+Content=S.sh.32104_1607538556_70.32104_1607538556_82.32104_1607538556_90%7c19%7c%2fbookdb%2f01838292%2f2nd_Edition%2f3%2fPG%280%29
     result.rtype    = 'BOOK';
