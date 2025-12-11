@@ -1,10 +1,7 @@
 #!/usr/bin/env node
-
-// ##EZPAARSE
-
-/*jslint maxlen: 150*/
 'use strict';
-var Parser = require('../.lib/parser.js');
+
+const Parser = require('../.lib/parser.js');
 
 /**
  * Identifie les consultations de la plateforme Ovid
@@ -14,13 +11,12 @@ var Parser = require('../.lib/parser.js');
  * @return {Object} the result
  */
 module.exports = new Parser(function analyseEC(parsedUrl, ec) {
-  var result = {};
-  var path = parsedUrl.pathname;
-  var param = parsedUrl.query || {};
-  var hostname = parsedUrl.hostname;
+  const result = {};
+  let path = parsedUrl.pathname;
+  let param = parsedUrl.query || {};
 
   // Extract VisibleBody URL from proxy URLs (qurl or url parameter)
-  var visibleBodyUrl = null;
+  let visibleBodyUrl = null;
   if (param.qurl) {
     try {
       visibleBodyUrl = decodeURIComponent(param.qurl);
@@ -28,44 +24,44 @@ module.exports = new Parser(function analyseEC(parsedUrl, ec) {
         visibleBodyUrl = visibleBodyUrl.substring(3);
       }
     } catch (e) {
-      // Invalid URL encoding, skip
+      // ignore invalid URL encoding
     }
   } else if (param.url) {
     try {
       visibleBodyUrl = decodeURIComponent(param.url);
     } catch (e) {
-      // Invalid URL encoding, skip
+      // ignore invalid URL encoding
     }
   }
 
-  // Parse VisibleBody URL if extracted from proxy (only ovid.visiblebody.com, not support.visiblebody.com)
+  // Parse VisibleBody URL if extracted from proxy (only ovid.visiblebody.com / visiblebody.com)
   if (visibleBodyUrl) {
     try {
-      var vbUrl = new URL(visibleBodyUrl);
+      const vbUrl = new URL(visibleBodyUrl);
       if (vbUrl.hostname && (vbUrl.hostname === 'ovid.visiblebody.com' || vbUrl.hostname === 'visiblebody.com')) {
         path = vbUrl.pathname;
-        var vbParams = {};
-        vbUrl.searchParams.forEach(function(value, key) {
+        const vbParams = {};
+        vbUrl.searchParams.forEach((value, key) => {
           vbParams[key] = value;
         });
         param = vbParams;
-        hostname = vbUrl.hostname;
+        // hostname check is done upstream by ezPAARSE, no need to store it
       }
     } catch (e) {
-      // Invalid URL, continue with original parsing
+      // ignore invalid URL
     }
   }
 
-  // Handle VisibleBody URLs (domain verification done upstream by ezPAARSE)
-  // Document access: atlas_21/app_gl/index.php, atlas_21/ with osptok, proxy.php
-  if ((path.indexOf('/atlas_') !== -1 && path.indexOf('/app_gl/') !== -1) || path.indexOf('/proxy.php') !== -1) {
+  // VisibleBody routes (domain filtering is handled upstream by ezPAARSE)
+  // Document access: /atlas_XX/app_gl/index.php or /atlas_XX with ?osptok=... ; also /proxy.php
+  if ((path.includes('/atlas_') && path.includes('/app_gl/')) || path.includes('/proxy.php')) {
     if (param.osptok) {
       result.rtype = 'ARTICLE';
       result.mime = 'HTML';
       result.unitid = param.osptok;
     }
-  } else if (path.indexOf('/atlas_') !== -1 && param.osptok) {
-    // atlas_21/ or atlas_18/ with osptok parameter
+  } else if (path.includes('/atlas_') && param.osptok) {
+    // /atlas_21/ or /atlas_18/ with osptok parameter
     result.rtype = 'ARTICLE';
     result.mime = 'HTML';
     result.unitid = param.osptok;
@@ -75,50 +71,51 @@ module.exports = new Parser(function analyseEC(parsedUrl, ec) {
     result.mime = 'HTML';
     result.unitid = '/';
   }
+
   if (result.rtype) {
     return result;
   }
 
   // Original Ovid parsing logic
   // Handle bookreader paths (BOOK_SECTION)
-  if (path.indexOf('/bookreader/') !== -1) {
+  if (path.includes('/bookreader/')) {
     result.rtype = 'BOOK_SECTION';
     result.mime = 'HTML';
     result.unitid = path;
   } else if (typeof param.AN !== 'undefined' && param.AN !== '' && param.D === 'books') {
-    // https://ovidsp.ovid.com/ovidweb.cgi?checkipval=yes&T=JS&XPATH=%2FPG(0)&AN=02163061%24&EPUB=Y&NEWS=N&D=books&MODE=ovid&PAGE=booktext
+    // ex: ...&AN=02163061%24&...&D=books...
     result.rtype = 'BOOK';
     result.mime = 'HTML';
     result.unitid = param.AN;
   } else if (typeof param['Link Set'] !== 'undefined' && param['Link Set'] !== '' && param['Counter5Data'] === null) {
-    // http://ovidsp.tx.ovid.com/sp-3.15.0a/ovidweb.cgi?&S=NKDIFPLLDDDDHPEINCKKEDDCPAJLAA00&Link+Set=S.sh.29.30.34.48%7c1%7csl_10
-    result.rtype    = 'ARTICLE';
-    result.mime     = 'HTML';
-    result.unitid   = param['Link Set'];
+    // ex: ...&Link+Set=S.sh.29.30.34.48%7c1%7csl_10
+    result.rtype = 'ARTICLE';
+    result.mime = 'HTML';
+    result.unitid = param['Link Set'];
   } else if (typeof param.pdf_index !== 'undefined' && param.pdf_index !== '') {
-    // http://ovidsp.tx.ovid.com/sp-3.15.0a/ovidweb.cgi?WebLinkFrameset=1&S=NKDIFPLLDDDDHPEINCKKEDDCPAJLAA00&returnUrl=ovidweb.cgi%3f%26Full%2bText%3dL%257cS.sh.29.30.34.48.54%257c0%257c00007890-200512270-00001%26S%3dNKDIFPLLDDDDHPEINCKKEDDCPAJLAA00&directlink=http%3a%2f%2fgraphics.tx.ovid.com%2fovftpdfs%2fFPDDNCDCEDEIDD00%2ffs047%2fovft%2flive%2fgv031%2f00007890%2f00007890-200512270-00001.pdf&filename=The+Role+of+Macrophages+in+Allograft+Rejection.&pdf_key=FPDDNCDCEDEIDD00&pdf_index=/fs047/ovft/live/gv031/00007890/00007890-200512270-00001&D=ovft
-    result.rtype    = 'ARTICLE';
-    result.mime     = 'PDF';
-    result.unitid   = param.pdf_index;
-  } else if (typeof param.Abstract !== 'undefined' &&  param.Abstract !== '') {
-    // http://ovidsp.tx.ovid.com/sp-3.15.0a/ovidweb.cgi?&S=NKDIFPLLDDDDHPEINCKKEDDCPAJLAA00&WebLinkReturn=Full+Text%3dL%7cS.sh.29.30.34.48.54%7c0%7c00007890-200512270-00001&Abstract=S.sh.29.30.34.48%7c1%7c1
-    result.rtype    = 'ABS';
-    result.mime     = 'HTML';
-    result.unitid   = param.Abstract;
+    // ex: ...&pdf_index=/fs047/ovft/live/gv031/00007890/00007890-200512270-00001...
+    result.rtype = 'ARTICLE';
+    result.mime = 'PDF';
+    result.unitid = param.pdf_index;
+  } else if (typeof param.Abstract !== 'undefined' && param.Abstract !== '') {
+    // ex: ...&Abstract=S.sh.29.30.34.48%7c1%7c1
+    result.rtype = 'ABS';
+    result.mime = 'HTML';
+    result.unitid = param.Abstract;
   } else if (typeof param['Complete Reference'] !== 'undefined' && param['Complete Reference'] !== '') {
-    // http://ovidsp.tx.ovid.com/sp-3.15.0a/ovidweb.cgi?&S=NKDIFPLLDDDDHPEINCKKEDDCPAJLAA00&Complete+Reference=S.sh.29.30.34.48%7c1%7c1
-    result.rtype    = 'RECORD_VIEW';
-    result.mime     = 'HTML';
-    result.unitid   = param['Complete Reference'];
-  } else if ((typeof param['Book Reader'] !== 'undefined' && param['Book Reader'] !== '') || (param['Counter5Data'] && param['Counter5Data'].includes('books'))) {
-    // http://ovidsp.dc2.ovid.com/ovid-b/ovidweb.cgi?&S=KAPNFPIOAMEBOCHIJPAKBGHGICALAA00&Link+Set=S.sh.46%7c1%7csl_10&Counter5=SS_view_found_article%7c02191022%2f29th_Edition%2f4%7cbooks%7cbookdb%7cbooks1&Counter5Data=02191022%2f29th_Edition%2f4%7cbooks%7cbookdb%7cbooks1
-    // http://ovidsp.dc2.ovid.com/ovid-b/ovidweb.cgi?&S=KKDIFPIOAMEBOCBGJPAKEGHGOEGIAA00&Book+Reader=1&FTS+Book+Reader+Content=S.sh.32104_1607538556_70.32104_1607538556_82.32104_1607538556_90%7c19%7c%2fbookdb%2f01838292%2f2nd_Edition%2f3%2fPG%280%29
-    result.rtype    = 'BOOK';
-    result.mime     = 'HTML';
+    // ex: ...&Complete+Reference=S.sh.29.30.34.48%7c1%7c1
+    result.rtype = 'RECORD_VIEW';
+    result.mime = 'HTML';
+    result.unitid = param['Complete Reference'];
+  } else if ((typeof param['Book Reader'] !== 'undefined' && param['Book Reader'] !== '') ||
+             (param['Counter5Data'] && param['Counter5Data'].includes('books'))) {
+    // ex: ...&Book+Reader=1... or Counter5Data containing 'books'
+    result.rtype = 'BOOK';
+    result.mime = 'HTML';
     if (param['FTS Book Reader Content']) {
-      result.unitid   = param['FTS Book Reader Content'];
+      result.unitid = param['FTS Book Reader Content'];
     } else {
-      result.unitid   = param['Link Set'];
+      result.unitid = param['Link Set'];
     }
   }
 
