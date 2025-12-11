@@ -1,5 +1,5 @@
 {
-  "version": "2015-03-24",
+  "version": "2025-12-10",
   "status": "stable",
   "trello": "https://trello.com/c/hDXhVD0I",
   "domains": [
@@ -68,7 +68,10 @@
       "ARTICLE",
       "ABS",
       "TOC",
-      "REF"
+      "REF",
+      "SESSION",
+      "OTHER",
+      "BOOK_SECTION"
     ],
     "mime": [
       "HTML",
@@ -81,6 +84,6 @@
   "publisher_name": "Wolters Kluwer",
   "describe": "Identifie les consultations de la plateforme Ovid",
   "docurl": "http://analyses.ezpaarse.org/platforms/5411691932c392c66e9a6d13",
-  "contact": "sonia.launay@inist.fr",
+  "contact": "Violita Kovchegov",
   "pkb": false
 }
