@@ -90,12 +90,12 @@ module.exports = new Parser(function analyseEC(parsedUrl, ec) {
     result.rtype = 'BOOK';
     result.mime = 'HTML';
     result.unitid = param.AN;
-  } else if (typeof param['Link Set'] != 'undefined' && param['Link Set'] !== '' && param['Counter5Data'] == null) {
+  } else if (typeof param['Link Set'] !== 'undefined' && param['Link Set'] !== '' && param['Counter5Data'] === null) {
     // http://ovidsp.tx.ovid.com/sp-3.15.0a/ovidweb.cgi?&S=NKDIFPLLDDDDHPEINCKKEDDCPAJLAA00&Link+Set=S.sh.29.30.34.48%7c1%7csl_10
     result.rtype    = 'ARTICLE';
     result.mime     = 'HTML';
     result.unitid   = param['Link Set'];
-  } else if (typeof param.pdf_index != 'undefined' && param.pdf_index !== '') {
+  } else if (typeof param.pdf_index !== 'undefined' && param.pdf_index !== '') {
     // http://ovidsp.tx.ovid.com/sp-3.15.0a/ovidweb.cgi?WebLinkFrameset=1&S=NKDIFPLLDDDDHPEINCKKEDDCPAJLAA00&returnUrl=ovidweb.cgi%3f%26Full%2bText%3dL%257cS.sh.29.30.34.48.54%257c0%257c00007890-200512270-00001%26S%3dNKDIFPLLDDDDHPEINCKKEDDCPAJLAA00&directlink=http%3a%2f%2fgraphics.tx.ovid.com%2fovftpdfs%2fFPDDNCDCEDEIDD00%2ffs047%2fovft%2flive%2fgv031%2f00007890%2f00007890-200512270-00001.pdf&filename=The+Role+of+Macrophages+in+Allograft+Rejection.&pdf_key=FPDDNCDCEDEIDD00&pdf_index=/fs047/ovft/live/gv031/00007890/00007890-200512270-00001&D=ovft
     result.rtype    = 'ARTICLE';
     result.mime     = 'PDF';
@@ -124,4 +124,3 @@ module.exports = new Parser(function analyseEC(parsedUrl, ec) {
 
   return result;
 });
-
