@@ -1,18 +1,19 @@
 {
   "name": "lexisnexis",
-  "version": "2013-05-17",
+  "version": "2026-01-27",
   "status": "stable",
   "trello": "https://trello.com/c/dh4ZidLi",
   "longname": "Lexisnexis Jurisclasseur",
   "publisher_name": "Lexisnexis",
   "describe": "Identifie les consultations de la plateforme Lexisnexis Jurisclasseur",
   "docurl": "http://analyses.ezpaarse.org/platforms/54106ab65289ee1461720c5c",
-  "contact": "Karine Delvert et Thomas Jouneau",
+  "contact": "Violita Kovchegov",
 	"domains": [
     "www.lexisnexis.com",
-    "www.lexis-nexis.com",
-    "lexisnexis.com",	
-    "lexis.com"	
+    "lexisnexis.com",
+    "lexis.com",
+    "advance.lexis.com",
+    "plus.lexis.com"
 	],
   "recognize": {
     "rid": [
@@ -20,10 +21,13 @@
       "unitid"
     ],
     "rtype": [
-      "ARTICLE"
+      "ARTICLE",
+      "TOC",
+      "SEARCH"
     ],
     "mime": [
-      "HTML"
+      "HTML",
+      "PDF"
     ]
   }
 }
