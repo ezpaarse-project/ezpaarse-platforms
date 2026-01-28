@@ -10,8 +10,36 @@ module.exports = new Parser(function analyseEC(parsedUrl) {
   var result = {};
   var param = parsedUrl.query || {};
   var path  = parsedUrl.pathname;
+  var match;
 
-  if (/\/droit\/results\/docview\/docview/.test(path)) {
+  // Document access - Delivery content (download/print)
+  if ((match = /^\/r\/delivery\/content\/([0-9]+)\/(download|print)\/([0-9]+)\/([^/]+)\/false$/i.exec(path)) !== null) {
+    // https://advance.lexis.com/r/delivery/content/1992183253/download/267386157/multi:TOC-browse/false
+    // https://plus.lexis.com/ca/r/delivery/content/1992843081/print/267481220/FullDoc/false
+    // https://plus.lexis.com/ca/r/delivery/content/2016620798/print/269730003/Coreapp/false
+    // https://plus.lexis.com/ca/r/delivery/content/2064839989/download/273716949/FullDoc/false
+    var contentId = match[1];
+    var action = match[2]; // download or print
+    var contentType = match[4]; // FullDoc, Coreapp, multi:TOC-browse
+
+    result.unitid = contentId;
+    
+    if (action === 'download') {
+      if (contentType === 'FullDoc' || contentType === 'Coreapp') {
+        result.rtype = 'ARTICLE';
+        result.mime = 'HTML';
+      } else if (contentType.indexOf('TOC-browse') !== -1) {
+        result.rtype = 'TOC';
+        result.mime = 'HTML';
+      } else {
+        result.rtype = 'ARTICLE';
+        result.mime = 'HTML';
+      }
+    } else if (action === 'print') {
+      result.rtype = 'ARTICLE';
+      result.mime = 'PDF';
+    }
+  } else if (/\/droit\/results\/docview\/docview/.test(path)) {
     // http://www.lexisnexis.com/fr/droit/results/docview/docview.do?docLinkInd=true
     // &risb=21_T17183418923&format=GNBFULL&sort=DATE-PUBLICATION,D,H,$PSEUDOXAB,A,H,TYPE-ARTICLE,A,H
     // &startDocNo=1&resultsUrlKey=29_T17183418941&cisb=22_T17183418938&treeMax=true&treeWidth=0&csi=294776&docNo=3
