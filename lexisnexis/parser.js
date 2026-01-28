@@ -23,7 +23,7 @@ module.exports = new Parser(function analyseEC(parsedUrl) {
     var contentType = match[4]; // FullDoc, Coreapp, multi:TOC-browse
 
     result.unitid = contentId;
-    
+
     if (action === 'download') {
       if (contentType === 'FullDoc' || contentType === 'Coreapp') {
         result.rtype = 'ARTICLE';
