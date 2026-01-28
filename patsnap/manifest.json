@@ -1,0 +1,15 @@
+{
+  "version": "2026-01-27",
+  "status": "beta",
+  "domains": [
+    "discovery.patsnap.com",
+    "discovery-static.patsnap.com",
+    "patsnap.com"
+  ],
+  "name": "patsnap",
+  "longname": "Patsnap",
+  "describe": "Recognizes the accesses to the Patsnap platform",
+  "docurl": "https://analyses.ezpaarse.org/platforms/6977ed2d0deba76941df98d5/",
+  "contact": "Violita Kovchegov",
+  "pkb": false
+}
