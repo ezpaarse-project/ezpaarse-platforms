@@ -21,6 +21,10 @@ module.exports = new Parser(function analyseEC(parsedUrl, ec) {
     // /#advancedSearch/resultspage/history.1/page.1/25.items/orderby.date/source.
     result.rtype = 'SEARCH';
     result.mime = 'HTML';
+  } else if (/^\/rest\/searchresults\/results$/i.test(path) && param.offset === '0') {
+    // /rest/searchresults/results?offset=0&size=10
+    result.rtype = 'SEARCH';
+    result.mime = 'HTML';
   } else if (/^\/search\/results$/i.test(path)) {
     // /search/results?subaction=viewrecord&rid=1&page=1&id=L601051912
     result.mime = 'HTML';
@@ -35,7 +39,7 @@ module.exports = new Parser(function analyseEC(parsedUrl, ec) {
     result.rtype = 'RECORD_VIEW';
     result.mime = 'HTML';
 
-    if (param && param.id) {
+    if (param.id) {
       result.unitid = param.id;
     }
   } else if ((match = /^\/journals\/([0-9X]+)$/i.exec(path)) !== null) {
