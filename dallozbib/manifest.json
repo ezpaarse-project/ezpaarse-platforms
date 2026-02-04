@@ -11,7 +11,8 @@
 	"domains": [
     "www.dalloz-bibliotheque.fr",
     "bibliotheque.lefebvre.dalloz.fr",
-    "dallozbndpro-pvgpsla6.dalloz-bibliotheque.fr"
+    "dallozbndpro-pvgpsla6.dalloz-bibliotheque.fr",
+    "pressview5-bnd.immanens.com"
 	],
   "recognize": {
     "rid": [
