@@ -6,7 +6,7 @@ const Parser = require('../.lib/parser.js');
 module.exports = new Parser(function analyseEC(parsedUrl) {
   let result = {};
   let param  = parsedUrl.query || {};
-  let path   = parsedUrl.pathname;
+  let path   = decodeURIComponent(parsedUrl.pathname);
   let match;
 
   if ((match = /^\/bibliotheque\/([^.]+)\.htm/i.exec(path)) !== null) {
@@ -35,6 +35,11 @@ module.exports = new Parser(function analyseEC(parsedUrl) {
     result.rtype    = 'SEARCH';
     result.mime     = 'HTML';
 
+  } else if ((match = /^\/api\/user-print\/(?:Imprimer\s*:\s*)?(.+)$/i.exec(path)) !== null) {
+    // https://pressview5-bnd.immanens.com/api/user-print/Imprimer%20%3A%20Droit%20constitutionnel%202026%20Droit%20constitutionnel%202026?
+    result.rtype  = 'BOOK_SECTION';
+    result.mime   = 'PDF';
+    result.unitid = match[1];
   }
 
   return result;
