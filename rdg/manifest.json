@@ -1,0 +1,13 @@
+{
+  "longname": "Recherche Data Gouv",
+  "name": "rdg",
+  "describe": "Recognizes the accesses to the platform Recherche Data Gouv",
+  "contact": "Frederic Truong inist, ez PAARSE",
+  "pkb": false,
+  "docurl": "https://analyses.ezpaarse.org/platforms/699825d3254c90c021ae4b67",
+  "domains": [
+    "entrepot.recherche.data.gouv.fr"
+  ],
+  "version": "2026-02-25",
+  "status": "beta"
+}
