@@ -17,7 +17,7 @@ module.exports = new Parser(function analyseEC(parsedUrl, ec) {
   let param = parsedUrl.query || {};
 
   // use console.error for debuging
-  console.error(parsedUrl);
+  // console.error(parsedUrl);
 
   let match, match2;
 
@@ -56,9 +56,7 @@ module.exports = new Parser(function analyseEC(parsedUrl, ec) {
   } else if ((match = /^\/api\/access\/datafiles$/i.exec(path)) !== null) {
     // https://entrepot.recherche.data.gouv.fr/api/access/datafiles?gbrecs=true&format=original
     result.rtype    = 'DATASET';
-    console.log(param);
     if (param.format) {
-      console.log(param.format);
       result.mime     = 'ZIP';
     }
   }
