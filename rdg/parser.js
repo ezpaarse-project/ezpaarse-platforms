@@ -27,14 +27,6 @@ module.exports = new Parser(function analyseEC(parsedUrl, ec) {
     result.mime     = 'HTML';
     result.db_id = match[1];
 
-    /**
-     * unitid is a crucial information needed to filter double-clicks phenomenon, like described by COUNTER
-     * it described the most fine-grained of what's being accessed by the user
-     * it can be a DOI, an internal identifier or a part of the accessed URL
-     * more at http://ezpaarse.readthedocs.io/en/master/essential/ec-attributes.html#unitid
-     */
-    // result.unitid = match[2];
-
   } else if ((match = /^\/dataset.xhtml$/i.exec(path)) !== null) {
     // https://entrepot.recherche.data.gouv.fr/dataset.xhtml?persistentId=doi:10.57745/TDW4KN
     result.rtype    = 'RECORD_VIEW';
@@ -50,7 +42,7 @@ module.exports = new Parser(function analyseEC(parsedUrl, ec) {
     result.rtype    = 'LINK';
     result.unitid     = match[1];
     if (param.format) {
-      //console.log(param.format);
+        //result.format = param.format;
     }
 
   } else if ((match = /^\/api\/access\/datafiles$/i.exec(path)) !== null) {
@@ -58,6 +50,19 @@ module.exports = new Parser(function analyseEC(parsedUrl, ec) {
     result.rtype    = 'DATASET';
     if (param.format) {
       result.mime     = 'ZIP';
+    }
+  } else if ((match = /^\/api\/datasets\/export$/i.exec(path)) !== null) {
+    // https://entrepot.recherche.data.gouv.fr/api/datasets/export?exporter=dataverse_json&persistentId=doi%3A10.57745/VH000D
+    result.rtype    = 'METADATA';
+    if (param.persistentId) {
+      if ((match2 = /doi:([0-9.]+)\/([0-9a-zA-Z]+)$/i.exec(param.persistentId)) !== null) {
+        result.doi = match2[1]+'/'+match2[2];
+        result.unitid = match2[2];
+      }
+    }
+    if (param.exporter) {
+      // rdg specific usage : not in the mime.json control list but accepted
+      result.mime     = param.exporter;
     }
   }
 
