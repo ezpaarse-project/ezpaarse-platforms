@@ -21,7 +21,7 @@ module.exports = new Parser(function analyseEC(parsedUrl, ec) {
 
   let match, match2;
 
-  if ((match = /^\/dataverse\/([a-zA-Z0-9]+)$/i.exec(path)) !== null) {
+  if ((match = /^\/dataverse\/([a-zA-Z0-9-_]+)$/i.exec(path)) !== null) {
     // https://entrepot.recherche.data.gouv.fr/dataverse/root?q=zinc
     result.rtype    = 'SEARCH';
     result.mime     = 'HTML';
@@ -37,12 +37,22 @@ module.exports = new Parser(function analyseEC(parsedUrl, ec) {
         result.unitid = match2[2];
       }
     }
+  } else if ((match = /^\/file.xhtml$/i.exec(path)) !== null) {
+    // https://entrepot.recherche.data.gouv.fr/file.xhtml?persistentId=doi:10.57745/TSKHTO
+    result.rtype    = 'DATASET';
+    result.mime     = 'ZIP';
+    if (param.persistentId) {
+      if ((match2 = /doi:([0-9.]+)\/([0-9a-zA-Z]+)$/i.exec(param.persistentId)) !== null) {
+        result.doi = match2[1]+'/'+match2[2];
+        result.unitid = match2[2];
+      }
+    }
   } else if ((match = /^\/api\/access\/datafile\/([0-9]+)$/i.exec(path)) !== null) {
     // https://entrepot.recherche.data.gouv.fr/api/access/datafile/636145?format=original&gbrecs=true
     result.rtype    = 'LINK';
     result.unitid     = match[1];
     if (param.format) {
-        //result.format = param.format;
+      //result.format = param.format;
     }
 
   } else if ((match = /^\/api\/access\/datafiles$/i.exec(path)) !== null) {

@@ -4,3 +4,4 @@ out-doi;out-db_id;out-unitid;out-rtype;out-mime;in-url
 ;;636145;LINK;;https://entrepot.recherche.data.gouv.fr/api/access/datafile/636145?format=original&gbrecs=true
 ;;;DATASET;ZIP;https://entrepot.recherche.data.gouv.fr/api/access/datafiles?gbrecs=true&format=original
 10.57745/VH000D;;VH000D;METADATA;dataverse_json;https://entrepot.recherche.data.gouv.fr/api/datasets/export?exporter=dataverse_json&persistentId=doi%3A10.57745/VH000D
+10.57745/TSKHTO;;TSKHTO;DATASET;ZIP;https://entrepot.recherche.data.gouv.fr/file.xhtml?persistentId=doi:10.57745/TSKHTO
