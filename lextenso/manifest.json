@@ -12,20 +12,10 @@
     "www.lextenso.fr",
     "www.labase-lextenso.fr"
 	],
-  "recognize": {
-    "rid": [
-      "title_id",
-      "unitid",
-      "print_identifier",
-      "publication_title"
-    ],
-    "rtype": [
-      "TOC",
-      "ARTICLE",
-      "JURISPRUDENCE"
-    ],
-    "mime": [
-      "HTML"
+  "bacon": {
+    "provider": "LEXTENSO",
+    "matches": [
+      "GLOBAL_ALLTITLES"
     ]
   }
 }
