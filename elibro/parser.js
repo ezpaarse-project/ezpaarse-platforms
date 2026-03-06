@@ -56,7 +56,7 @@ module.exports = new Parser(function analyseEC(parsedUrl, ec) {
     // https://elibro.net/es/lc/sibuca/titulos/130670
     result.rtype    = 'RECORD_VIEW';
     result.mime     = 'HTML';
-    result.unitid   = match[2];
+    result.unitid   = match[3];
 
   } else if ((match = /^\/(es|en)\/ereader\/(csic|ipn|sibuca|bibliotecaudb|cbues|udesa)\/([0-9]+)(?:\/.*)?$/i.exec(path)) !== null) {
     // https://elibro.net/es/ereader/bibliotecaudb/61256
@@ -78,27 +78,27 @@ module.exports = new Parser(function analyseEC(parsedUrl, ec) {
     // https://elibro.net/en/ereader/ipn/epub/273538?as_all=Negocios&as_all_op=unaccent__icontains&as_has_epub=true&prev=as
     result.rtype    = 'BOOK';
     result.mime     = 'EPUB';
-    result.unitid = match[1];
+    result.unitid   = match[3];
 
   } else if ((match = /^\/(es|en)\/lc\/(csic|ipn|sibuca|bibliotecaudb|cbues|udesa)\/titulos\/([0-9]+)\/(data|recommendations)(?:\/.*)?$/i.exec(path)) !== null) {
     // https://elibro.net/en/lc/bibliotecaudb/titulos/118338/data/
     // https://elibro.net/en/lc/bibliotecaudb/titulos/118338/recommendations/
     result.rtype    = 'RECORD_VIEW';
     result.mime     = 'HTML';
-    result.unitid   = match[2];
+    result.unitid   = match[3];
 
   } else if ((match = /^\/(es|en)\/ereader\/(csic|ipn|sibuca|bibliotecaudb|cbues|udesa)\/print\/([0-9]+)(?:\/.*)?$/i.exec(path)) !== null) {
     // https://elibro.net/en/ereader/bibliotecaudb/print/125949
     // https://elibro.net/en/ereader/bibliotecaudb/print/125949?print_id=3913254
     result.rtype    = 'BOOK';
     result.mime     = 'PDF';
-    result.unitid   = match[2];
+    result.unitid   = match[3];
 
   } else if ((match = /^\/(es|en)\/ereader\/(csic|ipn|sibuca|bibliotecaudb|cbues|udesa)\/log_action\/([0-9]+)(?:\/.*)?$/i.exec(path)) !== null) {
     // https://elibro.net/en/ereader/bibliotecaudb/log_action/125949
     result.rtype    = 'FULL_TEXT_USE';
     result.mime     = 'HTML';
-    result.unitid   = match[2];
+    result.unitid   = match[3];
 
   } else if ((match = /^\/(es|en)\/ereader\/update_title_use\/([0-9]+)(?:\/.*)?$/i.exec(path)) !== null) {
     // https://elibro.net/en/ereader/update_title_use/2245221/
@@ -110,13 +110,13 @@ module.exports = new Parser(function analyseEC(parsedUrl, ec) {
     // https://elibro.net/en/ereader/bibliotecaudb/preloan/125949/
     result.rtype    = 'PREVIEW';
     result.mime     = 'HTML';
-    result.unitid   = match[2];
+    result.unitid   = match[3];
 
   } else if ((match = /^\/(es|en)\/ereader\/(csic|ipn|sibuca|bibliotecaudb|cbues|udesa)\/disponible\/([0-9]+)(?:\/.*)?$/i.exec(path)) !== null) {
     // https://elibro.net/en/ereader/bibliotecaudb/disponible/125949
     result.rtype    = 'RECORD_VIEW';
     result.mime     = 'HTML';
-    result.unitid   = match[2];
+    result.unitid   = match[3];
 
   } else if (/^\/api\/bookmarks\/(?:\?.*)?$/i.test(path)) {
     // https://elibro.net/api/bookmarks/
@@ -173,13 +173,13 @@ module.exports = new Parser(function analyseEC(parsedUrl, ec) {
     // https://elibro.net/en/lc/bibliotecaudb/titulos/125949/tutorial_descarga/
     result.rtype    = 'OTHER';
     result.mime     = 'HTML';
-    result.unitid   = match[2];
+    result.unitid   = match[3];
 
   } else if ((match = /^\/(es|en|ca)\/lc\/(csic|ipn|sibuca|bibliotecaudb|cbues|udesa)\/ajax_preloan\/([0-9]+)\/(?:\?.*)?$/i.exec(path)) !== null) {
     // https://elibro.net/en/lc/bibliotecaudb/ajax_preloan/201777/
     result.rtype    = 'PREVIEW';
     result.mime     = 'HTML';
-    result.unitid   = match[2];
+    result.unitid   = match[3];
 
   } else if ((match = /^\/[0-9a-f]{8}-[0-9a-f]{4}-[0-9a-f]{4}-[0-9a-f]{4}-[0-9a-f]{12}$/i.exec(path)) !== null) {
     // https://elibro.net/58d25b26-1019-40b6-ab1b-505d7b653514
@@ -215,3 +215,4 @@ module.exports = new Parser(function analyseEC(parsedUrl, ec) {
   }
   return result;
 });
+
