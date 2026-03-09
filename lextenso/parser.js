@@ -115,7 +115,6 @@ module.exports = new Parser(function analyseEC(parsedUrl, ec) {
     result.rtype = 'TOC';
     result.mime = 'HTML';
     result.unitid = match[3];
-    result.title_id = match[1];
     result.publication_date = match[2];
     result.online_identifier = match[3];
   }
@@ -125,7 +124,6 @@ module.exports = new Parser(function analyseEC(parsedUrl, ec) {
     result.rtype = 'BOOK_SECTION';
     result.mime = 'HTML';
     result.unitid = match[4];
-    result.title_id = match[1];
     result.publication_date = match[2];
     result.online_identifier = match[3];
   }
