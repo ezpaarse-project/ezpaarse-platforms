@@ -24,7 +24,7 @@ const publisherMap = Object.fromEntries([
   ['jamanetwork.com', 'jama'],
   ['oup.silverchair-cdn.com', 'oup'],
   ['watermark.silverchair.com', 'watermark'],
-])
+]);
 
 /**
  * Recognizes the accesses to the platform silverchair
