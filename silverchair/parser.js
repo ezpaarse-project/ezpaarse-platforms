@@ -2,8 +2,29 @@
 
 'use strict';
 const Parser = require('../.lib/parser.js');
+const { domains } = require('./manifest.json');
 
-
+const publisherMap = Object.fromEntries([
+  // Tries to resome publisher using domain
+  ...domains.map((domain) => {
+    const matches = /^(?:.*\.)?(.*)\./i.exec(domain);
+    return [domain, matches && matches[1]];
+  }),
+  // Custom matches
+  ['www.asmedigitalcollection.asme.org', 'asmedigitalcollection'],
+  ['asmedigitalcollection.asme.org', 'asmedigitalcollection'],
+  ['turbomachinery.asmedigitalcollection.asme.org', 'asmedigitalcollection'],
+  ['gsw.silverchair-cdn.com', 'gsw'],
+  ['pubs.geoscienceworld.org', 'gsw'],
+  ['ammin.geoscienceworld.org', 'gsw'],
+  ['bulletin.geoscienceworld.org', 'gsw'],
+  ['rmg.geoscienceworld.org', 'gsw'],
+  ['econgeol.geoscienceworld.org', 'gsw'],
+  ['paleobiol.geoscienceworld.org', 'gsw'],
+  ['jamanetwork.com', 'jama'],
+  ['oup.silverchair-cdn.com', 'oup'],
+  ['watermark.silverchair.com', 'watermark'],
+])
 
 /**
  * Recognizes the accesses to the platform silverchair
@@ -20,18 +41,10 @@ module.exports = new Parser(function analyseEC(parsedUrl, ec) {
 
   let match;
 
-  if (host.includes('jamanetwork')) {
-    result.publisher_name = 'jama';
-    result.db_id = 'jama';
-  } else if (host.includes('asmedigitalcollection')) {
-    result.publisher_name = 'asmedigitalcollection';
-    result.db_id = 'asmedigitalcollection';
-  } else if (host.includes('oup')) {
-    result.publisher_name = 'oup';
-    result.db_id = 'oup';
-  } else if (host.includes('gsw') || host.includes('geoscienceworld')) {
-    result.publisher_name = 'gsw';
-    result.db_id = 'gsw';
+  const publisher = publisherMap[host];
+  if (publisher) {
+    result.publisher_name = publisher;
+    result.db_id = publisher;
   }
 
   if ((match = /^\/(([0-9]{13})-[0-9]+).pdf$/i.exec(path)) !== null) {
