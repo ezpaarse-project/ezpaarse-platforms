@@ -4,8 +4,13 @@
 const Parser = require('../.lib/parser.js');
 const { domains } = require('./manifest.json');
 
-const publisherMap = Object.fromEntries([
-  // Tries to resome publisher using domain
+/**
+ * Publisher name matching host
+ *
+ * @type {[host: string, publisher: string | null][]}
+ */
+const publisherPerHost = [
+  // Tries to resolve publisher using domain
   ...domains.map((domain) => {
     const matches = /^(?:.*\.)?(.*)\./i.exec(domain);
     return [domain, matches && matches[1]];
@@ -24,7 +29,7 @@ const publisherMap = Object.fromEntries([
   ['jamanetwork.com', 'jama'],
   ['oup.silverchair-cdn.com', 'oup'],
   ['watermark.silverchair.com', 'watermark'],
-]);
+];
 
 /**
  * Recognizes the accesses to the platform silverchair
@@ -41,8 +46,9 @@ module.exports = new Parser(function analyseEC(parsedUrl, ec) {
 
   let match;
 
-  const publisher = publisherMap[host];
-  if (publisher) {
+  const publishers = publisherPerHost.filter((entry) => entry[0] === host);
+  if (publishers.length > 0) {
+    const publisher = publishers[publishers.length - 1][1];
     result.publisher_name = publisher;
     result.db_id = publisher;
   }
