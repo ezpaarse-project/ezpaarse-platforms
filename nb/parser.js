@@ -21,7 +21,29 @@ module.exports = new Parser(function analyseEC(parsedUrl, ec) {
 
   let match;
 
-  if ((match = /^\/apps\/news\/results$/i.exec(path)) !== null) {
+  // Readex interface (e.g. infoweb-newsbank-com.eza.udesa.edu.ar)
+  if ((match = /^\/apps\/readex\/publication-browse$/i.exec(path)) !== null) {
+    // TOC: .../apps/readex/publication-browse?p=WHNPLAN2&t=pubname%3A...&year=...
+    result.rtype    = 'TOC';
+    result.mime     = 'HTML';
+    result.pii      = param.p;
+    if (param.t || param.year) {
+      result.unitid = [param.t, param.year].filter(Boolean).map((v, i) => i === 1 ? 'year=' + v : v).join('&');
+    }
+  } else if ((match = /^\/apps\/readex\/doc$/i.exec(path)) !== null) {
+    // ARTICLE (PDF): .../apps/readex/doc?p=...&docref=image/v2%3A...%40WHNPLAN2-UNITID&...
+    result.rtype    = 'ARTICLE';
+    result.mime     = 'PDF';
+    result.pii      = param.p;
+    if (param.docref && param.docref.includes('-')) {
+      result.unitid = param.docref.split('-').slice(1).join('-');
+    }
+  } else if ((match = /^\/apps\/readex\/results$/i.exec(path)) !== null) {
+    // SEARCH: .../apps/readex/results?p=WHNPLAN2&...
+    result.rtype    = 'SEARCH';
+    result.mime     = 'HTML';
+    result.pii      = param.p;
+  } else if ((match = /^\/apps\/news\/results$/i.exec(path)) !== null) {
     // https://infoweb.newsbank.com/apps/news/results?p=AMNEWS&fld-base-0=alltext&sort=YMD_date%3AD&maxresults=20&val-base-0=Ginther&t=favorite%3A1467499E%21Columbus%2520Dispatch%2520Historical%2520and%2520Current
     // https://infoweb.newsbank.com/apps/news/results?p=NewsBank&fld-base-0=alltext&sort=YMD_date%3AD&maxresults=20&val-base-0=H1N1&t=
     result.rtype    = 'SEARCH';
