@@ -16,20 +16,6 @@ module.exports = new Parser(function analyseEC(parsedUrl, ec) {
 
   let match;
 
-  // Handle proxy URLs with eLibro URLs in query parameters
-  if (parsedUrl.query && parsedUrl.query.url && parsedUrl.query.url.includes('elibro.net')) {
-    const proxyUrl = parsedUrl.query.url;
-    try {
-      const proxyParsedUrl = new URL(proxyUrl);
-      const proxyResult = module.exports.analyseEC(proxyParsedUrl, ec);
-      if (proxyResult && Object.keys(proxyResult).length > 0) {
-        return proxyResult;
-      }
-    } catch (e) {
-      // If URL parsing fails, continue with normal processing
-    }
-  }
-
   if (/^\/(es|en)\/lc\/(csic|ipn|sibuca|bibliotecaudb|cbues|udesa)\/busqueda_avanzada$/i.test(path)) {
     result.rtype    = 'SEARCH';
     result.mime     = 'HTML';
@@ -39,7 +25,8 @@ module.exports = new Parser(function analyseEC(parsedUrl, ec) {
     result.mime     = 'HTML';
     result.unitid   = match[3];
 
-  } else if ((match = /^\/(es|en)\/ereader\/(csic|ipn|sibuca|bibliotecaudb|cbues|udesa)\/([0-9]+)(?:\/.*)?$/i.exec(path)) !== null) {
+  } else if ((match = /^\/(es|en)\/ereader\/(csic|ipn|sibuca|bibliotecaudb|cbues|udesa)\/([0-9]+)\/?$/i.exec(path)) !== null) {
+    // e.g. https://elibro.net/es/ereader/bibliotecaudb/271086 or .../43106/
     result.rtype    = 'BOOK';
     result.mime     = 'PDF';
     result.unitid   = match[3];
