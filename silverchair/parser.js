@@ -7,29 +7,34 @@ const { domains } = require('./manifest.json');
 /**
  * Publisher name matching host
  *
- * @type {[host: string, publisher: string | null][]}
+ * @type {Record<string, string | null>}
  */
-const publisherPerHost = [
+const publisherPerHost = Object.assign(
   // Tries to resolve publisher using domain
-  ...domains.map((domain) => {
+  domains.reduce((acc, domain) => {
     const matches = /^(?:.*\.)?(.*)\./i.exec(domain);
-    return [domain, matches && matches[1]];
-  }),
+    if (matches) {
+      acc[domain] = matches[1];
+    }
+    return acc;
+  }, {}),
   // Custom matches
-  ['www.asmedigitalcollection.asme.org', 'asmedigitalcollection'],
-  ['asmedigitalcollection.asme.org', 'asmedigitalcollection'],
-  ['turbomachinery.asmedigitalcollection.asme.org', 'asmedigitalcollection'],
-  ['gsw.silverchair-cdn.com', 'gsw'],
-  ['pubs.geoscienceworld.org', 'gsw'],
-  ['ammin.geoscienceworld.org', 'gsw'],
-  ['bulletin.geoscienceworld.org', 'gsw'],
-  ['rmg.geoscienceworld.org', 'gsw'],
-  ['econgeol.geoscienceworld.org', 'gsw'],
-  ['paleobiol.geoscienceworld.org', 'gsw'],
-  ['jamanetwork.com', 'jama'],
-  ['oup.silverchair-cdn.com', 'oup'],
-  ['watermark.silverchair.com', 'watermark'],
-];
+  {
+    'www.asmedigitalcollection.asme.org': 'asmedigitalcollection',
+    'asmedigitalcollection.asme.org': 'asmedigitalcollection',
+    'turbomachinery.asmedigitalcollection.asme.org': 'asmedigitalcollection',
+    'gsw.silverchair-cdn.com': 'gsw',
+    'pubs.geoscienceworld.org': 'gsw',
+    'ammin.geoscienceworld.org': 'gsw',
+    'bulletin.geoscienceworld.org': 'gsw',
+    'rmg.geoscienceworld.org': 'gsw',
+    'econgeol.geoscienceworld.org': 'gsw',
+    'paleobiol.geoscienceworld.org': 'gsw',
+    'jamanetwork.com': 'jama',
+    'oup.silverchair-cdn.com': 'oup',
+    'watermark.silverchair.com': 'watermark',
+  }
+);
 
 /**
  * Recognizes the accesses to the platform silverchair
@@ -46,9 +51,8 @@ module.exports = new Parser(function analyseEC(parsedUrl, ec) {
 
   let match;
 
-  const publishers = publisherPerHost.filter((entry) => entry[0] === host);
-  if (publishers.length > 0) {
-    const publisher = publishers[publishers.length - 1][1];
+  const publisher = publisherPerHost[host];
+  if (publisher) {
     result.publisher_name = publisher;
     result.db_id = publisher;
   }
