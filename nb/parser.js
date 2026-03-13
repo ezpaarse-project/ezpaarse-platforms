@@ -21,25 +21,32 @@ module.exports = new Parser(function analyseEC(parsedUrl, ec) {
 
   let match;
 
-  // Readex interface (e.g. infoweb-newsbank-com.eza.udesa.edu.ar)
+  // Readex interface
   if ((match = /^\/apps\/readex\/publication-browse$/i.exec(path)) !== null) {
-    // TOC: .../apps/readex/publication-browse?p=WHNPLAN2&t=pubname%3A...&year=...
+    // TOC: unitid = t without 'pubname:' prefix (URL-encoded) + '&year=' + year
     result.rtype    = 'TOC';
     result.mime     = 'HTML';
+    result.pii      = param.p;
     if (param.t || param.year) {
-      result.unitid = (param.t ? encodeURIComponent(param.t) : '') + (param.year ? '&year=' + param.year : '');
+      const afterPubname = (param.t || '').replace(/^pubname:/i, '');
+      const encoded = afterPubname ? encodeURIComponent(afterPubname).replace(/!/g, '%21') : '';
+      result.unitid = encoded + (param.year ? '&year=' + param.year : '');
     }
   } else if ((match = /^\/apps\/readex\/doc$/i.exec(path)) !== null) {
-    // ARTICLE (PDF): .../apps/readex/doc?p=...&docref=image/v2%3A...%40WHNPLAN2-UNITID&...
+    // ARTICLE (PDF): unitid = docref after '<p>-', URL-encoded form
     result.rtype    = 'ARTICLE';
     result.mime     = 'PDF';
-    if (param.docref && param.docref.includes('-')) {
-      result.unitid = param.docref.split('-').slice(1).join('-').replace(/@/g, '%40');
+    result.pii      = param.p;
+    if (param.docref && param.p) {
+      const prefix = param.p + '-';
+      if (param.docref.indexOf(prefix) !== -1) {
+        result.unitid = param.docref.split(prefix)[1].replace(/@/g, '%40');
+      }
     }
   } else if ((match = /^\/apps\/readex\/results$/i.exec(path)) !== null) {
-    // SEARCH: .../apps/readex/results?p=WHNPLAN2&...
     result.rtype    = 'SEARCH';
     result.mime     = 'HTML';
+    result.pii      = param.p;
   } else if ((match = /^\/apps\/news\/results$/i.exec(path)) !== null) {
     // https://infoweb.newsbank.com/apps/news/results?p=AMNEWS&fld-base-0=alltext&sort=YMD_date%3AD&maxresults=20&val-base-0=Ginther&t=favorite%3A1467499E%21Columbus%2520Dispatch%2520Historical%2520and%2520Current
     // https://infoweb.newsbank.com/apps/news/results?p=NewsBank&fld-base-0=alltext&sort=YMD_date%3AD&maxresults=20&val-base-0=H1N1&t=
@@ -52,7 +59,7 @@ module.exports = new Parser(function analyseEC(parsedUrl, ec) {
     // https://infoweb.newsbank.com/resources/search/nb?p=OBIT&t=state%3AIL%21USA%2B-%2BIllinois
     // https://infoweb.newsbank.com/resources/search/nb?p=OBIT&b=results&t=state%3AIL%21USA%2B-%2BIllinois&fld0=dece&val0=Duffy&bln1=AND&fld1=YMD_date&val1=&bln2=AND&fld2=doc_body&val2=&sort=YMD_date%3AD&page=0
     result.rtype    = 'SEARCH';
-    result.mime     = 'MISC';
+    result.mime     = 'HTML';
     result.pii = param.p;
   } else if ((match = /^\/resources\/doc\/nb\/obit\/([a-z0-9-]+)$/i.exec(path)) !== null) {
     // https://infoweb.newsbank.com/resources/doc/nb/obit/175A318630BE6C90-175A318630BE6C90?p=OBIT
@@ -66,13 +73,16 @@ module.exports = new Parser(function analyseEC(parsedUrl, ec) {
     result.mime     = 'HTML';
     result.unitid = param.f_docnum;
   } else if ((match = /^\/apps\/news\/document-view$/i.exec(path)) !== null) {
-    // https://infoweb.newsbank.com/apps/news/document-view?p=NewsBank&t=&sort=YMD_date%3AD&fld-base-0=alltext&maxresults=20&val-base-0=H1N1&docref=news/17DFAD1BF786C478
-    // https://infoweb.newsbank.com/apps/news/document-view?p=AMNEWS&t=favorite%3A1467499E%21Columbus%2520Dispatch%2520Historical%2520and%2520Current&sort=YMD_date%3AD&fld-base-0=alltext&maxresults=20&val-base-0=Ginther&docref=news/17DED41B89F9D928
+    // docref=news/... (legacy) or docref=image/... (unitid = encoded value after 'image/')
     result.rtype    = 'ARTICLE';
     result.mime     = 'HTML';
-    result.unitid = param.docref.split('/')[1];
+    if (param.docref.startsWith('image/')) {
+      result.unitid = encodeURIComponent(param.docref.slice('image/'.length));
+    } else {
+      result.unitid = param.docref.split('/')[1];
+    }
     result.pii = param.p;
-    result.title_id = param.t.split('!')[1];
+    if (param.t) result.title_id = param.t.split('!')[1];
   }
 
   return result;
