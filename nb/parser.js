@@ -59,7 +59,11 @@ module.exports = new Parser(function analyseEC(parsedUrl, ec) {
     result.rtype    = 'SEARCH';
     result.mime     = 'HTML';
     result.pii = param.p;
-    result.title_id = param.t.split('!')[1];
+    if (param.t) {
+      const tNorm = param.t.replace(/%21/g, '!');
+      const titleId = tNorm.split('!')[1];
+      if (titleId) result.title_id = titleId;
+    }
 
   } else if ((match = /^\/resources\/search\/nb$/i.exec(path)) !== null) {
     // https://infoweb.newsbank.com/resources/search/nb?p=OBIT&t=state%3AIL%21USA%2B-%2BIllinois
@@ -83,12 +87,17 @@ module.exports = new Parser(function analyseEC(parsedUrl, ec) {
     result.rtype    = 'ARTICLE';
     result.mime     = 'HTML';
     if (param.docref.startsWith('image/')) {
-      result.unitid = encodeURIComponent(param.docref.slice('image/'.length));
+      const afterImage = param.docref.slice('image/'.length);
+      result.unitid = afterImage.indexOf('%') !== -1 ? afterImage : encodeURIComponent(afterImage);
     } else {
       result.unitid = param.docref.split('/')[1];
     }
     result.pii = param.p;
-    if (param.t) result.title_id = param.t.split('!')[1];
+    if (param.t) {
+      const tNorm = param.t.replace(/%21/g, '!');
+      const titleId = tNorm.split('!')[1];
+      if (titleId) result.title_id = titleId;
+    }
   }
 
   return result;
