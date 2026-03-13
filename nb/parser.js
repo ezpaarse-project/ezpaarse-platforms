@@ -23,14 +23,20 @@ module.exports = new Parser(function analyseEC(parsedUrl, ec) {
 
   // Readex interface
   if ((match = /^\/apps\/readex\/publication-browse$/i.exec(path)) !== null) {
-    // TOC: unitid = t without 'pubname:' prefix (URL-encoded) + '&year=' + year
+    // TOC: unitid = t without pubname prefix; do not double-encode
     result.rtype    = 'TOC';
     result.mime     = 'HTML';
     result.pii      = param.p;
     if (param.t || param.year) {
-      const afterPubname = (param.t || '').replace(/^pubname:/i, '');
-      const encoded = afterPubname ? encodeURIComponent(afterPubname).replace(/!/g, '%21') : '';
-      result.unitid = encoded + (param.year ? '&year=' + param.year : '');
+      const raw = param.t || '';
+      let rest;
+      if (raw.indexOf('%') !== -1) {
+        rest = raw.replace(/^pubname%3A/i, '');
+      } else {
+        const afterPubname = raw.replace(/^pubname:/i, '');
+        rest = afterPubname ? encodeURIComponent(afterPubname).replace(/!/g, '%21') : '';
+      }
+      result.unitid = rest + (param.year ? '&year=' + param.year : '');
     }
   } else if ((match = /^\/apps\/readex\/doc$/i.exec(path)) !== null) {
     // ARTICLE (PDF): unitid = docref after '<p>-', URL-encoded form
