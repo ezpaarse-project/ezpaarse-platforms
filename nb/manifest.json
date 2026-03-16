@@ -2,12 +2,12 @@
   "longname": "Newsbank",
   "name": "nb",
   "describe": "Recognizes the accesses to the platform Newsbank",
-  "contact": "devnet@oclc.org",
+  "contact": "kovchegv@oclc.org",
   "pkb": false,
   "docurl": "https://infoweb.newsbank.com",
   "domains": [
     "infoweb.newsbank.com"
   ],
-  "version": "2020-10-15",
+  "version": "2026-03-10",
   "status": "beta"
 }
