@@ -113,16 +113,15 @@ module.exports = new Parser(function analyseEC(parsedUrl, ec) {
     result.vol               = match[3];
     result.issue             = match[4];
 
-  // --- www.emerald.com journal paths (see test/emerald.2026-03-23.csv) ---
-
-  } else if ((match = /^\/([a-z]+)\/article-pdf\/doi\/(10\.[0-9]{4,}\/[^\/]+)\/([0-9]+)\/[^\/]+\.pdf$/i.exec(path)) !== null) {
+  } else if ((match = /^\/([a-z]+)\/article-pdf\/doi\/(10\.[0-9]{4,}\/[^/]+)\/([0-9]+)\/[^/]+\.pdf$/i.exec(path)) !== null) {
+    // www.emerald.com journal paths — see test/emerald.2026-03-23.csv
     // /cpoib/article-pdf/doi/10.1108/cpoib-09-2025-0211/11329495/cpoib-09-2025-0211en.pdf
     result.rtype = 'ARTICLE';
     result.mime  = 'PDF';
     result.doi   = match[2];
     result.unitid = match[3];
 
-  } else if ((match = /^\/([a-z]+)\/article\/doi\/(10\.[0-9]{4,}\/[^\/]+)\/([0-9]+)\/([^\/]+)$/.exec(path)) !== null) {
+  } else if ((match = /^\/([a-z]+)\/article\/doi\/(10\.[0-9]{4,}\/[^/]+)\/([0-9]+)\/([^/]+)$/.exec(path)) !== null) {
     // /cpoib/article/doi/10.1108/…/1348846/What-are-emerging-markets-…  (?query handled outside pathname)
     result.rtype   = 'ARTICLE';
     result.mime    = 'HTML';
@@ -136,7 +135,7 @@ module.exports = new Parser(function analyseEC(parsedUrl, ec) {
     result.unitid = match[2];
     result.mime   = match[3] === 'epubviewer' ? 'EPUB' : 'PDF';
 
-  } else if ((match = /^\/([a-z]+)\/article-pdf\/([0-9]+)\/([0-9]+)\/([0-9]+)\/([0-9]+)\/([^\/]+)\.pdf$/.exec(path)) !== null) {
+  } else if ((match = /^\/([a-z]+)\/article-pdf\/([0-9]+)\/([0-9]+)\/([0-9]+)\/([0-9]+)\/([^/]+)\.pdf$/.exec(path)) !== null) {
     // /ijccsm/article-pdf/16/2/177/9515776/ijccsm-11-2022-0138.pdf
     result.rtype     = 'ARTICLE';
     result.mime      = 'PDF';
@@ -145,7 +144,7 @@ module.exports = new Parser(function analyseEC(parsedUrl, ec) {
     result.first_page = match[4];
     result.unitid    = match[5];
 
-  } else if ((match = /^\/([a-z]+)\/article\/([0-9]+)\/([0-9]+)\/([0-9]+)\/([0-9]+)\/([^\/]+)$/.exec(path)) !== null) {
+  } else if ((match = /^\/([a-z]+)\/article\/([0-9]+)\/([0-9]+)\/([0-9]+)\/([0-9]+)\/([^/]+)$/.exec(path)) !== null) {
     // /ijccsm/article/16/2/177/1222325/Climate-change-and-crop-production-nexus-assessing
     result.rtype      = 'ARTICLE';
     result.mime       = 'HTML';
@@ -154,7 +153,7 @@ module.exports = new Parser(function analyseEC(parsedUrl, ec) {
     result.first_page = match[4];
     result.unitid     = match[5];
 
-  } else if ((match = /^\/books\/collection\/([0-9]+)\/[^\/]+\/?$/.exec(path)) !== null) {
+  } else if ((match = /^\/books\/collection\/([0-9]+)\/[^/]+\/?$/.exec(path)) !== null) {
     // /books/collection/108947/Data-Science-eBooks-Select-75
     result.rtype = 'TOC';
     result.mime  = 'HTML';
@@ -168,3 +167,4 @@ module.exports = new Parser(function analyseEC(parsedUrl, ec) {
 
   return result;
 });
+
