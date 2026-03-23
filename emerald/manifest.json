@@ -1,34 +1,44 @@
 {
-  "version": "2015-08-11",
+  "version": "2026-03-23",
   "status": "beta",
   "domains": [
     "www.emeraldinsight.com",
-    "www.emerald.com"
+    "www.emerald.com",
+    "www.emerald.com.inshs.bib.cnrs.fr",
+    "www-emerald-com.insu.bib.cnrs.fr",
+    "bookstore.emerald.com",
+    "manage.emerald.com"
   ],
   "recognize": {
     "rid": [
       "title_id",
       "doi",
       "unitid",
+      "isbn",
+      "online_identifier",
+      "publication_title",
       "publication_date"
     ],
     "rtype": [
       "ARTICLE",
+      "BOOK",
       "BOOKSERIE",
       "ABS",
-      "TOC"
+      "TOC",
+      "SEARCH"
     ],
     "mime": [
       "PDF",
       "PDFPLUS",
       "HTML",
-      "MISC"
+      "MISC",
+      "EPUB"
     ]
   },
   "name": "emerald",
   "longname": "Emerald management ejournals archives et Business",
   "describe": "Identifie les consultations de la plateforme Emerald management ejournals archives et Business",
   "docurl": "http://analyses.ezpaarse.org/platforms/55ade47b71cefcdbc44cc523",
-  "contact": "abderrazzak.loukili@inist.fr",
+  "contact": "Violita Kovchegov",
   "pkb": false
 }
