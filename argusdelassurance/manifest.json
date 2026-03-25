@@ -1,0 +1,13 @@
+{
+  "longname": "L'Argus de l 'Assurance",
+  "name": "argusdelassurance",
+  "describe": "Recognizes the accesses to the platform L'Argus de l 'Assurance",
+  "contact": "Frederic Truong inist",
+  "pkb": false,
+  "docurl": "https://analyses.ezpaarse.org/platforms/698eef04ea13a3622d0ab209",
+  "domains": [
+    "www.argusdelassurance.com"
+  ],
+  "version": "2026-03-25",
+  "status": "beta"
+}
