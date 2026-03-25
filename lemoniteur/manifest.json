@@ -1,0 +1,13 @@
+{
+  "longname": "Le Moniteur",
+  "name": "lemoniteur",
+  "describe": "Recognizes the accesses to the platform Le Moniteur",
+  "contact": "Frederic Truong inist",
+  "pkb": false,
+  "docurl": "https://analyses.ezpaarse.org/platforms/698eee9ae3d427679b294835",
+  "domains": [
+    "www.lemoniteur.fr"
+  ],
+  "version": "2026-03-25",
+  "status": "beta"
+}
