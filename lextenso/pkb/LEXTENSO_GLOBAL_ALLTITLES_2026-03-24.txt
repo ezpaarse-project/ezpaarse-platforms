@@ -1,0 +1,27 @@
+publication_title	print_identifier	online_identifier	date_first_issue_online	num_first_vol_online	num_first_issue_online	date_last_issue_online	num_last_vol_online	num_last_issue_online	title_url	first_author	title_id	embargo_info	coverage_depth	notes	publisher_name	publication_type	date_monograph_published_print	date_monograph_published_online	monograph_volume	monograph_edition	first_editor	parent_publication_title_id	preceding_publication_title_id	access_type	bestppn
+L'ESSENTIEL Droit bancaire	2110-8188	2257-087X	2010-09-01		01			3	https://archive.labase-lextenso.fr/lessentiel-droit-bancaire		DBA		fulltext			serial								P	147490324
+Revue des contrats	1763-5594	1963-1758	2003-12-01		1			1	https://archive.labase-lextenso.fr/revue-des-contrats		RDC		fulltext			serial								P	118003577
+L'ESSENTIEL Droit des assurances	2112-3322	2257-0853	2010-10-12		01			3	https://archive.labase-lextenso.fr/lessentiel-droit-des-assurances		DAS		fulltext			serial								P	147489350
+L'ESSENTIEL Droits africains des affaires	2552-1381	2822-8634	2017		1			3	https://archive.labase-lextenso.fr/lessentiel-droits-africains-des-affaires		DAA		fulltext			serial								P	22445126X
+L'ESSENTIEL Droit de la distribution et de la concurrence	2552-0768	2822-8677	2017		01			3	https://archive.labase-lextenso.fr/lessentiel-droit-de-la-distribution-et-de-la-concurrence		DDC		fulltext			serial								P	224350307
+Bulletin Joly Sociétés	1285-0888	1963-1731	1986		1			3	https://archive.labase-lextenso.fr/bulletin-joly-societes		BJS		fulltext			serial								P	118000020
+Flash Defrénois	2112-776X	2257-4182	2012-01-09		01			11	https://archive.labase-lextenso.fr/flash-defrenois		DFF		fulltext			serial								P	15916978X
+Revue générale du droit des assurances	1273-3407	1963-1766	1995		1995-1			3	https://archive.labase-lextenso.fr/revue-generale-du-droit-des-assurances		RGA		fulltext			serial								P	118004123
+Revue française de finances publiques	0294-0833	2257-2813	2010		109			172	https://archive.labase-lextenso.fr/revue-francaise-de-finances-publiques		RFFP		fulltext			serial								P	147493161
+L'ESSENTIEL Droit des entreprises en difficulté	2101-4647	2107-5883	2009-04-01		01			3	https://archive.labase-lextenso.fr/lessentiel-droit-des-entreprises-en-difficulte		DED		fulltext			serial								P	137755546
+Cahiers de l'arbitrage	2107-5387	2118-7134	2010		1			3	https://archive.labase-lextenso.fr/cahiers-de-larbitrage		CAPJIA		fulltext			serial								P	147485118
+Les nouveaux Cahiers du Conseil constitutionnel	2112-2679	1968-3820	2012-04-01		35	2018-04-01	2018	59	https://archive.labase-lextenso.fr/les-nouveaux-cahiers-du-conseil-constitutionnel		NCCC		fulltext			serial								P	154818224
+Defrénois	2116-9578	1963-1774	1990-01-15		1			11	https://archive.labase-lextenso.fr/defrenois		DEF		fulltext			serial								P	118001655
+Penant	0034-1894	2534-0395	2013		882			924	https://archive.labase-lextenso.fr/penant		PENA		fulltext			serial								P	194037355
+Gazette du Palais	0242-6331	1963-1804	1999-06-01		152			9	https://archive.labase-lextenso.fr/gazette-du-palais		GPL		fulltext			serial								P	127809937
+L'ESSENTIEL Droit des contrats	1961-4942	2107-5875	2008-06-01		01			3	https://archive.labase-lextenso.fr/lessentiel-droit-des-contrats		DCO		fulltext			serial								P	137750447
+L'ESSENTIEL Droit de la propriété intellectuelle	2109-2133	2257-0837	2010-05-01		01			3	https://archive.labase-lextenso.fr/lessentiel-droit-de-la-propriete-intellectuelle		DPI		fulltext			serial								P	147489709
+Bulletin Joly Travail	2646-7070	2647-462X	2018-09-01		01			3	https://archive.labase-lextenso.fr/bulletin-joly-travail		BJT		fulltext			serial							Cahiers sociaux	P	23014537X
+Revue du droit public	0035-2578	1963-1790	2005		1			1	https://archive.labase-lextenso.fr/revue-du-droit-public		RDP		fulltext			serial								P	118005138
+L'ESSENTIEL Droit de la famille et des personnes	2102-3573	2107-5859	2009-04-01		01			3	https://archive.labase-lextenso.fr/lessentiel-droit-de-la-famille-et-des-personnes		DFP		fulltext			serial								P	137761414
+Petites affiches	3003-2989	1626-0007	1993-11-26		142			2	https://archive.labase-lextenso.fr/petites-affiches		LPA		fulltext			serial							Quotidien Juridique	P	058855076
+Bulletin Joly Bourse	1638-9468	1963-174X	1993		01			1	https://archive.labase-lextenso.fr/bulletin-joly-bourse		BJB		fulltext			serial								P	117999350
+Revue Pratique Droit des Affaires		3076-386X	2025-01-30		1			3	https://archive.labase-lextenso.fr/revue-pratique-droit-des-affaires		RDA		fulltext		Lextenso	serial								P	283906278
+Bulletin Joly Entreprises en difficulté	2115-2578	2257-3577	2011-03-01		01			1	https://archive.labase-lextenso.fr/bulletin-joly-entreprises-en-difficulte		BJE		fulltext			serial								P	151541310
+Les Cahiers Sociaux	2268-6851	2417-940X	2004-01-01		156	2018-07-01	2018	309	https://archive.labase-lextenso.fr/les-cahiers-sociaux		CSB		fulltext			serial								P	175889120
+L'ESSENTIEL Droit de l'immobilier et urbanisme	1969-0649	2107-5867	2008-11-05		01			2	https://archive.labase-lextenso.fr/lessentiel-droit-de-limmobilier-et-urbanisme		DIU		fulltext			serial								P	137751524

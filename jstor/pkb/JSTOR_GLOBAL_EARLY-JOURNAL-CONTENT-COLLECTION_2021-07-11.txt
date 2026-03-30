@@ -16,7 +16,6 @@ National Journal of Education	2638-9142	2640-1479	1876	1	3	1880	12	26	https://ww
 New England Journal of Education	2578-4145	2578-4293	1875	1	1	1880	26	12	https://www.jstor.org/journal/newengljeduc		https://www.jstor.org/journal/newengljeduc		fulltext			serial								F	229289908
 Quarterly Bulletin of the Nuttall Ornithological Club	2474-0136	2474-9389	1876	1	1	1876	1	1	https://www.jstor.org/journal/quarbullnuttorni		https://www.jstor.org/journal/quarbullnuttorni		fulltext	Now: The Auk. Continues: Bulletin of the Nuttall Ornithological Club (1876-1883)		serial								F	197515428
 Records of the American Catholic Historical Society of Philadelphia	0002-7790	2573-9778	1884	1		1922	33	4	http://www.jstor.org/journal/recoamercathhis		recoamercathhis		fulltext	Now: American Catholic Studies		serial								F	204155959
-The American Art Journal (1866-1867)	1946-195X		1866	5	1	1867	7	8	http://www.jstor.org/journal/amerartj		amerartj		fulltext			serial								F	
 The College Courant	2475-8957	2573-1424	1867	1	1	1874	14	25	https://www.jstor.org/journal/collegecourant		https://www.jstor.org/journal/collegecourant		fulltext			serial								F	201462605
 The Economic Bulletin	1536-1489		1908	1	1	1910	3	4	https://www.jstor.org/journal/economicbulletin		https://www.jstor.org/journal/economicbulletin		fulltext	now:The American economic review (ISSN:0002-8282)		serial								F	
 The Irish Jurist (1848-1867)	2565-5558		1848	1		1867	19		https://www.jstor.org/journal/irishjurist1848		https://www.jstor.org/journal/irishjurist1848		fulltext			serial								F	

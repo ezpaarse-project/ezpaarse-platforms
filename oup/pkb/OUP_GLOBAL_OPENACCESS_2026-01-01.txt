@@ -1,0 +1,168 @@
+publication_title	print_identifier	online_identifier	date_first_issue_online	num_first_vol_online	num_first_issue_online	date_last_issue_online	num_last_vol_online	num_last_issue_online	title_url	first_author	title_id	embargo_info	coverage_depth	notes	publisher_name	publication_type	date_monograph_published_print	date_monograph_published_online	monograph_volume	monograph_edition	first_editor	parent_publication_title_id	preceding_publication_title_id	access_type	bestppn
+Biology Methods and Protocols		2396-8923	2016	1	1				https://academic.oup.com/biomethods/issue		biomethods		fulltext		Oxford University Press	serial								F	198530331
+Crohn's & Colitis 360		2631-827X	2019-05-01	1	1				https://academic.oup.com/crohnscolitis360/issue		crohnscolitis360		fulltext		Oxford University Press	serial								F	240295897
+BJS Open		2474-9842	2017-02-01	1	1				https://academic.oup.com/bjsopen/issue		bjsopen		fulltext		Oxford University Press	serial								F	220267561
+Aesthetic Surgery Journal: Open Forum		2631-4797	2019	1	1				https://academic.oup.com/asjopenforum/issue		asjopenforum		fulltext		Oxford University Press	serial								F	235215465
+Briefings in Bioinformatics	1467-5463	1477-4054	2000	1	1				https://academic.oup.com/bib/issue		bib		fulltext	Flipped to Fully OA in 2024	Oxford University Press	serial								F	067784607
+Journal of Cybersecurity	2057-2085	2057-2093	2015-09-01	1	1				https://academic.oup.com/cybersecurity/issue		cybersecurity		fulltext		Oxford University Press	serial								F	190189177
+Journal of Hip Preservation Surgery		2054-8397	2014-07-01	1	1				https://academic.oup.com/jhps/issue		jhps		fulltext		Oxford University Press	serial								F	183632524
+Molecular Biology and Evolution	0737-4038	1537-1719	1983-12-01	1	1				https://academic.oup.com/mbe/issue		mbe		fulltext		Oxford University Press	serial								F	148307736
+Oxford Open Digital Health		2754-4591	2023	1	1				https://academic.oup.com/oodh/issue		oodh		fulltext		Oxford University Press	serial								F	271653221
+Forensic Sciences Research	2096-1790	2471-1411	2016-12-01	1	1				https://academic.oup.com/fsr/issue/		fsr		fulltext		Oxford University Press	serial								F	204643481
+European Heart Journal - Imaging Methods and Practice		2755-9637	2023-05-01	1	1				https://academic.oup.com/ehjimp/issue		ehjimp		fulltext		Oxford University Press	serial								F	271956682
+The Oncologist	1083-7159	1549-490X	1996	1	1				https://academic.oup.com/oncolo/issue		oncolo		fulltext		Oxford University Press	serial								F	08313753X
+Protein & Cell	1674-800X	1674-8018	2010	1	1				https://academic.oup.com/proteincell/issue		proteincell		fulltext		Oxford University Press	serial								F	145013014
+Clinical Kidney Journal	2048-8505	2048-8513	2012-02-01	5	1				https://academic.oup.com/ckj/issue		ckj		fulltext		Oxford University Press	serial								F	161412491
+Journal of Industrial Microbiology and Biotechnology		1476-5535	1986-03-01	1	1				https://academic.oup.com/jimb/issue		jimb		fulltext		Oxford University Press	serial								F	068852800
+JNCI Cancer Spectrum		2515-5091	2017	1	1				https://academic.oup.com/jncics/issue		jncics		fulltext		Oxford University Press	serial								F	219526044
+Journal of the Canadian Association of Gastroenterology	2515-2084	2515-2092	2018	1	1				https://academic.oup.com/jcag/issue		jcag		fulltext		Oxford University Press	serial								F	230851940
+Progress of Theoretical and Experimental Physics		2050-3911	2012	2012	1				https://academic.oup.com/ptep/issue		ptep		fulltext		Oxford University Press	serial							ptp	F	172118719
+Nucleic Acids Symposium Series	0261-3166	1746-8272	1999-11-01	42	1	2009-10-01	53	1	https://academic.oup.com/nass/issue		nass		fulltext	Through 2009	Oxford University Press	serial								F	090141288
+microLife		2633-6693	2020-07-01	1	1				https://academic.oup.com/microlife/issue		microlife		fulltext		Oxford University Press	serial								F	252280482
+Journal of Occupational Health		1348-9585	1996	1	1				https://academic.oup.com/joh/issue		joh		fulltext		Oxford University Press	serial								F	081770626
+Policy and Society	1449-4035	1839-3373	2003	22	1				https://academic.oup.com/policyandsociety/issue		policyandsociety		fulltext		Oxford University Press	serial								F	132489953
+Molecular BioSystems	1742-206X	1742-2051	2005-05-01	1	1	2017-12-31	13	12	https://academic.oup.com/molecular-omics/issue		molecular-omics		fulltext		Oxford University Press	serial								F	104882034
+Genome Biology and Evolution		1759-6653	2009	1					https://academic.oup.com/gbe/issue		gbe		fulltext		Oxford University Press	serial								F	148308392
+Dynamics and Statistics of the Climate System		2059-6987	2016	1	1	2018	3	1	https://academic.oup.com/climatesystem/issue		climatesystem		fulltext	Ceased Publication	Oxford University Press	serial								F	198527772
+Human Reproduction Open		2399-3529	2017	1	1				https://academic.oup.com/hropen/issue		hropen		fulltext		Oxford University Press	serial								F	203399269
+Journal of Urban Ecology		2058-5543	2015	1	1				https://academic.oup.com/jue/issue		jue		fulltext		Oxford University Press	serial								F	19481338X
+Translational Animal Science		2573-2102	2017-02-01	1	1				https://academic.oup.com/tas/issue		tas		fulltext		Oxford University Press	serial								F	201823365
+BJR Case Reports		2055-7159	2015	1	1				https://academic.oup.com/bjrcr/issue		bjrcr		fulltext		Oxford University Press	serial								F	194006697
+Obesity and Endocrinology		3033-3563	2025-02-01	1	1				https://academic.oup.com/obendo		obendo		fulltext		Oxford University Press	serial								F	285197193
+RSS: Data Science and Artificial Intelligence		3049-5148	2025	1	1				https://academic.oup.com/rssdat/issue		rssdat		fulltext		Oxford University Press	serial								F	
+ESHRE Monographs	1477-741X	1477-8378	2002-06-01	1	1	2008-12-31	2008	1	https://academic.oup.com/eshremonographs/issue		eshremonographs		fulltext	Ceased Publication	Oxford University Press	serial								F	078920043
+FEMS Yeast Research	1567-1356	1567-1364	2001-04-01	1	1				https://academic.oup.com/femsyr/issue		femsyr		fulltext	Flipped to Fully OA in 2024	Oxford University Press	serial								F	086842005
+Neuro-Oncology Advances		2632-2498	2019-05-01	1	1				https://academic.oup.com/noa/issue		noa		fulltext		Oxford University Press	serial								F	240295927
+Journal of Integrated Pest Management		2155-7470	2010-10-01	1	1				https://academic.oup.com/jipm/issue		jipm		fulltext		Oxford University Press	serial								F	167499939
+Journal of Crohn's and Colitis Supplements	1873-9954	1876-4460	2007-03-01	1	1	2010-05-01	4	1	https://academic.oup.com/ecco-jccs/issue		ecco-jccs		fulltext	Journal of Crohn's and Colitis Supplements was the separate sister supplement journal to Journal of Crohn's and Colitis between 2007 and 2010.	Oxford University Press	serial								F	118963635
+Virus Evolution		2057-1577	2015	1	1				https://academic.oup.com/ve/issue		ve		fulltext		Oxford University Press	serial								F	187671443
+ICES Journal of Marine Science	1054-3139	1095-9289	1992-02-01	48	1				https://academic.oup.com/icesjms/issue		icesjms		fulltext		Oxford University Press	serial								F	040631567
+Health Affairs Scholar		2976-5390	2023-07-01	1	1				https://academic.oup.com/healthaffairsscholar/issue		healthaffairsscholar		fulltext		Oxford University Press	serial								F	271648473
+FEMS Microbes		2633-6685	2020-09-01	1	1				https://academic.oup.com/femsmicrobes/issue		femsmicrobes		fulltext		Oxford University Press	serial								F	252280474
+Sustainable Microbiology		2755-1970	2024	1	1				https://academic.oup.com/sumbio/issue		sumbio		fulltext		Oxford University Press	serial								F	285766295
+Briefings in Functional Genomics & Proteomics	1473-9550	1477-4062	2002-01-01	1	1	2009-12-01	8	6	https://academic.oup.com/bfg/issue		bfg		fulltext		Oxford University Press	serial								F	068853629
+Europace	1099-5129	1532-2092	1999	1	1				https://academic.oup.com/europace/issue		europace		fulltext		Oxford University Press	serial								F	058402608
+AoB Plants		2041-2851	2009	2009					https://academic.oup.com/aobpla/issue		aobpla		fulltext		Oxford University Press	serial								F	149005652
+JAMIA Open		2574-2531	2018-06-01	1	1				https://academic.oup.com/jamiaopen/issue		jamiaopen		fulltext		Oxford University Press	serial								F	229741169
+Journal of Mechanics	1727-7191	1811-8216	1998-03-01	1	1				https://academic.oup.com/jom/issue		jom		fulltext		Oxford University Press	serial								F	223246050
+Oxford Medical Case Reports		2053-8855	2014-04-01	2014	1				https://academic.oup.com/omcr/issue		omcr		fulltext		Oxford University Press	serial								F	17871710X
+Animal Frontiers	2160-6056	2160-6064	2011	1	1				https://academic.oup.com/af/issue		af		fulltext		Oxford University Press	serial								F	159889111
+Journal of Computational Design and Engineering		2288-5048	2014	1	1				https://academic.oup.com/jcde/issue		jcde		fulltext		Oxford University Press	serial								F	174856733
+Evolution Letters		2056-3744	2017-05-01	1	1				https://academic.oup.com/evlett		evlett		fulltext		Oxford University Press	serial								F	201311445
+Life Metabolism		2755-0230	2022-08-01	1	1				https://academic.oup.com/lifemeta/issue		lifemeta		fulltext		Oxford University Press	serial								F	267190301
+ImmunoHorizons		2573-7732	2017	1	1				https://academic.oup.com/immunohorizons/issue		immunohorizons		fulltext		Oxford University Press	serial								F	203401603
+AJE Advances: Research in Epidemiology		2977-0548	2025-04-01	1	1				https://academic.oup.com/ajeadvances		ajeadvances		fulltext	Ceased Publication	Oxford University Press	serial								F	285196502
+Intelligent Transportation Infrastructure		2752-9991	2022	1	1				https://academic.oup.com/iti/issue		iti		fulltext		Oxford University Press	serial								F	264089367
+European Heart Journal - Case Reports		2514-2119	2017	1	1				https://academic.oup.com/ehjcr/issue		ehjcr		fulltext		Oxford University Press	serial								F	223590789
+FEMS Microbiology Reviews	0168-6445	1574-6976	1985-04-01	1	1				https://academic.oup.com/femsre/issue		femsre		fulltext	Flipped to Fully OA in 2024	Oxford University Press	serial								F	070950520
+Current Zoology	1674-5507	2396-9814	2009-02-01	55	1				https://academic.oup.com/cz/issue		cz		fulltext		Oxford University Press	serial								F	195678486
+Journal of Geophysics and Engineering	1742-2132	1742-2140	2004-03-01	1	1				https://academic.oup.com/jge/issue		jge		fulltext		Oxford University Press	serial								F	085710733
+Journal of Legal Analysis	2161-7201	1946-5319	2009	1	1				https://academic.oup.com/jla/issue		jla		fulltext		Oxford University Press	serial								F	143742620
+NAR Genomics and Bioinformatics		2631-9268	2019-04-01	1	1				https://academic.oup.com/nargab/issue		nargab		fulltext		Oxford University Press	serial								F	240295900
+Nucleic Acids Research	0305-1048	1362-4962	1996	24	1				https://academic.oup.com/nar/issue		nar		fulltext		Oxford University Press	serial								F	095886923
+Oxford Open Economics		2752-5074	2022-02-01	1	1				https://academic.oup.com/ooec/issue		ooec		fulltext		Oxford University Press	serial								F	263426122
+Q Open		2633-9048	2021	1	1				https://academic.oup.com/qopen/issue		qopen		fulltext		Oxford University Press	serial								F	25391406X
+Genomics, Proteomics & Bioinformatics	1672-0229	2210-3244	2003-02-01	1	1				https://academic.oup.com/gpb		gpb		fulltext		Oxford University Press	serial								F	123807557
+ISME Communications		2730-6151	2021	1	1				https://academic.oup.com/ismecommun/issue		ismecommun		fulltext		Oxford University Press	serial								F	263425681
+Skin Health and Disease		2690-442X	2021-03-01	1	1				https://academic.oup.com/skinhd		skinhd		fulltext		Oxford University Press	serial								F	252598288
+Molecular Omics		2515-4184	2018-02-01	14	1				https://www.academic.oup.com/molecular-omics/issue		https:www.academic.oup.commolecular-omics		fulltext		Oxford University Press	serial								F	226071723
+Arthropod Management Tests		2155-9856	1994	19	1				https://academic.oup.com/amt/issue		amt		fulltext		Oxford University Press	serial								F	147873606
+G3 Genes, Genomes, Genetics		2160-1836	2011-06-01	1	1				https://academic.oup.com/g3journal/issue		g3journal		fulltext		Oxford University Press	serial								F	157753360
+JAC - Antimicrobial Resistance		2632-1823	2019-06-01	1	1				https://academic.oup.com/jacamr/issue		jacamr		fulltext		Oxford University Press	serial								F	237358034
+Journal of Radiation Research		1349-9157	1960-06-01	1	1				https://academic.oup.com/jrr/issue		jrr		fulltext		Oxford University Press	serial								F	165393521
+Monthly Notices of the Royal Astronomical Society: Letters	1745-3925	1745-3933	2005	356	1				https://academic.oup.com/mnrasl/issue		mnrasl		fulltext	Flipped to Fully OA in 2024	Oxford University Press	serial								F	131762818
+Rheumatology Advances in Practice		2514-1775	2017	1	1				https://academic.oup.com/rheumap/issue		rheumap		fulltext		Oxford University Press	serial								F	226071707
+Social Cognitive and Affective Neuroscience	1749-5016	1749-5024	2006-06-01	1	1				https://academic.oup.com/scan/issue		scan		fulltext		Oxford University Press	serial								F	111217091
+ESC Heart Failure		2055-5822	2014	1	1				https://www.academic.oup.com/eschf/issue		https:www.academic.oup.comeschf		fulltext		Oxford University Press	serial								F	184857503
+Horticulture Research		2052-7276	2014-07-01	1	1				https://academic.oup.com/hr/issue		hr		fulltext		Oxford University Press	serial								F	179322966
+Environmental Endocrinology		3049-7442	2025-03-01	1	1				https://academic.oup.com/enendo		enendo		fulltext		Oxford University Press	serial								F	
+European Stroke Journal	2396-9873	2396-9881	2016	1	1				https://www.academic.oup.com/esj/issue		https:www.academic.oup.comesj		fulltext		Oxford University Press	serial								F	193796066
+BJR Open		2513-9878	2019	1	1				https://academic.oup.com/bjro/issue		bjro		fulltext		Oxford University Press	serial								F	237353520
+Clean Energy	2515-4230	2515-396X	2017-12-01	1	1				https://academic.oup.com/ce/issue		ce		fulltext		Oxford University Press	serial								F	224182765
+International Journal of Low-Carbon Technologies	1748-1317	1748-1325	2006	1	1				https://academic.oup.com/ijlct/issue		ijlct		fulltext		Oxford University Press	serial								F	136372562
+FEMS Microbiology Ecology	0168-6496	1574-6941	1985-02-01	1	1				https://academic.oup.com/femsec/issue		femsec		fulltext	Flipped to Fully OA in 2024	Oxford University Press	serial								F	131761595
+National Science Review	2095-5138	2053-714X	2014-03-01	1	1				https://academic.oup.com/nsr/issue		nsr		fulltext		Oxford University Press	serial								F	176271880
+Antibody Therapeutics		2516-4236	2018-06-01	1	1				https://academic.oup.com/abt/issue		abt		fulltext		Oxford University Press	serial								F	23085205X
+Transactions of Mathematics and Its Applications		2398-4945	2017	1	1				https://academic.oup.com/imatrm/issue		imatrm		fulltext		Oxford University Press	serial								F	204062519
+Environmental Epigenetics		2058-5888	2015	1	1				https://academic.oup.com/eep/issue		eep		fulltext		Oxford University Press	serial								F	189875119
+SLEEP Advances		2632-5012	2020-03-01	1	1				https://academic.oup.com/sleepadvances/issue		sleepadvances		fulltext		Oxford University Press	serial								F	252280393
+NAR Molecular Medicine		2976-856X	2024	1	1				https://academic.oup.com/narmolmed		narmolmed		fulltext		Oxford University Press	serial								F	282618163
+The ISME Journal	1751-7362	1751-7370	2007	1	1				https://academic.oup.com/ismej/issue		ismej		fulltext		Oxford University Press	serial								F	11626912X
+Marine and Coastal Fisheries	1942-5120	1942-5120	2009	1	1				https://academic.oup.com/mcf		mcf		fulltext		Oxford University Press	serial								F	136984886
+Critical Values	2378-8321	2378-8372	2008	1	1	2019	12	4	https://academic.oup.com/criticalvalues/issue		criticalvalues		fulltext	Ceased Publication	Oxford University Press	serial								F	187163758
+Exposome		2635-2265	2021						https://academic.oup.com/exposome/issue		exposome		fulltext		Oxford University Press	serial								F	262005085
+Journal of Surgical Case Reports		2042-8812	2010-03-01	1	1				https://academic.oup.com/jscr/issue		jscr		fulltext		Oxford University Press	serial								F	164365192
+Oxford Open Materials Science		2633-6979	2020-11-01	1	1				https://academic.oup.com/ooms/issue		ooms		fulltext		Oxford University Press	serial								F	252821610
+Oxford Open Energy		2752-5082	2022	1	1				https://academic.oup.com/ooenergy/issue		ooenergy		fulltext		Oxford University Press	serial								F	262899884
+Synthetic Biology		2397-7000	2016	1	1				https://academic.oup.com/synbio/issue		synbio		fulltext		Oxford University Press	serial								F	201454629
+Life Medicine		2755-1733	2022-08-01	1	1				https://academic.oup.com/lifemedi/issue		lifemedi		fulltext		Oxford University Press	serial								F	267733127
+Monthly Notices of the Royal Astronomical Society	0035-8711	1365-2966	1859-11-01	20	1				https://academic.oup.com/mnras/issue		mnras		fulltext	Flipped to Fully OA in 2024	Oxford University Press	serial								F	058212701
+JCEM Case Reports		2755-1520	2022-11-01	1	1				https://academic.oup.com/jcemcr/issue		jcemcr		fulltext		Oxford University Press	serial								F	263538680
+Stem Cells Translational Medicine	2157-6564	2157-6580	2012	1	1				https://academic.oup.com/stcltm/issue		stcltm		fulltext		Oxford University Press	serial								F	163330476
+Neuro-Oncology Pediatrics		2977-4454	2025-07-01	1	1				https://academic.oup.com/neuro-onc-peds/issue		neuro-onc-peds		fulltext		Oxford University Press	serial								F	291933793
+Composite Design and Manufacturing		2977-7305	2025-07-01	1	1				https://academic.oup.com/cdm/issue		cdm		fulltext		Oxford University Press	serial								F	291866972
+Conservation Physiology		2051-1434	2013	1	1				https://academic.oup.com/conphys/issue		conphys		fulltext		Oxford University Press	serial								F	174285043
+RAS Techniques and Instruments		2752-8200	2022-04-01	1	1				https://academic.oup.com/rasti/issue		rasti		fulltext		Oxford University Press	serial								F	264089359
+Database: The Journal of Biological Databases and Curation		1758-0463	2009	2009					https://academic.oup.com/database/issue		database		fulltext		Oxford University Press	serial								F	148308333
+Interactive Cardiovascular and Thoracic Surgery	1569-9293	1569-9285	2002-09-01	1	1	2022-12-31	35	6	https://academic.oup.com/icvts/issue		icvts		fulltext		Oxford University Press	serial								F	104902620
+Brain Communications		2632-1297	2019-07-01	1	1				https://academic.oup.com/braincomms/issue		braincomms		fulltext		Oxford University Press	serial								F	238218384
+Journal of the Endocrine Society		2472-1972	2017	1	1				https://academic.oup.com/jes/issue		jes		fulltext		Oxford University Press	serial								F	200112864
+Journal of Insect Science		1536-2442	2001	1	1				https://academic.oup.com/jinsectscience/issue		jinsectscience		fulltext		Oxford University Press	serial								F	070722692
+IJQHC Communications		2634-5293	2021-08-01	1	1				https://academic.oup.com/ijcoms/issue		ijcoms		fulltext		Oxford University Press	serial								F	257217304
+Open Forum Infectious Diseases		2328-8957	2014	1	1				https://academic.oup.com/ofid/issue		ofid		fulltext		Oxford University Press	serial								F	182541452
+Schizophrenia Bulletin Open		2632-7899	2020	1	1				https://academic.oup.com/schizbullopen/issue		schizbullopen		fulltext		Oxford University Press	serial								F	250316358
+Oxford Open Neuroscience		2753-149X	2022-05-01	1	1				https://academic.oup.com/oons/issue		oons		fulltext		Oxford University Press	serial								F	263426173
+Radiology Advances		2976-9337	2024	1	1				https://academic.oup.com/radadv/issue		radadv		fulltext		Oxford University Press	serial								F	279674902
+Sexual Medicine		2050-1161	2013-08-01	1	1				https://academic.oup.com/smoa/issue		smoa		fulltext		Oxford University Press	serial								F	180712233
+International Journal of Food Science and Technology	0950-5423	1365-2621	1966-03-01	1	1				https://academic.oup.com/ijfst		ijfst		fulltext		Oxford University Press	serial								F	05092804X
+European Heart Journal - Digital Health		2634-3916	2020-11-01	1	1				https://academic.oup.com/ehjdh/issue		ehjdh		fulltext		Oxford University Press	serial								F	25282167X
+Cerebral Cortex Communications		2632-7376	2020	1	1	2023	4	4	https://academic.oup.com/cercorcomms/issue		cercorcomms		fulltext		Oxford University Press	serial								F	252280415
+European Heart Journal - Cardiovascular Pharmacotherapy	2055-6837	2055-6845	2015	1	1				https://academic.oup.com/ehjcvp/issue		ehjcvp		fulltext	Flipped to Fully OA in 2025	Oxford University Press	serial								F	185302203
+Health Policy and Planning	0268-1080	1460-2237	1986-03-01	1	1				https://academic.oup.com/heapol/issue		heapol		fulltext	Flipped to Fully OA in 2024	Oxford University Press	serial								F	058286446
+Transportation Safety and Environment		2631-4428	2018-12-01	1	1				https://academic.oup.com/tse/issue		tse		fulltext		Oxford University Press	serial								F	238218368
+Oxford Open Climate Change		2634-4068	2021						https://academic.oup.com/oocc/issue		oocc		fulltext		Oxford University Press	serial								F	259153656
+Oxford Open Immunology		2633-6960	2020-06-01	1	1				https://academic.oup.com/ooim/issue		ooim		fulltext		Oxford University Press	serial								F	252821602
+Regenerative Biomaterials	2056-3418	2056-3426	2014-11-01	1	1				https://academic.oup.com/rb/issue		rb		fulltext		Oxford University Press	serial								F	18530222X
+The Geophysical Journal of the Royal Astronomical Society	0952-4592		1958-03-01	1	1	1987-12-31	91	3	https://academic.oup.com/gji/issue		gji		fulltext		Oxford University Press	serial								F	172243327
+The European Journal of Public Health	1101-1262	1464-360X	1991	1	1				https://academic.oup.com/eurpub/issue		eurpub		fulltext		Oxford University Press	serial								F	112892469
+Function		2633-8823	2020-05-01	1	1				https://academic.oup.com/function/issue		function		fulltext		Oxford University Press	serial								F	24831307X
+Evolutionary Journal of the Linnean Society		2752-938X	2022	1	1				https://academic.oup.com/evolinnean/issue		evolinnean		fulltext		Oxford University Press	serial								F	271527676
+Child Policy Nexus		2978-4093	1994						https://academic.oup.com/cpn/issue		cpn		fulltext		Oxford University Press	serial								F	
+GigaScience		2047-217X	2011	1	1				https://academic.oup.com/gigascience/issue		gigascience		fulltext		Oxford University Press	serial								F	163678758
+International Health	1876-3413	1876-3405	2009-09-01	1	1				https://academic.oup.com/inthealth/issue		inthealth		fulltext		Oxford University Press	serial								F	14454587X
+Burns & Trauma		2321-3876	2013	1	1				https://academic.oup.com/burnstrauma/issue		burnstrauma		fulltext		Oxford University Press	serial								F	170355470
+in silico Plants		2517-5025	2019	1	1				https://academic.oup.com/insilicoplants/issue		insilicoplants		fulltext		Oxford University Press	serial								F	242320465
+Journal of Plant Ecology	1752-9921	1752-993X	2008-03-01	1	1				https://academic.oup.com/jpe/issue		jpe		fulltext		Oxford University Press	serial								F	127818723
+NAR Cancer		2632-8674	2019-12-01	1	1				https://academic.oup.com/narcancer/issue		narcancer		fulltext		Oxford University Press	serial								F	242322204
+Bioinformatics	1367-4803	1367-4811	2022-10-01	38	19				https://academic.oup.com/bioinformatics/issue		bioinformatics		fulltext	Metadata was being delivered with a previous online_identifer (1367-4811). Metadata for this title was changed on October 6 2022.	Oxford University Press	serial								F	040646130
+DNA Research	1340-2838	1756-1663	1994	1	1	2012	66	9	https://academic.oup.com/dnaresearch/issue		dnaresearch		fulltext		Oxford University Press	serial								F	12042245X
+Psychoradiology		2634-4416	2021-03-01	1	1				https://academic.oup.com/psyrad/issue		psyrad		fulltext		Oxford University Press	serial								F	256263760
+Journal of Bone and Mineral Research Plus		2473-4039	2017	1	1				https://academic.oup.com/jbmrplus/issue		jbmrplus		fulltext		Oxford University Press	serial								F	203185102
+Journal of Sickle Cell Disease		3029-0473	2024	1	1				https://academic.oup.com/jscd/issue		jscd		fulltext		Oxford University Press	serial								F	280643128
+RPS Pharmacy and Pharmacology Reports		2754-5849	2022-09-01	1	1				https://academic.oup.com/rpsppr/issue		rpsppr		fulltext		Oxford University Press	serial								F	26719028X
+Bioinformatics Advances		2635-0041	2021	1	1				https://academic.oup.com/bioinformaticsadvances/issue		bioinformaticsadvances		fulltext		Oxford University Press	serial								F	257217347
+Evolution, Medicine, and Public Health		2050-6201	2013	2013	1				https://academic.oup.com/emph/issue		emph		fulltext		Oxford University Press	serial								F	175787034
+Integrative Organismal Biology		2517-4843	2019-10-01	1	1				https://academic.oup.com/iob/issue		iob		fulltext		Oxford University Press	serial								F	241904382
+Innovation in Aging		2399-5300	2017	1	1				https://academic.oup.com/innovateage/issue		innovateage		fulltext		Oxford University Press	serial								F	203399277
+International Journal of Neuropsychopharmacology	1461-1457	1469-5111	1998-07-01	1	1				https://academic.oup.com/ijnp/issue		ijnp		fulltext		Oxford University Press	serial								F	048900427
+Precision Clinical Medicine	2096-5303	2516-1571	2018-06-01	1	1				https://academic.oup.com/pcm/issue		pcm		fulltext		Oxford University Press	serial								F	231602847
+Journal of Computer-Mediated Communication		1083-6101	1995-06-01	1	1				https://academic.oup.com/jcmc/issue		jcmc		fulltext		Oxford University Press	serial								F	040343219
+Journal of Surgical Protocols and Research Methodologies		2752-616X	2021-09-01	1	1				https://academic.oup.com/jsprm/issue/		jsprm		fulltext		Oxford University Press	serial								F	261661205
+Food Science & Technology [magazine]	1475-3324	2689-1816	2016-03-01	30	1				https://academic.oup.com/fst		fst		fulltext		Oxford University Press	serial								F	244301646
+Discovery Immunology		2754-2483	2022	1	1				https://academic.oup.com/discovimmunology/issue		discovimmunology		fulltext		Oxford University Press	serial								F	263535223
+Global Studies Quarterly		2634-3797	2021-03-01	1	1				https://academic.oup.com/isagsq/issue		isagsq		fulltext		Oxford University Press	serial								F	254547524
+European Heart Journal Open		2752-4191	2021-08-01	1	1				https://academic.oup.com/ehjopen/issue		ehjopen		fulltext		Oxford University Press	serial								F	256866236
+BJR Artificial Intelligence		2976-8705	2024	1	1				https://academic.oup.com/bjrai/issue		bjrai		fulltext		Oxford University Press	serial								F	282439048
+Journal of Veterinary Internal Medicine	0891-6640	1939-1676	1987	1	1				https://www.academic.oup.com/jvim/issue		https:www.academic.oup.comjvim		fulltext		Oxford University Press	serial								F	116990651
+Gastroenterology Report		2052-0034	2013-07-01	1	1				https://academic.oup.com/gastro/issue		gastro		fulltext		Oxford University Press	serial								F	176271767
+Immunotherapy Advances		2732-4303	2020-10-01	1	1				https://academic.oup.com/immunotherapyadv/issue		immunotherapyadv		fulltext		Oxford University Press	serial								F	254274226
+Journal of Molecular Cell Biology	1674-2788	1759-4685	2009-10-01	1	1				https://academic.oup.com/jmcb/issue		jmcb		fulltext		Oxford University Press	serial								F	150071779
+Journal of Law and the Biosciences		2053-9711	2014-03-01	1	1				https://academic.oup.com/jlb/issue		jlb		fulltext		Oxford University Press	serial								F	177874996
+Neuroscience of Consciousness		2057-2107	2015	2015	1				https://academic.oup.com/nc/issue		nc		fulltext		Oxford University Press	serial								F	188859225
+Progress of Theoretical Physics	0033-068X	1347-4081	1996	95	1	2012	128	6	https://academic.oup.com/ptp/issue		ptp		fulltext		Oxford University Press	serial								F	068851405
+Food Quality and Safety	2399-1399	2399-1402	2017-02-01	1	1				https://academic.oup.com/fqs/issue		fqs		fulltext		Oxford University Press	serial								F	204062608
+PNAS Nexus		2752-6542	2022-03-01	1	1				https://academic.oup.com/pnasnexus/issue		pnasnexus		fulltext		Oxford University Press	serial								F	261661213
+FEMS Immunology & Medical Microbiology	0920-8534	1574-695X	1993	6	1	2012	66	9	https://academic.oup.com/femspd/issue		femspd		fulltext		Oxford University Press	serial							0920-8534	F	070749132
+Oxford Open Infrastructure and Health		2753-2410	2023	1	1				https://academic.oup.com/ooih/issue		ooih		fulltext		Oxford University Press	serial								F	271644273
+ATS Scholar		2690-7097	2020-03-01	1	1				https://www.academic.oup.com/atsscholar/issue		https:www.academic.oup.comatsscholar		fulltext		Oxford University Press	serial								F	243400713
+Translational Food Sciences		3049-5202	2025-09-01	1	1				https://academic.oup.com/tfs/issue		tfs		fulltext		Oxford University Press	serial								F	284988820

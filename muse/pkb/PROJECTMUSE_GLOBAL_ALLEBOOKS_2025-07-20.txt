@@ -2,4 +2,3 @@ publication_title	print_identifier	online_identifier	date_first_issue_online	num
 Central American Counterpoetics	9780816552573	9780816552580							https://muse.jhu.edu/book/133332	Alma	133332		fulltext		University of Arizona Press	monograph	2024	2025						P	
 Reading, Writing, and Queer Survival	9781985902428	9781985902435							https://muse.jhu.edu/book/126538	Pendygraft	126538		fulltext		The University Press of Kentucky	monograph	2025	2025						P	
 Rogue Allies	9781985902152	9781985902145							https://muse.jhu.edu/book/126536	Celso	126536		fulltext		The University Press of Kentucky	monograph	2025	2025						P	
-Playing Sociology	9781611864977	9781609177669							https://muse.jhu.edu/book/125209	Tomelleri	125209		fulltext		Michigan State University Press	monograph	2024	2024						P	

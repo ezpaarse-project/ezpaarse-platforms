@@ -1,4 +1,0 @@
-publication_title	print_identifier	online_identifier	date_first_issue_online	num_first_vol_online	num_first_issue_online	date_last_issue_online	num_last_vol_online	num_last_issue_online	title_url	first_author	title_id	embargo_info	coverage_depth	notes	publisher_name	publication_type	date_monograph_published_print	date_monograph_published_online	monograph_volume	monograph_edition	first_editor	parent_publication_title_id	preceding_publication_title_id	access_type	bestppn
-Controlling & Management Review	2195-8262	2195-8270	2000-02-01	44	1				https://www.springer.com/journal/12176		12176		fulltext		Springer Fachmedien Wiesbaden	serial								P	223278602
-NeuroTransmitter	1436-123X	2196-6397	2010	21	1				https://www.springer.com/journal/15016		15016		fulltext		Springer Medizin	serial								P	170349624
-Deutsche Dermatologie	2731-7692	2731-7706	2015	63	1				https://www.springer.com/journal/15011		15011		fulltext		Springer Medizin	serial								P	263316289

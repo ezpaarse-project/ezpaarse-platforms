@@ -280,7 +280,6 @@ UK Economic Accounts	2040-1604		2009	65		2011	75		https://link.springer.com/jour
 United Kingdom Balance of Payments - The Pink Book	0950-7558	2040-1981	2008			2011			https://link.springer.com/journal/41503		41503		fulltext			serial								P	223274208
 United Kingdom National Accounts - The Blue Book	0267-8691		2008	1		2011	4		https://link.springer.com/journal/41505		41505		fulltext			serial								P	
 Urban Development and Megacities	2523-3238	2522-8773							https://link.springer.com/journal/42340		42340		fulltext	new for 2019; content not yet available		serial								P	
-Versicherungsmagazin	1616-1963	2192-8622							http://www.springer.com/finance/journal/35128		35128		fulltext			serial								P	154286400
 Visual Geosciences		1998-2002	1998	3		2008	13		https://link.springer.com/journal/10069		10069		fulltext			serial								P	
 Wasser und Abfall	1436-9095								http://www.springer.com/environment/journal/35152		35152		fulltext			serial								P	
 Water, Air, & Soil Pollution: Focus	1567-7230	1573-2940	2001	1		2009	9		https://link.springer.com/journal/11267		11267		fulltext			serial								P	115421564

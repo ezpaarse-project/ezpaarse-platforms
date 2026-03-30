@@ -1,0 +1,62 @@
+publication_title	print_identifier	online_identifier	date_first_issue_online	num_first_vol_online	num_first_issue_online	date_last_issue_online	num_last_vol_online	num_last_issue_online	title_url	first_author	title_id	embargo_info	coverage_depth	notes	publisher_name	publication_type	date_monograph_published_print	date_monograph_published_online	monograph_volume	monograph_edition	first_editor	parent_publication_title_id	preceding_publication_title_id	access_type	bestppn
+Chemical Physics Reviews		2688-4070	2020-12-01	1	1		6	4	https://pubs.aip.org/aip/cpr/issue		cpr		fulltext		AIP Publishing	serial								P	253699304
+Structural Dynamics		2329-7778	2014	1	1		12	6	https://pubs.aip.org/aca/sdy/issue		sdy		fulltext		American Crystallographic Association, Inc.	serial								F	180534092
+Physics Today	0031-9228	1945-0699	1948-05-01	1	1		78	11	https://pubs.aip.org/physicstoday		pto		fulltext		Physics Today	serial								P	130946281
+APL Photonics		2378-0967	2016-04-01	1	1		10	11	https://pubs.aip.org/aip/app/issue		app		fulltext		AIP Publishing	serial								F	195203984
+Journal of Vacuum Science & Technology B	2166-2746	2166-2754	2010	28	1		43	6	https://pubs.aip.org/avs/jvb/issue		jvb		fulltext		AVS: Science & Technology of Materials, Interfaces, and Processing	serial							jvn	P	159889499
+APL Electronic Devices		2995-8423	2025-03-01	1	1		1	4	https://pubs.aip.org/aip/aed/issue		aed		fulltext		AIP Publishing	serial								F	285768271
+Sound: Its uses and Control	0584-1666		1962	1	1		2	6	https://pubs.aip.org/asa/sou/issue		sou		fulltext		Acoustical Society of America	serial								P	
+APL Energy		2770-9000	2023-06-01	1	1		3	4	https://pubs.aip.org/aip/ape/issue		ape		fulltext		AIP Publishing	serial								F	271956763
+Nanotechnology and Precision Engineering	1672-6030	2589-5540	2018-03-01	1	1		9	1	https://pubs.aip.org/aip/npe/issue		npe		fulltext		AIP Publishing	serial								F	232984409
+Proceedings of Meetings on Acoustics		1939-800X	2007-06-04	1	1				https://pubs.aip.org/asa/poma/issue		poma		fulltext		Acoustical Society of America	serial								F	147870577
+Physics of Fluids A: Fluid Dynamics	0899-8213		1989	1	1				https://pubs.aip.org/aip/pof/issue/5/12		pfa		fulltext		AIP Publishing	serial							pfl	P	156812746
+Biointerphases	1934-8630	1559-4106	2006-03-01	1	1		20	6	https://pubs.aip.org/avs/bip/issue		bip		fulltext		AVS: Science & Technology of Materials, Interfaces, and Processing	serial								P	11834935X
+Journal of Mathematical Physics	0022-2488	1089-7658	1960	1	1		66	11	https://pubs.aip.org/aip/jmp/issue		jmp		fulltext		AIP Publishing	serial								P	040629902
+Journal of Vacuum Science & Technology B: Microelectronics and Nanometer Structures Processing, Measurement, and Phenomena	1071-1023	1520-8567	1991	9	1				https://pubs.aip.org/avs/jvb/issue/27/6		jvn		fulltext		AVS: Science & Technology of Materials, Interfaces, and Processing	serial							jvm	P	040651495
+The Physics Teacher	0031-921X	1943-4928	1963-04-01	1	1		63	9	https://pubs.aip.org/aapt/pte/issue		pte		fulltext		American Association of Physics Teachers	serial								P	128403314
+Acoustics Research Letters Online		1529-7853	2000-07-01	1	1				https://pubs.aip.org/asa/arlo/issue		arlo		fulltext		Acoustical Society of America	serial								F	059183217
+Journal of Laser Applications	1042-346X	1938-1387	1988-10-01	1	1		37	4	https://pubs.aip.org/lia/jla/issue		jla		fulltext		Laser Institute of America	serial								P	128399929
+Journal of Rheology	0148-6055	1520-8516	1978-02-01	22	1		70	1	https://pubs.aip.org/sor/jor/issue		jor		fulltext		The Society of Rheology	serial							tsr	P	037351184
+Physics of Plasmas	1070-664X	1089-7674	1994	1	1				https://pubs.aip.org/aip/pop/issue		pop		fulltext		AIP Publishing	serial							pfb	P	040629929
+Surface Science Spectra	1055-5269	1520-8575	1992-03-01	1	1		32	2	https://pubs.aip.org/avs/sss/issue		sss		fulltext		AVS: Science & Technology of Materials, Interfaces, and Processing	serial								P	037351257
+Applied Physics Reviews		1931-9401	2014-03-01	1	1				https://pubs.aip.org/aip/apr/issue		apr		fulltext		AIP Publishing	serial								P	135530369
+JASA Express Letters		2691-1191	2021	1	1		5	11	https://pubs.aip.org/asa/jel/issue		jel		fulltext		Acoustical Society of America	serial								F	244301751
+Pacific International Conference on Applications of Lasers and Optics			2004-04-01	2004	1		2010	1	https://pubs.aip.org/lia/liacp/pages/picalo		pic		fulltext		Laser Institute of America	serial								P	
+Journal of Vacuum Science & Technology B: Microelectronics Processing and Phenomena	0734-211X	2327-9877	1983	1	1				https://pubs.aip.org/avs/jvb/issue/8/6		jvm		fulltext		AVS: Science & Technology of Materials, Interfaces, and Processing	serial								P	169592839
+AIP Conference Proceedings	0094-243X	1551-7616	1970	1	1				https://pubs.aip.org/aip/acp/issue		acp		fulltext		AIP Publishing	serial								P	094933340
+Journal of Undergraduate Research in Physics and Astronomy		2998-7245	2024-10-01	34	1		34	1	https://pubs.aip.org/aip/jurp/issue		jurp		fulltext		AIP Publishing	serial								P	285768506
+Low Temperature Physics	1063-777X	1090-6517	1997	23	1		51	11	https://pubs.aip.org/aip/ltp/issue		ltp		fulltext		AIP Publishing	serial								P	058047336
+APL Computational Physics		3066-0017	2025-09-01	1	1		1	2	https://pubs.aip.org/aip/aco/issue		aco		fulltext		AIP Publishing	serial								F	
+Physics of Fluids B: Plasma Physics	0899-8221		1989	1	1				https://pubs.aip.org/aip/pfb/issue		pfb		fulltext		AIP Publishing	serial								P	156812762
+AVS Quantum Science		2639-0213	2019-12-01	1	1		7	4	https://pubs.aip.org/avs/aqs/issue		aqs		fulltext		AVS: Science & Technology of Materials, Interfaces, and Processing	serial								P	244188629
+Computers in Physics	0894-1866		1987-11-01	1	1		12	6	https://pubs.aip.org/aip/cip/issue		cip		fulltext		AIP Publishing	serial								P	116256125
+Scilight		2572-7907	2017-06-26	2017	1		2025	48	https://pubs.aip.org/aip/sci/issue		sci		fulltext		AIP Publishing	serial								F	204155525
+Transactions of the Society of Rheology	0038-0032		1957	1	1				https://pubs.aip.org/sor/jor/issue/21/4		tsr		fulltext		The Society of Rheology	serial							rhe	P	
+APL Bioengineering		2473-2877	2017-12-01	1	1		9	4	https://pubs.aip.org/aip/apb/issue		apb		fulltext		AIP Publishing	serial								F	22607143X
+Biophysics Reviews		2688-4089	2020-12-01	1	1		6	3	https://pubs.aip.org/aip/bpr/issue		bpr		fulltext		AIP Publishing	serial								P	253393183
+Journal of Renewable and Sustainable Energy		1941-7012	2009	1	1				https://pubs.aip.org/aip/jrse/issue		jrse		fulltext		AIP Publishing	serial								P	153734507
+MechanoEngineering		3066-9510	2026	1	1		1		https://pubs.aip.org/meg/issue		meg		fulltext		State Key Laboratory of Mechanics and Control for Aerospace Structures	serial								F	
+Journal of Vacuum Science and Technology	0022-5355		1964-09-01	1	1				https://pubs.aip.org/avs/jvst/issue		jvst		fulltext		AVS: Science & Technology of Materials, Interfaces, and Processing	serial								P	174298935
+The Journal of Chemical Physics	0021-9606	1089-7690	1933	1	1		163	20	https://pubs.aip.org/aip/jcp/issue		jcp		fulltext		AIP Publishing	serial								P	040629945
+APL Machine Learning		2770-9019	2023-03-01	1	1		3	4	https://pubs.aip.org/aip/aml/issue		aml		fulltext		AIP Publishing	serial								F	269113614
+Chinese Journal of Chemical Physics	1674-0068	2327-2244	2006-02-01	19	1				https://pubs.aip.org/cps/cjcp/issue		cjcp		fulltext		Chinese Physical Society	serial								P	119747413
+Journal of Applied Physics	0021-8979	1089-7550	1937	8	1		138	20	https://pubs.aip.org/aip/jap/issue		jap		fulltext		AIP Publishing	serial							phy	P	040629880
+American Journal of Physics	0002-9505	1943-2909	1933-02-01	1	1		93	12	https://pubs.aip.org/aapt/ajp/issue		ajp		fulltext		American Association of Physics Teachers	serial								P	155356461
+The Journal of the Acoustical Society of America	0001-4966	1520-8524	1929-10-01	1	1				https://pubs.aip.org/asa/jasa/issue		jasa		fulltext		Acoustical Society of America	serial								P	040651479
+Biomicrofluidics		1932-1058	2007-03-01	1	1		19	6	https://pubs.aip.org/aip/bmf/issue		bmf		fulltext		AIP Publishing	serial								P	118353128
+Journal of Rheology	0097-0360		1929-10-01	1	1				https://pubs.aip.org/sor/rhe/issue		rhe		fulltext		The Society of Rheology	serial								P	
+Journal of Physical and Chemical Reference Data	0047-2689	1529-7845	1972	1	1		54	3	https://pubs.aip.org/aip/jpr/issue		jpr		fulltext		AIP Publishing	serial								P	058352694
+Review of Scientific Instruments	0034-6748	1089-7623	1930	1	1		96	11	https://pubs.aip.org/aip/rsi/issue		rsi		fulltext		AIP Publishing	serial								P	040629899
+International Congress on Applications of Lasers & Electro-Optics			1982-09-01	1982	1		2018	1	https://pubs.aip.org/lia/liacp/pages/icaleo		ica		fulltext		Laser Institute of America	serial								P	
+International Laser Safety Conference			1990-11-01	1990	1		2023	1	https://pubs.aip.org/lia/liacp/pages/ilsc		ils		fulltext		Laser Institute of America	serial								P	
+Matter and Radiation at Extremes	2468-2047	2468-080X	2016	1	1		11	1	https://pubs.aip.org/aip/mre/issue		mre		fulltext		AIP Publishing	serial								F	195681029
+Physics	0148-6349	2163-5102	1931-07-01	1	1				https://pubs.aip.org/aip/jap/issue/7/12		phy		fulltext		AIP Publishing	serial								P	156812835
+APL Materials		2166-532X	2013-07-01	1	1		13	11	https://pubs.aip.org/aip/apm/issue		apm		fulltext		AIP Publishing	serial								F	180529471
+Chaos: An Interdisciplinary Journal of Nonlinear Science	1054-1500	1089-7682	1991-07-01	1	1		35	11	https://pubs.aip.org/aip/cha/issue		cha		fulltext		AIP Publishing	serial								P	040629937
+Journal of Vacuum Science & Technology A	0734-2101	1520-8559	1983	1	1		43	6	https://pubs.aip.org/avs/jva/issue		jva		fulltext		AVS: Science & Technology of Materials, Interfaces, and Processing	serial								P	231930763
+AIP Advances		2158-3226	2011-03-01	1	1		15	11	https://pubs.aip.org/aip/adv/issue		adv		fulltext		AIP Publishing	serial								F	157957748
+APL Quantum		2835-0103	2024-03-01	1	1		2	4	https://pubs.aip.org/aip/apq/issue		apq		fulltext		AIP Publishing	serial								F	27723168X
+Applied Physics Letters	0003-6951	1077-3118	1962-09-01	1	1		127	21	https://pubs.aip.org/aip/apl/issue		apl		fulltext		AIP Publishing	serial								P	058486690
+Noise Control	0549-5865		1955	1	1		7	6	https://pubs.aip.org/asa/noc/issue		noc		fulltext		Acoustical Society of America	serial								P	153914718
+Physics of Fluids	1070-6631	1089-7666	1994	6	1				https://pubs.aip.org/aip/pof/issue		pof		fulltext		AIP Publishing	serial							pfa	P	040629910
+The Physics of Fluids	0031-9171		1958	1	1				https://pubs.aip.org/aip/pfl/issue		pfl		fulltext		AIP Publishing	serial								P	15681272X

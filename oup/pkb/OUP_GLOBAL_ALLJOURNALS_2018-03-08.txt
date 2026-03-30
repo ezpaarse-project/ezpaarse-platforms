@@ -1,6 +1,5 @@
 publication_title	print_identifier	online_identifier	date_first_issue_online	num_first_vol_online	num_first_issue_online	date_last_issue_online	num_last_vol_online	num_last_issue_online	title_url	first_author	title_id	embargo_info	coverage_depth	notes	publisher_name	publication_type	date_monograph_published_print	date_monograph_published_online	monograph_volume	monograph_edition	first_editor	parent_publication_title_id	preceding_publication_title_id	access_type
 American Entomologist	1046-2821	2155-9902	1990	36	1				https://academic.oup.com/ae		ae		fulltext	transfer in (2015): Entomological Society of America		serial								P
-Geophysical Journal International	0956-540X	1365-246X	1958	1	1				https://academic.oup.com/gji		gji		fulltext	2013 takeover from Wiley. It was part of NESLI2 Wiley 2012		serial								P
 Geophysical Supplements to the Monthly Notices of the Royal Astronomical Society	2051-1965	2051-1973	1922	1	1				https://academic.oup.com/gsmnras		gsmnras		fulltext			serial								P
 International Studies Quarterly	0020-8833	1468-2478	1967	11	1				https://academic.oup.com/isq		isq		fulltext	transfer in (2016): Wiley Blackwell.		serial								P
 Journal of Chromatographic Science	0021-9665	1945-239X	1963	1	1				https://academic.oup.com/chromsci		chromsci		fulltext	Transfer in (2012): Preston Publications		serial								P

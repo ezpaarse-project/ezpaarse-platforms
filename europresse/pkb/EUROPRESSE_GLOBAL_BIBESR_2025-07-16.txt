@@ -6,8 +6,6 @@ Pm News (nigeria) (web Site Ref.)			2024-07-15						https://nouveau.Europresse.c
 Diario De Yucatán (sitio Web Ref.)			2024-07-15						https://nouveau.Europresse.com/source/IDJB		IDJB		fulltext	TYPE=Presse Web référencée		serial								P	
 National News Agency (nna) (lebanon)			2015-01-21						https://nouveau.Europresse.com/source/SNAN		SNAN		fulltext	TYPE=Fils de presse		serial								P	
 Tunis Afrique Presse (web Site Ref.)			2024-07-15						https://nouveau.Europresse.com/source/WTAEO		WTAEO		fulltext	TYPE=Presse Web référencée		serial								P	
-Brudirect (web Site Ref.)			2024-07-15						https://nouveau.Europresse.com/source/WBAES		WBAES		fulltext	TYPE=Presse Web référencée		serial								P	
-45e Nord (site Web Réf.)			2024-07-15						https://nouveau.Europresse.com/source/IQUA		IQUA		fulltext	TYPE=Presse Web référencée		serial								P	
 Nigeria Communicationsweek (web Site Ref.)			2024-07-15						https://nouveau.Europresse.com/source/WNACE		WNACE		fulltext	TYPE=Presse Web référencée		serial								P	
 Daily News Egypt (web Site Ref.)			2024-07-15						https://nouveau.Europresse.com/source/WDABC		WDABC		fulltext	TYPE=Presse Web référencée		serial								P	
 Morocco World News (web Site Ref.)			2024-07-15						https://nouveau.Europresse.com/source/WMABY		WMABY		fulltext	TYPE=Presse Web référencée		serial								P	

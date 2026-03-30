@@ -1,0 +1,121 @@
+publication_title	print_identifier	online_identifier	date_first_issue_online	num_first_vol_online	num_first_issue_online	date_last_issue_online	num_last_vol_online	num_last_issue_online	title_url	first_author	title_id	embargo_info	coverage_depth	notes	publisher_name	publication_type	date_monograph_published_print	date_monograph_published_online	monograph_volume	monograph_edition	first_editor	parent_publication_title_id	preceding_publication_title_id	access_type	bestppn
+European Journal of Economic and Social Systems	1292-8895	1292-8909	1999	13	1	2001	15	3	https://ejess.edpsciences.org		ejess		fulltext		EDP Sciences	serial								F	048897507
+Journal de Physique II	1155-4312	1286-4870	1991	1	1	1997	7	12	https://jp2.journaldephysique.org		jp2		fulltext		EDP Sciences	serial								P	040652467
+Europhysics News	0531-7479	1432-1092	1968	1	1				https://www.europhysicsnews.org		epn		fulltext		EDP Sciences	serial								F	044892063
+J3eA		1638-5705	2002	1					https://www.j3ea.org		j3ea		fulltext		EDP Sciences	serial								F	076283135
+Le Journal de Physique Colloques	0449-1947	2777-3418	1966	27	C1	1990	51	C7	https://jphyscol.journaldephysique.org		jphyscol		fulltext		EDP Sciences	serial								P	254284256
+Ciência e Técnica Vitivinícola	0254-0223	2416-3953	2014	29	1				https://www.ctv-jve-journal.org		ctv		fulltext		EDP Sciences	serial								F	18276169X
+Cahiers de l'Association Scientifique Européenne pour l'Eau et la Santé	1027-4820	2105-1143	1996	1	1	2017	22		https://asees.water-quality-journal.org		asees		fulltext		EDP Sciences	serial								P	143743341
+Astronomy and Astrophysics Supplement Series	0365-0138	1286-4846	1996	116	2	2000	147	3	https://aas.aanda.org		aas		fulltext		EDP Sciences	serial								F	040654400
+E3S Web of Conferences	2555-0403	2267-1242	2013	1					https://www.e3s-conferences.org		e3sconf		fulltext		EDP Sciences	serial								F	170652459
+Actualités Odonto-Stomatologiques	0001-7817	1760-611X	2007		237	2018		290	https://aos.edpsciences.org		aos		fulltext		EDP Sciences	serial								F	131778420
+Le Nouveau Praticien Vétérinaire équine	1767-5081	2970-0868	2012	8	28				https://equine.le-nouveau-praticien-veterinaire.org		npvequi		fulltext	Before 2022 only abstracts are available	EDP Sciences	serial								P	269705597
+EPJ Web of Conferences	2101-6275	2100-014X	2009	1					https://www.epj-conferences.org		epjconf		fulltext		EDP Sciences	serial								F	133158411
+National Science Open	2097-1168	2097-1400	2022	1	1				https://www.nso-journal.org		nso		fulltext		EDP Sciences	serial								F	264934229
+Annales de Toxicologie Analytique	0768-598X	1961-9480	2000	12	1	2013	25	4	https://www.ata-journal.org		ata		fulltext		EDP Sciences	serial								F	124308228
+Revue de Physique Appliquée	0035-1687	2777-3671	1966	1	1	1990	25	12	https://rphysap.journaldephysique.org		rphysap		fulltext		EDP Sciences	serial								P	25428440X
+EPJ Nuclear Sciences & Technologies		2491-9292	2015	1					https://www.epj-n.org		epjn		fulltext		EDP Sciences	serial								F	192662007
+Oil & Gas Science and Technology  Revue dIFP Energies nouvelles	1294-4475	1953-8189	1999	54	1	2021	76		https://ogst.ifpenergiesnouvelles.fr		ogst		fulltext		EDP Sciences	serial							ogst	F	145456897
+Fruits	0248-1294	1625-967X	2001	56	1	2016	71	6	https://fruits.edpsciences.org		fruits		fulltext		EDP Sciences	serial								F	057939160
+EAS Publications Series	1633-4760	1638-1963	2001	1		2019	82		https://www.eas-journal.org		eas		fulltext	No volume published in 2017 and 2018. Last volume 82 postponed in 2019	EDP Sciences	serial								P	076283003
+Xibei Gongye Daxue Xuebao/Journal of Northwestern Polytechnical University	1000-2758	2609-7125	2018	36	1				https://www.jnwpu.org		jnwpu		fulltext		EDP Sciences	serial								F	231604823
+International Journal of Metrology and Quality Engineering		2107-6847	2010	1	1				https://www.metrology-journal.org		ijmqe		fulltext		EDP Sciences	serial								F	145458768
+The Journal of ExtraCorporeal Technology	0022-1058	2969-8960	1996	1					https://ject.edpsciences.org		ject		fulltext		EDP Sciences	serial								F	269312307
+L'Orthodontie Française	1966-5202	1954-3395	2000	71	1	2019	90	3-4	https://orthodfr.edpsciences.org		orthodfr		fulltext		EDP Sciences	serial								P	11543478X
+Astronomy & Astrophysics	0004-6361	1432-0746	2001	365	1				https://www.aanda.org		aa		fulltext	Subscribe-to-open programme since 2022 : to be evaluated every year	EDP Sciences	serial								F	114196958
+Silva Lusitana	0870-6352	2183-0363	2020	28	1				https://silva-lusitana.edpsciences.org		silu		fulltext		EDP Sciences	serial								F	174288107
+Le Radium	0370-3223	2437-2455	1904	1	1	1919	11	11-12	https://radium.journaldephysique.org		radium		fulltext		EDP Sciences	serial								P	183838505
+Climatologie		2413-5380	2004	1					https://climatology.edpsciences.org		climat		fulltext		EDP Sciences	serial								F	189340363
+Droit et Médecine Bucco-Dentaire	2116-1321	2116-133X	2011	1	1	2012	2	3-4	https://www.rdmbd.org		dmbd		fulltext		EDP Sciences	serial								P	156449986
+Mécanique & Industries	1296-2139	1765-2960	2004	5	1	2011	12	6	https://www.mechanics-industry.org		meca		fulltext		EDP Sciences	serial								F	078591961
+Terahertz Science and Technology		1941-7411	2020	13	1	2021	14	2	https://tst.edpsciences.org		tst		fulltext		EDP Sciences	serial								F	136189024
+Acta Acustica		2681-4617	2020	4	1				https://acta-acustica.edpsciences.org		aacus		fulltext		EDP Sciences	serial								F	242997635
+The European Physical Journal Applied Physics	1286-0042	1286-0050	1998	1	1				https://www.epjap.org		epjap		fulltext		EDP Sciences	serial								P	040654338
+Photoniques	1629-4475	2269-8418	2008		37				https://www.photoniques.com		photon		fulltext		EDP Sciences	serial								F	174855915
+Journal of the European Optical Society-Rapid Publications		1990-2573	2006	1					https://jeos.edpsciences.org		jeos		fulltext		EDP Sciences	serial								F	223271624
+Journal de Physique I	1155-4304	1286-4862	1991	1	1	1997	7	12	https://jp1.journaldephysique.org		jp1		fulltext		EDP Sciences	serial								P	040652459
+MATEC Web of Conferences	2274-7214	2261-236X	2012	1					https://www.matec-conferences.org		matecconf		fulltext		EDP Sciences	serial								F	166197696
+4open		2557-0250	2018	1		2023	6		https://www.4open-sciences.org		fopen		fulltext		EDP Sciences	serial								F	219998167
+Perspectives Psy	0031-6032	2118-4038	2004	43	1				https://www.perspectives-psy.org		ppsy		fulltext		EDP Sciences	serial								P	150142404
+BSGF - Earth Sciences Bulletin	0037-9409	1777-5817	2018	189	1				https://www.bsgf.fr		bsgf		fulltext		EDP Sciences	serial							bsgf	F	104152559
+Thérapie	0040-5957	1958-5578	2003	58	1	2015	70	6	https://www.journal-therapie.org		therapie		fulltext	Transfer of publisher from 2016	EDP Sciences	serial								P	121373150
+ITM Web of Conferences	2431-7578	2271-2097	2013	1					https://www.itm-conferences.org		itmconf		fulltext		EDP Sciences	serial								F	175967091
+Microscopy Microanalysis Microstructures	1154-2799	2777-3558	1990	1	1	1997	8	6	https://mmm.edpsciences.org		mmm		fulltext		EDP Sciences	serial								F	254284361
+Natures Sciences Sociétés	1240-1307	1765-2979	1993	1	1				https://www.nss-journal.org		nss		fulltext		EDP Sciences	serial								F	07859197X
+Journal de Physique III	1155-4320	1286-4897	1991	1	1	1997	7	12	https://jp3.journaldephysique.org		jp3		fulltext		EDP Sciences	serial								P	040652475
+Quadrature	1142-2785	1760-4826	2002		46	2010		77	https://www.quadrature-journal.org		quadrature		fulltext		EDP Sciences	serial								P	128396547
+Les Cahiers de Myologie	2108-2219	2496-1558	2016		13				https://www.cahiers-myologie.org		myolog		fulltext		EDP Sciences	serial								F	199153140
+BIO Web of Conferences	2273-1709	2117-4458	2011	1					https://www.bio-conferences.org		bioconf		fulltext		EDP Sciences	serial								F	159167132
+EPJ Nonlinear Biomedical Physics		2195-0008	2013	1	1	2017	5		https://www.epj-nbp.org		epjnbp		fulltext		EDP Sciences	serial								F	177940212
+Revue Française de Géotechnique	0181-0529	2493-8653	1977		1				https://www.geotechnique-journal.org		geotech	P24M	fulltext	Journal suspended from 2014 to the end of 2015	EDP Sciences	serial								F	194033376
+Education Thérapeutique du Patient - Therapeutic Patient Education	2100-0808	2100-0816	2009	1	1				https://www.etp-journal.org		tpe		fulltext		EDP Sciences	serial								P	136058477
+Journal de Physique Théorique et Appliquée	0368-3893	2507-6485	1872	1	1	1919	9	1	https://jphystap.journaldephysique.org		jphystap		fulltext		EDP Sciences	serial								P	192678272
+Dairy Science & Technology	1958-5586	1958-5594	2008	88	1	2010	90	6	https://www.dairy-journal.org		dst		fulltext		EDP Sciences	serial							lait	F	123683173
+Journal de Physique Lettres	0302-072X	2777-3434	1974	35	1	1985	46	24	https://jphyslet.journaldephysique.org		jphyslet		fulltext		EDP Sciences	serial								P	254284272
+Environmental Biosafety Research	1635-7922	1635-7930	2002	1	1	2011	10	4	https://www.ebr-journal.org		ebr		fulltext		EDP Sciences	serial								F	073630810
+Integrative Respiratory Medicine		2740-4277	2020	1		2020	1		https://irm.edpsciences.org		irm		fulltext		EDP Sciences	serial								F	250479788
+RAIRO - Theoretical Informatics and Applications	0988-3754	2804-7346	2021	55					https://www.rairo-ita.org		ita		fulltext	Subscribe-to-open programme since 2021: to be evaluated every year	EDP Sciences	serial							ita	F	260892165
+La Houille Blanche	0018-6368	1958-5551	1902		1	2000		7-8	https://www.shf-lhb.org		lhb		fulltext		EDP Sciences	serial								F	121373134
+Journal de Physique	0302-0738	2777-3396	1963	24	2	1990	51	24	https://jphys.journaldephysique.org		jphys		fulltext		EDP Sciences	serial								P	254284248
+Emergent Scientist		2556-8779	2017	1					https://emergent-scientist.edp-open.org		emsci		fulltext		EDP Sciences	serial								F	219528438
+Journal de Physique IV (Proceedings)	1155-4339	1764-7177	1991	1	C1	2006	139		https://jp4.journaldephysique.org		jp4		fulltext		EDP Sciences	serial								P	076285537
+Journal of Space Weather and Space Climate		2115-7251	2011	1	1				https://www.swsc-journal.org		swsc		fulltext		EDP Sciences	serial								F	157103161
+Le Lait	0023-7302	1297-9694	1921	1	1	2007	87	6	https://lait.dairy-journal.org		lait		fulltext		EDP Sciences	serial								F	048897698
+Journal of Dentofacial Anomalies and Orthodontics		2110-5715	2008	11	1	2018	21	4	https://www.jdao-journal.org		odfen		fulltext		EDP Sciences	serial								F	150073267
+Bulletin Français de la Pêche et de la Pisciculture	0767-2861	2777-3450	1985		296	2007		387	https://www.kmae-journal.org		kmae		fulltext		EDP Sciences	serial							kmae	F	254284299
+International Journal for Simulation and Multidisciplinary Design Optimization		1779-6288	2007	1	1				https://www.ijsmdo.org		smdo		fulltext	No issues published in 2011, 2012 and 2013	EDP Sciences	serial								F	123679834
+Bulletin de la Société Française de Physique	0037-9360	2259-5295	1993		89	2006		155	https://www.refletsdelaphysique.fr		refdp		fulltext		EDP Sciences	serial								F	17429087X
+Analusis	0365-4877	1286-482X	1998	26	1	2000	28	10	https://analusis.edpsciences.org		analusis		fulltext		EDP Sciences	serial								F	040654389
+Histoire Epistémologie Langage	0750-8069	1638-1580	2015	37	1	2020	42	2	https://www.hel-journal.org		hel		fulltext		EDP Sciences	serial								F	090133749
+Sustainable Buildings		2492-6035	2016	1					https://www.sustainable-buildings-journal.org		sbuild		fulltext		EDP Sciences	serial								F	19324442X
+Journal of Oral Medicine and Oral Surgery		2608-1326	2018	24	1				https://www.jomos.org		mbcb		fulltext		EDP Sciences	serial							mbcb	F	226900924
+Manufacturing Review		2265-4224	2014	1					https://mfr.edp-open.org		mfreview		fulltext		EDP Sciences	serial								F	169700240
+Annales de Physique	0003-4169	1286-4838	1914	9	1	2009	34	6	https://www.annphys.org		anphys		fulltext		EDP Sciences	serial								P	040654397
+psychologie clinique	1145-1882	2118-4224	2009		27				https://www.psycho-clinique.org		psyc		fulltext		EDP Sciences	serial								P	150139632
+Regenerative Medicine Research		2050-490X	2013	1		2021	9		https://www.regenmedres-journal.org		rmr		fulltext		EDP Sciences	serial								F	174852479
+Bulletin de lUnion Nationale pour lIntérêt de lOrthopédie Dento-Faciale	1768-9775	2269-8906	2006		31	2011		44	https://www.uniodf-journal.org		uniodf		fulltext		EDP Sciences	serial								F	174856105
+Journal de Physique Appliquée	1160-8161		1951	12	S8	1964	25	S11	https://jphysap.journaldephysique.org		jphysap		fulltext		EDP Sciences	serial								P	204740681
+RAIRO - Recherche opérationnelle	0399-0559	1290-3868	1977	11	1	1998	32	4	https://www.rairo-ro.org		ro		fulltext		EDP Sciences	serial							ro	F	04889740X
+Wuhan University Journal of Natural Sciences	1007-1202	1993-4998	2021	26	6				https://wujns.edpsciences.org		wujns		fulltext		EDP Sciences	serial								F	133942783
+Annales de Parasitologie Humaine et Comparée	0003-4150	2772-4042	1923	1	1	1993	68	5-6	https://www.parasite-journal.org		parasite		fulltext	2 missing issues: 1971 (vol 46/3) 1972, (vol 47/5)	EDP Sciences	serial								F	220961018
+Research & Design of Nuclear Engineering		3095-7788	2025	1					https://rdne.edpsciences.org		rdne		fulltext		EDP Sciences	serial								F	286887215
+Renewable Energy and Environmental Sustainability		2493-9439	2016	1					https://www.rees-journal.org		rees		fulltext		EDP Sciences	serial								F	194033481
+Revue d'Orthopédie Dento-Faciale	0337-9736	2110-543X	1967	1	1				https://odf.edpsciences.org		odf		fulltext		EDP Sciences	serial								P	147872626
+EPJ Photovoltaics		2105-0716	2010	1					https://www.epj-pv.org		epjpv		fulltext		EDP Sciences	serial								F	151146829
+Annales des Sciences Forestières	0003-4312	1878-6545	1964	21	1	1998	55	8	https://www.afs-journal.org		forest		fulltext		EDP Sciences	serial								F	12780160X
+Médecine & Nutrition	0398-7604	2110-5405	2005	41	1	2013	49	4	https://www.medecine-nutrition.org		mnut		fulltext		EDP Sciences	serial								P	147872596
+Science and Technology for Energy Transition		2804-7699	2022	77					https://www.stet-review.org		stet		fulltext		EDP Sciences	serial							ogst	F	260677213
+Le Nouveau Praticien Vétérinaire élevages & santé	1777-7232	2970-0892	2013	6	24				https://elevages-et-sante.le-nouveau-praticien-veterinaire.org		npvelsa		fulltext	Before 2022 only abstracts are available	EDP Sciences	serial								P	269705627
+ESAIM: Probability and Statistics	1292-8100	1262-3318	2021	25					https://www.esaim-ps.org		ps		fulltext	Subscribe-to-open programme since 2021: to be evaluated every year	EDP Sciences	serial								F	040652742
+Le Nouveau Praticien Vétérinaire canine & féline	1637-3065	2970-0825	2011	10	47				https://canine-feline.le-nouveau-praticien-veterinaire.org		npvcafe		fulltext	Before 2022 only abstracts are available	EDP Sciences	serial								P	269705570
+Security and Safety		2826-1275	2022	1					https://sands.edpsciences.org		sands		fulltext		EDP Sciences	serial								F	263998665
+Radioprotection	0033-8451	1769-700X	2024	59	1				https://www.radioprotection.org		radiopro		fulltext	Subscribe-to-open programme since 2024: to be evaluated every year	EDP Sciences	serial								F	090142071
+Pédagogie Médicale	1625-6484	1627-4784	2000	1	1				https://www.pedagogie-medicale.org		pmed	R24M	fulltext		EDP Sciences	serial								P	058855521
+Reproduction Nutrition Développement	0181-1916		1980	20	1A	1988	28	S1	https://rnd.edpsciences.org		rnd		fulltext		EDP Sciences	serial							rnd	F	279690746
+ESAIM: Control, Optimisation and Calculus of Variations	1292-8119	1262-3377	2021	27					https://www.esaim-cocv.org		cocv		fulltext	Subscribe-to-open programme since 2021: to be evaluated every year	EDP Sciences	serial								F	040652750
+Science & Motricité	1378-1863	1782-1541	2002		45	2011		74	https://www.mov-sport-sciences.org		sm		fulltext		EDP Sciences	serial								P	099211726
+médecine/sciences	0767-0974	1958-5381	2001	17	11				https://www.medecinesciences.org		medsci	P12M	fulltext		EDP Sciences	serial								F	10252808X
+Génétique Sélection Évolution	0754-0264	2056-4562	1983	15	1	1988	20	4	https://www.gse-journal.org		gse		fulltext		EDP Sciences	serial							gse	F	180712527
+SHS Web of Conferences	2416-5182	2261-2424	2012	1					https://www.shs-conferences.org		shsconf		fulltext		EDP Sciences	serial								F	16619770X
+Visualized Cancer Medicine		2740-4218	2020	1					https://vcm.edpsciences.org		vcm		fulltext		EDP Sciences	serial								F	25047977X
+Hydroécologie Appliquée	1147-9213	1958-556X	1989	1					https://www.hydroecologie.org		hydro		fulltext	Irregular	EDP Sciences	serial								F	121373142
+Journal européen dhydrologie	1023-6368		1994	25	1	2003	34	2	https://www.water-quality-journal.org		wqual		fulltext		EDP Sciences	serial							wqual	P	204740606
+ESAIM: Proceedings		1270-900X	1996	1		2014	44		https://www.esaim-proc.org		proc		fulltext		EDP Sciences	serial								F	040652904
+Journal de Chimie Physique et de Physico-Chimie Biologique	0021-7689	1878-7169	1998	95	1	1999	96	9-10	https://jcp.edpsciences.org		jcp		fulltext		EDP Sciences	serial							jcp	P	136056385
+Mathematical Modelling of Natural Phenomena	0973-5348	1760-6101	2020	15					https://www.mmnp-journal.org		mmnp		fulltext	Subscribe-to-open programme since 2020: to be evaluated every year	EDP Sciences	serial								F	131143646
+Revue Générale Nucléaire	0335-5004	2777-3655	1975		1				https://rgn.publications.sfen.org		rgn		fulltext		EDP Sciences	serial								P	254284396
+ESAIM: Mathematical Modelling and Numerical Analysis	2822-7840	2804-7214	2017	51	1	2020	54	6	https://www.esaim-m2an.org		m2an		fulltext		EDP Sciences	serial							m2an	P	260627089
+Agronomy for Sustainable Development	1774-0746	1773-0155	2005	25	1	2010	30	4	https://www.agronomy-journal.org		agro		fulltext		EDP Sciences	serial							agro	P	085227366
+Annales de Zootechnie	0003-424X	1297-9651	1952	1	1	2000	49	6	https://animres.edpsciences.org		animres		fulltext		EDP Sciences	serial								F	048897655
+La Pratique des Industries Mécaniques	0399-1113	2777-3523	1923	6	9	1969	52	12	https://www.mattech-journal.org		mattech		fulltext		EDP Sciences	serial							mattech	P	254284345
+Biologie Aujourdhui	2105-0678	2105-0686	2010	204	1				https://www.biologie-journal.org		jbio	P24M	fulltext		EDP Sciences	serial							jbio	F	147872162
+Aquatic Living Resources	0990-7440	1765-2952	1988	1	1				https://www.alr-journal.org		alr		fulltext		EDP Sciences	serial								F	069766258
+Annales de l'Abeille	0570-1597	2777-3302	1958	1	1	1968	11	4	https://www.apidologie.org		apido		fulltext		EDP Sciences	serial								F	254284213
+OCL	2272-6977	2257-6614	2013	20	4				https://www.ocl-journal.org		ocl		fulltext		EDP Sciences	serial							ocl	F	174290748
+Journal de Physique et le Radium	0368-3842	2777-3442	1920	1	1	1963	24	1	https://jphysrad.journaldephysique.org		jphysrad		fulltext		EDP Sciences	serial								P	254284280
+SICOT-J		2426-8887	2015	1					https://www.sicot-j.org		sicotj		fulltext		EDP Sciences	serial								F	187168512
+Annales de Limnologie - International Journal of Limnology	0003-4088	2100-000X	1965	1	1	2021	57		https://www.limnology-journal.org		limn		fulltext		EDP Sciences	serial								F	15373499X
+Cahiers Agricultures	1166-7699	1777-5949	2014	23	1				https://www.cahiersagricultures.fr		cagri		fulltext		EDP Sciences	serial								F	116269537
+Veterinary Research	0928-4249	1297-9716	2000	31	1	2010	41	6	https://www.vetres.org		vetres		fulltext		EDP Sciences	serial								F	04889771X
+Metallurgical Research & Technology	2271-3646	2271-3654	2014	111	1				https://www.metallurgical-research.org		metal		fulltext		EDP Sciences	serial							metal	P	176274812
+EPJ Applied Metamaterials		2272-2394	2014	1					https://epjam.edp-open.org		epjam		fulltext		EDP Sciences	serial								F	187248109

@@ -92,7 +92,6 @@ LinkedIn - Énergie/Energy (FR)			2015-02-09			2015-05-07			http://nouveau.Europ
 LinkedIn - Génie conseil/Consulting Engineering (FR) (archives)			2015-01-30			2015-05-06			http://nouveau.Europresse.com		LIAHF		fulltext			serial								P	
 LinkedIn - Pharmaceutique/Pharmaceutical (CA) (archives)									http://nouveau.Europresse.com		LIAHU		fulltext			serial								P	
 LinkedIn - Pharmaceutique/Pharmaceutical (FR) (archives)			2015-01-29			2015-05-07			http://nouveau.Europresse.com		LIAHY		fulltext			serial								P	
-Management	1627-4792		2020						http://nouveau.Europresse.com		LUIQ		fulltext	Abonnement optionnel		serial								P	
 Market Rasen Mail (UK) (web site ref.)			2023-08-28			2024-05-27			http://nouveau.Europresse.com		WMADL		fulltext			serial								P	
 Moneylife (web site ref.)			2023-08-28						http://nouveau.Europresse.com		WMAEO		fulltext			serial								P	
 Monterey County Weekly (CA) (web site ref.)			2023-08-30						http://nouveau.Europresse.com		WMAEQ		fulltext			serial								P	
@@ -287,7 +286,6 @@ Tri-City Herald (Kennewick, WA) (web site ref.)			2023-08-28						http://nouveau
 TripAdvisor Canada (web site ref.)			2023-08-30						http://nouveau.Europresse.com		WTABP		fulltext			serial								P	
 U.S. Consumer Product Safety Commission (web site ref.)			2023-08-31						http://nouveau.Europresse.com		WUABM		fulltext			serial								P	
 U.S. Department of Health and Human Services (web site ref.)			2023-08-30						http://nouveau.Europresse.com		WHACX		fulltext			serial								P	
-Urgent Communications (web site ref.)			2023-08-30						http://nouveau.Europresse.com		WUABT		fulltext			serial								P	
 Vedura (site web réf.)			2023-11-07						http://nouveau.Europresse.com		WVABY		fulltext			serial								P	
 Ventures Africa (web site ref.)			2023-08-28						http://nouveau.Europresse.com		WVABR		fulltext			serial								P	
 Vice (Quebec, QC) (web site ref.)			2023-08-28						http://nouveau.Europresse.com		WVAAW		fulltext			serial								P	
