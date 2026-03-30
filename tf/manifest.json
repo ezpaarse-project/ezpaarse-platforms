@@ -1,32 +1,24 @@
 {
+  "name": "tf",
+  "longname": "Taylor & Francis",
+  "publisher_name": "Taylor & Francis Group",
   "version": "2015-03-25",
   "status": "beta",
   "trello": "https://trello.com/c/az0rvaBM",
+  "describe": "Identifie les consultations de la plateforme Taylor et Francis",
+  "docurl": "http://analyses.ezpaarse.org/platforms/541193b481c2f0f53c3ec3ee",
+  "contact": "dominique point lechaudel at inist point fr",
+  "pkb": true,
   "domains": [
     "www.tandfonline.com",
     "api.taylorfrancis.com",
     "www.taylorfrancis.com"
   ],
-  "recognize": {
-    "rid": [
-      "title_id",
-      "unitid"
-    ],
-    "rtype": [
-      "ARTICLE",
-      "TOC",
-      "ABS"
-    ],
-    "mime": [
-      "HTML",
-      "PDF"
+  "bacon": {
+    "provider": "TAYLORFRANCIS",
+    "matches": [
+      "GLOBAL_ALLJOURNALS",
+      "GLOBAL_ALLEBOOKS"
     ]
-  },
-  "name": "tf",
-  "longname": "Taylor & Francis",
-  "publisher_name": "Taylor & Francis Group",
-  "describe": "Identifie les consultations de la plateforme Taylor et Francis",
-  "docurl": "http://analyses.ezpaarse.org/platforms/541193b481c2f0f53c3ec3ee",
-  "contact": "dominique point lechaudel at inist point fr",
-  "pkb": true
+  }
 }

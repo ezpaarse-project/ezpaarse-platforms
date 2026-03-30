@@ -9,30 +9,15 @@
   "docurl": "http://analyses.ezpaarse.org/platforms/53fc4d80b8ef26c42570eafa",
   "contact": "karine.delvert at univ-paris1 point fr",
   "pkb": true,
-  "bacon": {
-    "provider": "JSTOR",
-    "matches": ["GLOBAL"]
-  },
   "domains": [
     "www.jstor.org",
     "about.jstor.org"
   ],
-  "recognize": {
-    "rid": [
-      "title_id",
-      "doi",
-      "unitid"
-    ],
-    "rtype": [
-      "TOC",
-      "BOOK_SECTION",
-      "ARTICLE",
-      "ABS"
-    ],
-    "mime": [
-      "HTML",
-      "PDF",
-      "MISC"
+  "bacon": {
+    "provider": "JSTOR",
+    "matches": [
+      "GLOBAL_ALLEBOOKS",
+      "COUPERIN_ALLJOURNALS"
     ]
   }
 }

@@ -1,6 +1,12 @@
 {
+  "name": "brill",
+  "longname": "Brill",
+  "describe": "Identifie les consultations de la plateforme Brill",
+  "docurl": "http://analyses.ezpaarse.org/platforms/53a983d7e393a5f030450064",
+  "contact": "abderrazzak.loukili@inist.fr",
   "version": "2015-12-09",
   "status": "beta",
+  "pkb": false,
   "domains": [
     "brill.com",
     "www.brill.com",
@@ -12,32 +18,10 @@
     "primarysources.brillonline.com",
     "brillonline.com"
   ],
-  "recognize": {
-    "rid": [
-      "title_id",
-      "doi",
-      "unitid",
-      "vol",
-      "issue",
-      "issn",
-      "isbn"
-    ],
-    "rtype": [
-      "TOC",
-      "ARTICLE",
-      "ABS",
-      "BOOK_SECTION"
-    ],
-    "mime": [
-      "PDF",
-      "HT",
-      "HTML"
+  "bacon": {
+    "provider": "BRILL",
+    "matches": [
+      "GLOBAL_ALLEBOOKS"
     ]
-  },
-  "name": "brill",
-  "longname": "Brill",
-  "describe": "Identifie les consultations de la plateforme Brill",
-  "docurl": "http://analyses.ezpaarse.org/platforms/53a983d7e393a5f030450064",
-  "contact": "abderrazzak.loukili@inist.fr",
-  "pkb": false
+  }
 }

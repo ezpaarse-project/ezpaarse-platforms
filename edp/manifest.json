@@ -13,6 +13,8 @@
   "pkb-domains": "title_url",
   "bacon": {
     "provider": "EDPSCIENCES",
-    "matches": ["GLOBAL"]
+    "matches": [
+      "GLOBAL_ALLJOURNALS"
+    ]
   }
 }
