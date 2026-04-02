@@ -51,7 +51,7 @@ module.exports = new Parser(function analyseEC(parsedUrl, ec) {
       if (goto) {
         let gotoMatch = /\[page_([^\]]+)\]/.exec(goto);
         if (!gotoMatch) {
-           gotoMatch = /\[p(\d+)\]/.exec(goto);
+          gotoMatch = /\[p(\d+)\]/.exec(goto);
         }
         if (gotoMatch) {
           result.first_page = gotoMatch[1];
