@@ -1,0 +1,11 @@
+{
+  "name": "aspenlearninglibrary",
+  "longname": "AspenLearningLibrary",
+  "version": "2026-04-01",
+  "describe": "Parser for Aspen Learning Library platform",
+  "docurl": "https://analyses.ezpaarse.org/platforms/69cd91d0eaca258d35a0324f",
+  "domains": ["aspenlearninglibrary.com"],
+  "contact": "Violita Kovchegov",
+  "pkb": false,
+  "status": "beta"
+}
