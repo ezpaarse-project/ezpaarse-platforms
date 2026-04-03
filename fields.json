@@ -390,6 +390,10 @@
       "code": "ORGANISATION",
       "description": "consultation d'une fiche d'information sur une organisation",
       "description_en": "consultation of the information sheet of on organisation"
+    },{
+      "code": "API_JOB",
+      "description": "Demande de traitement à une API (type service web)",
+      "description_en": "Request for processing to an API (type web service)"
     }
   ],
   "other": [
