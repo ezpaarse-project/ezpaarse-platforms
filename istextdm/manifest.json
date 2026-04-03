@@ -1,0 +1,11 @@
+{
+  "longname": "Webservices Istex TDM",
+  "name": "istextdm",
+  "describe": "Recognizes the accesses to the platform Webservices Istex TDM",
+  "contact": "ez PAARSE",
+  "pkb": false,
+  "docurl": "https://analyses.ezpaarse.org/platforms/69cfad1525f2b3c0981d0ad6",
+  "domains": [],
+  "version": "2026-04-03",
+  "status": "beta"
+}

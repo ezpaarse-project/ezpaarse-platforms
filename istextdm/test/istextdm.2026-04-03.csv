@@ -1,0 +1,2 @@
+out-unitid;out-sid;out-rtype;out-mime;in-url
+/v1/is-retracted;bibcnrs;API_JOB;;/v1/is-retracted?sid=bibcnrs
