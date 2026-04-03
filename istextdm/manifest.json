@@ -5,7 +5,9 @@
   "contact": "ez PAARSE",
   "pkb": false,
   "docurl": "https://analyses.ezpaarse.org/platforms/69cfad1525f2b3c0981d0ad6",
-  "domains": [],
+  "domains": [
+    "services.istex.fr"
+  ],
   "version": "2026-04-03",
   "status": "beta"
 }
