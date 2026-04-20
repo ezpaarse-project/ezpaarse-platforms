@@ -91,7 +91,7 @@ module.exports = new Parser(function analyseEC(parsedUrl, ec) {
     result.title_id = match[2];
   }
 
-  else if ((match = /^\/[^magazine-issues][a-z-]+\/(([A-Z]+).+)$/.exec(path)) !== null) {
+  else if ((match = /^\/[a-z-]+\/(([A-Z]+)[a-zA-Z0-9_-]+)$/.exec(path)) !== null && match[1] !== 'magazine-issues') {
     //https://www.lextenso.fr/lessentiel-droit-des-contrats/EDCO-116023-11602
     //https://www.lextenso.fr/petites-affiches/PA199902103
     //https://www.lextenso.fr/petites-affiches/PA201602202
