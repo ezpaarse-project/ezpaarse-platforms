@@ -1,0 +1,175 @@
+publication_type	publication_title	print_identifier	online_identifier	date_first_issue_online	num_first_vol_online	num_first_issue_online	date_last_issue_online	num_last_vol_online	num_last_issue_online	title_url	first_author	title_id	embargo_info	coverage_depth	coverage_notes	publisher_name
+book	Abernathy's Surgical Secrets	9780323478731		2018						https://www.clinicalkey.com/student/content/toc/3-s2.0-C20150066795	Albuja-Cruz	3-s2.0-C20150066795		fulltext		Elsevier
+book	Abrahams' and McMinn's Clinical Atlas of Human Anatomy	9780702073328		2020						https://www.clinicalkey.com/student/content/toc/3-s2.0-C20160031704	Abrahams	3-s2.0-C20160031704		fulltext		Elsevier
+book	Anesthesia Secrets	9780443128226		2026						https://www.clinicalkey.com/student/content/toc/3-s2.0-C20230004800	Ansari	3-s2.0-C20230004800		fulltext		Elsevier
+book	Anesthesiology and Critical Care Morning Report	9780323847766		2024						https://www.clinicalkey.com/student/content/toc/3-s2.0-C20200038867	Cannon	3-s2.0-C20200038867		fulltext		Elsevier
+book	Basic Immunology: Functions and Disorders of the Immune System	9780443105197		2024						https://www.clinicalkey.com/student/content/toc/3-s2.0-C20210033009	Abbas	3-s2.0-C20210033009		fulltext		Elsevier
+book	Before We Are Born	9780443116971		2025						https://www.clinicalkey.com/student/content/toc/3-s2.0-C20220018171	Persaud	3-s2.0-C20220018171		fulltext		Elsevier
+book	Berne & Levy Physiology	9780323847902		2024						https://www.clinicalkey.com/student/content/toc/3-s2.0-C20200000472	Koeppen	3-s2.0-C20200000472		fulltext		Elsevier
+book	Boron and Boulpaep Concise Medical Physiology	9780323655309		2022						https://www.clinicalkey.com/student/content/toc/3-s2.0-C20170017330	Boron	3-s2.0-C20170017330		fulltext		Elsevier
+book	Brenner and Stevens’ Pharmacology	9780323758987		2023						https://www.clinicalkey.com/student/content/toc/3-s2.0-C2019001014X	Stevens	3-s2.0-C2019001014X		fulltext		Elsevier
+book	Brody's Human Pharmacology	9780323846738		2025						https://www.clinicalkey.com/student/content/toc/3-s2.0-C20200033244	Lim	3-s2.0-C20200033244		fulltext		Elsevier
+book	Cardiology Secrets	9780323826754		2023						https://www.clinicalkey.com/student/content/toc/3-s2.0-C20200019729	Beauchesne	3-s2.0-C20200019729		fulltext		Elsevier
+book	Cardiovascular Physiology	9780323594844		2019						https://www.clinicalkey.com/student/content/toc/3-s2.0-C20160042845	Pappano	3-s2.0-C20160042845		fulltext		Elsevier
+book	Cecil Essentials of Medicine	9780323722711		2022						https://www.clinicalkey.com/student/content/toc/3-s2.0-C2017000616X	Braunstein	3-s2.0-C2017000616X		fulltext		Elsevier
+book	Cell Biology	9780323758000		2023						https://www.clinicalkey.com/student/content/toc/3-s2.0-C20180054031	Pollard	3-s2.0-C20180054031		fulltext		Elsevier
+book	Cellular and Molecular Immunology	9780443283581		2026						https://www.clinicalkey.com/student/content/toc/3-s2.0-C20230509061	Abbas	3-s2.0-C20230509061		fulltext		Elsevier
+book	Cellular Physiology and Neurophysiology	9780323596190		2020						https://www.clinicalkey.com/student/content/toc/3-s2.0-C20160042821	Blaustein	3-s2.0-C20160042821		fulltext		Elsevier
+book	Concise Clinical Embryology: an Integrated, Case-Based Approach	9780323696159		2022						https://www.clinicalkey.com/student/content/toc/3-s2.0-C20180041055	Torchia	3-s2.0-C20180041055		fulltext		Elsevier
+book	Conn's Current Therapy 2026	9780443121821		2026						https://www.clinicalkey.com/student/content/toc/3-s2.0-C20220025903	Marker	3-s2.0-C20220025903		fulltext		Elsevier
+book	Costanzo Physiology	9780443264610		2027						https://www.clinicalkey.com/student/content/toc/3-s2.0-C20230014455	Costanzo	3-s2.0-C20230014455		fulltext		Elsevier
+book	Critical Care Secrets	9780323510646		2019						https://www.clinicalkey.com/student/content/toc/3-s2.0-C20150066801	Kumar	3-s2.0-C20150066801		fulltext		Elsevier
+book	Crush Step 1	9780323878869		2024						https://www.clinicalkey.com/student/content/toc/3-s2.0-C20200024655	Sanchez	3-s2.0-C20200024655		fulltext		Elsevier
+book	Dermatology Secrets	9780323673235		2021						https://www.clinicalkey.com/student/content/toc/3-s2.0-C20180011706	Bennion	3-s2.0-C20180011706		fulltext		Elsevier
+book	Diabetes Secrets	9780323792622		2022						https://www.clinicalkey.com/student/content/toc/3-s2.0-C20190041957	Isaacs	3-s2.0-C20190041957		fulltext		Elsevier
+book	Differential Diagnosis of Common Complaints	9780323512329		2018						https://www.clinicalkey.com/student/content/toc/3-s2.0-C20150022286	Seller	3-s2.0-C20150022286		fulltext		Elsevier
+book	Emergency Medicine Secrets	9780323694735		2022						https://www.clinicalkey.com/student/content/toc/3-s2.0-C20180011639	Haycock	3-s2.0-C20180011639		fulltext		Elsevier
+book	Endocrine and Reproductive Physiology	9780323595735		2019						https://www.clinicalkey.com/student/content/toc/3-s2.0-C20160015899	White	3-s2.0-C20160015899		fulltext		Elsevier
+book	Endocrine Secrets	9780443261947		2026						https://www.clinicalkey.com/student/content/toc/3-s2.0-C20230013528	Iwamoto	3-s2.0-C20230013528		fulltext		Elsevier
+book	ENT Secrets	9780323733571		2023						https://www.clinicalkey.com/student/content/toc/3-s2.0-C20180049610	Washburn	3-s2.0-C20180049610		fulltext		Elsevier
+book	Ferri's Best Test	9780323812894		2023						https://www.clinicalkey.com/student/content/toc/3-s2.0-C20200006717	Ferri	3-s2.0-C20200006717		fulltext		Elsevier
+book	Ferri's Fast Facts in Dermatology	9780323530392		2019						https://www.clinicalkey.com/student/content/toc/3-s2.0-C20160019563	Ferri	3-s2.0-C20160019563		fulltext		Elsevier
+book	Fitzgerald's Clinical Neuroanatomy and Neuroscience	9780702079092		2021						https://www.clinicalkey.com/student/content/toc/3-s2.0-C20170014155	Mtui	3-s2.0-C20170014155		fulltext		Elsevier
+book	Fundamental Neuroscience for Basic and Clinical Applications	9780443107030		2026						https://www.clinicalkey.com/student/content/toc/3-s2.0-C20200016993	Chen	3-s2.0-C20200016993		fulltext		Elsevier
+book	Gastrointestinal and Liver Secrets	9780323936378		2025						https://www.clinicalkey.com/student/content/toc/3-s2.0-C2017000650X	Lee	3-s2.0-C2017000650X		fulltext		Elsevier
+book	Gastrointestinal Physiology	9780323595636		2019						https://www.clinicalkey.com/student/content/toc/3-s2.0-C20160042870	Johnson	3-s2.0-C20160042870		fulltext		Elsevier
+book	Goldman-Cecil Medicine	9780323930383		2024						https://www.clinicalkey.com/student/content/toc/3-s2.0-C20201044902	Feller-Kopman	3-s2.0-C20201044902		fulltext		Elsevier
+book	Gordis Epidemiology	9780323877756		2025						https://www.clinicalkey.com/student/content/toc/3-s2.0-C20210005393	Celentano	3-s2.0-C20210005393		fulltext		Elsevier
+book	Gray's Anatomy for Students Flash Cards	9780443105142		2024						https://www.clinicalkey.com/student/content/toc/3-s2.0-C20210032843	Drake	3-s2.0-C20210032843		fulltext		Elsevier
+book	Gray's Anatomy for Students	9780323934237		2024						https://www.clinicalkey.com/student/content/toc/3-s2.0-C20210023117	Drake	3-s2.0-C20210023117		fulltext		Elsevier
+book	Gray's Anatomy Review	9780323639163		2022						https://www.clinicalkey.com/student/content/toc/3-s2.0-C20170023972	Loukas	3-s2.0-C20170023972		fulltext		Elsevier
+book	Gray's Atlas of Anatomy	9780443284663		2025						https://www.clinicalkey.com/student/content/toc/3-s2.0-C20230515307	Drake	3-s2.0-C20230515307		fulltext		Elsevier
+book	Gray's Clinical Photographic Dissector of the Human Body	9780443107092		2025						https://www.clinicalkey.com/student/content/toc/3-s2.0-C20220000623	Loukas	3-s2.0-C20220000623		fulltext		Elsevier
+book	Gray's Surgical Anatomy	9780702073861		2020						https://www.clinicalkey.com/student/content/toc/3-s2.0-C20160023768	Vivas	3-s2.0-C20160023768		fulltext		Elsevier
+book	Gray’s Surface Anatomy and Ultrasound	9780702070181		2018						https://www.clinicalkey.com/student/content/toc/3-s2.0-C20150022213	Smith	3-s2.0-C20150022213		fulltext		Elsevier
+book	Guyton and Hall Textbook of Medical Physiology	9780443111013		2026						https://www.clinicalkey.com/student/content/toc/3-s2.0-C20220008424	Hall	3-s2.0-C20220008424		fulltext		Elsevier
+book	Hacker & Moore's Essentials of Obstetrics and Gynecology	9781455775583		2016						https://www.clinicalkey.com/student/content/toc/3-s2.0-C20120069153	Hobel	3-s2.0-C20120069153		fulltext		Elsevier
+book	Handbook of Surgical Technique	9780323462013		2018						https://www.clinicalkey.com/student/content/toc/3-s2.0-C2014004806X	Hartman	3-s2.0-C2014004806X		fulltext		Elsevier
+book	Harriet Lane Handbook, The	9780323876988		2024						https://www.clinicalkey.com/student/content/toc/3-s2.0-C20210008063	Companiony Hopkins	3-s2.0-C20210008063		fulltext		Elsevier
+book	Health System Science Review	9780323653701		2020						https://www.clinicalkey.com/student/content/toc/3-s2.0-C20170039009	Agrwal	3-s2.0-C20170039009		fulltext		Elsevier
+book	Health Systems Science	9780323694629		2021						https://www.clinicalkey.com/student/content/toc/3-s2.0-C20180012372	Lomis	3-s2.0-C20180012372		fulltext		Elsevier
+book	Hematology: A Pathophysiologic Approach	9780323595834		2024						https://www.clinicalkey.com/student/content/toc/3-s2.0-C20160042857	Hudnall	3-s2.0-C20160042857		fulltext		Elsevier
+book	Histology and Cell Biology: An Introduction to Pathology	9780443284885		2026						https://www.clinicalkey.com/student/content/toc/3-s2.0-C20230515721	Kierszenbaum	3-s2.0-C20230515721		fulltext		Elsevier
+book	Human Embryology and Developmental Biology	9780323881685		2024						https://www.clinicalkey.com/student/content/toc/3-s2.0-C20210013092	Carlson	3-s2.0-C20210013092		fulltext		Elsevier
+book	Hypertension Secrets	9780323758529		2023						https://www.clinicalkey.com/student/content/toc/3-s2.0-C20180053256	Farrell	3-s2.0-C20180053256		fulltext		Elsevier
+book	Integrated Physiology and Pathophysiology	9780323597326		2022						https://www.clinicalkey.com/student/content/toc/3-s2.0-C20160054116	Seifter	3-s2.0-C20160054116		fulltext		Elsevier
+book	Introduction to Evidence-Based Medicine	9780323760331		2022						https://www.clinicalkey.com/student/content/toc/3-s2.0-C20190022108	Chang	3-s2.0-C20190022108		fulltext		Elsevier
+book	Jekel's Epidemiology, Biostatistics, Preventive Medicine, and Public Health	9780323642019		2020						https://www.clinicalkey.com/student/content/toc/3-s2.0-C20170006468	Flores	3-s2.0-C20170006468		fulltext		Elsevier
+book	Larsen's Human Embryology	9780323696043		2021						https://www.clinicalkey.com/student/content/toc/3-s2.0-C20180032296	Schoenwolf	3-s2.0-C20180032296		fulltext		Elsevier
+book	Learning Interventional Radiology	9780323478793		2020						https://www.clinicalkey.com/student/content/toc/3-s2.0-C20150064206	DePietro	3-s2.0-C20150064206		fulltext		Elsevier
+book	Learning Radiology	9780323878173		2024						https://www.clinicalkey.com/student/content/toc/3-s2.0-C2021000941X	Kowal	3-s2.0-C2021000941X		fulltext		Elsevier
+book	Medical Biochemistry	9780323834506		2023						https://www.clinicalkey.com/student/content/toc/3-s2.0-C20200021304	Church	3-s2.0-C20200021304		fulltext		Elsevier
+book	Medical Genetics	9780323597371		2020						https://www.clinicalkey.com/student/content/toc/3-s2.0-C20170009679	Jorde	3-s2.0-C20170009679		fulltext		Elsevier
+book	Medical Interview, The	9780323052214		2014						https://www.clinicalkey.com/student/content/toc/3-s2.0-C20090431829	Cole	3-s2.0-C20090431829		fulltext		Elsevier
+book	Medical Microbiology and Immunology Flash Cards	9780323462242		2017						https://www.clinicalkey.com/student/content/toc/3-s2.0-C20110062075	Rosenthal	3-s2.0-C20110062075		fulltext		Elsevier
+book	Medical Microbiology	9780443261336		2026						https://www.clinicalkey.com/student/content/toc/3-s2.0-C20230012894	Murray	3-s2.0-C20230012894		fulltext		Elsevier
+book	Medical Physiology	9781455743773		2017						https://www.clinicalkey.com/student/content/toc/3-s2.0-C20110061677	Boulpaep	3-s2.0-C20110061677		fulltext		Elsevier
+book	Medical Secrets	9780323478724		2019						https://www.clinicalkey.com/student/content/toc/3-s2.0-C20150066990	Webb	3-s2.0-C20150066990		fulltext		Elsevier
+book	Medicine Morning Report Subspecialties	9780323831369		2023						https://www.clinicalkey.com/student/content/toc/3-s2.0-C20190014975	Wu	3-s2.0-C20190014975		fulltext		Elsevier
+book	Medicine Morning Report	9780323831192		2026						https://www.clinicalkey.com/student/content/toc/3-s2.0-C20190016809	Fung	3-s2.0-C20190016809		fulltext		Elsevier
+book	Mims' Medical Microbiology and Immunology	9780323937252		2025						https://www.clinicalkey.com/student/content/toc/3-s2.0-C20210027991	Goering	3-s2.0-C20210027991		fulltext		Elsevier
+book	Mistake-Based Learning in Cardiology	9780323931571		2025						https://www.clinicalkey.com/student/content/toc/3-s2.0-C20210020034	Chang	3-s2.0-C20210020034		fulltext		Elsevier
+book	Mont Reid Surgical Handbook, The	9780323529808		2018						https://www.clinicalkey.com/student/content/toc/3-s2.0-C2010066202X	Huebner	3-s2.0-C2010066202X		fulltext		Elsevier
+book	Murray's Basic Medical Microbiology	9780323878104		2024						https://www.clinicalkey.com/student/content/toc/3-s2.0-C20210009330	Murray	3-s2.0-C20210009330		fulltext		Elsevier
+book	Nelson Essentials of Pediatrics	9780323775625		2023						https://www.clinicalkey.com/student/content/toc/3-s2.0-C20190012800	Marcdante	3-s2.0-C20190012800		fulltext		Elsevier
+book	Nephrology Secrets	9780323478717		2019						https://www.clinicalkey.com/student/content/toc/3-s2.0-C20150066047	Sabath	3-s2.0-C20150066047		fulltext		Elsevier
+book	Netter Atlas of Human Anatomy: A Systems Approach	9780443287985		2027						https://www.clinicalkey.com/student/content/toc/3-s2.0-C2023050655X	Netter	3-s2.0-C2023050655X		fulltext		Elsevier
+book	Netter Atlas of Human Anatomy: Classic Regional Anatomy Approach	9780323680424		2023						https://www.clinicalkey.com/student/content/toc/3-s2.0-C20180044345	Netter	3-s2.0-C20180044345		fulltext		Elsevier
+book	Netter Collection of Medical Illustrations: Cardiovascular System	9780323881296		2025						https://www.clinicalkey.com/student/content/toc/3-s2.0-C20210012918	Netter	3-s2.0-C20210012918		fulltext		Elsevier
+book	Netter Collection of Medical Illustrations: Digestive System, Part I - Upper Digestive Tract	9780323881302		2025						https://www.clinicalkey.com/student/content/toc/3-s2.0-C20210012931	Netter	3-s2.0-C20210012931		fulltext		Elsevier
+book	Netter Collection of Medical Illustrations: Digestive System, Part II – Lower Digestive Tract	9780323881319		2025						https://www.clinicalkey.com/student/content/toc/3-s2.0-C20210012943	Netter	3-s2.0-C20210012943		fulltext		Elsevier
+book	Netter Collection of Medical Illustrations: Digestive System, Part III – Liver, Biliary Tract, and Pancreas	9780323880909		2025						https://www.clinicalkey.com/student/content/toc/3-s2.0-C20210012955	Netter	3-s2.0-C20210012955		fulltext		Elsevier
+book	Netter Collection of Medical Illustrations: Endocrine System	9780323881265		2025						https://www.clinicalkey.com/student/content/toc/3-s2.0-C20210012852	Netter	3-s2.0-C20210012852		fulltext		Elsevier
+book	Netter Collection of Medical Illustrations: Integumentary System	9780323880893		2025						https://www.clinicalkey.com/student/content/toc/3-s2.0-C2021001292X	Netter	3-s2.0-C2021001292X		fulltext		Elsevier
+book	Netter Collection of Medical Illustrations: Musculoskeletal System, Part I - Upper Limb	9780323880886		2025						https://www.clinicalkey.com/student/content/toc/3-s2.0-C2021001289X	Netter	3-s2.0-C2021001289X		fulltext		Elsevier
+book	Netter Collection of Medical Illustrations: Musculoskeletal System, Part II - Spine and Lower Limb	9780323881289		2025						https://www.clinicalkey.com/student/content/toc/3-s2.0-C20210012906	Netter	3-s2.0-C20210012906		fulltext		Elsevier
+book	Netter Collection of Medical Illustrations: Musculoskeletal System, Part III - Biology and Systemic Diseases	9780323880879		2025						https://www.clinicalkey.com/student/content/toc/3-s2.0-C20210012888	Netter	3-s2.0-C20210012888		fulltext		Elsevier
+book	Netter Collection of Medical Illustrations: Nervous System, Part I - Brain	9780323880848		2025						https://www.clinicalkey.com/student/content/toc/3-s2.0-C20210012839	Netter	3-s2.0-C20210012839		fulltext		Elsevier
+book	Netter Collection of Medical Illustrations: Nervous System, Part II - Spinal Cord and Peripheral Motor and Sensory Systems	9780323880855		2025						https://www.clinicalkey.com/student/content/toc/3-s2.0-C20210012840	Netter	3-s2.0-C20210012840		fulltext		Elsevier
+book	Netter Collection of Medical Illustrations: Reproductive System	9780323880831		2025						https://www.clinicalkey.com/student/content/toc/3-s2.0-C20210012773	Netter	3-s2.0-C20210012773		fulltext		Elsevier
+book	Netter Collection of Medical Illustrations: Respiratory System	9780323881272		2025						https://www.clinicalkey.com/student/content/toc/3-s2.0-C20210012876	Netter	3-s2.0-C20210012876		fulltext		Elsevier
+book	Netter Collection of Medical Illustrations: Urinary System	9780323880862		2025						https://www.clinicalkey.com/student/content/toc/3-s2.0-C20210012864	Netter	3-s2.0-C20210012864		fulltext		Elsevier
+book	Netter Moving AnatoME	9780323567336		2020						https://www.clinicalkey.com/student/content/toc/3-s2.0-C20160035386	Marango	3-s2.0-C20160035386		fulltext		Elsevier
+book	Netter's Anatomy Flash Cards	9780323834179		2023						https://www.clinicalkey.com/student/content/toc/3-s2.0-C20200019080	Hansen	3-s2.0-C20200019080		fulltext		Elsevier
+book	Netter's Atlas of Human Embryology	9780443117619		2025						https://www.clinicalkey.com/student/content/toc/3-s2.0-C20220019620	Cochard	3-s2.0-C20220019620		fulltext		Elsevier
+book	Netter's Atlas of Neuroscience	9780323756549		2022						https://www.clinicalkey.com/student/content/toc/3-s2.0-C20180056170	Felten	3-s2.0-C20180056170		fulltext		Elsevier
+book	Netter's Cardiology	9780323547260		2019						https://www.clinicalkey.com/student/content/toc/3-s2.0-C20160013360	El Sakr	3-s2.0-C20160013360		fulltext		Elsevier
+book	Netter's Clinical Anatomy	9780323826624		2023						https://www.clinicalkey.com/student/content/toc/3-s2.0-C20200019894	Hansen	3-s2.0-C20200019894		fulltext		Elsevier
+book	Netter's Clinical Skills	9780323551649		2019						https://www.clinicalkey.com/student/content/toc/3-s2.0-C20160039852	Rosenberg	3-s2.0-C20160039852		fulltext		Elsevier
+book	Netter's Concise Radiologic Anatomy	9780323625326		2019						https://www.clinicalkey.com/student/content/toc/3-s2.0-C20170047572	Weber	3-s2.0-C20170047572		fulltext		Elsevier
+book	Netter's Dissection Video Modules	9780323315326		2019						https://www.clinicalkey.com/student/content/toc/3-s2.0-C20150020536	Netter	3-s2.0-C20150020536		fulltext		Elsevier
+book	Netter's Essential Biochemistry	9781929007639		2018						https://www.clinicalkey.com/student/content/toc/3-s2.0-C20090369688	Ronner	3-s2.0-C20090369688		fulltext		Elsevier
+book	Netter's Essential Histology	9780323694643		2021						https://www.clinicalkey.com/student/content/toc/3-s2.0-C20180016448	Ovalle	3-s2.0-C20180016448		fulltext		Elsevier
+book	Netter's Essential Physiology	9780443113635		2025						https://www.clinicalkey.com/student/content/toc/3-s2.0-C20220012393	Mulroney	3-s2.0-C20220012393		fulltext		Elsevier
+book	Netter's Gastroenterology	9780323596244		2020						https://www.clinicalkey.com/student/content/toc/3-s2.0-C20170002574	Pitchumoni	3-s2.0-C20170002574		fulltext		Elsevier
+book	Netter's Illustrated Human Pathology	9780323220897		2014						https://www.clinicalkey.com/student/content/toc/3-s2.0-C20130002551	Buja	3-s2.0-C20130002551		fulltext		Elsevier
+book	Netter's Infectious Disease	9780323711593		2022						https://www.clinicalkey.com/student/content/toc/3-s2.0-C20180018745	Stevens	3-s2.0-C20180018745		fulltext		Elsevier
+book	Netter's Integrated Musculoskeletal System	9780323696616		2022						https://www.clinicalkey.com/student/content/toc/3-s2.0-C20170010017	Ward	3-s2.0-C20170010017		fulltext		Elsevier
+book	Netter's Integrated Review of Medicine	9780323479387		2021						https://www.clinicalkey.com/student/content/toc/3-s2.0-C20150055058	Kelly	3-s2.0-C20150055058		fulltext		Elsevier
+book	Netter's Neurology	9780323554763		2020						https://www.clinicalkey.com/student/content/toc/3-s2.0-C20160032825	Aquino	3-s2.0-C20160032825		fulltext		Elsevier
+book	Netter's Neuroscience Flash Cards	9780323756433		2023						https://www.clinicalkey.com/student/content/toc/3-s2.0-C20190002919	Felten	3-s2.0-C20190002919		fulltext		Elsevier
+book	Netter's Obstetrics and Gynecology	9780443107399		2024						https://www.clinicalkey.com/student/content/toc/3-s2.0-C20220002282	Smith	3-s2.0-C20220002282		fulltext		Elsevier
+book	Netter's Orthopaedic Clinical Examination	9780323695336		2022						https://www.clinicalkey.com/student/content/toc/3-s2.0-C20180022185	Cleland	3-s2.0-C20180022185		fulltext		Elsevier
+book	Netter's Pediatrics	9780323796088		2023						https://www.clinicalkey.com/student/content/toc/3-s2.0-C20180018940	Grimes	3-s2.0-C20180018940		fulltext		Elsevier
+book	Netter's Photographic Anatomy Companion	9780323825405		2025						https://www.clinicalkey.com/student/content/toc/3-s2.0-C20190055264	Loukas	3-s2.0-C20190055264		fulltext		Elsevier
+book	Netter's Physiology Flash Cards	9780443113444		2025						https://www.clinicalkey.com/student/content/toc/3-s2.0-C20220012460	Mulroney	3-s2.0-C20220012460		fulltext		Elsevier
+book	Netter's Surgical Anatomy and Approaches	9780323673464		2021						https://www.clinicalkey.com/student/content/toc/3-s2.0-C2018000448X	O’Halloran	3-s2.0-C2018000448X		fulltext		Elsevier
+book	Netter’s Advanced Head and Neck Flash Cards	9780323442794		2017						https://www.clinicalkey.com/student/content/toc/3-s2.0-C20150006487	Norton	3-s2.0-C20150006487		fulltext		Elsevier
+book	Netter’s Essential Systems-Based Anatomy	9780323694971		2022						https://www.clinicalkey.com/student/content/toc/3-s2.0-C20180026973	Lyons	3-s2.0-C20180026973		fulltext		Elsevier
+book	Netter’s Histology Flash Cards	9780323709675		2021						https://www.clinicalkey.com/student/content/toc/3-s2.0-C20180016734	Ovalle	3-s2.0-C20180016734		fulltext		Elsevier
+book	Netter’s Introduction to Clinical Procedures	9780323370554		2017						https://www.clinicalkey.com/student/content/toc/3-s2.0-C20140022381	Loukas	3-s2.0-C20140022381		fulltext		Elsevier
+book	Neurology Secrets	9780323359481		2017						https://www.clinicalkey.com/student/content/toc/3-s2.0-C20120061583	Cohen	3-s2.0-C20120061583		fulltext		Elsevier
+book	Neurology Secrets	9780443127274		2027						https://www.clinicalkey.com/student/content/toc/3-s2.0-C20190040216	Krishnan	3-s2.0-C20190040216		fulltext		Elsevier
+book	Nolte's Essentials of the Human Brain	9780323529310		2019						https://www.clinicalkey.com/student/content/toc/3-s2.0-C20160009890	Vanderah	3-s2.0-C20160009890		fulltext		Elsevier
+book	Nolte's The Human Brain in Photographs and Diagrams	9780323598163		2020						https://www.clinicalkey.com/student/content/toc/3-s2.0-C20170008030	Vanderah	3-s2.0-C20170008030		fulltext		Elsevier
+book	Nolte's The Human Brain	9780443126864		2026						https://www.clinicalkey.com/student/content/toc/3-s2.0-C20230000346	Vanderah	3-s2.0-C20230000346		fulltext		Elsevier
+book	Ob/Gyn Secrets	9780323399227		2017						https://www.clinicalkey.com/student/content/toc/3-s2.0-C20090356731	Sundheimer	3-s2.0-C20090356731		fulltext		Elsevier
+book	Obstetrics & Gynecology Morning Report: Beyond the Pearls	9780323496131		2018						https://www.clinicalkey.com/student/content/toc/3-s2.0-C20160000864	Kanter	3-s2.0-C20160000864		fulltext		Elsevier
+book	On Call Neurology	9780323546942		2021						https://www.clinicalkey.com/student/content/toc/3-s2.0-C20150066370	Mayer	3-s2.0-C20150066370		fulltext		Elsevier
+book	On Call Pediatrics	9780323529051		2019						https://www.clinicalkey.com/student/content/toc/3-s2.0-C20150066382	Wilkinson	3-s2.0-C20150066382		fulltext		Elsevier
+book	On Call Principles and Protocols	9780443111044		2025						https://www.clinicalkey.com/student/content/toc/3-s2.0-C20220008564	Marshall	3-s2.0-C20220008564		fulltext		Elsevier
+book	On Call Psychiatry	9780323531092		2019						https://www.clinicalkey.com/student/content/toc/3-s2.0-C20150066400	Bernstein	3-s2.0-C20150066400		fulltext		Elsevier
+book	On Call Surgery	9780323528894		2020						https://www.clinicalkey.com/student/content/toc/3-s2.0-C20150066424	Adams	3-s2.0-C20150066424		fulltext		Elsevier
+book	Ophthalmology Secrets	9780323661881		2023						https://www.clinicalkey.com/student/content/toc/3-s2.0-C20180011731	Yeager	3-s2.0-C20180011731		fulltext		Elsevier
+book	OSCE and Clinical Skills Handbook	9781926648156		2011						https://www.clinicalkey.com/student/content/toc/3-s2.0-C20090634462	Mengual	3-s2.0-C20090634462		fulltext		Elsevier
+book	Pain Management Secrets	9780323277914		2018						https://www.clinicalkey.com/student/content/toc/3-s2.0-C20120061509	Gruenthal	3-s2.0-C20120061509		fulltext		Elsevier
+book	Pathology Case Reports: Beyond the Pearls	9780323754897		2021						https://www.clinicalkey.com/student/content/toc/3-s2.0-C2019000547X	Reyes	3-s2.0-C2019000547X		fulltext		Elsevier
+book	Pediatric Emergency Medicine Secrets	9780323930338		2025						https://www.clinicalkey.com/student/content/toc/3-s2.0-C20170006547	Dudley	3-s2.0-C20170006547		fulltext		Elsevier
+book	Pediatric Hematology & Oncology Secrets	9780323810470		2024						https://www.clinicalkey.com/student/content/toc/3-s2.0-C20150020925	Rosenzweig	3-s2.0-C20150020925		fulltext		Elsevier
+book	Pediatric Secrets	9780323636650		2021						https://www.clinicalkey.com/student/content/toc/3-s2.0-C20170006481	Teplow-Phipps	3-s2.0-C20170006481		fulltext		Elsevier
+book	Pediatrics Morning Report: Beyond the Pearls	9780323498258		2019						https://www.clinicalkey.com/student/content/toc/3-s2.0-C20160008689	Samko	3-s2.0-C20160008689		fulltext		Elsevier
+book	Pharmacology Flash Cards	9780323355643		2018						https://www.clinicalkey.com/student/content/toc/3-s2.0-C20140021399	Brenner	3-s2.0-C20140021399		fulltext		Elsevier
+book	Physical Diagnosis Secrets	9780323263368		2021						https://www.clinicalkey.com/student/content/toc/3-s2.0-C20140000330	Mangione	3-s2.0-C20140000330		fulltext		Elsevier
+book	Physical Medicine and Rehabilitation Secrets	9780323681841		2024						https://www.clinicalkey.com/student/content/toc/3-s2.0-C20180013420	Rodriguez	3-s2.0-C20180013420		fulltext		Elsevier
+book	Pocket Companion to Guyton and Hall Textbook of Medical Physiology	9780323640077		2021						https://www.clinicalkey.com/student/content/toc/3-s2.0-C20170005050	Hall	3-s2.0-C20170005050		fulltext		Elsevier
+book	Pocket Companion to Robbins & Cotran Pathologic Basis of Disease	9780323653909		2024						https://www.clinicalkey.com/student/content/toc/3-s2.0-C20170041873	Mitchell	3-s2.0-C20170041873		fulltext		Elsevier
+book	Prehospital Emergency Medicine Secrets	9780323722667		2022						https://www.clinicalkey.com/student/content/toc/3-s2.0-C20190003068	T. Krack	3-s2.0-C20190003068		fulltext		Elsevier
+book	Principles of Medical Biochemistry	9780323296168		2017						https://www.clinicalkey.com/student/content/toc/3-s2.0-C2013019085X	Meisenberg	3-s2.0-C2013019085X		fulltext		Elsevier
+book	Psychiatry Morning Report: Beyond the Pearls	9780323672962		2021						https://www.clinicalkey.com/student/content/toc/3-s2.0-C20170006559	Cruz	3-s2.0-C20170006559		fulltext		Elsevier
+book	Radiology Secrets Plus	9780323286381		2017						https://www.clinicalkey.com/student/content/toc/3-s2.0-C20120061571	Mondschein	3-s2.0-C20120061571		fulltext		Elsevier
+book	Rapid Review Pathology	9780323870573		2024						https://www.clinicalkey.com/student/content/toc/3-s2.0-C20200039678	Alfrey	3-s2.0-C20200039678		fulltext		Elsevier
+book	Renal Physiology	9780323595681		2019						https://www.clinicalkey.com/student/content/toc/3-s2.0-C20160042833	Koeppen	3-s2.0-C20160042833		fulltext		Elsevier
+book	Respiratory Physiology	9780323595780		2019						https://www.clinicalkey.com/student/content/toc/3-s2.0-C20160042882	Cloutier	3-s2.0-C20160042882		fulltext		Elsevier
+book	Rheumatology Secrets	9780443127946		2026						https://www.clinicalkey.com/student/content/toc/3-s2.0-C2023000245X	Davis	3-s2.0-C2023000245X		fulltext		Elsevier
+book	Robbins & Kumar Basic Pathology	9780323790185		2023						https://www.clinicalkey.com/student/content/toc/3-s2.0-C20190021577	Kumar	3-s2.0-C20190021577		fulltext		Elsevier
+book	Robbins and Cotran Atlas of Pathology	9780323640183		2021						https://www.clinicalkey.com/student/content/toc/3-s2.0-C20170006158	Klatt	3-s2.0-C20170006158		fulltext		Elsevier
+book	Robbins and Cotran Pathology Flash Cards	9780323352222		2016						https://www.clinicalkey.com/student/content/toc/3-s2.0-C20110061781	Klatt	3-s2.0-C20110061781		fulltext		Elsevier
+book	Robbins and Cotran Review of Pathology	9780323640220		2022						https://www.clinicalkey.com/student/content/toc/3-s2.0-C20170006146	Klatt	3-s2.0-C20170006146		fulltext		Elsevier
+book	Robbins Essential Pathology	9780323640251		2021						https://www.clinicalkey.com/student/content/toc/3-s2.0-C20170038260	Kumar	3-s2.0-C20170038260		fulltext		Elsevier
+book	Robbins, Cotran & Kumar Pathologic Basis of Disease	9780443264528		2026						https://www.clinicalkey.com/student/content/toc/3-s2.0-C20230013929	Aster	3-s2.0-C20230013929		fulltext		Elsevier
+book	Spanish and the Medical Interview: Clinical Cases and Exam Review	9780323756488		2022						https://www.clinicalkey.com/student/content/toc/3-s2.0-C20190003901	Alemán	3-s2.0-C20190003901		fulltext		Elsevier
+book	Spanish and the Medical Interview	9780323371148		2016						https://www.clinicalkey.com/student/content/toc/3-s2.0-C2014002415X	Ortega	3-s2.0-C2014002415X		fulltext		Elsevier
+book	Surgery Morning Report: Beyond the Pearls	9780323597593		2020						https://www.clinicalkey.com/student/content/toc/3-s2.0-C20170009254	Safra	3-s2.0-C20170009254		fulltext		Elsevier
+book	Swartz Textbook of Physical Diagnosis	9780443235061		2026						https://www.clinicalkey.com/student/content/toc/3-s2.0-C2023000615X	Swartz	3-s2.0-C2023000615X		fulltext		Elsevier
+book	Textbook of Histology	9780323672726		2021						https://www.clinicalkey.com/student/content/toc/3-s2.0-C2018001333X	Gartner	3-s2.0-C2018001333X		fulltext		Elsevier
+book	The Developing Human	9780443116988		2025						https://www.clinicalkey.com/student/content/toc/3-s2.0-C20220018183	Persaud	3-s2.0-C20220018183		fulltext		Elsevier
+book	The Hospital for Sick Children Handbook of Pediatrics	9780323713405		2022						https://www.clinicalkey.com/student/content/toc/3-s2.0-C20170040016	Fridman	3-s2.0-C20170040016		fulltext		Elsevier
+book	The Little Black Book of Neurology	9780323529792		2020						https://www.clinicalkey.com/student/content/toc/3-s2.0-C20140026317	Zaidat	3-s2.0-C20140026317		fulltext		Elsevier
+book	Thompson & Thompson Genetics and Genomics in Medicine	9780323547628		2024						https://www.clinicalkey.com/student/content/toc/3-s2.0-C20160043164	Hamosh	3-s2.0-C20160043164		fulltext		Elsevier
+book	Unlocking the Leader Within: A Medical Student’s Guide to Practical Leadership	9780323932110		2026						https://www.clinicalkey.com/student/content/toc/3-s2.0-C20210021155	Wu	3-s2.0-C20210021155		fulltext		Elsevier
+book	Urgent Care Medicine Secrets	9780443107528		2025						https://www.clinicalkey.com/student/content/toc/3-s2.0-C2022000221X	Swimmer	3-s2.0-C2022000221X		fulltext		Elsevier
+book	USMLE Step 1 Secrets in Color	9780323810609		2023						https://www.clinicalkey.com/student/content/toc/3-s2.0-C20180051385	O’Connell	3-s2.0-C20180051385		fulltext		Elsevier
+book	USMLE Step 2 CK Plus	9780323829861		2023						https://www.clinicalkey.com/student/content/toc/3-s2.0-C20200024485	Omar	3-s2.0-C20200024485		fulltext		Elsevier
+book	USMLE Step 2 Secrets	9780323824330		2022						https://www.clinicalkey.com/student/content/toc/3-s2.0-C20200013241	O'Connell	3-s2.0-C20200013241		fulltext		Elsevier
+book	Weir & Abrahams' Imaging Atlas of Human Anatomy	9780702079269		2021						https://www.clinicalkey.com/student/content/toc/3-s2.0-C20180014735	Spratt	3-s2.0-C20180014735		fulltext		Elsevier
+book	Wheater's Functional Histology	9780702083341		2024						https://www.clinicalkey.com/student/content/toc/3-s2.0-C20190030178	O’Dowd	3-s2.0-C20190030178		fulltext		Elsevier
