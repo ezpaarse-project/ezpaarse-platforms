@@ -22,12 +22,12 @@ module.exports = new Parser(function analyseEC(parsedUrl, ec) {
     result.mime   = 'HTML';
     result.unitid = match[1];
 
-  } else if ((match = /^\/base-documentaire\/[a-z-]+(th[0-9]+)\/[a-z-]+([0-9]+)\/[a-z-]+-([a-z0-9]+)\/$/.exec(path)) !== null) {
+  } else if ((match = /^\/base-documentaire\/[a-z-]+th[0-9]+\/[a-z-]+([0-9]+)\/[a-z-]+-([a-z0-9]+)\/$/.exec(path)) !== null) {
     // https://www.techniques-ingenieur.fr/base-documentaire/sciences-fondamentales-th8/mathematiques-fondamentales-analyse-42103210/topologie-et-mesure-af99/
     result.rtype    = 'PREVIEW';
     result.mime     = 'HTML';
-    result.title_id = match[2];
-    result.unitid   = match[1] + '-' + match[2] + '-' + match[3];
+    result.title_id = match[1];
+    result.unitid   = match[1] + '-' + match[2];
 
   } else if ((match = /^\/res\/pdf\/encyclopedia\/([a-z0-9+-]+)\.pdf$/.exec(path)) !== null) {
     // https://www.techniques-ingenieur.fr/res/pdf/encyclopedia/42103210-af99.pdf
