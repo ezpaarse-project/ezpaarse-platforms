@@ -30,9 +30,6 @@ module.exports = new Parser(function analyseEC(parsedUrl, ec) {
     // https://www-lib-video.cyut.idm.oclc.org/searchResult.aspx?kw=%E9%9B%9C%E8%B2%A8%E5%BA%97&s=cyut
     result.rtype  = 'SEARCH';
     result.mime   = 'HTML';
-    if ((match = /[?&]kw=([^&]+)/i.exec(ec.url)) !== null) {
-      result.unitid = match[1];
-    }
   } else if ((match = /^\/uploadFiles\/Video\/([^./]+)\.mp4$/i.exec(path)) !== null) {
     // https://www.lib.video/uploadFiles/Video/AA0023-0001.mp4
     // https://www.lib.video/uploadFiles/Video/AE0115-0000.mp4
