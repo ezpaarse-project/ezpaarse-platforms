@@ -1,0 +1,13 @@
+{
+  "longname": "clickview",
+  "name": "clickview",
+  "describe": "Recognizes the accesses to the platform clickview",
+  "contact": "Violita Kovchegov",
+  "pkb": false,
+  "docurl": "https://analyses.ezpaarse.org/platforms/6a33463f119cc74b49dd4905",
+  "domains": [
+    "www.clickview.net"
+  ],
+  "version": "2026-06-17",
+  "status": "beta"
+}
