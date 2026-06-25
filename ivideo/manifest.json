@@ -1,0 +1,13 @@
+{
+  "longname": "Lib Video",
+  "name": "ivideo",
+  "describe": "Recognizes the accesses to the platform Lib Video",
+  "contact": "ChaoYin Yang",
+  "pkb": false,
+  "docurl": "https://analyses.ezpaarse.org/platforms/6a3b431151230f78d2964f75",
+  "domains": [
+    "www.lib.video"
+  ],
+  "version": "2026-06-24",
+  "status": "beta"
+}
