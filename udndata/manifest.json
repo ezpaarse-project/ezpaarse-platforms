@@ -1,0 +1,13 @@
+{
+  "longname": "UDN Data",
+  "name": "udndata",
+  "describe": "Recognizes the accesses to the platform UDN Data",
+  "contact": "ChaoYin Yang",
+  "pkb": false,
+  "docurl": "https://analyses.ezpaarse.org/platforms/6a4236260bf20e7026587cf6",
+  "domains": [
+    "udndata.com"
+  ],
+  "version": "2026-06-30",
+  "status": "beta"
+}

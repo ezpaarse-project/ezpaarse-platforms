@@ -1,0 +1,14 @@
+out-title_id;out-unitid;out-rtype;out-mime;in-url
+;g130365;ARTICLE;HTML;https://udndata.com/ndapp/KnoBase/magol/searchDoc?origid=g130365&keyword=CATNAME:%22%E5%B0%81%E9%9D%A2%E6%95%85%E4%BA%8B%22&forindex=Y&key=gvm
+;480;IMAGE;MISC;https://udndata.com/ndapp/fpStory/magol/fullPageView?cp=gvm&format=ebk&volume=480&no=5
+;;SEARCH;HTML;https://udndata.com/ndapp/KnoBase/magol/searchContent?key=bsw
+;20150341;ARTICLE;HTML;https://udndata.com/ndapp/KnoBase/magol/searchDoc?origid=20150341&keyword=CATNAME:%22%E7%84%A6%E9%BB%9E%E6%96%B0%E8%81%9E%22&key=bsw
+;20010461;ARTICLE;HTML;https://udndata.com/ndapp/KnoBase/magol/searchDoc?keyword=VOLNO%3A2001&origid=20010461&start=0&page=1&forlist=list&date=&key=bsw
+;20150801;ARTICLE;HTML;https://udndata.com/ndapp/KnoBase/magol/searchDoc?keyword=VOLNO%3A2015&origid=20150801&start=0&page=1&forlist=&date=&key=bsw
+;;SEARCH;HTML;https://udndata.com/ndapp/udntag/fpp/FpSearch?searchWords=british&paperID=ED
+;;SEARCH;HTML;https://udndata.com/ndapp/udntag/fpp/FpSearch?paperID=ED&searchWords=%E9%BB%A8%E6%94%BF
+;10407058;ARTICLE;HTML;https://udndata.com/ndapp/udntag/fpp/FpStory?no=2&paperID=UN&FPLOCATION=UN/UN2024/08/21/A02_10200.JPG&id_list=10407057~==~10407058~==~10407059~==~10407060~==~10407061~==~10407062&article_date=2024-08-21&news_id=10407058
+;10716180;ARTICLE;HTML;https://udndata.com/ndapp/udntag/fpp/FpStory?no=1&paperID=UN&FPLOCATION=UN/UN2026/06/30/A03_10300.JPG&id_list=10716180~==~10716181~==~10716182~==~10716183&article_date=2026-06-30&news_id=10716180
+;10716171;ARTICLE;HTML;https://udndata.com/ndapp/udntag/fpp/FpStory?no=1&paperID=UN&FPLOCATION=UN/UN2026/06/30/A01_10100.JPG&id_list=10716171~==~10716172~==~10716173&article_date=2026-06-30&news_id=10716171
+27;34;IMAGE;MISC;https://udndata.com/ndapp/fp/2018/udntag/recordBehavior.jsp?type=&CATEGORY=PRINT&PAPER_ID=ED&GROUP_ID=27&SERVICE_ID=34
+27;34;IMAGE;MISC;https://udndata.com/ndapp/fp/2018/udntag/recordBehavior.jsp?type=&CATEGORY=PAPERNEXT&PAPER_ID=ED&GROUP_ID=27&SERVICE_ID=34
