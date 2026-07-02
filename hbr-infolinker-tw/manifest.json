@@ -1,0 +1,11 @@
+{
+  "longname": "HBR Infolinker TW",
+  "name": "hbr-infolinker-tw",
+  "describe": "Recognizes the accesses to the platform HBR Infolinker TW",
+  "contact": "ChaoYin Yang",
+  "pkb": false,
+  "docurl": "https://analyses.ezpaarse.org/platforms/6a4368cd80e7d909325f32a3",
+  "domains": ["hbr.infolinker.com.tw"],
+  "version": "2026-07-02",
+  "status": "beta"
+}
