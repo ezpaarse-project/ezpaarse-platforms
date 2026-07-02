@@ -22,14 +22,12 @@ module.exports = new Parser(function analyseEC(parsedUrl, ec) {
     result.rtype = 'VIDEO';
     result.mime  = 'MISC';
     if (param.doi) {
-      result.doi    = param.doi;
       result.unitid = param.doi;
     }
   } else if (path === '/article.php') {
     result.rtype = 'ARTICLE';
     result.mime  = 'HTML';
     if (param.doi) {
-      result.doi    = param.doi;
       result.unitid = param.doi;
     }
   } else if (path === '/result.php') {
