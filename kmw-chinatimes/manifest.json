@@ -1,0 +1,13 @@
+{
+  "longname": "KMW Chinatimes",
+  "name": "kmw-chinatimes",
+  "describe": "Recognizes the accesses to the platform KMW Chinatimes",
+  "contact": "ChaoYin Yang",
+  "pkb": false,
+  "docurl": "https://analyses.ezpaarse.org/platforms/6a4f6d3022d73e5768f05065",
+  "domains": [
+    "kmw.chinatimes.com"
+  ],
+  "version": "2026-07-13",
+  "status": "beta"
+}
