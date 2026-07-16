@@ -1,0 +1,13 @@
+{
+  "longname": "AISP",
+  "name": "aisp",
+  "describe": "Recognizes the accesses to the platform AISP",
+  "contact": "ChaoYin Yang",
+  "pkb": false,
+  "docurl": "https://analyses.ezpaarse.org/platforms/6a54b6b6e8be1c1f3841bbcc",
+  "domains": [
+    "mic.iii.org.tw"
+  ],
+  "version": "2026-07-14",
+  "status": "beta"
+}
