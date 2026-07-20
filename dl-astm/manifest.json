@@ -1,0 +1,13 @@
+{
+  "longname": "ASTM Digital Library",
+  "name": "dl-astm",
+  "describe": "Recognizes the accesses to the platform ASTM Digital Library",
+  "contact": "ChaoYin Yang",
+  "pkb": false,
+  "docurl": "https://analyses.ezpaarse.org/platforms/6a55e5d84f84ae75a9b7e781",
+  "domains": [
+    "dl.astm.org"
+  ],
+  "version": "2026-07-20",
+  "status": "beta"
+}
