@@ -13,32 +13,40 @@ const Parser = require('../.lib/parser.js');
 module.exports = new Parser(function analyseEC(parsedUrl, ec) {
   let result = {};
   let path   = parsedUrl.pathname;
+  //let param  = parsedUrl.query || {};
   let match;
 
   // use console.error for debuging
   // console.error(parsedUrl);
 
-  if ((match = /\/books\/monograph\/chapter-pdf\/(\d+)\/([^/]+)\.pdf$/.exec(path))) {
-    result.unitid = match[1] + '/' + match[2];
-    result.rtype  = 'BOOK';
+  if ((match = /^\/books\/book\/chapter-pdf\/([0-9]+)\/([a-zA-Z0-9-_]+)\.pdf$/i.exec(path)) !== null) {
+    result.rtype  = 'BOOK_CHAPTERS_BUNDLE';
     result.mime   = 'PDF';
-  } else if ((match = /\/books\/book\/chapter-pdf\/(\d+)/.exec(path))) {
     result.unitid = match[1];
-    result.rtype  = 'BOOK';
+
+  } else if ((match = /^\/books\/monograph\/chapter-pdf\/([0-9]+)\/([a-zA-Z0-9-_]+)\.pdf$/i.exec(path)) !== null) {
+    result.rtype  = 'BOOK_CHAPTERS_BUNDLE';
     result.mime   = 'PDF';
-  } else if ((match = /\/books\/monograph\/(\d+)\/chapter/.exec(path))) {
+    result.unitid = `${match[1]}/${match[2]}`;
+
+  } else if ((match = /^\/books\/monograph\/([0-9]+)\/chapter\/[0-9]+\/([a-zA-Z0-9-_]+)/i.exec(path)) !== null) {
+    result.rtype  = 'BOOK_CHAPTERS_BUNDLE';
+    result.mime   = 'HTML';
     result.unitid = match[1];
+
+  } else if ((match = /^\/jte\/article-pdf\/doi\/([^/]+\/[^/]+)\/([0-9]+)\/([a-zA-Z0-9-_]+)\.pdf$/i.exec(path)) !== null) {
+    result.doi    = match[1];
+    result.unitid = match[2];
+    result.rtype  = 'ARTICLE';
+    result.mime   = 'PDF';
+
+  } else if ((match = /^\/jte\/article\/doi\/([^/]+\/[^/]+)\/([0-9]+)\/([a-zA-Z0-9-_]+)/i.exec(path)) !== null) {
+    result.doi    = match[1];
+    result.unitid = match[2];
     result.rtype  = 'ARTICLE';
     result.mime   = 'HTML';
-  } else if ((match = /\/article-pdf\/doi\/(.+)\.pdf$/.exec(path))) {
-    result.unitid = match[1];
-    result.rtype  = 'ARTICLE';
-    result.mime   = 'PDF';
-  } else if ((match = /\/article\/doi\/([^/]+\/[^/]+\/\d+)/.exec(path))) {
-    result.unitid = match[1];
-    result.rtype  = 'ARTICLE';
-    result.mime   = 'HTML';
-  } else if (/\/search-results/.test(path)) {
+
+  } else if (/^\/search-results$/i.test(path)) {
     result.rtype = 'SEARCH';
     result.mime  = 'HTML';
   }
