@@ -1,0 +1,6 @@
+out-unitid;out-rtype;out-mime;in-url
+;SEARCH;HTML;https://www.bellefaye.com:443/fr/search
+;SEARCH;HTML;https://www.bellefaye.com:443/fr/result
+person/43612;RESULT_CLICK;HTML;https://www.bellefaye.com:443/fr/person/person/43612
+company/9447;RESULT_CLICK;HTML;https://www.bellefaye.com:443/fr/person/company/9447
+5e4b9ef1089b9;IMAGE;JPEG;https://www.bellefaye.com:443/uploads/media/5/e/5e4b9ef1089b9.jpg

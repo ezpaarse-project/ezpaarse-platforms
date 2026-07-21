@@ -1,0 +1,13 @@
+{
+  "longname": "Bellefaye",
+  "name": "bellefaye",
+  "describe": "Recognizes the accesses to the platform Bellefaye",
+  "contact": "thomas.porquet",
+  "pkb": false,
+  "docurl": "https://analyses.ezpaarse.org/platforms/69ef76c399ea20956e85954a",
+  "domains": [
+    "www.bellefaye.com"
+  ],
+  "version": "2026-07-08",
+  "status": "beta"
+}
