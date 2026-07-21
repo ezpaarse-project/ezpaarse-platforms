@@ -1,0 +1,13 @@
+{
+  "longname": "Tie Tier",
+  "name": "tie-tier",
+  "describe": "Recognizes the accesses to the platform Tie Tier",
+  "contact": "ChaoYin Yang",
+  "pkb": false,
+  "docurl": "https://analyses.ezpaarse.org/platforms/6a5eda26ebe277648ede8d83",
+  "domains": [
+    "tie.tier.org.tw"
+  ],
+  "version": "2026-07-21",
+  "status": "beta"
+}
