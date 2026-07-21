@@ -73,6 +73,25 @@ module.exports = new Parser(function analyseEC(parsedUrl) {
     result.vol      = match[3];
     result.issue    = match[4];
 
+  } else if ((match = /^\/toc\/(([0-9]{7}[0-9x])\/([0-9]{4})\/([0-9]+)\/([0-9]+))$/i.exec(path)) !== null) {
+    // /toc/1365313x/2026/126/4
+    result.rtype    = 'TOC';
+    result.mime     = 'HTML';
+    result.unitid   = match[1];
+    result.title_id = match[2];
+    result.online_identifier = `${match[2].substring(0, 4)}-${match[2].substring(4, 8)}`.toUpperCase();
+    result.publication_date  = match[3];
+    result.vol   = match[4];
+    result.issue = match[5];
+
+  } else if ((match = /^\/loi\/([0-9]{7}[0-9x])$/i.exec(path)) !== null) {
+    // /loi/1365313x
+    result.rtype    = 'TOC';
+    result.mime     = 'HTML';
+    result.unitid   = match[1];
+    result.title_id = match[1];
+    result.online_identifier = `${match[1].substring(0, 4)}-${match[1].substring(4, 8)}`.toUpperCase();
+
   } else if ((match = /^\/journal\/([0-9]+)$/i.exec(path)) !== null) {
     // /journal/21579032
     result.rtype    = 'TOC';
