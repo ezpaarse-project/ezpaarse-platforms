@@ -15,7 +15,13 @@ module.exports = new Parser(function analyseEC(parsedUrl, ec) {
   let path   = parsedUrl.pathname;
   let match;
 
-  if ((match = /^\/cms\/([a-z]+)\/([0-9]+)\/([0-9a-z-]+).html$/i.exec(path)) !== null) {
+  if ((match = /^\/content\/([0-9a-f]{8}-[0-9a-f]{4}-[0-9a-f]{4}-[0-9a-f]{4}-[0-9a-f]{12})$/i.exec(path)) !== null) {
+    ///content/fd8a1648-62ce-49f4-ab2d-c22c9e0d1802
+    result.rtype    = 'ARTICLE';
+    result.mime     = 'HTML';
+    result.unitid   = match[1];
+
+  } else if ((match = /^\/cms\/([a-z]+)\/([0-9]+)\/([0-9a-z-]+).html$/i.exec(path)) !== null) {
     ///cms/s/0/0b4a4790-6454-11e6-8310-ecf0bddad227.html#axzz4HgTPkTq0
     result.rtype    = 'ARTICLE';
     result.mime     = 'HTML';
