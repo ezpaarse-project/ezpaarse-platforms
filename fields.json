@@ -394,6 +394,10 @@
       "code": "API_JOB",
       "description": "Demande de traitement à une API (type service web)",
       "description_en": "Request for processing to an API (type web service)"
+    },{
+      "code": "AI_PROMPT",
+      "description": "Prompt à un chatbot IA",
+      "description_en": "Prompt to an AI chatbot"
     }
   ],
   "other": [
