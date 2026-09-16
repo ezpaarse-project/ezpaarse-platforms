@@ -4,7 +4,7 @@
 const Parser = require('../.lib/parser.js');
 
 // Single-segment paths that are site pages rather than articles.
-const SITE_PAGES = /^(about|all-our-stories)$/i;
+const SITE_PAGES = /^(about|advertise|all-our-stories|complaints|contact|give-the-gift-of-quality-journalism|privacy-policy-2)$/i;
 
 module.exports = new Parser(function analyseEC(parsedUrl) {
   let result = {};
