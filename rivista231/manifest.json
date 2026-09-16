@@ -1,0 +1,13 @@
+{
+  "longname": "Rivista231",
+  "name": "rivista231",
+  "describe": "Recognizes the accesses to the platform Rivista231",
+  "contact": "Violita Kovchegov",
+  "pkb": false,
+  "docurl": "https://analyses.ezpaarse.org/platforms/6aab055fce39432e9b6cc0af",
+  "domains": [
+    "www.rivista231.it"
+  ],
+  "version": "2026-09-16",
+  "status": "beta"
+}
