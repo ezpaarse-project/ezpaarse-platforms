@@ -97,6 +97,14 @@ module.exports = new Parser(function analyseEC(parsedUrl) {
           result.unitid           = param._piikey;
           result.title_id         = match[1] + match[2];
           result.print_identifier = match[1] + '-' + match[2];
+        } else if ((match = /^B([0-9]{13})[0-9a-z]*$/i.exec(param._piikey)) !== null) {
+          // http://www.sciencedirect.com:80/science?_ob=PdfExcerptURL
+          // &_imagekey=3-s2.0-B9780121569303500068-main.pdf&_piikey=B9780121569303500068
+          // &_cdi=284019&_isbn=9780121569303&_user=4046392
+          // Book chapter excerpt: the PII carries the ISBN rather than an ISSN.
+          result.unitid           = param._piikey;
+          result.title_id         = match[1];
+          result.print_identifier = match[1];
         }
       }
       break;
@@ -255,6 +263,24 @@ module.exports = new Parser(function analyseEC(parsedUrl) {
     // /browse/journals-and-books?searchPhrase=medecine
     result.rtype = Object.keys(param).length === 0 ? 'TOC' : 'SEARCH';
     result.mime = 'HTML';
+
+  } else if ((match = /^\/leapspace(?:\/conversation\/([0-9a-f]{8}-[0-9a-f]{4}-[0-9a-f]{4}-[0-9a-f]{4}-[0-9a-f]{12}))?\/?$/i.exec(path)) !== null) {
+    // LeapSpace, the AI research assistant built into ScienceDirect.
+    // /leapspace
+    // /leapspace?DGCID=rai_sd_header_ls_link
+    // /leapspace?dgcid=rai_sd_homepage_banner
+    // /leapspace/conversation/48593a65-bdaf-44f9-97ba-30e31b34d35a
+    //
+    // The query string names the entry route and its parameter name varies in
+    // case, so it is deliberately not matched on. Deeper paths are the
+    // application talking to itself and are not consultations:
+    // /leapspace/auth/silent-login, /leapspace/auth/login and
+    // /leapspace/api/conversations are all excluded by the anchor.
+
+    result.rtype = 'AI_INTERACTION';
+    result.mime  = 'HTML';
+
+    if (match[1]) { result.unitid = match[1]; }
 
   } else if (/^\/search\/?$/i.test(path)) {
     // /search?qs=medecine%20et%20droit
