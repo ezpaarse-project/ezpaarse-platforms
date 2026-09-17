@@ -1,0 +1,14 @@
+{
+  "longname": "The Mill",
+  "name": "themill",
+  "describe": "Recognizes the accesses to the platform The Mill",
+  "contact": "Violita Kovchegov",
+  "pkb": false,
+  "docurl": "https://analyses.ezpaarse.org/platforms/6aa96393a9065e35ed34afef",
+  "domains": [
+    "access.manchestermill.co.uk",
+    "manchestermill.co.uk"
+  ],
+  "version": "2026-09-15",
+  "status": "beta"
+}
