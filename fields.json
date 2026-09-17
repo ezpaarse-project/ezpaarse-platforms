@@ -395,9 +395,9 @@
       "description": "Demande de traitement à une API (type service web)",
       "description_en": "Request for processing to an API (type web service)"
     },{
-      "code": "AI_PROMPT",
-      "description": "Prompt à un chatbot IA",
-      "description_en": "Prompt to an AI chatbot"
+      "code": "AI_INTERACTION",
+      "description": "Interaction avec une IA",
+      "description_en": "Interaction with an AI"
     }
   ],
   "other": [
