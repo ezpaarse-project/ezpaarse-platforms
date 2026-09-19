@@ -41,7 +41,11 @@
     "wmich.naxosmusiclibrary.com",
     "oberlincoll.naxosmusiclibrary.com",
     "oberlincoll.naxosspokenwordlibrary.com",
-    "oberlincoll.naxosvideolibrary.com"
+    "oberlincoll.naxosvideolibrary.com",
+    "joco.naxosmusiclibrary.com",
+    "joco.naxosspokenwordlibrary.com",
+    "joco.naxosvideolibrary.com",
+    "joco.naxosmusicbox.com"
   ],
   "version": "2019-08-15",
   "status": "stable"
