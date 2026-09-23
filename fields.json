@@ -304,10 +304,10 @@
       "comment_en": "Britannica platform case"
     },{
       "code": "TOOL",
-      "description": "Outil de comparaison de données",
-      "description_en": "Data comparison tool",
-      "comment": "cas de plateforme Britannica, Financial Times, Kluwer arbitration",
-      "comment_en": "cas de plateforme Britannica, Financial Times, arbitrage Kluwer"
+      "description": "Outil d'analyse ou de comparaison de données",
+      "description_en": "Data analysis or comparison tool",
+      "comment": "cas de plateforme Britannica, Financial Times, Kluwer arbitration, Brainfuse",
+      "comment_en": "case of Britannica, Financial Times, arbitrage Kluwer or Brainfuse platforms"
     },{
       "code": "REPORT",
       "comment": "cas de plateformes Columbia International Affairs Online, Financial Times, rapports en tout genre qui ne sont pas publiés sous la forme d'un article ou d'un working paper",
@@ -342,9 +342,10 @@
       "description_en": "Search for information resources by facets"
     },{
       "code": "SESSION",
-      "description": "Connection",
-      "comment": "cas de la plateforme Reaxys",
-      "comment_en": "case of Reaxys plateforme"
+      "description": "Démarrage d'une session",
+      "description_en": "Session start",
+      "comment": "Peut être une simple connexion (cas de Reaxys) ou la participation à un cours en ligne (cas de Brainfuse)",
+      "comment_en": "Can be a simple connection (case of Reaxys) or a participation to a live tutoring (case of Brainfuse)"
     },{
       "code": "LINK",
       "description": "Redirection d'un lien vers un article",
