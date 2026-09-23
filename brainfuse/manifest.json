@@ -1,0 +1,16 @@
+{
+  "longname": "Brainfuse",
+  "name": "brainfuse",
+  "describe": "Recognizes the accesses to the platform Brainfuse",
+  "contact": "Violita Kovchegov",
+  "pkb": false,
+  "docurl": "https://analyses.ezpaarse.org/platforms/6ab16a33940cd2c346529b41",
+  "domains": [
+    "www.brainfuse.com",
+    "alc.brainfuse.com",
+    "landing.brainfuse.com",
+    "study.brainfuse.com"
+  ],
+  "version": "2026-09-21",
+  "status": "beta"
+}
