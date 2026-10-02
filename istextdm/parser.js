@@ -25,7 +25,7 @@ module.exports = new Parser(function analyseEC(parsedUrl, ec) {
     result.rtype  = 'API_JOB';
     result.unitid = match[1];
     if (param.ip) {
-      result.ip = param.ip;
+      result.host = param.ip;
     }
   }
 
