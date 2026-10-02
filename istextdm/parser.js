@@ -21,8 +21,12 @@ module.exports = new Parser(function analyseEC(parsedUrl, ec) {
 
   if ((match = /^(\/v\d+\/.*)/i.exec(path)) !== null) {
     // /v1/is-retracted?sid=bibcnrs
+    // /v1/kw?sid=tdm-factory&ip=127.0.0.1
     result.rtype  = 'API_JOB';
     result.unitid = match[1];
+    if (param.ip) {
+      result.host = param.ip;
+    }
   }
 
   return result;
