@@ -7,8 +7,9 @@
   "docurl": "http://analyses.ezpaarse.org/platforms/542571dbc703a13f0fccfa3c",
   "domains": [
     "www.ncbi.nlm.nih.gov",
-    "pubmed.ncbi.nlm.nih.gov"
+    "pubmed.ncbi.nlm.nih.gov",
+    "pmc.ncbi.nlm.nih.gov"
   ],
-  "version": "2017-07-31",
+  "version": "2026-10-11",
   "status": "beta"
 }
