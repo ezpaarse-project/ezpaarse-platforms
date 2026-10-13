@@ -17,6 +17,27 @@ module.exports = new Parser(function analyseEC(parsedUrl, ec) {
 
   let match;
 
+  if (parsedUrl.hostname === 'pmc.ncbi.nlm.nih.gov') {
+    // PMC moved to its own host in late 2024 and dropped the /pmc prefix:
+    // /articles/PMC6927892/
+    // /articles/PMC7986210/pdf/pone.0242506.pdf
+    // /search/?term=binocular
+    // /articles/pmid/<pmid>/ only redirects to /articles/PMC.../ so it is left out
+    if ((match = /^\/articles\/(PMC[0-9]+)\/?$/i.exec(path)) !== null) {
+      result.rtype  = 'ARTICLE';
+      result.mime   = 'HTML';
+      result.unitid = match[1];
+    } else if ((match = /^\/articles\/(PMC[0-9]+)\/pdf\/([^/]+)\.pdf$/i.exec(path)) !== null) {
+      result.rtype  = 'ARTICLE';
+      result.mime   = 'PDF';
+      result.unitid = `${match[1]}/${match[2]}`;
+    } else if (/^\/search\/?$/i.test(path) && param.term) {
+      result.rtype = 'SEARCH';
+      result.mime  = 'HTML';
+    }
+    return result;
+  }
+
   if (param.term && /^\/([a-z]+\/?|search\/all\/?)?$/i.test(path) && !(/^\/suggestions\/$/i.test(path))) {
     result.rtype = 'SEARCH';
     result.mime  = 'HTML';
