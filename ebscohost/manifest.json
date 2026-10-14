@@ -1,5 +1,5 @@
 {
-  "version": "2020-05-07",
+  "version": "2026-10-14",
   "status": "stable",
   "trello": "https://trello.com/c/lwbAVR20",
   "domains": [
@@ -28,7 +28,8 @@
     "ejournals.ebscohost.com",
     "ebsco-content.com",
     "web.ebscohost.com",
-    "viewer.ebscohost.com"
+    "viewer.ebscohost.com",
+    "resolver.ebsco.com"
   ],
   "name": "ebscohost",
   "longname": "EbscoHost",
