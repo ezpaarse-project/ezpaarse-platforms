@@ -14,6 +14,7 @@ module.exports = new Parser(function analyseEC(parsedUrl, ec) {
   const result = {};
   const path   = parsedUrl.pathname;
   const param  = parsedUrl.query || {};
+  let match;
 
   if (/^\/affil\/profile\.ur[il]$/i.test(path)) {
     // /affil/profile.uri?afid=60008134
@@ -57,6 +58,14 @@ module.exports = new Parser(function analyseEC(parsedUrl, ec) {
     result.rtype  = 'RECORD_VIEW';
     result.mime   = 'PDF';
     result.unitid = param.eid;
+
+  } else if ((match = /^\/pages\/publications\/([0-9]{10,})\/?$/i.exec(path)) !== null) {
+    // /pages/publications/85089817481
+    // The new document page: /record/display.uri?eid=2-s2.0-<id> now answers
+    // 308 to /pages/publications/<id>, so the unitid keeps the EID form.
+    result.rtype  = 'RECORD_VIEW';
+    result.mime   = 'HTML';
+    result.unitid = `2-s2.0-${match[1]}`;
 
   }
 
