@@ -42,5 +42,9 @@ module.exports = new Parser(function analyseEC(parsedUrl, ec) {
 
   }
 
+  if (Object.keys(result).length > 0) {
+    result.platform_name = /\.(brief\.\w+)$/.exec(parsedUrl.hostname)[1];
+  }
+
   return result;
 });
