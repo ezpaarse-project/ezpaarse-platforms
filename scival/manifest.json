@@ -6,8 +6,9 @@
   "pkb": false,
   "docurl": "http://analyses.ezpaarse.org/platforms/658af23d3a96fc306db71555",
   "domains": [
-    "scival.com"
+    "scival.com",
+    "www.scival.com"
   ],
-  "version": "2024-03-22",
+  "version": "2026-10-14",
   "status": "beta"
 }
