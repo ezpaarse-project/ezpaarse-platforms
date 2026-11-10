@@ -123,11 +123,15 @@ module.exports = new Parser(function analyseEC(parsedUrl, ec) {
     if (param.K) { result.unitid = param.K; }
     if (param.D) { result.db_id = param.D; }
 
-  } else if (path.toLowerCase() === '/openurl') {
+  } else if (path.toLowerCase() === '/openurl'
+    || (parsedUrl.hostname === 'resolver.ebsco.com' && /^\/c\/[a-z0-9]+\/result$/i.test(path))) {
     // /openurl?sid=EBSCO:a9h&genre=article&issn=0399077X&ISBN=&volume=46&issue=7&date=20161001&spage=372
     // &pages=372-379&title=Medecine%20&%20Maladies%20Infectieuses
     // &atitle=Community-acquired%20Clostridium%20difficile%20infections%20in%20emergency%20departments.
     // &aulast=Lefevre-Tantet-Etchebarne%2C%20D.&id=DOI:10.1016/j.medmal.2016.06.002
+    // resolver.ebsco.com carries the same OpenURL fields under /c/<profile>/result:
+    // /c/abc123/result?sid=google&genre=article&issn=1932-6203&volume=15&issue=11&spage=e0242506
+    // &title=PLOS%20ONE&id=doi:10.1371/journal.pone.0242506
     result.rtype = 'OPENURL';
     result.mime  = 'HTML';
 
