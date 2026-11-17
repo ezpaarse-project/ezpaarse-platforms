@@ -21,7 +21,7 @@ module.exports = new Parser(function analyseEC(parsedUrl, ec) {
 
   // let match;
 
-  if (/^\/gateway\/openalex\/works$/i.test(path) !== null) {
+  if (/^\/gateway\/openalex\/works$/i.test(path)) {
     // https://openalex.inist.fr/gateway/openalex/works
     result.rtype    = 'QUERY';
     result.mime     = 'JSON';
