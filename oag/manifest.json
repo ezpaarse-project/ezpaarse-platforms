@@ -1,0 +1,13 @@
+{
+  "longname": "openalexgateway",
+  "name": "oag",
+  "describe": "Recognizes the accesses to the platform openalexgateway",
+  "contact": "ez PAARSE",
+  "pkb": false,
+  "docurl": "https://analyses.ezpaarse.org/platforms/6afbfd7e3188a00c12395332/analyses/6afbfd82043c274897f4e4f9",
+  "domains": [
+    "openalex.inist.fr"
+  ],
+  "version": "2026-11-17",
+  "status": "beta"
+}
