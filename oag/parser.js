@@ -29,7 +29,15 @@ module.exports = new Parser(function analyseEC(parsedUrl, ec) {
     if (param.sid) {
       result.sid = param.sid;
     }
+  }
 
+  if (/^\/clickandread\/works$/i.test(path)) {
+    // https://openalex.inist.fr/clickandread/works
+    result.rtype    = 'QUERY';
+    result.mime     = 'JSON';
+    if (param.sid) {
+      result.sid = param.sid;
+    }
   }
 
   return result;

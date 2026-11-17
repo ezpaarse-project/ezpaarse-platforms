@@ -1,2 +1,3 @@
 out-unitid;out-rtype;out-mime;in-url
 ;QUERY;JSON;https://openalex.inist.fr/gateway/openalex/works
+;QUERY;JSON;https://openalex.inist.fr/clickandread/works
