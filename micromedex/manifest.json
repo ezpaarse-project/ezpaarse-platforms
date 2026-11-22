@@ -1,0 +1,13 @@
+{
+  "longname": "Micromedex",
+  "name": "micromedex",
+  "describe": "Recognizes the accesses to the platform Micromedex",
+  "contact": "Rick Hoover, Sean Duffy",
+  "pkb": false,
+  "docurl": "http://analyses.ezpaarse.org/platforms/6064d86609c1c80cecd8808a",
+  "domains": [
+    "www.micromedexsolutions.com"
+  ],
+  "version": "2023-07-23",
+  "status": "beta"
+}
