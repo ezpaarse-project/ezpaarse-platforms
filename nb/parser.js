@@ -119,7 +119,7 @@ module.exports = new Parser(function analyseEC(parsedUrl, ec) {
 
       result.unitid   = param.docref.split('/')[1];
       result.title_id = exploreTitle(param.t);
-      result.pii      = param.p;
+      result.db_id    = param.p;
     }
 
   } else if ((match = /^\/explore\/results$/i.exec(path)) !== null) {
@@ -130,7 +130,7 @@ module.exports = new Parser(function analyseEC(parsedUrl, ec) {
       result.mime     = 'HTML';
 
       result.title_id = exploreTitle(param.t);
-      result.pii      = param.p;
+      result.db_id    = param.p;
     }
 
   } else if ((match = /^\/explore\/(browse-pub|issue-browse)$/i.exec(path)) !== null) {
@@ -150,7 +150,7 @@ module.exports = new Parser(function analyseEC(parsedUrl, ec) {
 
       result.unitid   = unitid;
       result.title_id = exploreTitle(param.t);
-      result.pii      = param.p;
+      result.db_id    = param.p;
     }
 
   }
