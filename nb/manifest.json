@@ -4,10 +4,10 @@
   "describe": "Recognizes the accesses to the platform Newsbank",
   "contact": "kovchegv@oclc.org",
   "pkb": false,
-  "docurl": "https://infoweb.newsbank.com",
+  "docurl": "http://analyses.ezpaarse.org/platforms/64d3d577b37df9da42c5998c",
   "domains": [
     "infoweb.newsbank.com"
   ],
-  "version": "2026-03-10",
+  "version": "2026-11-20",
   "status": "beta"
 }

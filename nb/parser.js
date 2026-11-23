@@ -106,7 +106,63 @@ module.exports = new Parser(function analyseEC(parsedUrl, ec) {
     result.title_id = param.t.split('!')[1];
     result.pii      = param.p;
 
+  } else if ((match = /^\/explore\/document$/i.exec(path)) !== null) {
+    // Explore interface (2026)
+    // /explore/document?p=AWNB&t=pubname%3ADLOB%21Oklahoman%252C%2BThe%2B%28Oklahoma%2BCity%252C%2BOK%29%2Fyear%3A2026%212026%2Fmody%3A1117%21November%2B17%252C%2B2026&action=browse&docref=news%2F1ABF1E578F9B8778&format=text
+    // /explore/document?p=WORLDNEWS&t=pubname%3AOOK9-EEDT%21Oklahoman%252C%2BThe%2B%28Oklahoma%2BCity%252C%2BOK%29%2Fyear%3A2026%212026%2Fmody%3A1117%21November%2B17%252C%2B2026&action=browse&docref=image%2Fv2%3A17AA045809B8AD90%40AWNB-1ABEC877AA53ECCF%402461362-1ABEE6F044AFDA0D%400&format=image
+    // /explore/document?p=AWNB&t=state%3AOK%21Oklahoma+News+Sources&sort=YMD_date%3AD&val-base-0=Oklahoman&fld-base-0=alltext&currentHitNumber=1&docref=image%2Fv2%3A17AA045809B8AD90%40AWNB-1ABEC877AA53ECCF%402461362-1ABEDF0649E7F2D6%4015-1ABEDF0649E7F2D6%40&hide_duplicates=2&intent=0&maxresults=60
+
+    // Requests carrying _rsc are Next.js client fetches of a page already requested: not counted
+    if (param.docref && !param._rsc) {
+      result.rtype    = 'ARTICLE';
+      result.mime     = 'HTML';
+
+      result.unitid   = param.docref.split('/')[1];
+      result.title_id = exploreTitle(param.t);
+      result.db_id    = param.p;
+    }
+
+  } else if ((match = /^\/explore\/results$/i.exec(path)) !== null) {
+    // /explore/results?p=AWNB&t=state%3AOK%21Oklahoma+News+Sources&sort=YMD_date%3AD&val-base-0=Oklahoman&fld-base-0=alltext&hide_duplicates=2&intent=0&maxresults=60
+    // /explore/results?p=WORLDNEWS&t=favorite%3AOWEAODLO%21The+Oklahoman+Collection+1901+to+Current&sort=YMD_date%3AD&val-base-0=%22James+G.+Robedeaux%22&fld-base-0=alltext&hide_duplicates=2&intent=0&maxresults=60
+    if (!param._rsc) {
+      result.rtype    = 'SEARCH';
+      result.mime     = 'HTML';
+
+      result.title_id = exploreTitle(param.t);
+      result.db_id    = param.p;
+    }
+
+  } else if ((match = /^\/explore\/(browse-pub|issue-browse)$/i.exec(path)) !== null) {
+    // /explore/browse-pub?p=AWNB&t=pubname%3ATWOK-EEDT%21Tulsa%2BWorld%2B%28OK%29&action=browse
+    // /explore/browse-pub?p=AWNB&t=pubname%3AOOK9-EEDT%21Oklahoman%252C%2BThe%2B%28Oklahoma%2BCity%252C%2BOK%29&action=browse&year=2026
+    // /explore/issue-browse?p=AWNB&t=pubname%3ADLOB%21Oklahoman%252C%2BThe%2B%28Oklahoma%2BCity%252C%2BOK%29%2Fyear%3A2026%212026%2Fmody%3A1117%21November%2B17%252C%2B2026&action=browse&format=text
+    // /explore/issue-browse?p=AWNB&t=pubname%3ABTB2B%21Bethany%2BTribune%2B%28OK%29%2Fyear%3A2026%212026%2Fmody%3A1113%21November%2B13%252C%2B2026&action=browse&format=text
+    if (!param._rsc && param.t) {
+      result.rtype    = 'TOC';
+      result.mime     = 'HTML';
+
+      // unitid = t without pubname prefix (plus year), same as the Readex publication-browse rule
+      let unitid = param.t.replace(/^pubname:/i, '');
+      if (param.year) {
+        unitid += '&year=' + param.year;
+      }
+
+      result.unitid   = unitid;
+      result.title_id = exploreTitle(param.t);
+      result.db_id    = param.p;
+    }
+
   }
 
   return result;
 });
+
+/**
+* Explore interface: t is "<type>:<code>!<title>[/year:...!.../mody:...!...]"
+* Returns the title part only
+*/
+function exploreTitle(t) {
+  if (!t || t.indexOf('!') === -1) { return undefined; }
+  return t.split('!')[1].split('/')[0].trim();
+}
