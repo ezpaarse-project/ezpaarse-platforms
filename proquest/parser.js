@@ -88,6 +88,13 @@ module.exports = new Parser(function analyseEC(parsedUrl, ec) {
     result.title_id = match[1];
     result.unitid   = match[2];
 
+  } else if ((match = /^(?:\/(\w+))?\/publication\/(\d+)\/citation\//i.exec(path)) !== null) {
+    // /publication/60975/citation/462EC3B548F14462PQ/2?accountid=151721
+    result.rtype    = 'RECORD_VIEW';
+    result.mime     = 'HTML';
+    result.title_id = match[1];
+    result.unitid   = match[2];
+
   } else if ((match = /^(?:\/(\w+))?\/results\//i.exec(path)) !== null) {
     // /pqdtglobal/results/1B24F6A480174E80PQ/1'
     // /results/5CE81019F33B4E76PQ/1
